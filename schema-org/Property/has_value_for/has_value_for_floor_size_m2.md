@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_floor_size_m2](/_Standards/schema-org/Property/has_value_for/has_value_for_floor_size_m2.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_floor_size_m2|has_value_for_floor_size_m2]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.public](/_public/schema-org/Property/has_value_for/has_value_for_floor_size_m2.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_floor_size_m2.public|has_value_for_floor_size_m2.public]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.internal](/_internal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.internal|has_value_for_floor_size_m2.internal]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.protect](/_protect/schema-org/Property/has_value_for/has_value_for_floor_size_m2.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_floor_size_m2.protect|has_value_for_floor_size_m2.protect]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.private](/_private/schema-org/Property/has_value_for/has_value_for_floor_size_m2.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_floor_size_m2.private|has_value_for_floor_size_m2.private]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.personal](/_personal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_floor_size_m2.personal|has_value_for_floor_size_m2.personal]] 
 
-### #is_/same_as :: [has_value_for_floor_size_m2.secret](/_secret/schema-org/Property/has_value_for/has_value_for_floor_size_m2.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_floor_size_m2.secret|has_value_for_floor_size_m2.secret]] 
 

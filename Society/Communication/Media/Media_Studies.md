@@ -40,17 +40,17 @@ Commons_category: Media studies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Studies](/_Standards/Society/Communication/Media/Media_Studies.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Studies|Media_Studies]] 
 
-### #is_/same_as :: [Media_Studies.public](/_public/Society/Communication/Media/Media_Studies.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Studies.public|Media_Studies.public]] 
 
-### #is_/same_as :: [Media_Studies.internal](/_internal/Society/Communication/Media/Media_Studies.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Studies.internal|Media_Studies.internal]] 
 
-### #is_/same_as :: [Media_Studies.protect](/_protect/Society/Communication/Media/Media_Studies.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Studies.protect|Media_Studies.protect]] 
 
-### #is_/same_as :: [Media_Studies.private](/_private/Society/Communication/Media/Media_Studies.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Studies.private|Media_Studies.private]] 
 
-### #is_/same_as :: [Media_Studies.personal](/_personal/Society/Communication/Media/Media_Studies.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Studies.personal|Media_Studies.personal]] 
 
-### #is_/same_as :: [Media_Studies.secret](/_secret/Society/Communication/Media/Media_Studies.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Studies.secret|Media_Studies.secret]] 
 

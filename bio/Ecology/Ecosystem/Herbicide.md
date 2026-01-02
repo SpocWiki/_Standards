@@ -49,17 +49,17 @@ Commons_category: Herbicides
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herbicide](/_Standards/bio/Ecology/Ecosystem/Herbicide.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Herbicide|Herbicide]] 
 
-### #is_/same_as :: [Herbicide.public](/_public/bio/Ecology/Ecosystem/Herbicide.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Herbicide.public|Herbicide.public]] 
 
-### #is_/same_as :: [Herbicide.internal](/_internal/bio/Ecology/Ecosystem/Herbicide.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Herbicide.internal|Herbicide.internal]] 
 
-### #is_/same_as :: [Herbicide.protect](/_protect/bio/Ecology/Ecosystem/Herbicide.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Herbicide.protect|Herbicide.protect]] 
 
-### #is_/same_as :: [Herbicide.private](/_private/bio/Ecology/Ecosystem/Herbicide.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Herbicide.private|Herbicide.private]] 
 
-### #is_/same_as :: [Herbicide.personal](/_personal/bio/Ecology/Ecosystem/Herbicide.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Herbicide.personal|Herbicide.personal]] 
 
-### #is_/same_as :: [Herbicide.secret](/_secret/bio/Ecology/Ecosystem/Herbicide.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Herbicide.secret|Herbicide.secret]] 
 

@@ -50,17 +50,17 @@ U_S_National_Archives_Identifier: 10636986
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fossil_Fuel](/_Standards/Chemistry/Material/Fuel/Fossil_Fuel.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel|Fossil_Fuel]] 
 
-### #is_/same_as :: [Fossil_Fuel.public](/_public/Chemistry/Material/Fuel/Fossil_Fuel.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel.public|Fossil_Fuel.public]] 
 
-### #is_/same_as :: [Fossil_Fuel.internal](/_internal/Chemistry/Material/Fuel/Fossil_Fuel.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel.internal|Fossil_Fuel.internal]] 
 
-### #is_/same_as :: [Fossil_Fuel.protect](/_protect/Chemistry/Material/Fuel/Fossil_Fuel.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel.protect|Fossil_Fuel.protect]] 
 
-### #is_/same_as :: [Fossil_Fuel.private](/_private/Chemistry/Material/Fuel/Fossil_Fuel.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel.private|Fossil_Fuel.private]] 
 
-### #is_/same_as :: [Fossil_Fuel.personal](/_personal/Chemistry/Material/Fuel/Fossil_Fuel.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel.personal|Fossil_Fuel.personal]] 
 
-### #is_/same_as :: [Fossil_Fuel.secret](/_secret/Chemistry/Material/Fuel/Fossil_Fuel.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel.secret|Fossil_Fuel.secret]] 
 

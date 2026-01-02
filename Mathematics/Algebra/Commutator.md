@@ -269,17 +269,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutator](/_Standards/Mathematics/Algebra/Commutator.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Commutator|Commutator]] 
 
-### #is_/same_as :: [Commutator.public](/_public/Mathematics/Algebra/Commutator.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Commutator.public|Commutator.public]] 
 
-### #is_/same_as :: [Commutator.internal](/_internal/Mathematics/Algebra/Commutator.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Commutator.internal|Commutator.internal]] 
 
-### #is_/same_as :: [Commutator.protect](/_protect/Mathematics/Algebra/Commutator.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Commutator.protect|Commutator.protect]] 
 
-### #is_/same_as :: [Commutator.private](/_private/Mathematics/Algebra/Commutator.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Commutator.private|Commutator.private]] 
 
-### #is_/same_as :: [Commutator.personal](/_personal/Mathematics/Algebra/Commutator.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Commutator.personal|Commutator.personal]] 
 
-### #is_/same_as :: [Commutator.secret](/_secret/Mathematics/Algebra/Commutator.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Commutator.secret|Commutator.secret]] 
 

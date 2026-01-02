@@ -64,17 +64,17 @@ IEV_number: 121-11-49
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetic_Moment](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment|Magnetic_Moment]] 
 
-### #is_/same_as :: [Magnetic_Moment.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.public|Magnetic_Moment.public]] 
 
-### #is_/same_as :: [Magnetic_Moment.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.internal|Magnetic_Moment.internal]] 
 
-### #is_/same_as :: [Magnetic_Moment.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.protect|Magnetic_Moment.protect]] 
 
-### #is_/same_as :: [Magnetic_Moment.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.private|Magnetic_Moment.private]] 
 
-### #is_/same_as :: [Magnetic_Moment.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.personal|Magnetic_Moment.personal]] 
 
-### #is_/same_as :: [Magnetic_Moment.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field/Magnetic_Moment.secret|Magnetic_Moment.secret]] 
 

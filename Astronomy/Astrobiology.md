@@ -63,17 +63,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/ASTROBIOLOGIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrobiology](/_Standards/Astronomy/Astrobiology.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrobiology|Astrobiology]] 
 
-### #is_/same_as :: [Astrobiology.public](/_public/Astronomy/Astrobiology.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrobiology.public|Astrobiology.public]] 
 
-### #is_/same_as :: [Astrobiology.internal](/_internal/Astronomy/Astrobiology.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrobiology.internal|Astrobiology.internal]] 
 
-### #is_/same_as :: [Astrobiology.protect](/_protect/Astronomy/Astrobiology.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrobiology.protect|Astrobiology.protect]] 
 
-### #is_/same_as :: [Astrobiology.private](/_private/Astronomy/Astrobiology.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrobiology.private|Astrobiology.private]] 
 
-### #is_/same_as :: [Astrobiology.personal](/_personal/Astronomy/Astrobiology.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrobiology.personal|Astrobiology.personal]] 
 
-### #is_/same_as :: [Astrobiology.secret](/_secret/Astronomy/Astrobiology.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrobiology.secret|Astrobiology.secret]] 
 

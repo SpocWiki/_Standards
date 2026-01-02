@@ -52,17 +52,17 @@ Commons_category: Humidity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humidity](/_Standards/Earth/Climate/Atmosphere,Earth/Humidity.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Humidity|Humidity]] 
 
-### #is_/same_as :: [Humidity.public](/_public/Earth/Climate/Atmosphere,Earth/Humidity.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Humidity.public|Humidity.public]] 
 
-### #is_/same_as :: [Humidity.internal](/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal|Humidity.internal]] 
 
-### #is_/same_as :: [Humidity.protect](/_protect/Earth/Climate/Atmosphere,Earth/Humidity.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Humidity.protect|Humidity.protect]] 
 
-### #is_/same_as :: [Humidity.private](/_private/Earth/Climate/Atmosphere,Earth/Humidity.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Humidity.private|Humidity.private]] 
 
-### #is_/same_as :: [Humidity.personal](/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal|Humidity.personal]] 
 
-### #is_/same_as :: [Humidity.secret](/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret|Humidity.secret]] 
 

@@ -102,17 +102,17 @@ Colon_Classification: Q:32
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angel](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel|Angel]] 
 
-### #is_/same_as :: [Angel.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.public|Angel.public]] 
 
-### #is_/same_as :: [Angel.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.internal|Angel.internal]] 
 
-### #is_/same_as :: [Angel.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.protect|Angel.protect]] 
 
-### #is_/same_as :: [Angel.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.private|Angel.private]] 
 
-### #is_/same_as :: [Angel.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.personal|Angel.personal]] 
 
-### #is_/same_as :: [Angel.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Angel.secret|Angel.secret]] 
 

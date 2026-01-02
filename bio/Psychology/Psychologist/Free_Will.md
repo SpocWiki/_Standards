@@ -58,17 +58,17 @@ The corresponding Experiment was a traffic-light simulation that allowed partici
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Will](/_Standards/bio/Psychology/Psychologist/Free_Will.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Free_Will|Free_Will]] 
 
-### #is_/same_as :: [Free_Will.public](/_public/bio/Psychology/Psychologist/Free_Will.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Free_Will.public|Free_Will.public]] 
 
-### #is_/same_as :: [Free_Will.internal](/_internal/bio/Psychology/Psychologist/Free_Will.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Free_Will.internal|Free_Will.internal]] 
 
-### #is_/same_as :: [Free_Will.protect](/_protect/bio/Psychology/Psychologist/Free_Will.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Free_Will.protect|Free_Will.protect]] 
 
-### #is_/same_as :: [Free_Will.private](/_private/bio/Psychology/Psychologist/Free_Will.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Free_Will.private|Free_Will.private]] 
 
-### #is_/same_as :: [Free_Will.personal](/_personal/bio/Psychology/Psychologist/Free_Will.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Free_Will.personal|Free_Will.personal]] 
 
-### #is_/same_as :: [Free_Will.secret](/_secret/bio/Psychology/Psychologist/Free_Will.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Free_Will.secret|Free_Will.secret]] 
 

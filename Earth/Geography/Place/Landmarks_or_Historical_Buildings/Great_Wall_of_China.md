@@ -94,17 +94,17 @@ width: 4.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Wall_of_China](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China|Great_Wall_of_China]] 
 
-### #is_/same_as :: [Great_Wall_of_China.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.public|Great_Wall_of_China.public]] 
 
-### #is_/same_as :: [Great_Wall_of_China.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.internal|Great_Wall_of_China.internal]] 
 
-### #is_/same_as :: [Great_Wall_of_China.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.protect|Great_Wall_of_China.protect]] 
 
-### #is_/same_as :: [Great_Wall_of_China.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.private|Great_Wall_of_China.private]] 
 
-### #is_/same_as :: [Great_Wall_of_China.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.personal|Great_Wall_of_China.personal]] 
 
-### #is_/same_as :: [Great_Wall_of_China.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Great_Wall_of_China.secret|Great_Wall_of_China.secret]] 
 

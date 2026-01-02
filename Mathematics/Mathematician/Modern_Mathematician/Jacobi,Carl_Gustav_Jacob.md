@@ -152,17 +152,17 @@ P8189: 987007272029105171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob|Jacobi,Carl_Gustav_Jacob]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.public|Jacobi,Carl_Gustav_Jacob.public]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.internal|Jacobi,Carl_Gustav_Jacob.internal]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.protect|Jacobi,Carl_Gustav_Jacob.protect]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.private|Jacobi,Carl_Gustav_Jacob.private]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.personal|Jacobi,Carl_Gustav_Jacob.personal]] 
 
-### #is_/same_as :: [Jacobi,Carl_Gustav_Jacob.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Jacobi,Carl_Gustav_Jacob.secret|Jacobi,Carl_Gustav_Jacob.secret]] 
 

@@ -106,17 +106,17 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Dvdzee&amp;action=edi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza|Great_Pyramid_of_Giza]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.public|Great_Pyramid_of_Giza.public]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.internal|Great_Pyramid_of_Giza.internal]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.protect|Great_Pyramid_of_Giza.protect]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.private|Great_Pyramid_of_Giza.private]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.personal|Great_Pyramid_of_Giza.personal]] 
 
-### #is_/same_as :: [Great_Pyramid_of_Giza.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Great_Pyramid_of_Giza.secret|Great_Pyramid_of_Giza.secret]] 
 

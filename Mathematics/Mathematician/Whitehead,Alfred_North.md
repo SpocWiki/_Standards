@@ -136,17 +136,17 @@ Krugosvet_article: gumanitarnye_nauki/filosofiya/UATHED_ALFRED_NORT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whitehead,Alfred_North](/_Standards/Mathematics/Mathematician/Whitehead,Alfred_North.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Whitehead,Alfred_North|Whitehead,Alfred_North]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.public](/_public/Mathematics/Mathematician/Whitehead,Alfred_North.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Whitehead,Alfred_North.public|Whitehead,Alfred_North.public]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.internal](/_internal/Mathematics/Mathematician/Whitehead,Alfred_North.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Whitehead,Alfred_North.internal|Whitehead,Alfred_North.internal]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.protect](/_protect/Mathematics/Mathematician/Whitehead,Alfred_North.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Whitehead,Alfred_North.protect|Whitehead,Alfred_North.protect]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.private](/_private/Mathematics/Mathematician/Whitehead,Alfred_North.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Whitehead,Alfred_North.private|Whitehead,Alfred_North.private]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.personal](/_personal/Mathematics/Mathematician/Whitehead,Alfred_North.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Whitehead,Alfred_North.personal|Whitehead,Alfred_North.personal]] 
 
-### #is_/same_as :: [Whitehead,Alfred_North.secret](/_secret/Mathematics/Mathematician/Whitehead,Alfred_North.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Whitehead,Alfred_North.secret|Whitehead,Alfred_North.secret]] 
 

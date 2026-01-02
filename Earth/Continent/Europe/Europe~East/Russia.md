@@ -1171,17 +1171,17 @@ Capital :: [Moscow,City](Russia/Russia~Central/Moscow_Oblast/City/Moscow,City.md
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russia](/_Standards/Earth/Continent/Europe/Europe~East/Russia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Russia|Russia]] 
 
-### #is_/same_as :: [Russia.public](/_public/Earth/Continent/Europe/Europe~East/Russia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Russia.public|Russia.public]] 
 
-### #is_/same_as :: [Russia.internal](/_internal/Earth/Continent/Europe/Europe~East/Russia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Russia.internal|Russia.internal]] 
 
-### #is_/same_as :: [Russia.protect](/_protect/Earth/Continent/Europe/Europe~East/Russia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Russia.protect|Russia.protect]] 
 
-### #is_/same_as :: [Russia.private](/_private/Earth/Continent/Europe/Europe~East/Russia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Russia.private|Russia.private]] 
 
-### #is_/same_as :: [Russia.personal](/_personal/Earth/Continent/Europe/Europe~East/Russia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Russia.personal|Russia.personal]] 
 
-### #is_/same_as :: [Russia.secret](/_secret/Earth/Continent/Europe/Europe~East/Russia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Russia.secret|Russia.secret]] 
 

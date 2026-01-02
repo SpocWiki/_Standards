@@ -332,17 +332,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literature_Nobel_Prize](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize|Literature_Nobel_Prize]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.public|Literature_Nobel_Prize.public]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.internal|Literature_Nobel_Prize.internal]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.protect|Literature_Nobel_Prize.protect]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.private|Literature_Nobel_Prize.private]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.personal|Literature_Nobel_Prize.personal]] 
 
-### #is_/same_as :: [Literature_Nobel_Prize.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Literature_Nobel_Prize.secret|Literature_Nobel_Prize.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_hosting_organization](/_Standards/schema-org/Relation/has/has_hosting_organization.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_hosting_organization|has_hosting_organization]] 
 
-### #is_/same_as :: [has_hosting_organization.public](/_public/schema-org/Relation/has/has_hosting_organization.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_hosting_organization.public|has_hosting_organization.public]] 
 
-### #is_/same_as :: [has_hosting_organization.internal](/_internal/schema-org/Relation/has/has_hosting_organization.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_hosting_organization.internal|has_hosting_organization.internal]] 
 
-### #is_/same_as :: [has_hosting_organization.protect](/_protect/schema-org/Relation/has/has_hosting_organization.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_hosting_organization.protect|has_hosting_organization.protect]] 
 
-### #is_/same_as :: [has_hosting_organization.private](/_private/schema-org/Relation/has/has_hosting_organization.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_hosting_organization.private|has_hosting_organization.private]] 
 
-### #is_/same_as :: [has_hosting_organization.personal](/_personal/schema-org/Relation/has/has_hosting_organization.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_hosting_organization.personal|has_hosting_organization.personal]] 
 
-### #is_/same_as :: [has_hosting_organization.secret](/_secret/schema-org/Relation/has/has_hosting_organization.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_hosting_organization.secret|has_hosting_organization.secret]] 
 

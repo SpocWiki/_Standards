@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_logo](/_Standards/schema-org/Relation/has/has_logo.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_logo|has_logo]] 
 
-### #is_/same_as :: [has_logo.public](/_public/schema-org/Relation/has/has_logo.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_logo.public|has_logo.public]] 
 
-### #is_/same_as :: [has_logo.internal](/_internal/schema-org/Relation/has/has_logo.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_logo.internal|has_logo.internal]] 
 
-### #is_/same_as :: [has_logo.protect](/_protect/schema-org/Relation/has/has_logo.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_logo.protect|has_logo.protect]] 
 
-### #is_/same_as :: [has_logo.private](/_private/schema-org/Relation/has/has_logo.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_logo.private|has_logo.private]] 
 
-### #is_/same_as :: [has_logo.personal](/_personal/schema-org/Relation/has/has_logo.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_logo.personal|has_logo.personal]] 
 
-### #is_/same_as :: [has_logo.secret](/_secret/schema-org/Relation/has/has_logo.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_logo.secret|has_logo.secret]] 
 

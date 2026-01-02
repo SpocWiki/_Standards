@@ -37,17 +37,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trump,Donald](/_Standards/Earth/Continent/America~North/US~President/Trump,Donald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Trump,Donald|Trump,Donald]] 
 
-### #is_/same_as :: [Trump,Donald.public](/_public/Earth/Continent/America~North/US~President/Trump,Donald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Trump,Donald.public|Trump,Donald.public]] 
 
-### #is_/same_as :: [Trump,Donald.internal](/_internal/Earth/Continent/America~North/US~President/Trump,Donald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Trump,Donald.internal|Trump,Donald.internal]] 
 
-### #is_/same_as :: [Trump,Donald.protect](/_protect/Earth/Continent/America~North/US~President/Trump,Donald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Trump,Donald.protect|Trump,Donald.protect]] 
 
-### #is_/same_as :: [Trump,Donald.private](/_private/Earth/Continent/America~North/US~President/Trump,Donald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Trump,Donald.private|Trump,Donald.private]] 
 
-### #is_/same_as :: [Trump,Donald.personal](/_personal/Earth/Continent/America~North/US~President/Trump,Donald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Trump,Donald.personal|Trump,Donald.personal]] 
 
-### #is_/same_as :: [Trump,Donald.secret](/_secret/Earth/Continent/America~North/US~President/Trump,Donald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Trump,Donald.secret|Trump,Donald.secret]] 
 

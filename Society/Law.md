@@ -122,17 +122,17 @@ Law raises important and complex issues concerning equality, fairness, and justi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Law](/_Standards/Society/Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law|Law]] 
 
-### #is_/same_as :: [Law.public](/_public/Society/Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law.public|Law.public]] 
 
-### #is_/same_as :: [Law.internal](/_internal/Society/Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law.internal|Law.internal]] 
 
-### #is_/same_as :: [Law.protect](/_protect/Society/Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law.protect|Law.protect]] 
 
-### #is_/same_as :: [Law.private](/_private/Society/Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law.private|Law.private]] 
 
-### #is_/same_as :: [Law.personal](/_personal/Society/Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law.personal|Law.personal]] 
 
-### #is_/same_as :: [Law.secret](/_secret/Society/Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law.secret|Law.secret]] 
 

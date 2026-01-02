@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_message_attachment](/_Standards/schema-org/Relation/has/has_message_attachment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_message_attachment|has_message_attachment]] 
 
-### #is_/same_as :: [has_message_attachment.public](/_public/schema-org/Relation/has/has_message_attachment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_message_attachment.public|has_message_attachment.public]] 
 
-### #is_/same_as :: [has_message_attachment.internal](/_internal/schema-org/Relation/has/has_message_attachment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_message_attachment.internal|has_message_attachment.internal]] 
 
-### #is_/same_as :: [has_message_attachment.protect](/_protect/schema-org/Relation/has/has_message_attachment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_message_attachment.protect|has_message_attachment.protect]] 
 
-### #is_/same_as :: [has_message_attachment.private](/_private/schema-org/Relation/has/has_message_attachment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_message_attachment.private|has_message_attachment.private]] 
 
-### #is_/same_as :: [has_message_attachment.personal](/_personal/schema-org/Relation/has/has_message_attachment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_message_attachment.personal|has_message_attachment.personal]] 
 
-### #is_/same_as :: [has_message_attachment.secret](/_secret/schema-org/Relation/has/has_message_attachment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_message_attachment.secret|has_message_attachment.secret]] 
 

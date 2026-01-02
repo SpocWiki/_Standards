@@ -41,17 +41,17 @@ A music venue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Venue](/_Standards/Earth/Geography/Place/Civic_Structure/Music_Venue.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Music_Venue|Music_Venue]] 
 
-### #is_/same_as :: [Music_Venue.public](/_public/Earth/Geography/Place/Civic_Structure/Music_Venue.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Music_Venue.public|Music_Venue.public]] 
 
-### #is_/same_as :: [Music_Venue.internal](/_internal/Earth/Geography/Place/Civic_Structure/Music_Venue.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Music_Venue.internal|Music_Venue.internal]] 
 
-### #is_/same_as :: [Music_Venue.protect](/_protect/Earth/Geography/Place/Civic_Structure/Music_Venue.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Music_Venue.protect|Music_Venue.protect]] 
 
-### #is_/same_as :: [Music_Venue.private](/_private/Earth/Geography/Place/Civic_Structure/Music_Venue.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Music_Venue.private|Music_Venue.private]] 
 
-### #is_/same_as :: [Music_Venue.personal](/_personal/Earth/Geography/Place/Civic_Structure/Music_Venue.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Music_Venue.personal|Music_Venue.personal]] 
 
-### #is_/same_as :: [Music_Venue.secret](/_secret/Earth/Geography/Place/Civic_Structure/Music_Venue.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Music_Venue.secret|Music_Venue.secret]] 
 

@@ -83,17 +83,17 @@ publication_date: 1938-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scrabble](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble|Scrabble]] 
 
-### #is_/same_as :: [Scrabble.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.public|Scrabble.public]] 
 
-### #is_/same_as :: [Scrabble.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.internal|Scrabble.internal]] 
 
-### #is_/same_as :: [Scrabble.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.protect|Scrabble.protect]] 
 
-### #is_/same_as :: [Scrabble.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.private|Scrabble.private]] 
 
-### #is_/same_as :: [Scrabble.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.personal|Scrabble.personal]] 
 
-### #is_/same_as :: [Scrabble.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game/Scrabble.secret|Scrabble.secret]] 
 

@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fail-fast-Culture](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture|Fail-fast-Culture]] 
 
-### #is_/same_as :: [Fail-fast-Culture.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.public|Fail-fast-Culture.public]] 
 
-### #is_/same_as :: [Fail-fast-Culture.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.internal|Fail-fast-Culture.internal]] 
 
-### #is_/same_as :: [Fail-fast-Culture.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.protect|Fail-fast-Culture.protect]] 
 
-### #is_/same_as :: [Fail-fast-Culture.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.private|Fail-fast-Culture.private]] 
 
-### #is_/same_as :: [Fail-fast-Culture.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.personal|Fail-fast-Culture.personal]] 
 
-### #is_/same_as :: [Fail-fast-Culture.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Culture.secret|Fail-fast-Culture.secret]] 
 

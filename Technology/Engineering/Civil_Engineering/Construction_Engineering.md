@@ -33,17 +33,17 @@ subclass_of: "[[_Standards/WikiData/WD~engineering,11023]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Construction_Engineering](/_Standards/Technology/Engineering/Civil_Engineering/Construction_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction_Engineering|Construction_Engineering]] 
 
-### #is_/same_as :: [Construction_Engineering.public](/_public/Technology/Engineering/Civil_Engineering/Construction_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction_Engineering.public|Construction_Engineering.public]] 
 
-### #is_/same_as :: [Construction_Engineering.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction_Engineering.internal|Construction_Engineering.internal]] 
 
-### #is_/same_as :: [Construction_Engineering.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction_Engineering.protect|Construction_Engineering.protect]] 
 
-### #is_/same_as :: [Construction_Engineering.private](/_private/Technology/Engineering/Civil_Engineering/Construction_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction_Engineering.private|Construction_Engineering.private]] 
 
-### #is_/same_as :: [Construction_Engineering.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction_Engineering.personal|Construction_Engineering.personal]] 
 
-### #is_/same_as :: [Construction_Engineering.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction_Engineering.secret|Construction_Engineering.secret]] 
 

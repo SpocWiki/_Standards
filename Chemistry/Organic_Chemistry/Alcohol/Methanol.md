@@ -175,17 +175,17 @@ SPLASH:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Methanol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Methanol|Methanol]] 
 
-### #is_/same_as :: [Methanol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Methanol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Methanol.public|Methanol.public]] 
 
-### #is_/same_as :: [Methanol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Methanol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Methanol.internal|Methanol.internal]] 
 
-### #is_/same_as :: [Methanol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Methanol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Methanol.protect|Methanol.protect]] 
 
-### #is_/same_as :: [Methanol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Methanol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Methanol.private|Methanol.private]] 
 
-### #is_/same_as :: [Methanol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Methanol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Methanol.personal|Methanol.personal]] 
 
-### #is_/same_as :: [Methanol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Methanol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Methanol.secret|Methanol.secret]] 
 

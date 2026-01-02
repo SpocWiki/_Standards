@@ -104,17 +104,17 @@ Wolfram_Language_entity_type: Forest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forest](/_Standards/Earth/Climate/Biosphere/Biomes/Forest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Forest|Forest]] 
 
-### #is_/same_as :: [Forest.public](/_public/Earth/Climate/Biosphere/Biomes/Forest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Forest.public|Forest.public]] 
 
-### #is_/same_as :: [Forest.internal](/_internal/Earth/Climate/Biosphere/Biomes/Forest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Forest.internal|Forest.internal]] 
 
-### #is_/same_as :: [Forest.protect](/_protect/Earth/Climate/Biosphere/Biomes/Forest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Forest.protect|Forest.protect]] 
 
-### #is_/same_as :: [Forest.private](/_private/Earth/Climate/Biosphere/Biomes/Forest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Forest.private|Forest.private]] 
 
-### #is_/same_as :: [Forest.personal](/_personal/Earth/Climate/Biosphere/Biomes/Forest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Forest.personal|Forest.personal]] 
 
-### #is_/same_as :: [Forest.secret](/_secret/Earth/Climate/Biosphere/Biomes/Forest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Forest.secret|Forest.secret]] 
 

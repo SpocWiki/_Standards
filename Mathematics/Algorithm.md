@@ -93,17 +93,17 @@ Commons_category: Algorithms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algorithm](/_Standards/Mathematics/Algorithm.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algorithm|Algorithm]] 
 
-### #is_/same_as :: [Algorithm.public](/_public/Mathematics/Algorithm.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algorithm.public|Algorithm.public]] 
 
-### #is_/same_as :: [Algorithm.internal](/_internal/Mathematics/Algorithm.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algorithm.internal|Algorithm.internal]] 
 
-### #is_/same_as :: [Algorithm.protect](/_protect/Mathematics/Algorithm.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algorithm.protect|Algorithm.protect]] 
 
-### #is_/same_as :: [Algorithm.private](/_private/Mathematics/Algorithm.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algorithm.private|Algorithm.private]] 
 
-### #is_/same_as :: [Algorithm.personal](/_personal/Mathematics/Algorithm.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algorithm.personal|Algorithm.personal]] 
 
-### #is_/same_as :: [Algorithm.secret](/_secret/Mathematics/Algorithm.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algorithm.secret|Algorithm.secret]] 
 

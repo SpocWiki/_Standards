@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_countries_supported](/_Standards/schema-org/Property/Texts/has_countries_supported.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_countries_supported|has_countries_supported]] 
 
-### #is_/same_as :: [has_countries_supported.public](/_public/schema-org/Property/Texts/has_countries_supported.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_countries_supported.public|has_countries_supported.public]] 
 
-### #is_/same_as :: [has_countries_supported.internal](/_internal/schema-org/Property/Texts/has_countries_supported.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_countries_supported.internal|has_countries_supported.internal]] 
 
-### #is_/same_as :: [has_countries_supported.protect](/_protect/schema-org/Property/Texts/has_countries_supported.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_countries_supported.protect|has_countries_supported.protect]] 
 
-### #is_/same_as :: [has_countries_supported.private](/_private/schema-org/Property/Texts/has_countries_supported.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_countries_supported.private|has_countries_supported.private]] 
 
-### #is_/same_as :: [has_countries_supported.personal](/_personal/schema-org/Property/Texts/has_countries_supported.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_countries_supported.personal|has_countries_supported.personal]] 
 
-### #is_/same_as :: [has_countries_supported.secret](/_secret/schema-org/Property/Texts/has_countries_supported.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_countries_supported.secret|has_countries_supported.secret]] 
 

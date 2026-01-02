@@ -44,17 +44,17 @@ CharitableIncorporatedOrganization: Non-profit type referring to a Charitable In
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization](/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization|Charitable_Incorporated_Organization]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.public](/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.public|Charitable_Incorporated_Organization.public]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.internal|Charitable_Incorporated_Organization.internal]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.protect|Charitable_Incorporated_Organization.protect]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.private](/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.private|Charitable_Incorporated_Organization.private]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.personal|Charitable_Incorporated_Organization.personal]] 
 
-### #is_/same_as :: [Charitable_Incorporated_Organization.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Charitable_Incorporated_Organization.secret|Charitable_Incorporated_Organization.secret]] 
 

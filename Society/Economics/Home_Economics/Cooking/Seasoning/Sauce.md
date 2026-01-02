@@ -55,17 +55,17 @@ Commons_category: Sauces
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sauce](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce|Sauce]] 
 
-### #is_/same_as :: [Sauce.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.public|Sauce.public]] 
 
-### #is_/same_as :: [Sauce.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.internal|Sauce.internal]] 
 
-### #is_/same_as :: [Sauce.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.protect|Sauce.protect]] 
 
-### #is_/same_as :: [Sauce.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.private|Sauce.private]] 
 
-### #is_/same_as :: [Sauce.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.personal|Sauce.personal]] 
 
-### #is_/same_as :: [Sauce.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Sauce.secret|Sauce.secret]] 
 

@@ -150,17 +150,17 @@ ISNI: 0000000121400378
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melanchthon,Philipp](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp|Melanchthon,Philipp]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.public|Melanchthon,Philipp.public]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.internal|Melanchthon,Philipp.internal]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.protect|Melanchthon,Philipp.protect]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.private|Melanchthon,Philipp.private]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.personal|Melanchthon,Philipp.personal]] 
 
-### #is_/same_as :: [Melanchthon,Philipp.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Melanchthon,Philipp.secret|Melanchthon,Philipp.secret]] 
 

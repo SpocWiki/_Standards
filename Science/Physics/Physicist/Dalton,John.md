@@ -110,17 +110,17 @@ date_of_birth: 1766-09-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dalton,John](/_Standards/Science/Physics/Physicist/Dalton,John.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Dalton,John|Dalton,John]] 
 
-### #is_/same_as :: [Dalton,John.public](/_public/Science/Physics/Physicist/Dalton,John.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Dalton,John.public|Dalton,John.public]] 
 
-### #is_/same_as :: [Dalton,John.internal](/_internal/Science/Physics/Physicist/Dalton,John.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Dalton,John.internal|Dalton,John.internal]] 
 
-### #is_/same_as :: [Dalton,John.protect](/_protect/Science/Physics/Physicist/Dalton,John.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Dalton,John.protect|Dalton,John.protect]] 
 
-### #is_/same_as :: [Dalton,John.private](/_private/Science/Physics/Physicist/Dalton,John.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Dalton,John.private|Dalton,John.private]] 
 
-### #is_/same_as :: [Dalton,John.personal](/_personal/Science/Physics/Physicist/Dalton,John.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Dalton,John.personal|Dalton,John.personal]] 
 
-### #is_/same_as :: [Dalton,John.secret](/_secret/Science/Physics/Physicist/Dalton,John.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Dalton,John.secret|Dalton,John.secret]] 
 

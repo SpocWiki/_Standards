@@ -58,17 +58,17 @@ hashtag: mentalhealth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mental_Health](/_Standards/bio/Psychology/Mental_Disorder/Mental_Health.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Mental_Health|Mental_Health]] 
 
-### #is_/same_as :: [Mental_Health.public](/_public/bio/Psychology/Mental_Disorder/Mental_Health.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Mental_Health.public|Mental_Health.public]] 
 
-### #is_/same_as :: [Mental_Health.internal](/_internal/bio/Psychology/Mental_Disorder/Mental_Health.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Mental_Health.internal|Mental_Health.internal]] 
 
-### #is_/same_as :: [Mental_Health.protect](/_protect/bio/Psychology/Mental_Disorder/Mental_Health.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Mental_Health.protect|Mental_Health.protect]] 
 
-### #is_/same_as :: [Mental_Health.private](/_private/bio/Psychology/Mental_Disorder/Mental_Health.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Mental_Health.private|Mental_Health.private]] 
 
-### #is_/same_as :: [Mental_Health.personal](/_personal/bio/Psychology/Mental_Disorder/Mental_Health.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Mental_Health.personal|Mental_Health.personal]] 
 
-### #is_/same_as :: [Mental_Health.secret](/_secret/bio/Psychology/Mental_Disorder/Mental_Health.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Mental_Health.secret|Mental_Health.secret]] 
 

@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monroe,James](/_Standards/Earth/Continent/America~North/US~President/Monroe,James.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Monroe,James|Monroe,James]] 
 
-### #is_/same_as :: [Monroe,James.public](/_public/Earth/Continent/America~North/US~President/Monroe,James.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Monroe,James.public|Monroe,James.public]] 
 
-### #is_/same_as :: [Monroe,James.internal](/_internal/Earth/Continent/America~North/US~President/Monroe,James.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Monroe,James.internal|Monroe,James.internal]] 
 
-### #is_/same_as :: [Monroe,James.protect](/_protect/Earth/Continent/America~North/US~President/Monroe,James.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Monroe,James.protect|Monroe,James.protect]] 
 
-### #is_/same_as :: [Monroe,James.private](/_private/Earth/Continent/America~North/US~President/Monroe,James.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Monroe,James.private|Monroe,James.private]] 
 
-### #is_/same_as :: [Monroe,James.personal](/_personal/Earth/Continent/America~North/US~President/Monroe,James.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Monroe,James.personal|Monroe,James.personal]] 
 
-### #is_/same_as :: [Monroe,James.secret](/_secret/Earth/Continent/America~North/US~President/Monroe,James.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Monroe,James.secret|Monroe,James.secret]] 
 

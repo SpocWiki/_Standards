@@ -69,17 +69,17 @@ U_S_National_Archives_Identifier: 10662758
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Village](/_Standards/Earth/Geography/Village.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Village|Village]] 
 
-### #is_/same_as :: [Village.public](/_public/Earth/Geography/Village.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Village.public|Village.public]] 
 
-### #is_/same_as :: [Village.internal](/_internal/Earth/Geography/Village.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Village.internal|Village.internal]] 
 
-### #is_/same_as :: [Village.protect](/_protect/Earth/Geography/Village.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Village.protect|Village.protect]] 
 
-### #is_/same_as :: [Village.private](/_private/Earth/Geography/Village.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Village.private|Village.private]] 
 
-### #is_/same_as :: [Village.personal](/_personal/Earth/Geography/Village.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Village.personal|Village.personal]] 
 
-### #is_/same_as :: [Village.secret](/_secret/Earth/Geography/Village.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Village.secret|Village.secret]] 
 

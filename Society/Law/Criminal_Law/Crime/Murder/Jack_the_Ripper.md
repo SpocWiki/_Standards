@@ -70,17 +70,17 @@ given_name: http://www.wikidata.org/.well-known/genid/2303255764bb538563772e915f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jack_the_Ripper](/_Standards/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper|Jack_the_Ripper]] 
 
-### #is_/same_as :: [Jack_the_Ripper.public](/_public/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.public|Jack_the_Ripper.public]] 
 
-### #is_/same_as :: [Jack_the_Ripper.internal](/_internal/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.internal|Jack_the_Ripper.internal]] 
 
-### #is_/same_as :: [Jack_the_Ripper.protect](/_protect/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.protect|Jack_the_Ripper.protect]] 
 
-### #is_/same_as :: [Jack_the_Ripper.private](/_private/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.private|Jack_the_Ripper.private]] 
 
-### #is_/same_as :: [Jack_the_Ripper.personal](/_personal/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.personal|Jack_the_Ripper.personal]] 
 
-### #is_/same_as :: [Jack_the_Ripper.secret](/_secret/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Murder/Jack_the_Ripper.secret|Jack_the_Ripper.secret]] 
 

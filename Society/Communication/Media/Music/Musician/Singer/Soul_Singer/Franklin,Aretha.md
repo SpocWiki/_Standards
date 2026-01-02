@@ -220,17 +220,17 @@ date_of_death: 2018-08-16T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franklin,Aretha](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha|Franklin,Aretha]] 
 
-### #is_/same_as :: [Franklin,Aretha.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.public|Franklin,Aretha.public]] 
 
-### #is_/same_as :: [Franklin,Aretha.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.internal|Franklin,Aretha.internal]] 
 
-### #is_/same_as :: [Franklin,Aretha.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.protect|Franklin,Aretha.protect]] 
 
-### #is_/same_as :: [Franklin,Aretha.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.private|Franklin,Aretha.private]] 
 
-### #is_/same_as :: [Franklin,Aretha.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.personal|Franklin,Aretha.personal]] 
 
-### #is_/same_as :: [Franklin,Aretha.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Franklin,Aretha.secret|Franklin,Aretha.secret]] 
 

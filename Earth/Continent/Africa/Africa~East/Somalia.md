@@ -448,17 +448,17 @@ Capital :: [Mogadishu](Somalia/Regions~Somalia/Banaadir/counties~Banaadir/Mogadi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somalia](/_Standards/Earth/Continent/Africa/Africa~East/Somalia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Somalia|Somalia]] 
 
-### #is_/same_as :: [Somalia.public](/_public/Earth/Continent/Africa/Africa~East/Somalia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Somalia.public|Somalia.public]] 
 
-### #is_/same_as :: [Somalia.internal](/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Somalia.internal|Somalia.internal]] 
 
-### #is_/same_as :: [Somalia.protect](/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Somalia.protect|Somalia.protect]] 
 
-### #is_/same_as :: [Somalia.private](/_private/Earth/Continent/Africa/Africa~East/Somalia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Somalia.private|Somalia.private]] 
 
-### #is_/same_as :: [Somalia.personal](/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Somalia.personal|Somalia.personal]] 
 
-### #is_/same_as :: [Somalia.secret](/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Somalia.secret|Somalia.secret]] 
 

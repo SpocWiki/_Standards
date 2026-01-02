@@ -57,3 +57,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Standard%20temperature%20and%20pressure) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Laboratory/Standard_Temperature_and_Pressure|Standard_Temperature_and_Pressure]] 
+
+### #is_/same_as :: [[/_public/Science/Laboratory/Standard_Temperature_and_Pressure.public|Standard_Temperature_and_Pressure.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Laboratory/Standard_Temperature_and_Pressure.internal|Standard_Temperature_and_Pressure.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Laboratory/Standard_Temperature_and_Pressure.protect|Standard_Temperature_and_Pressure.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Laboratory/Standard_Temperature_and_Pressure.private|Standard_Temperature_and_Pressure.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Laboratory/Standard_Temperature_and_Pressure.personal|Standard_Temperature_and_Pressure.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Laboratory/Standard_Temperature_and_Pressure.secret|Standard_Temperature_and_Pressure.secret]] 
+

@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_accepting_new_patients](/_Standards/schema-org/Property/Flags/is_accepting_new_patients.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_accepting_new_patients|is_accepting_new_patients]] 
 
-### #is_/same_as :: [is_accepting_new_patients.public](/_public/schema-org/Property/Flags/is_accepting_new_patients.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_accepting_new_patients.public|is_accepting_new_patients.public]] 
 
-### #is_/same_as :: [is_accepting_new_patients.internal](/_internal/schema-org/Property/Flags/is_accepting_new_patients.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_accepting_new_patients.internal|is_accepting_new_patients.internal]] 
 
-### #is_/same_as :: [is_accepting_new_patients.protect](/_protect/schema-org/Property/Flags/is_accepting_new_patients.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_accepting_new_patients.protect|is_accepting_new_patients.protect]] 
 
-### #is_/same_as :: [is_accepting_new_patients.private](/_private/schema-org/Property/Flags/is_accepting_new_patients.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_accepting_new_patients.private|is_accepting_new_patients.private]] 
 
-### #is_/same_as :: [is_accepting_new_patients.personal](/_personal/schema-org/Property/Flags/is_accepting_new_patients.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_accepting_new_patients.personal|is_accepting_new_patients.personal]] 
 
-### #is_/same_as :: [is_accepting_new_patients.secret](/_secret/schema-org/Property/Flags/is_accepting_new_patients.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_accepting_new_patients.secret|is_accepting_new_patients.secret]] 
 

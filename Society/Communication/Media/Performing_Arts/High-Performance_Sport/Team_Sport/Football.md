@@ -102,17 +102,17 @@ OpenStreetMap_tag: sport=soccer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Football](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football|Football]] 
 
-### #is_/same_as :: [Football.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.public|Football.public]] 
 
-### #is_/same_as :: [Football.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.internal|Football.internal]] 
 
-### #is_/same_as :: [Football.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.protect|Football.protect]] 
 
-### #is_/same_as :: [Football.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.private|Football.private]] 
 
-### #is_/same_as :: [Football.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.personal|Football.personal]] 
 
-### #is_/same_as :: [Football.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football.secret|Football.secret]] 
 

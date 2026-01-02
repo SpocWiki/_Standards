@@ -86,17 +86,17 @@ native_label: Цьръ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tsar](/_Standards/Society/Politics/Government/Monarchy/Tsar.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Tsar|Tsar]] 
 
-### #is_/same_as :: [Tsar.public](/_public/Society/Politics/Government/Monarchy/Tsar.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Tsar.public|Tsar.public]] 
 
-### #is_/same_as :: [Tsar.internal](/_internal/Society/Politics/Government/Monarchy/Tsar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Tsar.internal|Tsar.internal]] 
 
-### #is_/same_as :: [Tsar.protect](/_protect/Society/Politics/Government/Monarchy/Tsar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Tsar.protect|Tsar.protect]] 
 
-### #is_/same_as :: [Tsar.private](/_private/Society/Politics/Government/Monarchy/Tsar.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Tsar.private|Tsar.private]] 
 
-### #is_/same_as :: [Tsar.personal](/_personal/Society/Politics/Government/Monarchy/Tsar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Tsar.personal|Tsar.personal]] 
 
-### #is_/same_as :: [Tsar.secret](/_secret/Society/Politics/Government/Monarchy/Tsar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Tsar.secret|Tsar.secret]] 
 

@@ -41,17 +41,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Federated-search-en.sv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Search_Engine](/_Standards/Technology/IT/Software/Search_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Search_Engine|Search_Engine]] 
 
-### #is_/same_as :: [Search_Engine.public](/_public/Technology/IT/Software/Search_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Search_Engine.public|Search_Engine.public]] 
 
-### #is_/same_as :: [Search_Engine.internal](/_internal/Technology/IT/Software/Search_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Search_Engine.internal|Search_Engine.internal]] 
 
-### #is_/same_as :: [Search_Engine.protect](/_protect/Technology/IT/Software/Search_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Search_Engine.protect|Search_Engine.protect]] 
 
-### #is_/same_as :: [Search_Engine.private](/_private/Technology/IT/Software/Search_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Search_Engine.private|Search_Engine.private]] 
 
-### #is_/same_as :: [Search_Engine.personal](/_personal/Technology/IT/Software/Search_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Search_Engine.personal|Search_Engine.personal]] 
 
-### #is_/same_as :: [Search_Engine.secret](/_secret/Technology/IT/Software/Search_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Search_Engine.secret|Search_Engine.secret]] 
 

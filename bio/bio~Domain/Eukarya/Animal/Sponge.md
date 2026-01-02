@@ -81,17 +81,17 @@ Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sponge](/_Standards/bio/bio~Domain/Eukarya/Animal/Sponge.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Sponge|Sponge]] 
 
-### #is_/same_as :: [Sponge.public](/_public/bio/bio~Domain/Eukarya/Animal/Sponge.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Sponge.public|Sponge.public]] 
 
-### #is_/same_as :: [Sponge.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Sponge.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Sponge.internal|Sponge.internal]] 
 
-### #is_/same_as :: [Sponge.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Sponge.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Sponge.protect|Sponge.protect]] 
 
-### #is_/same_as :: [Sponge.private](/_private/bio/bio~Domain/Eukarya/Animal/Sponge.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Sponge.private|Sponge.private]] 
 
-### #is_/same_as :: [Sponge.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Sponge.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Sponge.personal|Sponge.personal]] 
 
-### #is_/same_as :: [Sponge.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Sponge.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Sponge.secret|Sponge.secret]] 
 

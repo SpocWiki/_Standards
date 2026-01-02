@@ -43,17 +43,17 @@ OpenStreetMap_tag: building=shrine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shrine](/_Standards/Philosophy/Metaphysic/Religion/Shrine.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Shrine|Shrine]] 
 
-### #is_/same_as :: [Shrine.public](/_public/Philosophy/Metaphysic/Religion/Shrine.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Shrine.public|Shrine.public]] 
 
-### #is_/same_as :: [Shrine.internal](/_internal/Philosophy/Metaphysic/Religion/Shrine.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Shrine.internal|Shrine.internal]] 
 
-### #is_/same_as :: [Shrine.protect](/_protect/Philosophy/Metaphysic/Religion/Shrine.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Shrine.protect|Shrine.protect]] 
 
-### #is_/same_as :: [Shrine.private](/_private/Philosophy/Metaphysic/Religion/Shrine.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Shrine.private|Shrine.private]] 
 
-### #is_/same_as :: [Shrine.personal](/_personal/Philosophy/Metaphysic/Religion/Shrine.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Shrine.personal|Shrine.personal]] 
 
-### #is_/same_as :: [Shrine.secret](/_secret/Philosophy/Metaphysic/Religion/Shrine.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Shrine.secret|Shrine.secret]] 
 

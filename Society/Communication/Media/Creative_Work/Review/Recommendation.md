@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recommendation](/_Standards/Society/Communication/Media/Creative_Work/Review/Recommendation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review/Recommendation|Recommendation]] 
 
-### #is_/same_as :: [Recommendation.public](/_public/Society/Communication/Media/Creative_Work/Review/Recommendation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review/Recommendation.public|Recommendation.public]] 
 
-### #is_/same_as :: [Recommendation.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Recommendation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review/Recommendation.internal|Recommendation.internal]] 
 
-### #is_/same_as :: [Recommendation.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Recommendation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review/Recommendation.protect|Recommendation.protect]] 
 
-### #is_/same_as :: [Recommendation.private](/_private/Society/Communication/Media/Creative_Work/Review/Recommendation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review/Recommendation.private|Recommendation.private]] 
 
-### #is_/same_as :: [Recommendation.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Recommendation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review/Recommendation.personal|Recommendation.personal]] 
 
-### #is_/same_as :: [Recommendation.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Recommendation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review/Recommendation.secret|Recommendation.secret]] 
 

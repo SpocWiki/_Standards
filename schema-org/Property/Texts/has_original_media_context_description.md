@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_original_media_context_description](/_Standards/schema-org/Property/Texts/has_original_media_context_description.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_original_media_context_description|has_original_media_context_description]] 
 
-### #is_/same_as :: [has_original_media_context_description.public](/_public/schema-org/Property/Texts/has_original_media_context_description.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_original_media_context_description.public|has_original_media_context_description.public]] 
 
-### #is_/same_as :: [has_original_media_context_description.internal](/_internal/schema-org/Property/Texts/has_original_media_context_description.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_original_media_context_description.internal|has_original_media_context_description.internal]] 
 
-### #is_/same_as :: [has_original_media_context_description.protect](/_protect/schema-org/Property/Texts/has_original_media_context_description.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_original_media_context_description.protect|has_original_media_context_description.protect]] 
 
-### #is_/same_as :: [has_original_media_context_description.private](/_private/schema-org/Property/Texts/has_original_media_context_description.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_original_media_context_description.private|has_original_media_context_description.private]] 
 
-### #is_/same_as :: [has_original_media_context_description.personal](/_personal/schema-org/Property/Texts/has_original_media_context_description.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_original_media_context_description.personal|has_original_media_context_description.personal]] 
 
-### #is_/same_as :: [has_original_media_context_description.secret](/_secret/schema-org/Property/Texts/has_original_media_context_description.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_original_media_context_description.secret|has_original_media_context_description.secret]] 
 

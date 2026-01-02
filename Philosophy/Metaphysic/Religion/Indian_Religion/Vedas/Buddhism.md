@@ -129,17 +129,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Mani%20Rimdu%20festiva
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism|Buddhism]] 
 
-### #is_/same_as :: [Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.public|Buddhism.public]] 
 
-### #is_/same_as :: [Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.internal|Buddhism.internal]] 
 
-### #is_/same_as :: [Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.protect|Buddhism.protect]] 
 
-### #is_/same_as :: [Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.private|Buddhism.private]] 
 
-### #is_/same_as :: [Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.personal|Buddhism.personal]] 
 
-### #is_/same_as :: [Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism.secret|Buddhism.secret]] 
 

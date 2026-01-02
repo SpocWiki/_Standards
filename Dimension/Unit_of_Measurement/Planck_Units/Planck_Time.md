@@ -53,17 +53,17 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck_Time](/_Standards/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time|Planck_Time]] 
 
-### #is_/same_as :: [Planck_Time.public](/_public/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.public|Planck_Time.public]] 
 
-### #is_/same_as :: [Planck_Time.internal](/_internal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.internal|Planck_Time.internal]] 
 
-### #is_/same_as :: [Planck_Time.protect](/_protect/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.protect|Planck_Time.protect]] 
 
-### #is_/same_as :: [Planck_Time.private](/_private/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.private|Planck_Time.private]] 
 
-### #is_/same_as :: [Planck_Time.personal](/_personal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.personal|Planck_Time.personal]] 
 
-### #is_/same_as :: [Planck_Time.secret](/_secret/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck_Units/Planck_Time.secret|Planck_Time.secret]] 
 

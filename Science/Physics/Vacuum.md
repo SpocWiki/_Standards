@@ -60,17 +60,17 @@ UMLS_CUI: C0042221
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vacuum](/_Standards/Science/Physics/Vacuum.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Vacuum|Vacuum]] 
 
-### #is_/same_as :: [Vacuum.public](/_public/Science/Physics/Vacuum.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Vacuum.public|Vacuum.public]] 
 
-### #is_/same_as :: [Vacuum.internal](/_internal/Science/Physics/Vacuum.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Vacuum.internal|Vacuum.internal]] 
 
-### #is_/same_as :: [Vacuum.protect](/_protect/Science/Physics/Vacuum.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Vacuum.protect|Vacuum.protect]] 
 
-### #is_/same_as :: [Vacuum.private](/_private/Science/Physics/Vacuum.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Vacuum.private|Vacuum.private]] 
 
-### #is_/same_as :: [Vacuum.personal](/_personal/Science/Physics/Vacuum.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Vacuum.personal|Vacuum.personal]] 
 
-### #is_/same_as :: [Vacuum.secret](/_secret/Science/Physics/Vacuum.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Vacuum.secret|Vacuum.secret]] 
 

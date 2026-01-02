@@ -49,17 +49,17 @@ UNII: W2ZU1RY8B0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Green_tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea|Green_tea]] 
 
-### #is_/same_as :: [Green_tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.public|Green_tea.public]] 
 
-### #is_/same_as :: [Green_tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.internal|Green_tea.internal]] 
 
-### #is_/same_as :: [Green_tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.protect|Green_tea.protect]] 
 
-### #is_/same_as :: [Green_tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.private|Green_tea.private]] 
 
-### #is_/same_as :: [Green_tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.personal|Green_tea.personal]] 
 
-### #is_/same_as :: [Green_tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Green_tea.secret|Green_tea.secret]] 
 

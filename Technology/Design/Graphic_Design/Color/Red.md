@@ -90,17 +90,17 @@ OpenStreetMap_tag_or_key: Tag:colour=red
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Red](/_Standards/Technology/Design/Graphic_Design/Color/Red.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Red|Red]] 
 
-### #is_/same_as :: [Red.public](/_public/Technology/Design/Graphic_Design/Color/Red.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Red.public|Red.public]] 
 
-### #is_/same_as :: [Red.internal](/_internal/Technology/Design/Graphic_Design/Color/Red.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Red.internal|Red.internal]] 
 
-### #is_/same_as :: [Red.protect](/_protect/Technology/Design/Graphic_Design/Color/Red.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Red.protect|Red.protect]] 
 
-### #is_/same_as :: [Red.private](/_private/Technology/Design/Graphic_Design/Color/Red.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Red.private|Red.private]] 
 
-### #is_/same_as :: [Red.personal](/_personal/Technology/Design/Graphic_Design/Color/Red.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Red.personal|Red.personal]] 
 
-### #is_/same_as :: [Red.secret](/_secret/Technology/Design/Graphic_Design/Color/Red.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Red.secret|Red.secret]] 
 

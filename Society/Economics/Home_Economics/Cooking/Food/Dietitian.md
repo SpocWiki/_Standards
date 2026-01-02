@@ -54,17 +54,17 @@ Commons_category: Nutritionists
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dietitian](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dietitian.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dietitian|Dietitian]] 
 
-### #is_/same_as :: [Dietitian.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dietitian.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dietitian.public|Dietitian.public]] 
 
-### #is_/same_as :: [Dietitian.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.internal|Dietitian.internal]] 
 
-### #is_/same_as :: [Dietitian.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dietitian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dietitian.protect|Dietitian.protect]] 
 
-### #is_/same_as :: [Dietitian.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dietitian.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dietitian.private|Dietitian.private]] 
 
-### #is_/same_as :: [Dietitian.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dietitian.personal|Dietitian.personal]] 
 
-### #is_/same_as :: [Dietitian.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dietitian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dietitian.secret|Dietitian.secret]] 
 

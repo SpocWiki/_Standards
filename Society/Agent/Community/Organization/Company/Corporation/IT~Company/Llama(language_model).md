@@ -33,17 +33,17 @@ The Training Code and Corpus  itself is closed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Llama(language_model)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model)|Llama(language_model)]] 
 
-### #is_/same_as :: [Llama(language_model).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).public|Llama(language_model).public]] 
 
-### #is_/same_as :: [Llama(language_model).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).internal|Llama(language_model).internal]] 
 
-### #is_/same_as :: [Llama(language_model).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).protect|Llama(language_model).protect]] 
 
-### #is_/same_as :: [Llama(language_model).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).private|Llama(language_model).private]] 
 
-### #is_/same_as :: [Llama(language_model).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).personal|Llama(language_model).personal]] 
 
-### #is_/same_as :: [Llama(language_model).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Llama(language_model).secret|Llama(language_model).secret]] 
 

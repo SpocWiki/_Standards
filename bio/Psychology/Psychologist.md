@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychologist](/_Standards/bio/Psychology/Psychologist.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist|Psychologist]] 
 
-### #is_/same_as :: [Psychologist.public](/_public/bio/Psychology/Psychologist.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist.public|Psychologist.public]] 
 
-### #is_/same_as :: [Psychologist.internal](/_internal/bio/Psychology/Psychologist.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist.internal|Psychologist.internal]] 
 
-### #is_/same_as :: [Psychologist.protect](/_protect/bio/Psychology/Psychologist.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist.protect|Psychologist.protect]] 
 
-### #is_/same_as :: [Psychologist.private](/_private/bio/Psychology/Psychologist.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist.private|Psychologist.private]] 
 
-### #is_/same_as :: [Psychologist.personal](/_personal/bio/Psychology/Psychologist.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist.personal|Psychologist.personal]] 
 
-### #is_/same_as :: [Psychologist.secret](/_secret/bio/Psychology/Psychologist.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist.secret|Psychologist.secret]] 
 

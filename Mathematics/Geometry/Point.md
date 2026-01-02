@@ -63,17 +63,17 @@ IEV_number: 102-04-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Point](/_Standards/Mathematics/Geometry/Point.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Point|Point]] 
 
-### #is_/same_as :: [Point.public](/_public/Mathematics/Geometry/Point.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Point.public|Point.public]] 
 
-### #is_/same_as :: [Point.internal](/_internal/Mathematics/Geometry/Point.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Point.internal|Point.internal]] 
 
-### #is_/same_as :: [Point.protect](/_protect/Mathematics/Geometry/Point.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Point.protect|Point.protect]] 
 
-### #is_/same_as :: [Point.private](/_private/Mathematics/Geometry/Point.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Point.private|Point.private]] 
 
-### #is_/same_as :: [Point.personal](/_personal/Mathematics/Geometry/Point.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Point.personal|Point.personal]] 
 
-### #is_/same_as :: [Point.secret](/_secret/Mathematics/Geometry/Point.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Point.secret|Point.secret]] 
 

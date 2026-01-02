@@ -80,17 +80,17 @@ HasBioPolymerSequence:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Gene](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene|FileClass~Gene]] 
 
-### #is_/same_as :: [FileClass~Gene.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.public|FileClass~Gene.public]] 
 
-### #is_/same_as :: [FileClass~Gene.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.internal|FileClass~Gene.internal]] 
 
-### #is_/same_as :: [FileClass~Gene.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.protect|FileClass~Gene.protect]] 
 
-### #is_/same_as :: [FileClass~Gene.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.private|FileClass~Gene.private]] 
 
-### #is_/same_as :: [FileClass~Gene.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.personal|FileClass~Gene.personal]] 
 
-### #is_/same_as :: [FileClass~Gene.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Gene.secret|FileClass~Gene.secret]] 
 

@@ -406,17 +406,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comoros](/_Standards/Earth/Continent/Africa/Africa~East/Comoros.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Comoros|Comoros]] 
 
-### #is_/same_as :: [Comoros.public](/_public/Earth/Continent/Africa/Africa~East/Comoros.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Comoros.public|Comoros.public]] 
 
-### #is_/same_as :: [Comoros.internal](/_internal/Earth/Continent/Africa/Africa~East/Comoros.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Comoros.internal|Comoros.internal]] 
 
-### #is_/same_as :: [Comoros.protect](/_protect/Earth/Continent/Africa/Africa~East/Comoros.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Comoros.protect|Comoros.protect]] 
 
-### #is_/same_as :: [Comoros.private](/_private/Earth/Continent/Africa/Africa~East/Comoros.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Comoros.private|Comoros.private]] 
 
-### #is_/same_as :: [Comoros.personal](/_personal/Earth/Continent/Africa/Africa~East/Comoros.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Comoros.personal|Comoros.personal]] 
 
-### #is_/same_as :: [Comoros.secret](/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Comoros.secret|Comoros.secret]] 
 

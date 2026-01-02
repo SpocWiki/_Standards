@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_available_at_or_from](/_Standards/schema-org/Property/has_location/has_location_available_at_or_from.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_available_at_or_from|has_location_available_at_or_from]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.public](/_public/schema-org/Property/has_location/has_location_available_at_or_from.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_available_at_or_from.public|has_location_available_at_or_from.public]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.internal](/_internal/schema-org/Property/has_location/has_location_available_at_or_from.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_available_at_or_from.internal|has_location_available_at_or_from.internal]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.protect](/_protect/schema-org/Property/has_location/has_location_available_at_or_from.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_available_at_or_from.protect|has_location_available_at_or_from.protect]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.private](/_private/schema-org/Property/has_location/has_location_available_at_or_from.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_available_at_or_from.private|has_location_available_at_or_from.private]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.personal](/_personal/schema-org/Property/has_location/has_location_available_at_or_from.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_available_at_or_from.personal|has_location_available_at_or_from.personal]] 
 
-### #is_/same_as :: [has_location_available_at_or_from.secret](/_secret/schema-org/Property/has_location/has_location_available_at_or_from.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_available_at_or_from.secret|has_location_available_at_or_from.secret]] 
 

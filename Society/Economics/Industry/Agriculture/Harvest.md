@@ -46,17 +46,17 @@ Colon_Classification: J:7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harvest](/_Standards/Society/Economics/Industry/Agriculture/Harvest.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Harvest|Harvest]] 
 
-### #is_/same_as :: [Harvest.public](/_public/Society/Economics/Industry/Agriculture/Harvest.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Harvest.public|Harvest.public]] 
 
-### #is_/same_as :: [Harvest.internal](/_internal/Society/Economics/Industry/Agriculture/Harvest.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Harvest.internal|Harvest.internal]] 
 
-### #is_/same_as :: [Harvest.protect](/_protect/Society/Economics/Industry/Agriculture/Harvest.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Harvest.protect|Harvest.protect]] 
 
-### #is_/same_as :: [Harvest.private](/_private/Society/Economics/Industry/Agriculture/Harvest.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Harvest.private|Harvest.private]] 
 
-### #is_/same_as :: [Harvest.personal](/_personal/Society/Economics/Industry/Agriculture/Harvest.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Harvest.personal|Harvest.personal]] 
 
-### #is_/same_as :: [Harvest.secret](/_secret/Society/Economics/Industry/Agriculture/Harvest.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Harvest.secret|Harvest.secret]] 
 

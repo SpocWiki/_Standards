@@ -37,17 +37,17 @@ Krugosvet_article: nauka_i_tehnika/transport_i_svyaz/SPUTNIK_SVYAZI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communications_Satellite](/_Standards/Technology/Spaceflight/Communications_Satellite.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Communications_Satellite|Communications_Satellite]] 
 
-### #is_/same_as :: [Communications_Satellite.public](/_public/Technology/Spaceflight/Communications_Satellite.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Communications_Satellite.public|Communications_Satellite.public]] 
 
-### #is_/same_as :: [Communications_Satellite.internal](/_internal/Technology/Spaceflight/Communications_Satellite.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Communications_Satellite.internal|Communications_Satellite.internal]] 
 
-### #is_/same_as :: [Communications_Satellite.protect](/_protect/Technology/Spaceflight/Communications_Satellite.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Communications_Satellite.protect|Communications_Satellite.protect]] 
 
-### #is_/same_as :: [Communications_Satellite.private](/_private/Technology/Spaceflight/Communications_Satellite.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Communications_Satellite.private|Communications_Satellite.private]] 
 
-### #is_/same_as :: [Communications_Satellite.personal](/_personal/Technology/Spaceflight/Communications_Satellite.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Communications_Satellite.personal|Communications_Satellite.personal]] 
 
-### #is_/same_as :: [Communications_Satellite.secret](/_secret/Technology/Spaceflight/Communications_Satellite.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Communications_Satellite.secret|Communications_Satellite.secret]] 
 

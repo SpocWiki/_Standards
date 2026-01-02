@@ -62,17 +62,17 @@ TransmissionMethod:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~InfectiousDisease](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease|FileClass~InfectiousDisease]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.public|FileClass~InfectiousDisease.public]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.internal|FileClass~InfectiousDisease.internal]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.protect|FileClass~InfectiousDisease.protect]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.private|FileClass~InfectiousDisease.private]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.personal|FileClass~InfectiousDisease.personal]] 
 
-### #is_/same_as :: [FileClass~InfectiousDisease.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalCondition/FileClass~InfectiousDisease.secret|FileClass~InfectiousDisease.secret]] 
 

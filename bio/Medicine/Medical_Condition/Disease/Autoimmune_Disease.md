@@ -69,17 +69,17 @@ Dewey_Decimal_Classification: "571.973"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Autoimmune_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease|Autoimmune_Disease]] 
 
-### #is_/same_as :: [Autoimmune_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.public|Autoimmune_Disease.public]] 
 
-### #is_/same_as :: [Autoimmune_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.internal|Autoimmune_Disease.internal]] 
 
-### #is_/same_as :: [Autoimmune_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.protect|Autoimmune_Disease.protect]] 
 
-### #is_/same_as :: [Autoimmune_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.private|Autoimmune_Disease.private]] 
 
-### #is_/same_as :: [Autoimmune_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.personal|Autoimmune_Disease.personal]] 
 
-### #is_/same_as :: [Autoimmune_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease.secret|Autoimmune_Disease.secret]] 
 

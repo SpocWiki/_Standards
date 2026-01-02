@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hypothalamus](/_Standards/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus|Hypothalamus]] 
 
-### #is_/same_as :: [Hypothalamus.public](/_public/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.public|Hypothalamus.public]] 
 
-### #is_/same_as :: [Hypothalamus.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.internal|Hypothalamus.internal]] 
 
-### #is_/same_as :: [Hypothalamus.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.protect|Hypothalamus.protect]] 
 
-### #is_/same_as :: [Hypothalamus.private](/_private/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.private|Hypothalamus.private]] 
 
-### #is_/same_as :: [Hypothalamus.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.personal|Hypothalamus.personal]] 
 
-### #is_/same_as :: [Hypothalamus.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Headache/Hypothalamus.secret|Hypothalamus.secret]] 
 

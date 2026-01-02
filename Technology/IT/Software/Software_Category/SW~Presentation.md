@@ -61,17 +61,17 @@ Commons_category: Presentation software
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SW~Presentation](/_Standards/Technology/IT/Software/Software_Category/SW~Presentation.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category/SW~Presentation|SW~Presentation]] 
 
-### #is_/same_as :: [SW~Presentation.public](/_public/Technology/IT/Software/Software_Category/SW~Presentation.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category/SW~Presentation.public|SW~Presentation.public]] 
 
-### #is_/same_as :: [SW~Presentation.internal](/_internal/Technology/IT/Software/Software_Category/SW~Presentation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category/SW~Presentation.internal|SW~Presentation.internal]] 
 
-### #is_/same_as :: [SW~Presentation.protect](/_protect/Technology/IT/Software/Software_Category/SW~Presentation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category/SW~Presentation.protect|SW~Presentation.protect]] 
 
-### #is_/same_as :: [SW~Presentation.private](/_private/Technology/IT/Software/Software_Category/SW~Presentation.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category/SW~Presentation.private|SW~Presentation.private]] 
 
-### #is_/same_as :: [SW~Presentation.personal](/_personal/Technology/IT/Software/Software_Category/SW~Presentation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category/SW~Presentation.personal|SW~Presentation.personal]] 
 
-### #is_/same_as :: [SW~Presentation.secret](/_secret/Technology/IT/Software/Software_Category/SW~Presentation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category/SW~Presentation.secret|SW~Presentation.secret]] 
 

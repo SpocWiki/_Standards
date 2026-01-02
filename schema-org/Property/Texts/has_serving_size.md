@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_serving_size](/_Standards/schema-org/Property/Texts/has_serving_size.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_serving_size|has_serving_size]] 
 
-### #is_/same_as :: [has_serving_size.public](/_public/schema-org/Property/Texts/has_serving_size.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_serving_size.public|has_serving_size.public]] 
 
-### #is_/same_as :: [has_serving_size.internal](/_internal/schema-org/Property/Texts/has_serving_size.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_serving_size.internal|has_serving_size.internal]] 
 
-### #is_/same_as :: [has_serving_size.protect](/_protect/schema-org/Property/Texts/has_serving_size.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_serving_size.protect|has_serving_size.protect]] 
 
-### #is_/same_as :: [has_serving_size.private](/_private/schema-org/Property/Texts/has_serving_size.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_serving_size.private|has_serving_size.private]] 
 
-### #is_/same_as :: [has_serving_size.personal](/_personal/schema-org/Property/Texts/has_serving_size.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_serving_size.personal|has_serving_size.personal]] 
 
-### #is_/same_as :: [has_serving_size.secret](/_secret/schema-org/Property/Texts/has_serving_size.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_serving_size.secret|has_serving_size.secret]] 
 

@@ -82,17 +82,17 @@ Commons_category: Mikhail Alexandrovich Ulyanov
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ulyanov,Mikhail](/_Standards/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail|Ulyanov,Mikhail]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.public](/_public/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.public|Ulyanov,Mikhail.public]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.internal](/_internal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.internal|Ulyanov,Mikhail.internal]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.protect](/_protect/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.protect|Ulyanov,Mikhail.protect]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.private](/_private/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.private|Ulyanov,Mikhail.private]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.personal](/_personal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.personal|Ulyanov,Mikhail.personal]] 
 
-### #is_/same_as :: [Ulyanov,Mikhail.secret](/_secret/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Ulyanov,Mikhail.secret|Ulyanov,Mikhail.secret]] 
 

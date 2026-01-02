@@ -106,17 +106,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ANTIBIOTIKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antibiotic](/_Standards/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Pharmacology/Antibacterial/Antibiotic|Antibiotic]] 
 
-### #is_/same_as :: [Antibiotic.public](/_public/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.public|Antibiotic.public]] 
 
-### #is_/same_as :: [Antibiotic.internal](/_internal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.internal|Antibiotic.internal]] 
 
-### #is_/same_as :: [Antibiotic.protect](/_protect/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.protect|Antibiotic.protect]] 
 
-### #is_/same_as :: [Antibiotic.private](/_private/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.private|Antibiotic.private]] 
 
-### #is_/same_as :: [Antibiotic.personal](/_personal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.personal|Antibiotic.personal]] 
 
-### #is_/same_as :: [Antibiotic.secret](/_secret/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Pharmacology/Antibacterial/Antibiotic.secret|Antibiotic.secret]] 
 

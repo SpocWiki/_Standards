@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack](/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack|Tokyo_subway_sarin_attack]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.public](/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.public|Tokyo_subway_sarin_attack.public]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.internal](/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.internal|Tokyo_subway_sarin_attack.internal]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.protect](/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.protect|Tokyo_subway_sarin_attack.protect]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.private](/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.private|Tokyo_subway_sarin_attack.private]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.personal](/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.personal|Tokyo_subway_sarin_attack.personal]] 
 
-### #is_/same_as :: [Tokyo_subway_sarin_attack.secret](/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Terrorism/Tokyo_subway_sarin_attack.secret|Tokyo_subway_sarin_attack.secret]] 
 

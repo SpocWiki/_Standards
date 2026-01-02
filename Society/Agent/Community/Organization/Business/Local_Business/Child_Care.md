@@ -41,17 +41,17 @@ A Childcare center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Child_Care](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Child_Care|Child_Care]] 
 
-### #is_/same_as :: [Child_Care.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.public|Child_Care.public]] 
 
-### #is_/same_as :: [Child_Care.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.internal|Child_Care.internal]] 
 
-### #is_/same_as :: [Child_Care.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.protect|Child_Care.protect]] 
 
-### #is_/same_as :: [Child_Care.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.private|Child_Care.private]] 
 
-### #is_/same_as :: [Child_Care.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.personal|Child_Care.personal]] 
 
-### #is_/same_as :: [Child_Care.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Child_Care.secret|Child_Care.secret]] 
 

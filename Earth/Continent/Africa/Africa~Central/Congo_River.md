@@ -127,17 +127,17 @@ watershed_area: 401450000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Congo_River](/_Standards/Earth/Continent/Africa/Africa~Central/Congo_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo_River|Congo_River]] 
 
-### #is_/same_as :: [Congo_River.public](/_public/Earth/Continent/Africa/Africa~Central/Congo_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo_River.public|Congo_River.public]] 
 
-### #is_/same_as :: [Congo_River.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo_River.internal|Congo_River.internal]] 
 
-### #is_/same_as :: [Congo_River.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo_River.protect|Congo_River.protect]] 
 
-### #is_/same_as :: [Congo_River.private](/_private/Earth/Continent/Africa/Africa~Central/Congo_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo_River.private|Congo_River.private]] 
 
-### #is_/same_as :: [Congo_River.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo_River.personal|Congo_River.personal]] 
 
-### #is_/same_as :: [Congo_River.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo_River.secret|Congo_River.secret]] 
 

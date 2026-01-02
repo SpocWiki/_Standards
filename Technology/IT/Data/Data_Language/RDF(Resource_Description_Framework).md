@@ -5,17 +5,17 @@ RDFS extends this with Classes which define Properties and Relations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework)](/_Standards/RDF(Resource_Description_Framework).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework)|RDF(Resource_Description_Framework)]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).public](/_public/RDF(Resource_Description_Framework).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).public|RDF(Resource_Description_Framework).public]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).internal](/_internal/RDF(Resource_Description_Framework).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).internal|RDF(Resource_Description_Framework).internal]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).protect](/_protect/RDF(Resource_Description_Framework).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).protect|RDF(Resource_Description_Framework).protect]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).private](/_private/RDF(Resource_Description_Framework).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).private|RDF(Resource_Description_Framework).private]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).personal](/_personal/RDF(Resource_Description_Framework).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).personal|RDF(Resource_Description_Framework).personal]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).secret](/_secret/RDF(Resource_Description_Framework).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Language/RDF(Resource_Description_Framework).secret|RDF(Resource_Description_Framework).secret]] 
 

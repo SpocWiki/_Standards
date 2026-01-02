@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Category_Code](/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code|Category_Code]] 
 
-### #is_/same_as :: [Category_Code.public](/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.public|Category_Code.public]] 
 
-### #is_/same_as :: [Category_Code.internal](/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.internal|Category_Code.internal]] 
 
-### #is_/same_as :: [Category_Code.protect](/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.protect|Category_Code.protect]] 
 
-### #is_/same_as :: [Category_Code.private](/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.private|Category_Code.private]] 
 
-### #is_/same_as :: [Category_Code.personal](/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.personal|Category_Code.personal]] 
 
-### #is_/same_as :: [Category_Code.secret](/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Defined_Term/Category_Code.secret|Category_Code.secret]] 
 

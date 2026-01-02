@@ -37,17 +37,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Falaises%20d%27Yves.jp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stratum](/_Standards/Earth/Geology/Stratigraphy/Stratum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Stratigraphy/Stratum|Stratum]] 
 
-### #is_/same_as :: [Stratum.public](/_public/Earth/Geology/Stratigraphy/Stratum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Stratigraphy/Stratum.public|Stratum.public]] 
 
-### #is_/same_as :: [Stratum.internal](/_internal/Earth/Geology/Stratigraphy/Stratum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Stratigraphy/Stratum.internal|Stratum.internal]] 
 
-### #is_/same_as :: [Stratum.protect](/_protect/Earth/Geology/Stratigraphy/Stratum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Stratigraphy/Stratum.protect|Stratum.protect]] 
 
-### #is_/same_as :: [Stratum.private](/_private/Earth/Geology/Stratigraphy/Stratum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Stratigraphy/Stratum.private|Stratum.private]] 
 
-### #is_/same_as :: [Stratum.personal](/_personal/Earth/Geology/Stratigraphy/Stratum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Stratigraphy/Stratum.personal|Stratum.personal]] 
 
-### #is_/same_as :: [Stratum.secret](/_secret/Earth/Geology/Stratigraphy/Stratum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Stratigraphy/Stratum.secret|Stratum.secret]] 
 

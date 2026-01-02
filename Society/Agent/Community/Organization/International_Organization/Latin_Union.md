@@ -52,17 +52,17 @@ dissolved_abolished_or_demolished_date: 2012-07-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Latin_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/Latin_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Latin_Union|Latin_Union]] 
 
-### #is_/same_as :: [Latin_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/Latin_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Latin_Union.public|Latin_Union.public]] 
 
-### #is_/same_as :: [Latin_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Latin_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Latin_Union.internal|Latin_Union.internal]] 
 
-### #is_/same_as :: [Latin_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Latin_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Latin_Union.protect|Latin_Union.protect]] 
 
-### #is_/same_as :: [Latin_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/Latin_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Latin_Union.private|Latin_Union.private]] 
 
-### #is_/same_as :: [Latin_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Latin_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Latin_Union.personal|Latin_Union.personal]] 
 
-### #is_/same_as :: [Latin_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Latin_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Latin_Union.secret|Latin_Union.secret]] 
 

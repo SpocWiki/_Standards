@@ -58,17 +58,17 @@ especially in Databases where Indices and BTrees are used.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_structure](/_Standards/Technology/IT/Data/Data_Storage/Data_structure.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Data_structure|Data_structure]] 
 
-### #is_/same_as :: [Data_structure.public](/_public/Technology/IT/Data/Data_Storage/Data_structure.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Data_structure.public|Data_structure.public]] 
 
-### #is_/same_as :: [Data_structure.internal](/_internal/Technology/IT/Data/Data_Storage/Data_structure.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Data_structure.internal|Data_structure.internal]] 
 
-### #is_/same_as :: [Data_structure.protect](/_protect/Technology/IT/Data/Data_Storage/Data_structure.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Data_structure.protect|Data_structure.protect]] 
 
-### #is_/same_as :: [Data_structure.private](/_private/Technology/IT/Data/Data_Storage/Data_structure.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Data_structure.private|Data_structure.private]] 
 
-### #is_/same_as :: [Data_structure.personal](/_personal/Technology/IT/Data/Data_Storage/Data_structure.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Data_structure.personal|Data_structure.personal]] 
 
-### #is_/same_as :: [Data_structure.secret](/_secret/Technology/IT/Data/Data_Storage/Data_structure.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Data_structure.secret|Data_structure.secret]] 
 

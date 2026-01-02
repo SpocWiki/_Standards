@@ -123,17 +123,17 @@ Dewey_Decimal_Classification: 363.125
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traffic_Collision](/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Traffic/Traffic_Collision|Traffic_Collision]] 
 
-### #is_/same_as :: [Traffic_Collision.public](/_public/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.public|Traffic_Collision.public]] 
 
-### #is_/same_as :: [Traffic_Collision.internal](/_internal/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.internal|Traffic_Collision.internal]] 
 
-### #is_/same_as :: [Traffic_Collision.protect](/_protect/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.protect|Traffic_Collision.protect]] 
 
-### #is_/same_as :: [Traffic_Collision.private](/_private/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.private|Traffic_Collision.private]] 
 
-### #is_/same_as :: [Traffic_Collision.personal](/_personal/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.personal|Traffic_Collision.personal]] 
 
-### #is_/same_as :: [Traffic_Collision.secret](/_secret/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Traffic/Traffic_Collision.secret|Traffic_Collision.secret]] 
 

@@ -54,17 +54,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brownian_motion](/_Standards/Science/Physics/Thermodynamics/Brownian_motion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Brownian_motion|Brownian_motion]] 
 
-### #is_/same_as :: [Brownian_motion.public](/_public/Science/Physics/Thermodynamics/Brownian_motion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Brownian_motion.public|Brownian_motion.public]] 
 
-### #is_/same_as :: [Brownian_motion.internal](/_internal/Science/Physics/Thermodynamics/Brownian_motion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Brownian_motion.internal|Brownian_motion.internal]] 
 
-### #is_/same_as :: [Brownian_motion.protect](/_protect/Science/Physics/Thermodynamics/Brownian_motion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Brownian_motion.protect|Brownian_motion.protect]] 
 
-### #is_/same_as :: [Brownian_motion.private](/_private/Science/Physics/Thermodynamics/Brownian_motion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Brownian_motion.private|Brownian_motion.private]] 
 
-### #is_/same_as :: [Brownian_motion.personal](/_personal/Science/Physics/Thermodynamics/Brownian_motion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Brownian_motion.personal|Brownian_motion.personal]] 
 
-### #is_/same_as :: [Brownian_motion.secret](/_secret/Science/Physics/Thermodynamics/Brownian_motion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Brownian_motion.secret|Brownian_motion.secret]] 
 

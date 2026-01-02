@@ -113,17 +113,17 @@ ISIN: US00507V1098
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Activision_Blizzard](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard|Activision_Blizzard]] 
 
-### #is_/same_as :: [Activision_Blizzard.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.public|Activision_Blizzard.public]] 
 
-### #is_/same_as :: [Activision_Blizzard.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.internal|Activision_Blizzard.internal]] 
 
-### #is_/same_as :: [Activision_Blizzard.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.protect|Activision_Blizzard.protect]] 
 
-### #is_/same_as :: [Activision_Blizzard.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.private|Activision_Blizzard.private]] 
 
-### #is_/same_as :: [Activision_Blizzard.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.personal|Activision_Blizzard.personal]] 
 
-### #is_/same_as :: [Activision_Blizzard.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher/Activision_Blizzard.secret|Activision_Blizzard.secret]] 
 

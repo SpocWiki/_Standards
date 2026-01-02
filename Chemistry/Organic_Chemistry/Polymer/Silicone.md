@@ -61,17 +61,17 @@ Commons_category: Silicones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicone](/_Standards/Chemistry/Organic_Chemistry/Polymer/Silicone.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Polymer/Silicone|Silicone]] 
 
-### #is_/same_as :: [Silicone.public](/_public/Chemistry/Organic_Chemistry/Polymer/Silicone.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Polymer/Silicone.public|Silicone.public]] 
 
-### #is_/same_as :: [Silicone.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Silicone.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Polymer/Silicone.internal|Silicone.internal]] 
 
-### #is_/same_as :: [Silicone.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Silicone.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Polymer/Silicone.protect|Silicone.protect]] 
 
-### #is_/same_as :: [Silicone.private](/_private/Chemistry/Organic_Chemistry/Polymer/Silicone.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Polymer/Silicone.private|Silicone.private]] 
 
-### #is_/same_as :: [Silicone.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Silicone.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Polymer/Silicone.personal|Silicone.personal]] 
 
-### #is_/same_as :: [Silicone.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Silicone.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Polymer/Silicone.secret|Silicone.secret]] 
 

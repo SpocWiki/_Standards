@@ -51,17 +51,17 @@ Commons_category: Inclined planes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inclined_plane](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane|Inclined_plane]] 
 
-### #is_/same_as :: [Inclined_plane.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.public|Inclined_plane.public]] 
 
-### #is_/same_as :: [Inclined_plane.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.internal|Inclined_plane.internal]] 
 
-### #is_/same_as :: [Inclined_plane.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.protect|Inclined_plane.protect]] 
 
-### #is_/same_as :: [Inclined_plane.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.private|Inclined_plane.private]] 
 
-### #is_/same_as :: [Inclined_plane.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.personal|Inclined_plane.personal]] 
 
-### #is_/same_as :: [Inclined_plane.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Inclined_plane.secret|Inclined_plane.secret]] 
 

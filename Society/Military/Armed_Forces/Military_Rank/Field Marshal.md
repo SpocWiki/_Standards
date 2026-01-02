@@ -41,17 +41,17 @@ Commons_category: Field Marshals
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Field Marshal](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal|Field Marshal]] 
 
-### #is_/same_as :: [Field Marshal.public](/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal.public|Field Marshal.public]] 
 
-### #is_/same_as :: [Field Marshal.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.internal|Field Marshal.internal]] 
 
-### #is_/same_as :: [Field Marshal.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal.protect|Field Marshal.protect]] 
 
-### #is_/same_as :: [Field Marshal.private](/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal.private|Field Marshal.private]] 
 
-### #is_/same_as :: [Field Marshal.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal.personal|Field Marshal.personal]] 
 
-### #is_/same_as :: [Field Marshal.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal.secret|Field Marshal.secret]] 
 

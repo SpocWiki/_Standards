@@ -68,17 +68,17 @@ ISNI: 000000011634421X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karsavina,Tamara](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara|Karsavina,Tamara]] 
 
-### #is_/same_as :: [Karsavina,Tamara.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.public|Karsavina,Tamara.public]] 
 
-### #is_/same_as :: [Karsavina,Tamara.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.internal|Karsavina,Tamara.internal]] 
 
-### #is_/same_as :: [Karsavina,Tamara.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.protect|Karsavina,Tamara.protect]] 
 
-### #is_/same_as :: [Karsavina,Tamara.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.private|Karsavina,Tamara.private]] 
 
-### #is_/same_as :: [Karsavina,Tamara.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.personal|Karsavina,Tamara.personal]] 
 
-### #is_/same_as :: [Karsavina,Tamara.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Karsavina,Tamara.secret|Karsavina,Tamara.secret]] 
 

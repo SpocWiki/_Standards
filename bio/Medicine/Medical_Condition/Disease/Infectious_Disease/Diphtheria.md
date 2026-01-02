@@ -102,17 +102,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diphtheria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria|Diphtheria]] 
 
-### #is_/same_as :: [Diphtheria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.public|Diphtheria.public]] 
 
-### #is_/same_as :: [Diphtheria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.internal|Diphtheria.internal]] 
 
-### #is_/same_as :: [Diphtheria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.protect|Diphtheria.protect]] 
 
-### #is_/same_as :: [Diphtheria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.private|Diphtheria.private]] 
 
-### #is_/same_as :: [Diphtheria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.personal|Diphtheria.personal]] 
 
-### #is_/same_as :: [Diphtheria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Diphtheria.secret|Diphtheria.secret]] 
 

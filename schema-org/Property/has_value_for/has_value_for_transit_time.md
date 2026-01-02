@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_transit_time](/_Standards/schema-org/Property/has_value_for/has_value_for_transit_time.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_transit_time|has_value_for_transit_time]] 
 
-### #is_/same_as :: [has_value_for_transit_time.public](/_public/schema-org/Property/has_value_for/has_value_for_transit_time.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_transit_time.public|has_value_for_transit_time.public]] 
 
-### #is_/same_as :: [has_value_for_transit_time.internal](/_internal/schema-org/Property/has_value_for/has_value_for_transit_time.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_transit_time.internal|has_value_for_transit_time.internal]] 
 
-### #is_/same_as :: [has_value_for_transit_time.protect](/_protect/schema-org/Property/has_value_for/has_value_for_transit_time.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_transit_time.protect|has_value_for_transit_time.protect]] 
 
-### #is_/same_as :: [has_value_for_transit_time.private](/_private/schema-org/Property/has_value_for/has_value_for_transit_time.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_transit_time.private|has_value_for_transit_time.private]] 
 
-### #is_/same_as :: [has_value_for_transit_time.personal](/_personal/schema-org/Property/has_value_for/has_value_for_transit_time.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_transit_time.personal|has_value_for_transit_time.personal]] 
 
-### #is_/same_as :: [has_value_for_transit_time.secret](/_secret/schema-org/Property/has_value_for/has_value_for_transit_time.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_transit_time.secret|has_value_for_transit_time.secret]] 
 

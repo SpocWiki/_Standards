@@ -41,17 +41,17 @@ A fast-food restaurant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fast_Food_Restaurant](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant|Fast_Food_Restaurant]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.public|Fast_Food_Restaurant.public]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.internal|Fast_Food_Restaurant.internal]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.protect|Fast_Food_Restaurant.protect]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.private|Fast_Food_Restaurant.private]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.personal|Fast_Food_Restaurant.personal]] 
 
-### #is_/same_as :: [Fast_Food_Restaurant.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Fast_Food_Restaurant.secret|Fast_Food_Restaurant.secret]] 
 

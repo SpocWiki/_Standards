@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irving,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John|Irving,John]] 
 
-### #is_/same_as :: [Irving,John.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.public|Irving,John.public]] 
 
-### #is_/same_as :: [Irving,John.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.internal|Irving,John.internal]] 
 
-### #is_/same_as :: [Irving,John.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.protect|Irving,John.protect]] 
 
-### #is_/same_as :: [Irving,John.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.private|Irving,John.private]] 
 
-### #is_/same_as :: [Irving,John.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.personal|Irving,John.personal]] 
 
-### #is_/same_as :: [Irving,John.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Irving,John.secret|Irving,John.secret]] 
 

@@ -35,17 +35,17 @@ Commons_category: Pre-Columbian era
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pre-Columbian_Era](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era|Pre-Columbian_Era]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.public|Pre-Columbian_Era.public]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.internal|Pre-Columbian_Era.internal]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.protect|Pre-Columbian_Era.protect]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.private|Pre-Columbian_Era.private]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.personal|Pre-Columbian_Era.personal]] 
 
-### #is_/same_as :: [Pre-Columbian_Era.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Pre-Columbian_Era.secret|Pre-Columbian_Era.secret]] 
 

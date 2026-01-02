@@ -43,17 +43,17 @@ A post to a social media platform, including blog posts, tweets, Facebook posts,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Media_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting|Social_Media_Posting]] 
 
-### #is_/same_as :: [Social_Media_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.public|Social_Media_Posting.public]] 
 
-### #is_/same_as :: [Social_Media_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.internal|Social_Media_Posting.internal]] 
 
-### #is_/same_as :: [Social_Media_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.protect|Social_Media_Posting.protect]] 
 
-### #is_/same_as :: [Social_Media_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.private|Social_Media_Posting.private]] 
 
-### #is_/same_as :: [Social_Media_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.personal|Social_Media_Posting.personal]] 
 
-### #is_/same_as :: [Social_Media_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting.secret|Social_Media_Posting.secret]] 
 

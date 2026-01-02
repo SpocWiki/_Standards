@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_disjoint_with](/_Standards/schema-org/Property/has_location/has_location_disjoint_with.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_disjoint_with|has_location_disjoint_with]] 
 
-### #is_/same_as :: [has_location_disjoint_with.public](/_public/schema-org/Property/has_location/has_location_disjoint_with.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_disjoint_with.public|has_location_disjoint_with.public]] 
 
-### #is_/same_as :: [has_location_disjoint_with.internal](/_internal/schema-org/Property/has_location/has_location_disjoint_with.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_disjoint_with.internal|has_location_disjoint_with.internal]] 
 
-### #is_/same_as :: [has_location_disjoint_with.protect](/_protect/schema-org/Property/has_location/has_location_disjoint_with.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_disjoint_with.protect|has_location_disjoint_with.protect]] 
 
-### #is_/same_as :: [has_location_disjoint_with.private](/_private/schema-org/Property/has_location/has_location_disjoint_with.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_disjoint_with.private|has_location_disjoint_with.private]] 
 
-### #is_/same_as :: [has_location_disjoint_with.personal](/_personal/schema-org/Property/has_location/has_location_disjoint_with.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_disjoint_with.personal|has_location_disjoint_with.personal]] 
 
-### #is_/same_as :: [has_location_disjoint_with.secret](/_secret/schema-org/Property/has_location/has_location_disjoint_with.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_disjoint_with.secret|has_location_disjoint_with.secret]] 
 

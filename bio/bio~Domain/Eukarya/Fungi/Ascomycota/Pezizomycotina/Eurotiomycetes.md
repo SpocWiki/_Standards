@@ -29,17 +29,17 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eurotiomycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes|Eurotiomycetes]] 
 
-### #is_/same_as :: [Eurotiomycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.public|Eurotiomycetes.public]] 
 
-### #is_/same_as :: [Eurotiomycetes.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.internal|Eurotiomycetes.internal]] 
 
-### #is_/same_as :: [Eurotiomycetes.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.protect|Eurotiomycetes.protect]] 
 
-### #is_/same_as :: [Eurotiomycetes.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.private|Eurotiomycetes.private]] 
 
-### #is_/same_as :: [Eurotiomycetes.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.personal|Eurotiomycetes.personal]] 
 
-### #is_/same_as :: [Eurotiomycetes.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Eurotiomycetes.secret|Eurotiomycetes.secret]] 
 

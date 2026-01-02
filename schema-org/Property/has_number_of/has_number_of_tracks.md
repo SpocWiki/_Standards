@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_tracks](/_Standards/schema-org/Property/has_number_of/has_number_of_tracks.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_tracks|has_number_of_tracks]] 
 
-### #is_/same_as :: [has_number_of_tracks.public](/_public/schema-org/Property/has_number_of/has_number_of_tracks.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_tracks.public|has_number_of_tracks.public]] 
 
-### #is_/same_as :: [has_number_of_tracks.internal](/_internal/schema-org/Property/has_number_of/has_number_of_tracks.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_tracks.internal|has_number_of_tracks.internal]] 
 
-### #is_/same_as :: [has_number_of_tracks.protect](/_protect/schema-org/Property/has_number_of/has_number_of_tracks.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_tracks.protect|has_number_of_tracks.protect]] 
 
-### #is_/same_as :: [has_number_of_tracks.private](/_private/schema-org/Property/has_number_of/has_number_of_tracks.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_tracks.private|has_number_of_tracks.private]] 
 
-### #is_/same_as :: [has_number_of_tracks.personal](/_personal/schema-org/Property/has_number_of/has_number_of_tracks.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_tracks.personal|has_number_of_tracks.personal]] 
 
-### #is_/same_as :: [has_number_of_tracks.secret](/_secret/schema-org/Property/has_number_of/has_number_of_tracks.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_tracks.secret|has_number_of_tracks.secret]] 
 

@@ -46,17 +46,17 @@ OpenStreetMap_tag: sport=roller_skating
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roller_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating|Roller_Skating]] 
 
-### #is_/same_as :: [Roller_Skating.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.public|Roller_Skating.public]] 
 
-### #is_/same_as :: [Roller_Skating.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.internal|Roller_Skating.internal]] 
 
-### #is_/same_as :: [Roller_Skating.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.protect|Roller_Skating.protect]] 
 
-### #is_/same_as :: [Roller_Skating.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.private|Roller_Skating.private]] 
 
-### #is_/same_as :: [Roller_Skating.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.personal|Roller_Skating.personal]] 
 
-### #is_/same_as :: [Roller_Skating.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Roller_Sport/Roller_Skating.secret|Roller_Skating.secret]] 
 

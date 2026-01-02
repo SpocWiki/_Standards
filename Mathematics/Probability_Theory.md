@@ -67,17 +67,17 @@ subreddit: probabilitytheory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Probability_Theory](/_Standards/Mathematics/Probability_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Probability_Theory|Probability_Theory]] 
 
-### #is_/same_as :: [Probability_Theory.public](/_public/Mathematics/Probability_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Probability_Theory.public|Probability_Theory.public]] 
 
-### #is_/same_as :: [Probability_Theory.internal](/_internal/Mathematics/Probability_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Probability_Theory.internal|Probability_Theory.internal]] 
 
-### #is_/same_as :: [Probability_Theory.protect](/_protect/Mathematics/Probability_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Probability_Theory.protect|Probability_Theory.protect]] 
 
-### #is_/same_as :: [Probability_Theory.private](/_private/Mathematics/Probability_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Probability_Theory.private|Probability_Theory.private]] 
 
-### #is_/same_as :: [Probability_Theory.personal](/_personal/Mathematics/Probability_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Probability_Theory.personal|Probability_Theory.personal]] 
 
-### #is_/same_as :: [Probability_Theory.secret](/_secret/Mathematics/Probability_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Probability_Theory.secret|Probability_Theory.secret]] 
 

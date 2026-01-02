@@ -61,17 +61,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/NASLAZHDENIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pleasure](/_Standards/bio/Psychology/Affect/Emotion/Pleasure.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Pleasure|Pleasure]] 
 
-### #is_/same_as :: [Pleasure.public](/_public/bio/Psychology/Affect/Emotion/Pleasure.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Pleasure.public|Pleasure.public]] 
 
-### #is_/same_as :: [Pleasure.internal](/_internal/bio/Psychology/Affect/Emotion/Pleasure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Pleasure.internal|Pleasure.internal]] 
 
-### #is_/same_as :: [Pleasure.protect](/_protect/bio/Psychology/Affect/Emotion/Pleasure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Pleasure.protect|Pleasure.protect]] 
 
-### #is_/same_as :: [Pleasure.private](/_private/bio/Psychology/Affect/Emotion/Pleasure.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Pleasure.private|Pleasure.private]] 
 
-### #is_/same_as :: [Pleasure.personal](/_personal/bio/Psychology/Affect/Emotion/Pleasure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Pleasure.personal|Pleasure.personal]] 
 
-### #is_/same_as :: [Pleasure.secret](/_secret/bio/Psychology/Affect/Emotion/Pleasure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Pleasure.secret|Pleasure.secret]] 
 

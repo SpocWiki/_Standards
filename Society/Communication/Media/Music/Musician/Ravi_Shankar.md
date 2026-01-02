@@ -139,17 +139,17 @@ Google_Doodle: pandit-ravi-shankars-96th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ravi_Shankar](/_Standards/Society/Communication/Media/Music/Musician/Ravi_Shankar.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Ravi_Shankar|Ravi_Shankar]] 
 
-### #is_/same_as :: [Ravi_Shankar.public](/_public/Society/Communication/Media/Music/Musician/Ravi_Shankar.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Ravi_Shankar.public|Ravi_Shankar.public]] 
 
-### #is_/same_as :: [Ravi_Shankar.internal](/_internal/Society/Communication/Media/Music/Musician/Ravi_Shankar.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Ravi_Shankar.internal|Ravi_Shankar.internal]] 
 
-### #is_/same_as :: [Ravi_Shankar.protect](/_protect/Society/Communication/Media/Music/Musician/Ravi_Shankar.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Ravi_Shankar.protect|Ravi_Shankar.protect]] 
 
-### #is_/same_as :: [Ravi_Shankar.private](/_private/Society/Communication/Media/Music/Musician/Ravi_Shankar.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Ravi_Shankar.private|Ravi_Shankar.private]] 
 
-### #is_/same_as :: [Ravi_Shankar.personal](/_personal/Society/Communication/Media/Music/Musician/Ravi_Shankar.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Ravi_Shankar.personal|Ravi_Shankar.personal]] 
 
-### #is_/same_as :: [Ravi_Shankar.secret](/_secret/Society/Communication/Media/Music/Musician/Ravi_Shankar.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Ravi_Shankar.secret|Ravi_Shankar.secret]] 
 

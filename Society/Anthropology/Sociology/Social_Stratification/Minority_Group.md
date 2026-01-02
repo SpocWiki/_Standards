@@ -43,17 +43,17 @@ MeSH_tree_code: I01.880.853.300
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minority_Group](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Minority_Group|Minority_Group]] 
 
-### #is_/same_as :: [Minority_Group.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.public|Minority_Group.public]] 
 
-### #is_/same_as :: [Minority_Group.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.internal|Minority_Group.internal]] 
 
-### #is_/same_as :: [Minority_Group.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.protect|Minority_Group.protect]] 
 
-### #is_/same_as :: [Minority_Group.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.private|Minority_Group.private]] 
 
-### #is_/same_as :: [Minority_Group.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.personal|Minority_Group.personal]] 
 
-### #is_/same_as :: [Minority_Group.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Minority_Group.secret|Minority_Group.secret]] 
 

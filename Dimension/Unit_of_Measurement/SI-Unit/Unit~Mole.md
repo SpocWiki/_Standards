@@ -77,17 +77,17 @@ Unit :: #Unit/SI/mol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Mole](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole|Unit~Mole]] 
 
-### #is_/same_as :: [Unit~Mole.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.public|Unit~Mole.public]] 
 
-### #is_/same_as :: [Unit~Mole.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.internal|Unit~Mole.internal]] 
 
-### #is_/same_as :: [Unit~Mole.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.protect|Unit~Mole.protect]] 
 
-### #is_/same_as :: [Unit~Mole.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.private|Unit~Mole.private]] 
 
-### #is_/same_as :: [Unit~Mole.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.personal|Unit~Mole.personal]] 
 
-### #is_/same_as :: [Unit~Mole.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Mole.secret|Unit~Mole.secret]] 
 

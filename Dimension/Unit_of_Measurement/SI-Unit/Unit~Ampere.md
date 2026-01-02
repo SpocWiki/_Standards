@@ -79,17 +79,17 @@ Unit :: #Unit/SI/A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Ampere](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere|Unit~Ampere]] 
 
-### #is_/same_as :: [Unit~Ampere.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.public|Unit~Ampere.public]] 
 
-### #is_/same_as :: [Unit~Ampere.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.internal|Unit~Ampere.internal]] 
 
-### #is_/same_as :: [Unit~Ampere.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.protect|Unit~Ampere.protect]] 
 
-### #is_/same_as :: [Unit~Ampere.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.private|Unit~Ampere.private]] 
 
-### #is_/same_as :: [Unit~Ampere.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.personal|Unit~Ampere.personal]] 
 
-### #is_/same_as :: [Unit~Ampere.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Ampere.secret|Unit~Ampere.secret]] 
 

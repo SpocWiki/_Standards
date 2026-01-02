@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Sabbath](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath|Black_Sabbath]] 
 
-### #is_/same_as :: [Black_Sabbath.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.public|Black_Sabbath.public]] 
 
-### #is_/same_as :: [Black_Sabbath.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.internal|Black_Sabbath.internal]] 
 
-### #is_/same_as :: [Black_Sabbath.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.protect|Black_Sabbath.protect]] 
 
-### #is_/same_as :: [Black_Sabbath.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.private|Black_Sabbath.private]] 
 
-### #is_/same_as :: [Black_Sabbath.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.personal|Black_Sabbath.personal]] 
 
-### #is_/same_as :: [Black_Sabbath.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Black_Sabbath.secret|Black_Sabbath.secret]] 
 

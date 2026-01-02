@@ -40,17 +40,17 @@ Commons_category: Rivets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rivet](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Rivet.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Rivet|Rivet]] 
 
-### #is_/same_as :: [Rivet.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Rivet.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Rivet.public|Rivet.public]] 
 
-### #is_/same_as :: [Rivet.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.internal|Rivet.internal]] 
 
-### #is_/same_as :: [Rivet.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Rivet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Rivet.protect|Rivet.protect]] 
 
-### #is_/same_as :: [Rivet.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Rivet.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Rivet.private|Rivet.private]] 
 
-### #is_/same_as :: [Rivet.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Rivet.personal|Rivet.personal]] 
 
-### #is_/same_as :: [Rivet.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Rivet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Rivet.secret|Rivet.secret]] 
 

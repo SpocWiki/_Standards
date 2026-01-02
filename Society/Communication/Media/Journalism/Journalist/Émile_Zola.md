@@ -133,17 +133,17 @@ Provenio_UUID: 5424a98a-e493-47a1-bdf9-e11be7cf810f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Émile_Zola](/_Standards/Society/Communication/Media/Journalism/Journalist/Émile_Zola.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Émile_Zola|Émile_Zola]] 
 
-### #is_/same_as :: [Émile_Zola.public](/_public/Society/Communication/Media/Journalism/Journalist/Émile_Zola.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Émile_Zola.public|Émile_Zola.public]] 
 
-### #is_/same_as :: [Émile_Zola.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Émile_Zola.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Émile_Zola.internal|Émile_Zola.internal]] 
 
-### #is_/same_as :: [Émile_Zola.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Émile_Zola.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Émile_Zola.protect|Émile_Zola.protect]] 
 
-### #is_/same_as :: [Émile_Zola.private](/_private/Society/Communication/Media/Journalism/Journalist/Émile_Zola.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Émile_Zola.private|Émile_Zola.private]] 
 
-### #is_/same_as :: [Émile_Zola.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Émile_Zola.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Émile_Zola.personal|Émile_Zola.personal]] 
 
-### #is_/same_as :: [Émile_Zola.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Émile_Zola.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Émile_Zola.secret|Émile_Zola.secret]] 
 

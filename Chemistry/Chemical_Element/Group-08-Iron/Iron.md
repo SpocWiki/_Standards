@@ -206,17 +206,17 @@ the average price of hot-rolled coil steel in the United States was approximatel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iron](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Iron|Iron]] 
 
-### #is_/same_as :: [Iron.public](/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-08-Iron/Iron.public|Iron.public]] 
 
-### #is_/same_as :: [Iron.internal](/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Iron.internal|Iron.internal]] 
 
-### #is_/same_as :: [Iron.protect](/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Iron.protect|Iron.protect]] 
 
-### #is_/same_as :: [Iron.private](/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-08-Iron/Iron.private|Iron.private]] 
 
-### #is_/same_as :: [Iron.personal](/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Iron.personal|Iron.personal]] 
 
-### #is_/same_as :: [Iron.secret](/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Iron.secret|Iron.secret]] 
 

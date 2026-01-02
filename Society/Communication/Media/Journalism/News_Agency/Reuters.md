@@ -93,17 +93,17 @@ Instagram_username: reuters
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reuters](/_Standards/Society/Communication/Media/Journalism/News_Agency/Reuters.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/News_Agency/Reuters|Reuters]] 
 
-### #is_/same_as :: [Reuters.public](/_public/Society/Communication/Media/Journalism/News_Agency/Reuters.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/News_Agency/Reuters.public|Reuters.public]] 
 
-### #is_/same_as :: [Reuters.internal](/_internal/Society/Communication/Media/Journalism/News_Agency/Reuters.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/News_Agency/Reuters.internal|Reuters.internal]] 
 
-### #is_/same_as :: [Reuters.protect](/_protect/Society/Communication/Media/Journalism/News_Agency/Reuters.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/News_Agency/Reuters.protect|Reuters.protect]] 
 
-### #is_/same_as :: [Reuters.private](/_private/Society/Communication/Media/Journalism/News_Agency/Reuters.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/News_Agency/Reuters.private|Reuters.private]] 
 
-### #is_/same_as :: [Reuters.personal](/_personal/Society/Communication/Media/Journalism/News_Agency/Reuters.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/News_Agency/Reuters.personal|Reuters.personal]] 
 
-### #is_/same_as :: [Reuters.secret](/_secret/Society/Communication/Media/Journalism/News_Agency/Reuters.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/News_Agency/Reuters.secret|Reuters.secret]] 
 

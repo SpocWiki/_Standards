@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cryptographic_Key](/_Standards/Technology/IT/Cryptography/Cryptographic_Key.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/Cryptographic_Key|Cryptographic_Key]] 
 
-### #is_/same_as :: [Cryptographic_Key.public](/_public/Technology/IT/Cryptography/Cryptographic_Key.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography/Cryptographic_Key.public|Cryptographic_Key.public]] 
 
-### #is_/same_as :: [Cryptographic_Key.internal](/_internal/Technology/IT/Cryptography/Cryptographic_Key.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography/Cryptographic_Key.internal|Cryptographic_Key.internal]] 
 
-### #is_/same_as :: [Cryptographic_Key.protect](/_protect/Technology/IT/Cryptography/Cryptographic_Key.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography/Cryptographic_Key.protect|Cryptographic_Key.protect]] 
 
-### #is_/same_as :: [Cryptographic_Key.private](/_private/Technology/IT/Cryptography/Cryptographic_Key.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography/Cryptographic_Key.private|Cryptographic_Key.private]] 
 
-### #is_/same_as :: [Cryptographic_Key.personal](/_personal/Technology/IT/Cryptography/Cryptographic_Key.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography/Cryptographic_Key.personal|Cryptographic_Key.personal]] 
 
-### #is_/same_as :: [Cryptographic_Key.secret](/_secret/Technology/IT/Cryptography/Cryptographic_Key.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography/Cryptographic_Key.secret|Cryptographic_Key.secret]] 
 

@@ -74,17 +74,17 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuberculina_maxima](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima|Tuberculina_maxima]] 
 
-### #is_/same_as :: [Tuberculina_maxima.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.public|Tuberculina_maxima.public]] 
 
-### #is_/same_as :: [Tuberculina_maxima.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.internal|Tuberculina_maxima.internal]] 
 
-### #is_/same_as :: [Tuberculina_maxima.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.protect|Tuberculina_maxima.protect]] 
 
-### #is_/same_as :: [Tuberculina_maxima.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.private|Tuberculina_maxima.private]] 
 
-### #is_/same_as :: [Tuberculina_maxima.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.personal|Tuberculina_maxima.personal]] 
 
-### #is_/same_as :: [Tuberculina_maxima.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina/Helicobasidiales/Tuberculina_maxima.secret|Tuberculina_maxima.secret]] 
 

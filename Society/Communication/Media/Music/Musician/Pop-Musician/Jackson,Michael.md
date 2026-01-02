@@ -264,17 +264,17 @@ X_username: michaeljackson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jackson,Michael](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael|Jackson,Michael]] 
 
-### #is_/same_as :: [Jackson,Michael.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.public|Jackson,Michael.public]] 
 
-### #is_/same_as :: [Jackson,Michael.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.internal|Jackson,Michael.internal]] 
 
-### #is_/same_as :: [Jackson,Michael.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.protect|Jackson,Michael.protect]] 
 
-### #is_/same_as :: [Jackson,Michael.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.private|Jackson,Michael.private]] 
 
-### #is_/same_as :: [Jackson,Michael.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.personal|Jackson,Michael.personal]] 
 
-### #is_/same_as :: [Jackson,Michael.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael.secret|Jackson,Michael.secret]] 
 

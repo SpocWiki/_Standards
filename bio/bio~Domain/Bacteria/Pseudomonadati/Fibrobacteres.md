@@ -58,17 +58,17 @@ title: Fibrobacteres
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fibrobacteres](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres|Fibrobacteres]] 
 
-### #is_/same_as :: [Fibrobacteres.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.public|Fibrobacteres.public]] 
 
-### #is_/same_as :: [Fibrobacteres.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.internal|Fibrobacteres.internal]] 
 
-### #is_/same_as :: [Fibrobacteres.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.protect|Fibrobacteres.protect]] 
 
-### #is_/same_as :: [Fibrobacteres.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.private|Fibrobacteres.private]] 
 
-### #is_/same_as :: [Fibrobacteres.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.personal|Fibrobacteres.personal]] 
 
-### #is_/same_as :: [Fibrobacteres.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Fibrobacteres.secret|Fibrobacteres.secret]] 
 

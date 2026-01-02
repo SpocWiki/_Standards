@@ -40,17 +40,17 @@ A medical device used for therapeutic purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Therapeutic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic|Therapeutic]] 
 
-### #is_/same_as :: [Therapeutic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.public|Therapeutic.public]] 
 
-### #is_/same_as :: [Therapeutic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.internal|Therapeutic.internal]] 
 
-### #is_/same_as :: [Therapeutic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.protect|Therapeutic.protect]] 
 
-### #is_/same_as :: [Therapeutic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.private|Therapeutic.private]] 
 
-### #is_/same_as :: [Therapeutic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.personal|Therapeutic.personal]] 
 
-### #is_/same_as :: [Therapeutic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Device_Purpose/Therapeutic.secret|Therapeutic.secret]] 
 

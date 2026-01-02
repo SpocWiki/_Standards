@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_creative_work_status](/_Standards/schema-org/Relation/has/has_creative_work_status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_creative_work_status|has_creative_work_status]] 
 
-### #is_/same_as :: [has_creative_work_status.public](/_public/schema-org/Relation/has/has_creative_work_status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_creative_work_status.public|has_creative_work_status.public]] 
 
-### #is_/same_as :: [has_creative_work_status.internal](/_internal/schema-org/Relation/has/has_creative_work_status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_creative_work_status.internal|has_creative_work_status.internal]] 
 
-### #is_/same_as :: [has_creative_work_status.protect](/_protect/schema-org/Relation/has/has_creative_work_status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_creative_work_status.protect|has_creative_work_status.protect]] 
 
-### #is_/same_as :: [has_creative_work_status.private](/_private/schema-org/Relation/has/has_creative_work_status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_creative_work_status.private|has_creative_work_status.private]] 
 
-### #is_/same_as :: [has_creative_work_status.personal](/_personal/schema-org/Relation/has/has_creative_work_status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_creative_work_status.personal|has_creative_work_status.personal]] 
 
-### #is_/same_as :: [has_creative_work_status.secret](/_secret/schema-org/Relation/has/has_creative_work_status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_creative_work_status.secret|has_creative_work_status.secret]] 
 

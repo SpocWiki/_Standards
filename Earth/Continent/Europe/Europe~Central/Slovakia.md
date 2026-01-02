@@ -515,17 +515,17 @@ Capital :: [[Bratislava]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slovakia](/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Slovakia|Slovakia]] 
 
-### #is_/same_as :: [Slovakia.public](/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Slovakia.public|Slovakia.public]] 
 
-### #is_/same_as :: [Slovakia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Slovakia.internal|Slovakia.internal]] 
 
-### #is_/same_as :: [Slovakia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Slovakia.protect|Slovakia.protect]] 
 
-### #is_/same_as :: [Slovakia.private](/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Slovakia.private|Slovakia.private]] 
 
-### #is_/same_as :: [Slovakia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Slovakia.personal|Slovakia.personal]] 
 
-### #is_/same_as :: [Slovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Slovakia.secret|Slovakia.secret]] 
 

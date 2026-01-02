@@ -140,17 +140,17 @@ Krugosvet_article: kultura_i_obrazovanie/teatr_i_kino/GRANT_KERI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grant,Cary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary|Grant,Cary]] 
 
-### #is_/same_as :: [Grant,Cary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.public|Grant,Cary.public]] 
 
-### #is_/same_as :: [Grant,Cary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.internal|Grant,Cary.internal]] 
 
-### #is_/same_as :: [Grant,Cary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.protect|Grant,Cary.protect]] 
 
-### #is_/same_as :: [Grant,Cary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.private|Grant,Cary.private]] 
 
-### #is_/same_as :: [Grant,Cary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.personal|Grant,Cary.personal]] 
 
-### #is_/same_as :: [Grant,Cary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grant,Cary.secret|Grant,Cary.secret]] 
 

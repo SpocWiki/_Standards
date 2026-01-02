@@ -49,17 +49,17 @@ Commons_category: Lebanese Civil War
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990|1975-Lebanese_Civil_War+1990]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.public|1975-Lebanese_Civil_War+1990.public]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.internal|1975-Lebanese_Civil_War+1990.internal]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.protect|1975-Lebanese_Civil_War+1990.protect]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.private|1975-Lebanese_Civil_War+1990.private]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.personal|1975-Lebanese_Civil_War+1990.personal]] 
 
-### #is_/same_as :: [1975-Lebanese_Civil_War+1990.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1975-Lebanese_Civil_War+1990.secret|1975-Lebanese_Civil_War+1990.secret]] 
 

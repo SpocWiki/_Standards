@@ -39,17 +39,17 @@ described_by_source:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egocentrism](/_Standards/bio/Psychology/Mind/Egocentrism.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Egocentrism|Egocentrism]] 
 
-### #is_/same_as :: [Egocentrism.public](/_public/bio/Psychology/Mind/Egocentrism.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Egocentrism.public|Egocentrism.public]] 
 
-### #is_/same_as :: [Egocentrism.internal](/_internal/bio/Psychology/Mind/Egocentrism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Egocentrism.internal|Egocentrism.internal]] 
 
-### #is_/same_as :: [Egocentrism.protect](/_protect/bio/Psychology/Mind/Egocentrism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Egocentrism.protect|Egocentrism.protect]] 
 
-### #is_/same_as :: [Egocentrism.private](/_private/bio/Psychology/Mind/Egocentrism.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Egocentrism.private|Egocentrism.private]] 
 
-### #is_/same_as :: [Egocentrism.personal](/_personal/bio/Psychology/Mind/Egocentrism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Egocentrism.personal|Egocentrism.personal]] 
 
-### #is_/same_as :: [Egocentrism.secret](/_secret/bio/Psychology/Mind/Egocentrism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Egocentrism.secret|Egocentrism.secret]] 
 

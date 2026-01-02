@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_part_of_season](/_Standards/schema-org/Relation/is/part_of/is_part_of_season.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/part_of/is_part_of_season|is_part_of_season]] 
 
-### #is_/same_as :: [is_part_of_season.public](/_public/schema-org/Relation/is/part_of/is_part_of_season.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_season.public|is_part_of_season.public]] 
 
-### #is_/same_as :: [is_part_of_season.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_season.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_season.internal|is_part_of_season.internal]] 
 
-### #is_/same_as :: [is_part_of_season.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_season.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_season.protect|is_part_of_season.protect]] 
 
-### #is_/same_as :: [is_part_of_season.private](/_private/schema-org/Relation/is/part_of/is_part_of_season.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_season.private|is_part_of_season.private]] 
 
-### #is_/same_as :: [is_part_of_season.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_season.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_season.personal|is_part_of_season.personal]] 
 
-### #is_/same_as :: [is_part_of_season.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_season.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_season.secret|is_part_of_season.secret]] 
 

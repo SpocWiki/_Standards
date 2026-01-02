@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gap_Inc](/_Standards/Technology/IT/Computer_Hardware/Computer/Gap_Inc.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Gap_Inc|Gap_Inc]] 
 
-### #is_/same_as :: [Gap_Inc.public](/_public/Technology/IT/Computer_Hardware/Computer/Gap_Inc.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Gap_Inc.public|Gap_Inc.public]] 
 
-### #is_/same_as :: [Gap_Inc.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Gap_Inc.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Gap_Inc.internal|Gap_Inc.internal]] 
 
-### #is_/same_as :: [Gap_Inc.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Gap_Inc.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Gap_Inc.protect|Gap_Inc.protect]] 
 
-### #is_/same_as :: [Gap_Inc.private](/_private/Technology/IT/Computer_Hardware/Computer/Gap_Inc.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Gap_Inc.private|Gap_Inc.private]] 
 
-### #is_/same_as :: [Gap_Inc.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Gap_Inc.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Gap_Inc.personal|Gap_Inc.personal]] 
 
-### #is_/same_as :: [Gap_Inc.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Gap_Inc.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Gap_Inc.secret|Gap_Inc.secret]] 
 

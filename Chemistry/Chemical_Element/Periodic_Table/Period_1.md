@@ -40,17 +40,17 @@ Commons_category: Periodic table row 1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period_1](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1|Period_1]] 
 
-### #is_/same_as :: [Period_1.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public|Period_1.public]] 
 
-### #is_/same_as :: [Period_1.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal|Period_1.internal]] 
 
-### #is_/same_as :: [Period_1.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_1.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_1.protect|Period_1.protect]] 
 
-### #is_/same_as :: [Period_1.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_1.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_1.private|Period_1.private]] 
 
-### #is_/same_as :: [Period_1.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal|Period_1.personal]] 
 
-### #is_/same_as :: [Period_1.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret|Period_1.secret]] 
 

@@ -12,17 +12,17 @@ type: LangFamily
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-isolated](/_Standards/Language/Language_Family/LangFamily-isolated.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-isolated|LangFamily-isolated]] 
 
-### #is_/same_as :: [LangFamily-isolated.public](/_public/Language/Language_Family/LangFamily-isolated.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-isolated.public|LangFamily-isolated.public]] 
 
-### #is_/same_as :: [LangFamily-isolated.internal](/_internal/Language/Language_Family/LangFamily-isolated.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-isolated.internal|LangFamily-isolated.internal]] 
 
-### #is_/same_as :: [LangFamily-isolated.protect](/_protect/Language/Language_Family/LangFamily-isolated.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-isolated.protect|LangFamily-isolated.protect]] 
 
-### #is_/same_as :: [LangFamily-isolated.private](/_private/Language/Language_Family/LangFamily-isolated.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-isolated.private|LangFamily-isolated.private]] 
 
-### #is_/same_as :: [LangFamily-isolated.personal](/_personal/Language/Language_Family/LangFamily-isolated.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-isolated.personal|LangFamily-isolated.personal]] 
 
-### #is_/same_as :: [LangFamily-isolated.secret](/_secret/Language/Language_Family/LangFamily-isolated.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-isolated.secret|LangFamily-isolated.secret]] 
 

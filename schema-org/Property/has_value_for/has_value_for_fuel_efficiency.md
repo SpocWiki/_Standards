@@ -51,17 +51,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency](/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_fuel_efficiency|has_value_for_fuel_efficiency]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.public](/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.public|has_value_for_fuel_efficiency.public]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.internal](/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.internal|has_value_for_fuel_efficiency.internal]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.protect](/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.protect|has_value_for_fuel_efficiency.protect]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.private](/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.private|has_value_for_fuel_efficiency.private]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.personal](/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.personal|has_value_for_fuel_efficiency.personal]] 
 
-### #is_/same_as :: [has_value_for_fuel_efficiency.secret](/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_fuel_efficiency.secret|has_value_for_fuel_efficiency.secret]] 
 

@@ -95,17 +95,17 @@ Debian_Wiki_article: VideoGameConsole
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game_Console](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console|Video_Game_Console]] 
 
-### #is_/same_as :: [Video_Game_Console.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.public|Video_Game_Console.public]] 
 
-### #is_/same_as :: [Video_Game_Console.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.internal|Video_Game_Console.internal]] 
 
-### #is_/same_as :: [Video_Game_Console.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.protect|Video_Game_Console.protect]] 
 
-### #is_/same_as :: [Video_Game_Console.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.private|Video_Game_Console.private]] 
 
-### #is_/same_as :: [Video_Game_Console.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.personal|Video_Game_Console.personal]] 
 
-### #is_/same_as :: [Video_Game_Console.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Console.secret|Video_Game_Console.secret]] 
 

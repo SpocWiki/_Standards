@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_legislation](/_Standards/schema-org/Property/has_name/has_id_legislation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_legislation|has_id_legislation]] 
 
-### #is_/same_as :: [has_id_legislation.public](/_public/schema-org/Property/has_name/has_id_legislation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_legislation.public|has_id_legislation.public]] 
 
-### #is_/same_as :: [has_id_legislation.internal](/_internal/schema-org/Property/has_name/has_id_legislation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_legislation.internal|has_id_legislation.internal]] 
 
-### #is_/same_as :: [has_id_legislation.protect](/_protect/schema-org/Property/has_name/has_id_legislation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_legislation.protect|has_id_legislation.protect]] 
 
-### #is_/same_as :: [has_id_legislation.private](/_private/schema-org/Property/has_name/has_id_legislation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_legislation.private|has_id_legislation.private]] 
 
-### #is_/same_as :: [has_id_legislation.personal](/_personal/schema-org/Property/has_name/has_id_legislation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_legislation.personal|has_id_legislation.personal]] 
 
-### #is_/same_as :: [has_id_legislation.secret](/_secret/schema-org/Property/has_name/has_id_legislation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_legislation.secret|has_id_legislation.secret]] 
 

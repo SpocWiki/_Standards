@@ -40,17 +40,17 @@ Commons_category: Jet streams
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jet_Stream](/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]] 
 
-### #is_/same_as :: [Jet_Stream.public](/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public|Jet_Stream.public]] 
 
-### #is_/same_as :: [Jet_Stream.internal](/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal|Jet_Stream.internal]] 
 
-### #is_/same_as :: [Jet_Stream.protect](/_protect/Earth/Climate/Atmosphere,Earth/Jet_Stream.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Jet_Stream.protect|Jet_Stream.protect]] 
 
-### #is_/same_as :: [Jet_Stream.private](/_private/Earth/Climate/Atmosphere,Earth/Jet_Stream.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Jet_Stream.private|Jet_Stream.private]] 
 
-### #is_/same_as :: [Jet_Stream.personal](/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal|Jet_Stream.personal]] 
 
-### #is_/same_as :: [Jet_Stream.secret](/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret|Jet_Stream.secret]] 
 

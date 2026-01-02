@@ -73,17 +73,17 @@ ArchWiki_article: Network_configuration/Ethernet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethernet](/_Standards/Technology/IT/Computer_Network/Ethernet.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Ethernet|Ethernet]] 
 
-### #is_/same_as :: [Ethernet.public](/_public/Technology/IT/Computer_Network/Ethernet.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Ethernet.public|Ethernet.public]] 
 
-### #is_/same_as :: [Ethernet.internal](/_internal/Technology/IT/Computer_Network/Ethernet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Ethernet.internal|Ethernet.internal]] 
 
-### #is_/same_as :: [Ethernet.protect](/_protect/Technology/IT/Computer_Network/Ethernet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Ethernet.protect|Ethernet.protect]] 
 
-### #is_/same_as :: [Ethernet.private](/_private/Technology/IT/Computer_Network/Ethernet.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Ethernet.private|Ethernet.private]] 
 
-### #is_/same_as :: [Ethernet.personal](/_personal/Technology/IT/Computer_Network/Ethernet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Ethernet.personal|Ethernet.personal]] 
 
-### #is_/same_as :: [Ethernet.secret](/_secret/Technology/IT/Computer_Network/Ethernet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Ethernet.secret|Ethernet.secret]] 
 

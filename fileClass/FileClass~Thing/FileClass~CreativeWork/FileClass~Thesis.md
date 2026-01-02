@@ -47,17 +47,17 @@ InSupportOf:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Thesis](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis|FileClass~Thesis]] 
 
-### #is_/same_as :: [FileClass~Thesis.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.public|FileClass~Thesis.public]] 
 
-### #is_/same_as :: [FileClass~Thesis.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.internal|FileClass~Thesis.internal]] 
 
-### #is_/same_as :: [FileClass~Thesis.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.protect|FileClass~Thesis.protect]] 
 
-### #is_/same_as :: [FileClass~Thesis.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.private|FileClass~Thesis.private]] 
 
-### #is_/same_as :: [FileClass~Thesis.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.personal|FileClass~Thesis.personal]] 
 
-### #is_/same_as :: [FileClass~Thesis.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Thesis.secret|FileClass~Thesis.secret]] 
 

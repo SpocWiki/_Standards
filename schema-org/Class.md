@@ -107,17 +107,17 @@ but that may well be a concrete instance of the [[Pattern~Strategy|Strategy-Patt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Class](/_Standards/schema-org/Class.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class|Class]] 
 
-### #is_/same_as :: [Class.public](/_public/schema-org/Class.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class.public|Class.public]] 
 
-### #is_/same_as :: [Class.internal](/_internal/schema-org/Class.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class.internal|Class.internal]] 
 
-### #is_/same_as :: [Class.protect](/_protect/schema-org/Class.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class.protect|Class.protect]] 
 
-### #is_/same_as :: [Class.private](/_private/schema-org/Class.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class.private|Class.private]] 
 
-### #is_/same_as :: [Class.personal](/_personal/schema-org/Class.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class.personal|Class.personal]] 
 
-### #is_/same_as :: [Class.secret](/_secret/schema-org/Class.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class.secret|Class.secret]] 
 

@@ -151,17 +151,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hearst,William_Randolph](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph|Hearst,William_Randolph]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.public|Hearst,William_Randolph.public]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.internal|Hearst,William_Randolph.internal]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.protect|Hearst,William_Randolph.protect]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.private|Hearst,William_Randolph.private]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.personal|Hearst,William_Randolph.personal]] 
 
-### #is_/same_as :: [Hearst,William_Randolph.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Hearst,William_Randolph.secret|Hearst,William_Randolph.secret]] 
 

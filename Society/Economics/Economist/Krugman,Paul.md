@@ -194,17 +194,17 @@ Libris_URI: b8nrwnmv49l5kds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Krugman,Paul](/_Standards/Society/Economics/Economist/Krugman,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Krugman,Paul|Krugman,Paul]] 
 
-### #is_/same_as :: [Krugman,Paul.public](/_public/Society/Economics/Economist/Krugman,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Krugman,Paul.public|Krugman,Paul.public]] 
 
-### #is_/same_as :: [Krugman,Paul.internal](/_internal/Society/Economics/Economist/Krugman,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Krugman,Paul.internal|Krugman,Paul.internal]] 
 
-### #is_/same_as :: [Krugman,Paul.protect](/_protect/Society/Economics/Economist/Krugman,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Krugman,Paul.protect|Krugman,Paul.protect]] 
 
-### #is_/same_as :: [Krugman,Paul.private](/_private/Society/Economics/Economist/Krugman,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Krugman,Paul.private|Krugman,Paul.private]] 
 
-### #is_/same_as :: [Krugman,Paul.personal](/_personal/Society/Economics/Economist/Krugman,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Krugman,Paul.personal|Krugman,Paul.personal]] 
 
-### #is_/same_as :: [Krugman,Paul.secret](/_secret/Society/Economics/Economist/Krugman,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Krugman,Paul.secret|Krugman,Paul.secret]] 
 

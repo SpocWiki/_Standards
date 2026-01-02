@@ -49,17 +49,17 @@ IPTC_NewsCode: mediatopic/20000644
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization|International_Organization]] 
 
-### #is_/same_as :: [International_Organization.public](/_public/Society/Agent/Community/Organization/International_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization.public|International_Organization.public]] 
 
-### #is_/same_as :: [International_Organization.internal](/_internal/Society/Agent/Community/Organization/International_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization.internal|International_Organization.internal]] 
 
-### #is_/same_as :: [International_Organization.protect](/_protect/Society/Agent/Community/Organization/International_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization.protect|International_Organization.protect]] 
 
-### #is_/same_as :: [International_Organization.private](/_private/Society/Agent/Community/Organization/International_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization.private|International_Organization.private]] 
 
-### #is_/same_as :: [International_Organization.personal](/_personal/Society/Agent/Community/Organization/International_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization.personal|International_Organization.personal]] 
 
-### #is_/same_as :: [International_Organization.secret](/_secret/Society/Agent/Community/Organization/International_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization.secret|International_Organization.secret]] 
 

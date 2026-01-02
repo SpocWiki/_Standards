@@ -126,17 +126,17 @@ The Game type represents things which are games. These are typically rule-govern
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Game](/_Standards/Society/Communication/Media/Creative_Work/Game.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game|Game]] 
 
-### #is_/same_as :: [Game.public](/_public/Society/Communication/Media/Creative_Work/Game.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game.public|Game.public]] 
 
-### #is_/same_as :: [Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game.internal|Game.internal]] 
 
-### #is_/same_as :: [Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game.protect|Game.protect]] 
 
-### #is_/same_as :: [Game.private](/_private/Society/Communication/Media/Creative_Work/Game.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game.private|Game.private]] 
 
-### #is_/same_as :: [Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game.personal|Game.personal]] 
 
-### #is_/same_as :: [Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game.secret|Game.secret]] 
 

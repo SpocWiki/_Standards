@@ -39,17 +39,17 @@ Commons_category: Prisms (optics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prism(Optics)](/_Standards/Science/Physics/Wave/Optics/Prism(Optics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Prism(Optics)|Prism(Optics)]] 
 
-### #is_/same_as :: [Prism(Optics).public](/_public/Science/Physics/Wave/Optics/Prism(Optics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Prism(Optics).public|Prism(Optics).public]] 
 
-### #is_/same_as :: [Prism(Optics).internal](/_internal/Science/Physics/Wave/Optics/Prism(Optics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Prism(Optics).internal|Prism(Optics).internal]] 
 
-### #is_/same_as :: [Prism(Optics).protect](/_protect/Science/Physics/Wave/Optics/Prism(Optics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Prism(Optics).protect|Prism(Optics).protect]] 
 
-### #is_/same_as :: [Prism(Optics).private](/_private/Science/Physics/Wave/Optics/Prism(Optics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Prism(Optics).private|Prism(Optics).private]] 
 
-### #is_/same_as :: [Prism(Optics).personal](/_personal/Science/Physics/Wave/Optics/Prism(Optics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Prism(Optics).personal|Prism(Optics).personal]] 
 
-### #is_/same_as :: [Prism(Optics).secret](/_secret/Science/Physics/Wave/Optics/Prism(Optics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Prism(Optics).secret|Prism(Optics).secret]] 
 

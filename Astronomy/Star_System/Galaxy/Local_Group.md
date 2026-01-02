@@ -127,17 +127,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Local%20Group%20rus.pn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Local_Group](/_Standards/Astronomy/Star_System/Galaxy/Local_Group.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Local_Group|Local_Group]] 
 
-### #is_/same_as :: [Local_Group.public](/_public/Astronomy/Star_System/Galaxy/Local_Group.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Local_Group.public|Local_Group.public]] 
 
-### #is_/same_as :: [Local_Group.internal](/_internal/Astronomy/Star_System/Galaxy/Local_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Local_Group.internal|Local_Group.internal]] 
 
-### #is_/same_as :: [Local_Group.protect](/_protect/Astronomy/Star_System/Galaxy/Local_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Local_Group.protect|Local_Group.protect]] 
 
-### #is_/same_as :: [Local_Group.private](/_private/Astronomy/Star_System/Galaxy/Local_Group.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Local_Group.private|Local_Group.private]] 
 
-### #is_/same_as :: [Local_Group.personal](/_personal/Astronomy/Star_System/Galaxy/Local_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Local_Group.personal|Local_Group.personal]] 
 
-### #is_/same_as :: [Local_Group.secret](/_secret/Astronomy/Star_System/Galaxy/Local_Group.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Local_Group.secret|Local_Group.secret]] 
 

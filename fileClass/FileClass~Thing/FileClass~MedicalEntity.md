@@ -123,17 +123,17 @@ Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalEntity](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity|FileClass~MedicalEntity]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity.public|FileClass~MedicalEntity.public]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity.internal|FileClass~MedicalEntity.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity.protect|FileClass~MedicalEntity.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity.private|FileClass~MedicalEntity.private]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity.personal|FileClass~MedicalEntity.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity.secret|FileClass~MedicalEntity.secret]] 
 

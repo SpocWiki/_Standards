@@ -97,17 +97,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Empire_State_Building](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building|Empire_State_Building]] 
 
-### #is_/same_as :: [Empire_State_Building.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.public|Empire_State_Building.public]] 
 
-### #is_/same_as :: [Empire_State_Building.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.internal|Empire_State_Building.internal]] 
 
-### #is_/same_as :: [Empire_State_Building.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.protect|Empire_State_Building.protect]] 
 
-### #is_/same_as :: [Empire_State_Building.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.private|Empire_State_Building.private]] 
 
-### #is_/same_as :: [Empire_State_Building.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.personal|Empire_State_Building.personal]] 
 
-### #is_/same_as :: [Empire_State_Building.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Empire_State_Building.secret|Empire_State_Building.secret]] 
 

@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [COVID-19](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19|COVID-19]] 
 
-### #is_/same_as :: [COVID-19.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.public|COVID-19.public]] 
 
-### #is_/same_as :: [COVID-19.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.internal|COVID-19.internal]] 
 
-### #is_/same_as :: [COVID-19.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.protect|COVID-19.protect]] 
 
-### #is_/same_as :: [COVID-19.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.private|COVID-19.private]] 
 
-### #is_/same_as :: [COVID-19.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.personal|COVID-19.personal]] 
 
-### #is_/same_as :: [COVID-19.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/COVID-19.secret|COVID-19.secret]] 
 

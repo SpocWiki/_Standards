@@ -45,17 +45,17 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Content](/_Standards/Society/Communication/Media/Creative_Work/Web_Content.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content|Web_Content]] 
 
-### #is_/same_as :: [Web_Content.public](/_public/Society/Communication/Media/Creative_Work/Web_Content.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content.public|Web_Content.public]] 
 
-### #is_/same_as :: [Web_Content.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content.internal|Web_Content.internal]] 
 
-### #is_/same_as :: [Web_Content.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content.protect|Web_Content.protect]] 
 
-### #is_/same_as :: [Web_Content.private](/_private/Society/Communication/Media/Creative_Work/Web_Content.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content.private|Web_Content.private]] 
 
-### #is_/same_as :: [Web_Content.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content.personal|Web_Content.personal]] 
 
-### #is_/same_as :: [Web_Content.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content.secret|Web_Content.secret]] 
 

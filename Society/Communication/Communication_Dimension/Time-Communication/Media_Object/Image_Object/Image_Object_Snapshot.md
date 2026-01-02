@@ -43,17 +43,17 @@ A specific and exact (byte-for-byte) version of an [[ImageObject]]. Two byte-for
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Image_Object_Snapshot](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot|Image_Object_Snapshot]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.public|Image_Object_Snapshot.public]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.internal|Image_Object_Snapshot.internal]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.protect|Image_Object_Snapshot.protect]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.private|Image_Object_Snapshot.private]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.personal|Image_Object_Snapshot.personal]] 
 
-### #is_/same_as :: [Image_Object_Snapshot.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Image_Object_Snapshot.secret|Image_Object_Snapshot.secret]] 
 

@@ -41,17 +41,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ReserveAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction|FileClass~ReserveAction]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.public|FileClass~ReserveAction.public]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.internal|FileClass~ReserveAction.internal]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.protect|FileClass~ReserveAction.protect]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.private|FileClass~ReserveAction.private]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.personal|FileClass~ReserveAction.personal]] 
 
-### #is_/same_as :: [FileClass~ReserveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction/FileClass~PlanAction/FileClass~ReserveAction.secret|FileClass~ReserveAction.secret]] 
 

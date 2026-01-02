@@ -20,17 +20,17 @@ SpocWebEntityId: {{Id}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_LangFamilyTemplate](/_Standards/Language/_LangFamilyTemplate.md) 
+### #is_/same_as :: [[/_Standards/Language/_LangFamilyTemplate|_LangFamilyTemplate]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.public](/_public/Language/_LangFamilyTemplate.public.md) 
+### #is_/same_as :: [[/_public/Language/_LangFamilyTemplate.public|_LangFamilyTemplate.public]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.internal](/_internal/Language/_LangFamilyTemplate.internal.md) 
+### #is_/same_as :: [[/_internal/Language/_LangFamilyTemplate.internal|_LangFamilyTemplate.internal]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.protect](/_protect/Language/_LangFamilyTemplate.protect.md) 
+### #is_/same_as :: [[/_protect/Language/_LangFamilyTemplate.protect|_LangFamilyTemplate.protect]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.private](/_private/Language/_LangFamilyTemplate.private.md) 
+### #is_/same_as :: [[/_private/Language/_LangFamilyTemplate.private|_LangFamilyTemplate.private]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.personal](/_personal/Language/_LangFamilyTemplate.personal.md) 
+### #is_/same_as :: [[/_personal/Language/_LangFamilyTemplate.personal|_LangFamilyTemplate.personal]] 
 
-### #is_/same_as :: [_LangFamilyTemplate.secret](/_secret/Language/_LangFamilyTemplate.secret.md)
+### #is_/same_as :: [[/_secret/Language/_LangFamilyTemplate.secret|_LangFamilyTemplate.secret]] 
 

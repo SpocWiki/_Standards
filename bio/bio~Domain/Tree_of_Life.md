@@ -143,17 +143,17 @@ The \"eocyte tree\":
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tree_of_Life](/_Standards/bio/bio~Domain/Tree_of_Life.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Tree_of_Life|Tree_of_Life]] 
 
-### #is_/same_as :: [Tree_of_Life.public](/_public/bio/bio~Domain/Tree_of_Life.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Tree_of_Life.public|Tree_of_Life.public]] 
 
-### #is_/same_as :: [Tree_of_Life.internal](/_internal/bio/bio~Domain/Tree_of_Life.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Tree_of_Life.internal|Tree_of_Life.internal]] 
 
-### #is_/same_as :: [Tree_of_Life.protect](/_protect/bio/bio~Domain/Tree_of_Life.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Tree_of_Life.protect|Tree_of_Life.protect]] 
 
-### #is_/same_as :: [Tree_of_Life.private](/_private/bio/bio~Domain/Tree_of_Life.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Tree_of_Life.private|Tree_of_Life.private]] 
 
-### #is_/same_as :: [Tree_of_Life.personal](/_personal/bio/bio~Domain/Tree_of_Life.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Tree_of_Life.personal|Tree_of_Life.personal]] 
 
-### #is_/same_as :: [Tree_of_Life.secret](/_secret/bio/bio~Domain/Tree_of_Life.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Tree_of_Life.secret|Tree_of_Life.secret]] 
 

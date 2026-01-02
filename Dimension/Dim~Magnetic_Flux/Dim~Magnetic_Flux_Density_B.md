@@ -49,17 +49,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B](/_Standards/Dimension/Dim~Magnetic_Flux_Density_B.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B|Dim~Magnetic_Flux_Density_B]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.public](/_public/Dimension/Dim~Magnetic_Flux_Density_B.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.public|Dim~Magnetic_Flux_Density_B.public]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.internal](/_internal/Dimension/Dim~Magnetic_Flux_Density_B.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.internal|Dim~Magnetic_Flux_Density_B.internal]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.protect](/_protect/Dimension/Dim~Magnetic_Flux_Density_B.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.protect|Dim~Magnetic_Flux_Density_B.protect]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.private](/_private/Dimension/Dim~Magnetic_Flux_Density_B.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.private|Dim~Magnetic_Flux_Density_B.private]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.personal](/_personal/Dimension/Dim~Magnetic_Flux_Density_B.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.personal|Dim~Magnetic_Flux_Density_B.personal]] 
 
-### #is_/same_as :: [Dim~Magnetic_Flux_Density_B.secret](/_secret/Dimension/Dim~Magnetic_Flux_Density_B.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Magnetic_Flux/Dim~Magnetic_Flux_Density_B.secret|Dim~Magnetic_Flux_Density_B.secret]] 
 

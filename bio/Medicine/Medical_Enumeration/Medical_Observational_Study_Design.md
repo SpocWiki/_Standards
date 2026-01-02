@@ -39,17 +39,17 @@ Design models for observational medical studies. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Observational_Study_Design](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design|Medical_Observational_Study_Design]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.public|Medical_Observational_Study_Design.public]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.internal|Medical_Observational_Study_Design.internal]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.protect|Medical_Observational_Study_Design.protect]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.private|Medical_Observational_Study_Design.private]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.personal|Medical_Observational_Study_Design.personal]] 
 
-### #is_/same_as :: [Medical_Observational_Study_Design.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design.secret|Medical_Observational_Study_Design.secret]] 
 

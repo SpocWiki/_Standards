@@ -322,17 +322,17 @@ Capital :: [[Micronesia~Fed._States/States~Micronesia/Pohnpei/City/Palikir]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Micronesia~Fed._States](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States|Micronesia~Fed._States]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.public|Micronesia~Fed._States.public]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.internal|Micronesia~Fed._States.internal]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.protect|Micronesia~Fed._States.protect]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.private|Micronesia~Fed._States.private]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.personal|Micronesia~Fed._States.personal]] 
 
-### #is_/same_as :: [Micronesia~Fed._States.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States.secret|Micronesia~Fed._States.secret]] 
 

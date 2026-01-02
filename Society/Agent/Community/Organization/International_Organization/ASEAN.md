@@ -118,17 +118,17 @@ X_Twitter_username: ASEAN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ASEAN](/_Standards/Society/Agent/Community/Organization/International_Organization/ASEAN.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/ASEAN|ASEAN]] 
 
-### #is_/same_as :: [ASEAN.public](/_public/Society/Agent/Community/Organization/International_Organization/ASEAN.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/ASEAN.public|ASEAN.public]] 
 
-### #is_/same_as :: [ASEAN.internal](/_internal/Society/Agent/Community/Organization/International_Organization/ASEAN.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/ASEAN.internal|ASEAN.internal]] 
 
-### #is_/same_as :: [ASEAN.protect](/_protect/Society/Agent/Community/Organization/International_Organization/ASEAN.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/ASEAN.protect|ASEAN.protect]] 
 
-### #is_/same_as :: [ASEAN.private](/_private/Society/Agent/Community/Organization/International_Organization/ASEAN.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/ASEAN.private|ASEAN.private]] 
 
-### #is_/same_as :: [ASEAN.personal](/_personal/Society/Agent/Community/Organization/International_Organization/ASEAN.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/ASEAN.personal|ASEAN.personal]] 
 
-### #is_/same_as :: [ASEAN.secret](/_secret/Society/Agent/Community/Organization/International_Organization/ASEAN.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/ASEAN.secret|ASEAN.secret]] 
 

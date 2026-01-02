@@ -45,17 +45,17 @@ Commons_category: Guiana Highlands
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guiana_Highlands](/_Standards/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands|Guiana_Highlands]] 
 
-### #is_/same_as :: [Guiana_Highlands.public](/_public/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.public|Guiana_Highlands.public]] 
 
-### #is_/same_as :: [Guiana_Highlands.internal](/_internal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.internal|Guiana_Highlands.internal]] 
 
-### #is_/same_as :: [Guiana_Highlands.protect](/_protect/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.protect|Guiana_Highlands.protect]] 
 
-### #is_/same_as :: [Guiana_Highlands.private](/_private/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.private|Guiana_Highlands.private]] 
 
-### #is_/same_as :: [Guiana_Highlands.personal](/_personal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.personal|Guiana_Highlands.personal]] 
 
-### #is_/same_as :: [Guiana_Highlands.secret](/_secret/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/America~South-Landforms/Plateau-South_America/Guiana_Highlands.secret|Guiana_Highlands.secret]] 
 

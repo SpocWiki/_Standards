@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jewish_History](/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Jewish_History|Jewish_History]] 
 
-### #is_/same_as :: [Jewish_History.public](/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Jewish_History.public|Jewish_History.public]] 
 
-### #is_/same_as :: [Jewish_History.internal](/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Jewish_History.internal|Jewish_History.internal]] 
 
-### #is_/same_as :: [Jewish_History.protect](/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Jewish_History.protect|Jewish_History.protect]] 
 
-### #is_/same_as :: [Jewish_History.private](/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Jewish_History.private|Jewish_History.private]] 
 
-### #is_/same_as :: [Jewish_History.personal](/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Jewish_History.personal|Jewish_History.personal]] 
 
-### #is_/same_as :: [Jewish_History.secret](/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Jewish_History.secret|Jewish_History.secret]] 
 

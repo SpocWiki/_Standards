@@ -37,17 +37,17 @@ A play is a form of literature, usually consisting of dialogue between character
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Play](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play|FileClass~Play]] 
 
-### #is_/same_as :: [FileClass~Play.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.public|FileClass~Play.public]] 
 
-### #is_/same_as :: [FileClass~Play.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.internal|FileClass~Play.internal]] 
 
-### #is_/same_as :: [FileClass~Play.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.protect|FileClass~Play.protect]] 
 
-### #is_/same_as :: [FileClass~Play.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.private|FileClass~Play.private]] 
 
-### #is_/same_as :: [FileClass~Play.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.personal|FileClass~Play.personal]] 
 
-### #is_/same_as :: [FileClass~Play.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Play.secret|FileClass~Play.secret]] 
 

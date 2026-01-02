@@ -59,17 +59,17 @@ nickname: Guthrie's problem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Four_Color_Theorem](/_Standards/Mathematics/Topology/Four_Color_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Four_Color_Theorem|Four_Color_Theorem]] 
 
-### #is_/same_as :: [Four_Color_Theorem.public](/_public/Mathematics/Topology/Four_Color_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Four_Color_Theorem.public|Four_Color_Theorem.public]] 
 
-### #is_/same_as :: [Four_Color_Theorem.internal](/_internal/Mathematics/Topology/Four_Color_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Four_Color_Theorem.internal|Four_Color_Theorem.internal]] 
 
-### #is_/same_as :: [Four_Color_Theorem.protect](/_protect/Mathematics/Topology/Four_Color_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Four_Color_Theorem.protect|Four_Color_Theorem.protect]] 
 
-### #is_/same_as :: [Four_Color_Theorem.private](/_private/Mathematics/Topology/Four_Color_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Four_Color_Theorem.private|Four_Color_Theorem.private]] 
 
-### #is_/same_as :: [Four_Color_Theorem.personal](/_personal/Mathematics/Topology/Four_Color_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Four_Color_Theorem.personal|Four_Color_Theorem.personal]] 
 
-### #is_/same_as :: [Four_Color_Theorem.secret](/_secret/Mathematics/Topology/Four_Color_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Four_Color_Theorem.secret|Four_Color_Theorem.secret]] 
 

@@ -28,17 +28,17 @@ Commons_category: Plant cuticles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Cuticle](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle|Plant_Cuticle]] 
 
-### #is_/same_as :: [Plant_Cuticle.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.public|Plant_Cuticle.public]] 
 
-### #is_/same_as :: [Plant_Cuticle.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.internal|Plant_Cuticle.internal]] 
 
-### #is_/same_as :: [Plant_Cuticle.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.protect|Plant_Cuticle.protect]] 
 
-### #is_/same_as :: [Plant_Cuticle.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.private|Plant_Cuticle.private]] 
 
-### #is_/same_as :: [Plant_Cuticle.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.personal|Plant_Cuticle.personal]] 
 
-### #is_/same_as :: [Plant_Cuticle.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Cuticle.secret|Plant_Cuticle.secret]] 
 

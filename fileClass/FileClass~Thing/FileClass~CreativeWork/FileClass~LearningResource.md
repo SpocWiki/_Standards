@@ -50,17 +50,17 @@ CompetencyRequired:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LearningResource](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource|FileClass~LearningResource]] 
 
-### #is_/same_as :: [FileClass~LearningResource.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.public|FileClass~LearningResource.public]] 
 
-### #is_/same_as :: [FileClass~LearningResource.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.internal|FileClass~LearningResource.internal]] 
 
-### #is_/same_as :: [FileClass~LearningResource.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.protect|FileClass~LearningResource.protect]] 
 
-### #is_/same_as :: [FileClass~LearningResource.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.private|FileClass~LearningResource.private]] 
 
-### #is_/same_as :: [FileClass~LearningResource.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.personal|FileClass~LearningResource.personal]] 
 
-### #is_/same_as :: [FileClass~LearningResource.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~LearningResource.secret|FileClass~LearningResource.secret]] 
 

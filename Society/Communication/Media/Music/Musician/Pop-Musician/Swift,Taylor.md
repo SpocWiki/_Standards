@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swift,Taylor](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor|Swift,Taylor]] 
 
-### #is_/same_as :: [Swift,Taylor.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.public|Swift,Taylor.public]] 
 
-### #is_/same_as :: [Swift,Taylor.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.internal|Swift,Taylor.internal]] 
 
-### #is_/same_as :: [Swift,Taylor.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.protect|Swift,Taylor.protect]] 
 
-### #is_/same_as :: [Swift,Taylor.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.private|Swift,Taylor.private]] 
 
-### #is_/same_as :: [Swift,Taylor.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.personal|Swift,Taylor.personal]] 
 
-### #is_/same_as :: [Swift,Taylor.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Swift,Taylor.secret|Swift,Taylor.secret]] 
 

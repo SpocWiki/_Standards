@@ -41,17 +41,17 @@ A movie rental store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Movie_Rental_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store|Movie_Rental_Store]] 
 
-### #is_/same_as :: [Movie_Rental_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.public|Movie_Rental_Store.public]] 
 
-### #is_/same_as :: [Movie_Rental_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.internal|Movie_Rental_Store.internal]] 
 
-### #is_/same_as :: [Movie_Rental_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.protect|Movie_Rental_Store.protect]] 
 
-### #is_/same_as :: [Movie_Rental_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.private|Movie_Rental_Store.private]] 
 
-### #is_/same_as :: [Movie_Rental_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.personal|Movie_Rental_Store.personal]] 
 
-### #is_/same_as :: [Movie_Rental_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Movie_Rental_Store.secret|Movie_Rental_Store.secret]] 
 

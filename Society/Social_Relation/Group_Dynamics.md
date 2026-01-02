@@ -31,17 +31,17 @@ APA_Dictionary_of_Psychology_entry: group-dynamics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Dynamics](/_Standards/Society/Social_Relation/Group_Dynamics.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Group_Dynamics|Group_Dynamics]] 
 
-### #is_/same_as :: [Group_Dynamics.public](/_public/Society/Social_Relation/Group_Dynamics.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Group_Dynamics.public|Group_Dynamics.public]] 
 
-### #is_/same_as :: [Group_Dynamics.internal](/_internal/Society/Social_Relation/Group_Dynamics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Group_Dynamics.internal|Group_Dynamics.internal]] 
 
-### #is_/same_as :: [Group_Dynamics.protect](/_protect/Society/Social_Relation/Group_Dynamics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Group_Dynamics.protect|Group_Dynamics.protect]] 
 
-### #is_/same_as :: [Group_Dynamics.private](/_private/Society/Social_Relation/Group_Dynamics.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Group_Dynamics.private|Group_Dynamics.private]] 
 
-### #is_/same_as :: [Group_Dynamics.personal](/_personal/Society/Social_Relation/Group_Dynamics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Group_Dynamics.personal|Group_Dynamics.personal]] 
 
-### #is_/same_as :: [Group_Dynamics.secret](/_secret/Society/Social_Relation/Group_Dynamics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Group_Dynamics.secret|Group_Dynamics.secret]] 
 

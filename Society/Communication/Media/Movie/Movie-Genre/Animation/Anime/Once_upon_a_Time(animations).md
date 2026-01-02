@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Once_upon_a_Time(animations)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations)|Once_upon_a_Time(animations)]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).public|Once_upon_a_Time(animations).public]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).internal|Once_upon_a_Time(animations).internal]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).protect|Once_upon_a_Time(animations).protect]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).private|Once_upon_a_Time(animations).private]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).personal|Once_upon_a_Time(animations).personal]] 
 
-### #is_/same_as :: [Once_upon_a_Time(animations).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Once_upon_a_Time(animations).secret|Once_upon_a_Time(animations).secret]] 
 

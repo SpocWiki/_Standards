@@ -52,17 +52,17 @@ Library_of_Congress_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrocarbon](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon|Hydrocarbon]] 
 
-### #is_/same_as :: [Hydrocarbon.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon.public|Hydrocarbon.public]] 
 
-### #is_/same_as :: [Hydrocarbon.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon.internal|Hydrocarbon.internal]] 
 
-### #is_/same_as :: [Hydrocarbon.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon.protect|Hydrocarbon.protect]] 
 
-### #is_/same_as :: [Hydrocarbon.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon.private|Hydrocarbon.private]] 
 
-### #is_/same_as :: [Hydrocarbon.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon.personal|Hydrocarbon.personal]] 
 
-### #is_/same_as :: [Hydrocarbon.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon.secret|Hydrocarbon.secret]] 
 

@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moonraker,1979](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979|Moonraker,1979]] 
 
-### #is_/same_as :: [Moonraker,1979.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.public|Moonraker,1979.public]] 
 
-### #is_/same_as :: [Moonraker,1979.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.internal|Moonraker,1979.internal]] 
 
-### #is_/same_as :: [Moonraker,1979.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.protect|Moonraker,1979.protect]] 
 
-### #is_/same_as :: [Moonraker,1979.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.private|Moonraker,1979.private]] 
 
-### #is_/same_as :: [Moonraker,1979.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.personal|Moonraker,1979.personal]] 
 
-### #is_/same_as :: [Moonraker,1979.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Moonraker,1979.secret|Moonraker,1979.secret]] 
 

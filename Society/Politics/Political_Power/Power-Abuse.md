@@ -17,17 +17,17 @@ these new Systems continued to accumulate and abuse Power:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Power-Abuse](/_Standards/Society/Politics/Political_Power/Power-Abuse.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse|Power-Abuse]] 
 
-### #is_/same_as :: [Power-Abuse.public](/_public/Society/Politics/Political_Power/Power-Abuse.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse.public|Power-Abuse.public]] 
 
-### #is_/same_as :: [Power-Abuse.internal](/_internal/Society/Politics/Political_Power/Power-Abuse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse.internal|Power-Abuse.internal]] 
 
-### #is_/same_as :: [Power-Abuse.protect](/_protect/Society/Politics/Political_Power/Power-Abuse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse.protect|Power-Abuse.protect]] 
 
-### #is_/same_as :: [Power-Abuse.private](/_private/Society/Politics/Political_Power/Power-Abuse.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse.private|Power-Abuse.private]] 
 
-### #is_/same_as :: [Power-Abuse.personal](/_personal/Society/Politics/Political_Power/Power-Abuse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse.personal|Power-Abuse.personal]] 
 
-### #is_/same_as :: [Power-Abuse.secret](/_secret/Society/Politics/Political_Power/Power-Abuse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse.secret|Power-Abuse.secret]] 
 

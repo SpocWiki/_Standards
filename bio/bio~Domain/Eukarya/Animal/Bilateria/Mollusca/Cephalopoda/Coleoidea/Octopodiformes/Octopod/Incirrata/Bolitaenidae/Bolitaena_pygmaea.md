@@ -167,17 +167,17 @@ Reference         modified from Chun, 1910
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bolitaena_pygmaea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea|Bolitaena_pygmaea]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.public|Bolitaena_pygmaea.public]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.internal|Bolitaena_pygmaea.internal]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.protect|Bolitaena_pygmaea.protect]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.private|Bolitaena_pygmaea.private]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.personal|Bolitaena_pygmaea.personal]] 
 
-### #is_/same_as :: [Bolitaena_pygmaea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda/Coleoidea/Octopodiformes/Octopod/Incirrata/Bolitaenidae/Bolitaena_pygmaea.secret|Bolitaena_pygmaea.secret]] 
 

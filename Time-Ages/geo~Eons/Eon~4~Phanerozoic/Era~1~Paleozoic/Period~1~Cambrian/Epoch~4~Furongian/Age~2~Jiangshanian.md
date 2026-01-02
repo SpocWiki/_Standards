@@ -43,17 +43,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Jiangshanian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian|Age~2~Jiangshanian]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.public|Age~2~Jiangshanian.public]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.internal|Age~2~Jiangshanian.internal]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.protect|Age~2~Jiangshanian.protect]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.private|Age~2~Jiangshanian.private]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.personal|Age~2~Jiangshanian.personal]] 
 
-### #is_/same_as :: [Age~2~Jiangshanian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~2~Jiangshanian.secret|Age~2~Jiangshanian.secret]] 
 

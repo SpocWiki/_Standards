@@ -145,17 +145,17 @@ Plex_person_key: 5d7769d4594b2b001e6ab46a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schmidt,Eric](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric|Schmidt,Eric]] 
 
-### #is_/same_as :: [Schmidt,Eric.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.public|Schmidt,Eric.public]] 
 
-### #is_/same_as :: [Schmidt,Eric.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.internal|Schmidt,Eric.internal]] 
 
-### #is_/same_as :: [Schmidt,Eric.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.protect|Schmidt,Eric.protect]] 
 
-### #is_/same_as :: [Schmidt,Eric.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.private|Schmidt,Eric.private]] 
 
-### #is_/same_as :: [Schmidt,Eric.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.personal|Schmidt,Eric.personal]] 
 
-### #is_/same_as :: [Schmidt,Eric.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Schmidt,Eric.secret|Schmidt,Eric.secret]] 
 

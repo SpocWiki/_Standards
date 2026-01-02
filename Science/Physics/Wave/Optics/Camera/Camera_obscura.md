@@ -45,17 +45,17 @@ P8189: "987007293651805171"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Camera_obscura](/_Standards/Science/Physics/Wave/Optics/Camera/Camera_obscura.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Camera/Camera_obscura|Camera_obscura]] 
 
-### #is_/same_as :: [Camera_obscura.public](/_public/Science/Physics/Wave/Optics/Camera/Camera_obscura.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Camera/Camera_obscura.public|Camera_obscura.public]] 
 
-### #is_/same_as :: [Camera_obscura.internal](/_internal/Science/Physics/Wave/Optics/Camera/Camera_obscura.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Camera/Camera_obscura.internal|Camera_obscura.internal]] 
 
-### #is_/same_as :: [Camera_obscura.protect](/_protect/Science/Physics/Wave/Optics/Camera/Camera_obscura.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Camera/Camera_obscura.protect|Camera_obscura.protect]] 
 
-### #is_/same_as :: [Camera_obscura.private](/_private/Science/Physics/Wave/Optics/Camera/Camera_obscura.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Camera/Camera_obscura.private|Camera_obscura.private]] 
 
-### #is_/same_as :: [Camera_obscura.personal](/_personal/Science/Physics/Wave/Optics/Camera/Camera_obscura.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Camera/Camera_obscura.personal|Camera_obscura.personal]] 
 
-### #is_/same_as :: [Camera_obscura.secret](/_secret/Science/Physics/Wave/Optics/Camera/Camera_obscura.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Camera/Camera_obscura.secret|Camera_obscura.secret]] 
 

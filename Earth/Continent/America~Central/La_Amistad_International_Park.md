@@ -42,17 +42,17 @@ coordinate_location: Point(-82.936111111 9.405)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [La_Amistad_International_Park](/_Standards/Earth/Continent/America~Central/La_Amistad_International_Park.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/La_Amistad_International_Park|La_Amistad_International_Park]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.public](/_public/Earth/Continent/America~Central/La_Amistad_International_Park.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/La_Amistad_International_Park.public|La_Amistad_International_Park.public]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.internal](/_internal/Earth/Continent/America~Central/La_Amistad_International_Park.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/La_Amistad_International_Park.internal|La_Amistad_International_Park.internal]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.protect](/_protect/Earth/Continent/America~Central/La_Amistad_International_Park.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/La_Amistad_International_Park.protect|La_Amistad_International_Park.protect]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.private](/_private/Earth/Continent/America~Central/La_Amistad_International_Park.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/La_Amistad_International_Park.private|La_Amistad_International_Park.private]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.personal](/_personal/Earth/Continent/America~Central/La_Amistad_International_Park.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/La_Amistad_International_Park.personal|La_Amistad_International_Park.personal]] 
 
-### #is_/same_as :: [La_Amistad_International_Park.secret](/_secret/Earth/Continent/America~Central/La_Amistad_International_Park.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/La_Amistad_International_Park.secret|La_Amistad_International_Park.secret]] 
 

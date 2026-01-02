@@ -411,17 +411,17 @@ Capital :: [[Dili]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timor-Leste](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste|Timor-Leste]] 
 
-### #is_/same_as :: [Timor-Leste.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.public|Timor-Leste.public]] 
 
-### #is_/same_as :: [Timor-Leste.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.internal|Timor-Leste.internal]] 
 
-### #is_/same_as :: [Timor-Leste.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.protect|Timor-Leste.protect]] 
 
-### #is_/same_as :: [Timor-Leste.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.private|Timor-Leste.private]] 
 
-### #is_/same_as :: [Timor-Leste.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.personal|Timor-Leste.personal]] 
 
-### #is_/same_as :: [Timor-Leste.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Timor/Timor-Leste.secret|Timor-Leste.secret]] 
 

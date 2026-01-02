@@ -97,17 +97,17 @@ IEV_number: 601-01-10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Power_Distribution](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution|Electric_Power_Distribution]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution.public|Electric_Power_Distribution.public]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution.internal|Electric_Power_Distribution.internal]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution.protect|Electric_Power_Distribution.protect]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution.private|Electric_Power_Distribution.private]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution.personal|Electric_Power_Distribution.personal]] 
 
-### #is_/same_as :: [Electric_Power_Distribution.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution.secret|Electric_Power_Distribution.secret]] 
 

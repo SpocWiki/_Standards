@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rifle](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Rifle|Rifle]] 
 
-### #is_/same_as :: [Rifle.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.public|Rifle.public]] 
 
-### #is_/same_as :: [Rifle.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.internal|Rifle.internal]] 
 
-### #is_/same_as :: [Rifle.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.protect|Rifle.protect]] 
 
-### #is_/same_as :: [Rifle.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.private|Rifle.private]] 
 
-### #is_/same_as :: [Rifle.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.personal|Rifle.personal]] 
 
-### #is_/same_as :: [Rifle.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Rifle.secret|Rifle.secret]] 
 

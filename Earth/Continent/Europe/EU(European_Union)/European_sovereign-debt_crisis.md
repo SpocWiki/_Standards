@@ -50,17 +50,17 @@ point_in_time: 2010-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_sovereign-debt_crisis](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis|European_sovereign-debt_crisis]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.public|European_sovereign-debt_crisis.public]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.internal|European_sovereign-debt_crisis.internal]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.protect|European_sovereign-debt_crisis.protect]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.private|European_sovereign-debt_crisis.private]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.personal|European_sovereign-debt_crisis.personal]] 
 
-### #is_/same_as :: [European_sovereign-debt_crisis.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_sovereign-debt_crisis.secret|European_sovereign-debt_crisis.secret]] 
 

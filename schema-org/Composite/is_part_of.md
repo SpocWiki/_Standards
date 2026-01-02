@@ -214,17 +214,17 @@ Wikidata property: [subclass of (P279)](https://www.wikidata.org/wiki/Property
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_part_of](/_Standards/schema-org/Composite/is_part_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_part_of|is_part_of]] 
 
-### #is_/same_as :: [is_part_of.public](/_public/schema-org/Composite/is_part_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_part_of.public|is_part_of.public]] 
 
-### #is_/same_as :: [is_part_of.internal](/_internal/schema-org/Composite/is_part_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_part_of.internal|is_part_of.internal]] 
 
-### #is_/same_as :: [is_part_of.protect](/_protect/schema-org/Composite/is_part_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_part_of.protect|is_part_of.protect]] 
 
-### #is_/same_as :: [is_part_of.private](/_private/schema-org/Composite/is_part_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_part_of.private|is_part_of.private]] 
 
-### #is_/same_as :: [is_part_of.personal](/_personal/schema-org/Composite/is_part_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_part_of.personal|is_part_of.personal]] 
 
-### #is_/same_as :: [is_part_of.secret](/_secret/schema-org/Composite/is_part_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_part_of.secret|is_part_of.secret]] 
 

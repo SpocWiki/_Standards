@@ -47,17 +47,17 @@ Commons_category: Emulsions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emulsion](/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion|Emulsion]] 
 
-### #is_/same_as :: [Emulsion.public](/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.public|Emulsion.public]] 
 
-### #is_/same_as :: [Emulsion.internal](/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.internal|Emulsion.internal]] 
 
-### #is_/same_as :: [Emulsion.protect](/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.protect|Emulsion.protect]] 
 
-### #is_/same_as :: [Emulsion.private](/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.private|Emulsion.private]] 
 
-### #is_/same_as :: [Emulsion.personal](/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.personal|Emulsion.personal]] 
 
-### #is_/same_as :: [Emulsion.secret](/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Dispersion(Chemistry)/Colloid/Emulsion.secret|Emulsion.secret]] 
 

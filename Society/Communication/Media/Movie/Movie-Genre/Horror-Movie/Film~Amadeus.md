@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Film~Amadeus](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus|Film~Amadeus]] 
 
-### #is_/same_as :: [Film~Amadeus.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.public|Film~Amadeus.public]] 
 
-### #is_/same_as :: [Film~Amadeus.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.internal|Film~Amadeus.internal]] 
 
-### #is_/same_as :: [Film~Amadeus.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.protect|Film~Amadeus.protect]] 
 
-### #is_/same_as :: [Film~Amadeus.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.private|Film~Amadeus.private]] 
 
-### #is_/same_as :: [Film~Amadeus.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.personal|Film~Amadeus.personal]] 
 
-### #is_/same_as :: [Film~Amadeus.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Film~Amadeus.secret|Film~Amadeus.secret]] 
 

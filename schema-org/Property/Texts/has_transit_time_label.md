@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_transit_time_label](/_Standards/schema-org/Property/Texts/has_transit_time_label.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_transit_time_label|has_transit_time_label]] 
 
-### #is_/same_as :: [has_transit_time_label.public](/_public/schema-org/Property/Texts/has_transit_time_label.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_transit_time_label.public|has_transit_time_label.public]] 
 
-### #is_/same_as :: [has_transit_time_label.internal](/_internal/schema-org/Property/Texts/has_transit_time_label.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_transit_time_label.internal|has_transit_time_label.internal]] 
 
-### #is_/same_as :: [has_transit_time_label.protect](/_protect/schema-org/Property/Texts/has_transit_time_label.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_transit_time_label.protect|has_transit_time_label.protect]] 
 
-### #is_/same_as :: [has_transit_time_label.private](/_private/schema-org/Property/Texts/has_transit_time_label.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_transit_time_label.private|has_transit_time_label.private]] 
 
-### #is_/same_as :: [has_transit_time_label.personal](/_personal/schema-org/Property/Texts/has_transit_time_label.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_transit_time_label.personal|has_transit_time_label.personal]] 
 
-### #is_/same_as :: [has_transit_time_label.secret](/_secret/schema-org/Property/Texts/has_transit_time_label.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_transit_time_label.secret|has_transit_time_label.secret]] 
 

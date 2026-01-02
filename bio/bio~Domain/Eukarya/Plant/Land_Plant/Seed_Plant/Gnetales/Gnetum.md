@@ -100,17 +100,17 @@ Sciences157(6, Suppl.): S40-S49.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gnetum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum|Gnetum]] 
 
-### #is_/same_as :: [Gnetum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.public|Gnetum.public]] 
 
-### #is_/same_as :: [Gnetum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.internal|Gnetum.internal]] 
 
-### #is_/same_as :: [Gnetum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.protect|Gnetum.protect]] 
 
-### #is_/same_as :: [Gnetum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.private|Gnetum.private]] 
 
-### #is_/same_as :: [Gnetum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.personal|Gnetum.personal]] 
 
-### #is_/same_as :: [Gnetum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Gnetum.secret|Gnetum.secret]] 
 

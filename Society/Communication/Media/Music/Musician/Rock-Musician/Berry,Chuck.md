@@ -164,17 +164,17 @@ Europeana_entity: agent/base/60431
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berry,Chuck](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck|Berry,Chuck]] 
 
-### #is_/same_as :: [Berry,Chuck.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.public|Berry,Chuck.public]] 
 
-### #is_/same_as :: [Berry,Chuck.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.internal|Berry,Chuck.internal]] 
 
-### #is_/same_as :: [Berry,Chuck.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.protect|Berry,Chuck.protect]] 
 
-### #is_/same_as :: [Berry,Chuck.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.private|Berry,Chuck.private]] 
 
-### #is_/same_as :: [Berry,Chuck.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.personal|Berry,Chuck.personal]] 
 
-### #is_/same_as :: [Berry,Chuck.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Berry,Chuck.secret|Berry,Chuck.secret]] 
 

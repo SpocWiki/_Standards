@@ -94,17 +94,17 @@ inception: -1499-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rigveda](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda|Rigveda]] 
 
-### #is_/same_as :: [Rigveda.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.public|Rigveda.public]] 
 
-### #is_/same_as :: [Rigveda.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.internal|Rigveda.internal]] 
 
-### #is_/same_as :: [Rigveda.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.protect|Rigveda.protect]] 
 
-### #is_/same_as :: [Rigveda.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.private|Rigveda.private]] 
 
-### #is_/same_as :: [Rigveda.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.personal|Rigveda.personal]] 
 
-### #is_/same_as :: [Rigveda.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Rigveda.secret|Rigveda.secret]] 
 

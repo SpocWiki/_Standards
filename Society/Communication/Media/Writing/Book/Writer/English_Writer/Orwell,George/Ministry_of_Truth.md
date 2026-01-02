@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ministry_of_Truth](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth|Ministry_of_Truth]] 
 
-### #is_/same_as :: [Ministry_of_Truth.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.public|Ministry_of_Truth.public]] 
 
-### #is_/same_as :: [Ministry_of_Truth.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.internal|Ministry_of_Truth.internal]] 
 
-### #is_/same_as :: [Ministry_of_Truth.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.protect|Ministry_of_Truth.protect]] 
 
-### #is_/same_as :: [Ministry_of_Truth.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.private|Ministry_of_Truth.private]] 
 
-### #is_/same_as :: [Ministry_of_Truth.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.personal|Ministry_of_Truth.personal]] 
 
-### #is_/same_as :: [Ministry_of_Truth.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Ministry_of_Truth.secret|Ministry_of_Truth.secret]] 
 

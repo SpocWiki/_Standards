@@ -106,17 +106,17 @@ Commons_category: Neutrino physics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neutrino](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino|Neutrino]] 
 
-### #is_/same_as :: [Neutrino.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.public|Neutrino.public]] 
 
-### #is_/same_as :: [Neutrino.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.internal|Neutrino.internal]] 
 
-### #is_/same_as :: [Neutrino.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.protect|Neutrino.protect]] 
 
-### #is_/same_as :: [Neutrino.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.private|Neutrino.private]] 
 
-### #is_/same_as :: [Neutrino.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.personal|Neutrino.personal]] 
 
-### #is_/same_as :: [Neutrino.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Neutrino.secret|Neutrino.secret]] 
 

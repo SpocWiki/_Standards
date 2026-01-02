@@ -41,17 +41,17 @@ A structured value representing the duration and scope of services that will be 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Warranty_Promise](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise|Warranty_Promise]] 
 
-### #is_/same_as :: [Warranty_Promise.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.public|Warranty_Promise.public]] 
 
-### #is_/same_as :: [Warranty_Promise.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.internal|Warranty_Promise.internal]] 
 
-### #is_/same_as :: [Warranty_Promise.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.protect|Warranty_Promise.protect]] 
 
-### #is_/same_as :: [Warranty_Promise.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.private|Warranty_Promise.private]] 
 
-### #is_/same_as :: [Warranty_Promise.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.personal|Warranty_Promise.personal]] 
 
-### #is_/same_as :: [Warranty_Promise.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Warranty_Promise.secret|Warranty_Promise.secret]] 
 

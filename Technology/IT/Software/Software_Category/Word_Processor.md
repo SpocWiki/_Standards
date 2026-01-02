@@ -51,17 +51,17 @@ Dewey_Decimal_Classification: "005.52"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Word_Processor](/_Standards/Technology/IT/Software/Software_Category/Word_Processor.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category/Word_Processor|Word_Processor]] 
 
-### #is_/same_as :: [Word_Processor.public](/_public/Technology/IT/Software/Software_Category/Word_Processor.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category/Word_Processor.public|Word_Processor.public]] 
 
-### #is_/same_as :: [Word_Processor.internal](/_internal/Technology/IT/Software/Software_Category/Word_Processor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category/Word_Processor.internal|Word_Processor.internal]] 
 
-### #is_/same_as :: [Word_Processor.protect](/_protect/Technology/IT/Software/Software_Category/Word_Processor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category/Word_Processor.protect|Word_Processor.protect]] 
 
-### #is_/same_as :: [Word_Processor.private](/_private/Technology/IT/Software/Software_Category/Word_Processor.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category/Word_Processor.private|Word_Processor.private]] 
 
-### #is_/same_as :: [Word_Processor.personal](/_personal/Technology/IT/Software/Software_Category/Word_Processor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category/Word_Processor.personal|Word_Processor.personal]] 
 
-### #is_/same_as :: [Word_Processor.secret](/_secret/Technology/IT/Software/Software_Category/Word_Processor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category/Word_Processor.secret|Word_Processor.secret]] 
 

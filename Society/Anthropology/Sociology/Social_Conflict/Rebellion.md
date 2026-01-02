@@ -55,17 +55,17 @@ Commons_category: Rebellions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rebellion](/_Standards/Society/Anthropology/Sociology/Social_Conflict/Rebellion.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Conflict/Rebellion|Rebellion]] 
 
-### #is_/same_as :: [Rebellion.public](/_public/Society/Anthropology/Sociology/Social_Conflict/Rebellion.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Conflict/Rebellion.public|Rebellion.public]] 
 
-### #is_/same_as :: [Rebellion.internal](/_internal/Society/Anthropology/Sociology/Social_Conflict/Rebellion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Conflict/Rebellion.internal|Rebellion.internal]] 
 
-### #is_/same_as :: [Rebellion.protect](/_protect/Society/Anthropology/Sociology/Social_Conflict/Rebellion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Conflict/Rebellion.protect|Rebellion.protect]] 
 
-### #is_/same_as :: [Rebellion.private](/_private/Society/Anthropology/Sociology/Social_Conflict/Rebellion.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Conflict/Rebellion.private|Rebellion.private]] 
 
-### #is_/same_as :: [Rebellion.personal](/_personal/Society/Anthropology/Sociology/Social_Conflict/Rebellion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Conflict/Rebellion.personal|Rebellion.personal]] 
 
-### #is_/same_as :: [Rebellion.secret](/_secret/Society/Anthropology/Sociology/Social_Conflict/Rebellion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Conflict/Rebellion.secret|Rebellion.secret]] 
 

@@ -22,17 +22,17 @@ Commons_category: Greenstone belts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greenstone_Belt](/_Standards/Earth/Geology/Mineral/Greenstone_Belt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Greenstone_Belt|Greenstone_Belt]] 
 
-### #is_/same_as :: [Greenstone_Belt.public](/_public/Earth/Geology/Mineral/Greenstone_Belt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Greenstone_Belt.public|Greenstone_Belt.public]] 
 
-### #is_/same_as :: [Greenstone_Belt.internal](/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Greenstone_Belt.internal|Greenstone_Belt.internal]] 
 
-### #is_/same_as :: [Greenstone_Belt.protect](/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Greenstone_Belt.protect|Greenstone_Belt.protect]] 
 
-### #is_/same_as :: [Greenstone_Belt.private](/_private/Earth/Geology/Mineral/Greenstone_Belt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Greenstone_Belt.private|Greenstone_Belt.private]] 
 
-### #is_/same_as :: [Greenstone_Belt.personal](/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Greenstone_Belt.personal|Greenstone_Belt.personal]] 
 
-### #is_/same_as :: [Greenstone_Belt.secret](/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Greenstone_Belt.secret|Greenstone_Belt.secret]] 
 

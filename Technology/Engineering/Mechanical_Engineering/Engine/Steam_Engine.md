@@ -56,17 +56,17 @@ IMDb_keyword: steam-engine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steam_Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine|Steam_Engine]] 
 
-### #is_/same_as :: [Steam_Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.public|Steam_Engine.public]] 
 
-### #is_/same_as :: [Steam_Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.internal|Steam_Engine.internal]] 
 
-### #is_/same_as :: [Steam_Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.protect|Steam_Engine.protect]] 
 
-### #is_/same_as :: [Steam_Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.private|Steam_Engine.private]] 
 
-### #is_/same_as :: [Steam_Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.personal|Steam_Engine.personal]] 
 
-### #is_/same_as :: [Steam_Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine.secret|Steam_Engine.secret]] 
 

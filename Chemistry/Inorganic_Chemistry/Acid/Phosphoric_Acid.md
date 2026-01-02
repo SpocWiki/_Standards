@@ -115,17 +115,17 @@ DSSTOX_compound_identifier: DTXCID804263
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phosphoric_Acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid|Phosphoric_Acid]] 
 
-### #is_/same_as :: [Phosphoric_Acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.public|Phosphoric_Acid.public]] 
 
-### #is_/same_as :: [Phosphoric_Acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.internal|Phosphoric_Acid.internal]] 
 
-### #is_/same_as :: [Phosphoric_Acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.protect|Phosphoric_Acid.protect]] 
 
-### #is_/same_as :: [Phosphoric_Acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.private|Phosphoric_Acid.private]] 
 
-### #is_/same_as :: [Phosphoric_Acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.personal|Phosphoric_Acid.personal]] 
 
-### #is_/same_as :: [Phosphoric_Acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Phosphoric_Acid.secret|Phosphoric_Acid.secret]] 
 

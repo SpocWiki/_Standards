@@ -106,17 +106,17 @@ ISNI: 0000000121333830
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hardy,Thomas](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas|Hardy,Thomas]] 
 
-### #is_/same_as :: [Hardy,Thomas.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.public|Hardy,Thomas.public]] 
 
-### #is_/same_as :: [Hardy,Thomas.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.internal|Hardy,Thomas.internal]] 
 
-### #is_/same_as :: [Hardy,Thomas.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.protect|Hardy,Thomas.protect]] 
 
-### #is_/same_as :: [Hardy,Thomas.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.private|Hardy,Thomas.private]] 
 
-### #is_/same_as :: [Hardy,Thomas.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.personal|Hardy,Thomas.personal]] 
 
-### #is_/same_as :: [Hardy,Thomas.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Hardy,Thomas.secret|Hardy,Thomas.secret]] 
 

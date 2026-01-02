@@ -37,17 +37,17 @@ Commons_category: Cloaks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cloak](/_Standards/Technology/Tool/Clothing/Cloak.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Cloak|Cloak]] 
 
-### #is_/same_as :: [Cloak.public](/_public/Technology/Tool/Clothing/Cloak.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Cloak.public|Cloak.public]] 
 
-### #is_/same_as :: [Cloak.internal](/_internal/Technology/Tool/Clothing/Cloak.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Cloak.internal|Cloak.internal]] 
 
-### #is_/same_as :: [Cloak.protect](/_protect/Technology/Tool/Clothing/Cloak.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Cloak.protect|Cloak.protect]] 
 
-### #is_/same_as :: [Cloak.private](/_private/Technology/Tool/Clothing/Cloak.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Cloak.private|Cloak.private]] 
 
-### #is_/same_as :: [Cloak.personal](/_personal/Technology/Tool/Clothing/Cloak.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Cloak.personal|Cloak.personal]] 
 
-### #is_/same_as :: [Cloak.secret](/_secret/Technology/Tool/Clothing/Cloak.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Cloak.secret|Cloak.secret]] 
 

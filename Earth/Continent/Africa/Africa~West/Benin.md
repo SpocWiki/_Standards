@@ -493,17 +493,17 @@ Capital :: [[Benin/Departements~Benin/Ouémé/counties~Ouémé/Porto-Novo]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benin](/_Standards/Earth/Continent/Africa/Africa~West/Benin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Benin|Benin]] 
 
-### #is_/same_as :: [Benin.public](/_public/Earth/Continent/Africa/Africa~West/Benin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Benin.public|Benin.public]] 
 
-### #is_/same_as :: [Benin.internal](/_internal/Earth/Continent/Africa/Africa~West/Benin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Benin.internal|Benin.internal]] 
 
-### #is_/same_as :: [Benin.protect](/_protect/Earth/Continent/Africa/Africa~West/Benin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Benin.protect|Benin.protect]] 
 
-### #is_/same_as :: [Benin.private](/_private/Earth/Continent/Africa/Africa~West/Benin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Benin.private|Benin.private]] 
 
-### #is_/same_as :: [Benin.personal](/_personal/Earth/Continent/Africa/Africa~West/Benin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Benin.personal|Benin.personal]] 
 
-### #is_/same_as :: [Benin.secret](/_secret/Earth/Continent/Africa/Africa~West/Benin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Benin.secret|Benin.secret]] 
 

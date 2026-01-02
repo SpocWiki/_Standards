@@ -225,17 +225,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_ContinentDB](/_Standards/Earth/Continent/_ContinentDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_ContinentDB|_ContinentDB]] 
 
-### #is_/same_as :: [_ContinentDB.public](/_public/Earth/Continent/_ContinentDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_ContinentDB.public|_ContinentDB.public]] 
 
-### #is_/same_as :: [_ContinentDB.internal](/_internal/Earth/Continent/_ContinentDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_ContinentDB.internal|_ContinentDB.internal]] 
 
-### #is_/same_as :: [_ContinentDB.protect](/_protect/Earth/Continent/_ContinentDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_ContinentDB.protect|_ContinentDB.protect]] 
 
-### #is_/same_as :: [_ContinentDB.private](/_private/Earth/Continent/_ContinentDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_ContinentDB.private|_ContinentDB.private]] 
 
-### #is_/same_as :: [_ContinentDB.personal](/_personal/Earth/Continent/_ContinentDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_ContinentDB.personal|_ContinentDB.personal]] 
 
-### #is_/same_as :: [_ContinentDB.secret](/_secret/Earth/Continent/_ContinentDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_ContinentDB.secret|_ContinentDB.secret]] 
 

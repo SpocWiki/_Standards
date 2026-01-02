@@ -37,17 +37,17 @@ IMDb_keyword: middle-class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Middle_Class](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class|Middle_Class]] 
 
-### #is_/same_as :: [Middle_Class.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.public|Middle_Class.public]] 
 
-### #is_/same_as :: [Middle_Class.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.internal|Middle_Class.internal]] 
 
-### #is_/same_as :: [Middle_Class.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.protect|Middle_Class.protect]] 
 
-### #is_/same_as :: [Middle_Class.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.private|Middle_Class.private]] 
 
-### #is_/same_as :: [Middle_Class.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.personal|Middle_Class.personal]] 
 
-### #is_/same_as :: [Middle_Class.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Middle_Class.secret|Middle_Class.secret]] 
 

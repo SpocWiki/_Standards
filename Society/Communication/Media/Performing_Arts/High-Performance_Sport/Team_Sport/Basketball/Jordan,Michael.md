@@ -198,17 +198,17 @@ Baidu_Tieba_name: 乔丹
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jordan,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael|Jordan,Michael]] 
 
-### #is_/same_as :: [Jordan,Michael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.public|Jordan,Michael.public]] 
 
-### #is_/same_as :: [Jordan,Michael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.internal|Jordan,Michael.internal]] 
 
-### #is_/same_as :: [Jordan,Michael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.protect|Jordan,Michael.protect]] 
 
-### #is_/same_as :: [Jordan,Michael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.private|Jordan,Michael.private]] 
 
-### #is_/same_as :: [Jordan,Michael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.personal|Jordan,Michael.personal]] 
 
-### #is_/same_as :: [Jordan,Michael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Jordan,Michael.secret|Jordan,Michael.secret]] 
 

@@ -43,17 +43,17 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performing_Group](/_Standards/Society/Agent/Community/Organization/Performing_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Performing_Group|Performing_Group]] 
 
-### #is_/same_as :: [Performing_Group.public](/_public/Society/Agent/Community/Organization/Performing_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Performing_Group.public|Performing_Group.public]] 
 
-### #is_/same_as :: [Performing_Group.internal](/_internal/Society/Agent/Community/Organization/Performing_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Performing_Group.internal|Performing_Group.internal]] 
 
-### #is_/same_as :: [Performing_Group.protect](/_protect/Society/Agent/Community/Organization/Performing_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Performing_Group.protect|Performing_Group.protect]] 
 
-### #is_/same_as :: [Performing_Group.private](/_private/Society/Agent/Community/Organization/Performing_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Performing_Group.private|Performing_Group.private]] 
 
-### #is_/same_as :: [Performing_Group.personal](/_personal/Society/Agent/Community/Organization/Performing_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Performing_Group.personal|Performing_Group.personal]] 
 
-### #is_/same_as :: [Performing_Group.secret](/_secret/Society/Agent/Community/Organization/Performing_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Performing_Group.secret|Performing_Group.secret]] 
 

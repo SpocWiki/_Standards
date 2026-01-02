@@ -39,17 +39,17 @@ Any specific branch of medical science or practice. Medical specialities include
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Specialty](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty|Medical_Specialty]] 
 
-### #is_/same_as :: [Medical_Specialty.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty.public|Medical_Specialty.public]] 
 
-### #is_/same_as :: [Medical_Specialty.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty.internal|Medical_Specialty.internal]] 
 
-### #is_/same_as :: [Medical_Specialty.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty.protect|Medical_Specialty.protect]] 
 
-### #is_/same_as :: [Medical_Specialty.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty.private|Medical_Specialty.private]] 
 
-### #is_/same_as :: [Medical_Specialty.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty.personal|Medical_Specialty.personal]] 
 
-### #is_/same_as :: [Medical_Specialty.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty.secret|Medical_Specialty.secret]] 
 

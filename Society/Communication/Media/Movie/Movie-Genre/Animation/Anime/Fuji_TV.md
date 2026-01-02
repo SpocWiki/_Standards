@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuji_TV](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV|Fuji_TV]] 
 
-### #is_/same_as :: [Fuji_TV.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.public|Fuji_TV.public]] 
 
-### #is_/same_as :: [Fuji_TV.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.internal|Fuji_TV.internal]] 
 
-### #is_/same_as :: [Fuji_TV.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.protect|Fuji_TV.protect]] 
 
-### #is_/same_as :: [Fuji_TV.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.private|Fuji_TV.private]] 
 
-### #is_/same_as :: [Fuji_TV.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.personal|Fuji_TV.personal]] 
 
-### #is_/same_as :: [Fuji_TV.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Fuji_TV.secret|Fuji_TV.secret]] 
 

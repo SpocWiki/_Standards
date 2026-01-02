@@ -10,17 +10,17 @@ This is a very large, mesoscopic Momentum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Momentum](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum|Planck-Momentum]] 
 
-### #is_/same_as :: [Planck-Momentum.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.public|Planck-Momentum.public]] 
 
-### #is_/same_as :: [Planck-Momentum.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.internal|Planck-Momentum.internal]] 
 
-### #is_/same_as :: [Planck-Momentum.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.protect|Planck-Momentum.protect]] 
 
-### #is_/same_as :: [Planck-Momentum.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.private|Planck-Momentum.private]] 
 
-### #is_/same_as :: [Planck-Momentum.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.personal|Planck-Momentum.personal]] 
 
-### #is_/same_as :: [Planck-Momentum.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Momentum.secret|Planck-Momentum.secret]] 
 

@@ -371,17 +371,17 @@ Royal_Academy_new_identifier: paul-gauguin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paul_Gauguin](/_Standards/Society/Communication/Media/Painting/Painter/Paul_Gauguin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Paul_Gauguin|Paul_Gauguin]] 
 
-### #is_/same_as :: [Paul_Gauguin.public](/_public/Society/Communication/Media/Painting/Painter/Paul_Gauguin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Paul_Gauguin.public|Paul_Gauguin.public]] 
 
-### #is_/same_as :: [Paul_Gauguin.internal](/_internal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.internal|Paul_Gauguin.internal]] 
 
-### #is_/same_as :: [Paul_Gauguin.protect](/_protect/Society/Communication/Media/Painting/Painter/Paul_Gauguin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Paul_Gauguin.protect|Paul_Gauguin.protect]] 
 
-### #is_/same_as :: [Paul_Gauguin.private](/_private/Society/Communication/Media/Painting/Painter/Paul_Gauguin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Paul_Gauguin.private|Paul_Gauguin.private]] 
 
-### #is_/same_as :: [Paul_Gauguin.personal](/_personal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Paul_Gauguin.personal|Paul_Gauguin.personal]] 
 
-### #is_/same_as :: [Paul_Gauguin.secret](/_secret/Society/Communication/Media/Painting/Painter/Paul_Gauguin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Paul_Gauguin.secret|Paul_Gauguin.secret]] 
 

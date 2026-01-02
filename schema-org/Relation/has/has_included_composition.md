@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_included_composition](/_Standards/schema-org/Relation/has/has_included_composition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_included_composition|has_included_composition]] 
 
-### #is_/same_as :: [has_included_composition.public](/_public/schema-org/Relation/has/has_included_composition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_included_composition.public|has_included_composition.public]] 
 
-### #is_/same_as :: [has_included_composition.internal](/_internal/schema-org/Relation/has/has_included_composition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_included_composition.internal|has_included_composition.internal]] 
 
-### #is_/same_as :: [has_included_composition.protect](/_protect/schema-org/Relation/has/has_included_composition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_included_composition.protect|has_included_composition.protect]] 
 
-### #is_/same_as :: [has_included_composition.private](/_private/schema-org/Relation/has/has_included_composition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_included_composition.private|has_included_composition.private]] 
 
-### #is_/same_as :: [has_included_composition.personal](/_personal/schema-org/Relation/has/has_included_composition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_included_composition.personal|has_included_composition.personal]] 
 
-### #is_/same_as :: [has_included_composition.secret](/_secret/schema-org/Relation/has/has_included_composition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_included_composition.secret|has_included_composition.secret]] 
 

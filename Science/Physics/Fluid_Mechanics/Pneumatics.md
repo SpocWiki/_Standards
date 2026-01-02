@@ -38,17 +38,17 @@ Commons_category: Pneumatics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pneumatics](/_Standards/Science/Physics/Fluid_Mechanics/Pneumatics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Pneumatics|Pneumatics]] 
 
-### #is_/same_as :: [Pneumatics.public](/_public/Science/Physics/Fluid_Mechanics/Pneumatics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Pneumatics.public|Pneumatics.public]] 
 
-### #is_/same_as :: [Pneumatics.internal](/_internal/Science/Physics/Fluid_Mechanics/Pneumatics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Pneumatics.internal|Pneumatics.internal]] 
 
-### #is_/same_as :: [Pneumatics.protect](/_protect/Science/Physics/Fluid_Mechanics/Pneumatics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Pneumatics.protect|Pneumatics.protect]] 
 
-### #is_/same_as :: [Pneumatics.private](/_private/Science/Physics/Fluid_Mechanics/Pneumatics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Pneumatics.private|Pneumatics.private]] 
 
-### #is_/same_as :: [Pneumatics.personal](/_personal/Science/Physics/Fluid_Mechanics/Pneumatics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Pneumatics.personal|Pneumatics.personal]] 
 
-### #is_/same_as :: [Pneumatics.secret](/_secret/Science/Physics/Fluid_Mechanics/Pneumatics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Pneumatics.secret|Pneumatics.secret]] 
 

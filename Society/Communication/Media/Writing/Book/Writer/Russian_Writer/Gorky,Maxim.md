@@ -143,17 +143,17 @@ Europeana_entity: agent/base/60863
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorky,Maxim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim|Gorky,Maxim]] 
 
-### #is_/same_as :: [Gorky,Maxim.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.public|Gorky,Maxim.public]] 
 
-### #is_/same_as :: [Gorky,Maxim.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.internal|Gorky,Maxim.internal]] 
 
-### #is_/same_as :: [Gorky,Maxim.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.protect|Gorky,Maxim.protect]] 
 
-### #is_/same_as :: [Gorky,Maxim.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.private|Gorky,Maxim.private]] 
 
-### #is_/same_as :: [Gorky,Maxim.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.personal|Gorky,Maxim.personal]] 
 
-### #is_/same_as :: [Gorky,Maxim.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gorky,Maxim.secret|Gorky,Maxim.secret]] 
 

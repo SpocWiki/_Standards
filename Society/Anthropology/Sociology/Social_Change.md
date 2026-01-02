@@ -37,17 +37,17 @@ Commons_category: Social change
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Change](/_Standards/Society/Anthropology/Sociology/Social_Change.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Change|Social_Change]] 
 
-### #is_/same_as :: [Social_Change.public](/_public/Society/Anthropology/Sociology/Social_Change.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Change.public|Social_Change.public]] 
 
-### #is_/same_as :: [Social_Change.internal](/_internal/Society/Anthropology/Sociology/Social_Change.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Change.internal|Social_Change.internal]] 
 
-### #is_/same_as :: [Social_Change.protect](/_protect/Society/Anthropology/Sociology/Social_Change.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Change.protect|Social_Change.protect]] 
 
-### #is_/same_as :: [Social_Change.private](/_private/Society/Anthropology/Sociology/Social_Change.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Change.private|Social_Change.private]] 
 
-### #is_/same_as :: [Social_Change.personal](/_personal/Society/Anthropology/Sociology/Social_Change.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Change.personal|Social_Change.personal]] 
 
-### #is_/same_as :: [Social_Change.secret](/_secret/Society/Anthropology/Sociology/Social_Change.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Change.secret|Social_Change.secret]] 
 

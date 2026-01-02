@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_colorist](/_Standards/schema-org/Relation/has/has_colorist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_colorist|has_colorist]] 
 
-### #is_/same_as :: [has_colorist.public](/_public/schema-org/Relation/has/has_colorist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_colorist.public|has_colorist.public]] 
 
-### #is_/same_as :: [has_colorist.internal](/_internal/schema-org/Relation/has/has_colorist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_colorist.internal|has_colorist.internal]] 
 
-### #is_/same_as :: [has_colorist.protect](/_protect/schema-org/Relation/has/has_colorist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_colorist.protect|has_colorist.protect]] 
 
-### #is_/same_as :: [has_colorist.private](/_private/schema-org/Relation/has/has_colorist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_colorist.private|has_colorist.private]] 
 
-### #is_/same_as :: [has_colorist.personal](/_personal/schema-org/Relation/has/has_colorist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_colorist.personal|has_colorist.personal]] 
 
-### #is_/same_as :: [has_colorist.secret](/_secret/schema-org/Relation/has/has_colorist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_colorist.secret|has_colorist.secret]] 
 

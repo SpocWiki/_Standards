@@ -73,17 +73,17 @@ Archive_of_Our_Own_tag: Dubious Science
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudoscience](/_Standards/Science/Pseudoscience.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience|Pseudoscience]] 
 
-### #is_/same_as :: [Pseudoscience.public](/_public/Science/Pseudoscience.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Pseudoscience.public|Pseudoscience.public]] 
 
-### #is_/same_as :: [Pseudoscience.internal](/_internal/Science/Pseudoscience.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Pseudoscience.internal|Pseudoscience.internal]] 
 
-### #is_/same_as :: [Pseudoscience.protect](/_protect/Science/Pseudoscience.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Pseudoscience.protect|Pseudoscience.protect]] 
 
-### #is_/same_as :: [Pseudoscience.private](/_private/Science/Pseudoscience.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Pseudoscience.private|Pseudoscience.private]] 
 
-### #is_/same_as :: [Pseudoscience.personal](/_personal/Science/Pseudoscience.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Pseudoscience.personal|Pseudoscience.personal]] 
 
-### #is_/same_as :: [Pseudoscience.secret](/_secret/Science/Pseudoscience.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Pseudoscience.secret|Pseudoscience.secret]] 
 

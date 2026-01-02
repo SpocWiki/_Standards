@@ -122,17 +122,17 @@ Germany has sold many public Housings between 1995 and 2010.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [George,Henry](/_Standards/Society/Economics/Economist/George,Henry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/George,Henry|George,Henry]] 
 
-### #is_/same_as :: [George,Henry.public](/_public/Society/Economics/Economist/George,Henry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/George,Henry.public|George,Henry.public]] 
 
-### #is_/same_as :: [George,Henry.internal](/_internal/Society/Economics/Economist/George,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/George,Henry.internal|George,Henry.internal]] 
 
-### #is_/same_as :: [George,Henry.protect](/_protect/Society/Economics/Economist/George,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/George,Henry.protect|George,Henry.protect]] 
 
-### #is_/same_as :: [George,Henry.private](/_private/Society/Economics/Economist/George,Henry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/George,Henry.private|George,Henry.private]] 
 
-### #is_/same_as :: [George,Henry.personal](/_personal/Society/Economics/Economist/George,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/George,Henry.personal|George,Henry.personal]] 
 
-### #is_/same_as :: [George,Henry.secret](/_secret/Society/Economics/Economist/George,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/George,Henry.secret|George,Henry.secret]] 
 

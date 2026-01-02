@@ -66,17 +66,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Existentialism](/_Standards/Philosophy/Existentialism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Existentialism|Existentialism]] 
 
-### #is_/same_as :: [Existentialism.public](/_public/Philosophy/Existentialism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Existentialism.public|Existentialism.public]] 
 
-### #is_/same_as :: [Existentialism.internal](/_internal/Philosophy/Existentialism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Existentialism.internal|Existentialism.internal]] 
 
-### #is_/same_as :: [Existentialism.protect](/_protect/Philosophy/Existentialism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Existentialism.protect|Existentialism.protect]] 
 
-### #is_/same_as :: [Existentialism.private](/_private/Philosophy/Existentialism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Existentialism.private|Existentialism.private]] 
 
-### #is_/same_as :: [Existentialism.personal](/_personal/Philosophy/Existentialism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Existentialism.personal|Existentialism.personal]] 
 
-### #is_/same_as :: [Existentialism.secret](/_secret/Philosophy/Existentialism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Existentialism.secret|Existentialism.secret]] 
 

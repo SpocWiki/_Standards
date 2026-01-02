@@ -59,17 +59,17 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Veto_Power](/_Standards/Society/Politics/Government/Veto_Power.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Veto_Power|Veto_Power]] 
 
-### #is_/same_as :: [Veto_Power.public](/_public/Society/Politics/Government/Veto_Power.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Veto_Power.public|Veto_Power.public]] 
 
-### #is_/same_as :: [Veto_Power.internal](/_internal/Society/Politics/Government/Veto_Power.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Veto_Power.internal|Veto_Power.internal]] 
 
-### #is_/same_as :: [Veto_Power.protect](/_protect/Society/Politics/Government/Veto_Power.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Veto_Power.protect|Veto_Power.protect]] 
 
-### #is_/same_as :: [Veto_Power.private](/_private/Society/Politics/Government/Veto_Power.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Veto_Power.private|Veto_Power.private]] 
 
-### #is_/same_as :: [Veto_Power.personal](/_personal/Society/Politics/Government/Veto_Power.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Veto_Power.personal|Veto_Power.personal]] 
 
-### #is_/same_as :: [Veto_Power.secret](/_secret/Society/Politics/Government/Veto_Power.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Veto_Power.secret|Veto_Power.secret]] 
 

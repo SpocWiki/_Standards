@@ -55,17 +55,17 @@ IMDb_keyword: lottery
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lottery](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery|Lottery]] 
 
-### #is_/same_as :: [Lottery.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.public|Lottery.public]] 
 
-### #is_/same_as :: [Lottery.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.internal|Lottery.internal]] 
 
-### #is_/same_as :: [Lottery.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.protect|Lottery.protect]] 
 
-### #is_/same_as :: [Lottery.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.private|Lottery.private]] 
 
-### #is_/same_as :: [Lottery.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.personal|Lottery.personal]] 
 
-### #is_/same_as :: [Lottery.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Lottery.secret|Lottery.secret]] 
 

@@ -137,17 +137,17 @@ name_in_native_language: Mark Elliot Zuckerberg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zuckerberg,Mark](/_Standards/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Industrialist/Zuckerberg,Mark|Zuckerberg,Mark]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.public](/_public/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.public|Zuckerberg,Mark.public]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.internal](/_internal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.internal|Zuckerberg,Mark.internal]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.protect](/_protect/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.protect|Zuckerberg,Mark.protect]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.private](/_private/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.private|Zuckerberg,Mark.private]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.personal](/_personal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.personal|Zuckerberg,Mark.personal]] 
 
-### #is_/same_as :: [Zuckerberg,Mark.secret](/_secret/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Industrialist/Zuckerberg,Mark.secret|Zuckerberg,Mark.secret]] 
 

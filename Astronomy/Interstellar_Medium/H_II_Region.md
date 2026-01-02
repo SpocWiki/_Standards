@@ -61,17 +61,17 @@ Commons_category: H II regions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [H_II_Region](/_Standards/Astronomy/Interstellar_Medium/H_II_Region.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]] 
 
-### #is_/same_as :: [H_II_Region.public](/_public/Astronomy/Interstellar_Medium/H_II_Region.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]] 
 
-### #is_/same_as :: [H_II_Region.internal](/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]] 
 
-### #is_/same_as :: [H_II_Region.protect](/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium/H_II_Region.protect|H_II_Region.protect]] 
 
-### #is_/same_as :: [H_II_Region.private](/_private/Astronomy/Interstellar_Medium/H_II_Region.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium/H_II_Region.private|H_II_Region.private]] 
 
-### #is_/same_as :: [H_II_Region.personal](/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]] 
 
-### #is_/same_as :: [H_II_Region.secret](/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]] 
 

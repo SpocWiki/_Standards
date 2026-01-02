@@ -56,17 +56,17 @@ Key Products for ARM were
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine)|ARM(Acorn_RISC_Machine)]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).public|ARM(Acorn_RISC_Machine).public]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).internal|ARM(Acorn_RISC_Machine).internal]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).protect|ARM(Acorn_RISC_Machine).protect]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).private|ARM(Acorn_RISC_Machine).private]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).personal|ARM(Acorn_RISC_Machine).personal]] 
 
-### #is_/same_as :: [ARM(Acorn_RISC_Machine).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/ARM(Acorn_RISC_Machine).secret|ARM(Acorn_RISC_Machine).secret]] 
 

@@ -61,17 +61,17 @@ IPTC_NewsCode: mediatopic/20000716
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechanical_Engineering](/_Standards/Technology/Engineering/Mechanical_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering|Mechanical_Engineering]] 
 
-### #is_/same_as :: [Mechanical_Engineering.public](/_public/Technology/Engineering/Mechanical_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering.public|Mechanical_Engineering.public]] 
 
-### #is_/same_as :: [Mechanical_Engineering.internal](/_internal/Technology/Engineering/Mechanical_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering.internal|Mechanical_Engineering.internal]] 
 
-### #is_/same_as :: [Mechanical_Engineering.protect](/_protect/Technology/Engineering/Mechanical_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering.protect|Mechanical_Engineering.protect]] 
 
-### #is_/same_as :: [Mechanical_Engineering.private](/_private/Technology/Engineering/Mechanical_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering.private|Mechanical_Engineering.private]] 
 
-### #is_/same_as :: [Mechanical_Engineering.personal](/_personal/Technology/Engineering/Mechanical_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering.personal|Mechanical_Engineering.personal]] 
 
-### #is_/same_as :: [Mechanical_Engineering.secret](/_secret/Technology/Engineering/Mechanical_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering.secret|Mechanical_Engineering.secret]] 
 

@@ -44,17 +44,17 @@ Represents the invoice price of an offered product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Invoice_Price](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price|Invoice_Price]] 
 
-### #is_/same_as :: [Invoice_Price.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.public|Invoice_Price.public]] 
 
-### #is_/same_as :: [Invoice_Price.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.internal|Invoice_Price.internal]] 
 
-### #is_/same_as :: [Invoice_Price.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.protect|Invoice_Price.protect]] 
 
-### #is_/same_as :: [Invoice_Price.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.private|Invoice_Price.private]] 
 
-### #is_/same_as :: [Invoice_Price.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.personal|Invoice_Price.personal]] 
 
-### #is_/same_as :: [Invoice_Price.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Invoice_Price.secret|Invoice_Price.secret]] 
 

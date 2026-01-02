@@ -31,17 +31,17 @@ title: Sinentomata
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinentomata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata|Sinentomata]] 
 
-### #is_/same_as :: [Sinentomata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.public|Sinentomata.public]] 
 
-### #is_/same_as :: [Sinentomata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.internal|Sinentomata.internal]] 
 
-### #is_/same_as :: [Sinentomata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.protect|Sinentomata.protect]] 
 
-### #is_/same_as :: [Sinentomata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.private|Sinentomata.private]] 
 
-### #is_/same_as :: [Sinentomata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.personal|Sinentomata.personal]] 
 
-### #is_/same_as :: [Sinentomata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata.secret|Sinentomata.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty](/_Standards/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_duration_of_warranty|has_value_for_duration_of_warranty]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.public](/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.public|has_value_for_duration_of_warranty.public]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.internal](/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.internal|has_value_for_duration_of_warranty.internal]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.protect](/_protect/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.protect|has_value_for_duration_of_warranty.protect]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.private](/_private/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.private|has_value_for_duration_of_warranty.private]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.personal](/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.personal|has_value_for_duration_of_warranty.personal]] 
 
-### #is_/same_as :: [has_value_for_duration_of_warranty.secret](/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_duration_of_warranty.secret|has_value_for_duration_of_warranty.secret]] 
 

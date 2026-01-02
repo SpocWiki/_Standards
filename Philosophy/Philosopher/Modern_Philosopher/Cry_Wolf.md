@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cry_Wolf](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf|Cry_Wolf]] 
 
-### #is_/same_as :: [Cry_Wolf.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.public|Cry_Wolf.public]] 
 
-### #is_/same_as :: [Cry_Wolf.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.internal|Cry_Wolf.internal]] 
 
-### #is_/same_as :: [Cry_Wolf.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.protect|Cry_Wolf.protect]] 
 
-### #is_/same_as :: [Cry_Wolf.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.private|Cry_Wolf.private]] 
 
-### #is_/same_as :: [Cry_Wolf.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.personal|Cry_Wolf.personal]] 
 
-### #is_/same_as :: [Cry_Wolf.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Cry_Wolf.secret|Cry_Wolf.secret]] 
 

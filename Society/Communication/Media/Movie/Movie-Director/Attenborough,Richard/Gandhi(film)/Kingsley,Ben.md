@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kingsley,Ben](/_Standards/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben|Kingsley,Ben]] 
 
-### #is_/same_as :: [Kingsley,Ben.public](/_public/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.public|Kingsley,Ben.public]] 
 
-### #is_/same_as :: [Kingsley,Ben.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.internal|Kingsley,Ben.internal]] 
 
-### #is_/same_as :: [Kingsley,Ben.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.protect|Kingsley,Ben.protect]] 
 
-### #is_/same_as :: [Kingsley,Ben.private](/_private/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.private|Kingsley,Ben.private]] 
 
-### #is_/same_as :: [Kingsley,Ben.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.personal|Kingsley,Ben.personal]] 
 
-### #is_/same_as :: [Kingsley,Ben.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Attenborough,Richard/Gandhi(film)/Kingsley,Ben.secret|Kingsley,Ben.secret]] 
 

@@ -73,17 +73,17 @@ OpenStreetMap_tag: landuse=meadow
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meadow](/_Standards/Society/Economics/Industry/Agriculture/Farm/Meadow.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Meadow|Meadow]] 
 
-### #is_/same_as :: [Meadow.public](/_public/Society/Economics/Industry/Agriculture/Farm/Meadow.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Meadow.public|Meadow.public]] 
 
-### #is_/same_as :: [Meadow.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Meadow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Meadow.internal|Meadow.internal]] 
 
-### #is_/same_as :: [Meadow.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Meadow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Meadow.protect|Meadow.protect]] 
 
-### #is_/same_as :: [Meadow.private](/_private/Society/Economics/Industry/Agriculture/Farm/Meadow.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Meadow.private|Meadow.private]] 
 
-### #is_/same_as :: [Meadow.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Meadow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Meadow.personal|Meadow.personal]] 
 
-### #is_/same_as :: [Meadow.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Meadow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Meadow.secret|Meadow.secret]] 
 

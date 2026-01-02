@@ -55,17 +55,17 @@ Commons_category: Becquerel (unit)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Becquerel](/_Standards/Dimension/Dim~Time/Becquerel.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Becquerel|Becquerel]] 
 
-### #is_/same_as :: [Becquerel.public](/_public/Dimension/Dim~Time/Becquerel.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Becquerel.public|Becquerel.public]] 
 
-### #is_/same_as :: [Becquerel.internal](/_internal/Dimension/Dim~Time/Becquerel.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Becquerel.internal|Becquerel.internal]] 
 
-### #is_/same_as :: [Becquerel.protect](/_protect/Dimension/Dim~Time/Becquerel.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Becquerel.protect|Becquerel.protect]] 
 
-### #is_/same_as :: [Becquerel.private](/_private/Dimension/Dim~Time/Becquerel.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Becquerel.private|Becquerel.private]] 
 
-### #is_/same_as :: [Becquerel.personal](/_personal/Dimension/Dim~Time/Becquerel.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Becquerel.personal|Becquerel.personal]] 
 
-### #is_/same_as :: [Becquerel.secret](/_secret/Dimension/Dim~Time/Becquerel.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Becquerel.secret|Becquerel.secret]] 
 

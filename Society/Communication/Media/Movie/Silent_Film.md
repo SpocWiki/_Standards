@@ -81,17 +81,17 @@ Commons_category: Silent film
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silent_Film](/_Standards/Society/Communication/Media/Movie/Silent_Film.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Silent_Film|Silent_Film]] 
 
-### #is_/same_as :: [Silent_Film.public](/_public/Society/Communication/Media/Movie/Silent_Film.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Silent_Film.public|Silent_Film.public]] 
 
-### #is_/same_as :: [Silent_Film.internal](/_internal/Society/Communication/Media/Movie/Silent_Film.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Silent_Film.internal|Silent_Film.internal]] 
 
-### #is_/same_as :: [Silent_Film.protect](/_protect/Society/Communication/Media/Movie/Silent_Film.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Silent_Film.protect|Silent_Film.protect]] 
 
-### #is_/same_as :: [Silent_Film.private](/_private/Society/Communication/Media/Movie/Silent_Film.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Silent_Film.private|Silent_Film.private]] 
 
-### #is_/same_as :: [Silent_Film.personal](/_personal/Society/Communication/Media/Movie/Silent_Film.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Silent_Film.personal|Silent_Film.personal]] 
 
-### #is_/same_as :: [Silent_Film.secret](/_secret/Society/Communication/Media/Movie/Silent_Film.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Silent_Film.secret|Silent_Film.secret]] 
 

@@ -131,17 +131,17 @@ ZVG_number: 8420
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium|Barium]] 
 
-### #is_/same_as :: [Barium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.public|Barium.public]] 
 
-### #is_/same_as :: [Barium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.internal|Barium.internal]] 
 
-### #is_/same_as :: [Barium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.protect|Barium.protect]] 
 
-### #is_/same_as :: [Barium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.private|Barium.private]] 
 
-### #is_/same_as :: [Barium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.personal|Barium.personal]] 
 
-### #is_/same_as :: [Barium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Barium.secret|Barium.secret]] 
 

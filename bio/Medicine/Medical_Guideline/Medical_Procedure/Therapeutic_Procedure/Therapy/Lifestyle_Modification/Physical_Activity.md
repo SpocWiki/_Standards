@@ -43,17 +43,17 @@ Any bodily activity that enhances or maintains physical fitness and overall heal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Activity](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity|Physical_Activity]] 
 
-### #is_/same_as :: [Physical_Activity.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.public|Physical_Activity.public]] 
 
-### #is_/same_as :: [Physical_Activity.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.internal|Physical_Activity.internal]] 
 
-### #is_/same_as :: [Physical_Activity.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.protect|Physical_Activity.protect]] 
 
-### #is_/same_as :: [Physical_Activity.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.private|Physical_Activity.private]] 
 
-### #is_/same_as :: [Physical_Activity.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.personal|Physical_Activity.personal]] 
 
-### #is_/same_as :: [Physical_Activity.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Lifestyle_Modification/Physical_Activity.secret|Physical_Activity.secret]] 
 

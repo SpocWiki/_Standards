@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disaccharide](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide|Disaccharide]] 
 
-### #is_/same_as :: [Disaccharide.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.public|Disaccharide.public]] 
 
-### #is_/same_as :: [Disaccharide.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.internal|Disaccharide.internal]] 
 
-### #is_/same_as :: [Disaccharide.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.protect|Disaccharide.protect]] 
 
-### #is_/same_as :: [Disaccharide.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.private|Disaccharide.private]] 
 
-### #is_/same_as :: [Disaccharide.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.personal|Disaccharide.personal]] 
 
-### #is_/same_as :: [Disaccharide.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide.secret|Disaccharide.secret]] 
 

@@ -67,17 +67,17 @@ Library_of_Congress_Classification: Q179.9-Q180.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Research](/_Standards/Science/Research.md) 
+### #is_/same_as :: [[/_Standards/Science/Research|Research]] 
 
-### #is_/same_as :: [Research.public](/_public/Science/Research.public.md) 
+### #is_/same_as :: [[/_public/Science/Research.public|Research.public]] 
 
-### #is_/same_as :: [Research.internal](/_internal/Science/Research.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Research.internal|Research.internal]] 
 
-### #is_/same_as :: [Research.protect](/_protect/Science/Research.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Research.protect|Research.protect]] 
 
-### #is_/same_as :: [Research.private](/_private/Science/Research.private.md) 
+### #is_/same_as :: [[/_private/Science/Research.private|Research.private]] 
 
-### #is_/same_as :: [Research.personal](/_personal/Science/Research.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Research.personal|Research.personal]] 
 
-### #is_/same_as :: [Research.secret](/_secret/Science/Research.secret.md)
+### #is_/same_as :: [[/_secret/Science/Research.secret|Research.secret]] 
 

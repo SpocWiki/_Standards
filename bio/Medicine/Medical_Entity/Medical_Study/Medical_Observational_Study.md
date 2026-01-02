@@ -41,17 +41,17 @@ An observational study is a type of medical study that attempts to infer the pos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Observational_Study](/_Standards/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study|Medical_Observational_Study]] 
 
-### #is_/same_as :: [Medical_Observational_Study.public](/_public/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.public|Medical_Observational_Study.public]] 
 
-### #is_/same_as :: [Medical_Observational_Study.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.internal|Medical_Observational_Study.internal]] 
 
-### #is_/same_as :: [Medical_Observational_Study.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.protect|Medical_Observational_Study.protect]] 
 
-### #is_/same_as :: [Medical_Observational_Study.private](/_private/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.private|Medical_Observational_Study.private]] 
 
-### #is_/same_as :: [Medical_Observational_Study.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.personal|Medical_Observational_Study.personal]] 
 
-### #is_/same_as :: [Medical_Observational_Study.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Study/Medical_Observational_Study.secret|Medical_Observational_Study.secret]] 
 

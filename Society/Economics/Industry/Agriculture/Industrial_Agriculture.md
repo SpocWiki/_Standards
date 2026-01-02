@@ -34,17 +34,17 @@ Commons_category: Industrial agriculture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industrial_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Industrial_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Industrial_Agriculture|Industrial_Agriculture]] 
 
-### #is_/same_as :: [Industrial_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/Industrial_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Industrial_Agriculture.public|Industrial_Agriculture.public]] 
 
-### #is_/same_as :: [Industrial_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/Industrial_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Industrial_Agriculture.internal|Industrial_Agriculture.internal]] 
 
-### #is_/same_as :: [Industrial_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/Industrial_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Industrial_Agriculture.protect|Industrial_Agriculture.protect]] 
 
-### #is_/same_as :: [Industrial_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/Industrial_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Industrial_Agriculture.private|Industrial_Agriculture.private]] 
 
-### #is_/same_as :: [Industrial_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/Industrial_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Industrial_Agriculture.personal|Industrial_Agriculture.personal]] 
 
-### #is_/same_as :: [Industrial_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/Industrial_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Industrial_Agriculture.secret|Industrial_Agriculture.secret]] 
 

@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lanthimos,Yorgos](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos|Lanthimos,Yorgos]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.public|Lanthimos,Yorgos.public]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.internal|Lanthimos,Yorgos.internal]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.protect|Lanthimos,Yorgos.protect]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.private|Lanthimos,Yorgos.private]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.personal|Lanthimos,Yorgos.personal]] 
 
-### #is_/same_as :: [Lanthimos,Yorgos.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lanthimos,Yorgos.secret|Lanthimos,Yorgos.secret]] 
 

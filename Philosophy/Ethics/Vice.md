@@ -67,3 +67,22 @@ Commons_category: Vices
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Vice) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Vice|Vice]] 
+
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Vice.public|Vice.public]] 
+
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Vice.internal|Vice.internal]] 
+
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Vice.protect|Vice.protect]] 
+
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Vice.private|Vice.private]] 
+
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Vice.personal|Vice.personal]] 
+
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Vice.secret|Vice.secret]] 
+

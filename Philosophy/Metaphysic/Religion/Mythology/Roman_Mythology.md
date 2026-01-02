@@ -36,17 +36,17 @@ Commons_category: Roman mythology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roman_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology|Roman_Mythology]] 
 
-### #is_/same_as :: [Roman_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.public|Roman_Mythology.public]] 
 
-### #is_/same_as :: [Roman_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.internal|Roman_Mythology.internal]] 
 
-### #is_/same_as :: [Roman_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.protect|Roman_Mythology.protect]] 
 
-### #is_/same_as :: [Roman_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.private|Roman_Mythology.private]] 
 
-### #is_/same_as :: [Roman_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.personal|Roman_Mythology.personal]] 
 
-### #is_/same_as :: [Roman_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology.secret|Roman_Mythology.secret]] 
 

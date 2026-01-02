@@ -49,17 +49,17 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Mensa](/_Standards/Astronomy/Star~Constellation/Zodiac~Mensa.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Mensa|Zodiac~Mensa]] 
 
-### #is_/same_as :: [Zodiac~Mensa.public](/_public/Astronomy/Star~Constellation/Zodiac~Mensa.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Mensa.public|Zodiac~Mensa.public]] 
 
-### #is_/same_as :: [Zodiac~Mensa.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Mensa.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Mensa.internal|Zodiac~Mensa.internal]] 
 
-### #is_/same_as :: [Zodiac~Mensa.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Mensa.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Mensa.protect|Zodiac~Mensa.protect]] 
 
-### #is_/same_as :: [Zodiac~Mensa.private](/_private/Astronomy/Star~Constellation/Zodiac~Mensa.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Mensa.private|Zodiac~Mensa.private]] 
 
-### #is_/same_as :: [Zodiac~Mensa.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Mensa.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Mensa.personal|Zodiac~Mensa.personal]] 
 
-### #is_/same_as :: [Zodiac~Mensa.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Mensa.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Mensa.secret|Zodiac~Mensa.secret]] 
 

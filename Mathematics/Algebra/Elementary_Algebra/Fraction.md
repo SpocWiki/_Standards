@@ -71,17 +71,17 @@ Commons_category: Fractions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fraction](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fraction.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Elementary_Algebra/Fraction|Fraction]] 
 
-### #is_/same_as :: [Fraction.public](/_public/Mathematics/Algebra/Elementary_Algebra/Fraction.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Elementary_Algebra/Fraction.public|Fraction.public]] 
 
-### #is_/same_as :: [Fraction.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Fraction.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Elementary_Algebra/Fraction.internal|Fraction.internal]] 
 
-### #is_/same_as :: [Fraction.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Fraction.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Elementary_Algebra/Fraction.protect|Fraction.protect]] 
 
-### #is_/same_as :: [Fraction.private](/_private/Mathematics/Algebra/Elementary_Algebra/Fraction.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Elementary_Algebra/Fraction.private|Fraction.private]] 
 
-### #is_/same_as :: [Fraction.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Fraction.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Elementary_Algebra/Fraction.personal|Fraction.personal]] 
 
-### #is_/same_as :: [Fraction.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Fraction.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Elementary_Algebra/Fraction.secret|Fraction.secret]] 
 

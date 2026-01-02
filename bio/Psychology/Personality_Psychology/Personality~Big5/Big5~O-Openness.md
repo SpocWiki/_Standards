@@ -94,17 +94,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~O-Openness](Big5~O-Openness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness|Big5~O-Openness]] 
 
-### #is_/same_as :: [Big5~Openness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.public|Big5~O-Openness.public]] 
 
-### #is_/same_as :: [Big5~Openness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.internal|Big5~O-Openness.internal]] 
 
-### #is_/same_as :: [Big5~Openness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.protect|Big5~O-Openness.protect]] 
 
-### #is_/same_as :: [Big5~Openness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.private|Big5~O-Openness.private]] 
 
-### #is_/same_as :: [Big5~Openness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.personal|Big5~O-Openness.personal]] 
 
-### #is_/same_as :: [Big5~Openness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Openness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~O-Openness.secret|Big5~O-Openness.secret]] 
 

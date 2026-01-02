@@ -43,17 +43,17 @@ Commons_gallery: Land mine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Land_Mine](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine|Land_Mine]] 
 
-### #is_/same_as :: [Land_Mine.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.public|Land_Mine.public]] 
 
-### #is_/same_as :: [Land_Mine.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.internal|Land_Mine.internal]] 
 
-### #is_/same_as :: [Land_Mine.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.protect|Land_Mine.protect]] 
 
-### #is_/same_as :: [Land_Mine.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.private|Land_Mine.private]] 
 
-### #is_/same_as :: [Land_Mine.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.personal|Land_Mine.personal]] 
 
-### #is_/same_as :: [Land_Mine.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Land_Mine.secret|Land_Mine.secret]] 
 

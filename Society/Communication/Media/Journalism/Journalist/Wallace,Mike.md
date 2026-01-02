@@ -72,17 +72,17 @@ date_of_birth: 1918-05-09T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wallace,Mike](/_Standards/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Wallace,Mike|Wallace,Mike]] 
 
-### #is_/same_as :: [Wallace,Mike.public](/_public/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.public|Wallace,Mike.public]] 
 
-### #is_/same_as :: [Wallace,Mike.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.internal|Wallace,Mike.internal]] 
 
-### #is_/same_as :: [Wallace,Mike.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.protect|Wallace,Mike.protect]] 
 
-### #is_/same_as :: [Wallace,Mike.private](/_private/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.private|Wallace,Mike.private]] 
 
-### #is_/same_as :: [Wallace,Mike.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.personal|Wallace,Mike.personal]] 
 
-### #is_/same_as :: [Wallace,Mike.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Wallace,Mike.secret|Wallace,Mike.secret]] 
 

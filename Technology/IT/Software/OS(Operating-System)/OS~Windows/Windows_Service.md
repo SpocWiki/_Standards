@@ -46,17 +46,17 @@ These tools mainly handle the service configuration parameters such as the
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windows_Service](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service|Windows_Service]] 
 
-### #is_/same_as :: [Windows_Service.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.public|Windows_Service.public]] 
 
-### #is_/same_as :: [Windows_Service.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.internal|Windows_Service.internal]] 
 
-### #is_/same_as :: [Windows_Service.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.protect|Windows_Service.protect]] 
 
-### #is_/same_as :: [Windows_Service.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.private|Windows_Service.private]] 
 
-### #is_/same_as :: [Windows_Service.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.personal|Windows_Service.personal]] 
 
-### #is_/same_as :: [Windows_Service.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows_Service.secret|Windows_Service.secret]] 
 

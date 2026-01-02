@@ -38,17 +38,17 @@ Commons_category: Dining rooms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dining_Room](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room|Dining_Room]] 
 
-### #is_/same_as :: [Dining_Room.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.public|Dining_Room.public]] 
 
-### #is_/same_as :: [Dining_Room.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.internal|Dining_Room.internal]] 
 
-### #is_/same_as :: [Dining_Room.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.protect|Dining_Room.protect]] 
 
-### #is_/same_as :: [Dining_Room.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.private|Dining_Room.private]] 
 
-### #is_/same_as :: [Dining_Room.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.personal|Dining_Room.personal]] 
 
-### #is_/same_as :: [Dining_Room.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Dining_Room.secret|Dining_Room.secret]] 
 

@@ -56,17 +56,17 @@ short_name: PsA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piscis_Austrinus](/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus|Piscis_Austrinus]] 
 
-### #is_/same_as :: [Piscis_Austrinus.public](/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public|Piscis_Austrinus.public]] 
 
-### #is_/same_as :: [Piscis_Austrinus.internal](/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal|Piscis_Austrinus.internal]] 
 
-### #is_/same_as :: [Piscis_Austrinus.protect](/_protect/Astronomy/Star~Constellation/Piscis_Austrinus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Piscis_Austrinus.protect|Piscis_Austrinus.protect]] 
 
-### #is_/same_as :: [Piscis_Austrinus.private](/_private/Astronomy/Star~Constellation/Piscis_Austrinus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Piscis_Austrinus.private|Piscis_Austrinus.private]] 
 
-### #is_/same_as :: [Piscis_Austrinus.personal](/_personal/Astronomy/Star~Constellation/Piscis_Austrinus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Piscis_Austrinus.personal|Piscis_Austrinus.personal]] 
 
-### #is_/same_as :: [Piscis_Austrinus.secret](/_secret/Astronomy/Star~Constellation/Piscis_Austrinus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Piscis_Austrinus.secret|Piscis_Austrinus.secret]] 
 

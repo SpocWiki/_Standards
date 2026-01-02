@@ -80,17 +80,17 @@ U_S_National_Archives_Identifier: 10638843
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calendar](/_Standards/ISO/Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar|Calendar]] 
 
-### #is_/same_as :: [Calendar.public](/_public/ISO/Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar.public|Calendar.public]] 
 
-### #is_/same_as :: [Calendar.internal](/_internal/ISO/Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar.internal|Calendar.internal]] 
 
-### #is_/same_as :: [Calendar.protect](/_protect/ISO/Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar.protect|Calendar.protect]] 
 
-### #is_/same_as :: [Calendar.private](/_private/ISO/Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar.private|Calendar.private]] 
 
-### #is_/same_as :: [Calendar.personal](/_personal/ISO/Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar.personal|Calendar.personal]] 
 
-### #is_/same_as :: [Calendar.secret](/_secret/ISO/Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar.secret|Calendar.secret]] 
 

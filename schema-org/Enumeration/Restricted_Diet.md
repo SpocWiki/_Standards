@@ -39,17 +39,17 @@ A diet restricted to certain foods or preparations for cultural, religious, heal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Restricted_Diet](/_Standards/schema-org/Enumeration/Restricted_Diet.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Restricted_Diet|Restricted_Diet]] 
 
-### #is_/same_as :: [Restricted_Diet.public](/_public/schema-org/Enumeration/Restricted_Diet.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Restricted_Diet.public|Restricted_Diet.public]] 
 
-### #is_/same_as :: [Restricted_Diet.internal](/_internal/schema-org/Enumeration/Restricted_Diet.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Restricted_Diet.internal|Restricted_Diet.internal]] 
 
-### #is_/same_as :: [Restricted_Diet.protect](/_protect/schema-org/Enumeration/Restricted_Diet.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Restricted_Diet.protect|Restricted_Diet.protect]] 
 
-### #is_/same_as :: [Restricted_Diet.private](/_private/schema-org/Enumeration/Restricted_Diet.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Restricted_Diet.private|Restricted_Diet.private]] 
 
-### #is_/same_as :: [Restricted_Diet.personal](/_personal/schema-org/Enumeration/Restricted_Diet.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Restricted_Diet.personal|Restricted_Diet.personal]] 
 
-### #is_/same_as :: [Restricted_Diet.secret](/_secret/schema-org/Enumeration/Restricted_Diet.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Restricted_Diet.secret|Restricted_Diet.secret]] 
 

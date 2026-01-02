@@ -44,17 +44,17 @@ U_S_National_Archives_Identifier: 10665246
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Admiral](/_Standards/Society/Military/Armed_Forces/Military_Rank/Admiral.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Admiral|Admiral]] 
 
-### #is_/same_as :: [Admiral.public](/_public/Society/Military/Armed_Forces/Military_Rank/Admiral.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Admiral.public|Admiral.public]] 
 
-### #is_/same_as :: [Admiral.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Admiral.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Admiral.internal|Admiral.internal]] 
 
-### #is_/same_as :: [Admiral.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Admiral.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Admiral.protect|Admiral.protect]] 
 
-### #is_/same_as :: [Admiral.private](/_private/Society/Military/Armed_Forces/Military_Rank/Admiral.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Admiral.private|Admiral.private]] 
 
-### #is_/same_as :: [Admiral.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Admiral.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Admiral.personal|Admiral.personal]] 
 
-### #is_/same_as :: [Admiral.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Admiral.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Admiral.secret|Admiral.secret]] 
 

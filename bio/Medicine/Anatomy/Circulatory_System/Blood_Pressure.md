@@ -54,17 +54,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blood_Pressure](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure|Blood_Pressure]] 
 
-### #is_/same_as :: [Blood_Pressure.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.public|Blood_Pressure.public]] 
 
-### #is_/same_as :: [Blood_Pressure.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.internal|Blood_Pressure.internal]] 
 
-### #is_/same_as :: [Blood_Pressure.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.protect|Blood_Pressure.protect]] 
 
-### #is_/same_as :: [Blood_Pressure.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.private|Blood_Pressure.private]] 
 
-### #is_/same_as :: [Blood_Pressure.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.personal|Blood_Pressure.personal]] 
 
-### #is_/same_as :: [Blood_Pressure.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood_Pressure.secret|Blood_Pressure.secret]] 
 

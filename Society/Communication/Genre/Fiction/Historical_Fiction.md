@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Historical_Fiction](/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Historical_Fiction|Historical_Fiction]] 
 
-### #is_/same_as :: [Historical_Fiction.public](/_public/Society/Communication/Genre/Fiction/Historical_Fiction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Historical_Fiction.public|Historical_Fiction.public]] 
 
-### #is_/same_as :: [Historical_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Historical_Fiction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Historical_Fiction.internal|Historical_Fiction.internal]] 
 
-### #is_/same_as :: [Historical_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Historical_Fiction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Historical_Fiction.protect|Historical_Fiction.protect]] 
 
-### #is_/same_as :: [Historical_Fiction.private](/_private/Society/Communication/Genre/Fiction/Historical_Fiction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Historical_Fiction.private|Historical_Fiction.private]] 
 
-### #is_/same_as :: [Historical_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Historical_Fiction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Historical_Fiction.personal|Historical_Fiction.personal]] 
 
-### #is_/same_as :: [Historical_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Historical_Fiction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Historical_Fiction.secret|Historical_Fiction.secret]] 
 

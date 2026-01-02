@@ -97,17 +97,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Category%20SVG.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Category(Math)](/_Standards/Mathematics/Category_Theory/Category(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Category_Theory/Category(Math)|Category(Math)]] 
 
-### #is_/same_as :: [Category(Math).public](/_public/Mathematics/Category_Theory/Category(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Category_Theory/Category(Math).public|Category(Math).public]] 
 
-### #is_/same_as :: [Category(Math).internal](/_internal/Mathematics/Category_Theory/Category(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Category_Theory/Category(Math).internal|Category(Math).internal]] 
 
-### #is_/same_as :: [Category(Math).protect](/_protect/Mathematics/Category_Theory/Category(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Category_Theory/Category(Math).protect|Category(Math).protect]] 
 
-### #is_/same_as :: [Category(Math).private](/_private/Mathematics/Category_Theory/Category(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Category_Theory/Category(Math).private|Category(Math).private]] 
 
-### #is_/same_as :: [Category(Math).personal](/_personal/Mathematics/Category_Theory/Category(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Category_Theory/Category(Math).personal|Category(Math).personal]] 
 
-### #is_/same_as :: [Category(Math).secret](/_secret/Mathematics/Category_Theory/Category(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Category_Theory/Category(Math).secret|Category(Math).secret]] 
 

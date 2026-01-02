@@ -33,3 +33,22 @@ Commons_category: Temperate broadleaf and mixed forests
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperate%20broadleaf%20and%20mixed%20forests) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]] 
+
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.public|Temperate_broadleaf_and_mixed_Forest.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.internal|Temperate_broadleaf_and_mixed_Forest.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.protect|Temperate_broadleaf_and_mixed_Forest.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.private|Temperate_broadleaf_and_mixed_Forest.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.personal|Temperate_broadleaf_and_mixed_Forest.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.secret|Temperate_broadleaf_and_mixed_Forest.secret]] 
+

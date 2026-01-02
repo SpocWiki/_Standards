@@ -41,17 +41,17 @@ The act of granting permission to an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Authorize_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action|Authorize_Action]] 
 
-### #is_/same_as :: [Authorize_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.public|Authorize_Action.public]] 
 
-### #is_/same_as :: [Authorize_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.internal|Authorize_Action.internal]] 
 
-### #is_/same_as :: [Authorize_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.protect|Authorize_Action.protect]] 
 
-### #is_/same_as :: [Authorize_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.private|Authorize_Action.private]] 
 
-### #is_/same_as :: [Authorize_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.personal|Authorize_Action.personal]] 
 
-### #is_/same_as :: [Authorize_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Allocate_Action/Authorize_Action.secret|Authorize_Action.secret]] 
 

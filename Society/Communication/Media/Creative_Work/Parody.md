@@ -54,17 +54,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/PARODIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parody](/_Standards/Society/Communication/Media/Creative_Work/Parody.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Parody|Parody]] 
 
-### #is_/same_as :: [Parody.public](/_public/Society/Communication/Media/Creative_Work/Parody.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Parody.public|Parody.public]] 
 
-### #is_/same_as :: [Parody.internal](/_internal/Society/Communication/Media/Creative_Work/Parody.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Parody.internal|Parody.internal]] 
 
-### #is_/same_as :: [Parody.protect](/_protect/Society/Communication/Media/Creative_Work/Parody.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Parody.protect|Parody.protect]] 
 
-### #is_/same_as :: [Parody.private](/_private/Society/Communication/Media/Creative_Work/Parody.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Parody.private|Parody.private]] 
 
-### #is_/same_as :: [Parody.personal](/_personal/Society/Communication/Media/Creative_Work/Parody.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Parody.personal|Parody.personal]] 
 
-### #is_/same_as :: [Parody.secret](/_secret/Society/Communication/Media/Creative_Work/Parody.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Parody.secret|Parody.secret]] 
 

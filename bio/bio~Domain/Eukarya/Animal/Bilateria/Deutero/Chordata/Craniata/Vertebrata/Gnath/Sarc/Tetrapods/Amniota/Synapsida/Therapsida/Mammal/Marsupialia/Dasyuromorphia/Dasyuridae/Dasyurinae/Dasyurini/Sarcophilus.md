@@ -40,17 +40,17 @@ taxon_author_citation: Cuvier, 1837
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sarcophilus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus|Sarcophilus]] 
 
-### #is_/same_as :: [Sarcophilus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.public|Sarcophilus.public]] 
 
-### #is_/same_as :: [Sarcophilus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.internal|Sarcophilus.internal]] 
 
-### #is_/same_as :: [Sarcophilus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.protect|Sarcophilus.protect]] 
 
-### #is_/same_as :: [Sarcophilus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.private|Sarcophilus.private]] 
 
-### #is_/same_as :: [Sarcophilus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.personal|Sarcophilus.personal]] 
 
-### #is_/same_as :: [Sarcophilus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Marsupialia/Dasyuromorphia/Dasyuridae/Dasyurinae/Dasyurini/Sarcophilus.secret|Sarcophilus.secret]] 
 

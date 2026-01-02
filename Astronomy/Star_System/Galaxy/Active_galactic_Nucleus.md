@@ -31,17 +31,17 @@ Commons_category: Active galactic nuclei
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Active_galactic_Nucleus](/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus|Active_galactic_Nucleus]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.public](/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public|Active_galactic_Nucleus.public]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.internal](/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal|Active_galactic_Nucleus.internal]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.protect](/_protect/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.protect|Active_galactic_Nucleus.protect]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.private](/_private/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.private|Active_galactic_Nucleus.private]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.personal](/_personal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.personal|Active_galactic_Nucleus.personal]] 
 
-### #is_/same_as :: [Active_galactic_Nucleus.secret](/_secret/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.secret|Active_galactic_Nucleus.secret]] 
 

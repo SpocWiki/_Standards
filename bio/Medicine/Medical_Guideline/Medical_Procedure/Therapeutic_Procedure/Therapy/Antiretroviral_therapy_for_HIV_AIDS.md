@@ -63,17 +63,17 @@ Commons_category: Antiretroviral drugs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS|Antiretroviral_therapy_for_HIV_AIDS]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.public|Antiretroviral_therapy_for_HIV_AIDS.public]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.internal|Antiretroviral_therapy_for_HIV_AIDS.internal]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.protect|Antiretroviral_therapy_for_HIV_AIDS.protect]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.private|Antiretroviral_therapy_for_HIV_AIDS.private]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.personal|Antiretroviral_therapy_for_HIV_AIDS.personal]] 
 
-### #is_/same_as :: [Antiretroviral_therapy_for_HIV_AIDS.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Antiretroviral_therapy_for_HIV_AIDS.secret|Antiretroviral_therapy_for_HIV_AIDS.secret]] 
 

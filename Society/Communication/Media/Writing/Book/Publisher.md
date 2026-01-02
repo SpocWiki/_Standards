@@ -89,17 +89,17 @@ Provenio_UUID:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Publisher](/_Standards/Society/Communication/Media/Writing/Book/Publisher.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Publisher|Publisher]] 
 
-### #is_/same_as :: [Publisher.public](/_public/Society/Communication/Media/Writing/Book/Publisher.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Publisher.public|Publisher.public]] 
 
-### #is_/same_as :: [Publisher.internal](/_internal/Society/Communication/Media/Writing/Book/Publisher.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Publisher.internal|Publisher.internal]] 
 
-### #is_/same_as :: [Publisher.protect](/_protect/Society/Communication/Media/Writing/Book/Publisher.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Publisher.protect|Publisher.protect]] 
 
-### #is_/same_as :: [Publisher.private](/_private/Society/Communication/Media/Writing/Book/Publisher.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Publisher.private|Publisher.private]] 
 
-### #is_/same_as :: [Publisher.personal](/_personal/Society/Communication/Media/Writing/Book/Publisher.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Publisher.personal|Publisher.personal]] 
 
-### #is_/same_as :: [Publisher.secret](/_secret/Society/Communication/Media/Writing/Book/Publisher.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Publisher.secret|Publisher.secret]] 
 

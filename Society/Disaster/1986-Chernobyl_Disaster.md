@@ -99,17 +99,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster](/_Standards/Society/Disaster/1986-Chernobyl_Disaster.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/1986-Chernobyl_Disaster|1986-Chernobyl_Disaster]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.public](/_public/Society/Disaster/1986-Chernobyl_Disaster.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/1986-Chernobyl_Disaster.public|1986-Chernobyl_Disaster.public]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.internal](/_internal/Society/Disaster/1986-Chernobyl_Disaster.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/1986-Chernobyl_Disaster.internal|1986-Chernobyl_Disaster.internal]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.protect](/_protect/Society/Disaster/1986-Chernobyl_Disaster.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/1986-Chernobyl_Disaster.protect|1986-Chernobyl_Disaster.protect]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.private](/_private/Society/Disaster/1986-Chernobyl_Disaster.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/1986-Chernobyl_Disaster.private|1986-Chernobyl_Disaster.private]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.personal](/_personal/Society/Disaster/1986-Chernobyl_Disaster.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/1986-Chernobyl_Disaster.personal|1986-Chernobyl_Disaster.personal]] 
 
-### #is_/same_as :: [1986-Chernobyl_Disaster.secret](/_secret/Society/Disaster/1986-Chernobyl_Disaster.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/1986-Chernobyl_Disaster.secret|1986-Chernobyl_Disaster.secret]] 
 

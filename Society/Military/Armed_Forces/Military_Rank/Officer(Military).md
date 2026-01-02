@@ -85,17 +85,17 @@ Commons_category: Military officers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Officer(Military)](/_Standards/Society/Military/Armed_Forces/Military_Rank/Officer(Military).md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Officer(Military)|Officer(Military)]] 
 
-### #is_/same_as :: [Officer(Military).public](/_public/Society/Military/Armed_Forces/Military_Rank/Officer(Military).public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Officer(Military).public|Officer(Military).public]] 
 
-### #is_/same_as :: [Officer(Military).internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Officer(Military).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Officer(Military).internal|Officer(Military).internal]] 
 
-### #is_/same_as :: [Officer(Military).protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Officer(Military).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Officer(Military).protect|Officer(Military).protect]] 
 
-### #is_/same_as :: [Officer(Military).private](/_private/Society/Military/Armed_Forces/Military_Rank/Officer(Military).private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Officer(Military).private|Officer(Military).private]] 
 
-### #is_/same_as :: [Officer(Military).personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Officer(Military).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Officer(Military).personal|Officer(Military).personal]] 
 
-### #is_/same_as :: [Officer(Military).secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Officer(Military).secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Officer(Military).secret|Officer(Military).secret]] 
 

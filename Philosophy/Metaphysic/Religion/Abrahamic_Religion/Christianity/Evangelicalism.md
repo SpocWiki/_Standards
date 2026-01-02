@@ -63,17 +63,17 @@ name_in_kana: ふくいんは
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evangelicalism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism|Evangelicalism]] 
 
-### #is_/same_as :: [Evangelicalism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.public|Evangelicalism.public]] 
 
-### #is_/same_as :: [Evangelicalism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.internal|Evangelicalism.internal]] 
 
-### #is_/same_as :: [Evangelicalism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.protect|Evangelicalism.protect]] 
 
-### #is_/same_as :: [Evangelicalism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.private|Evangelicalism.private]] 
 
-### #is_/same_as :: [Evangelicalism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.personal|Evangelicalism.personal]] 
 
-### #is_/same_as :: [Evangelicalism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Evangelicalism.secret|Evangelicalism.secret]] 
 

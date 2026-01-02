@@ -56,17 +56,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equation_Solving](/_Standards/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Elementary_Algebra/Equation_Solving|Equation_Solving]] 
 
-### #is_/same_as :: [Equation_Solving.public](/_public/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.public|Equation_Solving.public]] 
 
-### #is_/same_as :: [Equation_Solving.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.internal|Equation_Solving.internal]] 
 
-### #is_/same_as :: [Equation_Solving.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.protect|Equation_Solving.protect]] 
 
-### #is_/same_as :: [Equation_Solving.private](/_private/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.private|Equation_Solving.private]] 
 
-### #is_/same_as :: [Equation_Solving.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.personal|Equation_Solving.personal]] 
 
-### #is_/same_as :: [Equation_Solving.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Elementary_Algebra/Equation_Solving.secret|Equation_Solving.secret]] 
 

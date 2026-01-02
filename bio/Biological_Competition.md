@@ -56,17 +56,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20bucks%20of%20T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Competition](/_Standards/bio/Biological_Competition.md) 
+### #is_/same_as :: [[/_Standards/bio/Biological_Competition|Biological_Competition]] 
 
-### #is_/same_as :: [Biological_Competition.public](/_public/bio/Biological_Competition.public.md) 
+### #is_/same_as :: [[/_public/bio/Biological_Competition.public|Biological_Competition.public]] 
 
-### #is_/same_as :: [Biological_Competition.internal](/_internal/bio/Biological_Competition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biological_Competition.internal|Biological_Competition.internal]] 
 
-### #is_/same_as :: [Biological_Competition.protect](/_protect/bio/Biological_Competition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biological_Competition.protect|Biological_Competition.protect]] 
 
-### #is_/same_as :: [Biological_Competition.private](/_private/bio/Biological_Competition.private.md) 
+### #is_/same_as :: [[/_private/bio/Biological_Competition.private|Biological_Competition.private]] 
 
-### #is_/same_as :: [Biological_Competition.personal](/_personal/bio/Biological_Competition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biological_Competition.personal|Biological_Competition.personal]] 
 
-### #is_/same_as :: [Biological_Competition.secret](/_secret/bio/Biological_Competition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biological_Competition.secret|Biological_Competition.secret]] 
 

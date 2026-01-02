@@ -71,17 +71,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/KENTAVR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centaur](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur|Centaur]] 
 
-### #is_/same_as :: [Centaur.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.public|Centaur.public]] 
 
-### #is_/same_as :: [Centaur.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.internal|Centaur.internal]] 
 
-### #is_/same_as :: [Centaur.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.protect|Centaur.protect]] 
 
-### #is_/same_as :: [Centaur.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.private|Centaur.private]] 
 
-### #is_/same_as :: [Centaur.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.personal|Centaur.personal]] 
 
-### #is_/same_as :: [Centaur.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Centaur.secret|Centaur.secret]] 
 

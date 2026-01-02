@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_album_release](/_Standards/schema-org/Relation/has/has_album_release.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_album_release|has_album_release]] 
 
-### #is_/same_as :: [has_album_release.public](/_public/schema-org/Relation/has/has_album_release.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_album_release.public|has_album_release.public]] 
 
-### #is_/same_as :: [has_album_release.internal](/_internal/schema-org/Relation/has/has_album_release.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_album_release.internal|has_album_release.internal]] 
 
-### #is_/same_as :: [has_album_release.protect](/_protect/schema-org/Relation/has/has_album_release.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_album_release.protect|has_album_release.protect]] 
 
-### #is_/same_as :: [has_album_release.private](/_private/schema-org/Relation/has/has_album_release.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_album_release.private|has_album_release.private]] 
 
-### #is_/same_as :: [has_album_release.personal](/_personal/schema-org/Relation/has/has_album_release.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_album_release.personal|has_album_release.personal]] 
 
-### #is_/same_as :: [has_album_release.secret](/_secret/schema-org/Relation/has/has_album_release.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_album_release.secret|has_album_release.secret]] 
 

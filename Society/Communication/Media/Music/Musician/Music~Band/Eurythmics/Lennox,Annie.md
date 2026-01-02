@@ -73,17 +73,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lennox,Annie](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie|Lennox,Annie]] 
 
-### #is_/same_as :: [Lennox,Annie.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.public|Lennox,Annie.public]] 
 
-### #is_/same_as :: [Lennox,Annie.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.internal|Lennox,Annie.internal]] 
 
-### #is_/same_as :: [Lennox,Annie.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.protect|Lennox,Annie.protect]] 
 
-### #is_/same_as :: [Lennox,Annie.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.private|Lennox,Annie.private]] 
 
-### #is_/same_as :: [Lennox,Annie.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.personal|Lennox,Annie.personal]] 
 
-### #is_/same_as :: [Lennox,Annie.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics/Lennox,Annie.secret|Lennox,Annie.secret]] 
 

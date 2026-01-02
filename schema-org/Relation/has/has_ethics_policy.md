@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_ethics_policy](/_Standards/schema-org/Relation/has/has_ethics_policy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_ethics_policy|has_ethics_policy]] 
 
-### #is_/same_as :: [has_ethics_policy.public](/_public/schema-org/Relation/has/has_ethics_policy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_ethics_policy.public|has_ethics_policy.public]] 
 
-### #is_/same_as :: [has_ethics_policy.internal](/_internal/schema-org/Relation/has/has_ethics_policy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_ethics_policy.internal|has_ethics_policy.internal]] 
 
-### #is_/same_as :: [has_ethics_policy.protect](/_protect/schema-org/Relation/has/has_ethics_policy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_ethics_policy.protect|has_ethics_policy.protect]] 
 
-### #is_/same_as :: [has_ethics_policy.private](/_private/schema-org/Relation/has/has_ethics_policy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_ethics_policy.private|has_ethics_policy.private]] 
 
-### #is_/same_as :: [has_ethics_policy.personal](/_personal/schema-org/Relation/has/has_ethics_policy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_ethics_policy.personal|has_ethics_policy.personal]] 
 
-### #is_/same_as :: [has_ethics_policy.secret](/_secret/schema-org/Relation/has/has_ethics_policy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_ethics_policy.secret|has_ethics_policy.secret]] 
 

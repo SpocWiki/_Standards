@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_medicine_system](/_Standards/schema-org/Relation/has/has_medicine_system.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_medicine_system|has_medicine_system]] 
 
-### #is_/same_as :: [has_medicine_system.public](/_public/schema-org/Relation/has/has_medicine_system.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_medicine_system.public|has_medicine_system.public]] 
 
-### #is_/same_as :: [has_medicine_system.internal](/_internal/schema-org/Relation/has/has_medicine_system.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_medicine_system.internal|has_medicine_system.internal]] 
 
-### #is_/same_as :: [has_medicine_system.protect](/_protect/schema-org/Relation/has/has_medicine_system.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_medicine_system.protect|has_medicine_system.protect]] 
 
-### #is_/same_as :: [has_medicine_system.private](/_private/schema-org/Relation/has/has_medicine_system.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_medicine_system.private|has_medicine_system.private]] 
 
-### #is_/same_as :: [has_medicine_system.personal](/_personal/schema-org/Relation/has/has_medicine_system.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_medicine_system.personal|has_medicine_system.personal]] 
 
-### #is_/same_as :: [has_medicine_system.secret](/_secret/schema-org/Relation/has/has_medicine_system.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_medicine_system.secret|has_medicine_system.secret]] 
 

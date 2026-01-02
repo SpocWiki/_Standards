@@ -66,17 +66,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Police(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)|Police(Band)]] 
 
-### #is_/same_as :: [Police(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).public|Police(Band).public]] 
 
-### #is_/same_as :: [Police(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).internal|Police(Band).internal]] 
 
-### #is_/same_as :: [Police(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).protect|Police(Band).protect]] 
 
-### #is_/same_as :: [Police(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).private|Police(Band).private]] 
 
-### #is_/same_as :: [Police(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).personal|Police(Band).personal]] 
 
-### #is_/same_as :: [Police(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band).secret|Police(Band).secret]] 
 

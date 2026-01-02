@@ -41,17 +41,17 @@ The act of dressing oneself in clothing.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wear_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action|Wear_Action]] 
 
-### #is_/same_as :: [Wear_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.public|Wear_Action.public]] 
 
-### #is_/same_as :: [Wear_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.internal|Wear_Action.internal]] 
 
-### #is_/same_as :: [Wear_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.protect|Wear_Action.protect]] 
 
-### #is_/same_as :: [Wear_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.private|Wear_Action.private]] 
 
-### #is_/same_as :: [Wear_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.personal|Wear_Action.personal]] 
 
-### #is_/same_as :: [Wear_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Use_Action/Wear_Action.secret|Wear_Action.secret]] 
 

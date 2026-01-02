@@ -54,17 +54,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Base(chemistry)](/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry).md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Base(chemistry)|Base(chemistry)]] 
 
-### #is_/same_as :: [Base(chemistry).public](/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Base(chemistry).public|Base(chemistry).public]] 
 
-### #is_/same_as :: [Base(chemistry).internal](/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Base(chemistry).internal|Base(chemistry).internal]] 
 
-### #is_/same_as :: [Base(chemistry).protect](/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Base(chemistry).protect|Base(chemistry).protect]] 
 
-### #is_/same_as :: [Base(chemistry).private](/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Base(chemistry).private|Base(chemistry).private]] 
 
-### #is_/same_as :: [Base(chemistry).personal](/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Base(chemistry).personal|Base(chemistry).personal]] 
 
-### #is_/same_as :: [Base(chemistry).secret](/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Base(chemistry).secret|Base(chemistry).secret]] 
 

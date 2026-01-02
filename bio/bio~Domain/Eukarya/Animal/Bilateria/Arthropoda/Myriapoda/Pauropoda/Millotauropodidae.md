@@ -36,17 +36,17 @@ title: Millotauropodidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Millotauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae|Millotauropodidae]] 
 
-### #is_/same_as :: [Millotauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.public|Millotauropodidae.public]] 
 
-### #is_/same_as :: [Millotauropodidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.internal|Millotauropodidae.internal]] 
 
-### #is_/same_as :: [Millotauropodidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.protect|Millotauropodidae.protect]] 
 
-### #is_/same_as :: [Millotauropodidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.private|Millotauropodidae.private]] 
 
-### #is_/same_as :: [Millotauropodidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.personal|Millotauropodidae.personal]] 
 
-### #is_/same_as :: [Millotauropodidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Millotauropodidae.secret|Millotauropodidae.secret]] 
 

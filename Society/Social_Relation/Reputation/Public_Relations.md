@@ -61,17 +61,17 @@ IMDb_keyword: public-relations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Relations](/_Standards/Society/Social_Relation/Reputation/Public_Relations.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Reputation/Public_Relations|Public_Relations]] 
 
-### #is_/same_as :: [Public_Relations.public](/_public/Society/Social_Relation/Reputation/Public_Relations.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Reputation/Public_Relations.public|Public_Relations.public]] 
 
-### #is_/same_as :: [Public_Relations.internal](/_internal/Society/Social_Relation/Reputation/Public_Relations.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Reputation/Public_Relations.internal|Public_Relations.internal]] 
 
-### #is_/same_as :: [Public_Relations.protect](/_protect/Society/Social_Relation/Reputation/Public_Relations.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Reputation/Public_Relations.protect|Public_Relations.protect]] 
 
-### #is_/same_as :: [Public_Relations.private](/_private/Society/Social_Relation/Reputation/Public_Relations.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Reputation/Public_Relations.private|Public_Relations.private]] 
 
-### #is_/same_as :: [Public_Relations.personal](/_personal/Society/Social_Relation/Reputation/Public_Relations.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Reputation/Public_Relations.personal|Public_Relations.personal]] 
 
-### #is_/same_as :: [Public_Relations.secret](/_secret/Society/Social_Relation/Reputation/Public_Relations.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Reputation/Public_Relations.secret|Public_Relations.secret]] 
 

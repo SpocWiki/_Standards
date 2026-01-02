@@ -59,17 +59,17 @@ Commons_category: Standard deviation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Standard_Deviation](/_Standards/Mathematics/Statistics/Probability/Standard_Deviation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Standard_Deviation|Standard_Deviation]] 
 
-### #is_/same_as :: [Standard_Deviation.public](/_public/Mathematics/Statistics/Probability/Standard_Deviation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Standard_Deviation.public|Standard_Deviation.public]] 
 
-### #is_/same_as :: [Standard_Deviation.internal](/_internal/Mathematics/Statistics/Probability/Standard_Deviation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Standard_Deviation.internal|Standard_Deviation.internal]] 
 
-### #is_/same_as :: [Standard_Deviation.protect](/_protect/Mathematics/Statistics/Probability/Standard_Deviation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Standard_Deviation.protect|Standard_Deviation.protect]] 
 
-### #is_/same_as :: [Standard_Deviation.private](/_private/Mathematics/Statistics/Probability/Standard_Deviation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Standard_Deviation.private|Standard_Deviation.private]] 
 
-### #is_/same_as :: [Standard_Deviation.personal](/_personal/Mathematics/Statistics/Probability/Standard_Deviation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Standard_Deviation.personal|Standard_Deviation.personal]] 
 
-### #is_/same_as :: [Standard_Deviation.secret](/_secret/Mathematics/Statistics/Probability/Standard_Deviation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Standard_Deviation.secret|Standard_Deviation.secret]] 
 

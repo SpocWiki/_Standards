@@ -44,17 +44,17 @@ part_of: '[[_Standards/WikiData/WD~monism,178801]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Materialism](/_Standards/Philosophy/Metaphysic/Materialism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Materialism|Materialism]] 
 
-### #is_/same_as :: [Materialism.public](/_public/Philosophy/Metaphysic/Materialism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Materialism.public|Materialism.public]] 
 
-### #is_/same_as :: [Materialism.internal](/_internal/Philosophy/Metaphysic/Materialism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Materialism.internal|Materialism.internal]] 
 
-### #is_/same_as :: [Materialism.protect](/_protect/Philosophy/Metaphysic/Materialism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Materialism.protect|Materialism.protect]] 
 
-### #is_/same_as :: [Materialism.private](/_private/Philosophy/Metaphysic/Materialism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Materialism.private|Materialism.private]] 
 
-### #is_/same_as :: [Materialism.personal](/_personal/Philosophy/Metaphysic/Materialism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Materialism.personal|Materialism.personal]] 
 
-### #is_/same_as :: [Materialism.secret](/_secret/Philosophy/Metaphysic/Materialism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Materialism.secret|Materialism.secret]] 
 

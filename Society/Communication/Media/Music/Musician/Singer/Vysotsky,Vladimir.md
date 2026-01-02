@@ -122,17 +122,17 @@ Google_Doodle: vladmir-vysotskys-74th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vysotsky,Vladimir](/_Standards/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir|Vysotsky,Vladimir]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.public](/_public/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.public|Vysotsky,Vladimir.public]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.internal|Vysotsky,Vladimir.internal]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.protect|Vysotsky,Vladimir.protect]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.private](/_private/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.private|Vysotsky,Vladimir.private]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.personal|Vysotsky,Vladimir.personal]] 
 
-### #is_/same_as :: [Vysotsky,Vladimir.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Vysotsky,Vladimir.secret|Vysotsky,Vladimir.secret]] 
 

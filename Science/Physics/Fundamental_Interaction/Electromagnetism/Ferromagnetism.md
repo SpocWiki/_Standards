@@ -82,17 +82,17 @@ IEV_number: 121-12-41
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ferromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism|Ferromagnetism]] 
 
-### #is_/same_as :: [Ferromagnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.public|Ferromagnetism.public]] 
 
-### #is_/same_as :: [Ferromagnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.internal|Ferromagnetism.internal]] 
 
-### #is_/same_as :: [Ferromagnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.protect|Ferromagnetism.protect]] 
 
-### #is_/same_as :: [Ferromagnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.private|Ferromagnetism.private]] 
 
-### #is_/same_as :: [Ferromagnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.personal|Ferromagnetism.personal]] 
 
-### #is_/same_as :: [Ferromagnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Ferromagnetism.secret|Ferromagnetism.secret]] 
 

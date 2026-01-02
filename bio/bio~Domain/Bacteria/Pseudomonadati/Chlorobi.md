@@ -69,17 +69,17 @@ green sulfur bacteria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chlorobi](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi|Chlorobi]] 
 
-### #is_/same_as :: [Chlorobi.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.public|Chlorobi.public]] 
 
-### #is_/same_as :: [Chlorobi.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.internal|Chlorobi.internal]] 
 
-### #is_/same_as :: [Chlorobi.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.protect|Chlorobi.protect]] 
 
-### #is_/same_as :: [Chlorobi.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.private|Chlorobi.private]] 
 
-### #is_/same_as :: [Chlorobi.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.personal|Chlorobi.personal]] 
 
-### #is_/same_as :: [Chlorobi.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chlorobi.secret|Chlorobi.secret]] 
 

@@ -630,17 +630,17 @@ Major Cities with Population in 1000s as of @2022
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ireland](/_Standards/Earth/Continent/Europe/Europe~North/Ireland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Ireland|Ireland]] 
 
-### #is_/same_as :: [Ireland.public](/_public/Earth/Continent/Europe/Europe~North/Ireland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Ireland.public|Ireland.public]] 
 
-### #is_/same_as :: [Ireland.internal](/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Ireland.internal|Ireland.internal]] 
 
-### #is_/same_as :: [Ireland.protect](/_protect/Earth/Continent/Europe/Europe~North/Ireland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Ireland.protect|Ireland.protect]] 
 
-### #is_/same_as :: [Ireland.private](/_private/Earth/Continent/Europe/Europe~North/Ireland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Ireland.private|Ireland.private]] 
 
-### #is_/same_as :: [Ireland.personal](/_personal/Earth/Continent/Europe/Europe~North/Ireland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Ireland.personal|Ireland.personal]] 
 
-### #is_/same_as :: [Ireland.secret](/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret|Ireland.secret]] 
 

@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_family_friendly](/_Standards/schema-org/Property/Flags/is_family_friendly.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_family_friendly|is_family_friendly]] 
 
-### #is_/same_as :: [is_family_friendly.public](/_public/schema-org/Property/Flags/is_family_friendly.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_family_friendly.public|is_family_friendly.public]] 
 
-### #is_/same_as :: [is_family_friendly.internal](/_internal/schema-org/Property/Flags/is_family_friendly.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_family_friendly.internal|is_family_friendly.internal]] 
 
-### #is_/same_as :: [is_family_friendly.protect](/_protect/schema-org/Property/Flags/is_family_friendly.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_family_friendly.protect|is_family_friendly.protect]] 
 
-### #is_/same_as :: [is_family_friendly.private](/_private/schema-org/Property/Flags/is_family_friendly.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_family_friendly.private|is_family_friendly.private]] 
 
-### #is_/same_as :: [is_family_friendly.personal](/_personal/schema-org/Property/Flags/is_family_friendly.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_family_friendly.personal|is_family_friendly.personal]] 
 
-### #is_/same_as :: [is_family_friendly.secret](/_secret/schema-org/Property/Flags/is_family_friendly.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_family_friendly.secret|is_family_friendly.secret]] 
 

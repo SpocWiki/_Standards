@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas](/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas|Twenty_Thousand_Leagues_Under_the_Seas]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.public](/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.public|Twenty_Thousand_Leagues_Under_the_Seas.public]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.internal|Twenty_Thousand_Leagues_Under_the_Seas.internal]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.protect|Twenty_Thousand_Leagues_Under_the_Seas.protect]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.private](/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.private|Twenty_Thousand_Leagues_Under_the_Seas.private]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.personal|Twenty_Thousand_Leagues_Under_the_Seas.personal]] 
 
-### #is_/same_as :: [Twenty_Thousand_Leagues_Under_the_Seas.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/SF-Movie/Twenty_Thousand_Leagues_Under_the_Seas.secret|Twenty_Thousand_Leagues_Under_the_Seas.secret]] 
 

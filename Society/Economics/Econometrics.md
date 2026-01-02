@@ -57,17 +57,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Econometrics::t8984"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Econometrics](/_Standards/Society/Economics/Econometrics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Econometrics|Econometrics]] 
 
-### #is_/same_as :: [Econometrics.public](/_public/Society/Economics/Econometrics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Econometrics.public|Econometrics.public]] 
 
-### #is_/same_as :: [Econometrics.internal](/_internal/Society/Economics/Econometrics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Econometrics.internal|Econometrics.internal]] 
 
-### #is_/same_as :: [Econometrics.protect](/_protect/Society/Economics/Econometrics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Econometrics.protect|Econometrics.protect]] 
 
-### #is_/same_as :: [Econometrics.private](/_private/Society/Economics/Econometrics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Econometrics.private|Econometrics.private]] 
 
-### #is_/same_as :: [Econometrics.personal](/_personal/Society/Economics/Econometrics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Econometrics.personal|Econometrics.personal]] 
 
-### #is_/same_as :: [Econometrics.secret](/_secret/Society/Economics/Econometrics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Econometrics.secret|Econometrics.secret]] 
 

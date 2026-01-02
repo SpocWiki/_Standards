@@ -29,17 +29,17 @@ Commons_category: Multivariate calculus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multivariable_Calculus](/_Standards/Mathematics/Calculus/Multivariable_Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Multivariable_Calculus|Multivariable_Calculus]] 
 
-### #is_/same_as :: [Multivariable_Calculus.public](/_public/Mathematics/Calculus/Multivariable_Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Multivariable_Calculus.public|Multivariable_Calculus.public]] 
 
-### #is_/same_as :: [Multivariable_Calculus.internal](/_internal/Mathematics/Calculus/Multivariable_Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Multivariable_Calculus.internal|Multivariable_Calculus.internal]] 
 
-### #is_/same_as :: [Multivariable_Calculus.protect](/_protect/Mathematics/Calculus/Multivariable_Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Multivariable_Calculus.protect|Multivariable_Calculus.protect]] 
 
-### #is_/same_as :: [Multivariable_Calculus.private](/_private/Mathematics/Calculus/Multivariable_Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Multivariable_Calculus.private|Multivariable_Calculus.private]] 
 
-### #is_/same_as :: [Multivariable_Calculus.personal](/_personal/Mathematics/Calculus/Multivariable_Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Multivariable_Calculus.personal|Multivariable_Calculus.personal]] 
 
-### #is_/same_as :: [Multivariable_Calculus.secret](/_secret/Mathematics/Calculus/Multivariable_Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Multivariable_Calculus.secret|Multivariable_Calculus.secret]] 
 

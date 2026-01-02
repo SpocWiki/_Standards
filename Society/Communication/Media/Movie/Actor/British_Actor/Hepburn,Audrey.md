@@ -193,17 +193,17 @@ pseudonym: Edda van Heemstra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hepburn,Audrey](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey|Hepburn,Audrey]] 
 
-### #is_/same_as :: [Hepburn,Audrey.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.public|Hepburn,Audrey.public]] 
 
-### #is_/same_as :: [Hepburn,Audrey.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.internal|Hepburn,Audrey.internal]] 
 
-### #is_/same_as :: [Hepburn,Audrey.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.protect|Hepburn,Audrey.protect]] 
 
-### #is_/same_as :: [Hepburn,Audrey.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.private|Hepburn,Audrey.private]] 
 
-### #is_/same_as :: [Hepburn,Audrey.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.personal|Hepburn,Audrey.personal]] 
 
-### #is_/same_as :: [Hepburn,Audrey.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Hepburn,Audrey.secret|Hepburn,Audrey.secret]] 
 

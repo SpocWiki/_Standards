@@ -49,17 +49,17 @@ Commons_category: Suffering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suffering](/_Standards/bio/Psychology/Affect/Emotion/Suffering.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Suffering|Suffering]] 
 
-### #is_/same_as :: [Suffering.public](/_public/bio/Psychology/Affect/Emotion/Suffering.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Suffering.public|Suffering.public]] 
 
-### #is_/same_as :: [Suffering.internal](/_internal/bio/Psychology/Affect/Emotion/Suffering.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Suffering.internal|Suffering.internal]] 
 
-### #is_/same_as :: [Suffering.protect](/_protect/bio/Psychology/Affect/Emotion/Suffering.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Suffering.protect|Suffering.protect]] 
 
-### #is_/same_as :: [Suffering.private](/_private/bio/Psychology/Affect/Emotion/Suffering.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Suffering.private|Suffering.private]] 
 
-### #is_/same_as :: [Suffering.personal](/_personal/bio/Psychology/Affect/Emotion/Suffering.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Suffering.personal|Suffering.personal]] 
 
-### #is_/same_as :: [Suffering.secret](/_secret/bio/Psychology/Affect/Emotion/Suffering.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Suffering.secret|Suffering.secret]] 
 

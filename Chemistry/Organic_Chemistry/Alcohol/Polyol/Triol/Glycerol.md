@@ -215,17 +215,17 @@ H-O-C-C-C-O-H
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glycerol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol|Glycerol]] 
 
-### #is_/same_as :: [Glycerol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.public|Glycerol.public]] 
 
-### #is_/same_as :: [Glycerol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.internal|Glycerol.internal]] 
 
-### #is_/same_as :: [Glycerol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.protect|Glycerol.protect]] 
 
-### #is_/same_as :: [Glycerol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.private|Glycerol.private]] 
 
-### #is_/same_as :: [Glycerol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.personal|Glycerol.personal]] 
 
-### #is_/same_as :: [Glycerol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol/Glycerol.secret|Glycerol.secret]] 
 

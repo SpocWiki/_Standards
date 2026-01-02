@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blackout](/_Standards/Technology/Energy-Technology/Blackout.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Blackout|Blackout]] 
 
-### #is_/same_as :: [Blackout.public](/_public/Technology/Energy-Technology/Blackout.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Blackout.public|Blackout.public]] 
 
-### #is_/same_as :: [Blackout.internal](/_internal/Technology/Energy-Technology/Blackout.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Blackout.internal|Blackout.internal]] 
 
-### #is_/same_as :: [Blackout.protect](/_protect/Technology/Energy-Technology/Blackout.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Blackout.protect|Blackout.protect]] 
 
-### #is_/same_as :: [Blackout.private](/_private/Technology/Energy-Technology/Blackout.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Blackout.private|Blackout.private]] 
 
-### #is_/same_as :: [Blackout.personal](/_personal/Technology/Energy-Technology/Blackout.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Blackout.personal|Blackout.personal]] 
 
-### #is_/same_as :: [Blackout.secret](/_secret/Technology/Energy-Technology/Blackout.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Blackout.secret|Blackout.secret]] 
 

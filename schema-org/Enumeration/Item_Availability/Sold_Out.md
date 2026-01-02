@@ -42,17 +42,17 @@ Indicates that the item has sold out.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sold_Out](/_Standards/schema-org/Enumeration/Item_Availability/Sold_Out.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability/Sold_Out|Sold_Out]] 
 
-### #is_/same_as :: [Sold_Out.public](/_public/schema-org/Enumeration/Item_Availability/Sold_Out.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability/Sold_Out.public|Sold_Out.public]] 
 
-### #is_/same_as :: [Sold_Out.internal](/_internal/schema-org/Enumeration/Item_Availability/Sold_Out.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability/Sold_Out.internal|Sold_Out.internal]] 
 
-### #is_/same_as :: [Sold_Out.protect](/_protect/schema-org/Enumeration/Item_Availability/Sold_Out.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability/Sold_Out.protect|Sold_Out.protect]] 
 
-### #is_/same_as :: [Sold_Out.private](/_private/schema-org/Enumeration/Item_Availability/Sold_Out.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability/Sold_Out.private|Sold_Out.private]] 
 
-### #is_/same_as :: [Sold_Out.personal](/_personal/schema-org/Enumeration/Item_Availability/Sold_Out.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability/Sold_Out.personal|Sold_Out.personal]] 
 
-### #is_/same_as :: [Sold_Out.secret](/_secret/schema-org/Enumeration/Item_Availability/Sold_Out.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability/Sold_Out.secret|Sold_Out.secret]] 
 

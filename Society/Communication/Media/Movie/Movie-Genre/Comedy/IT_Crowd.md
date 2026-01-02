@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IT_Crowd](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd|IT_Crowd]] 
 
-### #is_/same_as :: [IT_Crowd.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.public|IT_Crowd.public]] 
 
-### #is_/same_as :: [IT_Crowd.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.internal|IT_Crowd.internal]] 
 
-### #is_/same_as :: [IT_Crowd.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.protect|IT_Crowd.protect]] 
 
-### #is_/same_as :: [IT_Crowd.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.private|IT_Crowd.private]] 
 
-### #is_/same_as :: [IT_Crowd.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.personal|IT_Crowd.personal]] 
 
-### #is_/same_as :: [IT_Crowd.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/IT_Crowd.secret|IT_Crowd.secret]] 
 

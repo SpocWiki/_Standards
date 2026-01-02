@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_candidate](/_Standards/schema-org/Relation/has/has_candidate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_candidate|has_candidate]] 
 
-### #is_/same_as :: [has_candidate.public](/_public/schema-org/Relation/has/has_candidate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_candidate.public|has_candidate.public]] 
 
-### #is_/same_as :: [has_candidate.internal](/_internal/schema-org/Relation/has/has_candidate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_candidate.internal|has_candidate.internal]] 
 
-### #is_/same_as :: [has_candidate.protect](/_protect/schema-org/Relation/has/has_candidate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_candidate.protect|has_candidate.protect]] 
 
-### #is_/same_as :: [has_candidate.private](/_private/schema-org/Relation/has/has_candidate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_candidate.private|has_candidate.private]] 
 
-### #is_/same_as :: [has_candidate.personal](/_personal/schema-org/Relation/has/has_candidate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_candidate.personal|has_candidate.personal]] 
 
-### #is_/same_as :: [has_candidate.secret](/_secret/schema-org/Relation/has/has_candidate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_candidate.secret|has_candidate.secret]] 
 

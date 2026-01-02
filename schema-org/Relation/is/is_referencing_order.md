@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_referencing_order](/_Standards/schema-org/Relation/is/is_referencing_order.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_referencing_order|is_referencing_order]] 
 
-### #is_/same_as :: [is_referencing_order.public](/_public/schema-org/Relation/is/is_referencing_order.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_referencing_order.public|is_referencing_order.public]] 
 
-### #is_/same_as :: [is_referencing_order.internal](/_internal/schema-org/Relation/is/is_referencing_order.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_referencing_order.internal|is_referencing_order.internal]] 
 
-### #is_/same_as :: [is_referencing_order.protect](/_protect/schema-org/Relation/is/is_referencing_order.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_referencing_order.protect|is_referencing_order.protect]] 
 
-### #is_/same_as :: [is_referencing_order.private](/_private/schema-org/Relation/is/is_referencing_order.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_referencing_order.private|is_referencing_order.private]] 
 
-### #is_/same_as :: [is_referencing_order.personal](/_personal/schema-org/Relation/is/is_referencing_order.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_referencing_order.personal|is_referencing_order.personal]] 
 
-### #is_/same_as :: [is_referencing_order.secret](/_secret/schema-org/Relation/is/is_referencing_order.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_referencing_order.secret|is_referencing_order.secret]] 
 

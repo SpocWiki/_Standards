@@ -48,17 +48,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_during-media](/_Standards/schema-org/Relation/has/has_during-media.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_during-media|has_during-media]] 
 
-### #is_/same_as :: [has_during-media.public](/_public/schema-org/Relation/has/has_during-media.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_during-media.public|has_during-media.public]] 
 
-### #is_/same_as :: [has_during-media.internal](/_internal/schema-org/Relation/has/has_during-media.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_during-media.internal|has_during-media.internal]] 
 
-### #is_/same_as :: [has_during-media.protect](/_protect/schema-org/Relation/has/has_during-media.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_during-media.protect|has_during-media.protect]] 
 
-### #is_/same_as :: [has_during-media.private](/_private/schema-org/Relation/has/has_during-media.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_during-media.private|has_during-media.private]] 
 
-### #is_/same_as :: [has_during-media.personal](/_personal/schema-org/Relation/has/has_during-media.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_during-media.personal|has_during-media.personal]] 
 
-### #is_/same_as :: [has_during-media.secret](/_secret/schema-org/Relation/has/has_during-media.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_during-media.secret|has_during-media.secret]] 
 

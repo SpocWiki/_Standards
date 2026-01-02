@@ -81,17 +81,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Film%20City%2C%20Mumba
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bollywood](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Bollywood.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Bollywood|Bollywood]] 
 
-### #is_/same_as :: [Bollywood.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Bollywood.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Bollywood.public|Bollywood.public]] 
 
-### #is_/same_as :: [Bollywood.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.internal|Bollywood.internal]] 
 
-### #is_/same_as :: [Bollywood.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Bollywood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Bollywood.protect|Bollywood.protect]] 
 
-### #is_/same_as :: [Bollywood.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Bollywood.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Bollywood.private|Bollywood.private]] 
 
-### #is_/same_as :: [Bollywood.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Bollywood.personal|Bollywood.personal]] 
 
-### #is_/same_as :: [Bollywood.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Bollywood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Bollywood.secret|Bollywood.secret]] 
 

@@ -76,17 +76,17 @@ GitHub_topic:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantum_Computer](/_Standards/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Quantum_Computer|Quantum_Computer]] 
 
-### #is_/same_as :: [Quantum_Computer.public](/_public/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.public|Quantum_Computer.public]] 
 
-### #is_/same_as :: [Quantum_Computer.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.internal|Quantum_Computer.internal]] 
 
-### #is_/same_as :: [Quantum_Computer.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.protect|Quantum_Computer.protect]] 
 
-### #is_/same_as :: [Quantum_Computer.private](/_private/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.private|Quantum_Computer.private]] 
 
-### #is_/same_as :: [Quantum_Computer.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.personal|Quantum_Computer.personal]] 
 
-### #is_/same_as :: [Quantum_Computer.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Quantum_Computer.secret|Quantum_Computer.secret]] 
 

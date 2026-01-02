@@ -58,17 +58,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Ketchup"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ketchup](/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup|Ketchup]] 
 
-### #is_/same_as :: [Ketchup.public](/_public/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.public|Ketchup.public]] 
 
-### #is_/same_as :: [Ketchup.internal](/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.internal|Ketchup.internal]] 
 
-### #is_/same_as :: [Ketchup.protect](/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.protect|Ketchup.protect]] 
 
-### #is_/same_as :: [Ketchup.private](/_private/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.private|Ketchup.private]] 
 
-### #is_/same_as :: [Ketchup.personal](/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.personal|Ketchup.personal]] 
 
-### #is_/same_as :: [Ketchup.secret](/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Condiment/Ketchup.secret|Ketchup.secret]] 
 

@@ -71,17 +71,17 @@ OpenStreetMap_tag: amenity=table
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Table(Furniture)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture)|Table(Furniture)]] 
 
-### #is_/same_as :: [Table(Furniture).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).public|Table(Furniture).public]] 
 
-### #is_/same_as :: [Table(Furniture).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).internal|Table(Furniture).internal]] 
 
-### #is_/same_as :: [Table(Furniture).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).protect|Table(Furniture).protect]] 
 
-### #is_/same_as :: [Table(Furniture).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).private|Table(Furniture).private]] 
 
-### #is_/same_as :: [Table(Furniture).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).personal|Table(Furniture).personal]] 
 
-### #is_/same_as :: [Table(Furniture).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Furniture/Table(Furniture).secret|Table(Furniture).secret]] 
 

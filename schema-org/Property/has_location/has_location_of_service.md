@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_of_service](/_Standards/schema-org/Property/has_location/has_location_of_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_of_service|has_location_of_service]] 
 
-### #is_/same_as :: [has_location_of_service.public](/_public/schema-org/Property/has_location/has_location_of_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_of_service.public|has_location_of_service.public]] 
 
-### #is_/same_as :: [has_location_of_service.internal](/_internal/schema-org/Property/has_location/has_location_of_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_of_service.internal|has_location_of_service.internal]] 
 
-### #is_/same_as :: [has_location_of_service.protect](/_protect/schema-org/Property/has_location/has_location_of_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_of_service.protect|has_location_of_service.protect]] 
 
-### #is_/same_as :: [has_location_of_service.private](/_private/schema-org/Property/has_location/has_location_of_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_of_service.private|has_location_of_service.private]] 
 
-### #is_/same_as :: [has_location_of_service.personal](/_personal/schema-org/Property/has_location/has_location_of_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_of_service.personal|has_location_of_service.personal]] 
 
-### #is_/same_as :: [has_location_of_service.secret](/_secret/schema-org/Property/has_location/has_location_of_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_of_service.secret|has_location_of_service.secret]] 
 

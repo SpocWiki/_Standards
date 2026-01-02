@@ -86,17 +86,17 @@ Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Clitoris"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clitoris](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris|Clitoris]] 
 
-### #is_/same_as :: [Clitoris.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.public|Clitoris.public]] 
 
-### #is_/same_as :: [Clitoris.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.internal|Clitoris.internal]] 
 
-### #is_/same_as :: [Clitoris.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.protect|Clitoris.protect]] 
 
-### #is_/same_as :: [Clitoris.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.private|Clitoris.private]] 
 
-### #is_/same_as :: [Clitoris.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.personal|Clitoris.personal]] 
 
-### #is_/same_as :: [Clitoris.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Clitoris.secret|Clitoris.secret]] 
 

@@ -75,17 +75,17 @@ Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symphypleona](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona|Symphypleona]] 
 
-### #is_/same_as :: [Symphypleona.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.public|Symphypleona.public]] 
 
-### #is_/same_as :: [Symphypleona.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.internal|Symphypleona.internal]] 
 
-### #is_/same_as :: [Symphypleona.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.protect|Symphypleona.protect]] 
 
-### #is_/same_as :: [Symphypleona.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.private|Symphypleona.private]] 
 
-### #is_/same_as :: [Symphypleona.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.personal|Symphypleona.personal]] 
 
-### #is_/same_as :: [Symphypleona.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Springtail/Symphypleona.secret|Symphypleona.secret]] 
 

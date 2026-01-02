@@ -145,17 +145,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Locke,John](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John|Locke,John]] 
 
-### #is_/same_as :: [Locke,John.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.public|Locke,John.public]] 
 
-### #is_/same_as :: [Locke,John.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.internal|Locke,John.internal]] 
 
-### #is_/same_as :: [Locke,John.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.protect|Locke,John.protect]] 
 
-### #is_/same_as :: [Locke,John.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.private|Locke,John.private]] 
 
-### #is_/same_as :: [Locke,John.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.personal|Locke,John.personal]] 
 
-### #is_/same_as :: [Locke,John.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Locke,John.secret|Locke,John.secret]] 
 

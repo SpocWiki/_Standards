@@ -42,17 +42,17 @@ Indicates that the item is new.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition/New_Condition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition/New_Condition|New_Condition]] 
 
-### #is_/same_as :: [New_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition/New_Condition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Offer_Item_Condition/New_Condition.public|New_Condition.public]] 
 
-### #is_/same_as :: [New_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.internal|New_Condition.internal]] 
 
-### #is_/same_as :: [New_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition/New_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Offer_Item_Condition/New_Condition.protect|New_Condition.protect]] 
 
-### #is_/same_as :: [New_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition/New_Condition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Offer_Item_Condition/New_Condition.private|New_Condition.private]] 
 
-### #is_/same_as :: [New_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Offer_Item_Condition/New_Condition.personal|New_Condition.personal]] 
 
-### #is_/same_as :: [New_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition/New_Condition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Offer_Item_Condition/New_Condition.secret|New_Condition.secret]] 
 

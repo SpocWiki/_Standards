@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_alumni](/_Standards/schema-org/Relation/has/has_alumni.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_alumni|has_alumni]] 
 
-### #is_/same_as :: [has_alumni.public](/_public/schema-org/Relation/has/has_alumni.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_alumni.public|has_alumni.public]] 
 
-### #is_/same_as :: [has_alumni.internal](/_internal/schema-org/Relation/has/has_alumni.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_alumni.internal|has_alumni.internal]] 
 
-### #is_/same_as :: [has_alumni.protect](/_protect/schema-org/Relation/has/has_alumni.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_alumni.protect|has_alumni.protect]] 
 
-### #is_/same_as :: [has_alumni.private](/_private/schema-org/Relation/has/has_alumni.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_alumni.private|has_alumni.private]] 
 
-### #is_/same_as :: [has_alumni.personal](/_personal/schema-org/Relation/has/has_alumni.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_alumni.personal|has_alumni.personal]] 
 
-### #is_/same_as :: [has_alumni.secret](/_secret/schema-org/Relation/has/has_alumni.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_alumni.secret|has_alumni.secret]] 
 

@@ -33,17 +33,17 @@ Stack_Exchange_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Career](/_Standards/Society/Economics/Career.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Career|Career]] 
 
-### #is_/same_as :: [Career.public](/_public/Society/Economics/Career.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Career.public|Career.public]] 
 
-### #is_/same_as :: [Career.internal](/_internal/Society/Economics/Career.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Career.internal|Career.internal]] 
 
-### #is_/same_as :: [Career.protect](/_protect/Society/Economics/Career.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Career.protect|Career.protect]] 
 
-### #is_/same_as :: [Career.private](/_private/Society/Economics/Career.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Career.private|Career.private]] 
 
-### #is_/same_as :: [Career.personal](/_personal/Society/Economics/Career.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Career.personal|Career.personal]] 
 
-### #is_/same_as :: [Career.secret](/_secret/Society/Economics/Career.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Career.secret|Career.secret]] 
 

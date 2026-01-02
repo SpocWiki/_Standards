@@ -58,17 +58,17 @@ WarrantyScope:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WarrantyPromise](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise|FileClass~WarrantyPromise]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.public|FileClass~WarrantyPromise.public]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.internal|FileClass~WarrantyPromise.internal]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.protect|FileClass~WarrantyPromise.protect]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.private|FileClass~WarrantyPromise.private]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.personal|FileClass~WarrantyPromise.personal]] 
 
-### #is_/same_as :: [FileClass~WarrantyPromise.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~WarrantyPromise.secret|FileClass~WarrantyPromise.secret]] 
 

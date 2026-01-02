@@ -42,17 +42,17 @@ Commons_category: Masonry (craft)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Masonry](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry|Masonry]] 
 
-### #is_/same_as :: [Masonry.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.public|Masonry.public]] 
 
-### #is_/same_as :: [Masonry.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.internal|Masonry.internal]] 
 
-### #is_/same_as :: [Masonry.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.protect|Masonry.protect]] 
 
-### #is_/same_as :: [Masonry.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.private|Masonry.private]] 
 
-### #is_/same_as :: [Masonry.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.personal|Masonry.personal]] 
 
-### #is_/same_as :: [Masonry.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Masonry.secret|Masonry.secret]] 
 

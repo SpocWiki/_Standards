@@ -41,17 +41,17 @@ The act of expressing a positive sentiment about the object. An agent likes an o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Like_Action](/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action|Like_Action]] 
 
-### #is_/same_as :: [Like_Action.public](/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.public|Like_Action.public]] 
 
-### #is_/same_as :: [Like_Action.internal](/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.internal|Like_Action.internal]] 
 
-### #is_/same_as :: [Like_Action.protect](/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.protect|Like_Action.protect]] 
 
-### #is_/same_as :: [Like_Action.private](/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.private|Like_Action.private]] 
 
-### #is_/same_as :: [Like_Action.personal](/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.personal|Like_Action.personal]] 
 
-### #is_/same_as :: [Like_Action.secret](/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Assess_Action/React_Action/Like_Action.secret|Like_Action.secret]] 
 

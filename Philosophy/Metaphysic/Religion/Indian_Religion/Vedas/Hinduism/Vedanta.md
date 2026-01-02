@@ -54,17 +54,17 @@ Commons_category: Vedanta
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vedanta](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta|Vedanta]] 
 
-### #is_/same_as :: [Vedanta.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.public|Vedanta.public]] 
 
-### #is_/same_as :: [Vedanta.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.internal|Vedanta.internal]] 
 
-### #is_/same_as :: [Vedanta.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.protect|Vedanta.protect]] 
 
-### #is_/same_as :: [Vedanta.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.private|Vedanta.private]] 
 
-### #is_/same_as :: [Vedanta.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.personal|Vedanta.personal]] 
 
-### #is_/same_as :: [Vedanta.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Vedanta.secret|Vedanta.secret]] 
 

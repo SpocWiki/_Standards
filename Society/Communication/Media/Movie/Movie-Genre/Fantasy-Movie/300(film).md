@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [300(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film)|300(film)]] 
 
-### #is_/same_as :: [300(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).public|300(film).public]] 
 
-### #is_/same_as :: [300(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).internal|300(film).internal]] 
 
-### #is_/same_as :: [300(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).protect|300(film).protect]] 
 
-### #is_/same_as :: [300(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).private|300(film).private]] 
 
-### #is_/same_as :: [300(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).personal|300(film).personal]] 
 
-### #is_/same_as :: [300(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/300(film).secret|300(film).secret]] 
 

@@ -54,17 +54,17 @@ Commons_category: Genitalia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sex_Organ](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex_Organ|Sex_Organ]] 
 
-### #is_/same_as :: [Sex_Organ.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex_Organ.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex_Organ.public|Sex_Organ.public]] 
 
-### #is_/same_as :: [Sex_Organ.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex_Organ.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex_Organ.internal|Sex_Organ.internal]] 
 
-### #is_/same_as :: [Sex_Organ.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex_Organ.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex_Organ.protect|Sex_Organ.protect]] 
 
-### #is_/same_as :: [Sex_Organ.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex_Organ.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex_Organ.private|Sex_Organ.private]] 
 
-### #is_/same_as :: [Sex_Organ.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex_Organ.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex_Organ.personal|Sex_Organ.personal]] 
 
-### #is_/same_as :: [Sex_Organ.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex_Organ.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex_Organ.secret|Sex_Organ.secret]] 
 

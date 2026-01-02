@@ -92,17 +92,17 @@ date_of_birth: 1908-03-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lean,David](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lean,David.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lean,David|Lean,David]] 
 
-### #is_/same_as :: [Lean,David.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lean,David.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lean,David.public|Lean,David.public]] 
 
-### #is_/same_as :: [Lean,David.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lean,David.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lean,David.internal|Lean,David.internal]] 
 
-### #is_/same_as :: [Lean,David.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lean,David.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lean,David.protect|Lean,David.protect]] 
 
-### #is_/same_as :: [Lean,David.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lean,David.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lean,David.private|Lean,David.private]] 
 
-### #is_/same_as :: [Lean,David.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lean,David.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lean,David.personal|Lean,David.personal]] 
 
-### #is_/same_as :: [Lean,David.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lean,David.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lean,David.secret|Lean,David.secret]] 
 

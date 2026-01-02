@@ -155,17 +155,17 @@ writing_language: '[[_Standards/WikiData/WD~Turkish,256]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal|Atatürk,Mustafa_Kemal]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.public|Atatürk,Mustafa_Kemal.public]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.internal|Atatürk,Mustafa_Kemal.internal]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.protect|Atatürk,Mustafa_Kemal.protect]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.private|Atatürk,Mustafa_Kemal.private]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.personal|Atatürk,Mustafa_Kemal.personal]] 
 
-### #is_/same_as :: [Atatürk,Mustafa_Kemal.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Atatürk,Mustafa_Kemal.secret|Atatürk,Mustafa_Kemal.secret]] 
 

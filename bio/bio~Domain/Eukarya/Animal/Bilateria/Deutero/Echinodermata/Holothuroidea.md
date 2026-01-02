@@ -333,17 +333,17 @@ Copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holothuroidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea|Holothuroidea]] 
 
-### #is_/same_as :: [Holothuroidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.public|Holothuroidea.public]] 
 
-### #is_/same_as :: [Holothuroidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.internal|Holothuroidea.internal]] 
 
-### #is_/same_as :: [Holothuroidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.protect|Holothuroidea.protect]] 
 
-### #is_/same_as :: [Holothuroidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.private|Holothuroidea.private]] 
 
-### #is_/same_as :: [Holothuroidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.personal|Holothuroidea.personal]] 
 
-### #is_/same_as :: [Holothuroidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Holothuroidea.secret|Holothuroidea.secret]] 
 

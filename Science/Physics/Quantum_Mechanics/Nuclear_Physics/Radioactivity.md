@@ -83,17 +83,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/RADIOAKTIVNOST.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radioactivity](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity|Radioactivity]] 
 
-### #is_/same_as :: [Radioactivity.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.public|Radioactivity.public]] 
 
-### #is_/same_as :: [Radioactivity.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.internal|Radioactivity.internal]] 
 
-### #is_/same_as :: [Radioactivity.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.protect|Radioactivity.protect]] 
 
-### #is_/same_as :: [Radioactivity.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.private|Radioactivity.private]] 
 
-### #is_/same_as :: [Radioactivity.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.personal|Radioactivity.personal]] 
 
-### #is_/same_as :: [Radioactivity.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Radioactivity.secret|Radioactivity.secret]] 
 

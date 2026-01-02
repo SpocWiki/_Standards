@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974|Man_with_the_Golden_Gun,1974]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.public|Man_with_the_Golden_Gun,1974.public]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.internal|Man_with_the_Golden_Gun,1974.internal]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.protect|Man_with_the_Golden_Gun,1974.protect]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.private|Man_with_the_Golden_Gun,1974.private]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.personal|Man_with_the_Golden_Gun,1974.personal]] 
 
-### #is_/same_as :: [Man_with_the_Golden_Gun,1974.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Man_with_the_Golden_Gun,1974.secret|Man_with_the_Golden_Gun,1974.secret]] 
 

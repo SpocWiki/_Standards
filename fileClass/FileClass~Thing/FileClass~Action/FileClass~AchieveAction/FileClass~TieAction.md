@@ -37,17 +37,17 @@ The act of reaching a draw in a competitive activity.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TieAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction|FileClass~TieAction]] 
 
-### #is_/same_as :: [FileClass~TieAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.public|FileClass~TieAction.public]] 
 
-### #is_/same_as :: [FileClass~TieAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.internal|FileClass~TieAction.internal]] 
 
-### #is_/same_as :: [FileClass~TieAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.protect|FileClass~TieAction.protect]] 
 
-### #is_/same_as :: [FileClass~TieAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.private|FileClass~TieAction.private]] 
 
-### #is_/same_as :: [FileClass~TieAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.personal|FileClass~TieAction.personal]] 
 
-### #is_/same_as :: [FileClass~TieAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AchieveAction/FileClass~TieAction.secret|FileClass~TieAction.secret]] 
 

@@ -48,17 +48,17 @@ MeSH_tree_code: G01.482.311
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coriolis_Force](/_Standards/Science/Physics/Force/Pseudo-Force/Coriolis_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Force/Pseudo-Force/Coriolis_Force|Coriolis_Force]] 
 
-### #is_/same_as :: [Coriolis_Force.public](/_public/Science/Physics/Force/Pseudo-Force/Coriolis_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Force/Pseudo-Force/Coriolis_Force.public|Coriolis_Force.public]] 
 
-### #is_/same_as :: [Coriolis_Force.internal](/_internal/Science/Physics/Force/Pseudo-Force/Coriolis_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Force/Pseudo-Force/Coriolis_Force.internal|Coriolis_Force.internal]] 
 
-### #is_/same_as :: [Coriolis_Force.protect](/_protect/Science/Physics/Force/Pseudo-Force/Coriolis_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Force/Pseudo-Force/Coriolis_Force.protect|Coriolis_Force.protect]] 
 
-### #is_/same_as :: [Coriolis_Force.private](/_private/Science/Physics/Force/Pseudo-Force/Coriolis_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Force/Pseudo-Force/Coriolis_Force.private|Coriolis_Force.private]] 
 
-### #is_/same_as :: [Coriolis_Force.personal](/_personal/Science/Physics/Force/Pseudo-Force/Coriolis_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Force/Pseudo-Force/Coriolis_Force.personal|Coriolis_Force.personal]] 
 
-### #is_/same_as :: [Coriolis_Force.secret](/_secret/Science/Physics/Force/Pseudo-Force/Coriolis_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Force/Pseudo-Force/Coriolis_Force.secret|Coriolis_Force.secret]] 
 

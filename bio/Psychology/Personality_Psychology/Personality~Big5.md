@@ -93,17 +93,17 @@ All other dimensions exhibit clear advantages and disadvantages depending on con
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Personality~Big5](/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5|Personality~Big5]] 
 
-### #is_/same_as :: [Personality~Big5.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5.public|Personality~Big5.public]] 
 
-### #is_/same_as :: [Personality~Big5.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5.internal|Personality~Big5.internal]] 
 
-### #is_/same_as :: [Personality~Big5.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5.protect|Personality~Big5.protect]] 
 
-### #is_/same_as :: [Personality~Big5.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5.private|Personality~Big5.private]] 
 
-### #is_/same_as :: [Personality~Big5.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5.personal|Personality~Big5.personal]] 
 
-### #is_/same_as :: [Personality~Big5.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5.secret|Personality~Big5.secret]] 
 

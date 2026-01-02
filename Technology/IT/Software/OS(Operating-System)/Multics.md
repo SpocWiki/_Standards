@@ -94,17 +94,17 @@ software_version_identifier: MR12.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multics](/_Standards/Technology/IT/Software/OS(Operating-System)/Multics.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Multics|Multics]] 
 
-### #is_/same_as :: [Multics.public](/_public/Technology/IT/Software/OS(Operating-System)/Multics.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Multics.public|Multics.public]] 
 
-### #is_/same_as :: [Multics.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Multics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Multics.internal|Multics.internal]] 
 
-### #is_/same_as :: [Multics.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Multics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Multics.protect|Multics.protect]] 
 
-### #is_/same_as :: [Multics.private](/_private/Technology/IT/Software/OS(Operating-System)/Multics.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Multics.private|Multics.private]] 
 
-### #is_/same_as :: [Multics.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Multics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Multics.personal|Multics.personal]] 
 
-### #is_/same_as :: [Multics.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Multics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Multics.secret|Multics.secret]] 
 

@@ -57,17 +57,17 @@ Xpath:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WebPageElement](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement|FileClass~WebPageElement]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.public|FileClass~WebPageElement.public]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.internal|FileClass~WebPageElement.internal]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.protect|FileClass~WebPageElement.protect]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.private|FileClass~WebPageElement.private]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.personal|FileClass~WebPageElement.personal]] 
 
-### #is_/same_as :: [FileClass~WebPageElement.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPageElement.secret|FileClass~WebPageElement.secret]] 
 

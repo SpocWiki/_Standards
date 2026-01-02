@@ -41,17 +41,17 @@ An advertising section of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wp_Ad_Block](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block|Wp_Ad_Block]] 
 
-### #is_/same_as :: [Wp_Ad_Block.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.public|Wp_Ad_Block.public]] 
 
-### #is_/same_as :: [Wp_Ad_Block.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.internal|Wp_Ad_Block.internal]] 
 
-### #is_/same_as :: [Wp_Ad_Block.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.protect|Wp_Ad_Block.protect]] 
 
-### #is_/same_as :: [Wp_Ad_Block.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.private|Wp_Ad_Block.private]] 
 
-### #is_/same_as :: [Wp_Ad_Block.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.personal|Wp_Ad_Block.personal]] 
 
-### #is_/same_as :: [Wp_Ad_Block.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Wp_Ad_Block.secret|Wp_Ad_Block.secret]] 
 

@@ -107,17 +107,17 @@ Krugosvet_article_archived_: istoriya/SPARTAK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spartacus](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus|Spartacus]] 
 
-### #is_/same_as :: [Spartacus.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.public|Spartacus.public]] 
 
-### #is_/same_as :: [Spartacus.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.internal|Spartacus.internal]] 
 
-### #is_/same_as :: [Spartacus.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.protect|Spartacus.protect]] 
 
-### #is_/same_as :: [Spartacus.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.private|Spartacus.private]] 
 
-### #is_/same_as :: [Spartacus.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.personal|Spartacus.personal]] 
 
-### #is_/same_as :: [Spartacus.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Spartacus.secret|Spartacus.secret]] 
 

@@ -78,17 +78,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/AVTORIT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Authoritarianism](/_Standards/Society/Politics/Government/Dictatorship/Authoritarianism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Authoritarianism|Authoritarianism]] 
 
-### #is_/same_as :: [Authoritarianism.public](/_public/Society/Politics/Government/Dictatorship/Authoritarianism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Authoritarianism.public|Authoritarianism.public]] 
 
-### #is_/same_as :: [Authoritarianism.internal](/_internal/Society/Politics/Government/Dictatorship/Authoritarianism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Authoritarianism.internal|Authoritarianism.internal]] 
 
-### #is_/same_as :: [Authoritarianism.protect](/_protect/Society/Politics/Government/Dictatorship/Authoritarianism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Authoritarianism.protect|Authoritarianism.protect]] 
 
-### #is_/same_as :: [Authoritarianism.private](/_private/Society/Politics/Government/Dictatorship/Authoritarianism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Authoritarianism.private|Authoritarianism.private]] 
 
-### #is_/same_as :: [Authoritarianism.personal](/_personal/Society/Politics/Government/Dictatorship/Authoritarianism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Authoritarianism.personal|Authoritarianism.personal]] 
 
-### #is_/same_as :: [Authoritarianism.secret](/_secret/Society/Politics/Government/Dictatorship/Authoritarianism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Authoritarianism.secret|Authoritarianism.secret]] 
 

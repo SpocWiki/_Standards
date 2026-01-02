@@ -95,17 +95,17 @@ DSSTOX_compound_identifier: DTXCID006386
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Propane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane|Propane]] 
 
-### #is_/same_as :: [Propane.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.public|Propane.public]] 
 
-### #is_/same_as :: [Propane.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.internal|Propane.internal]] 
 
-### #is_/same_as :: [Propane.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.protect|Propane.protect]] 
 
-### #is_/same_as :: [Propane.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.private|Propane.private]] 
 
-### #is_/same_as :: [Propane.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.personal|Propane.personal]] 
 
-### #is_/same_as :: [Propane.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Propane.secret|Propane.secret]] 
 

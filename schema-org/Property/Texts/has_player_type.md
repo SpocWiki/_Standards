@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_player_type](/_Standards/schema-org/Property/Texts/has_player_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_player_type|has_player_type]] 
 
-### #is_/same_as :: [has_player_type.public](/_public/schema-org/Property/Texts/has_player_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_player_type.public|has_player_type.public]] 
 
-### #is_/same_as :: [has_player_type.internal](/_internal/schema-org/Property/Texts/has_player_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_player_type.internal|has_player_type.internal]] 
 
-### #is_/same_as :: [has_player_type.protect](/_protect/schema-org/Property/Texts/has_player_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_player_type.protect|has_player_type.protect]] 
 
-### #is_/same_as :: [has_player_type.private](/_private/schema-org/Property/Texts/has_player_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_player_type.private|has_player_type.private]] 
 
-### #is_/same_as :: [has_player_type.personal](/_personal/schema-org/Property/Texts/has_player_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_player_type.personal|has_player_type.personal]] 
 
-### #is_/same_as :: [has_player_type.secret](/_secret/schema-org/Property/Texts/has_player_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_player_type.secret|has_player_type.secret]] 
 

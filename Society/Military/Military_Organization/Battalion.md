@@ -55,17 +55,17 @@ Commons_category: Battalions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battalion](/_Standards/Society/Military/Military_Organization/Battalion.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Battalion|Battalion]] 
 
-### #is_/same_as :: [Battalion.public](/_public/Society/Military/Military_Organization/Battalion.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Battalion.public|Battalion.public]] 
 
-### #is_/same_as :: [Battalion.internal](/_internal/Society/Military/Military_Organization/Battalion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Battalion.internal|Battalion.internal]] 
 
-### #is_/same_as :: [Battalion.protect](/_protect/Society/Military/Military_Organization/Battalion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Battalion.protect|Battalion.protect]] 
 
-### #is_/same_as :: [Battalion.private](/_private/Society/Military/Military_Organization/Battalion.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Battalion.private|Battalion.private]] 
 
-### #is_/same_as :: [Battalion.personal](/_personal/Society/Military/Military_Organization/Battalion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Battalion.personal|Battalion.personal]] 
 
-### #is_/same_as :: [Battalion.secret](/_secret/Society/Military/Military_Organization/Battalion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Battalion.secret|Battalion.secret]] 
 

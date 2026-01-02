@@ -113,17 +113,17 @@ Zhihu_username: da-zhong-qi-che-pin-pai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [VW(Volkswagen)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)|VW(Volkswagen)]] 
 
-### #is_/same_as :: [VW(Volkswagen).public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).public|VW(Volkswagen).public]] 
 
-### #is_/same_as :: [VW(Volkswagen).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).internal|VW(Volkswagen).internal]] 
 
-### #is_/same_as :: [VW(Volkswagen).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).protect|VW(Volkswagen).protect]] 
 
-### #is_/same_as :: [VW(Volkswagen).private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).private|VW(Volkswagen).private]] 
 
-### #is_/same_as :: [VW(Volkswagen).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).personal|VW(Volkswagen).personal]] 
 
-### #is_/same_as :: [VW(Volkswagen).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen).secret|VW(Volkswagen).secret]] 
 

@@ -60,17 +60,17 @@ while `schema:Activity` is used for broader, ongoing processes or events that ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Action](/_Standards/schema-org/Class/is_a_/Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action|Action]] 
 
-### #is_/same_as :: [Action.public](/_public/schema-org/Class/is_a_/Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action.public|Action.public]] 
 
-### #is_/same_as :: [Action.internal](/_internal/schema-org/Class/is_a_/Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action.internal|Action.internal]] 
 
-### #is_/same_as :: [Action.protect](/_protect/schema-org/Class/is_a_/Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action.protect|Action.protect]] 
 
-### #is_/same_as :: [Action.private](/_private/schema-org/Class/is_a_/Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action.private|Action.private]] 
 
-### #is_/same_as :: [Action.personal](/_personal/schema-org/Class/is_a_/Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action.personal|Action.personal]] 
 
-### #is_/same_as :: [Action.secret](/_secret/schema-org/Class/is_a_/Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action.secret|Action.secret]] 
 

@@ -28,17 +28,17 @@ das generiert 10_000 Opportunities pro Jahr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venture_Capital](/_Standards/Society/Economics/Capital(Economics)/Investor/Venture_Capital.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Venture_Capital|Venture_Capital]] 
 
-### #is_/same_as :: [Venture_Capital.public](/_public/Society/Economics/Capital(Economics)/Investor/Venture_Capital.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Venture_Capital.public|Venture_Capital.public]] 
 
-### #is_/same_as :: [Venture_Capital.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Venture_Capital.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Venture_Capital.internal|Venture_Capital.internal]] 
 
-### #is_/same_as :: [Venture_Capital.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Venture_Capital.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Venture_Capital.protect|Venture_Capital.protect]] 
 
-### #is_/same_as :: [Venture_Capital.private](/_private/Society/Economics/Capital(Economics)/Investor/Venture_Capital.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Venture_Capital.private|Venture_Capital.private]] 
 
-### #is_/same_as :: [Venture_Capital.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Venture_Capital.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Venture_Capital.personal|Venture_Capital.personal]] 
 
-### #is_/same_as :: [Venture_Capital.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Venture_Capital.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Venture_Capital.secret|Venture_Capital.secret]] 
 

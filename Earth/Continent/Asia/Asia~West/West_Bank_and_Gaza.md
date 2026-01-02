@@ -36,17 +36,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_Bank_and_Gaza](/_Standards/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza|West_Bank_and_Gaza]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.public](/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.public|West_Bank_and_Gaza.public]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.internal](/_internal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.internal|West_Bank_and_Gaza.internal]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.protect](/_protect/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.protect|West_Bank_and_Gaza.protect]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.private](/_private/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.private|West_Bank_and_Gaza.private]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.personal](/_personal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.personal|West_Bank_and_Gaza.personal]] 
 
-### #is_/same_as :: [West_Bank_and_Gaza.secret](/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/West_Bank_and_Gaza.secret|West_Bank_and_Gaza.secret]] 
 

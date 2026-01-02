@@ -26,17 +26,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia~North](/_Standards/Earth/Continent/Asia/Asia~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North|Asia~North]] 
 
-### #is_/same_as :: [Asia~North.public](/_public/Earth/Continent/Asia/Asia~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North.public|Asia~North.public]] 
 
-### #is_/same_as :: [Asia~North.internal](/_internal/Earth/Continent/Asia/Asia~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North.internal|Asia~North.internal]] 
 
-### #is_/same_as :: [Asia~North.protect](/_protect/Earth/Continent/Asia/Asia~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North.protect|Asia~North.protect]] 
 
-### #is_/same_as :: [Asia~North.private](/_private/Earth/Continent/Asia/Asia~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North.private|Asia~North.private]] 
 
-### #is_/same_as :: [Asia~North.personal](/_personal/Earth/Continent/Asia/Asia~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North.personal|Asia~North.personal]] 
 
-### #is_/same_as :: [Asia~North.secret](/_secret/Earth/Continent/Asia/Asia~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North.secret|Asia~North.secret]] 
 

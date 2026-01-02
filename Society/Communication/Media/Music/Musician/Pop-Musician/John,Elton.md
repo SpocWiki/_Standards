@@ -236,17 +236,17 @@ Europeana_entity: agent/base/85053
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [John,Elton](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton|John,Elton]] 
 
-### #is_/same_as :: [John,Elton.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.public|John,Elton.public]] 
 
-### #is_/same_as :: [John,Elton.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.internal|John,Elton.internal]] 
 
-### #is_/same_as :: [John,Elton.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.protect|John,Elton.protect]] 
 
-### #is_/same_as :: [John,Elton.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.private|John,Elton.private]] 
 
-### #is_/same_as :: [John,Elton.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.personal|John,Elton.personal]] 
 
-### #is_/same_as :: [John,Elton.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/John,Elton.secret|John,Elton.secret]] 
 

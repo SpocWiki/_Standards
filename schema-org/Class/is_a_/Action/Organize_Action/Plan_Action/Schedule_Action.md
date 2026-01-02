@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schedule_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action|Schedule_Action]] 
 
-### #is_/same_as :: [Schedule_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.public|Schedule_Action.public]] 
 
-### #is_/same_as :: [Schedule_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.internal|Schedule_Action.internal]] 
 
-### #is_/same_as :: [Schedule_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.protect|Schedule_Action.protect]] 
 
-### #is_/same_as :: [Schedule_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.private|Schedule_Action.private]] 
 
-### #is_/same_as :: [Schedule_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.personal|Schedule_Action.personal]] 
 
-### #is_/same_as :: [Schedule_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action/Plan_Action/Schedule_Action.secret|Schedule_Action.secret]] 
 

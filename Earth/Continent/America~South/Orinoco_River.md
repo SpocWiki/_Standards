@@ -92,17 +92,17 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orinoco_River](/_Standards/Earth/Continent/America~South/Orinoco_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Orinoco_River|Orinoco_River]] 
 
-### #is_/same_as :: [Orinoco_River.public](/_public/Earth/Continent/America~South/Orinoco_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Orinoco_River.public|Orinoco_River.public]] 
 
-### #is_/same_as :: [Orinoco_River.internal](/_internal/Earth/Continent/America~South/Orinoco_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Orinoco_River.internal|Orinoco_River.internal]] 
 
-### #is_/same_as :: [Orinoco_River.protect](/_protect/Earth/Continent/America~South/Orinoco_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Orinoco_River.protect|Orinoco_River.protect]] 
 
-### #is_/same_as :: [Orinoco_River.private](/_private/Earth/Continent/America~South/Orinoco_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Orinoco_River.private|Orinoco_River.private]] 
 
-### #is_/same_as :: [Orinoco_River.personal](/_personal/Earth/Continent/America~South/Orinoco_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Orinoco_River.personal|Orinoco_River.personal]] 
 
-### #is_/same_as :: [Orinoco_River.secret](/_secret/Earth/Continent/America~South/Orinoco_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Orinoco_River.secret|Orinoco_River.secret]] 
 

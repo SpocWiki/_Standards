@@ -119,17 +119,17 @@ Libris_URI: b8nqlq7v4060l7x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monteverdi,Claudio](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio|Monteverdi,Claudio]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.public](/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.public|Monteverdi,Claudio.public]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.internal](/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.internal|Monteverdi,Claudio.internal]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.protect](/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.protect|Monteverdi,Claudio.protect]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.private](/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.private|Monteverdi,Claudio.private]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.personal](/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.personal|Monteverdi,Claudio.personal]] 
 
-### #is_/same_as :: [Monteverdi,Claudio.secret](/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Monteverdi,Claudio.secret|Monteverdi,Claudio.secret]] 
 

@@ -42,17 +42,17 @@ Four-wheel drive is a transmission layout where the engine primarily drives two 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration](/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration|Four_Wheel_Drive_Configuration]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.public](/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.public|Four_Wheel_Drive_Configuration.public]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.internal|Four_Wheel_Drive_Configuration.internal]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.protect|Four_Wheel_Drive_Configuration.protect]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.private](/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.private|Four_Wheel_Drive_Configuration.private]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.personal|Four_Wheel_Drive_Configuration.personal]] 
 
-### #is_/same_as :: [Four_Wheel_Drive_Configuration.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/Four_Wheel_Drive_Configuration.secret|Four_Wheel_Drive_Configuration.secret]] 
 

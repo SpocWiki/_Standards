@@ -109,17 +109,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Tourism::n8dyv"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tourism](/_Standards/Technology/Transport/Travel/Tourism.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Travel/Tourism|Tourism]] 
 
-### #is_/same_as :: [Tourism.public](/_public/Technology/Transport/Travel/Tourism.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Travel/Tourism.public|Tourism.public]] 
 
-### #is_/same_as :: [Tourism.internal](/_internal/Technology/Transport/Travel/Tourism.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Travel/Tourism.internal|Tourism.internal]] 
 
-### #is_/same_as :: [Tourism.protect](/_protect/Technology/Transport/Travel/Tourism.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Travel/Tourism.protect|Tourism.protect]] 
 
-### #is_/same_as :: [Tourism.private](/_private/Technology/Transport/Travel/Tourism.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Travel/Tourism.private|Tourism.private]] 
 
-### #is_/same_as :: [Tourism.personal](/_personal/Technology/Transport/Travel/Tourism.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Travel/Tourism.personal|Tourism.personal]] 
 
-### #is_/same_as :: [Tourism.secret](/_secret/Technology/Transport/Travel/Tourism.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Travel/Tourism.secret|Tourism.secret]] 
 

@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cross-sectional_Study](/_Standards/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Study/Cross-sectional_Study|Cross-sectional_Study]] 
 
-### #is_/same_as :: [Cross-sectional_Study.public](/_public/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.public|Cross-sectional_Study.public]] 
 
-### #is_/same_as :: [Cross-sectional_Study.internal](/_internal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.internal|Cross-sectional_Study.internal]] 
 
-### #is_/same_as :: [Cross-sectional_Study.protect](/_protect/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.protect|Cross-sectional_Study.protect]] 
 
-### #is_/same_as :: [Cross-sectional_Study.private](/_private/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.private|Cross-sectional_Study.private]] 
 
-### #is_/same_as :: [Cross-sectional_Study.personal](/_personal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.personal|Cross-sectional_Study.personal]] 
 
-### #is_/same_as :: [Cross-sectional_Study.secret](/_secret/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Observational_Study/Cross-sectional_Study.secret|Cross-sectional_Study.secret]] 
 

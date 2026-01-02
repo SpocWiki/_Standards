@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weisz,Rachel](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel|Weisz,Rachel]] 
 
-### #is_/same_as :: [Weisz,Rachel.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.public|Weisz,Rachel.public]] 
 
-### #is_/same_as :: [Weisz,Rachel.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.internal|Weisz,Rachel.internal]] 
 
-### #is_/same_as :: [Weisz,Rachel.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.protect|Weisz,Rachel.protect]] 
 
-### #is_/same_as :: [Weisz,Rachel.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.private|Weisz,Rachel.private]] 
 
-### #is_/same_as :: [Weisz,Rachel.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.personal|Weisz,Rachel.personal]] 
 
-### #is_/same_as :: [Weisz,Rachel.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Weisz,Rachel.secret|Weisz,Rachel.secret]] 
 

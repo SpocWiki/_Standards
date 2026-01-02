@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Atmosphere](/_Standards/Dimension/Dim~Pressure/Unit~Atmosphere.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Pressure/Unit~Atmosphere|Unit~Atmosphere]] 
 
-### #is_/same_as :: [Unit~Atmosphere.public](/_public/Dimension/Dim~Pressure/Unit~Atmosphere.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Pressure/Unit~Atmosphere.public|Unit~Atmosphere.public]] 
 
-### #is_/same_as :: [Unit~Atmosphere.internal](/_internal/Dimension/Dim~Pressure/Unit~Atmosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Pressure/Unit~Atmosphere.internal|Unit~Atmosphere.internal]] 
 
-### #is_/same_as :: [Unit~Atmosphere.protect](/_protect/Dimension/Dim~Pressure/Unit~Atmosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Pressure/Unit~Atmosphere.protect|Unit~Atmosphere.protect]] 
 
-### #is_/same_as :: [Unit~Atmosphere.private](/_private/Dimension/Dim~Pressure/Unit~Atmosphere.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Pressure/Unit~Atmosphere.private|Unit~Atmosphere.private]] 
 
-### #is_/same_as :: [Unit~Atmosphere.personal](/_personal/Dimension/Dim~Pressure/Unit~Atmosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Pressure/Unit~Atmosphere.personal|Unit~Atmosphere.personal]] 
 
-### #is_/same_as :: [Unit~Atmosphere.secret](/_secret/Dimension/Dim~Pressure/Unit~Atmosphere.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Pressure/Unit~Atmosphere.secret|Unit~Atmosphere.secret]] 
 

@@ -12,17 +12,17 @@ type: LangFamily
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut](/_Standards/Language/Language_Family/LangFamily-Eskimo–Aleut.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Eskimo–Aleut|LangFamily-Eskimo–Aleut]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.public](/_public/Language/Language_Family/LangFamily-Eskimo–Aleut.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Eskimo–Aleut.public|LangFamily-Eskimo–Aleut.public]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.internal](/_internal/Language/Language_Family/LangFamily-Eskimo–Aleut.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Eskimo–Aleut.internal|LangFamily-Eskimo–Aleut.internal]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.protect](/_protect/Language/Language_Family/LangFamily-Eskimo–Aleut.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Eskimo–Aleut.protect|LangFamily-Eskimo–Aleut.protect]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.private](/_private/Language/Language_Family/LangFamily-Eskimo–Aleut.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Eskimo–Aleut.private|LangFamily-Eskimo–Aleut.private]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.personal](/_personal/Language/Language_Family/LangFamily-Eskimo–Aleut.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Eskimo–Aleut.personal|LangFamily-Eskimo–Aleut.personal]] 
 
-### #is_/same_as :: [LangFamily-Eskimo–Aleut.secret](/_secret/Language/Language_Family/LangFamily-Eskimo–Aleut.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Eskimo–Aleut.secret|LangFamily-Eskimo–Aleut.secret]] 
 

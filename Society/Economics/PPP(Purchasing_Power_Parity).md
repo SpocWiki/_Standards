@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity)](/_Standards/Society/Economics/PPP(Purchasing_Power_Parity).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/PPP(Purchasing_Power_Parity)|PPP(Purchasing_Power_Parity)]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).public](/_public/Society/Economics/PPP(Purchasing_Power_Parity).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/PPP(Purchasing_Power_Parity).public|PPP(Purchasing_Power_Parity).public]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).internal](/_internal/Society/Economics/PPP(Purchasing_Power_Parity).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/PPP(Purchasing_Power_Parity).internal|PPP(Purchasing_Power_Parity).internal]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).protect](/_protect/Society/Economics/PPP(Purchasing_Power_Parity).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/PPP(Purchasing_Power_Parity).protect|PPP(Purchasing_Power_Parity).protect]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).private](/_private/Society/Economics/PPP(Purchasing_Power_Parity).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/PPP(Purchasing_Power_Parity).private|PPP(Purchasing_Power_Parity).private]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).personal](/_personal/Society/Economics/PPP(Purchasing_Power_Parity).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/PPP(Purchasing_Power_Parity).personal|PPP(Purchasing_Power_Parity).personal]] 
 
-### #is_/same_as :: [PPP(Purchasing_Power_Parity).secret](/_secret/Society/Economics/PPP(Purchasing_Power_Parity).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/PPP(Purchasing_Power_Parity).secret|PPP(Purchasing_Power_Parity).secret]] 
 

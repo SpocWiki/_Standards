@@ -94,17 +94,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Grab%20Georg%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ohm,Georg_Simon](/_Standards/Science/Physics/Physicist/Ohm,Georg_Simon.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Ohm,Georg_Simon|Ohm,Georg_Simon]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.public](/_public/Science/Physics/Physicist/Ohm,Georg_Simon.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Ohm,Georg_Simon.public|Ohm,Georg_Simon.public]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.internal](/_internal/Science/Physics/Physicist/Ohm,Georg_Simon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Ohm,Georg_Simon.internal|Ohm,Georg_Simon.internal]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.protect](/_protect/Science/Physics/Physicist/Ohm,Georg_Simon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Ohm,Georg_Simon.protect|Ohm,Georg_Simon.protect]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.private](/_private/Science/Physics/Physicist/Ohm,Georg_Simon.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Ohm,Georg_Simon.private|Ohm,Georg_Simon.private]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.personal](/_personal/Science/Physics/Physicist/Ohm,Georg_Simon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Ohm,Georg_Simon.personal|Ohm,Georg_Simon.personal]] 
 
-### #is_/same_as :: [Ohm,Georg_Simon.secret](/_secret/Science/Physics/Physicist/Ohm,Georg_Simon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Ohm,Georg_Simon.secret|Ohm,Georg_Simon.secret]] 
 

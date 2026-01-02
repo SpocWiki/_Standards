@@ -52,17 +52,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Social_Group](/_Standards/Society/Anthropology/Sociology/Human_Social_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group|Human_Social_Group]] 
 
-### #is_/same_as :: [Human_Social_Group.public](/_public/Society/Anthropology/Sociology/Human_Social_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group.public|Human_Social_Group.public]] 
 
-### #is_/same_as :: [Human_Social_Group.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group.internal|Human_Social_Group.internal]] 
 
-### #is_/same_as :: [Human_Social_Group.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group.protect|Human_Social_Group.protect]] 
 
-### #is_/same_as :: [Human_Social_Group.private](/_private/Society/Anthropology/Sociology/Human_Social_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group.private|Human_Social_Group.private]] 
 
-### #is_/same_as :: [Human_Social_Group.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group.personal|Human_Social_Group.personal]] 
 
-### #is_/same_as :: [Human_Social_Group.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group.secret|Human_Social_Group.secret]] 
 

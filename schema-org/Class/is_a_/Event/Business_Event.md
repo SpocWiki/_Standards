@@ -41,17 +41,17 @@ Event type: Business event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Event](/_Standards/schema-org/Class/is_a_/Event/Business_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Business_Event|Business_Event]] 
 
-### #is_/same_as :: [Business_Event.public](/_public/schema-org/Class/is_a_/Event/Business_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Business_Event.public|Business_Event.public]] 
 
-### #is_/same_as :: [Business_Event.internal](/_internal/schema-org/Class/is_a_/Event/Business_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Business_Event.internal|Business_Event.internal]] 
 
-### #is_/same_as :: [Business_Event.protect](/_protect/schema-org/Class/is_a_/Event/Business_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Business_Event.protect|Business_Event.protect]] 
 
-### #is_/same_as :: [Business_Event.private](/_private/schema-org/Class/is_a_/Event/Business_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Business_Event.private|Business_Event.private]] 
 
-### #is_/same_as :: [Business_Event.personal](/_personal/schema-org/Class/is_a_/Event/Business_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Business_Event.personal|Business_Event.personal]] 
 
-### #is_/same_as :: [Business_Event.secret](/_secret/schema-org/Class/is_a_/Event/Business_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Business_Event.secret|Business_Event.secret]] 
 

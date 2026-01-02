@@ -56,17 +56,17 @@ Commons_category: Hypotheses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hypothesis](/_Standards/Science/Hypothesis.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Hypothesis|Hypothesis]] 
 
-### #is_/same_as :: [Hypothesis.public](/_public/Science/Hypothesis.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Hypothesis.public|Hypothesis.public]] 
 
-### #is_/same_as :: [Hypothesis.internal](/_internal/Science/Hypothesis.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Hypothesis.internal|Hypothesis.internal]] 
 
-### #is_/same_as :: [Hypothesis.protect](/_protect/Science/Hypothesis.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Hypothesis.protect|Hypothesis.protect]] 
 
-### #is_/same_as :: [Hypothesis.private](/_private/Science/Hypothesis.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Hypothesis.private|Hypothesis.private]] 
 
-### #is_/same_as :: [Hypothesis.personal](/_personal/Science/Hypothesis.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Hypothesis.personal|Hypothesis.personal]] 
 
-### #is_/same_as :: [Hypothesis.secret](/_secret/Science/Hypothesis.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Hypothesis.secret|Hypothesis.secret]] 
 

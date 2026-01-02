@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_transcript](/_Standards/schema-org/Property/Texts/has_transcript.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_transcript|has_transcript]] 
 
-### #is_/same_as :: [has_transcript.public](/_public/schema-org/Property/Texts/has_transcript.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_transcript.public|has_transcript.public]] 
 
-### #is_/same_as :: [has_transcript.internal](/_internal/schema-org/Property/Texts/has_transcript.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_transcript.internal|has_transcript.internal]] 
 
-### #is_/same_as :: [has_transcript.protect](/_protect/schema-org/Property/Texts/has_transcript.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_transcript.protect|has_transcript.protect]] 
 
-### #is_/same_as :: [has_transcript.private](/_private/schema-org/Property/Texts/has_transcript.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_transcript.private|has_transcript.private]] 
 
-### #is_/same_as :: [has_transcript.personal](/_personal/schema-org/Property/Texts/has_transcript.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_transcript.personal|has_transcript.personal]] 
 
-### #is_/same_as :: [has_transcript.secret](/_secret/schema-org/Property/Texts/has_transcript.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_transcript.secret|has_transcript.secret]] 
 

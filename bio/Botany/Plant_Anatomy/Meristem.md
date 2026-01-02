@@ -50,17 +50,17 @@ Commons_gallery: Méristème
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meristem](/_Standards/bio/Botany/Plant_Anatomy/Meristem.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Meristem|Meristem]] 
 
-### #is_/same_as :: [Meristem.public](/_public/bio/Botany/Plant_Anatomy/Meristem.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Meristem.public|Meristem.public]] 
 
-### #is_/same_as :: [Meristem.internal](/_internal/bio/Botany/Plant_Anatomy/Meristem.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Meristem.internal|Meristem.internal]] 
 
-### #is_/same_as :: [Meristem.protect](/_protect/bio/Botany/Plant_Anatomy/Meristem.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Meristem.protect|Meristem.protect]] 
 
-### #is_/same_as :: [Meristem.private](/_private/bio/Botany/Plant_Anatomy/Meristem.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Meristem.private|Meristem.private]] 
 
-### #is_/same_as :: [Meristem.personal](/_personal/bio/Botany/Plant_Anatomy/Meristem.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Meristem.personal|Meristem.personal]] 
 
-### #is_/same_as :: [Meristem.secret](/_secret/bio/Botany/Plant_Anatomy/Meristem.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Meristem.secret|Meristem.secret]] 
 

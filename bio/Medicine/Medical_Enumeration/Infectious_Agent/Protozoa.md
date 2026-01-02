@@ -43,17 +43,17 @@ Single-celled organism that causes an infection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protozoa](/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa|Protozoa]] 
 
-### #is_/same_as :: [Protozoa.public](/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.public|Protozoa.public]] 
 
-### #is_/same_as :: [Protozoa.internal](/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.internal|Protozoa.internal]] 
 
-### #is_/same_as :: [Protozoa.protect](/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.protect|Protozoa.protect]] 
 
-### #is_/same_as :: [Protozoa.private](/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.private|Protozoa.private]] 
 
-### #is_/same_as :: [Protozoa.personal](/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.personal|Protozoa.personal]] 
 
-### #is_/same_as :: [Protozoa.secret](/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Infectious_Agent/Protozoa.secret|Protozoa.secret]] 
 

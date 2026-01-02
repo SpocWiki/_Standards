@@ -31,17 +31,17 @@ Commons_category: Cluster bombs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cluster_Munition](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition|Cluster_Munition]] 
 
-### #is_/same_as :: [Cluster_Munition.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.public|Cluster_Munition.public]] 
 
-### #is_/same_as :: [Cluster_Munition.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.internal|Cluster_Munition.internal]] 
 
-### #is_/same_as :: [Cluster_Munition.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.protect|Cluster_Munition.protect]] 
 
-### #is_/same_as :: [Cluster_Munition.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.private|Cluster_Munition.private]] 
 
-### #is_/same_as :: [Cluster_Munition.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.personal|Cluster_Munition.personal]] 
 
-### #is_/same_as :: [Cluster_Munition.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Cluster_Munition.secret|Cluster_Munition.secret]] 
 

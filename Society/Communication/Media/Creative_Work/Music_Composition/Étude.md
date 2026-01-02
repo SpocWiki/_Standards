@@ -49,17 +49,17 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/ETYUD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Étude](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Étude.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Composition/Étude|Étude]] 
 
-### #is_/same_as :: [Étude.public](/_public/Society/Communication/Media/Creative_Work/Music_Composition/Étude.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Composition/Étude.public|Étude.public]] 
 
-### #is_/same_as :: [Étude.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Composition/Étude.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Composition/Étude.internal|Étude.internal]] 
 
-### #is_/same_as :: [Étude.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Composition/Étude.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Composition/Étude.protect|Étude.protect]] 
 
-### #is_/same_as :: [Étude.private](/_private/Society/Communication/Media/Creative_Work/Music_Composition/Étude.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Composition/Étude.private|Étude.private]] 
 
-### #is_/same_as :: [Étude.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition/Étude.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Composition/Étude.personal|Étude.personal]] 
 
-### #is_/same_as :: [Étude.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition/Étude.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Composition/Étude.secret|Étude.secret]] 
 

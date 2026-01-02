@@ -80,17 +80,17 @@ date_of_birth: -0399-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diogenes_of_Sinope](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope|Diogenes_of_Sinope]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.public|Diogenes_of_Sinope.public]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.internal|Diogenes_of_Sinope.internal]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.protect|Diogenes_of_Sinope.protect]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.private|Diogenes_of_Sinope.private]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.personal|Diogenes_of_Sinope.personal]] 
 
-### #is_/same_as :: [Diogenes_of_Sinope.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Diogenes_of_Sinope.secret|Diogenes_of_Sinope.secret]] 
 

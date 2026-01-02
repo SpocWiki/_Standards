@@ -77,17 +77,17 @@ OpenStreetMap_tag_or_key: Key:gambling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gambling](/_Standards/bio/Medicine/Health/Addiction/Gambling.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Addiction/Gambling|Gambling]] 
 
-### #is_/same_as :: [Gambling.public](/_public/bio/Medicine/Health/Addiction/Gambling.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Addiction/Gambling.public|Gambling.public]] 
 
-### #is_/same_as :: [Gambling.internal](/_internal/bio/Medicine/Health/Addiction/Gambling.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Addiction/Gambling.internal|Gambling.internal]] 
 
-### #is_/same_as :: [Gambling.protect](/_protect/bio/Medicine/Health/Addiction/Gambling.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Addiction/Gambling.protect|Gambling.protect]] 
 
-### #is_/same_as :: [Gambling.private](/_private/bio/Medicine/Health/Addiction/Gambling.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Addiction/Gambling.private|Gambling.private]] 
 
-### #is_/same_as :: [Gambling.personal](/_personal/bio/Medicine/Health/Addiction/Gambling.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Addiction/Gambling.personal|Gambling.personal]] 
 
-### #is_/same_as :: [Gambling.secret](/_secret/bio/Medicine/Health/Addiction/Gambling.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Addiction/Gambling.secret|Gambling.secret]] 
 

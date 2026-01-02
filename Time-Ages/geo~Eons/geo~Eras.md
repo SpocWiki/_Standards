@@ -48,17 +48,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geo~Eras](/_Standards/Time-Ages/geo~Eons/geo~Eras.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/geo~Eras|geo~Eras]] 
 
-### #is_/same_as :: [geo~Eras.public](/_public/Time-Ages/geo~Eons/geo~Eras.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/geo~Eras.public|geo~Eras.public]] 
 
-### #is_/same_as :: [geo~Eras.internal](/_internal/Time-Ages/geo~Eons/geo~Eras.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/geo~Eras.internal|geo~Eras.internal]] 
 
-### #is_/same_as :: [geo~Eras.protect](/_protect/Time-Ages/geo~Eons/geo~Eras.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/geo~Eras.protect|geo~Eras.protect]] 
 
-### #is_/same_as :: [geo~Eras.private](/_private/Time-Ages/geo~Eons/geo~Eras.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/geo~Eras.private|geo~Eras.private]] 
 
-### #is_/same_as :: [geo~Eras.personal](/_personal/Time-Ages/geo~Eons/geo~Eras.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/geo~Eras.personal|geo~Eras.personal]] 
 
-### #is_/same_as :: [geo~Eras.secret](/_secret/Time-Ages/geo~Eons/geo~Eras.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/geo~Eras.secret|geo~Eras.secret]] 
 

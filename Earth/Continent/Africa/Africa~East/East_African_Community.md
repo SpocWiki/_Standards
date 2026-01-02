@@ -77,17 +77,17 @@ Facebook_username: proudlyeastafrican
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [East_African_Community](/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/East_African_Community|East_African_Community]] 
 
-### #is_/same_as :: [East_African_Community.public](/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/East_African_Community.public|East_African_Community.public]] 
 
-### #is_/same_as :: [East_African_Community.internal](/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/East_African_Community.internal|East_African_Community.internal]] 
 
-### #is_/same_as :: [East_African_Community.protect](/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/East_African_Community.protect|East_African_Community.protect]] 
 
-### #is_/same_as :: [East_African_Community.private](/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/East_African_Community.private|East_African_Community.private]] 
 
-### #is_/same_as :: [East_African_Community.personal](/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/East_African_Community.personal|East_African_Community.personal]] 
 
-### #is_/same_as :: [East_African_Community.secret](/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/East_African_Community.secret|East_African_Community.secret]] 
 

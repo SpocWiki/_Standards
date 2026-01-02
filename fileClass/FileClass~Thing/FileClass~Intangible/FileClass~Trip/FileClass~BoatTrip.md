@@ -59,17 +59,17 @@ DepartureBoatTerminal:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BoatTrip](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip|FileClass~BoatTrip]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.public|FileClass~BoatTrip.public]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.internal|FileClass~BoatTrip.internal]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.protect|FileClass~BoatTrip.protect]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.private|FileClass~BoatTrip.private]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.personal|FileClass~BoatTrip.personal]] 
 
-### #is_/same_as :: [FileClass~BoatTrip.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Trip/FileClass~BoatTrip.secret|FileClass~BoatTrip.secret]] 
 

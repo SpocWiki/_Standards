@@ -45,17 +45,17 @@ Commons_category: Annealing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Annealing(Materials_Science)](/_Standards/Chemistry/Material/Materials_Science/Annealing(Materials_Science).md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Materials_Science/Annealing(Materials_Science)|Annealing(Materials_Science)]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).public](/_public/Chemistry/Material/Materials_Science/Annealing(Materials_Science).public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Materials_Science/Annealing(Materials_Science).public|Annealing(Materials_Science).public]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).internal](/_internal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).internal|Annealing(Materials_Science).internal]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).protect](/_protect/Chemistry/Material/Materials_Science/Annealing(Materials_Science).protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Materials_Science/Annealing(Materials_Science).protect|Annealing(Materials_Science).protect]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).private](/_private/Chemistry/Material/Materials_Science/Annealing(Materials_Science).private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Materials_Science/Annealing(Materials_Science).private|Annealing(Materials_Science).private]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).personal](/_personal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Materials_Science/Annealing(Materials_Science).personal|Annealing(Materials_Science).personal]] 
 
-### #is_/same_as :: [Annealing(Materials_Science).secret](/_secret/Chemistry/Material/Materials_Science/Annealing(Materials_Science).secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Materials_Science/Annealing(Materials_Science).secret|Annealing(Materials_Science).secret]] 
 

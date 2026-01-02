@@ -37,17 +37,17 @@ ATM/cash machine.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AutomatedTeller](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller|FileClass~AutomatedTeller]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.public|FileClass~AutomatedTeller.public]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.internal|FileClass~AutomatedTeller.internal]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.protect|FileClass~AutomatedTeller.protect]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.private|FileClass~AutomatedTeller.private]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.personal|FileClass~AutomatedTeller.personal]] 
 
-### #is_/same_as :: [FileClass~AutomatedTeller.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AutomatedTeller.secret|FileClass~AutomatedTeller.secret]] 
 

@@ -74,17 +74,17 @@ Dewey_Decimal_Classification: 321.9092
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tyrant](/_Standards/Society/Politics/Government/Dictatorship/Tyrant.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Tyrant|Tyrant]] 
 
-### #is_/same_as :: [Tyrant.public](/_public/Society/Politics/Government/Dictatorship/Tyrant.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Tyrant.public|Tyrant.public]] 
 
-### #is_/same_as :: [Tyrant.internal](/_internal/Society/Politics/Government/Dictatorship/Tyrant.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Tyrant.internal|Tyrant.internal]] 
 
-### #is_/same_as :: [Tyrant.protect](/_protect/Society/Politics/Government/Dictatorship/Tyrant.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Tyrant.protect|Tyrant.protect]] 
 
-### #is_/same_as :: [Tyrant.private](/_private/Society/Politics/Government/Dictatorship/Tyrant.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Tyrant.private|Tyrant.private]] 
 
-### #is_/same_as :: [Tyrant.personal](/_personal/Society/Politics/Government/Dictatorship/Tyrant.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Tyrant.personal|Tyrant.personal]] 
 
-### #is_/same_as :: [Tyrant.secret](/_secret/Society/Politics/Government/Dictatorship/Tyrant.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Tyrant.secret|Tyrant.secret]] 
 

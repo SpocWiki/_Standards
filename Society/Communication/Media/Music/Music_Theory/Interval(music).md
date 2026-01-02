@@ -55,17 +55,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inter
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interval(music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Interval(music).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Interval(music)|Interval(music)]] 
 
-### #is_/same_as :: [Interval(music).public](/_public/Society/Communication/Media/Music/Music_Theory/Interval(music).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Interval(music).public|Interval(music).public]] 
 
-### #is_/same_as :: [Interval(music).internal](/_internal/Society/Communication/Media/Music/Music_Theory/Interval(music).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Interval(music).internal|Interval(music).internal]] 
 
-### #is_/same_as :: [Interval(music).protect](/_protect/Society/Communication/Media/Music/Music_Theory/Interval(music).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Interval(music).protect|Interval(music).protect]] 
 
-### #is_/same_as :: [Interval(music).private](/_private/Society/Communication/Media/Music/Music_Theory/Interval(music).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Interval(music).private|Interval(music).private]] 
 
-### #is_/same_as :: [Interval(music).personal](/_personal/Society/Communication/Media/Music/Music_Theory/Interval(music).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Interval(music).personal|Interval(music).personal]] 
 
-### #is_/same_as :: [Interval(music).secret](/_secret/Society/Communication/Media/Music/Music_Theory/Interval(music).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Interval(music).secret|Interval(music).secret]] 
 

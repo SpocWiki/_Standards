@@ -103,17 +103,17 @@ RecordingOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicRecording](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording|FileClass~MusicRecording]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.public|FileClass~MusicRecording.public]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.internal|FileClass~MusicRecording.internal]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.protect|FileClass~MusicRecording.protect]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.private|FileClass~MusicRecording.private]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.personal|FileClass~MusicRecording.personal]] 
 
-### #is_/same_as :: [FileClass~MusicRecording.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicRecording.secret|FileClass~MusicRecording.secret]] 
 

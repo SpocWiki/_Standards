@@ -41,17 +41,17 @@ Commons_category: Photochemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photochemistry](/_Standards/Chemistry/Photochemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Photochemistry|Photochemistry]] 
 
-### #is_/same_as :: [Photochemistry.public](/_public/Chemistry/Photochemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Photochemistry.public|Photochemistry.public]] 
 
-### #is_/same_as :: [Photochemistry.internal](/_internal/Chemistry/Photochemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Photochemistry.internal|Photochemistry.internal]] 
 
-### #is_/same_as :: [Photochemistry.protect](/_protect/Chemistry/Photochemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Photochemistry.protect|Photochemistry.protect]] 
 
-### #is_/same_as :: [Photochemistry.private](/_private/Chemistry/Photochemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Photochemistry.private|Photochemistry.private]] 
 
-### #is_/same_as :: [Photochemistry.personal](/_personal/Chemistry/Photochemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Photochemistry.personal|Photochemistry.personal]] 
 
-### #is_/same_as :: [Photochemistry.secret](/_secret/Chemistry/Photochemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Photochemistry.secret|Photochemistry.secret]] 
 

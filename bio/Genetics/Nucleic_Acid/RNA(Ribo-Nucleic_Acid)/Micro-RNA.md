@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Micro-RNA](/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA|Micro-RNA]] 
 
-### #is_/same_as :: [Micro-RNA.public](/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.public|Micro-RNA.public]] 
 
-### #is_/same_as :: [Micro-RNA.internal](/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.internal|Micro-RNA.internal]] 
 
-### #is_/same_as :: [Micro-RNA.protect](/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.protect|Micro-RNA.protect]] 
 
-### #is_/same_as :: [Micro-RNA.private](/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.private|Micro-RNA.private]] 
 
-### #is_/same_as :: [Micro-RNA.personal](/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.personal|Micro-RNA.personal]] 
 
-### #is_/same_as :: [Micro-RNA.secret](/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)/Micro-RNA.secret|Micro-RNA.secret]] 
 

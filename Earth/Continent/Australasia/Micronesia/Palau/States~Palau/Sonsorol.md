@@ -40,17 +40,17 @@ markerFolder: ./Sonsorol/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sonsorol](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol|Sonsorol]] 
 
-### #is_/same_as :: [Sonsorol.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.public|Sonsorol.public]] 
 
-### #is_/same_as :: [Sonsorol.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.internal|Sonsorol.internal]] 
 
-### #is_/same_as :: [Sonsorol.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.protect|Sonsorol.protect]] 
 
-### #is_/same_as :: [Sonsorol.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.private|Sonsorol.private]] 
 
-### #is_/same_as :: [Sonsorol.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.personal|Sonsorol.personal]] 
 
-### #is_/same_as :: [Sonsorol.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Sonsorol.secret|Sonsorol.secret]] 
 

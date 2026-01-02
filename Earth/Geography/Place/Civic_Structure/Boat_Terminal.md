@@ -43,17 +43,17 @@ A terminal for boats, ships, and other water vessels.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boat_Terminal](/_Standards/Earth/Geography/Place/Civic_Structure/Boat_Terminal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Boat_Terminal|Boat_Terminal]] 
 
-### #is_/same_as :: [Boat_Terminal.public](/_public/Earth/Geography/Place/Civic_Structure/Boat_Terminal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Boat_Terminal.public|Boat_Terminal.public]] 
 
-### #is_/same_as :: [Boat_Terminal.internal](/_internal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.internal|Boat_Terminal.internal]] 
 
-### #is_/same_as :: [Boat_Terminal.protect](/_protect/Earth/Geography/Place/Civic_Structure/Boat_Terminal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Boat_Terminal.protect|Boat_Terminal.protect]] 
 
-### #is_/same_as :: [Boat_Terminal.private](/_private/Earth/Geography/Place/Civic_Structure/Boat_Terminal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Boat_Terminal.private|Boat_Terminal.private]] 
 
-### #is_/same_as :: [Boat_Terminal.personal](/_personal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Boat_Terminal.personal|Boat_Terminal.personal]] 
 
-### #is_/same_as :: [Boat_Terminal.secret](/_secret/Earth/Geography/Place/Civic_Structure/Boat_Terminal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Boat_Terminal.secret|Boat_Terminal.secret]] 
 

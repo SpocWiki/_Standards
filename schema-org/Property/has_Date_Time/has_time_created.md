@@ -61,17 +61,17 @@ Has [sub_properties::legislationDate]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_created](/_Standards/schema-org/Property/has_Date_Time/has_time_created.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_created|has_time_created]] 
 
-### #is_/same_as :: [has_time_created.public](/_public/schema-org/Property/has_Date_Time/has_time_created.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_created.public|has_time_created.public]] 
 
-### #is_/same_as :: [has_time_created.internal](/_internal/schema-org/Property/has_Date_Time/has_time_created.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_created.internal|has_time_created.internal]] 
 
-### #is_/same_as :: [has_time_created.protect](/_protect/schema-org/Property/has_Date_Time/has_time_created.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_created.protect|has_time_created.protect]] 
 
-### #is_/same_as :: [has_time_created.private](/_private/schema-org/Property/has_Date_Time/has_time_created.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_created.private|has_time_created.private]] 
 
-### #is_/same_as :: [has_time_created.personal](/_personal/schema-org/Property/has_Date_Time/has_time_created.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_created.personal|has_time_created.personal]] 
 
-### #is_/same_as :: [has_time_created.secret](/_secret/schema-org/Property/has_Date_Time/has_time_created.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_created.secret|has_time_created.secret]] 
 

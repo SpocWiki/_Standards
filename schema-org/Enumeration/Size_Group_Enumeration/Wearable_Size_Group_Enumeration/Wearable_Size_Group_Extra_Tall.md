@@ -44,17 +44,17 @@ Size group "Extra Tall" for wearables.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall](/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall|Wearable_Size_Group_Extra_Tall]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.public](/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.public|Wearable_Size_Group_Extra_Tall.public]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.internal](/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.internal|Wearable_Size_Group_Extra_Tall.internal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.protect](/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.protect|Wearable_Size_Group_Extra_Tall.protect]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.private](/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.private|Wearable_Size_Group_Extra_Tall.private]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.personal](/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.personal|Wearable_Size_Group_Extra_Tall.personal]] 
 
-### #is_/same_as :: [Wearable_Size_Group_Extra_Tall.secret](/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Size_Group_Enumeration/Wearable_Size_Group_Enumeration/Wearable_Size_Group_Extra_Tall.secret|Wearable_Size_Group_Extra_Tall.secret]] 
 

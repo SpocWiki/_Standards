@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [organoMetallic](/_Standards/Chemistry/organoMetallic.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/organoMetallic|organoMetallic]] 
 
-### #is_/same_as :: [organoMetallic.public](/_public/Chemistry/organoMetallic.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/organoMetallic.public|organoMetallic.public]] 
 
-### #is_/same_as :: [organoMetallic.internal](/_internal/Chemistry/organoMetallic.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/organoMetallic.internal|organoMetallic.internal]] 
 
-### #is_/same_as :: [organoMetallic.protect](/_protect/Chemistry/organoMetallic.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/organoMetallic.protect|organoMetallic.protect]] 
 
-### #is_/same_as :: [organoMetallic.private](/_private/Chemistry/organoMetallic.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/organoMetallic.private|organoMetallic.private]] 
 
-### #is_/same_as :: [organoMetallic.personal](/_personal/Chemistry/organoMetallic.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/organoMetallic.personal|organoMetallic.personal]] 
 
-### #is_/same_as :: [organoMetallic.secret](/_secret/Chemistry/organoMetallic.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/organoMetallic.secret|organoMetallic.secret]] 
 

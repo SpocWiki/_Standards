@@ -97,17 +97,17 @@ OCLC_number: "232125095"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea](/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea|The_Old_Man_and_the_Sea]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.public](/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.public|The_Old_Man_and_the_Sea.public]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.internal|The_Old_Man_and_the_Sea.internal]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.protect|The_Old_Man_and_the_Sea.protect]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.private](/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.private|The_Old_Man_and_the_Sea.private]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.personal|The_Old_Man_and_the_Sea.personal]] 
 
-### #is_/same_as :: [The_Old_Man_and_the_Sea.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest/The_Old_Man_and_the_Sea.secret|The_Old_Man_and_the_Sea.secret]] 
 

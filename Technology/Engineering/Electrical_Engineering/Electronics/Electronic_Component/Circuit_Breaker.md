@@ -52,17 +52,17 @@ Commons_category: Circuit breakers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circuit_Breaker](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker|Circuit_Breaker]] 
 
-### #is_/same_as :: [Circuit_Breaker.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.public|Circuit_Breaker.public]] 
 
-### #is_/same_as :: [Circuit_Breaker.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.internal|Circuit_Breaker.internal]] 
 
-### #is_/same_as :: [Circuit_Breaker.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.protect|Circuit_Breaker.protect]] 
 
-### #is_/same_as :: [Circuit_Breaker.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.private|Circuit_Breaker.private]] 
 
-### #is_/same_as :: [Circuit_Breaker.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.personal|Circuit_Breaker.personal]] 
 
-### #is_/same_as :: [Circuit_Breaker.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Circuit_Breaker.secret|Circuit_Breaker.secret]] 
 

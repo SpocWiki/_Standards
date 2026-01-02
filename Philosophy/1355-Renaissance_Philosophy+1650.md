@@ -43,17 +43,17 @@ Commons_category: Renaissance philosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650](/_Standards/Philosophy/1355-Renaissance_Philosophy+1650.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/1355-Renaissance_Philosophy+1650|1355-Renaissance_Philosophy+1650]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.public](/_public/Philosophy/1355-Renaissance_Philosophy+1650.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/1355-Renaissance_Philosophy+1650.public|1355-Renaissance_Philosophy+1650.public]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.internal](/_internal/Philosophy/1355-Renaissance_Philosophy+1650.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/1355-Renaissance_Philosophy+1650.internal|1355-Renaissance_Philosophy+1650.internal]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.protect](/_protect/Philosophy/1355-Renaissance_Philosophy+1650.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/1355-Renaissance_Philosophy+1650.protect|1355-Renaissance_Philosophy+1650.protect]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.private](/_private/Philosophy/1355-Renaissance_Philosophy+1650.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/1355-Renaissance_Philosophy+1650.private|1355-Renaissance_Philosophy+1650.private]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.personal](/_personal/Philosophy/1355-Renaissance_Philosophy+1650.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/1355-Renaissance_Philosophy+1650.personal|1355-Renaissance_Philosophy+1650.personal]] 
 
-### #is_/same_as :: [1355-Renaissance_Philosophy+1650.secret](/_secret/Philosophy/1355-Renaissance_Philosophy+1650.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/1355-Renaissance_Philosophy+1650.secret|1355-Renaissance_Philosophy+1650.secret]] 
 

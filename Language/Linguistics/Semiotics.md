@@ -50,17 +50,17 @@ Commons_category: Semiotics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semiotics](/_Standards/Language/Linguistics/Semiotics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics|Semiotics]] 
 
-### #is_/same_as :: [Semiotics.public](/_public/Language/Linguistics/Semiotics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics.public|Semiotics.public]] 
 
-### #is_/same_as :: [Semiotics.internal](/_internal/Language/Linguistics/Semiotics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics.internal|Semiotics.internal]] 
 
-### #is_/same_as :: [Semiotics.protect](/_protect/Language/Linguistics/Semiotics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics.protect|Semiotics.protect]] 
 
-### #is_/same_as :: [Semiotics.private](/_private/Language/Linguistics/Semiotics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics.private|Semiotics.private]] 
 
-### #is_/same_as :: [Semiotics.personal](/_personal/Language/Linguistics/Semiotics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics.personal|Semiotics.personal]] 
 
-### #is_/same_as :: [Semiotics.secret](/_secret/Language/Linguistics/Semiotics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics.secret|Semiotics.secret]] 
 

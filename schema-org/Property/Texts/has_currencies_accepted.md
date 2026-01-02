@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_currencies_accepted](/_Standards/schema-org/Property/Texts/has_currencies_accepted.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_currencies_accepted|has_currencies_accepted]] 
 
-### #is_/same_as :: [has_currencies_accepted.public](/_public/schema-org/Property/Texts/has_currencies_accepted.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_currencies_accepted.public|has_currencies_accepted.public]] 
 
-### #is_/same_as :: [has_currencies_accepted.internal](/_internal/schema-org/Property/Texts/has_currencies_accepted.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_currencies_accepted.internal|has_currencies_accepted.internal]] 
 
-### #is_/same_as :: [has_currencies_accepted.protect](/_protect/schema-org/Property/Texts/has_currencies_accepted.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_currencies_accepted.protect|has_currencies_accepted.protect]] 
 
-### #is_/same_as :: [has_currencies_accepted.private](/_private/schema-org/Property/Texts/has_currencies_accepted.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_currencies_accepted.private|has_currencies_accepted.private]] 
 
-### #is_/same_as :: [has_currencies_accepted.personal](/_personal/schema-org/Property/Texts/has_currencies_accepted.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_currencies_accepted.personal|has_currencies_accepted.personal]] 
 
-### #is_/same_as :: [has_currencies_accepted.secret](/_secret/schema-org/Property/Texts/has_currencies_accepted.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_currencies_accepted.secret|has_currencies_accepted.secret]] 
 

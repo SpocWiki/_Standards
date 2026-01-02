@@ -44,17 +44,17 @@ Maximum girth of chest. Used, for example, to fit men's suits.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Chest](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest|Body_Measurement_Chest]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.public|Body_Measurement_Chest.public]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.internal|Body_Measurement_Chest.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.protect|Body_Measurement_Chest.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.private|Body_Measurement_Chest.private]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.personal|Body_Measurement_Chest.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Chest.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Chest.secret|Body_Measurement_Chest.secret]] 
 

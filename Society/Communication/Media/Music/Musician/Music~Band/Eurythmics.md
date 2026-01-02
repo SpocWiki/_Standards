@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eurythmics](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics|Eurythmics]] 
 
-### #is_/same_as :: [Eurythmics.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.public|Eurythmics.public]] 
 
-### #is_/same_as :: [Eurythmics.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.internal|Eurythmics.internal]] 
 
-### #is_/same_as :: [Eurythmics.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.protect|Eurythmics.protect]] 
 
-### #is_/same_as :: [Eurythmics.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.private|Eurythmics.private]] 
 
-### #is_/same_as :: [Eurythmics.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.personal|Eurythmics.personal]] 
 
-### #is_/same_as :: [Eurythmics.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Eurythmics.secret|Eurythmics.secret]] 
 

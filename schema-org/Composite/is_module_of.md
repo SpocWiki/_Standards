@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_module_of](/_Standards/schema-org/Composite/is_module_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/is_module_of|is_module_of]] 
 
-### #is_/same_as :: [is_module_of.public](/_public/schema-org/Composite/is_module_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Composite/is_module_of.public|is_module_of.public]] 
 
-### #is_/same_as :: [is_module_of.internal](/_internal/schema-org/Composite/is_module_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Composite/is_module_of.internal|is_module_of.internal]] 
 
-### #is_/same_as :: [is_module_of.protect](/_protect/schema-org/Composite/is_module_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Composite/is_module_of.protect|is_module_of.protect]] 
 
-### #is_/same_as :: [is_module_of.private](/_private/schema-org/Composite/is_module_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Composite/is_module_of.private|is_module_of.private]] 
 
-### #is_/same_as :: [is_module_of.personal](/_personal/schema-org/Composite/is_module_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Composite/is_module_of.personal|is_module_of.personal]] 
 
-### #is_/same_as :: [is_module_of.secret](/_secret/schema-org/Composite/is_module_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Composite/is_module_of.secret|is_module_of.secret]] 
 

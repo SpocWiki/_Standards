@@ -50,17 +50,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parcel_Service](/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Delivery_Method/Parcel_Service|Parcel_Service]] 
 
-### #is_/same_as :: [Parcel_Service.public](/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Delivery_Method/Parcel_Service.public|Parcel_Service.public]] 
 
-### #is_/same_as :: [Parcel_Service.internal](/_internal/schema-org/Enumeration/Delivery_Method/Parcel_Service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Delivery_Method/Parcel_Service.internal|Parcel_Service.internal]] 
 
-### #is_/same_as :: [Parcel_Service.protect](/_protect/schema-org/Enumeration/Delivery_Method/Parcel_Service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Delivery_Method/Parcel_Service.protect|Parcel_Service.protect]] 
 
-### #is_/same_as :: [Parcel_Service.private](/_private/schema-org/Enumeration/Delivery_Method/Parcel_Service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Delivery_Method/Parcel_Service.private|Parcel_Service.private]] 
 
-### #is_/same_as :: [Parcel_Service.personal](/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Delivery_Method/Parcel_Service.personal|Parcel_Service.personal]] 
 
-### #is_/same_as :: [Parcel_Service.secret](/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Delivery_Method/Parcel_Service.secret|Parcel_Service.secret]] 
 

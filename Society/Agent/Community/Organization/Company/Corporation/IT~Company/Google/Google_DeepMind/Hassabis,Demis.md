@@ -122,17 +122,17 @@ and his mother is a [Chinese Singaporean](https://en.wikipedia.org/wiki/Chinese_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hassabis,Demis](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis|Hassabis,Demis]] 
 
-### #is_/same_as :: [Hassabis,Demis.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.public|Hassabis,Demis.public]] 
 
-### #is_/same_as :: [Hassabis,Demis.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.internal|Hassabis,Demis.internal]] 
 
-### #is_/same_as :: [Hassabis,Demis.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.protect|Hassabis,Demis.protect]] 
 
-### #is_/same_as :: [Hassabis,Demis.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.private|Hassabis,Demis.private]] 
 
-### #is_/same_as :: [Hassabis,Demis.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.personal|Hassabis,Demis.personal]] 
 
-### #is_/same_as :: [Hassabis,Demis.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google/Google_DeepMind/Hassabis,Demis.secret|Hassabis,Demis.secret]] 
 

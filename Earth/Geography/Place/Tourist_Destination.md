@@ -44,17 +44,17 @@ A tourist destination. In principle any [[../../../../Earth/Geography/Place]] ca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tourist_Destination](/_Standards/Earth/Geography/Place/Tourist_Destination.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Tourist_Destination|Tourist_Destination]] 
 
-### #is_/same_as :: [Tourist_Destination.public](/_public/Earth/Geography/Place/Tourist_Destination.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Tourist_Destination.public|Tourist_Destination.public]] 
 
-### #is_/same_as :: [Tourist_Destination.internal](/_internal/Earth/Geography/Place/Tourist_Destination.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Tourist_Destination.internal|Tourist_Destination.internal]] 
 
-### #is_/same_as :: [Tourist_Destination.protect](/_protect/Earth/Geography/Place/Tourist_Destination.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Tourist_Destination.protect|Tourist_Destination.protect]] 
 
-### #is_/same_as :: [Tourist_Destination.private](/_private/Earth/Geography/Place/Tourist_Destination.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Tourist_Destination.private|Tourist_Destination.private]] 
 
-### #is_/same_as :: [Tourist_Destination.personal](/_personal/Earth/Geography/Place/Tourist_Destination.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Tourist_Destination.personal|Tourist_Destination.personal]] 
 
-### #is_/same_as :: [Tourist_Destination.secret](/_secret/Earth/Geography/Place/Tourist_Destination.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Tourist_Destination.secret|Tourist_Destination.secret]] 
 

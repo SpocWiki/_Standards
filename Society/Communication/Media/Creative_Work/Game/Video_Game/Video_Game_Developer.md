@@ -51,17 +51,17 @@ female_form_of_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game_Developer](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer|Video_Game_Developer]] 
 
-### #is_/same_as :: [Video_Game_Developer.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.public|Video_Game_Developer.public]] 
 
-### #is_/same_as :: [Video_Game_Developer.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.internal|Video_Game_Developer.internal]] 
 
-### #is_/same_as :: [Video_Game_Developer.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.protect|Video_Game_Developer.protect]] 
 
-### #is_/same_as :: [Video_Game_Developer.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.private|Video_Game_Developer.private]] 
 
-### #is_/same_as :: [Video_Game_Developer.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.personal|Video_Game_Developer.personal]] 
 
-### #is_/same_as :: [Video_Game_Developer.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Developer.secret|Video_Game_Developer.secret]] 
 

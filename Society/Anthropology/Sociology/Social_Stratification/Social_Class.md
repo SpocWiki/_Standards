@@ -51,17 +51,17 @@ IMDb_keyword: social-class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Class](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class|Social_Class]] 
 
-### #is_/same_as :: [Social_Class.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class.public|Social_Class.public]] 
 
-### #is_/same_as :: [Social_Class.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.internal|Social_Class.internal]] 
 
-### #is_/same_as :: [Social_Class.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class.protect|Social_Class.protect]] 
 
-### #is_/same_as :: [Social_Class.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class.private|Social_Class.private]] 
 
-### #is_/same_as :: [Social_Class.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class.personal|Social_Class.personal]] 
 
-### #is_/same_as :: [Social_Class.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class.secret|Social_Class.secret]] 
 

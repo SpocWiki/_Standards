@@ -38,17 +38,17 @@ Commons_category: Eastern philosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastern_Philosophy](/_Standards/Philosophy/Eastern_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Eastern_Philosophy|Eastern_Philosophy]] 
 
-### #is_/same_as :: [Eastern_Philosophy.public](/_public/Philosophy/Eastern_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Eastern_Philosophy.public|Eastern_Philosophy.public]] 
 
-### #is_/same_as :: [Eastern_Philosophy.internal](/_internal/Philosophy/Eastern_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Eastern_Philosophy.internal|Eastern_Philosophy.internal]] 
 
-### #is_/same_as :: [Eastern_Philosophy.protect](/_protect/Philosophy/Eastern_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Eastern_Philosophy.protect|Eastern_Philosophy.protect]] 
 
-### #is_/same_as :: [Eastern_Philosophy.private](/_private/Philosophy/Eastern_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Eastern_Philosophy.private|Eastern_Philosophy.private]] 
 
-### #is_/same_as :: [Eastern_Philosophy.personal](/_personal/Philosophy/Eastern_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Eastern_Philosophy.personal|Eastern_Philosophy.personal]] 
 
-### #is_/same_as :: [Eastern_Philosophy.secret](/_secret/Philosophy/Eastern_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Eastern_Philosophy.secret|Eastern_Philosophy.secret]] 
 

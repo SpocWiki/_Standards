@@ -35,17 +35,17 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geoglossaceae](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae|Geoglossaceae]] 
 
-### #is_/same_as :: [Geoglossaceae.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.public|Geoglossaceae.public]] 
 
-### #is_/same_as :: [Geoglossaceae.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.internal|Geoglossaceae.internal]] 
 
-### #is_/same_as :: [Geoglossaceae.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.protect|Geoglossaceae.protect]] 
 
-### #is_/same_as :: [Geoglossaceae.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.private|Geoglossaceae.private]] 
 
-### #is_/same_as :: [Geoglossaceae.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.personal|Geoglossaceae.personal]] 
 
-### #is_/same_as :: [Geoglossaceae.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Geoglossaceae.secret|Geoglossaceae.secret]] 
 

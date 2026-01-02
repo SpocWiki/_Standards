@@ -41,17 +41,17 @@ Dewey_Decimal_Classification: 665.77
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syngas](/_Standards/Chemistry/Material/Fuel/Syngas.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Syngas|Syngas]] 
 
-### #is_/same_as :: [Syngas.public](/_public/Chemistry/Material/Fuel/Syngas.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Syngas.public|Syngas.public]] 
 
-### #is_/same_as :: [Syngas.internal](/_internal/Chemistry/Material/Fuel/Syngas.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Syngas.internal|Syngas.internal]] 
 
-### #is_/same_as :: [Syngas.protect](/_protect/Chemistry/Material/Fuel/Syngas.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Syngas.protect|Syngas.protect]] 
 
-### #is_/same_as :: [Syngas.private](/_private/Chemistry/Material/Fuel/Syngas.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Syngas.private|Syngas.private]] 
 
-### #is_/same_as :: [Syngas.personal](/_personal/Chemistry/Material/Fuel/Syngas.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Syngas.personal|Syngas.personal]] 
 
-### #is_/same_as :: [Syngas.secret](/_secret/Chemistry/Material/Fuel/Syngas.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Syngas.secret|Syngas.secret]] 
 

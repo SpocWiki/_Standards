@@ -69,17 +69,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Energy](/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy|Solar_Energy]] 
 
-### #is_/same_as :: [Solar_Energy.public](/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.public|Solar_Energy.public]] 
 
-### #is_/same_as :: [Solar_Energy.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.internal|Solar_Energy.internal]] 
 
-### #is_/same_as :: [Solar_Energy.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.protect|Solar_Energy.protect]] 
 
-### #is_/same_as :: [Solar_Energy.private](/_private/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.private|Solar_Energy.private]] 
 
-### #is_/same_as :: [Solar_Energy.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.personal|Solar_Energy.personal]] 
 
-### #is_/same_as :: [Solar_Energy.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Renewable_Energy/Solar_Energy.secret|Solar_Energy.secret]] 
 

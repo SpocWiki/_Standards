@@ -39,17 +39,17 @@ A playground.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Playground](/_Standards/Earth/Geography/Place/Civic_Structure/Playground.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Playground|Playground]] 
 
-### #is_/same_as :: [Playground.public](/_public/Earth/Geography/Place/Civic_Structure/Playground.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Playground.public|Playground.public]] 
 
-### #is_/same_as :: [Playground.internal](/_internal/Earth/Geography/Place/Civic_Structure/Playground.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Playground.internal|Playground.internal]] 
 
-### #is_/same_as :: [Playground.protect](/_protect/Earth/Geography/Place/Civic_Structure/Playground.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Playground.protect|Playground.protect]] 
 
-### #is_/same_as :: [Playground.private](/_private/Earth/Geography/Place/Civic_Structure/Playground.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Playground.private|Playground.private]] 
 
-### #is_/same_as :: [Playground.personal](/_personal/Earth/Geography/Place/Civic_Structure/Playground.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Playground.personal|Playground.personal]] 
 
-### #is_/same_as :: [Playground.secret](/_secret/Earth/Geography/Place/Civic_Structure/Playground.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Playground.secret|Playground.secret]] 
 

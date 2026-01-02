@@ -141,17 +141,17 @@ Europeana_entity: agent/base/60300
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vangelis](/_Standards/Society/Communication/Media/Music/Composer/Vangelis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Vangelis|Vangelis]] 
 
-### #is_/same_as :: [Vangelis.public](/_public/Society/Communication/Media/Music/Composer/Vangelis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Vangelis.public|Vangelis.public]] 
 
-### #is_/same_as :: [Vangelis.internal](/_internal/Society/Communication/Media/Music/Composer/Vangelis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Vangelis.internal|Vangelis.internal]] 
 
-### #is_/same_as :: [Vangelis.protect](/_protect/Society/Communication/Media/Music/Composer/Vangelis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Vangelis.protect|Vangelis.protect]] 
 
-### #is_/same_as :: [Vangelis.private](/_private/Society/Communication/Media/Music/Composer/Vangelis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Vangelis.private|Vangelis.private]] 
 
-### #is_/same_as :: [Vangelis.personal](/_personal/Society/Communication/Media/Music/Composer/Vangelis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Vangelis.personal|Vangelis.personal]] 
 
-### #is_/same_as :: [Vangelis.secret](/_secret/Society/Communication/Media/Music/Composer/Vangelis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Vangelis.secret|Vangelis.secret]] 
 

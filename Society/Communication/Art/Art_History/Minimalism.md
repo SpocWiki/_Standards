@@ -39,17 +39,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kazimir%20Malevich%2C%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minimalism](/_Standards/Society/Communication/Art/Art_History/Minimalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Minimalism|Minimalism]] 
 
-### #is_/same_as :: [Minimalism.public](/_public/Society/Communication/Art/Art_History/Minimalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Minimalism.public|Minimalism.public]] 
 
-### #is_/same_as :: [Minimalism.internal](/_internal/Society/Communication/Art/Art_History/Minimalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Minimalism.internal|Minimalism.internal]] 
 
-### #is_/same_as :: [Minimalism.protect](/_protect/Society/Communication/Art/Art_History/Minimalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Minimalism.protect|Minimalism.protect]] 
 
-### #is_/same_as :: [Minimalism.private](/_private/Society/Communication/Art/Art_History/Minimalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Minimalism.private|Minimalism.private]] 
 
-### #is_/same_as :: [Minimalism.personal](/_personal/Society/Communication/Art/Art_History/Minimalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Minimalism.personal|Minimalism.personal]] 
 
-### #is_/same_as :: [Minimalism.secret](/_secret/Society/Communication/Art/Art_History/Minimalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Minimalism.secret|Minimalism.secret]] 
 

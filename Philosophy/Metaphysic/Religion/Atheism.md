@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atheism](/_Standards/Philosophy/Metaphysic/Religion/Atheism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Atheism|Atheism]] 
 
-### #is_/same_as :: [Atheism.public](/_public/Philosophy/Metaphysic/Religion/Atheism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Atheism.public|Atheism.public]] 
 
-### #is_/same_as :: [Atheism.internal](/_internal/Philosophy/Metaphysic/Religion/Atheism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Atheism.internal|Atheism.internal]] 
 
-### #is_/same_as :: [Atheism.protect](/_protect/Philosophy/Metaphysic/Religion/Atheism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Atheism.protect|Atheism.protect]] 
 
-### #is_/same_as :: [Atheism.private](/_private/Philosophy/Metaphysic/Religion/Atheism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Atheism.private|Atheism.private]] 
 
-### #is_/same_as :: [Atheism.personal](/_personal/Philosophy/Metaphysic/Religion/Atheism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Atheism.personal|Atheism.personal]] 
 
-### #is_/same_as :: [Atheism.secret](/_secret/Philosophy/Metaphysic/Religion/Atheism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Atheism.secret|Atheism.secret]] 
 

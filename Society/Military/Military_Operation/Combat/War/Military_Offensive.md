@@ -71,17 +71,17 @@ Dewey_Decimal_Classification: "355.4"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Offensive](/_Standards/Society/Military/Military_Operation/Combat/War/Military_Offensive.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Military_Offensive|Military_Offensive]] 
 
-### #is_/same_as :: [Military_Offensive.public](/_public/Society/Military/Military_Operation/Combat/War/Military_Offensive.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Military_Offensive.public|Military_Offensive.public]] 
 
-### #is_/same_as :: [Military_Offensive.internal](/_internal/Society/Military/Military_Operation/Combat/War/Military_Offensive.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Military_Offensive.internal|Military_Offensive.internal]] 
 
-### #is_/same_as :: [Military_Offensive.protect](/_protect/Society/Military/Military_Operation/Combat/War/Military_Offensive.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Military_Offensive.protect|Military_Offensive.protect]] 
 
-### #is_/same_as :: [Military_Offensive.private](/_private/Society/Military/Military_Operation/Combat/War/Military_Offensive.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Military_Offensive.private|Military_Offensive.private]] 
 
-### #is_/same_as :: [Military_Offensive.personal](/_personal/Society/Military/Military_Operation/Combat/War/Military_Offensive.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Military_Offensive.personal|Military_Offensive.personal]] 
 
-### #is_/same_as :: [Military_Offensive.secret](/_secret/Society/Military/Military_Operation/Combat/War/Military_Offensive.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Military_Offensive.secret|Military_Offensive.secret]] 
 

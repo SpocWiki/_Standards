@@ -75,17 +75,17 @@ The same holds for Flags.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coat_of_arms](/_Standards/Earth/Continent/Coat_of_arms.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Coat_of_arms|Coat_of_arms]] 
 
-### #is_/same_as :: [Coat_of_arms.public](/_public/Earth/Continent/Coat_of_arms.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Coat_of_arms.public|Coat_of_arms.public]] 
 
-### #is_/same_as :: [Coat_of_arms.internal](/_internal/Earth/Continent/Coat_of_arms.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Coat_of_arms.internal|Coat_of_arms.internal]] 
 
-### #is_/same_as :: [Coat_of_arms.protect](/_protect/Earth/Continent/Coat_of_arms.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Coat_of_arms.protect|Coat_of_arms.protect]] 
 
-### #is_/same_as :: [Coat_of_arms.private](/_private/Earth/Continent/Coat_of_arms.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Coat_of_arms.private|Coat_of_arms.private]] 
 
-### #is_/same_as :: [Coat_of_arms.personal](/_personal/Earth/Continent/Coat_of_arms.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Coat_of_arms.personal|Coat_of_arms.personal]] 
 
-### #is_/same_as :: [Coat_of_arms.secret](/_secret/Earth/Continent/Coat_of_arms.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Coat_of_arms.secret|Coat_of_arms.secret]] 
 

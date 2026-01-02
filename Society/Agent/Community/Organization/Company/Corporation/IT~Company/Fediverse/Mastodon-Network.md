@@ -87,17 +87,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mastodon-Network](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network|Mastodon-Network]] 
 
-### #is_/same_as :: [Mastodon-Network.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.public|Mastodon-Network.public]] 
 
-### #is_/same_as :: [Mastodon-Network.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.internal|Mastodon-Network.internal]] 
 
-### #is_/same_as :: [Mastodon-Network.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.protect|Mastodon-Network.protect]] 
 
-### #is_/same_as :: [Mastodon-Network.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.private|Mastodon-Network.private]] 
 
-### #is_/same_as :: [Mastodon-Network.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.personal|Mastodon-Network.personal]] 
 
-### #is_/same_as :: [Mastodon-Network.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Fediverse/Mastodon-Network.secret|Mastodon-Network.secret]] 
 

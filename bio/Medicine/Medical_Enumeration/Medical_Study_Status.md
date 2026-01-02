@@ -39,17 +39,17 @@ The status of a medical study. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Study_Status](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status|Medical_Study_Status]] 
 
-### #is_/same_as :: [Medical_Study_Status.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status.public|Medical_Study_Status.public]] 
 
-### #is_/same_as :: [Medical_Study_Status.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.internal|Medical_Study_Status.internal]] 
 
-### #is_/same_as :: [Medical_Study_Status.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status.protect|Medical_Study_Status.protect]] 
 
-### #is_/same_as :: [Medical_Study_Status.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status.private|Medical_Study_Status.private]] 
 
-### #is_/same_as :: [Medical_Study_Status.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status.personal|Medical_Study_Status.personal]] 
 
-### #is_/same_as :: [Medical_Study_Status.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status.secret|Medical_Study_Status.secret]] 
 

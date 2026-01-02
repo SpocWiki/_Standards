@@ -341,17 +341,17 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ustilaginomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina|Ustilaginomycotina]] 
 
-### #is_/same_as :: [Ustilaginomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.public|Ustilaginomycotina.public]] 
 
-### #is_/same_as :: [Ustilaginomycotina.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.internal|Ustilaginomycotina.internal]] 
 
-### #is_/same_as :: [Ustilaginomycotina.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.protect|Ustilaginomycotina.protect]] 
 
-### #is_/same_as :: [Ustilaginomycotina.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.private|Ustilaginomycotina.private]] 
 
-### #is_/same_as :: [Ustilaginomycotina.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.personal|Ustilaginomycotina.personal]] 
 
-### #is_/same_as :: [Ustilaginomycotina.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Ustilaginomycotina.secret|Ustilaginomycotina.secret]] 
 

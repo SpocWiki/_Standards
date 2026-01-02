@@ -76,17 +76,17 @@ HasDeliveryMethod:: {"type":"Select","options":{"valuesList":{"LockerDelivery","
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DeliveryEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent|FileClass~DeliveryEvent]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.public|FileClass~DeliveryEvent.public]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.internal|FileClass~DeliveryEvent.internal]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.protect|FileClass~DeliveryEvent.protect]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.private|FileClass~DeliveryEvent.private]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.personal|FileClass~DeliveryEvent.personal]] 
 
-### #is_/same_as :: [FileClass~DeliveryEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~DeliveryEvent.secret|FileClass~DeliveryEvent.secret]] 
 

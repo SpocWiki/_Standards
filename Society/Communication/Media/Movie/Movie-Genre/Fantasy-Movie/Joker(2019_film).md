@@ -43,17 +43,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joker(2019_film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film)|Joker(2019_film)]] 
 
-### #is_/same_as :: [Joker(2019_film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).public|Joker(2019_film).public]] 
 
-### #is_/same_as :: [Joker(2019_film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).internal|Joker(2019_film).internal]] 
 
-### #is_/same_as :: [Joker(2019_film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).protect|Joker(2019_film).protect]] 
 
-### #is_/same_as :: [Joker(2019_film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).private|Joker(2019_film).private]] 
 
-### #is_/same_as :: [Joker(2019_film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).personal|Joker(2019_film).personal]] 
 
-### #is_/same_as :: [Joker(2019_film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Joker(2019_film).secret|Joker(2019_film).secret]] 
 

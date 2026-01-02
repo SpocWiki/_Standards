@@ -72,17 +72,17 @@ Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Placozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Placozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Placozoa|Placozoa]] 
 
-### #is_/same_as :: [Placozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Placozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Placozoa.public|Placozoa.public]] 
 
-### #is_/same_as :: [Placozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Placozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Placozoa.internal|Placozoa.internal]] 
 
-### #is_/same_as :: [Placozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Placozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Placozoa.protect|Placozoa.protect]] 
 
-### #is_/same_as :: [Placozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Placozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Placozoa.private|Placozoa.private]] 
 
-### #is_/same_as :: [Placozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Placozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Placozoa.personal|Placozoa.personal]] 
 
-### #is_/same_as :: [Placozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Placozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Placozoa.secret|Placozoa.secret]] 
 

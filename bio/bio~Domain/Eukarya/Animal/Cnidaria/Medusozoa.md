@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medusozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa|Medusozoa]] 
 
-### #is_/same_as :: [Medusozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.public|Medusozoa.public]] 
 
-### #is_/same_as :: [Medusozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.internal|Medusozoa.internal]] 
 
-### #is_/same_as :: [Medusozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.protect|Medusozoa.protect]] 
 
-### #is_/same_as :: [Medusozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.private|Medusozoa.private]] 
 
-### #is_/same_as :: [Medusozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.personal|Medusozoa.personal]] 
 
-### #is_/same_as :: [Medusozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Medusozoa.secret|Medusozoa.secret]] 
 

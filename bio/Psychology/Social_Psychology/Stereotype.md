@@ -53,17 +53,17 @@ Commons_category: Stereotypes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stereotype](/_Standards/bio/Psychology/Social_Psychology/Stereotype.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Social_Psychology/Stereotype|Stereotype]] 
 
-### #is_/same_as :: [Stereotype.public](/_public/bio/Psychology/Social_Psychology/Stereotype.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Social_Psychology/Stereotype.public|Stereotype.public]] 
 
-### #is_/same_as :: [Stereotype.internal](/_internal/bio/Psychology/Social_Psychology/Stereotype.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Social_Psychology/Stereotype.internal|Stereotype.internal]] 
 
-### #is_/same_as :: [Stereotype.protect](/_protect/bio/Psychology/Social_Psychology/Stereotype.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Social_Psychology/Stereotype.protect|Stereotype.protect]] 
 
-### #is_/same_as :: [Stereotype.private](/_private/bio/Psychology/Social_Psychology/Stereotype.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Social_Psychology/Stereotype.private|Stereotype.private]] 
 
-### #is_/same_as :: [Stereotype.personal](/_personal/bio/Psychology/Social_Psychology/Stereotype.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Social_Psychology/Stereotype.personal|Stereotype.personal]] 
 
-### #is_/same_as :: [Stereotype.secret](/_secret/bio/Psychology/Social_Psychology/Stereotype.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Social_Psychology/Stereotype.secret|Stereotype.secret]] 
 

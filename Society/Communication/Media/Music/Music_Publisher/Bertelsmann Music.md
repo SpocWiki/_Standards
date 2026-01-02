@@ -57,17 +57,17 @@ native_label: Bertelsmann Music Group
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bertelsmann Music](/_Standards/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music|Bertelsmann Music]] 
 
-### #is_/same_as :: [Bertelsmann Music.public](/_public/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.public|Bertelsmann Music.public]] 
 
-### #is_/same_as :: [Bertelsmann Music.internal](/_internal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.internal|Bertelsmann Music.internal]] 
 
-### #is_/same_as :: [Bertelsmann Music.protect](/_protect/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.protect|Bertelsmann Music.protect]] 
 
-### #is_/same_as :: [Bertelsmann Music.private](/_private/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.private|Bertelsmann Music.private]] 
 
-### #is_/same_as :: [Bertelsmann Music.personal](/_personal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.personal|Bertelsmann Music.personal]] 
 
-### #is_/same_as :: [Bertelsmann Music.secret](/_secret/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Publisher/Bertelsmann Music.secret|Bertelsmann Music.secret]] 
 

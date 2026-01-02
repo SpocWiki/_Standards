@@ -62,17 +62,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnitude(Astronomy)](/_Standards/Astronomy/Magnitude(Astronomy).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).public](/_public/Astronomy/Magnitude(Astronomy).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).internal](/_internal/Astronomy/Magnitude(Astronomy).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).protect](/_protect/Astronomy/Magnitude(Astronomy).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Magnitude(Astronomy).protect|Magnitude(Astronomy).protect]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).private](/_private/Astronomy/Magnitude(Astronomy).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Magnitude(Astronomy).private|Magnitude(Astronomy).private]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).personal](/_personal/Astronomy/Magnitude(Astronomy).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]] 
 
-### #is_/same_as :: [Magnitude(Astronomy).secret](/_secret/Astronomy/Magnitude(Astronomy).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]] 
 

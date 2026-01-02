@@ -47,17 +47,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Befriend_Action](/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action|Befriend_Action]] 
 
-### #is_/same_as :: [Befriend_Action.public](/_public/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.public|Befriend_Action.public]] 
 
-### #is_/same_as :: [Befriend_Action.internal](/_internal/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.internal|Befriend_Action.internal]] 
 
-### #is_/same_as :: [Befriend_Action.protect](/_protect/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.protect|Befriend_Action.protect]] 
 
-### #is_/same_as :: [Befriend_Action.private](/_private/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.private|Befriend_Action.private]] 
 
-### #is_/same_as :: [Befriend_Action.personal](/_personal/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.personal|Befriend_Action.personal]] 
 
-### #is_/same_as :: [Befriend_Action.secret](/_secret/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Interact_Action/Befriend_Action.secret|Befriend_Action.secret]] 
 

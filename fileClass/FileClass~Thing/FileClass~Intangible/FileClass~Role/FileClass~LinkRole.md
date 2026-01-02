@@ -58,17 +58,17 @@ LinkRelationship:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LinkRole](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole|FileClass~LinkRole]] 
 
-### #is_/same_as :: [FileClass~LinkRole.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.public|FileClass~LinkRole.public]] 
 
-### #is_/same_as :: [FileClass~LinkRole.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.internal|FileClass~LinkRole.internal]] 
 
-### #is_/same_as :: [FileClass~LinkRole.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.protect|FileClass~LinkRole.protect]] 
 
-### #is_/same_as :: [FileClass~LinkRole.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.private|FileClass~LinkRole.private]] 
 
-### #is_/same_as :: [FileClass~LinkRole.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.personal|FileClass~LinkRole.personal]] 
 
-### #is_/same_as :: [FileClass~LinkRole.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Role/FileClass~LinkRole.secret|FileClass~LinkRole.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_depart](/_Standards/schema-org/Property/has_Date_Time/has_time_to_depart.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_depart|has_time_to_depart]] 
 
-### #is_/same_as :: [has_time_to_depart.public](/_public/schema-org/Property/has_Date_Time/has_time_to_depart.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_depart.public|has_time_to_depart.public]] 
 
-### #is_/same_as :: [has_time_to_depart.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_depart.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_depart.internal|has_time_to_depart.internal]] 
 
-### #is_/same_as :: [has_time_to_depart.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_depart.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_depart.protect|has_time_to_depart.protect]] 
 
-### #is_/same_as :: [has_time_to_depart.private](/_private/schema-org/Property/has_Date_Time/has_time_to_depart.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_depart.private|has_time_to_depart.private]] 
 
-### #is_/same_as :: [has_time_to_depart.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_depart.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_depart.personal|has_time_to_depart.personal]] 
 
-### #is_/same_as :: [has_time_to_depart.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_depart.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_depart.secret|has_time_to_depart.secret]] 
 

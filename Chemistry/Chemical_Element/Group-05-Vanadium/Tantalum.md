@@ -141,17 +141,17 @@ ZVG_number: 8440
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tantalum](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum|Tantalum]] 
 
-### #is_/same_as :: [Tantalum.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.public|Tantalum.public]] 
 
-### #is_/same_as :: [Tantalum.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.internal|Tantalum.internal]] 
 
-### #is_/same_as :: [Tantalum.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.protect|Tantalum.protect]] 
 
-### #is_/same_as :: [Tantalum.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.private|Tantalum.private]] 
 
-### #is_/same_as :: [Tantalum.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.personal|Tantalum.personal]] 
 
-### #is_/same_as :: [Tantalum.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Tantalum.secret|Tantalum.secret]] 
 

@@ -92,17 +92,17 @@ mass: 55.966446332000004
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potassium_Hydroxide](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide|Potassium_Hydroxide]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.public|Potassium_Hydroxide.public]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.internal|Potassium_Hydroxide.internal]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.protect|Potassium_Hydroxide.protect]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.private|Potassium_Hydroxide.private]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.personal|Potassium_Hydroxide.personal]] 
 
-### #is_/same_as :: [Potassium_Hydroxide.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Hydroxide/Potassium_Hydroxide.secret|Potassium_Hydroxide.secret]] 
 

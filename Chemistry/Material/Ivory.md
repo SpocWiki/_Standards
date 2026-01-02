@@ -43,17 +43,17 @@ EAGLE_id: material/lod/120
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ivory](/_Standards/Chemistry/Material/Ivory.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Ivory|Ivory]] 
 
-### #is_/same_as :: [Ivory.public](/_public/Chemistry/Material/Ivory.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Ivory.public|Ivory.public]] 
 
-### #is_/same_as :: [Ivory.internal](/_internal/Chemistry/Material/Ivory.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Ivory.internal|Ivory.internal]] 
 
-### #is_/same_as :: [Ivory.protect](/_protect/Chemistry/Material/Ivory.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Ivory.protect|Ivory.protect]] 
 
-### #is_/same_as :: [Ivory.private](/_private/Chemistry/Material/Ivory.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Ivory.private|Ivory.private]] 
 
-### #is_/same_as :: [Ivory.personal](/_personal/Chemistry/Material/Ivory.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Ivory.personal|Ivory.personal]] 
 
-### #is_/same_as :: [Ivory.secret](/_secret/Chemistry/Material/Ivory.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Ivory.secret|Ivory.secret]] 
 

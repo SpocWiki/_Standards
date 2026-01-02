@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taft,William_Howard](/_Standards/Earth/Continent/America~North/US~President/Taft,William_Howard.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Taft,William_Howard|Taft,William_Howard]] 
 
-### #is_/same_as :: [Taft,William_Howard.public](/_public/Earth/Continent/America~North/US~President/Taft,William_Howard.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.public|Taft,William_Howard.public]] 
 
-### #is_/same_as :: [Taft,William_Howard.internal](/_internal/Earth/Continent/America~North/US~President/Taft,William_Howard.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.internal|Taft,William_Howard.internal]] 
 
-### #is_/same_as :: [Taft,William_Howard.protect](/_protect/Earth/Continent/America~North/US~President/Taft,William_Howard.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.protect|Taft,William_Howard.protect]] 
 
-### #is_/same_as :: [Taft,William_Howard.private](/_private/Earth/Continent/America~North/US~President/Taft,William_Howard.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.private|Taft,William_Howard.private]] 
 
-### #is_/same_as :: [Taft,William_Howard.personal](/_personal/Earth/Continent/America~North/US~President/Taft,William_Howard.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.personal|Taft,William_Howard.personal]] 
 
-### #is_/same_as :: [Taft,William_Howard.secret](/_secret/Earth/Continent/America~North/US~President/Taft,William_Howard.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Taft,William_Howard.secret|Taft,William_Howard.secret]] 
 

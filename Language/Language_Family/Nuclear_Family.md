@@ -61,17 +61,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Family](/_Standards/Language/Language_Family/Nuclear_Family.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/Nuclear_Family|Nuclear_Family]] 
 
-### #is_/same_as :: [Nuclear_Family.public](/_public/Language/Language_Family/Nuclear_Family.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/Nuclear_Family.public|Nuclear_Family.public]] 
 
-### #is_/same_as :: [Nuclear_Family.internal](/_internal/Language/Language_Family/Nuclear_Family.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/Nuclear_Family.internal|Nuclear_Family.internal]] 
 
-### #is_/same_as :: [Nuclear_Family.protect](/_protect/Language/Language_Family/Nuclear_Family.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/Nuclear_Family.protect|Nuclear_Family.protect]] 
 
-### #is_/same_as :: [Nuclear_Family.private](/_private/Language/Language_Family/Nuclear_Family.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/Nuclear_Family.private|Nuclear_Family.private]] 
 
-### #is_/same_as :: [Nuclear_Family.personal](/_personal/Language/Language_Family/Nuclear_Family.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/Nuclear_Family.personal|Nuclear_Family.personal]] 
 
-### #is_/same_as :: [Nuclear_Family.secret](/_secret/Language/Language_Family/Nuclear_Family.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/Nuclear_Family.secret|Nuclear_Family.secret]] 
 

@@ -274,17 +274,17 @@ Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/ce
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cnidaria](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria|Cnidaria]] 
 
-### #is_/same_as :: [Cnidaria.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria.public|Cnidaria.public]] 
 
-### #is_/same_as :: [Cnidaria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria.internal|Cnidaria.internal]] 
 
-### #is_/same_as :: [Cnidaria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria.protect|Cnidaria.protect]] 
 
-### #is_/same_as :: [Cnidaria.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria.private|Cnidaria.private]] 
 
-### #is_/same_as :: [Cnidaria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria.personal|Cnidaria.personal]] 
 
-### #is_/same_as :: [Cnidaria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria.secret|Cnidaria.secret]] 
 

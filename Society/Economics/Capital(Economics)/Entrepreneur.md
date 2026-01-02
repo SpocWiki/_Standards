@@ -116,17 +116,17 @@ Commons_category: Entrepreneurs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Entrepreneur](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Entrepreneur|Entrepreneur]] 
 
-### #is_/same_as :: [Entrepreneur.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Entrepreneur.public|Entrepreneur.public]] 
 
-### #is_/same_as :: [Entrepreneur.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Entrepreneur.internal|Entrepreneur.internal]] 
 
-### #is_/same_as :: [Entrepreneur.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Entrepreneur.protect|Entrepreneur.protect]] 
 
-### #is_/same_as :: [Entrepreneur.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Entrepreneur.private|Entrepreneur.private]] 
 
-### #is_/same_as :: [Entrepreneur.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Entrepreneur.personal|Entrepreneur.personal]] 
 
-### #is_/same_as :: [Entrepreneur.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Entrepreneur.secret|Entrepreneur.secret]] 
 

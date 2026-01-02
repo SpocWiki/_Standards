@@ -93,17 +93,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geometric_Algebra](/_Standards/Mathematics/Geometry/Geometric_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometric_Algebra|Geometric_Algebra]] 
 
-### #is_/same_as :: [Geometric_Algebra.public](/_public/Mathematics/Geometry/Geometric_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometric_Algebra.public|Geometric_Algebra.public]] 
 
-### #is_/same_as :: [Geometric_Algebra.internal](/_internal/Mathematics/Geometry/Geometric_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometric_Algebra.internal|Geometric_Algebra.internal]] 
 
-### #is_/same_as :: [Geometric_Algebra.protect](/_protect/Mathematics/Geometry/Geometric_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometric_Algebra.protect|Geometric_Algebra.protect]] 
 
-### #is_/same_as :: [Geometric_Algebra.private](/_private/Mathematics/Geometry/Geometric_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometric_Algebra.private|Geometric_Algebra.private]] 
 
-### #is_/same_as :: [Geometric_Algebra.personal](/_personal/Mathematics/Geometry/Geometric_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometric_Algebra.personal|Geometric_Algebra.personal]] 
 
-### #is_/same_as :: [Geometric_Algebra.secret](/_secret/Mathematics/Geometry/Geometric_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometric_Algebra.secret|Geometric_Algebra.secret]] 
 

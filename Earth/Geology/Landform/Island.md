@@ -79,17 +79,17 @@ UMLS_CUI: C0022130
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Island](/_Standards/Earth/Geology/Landform/Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Island|Island]] 
 
-### #is_/same_as :: [Island.public](/_public/Earth/Geology/Landform/Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Island.public|Island.public]] 
 
-### #is_/same_as :: [Island.internal](/_internal/Earth/Geology/Landform/Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Island.internal|Island.internal]] 
 
-### #is_/same_as :: [Island.protect](/_protect/Earth/Geology/Landform/Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Island.protect|Island.protect]] 
 
-### #is_/same_as :: [Island.private](/_private/Earth/Geology/Landform/Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Island.private|Island.private]] 
 
-### #is_/same_as :: [Island.personal](/_personal/Earth/Geology/Landform/Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Island.personal|Island.personal]] 
 
-### #is_/same_as :: [Island.secret](/_secret/Earth/Geology/Landform/Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Island.secret|Island.secret]] 
 

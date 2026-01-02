@@ -72,17 +72,17 @@ Archive_of_Our_Own_tag: Hallucinations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hallucination](/_Standards/bio/Psychology/Cognition/Hallucination.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Hallucination|Hallucination]] 
 
-### #is_/same_as :: [Hallucination.public](/_public/bio/Psychology/Cognition/Hallucination.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Hallucination.public|Hallucination.public]] 
 
-### #is_/same_as :: [Hallucination.internal](/_internal/bio/Psychology/Cognition/Hallucination.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Hallucination.internal|Hallucination.internal]] 
 
-### #is_/same_as :: [Hallucination.protect](/_protect/bio/Psychology/Cognition/Hallucination.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Hallucination.protect|Hallucination.protect]] 
 
-### #is_/same_as :: [Hallucination.private](/_private/bio/Psychology/Cognition/Hallucination.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Hallucination.private|Hallucination.private]] 
 
-### #is_/same_as :: [Hallucination.personal](/_personal/bio/Psychology/Cognition/Hallucination.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Hallucination.personal|Hallucination.personal]] 
 
-### #is_/same_as :: [Hallucination.secret](/_secret/bio/Psychology/Cognition/Hallucination.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Hallucination.secret|Hallucination.secret]] 
 

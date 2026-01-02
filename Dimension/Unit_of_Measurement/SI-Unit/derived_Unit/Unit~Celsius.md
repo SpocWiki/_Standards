@@ -65,17 +65,17 @@ unit_symbol:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Celsius](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius|Unit~Celsius]] 
 
-### #is_/same_as :: [Unit~Celsius.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.public|Unit~Celsius.public]] 
 
-### #is_/same_as :: [Unit~Celsius.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.internal|Unit~Celsius.internal]] 
 
-### #is_/same_as :: [Unit~Celsius.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.protect|Unit~Celsius.protect]] 
 
-### #is_/same_as :: [Unit~Celsius.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.private|Unit~Celsius.private]] 
 
-### #is_/same_as :: [Unit~Celsius.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.personal|Unit~Celsius.personal]] 
 
-### #is_/same_as :: [Unit~Celsius.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Celsius.secret|Unit~Celsius.secret]] 
 

@@ -117,17 +117,17 @@ date_of_death: 2011-01-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barry,John(composer)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer)|Barry,John(composer)]] 
 
-### #is_/same_as :: [Barry,John(composer).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).public|Barry,John(composer).public]] 
 
-### #is_/same_as :: [Barry,John(composer).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).internal|Barry,John(composer).internal]] 
 
-### #is_/same_as :: [Barry,John(composer).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).protect|Barry,John(composer).protect]] 
 
-### #is_/same_as :: [Barry,John(composer).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).private|Barry,John(composer).private]] 
 
-### #is_/same_as :: [Barry,John(composer).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).personal|Barry,John(composer).personal]] 
 
-### #is_/same_as :: [Barry,John(composer).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Barry,John(composer).secret|Barry,John(composer).secret]] 
 

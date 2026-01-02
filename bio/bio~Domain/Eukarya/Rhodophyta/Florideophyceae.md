@@ -164,17 +164,17 @@ Copyright ::         © 2000 K. T. Bird
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Florideophyceae](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae|Florideophyceae]] 
 
-### #is_/same_as :: [Florideophyceae.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.public|Florideophyceae.public]] 
 
-### #is_/same_as :: [Florideophyceae.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.internal|Florideophyceae.internal]] 
 
-### #is_/same_as :: [Florideophyceae.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.protect|Florideophyceae.protect]] 
 
-### #is_/same_as :: [Florideophyceae.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.private|Florideophyceae.private]] 
 
-### #is_/same_as :: [Florideophyceae.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.personal|Florideophyceae.personal]] 
 
-### #is_/same_as :: [Florideophyceae.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae.secret|Florideophyceae.secret]] 
 

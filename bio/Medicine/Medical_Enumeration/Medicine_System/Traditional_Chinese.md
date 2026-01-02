@@ -42,17 +42,17 @@ A system of medicine based on common theoretical concepts that originated in Chi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traditional_Chinese](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese|Traditional_Chinese]] 
 
-### #is_/same_as :: [Traditional_Chinese.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.public|Traditional_Chinese.public]] 
 
-### #is_/same_as :: [Traditional_Chinese.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.internal|Traditional_Chinese.internal]] 
 
-### #is_/same_as :: [Traditional_Chinese.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.protect|Traditional_Chinese.protect]] 
 
-### #is_/same_as :: [Traditional_Chinese.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.private|Traditional_Chinese.private]] 
 
-### #is_/same_as :: [Traditional_Chinese.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.personal|Traditional_Chinese.personal]] 
 
-### #is_/same_as :: [Traditional_Chinese.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Traditional_Chinese.secret|Traditional_Chinese.secret]] 
 

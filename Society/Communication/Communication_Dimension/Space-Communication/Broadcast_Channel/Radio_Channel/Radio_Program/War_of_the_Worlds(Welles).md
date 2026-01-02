@@ -68,17 +68,17 @@ Commons_category: The War of the Worlds (radio drama)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles)|War_of_the_Worlds(Welles)]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).public|War_of_the_Worlds(Welles).public]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).internal|War_of_the_Worlds(Welles).internal]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).protect|War_of_the_Worlds(Welles).protect]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).private|War_of_the_Worlds(Welles).private]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).personal|War_of_the_Worlds(Welles).personal]] 
 
-### #is_/same_as :: [War_of_the_Worlds(Welles).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program/War_of_the_Worlds(Welles).secret|War_of_the_Worlds(Welles).secret]] 
 

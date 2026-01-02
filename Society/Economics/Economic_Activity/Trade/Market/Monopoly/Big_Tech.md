@@ -61,17 +61,17 @@ described_at_URL: https://www.oed.com/dictionary/big-tech_n?tab=frequency
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Tech](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech|Big_Tech]] 
 
-### #is_/same_as :: [Big_Tech.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.public|Big_Tech.public]] 
 
-### #is_/same_as :: [Big_Tech.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.internal|Big_Tech.internal]] 
 
-### #is_/same_as :: [Big_Tech.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.protect|Big_Tech.protect]] 
 
-### #is_/same_as :: [Big_Tech.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.private|Big_Tech.private]] 
 
-### #is_/same_as :: [Big_Tech.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.personal|Big_Tech.personal]] 
 
-### #is_/same_as :: [Big_Tech.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech.secret|Big_Tech.secret]] 
 

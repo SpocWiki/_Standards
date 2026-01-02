@@ -50,17 +50,17 @@ equivalent_class: http://dbpedia.org/ontology/Letter
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Letter](/_Standards/Language/Writing_System/Letter.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Letter|Letter]] 
 
-### #is_/same_as :: [Letter.public](/_public/Language/Writing_System/Letter.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Letter.public|Letter.public]] 
 
-### #is_/same_as :: [Letter.internal](/_internal/Language/Writing_System/Letter.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Letter.internal|Letter.internal]] 
 
-### #is_/same_as :: [Letter.protect](/_protect/Language/Writing_System/Letter.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Letter.protect|Letter.protect]] 
 
-### #is_/same_as :: [Letter.private](/_private/Language/Writing_System/Letter.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Letter.private|Letter.private]] 
 
-### #is_/same_as :: [Letter.personal](/_personal/Language/Writing_System/Letter.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Letter.personal|Letter.personal]] 
 
-### #is_/same_as :: [Letter.secret](/_secret/Language/Writing_System/Letter.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Letter.secret|Letter.secret]] 
 

@@ -119,17 +119,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rio_Grande](/_Standards/Earth/Continent/America~Central/Rio_Grande.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Rio_Grande|Rio_Grande]] 
 
-### #is_/same_as :: [Rio_Grande.public](/_public/Earth/Continent/America~Central/Rio_Grande.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Rio_Grande.public|Rio_Grande.public]] 
 
-### #is_/same_as :: [Rio_Grande.internal](/_internal/Earth/Continent/America~Central/Rio_Grande.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Rio_Grande.internal|Rio_Grande.internal]] 
 
-### #is_/same_as :: [Rio_Grande.protect](/_protect/Earth/Continent/America~Central/Rio_Grande.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Rio_Grande.protect|Rio_Grande.protect]] 
 
-### #is_/same_as :: [Rio_Grande.private](/_private/Earth/Continent/America~Central/Rio_Grande.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Rio_Grande.private|Rio_Grande.private]] 
 
-### #is_/same_as :: [Rio_Grande.personal](/_personal/Earth/Continent/America~Central/Rio_Grande.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Rio_Grande.personal|Rio_Grande.personal]] 
 
-### #is_/same_as :: [Rio_Grande.secret](/_secret/Earth/Continent/America~Central/Rio_Grande.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Rio_Grande.secret|Rio_Grande.secret]] 
 

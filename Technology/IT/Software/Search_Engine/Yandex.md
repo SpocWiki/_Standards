@@ -147,17 +147,17 @@ Legal_Entity_Identifier: 253400QS6NB20B1EVG74
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yandex](/_Standards/Technology/IT/Software/Search_Engine/Yandex.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Search_Engine/Yandex|Yandex]] 
 
-### #is_/same_as :: [Yandex.public](/_public/Technology/IT/Software/Search_Engine/Yandex.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Search_Engine/Yandex.public|Yandex.public]] 
 
-### #is_/same_as :: [Yandex.internal](/_internal/Technology/IT/Software/Search_Engine/Yandex.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Search_Engine/Yandex.internal|Yandex.internal]] 
 
-### #is_/same_as :: [Yandex.protect](/_protect/Technology/IT/Software/Search_Engine/Yandex.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Search_Engine/Yandex.protect|Yandex.protect]] 
 
-### #is_/same_as :: [Yandex.private](/_private/Technology/IT/Software/Search_Engine/Yandex.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Search_Engine/Yandex.private|Yandex.private]] 
 
-### #is_/same_as :: [Yandex.personal](/_personal/Technology/IT/Software/Search_Engine/Yandex.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Search_Engine/Yandex.personal|Yandex.personal]] 
 
-### #is_/same_as :: [Yandex.secret](/_secret/Technology/IT/Software/Search_Engine/Yandex.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Search_Engine/Yandex.secret|Yandex.secret]] 
 

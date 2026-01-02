@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_additional_variable](/_Standards/schema-org/Property/Texts/has_additional_variable.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_additional_variable|has_additional_variable]] 
 
-### #is_/same_as :: [has_additional_variable.public](/_public/schema-org/Property/Texts/has_additional_variable.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_additional_variable.public|has_additional_variable.public]] 
 
-### #is_/same_as :: [has_additional_variable.internal](/_internal/schema-org/Property/Texts/has_additional_variable.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_additional_variable.internal|has_additional_variable.internal]] 
 
-### #is_/same_as :: [has_additional_variable.protect](/_protect/schema-org/Property/Texts/has_additional_variable.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_additional_variable.protect|has_additional_variable.protect]] 
 
-### #is_/same_as :: [has_additional_variable.private](/_private/schema-org/Property/Texts/has_additional_variable.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_additional_variable.private|has_additional_variable.private]] 
 
-### #is_/same_as :: [has_additional_variable.personal](/_personal/schema-org/Property/Texts/has_additional_variable.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_additional_variable.personal|has_additional_variable.personal]] 
 
-### #is_/same_as :: [has_additional_variable.secret](/_secret/schema-org/Property/Texts/has_additional_variable.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_additional_variable.secret|has_additional_variable.secret]] 
 

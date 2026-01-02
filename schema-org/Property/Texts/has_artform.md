@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_artform](/_Standards/schema-org/Property/Texts/has_artform.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_artform|has_artform]] 
 
-### #is_/same_as :: [has_artform.public](/_public/schema-org/Property/Texts/has_artform.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_artform.public|has_artform.public]] 
 
-### #is_/same_as :: [has_artform.internal](/_internal/schema-org/Property/Texts/has_artform.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_artform.internal|has_artform.internal]] 
 
-### #is_/same_as :: [has_artform.protect](/_protect/schema-org/Property/Texts/has_artform.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_artform.protect|has_artform.protect]] 
 
-### #is_/same_as :: [has_artform.private](/_private/schema-org/Property/Texts/has_artform.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_artform.private|has_artform.private]] 
 
-### #is_/same_as :: [has_artform.personal](/_personal/schema-org/Property/Texts/has_artform.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_artform.personal|has_artform.personal]] 
 
-### #is_/same_as :: [has_artform.secret](/_secret/schema-org/Property/Texts/has_artform.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_artform.secret|has_artform.secret]] 
 

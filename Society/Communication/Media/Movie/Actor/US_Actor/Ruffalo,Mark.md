@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruffalo,Mark](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark|Ruffalo,Mark]] 
 
-### #is_/same_as :: [Ruffalo,Mark.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.public|Ruffalo,Mark.public]] 
 
-### #is_/same_as :: [Ruffalo,Mark.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.internal|Ruffalo,Mark.internal]] 
 
-### #is_/same_as :: [Ruffalo,Mark.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.protect|Ruffalo,Mark.protect]] 
 
-### #is_/same_as :: [Ruffalo,Mark.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.private|Ruffalo,Mark.private]] 
 
-### #is_/same_as :: [Ruffalo,Mark.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.personal|Ruffalo,Mark.personal]] 
 
-### #is_/same_as :: [Ruffalo,Mark.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Ruffalo,Mark.secret|Ruffalo,Mark.secret]] 
 

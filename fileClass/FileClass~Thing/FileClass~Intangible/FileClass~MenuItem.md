@@ -75,17 +75,17 @@ SuitableForDiet:: {"type":"Select","options":{"valuesList":{"DiabeticDiet","Glut
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MenuItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem|FileClass~MenuItem]] 
 
-### #is_/same_as :: [FileClass~MenuItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.public|FileClass~MenuItem.public]] 
 
-### #is_/same_as :: [FileClass~MenuItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.internal|FileClass~MenuItem.internal]] 
 
-### #is_/same_as :: [FileClass~MenuItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.protect|FileClass~MenuItem.protect]] 
 
-### #is_/same_as :: [FileClass~MenuItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.private|FileClass~MenuItem.private]] 
 
-### #is_/same_as :: [FileClass~MenuItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.personal|FileClass~MenuItem.personal]] 
 
-### #is_/same_as :: [FileClass~MenuItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MenuItem.secret|FileClass~MenuItem.secret]] 
 

@@ -70,17 +70,17 @@ taxon_name: Tagetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tagetes](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes|Tagetes]] 
 
-### #is_/same_as :: [Tagetes.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.public|Tagetes.public]] 
 
-### #is_/same_as :: [Tagetes.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.internal|Tagetes.internal]] 
 
-### #is_/same_as :: [Tagetes.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.protect|Tagetes.protect]] 
 
-### #is_/same_as :: [Tagetes.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.private|Tagetes.private]] 
 
-### #is_/same_as :: [Tagetes.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.personal|Tagetes.personal]] 
 
-### #is_/same_as :: [Tagetes.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Tagetes.secret|Tagetes.secret]] 
 

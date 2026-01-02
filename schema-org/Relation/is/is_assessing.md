@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_assessing](/_Standards/schema-org/Relation/is/is_assessing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_assessing|is_assessing]] 
 
-### #is_/same_as :: [is_assessing.public](/_public/schema-org/Relation/is/is_assessing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_assessing.public|is_assessing.public]] 
 
-### #is_/same_as :: [is_assessing.internal](/_internal/schema-org/Relation/is/is_assessing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_assessing.internal|is_assessing.internal]] 
 
-### #is_/same_as :: [is_assessing.protect](/_protect/schema-org/Relation/is/is_assessing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_assessing.protect|is_assessing.protect]] 
 
-### #is_/same_as :: [is_assessing.private](/_private/schema-org/Relation/is/is_assessing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_assessing.private|is_assessing.private]] 
 
-### #is_/same_as :: [is_assessing.personal](/_personal/schema-org/Relation/is/is_assessing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_assessing.personal|is_assessing.personal]] 
 
-### #is_/same_as :: [is_assessing.secret](/_secret/schema-org/Relation/is/is_assessing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_assessing.secret|is_assessing.secret]] 
 

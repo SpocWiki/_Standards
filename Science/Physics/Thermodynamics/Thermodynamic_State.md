@@ -30,17 +30,17 @@ has_characteristic: "[[_Standards/WikiData/WD~thermodynamic_equilibrium,51363]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermodynamic_State](/_Standards/Science/Physics/Thermodynamics/Thermodynamic_State.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Thermodynamic_State|Thermodynamic_State]] 
 
-### #is_/same_as :: [Thermodynamic_State.public](/_public/Science/Physics/Thermodynamics/Thermodynamic_State.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Thermodynamic_State.public|Thermodynamic_State.public]] 
 
-### #is_/same_as :: [Thermodynamic_State.internal](/_internal/Science/Physics/Thermodynamics/Thermodynamic_State.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Thermodynamic_State.internal|Thermodynamic_State.internal]] 
 
-### #is_/same_as :: [Thermodynamic_State.protect](/_protect/Science/Physics/Thermodynamics/Thermodynamic_State.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Thermodynamic_State.protect|Thermodynamic_State.protect]] 
 
-### #is_/same_as :: [Thermodynamic_State.private](/_private/Science/Physics/Thermodynamics/Thermodynamic_State.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Thermodynamic_State.private|Thermodynamic_State.private]] 
 
-### #is_/same_as :: [Thermodynamic_State.personal](/_personal/Science/Physics/Thermodynamics/Thermodynamic_State.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Thermodynamic_State.personal|Thermodynamic_State.personal]] 
 
-### #is_/same_as :: [Thermodynamic_State.secret](/_secret/Science/Physics/Thermodynamics/Thermodynamic_State.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Thermodynamic_State.secret|Thermodynamic_State.secret]] 
 

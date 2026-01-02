@@ -103,17 +103,17 @@ UNII: Q74S4N8N1G
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radon](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon|Radon]] 
 
-### #is_/same_as :: [Radon.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public|Radon.public]] 
 
-### #is_/same_as :: [Radon.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal|Radon.internal]] 
 
-### #is_/same_as :: [Radon.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.protect|Radon.protect]] 
 
-### #is_/same_as :: [Radon.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.private|Radon.private]] 
 
-### #is_/same_as :: [Radon.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.personal|Radon.personal]] 
 
-### #is_/same_as :: [Radon.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret|Radon.secret]] 
 

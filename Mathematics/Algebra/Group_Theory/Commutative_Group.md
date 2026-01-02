@@ -61,17 +61,17 @@ Dewey_Decimal_Classification: "512.25"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutative_Group](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Group.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Group|Commutative_Group]] 
 
-### #is_/same_as :: [Commutative_Group.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Group.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Commutative_Group.public|Commutative_Group.public]] 
 
-### #is_/same_as :: [Commutative_Group.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Commutative_Group.internal|Commutative_Group.internal]] 
 
-### #is_/same_as :: [Commutative_Group.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Commutative_Group.protect|Commutative_Group.protect]] 
 
-### #is_/same_as :: [Commutative_Group.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Group.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Commutative_Group.private|Commutative_Group.private]] 
 
-### #is_/same_as :: [Commutative_Group.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Commutative_Group.personal|Commutative_Group.personal]] 
 
-### #is_/same_as :: [Commutative_Group.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Group.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Commutative_Group.secret|Commutative_Group.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_dissolution](/_Standards/schema-org/Property/has_Date_Time/has_time_of_dissolution.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_dissolution|has_time_of_dissolution]] 
 
-### #is_/same_as :: [has_time_of_dissolution.public](/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_dissolution.public|has_time_of_dissolution.public]] 
 
-### #is_/same_as :: [has_time_of_dissolution.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_dissolution.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_dissolution.internal|has_time_of_dissolution.internal]] 
 
-### #is_/same_as :: [has_time_of_dissolution.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_dissolution.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_dissolution.protect|has_time_of_dissolution.protect]] 
 
-### #is_/same_as :: [has_time_of_dissolution.private](/_private/schema-org/Property/has_Date_Time/has_time_of_dissolution.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_dissolution.private|has_time_of_dissolution.private]] 
 
-### #is_/same_as :: [has_time_of_dissolution.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_dissolution.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_dissolution.personal|has_time_of_dissolution.personal]] 
 
-### #is_/same_as :: [has_time_of_dissolution.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_dissolution.secret|has_time_of_dissolution.secret]] 
 

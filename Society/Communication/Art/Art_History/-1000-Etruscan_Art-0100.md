@@ -66,17 +66,17 @@ Commons_category: Etruscan art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100](/_Standards/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100|-1000-Etruscan_Art-0100]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.public](/_public/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.public|-1000-Etruscan_Art-0100.public]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.internal](/_internal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.internal|-1000-Etruscan_Art-0100.internal]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.protect](/_protect/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.protect|-1000-Etruscan_Art-0100.protect]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.private](/_private/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.private|-1000-Etruscan_Art-0100.private]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.personal](/_personal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.personal|-1000-Etruscan_Art-0100.personal]] 
 
-### #is_/same_as :: [-1000-Etruscan_Art-0100.secret](/_secret/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/-1000-Etruscan_Art-0100.secret|-1000-Etruscan_Art-0100.secret]] 
 

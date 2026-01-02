@@ -84,17 +84,17 @@ sowie an den Frankfurter Stadtteil [Praunheim](https://de.wikipedia.org/wiki/Fr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Praunheim,Rosa_von](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von|Praunheim,Rosa_von]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.public|Praunheim,Rosa_von.public]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.internal|Praunheim,Rosa_von.internal]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.protect|Praunheim,Rosa_von.protect]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.private|Praunheim,Rosa_von.private]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.personal|Praunheim,Rosa_von.personal]] 
 
-### #is_/same_as :: [Praunheim,Rosa_von.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Praunheim,Rosa_von.secret|Praunheim,Rosa_von.secret]] 
 

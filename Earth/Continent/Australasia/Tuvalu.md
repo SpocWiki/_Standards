@@ -360,17 +360,17 @@ Capital :: [[Funafuti]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuvalu](/_Standards/Earth/Continent/Australasia/Tuvalu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Tuvalu|Tuvalu]] 
 
-### #is_/same_as :: [Tuvalu.public](/_public/Earth/Continent/Australasia/Tuvalu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Tuvalu.public|Tuvalu.public]] 
 
-### #is_/same_as :: [Tuvalu.internal](/_internal/Earth/Continent/Australasia/Tuvalu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Tuvalu.internal|Tuvalu.internal]] 
 
-### #is_/same_as :: [Tuvalu.protect](/_protect/Earth/Continent/Australasia/Tuvalu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Tuvalu.protect|Tuvalu.protect]] 
 
-### #is_/same_as :: [Tuvalu.private](/_private/Earth/Continent/Australasia/Tuvalu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Tuvalu.private|Tuvalu.private]] 
 
-### #is_/same_as :: [Tuvalu.personal](/_personal/Earth/Continent/Australasia/Tuvalu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Tuvalu.personal|Tuvalu.personal]] 
 
-### #is_/same_as :: [Tuvalu.secret](/_secret/Earth/Continent/Australasia/Tuvalu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Tuvalu.secret|Tuvalu.secret]] 
 

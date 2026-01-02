@@ -46,17 +46,17 @@ Commons_category: Holism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holism](/_Standards/Philosophy/Holism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Holism|Holism]] 
 
-### #is_/same_as :: [Holism.public](/_public/Philosophy/Holism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Holism.public|Holism.public]] 
 
-### #is_/same_as :: [Holism.internal](/_internal/Philosophy/Holism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Holism.internal|Holism.internal]] 
 
-### #is_/same_as :: [Holism.protect](/_protect/Philosophy/Holism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Holism.protect|Holism.protect]] 
 
-### #is_/same_as :: [Holism.private](/_private/Philosophy/Holism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Holism.private|Holism.private]] 
 
-### #is_/same_as :: [Holism.personal](/_personal/Philosophy/Holism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Holism.personal|Holism.personal]] 
 
-### #is_/same_as :: [Holism.secret](/_secret/Philosophy/Holism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Holism.secret|Holism.secret]] 
 

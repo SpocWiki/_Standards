@@ -59,17 +59,17 @@ studied_in:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reality](/_Standards/Philosophy/Metaphysic/Reality.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Reality|Reality]] 
 
-### #is_/same_as :: [Reality.public](/_public/Philosophy/Metaphysic/Reality.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Reality.public|Reality.public]] 
 
-### #is_/same_as :: [Reality.internal](/_internal/Philosophy/Metaphysic/Reality.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Reality.internal|Reality.internal]] 
 
-### #is_/same_as :: [Reality.protect](/_protect/Philosophy/Metaphysic/Reality.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Reality.protect|Reality.protect]] 
 
-### #is_/same_as :: [Reality.private](/_private/Philosophy/Metaphysic/Reality.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Reality.private|Reality.private]] 
 
-### #is_/same_as :: [Reality.personal](/_personal/Philosophy/Metaphysic/Reality.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Reality.personal|Reality.personal]] 
 
-### #is_/same_as :: [Reality.secret](/_secret/Philosophy/Metaphysic/Reality.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Reality.secret|Reality.secret]] 
 

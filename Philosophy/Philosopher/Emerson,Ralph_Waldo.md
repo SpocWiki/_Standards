@@ -156,17 +156,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/EMERSON_RALF_UOLDO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo](/_Standards/Philosophy/Philosopher/Emerson,Ralph_Waldo.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Emerson,Ralph_Waldo|Emerson,Ralph_Waldo]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.public](/_public/Philosophy/Philosopher/Emerson,Ralph_Waldo.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Emerson,Ralph_Waldo.public|Emerson,Ralph_Waldo.public]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.internal](/_internal/Philosophy/Philosopher/Emerson,Ralph_Waldo.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Emerson,Ralph_Waldo.internal|Emerson,Ralph_Waldo.internal]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.protect](/_protect/Philosophy/Philosopher/Emerson,Ralph_Waldo.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Emerson,Ralph_Waldo.protect|Emerson,Ralph_Waldo.protect]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.private](/_private/Philosophy/Philosopher/Emerson,Ralph_Waldo.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Emerson,Ralph_Waldo.private|Emerson,Ralph_Waldo.private]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.personal](/_personal/Philosophy/Philosopher/Emerson,Ralph_Waldo.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Emerson,Ralph_Waldo.personal|Emerson,Ralph_Waldo.personal]] 
 
-### #is_/same_as :: [Emerson,Ralph_Waldo.secret](/_secret/Philosophy/Philosopher/Emerson,Ralph_Waldo.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Emerson,Ralph_Waldo.secret|Emerson,Ralph_Waldo.secret]] 
 

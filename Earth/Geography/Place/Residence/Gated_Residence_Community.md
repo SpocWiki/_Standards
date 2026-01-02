@@ -41,17 +41,17 @@ Residence type: Gated community.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gated_Residence_Community](/_Standards/Earth/Geography/Place/Residence/Gated_Residence_Community.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Residence/Gated_Residence_Community|Gated_Residence_Community]] 
 
-### #is_/same_as :: [Gated_Residence_Community.public](/_public/Earth/Geography/Place/Residence/Gated_Residence_Community.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Residence/Gated_Residence_Community.public|Gated_Residence_Community.public]] 
 
-### #is_/same_as :: [Gated_Residence_Community.internal](/_internal/Earth/Geography/Place/Residence/Gated_Residence_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Residence/Gated_Residence_Community.internal|Gated_Residence_Community.internal]] 
 
-### #is_/same_as :: [Gated_Residence_Community.protect](/_protect/Earth/Geography/Place/Residence/Gated_Residence_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Residence/Gated_Residence_Community.protect|Gated_Residence_Community.protect]] 
 
-### #is_/same_as :: [Gated_Residence_Community.private](/_private/Earth/Geography/Place/Residence/Gated_Residence_Community.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Residence/Gated_Residence_Community.private|Gated_Residence_Community.private]] 
 
-### #is_/same_as :: [Gated_Residence_Community.personal](/_personal/Earth/Geography/Place/Residence/Gated_Residence_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Residence/Gated_Residence_Community.personal|Gated_Residence_Community.personal]] 
 
-### #is_/same_as :: [Gated_Residence_Community.secret](/_secret/Earth/Geography/Place/Residence/Gated_Residence_Community.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Residence/Gated_Residence_Community.secret|Gated_Residence_Community.secret]] 
 

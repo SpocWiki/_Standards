@@ -66,17 +66,17 @@ UMLS_CUI: C0038126
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stainless_Steel](/_Standards/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel|Stainless_Steel]] 
 
-### #is_/same_as :: [Stainless_Steel.public](/_public/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.public|Stainless_Steel.public]] 
 
-### #is_/same_as :: [Stainless_Steel.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.internal|Stainless_Steel.internal]] 
 
-### #is_/same_as :: [Stainless_Steel.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.protect|Stainless_Steel.protect]] 
 
-### #is_/same_as :: [Stainless_Steel.private](/_private/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.private|Stainless_Steel.private]] 
 
-### #is_/same_as :: [Stainless_Steel.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.personal|Stainless_Steel.personal]] 
 
-### #is_/same_as :: [Stainless_Steel.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Alloy/Stainless_Steel.secret|Stainless_Steel.secret]] 
 

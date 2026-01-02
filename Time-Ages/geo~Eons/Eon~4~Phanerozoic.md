@@ -127,17 +127,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eon~4~Phanerozoic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic|Eon~4~Phanerozoic]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic.public|Eon~4~Phanerozoic.public]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.internal|Eon~4~Phanerozoic.internal]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic.protect|Eon~4~Phanerozoic.protect]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic.private|Eon~4~Phanerozoic.private]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic.personal|Eon~4~Phanerozoic.personal]] 
 
-### #is_/same_as :: [Eon~4~Phanerozoic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic.secret|Eon~4~Phanerozoic.secret]] 
 

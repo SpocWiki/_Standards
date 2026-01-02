@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_web_feed](/_Standards/schema-org/Relation/has/has_web_feed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_web_feed|has_web_feed]] 
 
-### #is_/same_as :: [has_web_feed.public](/_public/schema-org/Relation/has/has_web_feed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_web_feed.public|has_web_feed.public]] 
 
-### #is_/same_as :: [has_web_feed.internal](/_internal/schema-org/Relation/has/has_web_feed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_web_feed.internal|has_web_feed.internal]] 
 
-### #is_/same_as :: [has_web_feed.protect](/_protect/schema-org/Relation/has/has_web_feed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_web_feed.protect|has_web_feed.protect]] 
 
-### #is_/same_as :: [has_web_feed.private](/_private/schema-org/Relation/has/has_web_feed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_web_feed.private|has_web_feed.private]] 
 
-### #is_/same_as :: [has_web_feed.personal](/_personal/schema-org/Relation/has/has_web_feed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_web_feed.personal|has_web_feed.personal]] 
 
-### #is_/same_as :: [has_web_feed.secret](/_secret/schema-org/Relation/has/has_web_feed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_web_feed.secret|has_web_feed.secret]] 
 

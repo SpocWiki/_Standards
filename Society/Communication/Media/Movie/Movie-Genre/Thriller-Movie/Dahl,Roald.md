@@ -157,17 +157,17 @@ date_of_birth: 1916-09-13T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dahl,Roald](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald|Dahl,Roald]] 
 
-### #is_/same_as :: [Dahl,Roald.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.public|Dahl,Roald.public]] 
 
-### #is_/same_as :: [Dahl,Roald.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.internal|Dahl,Roald.internal]] 
 
-### #is_/same_as :: [Dahl,Roald.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.protect|Dahl,Roald.protect]] 
 
-### #is_/same_as :: [Dahl,Roald.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.private|Dahl,Roald.private]] 
 
-### #is_/same_as :: [Dahl,Roald.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.personal|Dahl,Roald.personal]] 
 
-### #is_/same_as :: [Dahl,Roald.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Dahl,Roald.secret|Dahl,Roald.secret]] 
 

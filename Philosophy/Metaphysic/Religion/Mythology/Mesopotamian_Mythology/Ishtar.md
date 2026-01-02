@@ -91,17 +91,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ishtar](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar|Ishtar]] 
 
-### #is_/same_as :: [Ishtar.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.public|Ishtar.public]] 
 
-### #is_/same_as :: [Ishtar.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.internal|Ishtar.internal]] 
 
-### #is_/same_as :: [Ishtar.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.protect|Ishtar.protect]] 
 
-### #is_/same_as :: [Ishtar.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.private|Ishtar.private]] 
 
-### #is_/same_as :: [Ishtar.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.personal|Ishtar.personal]] 
 
-### #is_/same_as :: [Ishtar.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mesopotamian_Mythology/Ishtar.secret|Ishtar.secret]] 
 

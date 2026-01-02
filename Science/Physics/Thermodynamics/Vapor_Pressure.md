@@ -39,17 +39,17 @@ MeSH_tree_code: G01.374.715.951
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vapor_Pressure](/_Standards/Science/Physics/Thermodynamics/Vapor_Pressure.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Vapor_Pressure|Vapor_Pressure]] 
 
-### #is_/same_as :: [Vapor_Pressure.public](/_public/Science/Physics/Thermodynamics/Vapor_Pressure.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Vapor_Pressure.public|Vapor_Pressure.public]] 
 
-### #is_/same_as :: [Vapor_Pressure.internal](/_internal/Science/Physics/Thermodynamics/Vapor_Pressure.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Vapor_Pressure.internal|Vapor_Pressure.internal]] 
 
-### #is_/same_as :: [Vapor_Pressure.protect](/_protect/Science/Physics/Thermodynamics/Vapor_Pressure.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Vapor_Pressure.protect|Vapor_Pressure.protect]] 
 
-### #is_/same_as :: [Vapor_Pressure.private](/_private/Science/Physics/Thermodynamics/Vapor_Pressure.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Vapor_Pressure.private|Vapor_Pressure.private]] 
 
-### #is_/same_as :: [Vapor_Pressure.personal](/_personal/Science/Physics/Thermodynamics/Vapor_Pressure.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Vapor_Pressure.personal|Vapor_Pressure.personal]] 
 
-### #is_/same_as :: [Vapor_Pressure.secret](/_secret/Science/Physics/Thermodynamics/Vapor_Pressure.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Vapor_Pressure.secret|Vapor_Pressure.secret]] 
 

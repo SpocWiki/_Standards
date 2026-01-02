@@ -109,17 +109,17 @@ IPTC_NewsCode: mediatopic/20000110
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Judge](/_Standards/Society/Law/Judiciary/Court/Judge.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Judge|Judge]] 
 
-### #is_/same_as :: [Judge.public](/_public/Society/Law/Judiciary/Court/Judge.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Judge.public|Judge.public]] 
 
-### #is_/same_as :: [Judge.internal](/_internal/Society/Law/Judiciary/Court/Judge.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Judge.internal|Judge.internal]] 
 
-### #is_/same_as :: [Judge.protect](/_protect/Society/Law/Judiciary/Court/Judge.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Judge.protect|Judge.protect]] 
 
-### #is_/same_as :: [Judge.private](/_private/Society/Law/Judiciary/Court/Judge.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Judge.private|Judge.private]] 
 
-### #is_/same_as :: [Judge.personal](/_personal/Society/Law/Judiciary/Court/Judge.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Judge.personal|Judge.personal]] 
 
-### #is_/same_as :: [Judge.secret](/_secret/Society/Law/Judiciary/Court/Judge.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Judge.secret|Judge.secret]] 
 

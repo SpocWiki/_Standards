@@ -27,17 +27,17 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_CountryState-Template](/_Standards/Earth/Continent/_CountryState-Template.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_CountryState-Template|_CountryState-Template]] 
 
-### #is_/same_as :: [_CountryState-Template.public](/_public/Earth/Continent/_CountryState-Template.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_CountryState-Template.public|_CountryState-Template.public]] 
 
-### #is_/same_as :: [_CountryState-Template.internal](/_internal/Earth/Continent/_CountryState-Template.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_CountryState-Template.internal|_CountryState-Template.internal]] 
 
-### #is_/same_as :: [_CountryState-Template.protect](/_protect/Earth/Continent/_CountryState-Template.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_CountryState-Template.protect|_CountryState-Template.protect]] 
 
-### #is_/same_as :: [_CountryState-Template.private](/_private/Earth/Continent/_CountryState-Template.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_CountryState-Template.private|_CountryState-Template.private]] 
 
-### #is_/same_as :: [_CountryState-Template.personal](/_personal/Earth/Continent/_CountryState-Template.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_CountryState-Template.personal|_CountryState-Template.personal]] 
 
-### #is_/same_as :: [_CountryState-Template.secret](/_secret/Earth/Continent/_CountryState-Template.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_CountryState-Template.secret|_CountryState-Template.secret]] 
 

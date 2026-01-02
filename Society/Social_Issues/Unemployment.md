@@ -98,17 +98,17 @@ IMDb_keyword: unemployment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unemployment](/_Standards/Society/Social_Issues/Unemployment.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Unemployment|Unemployment]] 
 
-### #is_/same_as :: [Unemployment.public](/_public/Society/Social_Issues/Unemployment.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Unemployment.public|Unemployment.public]] 
 
-### #is_/same_as :: [Unemployment.internal](/_internal/Society/Social_Issues/Unemployment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Unemployment.internal|Unemployment.internal]] 
 
-### #is_/same_as :: [Unemployment.protect](/_protect/Society/Social_Issues/Unemployment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Unemployment.protect|Unemployment.protect]] 
 
-### #is_/same_as :: [Unemployment.private](/_private/Society/Social_Issues/Unemployment.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Unemployment.private|Unemployment.private]] 
 
-### #is_/same_as :: [Unemployment.personal](/_personal/Society/Social_Issues/Unemployment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Unemployment.personal|Unemployment.personal]] 
 
-### #is_/same_as :: [Unemployment.secret](/_secret/Society/Social_Issues/Unemployment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Unemployment.secret|Unemployment.secret]] 
 

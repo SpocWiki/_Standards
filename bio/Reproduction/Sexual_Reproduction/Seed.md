@@ -77,17 +77,17 @@ Krugosvet_article: biologiya/semya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seed](/_Standards/bio/Reproduction/Sexual_Reproduction/Seed.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Seed|Seed]] 
 
-### #is_/same_as :: [Seed.public](/_public/bio/Reproduction/Sexual_Reproduction/Seed.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Seed.public|Seed.public]] 
 
-### #is_/same_as :: [Seed.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Seed.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Seed.internal|Seed.internal]] 
 
-### #is_/same_as :: [Seed.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Seed.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Seed.protect|Seed.protect]] 
 
-### #is_/same_as :: [Seed.private](/_private/bio/Reproduction/Sexual_Reproduction/Seed.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Seed.private|Seed.private]] 
 
-### #is_/same_as :: [Seed.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Seed.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Seed.personal|Seed.personal]] 
 
-### #is_/same_as :: [Seed.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Seed.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Seed.secret|Seed.secret]] 
 

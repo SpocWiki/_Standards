@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Majorana-Fermion](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion|Majorana-Fermion]] 
 
-### #is_/same_as :: [Majorana-Fermion.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.public|Majorana-Fermion.public]] 
 
-### #is_/same_as :: [Majorana-Fermion.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.internal|Majorana-Fermion.internal]] 
 
-### #is_/same_as :: [Majorana-Fermion.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.protect|Majorana-Fermion.protect]] 
 
-### #is_/same_as :: [Majorana-Fermion.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.private|Majorana-Fermion.private]] 
 
-### #is_/same_as :: [Majorana-Fermion.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.personal|Majorana-Fermion.personal]] 
 
-### #is_/same_as :: [Majorana-Fermion.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Majorana-Fermion.secret|Majorana-Fermion.secret]] 
 

@@ -46,17 +46,17 @@ Commons_category: Abrahamic religions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abrahamic_Religion](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion|Abrahamic_Religion]] 
 
-### #is_/same_as :: [Abrahamic_Religion.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion.public|Abrahamic_Religion.public]] 
 
-### #is_/same_as :: [Abrahamic_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion.internal|Abrahamic_Religion.internal]] 
 
-### #is_/same_as :: [Abrahamic_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion.protect|Abrahamic_Religion.protect]] 
 
-### #is_/same_as :: [Abrahamic_Religion.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion.private|Abrahamic_Religion.private]] 
 
-### #is_/same_as :: [Abrahamic_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion.personal|Abrahamic_Religion.personal]] 
 
-### #is_/same_as :: [Abrahamic_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion.secret|Abrahamic_Religion.secret]] 
 

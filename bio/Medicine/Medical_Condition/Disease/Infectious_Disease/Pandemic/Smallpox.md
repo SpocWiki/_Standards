@@ -153,17 +153,17 @@ Commons_category: Smallpox
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smallpox](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox|Smallpox]] 
 
-### #is_/same_as :: [Smallpox.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.public|Smallpox.public]] 
 
-### #is_/same_as :: [Smallpox.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.internal|Smallpox.internal]] 
 
-### #is_/same_as :: [Smallpox.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.protect|Smallpox.protect]] 
 
-### #is_/same_as :: [Smallpox.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.private|Smallpox.private]] 
 
-### #is_/same_as :: [Smallpox.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.personal|Smallpox.personal]] 
 
-### #is_/same_as :: [Smallpox.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Smallpox.secret|Smallpox.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_size_system](/_Standards/schema-org/Relation/has/has_size_system.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_size_system|has_size_system]] 
 
-### #is_/same_as :: [has_size_system.public](/_public/schema-org/Relation/has/has_size_system.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_size_system.public|has_size_system.public]] 
 
-### #is_/same_as :: [has_size_system.internal](/_internal/schema-org/Relation/has/has_size_system.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_size_system.internal|has_size_system.internal]] 
 
-### #is_/same_as :: [has_size_system.protect](/_protect/schema-org/Relation/has/has_size_system.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_size_system.protect|has_size_system.protect]] 
 
-### #is_/same_as :: [has_size_system.private](/_private/schema-org/Relation/has/has_size_system.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_size_system.private|has_size_system.private]] 
 
-### #is_/same_as :: [has_size_system.personal](/_personal/schema-org/Relation/has/has_size_system.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_size_system.personal|has_size_system.personal]] 
 
-### #is_/same_as :: [has_size_system.secret](/_secret/schema-org/Relation/has/has_size_system.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_size_system.secret|has_size_system.secret]] 
 

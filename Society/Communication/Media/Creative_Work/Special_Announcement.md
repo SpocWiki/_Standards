@@ -121,17 +121,17 @@ e.g. "application/rss+xml" or "application/atom+xml".
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Special_Announcement](/_Standards/Society/Communication/Media/Creative_Work/Special_Announcement.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Special_Announcement|Special_Announcement]] 
 
-### #is_/same_as :: [Special_Announcement.public](/_public/Society/Communication/Media/Creative_Work/Special_Announcement.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Special_Announcement.public|Special_Announcement.public]] 
 
-### #is_/same_as :: [Special_Announcement.internal](/_internal/Society/Communication/Media/Creative_Work/Special_Announcement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Special_Announcement.internal|Special_Announcement.internal]] 
 
-### #is_/same_as :: [Special_Announcement.protect](/_protect/Society/Communication/Media/Creative_Work/Special_Announcement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Special_Announcement.protect|Special_Announcement.protect]] 
 
-### #is_/same_as :: [Special_Announcement.private](/_private/Society/Communication/Media/Creative_Work/Special_Announcement.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Special_Announcement.private|Special_Announcement.private]] 
 
-### #is_/same_as :: [Special_Announcement.personal](/_personal/Society/Communication/Media/Creative_Work/Special_Announcement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Special_Announcement.personal|Special_Announcement.personal]] 
 
-### #is_/same_as :: [Special_Announcement.secret](/_secret/Society/Communication/Media/Creative_Work/Special_Announcement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Special_Announcement.secret|Special_Announcement.secret]] 
 

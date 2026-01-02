@@ -54,17 +54,17 @@ OpenStreetMap_tag_or_key: Tag:sport=darts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darts](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts|Darts]] 
 
-### #is_/same_as :: [Darts.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.public|Darts.public]] 
 
-### #is_/same_as :: [Darts.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.internal|Darts.internal]] 
 
-### #is_/same_as :: [Darts.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.protect|Darts.protect]] 
 
-### #is_/same_as :: [Darts.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.private|Darts.private]] 
 
-### #is_/same_as :: [Darts.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.personal|Darts.personal]] 
 
-### #is_/same_as :: [Darts.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Darts.secret|Darts.secret]] 
 

@@ -140,17 +140,17 @@ copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber](/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber|Dream_of_the_Red_Chamber]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.public](/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.public|Dream_of_the_Red_Chamber.public]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.internal|Dream_of_the_Red_Chamber.internal]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.protect|Dream_of_the_Red_Chamber.protect]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.private](/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.private|Dream_of_the_Red_Chamber.private]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.personal|Dream_of_the_Red_Chamber.personal]] 
 
-### #is_/same_as :: [Dream_of_the_Red_Chamber.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Chinese_Literature/Dream_of_the_Red_Chamber.secret|Dream_of_the_Red_Chamber.secret]] 
 

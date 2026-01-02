@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heidi_(Anime)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime)|Heidi_(Anime)]] 
 
-### #is_/same_as :: [Heidi_(Anime).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).public|Heidi_(Anime).public]] 
 
-### #is_/same_as :: [Heidi_(Anime).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).internal|Heidi_(Anime).internal]] 
 
-### #is_/same_as :: [Heidi_(Anime).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).protect|Heidi_(Anime).protect]] 
 
-### #is_/same_as :: [Heidi_(Anime).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).private|Heidi_(Anime).private]] 
 
-### #is_/same_as :: [Heidi_(Anime).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).personal|Heidi_(Anime).personal]] 
 
-### #is_/same_as :: [Heidi_(Anime).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Heidi_(Anime).secret|Heidi_(Anime).secret]] 
 

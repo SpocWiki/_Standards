@@ -63,17 +63,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lee,Christopher](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher|Lee,Christopher]] 
 
-### #is_/same_as :: [Lee,Christopher.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.public|Lee,Christopher.public]] 
 
-### #is_/same_as :: [Lee,Christopher.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.internal|Lee,Christopher.internal]] 
 
-### #is_/same_as :: [Lee,Christopher.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.protect|Lee,Christopher.protect]] 
 
-### #is_/same_as :: [Lee,Christopher.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.private|Lee,Christopher.private]] 
 
-### #is_/same_as :: [Lee,Christopher.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.personal|Lee,Christopher.personal]] 
 
-### #is_/same_as :: [Lee,Christopher.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Lee,Christopher.secret|Lee,Christopher.secret]] 
 

@@ -62,17 +62,17 @@ Commons_category: Climatology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Climatology](/_Standards/Earth/Climate/Climatology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Climatology|Climatology]] 
 
-### #is_/same_as :: [Climatology.public](/_public/Earth/Climate/Climatology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Climatology.public|Climatology.public]] 
 
-### #is_/same_as :: [Climatology.internal](/_internal/Earth/Climate/Climatology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Climatology.internal|Climatology.internal]] 
 
-### #is_/same_as :: [Climatology.protect](/_protect/Earth/Climate/Climatology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Climatology.protect|Climatology.protect]] 
 
-### #is_/same_as :: [Climatology.private](/_private/Earth/Climate/Climatology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Climatology.private|Climatology.private]] 
 
-### #is_/same_as :: [Climatology.personal](/_personal/Earth/Climate/Climatology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Climatology.personal|Climatology.personal]] 
 
-### #is_/same_as :: [Climatology.secret](/_secret/Earth/Climate/Climatology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Climatology.secret|Climatology.secret]] 
 

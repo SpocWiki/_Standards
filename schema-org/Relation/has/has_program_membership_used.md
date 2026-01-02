@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_program_membership_used](/_Standards/schema-org/Relation/has/has_program_membership_used.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_program_membership_used|has_program_membership_used]] 
 
-### #is_/same_as :: [has_program_membership_used.public](/_public/schema-org/Relation/has/has_program_membership_used.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_program_membership_used.public|has_program_membership_used.public]] 
 
-### #is_/same_as :: [has_program_membership_used.internal](/_internal/schema-org/Relation/has/has_program_membership_used.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_program_membership_used.internal|has_program_membership_used.internal]] 
 
-### #is_/same_as :: [has_program_membership_used.protect](/_protect/schema-org/Relation/has/has_program_membership_used.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_program_membership_used.protect|has_program_membership_used.protect]] 
 
-### #is_/same_as :: [has_program_membership_used.private](/_private/schema-org/Relation/has/has_program_membership_used.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_program_membership_used.private|has_program_membership_used.private]] 
 
-### #is_/same_as :: [has_program_membership_used.personal](/_personal/schema-org/Relation/has/has_program_membership_used.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_program_membership_used.personal|has_program_membership_used.personal]] 
 
-### #is_/same_as :: [has_program_membership_used.secret](/_secret/schema-org/Relation/has/has_program_membership_used.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_program_membership_used.secret|has_program_membership_used.secret]] 
 

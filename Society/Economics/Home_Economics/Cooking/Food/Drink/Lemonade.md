@@ -43,17 +43,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Lemonade"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lemonade](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade|Lemonade]] 
 
-### #is_/same_as :: [Lemonade.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.public|Lemonade.public]] 
 
-### #is_/same_as :: [Lemonade.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.internal|Lemonade.internal]] 
 
-### #is_/same_as :: [Lemonade.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.protect|Lemonade.protect]] 
 
-### #is_/same_as :: [Lemonade.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.private|Lemonade.private]] 
 
-### #is_/same_as :: [Lemonade.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.personal|Lemonade.personal]] 
 
-### #is_/same_as :: [Lemonade.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Lemonade.secret|Lemonade.secret]] 
 

@@ -42,17 +42,17 @@ Commons_category: Heliocentric model
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heliocentrism](/_Standards/Astronomy/Astrometry/Heliocentrism.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Heliocentrism|Heliocentrism]] 
 
-### #is_/same_as :: [Heliocentrism.public](/_public/Astronomy/Astrometry/Heliocentrism.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Heliocentrism.public|Heliocentrism.public]] 
 
-### #is_/same_as :: [Heliocentrism.internal](/_internal/Astronomy/Astrometry/Heliocentrism.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Heliocentrism.internal|Heliocentrism.internal]] 
 
-### #is_/same_as :: [Heliocentrism.protect](/_protect/Astronomy/Astrometry/Heliocentrism.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Heliocentrism.protect|Heliocentrism.protect]] 
 
-### #is_/same_as :: [Heliocentrism.private](/_private/Astronomy/Astrometry/Heliocentrism.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Heliocentrism.private|Heliocentrism.private]] 
 
-### #is_/same_as :: [Heliocentrism.personal](/_personal/Astronomy/Astrometry/Heliocentrism.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Heliocentrism.personal|Heliocentrism.personal]] 
 
-### #is_/same_as :: [Heliocentrism.secret](/_secret/Astronomy/Astrometry/Heliocentrism.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Heliocentrism.secret|Heliocentrism.secret]] 
 

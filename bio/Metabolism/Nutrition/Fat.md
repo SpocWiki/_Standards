@@ -62,17 +62,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fat](/_Standards/bio/Metabolism/Nutrition/Fat.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat|Fat]] 
 
-### #is_/same_as :: [Fat.public](/_public/bio/Metabolism/Nutrition/Fat.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat.public|Fat.public]] 
 
-### #is_/same_as :: [Fat.internal](/_internal/bio/Metabolism/Nutrition/Fat.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat.internal|Fat.internal]] 
 
-### #is_/same_as :: [Fat.protect](/_protect/bio/Metabolism/Nutrition/Fat.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat.protect|Fat.protect]] 
 
-### #is_/same_as :: [Fat.private](/_private/bio/Metabolism/Nutrition/Fat.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat.private|Fat.private]] 
 
-### #is_/same_as :: [Fat.personal](/_personal/bio/Metabolism/Nutrition/Fat.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat.personal|Fat.personal]] 
 
-### #is_/same_as :: [Fat.secret](/_secret/bio/Metabolism/Nutrition/Fat.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat.secret|Fat.secret]] 
 

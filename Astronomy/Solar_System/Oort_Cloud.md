@@ -64,17 +64,17 @@ Commons_category: Oort cloud
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oort_Cloud](/_Standards/Astronomy/Solar_System/Oort_Cloud.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]] 
 
-### #is_/same_as :: [Oort_Cloud.public](/_public/Astronomy/Solar_System/Oort_Cloud.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]] 
 
-### #is_/same_as :: [Oort_Cloud.internal](/_internal/Astronomy/Solar_System/Oort_Cloud.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]] 
 
-### #is_/same_as :: [Oort_Cloud.protect](/_protect/Astronomy/Solar_System/Oort_Cloud.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Oort_Cloud.protect|Oort_Cloud.protect]] 
 
-### #is_/same_as :: [Oort_Cloud.private](/_private/Astronomy/Solar_System/Oort_Cloud.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Oort_Cloud.private|Oort_Cloud.private]] 
 
-### #is_/same_as :: [Oort_Cloud.personal](/_personal/Astronomy/Solar_System/Oort_Cloud.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]] 
 
-### #is_/same_as :: [Oort_Cloud.secret](/_secret/Astronomy/Solar_System/Oort_Cloud.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]] 
 

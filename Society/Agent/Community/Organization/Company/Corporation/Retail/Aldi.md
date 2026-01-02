@@ -114,17 +114,17 @@ dv_is_same_as:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aldi](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi|Aldi]] 
 
-### #is_/same_as :: [Aldi.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.public|Aldi.public]] 
 
-### #is_/same_as :: [Aldi.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.internal|Aldi.internal]] 
 
-### #is_/same_as :: [Aldi.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.protect|Aldi.protect]] 
 
-### #is_/same_as :: [Aldi.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.private|Aldi.private]] 
 
-### #is_/same_as :: [Aldi.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.personal|Aldi.personal]] 
 
-### #is_/same_as :: [Aldi.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Aldi.secret|Aldi.secret]] 
 

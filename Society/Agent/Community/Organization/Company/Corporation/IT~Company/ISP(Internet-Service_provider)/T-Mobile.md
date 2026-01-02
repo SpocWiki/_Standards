@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [T-Mobile](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile|T-Mobile]] 
 
-### #is_/same_as :: [T-Mobile.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.public|T-Mobile.public]] 
 
-### #is_/same_as :: [T-Mobile.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.internal|T-Mobile.internal]] 
 
-### #is_/same_as :: [T-Mobile.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.protect|T-Mobile.protect]] 
 
-### #is_/same_as :: [T-Mobile.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.private|T-Mobile.private]] 
 
-### #is_/same_as :: [T-Mobile.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.personal|T-Mobile.personal]] 
 
-### #is_/same_as :: [T-Mobile.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/T-Mobile.secret|T-Mobile.secret]] 
 

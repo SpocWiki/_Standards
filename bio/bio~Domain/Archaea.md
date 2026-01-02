@@ -453,17 +453,17 @@ UMLS_CUI: C0003732
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archaea](/_Standards/bio/bio~Domain/Archaea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Archaea|Archaea]] 
 
-### #is_/same_as :: [Archaea.public](/_public/bio/bio~Domain/Archaea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Archaea.public|Archaea.public]] 
 
-### #is_/same_as :: [Archaea.internal](/_internal/bio/bio~Domain/Archaea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Archaea.internal|Archaea.internal]] 
 
-### #is_/same_as :: [Archaea.protect](/_protect/bio/bio~Domain/Archaea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Archaea.protect|Archaea.protect]] 
 
-### #is_/same_as :: [Archaea.private](/_private/bio/bio~Domain/Archaea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Archaea.private|Archaea.private]] 
 
-### #is_/same_as :: [Archaea.personal](/_personal/bio/bio~Domain/Archaea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Archaea.personal|Archaea.personal]] 
 
-### #is_/same_as :: [Archaea.secret](/_secret/bio/bio~Domain/Archaea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Archaea.secret|Archaea.secret]] 
 

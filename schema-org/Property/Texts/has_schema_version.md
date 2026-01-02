@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_schema_version](/_Standards/schema-org/Property/Texts/has_schema_version.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_schema_version|has_schema_version]] 
 
-### #is_/same_as :: [has_schema_version.public](/_public/schema-org/Property/Texts/has_schema_version.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_schema_version.public|has_schema_version.public]] 
 
-### #is_/same_as :: [has_schema_version.internal](/_internal/schema-org/Property/Texts/has_schema_version.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_schema_version.internal|has_schema_version.internal]] 
 
-### #is_/same_as :: [has_schema_version.protect](/_protect/schema-org/Property/Texts/has_schema_version.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_schema_version.protect|has_schema_version.protect]] 
 
-### #is_/same_as :: [has_schema_version.private](/_private/schema-org/Property/Texts/has_schema_version.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_schema_version.private|has_schema_version.private]] 
 
-### #is_/same_as :: [has_schema_version.personal](/_personal/schema-org/Property/Texts/has_schema_version.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_schema_version.personal|has_schema_version.personal]] 
 
-### #is_/same_as :: [has_schema_version.secret](/_secret/schema-org/Property/Texts/has_schema_version.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_schema_version.secret|has_schema_version.secret]] 
 

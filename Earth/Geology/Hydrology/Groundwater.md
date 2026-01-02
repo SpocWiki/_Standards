@@ -100,17 +100,17 @@ Commons_category: Underground water
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Groundwater](/_Standards/Earth/Geology/Hydrology/Groundwater.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Hydrology/Groundwater|Groundwater]] 
 
-### #is_/same_as :: [Groundwater.public](/_public/Earth/Geology/Hydrology/Groundwater.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Hydrology/Groundwater.public|Groundwater.public]] 
 
-### #is_/same_as :: [Groundwater.internal](/_internal/Earth/Geology/Hydrology/Groundwater.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Hydrology/Groundwater.internal|Groundwater.internal]] 
 
-### #is_/same_as :: [Groundwater.protect](/_protect/Earth/Geology/Hydrology/Groundwater.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Hydrology/Groundwater.protect|Groundwater.protect]] 
 
-### #is_/same_as :: [Groundwater.private](/_private/Earth/Geology/Hydrology/Groundwater.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Hydrology/Groundwater.private|Groundwater.private]] 
 
-### #is_/same_as :: [Groundwater.personal](/_personal/Earth/Geology/Hydrology/Groundwater.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Hydrology/Groundwater.personal|Groundwater.personal]] 
 
-### #is_/same_as :: [Groundwater.secret](/_secret/Earth/Geology/Hydrology/Groundwater.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Hydrology/Groundwater.secret|Groundwater.secret]] 
 

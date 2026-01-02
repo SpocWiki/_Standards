@@ -147,17 +147,17 @@ Swedish_Royal_Theater_Archive: Person/1043
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Anatomy](/_Standards/bio/Botany/Plant_Anatomy.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy|Plant_Anatomy]] 
 
-### #is_/same_as :: [Plant_Anatomy.public](/_public/bio/Botany/Plant_Anatomy.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy.public|Plant_Anatomy.public]] 
 
-### #is_/same_as :: [Plant_Anatomy.internal](/_internal/bio/Botany/Plant_Anatomy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy.internal|Plant_Anatomy.internal]] 
 
-### #is_/same_as :: [Plant_Anatomy.protect](/_protect/bio/Botany/Plant_Anatomy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy.protect|Plant_Anatomy.protect]] 
 
-### #is_/same_as :: [Plant_Anatomy.private](/_private/bio/Botany/Plant_Anatomy.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy.private|Plant_Anatomy.private]] 
 
-### #is_/same_as :: [Plant_Anatomy.personal](/_personal/bio/Botany/Plant_Anatomy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy.personal|Plant_Anatomy.personal]] 
 
-### #is_/same_as :: [Plant_Anatomy.secret](/_secret/bio/Botany/Plant_Anatomy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy.secret|Plant_Anatomy.secret]] 
 

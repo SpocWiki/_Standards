@@ -37,17 +37,17 @@ OpenStreetMap_tag_or_key: Tag:office=diplomatic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diplomatic_Mission](/_Standards/Society/Politics/Diplomacy/Diplomatic_Mission.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Diplomatic_Mission|Diplomatic_Mission]] 
 
-### #is_/same_as :: [Diplomatic_Mission.public](/_public/Society/Politics/Diplomacy/Diplomatic_Mission.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Diplomatic_Mission.public|Diplomatic_Mission.public]] 
 
-### #is_/same_as :: [Diplomatic_Mission.internal](/_internal/Society/Politics/Diplomacy/Diplomatic_Mission.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Diplomatic_Mission.internal|Diplomatic_Mission.internal]] 
 
-### #is_/same_as :: [Diplomatic_Mission.protect](/_protect/Society/Politics/Diplomacy/Diplomatic_Mission.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Diplomatic_Mission.protect|Diplomatic_Mission.protect]] 
 
-### #is_/same_as :: [Diplomatic_Mission.private](/_private/Society/Politics/Diplomacy/Diplomatic_Mission.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Diplomatic_Mission.private|Diplomatic_Mission.private]] 
 
-### #is_/same_as :: [Diplomatic_Mission.personal](/_personal/Society/Politics/Diplomacy/Diplomatic_Mission.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Diplomatic_Mission.personal|Diplomatic_Mission.personal]] 
 
-### #is_/same_as :: [Diplomatic_Mission.secret](/_secret/Society/Politics/Diplomacy/Diplomatic_Mission.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Diplomatic_Mission.secret|Diplomatic_Mission.secret]] 
 

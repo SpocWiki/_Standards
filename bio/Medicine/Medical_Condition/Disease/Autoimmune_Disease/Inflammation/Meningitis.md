@@ -105,17 +105,17 @@ MeSH_tree_code: C10.586.625
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meningitis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis|Meningitis]] 
 
-### #is_/same_as :: [Meningitis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.public|Meningitis.public]] 
 
-### #is_/same_as :: [Meningitis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.internal|Meningitis.internal]] 
 
-### #is_/same_as :: [Meningitis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.protect|Meningitis.protect]] 
 
-### #is_/same_as :: [Meningitis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.private|Meningitis.private]] 
 
-### #is_/same_as :: [Meningitis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.personal|Meningitis.personal]] 
 
-### #is_/same_as :: [Meningitis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation/Meningitis.secret|Meningitis.secret]] 
 

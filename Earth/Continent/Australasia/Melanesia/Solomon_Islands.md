@@ -149,17 +149,17 @@ Capital :: [[Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal/counties~Guad
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solomon_Islands](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands|Solomon_Islands]] 
 
-### #is_/same_as :: [Solomon_Islands.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands.public|Solomon_Islands.public]] 
 
-### #is_/same_as :: [Solomon_Islands.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.internal|Solomon_Islands.internal]] 
 
-### #is_/same_as :: [Solomon_Islands.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands.protect|Solomon_Islands.protect]] 
 
-### #is_/same_as :: [Solomon_Islands.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands.private|Solomon_Islands.private]] 
 
-### #is_/same_as :: [Solomon_Islands.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands.personal|Solomon_Islands.personal]] 
 
-### #is_/same_as :: [Solomon_Islands.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands.secret|Solomon_Islands.secret]] 
 

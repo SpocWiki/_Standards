@@ -46,17 +46,17 @@ different_from: "[[_Standards/WikiData/WD~Keplerian_elements,78147576]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbital_Elements](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements|Orbital_Elements]] 
 
-### #is_/same_as :: [Orbital_Elements.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.public|Orbital_Elements.public]] 
 
-### #is_/same_as :: [Orbital_Elements.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.internal|Orbital_Elements.internal]] 
 
-### #is_/same_as :: [Orbital_Elements.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.protect|Orbital_Elements.protect]] 
 
-### #is_/same_as :: [Orbital_Elements.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.private|Orbital_Elements.private]] 
 
-### #is_/same_as :: [Orbital_Elements.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.personal|Orbital_Elements.personal]] 
 
-### #is_/same_as :: [Orbital_Elements.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Elements.secret|Orbital_Elements.secret]] 
 

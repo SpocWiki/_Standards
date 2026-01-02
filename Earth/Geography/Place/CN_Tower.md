@@ -90,17 +90,17 @@ X_Twitter_username: TourCNTower
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CN_Tower](/_Standards/Earth/Geography/Place/CN_Tower.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/CN_Tower|CN_Tower]] 
 
-### #is_/same_as :: [CN_Tower.public](/_public/Earth/Geography/Place/CN_Tower.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/CN_Tower.public|CN_Tower.public]] 
 
-### #is_/same_as :: [CN_Tower.internal](/_internal/Earth/Geography/Place/CN_Tower.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/CN_Tower.internal|CN_Tower.internal]] 
 
-### #is_/same_as :: [CN_Tower.protect](/_protect/Earth/Geography/Place/CN_Tower.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/CN_Tower.protect|CN_Tower.protect]] 
 
-### #is_/same_as :: [CN_Tower.private](/_private/Earth/Geography/Place/CN_Tower.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/CN_Tower.private|CN_Tower.private]] 
 
-### #is_/same_as :: [CN_Tower.personal](/_personal/Earth/Geography/Place/CN_Tower.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/CN_Tower.personal|CN_Tower.personal]] 
 
-### #is_/same_as :: [CN_Tower.secret](/_secret/Earth/Geography/Place/CN_Tower.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/CN_Tower.secret|CN_Tower.secret]] 
 

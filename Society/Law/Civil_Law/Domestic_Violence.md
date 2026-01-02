@@ -75,17 +75,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Domestic_Violence](/_Standards/Society/Law/Civil_Law/Domestic_Violence.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Domestic_Violence|Domestic_Violence]] 
 
-### #is_/same_as :: [Domestic_Violence.public](/_public/Society/Law/Civil_Law/Domestic_Violence.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Domestic_Violence.public|Domestic_Violence.public]] 
 
-### #is_/same_as :: [Domestic_Violence.internal](/_internal/Society/Law/Civil_Law/Domestic_Violence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Domestic_Violence.internal|Domestic_Violence.internal]] 
 
-### #is_/same_as :: [Domestic_Violence.protect](/_protect/Society/Law/Civil_Law/Domestic_Violence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Domestic_Violence.protect|Domestic_Violence.protect]] 
 
-### #is_/same_as :: [Domestic_Violence.private](/_private/Society/Law/Civil_Law/Domestic_Violence.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Domestic_Violence.private|Domestic_Violence.private]] 
 
-### #is_/same_as :: [Domestic_Violence.personal](/_personal/Society/Law/Civil_Law/Domestic_Violence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Domestic_Violence.personal|Domestic_Violence.personal]] 
 
-### #is_/same_as :: [Domestic_Violence.secret](/_secret/Society/Law/Civil_Law/Domestic_Violence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Domestic_Violence.secret|Domestic_Violence.secret]] 
 

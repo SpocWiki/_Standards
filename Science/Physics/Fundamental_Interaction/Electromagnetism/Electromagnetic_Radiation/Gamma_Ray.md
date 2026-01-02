@@ -65,17 +65,17 @@ Commons_category: Gamma rays
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gamma_Ray](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray|Gamma_Ray]] 
 
-### #is_/same_as :: [Gamma_Ray.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.public|Gamma_Ray.public]] 
 
-### #is_/same_as :: [Gamma_Ray.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.internal|Gamma_Ray.internal]] 
 
-### #is_/same_as :: [Gamma_Ray.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.protect|Gamma_Ray.protect]] 
 
-### #is_/same_as :: [Gamma_Ray.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.private|Gamma_Ray.private]] 
 
-### #is_/same_as :: [Gamma_Ray.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.personal|Gamma_Ray.personal]] 
 
-### #is_/same_as :: [Gamma_Ray.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Gamma_Ray.secret|Gamma_Ray.secret]] 
 

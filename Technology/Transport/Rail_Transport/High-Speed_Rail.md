@@ -59,17 +59,17 @@ subreddit: highspeedrail
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [High-Speed_Rail](/_Standards/Technology/Transport/Rail_Transport/High-Speed_Rail.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/High-Speed_Rail|High-Speed_Rail]] 
 
-### #is_/same_as :: [High-Speed_Rail.public](/_public/Technology/Transport/Rail_Transport/High-Speed_Rail.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/High-Speed_Rail.public|High-Speed_Rail.public]] 
 
-### #is_/same_as :: [High-Speed_Rail.internal](/_internal/Technology/Transport/Rail_Transport/High-Speed_Rail.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/High-Speed_Rail.internal|High-Speed_Rail.internal]] 
 
-### #is_/same_as :: [High-Speed_Rail.protect](/_protect/Technology/Transport/Rail_Transport/High-Speed_Rail.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/High-Speed_Rail.protect|High-Speed_Rail.protect]] 
 
-### #is_/same_as :: [High-Speed_Rail.private](/_private/Technology/Transport/Rail_Transport/High-Speed_Rail.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/High-Speed_Rail.private|High-Speed_Rail.private]] 
 
-### #is_/same_as :: [High-Speed_Rail.personal](/_personal/Technology/Transport/Rail_Transport/High-Speed_Rail.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/High-Speed_Rail.personal|High-Speed_Rail.personal]] 
 
-### #is_/same_as :: [High-Speed_Rail.secret](/_secret/Technology/Transport/Rail_Transport/High-Speed_Rail.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/High-Speed_Rail.secret|High-Speed_Rail.secret]] 
 

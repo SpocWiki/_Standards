@@ -49,17 +49,17 @@ Commons_category: Mangroves
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mangrove](/_Standards/Earth/Climate/Biosphere/Biomes/Mangrove.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Mangrove|Mangrove]] 
 
-### #is_/same_as :: [Mangrove.public](/_public/Earth/Climate/Biosphere/Biomes/Mangrove.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Mangrove.public|Mangrove.public]] 
 
-### #is_/same_as :: [Mangrove.internal](/_internal/Earth/Climate/Biosphere/Biomes/Mangrove.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Mangrove.internal|Mangrove.internal]] 
 
-### #is_/same_as :: [Mangrove.protect](/_protect/Earth/Climate/Biosphere/Biomes/Mangrove.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Mangrove.protect|Mangrove.protect]] 
 
-### #is_/same_as :: [Mangrove.private](/_private/Earth/Climate/Biosphere/Biomes/Mangrove.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Mangrove.private|Mangrove.private]] 
 
-### #is_/same_as :: [Mangrove.personal](/_personal/Earth/Climate/Biosphere/Biomes/Mangrove.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Mangrove.personal|Mangrove.personal]] 
 
-### #is_/same_as :: [Mangrove.secret](/_secret/Earth/Climate/Biosphere/Biomes/Mangrove.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Mangrove.secret|Mangrove.secret]] 
 

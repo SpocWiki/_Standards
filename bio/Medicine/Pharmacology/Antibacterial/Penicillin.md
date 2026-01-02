@@ -69,17 +69,17 @@ UNSPSC_Code: 51101507
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penicillin](/_Standards/bio/Medicine/Pharmacology/Antibacterial/Penicillin.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Pharmacology/Antibacterial/Penicillin|Penicillin]] 
 
-### #is_/same_as :: [Penicillin.public](/_public/bio/Medicine/Pharmacology/Antibacterial/Penicillin.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Pharmacology/Antibacterial/Penicillin.public|Penicillin.public]] 
 
-### #is_/same_as :: [Penicillin.internal](/_internal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.internal|Penicillin.internal]] 
 
-### #is_/same_as :: [Penicillin.protect](/_protect/bio/Medicine/Pharmacology/Antibacterial/Penicillin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Pharmacology/Antibacterial/Penicillin.protect|Penicillin.protect]] 
 
-### #is_/same_as :: [Penicillin.private](/_private/bio/Medicine/Pharmacology/Antibacterial/Penicillin.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Pharmacology/Antibacterial/Penicillin.private|Penicillin.private]] 
 
-### #is_/same_as :: [Penicillin.personal](/_personal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Pharmacology/Antibacterial/Penicillin.personal|Penicillin.personal]] 
 
-### #is_/same_as :: [Penicillin.secret](/_secret/bio/Medicine/Pharmacology/Antibacterial/Penicillin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Pharmacology/Antibacterial/Penicillin.secret|Penicillin.secret]] 
 

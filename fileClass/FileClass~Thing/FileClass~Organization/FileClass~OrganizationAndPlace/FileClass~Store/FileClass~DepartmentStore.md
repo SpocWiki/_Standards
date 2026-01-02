@@ -37,17 +37,17 @@ A department store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DepartmentStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore|FileClass~DepartmentStore]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.public|FileClass~DepartmentStore.public]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.internal|FileClass~DepartmentStore.internal]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.protect|FileClass~DepartmentStore.protect]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.private|FileClass~DepartmentStore.private]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.personal|FileClass~DepartmentStore.personal]] 
 
-### #is_/same_as :: [FileClass~DepartmentStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~DepartmentStore.secret|FileClass~DepartmentStore.secret]] 
 

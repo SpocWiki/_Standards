@@ -47,17 +47,17 @@ TissueSample:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PathologyTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest|FileClass~PathologyTest]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.public|FileClass~PathologyTest.public]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.internal|FileClass~PathologyTest.internal]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.protect|FileClass~PathologyTest.protect]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.private|FileClass~PathologyTest.private]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.personal|FileClass~PathologyTest.personal]] 
 
-### #is_/same_as :: [FileClass~PathologyTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~PathologyTest.secret|FileClass~PathologyTest.secret]] 
 

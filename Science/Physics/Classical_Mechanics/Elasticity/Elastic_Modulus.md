@@ -44,17 +44,17 @@ MeSH_tree_code: G01.374.590.605
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elastic_Modulus](/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus|Elastic_Modulus]] 
 
-### #is_/same_as :: [Elastic_Modulus.public](/_public/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.public|Elastic_Modulus.public]] 
 
-### #is_/same_as :: [Elastic_Modulus.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.internal|Elastic_Modulus.internal]] 
 
-### #is_/same_as :: [Elastic_Modulus.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.protect|Elastic_Modulus.protect]] 
 
-### #is_/same_as :: [Elastic_Modulus.private](/_private/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.private|Elastic_Modulus.private]] 
 
-### #is_/same_as :: [Elastic_Modulus.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.personal|Elastic_Modulus.personal]] 
 
-### #is_/same_as :: [Elastic_Modulus.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Elasticity/Elastic_Modulus.secret|Elastic_Modulus.secret]] 
 

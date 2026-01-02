@@ -42,17 +42,17 @@ The invitee may or may not attend.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rsvp_Response_Maybe](/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe|Rsvp_Response_Maybe]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.public](/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.public|Rsvp_Response_Maybe.public]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.internal](/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.internal|Rsvp_Response_Maybe.internal]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.protect](/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.protect|Rsvp_Response_Maybe.protect]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.private](/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.private|Rsvp_Response_Maybe.private]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.personal](/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.personal|Rsvp_Response_Maybe.personal]] 
 
-### #is_/same_as :: [Rsvp_Response_Maybe.secret](/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Rsvp_Response_Type/Rsvp_Response_Maybe.secret|Rsvp_Response_Maybe.secret]] 
 

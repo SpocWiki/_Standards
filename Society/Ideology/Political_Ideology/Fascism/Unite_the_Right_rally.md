@@ -112,17 +112,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unite_the_Right_rally](/_Standards/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally|Unite_the_Right_rally]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.public](/_public/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.public|Unite_the_Right_rally.public]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.internal|Unite_the_Right_rally.internal]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.protect|Unite_the_Right_rally.protect]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.private](/_private/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.private|Unite_the_Right_rally.private]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.personal|Unite_the_Right_rally.personal]] 
 
-### #is_/same_as :: [Unite_the_Right_rally.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/Unite_the_Right_rally.secret|Unite_the_Right_rally.secret]] 
 

@@ -63,17 +63,17 @@ Commons_category: Mach number
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mach_Number](/_Standards/Science/Physics/Fluid_Mechanics/Mach_Number.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Mach_Number|Mach_Number]] 
 
-### #is_/same_as :: [Mach_Number.public](/_public/Science/Physics/Fluid_Mechanics/Mach_Number.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Mach_Number.public|Mach_Number.public]] 
 
-### #is_/same_as :: [Mach_Number.internal](/_internal/Science/Physics/Fluid_Mechanics/Mach_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Mach_Number.internal|Mach_Number.internal]] 
 
-### #is_/same_as :: [Mach_Number.protect](/_protect/Science/Physics/Fluid_Mechanics/Mach_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Mach_Number.protect|Mach_Number.protect]] 
 
-### #is_/same_as :: [Mach_Number.private](/_private/Science/Physics/Fluid_Mechanics/Mach_Number.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Mach_Number.private|Mach_Number.private]] 
 
-### #is_/same_as :: [Mach_Number.personal](/_personal/Science/Physics/Fluid_Mechanics/Mach_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Mach_Number.personal|Mach_Number.personal]] 
 
-### #is_/same_as :: [Mach_Number.secret](/_secret/Science/Physics/Fluid_Mechanics/Mach_Number.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Mach_Number.secret|Mach_Number.secret]] 
 

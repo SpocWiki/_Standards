@@ -90,17 +90,17 @@ Baidu_Tieba_name: 冰淇淋
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Cream](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream|Ice_Cream]] 
 
-### #is_/same_as :: [Ice_Cream.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.public|Ice_Cream.public]] 
 
-### #is_/same_as :: [Ice_Cream.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.internal|Ice_Cream.internal]] 
 
-### #is_/same_as :: [Ice_Cream.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.protect|Ice_Cream.protect]] 
 
-### #is_/same_as :: [Ice_Cream.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.private|Ice_Cream.private]] 
 
-### #is_/same_as :: [Ice_Cream.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.personal|Ice_Cream.personal]] 
 
-### #is_/same_as :: [Ice_Cream.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Ice_Cream.secret|Ice_Cream.secret]] 
 

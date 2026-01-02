@@ -37,17 +37,17 @@ Commons_category: Electrons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Valence_Electron](/_Standards/Science/Physics/Atom/Electron_Shell/Valence_Electron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Electron_Shell/Valence_Electron|Valence_Electron]] 
 
-### #is_/same_as :: [Valence_Electron.public](/_public/Science/Physics/Atom/Electron_Shell/Valence_Electron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Electron_Shell/Valence_Electron.public|Valence_Electron.public]] 
 
-### #is_/same_as :: [Valence_Electron.internal](/_internal/Science/Physics/Atom/Electron_Shell/Valence_Electron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Electron_Shell/Valence_Electron.internal|Valence_Electron.internal]] 
 
-### #is_/same_as :: [Valence_Electron.protect](/_protect/Science/Physics/Atom/Electron_Shell/Valence_Electron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Electron_Shell/Valence_Electron.protect|Valence_Electron.protect]] 
 
-### #is_/same_as :: [Valence_Electron.private](/_private/Science/Physics/Atom/Electron_Shell/Valence_Electron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Electron_Shell/Valence_Electron.private|Valence_Electron.private]] 
 
-### #is_/same_as :: [Valence_Electron.personal](/_personal/Science/Physics/Atom/Electron_Shell/Valence_Electron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Electron_Shell/Valence_Electron.personal|Valence_Electron.personal]] 
 
-### #is_/same_as :: [Valence_Electron.secret](/_secret/Science/Physics/Atom/Electron_Shell/Valence_Electron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Electron_Shell/Valence_Electron.secret|Valence_Electron.secret]] 
 

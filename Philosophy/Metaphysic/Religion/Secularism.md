@@ -69,17 +69,17 @@ Commons_category: Secularism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Secularism](/_Standards/Philosophy/Metaphysic/Religion/Secularism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Secularism|Secularism]] 
 
-### #is_/same_as :: [Secularism.public](/_public/Philosophy/Metaphysic/Religion/Secularism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Secularism.public|Secularism.public]] 
 
-### #is_/same_as :: [Secularism.internal](/_internal/Philosophy/Metaphysic/Religion/Secularism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Secularism.internal|Secularism.internal]] 
 
-### #is_/same_as :: [Secularism.protect](/_protect/Philosophy/Metaphysic/Religion/Secularism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Secularism.protect|Secularism.protect]] 
 
-### #is_/same_as :: [Secularism.private](/_private/Philosophy/Metaphysic/Religion/Secularism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Secularism.private|Secularism.private]] 
 
-### #is_/same_as :: [Secularism.personal](/_personal/Philosophy/Metaphysic/Religion/Secularism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Secularism.personal|Secularism.personal]] 
 
-### #is_/same_as :: [Secularism.secret](/_secret/Philosophy/Metaphysic/Religion/Secularism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Secularism.secret|Secularism.secret]] 
 

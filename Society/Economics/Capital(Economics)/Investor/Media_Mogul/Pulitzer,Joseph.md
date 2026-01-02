@@ -94,17 +94,17 @@ work_period_end_: 1907-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pulitzer,Joseph](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph|Pulitzer,Joseph]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.public|Pulitzer,Joseph.public]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.internal|Pulitzer,Joseph.internal]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.protect|Pulitzer,Joseph.protect]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.private|Pulitzer,Joseph.private]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.personal|Pulitzer,Joseph.personal]] 
 
-### #is_/same_as :: [Pulitzer,Joseph.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Pulitzer,Joseph.secret|Pulitzer,Joseph.secret]] 
 

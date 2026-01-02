@@ -198,17 +198,17 @@ Colon_Classification: Q6:22
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Old_Testament](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament|Old_Testament]] 
 
-### #is_/same_as :: [Old_Testament.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.public|Old_Testament.public]] 
 
-### #is_/same_as :: [Old_Testament.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.internal|Old_Testament.internal]] 
 
-### #is_/same_as :: [Old_Testament.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.protect|Old_Testament.protect]] 
 
-### #is_/same_as :: [Old_Testament.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.private|Old_Testament.private]] 
 
-### #is_/same_as :: [Old_Testament.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.personal|Old_Testament.personal]] 
 
-### #is_/same_as :: [Old_Testament.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Old_Testament.secret|Old_Testament.secret]] 
 

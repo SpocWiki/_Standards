@@ -100,17 +100,17 @@ MeSH_tree_code: F01.510
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Nature](/_Standards/Society/Anthropology/Human_Nature.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Human_Nature|Human_Nature]] 
 
-### #is_/same_as :: [Human_Nature.public](/_public/Society/Anthropology/Human_Nature.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Human_Nature.public|Human_Nature.public]] 
 
-### #is_/same_as :: [Human_Nature.internal](/_internal/Society/Anthropology/Human_Nature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Human_Nature.internal|Human_Nature.internal]] 
 
-### #is_/same_as :: [Human_Nature.protect](/_protect/Society/Anthropology/Human_Nature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Human_Nature.protect|Human_Nature.protect]] 
 
-### #is_/same_as :: [Human_Nature.private](/_private/Society/Anthropology/Human_Nature.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Human_Nature.private|Human_Nature.private]] 
 
-### #is_/same_as :: [Human_Nature.personal](/_personal/Society/Anthropology/Human_Nature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Human_Nature.personal|Human_Nature.personal]] 
 
-### #is_/same_as :: [Human_Nature.secret](/_secret/Society/Anthropology/Human_Nature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Human_Nature.secret|Human_Nature.secret]] 
 

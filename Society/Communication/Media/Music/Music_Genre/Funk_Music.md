@@ -69,17 +69,17 @@ Krugosvet_article: kultura_i_obrazovanie/muzyka/FANK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Funk_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Funk_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Funk_Music|Funk_Music]] 
 
-### #is_/same_as :: [Funk_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Funk_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Funk_Music.public|Funk_Music.public]] 
 
-### #is_/same_as :: [Funk_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Funk_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Funk_Music.internal|Funk_Music.internal]] 
 
-### #is_/same_as :: [Funk_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Funk_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Funk_Music.protect|Funk_Music.protect]] 
 
-### #is_/same_as :: [Funk_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Funk_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Funk_Music.private|Funk_Music.private]] 
 
-### #is_/same_as :: [Funk_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Funk_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Funk_Music.personal|Funk_Music.personal]] 
 
-### #is_/same_as :: [Funk_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Funk_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Funk_Music.secret|Funk_Music.secret]] 
 

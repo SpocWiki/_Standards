@@ -76,17 +76,17 @@ IPTC_NewsCode: mediatopic/20000100
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kidnapping](/_Standards/Society/Law/Criminal_Law/Crime/Kidnapping.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Kidnapping|Kidnapping]] 
 
-### #is_/same_as :: [Kidnapping.public](/_public/Society/Law/Criminal_Law/Crime/Kidnapping.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Kidnapping.public|Kidnapping.public]] 
 
-### #is_/same_as :: [Kidnapping.internal](/_internal/Society/Law/Criminal_Law/Crime/Kidnapping.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Kidnapping.internal|Kidnapping.internal]] 
 
-### #is_/same_as :: [Kidnapping.protect](/_protect/Society/Law/Criminal_Law/Crime/Kidnapping.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Kidnapping.protect|Kidnapping.protect]] 
 
-### #is_/same_as :: [Kidnapping.private](/_private/Society/Law/Criminal_Law/Crime/Kidnapping.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Kidnapping.private|Kidnapping.private]] 
 
-### #is_/same_as :: [Kidnapping.personal](/_personal/Society/Law/Criminal_Law/Crime/Kidnapping.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Kidnapping.personal|Kidnapping.personal]] 
 
-### #is_/same_as :: [Kidnapping.secret](/_secret/Society/Law/Criminal_Law/Crime/Kidnapping.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Kidnapping.secret|Kidnapping.secret]] 
 

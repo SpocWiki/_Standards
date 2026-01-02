@@ -27,3 +27,22 @@ has_id_wikidata: Q159394
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Defendant) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Defendant|Defendant]] 
+
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Defendant.public|Defendant.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Defendant.internal|Defendant.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Defendant.protect|Defendant.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Defendant.private|Defendant.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Defendant.personal|Defendant.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Defendant.secret|Defendant.secret]] 
+

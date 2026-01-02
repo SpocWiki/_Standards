@@ -30,17 +30,17 @@ UMLS_CUI: C1625732
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BOP](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP|BOP]] 
 
-### #is_/same_as :: [BOP.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.public|BOP.public]] 
 
-### #is_/same_as :: [BOP.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.internal|BOP.internal]] 
 
-### #is_/same_as :: [BOP.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.protect|BOP.protect]] 
 
-### #is_/same_as :: [BOP.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.private|BOP.private]] 
 
-### #is_/same_as :: [BOP.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.personal|BOP.personal]] 
 
-### #is_/same_as :: [BOP.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP.secret|BOP.secret]] 
 

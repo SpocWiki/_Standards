@@ -55,3 +55,22 @@ Commons_category: Typewriters
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Typewriter) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter|Typewriter]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.public|Typewriter.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.internal|Typewriter.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.protect|Typewriter.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.private|Typewriter.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.personal|Typewriter.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Typewriter.secret|Typewriter.secret]] 
+

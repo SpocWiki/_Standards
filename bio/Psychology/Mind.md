@@ -83,17 +83,17 @@ writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mind](/_Standards/bio/Psychology/Mind.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind|Mind]] 
 
-### #is_/same_as :: [Mind.public](/_public/bio/Psychology/Mind.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind.public|Mind.public]] 
 
-### #is_/same_as :: [Mind.internal](/_internal/bio/Psychology/Mind.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind.internal|Mind.internal]] 
 
-### #is_/same_as :: [Mind.protect](/_protect/bio/Psychology/Mind.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind.protect|Mind.protect]] 
 
-### #is_/same_as :: [Mind.private](/_private/bio/Psychology/Mind.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind.private|Mind.private]] 
 
-### #is_/same_as :: [Mind.personal](/_personal/bio/Psychology/Mind.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind.personal|Mind.personal]] 
 
-### #is_/same_as :: [Mind.secret](/_secret/bio/Psychology/Mind.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind.secret|Mind.secret]] 
 

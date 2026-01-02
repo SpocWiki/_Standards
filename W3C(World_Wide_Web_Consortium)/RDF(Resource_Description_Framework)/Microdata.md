@@ -35,17 +35,17 @@ Attributes of Microdata are:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microdata](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata|Microdata]] 
 
-### #is_/same_as :: [Microdata.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.public|Microdata.public]] 
 
-### #is_/same_as :: [Microdata.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.internal|Microdata.internal]] 
 
-### #is_/same_as :: [Microdata.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.protect|Microdata.protect]] 
 
-### #is_/same_as :: [Microdata.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.private|Microdata.private]] 
 
-### #is_/same_as :: [Microdata.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.personal|Microdata.personal]] 
 
-### #is_/same_as :: [Microdata.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/Microdata.secret|Microdata.secret]] 
 

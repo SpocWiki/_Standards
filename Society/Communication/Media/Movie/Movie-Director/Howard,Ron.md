@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Howard,Ron](/_Standards/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Howard,Ron|Howard,Ron]] 
 
-### #is_/same_as :: [Howard,Ron.public](/_public/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.public|Howard,Ron.public]] 
 
-### #is_/same_as :: [Howard,Ron.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.internal|Howard,Ron.internal]] 
 
-### #is_/same_as :: [Howard,Ron.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.protect|Howard,Ron.protect]] 
 
-### #is_/same_as :: [Howard,Ron.private](/_private/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.private|Howard,Ron.private]] 
 
-### #is_/same_as :: [Howard,Ron.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.personal|Howard,Ron.personal]] 
 
-### #is_/same_as :: [Howard,Ron.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Howard,Ron.secret|Howard,Ron.secret]] 
 

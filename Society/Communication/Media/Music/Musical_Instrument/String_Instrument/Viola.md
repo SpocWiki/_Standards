@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Viola](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola|Viola]] 
 
-### #is_/same_as :: [Viola.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.public|Viola.public]] 
 
-### #is_/same_as :: [Viola.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.internal|Viola.internal]] 
 
-### #is_/same_as :: [Viola.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.protect|Viola.protect]] 
 
-### #is_/same_as :: [Viola.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.private|Viola.private]] 
 
-### #is_/same_as :: [Viola.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.personal|Viola.personal]] 
 
-### #is_/same_as :: [Viola.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Viola.secret|Viola.secret]] 
 

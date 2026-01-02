@@ -37,17 +37,17 @@ A [[NewsArticle]] and [[CriticReview]] providing a professional critic's assessm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle|FileClass~ReviewNewsArticle]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.public|FileClass~ReviewNewsArticle.public]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.internal|FileClass~ReviewNewsArticle.internal]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.protect|FileClass~ReviewNewsArticle.protect]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.private|FileClass~ReviewNewsArticle.private]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.personal|FileClass~ReviewNewsArticle.personal]] 
 
-### #is_/same_as :: [FileClass~ReviewNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~CriticReview/FileClass~CriticReviewAndNewsArticle/FileClass~ReviewNewsArticle.secret|FileClass~ReviewNewsArticle.secret]] 
 

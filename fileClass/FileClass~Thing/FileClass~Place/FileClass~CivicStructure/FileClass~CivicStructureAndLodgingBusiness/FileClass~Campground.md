@@ -43,17 +43,17 @@ A camping site, campsite, or [[../../../../../Earth/Geography/Place/Civic_Struct
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Campground](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground|FileClass~Campground]] 
 
-### #is_/same_as :: [FileClass~Campground.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.public|FileClass~Campground.public]] 
 
-### #is_/same_as :: [FileClass~Campground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.internal|FileClass~Campground.internal]] 
 
-### #is_/same_as :: [FileClass~Campground.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.protect|FileClass~Campground.protect]] 
 
-### #is_/same_as :: [FileClass~Campground.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.private|FileClass~Campground.private]] 
 
-### #is_/same_as :: [FileClass~Campground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.personal|FileClass~Campground.personal]] 
 
-### #is_/same_as :: [FileClass~Campground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~CivicStructureAndLodgingBusiness/FileClass~Campground.secret|FileClass~Campground.secret]] 
 

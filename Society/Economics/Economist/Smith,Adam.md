@@ -154,17 +154,17 @@ Leistungsgesellschaft
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smith,Adam](/_Standards/Society/Economics/Economist/Smith,Adam.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Smith,Adam|Smith,Adam]] 
 
-### #is_/same_as :: [Smith,Adam.public](/_public/Society/Economics/Economist/Smith,Adam.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Smith,Adam.public|Smith,Adam.public]] 
 
-### #is_/same_as :: [Smith,Adam.internal](/_internal/Society/Economics/Economist/Smith,Adam.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Smith,Adam.internal|Smith,Adam.internal]] 
 
-### #is_/same_as :: [Smith,Adam.protect](/_protect/Society/Economics/Economist/Smith,Adam.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Smith,Adam.protect|Smith,Adam.protect]] 
 
-### #is_/same_as :: [Smith,Adam.private](/_private/Society/Economics/Economist/Smith,Adam.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Smith,Adam.private|Smith,Adam.private]] 
 
-### #is_/same_as :: [Smith,Adam.personal](/_personal/Society/Economics/Economist/Smith,Adam.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Smith,Adam.personal|Smith,Adam.personal]] 
 
-### #is_/same_as :: [Smith,Adam.secret](/_secret/Society/Economics/Economist/Smith,Adam.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Smith,Adam.secret|Smith,Adam.secret]] 
 

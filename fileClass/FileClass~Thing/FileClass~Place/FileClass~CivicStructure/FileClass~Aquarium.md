@@ -37,17 +37,17 @@ Aquarium.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Aquarium](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium|FileClass~Aquarium]] 
 
-### #is_/same_as :: [FileClass~Aquarium.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.public|FileClass~Aquarium.public]] 
 
-### #is_/same_as :: [FileClass~Aquarium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.internal|FileClass~Aquarium.internal]] 
 
-### #is_/same_as :: [FileClass~Aquarium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.protect|FileClass~Aquarium.protect]] 
 
-### #is_/same_as :: [FileClass~Aquarium.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.private|FileClass~Aquarium.private]] 
 
-### #is_/same_as :: [FileClass~Aquarium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.personal|FileClass~Aquarium.personal]] 
 
-### #is_/same_as :: [FileClass~Aquarium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Aquarium.secret|FileClass~Aquarium.secret]] 
 

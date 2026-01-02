@@ -101,17 +101,17 @@ Europeana_entity: agent/base/60659
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Remarque,Erich_Maria](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria|Remarque,Erich_Maria]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.public|Remarque,Erich_Maria.public]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.internal|Remarque,Erich_Maria.internal]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.protect|Remarque,Erich_Maria.protect]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.private|Remarque,Erich_Maria.private]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.personal|Remarque,Erich_Maria.personal]] 
 
-### #is_/same_as :: [Remarque,Erich_Maria.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Remarque,Erich_Maria.secret|Remarque,Erich_Maria.secret]] 
 

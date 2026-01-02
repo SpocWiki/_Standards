@@ -109,17 +109,17 @@ Provenio_UUID: 61bceeec-d304-4d5e-b7a5-17511b66ba61
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Natural_Selection](/_Standards/bio/Evolution/Natural_Selection.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Natural_Selection|Natural_Selection]] 
 
-### #is_/same_as :: [Natural_Selection.public](/_public/bio/Evolution/Natural_Selection.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Natural_Selection.public|Natural_Selection.public]] 
 
-### #is_/same_as :: [Natural_Selection.internal](/_internal/bio/Evolution/Natural_Selection.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Natural_Selection.internal|Natural_Selection.internal]] 
 
-### #is_/same_as :: [Natural_Selection.protect](/_protect/bio/Evolution/Natural_Selection.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Natural_Selection.protect|Natural_Selection.protect]] 
 
-### #is_/same_as :: [Natural_Selection.private](/_private/bio/Evolution/Natural_Selection.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Natural_Selection.private|Natural_Selection.private]] 
 
-### #is_/same_as :: [Natural_Selection.personal](/_personal/bio/Evolution/Natural_Selection.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Natural_Selection.personal|Natural_Selection.personal]] 
 
-### #is_/same_as :: [Natural_Selection.secret](/_secret/bio/Evolution/Natural_Selection.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Natural_Selection.secret|Natural_Selection.secret]] 
 

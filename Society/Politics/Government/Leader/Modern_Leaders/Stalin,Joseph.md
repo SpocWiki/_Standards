@@ -255,17 +255,17 @@ The quote above is from _Children of the Arbat_ (Russian: _Дети Арбата
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stalin,Joseph](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph|Stalin,Joseph]] 
 
-### #is_/same_as :: [Stalin,Joseph.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.public|Stalin,Joseph.public]] 
 
-### #is_/same_as :: [Stalin,Joseph.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.internal|Stalin,Joseph.internal]] 
 
-### #is_/same_as :: [Stalin,Joseph.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.protect|Stalin,Joseph.protect]] 
 
-### #is_/same_as :: [Stalin,Joseph.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.private|Stalin,Joseph.private]] 
 
-### #is_/same_as :: [Stalin,Joseph.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.personal|Stalin,Joseph.personal]] 
 
-### #is_/same_as :: [Stalin,Joseph.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Stalin,Joseph.secret|Stalin,Joseph.secret]] 
 

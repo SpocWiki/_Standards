@@ -74,17 +74,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q531 p:P2370/psn:P2370 [wikibase:quantityAm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Light-Year](/_Standards/Dimension/Dim~Length/Light-Year.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Light-Year|Light-Year]] 
 
-### #is_/same_as :: [Light-Year.public](/_public/Dimension/Dim~Length/Light-Year.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Length/Light-Year.public|Light-Year.public]] 
 
-### #is_/same_as :: [Light-Year.internal](/_internal/Dimension/Dim~Length/Light-Year.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Light-Year.internal|Light-Year.internal]] 
 
-### #is_/same_as :: [Light-Year.protect](/_protect/Dimension/Dim~Length/Light-Year.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Light-Year.protect|Light-Year.protect]] 
 
-### #is_/same_as :: [Light-Year.private](/_private/Dimension/Dim~Length/Light-Year.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Length/Light-Year.private|Light-Year.private]] 
 
-### #is_/same_as :: [Light-Year.personal](/_personal/Dimension/Dim~Length/Light-Year.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Light-Year.personal|Light-Year.personal]] 
 
-### #is_/same_as :: [Light-Year.secret](/_secret/Dimension/Dim~Length/Light-Year.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Light-Year.secret|Light-Year.secret]] 
 

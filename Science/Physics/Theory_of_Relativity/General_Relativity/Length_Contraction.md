@@ -38,17 +38,17 @@ time_of_discovery_or_invention:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Length_Contraction](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction|Length_Contraction]] 
 
-### #is_/same_as :: [Length_Contraction.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.public|Length_Contraction.public]] 
 
-### #is_/same_as :: [Length_Contraction.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.internal|Length_Contraction.internal]] 
 
-### #is_/same_as :: [Length_Contraction.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.protect|Length_Contraction.protect]] 
 
-### #is_/same_as :: [Length_Contraction.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.private|Length_Contraction.private]] 
 
-### #is_/same_as :: [Length_Contraction.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.personal|Length_Contraction.personal]] 
 
-### #is_/same_as :: [Length_Contraction.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Length_Contraction.secret|Length_Contraction.secret]] 
 

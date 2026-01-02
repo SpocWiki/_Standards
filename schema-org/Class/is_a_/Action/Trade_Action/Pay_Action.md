@@ -41,17 +41,17 @@ An agent pays a price to a participant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pay_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action|Pay_Action]] 
 
-### #is_/same_as :: [Pay_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.public|Pay_Action.public]] 
 
-### #is_/same_as :: [Pay_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.internal|Pay_Action.internal]] 
 
-### #is_/same_as :: [Pay_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.protect|Pay_Action.protect]] 
 
-### #is_/same_as :: [Pay_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.private|Pay_Action.private]] 
 
-### #is_/same_as :: [Pay_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.personal|Pay_Action.personal]] 
 
-### #is_/same_as :: [Pay_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Pay_Action.secret|Pay_Action.secret]] 
 

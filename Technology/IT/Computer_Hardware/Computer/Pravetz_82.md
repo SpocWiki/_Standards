@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pravetz_82](/_Standards/Technology/IT/Computer_Hardware/Computer/Pravetz_82.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Pravetz_82|Pravetz_82]] 
 
-### #is_/same_as :: [Pravetz_82.public](/_public/Technology/IT/Computer_Hardware/Computer/Pravetz_82.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Pravetz_82.public|Pravetz_82.public]] 
 
-### #is_/same_as :: [Pravetz_82.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.internal|Pravetz_82.internal]] 
 
-### #is_/same_as :: [Pravetz_82.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Pravetz_82.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Pravetz_82.protect|Pravetz_82.protect]] 
 
-### #is_/same_as :: [Pravetz_82.private](/_private/Technology/IT/Computer_Hardware/Computer/Pravetz_82.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Pravetz_82.private|Pravetz_82.private]] 
 
-### #is_/same_as :: [Pravetz_82.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Pravetz_82.personal|Pravetz_82.personal]] 
 
-### #is_/same_as :: [Pravetz_82.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Pravetz_82.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Pravetz_82.secret|Pravetz_82.secret]] 
 

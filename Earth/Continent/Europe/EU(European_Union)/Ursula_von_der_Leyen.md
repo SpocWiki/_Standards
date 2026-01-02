@@ -185,17 +185,17 @@ Know_Your_Meme_slug: zensursula
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ursula_von_der_Leyen](/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen|Ursula_von_der_Leyen]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.public](/_public/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.public|Ursula_von_der_Leyen.public]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.internal|Ursula_von_der_Leyen.internal]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.protect|Ursula_von_der_Leyen.protect]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.private](/_private/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.private|Ursula_von_der_Leyen.private]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.personal|Ursula_von_der_Leyen.personal]] 
 
-### #is_/same_as :: [Ursula_von_der_Leyen.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/Ursula_von_der_Leyen.secret|Ursula_von_der_Leyen.secret]] 
 

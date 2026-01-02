@@ -62,17 +62,17 @@ Commons_category: Choirs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Choir](/_Standards/Society/Communication/Media/Music/Musician/Choir.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Choir|Choir]] 
 
-### #is_/same_as :: [Choir.public](/_public/Society/Communication/Media/Music/Musician/Choir.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Choir.public|Choir.public]] 
 
-### #is_/same_as :: [Choir.internal](/_internal/Society/Communication/Media/Music/Musician/Choir.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Choir.internal|Choir.internal]] 
 
-### #is_/same_as :: [Choir.protect](/_protect/Society/Communication/Media/Music/Musician/Choir.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Choir.protect|Choir.protect]] 
 
-### #is_/same_as :: [Choir.private](/_private/Society/Communication/Media/Music/Musician/Choir.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Choir.private|Choir.private]] 
 
-### #is_/same_as :: [Choir.personal](/_personal/Society/Communication/Media/Music/Musician/Choir.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Choir.personal|Choir.personal]] 
 
-### #is_/same_as :: [Choir.secret](/_secret/Society/Communication/Media/Music/Musician/Choir.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Choir.secret|Choir.secret]] 
 

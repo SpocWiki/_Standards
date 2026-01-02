@@ -269,17 +269,17 @@ Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant](/_Standards/bio/bio~Domain/Eukarya/Plant.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant|Plant]] 
 
-### #is_/same_as :: [Plant.public](/_public/bio/bio~Domain/Eukarya/Plant.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant.public|Plant.public]] 
 
-### #is_/same_as :: [Plant.internal](/_internal/bio/bio~Domain/Eukarya/Plant.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant.internal|Plant.internal]] 
 
-### #is_/same_as :: [Plant.protect](/_protect/bio/bio~Domain/Eukarya/Plant.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant.protect|Plant.protect]] 
 
-### #is_/same_as :: [Plant.private](/_private/bio/bio~Domain/Eukarya/Plant.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant.private|Plant.private]] 
 
-### #is_/same_as :: [Plant.personal](/_personal/bio/bio~Domain/Eukarya/Plant.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant.personal|Plant.personal]] 
 
-### #is_/same_as :: [Plant.secret](/_secret/bio/bio~Domain/Eukarya/Plant.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant.secret|Plant.secret]] 
 

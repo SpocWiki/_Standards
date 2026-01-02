@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casino_Royale,2006](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006|Casino_Royale,2006]] 
 
-### #is_/same_as :: [Casino_Royale,2006.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.public|Casino_Royale,2006.public]] 
 
-### #is_/same_as :: [Casino_Royale,2006.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.internal|Casino_Royale,2006.internal]] 
 
-### #is_/same_as :: [Casino_Royale,2006.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.protect|Casino_Royale,2006.protect]] 
 
-### #is_/same_as :: [Casino_Royale,2006.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.private|Casino_Royale,2006.private]] 
 
-### #is_/same_as :: [Casino_Royale,2006.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.personal|Casino_Royale,2006.personal]] 
 
-### #is_/same_as :: [Casino_Royale,2006.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Casino_Royale,2006.secret|Casino_Royale,2006.secret]] 
 

@@ -26,20 +26,20 @@ official_website: https://www.omdb.org/
 
 Used for the [[Obsidian Plugin]] [[../../../../../Knowledge/PKM(Personal_Knowledge_Management)/Obsidian-SW/Obsidian~PlugIn/Obsidian~Media_DB|Obsidian~Media_DB]] 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OMDB(Open_Media_Database)](/_Standards/Society/Communication/Media/Movie/OMDB(Open_Media_Database).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/OMDB(Open_Media_Database)|OMDB(Open_Media_Database)]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).public](/_public/Society/Communication/Media/Movie/OMDB(Open_Media_Database).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/OMDB(Open_Media_Database).public|OMDB(Open_Media_Database).public]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).internal](/_internal/Society/Communication/Media/Movie/OMDB(Open_Media_Database).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/OMDB(Open_Media_Database).internal|OMDB(Open_Media_Database).internal]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).protect](/_protect/Society/Communication/Media/Movie/OMDB(Open_Media_Database).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/OMDB(Open_Media_Database).protect|OMDB(Open_Media_Database).protect]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).private](/_private/Society/Communication/Media/Movie/OMDB(Open_Media_Database).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/OMDB(Open_Media_Database).private|OMDB(Open_Media_Database).private]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).personal](/_personal/Society/Communication/Media/Movie/OMDB(Open_Media_Database).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/OMDB(Open_Media_Database).personal|OMDB(Open_Media_Database).personal]] 
 
-### #is_/same_as :: [OMDB(Open_Media_Database).secret](/_secret/Society/Communication/Media/Movie/OMDB(Open_Media_Database).secret.md)
-
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/OMDB(Open_Media_Database).secret|OMDB(Open_Media_Database).secret]] 
 

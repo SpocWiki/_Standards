@@ -149,17 +149,17 @@ Libris_URI: 97mqzgkt38m1m50
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Xi_Jinping](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping|Xi_Jinping]] 
 
-### #is_/same_as :: [Xi_Jinping.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.public|Xi_Jinping.public]] 
 
-### #is_/same_as :: [Xi_Jinping.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.internal|Xi_Jinping.internal]] 
 
-### #is_/same_as :: [Xi_Jinping.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.protect|Xi_Jinping.protect]] 
 
-### #is_/same_as :: [Xi_Jinping.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.private|Xi_Jinping.private]] 
 
-### #is_/same_as :: [Xi_Jinping.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.personal|Xi_Jinping.personal]] 
 
-### #is_/same_as :: [Xi_Jinping.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Xi_Jinping.secret|Xi_Jinping.secret]] 
 

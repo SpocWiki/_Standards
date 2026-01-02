@@ -114,17 +114,17 @@ ISNI: 0000000055592454
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perelman,Grigori](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori|Perelman,Grigori]] 
 
-### #is_/same_as :: [Perelman,Grigori.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.public|Perelman,Grigori.public]] 
 
-### #is_/same_as :: [Perelman,Grigori.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.internal|Perelman,Grigori.internal]] 
 
-### #is_/same_as :: [Perelman,Grigori.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.protect|Perelman,Grigori.protect]] 
 
-### #is_/same_as :: [Perelman,Grigori.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.private|Perelman,Grigori.private]] 
 
-### #is_/same_as :: [Perelman,Grigori.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.personal|Perelman,Grigori.personal]] 
 
-### #is_/same_as :: [Perelman,Grigori.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Perelman,Grigori.secret|Perelman,Grigori.secret]] 
 

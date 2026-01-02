@@ -282,17 +282,17 @@ Plex_media_key: 5d776826eb5d26001f1dd404
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937)|Snow_White_and_the_Seven_Dwarfs(1937)]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).public](/_public/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).public|Snow_White_and_the_Seven_Dwarfs(1937).public]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).internal|Snow_White_and_the_Seven_Dwarfs(1937).internal]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).protect|Snow_White_and_the_Seven_Dwarfs(1937).protect]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).private](/_private/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).private|Snow_White_and_the_Seven_Dwarfs(1937).private]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).personal|Snow_White_and_the_Seven_Dwarfs(1937).personal]] 
 
-### #is_/same_as :: [Snow_White_and_the_Seven_Dwarfs(1937).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Disney,Walt/Snow_White_and_the_Seven_Dwarfs(1937).secret|Snow_White_and_the_Seven_Dwarfs(1937).secret]] 
 

@@ -108,17 +108,17 @@ coordinate_location: Point(-77.055 38.870833333)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Pentagon](/_Standards/Earth/Geography/Place/The_Pentagon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/The_Pentagon|The_Pentagon]] 
 
-### #is_/same_as :: [The_Pentagon.public](/_public/Earth/Geography/Place/The_Pentagon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/The_Pentagon.public|The_Pentagon.public]] 
 
-### #is_/same_as :: [The_Pentagon.internal](/_internal/Earth/Geography/Place/The_Pentagon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/The_Pentagon.internal|The_Pentagon.internal]] 
 
-### #is_/same_as :: [The_Pentagon.protect](/_protect/Earth/Geography/Place/The_Pentagon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/The_Pentagon.protect|The_Pentagon.protect]] 
 
-### #is_/same_as :: [The_Pentagon.private](/_private/Earth/Geography/Place/The_Pentagon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/The_Pentagon.private|The_Pentagon.private]] 
 
-### #is_/same_as :: [The_Pentagon.personal](/_personal/Earth/Geography/Place/The_Pentagon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/The_Pentagon.personal|The_Pentagon.personal]] 
 
-### #is_/same_as :: [The_Pentagon.secret](/_secret/Earth/Geography/Place/The_Pentagon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/The_Pentagon.secret|The_Pentagon.secret]] 
 

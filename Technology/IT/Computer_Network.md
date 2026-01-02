@@ -98,17 +98,17 @@ Library_of_Congress_Classification: TK5105.5-TK5105.9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Network](/_Standards/Technology/IT/Computer_Network.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network|Computer_Network]] 
 
-### #is_/same_as :: [Computer_Network.public](/_public/Technology/IT/Computer_Network.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network.public|Computer_Network.public]] 
 
-### #is_/same_as :: [Computer_Network.internal](/_internal/Technology/IT/Computer_Network.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network.internal|Computer_Network.internal]] 
 
-### #is_/same_as :: [Computer_Network.protect](/_protect/Technology/IT/Computer_Network.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network.protect|Computer_Network.protect]] 
 
-### #is_/same_as :: [Computer_Network.private](/_private/Technology/IT/Computer_Network.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network.private|Computer_Network.private]] 
 
-### #is_/same_as :: [Computer_Network.personal](/_personal/Technology/IT/Computer_Network.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network.personal|Computer_Network.personal]] 
 
-### #is_/same_as :: [Computer_Network.secret](/_secret/Technology/IT/Computer_Network.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network.secret|Computer_Network.secret]] 
 

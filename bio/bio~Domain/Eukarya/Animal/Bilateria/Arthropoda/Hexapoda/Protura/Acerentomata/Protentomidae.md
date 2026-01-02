@@ -40,17 +40,17 @@ title: Protentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae|Protentomidae]] 
 
-### #is_/same_as :: [Protentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.public|Protentomidae.public]] 
 
-### #is_/same_as :: [Protentomidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.internal|Protentomidae.internal]] 
 
-### #is_/same_as :: [Protentomidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.protect|Protentomidae.protect]] 
 
-### #is_/same_as :: [Protentomidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.private|Protentomidae.private]] 
 
-### #is_/same_as :: [Protentomidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.personal|Protentomidae.personal]] 
 
-### #is_/same_as :: [Protentomidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Acerentomata/Protentomidae.secret|Protentomidae.secret]] 
 

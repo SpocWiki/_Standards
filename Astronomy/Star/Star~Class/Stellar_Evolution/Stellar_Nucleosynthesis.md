@@ -35,17 +35,17 @@ subclass_of: "[[_Standards/WikiData/WD~nucleosynthesis,471702]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis|Stellar_Nucleosynthesis]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.public|Stellar_Nucleosynthesis.public]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.internal|Stellar_Nucleosynthesis.internal]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.protect|Stellar_Nucleosynthesis.protect]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.private|Stellar_Nucleosynthesis.private]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.personal|Stellar_Nucleosynthesis.personal]] 
 
-### #is_/same_as :: [Stellar_Nucleosynthesis.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Stellar_Nucleosynthesis.secret|Stellar_Nucleosynthesis.secret]] 
 

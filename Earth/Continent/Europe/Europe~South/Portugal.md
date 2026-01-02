@@ -518,17 +518,17 @@ Capital :: [[Portugal/Districts~Portugal/Lisboa,County/counties~Lisboa/Lisboa,Ci
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Portugal](/_Standards/Earth/Continent/Europe/Europe~South/Portugal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Portugal|Portugal]] 
 
-### #is_/same_as :: [Portugal.public](/_public/Earth/Continent/Europe/Europe~South/Portugal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Portugal.public|Portugal.public]] 
 
-### #is_/same_as :: [Portugal.internal](/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Portugal.internal|Portugal.internal]] 
 
-### #is_/same_as :: [Portugal.protect](/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Portugal.protect|Portugal.protect]] 
 
-### #is_/same_as :: [Portugal.private](/_private/Earth/Continent/Europe/Europe~South/Portugal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Portugal.private|Portugal.private]] 
 
-### #is_/same_as :: [Portugal.personal](/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Portugal.personal|Portugal.personal]] 
 
-### #is_/same_as :: [Portugal.secret](/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Portugal.secret|Portugal.secret]] 
 

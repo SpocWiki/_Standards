@@ -62,17 +62,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urban_Agriculture](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture|Urban_Agriculture]] 
 
-### #is_/same_as :: [Urban_Agriculture.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.public|Urban_Agriculture.public]] 
 
-### #is_/same_as :: [Urban_Agriculture.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.internal|Urban_Agriculture.internal]] 
 
-### #is_/same_as :: [Urban_Agriculture.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.protect|Urban_Agriculture.protect]] 
 
-### #is_/same_as :: [Urban_Agriculture.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.private|Urban_Agriculture.private]] 
 
-### #is_/same_as :: [Urban_Agriculture.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.personal|Urban_Agriculture.personal]] 
 
-### #is_/same_as :: [Urban_Agriculture.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Urban_Agriculture.secret|Urban_Agriculture.secret]] 
 

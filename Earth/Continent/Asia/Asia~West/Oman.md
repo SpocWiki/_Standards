@@ -437,17 +437,17 @@ Capital :: [[Oman/Counties/Muscat/City/Muscat=Maskat]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oman](/_Standards/Earth/Continent/Asia/Asia~West/Oman.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Oman|Oman]] 
 
-### #is_/same_as :: [Oman.public](/_public/Earth/Continent/Asia/Asia~West/Oman.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Oman.public|Oman.public]] 
 
-### #is_/same_as :: [Oman.internal](/_internal/Earth/Continent/Asia/Asia~West/Oman.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Oman.internal|Oman.internal]] 
 
-### #is_/same_as :: [Oman.protect](/_protect/Earth/Continent/Asia/Asia~West/Oman.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Oman.protect|Oman.protect]] 
 
-### #is_/same_as :: [Oman.private](/_private/Earth/Continent/Asia/Asia~West/Oman.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Oman.private|Oman.private]] 
 
-### #is_/same_as :: [Oman.personal](/_personal/Earth/Continent/Asia/Asia~West/Oman.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Oman.personal|Oman.personal]] 
 
-### #is_/same_as :: [Oman.secret](/_secret/Earth/Continent/Asia/Asia~West/Oman.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Oman.secret|Oman.secret]] 
 

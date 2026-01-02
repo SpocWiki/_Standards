@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acronym](/_Standards/Language/Acronym.md) 
+### #is_/same_as :: [[/_Standards/Language/Acronym|Acronym]] 
 
-### #is_/same_as :: [Acronym.public](/_public/Language/Acronym.public.md) 
+### #is_/same_as :: [[/_public/Language/Acronym.public|Acronym.public]] 
 
-### #is_/same_as :: [Acronym.internal](/_internal/Language/Acronym.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Acronym.internal|Acronym.internal]] 
 
-### #is_/same_as :: [Acronym.protect](/_protect/Language/Acronym.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Acronym.protect|Acronym.protect]] 
 
-### #is_/same_as :: [Acronym.private](/_private/Language/Acronym.private.md) 
+### #is_/same_as :: [[/_private/Language/Acronym.private|Acronym.private]] 
 
-### #is_/same_as :: [Acronym.personal](/_personal/Language/Acronym.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Acronym.personal|Acronym.personal]] 
 
-### #is_/same_as :: [Acronym.secret](/_secret/Language/Acronym.secret.md)
+### #is_/same_as :: [[/_secret/Language/Acronym.secret|Acronym.secret]] 
 

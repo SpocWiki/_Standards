@@ -130,17 +130,17 @@ Wikidata_property: FoodData Central ID
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food|Food]] 
 
-### #is_/same_as :: [Food.public](/_public/Society/Economics/Home_Economics/Cooking/Food.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food.public|Food.public]] 
 
-### #is_/same_as :: [Food.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food.internal|Food.internal]] 
 
-### #is_/same_as :: [Food.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food.protect|Food.protect]] 
 
-### #is_/same_as :: [Food.private](/_private/Society/Economics/Home_Economics/Cooking/Food.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food.private|Food.private]] 
 
-### #is_/same_as :: [Food.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food.personal|Food.personal]] 
 
-### #is_/same_as :: [Food.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food.secret|Food.secret]] 
 

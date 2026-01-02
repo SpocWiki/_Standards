@@ -42,17 +42,17 @@ MapType:: {"type":"Select","options":{"valuesList":{"ParkingMap","SeatingMap","T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Map](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map|FileClass~Map]] 
 
-### #is_/same_as :: [FileClass~Map.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.public|FileClass~Map.public]] 
 
-### #is_/same_as :: [FileClass~Map.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.internal|FileClass~Map.internal]] 
 
-### #is_/same_as :: [FileClass~Map.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.protect|FileClass~Map.protect]] 
 
-### #is_/same_as :: [FileClass~Map.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.private|FileClass~Map.private]] 
 
-### #is_/same_as :: [FileClass~Map.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.personal|FileClass~Map.personal]] 
 
-### #is_/same_as :: [FileClass~Map.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Map.secret|FileClass~Map.secret]] 
 

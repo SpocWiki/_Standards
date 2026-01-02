@@ -72,17 +72,17 @@ population: 27021036
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mindanao-Island](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island|Mindanao-Island]] 
 
-### #is_/same_as :: [Mindanao-Island.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.public|Mindanao-Island.public]] 
 
-### #is_/same_as :: [Mindanao-Island.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.internal|Mindanao-Island.internal]] 
 
-### #is_/same_as :: [Mindanao-Island.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.protect|Mindanao-Island.protect]] 
 
-### #is_/same_as :: [Mindanao-Island.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.private|Mindanao-Island.private]] 
 
-### #is_/same_as :: [Mindanao-Island.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.personal|Mindanao-Island.personal]] 
 
-### #is_/same_as :: [Mindanao-Island.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Islands-Malay/Mindanao-Island.secret|Mindanao-Island.secret]] 
 

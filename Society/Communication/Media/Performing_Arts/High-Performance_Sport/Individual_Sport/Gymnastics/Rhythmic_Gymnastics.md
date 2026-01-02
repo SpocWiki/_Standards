@@ -62,17 +62,17 @@ Commons_category: Rhythmic gymnastics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhythmic_Gymnastics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics|Rhythmic_Gymnastics]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.public|Rhythmic_Gymnastics.public]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.internal|Rhythmic_Gymnastics.internal]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.protect|Rhythmic_Gymnastics.protect]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.private|Rhythmic_Gymnastics.private]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.personal|Rhythmic_Gymnastics.personal]] 
 
-### #is_/same_as :: [Rhythmic_Gymnastics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Rhythmic_Gymnastics.secret|Rhythmic_Gymnastics.secret]] 
 

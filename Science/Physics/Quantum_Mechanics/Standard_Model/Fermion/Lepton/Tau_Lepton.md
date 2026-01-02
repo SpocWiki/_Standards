@@ -57,17 +57,17 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feynman%20diag
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tau_Lepton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton|Tau_Lepton]] 
 
-### #is_/same_as :: [Tau_Lepton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.public|Tau_Lepton.public]] 
 
-### #is_/same_as :: [Tau_Lepton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.internal|Tau_Lepton.internal]] 
 
-### #is_/same_as :: [Tau_Lepton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.protect|Tau_Lepton.protect]] 
 
-### #is_/same_as :: [Tau_Lepton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.private|Tau_Lepton.private]] 
 
-### #is_/same_as :: [Tau_Lepton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.personal|Tau_Lepton.personal]] 
 
-### #is_/same_as :: [Tau_Lepton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Tau_Lepton.secret|Tau_Lepton.secret]] 
 

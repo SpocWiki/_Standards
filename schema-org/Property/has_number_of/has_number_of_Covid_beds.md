@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_Covid_beds](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_beds|has_number_of_Covid_beds]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_Covid_beds.public|has_number_of_Covid_beds.public]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_beds.internal|has_number_of_Covid_beds.internal]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_beds.protect|has_number_of_Covid_beds.protect]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_Covid_beds.private|has_number_of_Covid_beds.private]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_beds.personal|has_number_of_Covid_beds.personal]] 
 
-### #is_/same_as :: [has_number_of_Covid_beds.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_beds.secret|has_number_of_Covid_beds.secret]] 
 

@@ -124,17 +124,17 @@ UNSPSC_Code: 12141742
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technetium](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Technetium|Technetium]] 
 
-### #is_/same_as :: [Technetium.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.public|Technetium.public]] 
 
-### #is_/same_as :: [Technetium.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.internal|Technetium.internal]] 
 
-### #is_/same_as :: [Technetium.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.protect|Technetium.protect]] 
 
-### #is_/same_as :: [Technetium.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.private|Technetium.private]] 
 
-### #is_/same_as :: [Technetium.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.personal|Technetium.personal]] 
 
-### #is_/same_as :: [Technetium.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Technetium.secret|Technetium.secret]] 
 

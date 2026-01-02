@@ -29,17 +29,17 @@ Containing group:[Pezizomycotina](../Pezizomycotina.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lecanoromycetes](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes|Lecanoromycetes]] 
 
-### #is_/same_as :: [Lecanoromycetes.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.public|Lecanoromycetes.public]] 
 
-### #is_/same_as :: [Lecanoromycetes.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.internal|Lecanoromycetes.internal]] 
 
-### #is_/same_as :: [Lecanoromycetes.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.protect|Lecanoromycetes.protect]] 
 
-### #is_/same_as :: [Lecanoromycetes.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.private|Lecanoromycetes.private]] 
 
-### #is_/same_as :: [Lecanoromycetes.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.personal|Lecanoromycetes.personal]] 
 
-### #is_/same_as :: [Lecanoromycetes.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota/Pezizomycotina/Lecanoromycetes.secret|Lecanoromycetes.secret]] 
 

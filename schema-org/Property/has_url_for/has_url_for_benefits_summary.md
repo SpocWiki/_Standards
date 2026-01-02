@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_benefits_summary](/_Standards/schema-org/Property/has_url_for/has_url_for_benefits_summary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_benefits_summary|has_url_for_benefits_summary]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.public](/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_benefits_summary.public|has_url_for_benefits_summary.public]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.internal](/_internal/schema-org/Property/has_url_for/has_url_for_benefits_summary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_benefits_summary.internal|has_url_for_benefits_summary.internal]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.protect](/_protect/schema-org/Property/has_url_for/has_url_for_benefits_summary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_benefits_summary.protect|has_url_for_benefits_summary.protect]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.private](/_private/schema-org/Property/has_url_for/has_url_for_benefits_summary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_benefits_summary.private|has_url_for_benefits_summary.private]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.personal](/_personal/schema-org/Property/has_url_for/has_url_for_benefits_summary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_benefits_summary.personal|has_url_for_benefits_summary.personal]] 
 
-### #is_/same_as :: [has_url_for_benefits_summary.secret](/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_benefits_summary.secret|has_url_for_benefits_summary.secret]] 
 

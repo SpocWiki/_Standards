@@ -31,17 +31,17 @@ Commons_category: Lunar calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lunar_Calendar](/_Standards/ISO/Calendar/Lunar_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Lunar_Calendar|Lunar_Calendar]] 
 
-### #is_/same_as :: [Lunar_Calendar.public](/_public/ISO/Calendar/Lunar_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Lunar_Calendar.public|Lunar_Calendar.public]] 
 
-### #is_/same_as :: [Lunar_Calendar.internal](/_internal/ISO/Calendar/Lunar_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Lunar_Calendar.internal|Lunar_Calendar.internal]] 
 
-### #is_/same_as :: [Lunar_Calendar.protect](/_protect/ISO/Calendar/Lunar_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Lunar_Calendar.protect|Lunar_Calendar.protect]] 
 
-### #is_/same_as :: [Lunar_Calendar.private](/_private/ISO/Calendar/Lunar_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Lunar_Calendar.private|Lunar_Calendar.private]] 
 
-### #is_/same_as :: [Lunar_Calendar.personal](/_personal/ISO/Calendar/Lunar_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Lunar_Calendar.personal|Lunar_Calendar.personal]] 
 
-### #is_/same_as :: [Lunar_Calendar.secret](/_secret/ISO/Calendar/Lunar_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Lunar_Calendar.secret|Lunar_Calendar.secret]] 
 

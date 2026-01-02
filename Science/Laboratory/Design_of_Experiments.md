@@ -36,17 +36,17 @@ Commons_category: Design of experiments
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Design_of_Experiments](/_Standards/Science/Design_of_Experiments.md) 
+### #is_/same_as :: [[/_Standards/Science/Laboratory/Design_of_Experiments|Design_of_Experiments]] 
 
-### #is_/same_as :: [Design_of_Experiments.public](/_public/Science/Design_of_Experiments.public.md) 
+### #is_/same_as :: [[/_public/Science/Laboratory/Design_of_Experiments.public|Design_of_Experiments.public]] 
 
-### #is_/same_as :: [Design_of_Experiments.internal](/_internal/Science/Design_of_Experiments.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Laboratory/Design_of_Experiments.internal|Design_of_Experiments.internal]] 
 
-### #is_/same_as :: [Design_of_Experiments.protect](/_protect/Science/Design_of_Experiments.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Laboratory/Design_of_Experiments.protect|Design_of_Experiments.protect]] 
 
-### #is_/same_as :: [Design_of_Experiments.private](/_private/Science/Design_of_Experiments.private.md) 
+### #is_/same_as :: [[/_private/Science/Laboratory/Design_of_Experiments.private|Design_of_Experiments.private]] 
 
-### #is_/same_as :: [Design_of_Experiments.personal](/_personal/Science/Design_of_Experiments.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Laboratory/Design_of_Experiments.personal|Design_of_Experiments.personal]] 
 
-### #is_/same_as :: [Design_of_Experiments.secret](/_secret/Science/Design_of_Experiments.secret.md)
+### #is_/same_as :: [[/_secret/Science/Laboratory/Design_of_Experiments.secret|Design_of_Experiments.secret]] 
 

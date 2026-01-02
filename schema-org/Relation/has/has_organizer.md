@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_organizer](/_Standards/schema-org/Relation/has/has_organizer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_organizer|has_organizer]] 
 
-### #is_/same_as :: [has_organizer.public](/_public/schema-org/Relation/has/has_organizer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_organizer.public|has_organizer.public]] 
 
-### #is_/same_as :: [has_organizer.internal](/_internal/schema-org/Relation/has/has_organizer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_organizer.internal|has_organizer.internal]] 
 
-### #is_/same_as :: [has_organizer.protect](/_protect/schema-org/Relation/has/has_organizer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_organizer.protect|has_organizer.protect]] 
 
-### #is_/same_as :: [has_organizer.private](/_private/schema-org/Relation/has/has_organizer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_organizer.private|has_organizer.private]] 
 
-### #is_/same_as :: [has_organizer.personal](/_personal/schema-org/Relation/has/has_organizer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_organizer.personal|has_organizer.personal]] 
 
-### #is_/same_as :: [has_organizer.secret](/_secret/schema-org/Relation/has/has_organizer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_organizer.secret|has_organizer.secret]] 
 

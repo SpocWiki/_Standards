@@ -42,17 +42,17 @@ Nonprofit501c7: Non-profit type referring to Social and Recreational Clubs.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c7](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7|Nonprofit501c7]] 
 
-### #is_/same_as :: [Nonprofit501c7.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.public|Nonprofit501c7.public]] 
 
-### #is_/same_as :: [Nonprofit501c7.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.internal|Nonprofit501c7.internal]] 
 
-### #is_/same_as :: [Nonprofit501c7.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.protect|Nonprofit501c7.protect]] 
 
-### #is_/same_as :: [Nonprofit501c7.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.private|Nonprofit501c7.private]] 
 
-### #is_/same_as :: [Nonprofit501c7.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.personal|Nonprofit501c7.personal]] 
 
-### #is_/same_as :: [Nonprofit501c7.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c7.secret|Nonprofit501c7.secret]] 
 

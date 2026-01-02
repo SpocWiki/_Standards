@@ -50,17 +50,17 @@ inception: 1921-06-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization)](/_Standards/UN(United_Nations)/IHO(International_Hydrographic_Organization).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IHO(International_Hydrographic_Organization)|IHO(International_Hydrographic_Organization)]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).public](/_public/UN(United_Nations)/IHO(International_Hydrographic_Organization).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IHO(International_Hydrographic_Organization).public|IHO(International_Hydrographic_Organization).public]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).internal](/_internal/UN(United_Nations)/IHO(International_Hydrographic_Organization).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IHO(International_Hydrographic_Organization).internal|IHO(International_Hydrographic_Organization).internal]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).protect](/_protect/UN(United_Nations)/IHO(International_Hydrographic_Organization).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IHO(International_Hydrographic_Organization).protect|IHO(International_Hydrographic_Organization).protect]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).private](/_private/UN(United_Nations)/IHO(International_Hydrographic_Organization).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IHO(International_Hydrographic_Organization).private|IHO(International_Hydrographic_Organization).private]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).personal](/_personal/UN(United_Nations)/IHO(International_Hydrographic_Organization).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IHO(International_Hydrographic_Organization).personal|IHO(International_Hydrographic_Organization).personal]] 
 
-### #is_/same_as :: [IHO(International_Hydrographic_Organization).secret](/_secret/UN(United_Nations)/IHO(International_Hydrographic_Organization).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IHO(International_Hydrographic_Organization).secret|IHO(International_Hydrographic_Organization).secret]] 
 

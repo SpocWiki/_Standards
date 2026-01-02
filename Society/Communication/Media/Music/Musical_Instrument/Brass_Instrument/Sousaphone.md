@@ -51,17 +51,17 @@ Commons_category: Sousaphones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sousaphone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone|Sousaphone]] 
 
-### #is_/same_as :: [Sousaphone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.public|Sousaphone.public]] 
 
-### #is_/same_as :: [Sousaphone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.internal|Sousaphone.internal]] 
 
-### #is_/same_as :: [Sousaphone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.protect|Sousaphone.protect]] 
 
-### #is_/same_as :: [Sousaphone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.private|Sousaphone.private]] 
 
-### #is_/same_as :: [Sousaphone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.personal|Sousaphone.personal]] 
 
-### #is_/same_as :: [Sousaphone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Sousaphone.secret|Sousaphone.secret]] 
 

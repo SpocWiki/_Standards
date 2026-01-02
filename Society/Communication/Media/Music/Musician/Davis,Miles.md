@@ -141,17 +141,17 @@ Facebook_username: MilesDavis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Davis,Miles](/_Standards/Society/Communication/Media/Music/Musician/Davis,Miles.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Davis,Miles|Davis,Miles]] 
 
-### #is_/same_as :: [Davis,Miles.public](/_public/Society/Communication/Media/Music/Musician/Davis,Miles.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Davis,Miles.public|Davis,Miles.public]] 
 
-### #is_/same_as :: [Davis,Miles.internal](/_internal/Society/Communication/Media/Music/Musician/Davis,Miles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Davis,Miles.internal|Davis,Miles.internal]] 
 
-### #is_/same_as :: [Davis,Miles.protect](/_protect/Society/Communication/Media/Music/Musician/Davis,Miles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Davis,Miles.protect|Davis,Miles.protect]] 
 
-### #is_/same_as :: [Davis,Miles.private](/_private/Society/Communication/Media/Music/Musician/Davis,Miles.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Davis,Miles.private|Davis,Miles.private]] 
 
-### #is_/same_as :: [Davis,Miles.personal](/_personal/Society/Communication/Media/Music/Musician/Davis,Miles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Davis,Miles.personal|Davis,Miles.personal]] 
 
-### #is_/same_as :: [Davis,Miles.secret](/_secret/Society/Communication/Media/Music/Musician/Davis,Miles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Davis,Miles.secret|Davis,Miles.secret]] 
 

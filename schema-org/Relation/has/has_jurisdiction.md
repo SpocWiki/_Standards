@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_jurisdiction](/_Standards/schema-org/Relation/has/has_jurisdiction.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_jurisdiction|has_jurisdiction]] 
 
-### #is_/same_as :: [has_jurisdiction.public](/_public/schema-org/Relation/has/has_jurisdiction.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_jurisdiction.public|has_jurisdiction.public]] 
 
-### #is_/same_as :: [has_jurisdiction.internal](/_internal/schema-org/Relation/has/has_jurisdiction.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_jurisdiction.internal|has_jurisdiction.internal]] 
 
-### #is_/same_as :: [has_jurisdiction.protect](/_protect/schema-org/Relation/has/has_jurisdiction.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_jurisdiction.protect|has_jurisdiction.protect]] 
 
-### #is_/same_as :: [has_jurisdiction.private](/_private/schema-org/Relation/has/has_jurisdiction.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_jurisdiction.private|has_jurisdiction.private]] 
 
-### #is_/same_as :: [has_jurisdiction.personal](/_personal/schema-org/Relation/has/has_jurisdiction.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_jurisdiction.personal|has_jurisdiction.personal]] 
 
-### #is_/same_as :: [has_jurisdiction.secret](/_secret/schema-org/Relation/has/has_jurisdiction.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_jurisdiction.secret|has_jurisdiction.secret]] 
 

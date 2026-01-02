@@ -81,17 +81,17 @@ IPTC_NewsCode: mediatopic/20000033
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Design](/_Standards/Technology/Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design|Design]] 
 
-### #is_/same_as :: [Design.public](/_public/Technology/Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design.public|Design.public]] 
 
-### #is_/same_as :: [Design.internal](/_internal/Technology/Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design.internal|Design.internal]] 
 
-### #is_/same_as :: [Design.protect](/_protect/Technology/Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design.protect|Design.protect]] 
 
-### #is_/same_as :: [Design.private](/_private/Technology/Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design.private|Design.private]] 
 
-### #is_/same_as :: [Design.personal](/_personal/Technology/Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design.personal|Design.personal]] 
 
-### #is_/same_as :: [Design.secret](/_secret/Technology/Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design.secret|Design.secret]] 
 

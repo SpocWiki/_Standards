@@ -92,17 +92,17 @@ UMLS_CUI: C0043526
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoology](/_Standards/bio/Zoology.md) 
+### #is_/same_as :: [[/_Standards/bio/Zoology|Zoology]] 
 
-### #is_/same_as :: [Zoology.public](/_public/bio/Zoology.public.md) 
+### #is_/same_as :: [[/_public/bio/Zoology.public|Zoology.public]] 
 
-### #is_/same_as :: [Zoology.internal](/_internal/bio/Zoology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Zoology.internal|Zoology.internal]] 
 
-### #is_/same_as :: [Zoology.protect](/_protect/bio/Zoology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Zoology.protect|Zoology.protect]] 
 
-### #is_/same_as :: [Zoology.private](/_private/bio/Zoology.private.md) 
+### #is_/same_as :: [[/_private/bio/Zoology.private|Zoology.private]] 
 
-### #is_/same_as :: [Zoology.personal](/_personal/bio/Zoology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Zoology.personal|Zoology.personal]] 
 
-### #is_/same_as :: [Zoology.secret](/_secret/bio/Zoology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Zoology.secret|Zoology.secret]] 
 

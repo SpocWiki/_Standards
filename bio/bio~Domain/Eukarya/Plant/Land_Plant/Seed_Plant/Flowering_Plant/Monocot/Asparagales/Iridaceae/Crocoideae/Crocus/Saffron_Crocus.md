@@ -138,17 +138,17 @@ UNII: Z5C927G4XF
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saffron_Crocus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus|Saffron_Crocus]] 
 
-### #is_/same_as :: [Saffron_Crocus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.public|Saffron_Crocus.public]] 
 
-### #is_/same_as :: [Saffron_Crocus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.internal|Saffron_Crocus.internal]] 
 
-### #is_/same_as :: [Saffron_Crocus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.protect|Saffron_Crocus.protect]] 
 
-### #is_/same_as :: [Saffron_Crocus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.private|Saffron_Crocus.private]] 
 
-### #is_/same_as :: [Saffron_Crocus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.personal|Saffron_Crocus.personal]] 
 
-### #is_/same_as :: [Saffron_Crocus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus/Saffron_Crocus.secret|Saffron_Crocus.secret]] 
 

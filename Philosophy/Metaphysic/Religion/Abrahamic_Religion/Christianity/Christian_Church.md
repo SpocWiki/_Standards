@@ -79,17 +79,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/TSERKOV_HRISTIANSKAYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christian_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church|Christian_Church]] 
 
-### #is_/same_as :: [Christian_Church.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.public|Christian_Church.public]] 
 
-### #is_/same_as :: [Christian_Church.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.internal|Christian_Church.internal]] 
 
-### #is_/same_as :: [Christian_Church.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.protect|Christian_Church.protect]] 
 
-### #is_/same_as :: [Christian_Church.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.private|Christian_Church.private]] 
 
-### #is_/same_as :: [Christian_Church.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.personal|Christian_Church.personal]] 
 
-### #is_/same_as :: [Christian_Church.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church.secret|Christian_Church.secret]] 
 

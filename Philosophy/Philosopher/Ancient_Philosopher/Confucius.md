@@ -202,17 +202,17 @@ namely [[../Xunzi(Philosopher)]], who wants to enforce correctness.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confucius](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Confucius.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Confucius|Confucius]] 
 
-### #is_/same_as :: [Confucius.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Confucius.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Confucius.public|Confucius.public]] 
 
-### #is_/same_as :: [Confucius.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Confucius.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Confucius.internal|Confucius.internal]] 
 
-### #is_/same_as :: [Confucius.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Confucius.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Confucius.protect|Confucius.protect]] 
 
-### #is_/same_as :: [Confucius.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Confucius.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Confucius.private|Confucius.private]] 
 
-### #is_/same_as :: [Confucius.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Confucius.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Confucius.personal|Confucius.personal]] 
 
-### #is_/same_as :: [Confucius.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Confucius.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Confucius.secret|Confucius.secret]] 
 

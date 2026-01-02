@@ -1,4 +1,4 @@
-﻿---
+---
 aliases:
 - "Georg Kerschensteiner"
 ---
@@ -13,4 +13,23 @@ aliases:
 
 
 #has_/created_/quote :: Bildung is das was übrig bleibt wenn man alles was man gelernt hat, wieder vergessen hat. 
+
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg|Kerschensteiner,Georg]] 
+
+### #is_/same_as :: [[/_public/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.public|Kerschensteiner,Georg.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.internal|Kerschensteiner,Georg.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.protect|Kerschensteiner,Georg.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.private|Kerschensteiner,Georg.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.personal|Kerschensteiner,Georg.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Learning/Pedagogy/Kerschensteiner,Georg.secret|Kerschensteiner,Georg.secret]] 
 

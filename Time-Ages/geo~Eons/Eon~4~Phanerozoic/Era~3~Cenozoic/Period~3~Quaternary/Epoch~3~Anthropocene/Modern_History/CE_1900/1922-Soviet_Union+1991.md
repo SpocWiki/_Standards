@@ -387,17 +387,17 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "UnionSovietSocialistR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1922-Soviet_Union+1991](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991|1922-Soviet_Union+1991]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.public|1922-Soviet_Union+1991.public]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.internal|1922-Soviet_Union+1991.internal]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.protect|1922-Soviet_Union+1991.protect]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.private|1922-Soviet_Union+1991.private]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.personal|1922-Soviet_Union+1991.personal]] 
 
-### #is_/same_as :: [1922-Soviet_Union+1991.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1922-Soviet_Union+1991.secret|1922-Soviet_Union+1991.secret]] 
 

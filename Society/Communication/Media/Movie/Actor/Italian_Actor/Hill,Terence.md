@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hill,Terence](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence|Hill,Terence]] 
 
-### #is_/same_as :: [Hill,Terence.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.public|Hill,Terence.public]] 
 
-### #is_/same_as :: [Hill,Terence.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.internal|Hill,Terence.internal]] 
 
-### #is_/same_as :: [Hill,Terence.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.protect|Hill,Terence.protect]] 
 
-### #is_/same_as :: [Hill,Terence.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.private|Hill,Terence.private]] 
 
-### #is_/same_as :: [Hill,Terence.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.personal|Hill,Terence.personal]] 
 
-### #is_/same_as :: [Hill,Terence.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Hill,Terence.secret|Hill,Terence.secret]] 
 

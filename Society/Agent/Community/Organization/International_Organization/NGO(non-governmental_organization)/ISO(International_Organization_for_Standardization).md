@@ -96,17 +96,17 @@ Instagram_username: isostandards
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization)|ISO(International_Organization_for_Standardization)]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).public|ISO(International_Organization_for_Standardization).public]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).internal|ISO(International_Organization_for_Standardization).internal]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).protect|ISO(International_Organization_for_Standardization).protect]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).private|ISO(International_Organization_for_Standardization).private]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).personal|ISO(International_Organization_for_Standardization).personal]] 
 
-### #is_/same_as :: [ISO(International_Organization_for_Standardization).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/ISO(International_Organization_for_Standardization).secret|ISO(International_Organization_for_Standardization).secret]] 
 

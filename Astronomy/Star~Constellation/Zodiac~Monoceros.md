@@ -54,17 +54,17 @@ official_name: Monoceros
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Monoceros](/_Standards/Astronomy/Star~Constellation/Zodiac~Monoceros.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Monoceros|Zodiac~Monoceros]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.public](/_public/Astronomy/Star~Constellation/Zodiac~Monoceros.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Monoceros.public|Zodiac~Monoceros.public]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Monoceros.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Monoceros.internal|Zodiac~Monoceros.internal]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Monoceros.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Monoceros.protect|Zodiac~Monoceros.protect]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.private](/_private/Astronomy/Star~Constellation/Zodiac~Monoceros.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Monoceros.private|Zodiac~Monoceros.private]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Monoceros.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Monoceros.personal|Zodiac~Monoceros.personal]] 
 
-### #is_/same_as :: [Zodiac~Monoceros.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Monoceros.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Monoceros.secret|Zodiac~Monoceros.secret]] 
 

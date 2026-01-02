@@ -77,17 +77,17 @@ IPTC_NewsCode: mediatopic/20000258
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal|Coal]] 
 
-### #is_/same_as :: [Coal.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.public|Coal.public]] 
 
-### #is_/same_as :: [Coal.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.internal|Coal.internal]] 
 
-### #is_/same_as :: [Coal.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.protect|Coal.protect]] 
 
-### #is_/same_as :: [Coal.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.private|Coal.private]] 
 
-### #is_/same_as :: [Coal.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.personal|Coal.personal]] 
 
-### #is_/same_as :: [Coal.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Coal.secret|Coal.secret]] 
 

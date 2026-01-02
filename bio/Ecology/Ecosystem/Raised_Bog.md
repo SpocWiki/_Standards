@@ -46,17 +46,17 @@ Commons_category: Raised bogs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raised_Bog](/_Standards/bio/Ecology/Ecosystem/Raised_Bog.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Raised_Bog|Raised_Bog]] 
 
-### #is_/same_as :: [Raised_Bog.public](/_public/bio/Ecology/Ecosystem/Raised_Bog.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Raised_Bog.public|Raised_Bog.public]] 
 
-### #is_/same_as :: [Raised_Bog.internal](/_internal/bio/Ecology/Ecosystem/Raised_Bog.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Raised_Bog.internal|Raised_Bog.internal]] 
 
-### #is_/same_as :: [Raised_Bog.protect](/_protect/bio/Ecology/Ecosystem/Raised_Bog.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Raised_Bog.protect|Raised_Bog.protect]] 
 
-### #is_/same_as :: [Raised_Bog.private](/_private/bio/Ecology/Ecosystem/Raised_Bog.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Raised_Bog.private|Raised_Bog.private]] 
 
-### #is_/same_as :: [Raised_Bog.personal](/_personal/bio/Ecology/Ecosystem/Raised_Bog.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Raised_Bog.personal|Raised_Bog.personal]] 
 
-### #is_/same_as :: [Raised_Bog.secret](/_secret/bio/Ecology/Ecosystem/Raised_Bog.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Raised_Bog.secret|Raised_Bog.secret]] 
 

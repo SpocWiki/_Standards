@@ -83,17 +83,17 @@ time_of_discovery_or_invention: 0304-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydroponics](/_Standards/Society/Economics/Industry/Agriculture/Hydroponics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Hydroponics|Hydroponics]] 
 
-### #is_/same_as :: [Hydroponics.public](/_public/Society/Economics/Industry/Agriculture/Hydroponics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Hydroponics.public|Hydroponics.public]] 
 
-### #is_/same_as :: [Hydroponics.internal](/_internal/Society/Economics/Industry/Agriculture/Hydroponics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Hydroponics.internal|Hydroponics.internal]] 
 
-### #is_/same_as :: [Hydroponics.protect](/_protect/Society/Economics/Industry/Agriculture/Hydroponics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Hydroponics.protect|Hydroponics.protect]] 
 
-### #is_/same_as :: [Hydroponics.private](/_private/Society/Economics/Industry/Agriculture/Hydroponics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Hydroponics.private|Hydroponics.private]] 
 
-### #is_/same_as :: [Hydroponics.personal](/_personal/Society/Economics/Industry/Agriculture/Hydroponics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Hydroponics.personal|Hydroponics.personal]] 
 
-### #is_/same_as :: [Hydroponics.secret](/_secret/Society/Economics/Industry/Agriculture/Hydroponics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Hydroponics.secret|Hydroponics.secret]] 
 

@@ -49,17 +49,17 @@ Commons_category: Euphoniums
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euphonium](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium|Euphonium]] 
 
-### #is_/same_as :: [Euphonium.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.public|Euphonium.public]] 
 
-### #is_/same_as :: [Euphonium.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.internal|Euphonium.internal]] 
 
-### #is_/same_as :: [Euphonium.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.protect|Euphonium.protect]] 
 
-### #is_/same_as :: [Euphonium.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.private|Euphonium.private]] 
 
-### #is_/same_as :: [Euphonium.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.personal|Euphonium.personal]] 
 
-### #is_/same_as :: [Euphonium.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Brass_Instrument/Euphonium.secret|Euphonium.secret]] 
 

@@ -46,17 +46,17 @@ NBN_System_Key: NHMSYS0000458704
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fagopyrum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum|Fagopyrum]] 
 
-### #is_/same_as :: [Fagopyrum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.public|Fagopyrum.public]] 
 
-### #is_/same_as :: [Fagopyrum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.internal|Fagopyrum.internal]] 
 
-### #is_/same_as :: [Fagopyrum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.protect|Fagopyrum.protect]] 
 
-### #is_/same_as :: [Fagopyrum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.private|Fagopyrum.private]] 
 
-### #is_/same_as :: [Fagopyrum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.personal|Fagopyrum.personal]] 
 
-### #is_/same_as :: [Fagopyrum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Caryophyllales/Polygonaceae/Polygonoideae/Fagopyrum.secret|Fagopyrum.secret]] 
 

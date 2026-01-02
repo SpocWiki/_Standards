@@ -42,17 +42,17 @@ Nonprofit501k: Non-profit type referring to Child Care Organizations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501k](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k|Nonprofit501k]] 
 
-### #is_/same_as :: [Nonprofit501k.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.public|Nonprofit501k.public]] 
 
-### #is_/same_as :: [Nonprofit501k.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.internal|Nonprofit501k.internal]] 
 
-### #is_/same_as :: [Nonprofit501k.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.protect|Nonprofit501k.protect]] 
 
-### #is_/same_as :: [Nonprofit501k.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.private|Nonprofit501k.private]] 
 
-### #is_/same_as :: [Nonprofit501k.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.personal|Nonprofit501k.personal]] 
 
-### #is_/same_as :: [Nonprofit501k.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501k.secret|Nonprofit501k.secret]] 
 

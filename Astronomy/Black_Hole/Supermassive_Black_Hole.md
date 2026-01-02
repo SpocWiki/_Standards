@@ -45,17 +45,17 @@ Commons_category: Supermassive black holes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supermassive_Black_Hole](/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole/Supermassive_Black_Hole|Supermassive_Black_Hole]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.public](/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole/Supermassive_Black_Hole.public|Supermassive_Black_Hole.public]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.internal](/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole/Supermassive_Black_Hole.internal|Supermassive_Black_Hole.internal]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.protect](/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole/Supermassive_Black_Hole.protect|Supermassive_Black_Hole.protect]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.private](/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole/Supermassive_Black_Hole.private|Supermassive_Black_Hole.private]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.personal](/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole/Supermassive_Black_Hole.personal|Supermassive_Black_Hole.personal]] 
 
-### #is_/same_as :: [Supermassive_Black_Hole.secret](/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole/Supermassive_Black_Hole.secret|Supermassive_Black_Hole.secret]] 
 

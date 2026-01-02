@@ -365,17 +365,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microsoft](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft|Microsoft]] 
 
-### #is_/same_as :: [Microsoft.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.public|Microsoft.public]] 
 
-### #is_/same_as :: [Microsoft.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.internal|Microsoft.internal]] 
 
-### #is_/same_as :: [Microsoft.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.protect|Microsoft.protect]] 
 
-### #is_/same_as :: [Microsoft.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.private|Microsoft.private]] 
 
-### #is_/same_as :: [Microsoft.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.personal|Microsoft.personal]] 
 
-### #is_/same_as :: [Microsoft.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Microsoft.secret|Microsoft.secret]] 
 

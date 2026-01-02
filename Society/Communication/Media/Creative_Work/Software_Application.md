@@ -43,17 +43,17 @@ A software application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Software_Application](/_Standards/Society/Communication/Media/Creative_Work/Software_Application.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Software_Application|Software_Application]] 
 
-### #is_/same_as :: [Software_Application.public](/_public/Society/Communication/Media/Creative_Work/Software_Application.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Software_Application.public|Software_Application.public]] 
 
-### #is_/same_as :: [Software_Application.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Application.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Software_Application.internal|Software_Application.internal]] 
 
-### #is_/same_as :: [Software_Application.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Application.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Software_Application.protect|Software_Application.protect]] 
 
-### #is_/same_as :: [Software_Application.private](/_private/Society/Communication/Media/Creative_Work/Software_Application.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Software_Application.private|Software_Application.private]] 
 
-### #is_/same_as :: [Software_Application.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Application.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Software_Application.personal|Software_Application.personal]] 
 
-### #is_/same_as :: [Software_Application.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Application.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Software_Application.secret|Software_Application.secret]] 
 

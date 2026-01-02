@@ -166,17 +166,17 @@ ZVG_number: 8160
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calcium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium|Calcium]] 
 
-### #is_/same_as :: [Calcium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]] 
 
-### #is_/same_as :: [Calcium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.internal|Calcium.internal]] 
 
-### #is_/same_as :: [Calcium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.protect|Calcium.protect]] 
 
-### #is_/same_as :: [Calcium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]] 
 
-### #is_/same_as :: [Calcium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]] 
 
-### #is_/same_as :: [Calcium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]] 
 

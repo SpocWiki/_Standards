@@ -42,17 +42,17 @@ Nonprofit501c11: Non-profit type referring to Teachers' Retirement Fund Associat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c11](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11|Nonprofit501c11]] 
 
-### #is_/same_as :: [Nonprofit501c11.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.public|Nonprofit501c11.public]] 
 
-### #is_/same_as :: [Nonprofit501c11.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.internal|Nonprofit501c11.internal]] 
 
-### #is_/same_as :: [Nonprofit501c11.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.protect|Nonprofit501c11.protect]] 
 
-### #is_/same_as :: [Nonprofit501c11.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.private|Nonprofit501c11.private]] 
 
-### #is_/same_as :: [Nonprofit501c11.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.personal|Nonprofit501c11.personal]] 
 
-### #is_/same_as :: [Nonprofit501c11.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c11.secret|Nonprofit501c11.secret]] 
 

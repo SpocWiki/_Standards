@@ -77,17 +77,17 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%20da%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries)](/_Standards/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries)|CPLP(Community_of_Portuguese_Language_Countries)]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).public](/_public/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).public|CPLP(Community_of_Portuguese_Language_Countries).public]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).internal](/_internal/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).internal|CPLP(Community_of_Portuguese_Language_Countries).internal]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).protect](/_protect/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).protect|CPLP(Community_of_Portuguese_Language_Countries).protect]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).private](/_private/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).private|CPLP(Community_of_Portuguese_Language_Countries).private]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).personal](/_personal/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).personal|CPLP(Community_of_Portuguese_Language_Countries).personal]] 
 
-### #is_/same_as :: [CPLP(Community_of_Portuguese_Language_Countries).secret](/_secret/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/CPLP(Community_of_Portuguese_Language_Countries).secret|CPLP(Community_of_Portuguese_Language_Countries).secret]] 
 

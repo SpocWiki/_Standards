@@ -69,17 +69,17 @@ MeSH_tree_code: M01.438.873
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Twin](/_Standards/bio/Reproduction/Twin.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Twin|Twin]] 
 
-### #is_/same_as :: [Twin.public](/_public/bio/Reproduction/Twin.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Twin.public|Twin.public]] 
 
-### #is_/same_as :: [Twin.internal](/_internal/bio/Reproduction/Twin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Twin.internal|Twin.internal]] 
 
-### #is_/same_as :: [Twin.protect](/_protect/bio/Reproduction/Twin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Twin.protect|Twin.protect]] 
 
-### #is_/same_as :: [Twin.private](/_private/bio/Reproduction/Twin.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Twin.private|Twin.private]] 
 
-### #is_/same_as :: [Twin.personal](/_personal/bio/Reproduction/Twin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Twin.personal|Twin.personal]] 
 
-### #is_/same_as :: [Twin.secret](/_secret/bio/Reproduction/Twin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Twin.secret|Twin.secret]] 
 

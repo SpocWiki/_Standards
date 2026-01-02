@@ -38,17 +38,17 @@ has_id_wikidata: "221275"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sewage_Treatment](/_Standards/bio/Ecology/Waste_Management/Sewage_Treatment.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management/Sewage_Treatment|Sewage_Treatment]] 
 
-### #is_/same_as :: [Sewage_Treatment.public](/_public/bio/Ecology/Waste_Management/Sewage_Treatment.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management/Sewage_Treatment.public|Sewage_Treatment.public]] 
 
-### #is_/same_as :: [Sewage_Treatment.internal](/_internal/bio/Ecology/Waste_Management/Sewage_Treatment.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management/Sewage_Treatment.internal|Sewage_Treatment.internal]] 
 
-### #is_/same_as :: [Sewage_Treatment.protect](/_protect/bio/Ecology/Waste_Management/Sewage_Treatment.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management/Sewage_Treatment.protect|Sewage_Treatment.protect]] 
 
-### #is_/same_as :: [Sewage_Treatment.private](/_private/bio/Ecology/Waste_Management/Sewage_Treatment.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management/Sewage_Treatment.private|Sewage_Treatment.private]] 
 
-### #is_/same_as :: [Sewage_Treatment.personal](/_personal/bio/Ecology/Waste_Management/Sewage_Treatment.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management/Sewage_Treatment.personal|Sewage_Treatment.personal]] 
 
-### #is_/same_as :: [Sewage_Treatment.secret](/_secret/bio/Ecology/Waste_Management/Sewage_Treatment.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management/Sewage_Treatment.secret|Sewage_Treatment.secret]] 
 

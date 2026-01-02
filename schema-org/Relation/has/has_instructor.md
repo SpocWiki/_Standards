@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_instructor](/_Standards/schema-org/Relation/has/has_instructor.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_instructor|has_instructor]] 
 
-### #is_/same_as :: [has_instructor.public](/_public/schema-org/Relation/has/has_instructor.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_instructor.public|has_instructor.public]] 
 
-### #is_/same_as :: [has_instructor.internal](/_internal/schema-org/Relation/has/has_instructor.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_instructor.internal|has_instructor.internal]] 
 
-### #is_/same_as :: [has_instructor.protect](/_protect/schema-org/Relation/has/has_instructor.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_instructor.protect|has_instructor.protect]] 
 
-### #is_/same_as :: [has_instructor.private](/_private/schema-org/Relation/has/has_instructor.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_instructor.private|has_instructor.private]] 
 
-### #is_/same_as :: [has_instructor.personal](/_personal/schema-org/Relation/has/has_instructor.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_instructor.personal|has_instructor.personal]] 
 
-### #is_/same_as :: [has_instructor.secret](/_secret/schema-org/Relation/has/has_instructor.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_instructor.secret|has_instructor.secret]] 
 

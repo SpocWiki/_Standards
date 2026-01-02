@@ -106,17 +106,17 @@ birth_name: Gilbert Newton Lewis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lewis,Gilbert_N.](/_Standards/Chemistry/Chemist/Lewis,Gilbert_N..md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Lewis,Gilbert_N.|Lewis,Gilbert_N.]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..public](/_public/Chemistry/Chemist/Lewis,Gilbert_N..public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Lewis,Gilbert_N..public|Lewis,Gilbert_N..public]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..internal](/_internal/Chemistry/Chemist/Lewis,Gilbert_N..internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Lewis,Gilbert_N..internal|Lewis,Gilbert_N..internal]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..protect](/_protect/Chemistry/Chemist/Lewis,Gilbert_N..protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Lewis,Gilbert_N..protect|Lewis,Gilbert_N..protect]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..private](/_private/Chemistry/Chemist/Lewis,Gilbert_N..private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Lewis,Gilbert_N..private|Lewis,Gilbert_N..private]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..personal](/_personal/Chemistry/Chemist/Lewis,Gilbert_N..personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Lewis,Gilbert_N..personal|Lewis,Gilbert_N..personal]] 
 
-### #is_/same_as :: [Lewis,Gilbert_N..secret](/_secret/Chemistry/Chemist/Lewis,Gilbert_N..secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Lewis,Gilbert_N..secret|Lewis,Gilbert_N..secret]] 
 

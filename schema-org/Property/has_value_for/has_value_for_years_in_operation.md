@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_years_in_operation](/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_years_in_operation|has_value_for_years_in_operation]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.public](/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_years_in_operation.public|has_value_for_years_in_operation.public]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.internal](/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_years_in_operation.internal|has_value_for_years_in_operation.internal]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.protect](/_protect/schema-org/Property/has_value_for/has_value_for_years_in_operation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_years_in_operation.protect|has_value_for_years_in_operation.protect]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.private](/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_years_in_operation.private|has_value_for_years_in_operation.private]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.personal](/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_years_in_operation.personal|has_value_for_years_in_operation.personal]] 
 
-### #is_/same_as :: [has_value_for_years_in_operation.secret](/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_years_in_operation.secret|has_value_for_years_in_operation.secret]] 
 

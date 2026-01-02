@@ -45,17 +45,17 @@ Colon_Classification: S:53
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Affect](/_Standards/bio/Psychology/Affect.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect|Affect]] 
 
-### #is_/same_as :: [Affect.public](/_public/bio/Psychology/Affect.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect.public|Affect.public]] 
 
-### #is_/same_as :: [Affect.internal](/_internal/bio/Psychology/Affect.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect.internal|Affect.internal]] 
 
-### #is_/same_as :: [Affect.protect](/_protect/bio/Psychology/Affect.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect.protect|Affect.protect]] 
 
-### #is_/same_as :: [Affect.private](/_private/bio/Psychology/Affect.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect.private|Affect.private]] 
 
-### #is_/same_as :: [Affect.personal](/_personal/bio/Psychology/Affect.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect.personal|Affect.personal]] 
 
-### #is_/same_as :: [Affect.secret](/_secret/bio/Psychology/Affect.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect.secret|Affect.secret]] 
 

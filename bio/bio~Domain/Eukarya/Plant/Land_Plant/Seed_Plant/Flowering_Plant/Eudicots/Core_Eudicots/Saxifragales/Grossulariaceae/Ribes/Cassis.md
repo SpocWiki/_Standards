@@ -222,17 +222,17 @@ EPPO_Code: RIBNI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cassis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis|Cassis]] 
 
-### #is_/same_as :: [Cassis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.public|Cassis.public]] 
 
-### #is_/same_as :: [Cassis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.internal|Cassis.internal]] 
 
-### #is_/same_as :: [Cassis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.protect|Cassis.protect]] 
 
-### #is_/same_as :: [Cassis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.private|Cassis.private]] 
 
-### #is_/same_as :: [Cassis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.personal|Cassis.personal]] 
 
-### #is_/same_as :: [Cassis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Cassis.secret|Cassis.secret]] 
 

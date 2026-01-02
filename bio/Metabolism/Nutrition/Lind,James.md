@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lind,James](/_Standards/bio/Metabolism/Nutrition/Lind,James.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Lind,James|Lind,James]] 
 
-### #is_/same_as :: [Lind,James.public](/_public/bio/Metabolism/Nutrition/Lind,James.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Lind,James.public|Lind,James.public]] 
 
-### #is_/same_as :: [Lind,James.internal](/_internal/bio/Metabolism/Nutrition/Lind,James.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Lind,James.internal|Lind,James.internal]] 
 
-### #is_/same_as :: [Lind,James.protect](/_protect/bio/Metabolism/Nutrition/Lind,James.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Lind,James.protect|Lind,James.protect]] 
 
-### #is_/same_as :: [Lind,James.private](/_private/bio/Metabolism/Nutrition/Lind,James.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Lind,James.private|Lind,James.private]] 
 
-### #is_/same_as :: [Lind,James.personal](/_personal/bio/Metabolism/Nutrition/Lind,James.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Lind,James.personal|Lind,James.personal]] 
 
-### #is_/same_as :: [Lind,James.secret](/_secret/bio/Metabolism/Nutrition/Lind,James.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Lind,James.secret|Lind,James.secret]] 
 

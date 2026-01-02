@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_study](/_Standards/schema-org/Relation/has/has_study.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_study|has_study]] 
 
-### #is_/same_as :: [has_study.public](/_public/schema-org/Relation/has/has_study.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_study.public|has_study.public]] 
 
-### #is_/same_as :: [has_study.internal](/_internal/schema-org/Relation/has/has_study.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_study.internal|has_study.internal]] 
 
-### #is_/same_as :: [has_study.protect](/_protect/schema-org/Relation/has/has_study.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_study.protect|has_study.protect]] 
 
-### #is_/same_as :: [has_study.private](/_private/schema-org/Relation/has/has_study.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_study.private|has_study.private]] 
 
-### #is_/same_as :: [has_study.personal](/_personal/schema-org/Relation/has/has_study.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_study.personal|has_study.personal]] 
 
-### #is_/same_as :: [has_study.secret](/_secret/schema-org/Relation/has/has_study.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_study.secret|has_study.secret]] 
 

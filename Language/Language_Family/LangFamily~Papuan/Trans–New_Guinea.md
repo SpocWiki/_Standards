@@ -37,17 +37,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Trans-New%20Guinea%20l
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trans–New_Guinea](/_Standards/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea|Trans–New_Guinea]] 
 
-### #is_/same_as :: [Trans–New_Guinea.public](/_public/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.public|Trans–New_Guinea.public]] 
 
-### #is_/same_as :: [Trans–New_Guinea.internal](/_internal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.internal|Trans–New_Guinea.internal]] 
 
-### #is_/same_as :: [Trans–New_Guinea.protect](/_protect/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.protect|Trans–New_Guinea.protect]] 
 
-### #is_/same_as :: [Trans–New_Guinea.private](/_private/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.private|Trans–New_Guinea.private]] 
 
-### #is_/same_as :: [Trans–New_Guinea.personal](/_personal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.personal|Trans–New_Guinea.personal]] 
 
-### #is_/same_as :: [Trans–New_Guinea.secret](/_secret/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily~Papuan/Trans–New_Guinea.secret|Trans–New_Guinea.secret]] 
 

@@ -46,17 +46,17 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/DIAKRITICHESKIE_ZNAKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diacritic](/_Standards/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic|Diacritic]] 
 
-### #is_/same_as :: [Diacritic.public](/_public/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.public|Diacritic.public]] 
 
-### #is_/same_as :: [Diacritic.internal](/_internal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.internal|Diacritic.internal]] 
 
-### #is_/same_as :: [Diacritic.protect](/_protect/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.protect|Diacritic.protect]] 
 
-### #is_/same_as :: [Diacritic.private](/_private/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.private|Diacritic.private]] 
 
-### #is_/same_as :: [Diacritic.personal](/_personal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.personal|Diacritic.personal]] 
 
-### #is_/same_as :: [Diacritic.secret](/_secret/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Latn/Latin-script_alphabet/Diacritic.secret|Diacritic.secret]] 
 

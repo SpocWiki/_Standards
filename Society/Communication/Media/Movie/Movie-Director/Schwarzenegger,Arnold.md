@@ -44,17 +44,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwarzenegger,Arnold](/_Standards/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold|Schwarzenegger,Arnold]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.public](/_public/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.public|Schwarzenegger,Arnold.public]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.internal|Schwarzenegger,Arnold.internal]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.protect|Schwarzenegger,Arnold.protect]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.private](/_private/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.private|Schwarzenegger,Arnold.private]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.personal|Schwarzenegger,Arnold.personal]] 
 
-### #is_/same_as :: [Schwarzenegger,Arnold.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.secret|Schwarzenegger,Arnold.secret]] 
 

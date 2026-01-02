@@ -67,17 +67,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period~1~Tonian](/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian|Period~1~Tonian]] 
 
-### #is_/same_as :: [Period~1~Tonian.public](/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.public|Period~1~Tonian.public]] 
 
-### #is_/same_as :: [Period~1~Tonian.internal](/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.internal|Period~1~Tonian.internal]] 
 
-### #is_/same_as :: [Period~1~Tonian.protect](/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.protect|Period~1~Tonian.protect]] 
 
-### #is_/same_as :: [Period~1~Tonian.private](/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.private|Period~1~Tonian.private]] 
 
-### #is_/same_as :: [Period~1~Tonian.personal](/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.personal|Period~1~Tonian.personal]] 
 
-### #is_/same_as :: [Period~1~Tonian.secret](/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~3~Proterozoic/Era~3~Neoproterozoic/Period~1~Tonian.secret|Period~1~Tonian.secret]] 
 

@@ -62,17 +62,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Zorgt%20jouw%20tandpas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nanotechnology](/_Standards/Technology/Nanotechnology.md) 
+### #is_/same_as :: [[/_Standards/Technology/Nanotechnology|Nanotechnology]] 
 
-### #is_/same_as :: [Nanotechnology.public](/_public/Technology/Nanotechnology.public.md) 
+### #is_/same_as :: [[/_public/Technology/Nanotechnology.public|Nanotechnology.public]] 
 
-### #is_/same_as :: [Nanotechnology.internal](/_internal/Technology/Nanotechnology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Nanotechnology.internal|Nanotechnology.internal]] 
 
-### #is_/same_as :: [Nanotechnology.protect](/_protect/Technology/Nanotechnology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Nanotechnology.protect|Nanotechnology.protect]] 
 
-### #is_/same_as :: [Nanotechnology.private](/_private/Technology/Nanotechnology.private.md) 
+### #is_/same_as :: [[/_private/Technology/Nanotechnology.private|Nanotechnology.private]] 
 
-### #is_/same_as :: [Nanotechnology.personal](/_personal/Technology/Nanotechnology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Nanotechnology.personal|Nanotechnology.personal]] 
 
-### #is_/same_as :: [Nanotechnology.secret](/_secret/Technology/Nanotechnology.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Nanotechnology.secret|Nanotechnology.secret]] 
 

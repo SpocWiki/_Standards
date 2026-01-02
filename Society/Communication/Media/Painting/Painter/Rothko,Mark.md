@@ -163,17 +163,17 @@ date_of_birth: 1903-09-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rothko,Mark](/_Standards/Society/Communication/Media/Painting/Painter/Rothko,Mark.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Rothko,Mark|Rothko,Mark]] 
 
-### #is_/same_as :: [Rothko,Mark.public](/_public/Society/Communication/Media/Painting/Painter/Rothko,Mark.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Rothko,Mark.public|Rothko,Mark.public]] 
 
-### #is_/same_as :: [Rothko,Mark.internal](/_internal/Society/Communication/Media/Painting/Painter/Rothko,Mark.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Rothko,Mark.internal|Rothko,Mark.internal]] 
 
-### #is_/same_as :: [Rothko,Mark.protect](/_protect/Society/Communication/Media/Painting/Painter/Rothko,Mark.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Rothko,Mark.protect|Rothko,Mark.protect]] 
 
-### #is_/same_as :: [Rothko,Mark.private](/_private/Society/Communication/Media/Painting/Painter/Rothko,Mark.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Rothko,Mark.private|Rothko,Mark.private]] 
 
-### #is_/same_as :: [Rothko,Mark.personal](/_personal/Society/Communication/Media/Painting/Painter/Rothko,Mark.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Rothko,Mark.personal|Rothko,Mark.personal]] 
 
-### #is_/same_as :: [Rothko,Mark.secret](/_secret/Society/Communication/Media/Painting/Painter/Rothko,Mark.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Rothko,Mark.secret|Rothko,Mark.secret]] 
 

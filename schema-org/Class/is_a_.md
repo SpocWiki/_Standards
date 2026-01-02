@@ -17,17 +17,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_a_](/_Standards/schema-org/Class/is_a_.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_|is_a_]] 
 
-### #is_/same_as :: [is_a_.public](/_public/schema-org/Class/is_a_.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_.public|is_a_.public]] 
 
-### #is_/same_as :: [is_a_.internal](/_internal/schema-org/Class/is_a_.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_.internal|is_a_.internal]] 
 
-### #is_/same_as :: [is_a_.protect](/_protect/schema-org/Class/is_a_.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_.protect|is_a_.protect]] 
 
-### #is_/same_as :: [is_a_.private](/_private/schema-org/Class/is_a_.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_.private|is_a_.private]] 
 
-### #is_/same_as :: [is_a_.personal](/_personal/schema-org/Class/is_a_.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_.personal|is_a_.personal]] 
 
-### #is_/same_as :: [is_a_.secret](/_secret/schema-org/Class/is_a_.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_.secret|is_a_.secret]] 
 

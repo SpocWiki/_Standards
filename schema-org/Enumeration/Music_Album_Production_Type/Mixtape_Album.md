@@ -42,17 +42,17 @@ MixtapeAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mixtape_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album|Mixtape_Album]] 
 
-### #is_/same_as :: [Mixtape_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.public|Mixtape_Album.public]] 
 
-### #is_/same_as :: [Mixtape_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.internal|Mixtape_Album.internal]] 
 
-### #is_/same_as :: [Mixtape_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.protect|Mixtape_Album.protect]] 
 
-### #is_/same_as :: [Mixtape_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.private|Mixtape_Album.private]] 
 
-### #is_/same_as :: [Mixtape_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.personal|Mixtape_Album.personal]] 
 
-### #is_/same_as :: [Mixtape_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Mixtape_Album.secret|Mixtape_Album.secret]] 
 

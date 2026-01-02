@@ -60,17 +60,17 @@ meaning 'eastern' or loosely 'oriental'.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direction~East](/_Standards/Earth/2D-Directions/Direction~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~East|Direction~East]] 
 
-### #is_/same_as :: [Direction~East.public](/_public/Earth/2D-Directions/Direction~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~East.public|Direction~East.public]] 
 
-### #is_/same_as :: [Direction~East.internal](/_internal/Earth/2D-Directions/Direction~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~East.internal|Direction~East.internal]] 
 
-### #is_/same_as :: [Direction~East.protect](/_protect/Earth/2D-Directions/Direction~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~East.protect|Direction~East.protect]] 
 
-### #is_/same_as :: [Direction~East.private](/_private/Earth/2D-Directions/Direction~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~East.private|Direction~East.private]] 
 
-### #is_/same_as :: [Direction~East.personal](/_personal/Earth/2D-Directions/Direction~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~East.personal|Direction~East.personal]] 
 
-### #is_/same_as :: [Direction~East.secret](/_secret/Earth/2D-Directions/Direction~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~East.secret|Direction~East.secret]] 
 

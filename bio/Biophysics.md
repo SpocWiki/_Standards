@@ -62,17 +62,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/BIOFIZIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biophysics](/_Standards/bio/Biophysics.md) 
+### #is_/same_as :: [[/_Standards/bio/Biophysics|Biophysics]] 
 
-### #is_/same_as :: [Biophysics.public](/_public/bio/Biophysics.public.md) 
+### #is_/same_as :: [[/_public/bio/Biophysics.public|Biophysics.public]] 
 
-### #is_/same_as :: [Biophysics.internal](/_internal/bio/Biophysics.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biophysics.internal|Biophysics.internal]] 
 
-### #is_/same_as :: [Biophysics.protect](/_protect/bio/Biophysics.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biophysics.protect|Biophysics.protect]] 
 
-### #is_/same_as :: [Biophysics.private](/_private/bio/Biophysics.private.md) 
+### #is_/same_as :: [[/_private/bio/Biophysics.private|Biophysics.private]] 
 
-### #is_/same_as :: [Biophysics.personal](/_personal/bio/Biophysics.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biophysics.personal|Biophysics.personal]] 
 
-### #is_/same_as :: [Biophysics.secret](/_secret/bio/Biophysics.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biophysics.secret|Biophysics.secret]] 
 

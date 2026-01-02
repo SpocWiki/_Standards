@@ -39,17 +39,17 @@ As a [[LocalBusiness]] it can be described as a [[provider]] of one or more [[..
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AccountingService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService|FileClass~AccountingService]] 
 
-### #is_/same_as :: [FileClass~AccountingService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.public|FileClass~AccountingService.public]] 
 
-### #is_/same_as :: [FileClass~AccountingService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.internal|FileClass~AccountingService.internal]] 
 
-### #is_/same_as :: [FileClass~AccountingService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.protect|FileClass~AccountingService.protect]] 
 
-### #is_/same_as :: [FileClass~AccountingService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.private|FileClass~AccountingService.private]] 
 
-### #is_/same_as :: [FileClass~AccountingService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.personal|FileClass~AccountingService.personal]] 
 
-### #is_/same_as :: [FileClass~AccountingService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FinancialService/FileClass~AccountingService.secret|FileClass~AccountingService.secret]] 
 

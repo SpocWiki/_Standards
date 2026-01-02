@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation](/_Standards/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation|Shanghai_Cooperation_Organisation]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.public](/_public/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.public|Shanghai_Cooperation_Organisation.public]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.internal|Shanghai_Cooperation_Organisation.internal]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.protect|Shanghai_Cooperation_Organisation.protect]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.private](/_private/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.private|Shanghai_Cooperation_Organisation.private]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.personal|Shanghai_Cooperation_Organisation.personal]] 
 
-### #is_/same_as :: [Shanghai_Cooperation_Organisation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Shanghai_Cooperation_Organisation.secret|Shanghai_Cooperation_Organisation.secret]] 
 

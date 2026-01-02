@@ -79,17 +79,17 @@ Commons_category: Berkeley Software Distribution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BSD-Unix](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix|BSD-Unix]] 
 
-### #is_/same_as :: [BSD-Unix.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.public|BSD-Unix.public]] 
 
-### #is_/same_as :: [BSD-Unix.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.internal|BSD-Unix.internal]] 
 
-### #is_/same_as :: [BSD-Unix.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.protect|BSD-Unix.protect]] 
 
-### #is_/same_as :: [BSD-Unix.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.private|BSD-Unix.private]] 
 
-### #is_/same_as :: [BSD-Unix.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.personal|BSD-Unix.personal]] 
 
-### #is_/same_as :: [BSD-Unix.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Unix/Unix-Derivatives/BSD-Unix.secret|BSD-Unix.secret]] 
 

@@ -69,17 +69,17 @@ name_in_native_language: Johann Georg Faust
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faust,Johann_Georg](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg|Faust,Johann_Georg]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.public|Faust,Johann_Georg.public]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.internal|Faust,Johann_Georg.internal]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.protect|Faust,Johann_Georg.protect]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.private|Faust,Johann_Georg.private]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.personal|Faust,Johann_Georg.personal]] 
 
-### #is_/same_as :: [Faust,Johann_Georg.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust,Johann_Georg.secret|Faust,Johann_Georg.secret]] 
 

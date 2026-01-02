@@ -41,17 +41,17 @@ A golf course.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golf_Course](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course|Golf_Course]] 
 
-### #is_/same_as :: [Golf_Course.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.public|Golf_Course.public]] 
 
-### #is_/same_as :: [Golf_Course.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.internal|Golf_Course.internal]] 
 
-### #is_/same_as :: [Golf_Course.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.protect|Golf_Course.protect]] 
 
-### #is_/same_as :: [Golf_Course.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.private|Golf_Course.private]] 
 
-### #is_/same_as :: [Golf_Course.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.personal|Golf_Course.personal]] 
 
-### #is_/same_as :: [Golf_Course.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Golf_Course.secret|Golf_Course.secret]] 
 

@@ -37,17 +37,17 @@ A music venue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicVenue](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue|FileClass~MusicVenue]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.public|FileClass~MusicVenue.public]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.internal|FileClass~MusicVenue.internal]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.protect|FileClass~MusicVenue.protect]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.private|FileClass~MusicVenue.private]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.personal|FileClass~MusicVenue.personal]] 
 
-### #is_/same_as :: [FileClass~MusicVenue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~MusicVenue.secret|FileClass~MusicVenue.secret]] 
 

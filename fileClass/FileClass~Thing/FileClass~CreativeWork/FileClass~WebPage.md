@@ -140,17 +140,17 @@ Specialty:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WebPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage|FileClass~WebPage]] 
 
-### #is_/same_as :: [FileClass~WebPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.public|FileClass~WebPage.public]] 
 
-### #is_/same_as :: [FileClass~WebPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.internal|FileClass~WebPage.internal]] 
 
-### #is_/same_as :: [FileClass~WebPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.protect|FileClass~WebPage.protect]] 
 
-### #is_/same_as :: [FileClass~WebPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.private|FileClass~WebPage.private]] 
 
-### #is_/same_as :: [FileClass~WebPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.personal|FileClass~WebPage.personal]] 
 
-### #is_/same_as :: [FileClass~WebPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage.secret|FileClass~WebPage.secret]] 
 

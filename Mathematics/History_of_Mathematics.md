@@ -41,17 +41,17 @@ Krugosvet_article_archived_: matematika/matematiki-istoriya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Mathematics](/_Standards/Mathematics/History_of_Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/History_of_Mathematics|History_of_Mathematics]] 
 
-### #is_/same_as :: [History_of_Mathematics.public](/_public/Mathematics/History_of_Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/History_of_Mathematics.public|History_of_Mathematics.public]] 
 
-### #is_/same_as :: [History_of_Mathematics.internal](/_internal/Mathematics/History_of_Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/History_of_Mathematics.internal|History_of_Mathematics.internal]] 
 
-### #is_/same_as :: [History_of_Mathematics.protect](/_protect/Mathematics/History_of_Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/History_of_Mathematics.protect|History_of_Mathematics.protect]] 
 
-### #is_/same_as :: [History_of_Mathematics.private](/_private/Mathematics/History_of_Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/History_of_Mathematics.private|History_of_Mathematics.private]] 
 
-### #is_/same_as :: [History_of_Mathematics.personal](/_personal/Mathematics/History_of_Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/History_of_Mathematics.personal|History_of_Mathematics.personal]] 
 
-### #is_/same_as :: [History_of_Mathematics.secret](/_secret/Mathematics/History_of_Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/History_of_Mathematics.secret|History_of_Mathematics.secret]] 
 

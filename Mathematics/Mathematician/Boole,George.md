@@ -125,17 +125,17 @@ ISNI: 0000000110614506
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boole,George](/_Standards/Mathematics/Mathematician/Boole,George.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Boole,George|Boole,George]] 
 
-### #is_/same_as :: [Boole,George.public](/_public/Mathematics/Mathematician/Boole,George.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Boole,George.public|Boole,George.public]] 
 
-### #is_/same_as :: [Boole,George.internal](/_internal/Mathematics/Mathematician/Boole,George.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Boole,George.internal|Boole,George.internal]] 
 
-### #is_/same_as :: [Boole,George.protect](/_protect/Mathematics/Mathematician/Boole,George.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Boole,George.protect|Boole,George.protect]] 
 
-### #is_/same_as :: [Boole,George.private](/_private/Mathematics/Mathematician/Boole,George.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Boole,George.private|Boole,George.private]] 
 
-### #is_/same_as :: [Boole,George.personal](/_personal/Mathematics/Mathematician/Boole,George.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Boole,George.personal|Boole,George.personal]] 
 
-### #is_/same_as :: [Boole,George.secret](/_secret/Mathematics/Mathematician/Boole,George.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Boole,George.secret|Boole,George.secret]] 
 

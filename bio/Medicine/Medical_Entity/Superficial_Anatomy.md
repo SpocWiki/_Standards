@@ -41,17 +41,17 @@ Anatomical features that can be observed by sight (without dissection), includin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Superficial_Anatomy](/_Standards/bio/Medicine/Medical_Entity/Superficial_Anatomy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Superficial_Anatomy|Superficial_Anatomy]] 
 
-### #is_/same_as :: [Superficial_Anatomy.public](/_public/bio/Medicine/Medical_Entity/Superficial_Anatomy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Superficial_Anatomy.public|Superficial_Anatomy.public]] 
 
-### #is_/same_as :: [Superficial_Anatomy.internal](/_internal/bio/Medicine/Medical_Entity/Superficial_Anatomy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Superficial_Anatomy.internal|Superficial_Anatomy.internal]] 
 
-### #is_/same_as :: [Superficial_Anatomy.protect](/_protect/bio/Medicine/Medical_Entity/Superficial_Anatomy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Superficial_Anatomy.protect|Superficial_Anatomy.protect]] 
 
-### #is_/same_as :: [Superficial_Anatomy.private](/_private/bio/Medicine/Medical_Entity/Superficial_Anatomy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Superficial_Anatomy.private|Superficial_Anatomy.private]] 
 
-### #is_/same_as :: [Superficial_Anatomy.personal](/_personal/bio/Medicine/Medical_Entity/Superficial_Anatomy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Superficial_Anatomy.personal|Superficial_Anatomy.personal]] 
 
-### #is_/same_as :: [Superficial_Anatomy.secret](/_secret/bio/Medicine/Medical_Entity/Superficial_Anatomy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Superficial_Anatomy.secret|Superficial_Anatomy.secret]] 
 

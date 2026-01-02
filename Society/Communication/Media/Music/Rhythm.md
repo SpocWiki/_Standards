@@ -77,17 +77,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Rhyth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhythm](/_Standards/Society/Communication/Media/Music/Rhythm.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Rhythm|Rhythm]] 
 
-### #is_/same_as :: [Rhythm.public](/_public/Society/Communication/Media/Music/Rhythm.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Rhythm.public|Rhythm.public]] 
 
-### #is_/same_as :: [Rhythm.internal](/_internal/Society/Communication/Media/Music/Rhythm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Rhythm.internal|Rhythm.internal]] 
 
-### #is_/same_as :: [Rhythm.protect](/_protect/Society/Communication/Media/Music/Rhythm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Rhythm.protect|Rhythm.protect]] 
 
-### #is_/same_as :: [Rhythm.private](/_private/Society/Communication/Media/Music/Rhythm.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Rhythm.private|Rhythm.private]] 
 
-### #is_/same_as :: [Rhythm.personal](/_personal/Society/Communication/Media/Music/Rhythm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Rhythm.personal|Rhythm.personal]] 
 
-### #is_/same_as :: [Rhythm.secret](/_secret/Society/Communication/Media/Music/Rhythm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Rhythm.secret|Rhythm.secret]] 
 

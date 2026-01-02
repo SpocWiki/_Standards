@@ -157,17 +157,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/TOMSON_DZHOZEF_DZHON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thomson,J.J.](/_Standards/Science/Physics/Physicist/Thomson,J.J..md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Thomson,J.J.|Thomson,J.J.]] 
 
-### #is_/same_as :: [Thomson,J.J..public](/_public/Science/Physics/Physicist/Thomson,J.J..public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Thomson,J.J..public|Thomson,J.J..public]] 
 
-### #is_/same_as :: [Thomson,J.J..internal](/_internal/Science/Physics/Physicist/Thomson,J.J..internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Thomson,J.J..internal|Thomson,J.J..internal]] 
 
-### #is_/same_as :: [Thomson,J.J..protect](/_protect/Science/Physics/Physicist/Thomson,J.J..protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Thomson,J.J..protect|Thomson,J.J..protect]] 
 
-### #is_/same_as :: [Thomson,J.J..private](/_private/Science/Physics/Physicist/Thomson,J.J..private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Thomson,J.J..private|Thomson,J.J..private]] 
 
-### #is_/same_as :: [Thomson,J.J..personal](/_personal/Science/Physics/Physicist/Thomson,J.J..personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Thomson,J.J..personal|Thomson,J.J..personal]] 
 
-### #is_/same_as :: [Thomson,J.J..secret](/_secret/Science/Physics/Physicist/Thomson,J.J..secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Thomson,J.J..secret|Thomson,J.J..secret]] 
 

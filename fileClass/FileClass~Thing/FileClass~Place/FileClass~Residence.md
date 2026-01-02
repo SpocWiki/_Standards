@@ -47,17 +47,17 @@ AccommodationFloorPlan:: {"type":"MultiFile","options":{"dvQueryString":"dv.page
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Residence](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence|FileClass~Residence]] 
 
-### #is_/same_as :: [FileClass~Residence.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.public|FileClass~Residence.public]] 
 
-### #is_/same_as :: [FileClass~Residence.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.internal|FileClass~Residence.internal]] 
 
-### #is_/same_as :: [FileClass~Residence.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.protect|FileClass~Residence.protect]] 
 
-### #is_/same_as :: [FileClass~Residence.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.private|FileClass~Residence.private]] 
 
-### #is_/same_as :: [FileClass~Residence.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.personal|FileClass~Residence.personal]] 
 
-### #is_/same_as :: [FileClass~Residence.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Residence.secret|FileClass~Residence.secret]] 
 

@@ -37,17 +37,17 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService|FileClass~CableOrSatelliteService]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.public|FileClass~CableOrSatelliteService.public]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.internal|FileClass~CableOrSatelliteService.internal]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.protect|FileClass~CableOrSatelliteService.protect]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.private|FileClass~CableOrSatelliteService.private]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.personal|FileClass~CableOrSatelliteService.personal]] 
 
-### #is_/same_as :: [FileClass~CableOrSatelliteService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~CableOrSatelliteService.secret|FileClass~CableOrSatelliteService.secret]] 
 

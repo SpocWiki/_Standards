@@ -74,17 +74,17 @@ Commons_category: DRAM
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory)|DRAM(Dynamic_random-Access_Memory)]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).public](/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).public|DRAM(Dynamic_random-Access_Memory).public]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).internal](/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).internal|DRAM(Dynamic_random-Access_Memory).internal]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).protect](/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).protect|DRAM(Dynamic_random-Access_Memory).protect]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).private](/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).private|DRAM(Dynamic_random-Access_Memory).private]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).personal](/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).personal|DRAM(Dynamic_random-Access_Memory).personal]] 
 
-### #is_/same_as :: [DRAM(Dynamic_random-Access_Memory).secret](/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory)/DRAM(Dynamic_random-Access_Memory).secret|DRAM(Dynamic_random-Access_Memory).secret]] 
 

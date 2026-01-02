@@ -122,17 +122,17 @@ AGORHA_UUID: 4e26d120-95fb-46be-ad5d-e66882a8bf66
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ravel,Maurice](/_Standards/Society/Communication/Media/Music/Composer/Ravel,Maurice.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Ravel,Maurice|Ravel,Maurice]] 
 
-### #is_/same_as :: [Ravel,Maurice.public](/_public/Society/Communication/Media/Music/Composer/Ravel,Maurice.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Ravel,Maurice.public|Ravel,Maurice.public]] 
 
-### #is_/same_as :: [Ravel,Maurice.internal](/_internal/Society/Communication/Media/Music/Composer/Ravel,Maurice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Ravel,Maurice.internal|Ravel,Maurice.internal]] 
 
-### #is_/same_as :: [Ravel,Maurice.protect](/_protect/Society/Communication/Media/Music/Composer/Ravel,Maurice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Ravel,Maurice.protect|Ravel,Maurice.protect]] 
 
-### #is_/same_as :: [Ravel,Maurice.private](/_private/Society/Communication/Media/Music/Composer/Ravel,Maurice.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Ravel,Maurice.private|Ravel,Maurice.private]] 
 
-### #is_/same_as :: [Ravel,Maurice.personal](/_personal/Society/Communication/Media/Music/Composer/Ravel,Maurice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Ravel,Maurice.personal|Ravel,Maurice.personal]] 
 
-### #is_/same_as :: [Ravel,Maurice.secret](/_secret/Society/Communication/Media/Music/Composer/Ravel,Maurice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Ravel,Maurice.secret|Ravel,Maurice.secret]] 
 

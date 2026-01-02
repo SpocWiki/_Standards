@@ -63,17 +63,17 @@ taxon_name: Sphyrnidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hammerhead_Shark](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark|Hammerhead_Shark]] 
 
-### #is_/same_as :: [Hammerhead_Shark.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.public|Hammerhead_Shark.public]] 
 
-### #is_/same_as :: [Hammerhead_Shark.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.internal|Hammerhead_Shark.internal]] 
 
-### #is_/same_as :: [Hammerhead_Shark.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.protect|Hammerhead_Shark.protect]] 
 
-### #is_/same_as :: [Hammerhead_Shark.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.private|Hammerhead_Shark.private]] 
 
-### #is_/same_as :: [Hammerhead_Shark.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.personal|Hammerhead_Shark.personal]] 
 
-### #is_/same_as :: [Hammerhead_Shark.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Chondrichthyes/Elasmobranchii/Shark/Carcharhiniformes/Hammerhead_Shark.secret|Hammerhead_Shark.secret]] 
 

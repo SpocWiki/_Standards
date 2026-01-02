@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Activist](/_Standards/Society/Social_Issues/Social_Activist.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Social_Activist|Social_Activist]] 
 
-### #is_/same_as :: [Social_Activist.public](/_public/Society/Social_Issues/Social_Activist.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Social_Activist.public|Social_Activist.public]] 
 
-### #is_/same_as :: [Social_Activist.internal](/_internal/Society/Social_Issues/Social_Activist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Social_Activist.internal|Social_Activist.internal]] 
 
-### #is_/same_as :: [Social_Activist.protect](/_protect/Society/Social_Issues/Social_Activist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Social_Activist.protect|Social_Activist.protect]] 
 
-### #is_/same_as :: [Social_Activist.private](/_private/Society/Social_Issues/Social_Activist.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Social_Activist.private|Social_Activist.private]] 
 
-### #is_/same_as :: [Social_Activist.personal](/_personal/Society/Social_Issues/Social_Activist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Social_Activist.personal|Social_Activist.personal]] 
 
-### #is_/same_as :: [Social_Activist.secret](/_secret/Society/Social_Issues/Social_Activist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Social_Activist.secret|Social_Activist.secret]] 
 

@@ -76,17 +76,17 @@ Commons_category: Intermolecular forces
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Intermolecular_Force](/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force|Intermolecular_Force]] 
 
-### #is_/same_as :: [Intermolecular_Force.public](/_public/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.public|Intermolecular_Force.public]] 
 
-### #is_/same_as :: [Intermolecular_Force.internal](/_internal/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.internal|Intermolecular_Force.internal]] 
 
-### #is_/same_as :: [Intermolecular_Force.protect](/_protect/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.protect|Intermolecular_Force.protect]] 
 
-### #is_/same_as :: [Intermolecular_Force.private](/_private/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.private|Intermolecular_Force.private]] 
 
-### #is_/same_as :: [Intermolecular_Force.personal](/_personal/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.personal|Intermolecular_Force.personal]] 
 
-### #is_/same_as :: [Intermolecular_Force.secret](/_secret/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Ideal_Gas/Intermolecular_Force.secret|Intermolecular_Force.secret]] 
 

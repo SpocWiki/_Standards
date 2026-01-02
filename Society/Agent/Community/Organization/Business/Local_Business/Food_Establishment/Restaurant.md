@@ -39,17 +39,17 @@ A restaurant.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Restaurant](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant|Restaurant]] 
 
-### #is_/same_as :: [Restaurant.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.public|Restaurant.public]] 
 
-### #is_/same_as :: [Restaurant.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.internal|Restaurant.internal]] 
 
-### #is_/same_as :: [Restaurant.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.protect|Restaurant.protect]] 
 
-### #is_/same_as :: [Restaurant.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.private|Restaurant.private]] 
 
-### #is_/same_as :: [Restaurant.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.personal|Restaurant.personal]] 
 
-### #is_/same_as :: [Restaurant.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Restaurant.secret|Restaurant.secret]] 
 

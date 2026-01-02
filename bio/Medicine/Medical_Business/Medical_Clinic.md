@@ -43,17 +43,17 @@ A facility, often associated with a hospital or medical school, that is devoted 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Clinic](/_Standards/bio/Medicine/Medical_Business/Medical_Clinic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Medical_Clinic|Medical_Clinic]] 
 
-### #is_/same_as :: [Medical_Clinic.public](/_public/bio/Medicine/Medical_Business/Medical_Clinic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Medical_Clinic.public|Medical_Clinic.public]] 
 
-### #is_/same_as :: [Medical_Clinic.internal](/_internal/bio/Medicine/Medical_Business/Medical_Clinic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Medical_Clinic.internal|Medical_Clinic.internal]] 
 
-### #is_/same_as :: [Medical_Clinic.protect](/_protect/bio/Medicine/Medical_Business/Medical_Clinic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Medical_Clinic.protect|Medical_Clinic.protect]] 
 
-### #is_/same_as :: [Medical_Clinic.private](/_private/bio/Medicine/Medical_Business/Medical_Clinic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Medical_Clinic.private|Medical_Clinic.private]] 
 
-### #is_/same_as :: [Medical_Clinic.personal](/_personal/bio/Medicine/Medical_Business/Medical_Clinic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Medical_Clinic.personal|Medical_Clinic.personal]] 
 
-### #is_/same_as :: [Medical_Clinic.secret](/_secret/bio/Medicine/Medical_Business/Medical_Clinic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Medical_Clinic.secret|Medical_Clinic.secret]] 
 

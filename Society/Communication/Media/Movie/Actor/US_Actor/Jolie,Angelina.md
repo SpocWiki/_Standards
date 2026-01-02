@@ -56,17 +56,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jolie,Angelina](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina|Jolie,Angelina]] 
 
-### #is_/same_as :: [Jolie,Angelina.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.public|Jolie,Angelina.public]] 
 
-### #is_/same_as :: [Jolie,Angelina.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.internal|Jolie,Angelina.internal]] 
 
-### #is_/same_as :: [Jolie,Angelina.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.protect|Jolie,Angelina.protect]] 
 
-### #is_/same_as :: [Jolie,Angelina.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.private|Jolie,Angelina.private]] 
 
-### #is_/same_as :: [Jolie,Angelina.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.personal|Jolie,Angelina.personal]] 
 
-### #is_/same_as :: [Jolie,Angelina.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jolie,Angelina.secret|Jolie,Angelina.secret]] 
 

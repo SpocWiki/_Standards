@@ -68,17 +68,17 @@ short_name: Hya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Hydra](/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra|Zodiac~Hydra]] 
 
-### #is_/same_as :: [Zodiac~Hydra.public](/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public|Zodiac~Hydra.public]] 
 
-### #is_/same_as :: [Zodiac~Hydra.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal|Zodiac~Hydra.internal]] 
 
-### #is_/same_as :: [Zodiac~Hydra.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Hydra.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Hydra.protect|Zodiac~Hydra.protect]] 
 
-### #is_/same_as :: [Zodiac~Hydra.private](/_private/Astronomy/Star~Constellation/Zodiac~Hydra.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Hydra.private|Zodiac~Hydra.private]] 
 
-### #is_/same_as :: [Zodiac~Hydra.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Hydra.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Hydra.personal|Zodiac~Hydra.personal]] 
 
-### #is_/same_as :: [Zodiac~Hydra.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Hydra.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Hydra.secret|Zodiac~Hydra.secret]] 
 

@@ -63,17 +63,17 @@ subreddit: cults
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cult](/_Standards/Society/Agent/Community/Cult.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Cult|Cult]] 
 
-### #is_/same_as :: [Cult.public](/_public/Society/Agent/Community/Cult.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Cult.public|Cult.public]] 
 
-### #is_/same_as :: [Cult.internal](/_internal/Society/Agent/Community/Cult.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Cult.internal|Cult.internal]] 
 
-### #is_/same_as :: [Cult.protect](/_protect/Society/Agent/Community/Cult.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Cult.protect|Cult.protect]] 
 
-### #is_/same_as :: [Cult.private](/_private/Society/Agent/Community/Cult.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Cult.private|Cult.private]] 
 
-### #is_/same_as :: [Cult.personal](/_personal/Society/Agent/Community/Cult.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Cult.personal|Cult.personal]] 
 
-### #is_/same_as :: [Cult.secret](/_secret/Society/Agent/Community/Cult.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Cult.secret|Cult.secret]] 
 

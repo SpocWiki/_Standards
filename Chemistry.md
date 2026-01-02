@@ -117,17 +117,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/HIMIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemistry](/_Standards/Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry|Chemistry]] 
 
-### #is_/same_as :: [Chemistry.public](/_public/Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry.public|Chemistry.public]] 
 
-### #is_/same_as :: [Chemistry.internal](/_internal/Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry.internal|Chemistry.internal]] 
 
-### #is_/same_as :: [Chemistry.protect](/_protect/Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry.protect|Chemistry.protect]] 
 
-### #is_/same_as :: [Chemistry.private](/_private/Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry.private|Chemistry.private]] 
 
-### #is_/same_as :: [Chemistry.personal](/_personal/Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry.personal|Chemistry.personal]] 
 
-### #is_/same_as :: [Chemistry.secret](/_secret/Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry.secret|Chemistry.secret]] 
 

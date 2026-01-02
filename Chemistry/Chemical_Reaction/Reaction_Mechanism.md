@@ -43,17 +43,17 @@ Commons_category: Reaction mechanisms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reaction_Mechanism](/_Standards/Chemistry/Chemical_Reaction/Reaction_Mechanism.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Reaction_Mechanism|Reaction_Mechanism]] 
 
-### #is_/same_as :: [Reaction_Mechanism.public](/_public/Chemistry/Chemical_Reaction/Reaction_Mechanism.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Reaction_Mechanism.public|Reaction_Mechanism.public]] 
 
-### #is_/same_as :: [Reaction_Mechanism.internal](/_internal/Chemistry/Chemical_Reaction/Reaction_Mechanism.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Reaction_Mechanism.internal|Reaction_Mechanism.internal]] 
 
-### #is_/same_as :: [Reaction_Mechanism.protect](/_protect/Chemistry/Chemical_Reaction/Reaction_Mechanism.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Reaction_Mechanism.protect|Reaction_Mechanism.protect]] 
 
-### #is_/same_as :: [Reaction_Mechanism.private](/_private/Chemistry/Chemical_Reaction/Reaction_Mechanism.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Reaction_Mechanism.private|Reaction_Mechanism.private]] 
 
-### #is_/same_as :: [Reaction_Mechanism.personal](/_personal/Chemistry/Chemical_Reaction/Reaction_Mechanism.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Reaction_Mechanism.personal|Reaction_Mechanism.personal]] 
 
-### #is_/same_as :: [Reaction_Mechanism.secret](/_secret/Chemistry/Chemical_Reaction/Reaction_Mechanism.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Reaction_Mechanism.secret|Reaction_Mechanism.secret]] 
 

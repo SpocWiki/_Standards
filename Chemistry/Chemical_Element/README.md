@@ -16,17 +16,17 @@ Shared Facts about chemical Elements
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [README](/_Standards/Chemistry/Chemical_Element/README.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/README|README]] 
 
-### #is_/same_as :: [README.public](/_public/Chemistry/Chemical_Element/README.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/README.public|README.public]] 
 
-### #is_/same_as :: [README.internal](/_internal/Chemistry/Chemical_Element/README.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/README.internal|README.internal]] 
 
-### #is_/same_as :: [README.protect](/_protect/Chemistry/Chemical_Element/README.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/README.protect|README.protect]] 
 
-### #is_/same_as :: [README.private](/_private/Chemistry/Chemical_Element/README.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/README.private|README.private]] 
 
-### #is_/same_as :: [README.personal](/_personal/Chemistry/Chemical_Element/README.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/README.personal|README.personal]] 
 
-### #is_/same_as :: [README.secret](/_secret/Chemistry/Chemical_Element/README.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/README.secret|README.secret]] 
 

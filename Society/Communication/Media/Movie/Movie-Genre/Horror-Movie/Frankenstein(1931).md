@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frankenstein(1931)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931)|Frankenstein(1931)]] 
 
-### #is_/same_as :: [Frankenstein(1931).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).public|Frankenstein(1931).public]] 
 
-### #is_/same_as :: [Frankenstein(1931).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).internal|Frankenstein(1931).internal]] 
 
-### #is_/same_as :: [Frankenstein(1931).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).protect|Frankenstein(1931).protect]] 
 
-### #is_/same_as :: [Frankenstein(1931).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).private|Frankenstein(1931).private]] 
 
-### #is_/same_as :: [Frankenstein(1931).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).personal|Frankenstein(1931).personal]] 
 
-### #is_/same_as :: [Frankenstein(1931).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Frankenstein(1931).secret|Frankenstein(1931).secret]] 
 

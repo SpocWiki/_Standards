@@ -37,17 +37,17 @@ A food service, like breakfast, lunch, or dinner.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FoodService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService|FileClass~FoodService]] 
 
-### #is_/same_as :: [FileClass~FoodService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.public|FileClass~FoodService.public]] 
 
-### #is_/same_as :: [FileClass~FoodService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.internal|FileClass~FoodService.internal]] 
 
-### #is_/same_as :: [FileClass~FoodService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.protect|FileClass~FoodService.protect]] 
 
-### #is_/same_as :: [FileClass~FoodService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.private|FileClass~FoodService.private]] 
 
-### #is_/same_as :: [FileClass~FoodService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.personal|FileClass~FoodService.personal]] 
 
-### #is_/same_as :: [FileClass~FoodService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FoodService.secret|FileClass~FoodService.secret]] 
 

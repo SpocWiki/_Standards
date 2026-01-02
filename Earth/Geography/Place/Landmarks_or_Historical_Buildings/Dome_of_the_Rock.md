@@ -117,17 +117,17 @@ demonym:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dome_of_the_Rock](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock|Dome_of_the_Rock]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.public|Dome_of_the_Rock.public]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.internal|Dome_of_the_Rock.internal]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.protect|Dome_of_the_Rock.protect]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.private|Dome_of_the_Rock.private]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.personal|Dome_of_the_Rock.personal]] 
 
-### #is_/same_as :: [Dome_of_the_Rock.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Dome_of_the_Rock.secret|Dome_of_the_Rock.secret]] 
 

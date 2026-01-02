@@ -59,17 +59,17 @@ time_of_discovery_or_invention: 900
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alps](/_Standards/Earth/Continent/Europe/Europe~Central/Alps.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Alps|Alps]] 
 
-### #is_/same_as :: [Alps.public](/_public/Earth/Continent/Europe/Europe~Central/Alps.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Alps.public|Alps.public]] 
 
-### #is_/same_as :: [Alps.internal](/_internal/Earth/Continent/Europe/Europe~Central/Alps.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Alps.internal|Alps.internal]] 
 
-### #is_/same_as :: [Alps.protect](/_protect/Earth/Continent/Europe/Europe~Central/Alps.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Alps.protect|Alps.protect]] 
 
-### #is_/same_as :: [Alps.private](/_private/Earth/Continent/Europe/Europe~Central/Alps.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Alps.private|Alps.private]] 
 
-### #is_/same_as :: [Alps.personal](/_personal/Earth/Continent/Europe/Europe~Central/Alps.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Alps.personal|Alps.personal]] 
 
-### #is_/same_as :: [Alps.secret](/_secret/Earth/Continent/Europe/Europe~Central/Alps.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Alps.secret|Alps.secret]] 
 

@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simmons,Gene](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene|Simmons,Gene]] 
 
-### #is_/same_as :: [Simmons,Gene.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.public|Simmons,Gene.public]] 
 
-### #is_/same_as :: [Simmons,Gene.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.internal|Simmons,Gene.internal]] 
 
-### #is_/same_as :: [Simmons,Gene.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.protect|Simmons,Gene.protect]] 
 
-### #is_/same_as :: [Simmons,Gene.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.private|Simmons,Gene.private]] 
 
-### #is_/same_as :: [Simmons,Gene.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.personal|Simmons,Gene.personal]] 
 
-### #is_/same_as :: [Simmons,Gene.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)/Simmons,Gene.secret|Simmons,Gene.secret]] 
 

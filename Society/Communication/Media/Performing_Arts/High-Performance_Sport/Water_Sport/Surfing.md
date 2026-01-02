@@ -72,17 +72,17 @@ OpenStreetMap_tag: sport=surfing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surfing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing|Surfing]] 
 
-### #is_/same_as :: [Surfing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.public|Surfing.public]] 
 
-### #is_/same_as :: [Surfing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.internal|Surfing.internal]] 
 
-### #is_/same_as :: [Surfing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.protect|Surfing.protect]] 
 
-### #is_/same_as :: [Surfing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.private|Surfing.private]] 
 
-### #is_/same_as :: [Surfing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.personal|Surfing.personal]] 
 
-### #is_/same_as :: [Surfing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Surfing.secret|Surfing.secret]] 
 

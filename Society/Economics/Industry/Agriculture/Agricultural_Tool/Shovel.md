@@ -55,17 +55,17 @@ Commons_category: Shovels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shovel](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel|Shovel]] 
 
-### #is_/same_as :: [Shovel.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.public|Shovel.public]] 
 
-### #is_/same_as :: [Shovel.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.internal|Shovel.internal]] 
 
-### #is_/same_as :: [Shovel.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.protect|Shovel.protect]] 
 
-### #is_/same_as :: [Shovel.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.private|Shovel.private]] 
 
-### #is_/same_as :: [Shovel.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.personal|Shovel.personal]] 
 
-### #is_/same_as :: [Shovel.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Shovel.secret|Shovel.secret]] 
 

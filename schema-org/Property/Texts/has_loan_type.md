@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_loan_type](/_Standards/schema-org/Property/Texts/has_loan_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_loan_type|has_loan_type]] 
 
-### #is_/same_as :: [has_loan_type.public](/_public/schema-org/Property/Texts/has_loan_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_loan_type.public|has_loan_type.public]] 
 
-### #is_/same_as :: [has_loan_type.internal](/_internal/schema-org/Property/Texts/has_loan_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_loan_type.internal|has_loan_type.internal]] 
 
-### #is_/same_as :: [has_loan_type.protect](/_protect/schema-org/Property/Texts/has_loan_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_loan_type.protect|has_loan_type.protect]] 
 
-### #is_/same_as :: [has_loan_type.private](/_private/schema-org/Property/Texts/has_loan_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_loan_type.private|has_loan_type.private]] 
 
-### #is_/same_as :: [has_loan_type.personal](/_personal/schema-org/Property/Texts/has_loan_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_loan_type.personal|has_loan_type.personal]] 
 
-### #is_/same_as :: [has_loan_type.secret](/_secret/schema-org/Property/Texts/has_loan_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_loan_type.secret|has_loan_type.secret]] 
 

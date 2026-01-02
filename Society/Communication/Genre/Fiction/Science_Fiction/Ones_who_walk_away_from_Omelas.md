@@ -28,17 +28,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas|Ones_who_walk_away_from_Omelas]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.public|Ones_who_walk_away_from_Omelas.public]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.internal|Ones_who_walk_away_from_Omelas.internal]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.protect|Ones_who_walk_away_from_Omelas.protect]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.private|Ones_who_walk_away_from_Omelas.private]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.personal|Ones_who_walk_away_from_Omelas.personal]] 
 
-### #is_/same_as :: [Ones_who_walk_away_from_Omelas.secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.secret|Ones_who_walk_away_from_Omelas.secret]] 
 

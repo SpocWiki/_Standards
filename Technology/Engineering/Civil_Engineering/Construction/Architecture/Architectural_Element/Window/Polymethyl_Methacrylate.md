@@ -80,3 +80,22 @@ By combining the Methods below, 12mm Panes can resist Wind up to 120 km/h
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Poly(methyl%20methacrylate)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate|Polymethyl_Methacrylate]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.public|Polymethyl_Methacrylate.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.internal|Polymethyl_Methacrylate.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.protect|Polymethyl_Methacrylate.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.private|Polymethyl_Methacrylate.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.personal|Polymethyl_Methacrylate.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Polymethyl_Methacrylate.secret|Polymethyl_Methacrylate.secret]] 
+

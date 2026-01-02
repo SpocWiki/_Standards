@@ -95,17 +95,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Binary_Relation](/_Standards/schema-org/Relation/Binary_Relation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/Binary_Relation|Binary_Relation]] 
 
-### #is_/same_as :: [Binary_Relation.public](/_public/schema-org/Relation/Binary_Relation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/Binary_Relation.public|Binary_Relation.public]] 
 
-### #is_/same_as :: [Binary_Relation.internal](/_internal/schema-org/Relation/Binary_Relation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/Binary_Relation.internal|Binary_Relation.internal]] 
 
-### #is_/same_as :: [Binary_Relation.protect](/_protect/schema-org/Relation/Binary_Relation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/Binary_Relation.protect|Binary_Relation.protect]] 
 
-### #is_/same_as :: [Binary_Relation.private](/_private/schema-org/Relation/Binary_Relation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/Binary_Relation.private|Binary_Relation.private]] 
 
-### #is_/same_as :: [Binary_Relation.personal](/_personal/schema-org/Relation/Binary_Relation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/Binary_Relation.personal|Binary_Relation.personal]] 
 
-### #is_/same_as :: [Binary_Relation.secret](/_secret/schema-org/Relation/Binary_Relation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/Binary_Relation.secret|Binary_Relation.secret]] 
 

@@ -43,17 +43,17 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/amalgam.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amalgam(chemic)](/_Standards/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic)|Amalgam(chemic)]] 
 
-### #is_/same_as :: [Amalgam(chemic).public](/_public/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).public|Amalgam(chemic).public]] 
 
-### #is_/same_as :: [Amalgam(chemic).internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).internal|Amalgam(chemic).internal]] 
 
-### #is_/same_as :: [Amalgam(chemic).protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).protect|Amalgam(chemic).protect]] 
 
-### #is_/same_as :: [Amalgam(chemic).private](/_private/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).private|Amalgam(chemic).private]] 
 
-### #is_/same_as :: [Amalgam(chemic).personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).personal|Amalgam(chemic).personal]] 
 
-### #is_/same_as :: [Amalgam(chemic).secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Alloy/Amalgam(chemic).secret|Amalgam(chemic).secret]] 
 

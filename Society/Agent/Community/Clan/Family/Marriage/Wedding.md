@@ -78,17 +78,17 @@ Baidu_Tieba_name: 婚礼
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wedding](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Wedding.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Wedding|Wedding]] 
 
-### #is_/same_as :: [Wedding.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Wedding.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Wedding.public|Wedding.public]] 
 
-### #is_/same_as :: [Wedding.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Wedding.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Wedding.internal|Wedding.internal]] 
 
-### #is_/same_as :: [Wedding.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Wedding.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Wedding.protect|Wedding.protect]] 
 
-### #is_/same_as :: [Wedding.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Wedding.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Wedding.private|Wedding.private]] 
 
-### #is_/same_as :: [Wedding.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Wedding.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Wedding.personal|Wedding.personal]] 
 
-### #is_/same_as :: [Wedding.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Wedding.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Wedding.secret|Wedding.secret]] 
 

@@ -27,17 +27,17 @@ Discoveries are rarely attributed to the correct person
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arnold_Principle](/_Standards/Mathematics/Mathematician/Arnold_Principle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Arnold_Principle|Arnold_Principle]] 
 
-### #is_/same_as :: [Arnold_Principle.public](/_public/Mathematics/Mathematician/Arnold_Principle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Arnold_Principle.public|Arnold_Principle.public]] 
 
-### #is_/same_as :: [Arnold_Principle.internal](/_internal/Mathematics/Mathematician/Arnold_Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Arnold_Principle.internal|Arnold_Principle.internal]] 
 
-### #is_/same_as :: [Arnold_Principle.protect](/_protect/Mathematics/Mathematician/Arnold_Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Arnold_Principle.protect|Arnold_Principle.protect]] 
 
-### #is_/same_as :: [Arnold_Principle.private](/_private/Mathematics/Mathematician/Arnold_Principle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Arnold_Principle.private|Arnold_Principle.private]] 
 
-### #is_/same_as :: [Arnold_Principle.personal](/_personal/Mathematics/Mathematician/Arnold_Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Arnold_Principle.personal|Arnold_Principle.personal]] 
 
-### #is_/same_as :: [Arnold_Principle.secret](/_secret/Mathematics/Mathematician/Arnold_Principle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Arnold_Principle.secret|Arnold_Principle.secret]] 
 

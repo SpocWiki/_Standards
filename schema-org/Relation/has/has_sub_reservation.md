@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_reservation](/_Standards/schema-org/Relation/has/has_sub_reservation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_reservation|has_sub_reservation]] 
 
-### #is_/same_as :: [has_sub_reservation.public](/_public/schema-org/Relation/has/has_sub_reservation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_reservation.public|has_sub_reservation.public]] 
 
-### #is_/same_as :: [has_sub_reservation.internal](/_internal/schema-org/Relation/has/has_sub_reservation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sub_reservation.internal|has_sub_reservation.internal]] 
 
-### #is_/same_as :: [has_sub_reservation.protect](/_protect/schema-org/Relation/has/has_sub_reservation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sub_reservation.protect|has_sub_reservation.protect]] 
 
-### #is_/same_as :: [has_sub_reservation.private](/_private/schema-org/Relation/has/has_sub_reservation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sub_reservation.private|has_sub_reservation.private]] 
 
-### #is_/same_as :: [has_sub_reservation.personal](/_personal/schema-org/Relation/has/has_sub_reservation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sub_reservation.personal|has_sub_reservation.personal]] 
 
-### #is_/same_as :: [has_sub_reservation.secret](/_secret/schema-org/Relation/has/has_sub_reservation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sub_reservation.secret|has_sub_reservation.secret]] 
 

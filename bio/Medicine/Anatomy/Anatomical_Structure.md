@@ -48,17 +48,17 @@ Any part of the human body, typically a component of an anatomical system. Organ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anatomical_Structure](/_Standards/bio/Medicine/Anatomy/Anatomical_Structure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Anatomical_Structure|Anatomical_Structure]] 
 
-### #is_/same_as :: [Anatomical_Structure.public](/_public/bio/Medicine/Anatomy/Anatomical_Structure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Anatomical_Structure.public|Anatomical_Structure.public]] 
 
-### #is_/same_as :: [Anatomical_Structure.internal](/_internal/bio/Medicine/Anatomy/Anatomical_Structure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Anatomical_Structure.internal|Anatomical_Structure.internal]] 
 
-### #is_/same_as :: [Anatomical_Structure.protect](/_protect/bio/Medicine/Anatomy/Anatomical_Structure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Anatomical_Structure.protect|Anatomical_Structure.protect]] 
 
-### #is_/same_as :: [Anatomical_Structure.private](/_private/bio/Medicine/Anatomy/Anatomical_Structure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Anatomical_Structure.private|Anatomical_Structure.private]] 
 
-### #is_/same_as :: [Anatomical_Structure.personal](/_personal/bio/Medicine/Anatomy/Anatomical_Structure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Anatomical_Structure.personal|Anatomical_Structure.personal]] 
 
-### #is_/same_as :: [Anatomical_Structure.secret](/_secret/bio/Medicine/Anatomy/Anatomical_Structure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Anatomical_Structure.secret|Anatomical_Structure.secret]] 
 

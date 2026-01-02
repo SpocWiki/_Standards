@@ -135,17 +135,17 @@ P1015: "90813024"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burton,Tim](/_Standards/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Burton,Tim|Burton,Tim]] 
 
-### #is_/same_as :: [Burton,Tim.public](/_public/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.public|Burton,Tim.public]] 
 
-### #is_/same_as :: [Burton,Tim.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.internal|Burton,Tim.internal]] 
 
-### #is_/same_as :: [Burton,Tim.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.protect|Burton,Tim.protect]] 
 
-### #is_/same_as :: [Burton,Tim.private](/_private/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.private|Burton,Tim.private]] 
 
-### #is_/same_as :: [Burton,Tim.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.personal|Burton,Tim.personal]] 
 
-### #is_/same_as :: [Burton,Tim.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Burton,Tim.secret|Burton,Tim.secret]] 
 

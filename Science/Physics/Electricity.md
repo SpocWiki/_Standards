@@ -64,17 +64,17 @@ U_S_National_Archives_Identifier: 10639437
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electricity](/_Standards/Science/Physics/Electricity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity|Electricity]] 
 
-### #is_/same_as :: [Electricity.public](/_public/Science/Physics/Electricity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity.public|Electricity.public]] 
 
-### #is_/same_as :: [Electricity.internal](/_internal/Science/Physics/Electricity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity.internal|Electricity.internal]] 
 
-### #is_/same_as :: [Electricity.protect](/_protect/Science/Physics/Electricity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity.protect|Electricity.protect]] 
 
-### #is_/same_as :: [Electricity.private](/_private/Science/Physics/Electricity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity.private|Electricity.private]] 
 
-### #is_/same_as :: [Electricity.personal](/_personal/Science/Physics/Electricity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity.personal|Electricity.personal]] 
 
-### #is_/same_as :: [Electricity.secret](/_secret/Science/Physics/Electricity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity.secret|Electricity.secret]] 
 

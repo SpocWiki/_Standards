@@ -98,17 +98,17 @@ This is similar to [[../../../../Knowledge/Design/Ockham’s_Razor(Design)|Occam
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Overfitting](/_Standards/Technology/IT/Artificial_Intelligence/Overfitting.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/AI(Artificial_Intelligence)/Overfitting|Overfitting]] 
 
-### #is_/same_as :: [Overfitting.public](/_public/Technology/IT/Artificial_Intelligence/Overfitting.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/AI(Artificial_Intelligence)/Overfitting.public|Overfitting.public]] 
 
-### #is_/same_as :: [Overfitting.internal](/_internal/Technology/IT/Artificial_Intelligence/Overfitting.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/AI(Artificial_Intelligence)/Overfitting.internal|Overfitting.internal]] 
 
-### #is_/same_as :: [Overfitting.protect](/_protect/Technology/IT/Artificial_Intelligence/Overfitting.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/AI(Artificial_Intelligence)/Overfitting.protect|Overfitting.protect]] 
 
-### #is_/same_as :: [Overfitting.private](/_private/Technology/IT/Artificial_Intelligence/Overfitting.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/AI(Artificial_Intelligence)/Overfitting.private|Overfitting.private]] 
 
-### #is_/same_as :: [Overfitting.personal](/_personal/Technology/IT/Artificial_Intelligence/Overfitting.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/AI(Artificial_Intelligence)/Overfitting.personal|Overfitting.personal]] 
 
-### #is_/same_as :: [Overfitting.secret](/_secret/Technology/IT/Artificial_Intelligence/Overfitting.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/AI(Artificial_Intelligence)/Overfitting.secret|Overfitting.secret]] 
 

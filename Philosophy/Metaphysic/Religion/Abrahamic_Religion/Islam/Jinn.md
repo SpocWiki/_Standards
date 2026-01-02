@@ -123,17 +123,17 @@ Unicode_character:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jinn](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn|Jinn]] 
 
-### #is_/same_as :: [Jinn.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.public|Jinn.public]] 
 
-### #is_/same_as :: [Jinn.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.internal|Jinn.internal]] 
 
-### #is_/same_as :: [Jinn.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.protect|Jinn.protect]] 
 
-### #is_/same_as :: [Jinn.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.private|Jinn.private]] 
 
-### #is_/same_as :: [Jinn.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.personal|Jinn.personal]] 
 
-### #is_/same_as :: [Jinn.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Jinn.secret|Jinn.secret]] 
 

@@ -78,17 +78,17 @@ either in their native Cyrillic Script or a Latin Transcription:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Cyrl](/_Standards/Language/Writing_System/Script~Cyrl.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Cyrl|Script~Cyrl]] 
 
-### #is_/same_as :: [Script~Cyrl.public](/_public/Language/Writing_System/Script~Cyrl.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Cyrl.public|Script~Cyrl.public]] 
 
-### #is_/same_as :: [Script~Cyrl.internal](/_internal/Language/Writing_System/Script~Cyrl.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Cyrl.internal|Script~Cyrl.internal]] 
 
-### #is_/same_as :: [Script~Cyrl.protect](/_protect/Language/Writing_System/Script~Cyrl.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Cyrl.protect|Script~Cyrl.protect]] 
 
-### #is_/same_as :: [Script~Cyrl.private](/_private/Language/Writing_System/Script~Cyrl.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Cyrl.private|Script~Cyrl.private]] 
 
-### #is_/same_as :: [Script~Cyrl.personal](/_personal/Language/Writing_System/Script~Cyrl.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Cyrl.personal|Script~Cyrl.personal]] 
 
-### #is_/same_as :: [Script~Cyrl.secret](/_secret/Language/Writing_System/Script~Cyrl.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Cyrl.secret|Script~Cyrl.secret]] 
 

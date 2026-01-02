@@ -64,17 +64,17 @@ inception: 1905-10-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale|Fédération_Aéronautique_Internationale]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.public|Fédération_Aéronautique_Internationale.public]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.internal|Fédération_Aéronautique_Internationale.internal]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.protect|Fédération_Aéronautique_Internationale.protect]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.private|Fédération_Aéronautique_Internationale.private]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.personal|Fédération_Aéronautique_Internationale.personal]] 
 
-### #is_/same_as :: [Fédération_Aéronautique_Internationale.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Fédération_Aéronautique_Internationale.secret|Fédération_Aéronautique_Internationale.secret]] 
 

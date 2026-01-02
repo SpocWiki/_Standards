@@ -40,17 +40,17 @@ markerFolder: ./Uaboe/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uaboe](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe|Uaboe]] 
 
-### #is_/same_as :: [Uaboe.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.public|Uaboe.public]] 
 
-### #is_/same_as :: [Uaboe.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.internal|Uaboe.internal]] 
 
-### #is_/same_as :: [Uaboe.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.protect|Uaboe.protect]] 
 
-### #is_/same_as :: [Uaboe.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.private|Uaboe.private]] 
 
-### #is_/same_as :: [Uaboe.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.personal|Uaboe.personal]] 
 
-### #is_/same_as :: [Uaboe.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Uaboe.secret|Uaboe.secret]] 
 

@@ -45,17 +45,17 @@ Specifies that product returns are not permitted.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted](/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted|Merchant_Return_Not_Permitted]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.public](/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.public|Merchant_Return_Not_Permitted.public]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.internal](/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.internal|Merchant_Return_Not_Permitted.internal]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.protect](/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.protect|Merchant_Return_Not_Permitted.protect]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.private](/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.private|Merchant_Return_Not_Permitted.private]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.personal](/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.personal|Merchant_Return_Not_Permitted.personal]] 
 
-### #is_/same_as :: [Merchant_Return_Not_Permitted.secret](/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Merchant_Return_Enumeration/Merchant_Return_Not_Permitted.secret|Merchant_Return_Not_Permitted.secret]] 
 

@@ -43,17 +43,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Jam"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jam](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Jam.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Jam|Jam]] 
 
-### #is_/same_as :: [Jam.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Jam.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Jam.public|Jam.public]] 
 
-### #is_/same_as :: [Jam.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Jam.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Jam.internal|Jam.internal]] 
 
-### #is_/same_as :: [Jam.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Jam.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Jam.protect|Jam.protect]] 
 
-### #is_/same_as :: [Jam.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Jam.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Jam.private|Jam.private]] 
 
-### #is_/same_as :: [Jam.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Jam.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Jam.personal|Jam.personal]] 
 
-### #is_/same_as :: [Jam.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Jam.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Jam.secret|Jam.secret]] 
 

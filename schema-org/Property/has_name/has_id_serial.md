@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_serial](/_Standards/schema-org/Property/has_name/has_id_serial.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_serial|has_id_serial]] 
 
-### #is_/same_as :: [has_id_serial.public](/_public/schema-org/Property/has_name/has_id_serial.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_serial.public|has_id_serial.public]] 
 
-### #is_/same_as :: [has_id_serial.internal](/_internal/schema-org/Property/has_name/has_id_serial.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_serial.internal|has_id_serial.internal]] 
 
-### #is_/same_as :: [has_id_serial.protect](/_protect/schema-org/Property/has_name/has_id_serial.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_serial.protect|has_id_serial.protect]] 
 
-### #is_/same_as :: [has_id_serial.private](/_private/schema-org/Property/has_name/has_id_serial.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_serial.private|has_id_serial.private]] 
 
-### #is_/same_as :: [has_id_serial.personal](/_personal/schema-org/Property/has_name/has_id_serial.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_serial.personal|has_id_serial.personal]] 
 
-### #is_/same_as :: [has_id_serial.secret](/_secret/schema-org/Property/has_name/has_id_serial.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_serial.secret|has_id_serial.secret]] 
 

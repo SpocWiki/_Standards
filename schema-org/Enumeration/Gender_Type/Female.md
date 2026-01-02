@@ -40,17 +40,17 @@ The female gender.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Female](/_Standards/schema-org/Enumeration/Gender_Type/Female.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Gender_Type/Female|Female]] 
 
-### #is_/same_as :: [Female.public](/_public/schema-org/Enumeration/Gender_Type/Female.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Gender_Type/Female.public|Female.public]] 
 
-### #is_/same_as :: [Female.internal](/_internal/schema-org/Enumeration/Gender_Type/Female.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Gender_Type/Female.internal|Female.internal]] 
 
-### #is_/same_as :: [Female.protect](/_protect/schema-org/Enumeration/Gender_Type/Female.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Gender_Type/Female.protect|Female.protect]] 
 
-### #is_/same_as :: [Female.private](/_private/schema-org/Enumeration/Gender_Type/Female.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Gender_Type/Female.private|Female.private]] 
 
-### #is_/same_as :: [Female.personal](/_personal/schema-org/Enumeration/Gender_Type/Female.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Gender_Type/Female.personal|Female.personal]] 
 
-### #is_/same_as :: [Female.secret](/_secret/schema-org/Enumeration/Gender_Type/Female.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Gender_Type/Female.secret|Female.secret]] 
 

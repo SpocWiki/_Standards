@@ -49,17 +49,17 @@ Wolfram_Language_entity_code: Entity["Concept", "ComputerProgram::74kc9"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Program](/_Standards/Technology/IT/Software/Computer_Program.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Program|Computer_Program]] 
 
-### #is_/same_as :: [Computer_Program.public](/_public/Technology/IT/Software/Computer_Program.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Program.public|Computer_Program.public]] 
 
-### #is_/same_as :: [Computer_Program.internal](/_internal/Technology/IT/Software/Computer_Program.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Program.internal|Computer_Program.internal]] 
 
-### #is_/same_as :: [Computer_Program.protect](/_protect/Technology/IT/Software/Computer_Program.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Program.protect|Computer_Program.protect]] 
 
-### #is_/same_as :: [Computer_Program.private](/_private/Technology/IT/Software/Computer_Program.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Program.private|Computer_Program.private]] 
 
-### #is_/same_as :: [Computer_Program.personal](/_personal/Technology/IT/Software/Computer_Program.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Program.personal|Computer_Program.personal]] 
 
-### #is_/same_as :: [Computer_Program.secret](/_secret/Technology/IT/Software/Computer_Program.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Program.secret|Computer_Program.secret]] 
 

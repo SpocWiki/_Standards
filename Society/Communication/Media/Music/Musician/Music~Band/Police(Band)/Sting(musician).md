@@ -54,17 +54,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sting(musician)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician)|Sting(musician)]] 
 
-### #is_/same_as :: [Sting(musician).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).public|Sting(musician).public]] 
 
-### #is_/same_as :: [Sting(musician).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).internal|Sting(musician).internal]] 
 
-### #is_/same_as :: [Sting(musician).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).protect|Sting(musician).protect]] 
 
-### #is_/same_as :: [Sting(musician).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).private|Sting(musician).private]] 
 
-### #is_/same_as :: [Sting(musician).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).personal|Sting(musician).personal]] 
 
-### #is_/same_as :: [Sting(musician).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Police(Band)/Sting(musician).secret|Sting(musician).secret]] 
 

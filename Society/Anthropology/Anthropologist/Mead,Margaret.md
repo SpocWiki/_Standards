@@ -126,17 +126,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Margaret%20Mead%20%281
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mead,Margaret](/_Standards/Society/Anthropology/Anthropologist/Mead,Margaret.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Anthropologist/Mead,Margaret|Mead,Margaret]] 
 
-### #is_/same_as :: [Mead,Margaret.public](/_public/Society/Anthropology/Anthropologist/Mead,Margaret.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Anthropologist/Mead,Margaret.public|Mead,Margaret.public]] 
 
-### #is_/same_as :: [Mead,Margaret.internal](/_internal/Society/Anthropology/Anthropologist/Mead,Margaret.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Anthropologist/Mead,Margaret.internal|Mead,Margaret.internal]] 
 
-### #is_/same_as :: [Mead,Margaret.protect](/_protect/Society/Anthropology/Anthropologist/Mead,Margaret.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Anthropologist/Mead,Margaret.protect|Mead,Margaret.protect]] 
 
-### #is_/same_as :: [Mead,Margaret.private](/_private/Society/Anthropology/Anthropologist/Mead,Margaret.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Anthropologist/Mead,Margaret.private|Mead,Margaret.private]] 
 
-### #is_/same_as :: [Mead,Margaret.personal](/_personal/Society/Anthropology/Anthropologist/Mead,Margaret.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Anthropologist/Mead,Margaret.personal|Mead,Margaret.personal]] 
 
-### #is_/same_as :: [Mead,Margaret.secret](/_secret/Society/Anthropology/Anthropologist/Mead,Margaret.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Anthropologist/Mead,Margaret.secret|Mead,Margaret.secret]] 
 

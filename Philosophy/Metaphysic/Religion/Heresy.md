@@ -57,17 +57,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ERES.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heresy](/_Standards/Philosophy/Metaphysic/Religion/Heresy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Heresy|Heresy]] 
 
-### #is_/same_as :: [Heresy.public](/_public/Philosophy/Metaphysic/Religion/Heresy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Heresy.public|Heresy.public]] 
 
-### #is_/same_as :: [Heresy.internal](/_internal/Philosophy/Metaphysic/Religion/Heresy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Heresy.internal|Heresy.internal]] 
 
-### #is_/same_as :: [Heresy.protect](/_protect/Philosophy/Metaphysic/Religion/Heresy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Heresy.protect|Heresy.protect]] 
 
-### #is_/same_as :: [Heresy.private](/_private/Philosophy/Metaphysic/Religion/Heresy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Heresy.private|Heresy.private]] 
 
-### #is_/same_as :: [Heresy.personal](/_personal/Philosophy/Metaphysic/Religion/Heresy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Heresy.personal|Heresy.personal]] 
 
-### #is_/same_as :: [Heresy.secret](/_secret/Philosophy/Metaphysic/Religion/Heresy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Heresy.secret|Heresy.secret]] 
 

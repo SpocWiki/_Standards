@@ -42,17 +42,17 @@ Nonprofit501c26: Non-profit type referring to State~Sponsored Organizations Prov
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c26](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26|Nonprofit501c26]] 
 
-### #is_/same_as :: [Nonprofit501c26.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.public|Nonprofit501c26.public]] 
 
-### #is_/same_as :: [Nonprofit501c26.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.internal|Nonprofit501c26.internal]] 
 
-### #is_/same_as :: [Nonprofit501c26.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.protect|Nonprofit501c26.protect]] 
 
-### #is_/same_as :: [Nonprofit501c26.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.private|Nonprofit501c26.private]] 
 
-### #is_/same_as :: [Nonprofit501c26.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.personal|Nonprofit501c26.personal]] 
 
-### #is_/same_as :: [Nonprofit501c26.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c26.secret|Nonprofit501c26.secret]] 
 

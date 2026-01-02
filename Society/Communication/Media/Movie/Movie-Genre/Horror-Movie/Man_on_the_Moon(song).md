@@ -11,17 +11,17 @@ The song served as the film's theme and was also included in its soundtrack.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man_on_the_Moon(song)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song)|Man_on_the_Moon(song)]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).public|Man_on_the_Moon(song).public]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).internal|Man_on_the_Moon(song).internal]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).protect|Man_on_the_Moon(song).protect]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).private|Man_on_the_Moon(song).private]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).personal|Man_on_the_Moon(song).personal]] 
 
-### #is_/same_as :: [Man_on_the_Moon(song).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(song).secret|Man_on_the_Moon(song).secret]] 
 

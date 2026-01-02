@@ -65,17 +65,17 @@ Commons_category: Photocopiers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photocopier](/_Standards/Society/Communication/Printing/Photocopier.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Printing/Photocopier|Photocopier]] 
 
-### #is_/same_as :: [Photocopier.public](/_public/Society/Communication/Printing/Photocopier.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Printing/Photocopier.public|Photocopier.public]] 
 
-### #is_/same_as :: [Photocopier.internal](/_internal/Society/Communication/Printing/Photocopier.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Printing/Photocopier.internal|Photocopier.internal]] 
 
-### #is_/same_as :: [Photocopier.protect](/_protect/Society/Communication/Printing/Photocopier.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Printing/Photocopier.protect|Photocopier.protect]] 
 
-### #is_/same_as :: [Photocopier.private](/_private/Society/Communication/Printing/Photocopier.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Printing/Photocopier.private|Photocopier.private]] 
 
-### #is_/same_as :: [Photocopier.personal](/_personal/Society/Communication/Printing/Photocopier.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Printing/Photocopier.personal|Photocopier.personal]] 
 
-### #is_/same_as :: [Photocopier.secret](/_secret/Society/Communication/Printing/Photocopier.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Printing/Photocopier.secret|Photocopier.secret]] 
 

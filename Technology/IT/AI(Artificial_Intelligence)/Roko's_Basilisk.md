@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roko's_Basilisk](/_Standards/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk|Roko's_Basilisk]] 
 
-### #is_/same_as :: [Roko's_Basilisk.public](/_public/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.public|Roko's_Basilisk.public]] 
 
-### #is_/same_as :: [Roko's_Basilisk.internal](/_internal/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.internal|Roko's_Basilisk.internal]] 
 
-### #is_/same_as :: [Roko's_Basilisk.protect](/_protect/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.protect|Roko's_Basilisk.protect]] 
 
-### #is_/same_as :: [Roko's_Basilisk.private](/_private/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.private|Roko's_Basilisk.private]] 
 
-### #is_/same_as :: [Roko's_Basilisk.personal](/_personal/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.personal|Roko's_Basilisk.personal]] 
 
-### #is_/same_as :: [Roko's_Basilisk.secret](/_secret/Technology/IT/Artificial_Intelligence/Roko's_Basilisk.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/AI(Artificial_Intelligence)/Roko's_Basilisk.secret|Roko's_Basilisk.secret]] 
 

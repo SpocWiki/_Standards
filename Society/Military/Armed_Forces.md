@@ -59,17 +59,17 @@ P8189: 987007294817005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armed_Forces](/_Standards/Society/Military/Armed_Forces.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces|Armed_Forces]] 
 
-### #is_/same_as :: [Armed_Forces.public](/_public/Society/Military/Armed_Forces.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces.public|Armed_Forces.public]] 
 
-### #is_/same_as :: [Armed_Forces.internal](/_internal/Society/Military/Armed_Forces.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces.internal|Armed_Forces.internal]] 
 
-### #is_/same_as :: [Armed_Forces.protect](/_protect/Society/Military/Armed_Forces.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces.protect|Armed_Forces.protect]] 
 
-### #is_/same_as :: [Armed_Forces.private](/_private/Society/Military/Armed_Forces.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces.private|Armed_Forces.private]] 
 
-### #is_/same_as :: [Armed_Forces.personal](/_personal/Society/Military/Armed_Forces.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces.personal|Armed_Forces.personal]] 
 
-### #is_/same_as :: [Armed_Forces.secret](/_secret/Society/Military/Armed_Forces.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces.secret|Armed_Forces.secret]] 
 

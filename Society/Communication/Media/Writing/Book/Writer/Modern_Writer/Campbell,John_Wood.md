@@ -58,17 +58,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Campbell,John_Wood](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood|Campbell,John_Wood]] 
 
-### #is_/same_as :: [Campbell,John_Wood.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.public|Campbell,John_Wood.public]] 
 
-### #is_/same_as :: [Campbell,John_Wood.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.internal|Campbell,John_Wood.internal]] 
 
-### #is_/same_as :: [Campbell,John_Wood.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.protect|Campbell,John_Wood.protect]] 
 
-### #is_/same_as :: [Campbell,John_Wood.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.private|Campbell,John_Wood.private]] 
 
-### #is_/same_as :: [Campbell,John_Wood.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.personal|Campbell,John_Wood.personal]] 
 
-### #is_/same_as :: [Campbell,John_Wood.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,John_Wood.secret|Campbell,John_Wood.secret]] 
 

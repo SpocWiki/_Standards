@@ -127,17 +127,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Hobbiton%20banne
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lord_of_the_Rings](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings|Lord_of_the_Rings]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.public|Lord_of_the_Rings.public]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.internal|Lord_of_the_Rings.internal]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.protect|Lord_of_the_Rings.protect]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.private|Lord_of_the_Rings.private]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.personal|Lord_of_the_Rings.personal]] 
 
-### #is_/same_as :: [Lord_of_the_Rings.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R/Lord_of_the_Rings.secret|Lord_of_the_Rings.secret]] 
 

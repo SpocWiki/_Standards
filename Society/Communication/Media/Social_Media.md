@@ -100,17 +100,17 @@ subreddit: socialmedia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Media](/_Standards/Society/Communication/Media/Social_Media.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Social_Media|Social_Media]] 
 
-### #is_/same_as :: [Social_Media.public](/_public/Society/Communication/Media/Social_Media.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Social_Media.public|Social_Media.public]] 
 
-### #is_/same_as :: [Social_Media.internal](/_internal/Society/Communication/Media/Social_Media.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Social_Media.internal|Social_Media.internal]] 
 
-### #is_/same_as :: [Social_Media.protect](/_protect/Society/Communication/Media/Social_Media.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Social_Media.protect|Social_Media.protect]] 
 
-### #is_/same_as :: [Social_Media.private](/_private/Society/Communication/Media/Social_Media.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Social_Media.private|Social_Media.private]] 
 
-### #is_/same_as :: [Social_Media.personal](/_personal/Society/Communication/Media/Social_Media.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Social_Media.personal|Social_Media.personal]] 
 
-### #is_/same_as :: [Social_Media.secret](/_secret/Society/Communication/Media/Social_Media.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Social_Media.secret|Social_Media.secret]] 
 

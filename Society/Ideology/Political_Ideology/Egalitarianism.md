@@ -45,17 +45,17 @@ Library_of_Congress_Classification: JC575
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egalitarianism](/_Standards/Society/Ideology/Political_Ideology/Egalitarianism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Egalitarianism|Egalitarianism]] 
 
-### #is_/same_as :: [Egalitarianism.public](/_public/Society/Ideology/Political_Ideology/Egalitarianism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Egalitarianism.public|Egalitarianism.public]] 
 
-### #is_/same_as :: [Egalitarianism.internal](/_internal/Society/Ideology/Political_Ideology/Egalitarianism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Egalitarianism.internal|Egalitarianism.internal]] 
 
-### #is_/same_as :: [Egalitarianism.protect](/_protect/Society/Ideology/Political_Ideology/Egalitarianism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Egalitarianism.protect|Egalitarianism.protect]] 
 
-### #is_/same_as :: [Egalitarianism.private](/_private/Society/Ideology/Political_Ideology/Egalitarianism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Egalitarianism.private|Egalitarianism.private]] 
 
-### #is_/same_as :: [Egalitarianism.personal](/_personal/Society/Ideology/Political_Ideology/Egalitarianism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Egalitarianism.personal|Egalitarianism.personal]] 
 
-### #is_/same_as :: [Egalitarianism.secret](/_secret/Society/Ideology/Political_Ideology/Egalitarianism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Egalitarianism.secret|Egalitarianism.secret]] 
 

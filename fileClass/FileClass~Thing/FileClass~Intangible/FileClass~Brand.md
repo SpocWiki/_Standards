@@ -80,17 +80,17 @@ Slogan:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Brand](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand|FileClass~Brand]] 
 
-### #is_/same_as :: [FileClass~Brand.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.public|FileClass~Brand.public]] 
 
-### #is_/same_as :: [FileClass~Brand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.internal|FileClass~Brand.internal]] 
 
-### #is_/same_as :: [FileClass~Brand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.protect|FileClass~Brand.protect]] 
 
-### #is_/same_as :: [FileClass~Brand.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.private|FileClass~Brand.private]] 
 
-### #is_/same_as :: [FileClass~Brand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.personal|FileClass~Brand.personal]] 
 
-### #is_/same_as :: [FileClass~Brand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Brand.secret|FileClass~Brand.secret]] 
 

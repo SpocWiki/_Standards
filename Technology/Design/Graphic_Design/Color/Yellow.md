@@ -55,17 +55,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yellow](/_Standards/Technology/Design/Graphic_Design/Color/Yellow.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Yellow|Yellow]] 
 
-### #is_/same_as :: [Yellow.public](/_public/Technology/Design/Graphic_Design/Color/Yellow.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Yellow.public|Yellow.public]] 
 
-### #is_/same_as :: [Yellow.internal](/_internal/Technology/Design/Graphic_Design/Color/Yellow.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Yellow.internal|Yellow.internal]] 
 
-### #is_/same_as :: [Yellow.protect](/_protect/Technology/Design/Graphic_Design/Color/Yellow.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Yellow.protect|Yellow.protect]] 
 
-### #is_/same_as :: [Yellow.private](/_private/Technology/Design/Graphic_Design/Color/Yellow.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Yellow.private|Yellow.private]] 
 
-### #is_/same_as :: [Yellow.personal](/_personal/Technology/Design/Graphic_Design/Color/Yellow.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Yellow.personal|Yellow.personal]] 
 
-### #is_/same_as :: [Yellow.secret](/_secret/Technology/Design/Graphic_Design/Color/Yellow.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Yellow.secret|Yellow.secret]] 
 

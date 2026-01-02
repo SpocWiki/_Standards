@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cavendish_Experiment](/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment|Cavendish_Experiment]] 
 
-### #is_/same_as :: [Cavendish_Experiment.public](/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.public|Cavendish_Experiment.public]] 
 
-### #is_/same_as :: [Cavendish_Experiment.internal](/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.internal|Cavendish_Experiment.internal]] 
 
-### #is_/same_as :: [Cavendish_Experiment.protect](/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.protect|Cavendish_Experiment.protect]] 
 
-### #is_/same_as :: [Cavendish_Experiment.private](/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.private|Cavendish_Experiment.private]] 
 
-### #is_/same_as :: [Cavendish_Experiment.personal](/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.personal|Cavendish_Experiment.personal]] 
 
-### #is_/same_as :: [Cavendish_Experiment.secret](/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Cavendish,Henry/Cavendish_Experiment.secret|Cavendish_Experiment.secret]] 
 

@@ -282,17 +282,17 @@ Copyright ::            © 1997 [Katja Schulz](mailto:treegrow@ag.arizona.edu)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Echinodermata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata|Echinodermata]] 
 
-### #is_/same_as :: [Echinodermata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.public|Echinodermata.public]] 
 
-### #is_/same_as :: [Echinodermata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.internal|Echinodermata.internal]] 
 
-### #is_/same_as :: [Echinodermata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.protect|Echinodermata.protect]] 
 
-### #is_/same_as :: [Echinodermata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.private|Echinodermata.private]] 
 
-### #is_/same_as :: [Echinodermata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.personal|Echinodermata.personal]] 
 
-### #is_/same_as :: [Echinodermata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata.secret|Echinodermata.secret]] 
 

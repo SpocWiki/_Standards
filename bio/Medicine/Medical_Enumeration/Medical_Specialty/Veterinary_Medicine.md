@@ -73,17 +73,17 @@ Commons_category: Veterinary medicine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Veterinary_Medicine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine|Veterinary_Medicine]] 
 
-### #is_/same_as :: [Veterinary_Medicine.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.public|Veterinary_Medicine.public]] 
 
-### #is_/same_as :: [Veterinary_Medicine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.internal|Veterinary_Medicine.internal]] 
 
-### #is_/same_as :: [Veterinary_Medicine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.protect|Veterinary_Medicine.protect]] 
 
-### #is_/same_as :: [Veterinary_Medicine.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.private|Veterinary_Medicine.private]] 
 
-### #is_/same_as :: [Veterinary_Medicine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.personal|Veterinary_Medicine.personal]] 
 
-### #is_/same_as :: [Veterinary_Medicine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Veterinary_Medicine.secret|Veterinary_Medicine.secret]] 
 

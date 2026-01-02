@@ -33,17 +33,17 @@ subclass_of: "[[_Standards/WikiData/WD~function,11348]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computable_Function](/_Standards/Mathematics/Algorithm/Computable_Function.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algorithm/Computable_Function|Computable_Function]] 
 
-### #is_/same_as :: [Computable_Function.public](/_public/Mathematics/Algorithm/Computable_Function.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algorithm/Computable_Function.public|Computable_Function.public]] 
 
-### #is_/same_as :: [Computable_Function.internal](/_internal/Mathematics/Algorithm/Computable_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algorithm/Computable_Function.internal|Computable_Function.internal]] 
 
-### #is_/same_as :: [Computable_Function.protect](/_protect/Mathematics/Algorithm/Computable_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algorithm/Computable_Function.protect|Computable_Function.protect]] 
 
-### #is_/same_as :: [Computable_Function.private](/_private/Mathematics/Algorithm/Computable_Function.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algorithm/Computable_Function.private|Computable_Function.private]] 
 
-### #is_/same_as :: [Computable_Function.personal](/_personal/Mathematics/Algorithm/Computable_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algorithm/Computable_Function.personal|Computable_Function.personal]] 
 
-### #is_/same_as :: [Computable_Function.secret](/_secret/Mathematics/Algorithm/Computable_Function.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algorithm/Computable_Function.secret|Computable_Function.secret]] 
 

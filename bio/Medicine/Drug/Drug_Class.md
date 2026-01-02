@@ -86,17 +86,17 @@ common mechanisms of action, common physiological effects, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Class](/_Standards/bio/Medicine/Drug/Drug_Class.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug_Class|Drug_Class]] 
 
-### #is_/same_as :: [Drug_Class.public](/_public/bio/Medicine/Drug/Drug_Class.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug_Class.public|Drug_Class.public]] 
 
-### #is_/same_as :: [Drug_Class.internal](/_internal/bio/Medicine/Drug/Drug_Class.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug_Class.internal|Drug_Class.internal]] 
 
-### #is_/same_as :: [Drug_Class.protect](/_protect/bio/Medicine/Drug/Drug_Class.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug_Class.protect|Drug_Class.protect]] 
 
-### #is_/same_as :: [Drug_Class.private](/_private/bio/Medicine/Drug/Drug_Class.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug_Class.private|Drug_Class.private]] 
 
-### #is_/same_as :: [Drug_Class.personal](/_personal/bio/Medicine/Drug/Drug_Class.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug_Class.personal|Drug_Class.personal]] 
 
-### #is_/same_as :: [Drug_Class.secret](/_secret/bio/Medicine/Drug/Drug_Class.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug_Class.secret|Drug_Class.secret]] 
 

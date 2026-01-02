@@ -86,17 +86,17 @@ Commons_category: Skin cancers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skin_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer|Skin_Cancer]] 
 
-### #is_/same_as :: [Skin_Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.public|Skin_Cancer.public]] 
 
-### #is_/same_as :: [Skin_Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.internal|Skin_Cancer.internal]] 
 
-### #is_/same_as :: [Skin_Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.protect|Skin_Cancer.protect]] 
 
-### #is_/same_as :: [Skin_Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.private|Skin_Cancer.private]] 
 
-### #is_/same_as :: [Skin_Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.personal|Skin_Cancer.personal]] 
 
-### #is_/same_as :: [Skin_Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Skin_Cancer.secret|Skin_Cancer.secret]] 
 

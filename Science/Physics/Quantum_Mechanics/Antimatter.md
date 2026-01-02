@@ -76,17 +76,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/ANTIVESHCHESTVO.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antimatter](/_Standards/Science/Physics/Quantum_Mechanics/Antimatter.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Antimatter|Antimatter]] 
 
-### #is_/same_as :: [Antimatter.public](/_public/Science/Physics/Quantum_Mechanics/Antimatter.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Antimatter.public|Antimatter.public]] 
 
-### #is_/same_as :: [Antimatter.internal](/_internal/Science/Physics/Quantum_Mechanics/Antimatter.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Antimatter.internal|Antimatter.internal]] 
 
-### #is_/same_as :: [Antimatter.protect](/_protect/Science/Physics/Quantum_Mechanics/Antimatter.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Antimatter.protect|Antimatter.protect]] 
 
-### #is_/same_as :: [Antimatter.private](/_private/Science/Physics/Quantum_Mechanics/Antimatter.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Antimatter.private|Antimatter.private]] 
 
-### #is_/same_as :: [Antimatter.personal](/_personal/Science/Physics/Quantum_Mechanics/Antimatter.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Antimatter.personal|Antimatter.personal]] 
 
-### #is_/same_as :: [Antimatter.secret](/_secret/Science/Physics/Quantum_Mechanics/Antimatter.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Antimatter.secret|Antimatter.secret]] 
 

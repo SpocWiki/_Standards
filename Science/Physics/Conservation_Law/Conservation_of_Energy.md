@@ -59,17 +59,17 @@ Dewey_Decimal_Classification: "531.62"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservation_of_Energy](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Energy.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Conservation_Law/Conservation_of_Energy|Conservation_of_Energy]] 
 
-### #is_/same_as :: [Conservation_of_Energy.public](/_public/Science/Physics/Conservation_Law/Conservation_of_Energy.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Conservation_Law/Conservation_of_Energy.public|Conservation_of_Energy.public]] 
 
-### #is_/same_as :: [Conservation_of_Energy.internal](/_internal/Science/Physics/Conservation_Law/Conservation_of_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Conservation_Law/Conservation_of_Energy.internal|Conservation_of_Energy.internal]] 
 
-### #is_/same_as :: [Conservation_of_Energy.protect](/_protect/Science/Physics/Conservation_Law/Conservation_of_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Conservation_Law/Conservation_of_Energy.protect|Conservation_of_Energy.protect]] 
 
-### #is_/same_as :: [Conservation_of_Energy.private](/_private/Science/Physics/Conservation_Law/Conservation_of_Energy.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Conservation_Law/Conservation_of_Energy.private|Conservation_of_Energy.private]] 
 
-### #is_/same_as :: [Conservation_of_Energy.personal](/_personal/Science/Physics/Conservation_Law/Conservation_of_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Conservation_Law/Conservation_of_Energy.personal|Conservation_of_Energy.personal]] 
 
-### #is_/same_as :: [Conservation_of_Energy.secret](/_secret/Science/Physics/Conservation_Law/Conservation_of_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Conservation_Law/Conservation_of_Energy.secret|Conservation_of_Energy.secret]] 
 

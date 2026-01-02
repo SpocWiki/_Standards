@@ -76,17 +76,17 @@ She concluded saying it was "the first time it's felt right in my gut to stream 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apple_Music](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music|Apple_Music]] 
 
-### #is_/same_as :: [Apple_Music.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.public|Apple_Music.public]] 
 
-### #is_/same_as :: [Apple_Music.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.internal|Apple_Music.internal]] 
 
-### #is_/same_as :: [Apple_Music.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.protect|Apple_Music.protect]] 
 
-### #is_/same_as :: [Apple_Music.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.private|Apple_Music.private]] 
 
-### #is_/same_as :: [Apple_Music.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.personal|Apple_Music.personal]] 
 
-### #is_/same_as :: [Apple_Music.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Apple_Inc/Apple_Music.secret|Apple_Music.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_pattern](/_Standards/schema-org/Relation/has/has_pattern.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_pattern|has_pattern]] 
 
-### #is_/same_as :: [has_pattern.public](/_public/schema-org/Relation/has/has_pattern.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_pattern.public|has_pattern.public]] 
 
-### #is_/same_as :: [has_pattern.internal](/_internal/schema-org/Relation/has/has_pattern.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_pattern.internal|has_pattern.internal]] 
 
-### #is_/same_as :: [has_pattern.protect](/_protect/schema-org/Relation/has/has_pattern.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_pattern.protect|has_pattern.protect]] 
 
-### #is_/same_as :: [has_pattern.private](/_private/schema-org/Relation/has/has_pattern.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_pattern.private|has_pattern.private]] 
 
-### #is_/same_as :: [has_pattern.personal](/_personal/schema-org/Relation/has/has_pattern.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_pattern.personal|has_pattern.personal]] 
 
-### #is_/same_as :: [has_pattern.secret](/_secret/schema-org/Relation/has/has_pattern.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_pattern.secret|has_pattern.secret]] 
 

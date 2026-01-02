@@ -77,17 +77,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Redshift.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Redshift](/_Standards/Astronomy/Astrometry/Redshift.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Redshift|Redshift]] 
 
-### #is_/same_as :: [Redshift.public](/_public/Astronomy/Astrometry/Redshift.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Redshift.public|Redshift.public]] 
 
-### #is_/same_as :: [Redshift.internal](/_internal/Astronomy/Astrometry/Redshift.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Redshift.internal|Redshift.internal]] 
 
-### #is_/same_as :: [Redshift.protect](/_protect/Astronomy/Astrometry/Redshift.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Redshift.protect|Redshift.protect]] 
 
-### #is_/same_as :: [Redshift.private](/_private/Astronomy/Astrometry/Redshift.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Redshift.private|Redshift.private]] 
 
-### #is_/same_as :: [Redshift.personal](/_personal/Astronomy/Astrometry/Redshift.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Redshift.personal|Redshift.personal]] 
 
-### #is_/same_as :: [Redshift.secret](/_secret/Astronomy/Astrometry/Redshift.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Redshift.secret|Redshift.secret]] 
 

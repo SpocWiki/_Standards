@@ -30,17 +30,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-05-Vanadium](/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium|Group-05-Vanadium]] 
 
-### #is_/same_as :: [Group-05-Vanadium.public](/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public|Group-05-Vanadium.public]] 
 
-### #is_/same_as :: [Group-05-Vanadium.internal](/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal|Group-05-Vanadium.internal]] 
 
-### #is_/same_as :: [Group-05-Vanadium.protect](/_protect/Chemistry/Chemical_Element/Group-05-Vanadium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-05-Vanadium.protect|Group-05-Vanadium.protect]] 
 
-### #is_/same_as :: [Group-05-Vanadium.private](/_private/Chemistry/Chemical_Element/Group-05-Vanadium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-05-Vanadium.private|Group-05-Vanadium.private]] 
 
-### #is_/same_as :: [Group-05-Vanadium.personal](/_personal/Chemistry/Chemical_Element/Group-05-Vanadium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium.personal|Group-05-Vanadium.personal]] 
 
-### #is_/same_as :: [Group-05-Vanadium.secret](/_secret/Chemistry/Chemical_Element/Group-05-Vanadium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium.secret|Group-05-Vanadium.secret]] 
 

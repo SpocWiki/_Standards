@@ -43,17 +43,17 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Forn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Fornax](/_Standards/Astronomy/Star~Constellation/Zodiac~Fornax.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Fornax|Zodiac~Fornax]] 
 
-### #is_/same_as :: [Zodiac~Fornax.public](/_public/Astronomy/Star~Constellation/Zodiac~Fornax.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Fornax.public|Zodiac~Fornax.public]] 
 
-### #is_/same_as :: [Zodiac~Fornax.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Fornax.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Fornax.internal|Zodiac~Fornax.internal]] 
 
-### #is_/same_as :: [Zodiac~Fornax.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Fornax.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Fornax.protect|Zodiac~Fornax.protect]] 
 
-### #is_/same_as :: [Zodiac~Fornax.private](/_private/Astronomy/Star~Constellation/Zodiac~Fornax.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Fornax.private|Zodiac~Fornax.private]] 
 
-### #is_/same_as :: [Zodiac~Fornax.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Fornax.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Fornax.personal|Zodiac~Fornax.personal]] 
 
-### #is_/same_as :: [Zodiac~Fornax.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Fornax.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Fornax.secret|Zodiac~Fornax.secret]] 
 

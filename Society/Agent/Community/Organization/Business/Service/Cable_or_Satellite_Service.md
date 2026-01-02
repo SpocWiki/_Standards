@@ -41,17 +41,17 @@ A service which provides access to media programming like TV or radio. Access ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cable_or_Satellite_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service|Cable_or_Satellite_Service]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.public|Cable_or_Satellite_Service.public]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.internal|Cable_or_Satellite_Service.internal]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.protect|Cable_or_Satellite_Service.protect]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.private|Cable_or_Satellite_Service.private]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.personal|Cable_or_Satellite_Service.personal]] 
 
-### #is_/same_as :: [Cable_or_Satellite_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Cable_or_Satellite_Service.secret|Cable_or_Satellite_Service.secret]] 
 

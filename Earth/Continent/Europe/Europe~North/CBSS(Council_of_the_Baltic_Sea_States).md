@@ -58,17 +58,17 @@ native_label: Council of the Baltic Sea States
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States)](/_Standards/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States)|CBSS(Council_of_the_Baltic_Sea_States)]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).public](/_public/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).public|CBSS(Council_of_the_Baltic_Sea_States).public]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).internal](/_internal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).internal|CBSS(Council_of_the_Baltic_Sea_States).internal]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).protect](/_protect/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).protect|CBSS(Council_of_the_Baltic_Sea_States).protect]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).private](/_private/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).private|CBSS(Council_of_the_Baltic_Sea_States).private]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).personal](/_personal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).personal|CBSS(Council_of_the_Baltic_Sea_States).personal]] 
 
-### #is_/same_as :: [CBSS(Council_of_the_Baltic_Sea_States).secret](/_secret/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/CBSS(Council_of_the_Baltic_Sea_States).secret|CBSS(Council_of_the_Baltic_Sea_States).secret]] 
 

@@ -45,17 +45,17 @@ IEV_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Number](/_Standards/Science/Physics/Atom/Atomic_Number.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Number|Atomic_Number]] 
 
-### #is_/same_as :: [Atomic_Number.public](/_public/Science/Physics/Atom/Atomic_Number.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Number.public|Atomic_Number.public]] 
 
-### #is_/same_as :: [Atomic_Number.internal](/_internal/Science/Physics/Atom/Atomic_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Number.internal|Atomic_Number.internal]] 
 
-### #is_/same_as :: [Atomic_Number.protect](/_protect/Science/Physics/Atom/Atomic_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Number.protect|Atomic_Number.protect]] 
 
-### #is_/same_as :: [Atomic_Number.private](/_private/Science/Physics/Atom/Atomic_Number.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Number.private|Atomic_Number.private]] 
 
-### #is_/same_as :: [Atomic_Number.personal](/_personal/Science/Physics/Atom/Atomic_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Number.personal|Atomic_Number.personal]] 
 
-### #is_/same_as :: [Atomic_Number.secret](/_secret/Science/Physics/Atom/Atomic_Number.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Number.secret|Atomic_Number.secret]] 
 

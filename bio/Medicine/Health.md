@@ -70,17 +70,17 @@ UMLS_CUI: C0949333
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health](/_Standards/bio/Medicine/Health.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health|Health]] 
 
-### #is_/same_as :: [Health.public](/_public/bio/Medicine/Health.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health.public|Health.public]] 
 
-### #is_/same_as :: [Health.internal](/_internal/bio/Medicine/Health.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health.internal|Health.internal]] 
 
-### #is_/same_as :: [Health.protect](/_protect/bio/Medicine/Health.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health.protect|Health.protect]] 
 
-### #is_/same_as :: [Health.private](/_private/bio/Medicine/Health.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health.private|Health.private]] 
 
-### #is_/same_as :: [Health.personal](/_personal/bio/Medicine/Health.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health.personal|Health.personal]] 
 
-### #is_/same_as :: [Health.secret](/_secret/bio/Medicine/Health.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health.secret|Health.secret]] 
 

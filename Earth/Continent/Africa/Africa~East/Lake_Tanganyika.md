@@ -95,17 +95,17 @@ markerFile: [[Lake_Tanganyika]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lake_Tanganyika](/_Standards/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Lake_Tanganyika|Lake_Tanganyika]] 
 
-### #is_/same_as :: [Lake_Tanganyika.public](/_public/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.public|Lake_Tanganyika.public]] 
 
-### #is_/same_as :: [Lake_Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.internal|Lake_Tanganyika.internal]] 
 
-### #is_/same_as :: [Lake_Tanganyika.protect](/_protect/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.protect|Lake_Tanganyika.protect]] 
 
-### #is_/same_as :: [Lake_Tanganyika.private](/_private/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.private|Lake_Tanganyika.private]] 
 
-### #is_/same_as :: [Lake_Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.personal|Lake_Tanganyika.personal]] 
 
-### #is_/same_as :: [Lake_Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Lake_Tanganyika.secret|Lake_Tanganyika.secret]] 
 

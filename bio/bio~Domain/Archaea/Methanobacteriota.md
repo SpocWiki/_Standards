@@ -32,17 +32,17 @@ title: Euryarchaeota
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Methanobacteriota](/_Standards/bio/bio~Domain/Archaea/Methanobacteriota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Archaea/Methanobacteriota|Methanobacteriota]] 
 
-### #is_/same_as :: [Methanobacteriota.public](/_public/bio/bio~Domain/Archaea/Methanobacteriota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Archaea/Methanobacteriota.public|Methanobacteriota.public]] 
 
-### #is_/same_as :: [Methanobacteriota.internal](/_internal/bio/bio~Domain/Archaea/Methanobacteriota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Archaea/Methanobacteriota.internal|Methanobacteriota.internal]] 
 
-### #is_/same_as :: [Methanobacteriota.protect](/_protect/bio/bio~Domain/Archaea/Methanobacteriota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Archaea/Methanobacteriota.protect|Methanobacteriota.protect]] 
 
-### #is_/same_as :: [Methanobacteriota.private](/_private/bio/bio~Domain/Archaea/Methanobacteriota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Archaea/Methanobacteriota.private|Methanobacteriota.private]] 
 
-### #is_/same_as :: [Methanobacteriota.personal](/_personal/bio/bio~Domain/Archaea/Methanobacteriota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Archaea/Methanobacteriota.personal|Methanobacteriota.personal]] 
 
-### #is_/same_as :: [Methanobacteriota.secret](/_secret/bio/bio~Domain/Archaea/Methanobacteriota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Archaea/Methanobacteriota.secret|Methanobacteriota.secret]] 
 

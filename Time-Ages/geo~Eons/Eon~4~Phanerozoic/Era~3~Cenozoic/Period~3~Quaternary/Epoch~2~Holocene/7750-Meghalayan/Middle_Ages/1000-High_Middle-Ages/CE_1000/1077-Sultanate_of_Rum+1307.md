@@ -67,17 +67,17 @@ native_label: سلجوقیان روم
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307|1077-Sultanate_of_Rum+1307]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.public|1077-Sultanate_of_Rum+1307.public]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.internal|1077-Sultanate_of_Rum+1307.internal]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.protect|1077-Sultanate_of_Rum+1307.protect]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.private|1077-Sultanate_of_Rum+1307.private]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.personal|1077-Sultanate_of_Rum+1307.personal]] 
 
-### #is_/same_as :: [1077-Sultanate_of_Rum+1307.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1000-High_Middle-Ages/CE_1000/1077-Sultanate_of_Rum+1307.secret|1077-Sultanate_of_Rum+1307.secret]] 
 

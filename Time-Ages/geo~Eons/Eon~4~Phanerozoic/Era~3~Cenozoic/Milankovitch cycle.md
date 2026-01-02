@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Milankovitch cycle](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle|Milankovitch cycle]] 
 
-### #is_/same_as :: [Milankovitch cycle.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.public|Milankovitch cycle.public]] 
 
-### #is_/same_as :: [Milankovitch cycle.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.internal|Milankovitch cycle.internal]] 
 
-### #is_/same_as :: [Milankovitch cycle.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.protect|Milankovitch cycle.protect]] 
 
-### #is_/same_as :: [Milankovitch cycle.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.private|Milankovitch cycle.private]] 
 
-### #is_/same_as :: [Milankovitch cycle.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.personal|Milankovitch cycle.personal]] 
 
-### #is_/same_as :: [Milankovitch cycle.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Milankovitch cycle.secret|Milankovitch cycle.secret]] 
 

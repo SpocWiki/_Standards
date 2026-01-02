@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_smiles](/_Standards/schema-org/Property/Texts/has_smiles.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_smiles|has_smiles]] 
 
-### #is_/same_as :: [has_smiles.public](/_public/schema-org/Property/Texts/has_smiles.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_smiles.public|has_smiles.public]] 
 
-### #is_/same_as :: [has_smiles.internal](/_internal/schema-org/Property/Texts/has_smiles.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_smiles.internal|has_smiles.internal]] 
 
-### #is_/same_as :: [has_smiles.protect](/_protect/schema-org/Property/Texts/has_smiles.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_smiles.protect|has_smiles.protect]] 
 
-### #is_/same_as :: [has_smiles.private](/_private/schema-org/Property/Texts/has_smiles.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_smiles.private|has_smiles.private]] 
 
-### #is_/same_as :: [has_smiles.personal](/_personal/schema-org/Property/Texts/has_smiles.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_smiles.personal|has_smiles.personal]] 
 
-### #is_/same_as :: [has_smiles.secret](/_secret/schema-org/Property/Texts/has_smiles.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_smiles.secret|has_smiles.secret]] 
 

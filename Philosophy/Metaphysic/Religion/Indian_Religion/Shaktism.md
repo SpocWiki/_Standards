@@ -54,17 +54,17 @@ OpenStreetMap_tag: denomination=shaktism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shaktism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism|Shaktism]] 
 
-### #is_/same_as :: [Shaktism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.public|Shaktism.public]] 
 
-### #is_/same_as :: [Shaktism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.internal|Shaktism.internal]] 
 
-### #is_/same_as :: [Shaktism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.protect|Shaktism.protect]] 
 
-### #is_/same_as :: [Shaktism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.private|Shaktism.private]] 
 
-### #is_/same_as :: [Shaktism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.personal|Shaktism.personal]] 
 
-### #is_/same_as :: [Shaktism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Shaktism.secret|Shaktism.secret]] 
 

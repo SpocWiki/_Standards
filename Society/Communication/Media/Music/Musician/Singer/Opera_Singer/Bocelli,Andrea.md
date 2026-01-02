@@ -113,17 +113,17 @@ Facebook_username: AndreaBocelliOfficial
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bocelli,Andrea](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea|Bocelli,Andrea]] 
 
-### #is_/same_as :: [Bocelli,Andrea.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.public|Bocelli,Andrea.public]] 
 
-### #is_/same_as :: [Bocelli,Andrea.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.internal|Bocelli,Andrea.internal]] 
 
-### #is_/same_as :: [Bocelli,Andrea.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.protect|Bocelli,Andrea.protect]] 
 
-### #is_/same_as :: [Bocelli,Andrea.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.private|Bocelli,Andrea.private]] 
 
-### #is_/same_as :: [Bocelli,Andrea.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.personal|Bocelli,Andrea.personal]] 
 
-### #is_/same_as :: [Bocelli,Andrea.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Bocelli,Andrea.secret|Bocelli,Andrea.secret]] 
 

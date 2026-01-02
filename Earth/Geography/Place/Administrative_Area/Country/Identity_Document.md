@@ -73,17 +73,17 @@ Library_of_Congress_Classification: KJC6038
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Identity_Document](/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Country/Identity_Document|Identity_Document]] 
 
-### #is_/same_as :: [Identity_Document.public](/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.public|Identity_Document.public]] 
 
-### #is_/same_as :: [Identity_Document.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.internal|Identity_Document.internal]] 
 
-### #is_/same_as :: [Identity_Document.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.protect|Identity_Document.protect]] 
 
-### #is_/same_as :: [Identity_Document.private](/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.private|Identity_Document.private]] 
 
-### #is_/same_as :: [Identity_Document.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.personal|Identity_Document.personal]] 
 
-### #is_/same_as :: [Identity_Document.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Country/Identity_Document.secret|Identity_Document.secret]] 
 

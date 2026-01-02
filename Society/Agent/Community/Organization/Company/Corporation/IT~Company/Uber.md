@@ -38,17 +38,17 @@ and provide excellent service on these.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uber](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber|Uber]] 
 
-### #is_/same_as :: [Uber.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.public|Uber.public]] 
 
-### #is_/same_as :: [Uber.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.internal|Uber.internal]] 
 
-### #is_/same_as :: [Uber.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.protect|Uber.protect]] 
 
-### #is_/same_as :: [Uber.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.private|Uber.private]] 
 
-### #is_/same_as :: [Uber.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.personal|Uber.personal]] 
 
-### #is_/same_as :: [Uber.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Uber.secret|Uber.secret]] 
 

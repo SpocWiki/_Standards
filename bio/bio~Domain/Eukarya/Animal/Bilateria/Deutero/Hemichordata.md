@@ -60,17 +60,17 @@ Photograph by David Remsen, copyright © 1995,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hemichordata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata|Hemichordata]] 
 
-### #is_/same_as :: [Hemichordata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.public|Hemichordata.public]] 
 
-### #is_/same_as :: [Hemichordata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.internal|Hemichordata.internal]] 
 
-### #is_/same_as :: [Hemichordata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.protect|Hemichordata.protect]] 
 
-### #is_/same_as :: [Hemichordata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.private|Hemichordata.private]] 
 
-### #is_/same_as :: [Hemichordata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.personal|Hemichordata.personal]] 
 
-### #is_/same_as :: [Hemichordata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Hemichordata.secret|Hemichordata.secret]] 
 

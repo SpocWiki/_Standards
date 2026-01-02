@@ -43,17 +43,17 @@ A technical article - Example: How-to (task) topics, step-by-step, procedural tr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tech_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/Tech_Article.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Tech_Article|Tech_Article]] 
 
-### #is_/same_as :: [Tech_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/Tech_Article.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Tech_Article.public|Tech_Article.public]] 
 
-### #is_/same_as :: [Tech_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Tech_Article.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Tech_Article.internal|Tech_Article.internal]] 
 
-### #is_/same_as :: [Tech_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Tech_Article.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Tech_Article.protect|Tech_Article.protect]] 
 
-### #is_/same_as :: [Tech_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/Tech_Article.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Tech_Article.private|Tech_Article.private]] 
 
-### #is_/same_as :: [Tech_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Tech_Article.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Tech_Article.personal|Tech_Article.personal]] 
 
-### #is_/same_as :: [Tech_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Tech_Article.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Tech_Article.secret|Tech_Article.secret]] 
 

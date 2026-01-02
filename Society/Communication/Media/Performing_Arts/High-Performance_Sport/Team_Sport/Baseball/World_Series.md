@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Series](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series|World_Series]] 
 
-### #is_/same_as :: [World_Series.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.public|World_Series.public]] 
 
-### #is_/same_as :: [World_Series.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.internal|World_Series.internal]] 
 
-### #is_/same_as :: [World_Series.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.protect|World_Series.protect]] 
 
-### #is_/same_as :: [World_Series.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.private|World_Series.private]] 
 
-### #is_/same_as :: [World_Series.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.personal|World_Series.personal]] 
 
-### #is_/same_as :: [World_Series.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/World_Series.secret|World_Series.secret]] 
 

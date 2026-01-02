@@ -47,17 +47,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GoldenEye,1995](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995|GoldenEye,1995]] 
 
-### #is_/same_as :: [GoldenEye,1995.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.public|GoldenEye,1995.public]] 
 
-### #is_/same_as :: [GoldenEye,1995.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.internal|GoldenEye,1995.internal]] 
 
-### #is_/same_as :: [GoldenEye,1995.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.protect|GoldenEye,1995.protect]] 
 
-### #is_/same_as :: [GoldenEye,1995.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.private|GoldenEye,1995.private]] 
 
-### #is_/same_as :: [GoldenEye,1995.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.personal|GoldenEye,1995.personal]] 
 
-### #is_/same_as :: [GoldenEye,1995.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/GoldenEye,1995.secret|GoldenEye,1995.secret]] 
 

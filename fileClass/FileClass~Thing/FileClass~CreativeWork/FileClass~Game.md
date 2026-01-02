@@ -92,17 +92,17 @@ Quest:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Game](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game|FileClass~Game]] 
 
-### #is_/same_as :: [FileClass~Game.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.public|FileClass~Game.public]] 
 
-### #is_/same_as :: [FileClass~Game.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.internal|FileClass~Game.internal]] 
 
-### #is_/same_as :: [FileClass~Game.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.protect|FileClass~Game.protect]] 
 
-### #is_/same_as :: [FileClass~Game.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.private|FileClass~Game.private]] 
 
-### #is_/same_as :: [FileClass~Game.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.personal|FileClass~Game.personal]] 
 
-### #is_/same_as :: [FileClass~Game.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Game.secret|FileClass~Game.secret]] 
 

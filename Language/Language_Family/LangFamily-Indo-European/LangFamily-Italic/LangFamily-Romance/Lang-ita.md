@@ -179,17 +179,17 @@ ISNI: 0000000121451116
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ita](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita|Lang-ita]] 
 
-### #is_/same_as :: [Lang-ita.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.public|Lang-ita.public]] 
 
-### #is_/same_as :: [Lang-ita.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.internal|Lang-ita.internal]] 
 
-### #is_/same_as :: [Lang-ita.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.protect|Lang-ita.protect]] 
 
-### #is_/same_as :: [Lang-ita.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.private|Lang-ita.private]] 
 
-### #is_/same_as :: [Lang-ita.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.personal|Lang-ita.personal]] 
 
-### #is_/same_as :: [Lang-ita.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-ita.secret|Lang-ita.secret]] 
 

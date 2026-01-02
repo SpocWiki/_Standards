@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_currency](/_Standards/schema-org/Property/Texts/has_currency.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_currency|has_currency]] 
 
-### #is_/same_as :: [has_currency.public](/_public/schema-org/Property/Texts/has_currency.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_currency.public|has_currency.public]] 
 
-### #is_/same_as :: [has_currency.internal](/_internal/schema-org/Property/Texts/has_currency.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_currency.internal|has_currency.internal]] 
 
-### #is_/same_as :: [has_currency.protect](/_protect/schema-org/Property/Texts/has_currency.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_currency.protect|has_currency.protect]] 
 
-### #is_/same_as :: [has_currency.private](/_private/schema-org/Property/Texts/has_currency.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_currency.private|has_currency.private]] 
 
-### #is_/same_as :: [has_currency.personal](/_personal/schema-org/Property/Texts/has_currency.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_currency.personal|has_currency.personal]] 
 
-### #is_/same_as :: [has_currency.secret](/_secret/schema-org/Property/Texts/has_currency.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_currency.secret|has_currency.secret]] 
 

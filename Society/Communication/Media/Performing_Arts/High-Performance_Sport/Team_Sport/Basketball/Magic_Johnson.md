@@ -136,17 +136,17 @@ work_period_end_: 1991-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magic_Johnson](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson|Magic_Johnson]] 
 
-### #is_/same_as :: [Magic_Johnson.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.public|Magic_Johnson.public]] 
 
-### #is_/same_as :: [Magic_Johnson.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.internal|Magic_Johnson.internal]] 
 
-### #is_/same_as :: [Magic_Johnson.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.protect|Magic_Johnson.protect]] 
 
-### #is_/same_as :: [Magic_Johnson.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.private|Magic_Johnson.private]] 
 
-### #is_/same_as :: [Magic_Johnson.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.personal|Magic_Johnson.personal]] 
 
-### #is_/same_as :: [Magic_Johnson.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Basketball/Magic_Johnson.secret|Magic_Johnson.secret]] 
 

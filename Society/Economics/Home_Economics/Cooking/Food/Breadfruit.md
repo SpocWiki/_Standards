@@ -97,16 +97,17 @@ UNII: MW47R8XY1O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Breadfruit](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Breadfruit|Breadfruit]] 
 
-### #is_/same_as :: [Breadfruit.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.public|Breadfruit.public]] 
 
-### #is_/same_as :: [Breadfruit.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.internal|Breadfruit.internal]] 
 
-### #is_/same_as :: [Breadfruit.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.protect|Breadfruit.protect]] 
 
-### #is_/same_as :: [Breadfruit.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.private|Breadfruit.private]] 
 
-### #is_/same_as :: [Breadfruit.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.personal|Breadfruit.personal]] 
 
-### #is_/same_as :: [Breadfruit.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Breadfruit.secret|Breadfruit.secret]] 
+

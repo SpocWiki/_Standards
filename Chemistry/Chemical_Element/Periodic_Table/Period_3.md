@@ -35,17 +35,17 @@ Commons_category: Periodic table row 3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period_3](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_3|Period_3]] 
 
-### #is_/same_as :: [Period_3.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_3.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_3.public|Period_3.public]] 
 
-### #is_/same_as :: [Period_3.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_3.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_3.internal|Period_3.internal]] 
 
-### #is_/same_as :: [Period_3.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_3.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_3.protect|Period_3.protect]] 
 
-### #is_/same_as :: [Period_3.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_3.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_3.private|Period_3.private]] 
 
-### #is_/same_as :: [Period_3.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_3.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_3.personal|Period_3.personal]] 
 
-### #is_/same_as :: [Period_3.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_3.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_3.secret|Period_3.secret]] 
 

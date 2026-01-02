@@ -152,17 +152,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-lat](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat|Lang-lat]] 
 
-### #is_/same_as :: [Lang-lat.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.public|Lang-lat.public]] 
 
-### #is_/same_as :: [Lang-lat.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.internal|Lang-lat.internal]] 
 
-### #is_/same_as :: [Lang-lat.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.protect|Lang-lat.protect]] 
 
-### #is_/same_as :: [Lang-lat.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.private|Lang-lat.private]] 
 
-### #is_/same_as :: [Lang-lat.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.personal|Lang-lat.personal]] 
 
-### #is_/same_as :: [Lang-lat.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/Lang-lat.secret|Lang-lat.secret]] 
 

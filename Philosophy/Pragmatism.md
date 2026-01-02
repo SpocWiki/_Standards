@@ -139,17 +139,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pragmatism](/_Standards/Philosophy/Pragmatism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Pragmatism|Pragmatism]] 
 
-### #is_/same_as :: [Pragmatism.public](/_public/Philosophy/Pragmatism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Pragmatism.public|Pragmatism.public]] 
 
-### #is_/same_as :: [Pragmatism.internal](/_internal/Philosophy/Pragmatism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Pragmatism.internal|Pragmatism.internal]] 
 
-### #is_/same_as :: [Pragmatism.protect](/_protect/Philosophy/Pragmatism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Pragmatism.protect|Pragmatism.protect]] 
 
-### #is_/same_as :: [Pragmatism.private](/_private/Philosophy/Pragmatism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Pragmatism.private|Pragmatism.private]] 
 
-### #is_/same_as :: [Pragmatism.personal](/_personal/Philosophy/Pragmatism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Pragmatism.personal|Pragmatism.personal]] 
 
-### #is_/same_as :: [Pragmatism.secret](/_secret/Philosophy/Pragmatism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Pragmatism.secret|Pragmatism.secret]] 
 

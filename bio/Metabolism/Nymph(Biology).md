@@ -44,17 +44,17 @@ Commons_category: Nymphs (biology)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nymph(Biology)](/_Standards/bio/Metabolism/Nymph(Biology).md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nymph(Biology)|Nymph(Biology)]] 
 
-### #is_/same_as :: [Nymph(Biology).public](/_public/bio/Metabolism/Nymph(Biology).public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nymph(Biology).public|Nymph(Biology).public]] 
 
-### #is_/same_as :: [Nymph(Biology).internal](/_internal/bio/Metabolism/Nymph(Biology).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nymph(Biology).internal|Nymph(Biology).internal]] 
 
-### #is_/same_as :: [Nymph(Biology).protect](/_protect/bio/Metabolism/Nymph(Biology).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nymph(Biology).protect|Nymph(Biology).protect]] 
 
-### #is_/same_as :: [Nymph(Biology).private](/_private/bio/Metabolism/Nymph(Biology).private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nymph(Biology).private|Nymph(Biology).private]] 
 
-### #is_/same_as :: [Nymph(Biology).personal](/_personal/bio/Metabolism/Nymph(Biology).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nymph(Biology).personal|Nymph(Biology).personal]] 
 
-### #is_/same_as :: [Nymph(Biology).secret](/_secret/bio/Metabolism/Nymph(Biology).secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nymph(Biology).secret|Nymph(Biology).secret]] 
 

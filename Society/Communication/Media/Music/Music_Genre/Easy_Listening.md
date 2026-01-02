@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Easy%20listening%20CD%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Easy_Listening](/_Standards/Society/Communication/Media/Music/Music_Genre/Easy_Listening.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Easy_Listening|Easy_Listening]] 
 
-### #is_/same_as :: [Easy_Listening.public](/_public/Society/Communication/Media/Music/Music_Genre/Easy_Listening.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Easy_Listening.public|Easy_Listening.public]] 
 
-### #is_/same_as :: [Easy_Listening.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Easy_Listening.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Easy_Listening.internal|Easy_Listening.internal]] 
 
-### #is_/same_as :: [Easy_Listening.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Easy_Listening.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Easy_Listening.protect|Easy_Listening.protect]] 
 
-### #is_/same_as :: [Easy_Listening.private](/_private/Society/Communication/Media/Music/Music_Genre/Easy_Listening.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Easy_Listening.private|Easy_Listening.private]] 
 
-### #is_/same_as :: [Easy_Listening.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Easy_Listening.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Easy_Listening.personal|Easy_Listening.personal]] 
 
-### #is_/same_as :: [Easy_Listening.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Easy_Listening.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Easy_Listening.secret|Easy_Listening.secret]] 
 

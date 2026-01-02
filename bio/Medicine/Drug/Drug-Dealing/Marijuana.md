@@ -91,17 +91,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marijuana](/_Standards/bio/Medicine/Drug/Drug-Dealing/Marijuana.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Marijuana|Marijuana]] 
 
-### #is_/same_as :: [Marijuana.public](/_public/bio/Medicine/Drug/Drug-Dealing/Marijuana.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Marijuana.public|Marijuana.public]] 
 
-### #is_/same_as :: [Marijuana.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Marijuana.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Marijuana.internal|Marijuana.internal]] 
 
-### #is_/same_as :: [Marijuana.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Marijuana.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Marijuana.protect|Marijuana.protect]] 
 
-### #is_/same_as :: [Marijuana.private](/_private/bio/Medicine/Drug/Drug-Dealing/Marijuana.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Marijuana.private|Marijuana.private]] 
 
-### #is_/same_as :: [Marijuana.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Marijuana.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Marijuana.personal|Marijuana.personal]] 
 
-### #is_/same_as :: [Marijuana.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Marijuana.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Marijuana.secret|Marijuana.secret]] 
 

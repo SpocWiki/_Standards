@@ -59,3 +59,22 @@ Commons_gallery: Racquet
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Racket%20(sports%20equipment)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports)|Racket(Sports)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).public|Racket(Sports).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).internal|Racket(Sports).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).protect|Racket(Sports).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).private|Racket(Sports).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).personal|Racket(Sports).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Racket(Sports).secret|Racket(Sports).secret]] 
+

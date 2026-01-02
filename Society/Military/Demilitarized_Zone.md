@@ -47,17 +47,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Demilitarized_Zone](/_Standards/Society/Military/Demilitarized_Zone.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Demilitarized_Zone|Demilitarized_Zone]] 
 
-### #is_/same_as :: [Demilitarized_Zone.public](/_public/Society/Military/Demilitarized_Zone.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Demilitarized_Zone.public|Demilitarized_Zone.public]] 
 
-### #is_/same_as :: [Demilitarized_Zone.internal](/_internal/Society/Military/Demilitarized_Zone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Demilitarized_Zone.internal|Demilitarized_Zone.internal]] 
 
-### #is_/same_as :: [Demilitarized_Zone.protect](/_protect/Society/Military/Demilitarized_Zone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Demilitarized_Zone.protect|Demilitarized_Zone.protect]] 
 
-### #is_/same_as :: [Demilitarized_Zone.private](/_private/Society/Military/Demilitarized_Zone.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Demilitarized_Zone.private|Demilitarized_Zone.private]] 
 
-### #is_/same_as :: [Demilitarized_Zone.personal](/_personal/Society/Military/Demilitarized_Zone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Demilitarized_Zone.personal|Demilitarized_Zone.personal]] 
 
-### #is_/same_as :: [Demilitarized_Zone.secret](/_secret/Society/Military/Demilitarized_Zone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Demilitarized_Zone.secret|Demilitarized_Zone.secret]] 
 

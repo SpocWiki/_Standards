@@ -64,17 +64,17 @@ Commons_category: Mode (statistics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mode](/_Standards/Mathematics/Statistics/Probability/Mode.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Mode|Mode]] 
 
-### #is_/same_as :: [Mode.public](/_public/Mathematics/Statistics/Probability/Mode.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Mode.public|Mode.public]] 
 
-### #is_/same_as :: [Mode.internal](/_internal/Mathematics/Statistics/Probability/Mode.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Mode.internal|Mode.internal]] 
 
-### #is_/same_as :: [Mode.protect](/_protect/Mathematics/Statistics/Probability/Mode.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Mode.protect|Mode.protect]] 
 
-### #is_/same_as :: [Mode.private](/_private/Mathematics/Statistics/Probability/Mode.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Mode.private|Mode.private]] 
 
-### #is_/same_as :: [Mode.personal](/_personal/Mathematics/Statistics/Probability/Mode.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Mode.personal|Mode.personal]] 
 
-### #is_/same_as :: [Mode.secret](/_secret/Mathematics/Statistics/Probability/Mode.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Mode.secret|Mode.secret]] 
 

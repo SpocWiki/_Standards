@@ -88,17 +88,17 @@ IPTC_NewsCode: mediatopic/20000742
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Science](/_Standards/Society/Social_Science.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Science|Social_Science]] 
 
-### #is_/same_as :: [Social_Science.public](/_public/Society/Social_Science.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Science.public|Social_Science.public]] 
 
-### #is_/same_as :: [Social_Science.internal](/_internal/Society/Social_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Science.internal|Social_Science.internal]] 
 
-### #is_/same_as :: [Social_Science.protect](/_protect/Society/Social_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Science.protect|Social_Science.protect]] 
 
-### #is_/same_as :: [Social_Science.private](/_private/Society/Social_Science.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Science.private|Social_Science.private]] 
 
-### #is_/same_as :: [Social_Science.personal](/_personal/Society/Social_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Science.personal|Social_Science.personal]] 
 
-### #is_/same_as :: [Social_Science.secret](/_secret/Society/Social_Science.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Science.secret|Social_Science.secret]] 
 

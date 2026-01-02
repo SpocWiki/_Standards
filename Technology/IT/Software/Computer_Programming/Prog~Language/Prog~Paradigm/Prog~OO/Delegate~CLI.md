@@ -33,17 +33,17 @@ And only in later Versions of C#9.0 (2020) Sub-Interface Methods can be variant,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delegate~CLI](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI|Delegate~CLI]] 
 
-### #is_/same_as :: [Delegate~CLI.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.public|Delegate~CLI.public]] 
 
-### #is_/same_as :: [Delegate~CLI.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.internal|Delegate~CLI.internal]] 
 
-### #is_/same_as :: [Delegate~CLI.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.protect|Delegate~CLI.protect]] 
 
-### #is_/same_as :: [Delegate~CLI.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.private|Delegate~CLI.private]] 
 
-### #is_/same_as :: [Delegate~CLI.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.personal|Delegate~CLI.personal]] 
 
-### #is_/same_as :: [Delegate~CLI.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Delegate~CLI.secret|Delegate~CLI.secret]] 
 

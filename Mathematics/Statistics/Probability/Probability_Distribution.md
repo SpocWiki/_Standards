@@ -61,17 +61,17 @@ Commons_category: Probability distributions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Probability_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution|Probability_Distribution]] 
 
-### #is_/same_as :: [Probability_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution.public|Probability_Distribution.public]] 
 
-### #is_/same_as :: [Probability_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution.internal|Probability_Distribution.internal]] 
 
-### #is_/same_as :: [Probability_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution.protect|Probability_Distribution.protect]] 
 
-### #is_/same_as :: [Probability_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution.private|Probability_Distribution.private]] 
 
-### #is_/same_as :: [Probability_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution.personal|Probability_Distribution.personal]] 
 
-### #is_/same_as :: [Probability_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution.secret|Probability_Distribution.secret]] 
 

@@ -47,17 +47,17 @@ RecommendationStrength:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation|FileClass~MedicalGuidelineRecommendation]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.public|FileClass~MedicalGuidelineRecommendation.public]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.internal|FileClass~MedicalGuidelineRecommendation.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.protect|FileClass~MedicalGuidelineRecommendation.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.private|FileClass~MedicalGuidelineRecommendation.private]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.personal|FileClass~MedicalGuidelineRecommendation.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineRecommendation.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineRecommendation.secret|FileClass~MedicalGuidelineRecommendation.secret]] 
 

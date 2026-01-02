@@ -46,17 +46,17 @@ IPTC_NewsCode: mediatopic/20000932
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saber](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Saber.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Saber|Saber]] 
 
-### #is_/same_as :: [Saber.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Saber.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword/Saber.public|Saber.public]] 
 
-### #is_/same_as :: [Saber.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Saber.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword/Saber.internal|Saber.internal]] 
 
-### #is_/same_as :: [Saber.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Saber.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword/Saber.protect|Saber.protect]] 
 
-### #is_/same_as :: [Saber.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Saber.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword/Saber.private|Saber.private]] 
 
-### #is_/same_as :: [Saber.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Saber.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword/Saber.personal|Saber.personal]] 
 
-### #is_/same_as :: [Saber.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Saber.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword/Saber.secret|Saber.secret]] 
 

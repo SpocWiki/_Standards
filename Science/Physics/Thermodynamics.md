@@ -74,17 +74,17 @@ Commons_category: Thermodynamics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thermodynamics](/_Standards/Science/Physics/Thermodynamics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics|Thermodynamics]] 
 
-### #is_/same_as :: [Thermodynamics.public](/_public/Science/Physics/Thermodynamics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics.public|Thermodynamics.public]] 
 
-### #is_/same_as :: [Thermodynamics.internal](/_internal/Science/Physics/Thermodynamics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics.internal|Thermodynamics.internal]] 
 
-### #is_/same_as :: [Thermodynamics.protect](/_protect/Science/Physics/Thermodynamics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics.protect|Thermodynamics.protect]] 
 
-### #is_/same_as :: [Thermodynamics.private](/_private/Science/Physics/Thermodynamics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics.private|Thermodynamics.private]] 
 
-### #is_/same_as :: [Thermodynamics.personal](/_personal/Science/Physics/Thermodynamics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics.personal|Thermodynamics.personal]] 
 
-### #is_/same_as :: [Thermodynamics.secret](/_secret/Science/Physics/Thermodynamics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics.secret|Thermodynamics.secret]] 
 

@@ -81,17 +81,17 @@ The three known hosts are
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cycliophora](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora|Cycliophora]] 
 
-### #is_/same_as :: [Cycliophora.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.public|Cycliophora.public]] 
 
-### #is_/same_as :: [Cycliophora.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.internal|Cycliophora.internal]] 
 
-### #is_/same_as :: [Cycliophora.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.protect|Cycliophora.protect]] 
 
-### #is_/same_as :: [Cycliophora.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.private|Cycliophora.private]] 
 
-### #is_/same_as :: [Cycliophora.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.personal|Cycliophora.personal]] 
 
-### #is_/same_as :: [Cycliophora.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Cycliophora.secret|Cycliophora.secret]] 
 

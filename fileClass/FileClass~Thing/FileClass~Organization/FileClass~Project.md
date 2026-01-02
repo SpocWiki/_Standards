@@ -38,17 +38,17 @@ An enterprise (potentially individual but typically collaborative), planned to a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Project](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project|FileClass~Project]] 
 
-### #is_/same_as :: [FileClass~Project.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.public|FileClass~Project.public]] 
 
-### #is_/same_as :: [FileClass~Project.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.internal|FileClass~Project.internal]] 
 
-### #is_/same_as :: [FileClass~Project.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.protect|FileClass~Project.protect]] 
 
-### #is_/same_as :: [FileClass~Project.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.private|FileClass~Project.private]] 
 
-### #is_/same_as :: [FileClass~Project.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.personal|FileClass~Project.personal]] 
 
-### #is_/same_as :: [FileClass~Project.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Project.secret|FileClass~Project.secret]] 
 

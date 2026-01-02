@@ -91,17 +91,17 @@ title: Uncle Tom's Cabin; or, Life Among the Lowly
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin|Uncle_Tom's_Cabin]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.public|Uncle_Tom's_Cabin.public]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.internal|Uncle_Tom's_Cabin.internal]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.protect|Uncle_Tom's_Cabin.protect]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.private|Uncle_Tom's_Cabin.private]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.personal|Uncle_Tom's_Cabin.personal]] 
 
-### #is_/same_as :: [Uncle_Tom's_Cabin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beecher_Stowe,Harriet/Uncle_Tom's_Cabin.secret|Uncle_Tom's_Cabin.secret]] 
 

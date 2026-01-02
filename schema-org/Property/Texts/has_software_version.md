@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_software_version](/_Standards/schema-org/Property/Texts/has_software_version.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_software_version|has_software_version]] 
 
-### #is_/same_as :: [has_software_version.public](/_public/schema-org/Property/Texts/has_software_version.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_software_version.public|has_software_version.public]] 
 
-### #is_/same_as :: [has_software_version.internal](/_internal/schema-org/Property/Texts/has_software_version.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_software_version.internal|has_software_version.internal]] 
 
-### #is_/same_as :: [has_software_version.protect](/_protect/schema-org/Property/Texts/has_software_version.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_software_version.protect|has_software_version.protect]] 
 
-### #is_/same_as :: [has_software_version.private](/_private/schema-org/Property/Texts/has_software_version.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_software_version.private|has_software_version.private]] 
 
-### #is_/same_as :: [has_software_version.personal](/_personal/schema-org/Property/Texts/has_software_version.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_software_version.personal|has_software_version.personal]] 
 
-### #is_/same_as :: [has_software_version.secret](/_secret/schema-org/Property/Texts/has_software_version.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_software_version.secret|has_software_version.secret]] 
 

@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_return_policy_country](/_Standards/schema-org/Relation/has/has_return_policy_country.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return_policy_country|has_return_policy_country]] 
 
-### #is_/same_as :: [has_return_policy_country.public](/_public/schema-org/Relation/has/has_return_policy_country.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_policy_country.public|has_return_policy_country.public]] 
 
-### #is_/same_as :: [has_return_policy_country.internal](/_internal/schema-org/Relation/has/has_return_policy_country.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_policy_country.internal|has_return_policy_country.internal]] 
 
-### #is_/same_as :: [has_return_policy_country.protect](/_protect/schema-org/Relation/has/has_return_policy_country.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_policy_country.protect|has_return_policy_country.protect]] 
 
-### #is_/same_as :: [has_return_policy_country.private](/_private/schema-org/Relation/has/has_return_policy_country.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_policy_country.private|has_return_policy_country.private]] 
 
-### #is_/same_as :: [has_return_policy_country.personal](/_personal/schema-org/Relation/has/has_return_policy_country.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_policy_country.personal|has_return_policy_country.personal]] 
 
-### #is_/same_as :: [has_return_policy_country.secret](/_secret/schema-org/Relation/has/has_return_policy_country.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_policy_country.secret|has_return_policy_country.secret]] 
 

@@ -607,17 +607,17 @@ Capital :: [[Netherlands/Provinces~Netherlands/Noord-Holland/counties~Noord-Holl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Netherlands](/_Standards/Earth/Continent/Europe/Europe~West/Netherlands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/Netherlands|Netherlands]] 
 
-### #is_/same_as :: [Netherlands.public](/_public/Earth/Continent/Europe/Europe~West/Netherlands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/Netherlands.public|Netherlands.public]] 
 
-### #is_/same_as :: [Netherlands.internal](/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/Netherlands.internal|Netherlands.internal]] 
 
-### #is_/same_as :: [Netherlands.protect](/_protect/Earth/Continent/Europe/Europe~West/Netherlands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/Netherlands.protect|Netherlands.protect]] 
 
-### #is_/same_as :: [Netherlands.private](/_private/Earth/Continent/Europe/Europe~West/Netherlands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/Netherlands.private|Netherlands.private]] 
 
-### #is_/same_as :: [Netherlands.personal](/_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/Netherlands.personal|Netherlands.personal]] 
 
-### #is_/same_as :: [Netherlands.secret](/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/Netherlands.secret|Netherlands.secret]] 
 

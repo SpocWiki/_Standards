@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_role_biological](/_Standards/schema-org/Relation/has/has_role_biological.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_role_biological|has_role_biological]] 
 
-### #is_/same_as :: [has_role_biological.public](/_public/schema-org/Relation/has/has_role_biological.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_role_biological.public|has_role_biological.public]] 
 
-### #is_/same_as :: [has_role_biological.internal](/_internal/schema-org/Relation/has/has_role_biological.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_role_biological.internal|has_role_biological.internal]] 
 
-### #is_/same_as :: [has_role_biological.protect](/_protect/schema-org/Relation/has/has_role_biological.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_role_biological.protect|has_role_biological.protect]] 
 
-### #is_/same_as :: [has_role_biological.private](/_private/schema-org/Relation/has/has_role_biological.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_role_biological.private|has_role_biological.private]] 
 
-### #is_/same_as :: [has_role_biological.personal](/_personal/schema-org/Relation/has/has_role_biological.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_role_biological.personal|has_role_biological.personal]] 
 
-### #is_/same_as :: [has_role_biological.secret](/_secret/schema-org/Relation/has/has_role_biological.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_role_biological.secret|has_role_biological.secret]] 
 

@@ -43,17 +43,17 @@ A math solver which is capable of solving a subset of mathematical problems.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Math_Solver](/_Standards/Society/Communication/Media/Creative_Work/Math_Solver.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Math_Solver|Math_Solver]] 
 
-### #is_/same_as :: [Math_Solver.public](/_public/Society/Communication/Media/Creative_Work/Math_Solver.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Math_Solver.public|Math_Solver.public]] 
 
-### #is_/same_as :: [Math_Solver.internal](/_internal/Society/Communication/Media/Creative_Work/Math_Solver.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Math_Solver.internal|Math_Solver.internal]] 
 
-### #is_/same_as :: [Math_Solver.protect](/_protect/Society/Communication/Media/Creative_Work/Math_Solver.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Math_Solver.protect|Math_Solver.protect]] 
 
-### #is_/same_as :: [Math_Solver.private](/_private/Society/Communication/Media/Creative_Work/Math_Solver.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Math_Solver.private|Math_Solver.private]] 
 
-### #is_/same_as :: [Math_Solver.personal](/_personal/Society/Communication/Media/Creative_Work/Math_Solver.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Math_Solver.personal|Math_Solver.personal]] 
 
-### #is_/same_as :: [Math_Solver.secret](/_secret/Society/Communication/Media/Creative_Work/Math_Solver.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Math_Solver.secret|Math_Solver.secret]] 
 

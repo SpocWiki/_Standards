@@ -120,17 +120,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Archeol
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archaeology](/_Standards/Society/Anthropology/Archaeology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Archaeology|Archaeology]] 
 
-### #is_/same_as :: [Archaeology.public](/_public/Society/Anthropology/Archaeology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Archaeology.public|Archaeology.public]] 
 
-### #is_/same_as :: [Archaeology.internal](/_internal/Society/Anthropology/Archaeology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Archaeology.internal|Archaeology.internal]] 
 
-### #is_/same_as :: [Archaeology.protect](/_protect/Society/Anthropology/Archaeology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Archaeology.protect|Archaeology.protect]] 
 
-### #is_/same_as :: [Archaeology.private](/_private/Society/Anthropology/Archaeology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Archaeology.private|Archaeology.private]] 
 
-### #is_/same_as :: [Archaeology.personal](/_personal/Society/Anthropology/Archaeology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Archaeology.personal|Archaeology.personal]] 
 
-### #is_/same_as :: [Archaeology.secret](/_secret/Society/Anthropology/Archaeology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Archaeology.secret|Archaeology.secret]] 
 

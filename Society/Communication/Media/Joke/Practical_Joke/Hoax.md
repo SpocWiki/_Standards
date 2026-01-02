@@ -49,17 +49,17 @@ Commons_category: Hoaxes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hoax](/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Joke/Practical_Joke/Hoax|Hoax]] 
 
-### #is_/same_as :: [Hoax.public](/_public/Society/Communication/Media/Joke/Practical_Joke/Hoax.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Joke/Practical_Joke/Hoax.public|Hoax.public]] 
 
-### #is_/same_as :: [Hoax.internal](/_internal/Society/Communication/Media/Joke/Practical_Joke/Hoax.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Joke/Practical_Joke/Hoax.internal|Hoax.internal]] 
 
-### #is_/same_as :: [Hoax.protect](/_protect/Society/Communication/Media/Joke/Practical_Joke/Hoax.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Joke/Practical_Joke/Hoax.protect|Hoax.protect]] 
 
-### #is_/same_as :: [Hoax.private](/_private/Society/Communication/Media/Joke/Practical_Joke/Hoax.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Joke/Practical_Joke/Hoax.private|Hoax.private]] 
 
-### #is_/same_as :: [Hoax.personal](/_personal/Society/Communication/Media/Joke/Practical_Joke/Hoax.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Joke/Practical_Joke/Hoax.personal|Hoax.personal]] 
 
-### #is_/same_as :: [Hoax.secret](/_secret/Society/Communication/Media/Joke/Practical_Joke/Hoax.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Joke/Practical_Joke/Hoax.secret|Hoax.secret]] 
 

@@ -36,17 +36,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taylor,Zachary](/_Standards/Earth/Continent/America~North/US~President/Taylor,Zachary.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Taylor,Zachary|Taylor,Zachary]] 
 
-### #is_/same_as :: [Taylor,Zachary.public](/_public/Earth/Continent/America~North/US~President/Taylor,Zachary.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.public|Taylor,Zachary.public]] 
 
-### #is_/same_as :: [Taylor,Zachary.internal](/_internal/Earth/Continent/America~North/US~President/Taylor,Zachary.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.internal|Taylor,Zachary.internal]] 
 
-### #is_/same_as :: [Taylor,Zachary.protect](/_protect/Earth/Continent/America~North/US~President/Taylor,Zachary.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.protect|Taylor,Zachary.protect]] 
 
-### #is_/same_as :: [Taylor,Zachary.private](/_private/Earth/Continent/America~North/US~President/Taylor,Zachary.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.private|Taylor,Zachary.private]] 
 
-### #is_/same_as :: [Taylor,Zachary.personal](/_personal/Earth/Continent/America~North/US~President/Taylor,Zachary.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.personal|Taylor,Zachary.personal]] 
 
-### #is_/same_as :: [Taylor,Zachary.secret](/_secret/Earth/Continent/America~North/US~President/Taylor,Zachary.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.secret|Taylor,Zachary.secret]] 
 

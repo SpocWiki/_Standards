@@ -75,17 +75,17 @@ start_time: 1808-05-02T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1807-Peninsular_War+1814](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814|1807-Peninsular_War+1814]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.public|1807-Peninsular_War+1814.public]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.internal|1807-Peninsular_War+1814.internal]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.protect|1807-Peninsular_War+1814.protect]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.private|1807-Peninsular_War+1814.private]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.personal|1807-Peninsular_War+1814.personal]] 
 
-### #is_/same_as :: [1807-Peninsular_War+1814.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1807-Peninsular_War+1814.secret|1807-Peninsular_War+1814.secret]] 
 

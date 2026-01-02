@@ -34,17 +34,17 @@ Commons_category: Rationalism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rationalism](/_Standards/Philosophy/Epistemology/Rationalism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Rationalism|Rationalism]] 
 
-### #is_/same_as :: [Rationalism.public](/_public/Philosophy/Epistemology/Rationalism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Rationalism.public|Rationalism.public]] 
 
-### #is_/same_as :: [Rationalism.internal](/_internal/Philosophy/Epistemology/Rationalism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Rationalism.internal|Rationalism.internal]] 
 
-### #is_/same_as :: [Rationalism.protect](/_protect/Philosophy/Epistemology/Rationalism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Rationalism.protect|Rationalism.protect]] 
 
-### #is_/same_as :: [Rationalism.private](/_private/Philosophy/Epistemology/Rationalism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Rationalism.private|Rationalism.private]] 
 
-### #is_/same_as :: [Rationalism.personal](/_personal/Philosophy/Epistemology/Rationalism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Rationalism.personal|Rationalism.personal]] 
 
-### #is_/same_as :: [Rationalism.secret](/_secret/Philosophy/Epistemology/Rationalism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Rationalism.secret|Rationalism.secret]] 
 

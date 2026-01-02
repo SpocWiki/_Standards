@@ -44,17 +44,17 @@ Indicates the usage of the vehicle as a rental car.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rental_Vehicle_Usage](/_Standards/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage|Rental_Vehicle_Usage]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.public](/_public/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.public|Rental_Vehicle_Usage.public]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.internal](/_internal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.internal|Rental_Vehicle_Usage.internal]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.protect](/_protect/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.protect|Rental_Vehicle_Usage.protect]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.private](/_private/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.private|Rental_Vehicle_Usage.private]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.personal](/_personal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.personal|Rental_Vehicle_Usage.personal]] 
 
-### #is_/same_as :: [Rental_Vehicle_Usage.secret](/_secret/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Car_Usage_Type/Rental_Vehicle_Usage.secret|Rental_Vehicle_Usage.secret]] 
 

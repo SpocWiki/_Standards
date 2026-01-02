@@ -101,17 +101,17 @@ Commons_category: String theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [String_Theory](/_Standards/Science/Physics/Quantum_Mechanics/String_Theory.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/String_Theory|String_Theory]] 
 
-### #is_/same_as :: [String_Theory.public](/_public/Science/Physics/Quantum_Mechanics/String_Theory.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/String_Theory.public|String_Theory.public]] 
 
-### #is_/same_as :: [String_Theory.internal](/_internal/Science/Physics/Quantum_Mechanics/String_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/String_Theory.internal|String_Theory.internal]] 
 
-### #is_/same_as :: [String_Theory.protect](/_protect/Science/Physics/Quantum_Mechanics/String_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/String_Theory.protect|String_Theory.protect]] 
 
-### #is_/same_as :: [String_Theory.private](/_private/Science/Physics/Quantum_Mechanics/String_Theory.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/String_Theory.private|String_Theory.private]] 
 
-### #is_/same_as :: [String_Theory.personal](/_personal/Science/Physics/Quantum_Mechanics/String_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/String_Theory.personal|String_Theory.personal]] 
 
-### #is_/same_as :: [String_Theory.secret](/_secret/Science/Physics/Quantum_Mechanics/String_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/String_Theory.secret|String_Theory.secret]] 
 

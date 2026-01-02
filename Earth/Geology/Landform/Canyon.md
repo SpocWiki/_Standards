@@ -44,17 +44,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Roca%20de%20la%20Ley%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Canyon](/_Standards/Earth/Geology/Landform/Canyon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Canyon|Canyon]] 
 
-### #is_/same_as :: [Canyon.public](/_public/Earth/Geology/Landform/Canyon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Canyon.public|Canyon.public]] 
 
-### #is_/same_as :: [Canyon.internal](/_internal/Earth/Geology/Landform/Canyon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Canyon.internal|Canyon.internal]] 
 
-### #is_/same_as :: [Canyon.protect](/_protect/Earth/Geology/Landform/Canyon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Canyon.protect|Canyon.protect]] 
 
-### #is_/same_as :: [Canyon.private](/_private/Earth/Geology/Landform/Canyon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Canyon.private|Canyon.private]] 
 
-### #is_/same_as :: [Canyon.personal](/_personal/Earth/Geology/Landform/Canyon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Canyon.personal|Canyon.personal]] 
 
-### #is_/same_as :: [Canyon.secret](/_secret/Earth/Geology/Landform/Canyon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Canyon.secret|Canyon.secret]] 
 

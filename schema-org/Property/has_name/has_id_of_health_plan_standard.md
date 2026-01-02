@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_of_health_plan_standard](/_Standards/schema-org/Property/has_name/has_id_of_health_plan_standard.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_of_health_plan_standard|has_id_of_health_plan_standard]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.public](/_public/schema-org/Property/has_name/has_id_of_health_plan_standard.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_of_health_plan_standard.public|has_id_of_health_plan_standard.public]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.internal](/_internal/schema-org/Property/has_name/has_id_of_health_plan_standard.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_of_health_plan_standard.internal|has_id_of_health_plan_standard.internal]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.protect](/_protect/schema-org/Property/has_name/has_id_of_health_plan_standard.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_of_health_plan_standard.protect|has_id_of_health_plan_standard.protect]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.private](/_private/schema-org/Property/has_name/has_id_of_health_plan_standard.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_of_health_plan_standard.private|has_id_of_health_plan_standard.private]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.personal](/_personal/schema-org/Property/has_name/has_id_of_health_plan_standard.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_of_health_plan_standard.personal|has_id_of_health_plan_standard.personal]] 
 
-### #is_/same_as :: [has_id_of_health_plan_standard.secret](/_secret/schema-org/Property/has_name/has_id_of_health_plan_standard.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_of_health_plan_standard.secret|has_id_of_health_plan_standard.secret]] 
 

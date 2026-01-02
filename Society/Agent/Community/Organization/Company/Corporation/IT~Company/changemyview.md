@@ -13,17 +13,17 @@ It turned out that LLMs are 20 times more successful than humans in changing use
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [changemyview](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview|changemyview]] 
 
-### #is_/same_as :: [changemyview.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.public|changemyview.public]] 
 
-### #is_/same_as :: [changemyview.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.internal|changemyview.internal]] 
 
-### #is_/same_as :: [changemyview.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.protect|changemyview.protect]] 
 
-### #is_/same_as :: [changemyview.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.private|changemyview.private]] 
 
-### #is_/same_as :: [changemyview.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.personal|changemyview.personal]] 
 
-### #is_/same_as :: [changemyview.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/changemyview.secret|changemyview.secret]] 
 

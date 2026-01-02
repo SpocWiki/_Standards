@@ -142,17 +142,17 @@ Plex_person_key: 5d7768255af944001f1f63c8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nicholson,Jack](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack|Nicholson,Jack]] 
 
-### #is_/same_as :: [Nicholson,Jack.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.public|Nicholson,Jack.public]] 
 
-### #is_/same_as :: [Nicholson,Jack.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.internal|Nicholson,Jack.internal]] 
 
-### #is_/same_as :: [Nicholson,Jack.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.protect|Nicholson,Jack.protect]] 
 
-### #is_/same_as :: [Nicholson,Jack.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.private|Nicholson,Jack.private]] 
 
-### #is_/same_as :: [Nicholson,Jack.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.personal|Nicholson,Jack.personal]] 
 
-### #is_/same_as :: [Nicholson,Jack.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Nicholson,Jack.secret|Nicholson,Jack.secret]] 
 

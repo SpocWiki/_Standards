@@ -42,17 +42,17 @@ Commons_category: Musical improvisation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musical_Improvisation](/_Standards/Society/Communication/Media/Music/Musical_Improvisation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Improvisation|Musical_Improvisation]] 
 
-### #is_/same_as :: [Musical_Improvisation.public](/_public/Society/Communication/Media/Music/Musical_Improvisation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Improvisation.public|Musical_Improvisation.public]] 
 
-### #is_/same_as :: [Musical_Improvisation.internal](/_internal/Society/Communication/Media/Music/Musical_Improvisation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Improvisation.internal|Musical_Improvisation.internal]] 
 
-### #is_/same_as :: [Musical_Improvisation.protect](/_protect/Society/Communication/Media/Music/Musical_Improvisation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Improvisation.protect|Musical_Improvisation.protect]] 
 
-### #is_/same_as :: [Musical_Improvisation.private](/_private/Society/Communication/Media/Music/Musical_Improvisation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Improvisation.private|Musical_Improvisation.private]] 
 
-### #is_/same_as :: [Musical_Improvisation.personal](/_personal/Society/Communication/Media/Music/Musical_Improvisation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Improvisation.personal|Musical_Improvisation.personal]] 
 
-### #is_/same_as :: [Musical_Improvisation.secret](/_secret/Society/Communication/Media/Music/Musical_Improvisation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Improvisation.secret|Musical_Improvisation.secret]] 
 

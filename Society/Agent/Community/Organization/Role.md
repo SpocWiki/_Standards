@@ -43,17 +43,17 @@ See also <a href="http://blog.schema.org/2014/06/introducing-role.html">blog pos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Role](/_Standards/Society/Agent/Community/Organization/Role.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Role|Role]] 
 
-### #is_/same_as :: [Role.public](/_public/Society/Agent/Community/Organization/Role.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Role.public|Role.public]] 
 
-### #is_/same_as :: [Role.internal](/_internal/Society/Agent/Community/Organization/Role.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Role.internal|Role.internal]] 
 
-### #is_/same_as :: [Role.protect](/_protect/Society/Agent/Community/Organization/Role.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Role.protect|Role.protect]] 
 
-### #is_/same_as :: [Role.private](/_private/Society/Agent/Community/Organization/Role.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Role.private|Role.private]] 
 
-### #is_/same_as :: [Role.personal](/_personal/Society/Agent/Community/Organization/Role.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Role.personal|Role.personal]] 
 
-### #is_/same_as :: [Role.secret](/_secret/Society/Agent/Community/Organization/Role.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Role.secret|Role.secret]] 
 

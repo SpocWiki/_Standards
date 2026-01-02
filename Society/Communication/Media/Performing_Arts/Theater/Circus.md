@@ -58,17 +58,17 @@ P8189: 987007286299905200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circus](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Circus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Circus|Circus]] 
 
-### #is_/same_as :: [Circus.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Circus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Circus.public|Circus.public]] 
 
-### #is_/same_as :: [Circus.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Circus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Circus.internal|Circus.internal]] 
 
-### #is_/same_as :: [Circus.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Circus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Circus.protect|Circus.protect]] 
 
-### #is_/same_as :: [Circus.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Circus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Circus.private|Circus.private]] 
 
-### #is_/same_as :: [Circus.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Circus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Circus.personal|Circus.personal]] 
 
-### #is_/same_as :: [Circus.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Circus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Circus.secret|Circus.secret]] 
 

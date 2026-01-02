@@ -43,17 +43,17 @@ A food-related business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Establishment](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment|Food_Establishment]] 
 
-### #is_/same_as :: [Food_Establishment.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.public|Food_Establishment.public]] 
 
-### #is_/same_as :: [Food_Establishment.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.internal|Food_Establishment.internal]] 
 
-### #is_/same_as :: [Food_Establishment.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.protect|Food_Establishment.protect]] 
 
-### #is_/same_as :: [Food_Establishment.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.private|Food_Establishment.private]] 
 
-### #is_/same_as :: [Food_Establishment.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.personal|Food_Establishment.personal]] 
 
-### #is_/same_as :: [Food_Establishment.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment.secret|Food_Establishment.secret]] 
 

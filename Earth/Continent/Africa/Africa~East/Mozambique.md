@@ -505,17 +505,17 @@ Capital :: [[Earth/Continent/Africa/Africa~East/Mozambique/Provinces~Mozambique/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mozambique](/_Standards/Earth/Continent/Africa/Africa~East/Mozambique.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mozambique|Mozambique]] 
 
-### #is_/same_as :: [Mozambique.public](/_public/Earth/Continent/Africa/Africa~East/Mozambique.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mozambique.public|Mozambique.public]] 
 
-### #is_/same_as :: [Mozambique.internal](/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mozambique.internal|Mozambique.internal]] 
 
-### #is_/same_as :: [Mozambique.protect](/_protect/Earth/Continent/Africa/Africa~East/Mozambique.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mozambique.protect|Mozambique.protect]] 
 
-### #is_/same_as :: [Mozambique.private](/_private/Earth/Continent/Africa/Africa~East/Mozambique.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mozambique.private|Mozambique.private]] 
 
-### #is_/same_as :: [Mozambique.personal](/_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mozambique.personal|Mozambique.personal]] 
 
-### #is_/same_as :: [Mozambique.secret](/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mozambique.secret|Mozambique.secret]] 
 

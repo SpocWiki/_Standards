@@ -41,17 +41,17 @@ An internet cafe.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internet_Cafe](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe|Internet_Cafe]] 
 
-### #is_/same_as :: [Internet_Cafe.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.public|Internet_Cafe.public]] 
 
-### #is_/same_as :: [Internet_Cafe.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.internal|Internet_Cafe.internal]] 
 
-### #is_/same_as :: [Internet_Cafe.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.protect|Internet_Cafe.protect]] 
 
-### #is_/same_as :: [Internet_Cafe.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.private|Internet_Cafe.private]] 
 
-### #is_/same_as :: [Internet_Cafe.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.personal|Internet_Cafe.personal]] 
 
-### #is_/same_as :: [Internet_Cafe.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Internet_Cafe.secret|Internet_Cafe.secret]] 
 

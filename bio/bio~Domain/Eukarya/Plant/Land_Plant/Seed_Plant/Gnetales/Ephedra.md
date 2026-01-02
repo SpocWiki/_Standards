@@ -111,17 +111,17 @@ Image copyright © 1995 David R. Maddison
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ephedra](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra|Ephedra]] 
 
-### #is_/same_as :: [Ephedra.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.public|Ephedra.public]] 
 
-### #is_/same_as :: [Ephedra.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.internal|Ephedra.internal]] 
 
-### #is_/same_as :: [Ephedra.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.protect|Ephedra.protect]] 
 
-### #is_/same_as :: [Ephedra.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.private|Ephedra.private]] 
 
-### #is_/same_as :: [Ephedra.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.personal|Ephedra.personal]] 
 
-### #is_/same_as :: [Ephedra.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Gnetales/Ephedra.secret|Ephedra.secret]] 
 

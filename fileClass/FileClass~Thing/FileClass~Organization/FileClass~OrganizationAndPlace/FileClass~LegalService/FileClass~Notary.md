@@ -37,17 +37,17 @@ A notary.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Notary](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary|FileClass~Notary]] 
 
-### #is_/same_as :: [FileClass~Notary.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.public|FileClass~Notary.public]] 
 
-### #is_/same_as :: [FileClass~Notary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.internal|FileClass~Notary.internal]] 
 
-### #is_/same_as :: [FileClass~Notary.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.protect|FileClass~Notary.protect]] 
 
-### #is_/same_as :: [FileClass~Notary.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.private|FileClass~Notary.private]] 
 
-### #is_/same_as :: [FileClass~Notary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.personal|FileClass~Notary.personal]] 
 
-### #is_/same_as :: [FileClass~Notary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LegalService/FileClass~Notary.secret|FileClass~Notary.secret]] 
 

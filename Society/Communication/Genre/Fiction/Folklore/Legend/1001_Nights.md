@@ -116,17 +116,17 @@ vocalized_name: أَلْفُ لَيْلَةٍ وَلَيْلَة
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1001_Nights](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights|1001_Nights]] 
 
-### #is_/same_as :: [1001_Nights.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.public|1001_Nights.public]] 
 
-### #is_/same_as :: [1001_Nights.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.internal|1001_Nights.internal]] 
 
-### #is_/same_as :: [1001_Nights.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.protect|1001_Nights.protect]] 
 
-### #is_/same_as :: [1001_Nights.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.private|1001_Nights.private]] 
 
-### #is_/same_as :: [1001_Nights.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.personal|1001_Nights.personal]] 
 
-### #is_/same_as :: [1001_Nights.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/1001_Nights.secret|1001_Nights.secret]] 
 

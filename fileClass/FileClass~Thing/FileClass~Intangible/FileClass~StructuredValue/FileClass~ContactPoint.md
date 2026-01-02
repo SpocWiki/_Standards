@@ -126,17 +126,17 @@ Telephone:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ContactPoint](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint|FileClass~ContactPoint]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.public|FileClass~ContactPoint.public]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.internal|FileClass~ContactPoint.internal]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.protect|FileClass~ContactPoint.protect]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.private|FileClass~ContactPoint.private]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.personal|FileClass~ContactPoint.personal]] 
 
-### #is_/same_as :: [FileClass~ContactPoint.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint.secret|FileClass~ContactPoint.secret]] 
 

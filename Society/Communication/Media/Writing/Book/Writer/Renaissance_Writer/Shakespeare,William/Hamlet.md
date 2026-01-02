@@ -215,17 +215,17 @@ work_available_at_URL: https://www.projekt-gutenberg.org/shakespr/hamlet-s/hamle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamlet](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet|Hamlet]] 
 
-### #is_/same_as :: [Hamlet.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.public|Hamlet.public]] 
 
-### #is_/same_as :: [Hamlet.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.internal|Hamlet.internal]] 
 
-### #is_/same_as :: [Hamlet.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.protect|Hamlet.protect]] 
 
-### #is_/same_as :: [Hamlet.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.private|Hamlet.private]] 
 
-### #is_/same_as :: [Hamlet.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.personal|Hamlet.personal]] 
 
-### #is_/same_as :: [Hamlet.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Hamlet.secret|Hamlet.secret]] 
 

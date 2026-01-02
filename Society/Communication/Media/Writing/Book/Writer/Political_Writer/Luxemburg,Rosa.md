@@ -120,17 +120,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luxemburg,Rosa](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa|Luxemburg,Rosa]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.public|Luxemburg,Rosa.public]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.internal|Luxemburg,Rosa.internal]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.protect|Luxemburg,Rosa.protect]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.private|Luxemburg,Rosa.private]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.personal|Luxemburg,Rosa.personal]] 
 
-### #is_/same_as :: [Luxemburg,Rosa.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Luxemburg,Rosa.secret|Luxemburg,Rosa.secret]] 
 

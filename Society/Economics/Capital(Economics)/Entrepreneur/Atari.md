@@ -74,17 +74,17 @@ DPLA_subject_term: Atari, Inc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atari](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Atari.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Atari|Atari]] 
 
-### #is_/same_as :: [Atari.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Atari.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Entrepreneur/Atari.public|Atari.public]] 
 
-### #is_/same_as :: [Atari.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Atari.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Atari.internal|Atari.internal]] 
 
-### #is_/same_as :: [Atari.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Atari.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Atari.protect|Atari.protect]] 
 
-### #is_/same_as :: [Atari.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Atari.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Entrepreneur/Atari.private|Atari.private]] 
 
-### #is_/same_as :: [Atari.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Atari.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Atari.personal|Atari.personal]] 
 
-### #is_/same_as :: [Atari.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Atari.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Atari.secret|Atari.secret]] 
 

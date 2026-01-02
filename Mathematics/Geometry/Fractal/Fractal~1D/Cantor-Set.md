@@ -8,17 +8,17 @@ Dimension:: ln(2)/ln(3) ≈ 0.631. (Hausdorff-Dimension)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cantor-Set](/_Standards/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set|Cantor-Set]] 
 
-### #is_/same_as :: [Cantor-Set.public](/_public/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.public|Cantor-Set.public]] 
 
-### #is_/same_as :: [Cantor-Set.internal](/_internal/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.internal|Cantor-Set.internal]] 
 
-### #is_/same_as :: [Cantor-Set.protect](/_protect/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.protect|Cantor-Set.protect]] 
 
-### #is_/same_as :: [Cantor-Set.private](/_private/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.private|Cantor-Set.private]] 
 
-### #is_/same_as :: [Cantor-Set.personal](/_personal/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.personal|Cantor-Set.personal]] 
 
-### #is_/same_as :: [Cantor-Set.secret](/_secret/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Fractal/Fractal~1D/Cantor-Set.secret|Cantor-Set.secret]] 
 

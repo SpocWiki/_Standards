@@ -41,17 +41,17 @@ Commons_category: Relays
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Relay](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay|Relay]] 
 
-### #is_/same_as :: [Relay.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.public|Relay.public]] 
 
-### #is_/same_as :: [Relay.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.internal|Relay.internal]] 
 
-### #is_/same_as :: [Relay.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.protect|Relay.protect]] 
 
-### #is_/same_as :: [Relay.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.private|Relay.private]] 
 
-### #is_/same_as :: [Relay.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.personal|Relay.personal]] 
 
-### #is_/same_as :: [Relay.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Relay.secret|Relay.secret]] 
 

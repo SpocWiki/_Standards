@@ -36,17 +36,17 @@ Baidu_Tieba_name: 电钢琴
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Piano](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano|Electric_Piano]] 
 
-### #is_/same_as :: [Electric_Piano.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.public|Electric_Piano.public]] 
 
-### #is_/same_as :: [Electric_Piano.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.internal|Electric_Piano.internal]] 
 
-### #is_/same_as :: [Electric_Piano.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.protect|Electric_Piano.protect]] 
 
-### #is_/same_as :: [Electric_Piano.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.private|Electric_Piano.private]] 
 
-### #is_/same_as :: [Electric_Piano.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.personal|Electric_Piano.personal]] 
 
-### #is_/same_as :: [Electric_Piano.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Piano/Electric_Piano.secret|Electric_Piano.secret]] 
 

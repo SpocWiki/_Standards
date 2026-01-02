@@ -102,17 +102,17 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amastigomonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas|Amastigomonas]] 
 
-### #is_/same_as :: [Amastigomonas.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.public|Amastigomonas.public]] 
 
-### #is_/same_as :: [Amastigomonas.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.internal|Amastigomonas.internal]] 
 
-### #is_/same_as :: [Amastigomonas.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.protect|Amastigomonas.protect]] 
 
-### #is_/same_as :: [Amastigomonas.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.private|Amastigomonas.private]] 
 
-### #is_/same_as :: [Amastigomonas.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.personal|Amastigomonas.personal]] 
 
-### #is_/same_as :: [Amastigomonas.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas.secret|Amastigomonas.secret]] 
 

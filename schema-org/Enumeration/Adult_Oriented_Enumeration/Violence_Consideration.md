@@ -44,17 +44,17 @@ Item shows or promotes violence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Violence_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration|Violence_Consideration]] 
 
-### #is_/same_as :: [Violence_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.public|Violence_Consideration.public]] 
 
-### #is_/same_as :: [Violence_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.internal|Violence_Consideration.internal]] 
 
-### #is_/same_as :: [Violence_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.protect|Violence_Consideration.protect]] 
 
-### #is_/same_as :: [Violence_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.private|Violence_Consideration.private]] 
 
-### #is_/same_as :: [Violence_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.personal|Violence_Consideration.personal]] 
 
-### #is_/same_as :: [Violence_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Violence_Consideration.secret|Violence_Consideration.secret]] 
 

@@ -65,17 +65,17 @@ PhilPapers_topic: prayer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prayer](/_Standards/Philosophy/Metaphysic/Religion/Prayer.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Prayer|Prayer]] 
 
-### #is_/same_as :: [Prayer.public](/_public/Philosophy/Metaphysic/Religion/Prayer.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Prayer.public|Prayer.public]] 
 
-### #is_/same_as :: [Prayer.internal](/_internal/Philosophy/Metaphysic/Religion/Prayer.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Prayer.internal|Prayer.internal]] 
 
-### #is_/same_as :: [Prayer.protect](/_protect/Philosophy/Metaphysic/Religion/Prayer.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Prayer.protect|Prayer.protect]] 
 
-### #is_/same_as :: [Prayer.private](/_private/Philosophy/Metaphysic/Religion/Prayer.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Prayer.private|Prayer.private]] 
 
-### #is_/same_as :: [Prayer.personal](/_personal/Philosophy/Metaphysic/Religion/Prayer.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Prayer.personal|Prayer.personal]] 
 
-### #is_/same_as :: [Prayer.secret](/_secret/Philosophy/Metaphysic/Religion/Prayer.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Prayer.secret|Prayer.secret]] 
 

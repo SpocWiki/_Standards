@@ -42,17 +42,17 @@ Permission to read or view the document.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Read_Permission](/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission|Read_Permission]] 
 
-### #is_/same_as :: [Read_Permission.public](/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.public|Read_Permission.public]] 
 
-### #is_/same_as :: [Read_Permission.internal](/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.internal|Read_Permission.internal]] 
 
-### #is_/same_as :: [Read_Permission.protect](/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.protect|Read_Permission.protect]] 
 
-### #is_/same_as :: [Read_Permission.private](/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.private|Read_Permission.private]] 
 
-### #is_/same_as :: [Read_Permission.personal](/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.personal|Read_Permission.personal]] 
 
-### #is_/same_as :: [Read_Permission.secret](/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Digital_Document_Permission_Type/Read_Permission.secret|Read_Permission.secret]] 
 

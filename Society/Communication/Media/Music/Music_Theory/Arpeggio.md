@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arpeggio](/_Standards/Society/Communication/Media/Music/Music_Theory/Arpeggio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Arpeggio|Arpeggio]] 
 
-### #is_/same_as :: [Arpeggio.public](/_public/Society/Communication/Media/Music/Music_Theory/Arpeggio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Arpeggio.public|Arpeggio.public]] 
 
-### #is_/same_as :: [Arpeggio.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Arpeggio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Arpeggio.internal|Arpeggio.internal]] 
 
-### #is_/same_as :: [Arpeggio.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Arpeggio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Arpeggio.protect|Arpeggio.protect]] 
 
-### #is_/same_as :: [Arpeggio.private](/_private/Society/Communication/Media/Music/Music_Theory/Arpeggio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Arpeggio.private|Arpeggio.private]] 
 
-### #is_/same_as :: [Arpeggio.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Arpeggio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Arpeggio.personal|Arpeggio.personal]] 
 
-### #is_/same_as :: [Arpeggio.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Arpeggio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Arpeggio.secret|Arpeggio.secret]] 
 

@@ -67,17 +67,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_algebra,7112546]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algebra](/_Standards/Mathematics/Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra|Algebra]] 
 
-### #is_/same_as :: [Algebra.public](/_public/Mathematics/Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra.public|Algebra.public]] 
 
-### #is_/same_as :: [Algebra.internal](/_internal/Mathematics/Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra.internal|Algebra.internal]] 
 
-### #is_/same_as :: [Algebra.protect](/_protect/Mathematics/Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra.protect|Algebra.protect]] 
 
-### #is_/same_as :: [Algebra.private](/_private/Mathematics/Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra.private|Algebra.private]] 
 
-### #is_/same_as :: [Algebra.personal](/_personal/Mathematics/Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra.personal|Algebra.personal]] 
 
-### #is_/same_as :: [Algebra.secret](/_secret/Mathematics/Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra.secret|Algebra.secret]] 
 

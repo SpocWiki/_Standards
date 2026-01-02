@@ -126,17 +126,17 @@ YouTube_handle: JimCarreyisHere
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carrey,Jim](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim|Carrey,Jim]] 
 
-### #is_/same_as :: [Carrey,Jim.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.public|Carrey,Jim.public]] 
 
-### #is_/same_as :: [Carrey,Jim.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.internal|Carrey,Jim.internal]] 
 
-### #is_/same_as :: [Carrey,Jim.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.protect|Carrey,Jim.protect]] 
 
-### #is_/same_as :: [Carrey,Jim.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.private|Carrey,Jim.private]] 
 
-### #is_/same_as :: [Carrey,Jim.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.personal|Carrey,Jim.personal]] 
 
-### #is_/same_as :: [Carrey,Jim.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Carrey,Jim.secret|Carrey,Jim.secret]] 
 

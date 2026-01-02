@@ -88,17 +88,17 @@ coordinate_location: Point(-72.545555555 -13.163055555)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machu_Picchu](/_Standards/Earth/Geography/Place/Machu_Picchu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Machu_Picchu|Machu_Picchu]] 
 
-### #is_/same_as :: [Machu_Picchu.public](/_public/Earth/Geography/Place/Machu_Picchu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Machu_Picchu.public|Machu_Picchu.public]] 
 
-### #is_/same_as :: [Machu_Picchu.internal](/_internal/Earth/Geography/Place/Machu_Picchu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Machu_Picchu.internal|Machu_Picchu.internal]] 
 
-### #is_/same_as :: [Machu_Picchu.protect](/_protect/Earth/Geography/Place/Machu_Picchu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Machu_Picchu.protect|Machu_Picchu.protect]] 
 
-### #is_/same_as :: [Machu_Picchu.private](/_private/Earth/Geography/Place/Machu_Picchu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Machu_Picchu.private|Machu_Picchu.private]] 
 
-### #is_/same_as :: [Machu_Picchu.personal](/_personal/Earth/Geography/Place/Machu_Picchu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Machu_Picchu.personal|Machu_Picchu.personal]] 
 
-### #is_/same_as :: [Machu_Picchu.secret](/_secret/Earth/Geography/Place/Machu_Picchu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Machu_Picchu.secret|Machu_Picchu.secret]] 
 

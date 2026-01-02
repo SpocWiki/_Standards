@@ -31,17 +31,17 @@ OpenStreetMap_tag_or_key: Tag:denomination=conservative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservative_Judaism](/_Standards/Philosophy/Metaphysic/Religion/Conservative_Judaism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Conservative_Judaism|Conservative_Judaism]] 
 
-### #is_/same_as :: [Conservative_Judaism.public](/_public/Philosophy/Metaphysic/Religion/Conservative_Judaism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Conservative_Judaism.public|Conservative_Judaism.public]] 
 
-### #is_/same_as :: [Conservative_Judaism.internal](/_internal/Philosophy/Metaphysic/Religion/Conservative_Judaism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Conservative_Judaism.internal|Conservative_Judaism.internal]] 
 
-### #is_/same_as :: [Conservative_Judaism.protect](/_protect/Philosophy/Metaphysic/Religion/Conservative_Judaism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Conservative_Judaism.protect|Conservative_Judaism.protect]] 
 
-### #is_/same_as :: [Conservative_Judaism.private](/_private/Philosophy/Metaphysic/Religion/Conservative_Judaism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Conservative_Judaism.private|Conservative_Judaism.private]] 
 
-### #is_/same_as :: [Conservative_Judaism.personal](/_personal/Philosophy/Metaphysic/Religion/Conservative_Judaism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Conservative_Judaism.personal|Conservative_Judaism.personal]] 
 
-### #is_/same_as :: [Conservative_Judaism.secret](/_secret/Philosophy/Metaphysic/Religion/Conservative_Judaism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Conservative_Judaism.secret|Conservative_Judaism.secret]] 
 

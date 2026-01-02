@@ -63,17 +63,17 @@ short_name: Cnc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Cancer](/_Standards/Astronomy/Star~Constellation/Zodiac~Cancer.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Cancer|Zodiac~Cancer]] 
 
-### #is_/same_as :: [Zodiac~Cancer.public](/_public/Astronomy/Star~Constellation/Zodiac~Cancer.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Cancer.public|Zodiac~Cancer.public]] 
 
-### #is_/same_as :: [Zodiac~Cancer.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cancer.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Cancer.internal|Zodiac~Cancer.internal]] 
 
-### #is_/same_as :: [Zodiac~Cancer.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cancer.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Cancer.protect|Zodiac~Cancer.protect]] 
 
-### #is_/same_as :: [Zodiac~Cancer.private](/_private/Astronomy/Star~Constellation/Zodiac~Cancer.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Cancer.private|Zodiac~Cancer.private]] 
 
-### #is_/same_as :: [Zodiac~Cancer.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cancer.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Cancer.personal|Zodiac~Cancer.personal]] 
 
-### #is_/same_as :: [Zodiac~Cancer.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cancer.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Cancer.secret|Zodiac~Cancer.secret]] 
 

@@ -73,17 +73,17 @@ Stack_Exchange_tag: https://engineering.stackexchange.com/tags/industrial-engine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industrial_Engineering](/_Standards/Technology/Engineering/Industrial_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Industrial_Engineering|Industrial_Engineering]] 
 
-### #is_/same_as :: [Industrial_Engineering.public](/_public/Technology/Engineering/Industrial_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Industrial_Engineering.public|Industrial_Engineering.public]] 
 
-### #is_/same_as :: [Industrial_Engineering.internal](/_internal/Technology/Engineering/Industrial_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Industrial_Engineering.internal|Industrial_Engineering.internal]] 
 
-### #is_/same_as :: [Industrial_Engineering.protect](/_protect/Technology/Engineering/Industrial_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Industrial_Engineering.protect|Industrial_Engineering.protect]] 
 
-### #is_/same_as :: [Industrial_Engineering.private](/_private/Technology/Engineering/Industrial_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Industrial_Engineering.private|Industrial_Engineering.private]] 
 
-### #is_/same_as :: [Industrial_Engineering.personal](/_personal/Technology/Engineering/Industrial_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Industrial_Engineering.personal|Industrial_Engineering.personal]] 
 
-### #is_/same_as :: [Industrial_Engineering.secret](/_secret/Technology/Engineering/Industrial_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Industrial_Engineering.secret|Industrial_Engineering.secret]] 
 

@@ -48,17 +48,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler's_Formula](/_Standards/Mathematics/Complex_Analysis/Euler's_Formula.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Euler's_Formula|Euler's_Formula]] 
 
-### #is_/same_as :: [Euler's_Formula.public](/_public/Mathematics/Complex_Analysis/Euler's_Formula.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Euler's_Formula.public|Euler's_Formula.public]] 
 
-### #is_/same_as :: [Euler's_Formula.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Formula.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Euler's_Formula.internal|Euler's_Formula.internal]] 
 
-### #is_/same_as :: [Euler's_Formula.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Formula.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Euler's_Formula.protect|Euler's_Formula.protect]] 
 
-### #is_/same_as :: [Euler's_Formula.private](/_private/Mathematics/Complex_Analysis/Euler's_Formula.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Euler's_Formula.private|Euler's_Formula.private]] 
 
-### #is_/same_as :: [Euler's_Formula.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Formula.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Euler's_Formula.personal|Euler's_Formula.personal]] 
 
-### #is_/same_as :: [Euler's_Formula.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Formula.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Euler's_Formula.secret|Euler's_Formula.secret]] 
 

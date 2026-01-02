@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_worst_rating](/_Standards/schema-org/Property/has_value_for/has_value_for_worst_rating.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_worst_rating|has_value_for_worst_rating]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.public](/_public/schema-org/Property/has_value_for/has_value_for_worst_rating.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_worst_rating.public|has_value_for_worst_rating.public]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.internal](/_internal/schema-org/Property/has_value_for/has_value_for_worst_rating.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_worst_rating.internal|has_value_for_worst_rating.internal]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.protect](/_protect/schema-org/Property/has_value_for/has_value_for_worst_rating.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_worst_rating.protect|has_value_for_worst_rating.protect]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.private](/_private/schema-org/Property/has_value_for/has_value_for_worst_rating.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_worst_rating.private|has_value_for_worst_rating.private]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.personal](/_personal/schema-org/Property/has_value_for/has_value_for_worst_rating.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_worst_rating.personal|has_value_for_worst_rating.personal]] 
 
-### #is_/same_as :: [has_value_for_worst_rating.secret](/_secret/schema-org/Property/has_value_for/has_value_for_worst_rating.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_worst_rating.secret|has_value_for_worst_rating.secret]] 
 

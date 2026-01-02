@@ -42,17 +42,17 @@ Commons_category: Rapiers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rapier](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Rapier.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Rapier|Rapier]] 
 
-### #is_/same_as :: [Rapier.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Rapier.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword/Rapier.public|Rapier.public]] 
 
-### #is_/same_as :: [Rapier.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Rapier.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword/Rapier.internal|Rapier.internal]] 
 
-### #is_/same_as :: [Rapier.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Rapier.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword/Rapier.protect|Rapier.protect]] 
 
-### #is_/same_as :: [Rapier.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Rapier.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword/Rapier.private|Rapier.private]] 
 
-### #is_/same_as :: [Rapier.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Rapier.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword/Rapier.personal|Rapier.personal]] 
 
-### #is_/same_as :: [Rapier.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Rapier.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword/Rapier.secret|Rapier.secret]] 
 

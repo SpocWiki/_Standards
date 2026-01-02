@@ -61,17 +61,17 @@ Commons_category: Quartzite
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quartzite](/_Standards/Earth/Geology/Mineral/Quartzite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Quartzite|Quartzite]] 
 
-### #is_/same_as :: [Quartzite.public](/_public/Earth/Geology/Mineral/Quartzite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Quartzite.public|Quartzite.public]] 
 
-### #is_/same_as :: [Quartzite.internal](/_internal/Earth/Geology/Mineral/Quartzite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Quartzite.internal|Quartzite.internal]] 
 
-### #is_/same_as :: [Quartzite.protect](/_protect/Earth/Geology/Mineral/Quartzite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Quartzite.protect|Quartzite.protect]] 
 
-### #is_/same_as :: [Quartzite.private](/_private/Earth/Geology/Mineral/Quartzite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Quartzite.private|Quartzite.private]] 
 
-### #is_/same_as :: [Quartzite.personal](/_personal/Earth/Geology/Mineral/Quartzite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Quartzite.personal|Quartzite.personal]] 
 
-### #is_/same_as :: [Quartzite.secret](/_secret/Earth/Geology/Mineral/Quartzite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Quartzite.secret|Quartzite.secret]] 
 

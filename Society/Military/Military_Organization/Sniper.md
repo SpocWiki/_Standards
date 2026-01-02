@@ -51,17 +51,17 @@ IMDb_keyword: sniper
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sniper](/_Standards/Society/Military/Military_Organization/Sniper.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Sniper|Sniper]] 
 
-### #is_/same_as :: [Sniper.public](/_public/Society/Military/Military_Organization/Sniper.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Sniper.public|Sniper.public]] 
 
-### #is_/same_as :: [Sniper.internal](/_internal/Society/Military/Military_Organization/Sniper.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Sniper.internal|Sniper.internal]] 
 
-### #is_/same_as :: [Sniper.protect](/_protect/Society/Military/Military_Organization/Sniper.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Sniper.protect|Sniper.protect]] 
 
-### #is_/same_as :: [Sniper.private](/_private/Society/Military/Military_Organization/Sniper.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Sniper.private|Sniper.private]] 
 
-### #is_/same_as :: [Sniper.personal](/_personal/Society/Military/Military_Organization/Sniper.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Sniper.personal|Sniper.personal]] 
 
-### #is_/same_as :: [Sniper.secret](/_secret/Society/Military/Military_Organization/Sniper.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Sniper.secret|Sniper.secret]] 
 

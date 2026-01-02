@@ -154,17 +154,17 @@ Has a screming End
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sleep_Token](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token|Sleep_Token]] 
 
-### #is_/same_as :: [Sleep_Token.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.public|Sleep_Token.public]] 
 
-### #is_/same_as :: [Sleep_Token.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.internal|Sleep_Token.internal]] 
 
-### #is_/same_as :: [Sleep_Token.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.protect|Sleep_Token.protect]] 
 
-### #is_/same_as :: [Sleep_Token.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.private|Sleep_Token.private]] 
 
-### #is_/same_as :: [Sleep_Token.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.personal|Sleep_Token.personal]] 
 
-### #is_/same_as :: [Sleep_Token.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Sleep_Token.secret|Sleep_Token.secret]] 
 

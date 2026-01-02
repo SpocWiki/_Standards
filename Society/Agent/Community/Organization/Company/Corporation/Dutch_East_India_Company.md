@@ -61,17 +61,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dutch_East_India_Company](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company|Dutch_East_India_Company]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.public|Dutch_East_India_Company.public]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.internal|Dutch_East_India_Company.internal]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.protect|Dutch_East_India_Company.protect]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.private|Dutch_East_India_Company.private]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.personal|Dutch_East_India_Company.personal]] 
 
-### #is_/same_as :: [Dutch_East_India_Company.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Dutch_East_India_Company.secret|Dutch_East_India_Company.secret]] 
 

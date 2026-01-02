@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trireme](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme|Trireme]] 
 
-### #is_/same_as :: [Trireme.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.public|Trireme.public]] 
 
-### #is_/same_as :: [Trireme.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.internal|Trireme.internal]] 
 
-### #is_/same_as :: [Trireme.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.protect|Trireme.protect]] 
 
-### #is_/same_as :: [Trireme.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.private|Trireme.private]] 
 
-### #is_/same_as :: [Trireme.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.personal|Trireme.personal]] 
 
-### #is_/same_as :: [Trireme.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Galley/Trireme.secret|Trireme.secret]] 
 

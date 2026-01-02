@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Redford,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert|Redford,Robert]] 
 
-### #is_/same_as :: [Redford,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.public|Redford,Robert.public]] 
 
-### #is_/same_as :: [Redford,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.internal|Redford,Robert.internal]] 
 
-### #is_/same_as :: [Redford,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.protect|Redford,Robert.protect]] 
 
-### #is_/same_as :: [Redford,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.private|Redford,Robert.private]] 
 
-### #is_/same_as :: [Redford,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.personal|Redford,Robert.personal]] 
 
-### #is_/same_as :: [Redford,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Western-Movie/Redford,Robert.secret|Redford,Robert.secret]] 
 

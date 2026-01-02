@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_terms_of_service](/_Standards/schema-org/Property/Texts/has_terms_of_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_terms_of_service|has_terms_of_service]] 
 
-### #is_/same_as :: [has_terms_of_service.public](/_public/schema-org/Property/Texts/has_terms_of_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_terms_of_service.public|has_terms_of_service.public]] 
 
-### #is_/same_as :: [has_terms_of_service.internal](/_internal/schema-org/Property/Texts/has_terms_of_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_terms_of_service.internal|has_terms_of_service.internal]] 
 
-### #is_/same_as :: [has_terms_of_service.protect](/_protect/schema-org/Property/Texts/has_terms_of_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_terms_of_service.protect|has_terms_of_service.protect]] 
 
-### #is_/same_as :: [has_terms_of_service.private](/_private/schema-org/Property/Texts/has_terms_of_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_terms_of_service.private|has_terms_of_service.private]] 
 
-### #is_/same_as :: [has_terms_of_service.personal](/_personal/schema-org/Property/Texts/has_terms_of_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_terms_of_service.personal|has_terms_of_service.personal]] 
 
-### #is_/same_as :: [has_terms_of_service.secret](/_secret/schema-org/Property/Texts/has_terms_of_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_terms_of_service.secret|has_terms_of_service.secret]] 
 

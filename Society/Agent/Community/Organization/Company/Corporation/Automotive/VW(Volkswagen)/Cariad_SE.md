@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cariad_SE](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE|Cariad_SE]] 
 
-### #is_/same_as :: [Cariad_SE.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.public|Cariad_SE.public]] 
 
-### #is_/same_as :: [Cariad_SE.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.internal|Cariad_SE.internal]] 
 
-### #is_/same_as :: [Cariad_SE.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.protect|Cariad_SE.protect]] 
 
-### #is_/same_as :: [Cariad_SE.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.private|Cariad_SE.private]] 
 
-### #is_/same_as :: [Cariad_SE.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.personal|Cariad_SE.personal]] 
 
-### #is_/same_as :: [Cariad_SE.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Automotive/VW(Volkswagen)/Cariad_SE.secret|Cariad_SE.secret]] 
 

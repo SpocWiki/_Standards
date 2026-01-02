@@ -41,17 +41,17 @@ A post office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Post_Office](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office|Post_Office]] 
 
-### #is_/same_as :: [Post_Office.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.public|Post_Office.public]] 
 
-### #is_/same_as :: [Post_Office.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.internal|Post_Office.internal]] 
 
-### #is_/same_as :: [Post_Office.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.protect|Post_Office.protect]] 
 
-### #is_/same_as :: [Post_Office.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.private|Post_Office.private]] 
 
-### #is_/same_as :: [Post_Office.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.personal|Post_Office.personal]] 
 
-### #is_/same_as :: [Post_Office.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Government_Office/Post_Office.secret|Post_Office.secret]] 
 

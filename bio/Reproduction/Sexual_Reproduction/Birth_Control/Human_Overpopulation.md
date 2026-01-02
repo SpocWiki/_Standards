@@ -50,17 +50,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20population%20v
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Overpopulation](/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation|Human_Overpopulation]] 
 
-### #is_/same_as :: [Human_Overpopulation.public](/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.public|Human_Overpopulation.public]] 
 
-### #is_/same_as :: [Human_Overpopulation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.internal|Human_Overpopulation.internal]] 
 
-### #is_/same_as :: [Human_Overpopulation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.protect|Human_Overpopulation.protect]] 
 
-### #is_/same_as :: [Human_Overpopulation.private](/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.private|Human_Overpopulation.private]] 
 
-### #is_/same_as :: [Human_Overpopulation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.personal|Human_Overpopulation.personal]] 
 
-### #is_/same_as :: [Human_Overpopulation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Birth_Control/Human_Overpopulation.secret|Human_Overpopulation.secret]] 
 

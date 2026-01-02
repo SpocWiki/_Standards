@@ -113,17 +113,17 @@ Below is a detailed explanation:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glycogen](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen|Glycogen]] 
 
-### #is_/same_as :: [Glycogen.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.public|Glycogen.public]] 
 
-### #is_/same_as :: [Glycogen.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.internal|Glycogen.internal]] 
 
-### #is_/same_as :: [Glycogen.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.protect|Glycogen.protect]] 
 
-### #is_/same_as :: [Glycogen.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.private|Glycogen.private]] 
 
-### #is_/same_as :: [Glycogen.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.personal|Glycogen.personal]] 
 
-### #is_/same_as :: [Glycogen.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Polysaccharide/Glycogen.secret|Glycogen.secret]] 
 

@@ -39,17 +39,17 @@ has_part_s_: "[[_Standards/WikiData/WD~chemical_element,11344]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Period_2](/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_2.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_2|Period_2]] 
 
-### #is_/same_as :: [Period_2.public](/_public/Chemistry/Chemical_Element/Periodic_Table/Period_2.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_2.public|Period_2.public]] 
 
-### #is_/same_as :: [Period_2.internal](/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_2.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_2.internal|Period_2.internal]] 
 
-### #is_/same_as :: [Period_2.protect](/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_2.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Periodic_Table/Period_2.protect|Period_2.protect]] 
 
-### #is_/same_as :: [Period_2.private](/_private/Chemistry/Chemical_Element/Periodic_Table/Period_2.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Periodic_Table/Period_2.private|Period_2.private]] 
 
-### #is_/same_as :: [Period_2.personal](/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_2.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_2.personal|Period_2.personal]] 
 
-### #is_/same_as :: [Period_2.secret](/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_2.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_2.secret|Period_2.secret]] 
 

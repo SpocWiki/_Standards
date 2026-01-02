@@ -37,17 +37,17 @@ A short TV program or a segment/part of a TV program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TVClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip|FileClass~TVClip]] 
 
-### #is_/same_as :: [FileClass~TVClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.public|FileClass~TVClip.public]] 
 
-### #is_/same_as :: [FileClass~TVClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.internal|FileClass~TVClip.internal]] 
 
-### #is_/same_as :: [FileClass~TVClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.protect|FileClass~TVClip.protect]] 
 
-### #is_/same_as :: [FileClass~TVClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.private|FileClass~TVClip.private]] 
 
-### #is_/same_as :: [FileClass~TVClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.personal|FileClass~TVClip.personal]] 
 
-### #is_/same_as :: [FileClass~TVClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~TVClip.secret|FileClass~TVClip.secret]] 
 

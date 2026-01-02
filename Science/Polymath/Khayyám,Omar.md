@@ -106,17 +106,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/HAYAM_OMAR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Khayyám,Omar](/_Standards/Science/Polymath/Khayyám,Omar.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Khayyám,Omar|Khayyám,Omar]] 
 
-### #is_/same_as :: [Khayyám,Omar.public](/_public/Science/Polymath/Khayyám,Omar.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Khayyám,Omar.public|Khayyám,Omar.public]] 
 
-### #is_/same_as :: [Khayyám,Omar.internal](/_internal/Science/Polymath/Khayyám,Omar.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Khayyám,Omar.internal|Khayyám,Omar.internal]] 
 
-### #is_/same_as :: [Khayyám,Omar.protect](/_protect/Science/Polymath/Khayyám,Omar.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Khayyám,Omar.protect|Khayyám,Omar.protect]] 
 
-### #is_/same_as :: [Khayyám,Omar.private](/_private/Science/Polymath/Khayyám,Omar.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Khayyám,Omar.private|Khayyám,Omar.private]] 
 
-### #is_/same_as :: [Khayyám,Omar.personal](/_personal/Science/Polymath/Khayyám,Omar.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Khayyám,Omar.personal|Khayyám,Omar.personal]] 
 
-### #is_/same_as :: [Khayyám,Omar.secret](/_secret/Science/Polymath/Khayyám,Omar.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Khayyám,Omar.secret|Khayyám,Omar.secret]] 
 

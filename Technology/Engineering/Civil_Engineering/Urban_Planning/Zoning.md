@@ -37,17 +37,17 @@ Dewey_Decimal_Classification: "346.045"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zoning](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning|Zoning]] 
 
-### #is_/same_as :: [Zoning.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.public|Zoning.public]] 
 
-### #is_/same_as :: [Zoning.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.internal|Zoning.internal]] 
 
-### #is_/same_as :: [Zoning.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.protect|Zoning.protect]] 
 
-### #is_/same_as :: [Zoning.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.private|Zoning.private]] 
 
-### #is_/same_as :: [Zoning.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.personal|Zoning.personal]] 
 
-### #is_/same_as :: [Zoning.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Zoning.secret|Zoning.secret]] 
 

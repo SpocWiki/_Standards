@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [License](/_Standards/bio/bio~Domain/License.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/License|License]] 
 
-### #is_/same_as :: [License.public](/_public/bio/bio~Domain/License.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/License.public|License.public]] 
 
-### #is_/same_as :: [License.internal](/_internal/bio/bio~Domain/License.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/License.internal|License.internal]] 
 
-### #is_/same_as :: [License.protect](/_protect/bio/bio~Domain/License.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/License.protect|License.protect]] 
 
-### #is_/same_as :: [License.private](/_private/bio/bio~Domain/License.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/License.private|License.private]] 
 
-### #is_/same_as :: [License.personal](/_personal/bio/bio~Domain/License.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/License.personal|License.personal]] 
 
-### #is_/same_as :: [License.secret](/_secret/bio/bio~Domain/License.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/License.secret|License.secret]] 
 

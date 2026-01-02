@@ -96,17 +96,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Garuna%2C%20erosle.web
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brain](/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain|Brain]] 
 
-### #is_/same_as :: [Brain.public](/_public/bio/Medicine/Anatomy/Nervous_System/Brain.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Brain.public|Brain.public]] 
 
-### #is_/same_as :: [Brain.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Brain.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Brain.internal|Brain.internal]] 
 
-### #is_/same_as :: [Brain.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Brain.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Brain.protect|Brain.protect]] 
 
-### #is_/same_as :: [Brain.private](/_private/bio/Medicine/Anatomy/Nervous_System/Brain.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Brain.private|Brain.private]] 
 
-### #is_/same_as :: [Brain.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Brain.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Brain.personal|Brain.personal]] 
 
-### #is_/same_as :: [Brain.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Brain.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Brain.secret|Brain.secret]] 
 

@@ -119,17 +119,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homer](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer|Homer]] 
 
-### #is_/same_as :: [Homer.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.public|Homer.public]] 
 
-### #is_/same_as :: [Homer.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.internal|Homer.internal]] 
 
-### #is_/same_as :: [Homer.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.protect|Homer.protect]] 
 
-### #is_/same_as :: [Homer.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.private|Homer.private]] 
 
-### #is_/same_as :: [Homer.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.personal|Homer.personal]] 
 
-### #is_/same_as :: [Homer.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Homer.secret|Homer.secret]] 
 

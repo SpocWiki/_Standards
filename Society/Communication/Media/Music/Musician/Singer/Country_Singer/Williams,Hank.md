@@ -156,17 +156,17 @@ date_of_birth: 1923-09-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Williams,Hank](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank|Williams,Hank]] 
 
-### #is_/same_as :: [Williams,Hank.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.public|Williams,Hank.public]] 
 
-### #is_/same_as :: [Williams,Hank.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.internal|Williams,Hank.internal]] 
 
-### #is_/same_as :: [Williams,Hank.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.protect|Williams,Hank.protect]] 
 
-### #is_/same_as :: [Williams,Hank.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.private|Williams,Hank.private]] 
 
-### #is_/same_as :: [Williams,Hank.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.personal|Williams,Hank.personal]] 
 
-### #is_/same_as :: [Williams,Hank.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Williams,Hank.secret|Williams,Hank.secret]] 
 

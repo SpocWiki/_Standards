@@ -47,17 +47,17 @@ OpenStreetMap_tag: natural=strait
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strait](/_Standards/Earth/Geology/Landform/Strait.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Strait|Strait]] 
 
-### #is_/same_as :: [Strait.public](/_public/Earth/Geology/Landform/Strait.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Strait.public|Strait.public]] 
 
-### #is_/same_as :: [Strait.internal](/_internal/Earth/Geology/Landform/Strait.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Strait.internal|Strait.internal]] 
 
-### #is_/same_as :: [Strait.protect](/_protect/Earth/Geology/Landform/Strait.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Strait.protect|Strait.protect]] 
 
-### #is_/same_as :: [Strait.private](/_private/Earth/Geology/Landform/Strait.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Strait.private|Strait.private]] 
 
-### #is_/same_as :: [Strait.personal](/_personal/Earth/Geology/Landform/Strait.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Strait.personal|Strait.personal]] 
 
-### #is_/same_as :: [Strait.secret](/_secret/Earth/Geology/Landform/Strait.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Strait.secret|Strait.secret]] 
 

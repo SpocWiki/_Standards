@@ -35,17 +35,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Antoine%20lavoisier.jp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservation_of_Mass](/_Standards/Science/Physics/Conservation_Law/Conservation_of_Mass.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Conservation_Law/Conservation_of_Mass|Conservation_of_Mass]] 
 
-### #is_/same_as :: [Conservation_of_Mass.public](/_public/Science/Physics/Conservation_Law/Conservation_of_Mass.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Conservation_Law/Conservation_of_Mass.public|Conservation_of_Mass.public]] 
 
-### #is_/same_as :: [Conservation_of_Mass.internal](/_internal/Science/Physics/Conservation_Law/Conservation_of_Mass.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Conservation_Law/Conservation_of_Mass.internal|Conservation_of_Mass.internal]] 
 
-### #is_/same_as :: [Conservation_of_Mass.protect](/_protect/Science/Physics/Conservation_Law/Conservation_of_Mass.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Conservation_Law/Conservation_of_Mass.protect|Conservation_of_Mass.protect]] 
 
-### #is_/same_as :: [Conservation_of_Mass.private](/_private/Science/Physics/Conservation_Law/Conservation_of_Mass.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Conservation_Law/Conservation_of_Mass.private|Conservation_of_Mass.private]] 
 
-### #is_/same_as :: [Conservation_of_Mass.personal](/_personal/Science/Physics/Conservation_Law/Conservation_of_Mass.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Conservation_Law/Conservation_of_Mass.personal|Conservation_of_Mass.personal]] 
 
-### #is_/same_as :: [Conservation_of_Mass.secret](/_secret/Science/Physics/Conservation_Law/Conservation_of_Mass.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Conservation_Law/Conservation_of_Mass.secret|Conservation_of_Mass.secret]] 
 

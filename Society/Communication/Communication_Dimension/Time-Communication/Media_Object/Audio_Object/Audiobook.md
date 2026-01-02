@@ -41,17 +41,17 @@ An audiobook.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audiobook](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook|Audiobook]] 
 
-### #is_/same_as :: [Audiobook.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.public|Audiobook.public]] 
 
-### #is_/same_as :: [Audiobook.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.internal|Audiobook.internal]] 
 
-### #is_/same_as :: [Audiobook.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.protect|Audiobook.protect]] 
 
-### #is_/same_as :: [Audiobook.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.private|Audiobook.private]] 
 
-### #is_/same_as :: [Audiobook.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.personal|Audiobook.personal]] 
 
-### #is_/same_as :: [Audiobook.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audiobook.secret|Audiobook.secret]] 
 

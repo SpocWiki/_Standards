@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buchanan,James](/_Standards/Earth/Continent/America~North/US~President/Buchanan,James.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Buchanan,James|Buchanan,James]] 
 
-### #is_/same_as :: [Buchanan,James.public](/_public/Earth/Continent/America~North/US~President/Buchanan,James.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Buchanan,James.public|Buchanan,James.public]] 
 
-### #is_/same_as :: [Buchanan,James.internal](/_internal/Earth/Continent/America~North/US~President/Buchanan,James.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Buchanan,James.internal|Buchanan,James.internal]] 
 
-### #is_/same_as :: [Buchanan,James.protect](/_protect/Earth/Continent/America~North/US~President/Buchanan,James.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Buchanan,James.protect|Buchanan,James.protect]] 
 
-### #is_/same_as :: [Buchanan,James.private](/_private/Earth/Continent/America~North/US~President/Buchanan,James.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Buchanan,James.private|Buchanan,James.private]] 
 
-### #is_/same_as :: [Buchanan,James.personal](/_personal/Earth/Continent/America~North/US~President/Buchanan,James.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Buchanan,James.personal|Buchanan,James.personal]] 
 
-### #is_/same_as :: [Buchanan,James.secret](/_secret/Earth/Continent/America~North/US~President/Buchanan,James.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Buchanan,James.secret|Buchanan,James.secret]] 
 

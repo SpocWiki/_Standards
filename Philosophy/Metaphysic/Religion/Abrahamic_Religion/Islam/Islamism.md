@@ -72,17 +72,17 @@ Commons_category: Islamism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islamism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism|Islamism]] 
 
-### #is_/same_as :: [Islamism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.public|Islamism.public]] 
 
-### #is_/same_as :: [Islamism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.internal|Islamism.internal]] 
 
-### #is_/same_as :: [Islamism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.protect|Islamism.protect]] 
 
-### #is_/same_as :: [Islamism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.private|Islamism.private]] 
 
-### #is_/same_as :: [Islamism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.personal|Islamism.personal]] 
 
-### #is_/same_as :: [Islamism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Islamism.secret|Islamism.secret]] 
 

@@ -120,17 +120,17 @@ date_of_birth: 1795-11-02T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polk,James_K](/_Standards/Earth/Continent/America~North/US~President/Polk,James_K.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Polk,James_K|Polk,James_K]] 
 
-### #is_/same_as :: [Polk,James_K.public](/_public/Earth/Continent/America~North/US~President/Polk,James_K.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Polk,James_K.public|Polk,James_K.public]] 
 
-### #is_/same_as :: [Polk,James_K.internal](/_internal/Earth/Continent/America~North/US~President/Polk,James_K.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Polk,James_K.internal|Polk,James_K.internal]] 
 
-### #is_/same_as :: [Polk,James_K.protect](/_protect/Earth/Continent/America~North/US~President/Polk,James_K.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Polk,James_K.protect|Polk,James_K.protect]] 
 
-### #is_/same_as :: [Polk,James_K.private](/_private/Earth/Continent/America~North/US~President/Polk,James_K.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Polk,James_K.private|Polk,James_K.private]] 
 
-### #is_/same_as :: [Polk,James_K.personal](/_personal/Earth/Continent/America~North/US~President/Polk,James_K.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Polk,James_K.personal|Polk,James_K.personal]] 
 
-### #is_/same_as :: [Polk,James_K.secret](/_secret/Earth/Continent/America~North/US~President/Polk,James_K.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Polk,James_K.secret|Polk,James_K.secret]] 
 

@@ -41,17 +41,17 @@ Commons_category: Quantum tunneling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantum_Tunneling](/_Standards/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Quantum_Tunneling|Quantum_Tunneling]] 
 
-### #is_/same_as :: [Quantum_Tunneling.public](/_public/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.public|Quantum_Tunneling.public]] 
 
-### #is_/same_as :: [Quantum_Tunneling.internal](/_internal/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.internal|Quantum_Tunneling.internal]] 
 
-### #is_/same_as :: [Quantum_Tunneling.protect](/_protect/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.protect|Quantum_Tunneling.protect]] 
 
-### #is_/same_as :: [Quantum_Tunneling.private](/_private/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.private|Quantum_Tunneling.private]] 
 
-### #is_/same_as :: [Quantum_Tunneling.personal](/_personal/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.personal|Quantum_Tunneling.personal]] 
 
-### #is_/same_as :: [Quantum_Tunneling.secret](/_secret/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Quantum_Tunneling.secret|Quantum_Tunneling.secret]] 
 

@@ -61,3 +61,22 @@ The estimated carbon content is
 50 Gt (55 billion short tons) ([tropical peatlands](https://en.wikipedia.org/wiki/Tropical_peat "Tropical peat")) and 
 15 Gt (17 billion short tons) (South America). 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Peat|Peat]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Peat.public|Peat.public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.internal|Peat.internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Peat.protect|Peat.protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Peat.private|Peat.private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Peat.personal|Peat.personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Peat.secret|Peat.secret]] 
+

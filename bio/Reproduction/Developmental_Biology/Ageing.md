@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ageing](/_Standards/bio/Reproduction/Developmental_Biology/Ageing.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Ageing|Ageing]] 
 
-### #is_/same_as :: [Ageing.public](/_public/bio/Reproduction/Developmental_Biology/Ageing.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Ageing.public|Ageing.public]] 
 
-### #is_/same_as :: [Ageing.internal](/_internal/bio/Reproduction/Developmental_Biology/Ageing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Ageing.internal|Ageing.internal]] 
 
-### #is_/same_as :: [Ageing.protect](/_protect/bio/Reproduction/Developmental_Biology/Ageing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Ageing.protect|Ageing.protect]] 
 
-### #is_/same_as :: [Ageing.private](/_private/bio/Reproduction/Developmental_Biology/Ageing.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Ageing.private|Ageing.private]] 
 
-### #is_/same_as :: [Ageing.personal](/_personal/bio/Reproduction/Developmental_Biology/Ageing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Ageing.personal|Ageing.personal]] 
 
-### #is_/same_as :: [Ageing.secret](/_secret/bio/Reproduction/Developmental_Biology/Ageing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Ageing.secret|Ageing.secret]] 
 

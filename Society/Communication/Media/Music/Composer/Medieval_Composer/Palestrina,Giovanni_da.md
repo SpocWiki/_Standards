@@ -117,17 +117,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PALESTRINA_DZHOVANNI_P
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palestrina,Giovanni_da](/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da|Palestrina,Giovanni_da]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.public](/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.public|Palestrina,Giovanni_da.public]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.internal](/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.internal|Palestrina,Giovanni_da.internal]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.protect](/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.protect|Palestrina,Giovanni_da.protect]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.private](/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.private|Palestrina,Giovanni_da.private]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.personal](/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.personal|Palestrina,Giovanni_da.personal]] 
 
-### #is_/same_as :: [Palestrina,Giovanni_da.secret](/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Medieval_Composer/Palestrina,Giovanni_da.secret|Palestrina,Giovanni_da.secret]] 
 

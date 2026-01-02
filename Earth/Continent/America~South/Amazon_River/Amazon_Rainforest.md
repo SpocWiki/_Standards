@@ -70,17 +70,17 @@ Commons_category: Amazon Rainforest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amazon_Rainforest](/_Standards/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest|Amazon_Rainforest]] 
 
-### #is_/same_as :: [Amazon_Rainforest.public](/_public/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.public|Amazon_Rainforest.public]] 
 
-### #is_/same_as :: [Amazon_Rainforest.internal](/_internal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.internal|Amazon_Rainforest.internal]] 
 
-### #is_/same_as :: [Amazon_Rainforest.protect](/_protect/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.protect|Amazon_Rainforest.protect]] 
 
-### #is_/same_as :: [Amazon_Rainforest.private](/_private/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.private|Amazon_Rainforest.private]] 
 
-### #is_/same_as :: [Amazon_Rainforest.personal](/_personal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.personal|Amazon_Rainforest.personal]] 
 
-### #is_/same_as :: [Amazon_Rainforest.secret](/_secret/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Amazon_River/Amazon_Rainforest.secret|Amazon_Rainforest.secret]] 
 

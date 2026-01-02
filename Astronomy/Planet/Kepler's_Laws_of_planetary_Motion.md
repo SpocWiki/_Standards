@@ -59,17 +59,17 @@ Commons_category: Kepler motions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion](/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion|Kepler's_Laws_of_planetary_Motion]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.public](/_public/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.public|Kepler's_Laws_of_planetary_Motion.public]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.internal](/_internal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.internal|Kepler's_Laws_of_planetary_Motion.internal]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.protect](/_protect/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.protect|Kepler's_Laws_of_planetary_Motion.protect]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.private](/_private/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.private|Kepler's_Laws_of_planetary_Motion.private]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.personal](/_personal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.personal|Kepler's_Laws_of_planetary_Motion.personal]] 
 
-### #is_/same_as :: [Kepler's_Laws_of_planetary_Motion.secret](/_secret/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Kepler's_Laws_of_planetary_Motion.secret|Kepler's_Laws_of_planetary_Motion.secret]] 
 

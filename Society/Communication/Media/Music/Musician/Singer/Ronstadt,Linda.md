@@ -94,17 +94,17 @@ official_website: https://lindaronstadt.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ronstadt,Linda](/_Standards/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda|Ronstadt,Linda]] 
 
-### #is_/same_as :: [Ronstadt,Linda.public](/_public/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.public|Ronstadt,Linda.public]] 
 
-### #is_/same_as :: [Ronstadt,Linda.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.internal|Ronstadt,Linda.internal]] 
 
-### #is_/same_as :: [Ronstadt,Linda.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.protect|Ronstadt,Linda.protect]] 
 
-### #is_/same_as :: [Ronstadt,Linda.private](/_private/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.private|Ronstadt,Linda.private]] 
 
-### #is_/same_as :: [Ronstadt,Linda.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.personal|Ronstadt,Linda.personal]] 
 
-### #is_/same_as :: [Ronstadt,Linda.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Ronstadt,Linda.secret|Ronstadt,Linda.secret]] 
 

@@ -50,17 +50,17 @@ title: Single-stranded DNA Viruses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus](/_Standards/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Virus/Single-stranded_DNA_Virus|Single-stranded_DNA_Virus]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.public](/_public/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.public|Single-stranded_DNA_Virus.public]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.internal](/_internal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.internal|Single-stranded_DNA_Virus.internal]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.protect](/_protect/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.protect|Single-stranded_DNA_Virus.protect]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.private](/_private/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.private|Single-stranded_DNA_Virus.private]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.personal](/_personal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.personal|Single-stranded_DNA_Virus.personal]] 
 
-### #is_/same_as :: [Single-stranded_DNA_Virus.secret](/_secret/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Virus/Single-stranded_DNA_Virus.secret|Single-stranded_DNA_Virus.secret]] 
 

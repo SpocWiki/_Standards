@@ -35,17 +35,17 @@ main_subject: '[[_Standards/WikiData/WD~finite_simple_group,45033382]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups](/_Standards/Mathematics/Algebra/Classification_of_finite_simple_Groups.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Classification_of_finite_simple_Groups|Classification_of_finite_simple_Groups]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.public](/_public/Mathematics/Algebra/Classification_of_finite_simple_Groups.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Classification_of_finite_simple_Groups.public|Classification_of_finite_simple_Groups.public]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.internal](/_internal/Mathematics/Algebra/Classification_of_finite_simple_Groups.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Classification_of_finite_simple_Groups.internal|Classification_of_finite_simple_Groups.internal]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.protect](/_protect/Mathematics/Algebra/Classification_of_finite_simple_Groups.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Classification_of_finite_simple_Groups.protect|Classification_of_finite_simple_Groups.protect]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.private](/_private/Mathematics/Algebra/Classification_of_finite_simple_Groups.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Classification_of_finite_simple_Groups.private|Classification_of_finite_simple_Groups.private]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.personal](/_personal/Mathematics/Algebra/Classification_of_finite_simple_Groups.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Classification_of_finite_simple_Groups.personal|Classification_of_finite_simple_Groups.personal]] 
 
-### #is_/same_as :: [Classification_of_finite_simple_Groups.secret](/_secret/Mathematics/Algebra/Classification_of_finite_simple_Groups.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Classification_of_finite_simple_Groups.secret|Classification_of_finite_simple_Groups.secret]] 
 

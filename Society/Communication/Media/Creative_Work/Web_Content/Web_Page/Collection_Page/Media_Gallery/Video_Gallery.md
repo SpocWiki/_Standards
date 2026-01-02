@@ -41,17 +41,17 @@ Web page type: Video gallery page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Gallery](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery|Video_Gallery]] 
 
-### #is_/same_as :: [Video_Gallery.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.public|Video_Gallery.public]] 
 
-### #is_/same_as :: [Video_Gallery.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.internal|Video_Gallery.internal]] 
 
-### #is_/same_as :: [Video_Gallery.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.protect|Video_Gallery.protect]] 
 
-### #is_/same_as :: [Video_Gallery.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.private|Video_Gallery.private]] 
 
-### #is_/same_as :: [Video_Gallery.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.personal|Video_Gallery.personal]] 
 
-### #is_/same_as :: [Video_Gallery.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Collection_Page/Media_Gallery/Video_Gallery.secret|Video_Gallery.secret]] 
 

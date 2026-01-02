@@ -37,17 +37,17 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalIntangible](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible|FileClass~MedicalIntangible]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.public|FileClass~MedicalIntangible.public]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.internal|FileClass~MedicalIntangible.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.protect|FileClass~MedicalIntangible.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.private|FileClass~MedicalIntangible.private]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.personal|FileClass~MedicalIntangible.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalIntangible.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible.secret|FileClass~MedicalIntangible.secret]] 
 

@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20is%20being%20st
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Romantic_Love](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love|Romantic_Love]] 
 
-### #is_/same_as :: [Romantic_Love.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.public|Romantic_Love.public]] 
 
-### #is_/same_as :: [Romantic_Love.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.internal|Romantic_Love.internal]] 
 
-### #is_/same_as :: [Romantic_Love.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.protect|Romantic_Love.protect]] 
 
-### #is_/same_as :: [Romantic_Love.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.private|Romantic_Love.private]] 
 
-### #is_/same_as :: [Romantic_Love.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.personal|Romantic_Love.personal]] 
 
-### #is_/same_as :: [Romantic_Love.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Romantic_Love.secret|Romantic_Love.secret]] 
 

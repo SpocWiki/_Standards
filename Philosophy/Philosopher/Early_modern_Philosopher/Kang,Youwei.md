@@ -122,17 +122,17 @@ CYT_CCS: AC000207483
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kang,Youwei](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei|Kang,Youwei]] 
 
-### #is_/same_as :: [Kang,Youwei.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.public|Kang,Youwei.public]] 
 
-### #is_/same_as :: [Kang,Youwei.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.internal|Kang,Youwei.internal]] 
 
-### #is_/same_as :: [Kang,Youwei.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.protect|Kang,Youwei.protect]] 
 
-### #is_/same_as :: [Kang,Youwei.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.private|Kang,Youwei.private]] 
 
-### #is_/same_as :: [Kang,Youwei.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.personal|Kang,Youwei.personal]] 
 
-### #is_/same_as :: [Kang,Youwei.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Kang,Youwei.secret|Kang,Youwei.secret]] 
 

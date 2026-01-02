@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_author](/_Standards/schema-org/Relation/has/has_author.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_author|has_author]] 
 
-### #is_/same_as :: [has_author.public](/_public/schema-org/Relation/has/has_author.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_author.public|has_author.public]] 
 
-### #is_/same_as :: [has_author.internal](/_internal/schema-org/Relation/has/has_author.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_author.internal|has_author.internal]] 
 
-### #is_/same_as :: [has_author.protect](/_protect/schema-org/Relation/has/has_author.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_author.protect|has_author.protect]] 
 
-### #is_/same_as :: [has_author.private](/_private/schema-org/Relation/has/has_author.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_author.private|has_author.private]] 
 
-### #is_/same_as :: [has_author.personal](/_personal/schema-org/Relation/has/has_author.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_author.personal|has_author.personal]] 
 
-### #is_/same_as :: [has_author.secret](/_secret/schema-org/Relation/has/has_author.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_author.secret|has_author.secret]] 
 

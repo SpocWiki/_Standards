@@ -79,17 +79,17 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trilobites](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites|Trilobites]] 
 
-### #is_/same_as :: [Trilobites.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.public|Trilobites.public]] 
 
-### #is_/same_as :: [Trilobites.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.internal|Trilobites.internal]] 
 
-### #is_/same_as :: [Trilobites.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.protect|Trilobites.protect]] 
 
-### #is_/same_as :: [Trilobites.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.private|Trilobites.private]] 
 
-### #is_/same_as :: [Trilobites.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.personal|Trilobites.personal]] 
 
-### #is_/same_as :: [Trilobites.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Trilobites.secret|Trilobites.secret]] 
 

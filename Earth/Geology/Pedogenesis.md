@@ -35,17 +35,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/MollisolNebraska.JPG
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pedogenesis](/_Standards/Earth/Geology/Pedogenesis.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Pedogenesis|Pedogenesis]] 
 
-### #is_/same_as :: [Pedogenesis.public](/_public/Earth/Geology/Pedogenesis.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Pedogenesis.public|Pedogenesis.public]] 
 
-### #is_/same_as :: [Pedogenesis.internal](/_internal/Earth/Geology/Pedogenesis.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Pedogenesis.internal|Pedogenesis.internal]] 
 
-### #is_/same_as :: [Pedogenesis.protect](/_protect/Earth/Geology/Pedogenesis.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Pedogenesis.protect|Pedogenesis.protect]] 
 
-### #is_/same_as :: [Pedogenesis.private](/_private/Earth/Geology/Pedogenesis.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Pedogenesis.private|Pedogenesis.private]] 
 
-### #is_/same_as :: [Pedogenesis.personal](/_personal/Earth/Geology/Pedogenesis.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Pedogenesis.personal|Pedogenesis.personal]] 
 
-### #is_/same_as :: [Pedogenesis.secret](/_secret/Earth/Geology/Pedogenesis.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Pedogenesis.secret|Pedogenesis.secret]] 
 

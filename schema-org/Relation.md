@@ -85,17 +85,17 @@ That is why it is usually less helpful
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Relation](/_Standards/schema-org/Relation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation|Relation]] 
 
-### #is_/same_as :: [Relation.public](/_public/schema-org/Relation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation.public|Relation.public]] 
 
-### #is_/same_as :: [Relation.internal](/_internal/schema-org/Relation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation.internal|Relation.internal]] 
 
-### #is_/same_as :: [Relation.protect](/_protect/schema-org/Relation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation.protect|Relation.protect]] 
 
-### #is_/same_as :: [Relation.private](/_private/schema-org/Relation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation.private|Relation.private]] 
 
-### #is_/same_as :: [Relation.personal](/_personal/schema-org/Relation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation.personal|Relation.personal]] 
 
-### #is_/same_as :: [Relation.secret](/_secret/schema-org/Relation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation.secret|Relation.secret]] 
 

@@ -119,17 +119,17 @@ date_of_birth: 1927-06-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fosse,Bob](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob|Fosse,Bob]] 
 
-### #is_/same_as :: [Fosse,Bob.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.public|Fosse,Bob.public]] 
 
-### #is_/same_as :: [Fosse,Bob.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.internal|Fosse,Bob.internal]] 
 
-### #is_/same_as :: [Fosse,Bob.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.protect|Fosse,Bob.protect]] 
 
-### #is_/same_as :: [Fosse,Bob.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.private|Fosse,Bob.private]] 
 
-### #is_/same_as :: [Fosse,Bob.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.personal|Fosse,Bob.personal]] 
 
-### #is_/same_as :: [Fosse,Bob.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Fosse,Bob.secret|Fosse,Bob.secret]] 
 

@@ -106,17 +106,17 @@ last_line: Estragon — Allons-y. [Il ne bougent pas.]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waiting_for_Godot](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot|Waiting_for_Godot]] 
 
-### #is_/same_as :: [Waiting_for_Godot.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.public|Waiting_for_Godot.public]] 
 
-### #is_/same_as :: [Waiting_for_Godot.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.internal|Waiting_for_Godot.internal]] 
 
-### #is_/same_as :: [Waiting_for_Godot.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.protect|Waiting_for_Godot.protect]] 
 
-### #is_/same_as :: [Waiting_for_Godot.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.private|Waiting_for_Godot.private]] 
 
-### #is_/same_as :: [Waiting_for_Godot.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.personal|Waiting_for_Godot.personal]] 
 
-### #is_/same_as :: [Waiting_for_Godot.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Beckett,Samuel/Waiting_for_Godot.secret|Waiting_for_Godot.secret]] 
 

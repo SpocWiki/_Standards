@@ -55,17 +55,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Parallelogram%20simple
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parallelogram](/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram|Parallelogram]] 
 
-### #is_/same_as :: [Parallelogram.public](/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.public|Parallelogram.public]] 
 
-### #is_/same_as :: [Parallelogram.internal](/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.internal|Parallelogram.internal]] 
 
-### #is_/same_as :: [Parallelogram.protect](/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.protect|Parallelogram.protect]] 
 
-### #is_/same_as :: [Parallelogram.private](/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.private|Parallelogram.private]] 
 
-### #is_/same_as :: [Parallelogram.personal](/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.personal|Parallelogram.personal]] 
 
-### #is_/same_as :: [Parallelogram.secret](/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Quadrilateral/Parallelogram.secret|Parallelogram.secret]] 
 

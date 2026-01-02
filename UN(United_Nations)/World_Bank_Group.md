@@ -101,17 +101,17 @@ ISNI: "0000000121555062"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Bank_Group](/_Standards/UN(United_Nations)/World_Bank_Group.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/World_Bank_Group|World_Bank_Group]] 
 
-### #is_/same_as :: [World_Bank_Group.public](/_public/UN(United_Nations)/World_Bank_Group.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/World_Bank_Group.public|World_Bank_Group.public]] 
 
-### #is_/same_as :: [World_Bank_Group.internal](/_internal/UN(United_Nations)/World_Bank_Group.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/World_Bank_Group.internal|World_Bank_Group.internal]] 
 
-### #is_/same_as :: [World_Bank_Group.protect](/_protect/UN(United_Nations)/World_Bank_Group.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/World_Bank_Group.protect|World_Bank_Group.protect]] 
 
-### #is_/same_as :: [World_Bank_Group.private](/_private/UN(United_Nations)/World_Bank_Group.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/World_Bank_Group.private|World_Bank_Group.private]] 
 
-### #is_/same_as :: [World_Bank_Group.personal](/_personal/UN(United_Nations)/World_Bank_Group.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/World_Bank_Group.personal|World_Bank_Group.personal]] 
 
-### #is_/same_as :: [World_Bank_Group.secret](/_secret/UN(United_Nations)/World_Bank_Group.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/World_Bank_Group.secret|World_Bank_Group.secret]] 
 

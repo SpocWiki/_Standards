@@ -129,17 +129,17 @@ Libris_URI: 86lnnlzs1010f80
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dickinson,Emily](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily|Dickinson,Emily]] 
 
-### #is_/same_as :: [Dickinson,Emily.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.public|Dickinson,Emily.public]] 
 
-### #is_/same_as :: [Dickinson,Emily.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.internal|Dickinson,Emily.internal]] 
 
-### #is_/same_as :: [Dickinson,Emily.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.protect|Dickinson,Emily.protect]] 
 
-### #is_/same_as :: [Dickinson,Emily.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.private|Dickinson,Emily.private]] 
 
-### #is_/same_as :: [Dickinson,Emily.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.personal|Dickinson,Emily.personal]] 
 
-### #is_/same_as :: [Dickinson,Emily.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Dickinson,Emily.secret|Dickinson,Emily.secret]] 
 

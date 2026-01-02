@@ -58,17 +58,17 @@ The [[Moment_of_Inertia]] is the angular Equivalent to [[../Mass|Mass]] in [[Lin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moment_of_Inertia](/_Standards/Dimension/Angular_Dimension/Moment_of_Inertia.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Moment_of_Inertia|Moment_of_Inertia]] 
 
-### #is_/same_as :: [Moment_of_Inertia.public](/_public/Dimension/Angular_Dimension/Moment_of_Inertia.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Moment_of_Inertia.public|Moment_of_Inertia.public]] 
 
-### #is_/same_as :: [Moment_of_Inertia.internal](/_internal/Dimension/Angular_Dimension/Moment_of_Inertia.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Moment_of_Inertia.internal|Moment_of_Inertia.internal]] 
 
-### #is_/same_as :: [Moment_of_Inertia.protect](/_protect/Dimension/Angular_Dimension/Moment_of_Inertia.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Moment_of_Inertia.protect|Moment_of_Inertia.protect]] 
 
-### #is_/same_as :: [Moment_of_Inertia.private](/_private/Dimension/Angular_Dimension/Moment_of_Inertia.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Moment_of_Inertia.private|Moment_of_Inertia.private]] 
 
-### #is_/same_as :: [Moment_of_Inertia.personal](/_personal/Dimension/Angular_Dimension/Moment_of_Inertia.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Moment_of_Inertia.personal|Moment_of_Inertia.personal]] 
 
-### #is_/same_as :: [Moment_of_Inertia.secret](/_secret/Dimension/Angular_Dimension/Moment_of_Inertia.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Moment_of_Inertia.secret|Moment_of_Inertia.secret]] 
 

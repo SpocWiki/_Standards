@@ -50,17 +50,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0500-Göbekli_Tepe](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe|0500-Göbekli_Tepe]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.public|0500-Göbekli_Tepe.public]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.internal|0500-Göbekli_Tepe.internal]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.protect|0500-Göbekli_Tepe.protect]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.private|0500-Göbekli_Tepe.private]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.personal|0500-Göbekli_Tepe.personal]] 
 
-### #is_/same_as :: [0500-Göbekli_Tepe.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/0000-Greenlandian/0500-Göbekli_Tepe.secret|0500-Göbekli_Tepe.secret]] 
 

@@ -106,17 +106,17 @@ official_name: Организация Договора о коллективно
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization)](/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization)|CSTO(Collective_Security_Treaty_Organization)]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).public](/_public/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).public|CSTO(Collective_Security_Treaty_Organization).public]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).internal](/_internal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).internal|CSTO(Collective_Security_Treaty_Organization).internal]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).protect](/_protect/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).protect|CSTO(Collective_Security_Treaty_Organization).protect]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).private](/_private/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).private|CSTO(Collective_Security_Treaty_Organization).private]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).personal](/_personal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).personal|CSTO(Collective_Security_Treaty_Organization).personal]] 
 
-### #is_/same_as :: [CSTO(Collective_Security_Treaty_Organization).secret](/_secret/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/CSTO(Collective_Security_Treaty_Organization).secret|CSTO(Collective_Security_Treaty_Organization).secret]] 
 

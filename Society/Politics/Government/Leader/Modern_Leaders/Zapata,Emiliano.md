@@ -76,17 +76,17 @@ ISNI: 0000000081056014
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zapata,Emiliano](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano|Zapata,Emiliano]] 
 
-### #is_/same_as :: [Zapata,Emiliano.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.public|Zapata,Emiliano.public]] 
 
-### #is_/same_as :: [Zapata,Emiliano.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.internal|Zapata,Emiliano.internal]] 
 
-### #is_/same_as :: [Zapata,Emiliano.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.protect|Zapata,Emiliano.protect]] 
 
-### #is_/same_as :: [Zapata,Emiliano.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.private|Zapata,Emiliano.private]] 
 
-### #is_/same_as :: [Zapata,Emiliano.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.personal|Zapata,Emiliano.personal]] 
 
-### #is_/same_as :: [Zapata,Emiliano.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Zapata,Emiliano.secret|Zapata,Emiliano.secret]] 
 

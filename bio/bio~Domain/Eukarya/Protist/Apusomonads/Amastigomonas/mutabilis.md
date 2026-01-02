@@ -104,17 +104,17 @@ European Journal of Protistology 27: 386-396.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [mutabilis](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis|mutabilis]] 
 
-### #is_/same_as :: [mutabilis.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.public|mutabilis.public]] 
 
-### #is_/same_as :: [mutabilis.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.internal|mutabilis.internal]] 
 
-### #is_/same_as :: [mutabilis.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.protect|mutabilis.protect]] 
 
-### #is_/same_as :: [mutabilis.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.private|mutabilis.private]] 
 
-### #is_/same_as :: [mutabilis.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.personal|mutabilis.personal]] 
 
-### #is_/same_as :: [mutabilis.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/mutabilis.secret|mutabilis.secret]] 
 

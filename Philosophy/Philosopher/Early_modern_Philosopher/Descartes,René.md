@@ -184,17 +184,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Descartes,René](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René|Descartes,René]] 
 
-### #is_/same_as :: [Descartes,René.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.public|Descartes,René.public]] 
 
-### #is_/same_as :: [Descartes,René.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.internal|Descartes,René.internal]] 
 
-### #is_/same_as :: [Descartes,René.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.protect|Descartes,René.protect]] 
 
-### #is_/same_as :: [Descartes,René.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.private|Descartes,René.private]] 
 
-### #is_/same_as :: [Descartes,René.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.personal|Descartes,René.personal]] 
 
-### #is_/same_as :: [Descartes,René.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Descartes,René.secret|Descartes,René.secret]] 
 

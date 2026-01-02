@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_min_text_length](/_Standards/schema-org/Property/has_value_for/has_value_for_min_text_length.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_min_text_length|has_value_for_min_text_length]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.public](/_public/schema-org/Property/has_value_for/has_value_for_min_text_length.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_min_text_length.public|has_value_for_min_text_length.public]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.internal](/_internal/schema-org/Property/has_value_for/has_value_for_min_text_length.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_min_text_length.internal|has_value_for_min_text_length.internal]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.protect](/_protect/schema-org/Property/has_value_for/has_value_for_min_text_length.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_min_text_length.protect|has_value_for_min_text_length.protect]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.private](/_private/schema-org/Property/has_value_for/has_value_for_min_text_length.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_min_text_length.private|has_value_for_min_text_length.private]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.personal](/_personal/schema-org/Property/has_value_for/has_value_for_min_text_length.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_min_text_length.personal|has_value_for_min_text_length.personal]] 
 
-### #is_/same_as :: [has_value_for_min_text_length.secret](/_secret/schema-org/Property/has_value_for/has_value_for_min_text_length.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_min_text_length.secret|has_value_for_min_text_length.secret]] 
 

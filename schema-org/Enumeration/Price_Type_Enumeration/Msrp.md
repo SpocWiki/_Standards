@@ -43,17 +43,17 @@ Represents the manufacturer suggested retail price ("MSRP") of an offered produc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Msrp](/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Msrp.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Price_Type_Enumeration/Msrp|Msrp]] 
 
-### #is_/same_as :: [Msrp.public](/_public/schema-org/Enumeration/Price_Type_Enumeration/Msrp.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Price_Type_Enumeration/Msrp.public|Msrp.public]] 
 
-### #is_/same_as :: [Msrp.internal](/_internal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.internal|Msrp.internal]] 
 
-### #is_/same_as :: [Msrp.protect](/_protect/schema-org/Enumeration/Price_Type_Enumeration/Msrp.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Price_Type_Enumeration/Msrp.protect|Msrp.protect]] 
 
-### #is_/same_as :: [Msrp.private](/_private/schema-org/Enumeration/Price_Type_Enumeration/Msrp.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Price_Type_Enumeration/Msrp.private|Msrp.private]] 
 
-### #is_/same_as :: [Msrp.personal](/_personal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Price_Type_Enumeration/Msrp.personal|Msrp.personal]] 
 
-### #is_/same_as :: [Msrp.secret](/_secret/schema-org/Enumeration/Price_Type_Enumeration/Msrp.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Price_Type_Enumeration/Msrp.secret|Msrp.secret]] 
 

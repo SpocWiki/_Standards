@@ -94,17 +94,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Royal%20Oman%20Symphon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orchestra](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Orchestra|Orchestra]] 
 
-### #is_/same_as :: [Orchestra.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.public|Orchestra.public]] 
 
-### #is_/same_as :: [Orchestra.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.internal|Orchestra.internal]] 
 
-### #is_/same_as :: [Orchestra.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.protect|Orchestra.protect]] 
 
-### #is_/same_as :: [Orchestra.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.private|Orchestra.private]] 
 
-### #is_/same_as :: [Orchestra.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.personal|Orchestra.personal]] 
 
-### #is_/same_as :: [Orchestra.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Orchestra.secret|Orchestra.secret]] 
 

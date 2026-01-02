@@ -100,17 +100,17 @@ ZVG_number: 7660
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dysprosium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Dysprosium|Dysprosium]] 
 
-### #is_/same_as :: [Dysprosium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Dysprosium.public|Dysprosium.public]] 
 
-### #is_/same_as :: [Dysprosium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.internal|Dysprosium.internal]] 
 
-### #is_/same_as :: [Dysprosium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Dysprosium.protect|Dysprosium.protect]] 
 
-### #is_/same_as :: [Dysprosium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Dysprosium.private|Dysprosium.private]] 
 
-### #is_/same_as :: [Dysprosium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Dysprosium.personal|Dysprosium.personal]] 
 
-### #is_/same_as :: [Dysprosium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Dysprosium.secret|Dysprosium.secret]] 
 

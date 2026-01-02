@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_meal_service](/_Standards/schema-org/Property/Texts/has_meal_service.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_meal_service|has_meal_service]] 
 
-### #is_/same_as :: [has_meal_service.public](/_public/schema-org/Property/Texts/has_meal_service.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_meal_service.public|has_meal_service.public]] 
 
-### #is_/same_as :: [has_meal_service.internal](/_internal/schema-org/Property/Texts/has_meal_service.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_meal_service.internal|has_meal_service.internal]] 
 
-### #is_/same_as :: [has_meal_service.protect](/_protect/schema-org/Property/Texts/has_meal_service.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_meal_service.protect|has_meal_service.protect]] 
 
-### #is_/same_as :: [has_meal_service.private](/_private/schema-org/Property/Texts/has_meal_service.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_meal_service.private|has_meal_service.private]] 
 
-### #is_/same_as :: [has_meal_service.personal](/_personal/schema-org/Property/Texts/has_meal_service.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_meal_service.personal|has_meal_service.personal]] 
 
-### #is_/same_as :: [has_meal_service.secret](/_secret/schema-org/Property/Texts/has_meal_service.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_meal_service.secret|has_meal_service.secret]] 
 

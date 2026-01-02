@@ -70,17 +70,17 @@ inception: 1922-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reader's_Digest](/_Standards/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Reader's_Digest|Reader's_Digest]] 
 
-### #is_/same_as :: [Reader's_Digest.public](/_public/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.public|Reader's_Digest.public]] 
 
-### #is_/same_as :: [Reader's_Digest.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.internal|Reader's_Digest.internal]] 
 
-### #is_/same_as :: [Reader's_Digest.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.protect|Reader's_Digest.protect]] 
 
-### #is_/same_as :: [Reader's_Digest.private](/_private/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.private|Reader's_Digest.private]] 
 
-### #is_/same_as :: [Reader's_Digest.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.personal|Reader's_Digest.personal]] 
 
-### #is_/same_as :: [Reader's_Digest.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Reader's_Digest.secret|Reader's_Digest.secret]] 
 

@@ -44,17 +44,17 @@ This has multiple Benefits:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naur,Peter](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter|Naur,Peter]] 
 
-### #is_/same_as :: [Naur,Peter.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.public|Naur,Peter.public]] 
 
-### #is_/same_as :: [Naur,Peter.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.internal|Naur,Peter.internal]] 
 
-### #is_/same_as :: [Naur,Peter.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.protect|Naur,Peter.protect]] 
 
-### #is_/same_as :: [Naur,Peter.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.private|Naur,Peter.private]] 
 
-### #is_/same_as :: [Naur,Peter.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.personal|Naur,Peter.personal]] 
 
-### #is_/same_as :: [Naur,Peter.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/Naur,Peter.secret|Naur,Peter.secret]] 
 

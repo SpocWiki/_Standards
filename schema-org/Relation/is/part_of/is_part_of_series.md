@@ -47,17 +47,17 @@ The series to which this episode or season belongs.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_part_of_series](/_Standards/schema-org/Relation/is/part_of/is_part_of_series.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/part_of/is_part_of_series|is_part_of_series]] 
 
-### #is_/same_as :: [is_part_of_series.public](/_public/schema-org/Relation/is/part_of/is_part_of_series.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/part_of/is_part_of_series.public|is_part_of_series.public]] 
 
-### #is_/same_as :: [is_part_of_series.internal](/_internal/schema-org/Relation/is/part_of/is_part_of_series.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/part_of/is_part_of_series.internal|is_part_of_series.internal]] 
 
-### #is_/same_as :: [is_part_of_series.protect](/_protect/schema-org/Relation/is/part_of/is_part_of_series.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/part_of/is_part_of_series.protect|is_part_of_series.protect]] 
 
-### #is_/same_as :: [is_part_of_series.private](/_private/schema-org/Relation/is/part_of/is_part_of_series.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/part_of/is_part_of_series.private|is_part_of_series.private]] 
 
-### #is_/same_as :: [is_part_of_series.personal](/_personal/schema-org/Relation/is/part_of/is_part_of_series.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/part_of/is_part_of_series.personal|is_part_of_series.personal]] 
 
-### #is_/same_as :: [is_part_of_series.secret](/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/part_of/is_part_of_series.secret|is_part_of_series.secret]] 
 

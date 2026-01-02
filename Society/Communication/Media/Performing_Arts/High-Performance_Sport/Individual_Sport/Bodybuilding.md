@@ -56,17 +56,17 @@ Dewey_Decimal_Classification: "613.713"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bodybuilding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding|Bodybuilding]] 
 
-### #is_/same_as :: [Bodybuilding.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.public|Bodybuilding.public]] 
 
-### #is_/same_as :: [Bodybuilding.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.internal|Bodybuilding.internal]] 
 
-### #is_/same_as :: [Bodybuilding.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.protect|Bodybuilding.protect]] 
 
-### #is_/same_as :: [Bodybuilding.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.private|Bodybuilding.private]] 
 
-### #is_/same_as :: [Bodybuilding.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.personal|Bodybuilding.personal]] 
 
-### #is_/same_as :: [Bodybuilding.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Bodybuilding.secret|Bodybuilding.secret]] 
 

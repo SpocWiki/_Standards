@@ -66,17 +66,17 @@ Both tools are powerful and capable, and the choice between them often comes dow
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SW~Terraform](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform|SW~Terraform]] 
 
-### #is_/same_as :: [SW~Terraform.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.public|SW~Terraform.public]] 
 
-### #is_/same_as :: [SW~Terraform.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.internal|SW~Terraform.internal]] 
 
-### #is_/same_as :: [SW~Terraform.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.protect|SW~Terraform.protect]] 
 
-### #is_/same_as :: [SW~Terraform.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.private|SW~Terraform.private]] 
 
-### #is_/same_as :: [SW~Terraform.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.personal|SW~Terraform.personal]] 
 
-### #is_/same_as :: [SW~Terraform.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/SW~Terraform.secret|SW~Terraform.secret]] 
 

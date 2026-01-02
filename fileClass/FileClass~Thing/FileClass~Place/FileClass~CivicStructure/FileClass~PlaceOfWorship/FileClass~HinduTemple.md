@@ -37,17 +37,17 @@ A Hindu temple.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HinduTemple](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple|FileClass~HinduTemple]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.public|FileClass~HinduTemple.public]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.internal|FileClass~HinduTemple.internal]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.protect|FileClass~HinduTemple.protect]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.private|FileClass~HinduTemple.private]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.personal|FileClass~HinduTemple.personal]] 
 
-### #is_/same_as :: [FileClass~HinduTemple.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~PlaceOfWorship/FileClass~HinduTemple.secret|FileClass~HinduTemple.secret]] 
 

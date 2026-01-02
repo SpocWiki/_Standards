@@ -33,17 +33,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~3-Network](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network|OSI~3-Network]] 
 
-### #is_/same_as :: [OSI~3-Network.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.public|OSI~3-Network.public]] 
 
-### #is_/same_as :: [OSI~3-Network.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.internal|OSI~3-Network.internal]] 
 
-### #is_/same_as :: [OSI~3-Network.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.protect|OSI~3-Network.protect]] 
 
-### #is_/same_as :: [OSI~3-Network.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.private|OSI~3-Network.private]] 
 
-### #is_/same_as :: [OSI~3-Network.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.personal|OSI~3-Network.personal]] 
 
-### #is_/same_as :: [OSI~3-Network.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~3-Network.secret|OSI~3-Network.secret]] 
 

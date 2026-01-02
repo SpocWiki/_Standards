@@ -33,17 +33,17 @@ Notably [[RabbitMQ]] is written in [[Prog~Erlang]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Erlang](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang|Prog~Erlang]] 
 
-### #is_/same_as :: [Prog~Erlang.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.public|Prog~Erlang.public]] 
 
-### #is_/same_as :: [Prog~Erlang.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.internal|Prog~Erlang.internal]] 
 
-### #is_/same_as :: [Prog~Erlang.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.protect|Prog~Erlang.protect]] 
 
-### #is_/same_as :: [Prog~Erlang.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.private|Prog~Erlang.private]] 
 
-### #is_/same_as :: [Prog~Erlang.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.personal|Prog~Erlang.personal]] 
 
-### #is_/same_as :: [Prog~Erlang.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~LISP/Prog~Erlang.secret|Prog~Erlang.secret]] 
 

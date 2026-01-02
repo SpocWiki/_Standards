@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Macron,Emmanuel](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel|Macron,Emmanuel]] 
 
-### #is_/same_as :: [Macron,Emmanuel.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.public|Macron,Emmanuel.public]] 
 
-### #is_/same_as :: [Macron,Emmanuel.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.internal|Macron,Emmanuel.internal]] 
 
-### #is_/same_as :: [Macron,Emmanuel.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.protect|Macron,Emmanuel.protect]] 
 
-### #is_/same_as :: [Macron,Emmanuel.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.private|Macron,Emmanuel.private]] 
 
-### #is_/same_as :: [Macron,Emmanuel.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.personal|Macron,Emmanuel.personal]] 
 
-### #is_/same_as :: [Macron,Emmanuel.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Macron,Emmanuel.secret|Macron,Emmanuel.secret]] 
 

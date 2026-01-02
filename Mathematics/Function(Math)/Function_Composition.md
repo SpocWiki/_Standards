@@ -60,17 +60,17 @@ Commons_category: Composition (mappings)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function_Composition](/_Standards/Mathematics/Function(Math)/Function_Composition.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function_Composition|Function_Composition]] 
 
-### #is_/same_as :: [Function_Composition.public](/_public/Mathematics/Function(Math)/Function_Composition.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function_Composition.public|Function_Composition.public]] 
 
-### #is_/same_as :: [Function_Composition.internal](/_internal/Mathematics/Function(Math)/Function_Composition.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function_Composition.internal|Function_Composition.internal]] 
 
-### #is_/same_as :: [Function_Composition.protect](/_protect/Mathematics/Function(Math)/Function_Composition.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function_Composition.protect|Function_Composition.protect]] 
 
-### #is_/same_as :: [Function_Composition.private](/_private/Mathematics/Function(Math)/Function_Composition.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function_Composition.private|Function_Composition.private]] 
 
-### #is_/same_as :: [Function_Composition.personal](/_personal/Mathematics/Function(Math)/Function_Composition.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function_Composition.personal|Function_Composition.personal]] 
 
-### #is_/same_as :: [Function_Composition.secret](/_secret/Mathematics/Function(Math)/Function_Composition.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function_Composition.secret|Function_Composition.secret]] 
 

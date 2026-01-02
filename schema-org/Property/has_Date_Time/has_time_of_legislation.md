@@ -46,17 +46,17 @@ Is [sub_property_of::dateCreated]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_legislation](/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_legislation|has_time_of_legislation]] 
 
-### #is_/same_as :: [has_time_of_legislation.public](/_public/schema-org/Property/has_Date_Time/has_time_of_legislation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_legislation.public|has_time_of_legislation.public]] 
 
-### #is_/same_as :: [has_time_of_legislation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_legislation.internal|has_time_of_legislation.internal]] 
 
-### #is_/same_as :: [has_time_of_legislation.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_legislation.protect|has_time_of_legislation.protect]] 
 
-### #is_/same_as :: [has_time_of_legislation.private](/_private/schema-org/Property/has_Date_Time/has_time_of_legislation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_legislation.private|has_time_of_legislation.private]] 
 
-### #is_/same_as :: [has_time_of_legislation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_legislation.personal|has_time_of_legislation.personal]] 
 
-### #is_/same_as :: [has_time_of_legislation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_legislation.secret|has_time_of_legislation.secret]] 
 

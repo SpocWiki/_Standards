@@ -42,17 +42,17 @@ The status of a reservation on hold pending an update like credit card number or
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Hold](/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold|Reservation_Hold]] 
 
-### #is_/same_as :: [Reservation_Hold.public](/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.public|Reservation_Hold.public]] 
 
-### #is_/same_as :: [Reservation_Hold.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.internal|Reservation_Hold.internal]] 
 
-### #is_/same_as :: [Reservation_Hold.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.protect|Reservation_Hold.protect]] 
 
-### #is_/same_as :: [Reservation_Hold.private](/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.private|Reservation_Hold.private]] 
 
-### #is_/same_as :: [Reservation_Hold.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.personal|Reservation_Hold.personal]] 
 
-### #is_/same_as :: [Reservation_Hold.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Hold.secret|Reservation_Hold.secret]] 
 

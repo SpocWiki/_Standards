@@ -41,17 +41,17 @@ A value indicating a steering position.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steering_Position_Value](/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value|Steering_Position_Value]] 
 
-### #is_/same_as :: [Steering_Position_Value.public](/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.public|Steering_Position_Value.public]] 
 
-### #is_/same_as :: [Steering_Position_Value.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.internal|Steering_Position_Value.internal]] 
 
-### #is_/same_as :: [Steering_Position_Value.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.protect|Steering_Position_Value.protect]] 
 
-### #is_/same_as :: [Steering_Position_Value.private](/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.private|Steering_Position_Value.private]] 
 
-### #is_/same_as :: [Steering_Position_Value.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.personal|Steering_Position_Value.personal]] 
 
-### #is_/same_as :: [Steering_Position_Value.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value.secret|Steering_Position_Value.secret]] 
 

@@ -71,17 +71,17 @@ NBN_System_Key: NHMSYS0000465210
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yucca](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca|Yucca]] 
 
-### #is_/same_as :: [Yucca.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.public|Yucca.public]] 
 
-### #is_/same_as :: [Yucca.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.internal|Yucca.internal]] 
 
-### #is_/same_as :: [Yucca.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.protect|Yucca.protect]] 
 
-### #is_/same_as :: [Yucca.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.private|Yucca.private]] 
 
-### #is_/same_as :: [Yucca.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.personal|Yucca.personal]] 
 
-### #is_/same_as :: [Yucca.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Asparagaceae/Agavoideae/Yucca.secret|Yucca.secret]] 
 

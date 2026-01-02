@@ -5,17 +5,17 @@ Process where a workpiece is reshaped without adding or removing material
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forming](/_Standards/Technology/Engineering/Civil_Engineering/Forming.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Forming|Forming]] 
 
-### #is_/same_as :: [Forming.public](/_public/Technology/Engineering/Civil_Engineering/Forming.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Forming.public|Forming.public]] 
 
-### #is_/same_as :: [Forming.internal](/_internal/Technology/Engineering/Civil_Engineering/Forming.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Forming.internal|Forming.internal]] 
 
-### #is_/same_as :: [Forming.protect](/_protect/Technology/Engineering/Civil_Engineering/Forming.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Forming.protect|Forming.protect]] 
 
-### #is_/same_as :: [Forming.private](/_private/Technology/Engineering/Civil_Engineering/Forming.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Forming.private|Forming.private]] 
 
-### #is_/same_as :: [Forming.personal](/_personal/Technology/Engineering/Civil_Engineering/Forming.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Forming.personal|Forming.personal]] 
 
-### #is_/same_as :: [Forming.secret](/_secret/Technology/Engineering/Civil_Engineering/Forming.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Forming.secret|Forming.secret]] 
 

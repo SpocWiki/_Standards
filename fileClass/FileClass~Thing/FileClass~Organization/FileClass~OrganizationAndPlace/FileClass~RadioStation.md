@@ -37,17 +37,17 @@ A radio station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RadioStation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation|FileClass~RadioStation]] 
 
-### #is_/same_as :: [FileClass~RadioStation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.public|FileClass~RadioStation.public]] 
 
-### #is_/same_as :: [FileClass~RadioStation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.internal|FileClass~RadioStation.internal]] 
 
-### #is_/same_as :: [FileClass~RadioStation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.protect|FileClass~RadioStation.protect]] 
 
-### #is_/same_as :: [FileClass~RadioStation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.private|FileClass~RadioStation.private]] 
 
-### #is_/same_as :: [FileClass~RadioStation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.personal|FileClass~RadioStation.personal]] 
 
-### #is_/same_as :: [FileClass~RadioStation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~RadioStation.secret|FileClass~RadioStation.secret]] 
 

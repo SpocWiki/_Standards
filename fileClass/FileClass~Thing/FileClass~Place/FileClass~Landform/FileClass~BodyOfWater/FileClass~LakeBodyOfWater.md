@@ -37,17 +37,17 @@ A lake (for example, Lake Pontrachain).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater|FileClass~LakeBodyOfWater]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.public|FileClass~LakeBodyOfWater.public]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.internal|FileClass~LakeBodyOfWater.internal]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.protect|FileClass~LakeBodyOfWater.protect]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.private|FileClass~LakeBodyOfWater.private]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.personal|FileClass~LakeBodyOfWater.personal]] 
 
-### #is_/same_as :: [FileClass~LakeBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~LakeBodyOfWater.secret|FileClass~LakeBodyOfWater.secret]] 
 

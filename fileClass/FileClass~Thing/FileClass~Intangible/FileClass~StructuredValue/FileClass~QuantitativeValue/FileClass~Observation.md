@@ -108,17 +108,17 @@ VariableMeasured:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Observation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation|FileClass~Observation]] 
 
-### #is_/same_as :: [FileClass~Observation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.public|FileClass~Observation.public]] 
 
-### #is_/same_as :: [FileClass~Observation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.internal|FileClass~Observation.internal]] 
 
-### #is_/same_as :: [FileClass~Observation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.protect|FileClass~Observation.protect]] 
 
-### #is_/same_as :: [FileClass~Observation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.private|FileClass~Observation.private]] 
 
-### #is_/same_as :: [FileClass~Observation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.personal|FileClass~Observation.personal]] 
 
-### #is_/same_as :: [FileClass~Observation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValue/FileClass~Observation.secret|FileClass~Observation.secret]] 
 

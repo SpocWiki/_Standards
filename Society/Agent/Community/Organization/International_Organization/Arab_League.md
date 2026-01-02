@@ -115,17 +115,17 @@ EU_Corporate_body_code: LEAGUE_ARAB
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arab_League](/_Standards/Society/Agent/Community/Organization/International_Organization/Arab_League.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Arab_League|Arab_League]] 
 
-### #is_/same_as :: [Arab_League.public](/_public/Society/Agent/Community/Organization/International_Organization/Arab_League.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Arab_League.public|Arab_League.public]] 
 
-### #is_/same_as :: [Arab_League.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Arab_League.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Arab_League.internal|Arab_League.internal]] 
 
-### #is_/same_as :: [Arab_League.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Arab_League.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Arab_League.protect|Arab_League.protect]] 
 
-### #is_/same_as :: [Arab_League.private](/_private/Society/Agent/Community/Organization/International_Organization/Arab_League.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Arab_League.private|Arab_League.private]] 
 
-### #is_/same_as :: [Arab_League.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Arab_League.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Arab_League.personal|Arab_League.personal]] 
 
-### #is_/same_as :: [Arab_League.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Arab_League.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Arab_League.secret|Arab_League.secret]] 
 

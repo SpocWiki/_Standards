@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociobiology](/_Standards/bio/Evolution/Sociobiology.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Sociobiology|Sociobiology]] 
 
-### #is_/same_as :: [Sociobiology.public](/_public/bio/Evolution/Sociobiology.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Sociobiology.public|Sociobiology.public]] 
 
-### #is_/same_as :: [Sociobiology.internal](/_internal/bio/Evolution/Sociobiology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Sociobiology.internal|Sociobiology.internal]] 
 
-### #is_/same_as :: [Sociobiology.protect](/_protect/bio/Evolution/Sociobiology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Sociobiology.protect|Sociobiology.protect]] 
 
-### #is_/same_as :: [Sociobiology.private](/_private/bio/Evolution/Sociobiology.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Sociobiology.private|Sociobiology.private]] 
 
-### #is_/same_as :: [Sociobiology.personal](/_personal/bio/Evolution/Sociobiology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Sociobiology.personal|Sociobiology.personal]] 
 
-### #is_/same_as :: [Sociobiology.secret](/_secret/bio/Evolution/Sociobiology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Sociobiology.secret|Sociobiology.secret]] 
 

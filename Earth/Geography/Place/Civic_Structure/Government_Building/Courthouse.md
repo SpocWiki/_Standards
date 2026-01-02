@@ -39,17 +39,17 @@ A courthouse.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Courthouse](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse|Courthouse]] 
 
-### #is_/same_as :: [Courthouse.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.public|Courthouse.public]] 
 
-### #is_/same_as :: [Courthouse.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.internal|Courthouse.internal]] 
 
-### #is_/same_as :: [Courthouse.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.protect|Courthouse.protect]] 
 
-### #is_/same_as :: [Courthouse.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.private|Courthouse.private]] 
 
-### #is_/same_as :: [Courthouse.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.personal|Courthouse.personal]] 
 
-### #is_/same_as :: [Courthouse.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Courthouse.secret|Courthouse.secret]] 
 

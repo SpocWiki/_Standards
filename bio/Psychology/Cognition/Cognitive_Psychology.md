@@ -47,17 +47,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cognitive_Psychology](/_Standards/bio/Psychology/Cognition/Cognitive_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Cognitive_Psychology|Cognitive_Psychology]] 
 
-### #is_/same_as :: [Cognitive_Psychology.public](/_public/bio/Psychology/Cognition/Cognitive_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Cognitive_Psychology.public|Cognitive_Psychology.public]] 
 
-### #is_/same_as :: [Cognitive_Psychology.internal](/_internal/bio/Psychology/Cognition/Cognitive_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Cognitive_Psychology.internal|Cognitive_Psychology.internal]] 
 
-### #is_/same_as :: [Cognitive_Psychology.protect](/_protect/bio/Psychology/Cognition/Cognitive_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Cognitive_Psychology.protect|Cognitive_Psychology.protect]] 
 
-### #is_/same_as :: [Cognitive_Psychology.private](/_private/bio/Psychology/Cognition/Cognitive_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Cognitive_Psychology.private|Cognitive_Psychology.private]] 
 
-### #is_/same_as :: [Cognitive_Psychology.personal](/_personal/bio/Psychology/Cognition/Cognitive_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Cognitive_Psychology.personal|Cognitive_Psychology.personal]] 
 
-### #is_/same_as :: [Cognitive_Psychology.secret](/_secret/bio/Psychology/Cognition/Cognitive_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Cognitive_Psychology.secret|Cognitive_Psychology.secret]] 
 

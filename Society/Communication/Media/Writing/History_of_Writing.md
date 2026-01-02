@@ -25,17 +25,17 @@ Library_of_Congress_Classification: P211-P211.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Writing](/_Standards/Society/Communication/Media/Writing/History_of_Writing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/History_of_Writing|History_of_Writing]] 
 
-### #is_/same_as :: [History_of_Writing.public](/_public/Society/Communication/Media/Writing/History_of_Writing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/History_of_Writing.public|History_of_Writing.public]] 
 
-### #is_/same_as :: [History_of_Writing.internal](/_internal/Society/Communication/Media/Writing/History_of_Writing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/History_of_Writing.internal|History_of_Writing.internal]] 
 
-### #is_/same_as :: [History_of_Writing.protect](/_protect/Society/Communication/Media/Writing/History_of_Writing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/History_of_Writing.protect|History_of_Writing.protect]] 
 
-### #is_/same_as :: [History_of_Writing.private](/_private/Society/Communication/Media/Writing/History_of_Writing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/History_of_Writing.private|History_of_Writing.private]] 
 
-### #is_/same_as :: [History_of_Writing.personal](/_personal/Society/Communication/Media/Writing/History_of_Writing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/History_of_Writing.personal|History_of_Writing.personal]] 
 
-### #is_/same_as :: [History_of_Writing.secret](/_secret/Society/Communication/Media/Writing/History_of_Writing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/History_of_Writing.secret|History_of_Writing.secret]] 
 

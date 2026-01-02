@@ -129,17 +129,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deng_Xiaoping](/_Standards/Society/Politics/Government/Leader/Deng_Xiaoping.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Deng_Xiaoping|Deng_Xiaoping]] 
 
-### #is_/same_as :: [Deng_Xiaoping.public](/_public/Society/Politics/Government/Leader/Deng_Xiaoping.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Deng_Xiaoping.public|Deng_Xiaoping.public]] 
 
-### #is_/same_as :: [Deng_Xiaoping.internal](/_internal/Society/Politics/Government/Leader/Deng_Xiaoping.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Deng_Xiaoping.internal|Deng_Xiaoping.internal]] 
 
-### #is_/same_as :: [Deng_Xiaoping.protect](/_protect/Society/Politics/Government/Leader/Deng_Xiaoping.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Deng_Xiaoping.protect|Deng_Xiaoping.protect]] 
 
-### #is_/same_as :: [Deng_Xiaoping.private](/_private/Society/Politics/Government/Leader/Deng_Xiaoping.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Deng_Xiaoping.private|Deng_Xiaoping.private]] 
 
-### #is_/same_as :: [Deng_Xiaoping.personal](/_personal/Society/Politics/Government/Leader/Deng_Xiaoping.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Deng_Xiaoping.personal|Deng_Xiaoping.personal]] 
 
-### #is_/same_as :: [Deng_Xiaoping.secret](/_secret/Society/Politics/Government/Leader/Deng_Xiaoping.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Deng_Xiaoping.secret|Deng_Xiaoping.secret]] 
 

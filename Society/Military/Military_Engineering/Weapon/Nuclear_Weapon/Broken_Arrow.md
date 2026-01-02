@@ -51,17 +51,17 @@ Die vierte Bombe geht verloren.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broken_Arrow](/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow|Broken_Arrow]] 
 
-### #is_/same_as :: [Broken_Arrow.public](/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.public|Broken_Arrow.public]] 
 
-### #is_/same_as :: [Broken_Arrow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.internal|Broken_Arrow.internal]] 
 
-### #is_/same_as :: [Broken_Arrow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.protect|Broken_Arrow.protect]] 
 
-### #is_/same_as :: [Broken_Arrow.private](/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.private|Broken_Arrow.private]] 
 
-### #is_/same_as :: [Broken_Arrow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.personal|Broken_Arrow.personal]] 
 
-### #is_/same_as :: [Broken_Arrow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon/Broken_Arrow.secret|Broken_Arrow.secret]] 
 

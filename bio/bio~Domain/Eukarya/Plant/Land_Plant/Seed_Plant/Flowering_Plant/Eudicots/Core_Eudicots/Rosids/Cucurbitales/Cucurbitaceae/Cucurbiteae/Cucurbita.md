@@ -62,17 +62,17 @@ vocalized_name: דְּלַעַת
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cucurbita](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita|Cucurbita]] 
 
-### #is_/same_as :: [Cucurbita.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.public|Cucurbita.public]] 
 
-### #is_/same_as :: [Cucurbita.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.internal|Cucurbita.internal]] 
 
-### #is_/same_as :: [Cucurbita.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.protect|Cucurbita.protect]] 
 
-### #is_/same_as :: [Cucurbita.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.private|Cucurbita.private]] 
 
-### #is_/same_as :: [Cucurbita.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.personal|Cucurbita.personal]] 
 
-### #is_/same_as :: [Cucurbita.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Cucurbiteae/Cucurbita.secret|Cucurbita.secret]] 
 

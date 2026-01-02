@@ -64,17 +64,17 @@ OpenStreetMap_tag: support=scaffold
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scaffold](/_Standards/Technology/Tool/Mechanical_Tool/Scaffold.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Scaffold|Scaffold]] 
 
-### #is_/same_as :: [Scaffold.public](/_public/Technology/Tool/Mechanical_Tool/Scaffold.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Scaffold.public|Scaffold.public]] 
 
-### #is_/same_as :: [Scaffold.internal](/_internal/Technology/Tool/Mechanical_Tool/Scaffold.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Scaffold.internal|Scaffold.internal]] 
 
-### #is_/same_as :: [Scaffold.protect](/_protect/Technology/Tool/Mechanical_Tool/Scaffold.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Scaffold.protect|Scaffold.protect]] 
 
-### #is_/same_as :: [Scaffold.private](/_private/Technology/Tool/Mechanical_Tool/Scaffold.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Scaffold.private|Scaffold.private]] 
 
-### #is_/same_as :: [Scaffold.personal](/_personal/Technology/Tool/Mechanical_Tool/Scaffold.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Scaffold.personal|Scaffold.personal]] 
 
-### #is_/same_as :: [Scaffold.secret](/_secret/Technology/Tool/Mechanical_Tool/Scaffold.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Scaffold.secret|Scaffold.secret]] 
 

@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_knowing](/_Standards/schema-org/Relation/is/is_knowing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_knowing|is_knowing]] 
 
-### #is_/same_as :: [is_knowing.public](/_public/schema-org/Relation/is/is_knowing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_knowing.public|is_knowing.public]] 
 
-### #is_/same_as :: [is_knowing.internal](/_internal/schema-org/Relation/is/is_knowing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_knowing.internal|is_knowing.internal]] 
 
-### #is_/same_as :: [is_knowing.protect](/_protect/schema-org/Relation/is/is_knowing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_knowing.protect|is_knowing.protect]] 
 
-### #is_/same_as :: [is_knowing.private](/_private/schema-org/Relation/is/is_knowing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_knowing.private|is_knowing.private]] 
 
-### #is_/same_as :: [is_knowing.personal](/_personal/schema-org/Relation/is/is_knowing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_knowing.personal|is_knowing.personal]] 
 
-### #is_/same_as :: [is_knowing.secret](/_secret/schema-org/Relation/is/is_knowing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_knowing.secret|is_knowing.secret]] 
 

@@ -49,17 +49,17 @@ IPTC_NewsCode: mediatopic/20000070
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coup_d'état](/_Standards/Society/Politics/Government/Coup_d'état.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Coup_d'état|Coup_d'état]] 
 
-### #is_/same_as :: [Coup_d'état.public](/_public/Society/Politics/Government/Coup_d'état.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Coup_d'état.public|Coup_d'état.public]] 
 
-### #is_/same_as :: [Coup_d'état.internal](/_internal/Society/Politics/Government/Coup_d'état.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Coup_d'état.internal|Coup_d'état.internal]] 
 
-### #is_/same_as :: [Coup_d'état.protect](/_protect/Society/Politics/Government/Coup_d'état.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Coup_d'état.protect|Coup_d'état.protect]] 
 
-### #is_/same_as :: [Coup_d'état.private](/_private/Society/Politics/Government/Coup_d'état.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Coup_d'état.private|Coup_d'état.private]] 
 
-### #is_/same_as :: [Coup_d'état.personal](/_personal/Society/Politics/Government/Coup_d'état.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Coup_d'état.personal|Coup_d'état.personal]] 
 
-### #is_/same_as :: [Coup_d'état.secret](/_secret/Society/Politics/Government/Coup_d'état.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Coup_d'état.secret|Coup_d'état.secret]] 
 

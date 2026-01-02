@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang](/_Standards/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Weisstein,Eric_Wolfgang|Weisstein,Eric_Wolfgang]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.public](/_public/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.public|Weisstein,Eric_Wolfgang.public]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.internal](/_internal/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.internal|Weisstein,Eric_Wolfgang.internal]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.protect](/_protect/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.protect|Weisstein,Eric_Wolfgang.protect]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.private](/_private/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.private|Weisstein,Eric_Wolfgang.private]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.personal](/_personal/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.personal|Weisstein,Eric_Wolfgang.personal]] 
 
-### #is_/same_as :: [Weisstein,Eric_Wolfgang.secret](/_secret/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Weisstein,Eric_Wolfgang.secret|Weisstein,Eric_Wolfgang.secret]] 
 

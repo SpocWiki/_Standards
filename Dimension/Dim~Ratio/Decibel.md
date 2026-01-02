@@ -72,17 +72,17 @@ Common thresholds are
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decibel](/_Standards/Dimension/Dim~Ratio/Decibel.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Ratio/Decibel|Decibel]] 
 
-### #is_/same_as :: [Decibel.public](/_public/Dimension/Dim~Ratio/Decibel.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Ratio/Decibel.public|Decibel.public]] 
 
-### #is_/same_as :: [Decibel.internal](/_internal/Dimension/Dim~Ratio/Decibel.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Ratio/Decibel.internal|Decibel.internal]] 
 
-### #is_/same_as :: [Decibel.protect](/_protect/Dimension/Dim~Ratio/Decibel.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Ratio/Decibel.protect|Decibel.protect]] 
 
-### #is_/same_as :: [Decibel.private](/_private/Dimension/Dim~Ratio/Decibel.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Ratio/Decibel.private|Decibel.private]] 
 
-### #is_/same_as :: [Decibel.personal](/_personal/Dimension/Dim~Ratio/Decibel.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Ratio/Decibel.personal|Decibel.personal]] 
 
-### #is_/same_as :: [Decibel.secret](/_secret/Dimension/Dim~Ratio/Decibel.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Ratio/Decibel.secret|Decibel.secret]] 
 

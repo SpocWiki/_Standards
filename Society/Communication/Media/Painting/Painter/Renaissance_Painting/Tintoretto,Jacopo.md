@@ -260,17 +260,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/29260
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tintoretto,Jacopo](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo|Tintoretto,Jacopo]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.public|Tintoretto,Jacopo.public]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.internal|Tintoretto,Jacopo.internal]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.protect|Tintoretto,Jacopo.protect]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.private|Tintoretto,Jacopo.private]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.personal|Tintoretto,Jacopo.personal]] 
 
-### #is_/same_as :: [Tintoretto,Jacopo.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Tintoretto,Jacopo.secret|Tintoretto,Jacopo.secret]] 
 

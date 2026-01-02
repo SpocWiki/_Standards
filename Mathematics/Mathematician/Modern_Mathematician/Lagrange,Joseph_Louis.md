@@ -160,17 +160,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis|Lagrange,Joseph_Louis]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.public|Lagrange,Joseph_Louis.public]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.internal|Lagrange,Joseph_Louis.internal]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.protect|Lagrange,Joseph_Louis.protect]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.private|Lagrange,Joseph_Louis.private]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.personal|Lagrange,Joseph_Louis.personal]] 
 
-### #is_/same_as :: [Lagrange,Joseph_Louis.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Lagrange,Joseph_Louis.secret|Lagrange,Joseph_Louis.secret]] 
 

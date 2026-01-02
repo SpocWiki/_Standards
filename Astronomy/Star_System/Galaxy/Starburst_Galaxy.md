@@ -40,17 +40,17 @@ Commons_category: Starburst galaxies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starburst_Galaxy](/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Starburst_Galaxy|Starburst_Galaxy]] 
 
-### #is_/same_as :: [Starburst_Galaxy.public](/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Starburst_Galaxy.public|Starburst_Galaxy.public]] 
 
-### #is_/same_as :: [Starburst_Galaxy.internal](/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.internal|Starburst_Galaxy.internal]] 
 
-### #is_/same_as :: [Starburst_Galaxy.protect](/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Starburst_Galaxy.protect|Starburst_Galaxy.protect]] 
 
-### #is_/same_as :: [Starburst_Galaxy.private](/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Starburst_Galaxy.private|Starburst_Galaxy.private]] 
 
-### #is_/same_as :: [Starburst_Galaxy.personal](/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Starburst_Galaxy.personal|Starburst_Galaxy.personal]] 
 
-### #is_/same_as :: [Starburst_Galaxy.secret](/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Starburst_Galaxy.secret|Starburst_Galaxy.secret]] 
 

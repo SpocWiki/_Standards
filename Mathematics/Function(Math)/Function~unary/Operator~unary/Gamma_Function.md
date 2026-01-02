@@ -52,17 +52,17 @@ Commons_category: Gamma and related functions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gamma_Function](Gamma_Function.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function|Gamma_Function]] 
 
-### #is_/same_as :: [Gamma_Function.public](/_public/Mathematics/Function(Math)/Function~unary/Gamma_Function.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.public|Gamma_Function.public]] 
 
-### #is_/same_as :: [Gamma_Function.internal](/_internal/Mathematics/Function(Math)/Function~unary/Gamma_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.internal|Gamma_Function.internal]] 
 
-### #is_/same_as :: [Gamma_Function.protect](/_protect/Mathematics/Function(Math)/Function~unary/Gamma_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.protect|Gamma_Function.protect]] 
 
-### #is_/same_as :: [Gamma_Function.private](/_private/Mathematics/Function(Math)/Function~unary/Gamma_Function.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.private|Gamma_Function.private]] 
 
-### #is_/same_as :: [Gamma_Function.personal](/_personal/Mathematics/Function(Math)/Function~unary/Gamma_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.personal|Gamma_Function.personal]] 
 
-### #is_/same_as :: [Gamma_Function.secret](/_secret/Mathematics/Function(Math)/Function~unary/Gamma_Function.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary/Gamma_Function.secret|Gamma_Function.secret]] 
 

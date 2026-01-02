@@ -84,17 +84,17 @@ publication_date: 1812-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hansel_and_Gretel](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel|Hansel_and_Gretel]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.public|Hansel_and_Gretel.public]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.internal|Hansel_and_Gretel.internal]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.protect|Hansel_and_Gretel.protect]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.private|Hansel_and_Gretel.private]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.personal|Hansel_and_Gretel.personal]] 
 
-### #is_/same_as :: [Hansel_and_Gretel.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Hansel_and_Gretel.secret|Hansel_and_Gretel.secret]] 
 

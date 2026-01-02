@@ -37,17 +37,17 @@ The act of arriving at a place. An agent arrives at a destination from a fromLoc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ArriveAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction|FileClass~ArriveAction]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.public|FileClass~ArriveAction.public]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.internal|FileClass~ArriveAction.internal]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.protect|FileClass~ArriveAction.protect]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.private|FileClass~ArriveAction.private]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.personal|FileClass~ArriveAction.personal]] 
 
-### #is_/same_as :: [FileClass~ArriveAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~MoveAction/FileClass~ArriveAction.secret|FileClass~ArriveAction.secret]] 
 

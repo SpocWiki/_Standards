@@ -50,17 +50,17 @@ Commons_category: Remember (Irving Berlin song)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song)|Remember(Irving_Berlin_song)]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).public|Remember(Irving_Berlin_song).public]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).internal|Remember(Irving_Berlin_song).internal]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).protect|Remember(Irving_Berlin_song).protect]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).private|Remember(Irving_Berlin_song).private]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).personal|Remember(Irving_Berlin_song).personal]] 
 
-### #is_/same_as :: [Remember(Irving_Berlin_song).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Remember(Irving_Berlin_song).secret|Remember(Irving_Berlin_song).secret]] 
 

@@ -58,17 +58,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Aztec%20solar%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mesoamerica](/_Standards/Earth/Continent/America~Central/Mesoamerica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]] 
 
-### #is_/same_as :: [Mesoamerica.public](/_public/Earth/Continent/America~Central/Mesoamerica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]] 
 
-### #is_/same_as :: [Mesoamerica.internal](/_internal/Earth/Continent/America~Central/Mesoamerica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]] 
 
-### #is_/same_as :: [Mesoamerica.protect](/_protect/Earth/Continent/America~Central/Mesoamerica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Mesoamerica.protect|Mesoamerica.protect]] 
 
-### #is_/same_as :: [Mesoamerica.private](/_private/Earth/Continent/America~Central/Mesoamerica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Mesoamerica.private|Mesoamerica.private]] 
 
-### #is_/same_as :: [Mesoamerica.personal](/_personal/Earth/Continent/America~Central/Mesoamerica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Mesoamerica.personal|Mesoamerica.personal]] 
 
-### #is_/same_as :: [Mesoamerica.secret](/_secret/Earth/Continent/America~Central/Mesoamerica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]] 
 

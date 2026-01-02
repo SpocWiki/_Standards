@@ -127,17 +127,17 @@ Regensburg_Classification: SF 2740
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fourier,Joseph](/_Standards/Mathematics/Mathematician/Fourier,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Fourier,Joseph|Fourier,Joseph]] 
 
-### #is_/same_as :: [Fourier,Joseph.public](/_public/Mathematics/Mathematician/Fourier,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Fourier,Joseph.public|Fourier,Joseph.public]] 
 
-### #is_/same_as :: [Fourier,Joseph.internal](/_internal/Mathematics/Mathematician/Fourier,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Fourier,Joseph.internal|Fourier,Joseph.internal]] 
 
-### #is_/same_as :: [Fourier,Joseph.protect](/_protect/Mathematics/Mathematician/Fourier,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Fourier,Joseph.protect|Fourier,Joseph.protect]] 
 
-### #is_/same_as :: [Fourier,Joseph.private](/_private/Mathematics/Mathematician/Fourier,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Fourier,Joseph.private|Fourier,Joseph.private]] 
 
-### #is_/same_as :: [Fourier,Joseph.personal](/_personal/Mathematics/Mathematician/Fourier,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Fourier,Joseph.personal|Fourier,Joseph.personal]] 
 
-### #is_/same_as :: [Fourier,Joseph.secret](/_secret/Mathematics/Mathematician/Fourier,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Fourier,Joseph.secret|Fourier,Joseph.secret]] 
 

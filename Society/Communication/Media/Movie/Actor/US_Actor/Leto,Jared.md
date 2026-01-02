@@ -54,17 +54,17 @@ The Fan-Base names itself the Echelon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leto,Jared](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared|Leto,Jared]] 
 
-### #is_/same_as :: [Leto,Jared.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.public|Leto,Jared.public]] 
 
-### #is_/same_as :: [Leto,Jared.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.internal|Leto,Jared.internal]] 
 
-### #is_/same_as :: [Leto,Jared.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.protect|Leto,Jared.protect]] 
 
-### #is_/same_as :: [Leto,Jared.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.private|Leto,Jared.private]] 
 
-### #is_/same_as :: [Leto,Jared.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.personal|Leto,Jared.personal]] 
 
-### #is_/same_as :: [Leto,Jared.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Leto,Jared.secret|Leto,Jared.secret]] 
 

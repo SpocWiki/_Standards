@@ -34,17 +34,17 @@ Commons_category: Syllabaries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syllabary](/_Standards/Language/Linguistics/Syllabary.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Syllabary|Syllabary]] 
 
-### #is_/same_as :: [Syllabary.public](/_public/Language/Linguistics/Syllabary.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Syllabary.public|Syllabary.public]] 
 
-### #is_/same_as :: [Syllabary.internal](/_internal/Language/Linguistics/Syllabary.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Syllabary.internal|Syllabary.internal]] 
 
-### #is_/same_as :: [Syllabary.protect](/_protect/Language/Linguistics/Syllabary.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Syllabary.protect|Syllabary.protect]] 
 
-### #is_/same_as :: [Syllabary.private](/_private/Language/Linguistics/Syllabary.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Syllabary.private|Syllabary.private]] 
 
-### #is_/same_as :: [Syllabary.personal](/_personal/Language/Linguistics/Syllabary.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Syllabary.personal|Syllabary.personal]] 
 
-### #is_/same_as :: [Syllabary.secret](/_secret/Language/Linguistics/Syllabary.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Syllabary.secret|Syllabary.secret]] 
 

@@ -41,17 +41,17 @@ A [[LiveBlogPosting]] is a [[BlogPosting]] intended to provide a rolling textual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Live_Blog_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting|Live_Blog_Posting]] 
 
-### #is_/same_as :: [Live_Blog_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.public|Live_Blog_Posting.public]] 
 
-### #is_/same_as :: [Live_Blog_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.internal|Live_Blog_Posting.internal]] 
 
-### #is_/same_as :: [Live_Blog_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.protect|Live_Blog_Posting.protect]] 
 
-### #is_/same_as :: [Live_Blog_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.private|Live_Blog_Posting.private]] 
 
-### #is_/same_as :: [Live_Blog_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.personal|Live_Blog_Posting.personal]] 
 
-### #is_/same_as :: [Live_Blog_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting/Live_Blog_Posting.secret|Live_Blog_Posting.secret]] 
 

@@ -181,17 +181,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Borges,Jorge_Luis](/_Standards/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis|Borges,Jorge_Luis]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.public](/_public/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.public|Borges,Jorge_Luis.public]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.internal|Borges,Jorge_Luis.internal]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.protect|Borges,Jorge_Luis.protect]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.private](/_private/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.private|Borges,Jorge_Luis.private]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.personal|Borges,Jorge_Luis.personal]] 
 
-### #is_/same_as :: [Borges,Jorge_Luis.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Latin-American_Writer/Borges,Jorge_Luis.secret|Borges,Jorge_Luis.secret]] 
 

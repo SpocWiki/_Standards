@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cesia(Optics)](/_Standards/Science/Physics/Wave/Optics/Cesia(Optics).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Cesia(Optics)|Cesia(Optics)]] 
 
-### #is_/same_as :: [Cesia(Optics).public](/_public/Science/Physics/Wave/Optics/Cesia(Optics).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Cesia(Optics).public|Cesia(Optics).public]] 
 
-### #is_/same_as :: [Cesia(Optics).internal](/_internal/Science/Physics/Wave/Optics/Cesia(Optics).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Cesia(Optics).internal|Cesia(Optics).internal]] 
 
-### #is_/same_as :: [Cesia(Optics).protect](/_protect/Science/Physics/Wave/Optics/Cesia(Optics).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Cesia(Optics).protect|Cesia(Optics).protect]] 
 
-### #is_/same_as :: [Cesia(Optics).private](/_private/Science/Physics/Wave/Optics/Cesia(Optics).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Cesia(Optics).private|Cesia(Optics).private]] 
 
-### #is_/same_as :: [Cesia(Optics).personal](/_personal/Science/Physics/Wave/Optics/Cesia(Optics).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Cesia(Optics).personal|Cesia(Optics).personal]] 
 
-### #is_/same_as :: [Cesia(Optics).secret](/_secret/Science/Physics/Wave/Optics/Cesia(Optics).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Cesia(Optics).secret|Cesia(Optics).secret]] 
 

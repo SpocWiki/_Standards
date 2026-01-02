@@ -62,17 +62,17 @@ This is about Instances of Construction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Construction(Process)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Construction(Process)|Construction(Process)]] 
 
-### #is_/same_as :: [Construction(Process).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).public|Construction(Process).public]] 
 
-### #is_/same_as :: [Construction(Process).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).internal|Construction(Process).internal]] 
 
-### #is_/same_as :: [Construction(Process).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).protect|Construction(Process).protect]] 
 
-### #is_/same_as :: [Construction(Process).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).private|Construction(Process).private]] 
 
-### #is_/same_as :: [Construction(Process).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).personal|Construction(Process).personal]] 
 
-### #is_/same_as :: [Construction(Process).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Construction(Process).secret|Construction(Process).secret]] 
 

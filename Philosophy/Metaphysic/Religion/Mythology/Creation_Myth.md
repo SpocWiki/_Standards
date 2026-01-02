@@ -44,17 +44,17 @@ Provenio_UUID: d7a6f1bb-08aa-472d-890e-c604ed8f3f81
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creation_Myth](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth|Creation_Myth]] 
 
-### #is_/same_as :: [Creation_Myth.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.public|Creation_Myth.public]] 
 
-### #is_/same_as :: [Creation_Myth.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.internal|Creation_Myth.internal]] 
 
-### #is_/same_as :: [Creation_Myth.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.protect|Creation_Myth.protect]] 
 
-### #is_/same_as :: [Creation_Myth.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.private|Creation_Myth.private]] 
 
-### #is_/same_as :: [Creation_Myth.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.personal|Creation_Myth.personal]] 
 
-### #is_/same_as :: [Creation_Myth.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Creation_Myth.secret|Creation_Myth.secret]] 
 

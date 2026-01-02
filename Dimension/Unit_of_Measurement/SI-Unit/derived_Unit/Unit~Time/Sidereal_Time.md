@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sidereal_Time](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time|Sidereal_Time]] 
 
-### #is_/same_as :: [Sidereal_Time.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.public|Sidereal_Time.public]] 
 
-### #is_/same_as :: [Sidereal_Time.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.internal|Sidereal_Time.internal]] 
 
-### #is_/same_as :: [Sidereal_Time.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.protect|Sidereal_Time.protect]] 
 
-### #is_/same_as :: [Sidereal_Time.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.private|Sidereal_Time.private]] 
 
-### #is_/same_as :: [Sidereal_Time.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.personal|Sidereal_Time.personal]] 
 
-### #is_/same_as :: [Sidereal_Time.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Sidereal_Time.secret|Sidereal_Time.secret]] 
 

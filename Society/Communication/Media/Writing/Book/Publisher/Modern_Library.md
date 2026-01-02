@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modern_Library](/_Standards/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Publisher/Modern_Library|Modern_Library]] 
 
-### #is_/same_as :: [Modern_Library.public](/_public/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.public|Modern_Library.public]] 
 
-### #is_/same_as :: [Modern_Library.internal](/_internal/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.internal|Modern_Library.internal]] 
 
-### #is_/same_as :: [Modern_Library.protect](/_protect/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.protect|Modern_Library.protect]] 
 
-### #is_/same_as :: [Modern_Library.private](/_private/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.private|Modern_Library.private]] 
 
-### #is_/same_as :: [Modern_Library.personal](/_personal/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.personal|Modern_Library.personal]] 
 
-### #is_/same_as :: [Modern_Library.secret](/_secret/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Publisher/Modern_Library.secret|Modern_Library.secret]] 
 

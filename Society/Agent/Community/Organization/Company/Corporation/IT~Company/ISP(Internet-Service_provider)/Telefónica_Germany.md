@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Telefónica_Germany](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany|Telefónica_Germany]] 
 
-### #is_/same_as :: [Telefónica_Germany.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.public|Telefónica_Germany.public]] 
 
-### #is_/same_as :: [Telefónica_Germany.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.internal|Telefónica_Germany.internal]] 
 
-### #is_/same_as :: [Telefónica_Germany.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.protect|Telefónica_Germany.protect]] 
 
-### #is_/same_as :: [Telefónica_Germany.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.private|Telefónica_Germany.private]] 
 
-### #is_/same_as :: [Telefónica_Germany.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.personal|Telefónica_Germany.personal]] 
 
-### #is_/same_as :: [Telefónica_Germany.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/ISP(Internet-Service_provider)/Telefónica_Germany.secret|Telefónica_Germany.secret]] 
 

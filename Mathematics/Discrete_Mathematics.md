@@ -57,17 +57,17 @@ Baidu_Tieba_name: 离散数学
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discrete_Mathematics](/_Standards/Mathematics/Discrete_Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Discrete_Mathematics|Discrete_Mathematics]] 
 
-### #is_/same_as :: [Discrete_Mathematics.public](/_public/Mathematics/Discrete_Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Discrete_Mathematics.public|Discrete_Mathematics.public]] 
 
-### #is_/same_as :: [Discrete_Mathematics.internal](/_internal/Mathematics/Discrete_Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Discrete_Mathematics.internal|Discrete_Mathematics.internal]] 
 
-### #is_/same_as :: [Discrete_Mathematics.protect](/_protect/Mathematics/Discrete_Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Discrete_Mathematics.protect|Discrete_Mathematics.protect]] 
 
-### #is_/same_as :: [Discrete_Mathematics.private](/_private/Mathematics/Discrete_Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Discrete_Mathematics.private|Discrete_Mathematics.private]] 
 
-### #is_/same_as :: [Discrete_Mathematics.personal](/_personal/Mathematics/Discrete_Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Discrete_Mathematics.personal|Discrete_Mathematics.personal]] 
 
-### #is_/same_as :: [Discrete_Mathematics.secret](/_secret/Mathematics/Discrete_Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Discrete_Mathematics.secret|Discrete_Mathematics.secret]] 
 

@@ -57,17 +57,17 @@ OpenStreetMap_tag: generator:type=combined_cycle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant](/_Standards/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant|Combined-Cycle_Power_Plant]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.public](/_public/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.public|Combined-Cycle_Power_Plant.public]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.internal](/_internal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.internal|Combined-Cycle_Power_Plant.internal]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.protect](/_protect/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.protect|Combined-Cycle_Power_Plant.protect]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.private](/_private/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.private|Combined-Cycle_Power_Plant.private]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.personal](/_personal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.personal|Combined-Cycle_Power_Plant.personal]] 
 
-### #is_/same_as :: [Combined-Cycle_Power_Plant.secret](/_secret/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Combined-Cycle_Power_Plant.secret|Combined-Cycle_Power_Plant.secret]] 
 

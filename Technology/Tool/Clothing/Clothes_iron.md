@@ -59,17 +59,17 @@ Commons_category: Flat irons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clothes_iron](/_Standards/Technology/Tool/Clothing/Clothes_iron.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Clothes_iron|Clothes_iron]] 
 
-### #is_/same_as :: [Clothes_iron.public](/_public/Technology/Tool/Clothing/Clothes_iron.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Clothes_iron.public|Clothes_iron.public]] 
 
-### #is_/same_as :: [Clothes_iron.internal](/_internal/Technology/Tool/Clothing/Clothes_iron.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Clothes_iron.internal|Clothes_iron.internal]] 
 
-### #is_/same_as :: [Clothes_iron.protect](/_protect/Technology/Tool/Clothing/Clothes_iron.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Clothes_iron.protect|Clothes_iron.protect]] 
 
-### #is_/same_as :: [Clothes_iron.private](/_private/Technology/Tool/Clothing/Clothes_iron.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Clothes_iron.private|Clothes_iron.private]] 
 
-### #is_/same_as :: [Clothes_iron.personal](/_personal/Technology/Tool/Clothing/Clothes_iron.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Clothes_iron.personal|Clothes_iron.personal]] 
 
-### #is_/same_as :: [Clothes_iron.secret](/_secret/Technology/Tool/Clothing/Clothes_iron.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Clothes_iron.secret|Clothes_iron.secret]] 
 

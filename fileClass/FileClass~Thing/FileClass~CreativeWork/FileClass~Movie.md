@@ -127,17 +127,17 @@ Trailer:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Movie](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie|FileClass~Movie]] 
 
-### #is_/same_as :: [FileClass~Movie.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.public|FileClass~Movie.public]] 
 
-### #is_/same_as :: [FileClass~Movie.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.internal|FileClass~Movie.internal]] 
 
-### #is_/same_as :: [FileClass~Movie.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.protect|FileClass~Movie.protect]] 
 
-### #is_/same_as :: [FileClass~Movie.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.private|FileClass~Movie.private]] 
 
-### #is_/same_as :: [FileClass~Movie.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.personal|FileClass~Movie.personal]] 
 
-### #is_/same_as :: [FileClass~Movie.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Movie.secret|FileClass~Movie.secret]] 
 

@@ -55,17 +55,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/GIROSK
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gyroscope](/_Standards/Technology/Tool/Instrumentation/Gyroscope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Gyroscope|Gyroscope]] 
 
-### #is_/same_as :: [Gyroscope.public](/_public/Technology/Tool/Instrumentation/Gyroscope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Gyroscope.public|Gyroscope.public]] 
 
-### #is_/same_as :: [Gyroscope.internal](/_internal/Technology/Tool/Instrumentation/Gyroscope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Gyroscope.internal|Gyroscope.internal]] 
 
-### #is_/same_as :: [Gyroscope.protect](/_protect/Technology/Tool/Instrumentation/Gyroscope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Gyroscope.protect|Gyroscope.protect]] 
 
-### #is_/same_as :: [Gyroscope.private](/_private/Technology/Tool/Instrumentation/Gyroscope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Gyroscope.private|Gyroscope.private]] 
 
-### #is_/same_as :: [Gyroscope.personal](/_personal/Technology/Tool/Instrumentation/Gyroscope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Gyroscope.personal|Gyroscope.personal]] 
 
-### #is_/same_as :: [Gyroscope.secret](/_secret/Technology/Tool/Instrumentation/Gyroscope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Gyroscope.secret|Gyroscope.secret]] 
 

@@ -51,17 +51,17 @@ U_S_National_Archives_Identifier: 10643499
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nature](/_Standards/Science/Nature.md) 
+### #is_/same_as :: [[/_Standards/Science/Nature|Nature]] 
 
-### #is_/same_as :: [Nature.public](/_public/Science/Nature.public.md) 
+### #is_/same_as :: [[/_public/Science/Nature.public|Nature.public]] 
 
-### #is_/same_as :: [Nature.internal](/_internal/Science/Nature.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Nature.internal|Nature.internal]] 
 
-### #is_/same_as :: [Nature.protect](/_protect/Science/Nature.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Nature.protect|Nature.protect]] 
 
-### #is_/same_as :: [Nature.private](/_private/Science/Nature.private.md) 
+### #is_/same_as :: [[/_private/Science/Nature.private|Nature.private]] 
 
-### #is_/same_as :: [Nature.personal](/_personal/Science/Nature.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Nature.personal|Nature.personal]] 
 
-### #is_/same_as :: [Nature.secret](/_secret/Science/Nature.secret.md)
+### #is_/same_as :: [[/_secret/Science/Nature.secret|Nature.secret]] 
 

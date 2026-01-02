@@ -137,17 +137,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernhardt,Sarah](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah|Bernhardt,Sarah]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.public|Bernhardt,Sarah.public]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.internal|Bernhardt,Sarah.internal]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.protect|Bernhardt,Sarah.protect]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.private|Bernhardt,Sarah.private]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.personal|Bernhardt,Sarah.personal]] 
 
-### #is_/same_as :: [Bernhardt,Sarah.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Bernhardt,Sarah.secret|Bernhardt,Sarah.secret]] 
 

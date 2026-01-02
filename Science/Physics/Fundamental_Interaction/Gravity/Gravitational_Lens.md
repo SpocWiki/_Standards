@@ -43,17 +43,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gravitational_Lens](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens|Gravitational_Lens]] 
 
-### #is_/same_as :: [Gravitational_Lens.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.public|Gravitational_Lens.public]] 
 
-### #is_/same_as :: [Gravitational_Lens.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.internal|Gravitational_Lens.internal]] 
 
-### #is_/same_as :: [Gravitational_Lens.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.protect|Gravitational_Lens.protect]] 
 
-### #is_/same_as :: [Gravitational_Lens.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.private|Gravitational_Lens.private]] 
 
-### #is_/same_as :: [Gravitational_Lens.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.personal|Gravitational_Lens.personal]] 
 
-### #is_/same_as :: [Gravitational_Lens.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity/Gravitational_Lens.secret|Gravitational_Lens.secret]] 
 

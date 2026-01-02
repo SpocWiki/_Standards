@@ -50,17 +50,17 @@ Commons_category: Topology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Topological_Space](/_Standards/Mathematics/Topology/Topological_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Topological_Space|Topological_Space]] 
 
-### #is_/same_as :: [Topological_Space.public](/_public/Mathematics/Topology/Topological_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Topological_Space.public|Topological_Space.public]] 
 
-### #is_/same_as :: [Topological_Space.internal](/_internal/Mathematics/Topology/Topological_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Topological_Space.internal|Topological_Space.internal]] 
 
-### #is_/same_as :: [Topological_Space.protect](/_protect/Mathematics/Topology/Topological_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Topological_Space.protect|Topological_Space.protect]] 
 
-### #is_/same_as :: [Topological_Space.private](/_private/Mathematics/Topology/Topological_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Topological_Space.private|Topological_Space.private]] 
 
-### #is_/same_as :: [Topological_Space.personal](/_personal/Mathematics/Topology/Topological_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Topological_Space.personal|Topological_Space.personal]] 
 
-### #is_/same_as :: [Topological_Space.secret](/_secret/Mathematics/Topology/Topological_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Topological_Space.secret|Topological_Space.secret]] 
 

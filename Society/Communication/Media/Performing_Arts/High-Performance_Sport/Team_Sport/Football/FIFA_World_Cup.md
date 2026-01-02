@@ -82,17 +82,17 @@ Key notes:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FIFA_World_Cup](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup|FIFA_World_Cup]] 
 
-### #is_/same_as :: [FIFA_World_Cup.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.public|FIFA_World_Cup.public]] 
 
-### #is_/same_as :: [FIFA_World_Cup.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.internal|FIFA_World_Cup.internal]] 
 
-### #is_/same_as :: [FIFA_World_Cup.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.protect|FIFA_World_Cup.protect]] 
 
-### #is_/same_as :: [FIFA_World_Cup.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.private|FIFA_World_Cup.private]] 
 
-### #is_/same_as :: [FIFA_World_Cup.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.personal|FIFA_World_Cup.personal]] 
 
-### #is_/same_as :: [FIFA_World_Cup.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/FIFA_World_Cup.secret|FIFA_World_Cup.secret]] 
 

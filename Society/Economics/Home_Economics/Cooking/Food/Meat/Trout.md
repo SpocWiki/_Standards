@@ -61,17 +61,17 @@ MeSH_tree_code: B01.050.150.900.493.817.750.825
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trout](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout|Trout]] 
 
-### #is_/same_as :: [Trout.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.public|Trout.public]] 
 
-### #is_/same_as :: [Trout.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.internal|Trout.internal]] 
 
-### #is_/same_as :: [Trout.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.protect|Trout.protect]] 
 
-### #is_/same_as :: [Trout.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.private|Trout.private]] 
 
-### #is_/same_as :: [Trout.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.personal|Trout.personal]] 
 
-### #is_/same_as :: [Trout.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Trout.secret|Trout.secret]] 
 

@@ -719,17 +719,17 @@ WorksFor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Person](/_Standards/fileClass/FileClass~Thing/FileClass~Person.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Person|FileClass~Person]] 
 
-### #is_/same_as :: [FileClass~Person.public](/_public/fileClass/FileClass~Thing/FileClass~Person.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Person.public|FileClass~Person.public]] 
 
-### #is_/same_as :: [FileClass~Person.internal](/_internal/fileClass/FileClass~Thing/FileClass~Person.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Person.internal|FileClass~Person.internal]] 
 
-### #is_/same_as :: [FileClass~Person.protect](/_protect/fileClass/FileClass~Thing/FileClass~Person.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Person.protect|FileClass~Person.protect]] 
 
-### #is_/same_as :: [FileClass~Person.private](/_private/fileClass/FileClass~Thing/FileClass~Person.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Person.private|FileClass~Person.private]] 
 
-### #is_/same_as :: [FileClass~Person.personal](/_personal/fileClass/FileClass~Thing/FileClass~Person.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Person.personal|FileClass~Person.personal]] 
 
-### #is_/same_as :: [FileClass~Person.secret](/_secret/fileClass/FileClass~Thing/FileClass~Person.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Person.secret|FileClass~Person.secret]] 
 

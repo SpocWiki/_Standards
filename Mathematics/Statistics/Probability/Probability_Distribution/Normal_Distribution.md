@@ -182,17 +182,17 @@ options:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Normal_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution|Normal_Distribution]] 
 
-### #is_/same_as :: [Normal_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.public|Normal_Distribution.public]] 
 
-### #is_/same_as :: [Normal_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.internal|Normal_Distribution.internal]] 
 
-### #is_/same_as :: [Normal_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.protect|Normal_Distribution.protect]] 
 
-### #is_/same_as :: [Normal_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.private|Normal_Distribution.private]] 
 
-### #is_/same_as :: [Normal_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.personal|Normal_Distribution.personal]] 
 
-### #is_/same_as :: [Normal_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution.secret|Normal_Distribution.secret]] 
 

@@ -48,17 +48,17 @@ unit_symbol: Bd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baud](/_Standards/Dimension/Dim~Time/Baud.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Baud|Baud]] 
 
-### #is_/same_as :: [Baud.public](/_public/Dimension/Dim~Time/Baud.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Baud.public|Baud.public]] 
 
-### #is_/same_as :: [Baud.internal](/_internal/Dimension/Dim~Time/Baud.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Baud.internal|Baud.internal]] 
 
-### #is_/same_as :: [Baud.protect](/_protect/Dimension/Dim~Time/Baud.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Baud.protect|Baud.protect]] 
 
-### #is_/same_as :: [Baud.private](/_private/Dimension/Dim~Time/Baud.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Baud.private|Baud.private]] 
 
-### #is_/same_as :: [Baud.personal](/_personal/Dimension/Dim~Time/Baud.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Baud.personal|Baud.personal]] 
 
-### #is_/same_as :: [Baud.secret](/_secret/Dimension/Dim~Time/Baud.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Baud.secret|Baud.secret]] 
 

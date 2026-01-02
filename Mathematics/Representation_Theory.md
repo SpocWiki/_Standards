@@ -74,17 +74,17 @@ Commons_category: Representation theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Representation_Theory](/_Standards/Mathematics/Representation_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Representation_Theory|Representation_Theory]] 
 
-### #is_/same_as :: [Representation_Theory.public](/_public/Mathematics/Representation_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Representation_Theory.public|Representation_Theory.public]] 
 
-### #is_/same_as :: [Representation_Theory.internal](/_internal/Mathematics/Representation_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Representation_Theory.internal|Representation_Theory.internal]] 
 
-### #is_/same_as :: [Representation_Theory.protect](/_protect/Mathematics/Representation_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Representation_Theory.protect|Representation_Theory.protect]] 
 
-### #is_/same_as :: [Representation_Theory.private](/_private/Mathematics/Representation_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Representation_Theory.private|Representation_Theory.private]] 
 
-### #is_/same_as :: [Representation_Theory.personal](/_personal/Mathematics/Representation_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Representation_Theory.personal|Representation_Theory.personal]] 
 
-### #is_/same_as :: [Representation_Theory.secret](/_secret/Mathematics/Representation_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Representation_Theory.secret|Representation_Theory.secret]] 
 

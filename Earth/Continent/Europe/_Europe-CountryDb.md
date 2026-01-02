@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Europe-CountryDb](/_Standards/Earth/Continent/Europe/_Europe-CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/_Europe-CountryDb|_Europe-CountryDb]] 
 
-### #is_/same_as :: [_Europe-CountryDb.public](/_public/Earth/Continent/Europe/_Europe-CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/_Europe-CountryDb.public|_Europe-CountryDb.public]] 
 
-### #is_/same_as :: [_Europe-CountryDb.internal](/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/_Europe-CountryDb.internal|_Europe-CountryDb.internal]] 
 
-### #is_/same_as :: [_Europe-CountryDb.protect](/_protect/Earth/Continent/Europe/_Europe-CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/_Europe-CountryDb.protect|_Europe-CountryDb.protect]] 
 
-### #is_/same_as :: [_Europe-CountryDb.private](/_private/Earth/Continent/Europe/_Europe-CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/_Europe-CountryDb.private|_Europe-CountryDb.private]] 
 
-### #is_/same_as :: [_Europe-CountryDb.personal](/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/_Europe-CountryDb.personal|_Europe-CountryDb.personal]] 
 
-### #is_/same_as :: [_Europe-CountryDb.secret](/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/_Europe-CountryDb.secret|_Europe-CountryDb.secret]] 
 

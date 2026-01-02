@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_funder](/_Standards/schema-org/Relation/has/has_funder.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_funder|has_funder]] 
 
-### #is_/same_as :: [has_funder.public](/_public/schema-org/Relation/has/has_funder.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_funder.public|has_funder.public]] 
 
-### #is_/same_as :: [has_funder.internal](/_internal/schema-org/Relation/has/has_funder.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_funder.internal|has_funder.internal]] 
 
-### #is_/same_as :: [has_funder.protect](/_protect/schema-org/Relation/has/has_funder.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_funder.protect|has_funder.protect]] 
 
-### #is_/same_as :: [has_funder.private](/_private/schema-org/Relation/has/has_funder.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_funder.private|has_funder.private]] 
 
-### #is_/same_as :: [has_funder.personal](/_personal/schema-org/Relation/has/has_funder.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_funder.personal|has_funder.personal]] 
 
-### #is_/same_as :: [has_funder.secret](/_secret/schema-org/Relation/has/has_funder.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_funder.secret|has_funder.secret]] 
 

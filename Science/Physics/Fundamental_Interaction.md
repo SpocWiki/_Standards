@@ -57,17 +57,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_FundamentalForces,8081453
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Interaction](/_Standards/Science/Physics/Fundamental_Interaction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction|Fundamental_Interaction]] 
 
-### #is_/same_as :: [Fundamental_Interaction.public](/_public/Science/Physics/Fundamental_Interaction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction.public|Fundamental_Interaction.public]] 
 
-### #is_/same_as :: [Fundamental_Interaction.internal](/_internal/Science/Physics/Fundamental_Interaction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction.internal|Fundamental_Interaction.internal]] 
 
-### #is_/same_as :: [Fundamental_Interaction.protect](/_protect/Science/Physics/Fundamental_Interaction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction.protect|Fundamental_Interaction.protect]] 
 
-### #is_/same_as :: [Fundamental_Interaction.private](/_private/Science/Physics/Fundamental_Interaction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction.private|Fundamental_Interaction.private]] 
 
-### #is_/same_as :: [Fundamental_Interaction.personal](/_personal/Science/Physics/Fundamental_Interaction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction.personal|Fundamental_Interaction.personal]] 
 
-### #is_/same_as :: [Fundamental_Interaction.secret](/_secret/Science/Physics/Fundamental_Interaction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction.secret|Fundamental_Interaction.secret]] 
 

@@ -4,17 +4,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [thrivecart.com](/_Standards/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com|thrivecart.com]] 
 
-### #is_/same_as :: [thrivecart.com.public](/_public/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.public|thrivecart.com.public]] 
 
-### #is_/same_as :: [thrivecart.com.internal](/_internal/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.internal|thrivecart.com.internal]] 
 
-### #is_/same_as :: [thrivecart.com.protect](/_protect/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.protect|thrivecart.com.protect]] 
 
-### #is_/same_as :: [thrivecart.com.private](/_private/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.private|thrivecart.com.private]] 
 
-### #is_/same_as :: [thrivecart.com.personal](/_personal/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.personal|thrivecart.com.personal]] 
 
-### #is_/same_as :: [thrivecart.com.secret](/_secret/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Business-Activity/Billing/thrivecart.com.secret|thrivecart.com.secret]] 
 

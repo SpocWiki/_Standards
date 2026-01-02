@@ -80,17 +80,17 @@ inception: 2015-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eurasian_Economic_Union](/_Standards/Earth/Continent/Asia/Eurasian_Economic_Union.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Union|Eurasian_Economic_Union]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.public](/_public/Earth/Continent/Asia/Eurasian_Economic_Union.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Eurasian_Economic_Union.public|Eurasian_Economic_Union.public]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.internal](/_internal/Earth/Continent/Asia/Eurasian_Economic_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Eurasian_Economic_Union.internal|Eurasian_Economic_Union.internal]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.protect](/_protect/Earth/Continent/Asia/Eurasian_Economic_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Eurasian_Economic_Union.protect|Eurasian_Economic_Union.protect]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.private](/_private/Earth/Continent/Asia/Eurasian_Economic_Union.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Eurasian_Economic_Union.private|Eurasian_Economic_Union.private]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.personal](/_personal/Earth/Continent/Asia/Eurasian_Economic_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Eurasian_Economic_Union.personal|Eurasian_Economic_Union.personal]] 
 
-### #is_/same_as :: [Eurasian_Economic_Union.secret](/_secret/Earth/Continent/Asia/Eurasian_Economic_Union.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Eurasian_Economic_Union.secret|Eurasian_Economic_Union.secret]] 
 

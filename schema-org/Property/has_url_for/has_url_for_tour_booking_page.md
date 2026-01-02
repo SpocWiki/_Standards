@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_tour_booking_page](/_Standards/schema-org/Property/has_url_for/has_url_for_tour_booking_page.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_tour_booking_page|has_url_for_tour_booking_page]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.public](/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_tour_booking_page.public|has_url_for_tour_booking_page.public]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.internal|has_url_for_tour_booking_page.internal]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tour_booking_page.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_tour_booking_page.protect|has_url_for_tour_booking_page.protect]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.private](/_private/schema-org/Property/has_url_for/has_url_for_tour_booking_page.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_tour_booking_page.private|has_url_for_tour_booking_page.private]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_tour_booking_page.personal|has_url_for_tour_booking_page.personal]] 
 
-### #is_/same_as :: [has_url_for_tour_booking_page.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_tour_booking_page.secret|has_url_for_tour_booking_page.secret]] 
 

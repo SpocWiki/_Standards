@@ -57,17 +57,17 @@ Basic Levels of Factuality are
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proposition](/_Standards/schema-org/Proposition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Proposition|Proposition]] 
 
-### #is_/same_as :: [Proposition.public](/_public/schema-org/Proposition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Proposition.public|Proposition.public]] 
 
-### #is_/same_as :: [Proposition.internal](/_internal/schema-org/Proposition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Proposition.internal|Proposition.internal]] 
 
-### #is_/same_as :: [Proposition.protect](/_protect/schema-org/Proposition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Proposition.protect|Proposition.protect]] 
 
-### #is_/same_as :: [Proposition.private](/_private/schema-org/Proposition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Proposition.private|Proposition.private]] 
 
-### #is_/same_as :: [Proposition.personal](/_personal/schema-org/Proposition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Proposition.personal|Proposition.personal]] 
 
-### #is_/same_as :: [Proposition.secret](/_secret/schema-org/Proposition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Proposition.secret|Proposition.secret]] 
 

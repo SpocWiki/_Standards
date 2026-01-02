@@ -136,17 +136,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Major_depressive_Disorder](/_Standards/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Major_depressive_Disorder|Major_depressive_Disorder]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.public](/_public/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.public|Major_depressive_Disorder.public]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.internal](/_internal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.internal|Major_depressive_Disorder.internal]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.protect](/_protect/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.protect|Major_depressive_Disorder.protect]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.private](/_private/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.private|Major_depressive_Disorder.private]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.personal](/_personal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.personal|Major_depressive_Disorder.personal]] 
 
-### #is_/same_as :: [Major_depressive_Disorder.secret](/_secret/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Major_depressive_Disorder.secret|Major_depressive_Disorder.secret]] 
 

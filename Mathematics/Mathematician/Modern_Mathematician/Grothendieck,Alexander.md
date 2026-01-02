@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grothendieck,Alexander](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander|Grothendieck,Alexander]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.public|Grothendieck,Alexander.public]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.internal|Grothendieck,Alexander.internal]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.protect|Grothendieck,Alexander.protect]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.private|Grothendieck,Alexander.private]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.personal|Grothendieck,Alexander.personal]] 
 
-### #is_/same_as :: [Grothendieck,Alexander.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Grothendieck,Alexander.secret|Grothendieck,Alexander.secret]] 
 

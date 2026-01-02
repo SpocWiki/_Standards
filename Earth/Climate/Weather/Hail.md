@@ -61,17 +61,17 @@ Wolfram_Language_entity_code: Entity["Surname", "Hagel"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hail](/_Standards/Earth/Climate/Weather/Hail.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Hail|Hail]] 
 
-### #is_/same_as :: [Hail.public](/_public/Earth/Climate/Weather/Hail.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Hail.public|Hail.public]] 
 
-### #is_/same_as :: [Hail.internal](/_internal/Earth/Climate/Weather/Hail.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Hail.internal|Hail.internal]] 
 
-### #is_/same_as :: [Hail.protect](/_protect/Earth/Climate/Weather/Hail.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Hail.protect|Hail.protect]] 
 
-### #is_/same_as :: [Hail.private](/_private/Earth/Climate/Weather/Hail.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Hail.private|Hail.private]] 
 
-### #is_/same_as :: [Hail.personal](/_personal/Earth/Climate/Weather/Hail.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Hail.personal|Hail.personal]] 
 
-### #is_/same_as :: [Hail.secret](/_secret/Earth/Climate/Weather/Hail.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Hail.secret|Hail.secret]] 
 

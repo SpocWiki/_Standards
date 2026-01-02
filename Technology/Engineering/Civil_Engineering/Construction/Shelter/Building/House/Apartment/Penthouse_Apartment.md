@@ -43,17 +43,17 @@ Commons_category: Penthouses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penthouse_Apartment](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment|Penthouse_Apartment]] 
 
-### #is_/same_as :: [Penthouse_Apartment.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.public|Penthouse_Apartment.public]] 
 
-### #is_/same_as :: [Penthouse_Apartment.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.internal|Penthouse_Apartment.internal]] 
 
-### #is_/same_as :: [Penthouse_Apartment.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.protect|Penthouse_Apartment.protect]] 
 
-### #is_/same_as :: [Penthouse_Apartment.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.private|Penthouse_Apartment.private]] 
 
-### #is_/same_as :: [Penthouse_Apartment.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.personal|Penthouse_Apartment.personal]] 
 
-### #is_/same_as :: [Penthouse_Apartment.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Penthouse_Apartment.secret|Penthouse_Apartment.secret]] 
 

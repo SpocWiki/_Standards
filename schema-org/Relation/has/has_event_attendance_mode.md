@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_event_attendance_mode](/_Standards/schema-org/Relation/has/has_event_attendance_mode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_event_attendance_mode|has_event_attendance_mode]] 
 
-### #is_/same_as :: [has_event_attendance_mode.public](/_public/schema-org/Relation/has/has_event_attendance_mode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_event_attendance_mode.public|has_event_attendance_mode.public]] 
 
-### #is_/same_as :: [has_event_attendance_mode.internal](/_internal/schema-org/Relation/has/has_event_attendance_mode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_event_attendance_mode.internal|has_event_attendance_mode.internal]] 
 
-### #is_/same_as :: [has_event_attendance_mode.protect](/_protect/schema-org/Relation/has/has_event_attendance_mode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_event_attendance_mode.protect|has_event_attendance_mode.protect]] 
 
-### #is_/same_as :: [has_event_attendance_mode.private](/_private/schema-org/Relation/has/has_event_attendance_mode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_event_attendance_mode.private|has_event_attendance_mode.private]] 
 
-### #is_/same_as :: [has_event_attendance_mode.personal](/_personal/schema-org/Relation/has/has_event_attendance_mode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_event_attendance_mode.personal|has_event_attendance_mode.personal]] 
 
-### #is_/same_as :: [has_event_attendance_mode.secret](/_secret/schema-org/Relation/has/has_event_attendance_mode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_event_attendance_mode.secret|has_event_attendance_mode.secret]] 
 

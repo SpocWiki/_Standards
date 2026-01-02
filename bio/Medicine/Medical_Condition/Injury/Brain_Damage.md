@@ -31,17 +31,17 @@ Commons_category: Brain damage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brain_Damage](/_Standards/bio/Medicine/Medical_Condition/Injury/Brain_Damage.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Injury/Brain_Damage|Brain_Damage]] 
 
-### #is_/same_as :: [Brain_Damage.public](/_public/bio/Medicine/Medical_Condition/Injury/Brain_Damage.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Injury/Brain_Damage.public|Brain_Damage.public]] 
 
-### #is_/same_as :: [Brain_Damage.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Brain_Damage.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Injury/Brain_Damage.internal|Brain_Damage.internal]] 
 
-### #is_/same_as :: [Brain_Damage.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Brain_Damage.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Injury/Brain_Damage.protect|Brain_Damage.protect]] 
 
-### #is_/same_as :: [Brain_Damage.private](/_private/bio/Medicine/Medical_Condition/Injury/Brain_Damage.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Injury/Brain_Damage.private|Brain_Damage.private]] 
 
-### #is_/same_as :: [Brain_Damage.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Brain_Damage.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Injury/Brain_Damage.personal|Brain_Damage.personal]] 
 
-### #is_/same_as :: [Brain_Damage.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Brain_Damage.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Injury/Brain_Damage.secret|Brain_Damage.secret]] 
 

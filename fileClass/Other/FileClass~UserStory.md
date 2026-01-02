@@ -68,17 +68,17 @@ You can generate a SpecFlow Document from this.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~UserStory](/_Standards/fileClass/Other/FileClass~UserStory.md) 
+### #is_/same_as :: [[/_Standards/fileClass/Other/FileClass~UserStory|FileClass~UserStory]] 
 
-### #is_/same_as :: [FileClass~UserStory.public](/_public/fileClass/Other/FileClass~UserStory.public.md) 
+### #is_/same_as :: [[/_public/fileClass/Other/FileClass~UserStory.public|FileClass~UserStory.public]] 
 
-### #is_/same_as :: [FileClass~UserStory.internal](/_internal/fileClass/Other/FileClass~UserStory.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/Other/FileClass~UserStory.internal|FileClass~UserStory.internal]] 
 
-### #is_/same_as :: [FileClass~UserStory.protect](/_protect/fileClass/Other/FileClass~UserStory.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/Other/FileClass~UserStory.protect|FileClass~UserStory.protect]] 
 
-### #is_/same_as :: [FileClass~UserStory.private](/_private/fileClass/Other/FileClass~UserStory.private.md) 
+### #is_/same_as :: [[/_private/fileClass/Other/FileClass~UserStory.private|FileClass~UserStory.private]] 
 
-### #is_/same_as :: [FileClass~UserStory.personal](/_personal/fileClass/Other/FileClass~UserStory.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/Other/FileClass~UserStory.personal|FileClass~UserStory.personal]] 
 
-### #is_/same_as :: [FileClass~UserStory.secret](/_secret/fileClass/Other/FileClass~UserStory.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/Other/FileClass~UserStory.secret|FileClass~UserStory.secret]] 
 

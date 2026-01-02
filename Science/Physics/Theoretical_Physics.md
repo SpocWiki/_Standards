@@ -53,17 +53,17 @@ Commons_category: Theoretical physics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theoretical_Physics](/_Standards/Science/Physics/Theoretical_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theoretical_Physics|Theoretical_Physics]] 
 
-### #is_/same_as :: [Theoretical_Physics.public](/_public/Science/Physics/Theoretical_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theoretical_Physics.public|Theoretical_Physics.public]] 
 
-### #is_/same_as :: [Theoretical_Physics.internal](/_internal/Science/Physics/Theoretical_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theoretical_Physics.internal|Theoretical_Physics.internal]] 
 
-### #is_/same_as :: [Theoretical_Physics.protect](/_protect/Science/Physics/Theoretical_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theoretical_Physics.protect|Theoretical_Physics.protect]] 
 
-### #is_/same_as :: [Theoretical_Physics.private](/_private/Science/Physics/Theoretical_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theoretical_Physics.private|Theoretical_Physics.private]] 
 
-### #is_/same_as :: [Theoretical_Physics.personal](/_personal/Science/Physics/Theoretical_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theoretical_Physics.personal|Theoretical_Physics.personal]] 
 
-### #is_/same_as :: [Theoretical_Physics.secret](/_secret/Science/Physics/Theoretical_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theoretical_Physics.secret|Theoretical_Physics.secret]] 
 

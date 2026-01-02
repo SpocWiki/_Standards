@@ -87,17 +87,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parsec](/_Standards/Dimension/Dim~Length/Parsec.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Length/Parsec|Parsec]] 
 
-### #is_/same_as :: [Parsec.public](/_public/Dimension/Dim~Length/Parsec.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Length/Parsec.public|Parsec.public]] 
 
-### #is_/same_as :: [Parsec.internal](/_internal/Dimension/Dim~Length/Parsec.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Length/Parsec.internal|Parsec.internal]] 
 
-### #is_/same_as :: [Parsec.protect](/_protect/Dimension/Dim~Length/Parsec.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Length/Parsec.protect|Parsec.protect]] 
 
-### #is_/same_as :: [Parsec.private](/_private/Dimension/Dim~Length/Parsec.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Length/Parsec.private|Parsec.private]] 
 
-### #is_/same_as :: [Parsec.personal](/_personal/Dimension/Dim~Length/Parsec.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Length/Parsec.personal|Parsec.personal]] 
 
-### #is_/same_as :: [Parsec.secret](/_secret/Dimension/Dim~Length/Parsec.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Length/Parsec.secret|Parsec.secret]] 
 

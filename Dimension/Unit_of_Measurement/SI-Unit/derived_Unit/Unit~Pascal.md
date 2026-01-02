@@ -71,17 +71,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q44395 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Pascal](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal|Unit~Pascal]] 
 
-### #is_/same_as :: [Unit~Pascal.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.public|Unit~Pascal.public]] 
 
-### #is_/same_as :: [Unit~Pascal.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.internal|Unit~Pascal.internal]] 
 
-### #is_/same_as :: [Unit~Pascal.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.protect|Unit~Pascal.protect]] 
 
-### #is_/same_as :: [Unit~Pascal.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.private|Unit~Pascal.private]] 
 
-### #is_/same_as :: [Unit~Pascal.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.personal|Unit~Pascal.personal]] 
 
-### #is_/same_as :: [Unit~Pascal.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Pascal.secret|Unit~Pascal.secret]] 
 

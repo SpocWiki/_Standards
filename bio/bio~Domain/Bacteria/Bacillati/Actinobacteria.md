@@ -101,17 +101,17 @@ high G+C Gram positives.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actinobacteria](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria|Actinobacteria]] 
 
-### #is_/same_as :: [Actinobacteria.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.public|Actinobacteria.public]] 
 
-### #is_/same_as :: [Actinobacteria.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.internal|Actinobacteria.internal]] 
 
-### #is_/same_as :: [Actinobacteria.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.protect|Actinobacteria.protect]] 
 
-### #is_/same_as :: [Actinobacteria.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.private|Actinobacteria.private]] 
 
-### #is_/same_as :: [Actinobacteria.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.personal|Actinobacteria.personal]] 
 
-### #is_/same_as :: [Actinobacteria.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Actinobacteria.secret|Actinobacteria.secret]] 
 

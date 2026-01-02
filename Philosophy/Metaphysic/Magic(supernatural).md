@@ -70,17 +70,17 @@ Colon_Classification: Δ:87
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magic(supernatural)](/_Standards/Philosophy/Metaphysic/Magic(supernatural).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Magic(supernatural)|Magic(supernatural)]] 
 
-### #is_/same_as :: [Magic(supernatural).public](/_public/Philosophy/Metaphysic/Magic(supernatural).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Magic(supernatural).public|Magic(supernatural).public]] 
 
-### #is_/same_as :: [Magic(supernatural).internal](/_internal/Philosophy/Metaphysic/Magic(supernatural).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Magic(supernatural).internal|Magic(supernatural).internal]] 
 
-### #is_/same_as :: [Magic(supernatural).protect](/_protect/Philosophy/Metaphysic/Magic(supernatural).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Magic(supernatural).protect|Magic(supernatural).protect]] 
 
-### #is_/same_as :: [Magic(supernatural).private](/_private/Philosophy/Metaphysic/Magic(supernatural).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Magic(supernatural).private|Magic(supernatural).private]] 
 
-### #is_/same_as :: [Magic(supernatural).personal](/_personal/Philosophy/Metaphysic/Magic(supernatural).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Magic(supernatural).personal|Magic(supernatural).personal]] 
 
-### #is_/same_as :: [Magic(supernatural).secret](/_secret/Philosophy/Metaphysic/Magic(supernatural).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Magic(supernatural).secret|Magic(supernatural).secret]] 
 

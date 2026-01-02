@@ -56,17 +56,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Synthesis](/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Chemical_Synthesis|Chemical_Synthesis]] 
 
-### #is_/same_as :: [Chemical_Synthesis.public](/_public/Chemistry/Chemical_Reaction/Chemical_Synthesis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Chemical_Synthesis.public|Chemical_Synthesis.public]] 
 
-### #is_/same_as :: [Chemical_Synthesis.internal](/_internal/Chemistry/Chemical_Reaction/Chemical_Synthesis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Chemical_Synthesis.internal|Chemical_Synthesis.internal]] 
 
-### #is_/same_as :: [Chemical_Synthesis.protect](/_protect/Chemistry/Chemical_Reaction/Chemical_Synthesis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Chemical_Synthesis.protect|Chemical_Synthesis.protect]] 
 
-### #is_/same_as :: [Chemical_Synthesis.private](/_private/Chemistry/Chemical_Reaction/Chemical_Synthesis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Chemical_Synthesis.private|Chemical_Synthesis.private]] 
 
-### #is_/same_as :: [Chemical_Synthesis.personal](/_personal/Chemistry/Chemical_Reaction/Chemical_Synthesis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Chemical_Synthesis.personal|Chemical_Synthesis.personal]] 
 
-### #is_/same_as :: [Chemical_Synthesis.secret](/_secret/Chemistry/Chemical_Reaction/Chemical_Synthesis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Chemical_Synthesis.secret|Chemical_Synthesis.secret]] 
 

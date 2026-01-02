@@ -134,17 +134,17 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2271404
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arafat,Yasser](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser|Arafat,Yasser]] 
 
-### #is_/same_as :: [Arafat,Yasser.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.public|Arafat,Yasser.public]] 
 
-### #is_/same_as :: [Arafat,Yasser.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.internal|Arafat,Yasser.internal]] 
 
-### #is_/same_as :: [Arafat,Yasser.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.protect|Arafat,Yasser.protect]] 
 
-### #is_/same_as :: [Arafat,Yasser.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.private|Arafat,Yasser.private]] 
 
-### #is_/same_as :: [Arafat,Yasser.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.personal|Arafat,Yasser.personal]] 
 
-### #is_/same_as :: [Arafat,Yasser.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Arafat,Yasser.secret|Arafat,Yasser.secret]] 
 

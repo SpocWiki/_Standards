@@ -42,17 +42,17 @@ All or part of a [[../../../Media/Creative_Work/Dataset]] in downloadable form.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Download](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download|Data_Download]] 
 
-### #is_/same_as :: [Data_Download.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.public|Data_Download.public]] 
 
-### #is_/same_as :: [Data_Download.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.internal|Data_Download.internal]] 
 
-### #is_/same_as :: [Data_Download.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.protect|Data_Download.protect]] 
 
-### #is_/same_as :: [Data_Download.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.private|Data_Download.private]] 
 
-### #is_/same_as :: [Data_Download.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.personal|Data_Download.personal]] 
 
-### #is_/same_as :: [Data_Download.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Data_Download.secret|Data_Download.secret]] 
 

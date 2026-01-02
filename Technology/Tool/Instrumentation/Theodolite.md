@@ -70,17 +70,17 @@ inception: 1923-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theodolite](/_Standards/Technology/Tool/Instrumentation/Theodolite.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Theodolite|Theodolite]] 
 
-### #is_/same_as :: [Theodolite.public](/_public/Technology/Tool/Instrumentation/Theodolite.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Theodolite.public|Theodolite.public]] 
 
-### #is_/same_as :: [Theodolite.internal](/_internal/Technology/Tool/Instrumentation/Theodolite.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Theodolite.internal|Theodolite.internal]] 
 
-### #is_/same_as :: [Theodolite.protect](/_protect/Technology/Tool/Instrumentation/Theodolite.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Theodolite.protect|Theodolite.protect]] 
 
-### #is_/same_as :: [Theodolite.private](/_private/Technology/Tool/Instrumentation/Theodolite.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Theodolite.private|Theodolite.private]] 
 
-### #is_/same_as :: [Theodolite.personal](/_personal/Technology/Tool/Instrumentation/Theodolite.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Theodolite.personal|Theodolite.personal]] 
 
-### #is_/same_as :: [Theodolite.secret](/_secret/Technology/Tool/Instrumentation/Theodolite.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Theodolite.secret|Theodolite.secret]] 
 

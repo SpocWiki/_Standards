@@ -61,17 +61,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/hard_disk_drive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hard_Disk_Drive](/_Standards/Technology/IT/Computer_Hardware/Hard_Disk_Drive.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Hard_Disk_Drive|Hard_Disk_Drive]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.public](/_public/Technology/IT/Computer_Hardware/Hard_Disk_Drive.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Hard_Disk_Drive.public|Hard_Disk_Drive.public]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.internal](/_internal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.internal|Hard_Disk_Drive.internal]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.protect](/_protect/Technology/IT/Computer_Hardware/Hard_Disk_Drive.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Hard_Disk_Drive.protect|Hard_Disk_Drive.protect]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.private](/_private/Technology/IT/Computer_Hardware/Hard_Disk_Drive.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Hard_Disk_Drive.private|Hard_Disk_Drive.private]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.personal](/_personal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Hard_Disk_Drive.personal|Hard_Disk_Drive.personal]] 
 
-### #is_/same_as :: [Hard_Disk_Drive.secret](/_secret/Technology/IT/Computer_Hardware/Hard_Disk_Drive.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Hard_Disk_Drive.secret|Hard_Disk_Drive.secret]] 
 

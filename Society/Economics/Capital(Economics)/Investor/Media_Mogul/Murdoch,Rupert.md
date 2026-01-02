@@ -140,17 +140,17 @@ ISNI: 114764923
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Murdoch,Rupert](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert|Murdoch,Rupert]] 
 
-### #is_/same_as :: [Murdoch,Rupert.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.public|Murdoch,Rupert.public]] 
 
-### #is_/same_as :: [Murdoch,Rupert.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.internal|Murdoch,Rupert.internal]] 
 
-### #is_/same_as :: [Murdoch,Rupert.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.protect|Murdoch,Rupert.protect]] 
 
-### #is_/same_as :: [Murdoch,Rupert.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.private|Murdoch,Rupert.private]] 
 
-### #is_/same_as :: [Murdoch,Rupert.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.personal|Murdoch,Rupert.personal]] 
 
-### #is_/same_as :: [Murdoch,Rupert.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Murdoch,Rupert.secret|Murdoch,Rupert.secret]] 
 

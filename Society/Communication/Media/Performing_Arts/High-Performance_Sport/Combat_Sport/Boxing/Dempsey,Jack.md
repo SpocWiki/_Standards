@@ -81,17 +81,17 @@ Munzinger_Sport_number: 01000000725
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dempsey,Jack](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack|Dempsey,Jack]] 
 
-### #is_/same_as :: [Dempsey,Jack.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.public|Dempsey,Jack.public]] 
 
-### #is_/same_as :: [Dempsey,Jack.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.internal|Dempsey,Jack.internal]] 
 
-### #is_/same_as :: [Dempsey,Jack.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.protect|Dempsey,Jack.protect]] 
 
-### #is_/same_as :: [Dempsey,Jack.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.private|Dempsey,Jack.private]] 
 
-### #is_/same_as :: [Dempsey,Jack.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.personal|Dempsey,Jack.personal]] 
 
-### #is_/same_as :: [Dempsey,Jack.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Dempsey,Jack.secret|Dempsey,Jack.secret]] 
 

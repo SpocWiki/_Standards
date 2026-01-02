@@ -104,17 +104,17 @@ Dewey_Decimal_Classification: "133.43"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Witchcraft](/_Standards/Philosophy/Metaphysic/Supernatural/Witchcraft.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Witchcraft|Witchcraft]] 
 
-### #is_/same_as :: [Witchcraft.public](/_public/Philosophy/Metaphysic/Supernatural/Witchcraft.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Witchcraft.public|Witchcraft.public]] 
 
-### #is_/same_as :: [Witchcraft.internal](/_internal/Philosophy/Metaphysic/Supernatural/Witchcraft.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Witchcraft.internal|Witchcraft.internal]] 
 
-### #is_/same_as :: [Witchcraft.protect](/_protect/Philosophy/Metaphysic/Supernatural/Witchcraft.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Witchcraft.protect|Witchcraft.protect]] 
 
-### #is_/same_as :: [Witchcraft.private](/_private/Philosophy/Metaphysic/Supernatural/Witchcraft.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Witchcraft.private|Witchcraft.private]] 
 
-### #is_/same_as :: [Witchcraft.personal](/_personal/Philosophy/Metaphysic/Supernatural/Witchcraft.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Witchcraft.personal|Witchcraft.personal]] 
 
-### #is_/same_as :: [Witchcraft.secret](/_secret/Philosophy/Metaphysic/Supernatural/Witchcraft.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Witchcraft.secret|Witchcraft.secret]] 
 

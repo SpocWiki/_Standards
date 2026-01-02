@@ -41,17 +41,17 @@ A short TV program or a segment/part of a TV program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tv_Clip](/_Standards/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Clip/Tv_Clip|Tv_Clip]] 
 
-### #is_/same_as :: [Tv_Clip.public](/_public/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.public|Tv_Clip.public]] 
 
-### #is_/same_as :: [Tv_Clip.internal](/_internal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.internal|Tv_Clip.internal]] 
 
-### #is_/same_as :: [Tv_Clip.protect](/_protect/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.protect|Tv_Clip.protect]] 
 
-### #is_/same_as :: [Tv_Clip.private](/_private/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.private|Tv_Clip.private]] 
 
-### #is_/same_as :: [Tv_Clip.personal](/_personal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.personal|Tv_Clip.personal]] 
 
-### #is_/same_as :: [Tv_Clip.secret](/_secret/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Clip/Tv_Clip.secret|Tv_Clip.secret]] 
 

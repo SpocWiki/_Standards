@@ -80,17 +80,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galois,Évariste](/_Standards/Mathematics/Mathematician/Galois,Évariste.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Galois,Évariste|Galois,Évariste]] 
 
-### #is_/same_as :: [Galois,Évariste.public](/_public/Mathematics/Mathematician/Galois,Évariste.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Galois,Évariste.public|Galois,Évariste.public]] 
 
-### #is_/same_as :: [Galois,Évariste.internal](/_internal/Mathematics/Mathematician/Galois,Évariste.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Galois,Évariste.internal|Galois,Évariste.internal]] 
 
-### #is_/same_as :: [Galois,Évariste.protect](/_protect/Mathematics/Mathematician/Galois,Évariste.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Galois,Évariste.protect|Galois,Évariste.protect]] 
 
-### #is_/same_as :: [Galois,Évariste.private](/_private/Mathematics/Mathematician/Galois,Évariste.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Galois,Évariste.private|Galois,Évariste.private]] 
 
-### #is_/same_as :: [Galois,Évariste.personal](/_personal/Mathematics/Mathematician/Galois,Évariste.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Galois,Évariste.personal|Galois,Évariste.personal]] 
 
-### #is_/same_as :: [Galois,Évariste.secret](/_secret/Mathematics/Mathematician/Galois,Évariste.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Galois,Évariste.secret|Galois,Évariste.secret]] 
 

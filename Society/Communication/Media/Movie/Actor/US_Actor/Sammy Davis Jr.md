@@ -160,17 +160,17 @@ Libris_URI: khw064c33gnkscr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sammy Davis Jr](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr|Sammy Davis Jr]] 
 
-### #is_/same_as :: [Sammy Davis Jr.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.public|Sammy Davis Jr.public]] 
 
-### #is_/same_as :: [Sammy Davis Jr.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.internal|Sammy Davis Jr.internal]] 
 
-### #is_/same_as :: [Sammy Davis Jr.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.protect|Sammy Davis Jr.protect]] 
 
-### #is_/same_as :: [Sammy Davis Jr.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.private|Sammy Davis Jr.private]] 
 
-### #is_/same_as :: [Sammy Davis Jr.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.personal|Sammy Davis Jr.personal]] 
 
-### #is_/same_as :: [Sammy Davis Jr.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Sammy Davis Jr.secret|Sammy Davis Jr.secret]] 
 

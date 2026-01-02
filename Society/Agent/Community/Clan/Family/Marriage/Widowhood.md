@@ -50,17 +50,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Widowhood](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Widowhood.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Widowhood|Widowhood]] 
 
-### #is_/same_as :: [Widowhood.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Widowhood.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Widowhood.public|Widowhood.public]] 
 
-### #is_/same_as :: [Widowhood.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Widowhood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Widowhood.internal|Widowhood.internal]] 
 
-### #is_/same_as :: [Widowhood.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Widowhood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Widowhood.protect|Widowhood.protect]] 
 
-### #is_/same_as :: [Widowhood.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Widowhood.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Widowhood.private|Widowhood.private]] 
 
-### #is_/same_as :: [Widowhood.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Widowhood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Widowhood.personal|Widowhood.personal]] 
 
-### #is_/same_as :: [Widowhood.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Widowhood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Widowhood.secret|Widowhood.secret]] 
 

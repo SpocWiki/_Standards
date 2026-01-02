@@ -52,17 +52,17 @@ Commons_category: Decorative arts
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decorative_Art](/_Standards/Society/Communication/Art/Decorative_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Decorative_Art|Decorative_Art]] 
 
-### #is_/same_as :: [Decorative_Art.public](/_public/Society/Communication/Art/Decorative_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Decorative_Art.public|Decorative_Art.public]] 
 
-### #is_/same_as :: [Decorative_Art.internal](/_internal/Society/Communication/Art/Decorative_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Decorative_Art.internal|Decorative_Art.internal]] 
 
-### #is_/same_as :: [Decorative_Art.protect](/_protect/Society/Communication/Art/Decorative_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Decorative_Art.protect|Decorative_Art.protect]] 
 
-### #is_/same_as :: [Decorative_Art.private](/_private/Society/Communication/Art/Decorative_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Decorative_Art.private|Decorative_Art.private]] 
 
-### #is_/same_as :: [Decorative_Art.personal](/_personal/Society/Communication/Art/Decorative_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Decorative_Art.personal|Decorative_Art.personal]] 
 
-### #is_/same_as :: [Decorative_Art.secret](/_secret/Society/Communication/Art/Decorative_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Decorative_Art.secret|Decorative_Art.secret]] 
 

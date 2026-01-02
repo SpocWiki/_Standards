@@ -48,17 +48,17 @@ Commons_category: Sensory system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sensory_nervous_System](/_Standards/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Sense/Sensory_nervous_System|Sensory_nervous_System]] 
 
-### #is_/same_as :: [Sensory_nervous_System.public](/_public/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.public|Sensory_nervous_System.public]] 
 
-### #is_/same_as :: [Sensory_nervous_System.internal](/_internal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.internal|Sensory_nervous_System.internal]] 
 
-### #is_/same_as :: [Sensory_nervous_System.protect](/_protect/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.protect|Sensory_nervous_System.protect]] 
 
-### #is_/same_as :: [Sensory_nervous_System.private](/_private/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.private|Sensory_nervous_System.private]] 
 
-### #is_/same_as :: [Sensory_nervous_System.personal](/_personal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.personal|Sensory_nervous_System.personal]] 
 
-### #is_/same_as :: [Sensory_nervous_System.secret](/_secret/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Sense/Sensory_nervous_System.secret|Sensory_nervous_System.secret]] 
 

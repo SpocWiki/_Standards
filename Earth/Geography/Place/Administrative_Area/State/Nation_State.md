@@ -64,17 +64,17 @@ described_at_URL: https://wikispooks.com/wiki/Nation_state
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nation_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Nation_State|Nation_State]] 
 
-### #is_/same_as :: [Nation_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Nation_State.public|Nation_State.public]] 
 
-### #is_/same_as :: [Nation_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Nation_State.internal|Nation_State.internal]] 
 
-### #is_/same_as :: [Nation_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Nation_State.protect|Nation_State.protect]] 
 
-### #is_/same_as :: [Nation_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Nation_State.private|Nation_State.private]] 
 
-### #is_/same_as :: [Nation_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Nation_State.personal|Nation_State.personal]] 
 
-### #is_/same_as :: [Nation_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Nation_State.secret|Nation_State.secret]] 
 

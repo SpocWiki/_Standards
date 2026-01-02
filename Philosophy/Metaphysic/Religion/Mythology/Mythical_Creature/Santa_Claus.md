@@ -125,17 +125,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Claus%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santa_Claus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus|Santa_Claus]] 
 
-### #is_/same_as :: [Santa_Claus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.public|Santa_Claus.public]] 
 
-### #is_/same_as :: [Santa_Claus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.internal|Santa_Claus.internal]] 
 
-### #is_/same_as :: [Santa_Claus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.protect|Santa_Claus.protect]] 
 
-### #is_/same_as :: [Santa_Claus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.private|Santa_Claus.private]] 
 
-### #is_/same_as :: [Santa_Claus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.personal|Santa_Claus.personal]] 
 
-### #is_/same_as :: [Santa_Claus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Santa_Claus.secret|Santa_Claus.secret]] 
 

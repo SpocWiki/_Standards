@@ -60,17 +60,17 @@ inception: 1637-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fermat's_Last_Theorem](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem|Fermat's_Last_Theorem]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.public|Fermat's_Last_Theorem.public]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.internal|Fermat's_Last_Theorem.internal]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.protect|Fermat's_Last_Theorem.protect]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.private|Fermat's_Last_Theorem.private]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.personal|Fermat's_Last_Theorem.personal]] 
 
-### #is_/same_as :: [Fermat's_Last_Theorem.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Fermat,Pierre_de/Fermat's_Last_Theorem.secret|Fermat's_Last_Theorem.secret]] 
 

@@ -98,17 +98,17 @@ and all implementations have to be re-compiled.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sum-Type](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type|Sum-Type]] 
 
-### #is_/same_as :: [Sum-Type.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.public|Sum-Type.public]] 
 
-### #is_/same_as :: [Sum-Type.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.internal|Sum-Type.internal]] 
 
-### #is_/same_as :: [Sum-Type.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.protect|Sum-Type.protect]] 
 
-### #is_/same_as :: [Sum-Type.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.private|Sum-Type.private]] 
 
-### #is_/same_as :: [Sum-Type.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.personal|Sum-Type.personal]] 
 
-### #is_/same_as :: [Sum-Type.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Algebraic_Data-Types/Sum-Type.secret|Sum-Type.secret]] 
 

@@ -65,17 +65,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Aeronian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian|Age~2~Aeronian]] 
 
-### #is_/same_as :: [Age~2~Aeronian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.public|Age~2~Aeronian.public]] 
 
-### #is_/same_as :: [Age~2~Aeronian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.internal|Age~2~Aeronian.internal]] 
 
-### #is_/same_as :: [Age~2~Aeronian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.protect|Age~2~Aeronian.protect]] 
 
-### #is_/same_as :: [Age~2~Aeronian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.private|Age~2~Aeronian.private]] 
 
-### #is_/same_as :: [Age~2~Aeronian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.personal|Age~2~Aeronian.personal]] 
 
-### #is_/same_as :: [Age~2~Aeronian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~2~Aeronian.secret|Age~2~Aeronian.secret]] 
 

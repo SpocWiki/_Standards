@@ -75,17 +75,17 @@ Krugosvet_article: Earth_sciences/geologiya/GRANIT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Granite](/_Standards/Earth/Geology/Mineral/Granite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Granite|Granite]] 
 
-### #is_/same_as :: [Granite.public](/_public/Earth/Geology/Mineral/Granite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Granite.public|Granite.public]] 
 
-### #is_/same_as :: [Granite.internal](/_internal/Earth/Geology/Mineral/Granite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Granite.internal|Granite.internal]] 
 
-### #is_/same_as :: [Granite.protect](/_protect/Earth/Geology/Mineral/Granite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Granite.protect|Granite.protect]] 
 
-### #is_/same_as :: [Granite.private](/_private/Earth/Geology/Mineral/Granite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Granite.private|Granite.private]] 
 
-### #is_/same_as :: [Granite.personal](/_personal/Earth/Geology/Mineral/Granite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Granite.personal|Granite.personal]] 
 
-### #is_/same_as :: [Granite.secret](/_secret/Earth/Geology/Mineral/Granite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Granite.secret|Granite.secret]] 
 

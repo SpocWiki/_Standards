@@ -77,17 +77,17 @@ subreddit: painting
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Painting](/_Standards/Society/Communication/Media/Painting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting|Painting]] 
 
-### #is_/same_as :: [Painting.public](/_public/Society/Communication/Media/Painting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting.public|Painting.public]] 
 
-### #is_/same_as :: [Painting.internal](/_internal/Society/Communication/Media/Painting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting.internal|Painting.internal]] 
 
-### #is_/same_as :: [Painting.protect](/_protect/Society/Communication/Media/Painting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting.protect|Painting.protect]] 
 
-### #is_/same_as :: [Painting.private](/_private/Society/Communication/Media/Painting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting.private|Painting.private]] 
 
-### #is_/same_as :: [Painting.personal](/_personal/Society/Communication/Media/Painting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting.personal|Painting.personal]] 
 
-### #is_/same_as :: [Painting.secret](/_secret/Society/Communication/Media/Painting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting.secret|Painting.secret]] 
 

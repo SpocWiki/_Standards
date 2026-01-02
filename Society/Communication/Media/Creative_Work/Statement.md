@@ -71,17 +71,17 @@ so it is easy to distinguish them and apply different procedures.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statement](/_Standards/Society/Communication/Media/Creative_Work/Statement.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Statement|Statement]] 
 
-### #is_/same_as :: [Statement.public](/_public/Society/Communication/Media/Creative_Work/Statement.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Statement.public|Statement.public]] 
 
-### #is_/same_as :: [Statement.internal](/_internal/Society/Communication/Media/Creative_Work/Statement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Statement.internal|Statement.internal]] 
 
-### #is_/same_as :: [Statement.protect](/_protect/Society/Communication/Media/Creative_Work/Statement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Statement.protect|Statement.protect]] 
 
-### #is_/same_as :: [Statement.private](/_private/Society/Communication/Media/Creative_Work/Statement.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Statement.private|Statement.private]] 
 
-### #is_/same_as :: [Statement.personal](/_personal/Society/Communication/Media/Creative_Work/Statement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Statement.personal|Statement.personal]] 
 
-### #is_/same_as :: [Statement.secret](/_secret/Society/Communication/Media/Creative_Work/Statement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Statement.secret|Statement.secret]] 
 

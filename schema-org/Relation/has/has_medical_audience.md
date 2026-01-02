@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_medical_audience](/_Standards/schema-org/Relation/has/has_medical_audience.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_medical_audience|has_medical_audience]] 
 
-### #is_/same_as :: [has_medical_audience.public](/_public/schema-org/Relation/has/has_medical_audience.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_medical_audience.public|has_medical_audience.public]] 
 
-### #is_/same_as :: [has_medical_audience.internal](/_internal/schema-org/Relation/has/has_medical_audience.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_medical_audience.internal|has_medical_audience.internal]] 
 
-### #is_/same_as :: [has_medical_audience.protect](/_protect/schema-org/Relation/has/has_medical_audience.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_medical_audience.protect|has_medical_audience.protect]] 
 
-### #is_/same_as :: [has_medical_audience.private](/_private/schema-org/Relation/has/has_medical_audience.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_medical_audience.private|has_medical_audience.private]] 
 
-### #is_/same_as :: [has_medical_audience.personal](/_personal/schema-org/Relation/has/has_medical_audience.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_medical_audience.personal|has_medical_audience.personal]] 
 
-### #is_/same_as :: [has_medical_audience.secret](/_secret/schema-org/Relation/has/has_medical_audience.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_medical_audience.secret|has_medical_audience.secret]] 
 

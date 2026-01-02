@@ -84,17 +84,17 @@ UMLS_CUI: C0034385
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantum_Mechanics](/_Standards/Science/Physics/Quantum_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics|Quantum_Mechanics]] 
 
-### #is_/same_as :: [Quantum_Mechanics.public](/_public/Science/Physics/Quantum_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics.public|Quantum_Mechanics.public]] 
 
-### #is_/same_as :: [Quantum_Mechanics.internal](/_internal/Science/Physics/Quantum_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics.internal|Quantum_Mechanics.internal]] 
 
-### #is_/same_as :: [Quantum_Mechanics.protect](/_protect/Science/Physics/Quantum_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics.protect|Quantum_Mechanics.protect]] 
 
-### #is_/same_as :: [Quantum_Mechanics.private](/_private/Science/Physics/Quantum_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics.private|Quantum_Mechanics.private]] 
 
-### #is_/same_as :: [Quantum_Mechanics.personal](/_personal/Science/Physics/Quantum_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics.personal|Quantum_Mechanics.personal]] 
 
-### #is_/same_as :: [Quantum_Mechanics.secret](/_secret/Science/Physics/Quantum_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics.secret|Quantum_Mechanics.secret]] 
 

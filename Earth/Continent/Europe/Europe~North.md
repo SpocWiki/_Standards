@@ -29,17 +29,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europe~North](/_Standards/Earth/Continent/Europe/Europe~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North|Europe~North]] 
 
-### #is_/same_as :: [Europe~North.public](/_public/Earth/Continent/Europe/Europe~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North.public|Europe~North.public]] 
 
-### #is_/same_as :: [Europe~North.internal](/_internal/Earth/Continent/Europe/Europe~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North.internal|Europe~North.internal]] 
 
-### #is_/same_as :: [Europe~North.protect](/_protect/Earth/Continent/Europe/Europe~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North.protect|Europe~North.protect]] 
 
-### #is_/same_as :: [Europe~North.private](/_private/Earth/Continent/Europe/Europe~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North.private|Europe~North.private]] 
 
-### #is_/same_as :: [Europe~North.personal](/_personal/Earth/Continent/Europe/Europe~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North.personal|Europe~North.personal]] 
 
-### #is_/same_as :: [Europe~North.secret](/_secret/Earth/Continent/Europe/Europe~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North.secret|Europe~North.secret]] 
 

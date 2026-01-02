@@ -133,17 +133,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adams,Douglas](/_Standards/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas|Adams,Douglas]] 
 
-### #is_/same_as :: [Adams,Douglas.public](/_public/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.public|Adams,Douglas.public]] 
 
-### #is_/same_as :: [Adams,Douglas.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.internal|Adams,Douglas.internal]] 
 
-### #is_/same_as :: [Adams,Douglas.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.protect|Adams,Douglas.protect]] 
 
-### #is_/same_as :: [Adams,Douglas.private](/_private/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.private|Adams,Douglas.private]] 
 
-### #is_/same_as :: [Adams,Douglas.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.personal|Adams,Douglas.personal]] 
 
-### #is_/same_as :: [Adams,Douglas.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Post-Modern_Writer/Adams,Douglas.secret|Adams,Douglas.secret]] 
 

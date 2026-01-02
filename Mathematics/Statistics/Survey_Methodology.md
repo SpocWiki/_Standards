@@ -34,17 +34,17 @@ Commons_category: Survey methodology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Survey_Methodology](/_Standards/Mathematics/Statistics/Survey_Methodology.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Survey_Methodology|Survey_Methodology]] 
 
-### #is_/same_as :: [Survey_Methodology.public](/_public/Mathematics/Statistics/Survey_Methodology.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Survey_Methodology.public|Survey_Methodology.public]] 
 
-### #is_/same_as :: [Survey_Methodology.internal](/_internal/Mathematics/Statistics/Survey_Methodology.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Survey_Methodology.internal|Survey_Methodology.internal]] 
 
-### #is_/same_as :: [Survey_Methodology.protect](/_protect/Mathematics/Statistics/Survey_Methodology.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Survey_Methodology.protect|Survey_Methodology.protect]] 
 
-### #is_/same_as :: [Survey_Methodology.private](/_private/Mathematics/Statistics/Survey_Methodology.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Survey_Methodology.private|Survey_Methodology.private]] 
 
-### #is_/same_as :: [Survey_Methodology.personal](/_personal/Mathematics/Statistics/Survey_Methodology.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Survey_Methodology.personal|Survey_Methodology.personal]] 
 
-### #is_/same_as :: [Survey_Methodology.secret](/_secret/Mathematics/Statistics/Survey_Methodology.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Survey_Methodology.secret|Survey_Methodology.secret]] 
 

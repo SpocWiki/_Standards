@@ -140,17 +140,17 @@ Common_Procurement_Vocabulary_code: 03221270-9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cucumber](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber|Cucumber]] 
 
-### #is_/same_as :: [Cucumber.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.public|Cucumber.public]] 
 
-### #is_/same_as :: [Cucumber.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.internal|Cucumber.internal]] 
 
-### #is_/same_as :: [Cucumber.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.protect|Cucumber.protect]] 
 
-### #is_/same_as :: [Cucumber.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.private|Cucumber.private]] 
 
-### #is_/same_as :: [Cucumber.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.personal|Cucumber.personal]] 
 
-### #is_/same_as :: [Cucumber.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber.secret|Cucumber.secret]] 
 

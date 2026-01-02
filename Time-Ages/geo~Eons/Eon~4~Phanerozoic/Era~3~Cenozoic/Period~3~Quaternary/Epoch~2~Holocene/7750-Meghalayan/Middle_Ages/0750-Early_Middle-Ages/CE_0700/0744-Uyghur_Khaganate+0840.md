@@ -36,17 +36,17 @@ Commons_category: Uyghur Khaganate
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840|0744-Uyghur_Khaganate+0840]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.public|0744-Uyghur_Khaganate+0840.public]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.internal|0744-Uyghur_Khaganate+0840.internal]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.protect|0744-Uyghur_Khaganate+0840.protect]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.private|0744-Uyghur_Khaganate+0840.private]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.personal|0744-Uyghur_Khaganate+0840.personal]] 
 
-### #is_/same_as :: [0744-Uyghur_Khaganate+0840.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/CE_0700/0744-Uyghur_Khaganate+0840.secret|0744-Uyghur_Khaganate+0840.secret]] 
 

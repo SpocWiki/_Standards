@@ -60,17 +60,17 @@ Commons_category: Fundamental theorem of arithmetic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic](/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic|Fundamental_Theorem_of_Arithmetic]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.public](/_public/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.public|Fundamental_Theorem_of_Arithmetic.public]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.internal](/_internal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.internal|Fundamental_Theorem_of_Arithmetic.internal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.protect](/_protect/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.protect|Fundamental_Theorem_of_Arithmetic.protect]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.private](/_private/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.private|Fundamental_Theorem_of_Arithmetic.private]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.personal](/_personal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.personal|Fundamental_Theorem_of_Arithmetic.personal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Arithmetic.secret](/_secret/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic.secret|Fundamental_Theorem_of_Arithmetic.secret]] 
 

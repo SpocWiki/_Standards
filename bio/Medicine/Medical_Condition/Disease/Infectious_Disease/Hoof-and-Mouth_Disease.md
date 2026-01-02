@@ -103,17 +103,17 @@ Commons_category: Foot-and-mouth disease
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease|Hoof-and-Mouth_Disease]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.public|Hoof-and-Mouth_Disease.public]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.internal|Hoof-and-Mouth_Disease.internal]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.protect|Hoof-and-Mouth_Disease.protect]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.private|Hoof-and-Mouth_Disease.private]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.personal|Hoof-and-Mouth_Disease.personal]] 
 
-### #is_/same_as :: [Hoof-and-Mouth_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Hoof-and-Mouth_Disease.secret|Hoof-and-Mouth_Disease.secret]] 
 

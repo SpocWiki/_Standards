@@ -484,17 +484,17 @@ Capital :: [[Armenia/Counties/Erevan/City/Yerevan]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armenia](/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Armenia|Armenia]] 
 
-### #is_/same_as :: [Armenia.public](/_public/Earth/Continent/Asia/Asia~North~West/Armenia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Armenia.public|Armenia.public]] 
 
-### #is_/same_as :: [Armenia.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Armenia.internal|Armenia.internal]] 
 
-### #is_/same_as :: [Armenia.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Armenia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Armenia.protect|Armenia.protect]] 
 
-### #is_/same_as :: [Armenia.private](/_private/Earth/Continent/Asia/Asia~North~West/Armenia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Armenia.private|Armenia.private]] 
 
-### #is_/same_as :: [Armenia.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Armenia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Armenia.personal|Armenia.personal]] 
 
-### #is_/same_as :: [Armenia.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Armenia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Armenia.secret|Armenia.secret]] 
 

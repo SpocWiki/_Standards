@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sport](/_Standards/schema-org/Property/Texts/has_sport.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_sport|has_sport]] 
 
-### #is_/same_as :: [has_sport.public](/_public/schema-org/Property/Texts/has_sport.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_sport.public|has_sport.public]] 
 
-### #is_/same_as :: [has_sport.internal](/_internal/schema-org/Property/Texts/has_sport.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_sport.internal|has_sport.internal]] 
 
-### #is_/same_as :: [has_sport.protect](/_protect/schema-org/Property/Texts/has_sport.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_sport.protect|has_sport.protect]] 
 
-### #is_/same_as :: [has_sport.private](/_private/schema-org/Property/Texts/has_sport.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_sport.private|has_sport.private]] 
 
-### #is_/same_as :: [has_sport.personal](/_personal/schema-org/Property/Texts/has_sport.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_sport.personal|has_sport.personal]] 
 
-### #is_/same_as :: [has_sport.secret](/_secret/schema-org/Property/Texts/has_sport.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_sport.secret|has_sport.secret]] 
 

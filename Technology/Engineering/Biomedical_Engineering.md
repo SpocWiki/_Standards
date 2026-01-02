@@ -52,17 +52,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/BIOMED
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biomedical_Engineering](/_Standards/Technology/Engineering/Biomedical_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Biomedical_Engineering|Biomedical_Engineering]] 
 
-### #is_/same_as :: [Biomedical_Engineering.public](/_public/Technology/Engineering/Biomedical_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Biomedical_Engineering.public|Biomedical_Engineering.public]] 
 
-### #is_/same_as :: [Biomedical_Engineering.internal](/_internal/Technology/Engineering/Biomedical_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Biomedical_Engineering.internal|Biomedical_Engineering.internal]] 
 
-### #is_/same_as :: [Biomedical_Engineering.protect](/_protect/Technology/Engineering/Biomedical_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Biomedical_Engineering.protect|Biomedical_Engineering.protect]] 
 
-### #is_/same_as :: [Biomedical_Engineering.private](/_private/Technology/Engineering/Biomedical_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Biomedical_Engineering.private|Biomedical_Engineering.private]] 
 
-### #is_/same_as :: [Biomedical_Engineering.personal](/_personal/Technology/Engineering/Biomedical_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Biomedical_Engineering.personal|Biomedical_Engineering.personal]] 
 
-### #is_/same_as :: [Biomedical_Engineering.secret](/_secret/Technology/Engineering/Biomedical_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Biomedical_Engineering.secret|Biomedical_Engineering.secret]] 
 

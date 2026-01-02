@@ -48,17 +48,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limit(Math)](/_Standards/Mathematics/Calculus/Analysis(Math)/Limit(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Analysis(Math)/Limit(Math)|Limit(Math)]] 
 
-### #is_/same_as :: [Limit(Math).public](/_public/Mathematics/Calculus/Analysis(Math)/Limit(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Analysis(Math)/Limit(Math).public|Limit(Math).public]] 
 
-### #is_/same_as :: [Limit(Math).internal](/_internal/Mathematics/Calculus/Analysis(Math)/Limit(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Analysis(Math)/Limit(Math).internal|Limit(Math).internal]] 
 
-### #is_/same_as :: [Limit(Math).protect](/_protect/Mathematics/Calculus/Analysis(Math)/Limit(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Analysis(Math)/Limit(Math).protect|Limit(Math).protect]] 
 
-### #is_/same_as :: [Limit(Math).private](/_private/Mathematics/Calculus/Analysis(Math)/Limit(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Analysis(Math)/Limit(Math).private|Limit(Math).private]] 
 
-### #is_/same_as :: [Limit(Math).personal](/_personal/Mathematics/Calculus/Analysis(Math)/Limit(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Analysis(Math)/Limit(Math).personal|Limit(Math).personal]] 
 
-### #is_/same_as :: [Limit(Math).secret](/_secret/Mathematics/Calculus/Analysis(Math)/Limit(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Analysis(Math)/Limit(Math).secret|Limit(Math).secret]] 
 

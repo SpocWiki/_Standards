@@ -122,17 +122,17 @@ OpenStreetMap_tag_or_key: Tag:historic=castle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Castle](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle|Castle]] 
 
-### #is_/same_as :: [Castle.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.public|Castle.public]] 
 
-### #is_/same_as :: [Castle.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.internal|Castle.internal]] 
 
-### #is_/same_as :: [Castle.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.protect|Castle.protect]] 
 
-### #is_/same_as :: [Castle.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.private|Castle.private]] 
 
-### #is_/same_as :: [Castle.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.personal|Castle.personal]] 
 
-### #is_/same_as :: [Castle.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Castle.secret|Castle.secret]] 
 

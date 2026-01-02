@@ -41,17 +41,17 @@ Beauty salon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beauty_Salon](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon|Beauty_Salon]] 
 
-### #is_/same_as :: [Beauty_Salon.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.public|Beauty_Salon.public]] 
 
-### #is_/same_as :: [Beauty_Salon.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.internal|Beauty_Salon.internal]] 
 
-### #is_/same_as :: [Beauty_Salon.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.protect|Beauty_Salon.protect]] 
 
-### #is_/same_as :: [Beauty_Salon.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.private|Beauty_Salon.private]] 
 
-### #is_/same_as :: [Beauty_Salon.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.personal|Beauty_Salon.personal]] 
 
-### #is_/same_as :: [Beauty_Salon.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Beauty_Salon.secret|Beauty_Salon.secret]] 
 

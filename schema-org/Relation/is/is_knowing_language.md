@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_knowing_language](/_Standards/schema-org/Relation/is/is_knowing_language.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_knowing_language|is_knowing_language]] 
 
-### #is_/same_as :: [is_knowing_language.public](/_public/schema-org/Relation/is/is_knowing_language.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_knowing_language.public|is_knowing_language.public]] 
 
-### #is_/same_as :: [is_knowing_language.internal](/_internal/schema-org/Relation/is/is_knowing_language.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_knowing_language.internal|is_knowing_language.internal]] 
 
-### #is_/same_as :: [is_knowing_language.protect](/_protect/schema-org/Relation/is/is_knowing_language.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_knowing_language.protect|is_knowing_language.protect]] 
 
-### #is_/same_as :: [is_knowing_language.private](/_private/schema-org/Relation/is/is_knowing_language.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_knowing_language.private|is_knowing_language.private]] 
 
-### #is_/same_as :: [is_knowing_language.personal](/_personal/schema-org/Relation/is/is_knowing_language.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_knowing_language.personal|is_knowing_language.personal]] 
 
-### #is_/same_as :: [is_knowing_language.secret](/_secret/schema-org/Relation/is/is_knowing_language.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_knowing_language.secret|is_knowing_language.secret]] 
 

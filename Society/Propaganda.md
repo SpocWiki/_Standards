@@ -96,17 +96,17 @@ Part of Propaganda is the creation of Panic, not only Urgency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Propaganda](/_Standards/Society/Propaganda.md) 
+### #is_/same_as :: [[/_Standards/Society/Propaganda|Propaganda]] 
 
-### #is_/same_as :: [Propaganda.public](/_public/Society/Propaganda.public.md) 
+### #is_/same_as :: [[/_public/Society/Propaganda.public|Propaganda.public]] 
 
-### #is_/same_as :: [Propaganda.internal](/_internal/Society/Propaganda.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Propaganda.internal|Propaganda.internal]] 
 
-### #is_/same_as :: [Propaganda.protect](/_protect/Society/Propaganda.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Propaganda.protect|Propaganda.protect]] 
 
-### #is_/same_as :: [Propaganda.private](/_private/Society/Propaganda.private.md) 
+### #is_/same_as :: [[/_private/Society/Propaganda.private|Propaganda.private]] 
 
-### #is_/same_as :: [Propaganda.personal](/_personal/Society/Propaganda.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Propaganda.personal|Propaganda.personal]] 
 
-### #is_/same_as :: [Propaganda.secret](/_secret/Society/Propaganda.secret.md)
+### #is_/same_as :: [[/_secret/Society/Propaganda.secret|Propaganda.secret]] 
 

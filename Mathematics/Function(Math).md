@@ -142,17 +142,17 @@ Relations are equivalent to directed [[Graph(Math)]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function(Math)](/_Standards/Mathematics/Function(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)|Function(Math)]] 
 
-### #is_/same_as :: [Function(Math).public](/_public/Mathematics/Function(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math).public|Function(Math).public]] 
 
-### #is_/same_as :: [Function(Math).internal](/_internal/Mathematics/Function(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math).internal|Function(Math).internal]] 
 
-### #is_/same_as :: [Function(Math).protect](/_protect/Mathematics/Function(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math).protect|Function(Math).protect]] 
 
-### #is_/same_as :: [Function(Math).private](/_private/Mathematics/Function(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math).private|Function(Math).private]] 
 
-### #is_/same_as :: [Function(Math).personal](/_personal/Mathematics/Function(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math).personal|Function(Math).personal]] 
 
-### #is_/same_as :: [Function(Math).secret](/_secret/Mathematics/Function(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math).secret|Function(Math).secret]] 
 

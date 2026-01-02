@@ -58,17 +58,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Gorstian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian|Age~1~Gorstian]] 
 
-### #is_/same_as :: [Age~1~Gorstian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.public|Age~1~Gorstian.public]] 
 
-### #is_/same_as :: [Age~1~Gorstian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.internal|Age~1~Gorstian.internal]] 
 
-### #is_/same_as :: [Age~1~Gorstian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.protect|Age~1~Gorstian.protect]] 
 
-### #is_/same_as :: [Age~1~Gorstian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.private|Age~1~Gorstian.private]] 
 
-### #is_/same_as :: [Age~1~Gorstian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.personal|Age~1~Gorstian.personal]] 
 
-### #is_/same_as :: [Age~1~Gorstian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~3~Ludlow/Age~1~Gorstian.secret|Age~1~Gorstian.secret]] 
 

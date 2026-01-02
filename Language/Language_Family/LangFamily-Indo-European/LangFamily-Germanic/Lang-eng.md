@@ -375,17 +375,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-eng](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng|Lang-eng]] 
 
-### #is_/same_as :: [Lang-eng.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.public|Lang-eng.public]] 
 
-### #is_/same_as :: [Lang-eng.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.internal|Lang-eng.internal]] 
 
-### #is_/same_as :: [Lang-eng.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.protect|Lang-eng.protect]] 
 
-### #is_/same_as :: [Lang-eng.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.private|Lang-eng.private]] 
 
-### #is_/same_as :: [Lang-eng.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.personal|Lang-eng.personal]] 
 
-### #is_/same_as :: [Lang-eng.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-eng.secret|Lang-eng.secret]] 
 

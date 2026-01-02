@@ -137,17 +137,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sun,Yat-sen](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen|Sun,Yat-sen]] 
 
-### #is_/same_as :: [Sun,Yat-sen.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.public|Sun,Yat-sen.public]] 
 
-### #is_/same_as :: [Sun,Yat-sen.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.internal|Sun,Yat-sen.internal]] 
 
-### #is_/same_as :: [Sun,Yat-sen.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.protect|Sun,Yat-sen.protect]] 
 
-### #is_/same_as :: [Sun,Yat-sen.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.private|Sun,Yat-sen.private]] 
 
-### #is_/same_as :: [Sun,Yat-sen.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.personal|Sun,Yat-sen.personal]] 
 
-### #is_/same_as :: [Sun,Yat-sen.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Sun,Yat-sen.secret|Sun,Yat-sen.secret]] 
 

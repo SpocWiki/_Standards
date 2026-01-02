@@ -105,17 +105,17 @@ GitHub_topic: indonesian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ind](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind|Lang-ind]] 
 
-### #is_/same_as :: [Lang-ind.public](/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.public|Lang-ind.public]] 
 
-### #is_/same_as :: [Lang-ind.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.internal|Lang-ind.internal]] 
 
-### #is_/same_as :: [Lang-ind.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.protect|Lang-ind.protect]] 
 
-### #is_/same_as :: [Lang-ind.private](/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.private|Lang-ind.private]] 
 
-### #is_/same_as :: [Lang-ind.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.personal|Lang-ind.personal]] 
 
-### #is_/same_as :: [Lang-ind.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian/Lang-ind.secret|Lang-ind.secret]] 
 

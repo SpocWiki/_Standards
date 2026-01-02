@@ -54,17 +54,17 @@ Commons_gallery: Binary Star
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Binary_Star](/_Standards/Astronomy/Star/Binary_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Binary_Star|Binary_Star]] 
 
-### #is_/same_as :: [Binary_Star.public](/_public/Astronomy/Star/Binary_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Binary_Star.public|Binary_Star.public]] 
 
-### #is_/same_as :: [Binary_Star.internal](/_internal/Astronomy/Star/Binary_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Binary_Star.internal|Binary_Star.internal]] 
 
-### #is_/same_as :: [Binary_Star.protect](/_protect/Astronomy/Star/Binary_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Binary_Star.protect|Binary_Star.protect]] 
 
-### #is_/same_as :: [Binary_Star.private](/_private/Astronomy/Star/Binary_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Binary_Star.private|Binary_Star.private]] 
 
-### #is_/same_as :: [Binary_Star.personal](/_personal/Astronomy/Star/Binary_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Binary_Star.personal|Binary_Star.personal]] 
 
-### #is_/same_as :: [Binary_Star.secret](/_secret/Astronomy/Star/Binary_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Binary_Star.secret|Binary_Star.secret]] 
 

@@ -40,17 +40,17 @@ Commons_category: Downtowns and city centers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Downtown](/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/City/Downtown|Downtown]] 
 
-### #is_/same_as :: [Downtown.public](/_public/Earth/Geography/Place/Administrative_Area/City/Downtown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/City/Downtown.public|Downtown.public]] 
 
-### #is_/same_as :: [Downtown.internal](/_internal/Earth/Geography/Place/Administrative_Area/City/Downtown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/City/Downtown.internal|Downtown.internal]] 
 
-### #is_/same_as :: [Downtown.protect](/_protect/Earth/Geography/Place/Administrative_Area/City/Downtown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/City/Downtown.protect|Downtown.protect]] 
 
-### #is_/same_as :: [Downtown.private](/_private/Earth/Geography/Place/Administrative_Area/City/Downtown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/City/Downtown.private|Downtown.private]] 
 
-### #is_/same_as :: [Downtown.personal](/_personal/Earth/Geography/Place/Administrative_Area/City/Downtown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/City/Downtown.personal|Downtown.personal]] 
 
-### #is_/same_as :: [Downtown.secret](/_secret/Earth/Geography/Place/Administrative_Area/City/Downtown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/City/Downtown.secret|Downtown.secret]] 
 

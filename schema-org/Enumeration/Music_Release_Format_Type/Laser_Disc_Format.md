@@ -42,17 +42,17 @@ LaserDiscFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laser_Disc_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format|Laser_Disc_Format]] 
 
-### #is_/same_as :: [Laser_Disc_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.public|Laser_Disc_Format.public]] 
 
-### #is_/same_as :: [Laser_Disc_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.internal|Laser_Disc_Format.internal]] 
 
-### #is_/same_as :: [Laser_Disc_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.protect|Laser_Disc_Format.protect]] 
 
-### #is_/same_as :: [Laser_Disc_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.private|Laser_Disc_Format.private]] 
 
-### #is_/same_as :: [Laser_Disc_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.personal|Laser_Disc_Format.personal]] 
 
-### #is_/same_as :: [Laser_Disc_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Laser_Disc_Format.secret|Laser_Disc_Format.secret]] 
 

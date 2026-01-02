@@ -49,17 +49,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Love%20Zambia.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engagement](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Engagement.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Engagement|Engagement]] 
 
-### #is_/same_as :: [Engagement.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Engagement.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Engagement.public|Engagement.public]] 
 
-### #is_/same_as :: [Engagement.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Engagement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Engagement.internal|Engagement.internal]] 
 
-### #is_/same_as :: [Engagement.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Engagement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Engagement.protect|Engagement.protect]] 
 
-### #is_/same_as :: [Engagement.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Engagement.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Engagement.private|Engagement.private]] 
 
-### #is_/same_as :: [Engagement.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Engagement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Engagement.personal|Engagement.personal]] 
 
-### #is_/same_as :: [Engagement.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Engagement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Engagement.secret|Engagement.secret]] 
 

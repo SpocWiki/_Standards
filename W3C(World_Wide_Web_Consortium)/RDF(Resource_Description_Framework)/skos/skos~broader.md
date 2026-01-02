@@ -16,17 +16,17 @@ This can mean different Things like
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [skos~broader](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader|skos~broader]] 
 
-### #is_/same_as :: [skos~broader.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.public|skos~broader.public]] 
 
-### #is_/same_as :: [skos~broader.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.internal|skos~broader.internal]] 
 
-### #is_/same_as :: [skos~broader.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.protect|skos~broader.protect]] 
 
-### #is_/same_as :: [skos~broader.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.private|skos~broader.private]] 
 
-### #is_/same_as :: [skos~broader.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.personal|skos~broader.personal]] 
 
-### #is_/same_as :: [skos~broader.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~broader.secret|skos~broader.secret]] 
 

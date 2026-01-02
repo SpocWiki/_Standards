@@ -13,3 +13,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film)|Delicatessen(Film)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).public|Delicatessen(Film).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).internal|Delicatessen(Film).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).protect|Delicatessen(Film).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).private|Delicatessen(Film).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).personal|Delicatessen(Film).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Delicatessen(Film).secret|Delicatessen(Film).secret]] 
+

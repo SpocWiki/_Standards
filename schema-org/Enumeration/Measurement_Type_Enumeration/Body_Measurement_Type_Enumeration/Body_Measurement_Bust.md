@@ -44,17 +44,17 @@ Maximum girth of bust. Used, for example, to fit women's suits.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Bust](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust|Body_Measurement_Bust]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.public|Body_Measurement_Bust.public]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.internal|Body_Measurement_Bust.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.protect|Body_Measurement_Bust.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.private|Body_Measurement_Bust.private]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.personal|Body_Measurement_Bust.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Bust.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Bust.secret|Body_Measurement_Bust.secret]] 
 

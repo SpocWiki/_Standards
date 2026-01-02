@@ -44,17 +44,17 @@ NonprofitSBBI: Non-profit type referring to a Social Interest Promoting Institut
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit_Sbbi](/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi|Nonprofit_Sbbi]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.public](/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.public|Nonprofit_Sbbi.public]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.internal|Nonprofit_Sbbi.internal]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.protect|Nonprofit_Sbbi.protect]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.private](/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.private|Nonprofit_Sbbi.private]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.personal|Nonprofit_Sbbi.personal]] 
 
-### #is_/same_as :: [Nonprofit_Sbbi.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type/Nonprofit_Sbbi.secret|Nonprofit_Sbbi.secret]] 
 

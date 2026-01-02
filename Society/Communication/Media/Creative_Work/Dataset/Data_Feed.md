@@ -43,17 +43,17 @@ A single feed providing structured information about one or more entities or top
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Feed](/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Dataset/Data_Feed|Data_Feed]] 
 
-### #is_/same_as :: [Data_Feed.public](/_public/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.public|Data_Feed.public]] 
 
-### #is_/same_as :: [Data_Feed.internal](/_internal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.internal|Data_Feed.internal]] 
 
-### #is_/same_as :: [Data_Feed.protect](/_protect/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.protect|Data_Feed.protect]] 
 
-### #is_/same_as :: [Data_Feed.private](/_private/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.private|Data_Feed.private]] 
 
-### #is_/same_as :: [Data_Feed.personal](/_personal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.personal|Data_Feed.personal]] 
 
-### #is_/same_as :: [Data_Feed.secret](/_secret/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Dataset/Data_Feed.secret|Data_Feed.secret]] 
 

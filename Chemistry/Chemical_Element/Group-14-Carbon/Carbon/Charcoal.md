@@ -55,17 +55,17 @@ MeSH_tree_code: D01.268.150.150
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charcoal](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal|Charcoal]] 
 
-### #is_/same_as :: [Charcoal.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.public|Charcoal.public]] 
 
-### #is_/same_as :: [Charcoal.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.internal|Charcoal.internal]] 
 
-### #is_/same_as :: [Charcoal.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.protect|Charcoal.protect]] 
 
-### #is_/same_as :: [Charcoal.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.private|Charcoal.private]] 
 
-### #is_/same_as :: [Charcoal.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.personal|Charcoal.personal]] 
 
-### #is_/same_as :: [Charcoal.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Charcoal.secret|Charcoal.secret]] 
 

@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name_of_executable_library](/_Standards/schema-org/Property/has_name/has_name_of_executable_library.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_of_executable_library|has_name_of_executable_library]] 
 
-### #is_/same_as :: [has_name_of_executable_library.public](/_public/schema-org/Property/has_name/has_name_of_executable_library.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name_of_executable_library.public|has_name_of_executable_library.public]] 
 
-### #is_/same_as :: [has_name_of_executable_library.internal](/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name_of_executable_library.internal|has_name_of_executable_library.internal]] 
 
-### #is_/same_as :: [has_name_of_executable_library.protect](/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name_of_executable_library.protect|has_name_of_executable_library.protect]] 
 
-### #is_/same_as :: [has_name_of_executable_library.private](/_private/schema-org/Property/has_name/has_name_of_executable_library.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name_of_executable_library.private|has_name_of_executable_library.private]] 
 
-### #is_/same_as :: [has_name_of_executable_library.personal](/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name_of_executable_library.personal|has_name_of_executable_library.personal]] 
 
-### #is_/same_as :: [has_name_of_executable_library.secret](/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name_of_executable_library.secret|has_name_of_executable_library.secret]] 
 

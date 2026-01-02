@@ -589,17 +589,17 @@ Capital :: [[Bangkok]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thailand](/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Thailand|Thailand]] 
 
-### #is_/same_as :: [Thailand.public](/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Thailand.public|Thailand.public]] 
 
-### #is_/same_as :: [Thailand.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Thailand.internal|Thailand.internal]] 
 
-### #is_/same_as :: [Thailand.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Thailand.protect|Thailand.protect]] 
 
-### #is_/same_as :: [Thailand.private](/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Thailand.private|Thailand.private]] 
 
-### #is_/same_as :: [Thailand.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Thailand.personal|Thailand.personal]] 
 
-### #is_/same_as :: [Thailand.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Thailand.secret|Thailand.secret]] 
 

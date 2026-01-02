@@ -48,17 +48,17 @@ DataFeedElement:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DataFeed](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed|FileClass~DataFeed]] 
 
-### #is_/same_as :: [FileClass~DataFeed.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.public|FileClass~DataFeed.public]] 
 
-### #is_/same_as :: [FileClass~DataFeed.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.internal|FileClass~DataFeed.internal]] 
 
-### #is_/same_as :: [FileClass~DataFeed.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.protect|FileClass~DataFeed.protect]] 
 
-### #is_/same_as :: [FileClass~DataFeed.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.private|FileClass~DataFeed.private]] 
 
-### #is_/same_as :: [FileClass~DataFeed.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.personal|FileClass~DataFeed.personal]] 
 
-### #is_/same_as :: [FileClass~DataFeed.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Dataset/FileClass~DataFeed.secret|FileClass~DataFeed.secret]] 
 

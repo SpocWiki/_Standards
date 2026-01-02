@@ -31,17 +31,17 @@ This is the circle with a maximum Radius R on the Sphere with Radius R.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Circle](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle|Great_Circle]] 
 
-### #is_/same_as :: [Great_Circle.public](/_public/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.public|Great_Circle.public]] 
 
-### #is_/same_as :: [Great_Circle.internal](/_internal/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.internal|Great_Circle.internal]] 
 
-### #is_/same_as :: [Great_Circle.protect](/_protect/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.protect|Great_Circle.protect]] 
 
-### #is_/same_as :: [Great_Circle.private](/_private/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.private|Great_Circle.private]] 
 
-### #is_/same_as :: [Great_Circle.personal](/_personal/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.personal|Great_Circle.personal]] 
 
-### #is_/same_as :: [Great_Circle.secret](/_secret/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-3D/Sphere/Great_Circle.secret|Great_Circle.secret]] 
 

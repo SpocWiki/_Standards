@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feudalism](/_Standards/Society/Politics/Government/Monarchy/Feudalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Feudalism|Feudalism]] 
 
-### #is_/same_as :: [Feudalism.public](/_public/Society/Politics/Government/Monarchy/Feudalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Feudalism.public|Feudalism.public]] 
 
-### #is_/same_as :: [Feudalism.internal](/_internal/Society/Politics/Government/Monarchy/Feudalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Feudalism.internal|Feudalism.internal]] 
 
-### #is_/same_as :: [Feudalism.protect](/_protect/Society/Politics/Government/Monarchy/Feudalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Feudalism.protect|Feudalism.protect]] 
 
-### #is_/same_as :: [Feudalism.private](/_private/Society/Politics/Government/Monarchy/Feudalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Feudalism.private|Feudalism.private]] 
 
-### #is_/same_as :: [Feudalism.personal](/_personal/Society/Politics/Government/Monarchy/Feudalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Feudalism.personal|Feudalism.personal]] 
 
-### #is_/same_as :: [Feudalism.secret](/_secret/Society/Politics/Government/Monarchy/Feudalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Feudalism.secret|Feudalism.secret]] 
 

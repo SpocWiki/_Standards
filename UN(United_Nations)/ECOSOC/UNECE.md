@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNECE](/_Standards/UN(United_Nations)/ECOSOC/UNECE.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ECOSOC/UNECE|UNECE]] 
 
-### #is_/same_as :: [UNECE.public](/_public/UN(United_Nations)/ECOSOC/UNECE.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ECOSOC/UNECE.public|UNECE.public]] 
 
-### #is_/same_as :: [UNECE.internal](/_internal/UN(United_Nations)/ECOSOC/UNECE.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ECOSOC/UNECE.internal|UNECE.internal]] 
 
-### #is_/same_as :: [UNECE.protect](/_protect/UN(United_Nations)/ECOSOC/UNECE.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ECOSOC/UNECE.protect|UNECE.protect]] 
 
-### #is_/same_as :: [UNECE.private](/_private/UN(United_Nations)/ECOSOC/UNECE.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ECOSOC/UNECE.private|UNECE.private]] 
 
-### #is_/same_as :: [UNECE.personal](/_personal/UN(United_Nations)/ECOSOC/UNECE.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ECOSOC/UNECE.personal|UNECE.personal]] 
 
-### #is_/same_as :: [UNECE.secret](/_secret/UN(United_Nations)/ECOSOC/UNECE.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ECOSOC/UNECE.secret|UNECE.secret]] 
 

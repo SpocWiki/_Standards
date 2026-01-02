@@ -52,17 +52,17 @@ subreddit: chemicalreactiongifs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Reaction](/_Standards/Chemistry/Chemical_Reaction.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction|Chemical_Reaction]] 
 
-### #is_/same_as :: [Chemical_Reaction.public](/_public/Chemistry/Chemical_Reaction.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction.public|Chemical_Reaction.public]] 
 
-### #is_/same_as :: [Chemical_Reaction.internal](/_internal/Chemistry/Chemical_Reaction.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction.internal|Chemical_Reaction.internal]] 
 
-### #is_/same_as :: [Chemical_Reaction.protect](/_protect/Chemistry/Chemical_Reaction.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction.protect|Chemical_Reaction.protect]] 
 
-### #is_/same_as :: [Chemical_Reaction.private](/_private/Chemistry/Chemical_Reaction.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction.private|Chemical_Reaction.private]] 
 
-### #is_/same_as :: [Chemical_Reaction.personal](/_personal/Chemistry/Chemical_Reaction.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction.personal|Chemical_Reaction.personal]] 
 
-### #is_/same_as :: [Chemical_Reaction.secret](/_secret/Chemistry/Chemical_Reaction.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction.secret|Chemical_Reaction.secret]] 
 

@@ -58,17 +58,17 @@ Commons_category: Nuclear fusion reactors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fusion_Power](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power|Fusion_Power]] 
 
-### #is_/same_as :: [Fusion_Power.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.public|Fusion_Power.public]] 
 
-### #is_/same_as :: [Fusion_Power.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.internal|Fusion_Power.internal]] 
 
-### #is_/same_as :: [Fusion_Power.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.protect|Fusion_Power.protect]] 
 
-### #is_/same_as :: [Fusion_Power.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.private|Fusion_Power.private]] 
 
-### #is_/same_as :: [Fusion_Power.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.personal|Fusion_Power.personal]] 
 
-### #is_/same_as :: [Fusion_Power.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Fusion_Power.secret|Fusion_Power.secret]] 
 

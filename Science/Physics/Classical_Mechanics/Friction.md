@@ -46,17 +46,17 @@ MeSH_tree_code: G01.374.618
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friction](/_Standards/Science/Physics/Classical_Mechanics/Friction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Friction|Friction]] 
 
-### #is_/same_as :: [Friction.public](/_public/Science/Physics/Classical_Mechanics/Friction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Friction.public|Friction.public]] 
 
-### #is_/same_as :: [Friction.internal](/_internal/Science/Physics/Classical_Mechanics/Friction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Friction.internal|Friction.internal]] 
 
-### #is_/same_as :: [Friction.protect](/_protect/Science/Physics/Classical_Mechanics/Friction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Friction.protect|Friction.protect]] 
 
-### #is_/same_as :: [Friction.private](/_private/Science/Physics/Classical_Mechanics/Friction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Friction.private|Friction.private]] 
 
-### #is_/same_as :: [Friction.personal](/_personal/Science/Physics/Classical_Mechanics/Friction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Friction.personal|Friction.personal]] 
 
-### #is_/same_as :: [Friction.secret](/_secret/Science/Physics/Classical_Mechanics/Friction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Friction.secret|Friction.secret]] 
 

@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Octopussy,1983](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983|Octopussy,1983]] 
 
-### #is_/same_as :: [Octopussy,1983.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.public|Octopussy,1983.public]] 
 
-### #is_/same_as :: [Octopussy,1983.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.internal|Octopussy,1983.internal]] 
 
-### #is_/same_as :: [Octopussy,1983.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.protect|Octopussy,1983.protect]] 
 
-### #is_/same_as :: [Octopussy,1983.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.private|Octopussy,1983.private]] 
 
-### #is_/same_as :: [Octopussy,1983.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.personal|Octopussy,1983.personal]] 
 
-### #is_/same_as :: [Octopussy,1983.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Octopussy,1983.secret|Octopussy,1983.secret]] 
 

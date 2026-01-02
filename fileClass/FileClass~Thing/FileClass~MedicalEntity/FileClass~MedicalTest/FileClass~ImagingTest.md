@@ -42,17 +42,17 @@ ImagingTechnique:: {"type":"Select","options":{"valuesList":{"CT","MRI","PET","R
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ImagingTest](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest|FileClass~ImagingTest]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.public|FileClass~ImagingTest.public]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.internal|FileClass~ImagingTest.internal]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.protect|FileClass~ImagingTest.protect]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.private|FileClass~ImagingTest.private]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.personal|FileClass~ImagingTest.personal]] 
 
-### #is_/same_as :: [FileClass~ImagingTest.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalTest/FileClass~ImagingTest.secret|FileClass~ImagingTest.secret]] 
 

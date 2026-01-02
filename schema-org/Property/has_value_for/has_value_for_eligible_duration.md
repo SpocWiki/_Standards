@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_eligible_duration](/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_eligible_duration|has_value_for_eligible_duration]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.public](/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_eligible_duration.public|has_value_for_eligible_duration.public]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.internal](/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_eligible_duration.internal|has_value_for_eligible_duration.internal]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.protect](/_protect/schema-org/Property/has_value_for/has_value_for_eligible_duration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_eligible_duration.protect|has_value_for_eligible_duration.protect]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.private](/_private/schema-org/Property/has_value_for/has_value_for_eligible_duration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_eligible_duration.private|has_value_for_eligible_duration.private]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.personal](/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_eligible_duration.personal|has_value_for_eligible_duration.personal]] 
 
-### #is_/same_as :: [has_value_for_eligible_duration.secret](/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_eligible_duration.secret|has_value_for_eligible_duration.secret]] 
 

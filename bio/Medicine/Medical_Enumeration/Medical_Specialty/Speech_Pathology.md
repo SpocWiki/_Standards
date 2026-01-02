@@ -42,17 +42,17 @@ The scientific study and treatment of defects, disorders, and malfunctions of sp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speech_Pathology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology|Speech_Pathology]] 
 
-### #is_/same_as :: [Speech_Pathology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.public|Speech_Pathology.public]] 
 
-### #is_/same_as :: [Speech_Pathology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.internal|Speech_Pathology.internal]] 
 
-### #is_/same_as :: [Speech_Pathology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.protect|Speech_Pathology.protect]] 
 
-### #is_/same_as :: [Speech_Pathology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.private|Speech_Pathology.private]] 
 
-### #is_/same_as :: [Speech_Pathology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.personal|Speech_Pathology.personal]] 
 
-### #is_/same_as :: [Speech_Pathology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Speech_Pathology.secret|Speech_Pathology.secret]] 
 

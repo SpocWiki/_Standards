@@ -104,17 +104,17 @@ different from the 1st Generation [[Machine-Language]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Assembler](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler|Prog~Assembler]] 
 
-### #is_/same_as :: [Prog~Assembler.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.public|Prog~Assembler.public]] 
 
-### #is_/same_as :: [Prog~Assembler.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.internal|Prog~Assembler.internal]] 
 
-### #is_/same_as :: [Prog~Assembler.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.protect|Prog~Assembler.protect]] 
 
-### #is_/same_as :: [Prog~Assembler.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.private|Prog~Assembler.private]] 
 
-### #is_/same_as :: [Prog~Assembler.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.personal|Prog~Assembler.personal]] 
 
-### #is_/same_as :: [Prog~Assembler.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Imperative/Prog~Assembler.secret|Prog~Assembler.secret]] 
 

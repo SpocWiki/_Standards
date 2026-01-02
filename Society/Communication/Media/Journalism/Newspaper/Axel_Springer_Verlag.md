@@ -41,17 +41,17 @@ Axel_Springer_Verlag
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Axel_Springer_Verlag](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag|Axel_Springer_Verlag]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.public|Axel_Springer_Verlag.public]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.internal|Axel_Springer_Verlag.internal]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.protect|Axel_Springer_Verlag.protect]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.private|Axel_Springer_Verlag.private]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.personal|Axel_Springer_Verlag.personal]] 
 
-### #is_/same_as :: [Axel_Springer_Verlag.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag.secret|Axel_Springer_Verlag.secret]] 
 

@@ -130,17 +130,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_communication,7112587]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communication](/_Standards/Society/Communication.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication|Communication]] 
 
-### #is_/same_as :: [Communication.public](/_public/Society/Communication.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication.public|Communication.public]] 
 
-### #is_/same_as :: [Communication.internal](/_internal/Society/Communication.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication.internal|Communication.internal]] 
 
-### #is_/same_as :: [Communication.protect](/_protect/Society/Communication.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication.protect|Communication.protect]] 
 
-### #is_/same_as :: [Communication.private](/_private/Society/Communication.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication.private|Communication.private]] 
 
-### #is_/same_as :: [Communication.personal](/_personal/Society/Communication.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication.personal|Communication.personal]] 
 
-### #is_/same_as :: [Communication.secret](/_secret/Society/Communication.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication.secret|Communication.secret]] 
 

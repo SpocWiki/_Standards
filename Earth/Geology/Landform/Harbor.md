@@ -64,17 +64,17 @@ OpenStreetMap_tag: seamark:type=harbour
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harbor](/_Standards/Earth/Geology/Landform/Harbor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Harbor|Harbor]] 
 
-### #is_/same_as :: [Harbor.public](/_public/Earth/Geology/Landform/Harbor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Harbor.public|Harbor.public]] 
 
-### #is_/same_as :: [Harbor.internal](/_internal/Earth/Geology/Landform/Harbor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Harbor.internal|Harbor.internal]] 
 
-### #is_/same_as :: [Harbor.protect](/_protect/Earth/Geology/Landform/Harbor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Harbor.protect|Harbor.protect]] 
 
-### #is_/same_as :: [Harbor.private](/_private/Earth/Geology/Landform/Harbor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Harbor.private|Harbor.private]] 
 
-### #is_/same_as :: [Harbor.personal](/_personal/Earth/Geology/Landform/Harbor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Harbor.personal|Harbor.personal]] 
 
-### #is_/same_as :: [Harbor.secret](/_secret/Earth/Geology/Landform/Harbor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Harbor.secret|Harbor.secret]] 
 

@@ -39,17 +39,17 @@ A casino.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casino](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino|Casino]] 
 
-### #is_/same_as :: [Casino.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.public|Casino.public]] 
 
-### #is_/same_as :: [Casino.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.internal|Casino.internal]] 
 
-### #is_/same_as :: [Casino.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.protect|Casino.protect]] 
 
-### #is_/same_as :: [Casino.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.private|Casino.private]] 
 
-### #is_/same_as :: [Casino.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.personal|Casino.personal]] 
 
-### #is_/same_as :: [Casino.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Casino.secret|Casino.secret]] 
 

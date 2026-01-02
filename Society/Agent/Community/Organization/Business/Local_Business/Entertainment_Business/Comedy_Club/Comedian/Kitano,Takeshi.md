@@ -140,17 +140,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kitano,Takeshi](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi|Kitano,Takeshi]] 
 
-### #is_/same_as :: [Kitano,Takeshi.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.public|Kitano,Takeshi.public]] 
 
-### #is_/same_as :: [Kitano,Takeshi.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.internal|Kitano,Takeshi.internal]] 
 
-### #is_/same_as :: [Kitano,Takeshi.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.protect|Kitano,Takeshi.protect]] 
 
-### #is_/same_as :: [Kitano,Takeshi.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.private|Kitano,Takeshi.private]] 
 
-### #is_/same_as :: [Kitano,Takeshi.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.personal|Kitano,Takeshi.personal]] 
 
-### #is_/same_as :: [Kitano,Takeshi.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Kitano,Takeshi.secret|Kitano,Takeshi.secret]] 
 

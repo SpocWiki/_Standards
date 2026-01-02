@@ -84,17 +84,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [alt-right_Movement](/_Standards/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement|alt-right_Movement]] 
 
-### #is_/same_as :: [alt-right_Movement.public](/_public/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.public|alt-right_Movement.public]] 
 
-### #is_/same_as :: [alt-right_Movement.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.internal|alt-right_Movement.internal]] 
 
-### #is_/same_as :: [alt-right_Movement.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.protect|alt-right_Movement.protect]] 
 
-### #is_/same_as :: [alt-right_Movement.private](/_private/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.private|alt-right_Movement.private]] 
 
-### #is_/same_as :: [alt-right_Movement.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.personal|alt-right_Movement.personal]] 
 
-### #is_/same_as :: [alt-right_Movement.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/alt-right_Movement.secret|alt-right_Movement.secret]] 
 

@@ -41,17 +41,17 @@ A navigation element of the page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Site_Navigation_Element](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element|Site_Navigation_Element]] 
 
-### #is_/same_as :: [Site_Navigation_Element.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.public|Site_Navigation_Element.public]] 
 
-### #is_/same_as :: [Site_Navigation_Element.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.internal|Site_Navigation_Element.internal]] 
 
-### #is_/same_as :: [Site_Navigation_Element.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.protect|Site_Navigation_Element.protect]] 
 
-### #is_/same_as :: [Site_Navigation_Element.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.private|Site_Navigation_Element.private]] 
 
-### #is_/same_as :: [Site_Navigation_Element.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.personal|Site_Navigation_Element.personal]] 
 
-### #is_/same_as :: [Site_Navigation_Element.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Site_Navigation_Element.secret|Site_Navigation_Element.secret]] 
 

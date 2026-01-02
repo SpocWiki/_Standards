@@ -94,17 +94,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q7727 p:P2370/psn:P2370 [wikibase:quantityA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Minute](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute|Unit~Minute]] 
 
-### #is_/same_as :: [Unit~Minute.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.public|Unit~Minute.public]] 
 
-### #is_/same_as :: [Unit~Minute.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.internal|Unit~Minute.internal]] 
 
-### #is_/same_as :: [Unit~Minute.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.protect|Unit~Minute.protect]] 
 
-### #is_/same_as :: [Unit~Minute.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.private|Unit~Minute.private]] 
 
-### #is_/same_as :: [Unit~Minute.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.personal|Unit~Minute.personal]] 
 
-### #is_/same_as :: [Unit~Minute.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Minute.secret|Unit~Minute.secret]] 
 

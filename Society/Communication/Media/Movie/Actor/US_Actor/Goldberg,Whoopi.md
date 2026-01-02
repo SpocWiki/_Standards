@@ -185,17 +185,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Whoopi%20Goldberg%20Sp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goldberg,Whoopi](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi|Goldberg,Whoopi]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.public|Goldberg,Whoopi.public]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.internal|Goldberg,Whoopi.internal]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.protect|Goldberg,Whoopi.protect]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.private|Goldberg,Whoopi.private]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.personal|Goldberg,Whoopi.personal]] 
 
-### #is_/same_as :: [Goldberg,Whoopi.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Goldberg,Whoopi.secret|Goldberg,Whoopi.secret]] 
 

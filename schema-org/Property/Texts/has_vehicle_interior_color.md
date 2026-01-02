@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_vehicle_interior_color](/_Standards/schema-org/Property/Texts/has_vehicle_interior_color.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_vehicle_interior_color|has_vehicle_interior_color]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.public](/_public/schema-org/Property/Texts/has_vehicle_interior_color.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_vehicle_interior_color.public|has_vehicle_interior_color.public]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.internal](/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_vehicle_interior_color.internal|has_vehicle_interior_color.internal]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.protect](/_protect/schema-org/Property/Texts/has_vehicle_interior_color.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_vehicle_interior_color.protect|has_vehicle_interior_color.protect]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.private](/_private/schema-org/Property/Texts/has_vehicle_interior_color.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_vehicle_interior_color.private|has_vehicle_interior_color.private]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.personal](/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_vehicle_interior_color.personal|has_vehicle_interior_color.personal]] 
 
-### #is_/same_as :: [has_vehicle_interior_color.secret](/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_vehicle_interior_color.secret|has_vehicle_interior_color.secret]] 
 

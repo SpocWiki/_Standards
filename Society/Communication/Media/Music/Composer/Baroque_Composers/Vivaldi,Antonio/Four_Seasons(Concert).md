@@ -66,17 +66,17 @@ title: Cimento dell'armonia e dell'inventione. N. 1.-4.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Four_Seasons(Concert)](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert)|Four_Seasons(Concert)]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).public|Four_Seasons(Concert).public]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).internal|Four_Seasons(Concert).internal]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).protect|Four_Seasons(Concert).protect]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).private|Four_Seasons(Concert).private]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).personal|Four_Seasons(Concert).personal]] 
 
-### #is_/same_as :: [Four_Seasons(Concert).secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Vivaldi,Antonio/Four_Seasons(Concert).secret|Four_Seasons(Concert).secret]] 
 

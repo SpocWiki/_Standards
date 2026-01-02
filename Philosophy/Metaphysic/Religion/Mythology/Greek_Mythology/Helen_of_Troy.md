@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Helen_of_Troy](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy|Helen_of_Troy]] 
 
-### #is_/same_as :: [Helen_of_Troy.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.public|Helen_of_Troy.public]] 
 
-### #is_/same_as :: [Helen_of_Troy.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.internal|Helen_of_Troy.internal]] 
 
-### #is_/same_as :: [Helen_of_Troy.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.protect|Helen_of_Troy.protect]] 
 
-### #is_/same_as :: [Helen_of_Troy.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.private|Helen_of_Troy.private]] 
 
-### #is_/same_as :: [Helen_of_Troy.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.personal|Helen_of_Troy.personal]] 
 
-### #is_/same_as :: [Helen_of_Troy.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Helen_of_Troy.secret|Helen_of_Troy.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_max_price](/_Standards/schema-org/Property/has_value_for/has_value_for_max_price.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_max_price|has_value_for_max_price]] 
 
-### #is_/same_as :: [has_value_for_max_price.public](/_public/schema-org/Property/has_value_for/has_value_for_max_price.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_max_price.public|has_value_for_max_price.public]] 
 
-### #is_/same_as :: [has_value_for_max_price.internal](/_internal/schema-org/Property/has_value_for/has_value_for_max_price.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_max_price.internal|has_value_for_max_price.internal]] 
 
-### #is_/same_as :: [has_value_for_max_price.protect](/_protect/schema-org/Property/has_value_for/has_value_for_max_price.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_max_price.protect|has_value_for_max_price.protect]] 
 
-### #is_/same_as :: [has_value_for_max_price.private](/_private/schema-org/Property/has_value_for/has_value_for_max_price.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_max_price.private|has_value_for_max_price.private]] 
 
-### #is_/same_as :: [has_value_for_max_price.personal](/_personal/schema-org/Property/has_value_for/has_value_for_max_price.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_max_price.personal|has_value_for_max_price.personal]] 
 
-### #is_/same_as :: [has_value_for_max_price.secret](/_secret/schema-org/Property/has_value_for/has_value_for_max_price.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_max_price.secret|has_value_for_max_price.secret]] 
 

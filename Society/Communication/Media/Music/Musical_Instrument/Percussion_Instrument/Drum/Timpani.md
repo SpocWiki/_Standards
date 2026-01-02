@@ -56,17 +56,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/LITAVRI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timpani](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani|Timpani]] 
 
-### #is_/same_as :: [Timpani.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.public|Timpani.public]] 
 
-### #is_/same_as :: [Timpani.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.internal|Timpani.internal]] 
 
-### #is_/same_as :: [Timpani.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.protect|Timpani.protect]] 
 
-### #is_/same_as :: [Timpani.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.private|Timpani.private]] 
 
-### #is_/same_as :: [Timpani.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.personal|Timpani.personal]] 
 
-### #is_/same_as :: [Timpani.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Drum/Timpani.secret|Timpani.secret]] 
 

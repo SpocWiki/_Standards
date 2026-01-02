@@ -39,17 +39,17 @@ IEV_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wave_Interference](/_Standards/Science/Physics/Wave/Wave_Interference.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Wave_Interference|Wave_Interference]] 
 
-### #is_/same_as :: [Wave_Interference.public](/_public/Science/Physics/Wave/Wave_Interference.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Wave_Interference.public|Wave_Interference.public]] 
 
-### #is_/same_as :: [Wave_Interference.internal](/_internal/Science/Physics/Wave/Wave_Interference.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Wave_Interference.internal|Wave_Interference.internal]] 
 
-### #is_/same_as :: [Wave_Interference.protect](/_protect/Science/Physics/Wave/Wave_Interference.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Wave_Interference.protect|Wave_Interference.protect]] 
 
-### #is_/same_as :: [Wave_Interference.private](/_private/Science/Physics/Wave/Wave_Interference.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Wave_Interference.private|Wave_Interference.private]] 
 
-### #is_/same_as :: [Wave_Interference.personal](/_personal/Science/Physics/Wave/Wave_Interference.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Wave_Interference.personal|Wave_Interference.personal]] 
 
-### #is_/same_as :: [Wave_Interference.secret](/_secret/Science/Physics/Wave/Wave_Interference.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Wave_Interference.secret|Wave_Interference.secret]] 
 

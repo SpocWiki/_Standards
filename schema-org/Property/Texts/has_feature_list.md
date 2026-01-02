@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_feature_list](/_Standards/schema-org/Property/Texts/has_feature_list.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_feature_list|has_feature_list]] 
 
-### #is_/same_as :: [has_feature_list.public](/_public/schema-org/Property/Texts/has_feature_list.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_feature_list.public|has_feature_list.public]] 
 
-### #is_/same_as :: [has_feature_list.internal](/_internal/schema-org/Property/Texts/has_feature_list.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_feature_list.internal|has_feature_list.internal]] 
 
-### #is_/same_as :: [has_feature_list.protect](/_protect/schema-org/Property/Texts/has_feature_list.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_feature_list.protect|has_feature_list.protect]] 
 
-### #is_/same_as :: [has_feature_list.private](/_private/schema-org/Property/Texts/has_feature_list.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_feature_list.private|has_feature_list.private]] 
 
-### #is_/same_as :: [has_feature_list.personal](/_personal/schema-org/Property/Texts/has_feature_list.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_feature_list.personal|has_feature_list.personal]] 
 
-### #is_/same_as :: [has_feature_list.secret](/_secret/schema-org/Property/Texts/has_feature_list.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_feature_list.secret|has_feature_list.secret]] 
 

@@ -51,17 +51,17 @@ MeSH_tree_code: K01.752.667.400
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Empiricism](/_Standards/Philosophy/Epistemology/Empiricism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Empiricism|Empiricism]] 
 
-### #is_/same_as :: [Empiricism.public](/_public/Philosophy/Epistemology/Empiricism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Empiricism.public|Empiricism.public]] 
 
-### #is_/same_as :: [Empiricism.internal](/_internal/Philosophy/Epistemology/Empiricism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Empiricism.internal|Empiricism.internal]] 
 
-### #is_/same_as :: [Empiricism.protect](/_protect/Philosophy/Epistemology/Empiricism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Empiricism.protect|Empiricism.protect]] 
 
-### #is_/same_as :: [Empiricism.private](/_private/Philosophy/Epistemology/Empiricism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Empiricism.private|Empiricism.private]] 
 
-### #is_/same_as :: [Empiricism.personal](/_personal/Philosophy/Epistemology/Empiricism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Empiricism.personal|Empiricism.personal]] 
 
-### #is_/same_as :: [Empiricism.secret](/_secret/Philosophy/Epistemology/Empiricism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Empiricism.secret|Empiricism.secret]] 
 

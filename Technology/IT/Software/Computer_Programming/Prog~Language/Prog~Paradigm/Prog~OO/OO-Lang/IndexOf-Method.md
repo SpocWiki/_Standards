@@ -30,17 +30,17 @@ static int Position(this string weakKey, string search) {
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IndexOf-Method](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method|IndexOf-Method]] 
 
-### #is_/same_as :: [IndexOf-Method.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.public|IndexOf-Method.public]] 
 
-### #is_/same_as :: [IndexOf-Method.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.internal|IndexOf-Method.internal]] 
 
-### #is_/same_as :: [IndexOf-Method.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.protect|IndexOf-Method.protect]] 
 
-### #is_/same_as :: [IndexOf-Method.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.private|IndexOf-Method.private]] 
 
-### #is_/same_as :: [IndexOf-Method.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.personal|IndexOf-Method.personal]] 
 
-### #is_/same_as :: [IndexOf-Method.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO-Lang/IndexOf-Method.secret|IndexOf-Method.secret]] 
 

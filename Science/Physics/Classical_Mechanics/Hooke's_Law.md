@@ -87,17 +87,17 @@ Commons_category: Hooke's law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hooke's_Law](/_Standards/Science/Physics/Classical_Mechanics/Hooke's_Law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Hooke's_Law|Hooke's_Law]] 
 
-### #is_/same_as :: [Hooke's_Law.public](/_public/Science/Physics/Classical_Mechanics/Hooke's_Law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Hooke's_Law.public|Hooke's_Law.public]] 
 
-### #is_/same_as :: [Hooke's_Law.internal](/_internal/Science/Physics/Classical_Mechanics/Hooke's_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Hooke's_Law.internal|Hooke's_Law.internal]] 
 
-### #is_/same_as :: [Hooke's_Law.protect](/_protect/Science/Physics/Classical_Mechanics/Hooke's_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Hooke's_Law.protect|Hooke's_Law.protect]] 
 
-### #is_/same_as :: [Hooke's_Law.private](/_private/Science/Physics/Classical_Mechanics/Hooke's_Law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Hooke's_Law.private|Hooke's_Law.private]] 
 
-### #is_/same_as :: [Hooke's_Law.personal](/_personal/Science/Physics/Classical_Mechanics/Hooke's_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Hooke's_Law.personal|Hooke's_Law.personal]] 
 
-### #is_/same_as :: [Hooke's_Law.secret](/_secret/Science/Physics/Classical_Mechanics/Hooke's_Law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Hooke's_Law.secret|Hooke's_Law.secret]] 
 

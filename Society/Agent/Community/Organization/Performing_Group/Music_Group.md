@@ -45,17 +45,17 @@ A musical group, such as a band, an orchestra, or a choir. Can also be a solo mu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Group](/_Standards/Society/Agent/Community/Organization/Performing_Group/Music_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Performing_Group/Music_Group|Music_Group]] 
 
-### #is_/same_as :: [Music_Group.public](/_public/Society/Agent/Community/Organization/Performing_Group/Music_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Performing_Group/Music_Group.public|Music_Group.public]] 
 
-### #is_/same_as :: [Music_Group.internal](/_internal/Society/Agent/Community/Organization/Performing_Group/Music_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Performing_Group/Music_Group.internal|Music_Group.internal]] 
 
-### #is_/same_as :: [Music_Group.protect](/_protect/Society/Agent/Community/Organization/Performing_Group/Music_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Performing_Group/Music_Group.protect|Music_Group.protect]] 
 
-### #is_/same_as :: [Music_Group.private](/_private/Society/Agent/Community/Organization/Performing_Group/Music_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Performing_Group/Music_Group.private|Music_Group.private]] 
 
-### #is_/same_as :: [Music_Group.personal](/_personal/Society/Agent/Community/Organization/Performing_Group/Music_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Performing_Group/Music_Group.personal|Music_Group.personal]] 
 
-### #is_/same_as :: [Music_Group.secret](/_secret/Society/Agent/Community/Organization/Performing_Group/Music_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Performing_Group/Music_Group.secret|Music_Group.secret]] 
 

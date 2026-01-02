@@ -71,17 +71,17 @@ MeSH_tree_code: H01.671.493
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism|Magnetism]] 
 
-### #is_/same_as :: [Magnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.public|Magnetism.public]] 
 
-### #is_/same_as :: [Magnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.internal|Magnetism.internal]] 
 
-### #is_/same_as :: [Magnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.protect|Magnetism.protect]] 
 
-### #is_/same_as :: [Magnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.private|Magnetism.private]] 
 
-### #is_/same_as :: [Magnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.personal|Magnetism.personal]] 
 
-### #is_/same_as :: [Magnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetism.secret|Magnetism.secret]] 
 

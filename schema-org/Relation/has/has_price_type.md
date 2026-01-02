@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_price_type](/_Standards/schema-org/Relation/has/has_price_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_price_type|has_price_type]] 
 
-### #is_/same_as :: [has_price_type.public](/_public/schema-org/Relation/has/has_price_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_price_type.public|has_price_type.public]] 
 
-### #is_/same_as :: [has_price_type.internal](/_internal/schema-org/Relation/has/has_price_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_price_type.internal|has_price_type.internal]] 
 
-### #is_/same_as :: [has_price_type.protect](/_protect/schema-org/Relation/has/has_price_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_price_type.protect|has_price_type.protect]] 
 
-### #is_/same_as :: [has_price_type.private](/_private/schema-org/Relation/has/has_price_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_price_type.private|has_price_type.private]] 
 
-### #is_/same_as :: [has_price_type.personal](/_personal/schema-org/Relation/has/has_price_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_price_type.personal|has_price_type.personal]] 
 
-### #is_/same_as :: [has_price_type.secret](/_secret/schema-org/Relation/has/has_price_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_price_type.secret|has_price_type.secret]] 
 

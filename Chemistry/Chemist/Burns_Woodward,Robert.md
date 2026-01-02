@@ -102,17 +102,17 @@ ISNI: 0000000109657250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burns_Woodward,Robert](/_Standards/Chemistry/Chemist/Burns_Woodward,Robert.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Burns_Woodward,Robert|Burns_Woodward,Robert]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.public](/_public/Chemistry/Chemist/Burns_Woodward,Robert.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Burns_Woodward,Robert.public|Burns_Woodward,Robert.public]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.internal](/_internal/Chemistry/Chemist/Burns_Woodward,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Burns_Woodward,Robert.internal|Burns_Woodward,Robert.internal]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.protect](/_protect/Chemistry/Chemist/Burns_Woodward,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Burns_Woodward,Robert.protect|Burns_Woodward,Robert.protect]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.private](/_private/Chemistry/Chemist/Burns_Woodward,Robert.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Burns_Woodward,Robert.private|Burns_Woodward,Robert.private]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.personal](/_personal/Chemistry/Chemist/Burns_Woodward,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Burns_Woodward,Robert.personal|Burns_Woodward,Robert.personal]] 
 
-### #is_/same_as :: [Burns_Woodward,Robert.secret](/_secret/Chemistry/Chemist/Burns_Woodward,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Burns_Woodward,Robert.secret|Burns_Woodward,Robert.secret]] 
 

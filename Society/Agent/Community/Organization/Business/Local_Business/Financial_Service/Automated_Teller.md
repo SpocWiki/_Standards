@@ -41,17 +41,17 @@ ATM/cash machine.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Automated_Teller](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller|Automated_Teller]] 
 
-### #is_/same_as :: [Automated_Teller.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.public|Automated_Teller.public]] 
 
-### #is_/same_as :: [Automated_Teller.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.internal|Automated_Teller.internal]] 
 
-### #is_/same_as :: [Automated_Teller.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.protect|Automated_Teller.protect]] 
 
-### #is_/same_as :: [Automated_Teller.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.private|Automated_Teller.private]] 
 
-### #is_/same_as :: [Automated_Teller.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.personal|Automated_Teller.personal]] 
 
-### #is_/same_as :: [Automated_Teller.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Financial_Service/Automated_Teller.secret|Automated_Teller.secret]] 
 

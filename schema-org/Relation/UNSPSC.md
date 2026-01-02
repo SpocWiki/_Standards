@@ -41,17 +41,17 @@ Login: heuerm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNSPSC](/_Standards/schema-org/Relation/UNSPSC.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/UNSPSC|UNSPSC]] 
 
-### #is_/same_as :: [UNSPSC.public](/_public/schema-org/Relation/UNSPSC.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/UNSPSC.public|UNSPSC.public]] 
 
-### #is_/same_as :: [UNSPSC.internal](/_internal/schema-org/Relation/UNSPSC.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/UNSPSC.internal|UNSPSC.internal]] 
 
-### #is_/same_as :: [UNSPSC.protect](/_protect/schema-org/Relation/UNSPSC.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/UNSPSC.protect|UNSPSC.protect]] 
 
-### #is_/same_as :: [UNSPSC.private](/_private/schema-org/Relation/UNSPSC.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/UNSPSC.private|UNSPSC.private]] 
 
-### #is_/same_as :: [UNSPSC.personal](/_personal/schema-org/Relation/UNSPSC.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/UNSPSC.personal|UNSPSC.personal]] 
 
-### #is_/same_as :: [UNSPSC.secret](/_secret/schema-org/Relation/UNSPSC.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/UNSPSC.secret|UNSPSC.secret]] 
 

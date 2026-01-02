@@ -39,17 +39,17 @@ GeoNames_feature_code: T.PLAT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plateau](/_Standards/Earth/Geology/Landform/Plateau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Plateau|Plateau]] 
 
-### #is_/same_as :: [Plateau.public](/_public/Earth/Geology/Landform/Plateau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Plateau.public|Plateau.public]] 
 
-### #is_/same_as :: [Plateau.internal](/_internal/Earth/Geology/Landform/Plateau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Plateau.internal|Plateau.internal]] 
 
-### #is_/same_as :: [Plateau.protect](/_protect/Earth/Geology/Landform/Plateau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Plateau.protect|Plateau.protect]] 
 
-### #is_/same_as :: [Plateau.private](/_private/Earth/Geology/Landform/Plateau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Plateau.private|Plateau.private]] 
 
-### #is_/same_as :: [Plateau.personal](/_personal/Earth/Geology/Landform/Plateau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Plateau.personal|Plateau.personal]] 
 
-### #is_/same_as :: [Plateau.secret](/_secret/Earth/Geology/Landform/Plateau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Plateau.secret|Plateau.secret]] 
 

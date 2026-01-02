@@ -38,17 +38,17 @@ Commons_category: Isomerism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isomer](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer|Isomer]] 
 
-### #is_/same_as :: [Isomer.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.public|Isomer.public]] 
 
-### #is_/same_as :: [Isomer.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.internal|Isomer.internal]] 
 
-### #is_/same_as :: [Isomer.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.protect|Isomer.protect]] 
 
-### #is_/same_as :: [Isomer.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.private|Isomer.private]] 
 
-### #is_/same_as :: [Isomer.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.personal|Isomer.personal]] 
 
-### #is_/same_as :: [Isomer.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Covalent_Bond/Isomer.secret|Isomer.secret]] 
 

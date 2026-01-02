@@ -50,17 +50,17 @@ Commons_category: Glaciology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glaciology](/_Standards/Earth/Geology/Landform/Glacier/Glaciology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Glacier/Glaciology|Glaciology]] 
 
-### #is_/same_as :: [Glaciology.public](/_public/Earth/Geology/Landform/Glacier/Glaciology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Glacier/Glaciology.public|Glaciology.public]] 
 
-### #is_/same_as :: [Glaciology.internal](/_internal/Earth/Geology/Landform/Glacier/Glaciology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Glacier/Glaciology.internal|Glaciology.internal]] 
 
-### #is_/same_as :: [Glaciology.protect](/_protect/Earth/Geology/Landform/Glacier/Glaciology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Glacier/Glaciology.protect|Glaciology.protect]] 
 
-### #is_/same_as :: [Glaciology.private](/_private/Earth/Geology/Landform/Glacier/Glaciology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Glacier/Glaciology.private|Glaciology.private]] 
 
-### #is_/same_as :: [Glaciology.personal](/_personal/Earth/Geology/Landform/Glacier/Glaciology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Glacier/Glaciology.personal|Glaciology.personal]] 
 
-### #is_/same_as :: [Glaciology.secret](/_secret/Earth/Geology/Landform/Glacier/Glaciology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Glacier/Glaciology.secret|Glaciology.secret]] 
 

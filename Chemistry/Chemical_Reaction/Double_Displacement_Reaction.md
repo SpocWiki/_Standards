@@ -32,17 +32,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Golden%20rain%20demons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Double_Displacement_Reaction](/_Standards/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Double_Displacement_Reaction|Double_Displacement_Reaction]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.public](/_public/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.public|Double_Displacement_Reaction.public]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.internal](/_internal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.internal|Double_Displacement_Reaction.internal]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.protect](/_protect/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.protect|Double_Displacement_Reaction.protect]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.private](/_private/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.private|Double_Displacement_Reaction.private]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.personal](/_personal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.personal|Double_Displacement_Reaction.personal]] 
 
-### #is_/same_as :: [Double_Displacement_Reaction.secret](/_secret/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Double_Displacement_Reaction.secret|Double_Displacement_Reaction.secret]] 
 

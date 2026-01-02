@@ -71,17 +71,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Environmentalism](/_Standards/Society/Ideology/Environmentalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Environmentalism|Environmentalism]] 
 
-### #is_/same_as :: [Environmentalism.public](/_public/Society/Ideology/Environmentalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Environmentalism.public|Environmentalism.public]] 
 
-### #is_/same_as :: [Environmentalism.internal](/_internal/Society/Ideology/Environmentalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Environmentalism.internal|Environmentalism.internal]] 
 
-### #is_/same_as :: [Environmentalism.protect](/_protect/Society/Ideology/Environmentalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Environmentalism.protect|Environmentalism.protect]] 
 
-### #is_/same_as :: [Environmentalism.private](/_private/Society/Ideology/Environmentalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Environmentalism.private|Environmentalism.private]] 
 
-### #is_/same_as :: [Environmentalism.personal](/_personal/Society/Ideology/Environmentalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Environmentalism.personal|Environmentalism.personal]] 
 
-### #is_/same_as :: [Environmentalism.secret](/_secret/Society/Ideology/Environmentalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Environmentalism.secret|Environmentalism.secret]] 
 

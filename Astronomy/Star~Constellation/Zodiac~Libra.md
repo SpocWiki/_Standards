@@ -78,17 +78,17 @@ official_name: Libra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Libra](/_Standards/Astronomy/Star~Constellation/Zodiac~Libra.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Libra|Zodiac~Libra]] 
 
-### #is_/same_as :: [Zodiac~Libra.public](/_public/Astronomy/Star~Constellation/Zodiac~Libra.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Libra.public|Zodiac~Libra.public]] 
 
-### #is_/same_as :: [Zodiac~Libra.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Libra.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Libra.internal|Zodiac~Libra.internal]] 
 
-### #is_/same_as :: [Zodiac~Libra.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Libra.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Libra.protect|Zodiac~Libra.protect]] 
 
-### #is_/same_as :: [Zodiac~Libra.private](/_private/Astronomy/Star~Constellation/Zodiac~Libra.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Libra.private|Zodiac~Libra.private]] 
 
-### #is_/same_as :: [Zodiac~Libra.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Libra.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Libra.personal|Zodiac~Libra.personal]] 
 
-### #is_/same_as :: [Zodiac~Libra.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Libra.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Libra.secret|Zodiac~Libra.secret]] 
 

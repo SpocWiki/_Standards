@@ -54,17 +54,17 @@ OpenStreetMap_tag_or_key: Tag:reef=coral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coral_Reef](/_Standards/Earth/Climate/Biosphere/Biomes/Coral_Reef.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Coral_Reef|Coral_Reef]] 
 
-### #is_/same_as :: [Coral_Reef.public](/_public/Earth/Climate/Biosphere/Biomes/Coral_Reef.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Coral_Reef.public|Coral_Reef.public]] 
 
-### #is_/same_as :: [Coral_Reef.internal](/_internal/Earth/Climate/Biosphere/Biomes/Coral_Reef.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Coral_Reef.internal|Coral_Reef.internal]] 
 
-### #is_/same_as :: [Coral_Reef.protect](/_protect/Earth/Climate/Biosphere/Biomes/Coral_Reef.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Coral_Reef.protect|Coral_Reef.protect]] 
 
-### #is_/same_as :: [Coral_Reef.private](/_private/Earth/Climate/Biosphere/Biomes/Coral_Reef.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Coral_Reef.private|Coral_Reef.private]] 
 
-### #is_/same_as :: [Coral_Reef.personal](/_personal/Earth/Climate/Biosphere/Biomes/Coral_Reef.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Coral_Reef.personal|Coral_Reef.personal]] 
 
-### #is_/same_as :: [Coral_Reef.secret](/_secret/Earth/Climate/Biosphere/Biomes/Coral_Reef.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Coral_Reef.secret|Coral_Reef.secret]] 
 

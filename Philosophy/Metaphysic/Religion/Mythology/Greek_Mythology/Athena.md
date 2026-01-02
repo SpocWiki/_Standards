@@ -68,17 +68,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Athena](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena|Athena]] 
 
-### #is_/same_as :: [Athena.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.public|Athena.public]] 
 
-### #is_/same_as :: [Athena.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.internal|Athena.internal]] 
 
-### #is_/same_as :: [Athena.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.protect|Athena.protect]] 
 
-### #is_/same_as :: [Athena.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.private|Athena.private]] 
 
-### #is_/same_as :: [Athena.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.personal|Athena.personal]] 
 
-### #is_/same_as :: [Athena.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Athena.secret|Athena.secret]] 
 

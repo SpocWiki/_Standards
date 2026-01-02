@@ -140,17 +140,17 @@ BHCL_UUID: a096c6ad-ba77-4a89-8efe-0057a9ec2c32
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stevenson,Robert_Louis](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis|Stevenson,Robert_Louis]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.public|Stevenson,Robert_Louis.public]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.internal|Stevenson,Robert_Louis.internal]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.protect|Stevenson,Robert_Louis.protect]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.private|Stevenson,Robert_Louis.private]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.personal|Stevenson,Robert_Louis.personal]] 
 
-### #is_/same_as :: [Stevenson,Robert_Louis.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Stevenson,Robert_Louis.secret|Stevenson,Robert_Louis.secret]] 
 

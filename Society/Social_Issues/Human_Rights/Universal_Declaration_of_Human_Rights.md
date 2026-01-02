@@ -197,17 +197,17 @@ Commons_category: Universal Declaration of Human Rights
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights](/_Standards/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights|Universal_Declaration_of_Human_Rights]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.public](/_public/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.public|Universal_Declaration_of_Human_Rights.public]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.internal](/_internal/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.internal|Universal_Declaration_of_Human_Rights.internal]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.protect](/_protect/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.protect|Universal_Declaration_of_Human_Rights.protect]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.private](/_private/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.private|Universal_Declaration_of_Human_Rights.private]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.personal](/_personal/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.personal|Universal_Declaration_of_Human_Rights.personal]] 
 
-### #is_/same_as :: [Universal_Declaration_of_Human_Rights.secret](/_secret/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Universal_Declaration_of_Human_Rights.secret|Universal_Declaration_of_Human_Rights.secret]] 
 

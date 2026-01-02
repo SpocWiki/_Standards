@@ -55,17 +55,17 @@ IPTC_NewsCode: mediatopic/20000748
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information_Science](/_Standards/Philosophy/Epistemology/Information/Information_Science.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Information/Information_Science|Information_Science]] 
 
-### #is_/same_as :: [Information_Science.public](/_public/Philosophy/Epistemology/Information/Information_Science.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Information/Information_Science.public|Information_Science.public]] 
 
-### #is_/same_as :: [Information_Science.internal](/_internal/Philosophy/Epistemology/Information/Information_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Information/Information_Science.internal|Information_Science.internal]] 
 
-### #is_/same_as :: [Information_Science.protect](/_protect/Philosophy/Epistemology/Information/Information_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Information/Information_Science.protect|Information_Science.protect]] 
 
-### #is_/same_as :: [Information_Science.private](/_private/Philosophy/Epistemology/Information/Information_Science.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Information/Information_Science.private|Information_Science.private]] 
 
-### #is_/same_as :: [Information_Science.personal](/_personal/Philosophy/Epistemology/Information/Information_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Information/Information_Science.personal|Information_Science.personal]] 
 
-### #is_/same_as :: [Information_Science.secret](/_secret/Philosophy/Epistemology/Information/Information_Science.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Information/Information_Science.secret|Information_Science.secret]] 
 

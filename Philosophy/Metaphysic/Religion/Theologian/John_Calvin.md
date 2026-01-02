@@ -150,17 +150,17 @@ ISNI: 0000000121030063
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [John_Calvin](/_Standards/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Theologian/John_Calvin|John_Calvin]] 
 
-### #is_/same_as :: [John_Calvin.public](/_public/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.public|John_Calvin.public]] 
 
-### #is_/same_as :: [John_Calvin.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.internal|John_Calvin.internal]] 
 
-### #is_/same_as :: [John_Calvin.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.protect|John_Calvin.protect]] 
 
-### #is_/same_as :: [John_Calvin.private](/_private/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.private|John_Calvin.private]] 
 
-### #is_/same_as :: [John_Calvin.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.personal|John_Calvin.personal]] 
 
-### #is_/same_as :: [John_Calvin.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Theologian/John_Calvin.secret|John_Calvin.secret]] 
 

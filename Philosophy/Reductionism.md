@@ -41,17 +41,17 @@ Commons_category: Reductionism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reductionism](/_Standards/Philosophy/Reductionism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Reductionism|Reductionism]] 
 
-### #is_/same_as :: [Reductionism.public](/_public/Philosophy/Reductionism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Reductionism.public|Reductionism.public]] 
 
-### #is_/same_as :: [Reductionism.internal](/_internal/Philosophy/Reductionism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Reductionism.internal|Reductionism.internal]] 
 
-### #is_/same_as :: [Reductionism.protect](/_protect/Philosophy/Reductionism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Reductionism.protect|Reductionism.protect]] 
 
-### #is_/same_as :: [Reductionism.private](/_private/Philosophy/Reductionism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Reductionism.private|Reductionism.private]] 
 
-### #is_/same_as :: [Reductionism.personal](/_personal/Philosophy/Reductionism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Reductionism.personal|Reductionism.personal]] 
 
-### #is_/same_as :: [Reductionism.secret](/_secret/Philosophy/Reductionism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Reductionism.secret|Reductionism.secret]] 
 

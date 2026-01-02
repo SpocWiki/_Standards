@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_contact_point](/_Standards/schema-org/Relation/has/has_contact_point.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_contact_point|has_contact_point]] 
 
-### #is_/same_as :: [has_contact_point.public](/_public/schema-org/Relation/has/has_contact_point.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_contact_point.public|has_contact_point.public]] 
 
-### #is_/same_as :: [has_contact_point.internal](/_internal/schema-org/Relation/has/has_contact_point.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_contact_point.internal|has_contact_point.internal]] 
 
-### #is_/same_as :: [has_contact_point.protect](/_protect/schema-org/Relation/has/has_contact_point.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_contact_point.protect|has_contact_point.protect]] 
 
-### #is_/same_as :: [has_contact_point.private](/_private/schema-org/Relation/has/has_contact_point.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_contact_point.private|has_contact_point.private]] 
 
-### #is_/same_as :: [has_contact_point.personal](/_personal/schema-org/Relation/has/has_contact_point.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_contact_point.personal|has_contact_point.personal]] 
 
-### #is_/same_as :: [has_contact_point.secret](/_secret/schema-org/Relation/has/has_contact_point.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_contact_point.secret|has_contact_point.secret]] 
 

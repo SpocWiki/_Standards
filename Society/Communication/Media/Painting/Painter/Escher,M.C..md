@@ -172,17 +172,17 @@ IPA_transcription: '[ˈmʌurɪt͡s kɔrˈneːlɪs ˈɛʃər]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Escher,M.C.](/_Standards/Society/Communication/Media/Painting/Painter/Escher,M.C..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Escher,M.C.|Escher,M.C.]] 
 
-### #is_/same_as :: [Escher,M.C..public](/_public/Society/Communication/Media/Painting/Painter/Escher,M.C..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Escher,M.C..public|Escher,M.C..public]] 
 
-### #is_/same_as :: [Escher,M.C..internal](/_internal/Society/Communication/Media/Painting/Painter/Escher,M.C..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Escher,M.C..internal|Escher,M.C..internal]] 
 
-### #is_/same_as :: [Escher,M.C..protect](/_protect/Society/Communication/Media/Painting/Painter/Escher,M.C..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Escher,M.C..protect|Escher,M.C..protect]] 
 
-### #is_/same_as :: [Escher,M.C..private](/_private/Society/Communication/Media/Painting/Painter/Escher,M.C..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Escher,M.C..private|Escher,M.C..private]] 
 
-### #is_/same_as :: [Escher,M.C..personal](/_personal/Society/Communication/Media/Painting/Painter/Escher,M.C..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Escher,M.C..personal|Escher,M.C..personal]] 
 
-### #is_/same_as :: [Escher,M.C..secret](/_secret/Society/Communication/Media/Painting/Painter/Escher,M.C..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Escher,M.C..secret|Escher,M.C..secret]] 
 

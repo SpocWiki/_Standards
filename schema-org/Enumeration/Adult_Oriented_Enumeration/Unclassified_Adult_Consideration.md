@@ -44,17 +44,17 @@ The item is suitable only for adults, without indicating why. Due to widespread 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration|Unclassified_Adult_Consideration]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.public|Unclassified_Adult_Consideration.public]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.internal|Unclassified_Adult_Consideration.internal]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.protect|Unclassified_Adult_Consideration.protect]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.private|Unclassified_Adult_Consideration.private]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.personal|Unclassified_Adult_Consideration.personal]] 
 
-### #is_/same_as :: [Unclassified_Adult_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Unclassified_Adult_Consideration.secret|Unclassified_Adult_Consideration.secret]] 
 

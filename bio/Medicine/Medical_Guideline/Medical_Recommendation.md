@@ -43,17 +43,17 @@ A guideline recommendation that is regarded as efficacious and where quality of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Recommendation](/_Standards/bio/Medicine/Medical_Guideline/Medical_Recommendation.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Recommendation|Medical_Recommendation]] 
 
-### #is_/same_as :: [Medical_Recommendation.public](/_public/bio/Medicine/Medical_Guideline/Medical_Recommendation.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Recommendation.public|Medical_Recommendation.public]] 
 
-### #is_/same_as :: [Medical_Recommendation.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Recommendation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Recommendation.internal|Medical_Recommendation.internal]] 
 
-### #is_/same_as :: [Medical_Recommendation.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Recommendation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Recommendation.protect|Medical_Recommendation.protect]] 
 
-### #is_/same_as :: [Medical_Recommendation.private](/_private/bio/Medicine/Medical_Guideline/Medical_Recommendation.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Recommendation.private|Medical_Recommendation.private]] 
 
-### #is_/same_as :: [Medical_Recommendation.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Recommendation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Recommendation.personal|Medical_Recommendation.personal]] 
 
-### #is_/same_as :: [Medical_Recommendation.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Recommendation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Recommendation.secret|Medical_Recommendation.secret]] 
 

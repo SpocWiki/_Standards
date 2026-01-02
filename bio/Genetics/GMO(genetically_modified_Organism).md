@@ -74,17 +74,17 @@ MeSH_tree_code: B05.620
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism)](/_Standards/bio/Genetics/GMO(genetically_modified_Organism).md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/GMO(genetically_modified_Organism)|GMO(genetically_modified_Organism)]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).public](/_public/bio/Genetics/GMO(genetically_modified_Organism).public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/GMO(genetically_modified_Organism).public|GMO(genetically_modified_Organism).public]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).internal](/_internal/bio/Genetics/GMO(genetically_modified_Organism).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/GMO(genetically_modified_Organism).internal|GMO(genetically_modified_Organism).internal]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).protect](/_protect/bio/Genetics/GMO(genetically_modified_Organism).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/GMO(genetically_modified_Organism).protect|GMO(genetically_modified_Organism).protect]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).private](/_private/bio/Genetics/GMO(genetically_modified_Organism).private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/GMO(genetically_modified_Organism).private|GMO(genetically_modified_Organism).private]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).personal](/_personal/bio/Genetics/GMO(genetically_modified_Organism).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/GMO(genetically_modified_Organism).personal|GMO(genetically_modified_Organism).personal]] 
 
-### #is_/same_as :: [GMO(genetically_modified_Organism).secret](/_secret/bio/Genetics/GMO(genetically_modified_Organism).secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/GMO(genetically_modified_Organism).secret|GMO(genetically_modified_Organism).secret]] 
 

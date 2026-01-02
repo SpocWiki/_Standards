@@ -37,17 +37,17 @@ A gym.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ExerciseGym](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym|FileClass~ExerciseGym]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.public|FileClass~ExerciseGym.public]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.internal|FileClass~ExerciseGym.internal]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.protect|FileClass~ExerciseGym.protect]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.private|FileClass~ExerciseGym.private]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.personal|FileClass~ExerciseGym.personal]] 
 
-### #is_/same_as :: [FileClass~ExerciseGym.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~SportsActivityLocation/FileClass~ExerciseGym.secret|FileClass~ExerciseGym.secret]] 
 

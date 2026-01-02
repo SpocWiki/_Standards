@@ -74,17 +74,17 @@ IMDb_keyword: orange-juice
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orange_juice](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice|Orange_juice]] 
 
-### #is_/same_as :: [Orange_juice.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.public|Orange_juice.public]] 
 
-### #is_/same_as :: [Orange_juice.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.internal|Orange_juice.internal]] 
 
-### #is_/same_as :: [Orange_juice.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.protect|Orange_juice.protect]] 
 
-### #is_/same_as :: [Orange_juice.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.private|Orange_juice.private]] 
 
-### #is_/same_as :: [Orange_juice.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.personal|Orange_juice.personal]] 
 
-### #is_/same_as :: [Orange_juice.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Orange_juice.secret|Orange_juice.secret]] 
 

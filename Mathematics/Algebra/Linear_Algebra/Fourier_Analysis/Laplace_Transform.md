@@ -91,17 +91,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laplace_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform|Laplace_Transform]] 
 
-### #is_/same_as :: [Laplace_Transform.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.public|Laplace_Transform.public]] 
 
-### #is_/same_as :: [Laplace_Transform.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.internal|Laplace_Transform.internal]] 
 
-### #is_/same_as :: [Laplace_Transform.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.protect|Laplace_Transform.protect]] 
 
-### #is_/same_as :: [Laplace_Transform.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.private|Laplace_Transform.private]] 
 
-### #is_/same_as :: [Laplace_Transform.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.personal|Laplace_Transform.personal]] 
 
-### #is_/same_as :: [Laplace_Transform.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Laplace_Transform.secret|Laplace_Transform.secret]] 
 

@@ -55,17 +55,17 @@ Commons_category: Equator
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equator](/_Standards/Earth/Geography/Equator.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Equator|Equator]] 
 
-### #is_/same_as :: [Equator.public](/_public/Earth/Geography/Equator.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Equator.public|Equator.public]] 
 
-### #is_/same_as :: [Equator.internal](/_internal/Earth/Geography/Equator.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Equator.internal|Equator.internal]] 
 
-### #is_/same_as :: [Equator.protect](/_protect/Earth/Geography/Equator.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Equator.protect|Equator.protect]] 
 
-### #is_/same_as :: [Equator.private](/_private/Earth/Geography/Equator.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Equator.private|Equator.private]] 
 
-### #is_/same_as :: [Equator.personal](/_personal/Earth/Geography/Equator.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Equator.personal|Equator.personal]] 
 
-### #is_/same_as :: [Equator.secret](/_secret/Earth/Geography/Equator.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Equator.secret|Equator.secret]] 
 

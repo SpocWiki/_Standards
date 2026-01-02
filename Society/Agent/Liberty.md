@@ -91,17 +91,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liberty](/_Standards/Society/Agent/Liberty.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Liberty|Liberty]] 
 
-### #is_/same_as :: [Liberty.public](/_public/Society/Agent/Liberty.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Liberty.public|Liberty.public]] 
 
-### #is_/same_as :: [Liberty.internal](/_internal/Society/Agent/Liberty.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Liberty.internal|Liberty.internal]] 
 
-### #is_/same_as :: [Liberty.protect](/_protect/Society/Agent/Liberty.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Liberty.protect|Liberty.protect]] 
 
-### #is_/same_as :: [Liberty.private](/_private/Society/Agent/Liberty.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Liberty.private|Liberty.private]] 
 
-### #is_/same_as :: [Liberty.personal](/_personal/Society/Agent/Liberty.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Liberty.personal|Liberty.personal]] 
 
-### #is_/same_as :: [Liberty.secret](/_secret/Society/Agent/Liberty.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Liberty.secret|Liberty.secret]] 
 

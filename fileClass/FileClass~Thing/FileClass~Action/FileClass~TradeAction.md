@@ -77,17 +77,17 @@ PriceSpecification:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TradeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction|FileClass~TradeAction]] 
 
-### #is_/same_as :: [FileClass~TradeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.public|FileClass~TradeAction.public]] 
 
-### #is_/same_as :: [FileClass~TradeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.internal|FileClass~TradeAction.internal]] 
 
-### #is_/same_as :: [FileClass~TradeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.protect|FileClass~TradeAction.protect]] 
 
-### #is_/same_as :: [FileClass~TradeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.private|FileClass~TradeAction.private]] 
 
-### #is_/same_as :: [FileClass~TradeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.personal|FileClass~TradeAction.personal]] 
 
-### #is_/same_as :: [FileClass~TradeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction.secret|FileClass~TradeAction.secret]] 
 

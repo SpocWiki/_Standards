@@ -145,17 +145,17 @@ birth_name: Ricky Dene Gervais
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gervais,Ricky](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky|Gervais,Ricky]] 
 
-### #is_/same_as :: [Gervais,Ricky.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.public|Gervais,Ricky.public]] 
 
-### #is_/same_as :: [Gervais,Ricky.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.internal|Gervais,Ricky.internal]] 
 
-### #is_/same_as :: [Gervais,Ricky.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.protect|Gervais,Ricky.protect]] 
 
-### #is_/same_as :: [Gervais,Ricky.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.private|Gervais,Ricky.private]] 
 
-### #is_/same_as :: [Gervais,Ricky.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.personal|Gervais,Ricky.personal]] 
 
-### #is_/same_as :: [Gervais,Ricky.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club/Comedian/Gervais,Ricky.secret|Gervais,Ricky.secret]] 
 

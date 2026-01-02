@@ -64,17 +64,17 @@ TOTP codes provide a reasonable level of security for most applications.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password)](/_Standards/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password)|TOTP(Time-Based One-Time Password)]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).public](/_public/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).public|TOTP(Time-Based One-Time Password).public]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).internal](/_internal/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).internal|TOTP(Time-Based One-Time Password).internal]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).protect](/_protect/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).protect|TOTP(Time-Based One-Time Password).protect]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).private](/_private/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).private|TOTP(Time-Based One-Time Password).private]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).personal](/_personal/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).personal|TOTP(Time-Based One-Time Password).personal]] 
 
-### #is_/same_as :: [TOTP(Time-Based One-Time Password).secret](/_secret/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Cryptography/TOTP(Time-Based One-Time Password).secret|TOTP(Time-Based One-Time Password).secret]] 
 

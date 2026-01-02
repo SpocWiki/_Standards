@@ -42,17 +42,17 @@ Data derived from multiple randomized clinical trials or meta-analyses.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evidence_Level_A](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A|Evidence_Level_A]] 
 
-### #is_/same_as :: [Evidence_Level_A.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.public|Evidence_Level_A.public]] 
 
-### #is_/same_as :: [Evidence_Level_A.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.internal|Evidence_Level_A.internal]] 
 
-### #is_/same_as :: [Evidence_Level_A.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.protect|Evidence_Level_A.protect]] 
 
-### #is_/same_as :: [Evidence_Level_A.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.private|Evidence_Level_A.private]] 
 
-### #is_/same_as :: [Evidence_Level_A.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.personal|Evidence_Level_A.personal]] 
 
-### #is_/same_as :: [Evidence_Level_A.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level/Evidence_Level_A.secret|Evidence_Level_A.secret]] 
 

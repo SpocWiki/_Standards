@@ -67,17 +67,17 @@ Commons_category: Stellar evolution
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_Evolution](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution|Stellar_Evolution]] 
 
-### #is_/same_as :: [Stellar_Evolution.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution.public|Stellar_Evolution.public]] 
 
-### #is_/same_as :: [Stellar_Evolution.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution.internal|Stellar_Evolution.internal]] 
 
-### #is_/same_as :: [Stellar_Evolution.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution.protect|Stellar_Evolution.protect]] 
 
-### #is_/same_as :: [Stellar_Evolution.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution.private|Stellar_Evolution.private]] 
 
-### #is_/same_as :: [Stellar_Evolution.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution.personal|Stellar_Evolution.personal]] 
 
-### #is_/same_as :: [Stellar_Evolution.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution.secret|Stellar_Evolution.secret]] 
 

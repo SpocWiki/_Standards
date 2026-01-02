@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scholz,Tom](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom|Scholz,Tom]] 
 
-### #is_/same_as :: [Scholz,Tom.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.public|Scholz,Tom.public]] 
 
-### #is_/same_as :: [Scholz,Tom.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.internal|Scholz,Tom.internal]] 
 
-### #is_/same_as :: [Scholz,Tom.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.protect|Scholz,Tom.protect]] 
 
-### #is_/same_as :: [Scholz,Tom.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.private|Scholz,Tom.private]] 
 
-### #is_/same_as :: [Scholz,Tom.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.personal|Scholz,Tom.personal]] 
 
-### #is_/same_as :: [Scholz,Tom.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Boston(Band)/Scholz,Tom.secret|Scholz,Tom.secret]] 
 

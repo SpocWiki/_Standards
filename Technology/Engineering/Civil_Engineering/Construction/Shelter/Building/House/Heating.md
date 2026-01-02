@@ -34,17 +34,17 @@ studied_by: "[[_Standards/WikiData/WD~thermodynamics,11473]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heating](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating|Heating]] 
 
-### #is_/same_as :: [Heating.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.public|Heating.public]] 
 
-### #is_/same_as :: [Heating.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.internal|Heating.internal]] 
 
-### #is_/same_as :: [Heating.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.protect|Heating.protect]] 
 
-### #is_/same_as :: [Heating.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.private|Heating.private]] 
 
-### #is_/same_as :: [Heating.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.personal|Heating.personal]] 
 
-### #is_/same_as :: [Heating.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Heating.secret|Heating.secret]] 
 

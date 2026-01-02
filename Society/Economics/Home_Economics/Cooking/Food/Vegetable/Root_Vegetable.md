@@ -43,17 +43,17 @@ Commons_category: Root vegetables
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Root_Vegetable](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable|Root_Vegetable]] 
 
-### #is_/same_as :: [Root_Vegetable.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.public|Root_Vegetable.public]] 
 
-### #is_/same_as :: [Root_Vegetable.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.internal|Root_Vegetable.internal]] 
 
-### #is_/same_as :: [Root_Vegetable.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.protect|Root_Vegetable.protect]] 
 
-### #is_/same_as :: [Root_Vegetable.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.private|Root_Vegetable.private]] 
 
-### #is_/same_as :: [Root_Vegetable.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.personal|Root_Vegetable.personal]] 
 
-### #is_/same_as :: [Root_Vegetable.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Root_Vegetable.secret|Root_Vegetable.secret]] 
 

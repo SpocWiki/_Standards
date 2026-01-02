@@ -62,17 +62,17 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/EMPATIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Empathy](/_Standards/bio/Psychology/Affect/Emotion/Empathy.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Empathy|Empathy]] 
 
-### #is_/same_as :: [Empathy.public](/_public/bio/Psychology/Affect/Emotion/Empathy.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Empathy.public|Empathy.public]] 
 
-### #is_/same_as :: [Empathy.internal](/_internal/bio/Psychology/Affect/Emotion/Empathy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Empathy.internal|Empathy.internal]] 
 
-### #is_/same_as :: [Empathy.protect](/_protect/bio/Psychology/Affect/Emotion/Empathy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Empathy.protect|Empathy.protect]] 
 
-### #is_/same_as :: [Empathy.private](/_private/bio/Psychology/Affect/Emotion/Empathy.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Empathy.private|Empathy.private]] 
 
-### #is_/same_as :: [Empathy.personal](/_personal/bio/Psychology/Affect/Emotion/Empathy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Empathy.personal|Empathy.personal]] 
 
-### #is_/same_as :: [Empathy.secret](/_secret/bio/Psychology/Affect/Emotion/Empathy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Empathy.secret|Empathy.secret]] 
 

@@ -62,17 +62,17 @@ moment_generating_function: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Binomial_Distribution](/_Standards/Mathematics/Probability_Theory/Binomial_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Probability_Theory/Binomial_Distribution|Binomial_Distribution]] 
 
-### #is_/same_as :: [Binomial_Distribution.public](/_public/Mathematics/Probability_Theory/Binomial_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Probability_Theory/Binomial_Distribution.public|Binomial_Distribution.public]] 
 
-### #is_/same_as :: [Binomial_Distribution.internal](/_internal/Mathematics/Probability_Theory/Binomial_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Probability_Theory/Binomial_Distribution.internal|Binomial_Distribution.internal]] 
 
-### #is_/same_as :: [Binomial_Distribution.protect](/_protect/Mathematics/Probability_Theory/Binomial_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Probability_Theory/Binomial_Distribution.protect|Binomial_Distribution.protect]] 
 
-### #is_/same_as :: [Binomial_Distribution.private](/_private/Mathematics/Probability_Theory/Binomial_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Probability_Theory/Binomial_Distribution.private|Binomial_Distribution.private]] 
 
-### #is_/same_as :: [Binomial_Distribution.personal](/_personal/Mathematics/Probability_Theory/Binomial_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Probability_Theory/Binomial_Distribution.personal|Binomial_Distribution.personal]] 
 
-### #is_/same_as :: [Binomial_Distribution.secret](/_secret/Mathematics/Probability_Theory/Binomial_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Probability_Theory/Binomial_Distribution.secret|Binomial_Distribution.secret]] 
 

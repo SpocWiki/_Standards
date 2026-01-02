@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_store_return_offered](/_Standards/schema-org/Property/Flags/is_in_store_return_offered.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_in_store_return_offered|is_in_store_return_offered]] 
 
-### #is_/same_as :: [is_in_store_return_offered.public](/_public/schema-org/Property/Flags/is_in_store_return_offered.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_in_store_return_offered.public|is_in_store_return_offered.public]] 
 
-### #is_/same_as :: [is_in_store_return_offered.internal](/_internal/schema-org/Property/Flags/is_in_store_return_offered.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_in_store_return_offered.internal|is_in_store_return_offered.internal]] 
 
-### #is_/same_as :: [is_in_store_return_offered.protect](/_protect/schema-org/Property/Flags/is_in_store_return_offered.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_in_store_return_offered.protect|is_in_store_return_offered.protect]] 
 
-### #is_/same_as :: [is_in_store_return_offered.private](/_private/schema-org/Property/Flags/is_in_store_return_offered.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_in_store_return_offered.private|is_in_store_return_offered.private]] 
 
-### #is_/same_as :: [is_in_store_return_offered.personal](/_personal/schema-org/Property/Flags/is_in_store_return_offered.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_in_store_return_offered.personal|is_in_store_return_offered.personal]] 
 
-### #is_/same_as :: [is_in_store_return_offered.secret](/_secret/schema-org/Property/Flags/is_in_store_return_offered.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_in_store_return_offered.secret|is_in_store_return_offered.secret]] 
 

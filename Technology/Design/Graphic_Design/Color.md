@@ -121,17 +121,17 @@ P8189: 987007284735905171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Color](/_Standards/Technology/Design/Graphic_Design/Color.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color|Color]] 
 
-### #is_/same_as :: [Color.public](/_public/Technology/Design/Graphic_Design/Color.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color.public|Color.public]] 
 
-### #is_/same_as :: [Color.internal](/_internal/Technology/Design/Graphic_Design/Color.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color.internal|Color.internal]] 
 
-### #is_/same_as :: [Color.protect](/_protect/Technology/Design/Graphic_Design/Color.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color.protect|Color.protect]] 
 
-### #is_/same_as :: [Color.private](/_private/Technology/Design/Graphic_Design/Color.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color.private|Color.private]] 
 
-### #is_/same_as :: [Color.personal](/_personal/Technology/Design/Graphic_Design/Color.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color.personal|Color.personal]] 
 
-### #is_/same_as :: [Color.secret](/_secret/Technology/Design/Graphic_Design/Color.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color.secret|Color.secret]] 
 

@@ -42,17 +42,17 @@ Nonprofit501c9: Non-profit type referring to Voluntary Employee Beneficiary Asso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c9](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9|Nonprofit501c9]] 
 
-### #is_/same_as :: [Nonprofit501c9.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.public|Nonprofit501c9.public]] 
 
-### #is_/same_as :: [Nonprofit501c9.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.internal|Nonprofit501c9.internal]] 
 
-### #is_/same_as :: [Nonprofit501c9.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.protect|Nonprofit501c9.protect]] 
 
-### #is_/same_as :: [Nonprofit501c9.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.private|Nonprofit501c9.private]] 
 
-### #is_/same_as :: [Nonprofit501c9.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.personal|Nonprofit501c9.personal]] 
 
-### #is_/same_as :: [Nonprofit501c9.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c9.secret|Nonprofit501c9.secret]] 
 

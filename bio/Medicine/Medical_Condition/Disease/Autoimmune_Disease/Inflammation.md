@@ -105,17 +105,17 @@ Commons_category: Inflammations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inflammation](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation|Inflammation]] 
 
-### #is_/same_as :: [Inflammation.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.public|Inflammation.public]] 
 
-### #is_/same_as :: [Inflammation.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.internal|Inflammation.internal]] 
 
-### #is_/same_as :: [Inflammation.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.protect|Inflammation.protect]] 
 
-### #is_/same_as :: [Inflammation.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.private|Inflammation.private]] 
 
-### #is_/same_as :: [Inflammation.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.personal|Inflammation.personal]] 
 
-### #is_/same_as :: [Inflammation.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Inflammation.secret|Inflammation.secret]] 
 

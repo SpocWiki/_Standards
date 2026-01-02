@@ -71,17 +71,17 @@ IPTC_NewsCode: mediatopic/20000597
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constitution](/_Standards/Society/Politics/Government/Constitution.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Constitution|Constitution]] 
 
-### #is_/same_as :: [Constitution.public](/_public/Society/Politics/Government/Constitution.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Constitution.public|Constitution.public]] 
 
-### #is_/same_as :: [Constitution.internal](/_internal/Society/Politics/Government/Constitution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Constitution.internal|Constitution.internal]] 
 
-### #is_/same_as :: [Constitution.protect](/_protect/Society/Politics/Government/Constitution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Constitution.protect|Constitution.protect]] 
 
-### #is_/same_as :: [Constitution.private](/_private/Society/Politics/Government/Constitution.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Constitution.private|Constitution.private]] 
 
-### #is_/same_as :: [Constitution.personal](/_personal/Society/Politics/Government/Constitution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Constitution.personal|Constitution.personal]] 
 
-### #is_/same_as :: [Constitution.secret](/_secret/Society/Politics/Government/Constitution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Constitution.secret|Constitution.secret]] 
 

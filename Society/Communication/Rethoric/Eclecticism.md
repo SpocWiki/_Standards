@@ -58,17 +58,17 @@ without necessarily blending them into a new, cohesive belief system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eclecticism](/_Standards/Society/Communication/Rethoric/Eclecticism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Eclecticism|Eclecticism]] 
 
-### #is_/same_as :: [Eclecticism.public](/_public/Society/Communication/Rethoric/Eclecticism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Eclecticism.public|Eclecticism.public]] 
 
-### #is_/same_as :: [Eclecticism.internal](/_internal/Society/Communication/Rethoric/Eclecticism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Eclecticism.internal|Eclecticism.internal]] 
 
-### #is_/same_as :: [Eclecticism.protect](/_protect/Society/Communication/Rethoric/Eclecticism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Eclecticism.protect|Eclecticism.protect]] 
 
-### #is_/same_as :: [Eclecticism.private](/_private/Society/Communication/Rethoric/Eclecticism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Eclecticism.private|Eclecticism.private]] 
 
-### #is_/same_as :: [Eclecticism.personal](/_personal/Society/Communication/Rethoric/Eclecticism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Eclecticism.personal|Eclecticism.personal]] 
 
-### #is_/same_as :: [Eclecticism.secret](/_secret/Society/Communication/Rethoric/Eclecticism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Eclecticism.secret|Eclecticism.secret]] 
 

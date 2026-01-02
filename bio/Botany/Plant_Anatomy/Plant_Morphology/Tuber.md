@@ -52,17 +52,17 @@ Dewey_Decimal_Classification: 581.46
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tuber](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber|Tuber]] 
 
-### #is_/same_as :: [Tuber.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.public|Tuber.public]] 
 
-### #is_/same_as :: [Tuber.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.internal|Tuber.internal]] 
 
-### #is_/same_as :: [Tuber.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.protect|Tuber.protect]] 
 
-### #is_/same_as :: [Tuber.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.private|Tuber.private]] 
 
-### #is_/same_as :: [Tuber.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.personal|Tuber.personal]] 
 
-### #is_/same_as :: [Tuber.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Tuber.secret|Tuber.secret]] 
 

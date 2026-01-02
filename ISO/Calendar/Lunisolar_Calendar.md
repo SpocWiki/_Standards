@@ -39,17 +39,17 @@ Commons_category: Lunisolar calendars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lunisolar_Calendar](/_Standards/ISO/Calendar/Lunisolar_Calendar.md) 
+### #is_/same_as :: [[/_Standards/ISO/Calendar/Lunisolar_Calendar|Lunisolar_Calendar]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.public](/_public/ISO/Calendar/Lunisolar_Calendar.public.md) 
+### #is_/same_as :: [[/_public/ISO/Calendar/Lunisolar_Calendar.public|Lunisolar_Calendar.public]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.internal](/_internal/ISO/Calendar/Lunisolar_Calendar.internal.md) 
+### #is_/same_as :: [[/_internal/ISO/Calendar/Lunisolar_Calendar.internal|Lunisolar_Calendar.internal]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.protect](/_protect/ISO/Calendar/Lunisolar_Calendar.protect.md) 
+### #is_/same_as :: [[/_protect/ISO/Calendar/Lunisolar_Calendar.protect|Lunisolar_Calendar.protect]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.private](/_private/ISO/Calendar/Lunisolar_Calendar.private.md) 
+### #is_/same_as :: [[/_private/ISO/Calendar/Lunisolar_Calendar.private|Lunisolar_Calendar.private]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.personal](/_personal/ISO/Calendar/Lunisolar_Calendar.personal.md) 
+### #is_/same_as :: [[/_personal/ISO/Calendar/Lunisolar_Calendar.personal|Lunisolar_Calendar.personal]] 
 
-### #is_/same_as :: [Lunisolar_Calendar.secret](/_secret/ISO/Calendar/Lunisolar_Calendar.secret.md)
+### #is_/same_as :: [[/_secret/ISO/Calendar/Lunisolar_Calendar.secret|Lunisolar_Calendar.secret]] 
 

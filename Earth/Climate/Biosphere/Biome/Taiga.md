@@ -73,17 +73,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taiga](/_Standards/Earth/Climate/Biosphere/Biomes/Taiga.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Taiga|Taiga]] 
 
-### #is_/same_as :: [Taiga.public](/_public/Earth/Climate/Biosphere/Biomes/Taiga.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Taiga.public|Taiga.public]] 
 
-### #is_/same_as :: [Taiga.internal](/_internal/Earth/Climate/Biosphere/Biomes/Taiga.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Taiga.internal|Taiga.internal]] 
 
-### #is_/same_as :: [Taiga.protect](/_protect/Earth/Climate/Biosphere/Biomes/Taiga.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Taiga.protect|Taiga.protect]] 
 
-### #is_/same_as :: [Taiga.private](/_private/Earth/Climate/Biosphere/Biomes/Taiga.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Taiga.private|Taiga.private]] 
 
-### #is_/same_as :: [Taiga.personal](/_personal/Earth/Climate/Biosphere/Biomes/Taiga.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Taiga.personal|Taiga.personal]] 
 
-### #is_/same_as :: [Taiga.secret](/_secret/Earth/Climate/Biosphere/Biomes/Taiga.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Taiga.secret|Taiga.secret]] 
 

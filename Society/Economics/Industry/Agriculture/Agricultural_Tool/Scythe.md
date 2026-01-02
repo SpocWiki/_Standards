@@ -99,17 +99,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Lieslipning%20p%C3%A5%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scythe](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe|Scythe]] 
 
-### #is_/same_as :: [Scythe.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.public|Scythe.public]] 
 
-### #is_/same_as :: [Scythe.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.internal|Scythe.internal]] 
 
-### #is_/same_as :: [Scythe.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.protect|Scythe.protect]] 
 
-### #is_/same_as :: [Scythe.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.private|Scythe.private]] 
 
-### #is_/same_as :: [Scythe.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.personal|Scythe.personal]] 
 
-### #is_/same_as :: [Scythe.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Scythe.secret|Scythe.secret]] 
 

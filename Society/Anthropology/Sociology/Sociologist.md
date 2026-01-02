@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sociologist](/_Standards/Society/Anthropology/Sociology/Sociologist.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist|Sociologist]] 
 
-### #is_/same_as :: [Sociologist.public](/_public/Society/Anthropology/Sociology/Sociologist.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist.public|Sociologist.public]] 
 
-### #is_/same_as :: [Sociologist.internal](/_internal/Society/Anthropology/Sociology/Sociologist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist.internal|Sociologist.internal]] 
 
-### #is_/same_as :: [Sociologist.protect](/_protect/Society/Anthropology/Sociology/Sociologist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist.protect|Sociologist.protect]] 
 
-### #is_/same_as :: [Sociologist.private](/_private/Society/Anthropology/Sociology/Sociologist.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist.private|Sociologist.private]] 
 
-### #is_/same_as :: [Sociologist.personal](/_personal/Society/Anthropology/Sociology/Sociologist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist.personal|Sociologist.personal]] 
 
-### #is_/same_as :: [Sociologist.secret](/_secret/Society/Anthropology/Sociology/Sociologist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist.secret|Sociologist.secret]] 
 

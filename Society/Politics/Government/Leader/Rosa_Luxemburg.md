@@ -174,17 +174,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rosa_Luxemburg](/_Standards/Society/Politics/Government/Leader/Rosa_Luxemburg.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Rosa_Luxemburg|Rosa_Luxemburg]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.public](/_public/Society/Politics/Government/Leader/Rosa_Luxemburg.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Rosa_Luxemburg.public|Rosa_Luxemburg.public]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.internal](/_internal/Society/Politics/Government/Leader/Rosa_Luxemburg.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Rosa_Luxemburg.internal|Rosa_Luxemburg.internal]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.protect](/_protect/Society/Politics/Government/Leader/Rosa_Luxemburg.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Rosa_Luxemburg.protect|Rosa_Luxemburg.protect]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.private](/_private/Society/Politics/Government/Leader/Rosa_Luxemburg.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Rosa_Luxemburg.private|Rosa_Luxemburg.private]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.personal](/_personal/Society/Politics/Government/Leader/Rosa_Luxemburg.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Rosa_Luxemburg.personal|Rosa_Luxemburg.personal]] 
 
-### #is_/same_as :: [Rosa_Luxemburg.secret](/_secret/Society/Politics/Government/Leader/Rosa_Luxemburg.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Rosa_Luxemburg.secret|Rosa_Luxemburg.secret]] 
 

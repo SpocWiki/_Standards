@@ -58,17 +58,17 @@ LoanMortgageMandateAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MortgageLoan](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan|FileClass~MortgageLoan]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.public|FileClass~MortgageLoan.public]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.internal|FileClass~MortgageLoan.internal]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.protect|FileClass~MortgageLoan.protect]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.private|FileClass~MortgageLoan.private]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.personal|FileClass~MortgageLoan.personal]] 
 
-### #is_/same_as :: [FileClass~MortgageLoan.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~LoanOrCredit/FileClass~MortgageLoan.secret|FileClass~MortgageLoan.secret]] 
 

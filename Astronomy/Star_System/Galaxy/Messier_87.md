@@ -132,17 +132,17 @@ Library_of_Congress_Classification: QB479.55.M18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Messier_87](/_Standards/Astronomy/Star_System/Galaxy/Messier_87.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Messier_87|Messier_87]] 
 
-### #is_/same_as :: [Messier_87.public](/_public/Astronomy/Star_System/Galaxy/Messier_87.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Messier_87.public|Messier_87.public]] 
 
-### #is_/same_as :: [Messier_87.internal](/_internal/Astronomy/Star_System/Galaxy/Messier_87.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Messier_87.internal|Messier_87.internal]] 
 
-### #is_/same_as :: [Messier_87.protect](/_protect/Astronomy/Star_System/Galaxy/Messier_87.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Messier_87.protect|Messier_87.protect]] 
 
-### #is_/same_as :: [Messier_87.private](/_private/Astronomy/Star_System/Galaxy/Messier_87.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Messier_87.private|Messier_87.private]] 
 
-### #is_/same_as :: [Messier_87.personal](/_personal/Astronomy/Star_System/Galaxy/Messier_87.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Messier_87.personal|Messier_87.personal]] 
 
-### #is_/same_as :: [Messier_87.secret](/_secret/Astronomy/Star_System/Galaxy/Messier_87.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Messier_87.secret|Messier_87.secret]] 
 

@@ -78,17 +78,17 @@ OpeningHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.public|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.public]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.internal|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.internal]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.protect|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.protect]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.private|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.private]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.personal|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.personal]] 
 
-### #is_/same_as :: [FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmergencyService/FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.secret|FileClass~CivicStructureEmergencyServiceAndMedicalOrganization.secret]] 
 

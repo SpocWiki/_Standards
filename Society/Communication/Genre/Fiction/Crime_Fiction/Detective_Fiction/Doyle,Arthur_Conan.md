@@ -167,17 +167,17 @@ ISNI: 0000000122810491
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doyle,Arthur_Conan](/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan|Doyle,Arthur_Conan]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.public](/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.public|Doyle,Arthur_Conan.public]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.internal](/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.internal|Doyle,Arthur_Conan.internal]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.protect](/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.protect|Doyle,Arthur_Conan.protect]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.private](/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.private|Doyle,Arthur_Conan.private]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.personal](/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.personal|Doyle,Arthur_Conan.personal]] 
 
-### #is_/same_as :: [Doyle,Arthur_Conan.secret](/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Crime_Fiction/Detective_Fiction/Doyle,Arthur_Conan.secret|Doyle,Arthur_Conan.secret]] 
 

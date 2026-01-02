@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_loser](has_loser.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_loser|has_loser]] 
 
-### #is_/same_as :: [has_loser.public](/_public/schema-org/Relation/has/has_loser.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_loser.public|has_loser.public]] 
 
-### #is_/same_as :: [has_loser.internal](/_internal/schema-org/Relation/has/has_loser.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_loser.internal|has_loser.internal]] 
 
-### #is_/same_as :: [has_loser.protect](/_protect/schema-org/Relation/has/has_loser.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_loser.protect|has_loser.protect]] 
 
-### #is_/same_as :: [has_loser.private](/_private/schema-org/Relation/has/has_loser.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_loser.private|has_loser.private]] 
 
-### #is_/same_as :: [has_loser.personal](/_personal/schema-org/Relation/has/has_loser.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_loser.personal|has_loser.personal]] 
 
-### #is_/same_as :: [has_loser.secret](/_secret/schema-org/Relation/has/has_loser.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_loser.secret|has_loser.secret]] 
 

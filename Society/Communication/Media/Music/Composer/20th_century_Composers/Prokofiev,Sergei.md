@@ -164,17 +164,17 @@ Google_Doodle: 120th-of-birthday-of-sergey-prokofiev
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prokofiev,Sergei](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei|Prokofiev,Sergei]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.public|Prokofiev,Sergei.public]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.internal|Prokofiev,Sergei.internal]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.protect|Prokofiev,Sergei.protect]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.private|Prokofiev,Sergei.private]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.personal|Prokofiev,Sergei.personal]] 
 
-### #is_/same_as :: [Prokofiev,Sergei.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Prokofiev,Sergei.secret|Prokofiev,Sergei.secret]] 
 

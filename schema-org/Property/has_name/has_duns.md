@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duns](/_Standards/schema-org/Property/has_name/has_duns.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_duns|has_duns]] 
 
-### #is_/same_as :: [has_duns.public](/_public/schema-org/Property/has_name/has_duns.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_duns.public|has_duns.public]] 
 
-### #is_/same_as :: [has_duns.internal](/_internal/schema-org/Property/has_name/has_duns.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_duns.internal|has_duns.internal]] 
 
-### #is_/same_as :: [has_duns.protect](/_protect/schema-org/Property/has_name/has_duns.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_duns.protect|has_duns.protect]] 
 
-### #is_/same_as :: [has_duns.private](/_private/schema-org/Property/has_name/has_duns.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_duns.private|has_duns.private]] 
 
-### #is_/same_as :: [has_duns.personal](/_personal/schema-org/Property/has_name/has_duns.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_duns.personal|has_duns.personal]] 
 
-### #is_/same_as :: [has_duns.secret](/_secret/schema-org/Property/has_name/has_duns.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_duns.secret|has_duns.secret]] 
 

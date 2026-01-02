@@ -53,17 +53,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/KanjiYakuza.gif
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yakuza](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza|Yakuza]] 
 
-### #is_/same_as :: [Yakuza.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.public|Yakuza.public]] 
 
-### #is_/same_as :: [Yakuza.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.internal|Yakuza.internal]] 
 
-### #is_/same_as :: [Yakuza.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.protect|Yakuza.protect]] 
 
-### #is_/same_as :: [Yakuza.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.private|Yakuza.private]] 
 
-### #is_/same_as :: [Yakuza.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.personal|Yakuza.personal]] 
 
-### #is_/same_as :: [Yakuza.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization/Yakuza.secret|Yakuza.secret]] 
 

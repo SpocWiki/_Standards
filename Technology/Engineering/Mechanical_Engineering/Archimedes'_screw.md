@@ -56,17 +56,17 @@ Commons_gallery: Archimedes' screw
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archimedes'_screw](/_Standards/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw|Archimedes'_screw]] 
 
-### #is_/same_as :: [Archimedes'_screw.public](/_public/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.public|Archimedes'_screw.public]] 
 
-### #is_/same_as :: [Archimedes'_screw.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.internal|Archimedes'_screw.internal]] 
 
-### #is_/same_as :: [Archimedes'_screw.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.protect|Archimedes'_screw.protect]] 
 
-### #is_/same_as :: [Archimedes'_screw.private](/_private/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.private|Archimedes'_screw.private]] 
 
-### #is_/same_as :: [Archimedes'_screw.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.personal|Archimedes'_screw.personal]] 
 
-### #is_/same_as :: [Archimedes'_screw.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Archimedes'_screw.secret|Archimedes'_screw.secret]] 
 

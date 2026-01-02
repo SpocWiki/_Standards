@@ -98,17 +98,17 @@ minZoom: 6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lake_Titicaca](/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Lake_Titicaca|Lake_Titicaca]] 
 
-### #is_/same_as :: [Lake_Titicaca.public](/_public/Earth/Continent/America~South/Andes/Lake_Titicaca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Lake_Titicaca.public|Lake_Titicaca.public]] 
 
-### #is_/same_as :: [Lake_Titicaca.internal](/_internal/Earth/Continent/America~South/Andes/Lake_Titicaca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Lake_Titicaca.internal|Lake_Titicaca.internal]] 
 
-### #is_/same_as :: [Lake_Titicaca.protect](/_protect/Earth/Continent/America~South/Andes/Lake_Titicaca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Lake_Titicaca.protect|Lake_Titicaca.protect]] 
 
-### #is_/same_as :: [Lake_Titicaca.private](/_private/Earth/Continent/America~South/Andes/Lake_Titicaca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Lake_Titicaca.private|Lake_Titicaca.private]] 
 
-### #is_/same_as :: [Lake_Titicaca.personal](/_personal/Earth/Continent/America~South/Andes/Lake_Titicaca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Lake_Titicaca.personal|Lake_Titicaca.personal]] 
 
-### #is_/same_as :: [Lake_Titicaca.secret](/_secret/Earth/Continent/America~South/Andes/Lake_Titicaca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Lake_Titicaca.secret|Lake_Titicaca.secret]] 
 

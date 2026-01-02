@@ -30,17 +30,17 @@ title: Ceramiales
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceramiales](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales|Ceramiales]] 
 
-### #is_/same_as :: [Ceramiales.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.public|Ceramiales.public]] 
 
-### #is_/same_as :: [Ceramiales.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.internal|Ceramiales.internal]] 
 
-### #is_/same_as :: [Ceramiales.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.protect|Ceramiales.protect]] 
 
-### #is_/same_as :: [Ceramiales.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.private|Ceramiales.private]] 
 
-### #is_/same_as :: [Ceramiales.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.personal|Ceramiales.personal]] 
 
-### #is_/same_as :: [Ceramiales.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta/Florideophyceae/Ceramiales.secret|Ceramiales.secret]] 
 

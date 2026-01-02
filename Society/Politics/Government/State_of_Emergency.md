@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Police%20nationale%20e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [State_of_Emergency](/_Standards/Society/Politics/Government/State_of_Emergency.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/State_of_Emergency|State_of_Emergency]] 
 
-### #is_/same_as :: [State_of_Emergency.public](/_public/Society/Politics/Government/State_of_Emergency.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/State_of_Emergency.public|State_of_Emergency.public]] 
 
-### #is_/same_as :: [State_of_Emergency.internal](/_internal/Society/Politics/Government/State_of_Emergency.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/State_of_Emergency.internal|State_of_Emergency.internal]] 
 
-### #is_/same_as :: [State_of_Emergency.protect](/_protect/Society/Politics/Government/State_of_Emergency.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/State_of_Emergency.protect|State_of_Emergency.protect]] 
 
-### #is_/same_as :: [State_of_Emergency.private](/_private/Society/Politics/Government/State_of_Emergency.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/State_of_Emergency.private|State_of_Emergency.private]] 
 
-### #is_/same_as :: [State_of_Emergency.personal](/_personal/Society/Politics/Government/State_of_Emergency.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/State_of_Emergency.personal|State_of_Emergency.personal]] 
 
-### #is_/same_as :: [State_of_Emergency.secret](/_secret/Society/Politics/Government/State_of_Emergency.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/State_of_Emergency.secret|State_of_Emergency.secret]] 
 

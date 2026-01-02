@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marsden,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James|Marsden,James]] 
 
-### #is_/same_as :: [Marsden,James.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.public|Marsden,James.public]] 
 
-### #is_/same_as :: [Marsden,James.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.internal|Marsden,James.internal]] 
 
-### #is_/same_as :: [Marsden,James.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.protect|Marsden,James.protect]] 
 
-### #is_/same_as :: [Marsden,James.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.private|Marsden,James.private]] 
 
-### #is_/same_as :: [Marsden,James.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.personal|Marsden,James.personal]] 
 
-### #is_/same_as :: [Marsden,James.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Marsden,James.secret|Marsden,James.secret]] 
 

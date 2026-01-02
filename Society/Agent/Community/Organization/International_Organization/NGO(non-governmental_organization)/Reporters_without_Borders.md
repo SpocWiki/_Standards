@@ -103,17 +103,17 @@ native_label: Reporters sans frontières
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reporters_without_Borders](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders|Reporters_without_Borders]] 
 
-### #is_/same_as :: [Reporters_without_Borders.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.public|Reporters_without_Borders.public]] 
 
-### #is_/same_as :: [Reporters_without_Borders.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.internal|Reporters_without_Borders.internal]] 
 
-### #is_/same_as :: [Reporters_without_Borders.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.protect|Reporters_without_Borders.protect]] 
 
-### #is_/same_as :: [Reporters_without_Borders.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.private|Reporters_without_Borders.private]] 
 
-### #is_/same_as :: [Reporters_without_Borders.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.personal|Reporters_without_Borders.personal]] 
 
-### #is_/same_as :: [Reporters_without_Borders.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Reporters_without_Borders.secret|Reporters_without_Borders.secret]] 
 

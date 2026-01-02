@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_broadcast_timezone](/_Standards/schema-org/Property/Texts/has_broadcast_timezone.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_broadcast_timezone|has_broadcast_timezone]] 
 
-### #is_/same_as :: [has_broadcast_timezone.public](/_public/schema-org/Property/Texts/has_broadcast_timezone.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_broadcast_timezone.public|has_broadcast_timezone.public]] 
 
-### #is_/same_as :: [has_broadcast_timezone.internal](/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_broadcast_timezone.internal|has_broadcast_timezone.internal]] 
 
-### #is_/same_as :: [has_broadcast_timezone.protect](/_protect/schema-org/Property/Texts/has_broadcast_timezone.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_broadcast_timezone.protect|has_broadcast_timezone.protect]] 
 
-### #is_/same_as :: [has_broadcast_timezone.private](/_private/schema-org/Property/Texts/has_broadcast_timezone.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_broadcast_timezone.private|has_broadcast_timezone.private]] 
 
-### #is_/same_as :: [has_broadcast_timezone.personal](/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_broadcast_timezone.personal|has_broadcast_timezone.personal]] 
 
-### #is_/same_as :: [has_broadcast_timezone.secret](/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_broadcast_timezone.secret|has_broadcast_timezone.secret]] 
 

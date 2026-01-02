@@ -115,17 +115,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/TAMPLIERI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1118-Knights_Templars-1317](/_Standards/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317|1118-Knights_Templars-1317]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.public](/_public/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.public|1118-Knights_Templars-1317.public]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.internal|1118-Knights_Templars-1317.internal]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.protect|1118-Knights_Templars-1317.protect]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.private](/_private/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.private|1118-Knights_Templars-1317.private]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.personal|1118-Knights_Templars-1317.personal]] 
 
-### #is_/same_as :: [1118-Knights_Templars-1317.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1118-Knights_Templars-1317.secret|1118-Knights_Templars-1317.secret]] 
 

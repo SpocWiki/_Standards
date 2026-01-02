@@ -128,17 +128,17 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Thomas%20Young%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Young,Thomas(Scientist)](/_Standards/Science/Polymath/Young,Thomas(Scientist).md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Young,Thomas(Scientist)|Young,Thomas(Scientist)]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).public](/_public/Science/Polymath/Young,Thomas(Scientist).public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Young,Thomas(Scientist).public|Young,Thomas(Scientist).public]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).internal](/_internal/Science/Polymath/Young,Thomas(Scientist).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Young,Thomas(Scientist).internal|Young,Thomas(Scientist).internal]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).protect](/_protect/Science/Polymath/Young,Thomas(Scientist).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Young,Thomas(Scientist).protect|Young,Thomas(Scientist).protect]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).private](/_private/Science/Polymath/Young,Thomas(Scientist).private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Young,Thomas(Scientist).private|Young,Thomas(Scientist).private]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).personal](/_personal/Science/Polymath/Young,Thomas(Scientist).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Young,Thomas(Scientist).personal|Young,Thomas(Scientist).personal]] 
 
-### #is_/same_as :: [Young,Thomas(Scientist).secret](/_secret/Science/Polymath/Young,Thomas(Scientist).secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Young,Thomas(Scientist).secret|Young,Thomas(Scientist).secret]] 
 

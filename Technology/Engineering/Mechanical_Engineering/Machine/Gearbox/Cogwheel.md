@@ -93,17 +93,17 @@ Commons_category: Gears
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cogwheel](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel|Cogwheel]] 
 
-### #is_/same_as :: [Cogwheel.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.public|Cogwheel.public]] 
 
-### #is_/same_as :: [Cogwheel.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.internal|Cogwheel.internal]] 
 
-### #is_/same_as :: [Cogwheel.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.protect|Cogwheel.protect]] 
 
-### #is_/same_as :: [Cogwheel.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.private|Cogwheel.private]] 
 
-### #is_/same_as :: [Cogwheel.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.personal|Cogwheel.personal]] 
 
-### #is_/same_as :: [Cogwheel.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Gearbox/Cogwheel.secret|Cogwheel.secret]] 
 

@@ -75,17 +75,17 @@ motto_text: For Democracy. For everyone.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interparliamentary_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union|Interparliamentary_Union]] 
 
-### #is_/same_as :: [Interparliamentary_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.public|Interparliamentary_Union.public]] 
 
-### #is_/same_as :: [Interparliamentary_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.internal|Interparliamentary_Union.internal]] 
 
-### #is_/same_as :: [Interparliamentary_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.protect|Interparliamentary_Union.protect]] 
 
-### #is_/same_as :: [Interparliamentary_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.private|Interparliamentary_Union.private]] 
 
-### #is_/same_as :: [Interparliamentary_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.personal|Interparliamentary_Union.personal]] 
 
-### #is_/same_as :: [Interparliamentary_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Interparliamentary_Union.secret|Interparliamentary_Union.secret]] 
 

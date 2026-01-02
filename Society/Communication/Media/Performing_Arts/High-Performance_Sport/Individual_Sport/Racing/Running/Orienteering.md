@@ -48,3 +48,22 @@ OpenStreetMap_tag: sport=orienteering
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Orienteering) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering|Orienteering]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.public|Orienteering.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.internal|Orienteering.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.protect|Orienteering.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.private|Orienteering.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.personal|Orienteering.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Running/Orienteering.secret|Orienteering.secret]] 
+

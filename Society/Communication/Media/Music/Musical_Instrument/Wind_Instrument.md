@@ -58,17 +58,17 @@ official_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wind_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument|Wind_Instrument]] 
 
-### #is_/same_as :: [Wind_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.public|Wind_Instrument.public]] 
 
-### #is_/same_as :: [Wind_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.internal|Wind_Instrument.internal]] 
 
-### #is_/same_as :: [Wind_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.protect|Wind_Instrument.protect]] 
 
-### #is_/same_as :: [Wind_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.private|Wind_Instrument.private]] 
 
-### #is_/same_as :: [Wind_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.personal|Wind_Instrument.personal]] 
 
-### #is_/same_as :: [Wind_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument.secret|Wind_Instrument.secret]] 
 

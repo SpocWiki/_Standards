@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sign_or_symptom](/_Standards/schema-org/Relation/has/has_sign_or_symptom.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sign_or_symptom|has_sign_or_symptom]] 
 
-### #is_/same_as :: [has_sign_or_symptom.public](/_public/schema-org/Relation/has/has_sign_or_symptom.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sign_or_symptom.public|has_sign_or_symptom.public]] 
 
-### #is_/same_as :: [has_sign_or_symptom.internal](/_internal/schema-org/Relation/has/has_sign_or_symptom.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sign_or_symptom.internal|has_sign_or_symptom.internal]] 
 
-### #is_/same_as :: [has_sign_or_symptom.protect](/_protect/schema-org/Relation/has/has_sign_or_symptom.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sign_or_symptom.protect|has_sign_or_symptom.protect]] 
 
-### #is_/same_as :: [has_sign_or_symptom.private](/_private/schema-org/Relation/has/has_sign_or_symptom.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sign_or_symptom.private|has_sign_or_symptom.private]] 
 
-### #is_/same_as :: [has_sign_or_symptom.personal](/_personal/schema-org/Relation/has/has_sign_or_symptom.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sign_or_symptom.personal|has_sign_or_symptom.personal]] 
 
-### #is_/same_as :: [has_sign_or_symptom.secret](/_secret/schema-org/Relation/has/has_sign_or_symptom.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sign_or_symptom.secret|has_sign_or_symptom.secret]] 
 

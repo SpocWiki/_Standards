@@ -37,17 +37,17 @@ See HealthAndBeautyBusiness, SportsActivityLocation for more information.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.public]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.internal]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.protect|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.protect]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.private|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.private]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.personal]] 
 
-### #is_/same_as :: [FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~HealthAndBeautyBusiness/FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret|FileClass~HealthAndBeautyBusinessAndSportsActivityLocation.secret]] 
 

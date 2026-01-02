@@ -38,17 +38,17 @@ Commons_category: Faraday's law of induction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faraday's_law_of_induction](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction|Faraday's_law_of_induction]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.public|Faraday's_law_of_induction.public]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.internal|Faraday's_law_of_induction.internal]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.protect|Faraday's_law_of_induction.protect]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.private|Faraday's_law_of_induction.private]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.personal|Faraday's_law_of_induction.personal]] 
 
-### #is_/same_as :: [Faraday's_law_of_induction.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Faraday's_law_of_induction.secret|Faraday's_law_of_induction.secret]] 
 

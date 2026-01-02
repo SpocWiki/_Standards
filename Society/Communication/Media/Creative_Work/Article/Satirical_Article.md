@@ -48,17 +48,17 @@ A satirical article is sometimes but not necessarily also a [[NewsArticle]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satirical_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/Satirical_Article.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Satirical_Article|Satirical_Article]] 
 
-### #is_/same_as :: [Satirical_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/Satirical_Article.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Satirical_Article.public|Satirical_Article.public]] 
 
-### #is_/same_as :: [Satirical_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.internal|Satirical_Article.internal]] 
 
-### #is_/same_as :: [Satirical_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Satirical_Article.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Satirical_Article.protect|Satirical_Article.protect]] 
 
-### #is_/same_as :: [Satirical_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/Satirical_Article.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Satirical_Article.private|Satirical_Article.private]] 
 
-### #is_/same_as :: [Satirical_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Satirical_Article.personal|Satirical_Article.personal]] 
 
-### #is_/same_as :: [Satirical_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Satirical_Article.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Satirical_Article.secret|Satirical_Article.secret]] 
 

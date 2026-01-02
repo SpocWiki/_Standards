@@ -67,17 +67,17 @@ IPTC_NewsCode: mediatopic/20000621
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Policy](/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Political_Science/Public_Policy|Public_Policy]] 
 
-### #is_/same_as :: [Public_Policy.public](/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Political_Science/Public_Policy.public|Public_Policy.public]] 
 
-### #is_/same_as :: [Public_Policy.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Political_Science/Public_Policy.internal|Public_Policy.internal]] 
 
-### #is_/same_as :: [Public_Policy.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Political_Science/Public_Policy.protect|Public_Policy.protect]] 
 
-### #is_/same_as :: [Public_Policy.private](/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Political_Science/Public_Policy.private|Public_Policy.private]] 
 
-### #is_/same_as :: [Public_Policy.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Political_Science/Public_Policy.personal|Public_Policy.personal]] 
 
-### #is_/same_as :: [Public_Policy.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Political_Science/Public_Policy.secret|Public_Policy.secret]] 
 

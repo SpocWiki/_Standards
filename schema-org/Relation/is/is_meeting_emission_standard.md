@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_meeting_emission_standard](/_Standards/schema-org/Relation/is/is_meeting_emission_standard.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_meeting_emission_standard|is_meeting_emission_standard]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.public](/_public/schema-org/Relation/is/is_meeting_emission_standard.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_meeting_emission_standard.public|is_meeting_emission_standard.public]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.internal](/_internal/schema-org/Relation/is/is_meeting_emission_standard.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_meeting_emission_standard.internal|is_meeting_emission_standard.internal]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.protect](/_protect/schema-org/Relation/is/is_meeting_emission_standard.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_meeting_emission_standard.protect|is_meeting_emission_standard.protect]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.private](/_private/schema-org/Relation/is/is_meeting_emission_standard.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_meeting_emission_standard.private|is_meeting_emission_standard.private]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.personal](/_personal/schema-org/Relation/is/is_meeting_emission_standard.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_meeting_emission_standard.personal|is_meeting_emission_standard.personal]] 
 
-### #is_/same_as :: [is_meeting_emission_standard.secret](/_secret/schema-org/Relation/is/is_meeting_emission_standard.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_meeting_emission_standard.secret|is_meeting_emission_standard.secret]] 
 

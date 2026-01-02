@@ -263,17 +263,17 @@ DSSTOX_compound_identifier: DTXCID501030562
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cocaine](/_Standards/bio/Medicine/Drug/Drug-Dealing/Cocaine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug-Dealing/Cocaine|Cocaine]] 
 
-### #is_/same_as :: [Cocaine.public](/_public/bio/Medicine/Drug/Drug-Dealing/Cocaine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug-Dealing/Cocaine.public|Cocaine.public]] 
 
-### #is_/same_as :: [Cocaine.internal](/_internal/bio/Medicine/Drug/Drug-Dealing/Cocaine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug-Dealing/Cocaine.internal|Cocaine.internal]] 
 
-### #is_/same_as :: [Cocaine.protect](/_protect/bio/Medicine/Drug/Drug-Dealing/Cocaine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug-Dealing/Cocaine.protect|Cocaine.protect]] 
 
-### #is_/same_as :: [Cocaine.private](/_private/bio/Medicine/Drug/Drug-Dealing/Cocaine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug-Dealing/Cocaine.private|Cocaine.private]] 
 
-### #is_/same_as :: [Cocaine.personal](/_personal/bio/Medicine/Drug/Drug-Dealing/Cocaine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug-Dealing/Cocaine.personal|Cocaine.personal]] 
 
-### #is_/same_as :: [Cocaine.secret](/_secret/bio/Medicine/Drug/Drug-Dealing/Cocaine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug-Dealing/Cocaine.secret|Cocaine.secret]] 
 

@@ -111,17 +111,17 @@ UMLS_CUI: C0027051
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myocardial_Infarction](/_Standards/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction|Myocardial_Infarction]] 
 
-### #is_/same_as :: [Myocardial_Infarction.public](/_public/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.public|Myocardial_Infarction.public]] 
 
-### #is_/same_as :: [Myocardial_Infarction.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.internal|Myocardial_Infarction.internal]] 
 
-### #is_/same_as :: [Myocardial_Infarction.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.protect|Myocardial_Infarction.protect]] 
 
-### #is_/same_as :: [Myocardial_Infarction.private](/_private/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.private|Myocardial_Infarction.private]] 
 
-### #is_/same_as :: [Myocardial_Infarction.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.personal|Myocardial_Infarction.personal]] 
 
-### #is_/same_as :: [Myocardial_Infarction.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Myocardial_Infarction.secret|Myocardial_Infarction.secret]] 
 

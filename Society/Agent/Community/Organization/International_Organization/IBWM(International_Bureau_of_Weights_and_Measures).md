@@ -71,17 +71,17 @@ official_name: BUREAU INTERNATIONAL POIDS ET MESURES
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures)](/_Standards/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures)|IBWM(International_Bureau_of_Weights_and_Measures)]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).public](/_public/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).public|IBWM(International_Bureau_of_Weights_and_Measures).public]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).internal](/_internal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).internal|IBWM(International_Bureau_of_Weights_and_Measures).internal]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).protect](/_protect/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).protect|IBWM(International_Bureau_of_Weights_and_Measures).protect]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).private](/_private/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).private|IBWM(International_Bureau_of_Weights_and_Measures).private]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).personal](/_personal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).personal|IBWM(International_Bureau_of_Weights_and_Measures).personal]] 
 
-### #is_/same_as :: [IBWM(International_Bureau_of_Weights_and_Measures).secret](/_secret/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/IBWM(International_Bureau_of_Weights_and_Measures).secret|IBWM(International_Bureau_of_Weights_and_Measures).secret]] 
 

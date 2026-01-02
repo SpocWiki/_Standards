@@ -150,17 +150,17 @@ If you need a detailed explanation of any specific code, feel free to ask!
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morse_Code](/_Standards/Language/Writing_System/Morse_Code.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Morse_Code|Morse_Code]] 
 
-### #is_/same_as :: [Morse_Code.public](/_public/Language/Writing_System/Morse_Code.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Morse_Code.public|Morse_Code.public]] 
 
-### #is_/same_as :: [Morse_Code.internal](/_internal/Language/Writing_System/Morse_Code.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Morse_Code.internal|Morse_Code.internal]] 
 
-### #is_/same_as :: [Morse_Code.protect](/_protect/Language/Writing_System/Morse_Code.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Morse_Code.protect|Morse_Code.protect]] 
 
-### #is_/same_as :: [Morse_Code.private](/_private/Language/Writing_System/Morse_Code.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Morse_Code.private|Morse_Code.private]] 
 
-### #is_/same_as :: [Morse_Code.personal](/_personal/Language/Writing_System/Morse_Code.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Morse_Code.personal|Morse_Code.personal]] 
 
-### #is_/same_as :: [Morse_Code.secret](/_secret/Language/Writing_System/Morse_Code.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Morse_Code.secret|Morse_Code.secret]] 
 

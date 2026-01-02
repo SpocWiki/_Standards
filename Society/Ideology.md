@@ -32,17 +32,17 @@ subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ideology](/_Standards/Society/Ideology.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology|Ideology]] 
 
-### #is_/same_as :: [Ideology.public](/_public/Society/Ideology.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology.public|Ideology.public]] 
 
-### #is_/same_as :: [Ideology.internal](/_internal/Society/Ideology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology.internal|Ideology.internal]] 
 
-### #is_/same_as :: [Ideology.protect](/_protect/Society/Ideology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology.protect|Ideology.protect]] 
 
-### #is_/same_as :: [Ideology.private](/_private/Society/Ideology.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology.private|Ideology.private]] 
 
-### #is_/same_as :: [Ideology.personal](/_personal/Society/Ideology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology.personal|Ideology.personal]] 
 
-### #is_/same_as :: [Ideology.secret](/_secret/Society/Ideology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology.secret|Ideology.secret]] 
 

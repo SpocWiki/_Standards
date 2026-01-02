@@ -47,17 +47,17 @@ Iconclass_notation: 47B212
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transport_Engineering](/_Standards/Technology/Transport/Transport_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Transport_Engineering|Transport_Engineering]] 
 
-### #is_/same_as :: [Transport_Engineering.public](/_public/Technology/Transport/Transport_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Transport_Engineering.public|Transport_Engineering.public]] 
 
-### #is_/same_as :: [Transport_Engineering.internal](/_internal/Technology/Transport/Transport_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Transport_Engineering.internal|Transport_Engineering.internal]] 
 
-### #is_/same_as :: [Transport_Engineering.protect](/_protect/Technology/Transport/Transport_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Transport_Engineering.protect|Transport_Engineering.protect]] 
 
-### #is_/same_as :: [Transport_Engineering.private](/_private/Technology/Transport/Transport_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Transport_Engineering.private|Transport_Engineering.private]] 
 
-### #is_/same_as :: [Transport_Engineering.personal](/_personal/Technology/Transport/Transport_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Transport_Engineering.personal|Transport_Engineering.personal]] 
 
-### #is_/same_as :: [Transport_Engineering.secret](/_secret/Technology/Transport/Transport_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Transport_Engineering.secret|Transport_Engineering.secret]] 
 

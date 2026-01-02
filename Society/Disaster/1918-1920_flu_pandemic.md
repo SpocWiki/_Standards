@@ -58,17 +58,17 @@ UMLS_CUI: C3658260
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1918-1920_flu_pandemic](/_Standards/Society/Disaster/1918-1920_flu_pandemic.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/1918-1920_flu_pandemic|1918-1920_flu_pandemic]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.public](/_public/Society/Disaster/1918-1920_flu_pandemic.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/1918-1920_flu_pandemic.public|1918-1920_flu_pandemic.public]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.internal](/_internal/Society/Disaster/1918-1920_flu_pandemic.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/1918-1920_flu_pandemic.internal|1918-1920_flu_pandemic.internal]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.protect](/_protect/Society/Disaster/1918-1920_flu_pandemic.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/1918-1920_flu_pandemic.protect|1918-1920_flu_pandemic.protect]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.private](/_private/Society/Disaster/1918-1920_flu_pandemic.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/1918-1920_flu_pandemic.private|1918-1920_flu_pandemic.private]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.personal](/_personal/Society/Disaster/1918-1920_flu_pandemic.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/1918-1920_flu_pandemic.personal|1918-1920_flu_pandemic.personal]] 
 
-### #is_/same_as :: [1918-1920_flu_pandemic.secret](/_secret/Society/Disaster/1918-1920_flu_pandemic.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/1918-1920_flu_pandemic.secret|1918-1920_flu_pandemic.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_vehicle_first_registered](/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered|has_time_vehicle_first_registered]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.public](/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.public|has_time_vehicle_first_registered.public]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.internal](/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.internal|has_time_vehicle_first_registered.internal]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.protect](/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.protect|has_time_vehicle_first_registered.protect]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.private](/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.private|has_time_vehicle_first_registered.private]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.personal](/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.personal|has_time_vehicle_first_registered.personal]] 
 
-### #is_/same_as :: [has_time_vehicle_first_registered.secret](/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_vehicle_first_registered.secret|has_time_vehicle_first_registered.secret]] 
 

@@ -129,17 +129,17 @@ official_website: https://www.rogerfederer.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Federer,Roger](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger|Federer,Roger]] 
 
-### #is_/same_as :: [Federer,Roger.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.public|Federer,Roger.public]] 
 
-### #is_/same_as :: [Federer,Roger.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.internal|Federer,Roger.internal]] 
 
-### #is_/same_as :: [Federer,Roger.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.protect|Federer,Roger.protect]] 
 
-### #is_/same_as :: [Federer,Roger.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.private|Federer,Roger.private]] 
 
-### #is_/same_as :: [Federer,Roger.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.personal|Federer,Roger.personal]] 
 
-### #is_/same_as :: [Federer,Roger.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Federer,Roger.secret|Federer,Roger.secret]] 
 

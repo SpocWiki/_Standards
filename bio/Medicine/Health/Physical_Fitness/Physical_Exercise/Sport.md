@@ -146,17 +146,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sports,16000501]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sport](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport|Sport]] 
 
-### #is_/same_as :: [Sport.public](/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.public|Sport.public]] 
 
-### #is_/same_as :: [Sport.internal](/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.internal|Sport.internal]] 
 
-### #is_/same_as :: [Sport.protect](/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.protect|Sport.protect]] 
 
-### #is_/same_as :: [Sport.private](/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.private|Sport.private]] 
 
-### #is_/same_as :: [Sport.personal](/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.personal|Sport.personal]] 
 
-### #is_/same_as :: [Sport.secret](/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Sport.secret|Sport.secret]] 
 

@@ -58,17 +58,17 @@ quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" x
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronvolt](/_Standards/Dimension/Energy/Electronvolt.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Electronvolt|Electronvolt]] 
 
-### #is_/same_as :: [Electronvolt.public](/_public/Dimension/Energy/Electronvolt.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Electronvolt.public|Electronvolt.public]] 
 
-### #is_/same_as :: [Electronvolt.internal](/_internal/Dimension/Energy/Electronvolt.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Electronvolt.internal|Electronvolt.internal]] 
 
-### #is_/same_as :: [Electronvolt.protect](/_protect/Dimension/Energy/Electronvolt.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Electronvolt.protect|Electronvolt.protect]] 
 
-### #is_/same_as :: [Electronvolt.private](/_private/Dimension/Energy/Electronvolt.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Electronvolt.private|Electronvolt.private]] 
 
-### #is_/same_as :: [Electronvolt.personal](/_personal/Dimension/Energy/Electronvolt.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Electronvolt.personal|Electronvolt.personal]] 
 
-### #is_/same_as :: [Electronvolt.secret](/_secret/Dimension/Energy/Electronvolt.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Electronvolt.secret|Electronvolt.secret]] 
 

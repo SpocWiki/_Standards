@@ -45,17 +45,17 @@ OpenStreetMap_tag: denomination=shaivism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shaivism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism|Shaivism]] 
 
-### #is_/same_as :: [Shaivism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.public|Shaivism.public]] 
 
-### #is_/same_as :: [Shaivism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.internal|Shaivism.internal]] 
 
-### #is_/same_as :: [Shaivism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.protect|Shaivism.protect]] 
 
-### #is_/same_as :: [Shaivism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.private|Shaivism.private]] 
 
-### #is_/same_as :: [Shaivism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.personal|Shaivism.personal]] 
 
-### #is_/same_as :: [Shaivism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Shaivism.secret|Shaivism.secret]] 
 

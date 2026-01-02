@@ -55,17 +55,17 @@ Dewey_Decimal_Classification: 624.23
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suspension_Bridge](/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge|Suspension_Bridge]] 
 
-### #is_/same_as :: [Suspension_Bridge.public](/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.public|Suspension_Bridge.public]] 
 
-### #is_/same_as :: [Suspension_Bridge.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.internal|Suspension_Bridge.internal]] 
 
-### #is_/same_as :: [Suspension_Bridge.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.protect|Suspension_Bridge.protect]] 
 
-### #is_/same_as :: [Suspension_Bridge.private](/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.private|Suspension_Bridge.private]] 
 
-### #is_/same_as :: [Suspension_Bridge.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.personal|Suspension_Bridge.personal]] 
 
-### #is_/same_as :: [Suspension_Bridge.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Bridge/Suspension_Bridge.secret|Suspension_Bridge.secret]] 
 

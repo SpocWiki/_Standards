@@ -110,17 +110,17 @@ The Milky Way is projected as a white Band  through the Equator formed by the Ea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star~Constellation](/_Standards/Astronomy/Star~Constellation.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation|Star~Constellation]] 
 
-### #is_/same_as :: [Star~Constellation.public](/_public/Astronomy/Star~Constellation.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation.public|Star~Constellation.public]] 
 
-### #is_/same_as :: [Star~Constellation.internal](/_internal/Astronomy/Star~Constellation.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation.internal|Star~Constellation.internal]] 
 
-### #is_/same_as :: [Star~Constellation.protect](/_protect/Astronomy/Star~Constellation.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation.protect|Star~Constellation.protect]] 
 
-### #is_/same_as :: [Star~Constellation.private](/_private/Astronomy/Star~Constellation.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation.private|Star~Constellation.private]] 
 
-### #is_/same_as :: [Star~Constellation.personal](/_personal/Astronomy/Star~Constellation.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation.personal|Star~Constellation.personal]] 
 
-### #is_/same_as :: [Star~Constellation.secret](/_secret/Astronomy/Star~Constellation.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation.secret|Star~Constellation.secret]] 
 

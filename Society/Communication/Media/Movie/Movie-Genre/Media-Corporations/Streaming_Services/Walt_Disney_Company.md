@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walt_Disney_Company](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company|Walt_Disney_Company]] 
 
-### #is_/same_as :: [Walt_Disney_Company.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.public|Walt_Disney_Company.public]] 
 
-### #is_/same_as :: [Walt_Disney_Company.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.internal|Walt_Disney_Company.internal]] 
 
-### #is_/same_as :: [Walt_Disney_Company.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.protect|Walt_Disney_Company.protect]] 
 
-### #is_/same_as :: [Walt_Disney_Company.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.private|Walt_Disney_Company.private]] 
 
-### #is_/same_as :: [Walt_Disney_Company.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.personal|Walt_Disney_Company.personal]] 
 
-### #is_/same_as :: [Walt_Disney_Company.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Walt_Disney_Company.secret|Walt_Disney_Company.secret]] 
 

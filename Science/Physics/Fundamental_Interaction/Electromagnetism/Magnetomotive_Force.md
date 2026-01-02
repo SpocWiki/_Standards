@@ -54,17 +54,17 @@ short_name: mmf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetomotive_Force](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force|Magnetomotive_Force]] 
 
-### #is_/same_as :: [Magnetomotive_Force.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.public|Magnetomotive_Force.public]] 
 
-### #is_/same_as :: [Magnetomotive_Force.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.internal|Magnetomotive_Force.internal]] 
 
-### #is_/same_as :: [Magnetomotive_Force.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.protect|Magnetomotive_Force.protect]] 
 
-### #is_/same_as :: [Magnetomotive_Force.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.private|Magnetomotive_Force.private]] 
 
-### #is_/same_as :: [Magnetomotive_Force.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.personal|Magnetomotive_Force.personal]] 
 
-### #is_/same_as :: [Magnetomotive_Force.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetomotive_Force.secret|Magnetomotive_Force.secret]] 
 

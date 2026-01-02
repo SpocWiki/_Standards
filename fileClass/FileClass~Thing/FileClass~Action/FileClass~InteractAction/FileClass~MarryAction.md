@@ -37,17 +37,17 @@ The act of marrying a person.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MarryAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction|FileClass~MarryAction]] 
 
-### #is_/same_as :: [FileClass~MarryAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.public|FileClass~MarryAction.public]] 
 
-### #is_/same_as :: [FileClass~MarryAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.internal|FileClass~MarryAction.internal]] 
 
-### #is_/same_as :: [FileClass~MarryAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.protect|FileClass~MarryAction.protect]] 
 
-### #is_/same_as :: [FileClass~MarryAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.private|FileClass~MarryAction.private]] 
 
-### #is_/same_as :: [FileClass~MarryAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.personal|FileClass~MarryAction.personal]] 
 
-### #is_/same_as :: [FileClass~MarryAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~MarryAction.secret|FileClass~MarryAction.secret]] 
 

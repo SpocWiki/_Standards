@@ -209,17 +209,17 @@ child: '[[_Standards/WikiData/WD~Adolf_Friedrich,18611778]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friedrich,Caspar_David](/_Standards/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David|Friedrich,Caspar_David]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.public](/_public/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.public|Friedrich,Caspar_David.public]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.internal](/_internal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.internal|Friedrich,Caspar_David.internal]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.protect](/_protect/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.protect|Friedrich,Caspar_David.protect]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.private](/_private/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.private|Friedrich,Caspar_David.private]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.personal](/_personal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.personal|Friedrich,Caspar_David.personal]] 
 
-### #is_/same_as :: [Friedrich,Caspar_David.secret](/_secret/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Friedrich,Caspar_David.secret|Friedrich,Caspar_David.secret]] 
 

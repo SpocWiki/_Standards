@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steamboy](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy|Steamboy]] 
 
-### #is_/same_as :: [Steamboy.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.public|Steamboy.public]] 
 
-### #is_/same_as :: [Steamboy.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.internal|Steamboy.internal]] 
 
-### #is_/same_as :: [Steamboy.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.protect|Steamboy.protect]] 
 
-### #is_/same_as :: [Steamboy.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.private|Steamboy.private]] 
 
-### #is_/same_as :: [Steamboy.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.personal|Steamboy.personal]] 
 
-### #is_/same_as :: [Steamboy.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Steamboy.secret|Steamboy.secret]] 
 

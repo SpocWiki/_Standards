@@ -41,17 +41,17 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Risk_Calculator](/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator|Medical_Risk_Calculator]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.public](/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.public|Medical_Risk_Calculator.public]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.internal|Medical_Risk_Calculator.internal]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.protect|Medical_Risk_Calculator.protect]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.private](/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.private|Medical_Risk_Calculator.private]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.personal|Medical_Risk_Calculator.personal]] 
 
-### #is_/same_as :: [Medical_Risk_Calculator.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Risk_Estimator/Medical_Risk_Calculator.secret|Medical_Risk_Calculator.secret]] 
 

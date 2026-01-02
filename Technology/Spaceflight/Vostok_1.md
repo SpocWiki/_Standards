@@ -70,17 +70,17 @@ call_sign: Кедр
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vostok_1](/_Standards/Technology/Spaceflight/Vostok_1.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Vostok_1|Vostok_1]] 
 
-### #is_/same_as :: [Vostok_1.public](/_public/Technology/Spaceflight/Vostok_1.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Vostok_1.public|Vostok_1.public]] 
 
-### #is_/same_as :: [Vostok_1.internal](/_internal/Technology/Spaceflight/Vostok_1.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Vostok_1.internal|Vostok_1.internal]] 
 
-### #is_/same_as :: [Vostok_1.protect](/_protect/Technology/Spaceflight/Vostok_1.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Vostok_1.protect|Vostok_1.protect]] 
 
-### #is_/same_as :: [Vostok_1.private](/_private/Technology/Spaceflight/Vostok_1.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Vostok_1.private|Vostok_1.private]] 
 
-### #is_/same_as :: [Vostok_1.personal](/_personal/Technology/Spaceflight/Vostok_1.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Vostok_1.personal|Vostok_1.personal]] 
 
-### #is_/same_as :: [Vostok_1.secret](/_secret/Technology/Spaceflight/Vostok_1.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Vostok_1.secret|Vostok_1.secret]] 
 

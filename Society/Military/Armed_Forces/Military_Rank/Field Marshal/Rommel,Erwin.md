@@ -122,17 +122,17 @@ birth_name: Johannes Erwin Eugen Rommel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rommel,Erwin](/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin|Rommel,Erwin]] 
 
-### #is_/same_as :: [Rommel,Erwin.public](/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.public|Rommel,Erwin.public]] 
 
-### #is_/same_as :: [Rommel,Erwin.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.internal|Rommel,Erwin.internal]] 
 
-### #is_/same_as :: [Rommel,Erwin.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.protect|Rommel,Erwin.protect]] 
 
-### #is_/same_as :: [Rommel,Erwin.private](/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.private|Rommel,Erwin.private]] 
 
-### #is_/same_as :: [Rommel,Erwin.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.personal|Rommel,Erwin.personal]] 
 
-### #is_/same_as :: [Rommel,Erwin.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Field Marshal/Rommel,Erwin.secret|Rommel,Erwin.secret]] 
 

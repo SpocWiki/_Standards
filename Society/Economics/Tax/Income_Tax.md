@@ -43,17 +43,17 @@ Commons_category: Personal income taxes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Income_Tax](/_Standards/Society/Economics/Tax/Income_Tax.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Tax/Income_Tax|Income_Tax]] 
 
-### #is_/same_as :: [Income_Tax.public](/_public/Society/Economics/Tax/Income_Tax.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Tax/Income_Tax.public|Income_Tax.public]] 
 
-### #is_/same_as :: [Income_Tax.internal](/_internal/Society/Economics/Tax/Income_Tax.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Tax/Income_Tax.internal|Income_Tax.internal]] 
 
-### #is_/same_as :: [Income_Tax.protect](/_protect/Society/Economics/Tax/Income_Tax.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Tax/Income_Tax.protect|Income_Tax.protect]] 
 
-### #is_/same_as :: [Income_Tax.private](/_private/Society/Economics/Tax/Income_Tax.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Tax/Income_Tax.private|Income_Tax.private]] 
 
-### #is_/same_as :: [Income_Tax.personal](/_personal/Society/Economics/Tax/Income_Tax.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Tax/Income_Tax.personal|Income_Tax.personal]] 
 
-### #is_/same_as :: [Income_Tax.secret](/_secret/Society/Economics/Tax/Income_Tax.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Tax/Income_Tax.secret|Income_Tax.secret]] 
 

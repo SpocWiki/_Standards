@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Zanclean](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean|Age~1~Zanclean]] 
 
-### #is_/same_as :: [Age~1~Zanclean.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.public|Age~1~Zanclean.public]] 
 
-### #is_/same_as :: [Age~1~Zanclean.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.internal|Age~1~Zanclean.internal]] 
 
-### #is_/same_as :: [Age~1~Zanclean.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.protect|Age~1~Zanclean.protect]] 
 
-### #is_/same_as :: [Age~1~Zanclean.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.private|Age~1~Zanclean.private]] 
 
-### #is_/same_as :: [Age~1~Zanclean.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.personal|Age~1~Zanclean.personal]] 
 
-### #is_/same_as :: [Age~1~Zanclean.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~2~Neogene/Epoch~2~Pliocene/Age~1~Zanclean.secret|Age~1~Zanclean.secret]] 
 

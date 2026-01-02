@@ -76,17 +76,17 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tennessine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine|Tennessine]] 
 
-### #is_/same_as :: [Tennessine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.public|Tennessine.public]] 
 
-### #is_/same_as :: [Tennessine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.internal|Tennessine.internal]] 
 
-### #is_/same_as :: [Tennessine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.protect|Tennessine.protect]] 
 
-### #is_/same_as :: [Tennessine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.private|Tennessine.private]] 
 
-### #is_/same_as :: [Tennessine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.personal|Tennessine.personal]] 
 
-### #is_/same_as :: [Tennessine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Tennessine.secret|Tennessine.secret]] 
 

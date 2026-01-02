@@ -48,17 +48,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "Refraction"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refraction](/_Standards/Science/Physics/Wave/Refraction.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Refraction|Refraction]] 
 
-### #is_/same_as :: [Refraction.public](/_public/Science/Physics/Wave/Refraction.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Refraction.public|Refraction.public]] 
 
-### #is_/same_as :: [Refraction.internal](/_internal/Science/Physics/Wave/Refraction.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Refraction.internal|Refraction.internal]] 
 
-### #is_/same_as :: [Refraction.protect](/_protect/Science/Physics/Wave/Refraction.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Refraction.protect|Refraction.protect]] 
 
-### #is_/same_as :: [Refraction.private](/_private/Science/Physics/Wave/Refraction.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Refraction.private|Refraction.private]] 
 
-### #is_/same_as :: [Refraction.personal](/_personal/Science/Physics/Wave/Refraction.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Refraction.personal|Refraction.personal]] 
 
-### #is_/same_as :: [Refraction.secret](/_secret/Science/Physics/Wave/Refraction.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Refraction.secret|Refraction.secret]] 
 

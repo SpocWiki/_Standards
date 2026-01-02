@@ -122,17 +122,17 @@ UNII: NIK1K0956U
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Actinium](/_Standards/Chemistry/Chemical_Element/Actinide/Actinium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Actinide/Actinium|Actinium]] 
 
-### #is_/same_as :: [Actinium.public](/_public/Chemistry/Chemical_Element/Actinide/Actinium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Actinide/Actinium.public|Actinium.public]] 
 
-### #is_/same_as :: [Actinium.internal](/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Actinide/Actinium.internal|Actinium.internal]] 
 
-### #is_/same_as :: [Actinium.protect](/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Actinide/Actinium.protect|Actinium.protect]] 
 
-### #is_/same_as :: [Actinium.private](/_private/Chemistry/Chemical_Element/Actinide/Actinium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Actinide/Actinium.private|Actinium.private]] 
 
-### #is_/same_as :: [Actinium.personal](/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Actinide/Actinium.personal|Actinium.personal]] 
 
-### #is_/same_as :: [Actinium.secret](/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Actinide/Actinium.secret|Actinium.secret]] 
 

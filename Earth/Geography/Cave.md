@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cave](/_Standards/Earth/Geography/Cave.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cave|Cave]] 
 
-### #is_/same_as :: [Cave.public](/_public/Earth/Geography/Cave.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cave.public|Cave.public]] 
 
-### #is_/same_as :: [Cave.internal](/_internal/Earth/Geography/Cave.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cave.internal|Cave.internal]] 
 
-### #is_/same_as :: [Cave.protect](/_protect/Earth/Geography/Cave.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cave.protect|Cave.protect]] 
 
-### #is_/same_as :: [Cave.private](/_private/Earth/Geography/Cave.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cave.private|Cave.private]] 
 
-### #is_/same_as :: [Cave.personal](/_personal/Earth/Geography/Cave.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cave.personal|Cave.personal]] 
 
-### #is_/same_as :: [Cave.secret](/_secret/Earth/Geography/Cave.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cave.secret|Cave.secret]] 
 

@@ -435,17 +435,17 @@ Capital :: [[Bahrain/Counties/Al_Manāmah/City/Manama]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bahrain](/_Standards/Earth/Continent/Asia/Asia~West/Bahrain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Bahrain|Bahrain]] 
 
-### #is_/same_as :: [Bahrain.public](/_public/Earth/Continent/Asia/Asia~West/Bahrain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Bahrain.public|Bahrain.public]] 
 
-### #is_/same_as :: [Bahrain.internal](/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Bahrain.internal|Bahrain.internal]] 
 
-### #is_/same_as :: [Bahrain.protect](/_protect/Earth/Continent/Asia/Asia~West/Bahrain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Bahrain.protect|Bahrain.protect]] 
 
-### #is_/same_as :: [Bahrain.private](/_private/Earth/Continent/Asia/Asia~West/Bahrain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Bahrain.private|Bahrain.private]] 
 
-### #is_/same_as :: [Bahrain.personal](/_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Bahrain.personal|Bahrain.personal]] 
 
-### #is_/same_as :: [Bahrain.secret](/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Bahrain.secret|Bahrain.secret]] 
 

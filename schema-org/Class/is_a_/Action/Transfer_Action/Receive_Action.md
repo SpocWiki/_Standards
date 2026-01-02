@@ -48,17 +48,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Receive_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action|Receive_Action]] 
 
-### #is_/same_as :: [Receive_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.public|Receive_Action.public]] 
 
-### #is_/same_as :: [Receive_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.internal|Receive_Action.internal]] 
 
-### #is_/same_as :: [Receive_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.protect|Receive_Action.protect]] 
 
-### #is_/same_as :: [Receive_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.private|Receive_Action.private]] 
 
-### #is_/same_as :: [Receive_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.personal|Receive_Action.personal]] 
 
-### #is_/same_as :: [Receive_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Receive_Action.secret|Receive_Action.secret]] 
 

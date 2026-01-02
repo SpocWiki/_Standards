@@ -112,17 +112,17 @@ require Graphite instead of amorphous Carbon which can be used with [[Natrium]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lithium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Lithium|Lithium]] 
 
-### #is_/same_as :: [Lithium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.public|Lithium.public]] 
 
-### #is_/same_as :: [Lithium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.internal|Lithium.internal]] 
 
-### #is_/same_as :: [Lithium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.protect|Lithium.protect]] 
 
-### #is_/same_as :: [Lithium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]] 
 
-### #is_/same_as :: [Lithium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]] 
 
-### #is_/same_as :: [Lithium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]] 
 

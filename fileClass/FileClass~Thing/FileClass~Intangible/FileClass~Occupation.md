@@ -125,17 +125,17 @@ Skills:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Occupation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation|FileClass~Occupation]] 
 
-### #is_/same_as :: [FileClass~Occupation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.public|FileClass~Occupation.public]] 
 
-### #is_/same_as :: [FileClass~Occupation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.internal|FileClass~Occupation.internal]] 
 
-### #is_/same_as :: [FileClass~Occupation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.protect|FileClass~Occupation.protect]] 
 
-### #is_/same_as :: [FileClass~Occupation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.private|FileClass~Occupation.private]] 
 
-### #is_/same_as :: [FileClass~Occupation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.personal|FileClass~Occupation.personal]] 
 
-### #is_/same_as :: [FileClass~Occupation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Occupation.secret|FileClass~Occupation.secret]] 
 

@@ -32,17 +32,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification)](/_Standards/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)|ISIC(International_Standard_Industrial_Classification)]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).public](/_public/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).public|ISIC(International_Standard_Industrial_Classification).public]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).internal](/_internal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).internal|ISIC(International_Standard_Industrial_Classification).internal]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).protect](/_protect/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).protect|ISIC(International_Standard_Industrial_Classification).protect]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).private](/_private/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).private|ISIC(International_Standard_Industrial_Classification).private]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).personal](/_personal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).personal|ISIC(International_Standard_Industrial_Classification).personal]] 
 
-### #is_/same_as :: [ISIC(International_Standard_Industrial_Classification).secret](/_secret/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification).secret|ISIC(International_Standard_Industrial_Classification).secret]] 
 

@@ -65,17 +65,17 @@ X_Twitter_username: iccwbo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Chamber_of_Commerce](/_Standards/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce|International_Chamber_of_Commerce]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.public](/_public/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.public|International_Chamber_of_Commerce.public]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.internal](/_internal/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.internal|International_Chamber_of_Commerce.internal]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.protect](/_protect/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.protect|International_Chamber_of_Commerce.protect]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.private](/_private/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.private|International_Chamber_of_Commerce.private]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.personal](/_personal/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.personal|International_Chamber_of_Commerce.personal]] 
 
-### #is_/same_as :: [International_Chamber_of_Commerce.secret](/_secret/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/International_Chamber_of_Commerce.secret|International_Chamber_of_Commerce.secret]] 
 

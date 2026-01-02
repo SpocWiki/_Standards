@@ -48,17 +48,17 @@ Commons_category: Lorentz force
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lorentz_Force](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force|Lorentz_Force]] 
 
-### #is_/same_as :: [Lorentz_Force.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.public|Lorentz_Force.public]] 
 
-### #is_/same_as :: [Lorentz_Force.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.internal|Lorentz_Force.internal]] 
 
-### #is_/same_as :: [Lorentz_Force.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.protect|Lorentz_Force.protect]] 
 
-### #is_/same_as :: [Lorentz_Force.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.private|Lorentz_Force.private]] 
 
-### #is_/same_as :: [Lorentz_Force.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.personal|Lorentz_Force.personal]] 
 
-### #is_/same_as :: [Lorentz_Force.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Lorentz_Force.secret|Lorentz_Force.secret]] 
 

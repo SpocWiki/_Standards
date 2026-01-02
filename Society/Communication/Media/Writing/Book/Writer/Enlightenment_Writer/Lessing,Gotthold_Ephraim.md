@@ -114,17 +114,17 @@ ISNI: 0000000122762514
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim](/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim|Lessing,Gotthold_Ephraim]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.public](/_public/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.public|Lessing,Gotthold_Ephraim.public]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.internal|Lessing,Gotthold_Ephraim.internal]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.protect|Lessing,Gotthold_Ephraim.protect]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.private](/_private/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.private|Lessing,Gotthold_Ephraim.private]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.personal|Lessing,Gotthold_Ephraim.personal]] 
 
-### #is_/same_as :: [Lessing,Gotthold_Ephraim.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Enlightenment_Writer/Lessing,Gotthold_Ephraim.secret|Lessing,Gotthold_Ephraim.secret]] 
 

@@ -42,17 +42,17 @@ CompilationAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compilation_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album|Compilation_Album]] 
 
-### #is_/same_as :: [Compilation_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.public|Compilation_Album.public]] 
 
-### #is_/same_as :: [Compilation_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.internal|Compilation_Album.internal]] 
 
-### #is_/same_as :: [Compilation_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.protect|Compilation_Album.protect]] 
 
-### #is_/same_as :: [Compilation_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.private|Compilation_Album.private]] 
 
-### #is_/same_as :: [Compilation_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.personal|Compilation_Album.personal]] 
 
-### #is_/same_as :: [Compilation_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Compilation_Album.secret|Compilation_Album.secret]] 
 

@@ -54,17 +54,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wollstonecraft,Mary](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary|Wollstonecraft,Mary]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.public|Wollstonecraft,Mary.public]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.internal|Wollstonecraft,Mary.internal]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.protect|Wollstonecraft,Mary.protect]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.private|Wollstonecraft,Mary.private]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.personal|Wollstonecraft,Mary.personal]] 
 
-### #is_/same_as :: [Wollstonecraft,Mary.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Wollstonecraft,Mary.secret|Wollstonecraft,Mary.secret]] 
 

@@ -41,17 +41,17 @@ Event type: Children's event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Childrens_Event](/_Standards/schema-org/Class/is_a_/Event/Childrens_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Childrens_Event|Childrens_Event]] 
 
-### #is_/same_as :: [Childrens_Event.public](/_public/schema-org/Class/is_a_/Event/Childrens_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Childrens_Event.public|Childrens_Event.public]] 
 
-### #is_/same_as :: [Childrens_Event.internal](/_internal/schema-org/Class/is_a_/Event/Childrens_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Childrens_Event.internal|Childrens_Event.internal]] 
 
-### #is_/same_as :: [Childrens_Event.protect](/_protect/schema-org/Class/is_a_/Event/Childrens_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Childrens_Event.protect|Childrens_Event.protect]] 
 
-### #is_/same_as :: [Childrens_Event.private](/_private/schema-org/Class/is_a_/Event/Childrens_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Childrens_Event.private|Childrens_Event.private]] 
 
-### #is_/same_as :: [Childrens_Event.personal](/_personal/schema-org/Class/is_a_/Event/Childrens_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Childrens_Event.personal|Childrens_Event.personal]] 
 
-### #is_/same_as :: [Childrens_Event.secret](/_secret/schema-org/Class/is_a_/Event/Childrens_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Childrens_Event.secret|Childrens_Event.secret]] 
 

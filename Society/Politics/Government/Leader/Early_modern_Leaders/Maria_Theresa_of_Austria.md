@@ -176,17 +176,17 @@ P1015: "90100109"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria|Maria_Theresa_of_Austria]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.public|Maria_Theresa_of_Austria.public]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.internal|Maria_Theresa_of_Austria.internal]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.protect|Maria_Theresa_of_Austria.protect]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.private|Maria_Theresa_of_Austria.private]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.personal|Maria_Theresa_of_Austria.personal]] 
 
-### #is_/same_as :: [Maria_Theresa_of_Austria.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Maria_Theresa_of_Austria.secret|Maria_Theresa_of_Austria.secret]] 
 

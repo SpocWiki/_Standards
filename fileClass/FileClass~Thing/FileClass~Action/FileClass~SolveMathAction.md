@@ -47,17 +47,17 @@ EduQuestionType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SolveMathAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction|FileClass~SolveMathAction]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.public|FileClass~SolveMathAction.public]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.internal|FileClass~SolveMathAction.internal]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.protect|FileClass~SolveMathAction.protect]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.private|FileClass~SolveMathAction.private]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.personal|FileClass~SolveMathAction.personal]] 
 
-### #is_/same_as :: [FileClass~SolveMathAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~SolveMathAction.secret|FileClass~SolveMathAction.secret]] 
 

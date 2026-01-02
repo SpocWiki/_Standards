@@ -53,17 +53,17 @@ OpenStreetMap_tag: healthcare:speciality=haematology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hematology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology|Hematology]] 
 
-### #is_/same_as :: [Hematology.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.public|Hematology.public]] 
 
-### #is_/same_as :: [Hematology.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.internal|Hematology.internal]] 
 
-### #is_/same_as :: [Hematology.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.protect|Hematology.protect]] 
 
-### #is_/same_as :: [Hematology.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.private|Hematology.private]] 
 
-### #is_/same_as :: [Hematology.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.personal|Hematology.personal]] 
 
-### #is_/same_as :: [Hematology.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Blood/Hematology.secret|Hematology.secret]] 
 

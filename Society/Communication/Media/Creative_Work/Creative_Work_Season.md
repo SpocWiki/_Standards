@@ -44,17 +44,17 @@ A media season, e.g. TV, radio, video game etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creative_Work_Season](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Season|Creative_Work_Season]] 
 
-### #is_/same_as :: [Creative_Work_Season.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Season.public|Creative_Work_Season.public]] 
 
-### #is_/same_as :: [Creative_Work_Season.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Season.internal|Creative_Work_Season.internal]] 
 
-### #is_/same_as :: [Creative_Work_Season.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Season.protect|Creative_Work_Season.protect]] 
 
-### #is_/same_as :: [Creative_Work_Season.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Season.private|Creative_Work_Season.private]] 
 
-### #is_/same_as :: [Creative_Work_Season.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Season.personal|Creative_Work_Season.personal]] 
 
-### #is_/same_as :: [Creative_Work_Season.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Season.secret|Creative_Work_Season.secret]] 
 

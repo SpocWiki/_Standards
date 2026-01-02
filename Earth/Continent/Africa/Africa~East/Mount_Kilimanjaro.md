@@ -87,17 +87,17 @@ U_S_National_Archives_Identifier: 10038408
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mount_Kilimanjaro](/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro|Mount_Kilimanjaro]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.public](/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.public|Mount_Kilimanjaro.public]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.internal](/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.internal|Mount_Kilimanjaro.internal]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.protect](/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.protect|Mount_Kilimanjaro.protect]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.private](/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.private|Mount_Kilimanjaro.private]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.personal](/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.personal|Mount_Kilimanjaro.personal]] 
 
-### #is_/same_as :: [Mount_Kilimanjaro.secret](/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Mount_Kilimanjaro.secret|Mount_Kilimanjaro.secret]] 
 

@@ -73,17 +73,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ginsberg-leary-lilly.j
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beat_Generation](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation|Beat_Generation]] 
 
-### #is_/same_as :: [Beat_Generation.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.public|Beat_Generation.public]] 
 
-### #is_/same_as :: [Beat_Generation.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.internal|Beat_Generation.internal]] 
 
-### #is_/same_as :: [Beat_Generation.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.protect|Beat_Generation.protect]] 
 
-### #is_/same_as :: [Beat_Generation.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.private|Beat_Generation.private]] 
 
-### #is_/same_as :: [Beat_Generation.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.personal|Beat_Generation.personal]] 
 
-### #is_/same_as :: [Beat_Generation.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Beat_Generation.secret|Beat_Generation.secret]] 
 

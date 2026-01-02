@@ -79,17 +79,17 @@ Libris_URI: ljx0zgn45n53f5s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eurasia](/_Standards/Earth/Continent/Eurasia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Eurasia|Eurasia]] 
 
-### #is_/same_as :: [Eurasia.public](/_public/Earth/Continent/Eurasia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Eurasia.public|Eurasia.public]] 
 
-### #is_/same_as :: [Eurasia.internal](/_internal/Earth/Continent/Eurasia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Eurasia.internal|Eurasia.internal]] 
 
-### #is_/same_as :: [Eurasia.protect](/_protect/Earth/Continent/Eurasia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Eurasia.protect|Eurasia.protect]] 
 
-### #is_/same_as :: [Eurasia.private](/_private/Earth/Continent/Eurasia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Eurasia.private|Eurasia.private]] 
 
-### #is_/same_as :: [Eurasia.personal](/_personal/Earth/Continent/Eurasia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Eurasia.personal|Eurasia.personal]] 
 
-### #is_/same_as :: [Eurasia.secret](/_secret/Earth/Continent/Eurasia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Eurasia.secret|Eurasia.secret]] 
 

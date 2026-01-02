@@ -43,17 +43,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Technology.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [High_Tech](/_Standards/Technology/High_Tech.md) 
+### #is_/same_as :: [[/_Standards/Technology/High_Tech|High_Tech]] 
 
-### #is_/same_as :: [High_Tech.public](/_public/Technology/High_Tech.public.md) 
+### #is_/same_as :: [[/_public/Technology/High_Tech.public|High_Tech.public]] 
 
-### #is_/same_as :: [High_Tech.internal](/_internal/Technology/High_Tech.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/High_Tech.internal|High_Tech.internal]] 
 
-### #is_/same_as :: [High_Tech.protect](/_protect/Technology/High_Tech.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/High_Tech.protect|High_Tech.protect]] 
 
-### #is_/same_as :: [High_Tech.private](/_private/Technology/High_Tech.private.md) 
+### #is_/same_as :: [[/_private/Technology/High_Tech.private|High_Tech.private]] 
 
-### #is_/same_as :: [High_Tech.personal](/_personal/Technology/High_Tech.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/High_Tech.personal|High_Tech.personal]] 
 
-### #is_/same_as :: [High_Tech.secret](/_secret/Technology/High_Tech.secret.md)
+### #is_/same_as :: [[/_secret/Technology/High_Tech.secret|High_Tech.secret]] 
 

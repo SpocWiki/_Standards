@@ -51,17 +51,17 @@ official_name: Columba
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Columba](/_Standards/Astronomy/Star~Constellation/Zodiac~Columba.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Columba|Zodiac~Columba]] 
 
-### #is_/same_as :: [Zodiac~Columba.public](/_public/Astronomy/Star~Constellation/Zodiac~Columba.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Columba.public|Zodiac~Columba.public]] 
 
-### #is_/same_as :: [Zodiac~Columba.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Columba.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Columba.internal|Zodiac~Columba.internal]] 
 
-### #is_/same_as :: [Zodiac~Columba.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Columba.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Columba.protect|Zodiac~Columba.protect]] 
 
-### #is_/same_as :: [Zodiac~Columba.private](/_private/Astronomy/Star~Constellation/Zodiac~Columba.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Columba.private|Zodiac~Columba.private]] 
 
-### #is_/same_as :: [Zodiac~Columba.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Columba.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Columba.personal|Zodiac~Columba.personal]] 
 
-### #is_/same_as :: [Zodiac~Columba.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Columba.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Columba.secret|Zodiac~Columba.secret]] 
 

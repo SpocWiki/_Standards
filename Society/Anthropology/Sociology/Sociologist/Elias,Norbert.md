@@ -85,17 +85,17 @@ name_in_native_language: Norbert Elias
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elias,Norbert](/_Standards/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Elias,Norbert|Elias,Norbert]] 
 
-### #is_/same_as :: [Elias,Norbert.public](/_public/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.public|Elias,Norbert.public]] 
 
-### #is_/same_as :: [Elias,Norbert.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.internal|Elias,Norbert.internal]] 
 
-### #is_/same_as :: [Elias,Norbert.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.protect|Elias,Norbert.protect]] 
 
-### #is_/same_as :: [Elias,Norbert.private](/_private/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.private|Elias,Norbert.private]] 
 
-### #is_/same_as :: [Elias,Norbert.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.personal|Elias,Norbert.personal]] 
 
-### #is_/same_as :: [Elias,Norbert.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Elias,Norbert.secret|Elias,Norbert.secret]] 
 

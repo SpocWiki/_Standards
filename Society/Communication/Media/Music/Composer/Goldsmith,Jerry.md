@@ -100,17 +100,17 @@ date_of_birth: 1929-02-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goldsmith,Jerry](/_Standards/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Goldsmith,Jerry|Goldsmith,Jerry]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.public](/_public/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.public|Goldsmith,Jerry.public]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.internal](/_internal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.internal|Goldsmith,Jerry.internal]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.protect](/_protect/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.protect|Goldsmith,Jerry.protect]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.private](/_private/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.private|Goldsmith,Jerry.private]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.personal](/_personal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.personal|Goldsmith,Jerry.personal]] 
 
-### #is_/same_as :: [Goldsmith,Jerry.secret](/_secret/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Goldsmith,Jerry.secret|Goldsmith,Jerry.secret]] 
 

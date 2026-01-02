@@ -38,17 +38,17 @@ Commons_category: Treaty of Paris, 1814
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1814-Treaty_of_Paris](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris|1814-Treaty_of_Paris]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.public|1814-Treaty_of_Paris.public]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.internal|1814-Treaty_of_Paris.internal]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.protect|1814-Treaty_of_Paris.protect]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.private|1814-Treaty_of_Paris.private]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.personal|1814-Treaty_of_Paris.personal]] 
 
-### #is_/same_as :: [1814-Treaty_of_Paris.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1814-Treaty_of_Paris.secret|1814-Treaty_of_Paris.secret]] 
 

@@ -102,17 +102,17 @@ Copyright ::                           © [Tom Gruber](http://flickr.com/people/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stramenopiles](/_Standards/bio/bio~Domain/Eukarya/Stramenopiles.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Stramenopiles|Stramenopiles]] 
 
-### #is_/same_as :: [Stramenopiles.public](/_public/bio/bio~Domain/Eukarya/Stramenopiles.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Stramenopiles.public|Stramenopiles.public]] 
 
-### #is_/same_as :: [Stramenopiles.internal](/_internal/bio/bio~Domain/Eukarya/Stramenopiles.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Stramenopiles.internal|Stramenopiles.internal]] 
 
-### #is_/same_as :: [Stramenopiles.protect](/_protect/bio/bio~Domain/Eukarya/Stramenopiles.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Stramenopiles.protect|Stramenopiles.protect]] 
 
-### #is_/same_as :: [Stramenopiles.private](/_private/bio/bio~Domain/Eukarya/Stramenopiles.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Stramenopiles.private|Stramenopiles.private]] 
 
-### #is_/same_as :: [Stramenopiles.personal](/_personal/bio/bio~Domain/Eukarya/Stramenopiles.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Stramenopiles.personal|Stramenopiles.personal]] 
 
-### #is_/same_as :: [Stramenopiles.secret](/_secret/bio/bio~Domain/Eukarya/Stramenopiles.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Stramenopiles.secret|Stramenopiles.secret]] 
 

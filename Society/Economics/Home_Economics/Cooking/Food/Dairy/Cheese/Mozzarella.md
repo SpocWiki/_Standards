@@ -58,17 +58,17 @@ native_label: Mozzarella
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mozzarella](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella|Mozzarella]] 
 
-### #is_/same_as :: [Mozzarella.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.public|Mozzarella.public]] 
 
-### #is_/same_as :: [Mozzarella.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.internal|Mozzarella.internal]] 
 
-### #is_/same_as :: [Mozzarella.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.protect|Mozzarella.protect]] 
 
-### #is_/same_as :: [Mozzarella.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.private|Mozzarella.private]] 
 
-### #is_/same_as :: [Mozzarella.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.personal|Mozzarella.personal]] 
 
-### #is_/same_as :: [Mozzarella.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Mozzarella.secret|Mozzarella.secret]] 
 

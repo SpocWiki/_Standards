@@ -91,17 +91,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vagina](/_Standards/bio/Medicine/Anatomy/Vagina.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Vagina|Vagina]] 
 
-### #is_/same_as :: [Vagina.public](/_public/bio/Medicine/Anatomy/Vagina.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Vagina.public|Vagina.public]] 
 
-### #is_/same_as :: [Vagina.internal](/_internal/bio/Medicine/Anatomy/Vagina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Vagina.internal|Vagina.internal]] 
 
-### #is_/same_as :: [Vagina.protect](/_protect/bio/Medicine/Anatomy/Vagina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Vagina.protect|Vagina.protect]] 
 
-### #is_/same_as :: [Vagina.private](/_private/bio/Medicine/Anatomy/Vagina.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Vagina.private|Vagina.private]] 
 
-### #is_/same_as :: [Vagina.personal](/_personal/bio/Medicine/Anatomy/Vagina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Vagina.personal|Vagina.personal]] 
 
-### #is_/same_as :: [Vagina.secret](/_secret/bio/Medicine/Anatomy/Vagina.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Vagina.secret|Vagina.secret]] 
 

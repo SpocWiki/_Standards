@@ -23,3 +23,22 @@
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Learning/Socratic_Method|Socratic_Method]] 
+
+### #is_/same_as :: [[/_public/Society/Culture/Education/Learning/Socratic_Method.public|Socratic_Method.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Learning/Socratic_Method.internal|Socratic_Method.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Learning/Socratic_Method.protect|Socratic_Method.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Culture/Education/Learning/Socratic_Method.private|Socratic_Method.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Learning/Socratic_Method.personal|Socratic_Method.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Learning/Socratic_Method.secret|Socratic_Method.secret]] 
+

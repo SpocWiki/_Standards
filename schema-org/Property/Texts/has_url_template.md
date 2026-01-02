@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_template](/_Standards/schema-org/Property/Texts/has_url_template.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_url_template|has_url_template]] 
 
-### #is_/same_as :: [has_url_template.public](/_public/schema-org/Property/Texts/has_url_template.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_url_template.public|has_url_template.public]] 
 
-### #is_/same_as :: [has_url_template.internal](/_internal/schema-org/Property/Texts/has_url_template.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_url_template.internal|has_url_template.internal]] 
 
-### #is_/same_as :: [has_url_template.protect](/_protect/schema-org/Property/Texts/has_url_template.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_url_template.protect|has_url_template.protect]] 
 
-### #is_/same_as :: [has_url_template.private](/_private/schema-org/Property/Texts/has_url_template.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_url_template.private|has_url_template.private]] 
 
-### #is_/same_as :: [has_url_template.personal](/_personal/schema-org/Property/Texts/has_url_template.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_url_template.personal|has_url_template.personal]] 
 
-### #is_/same_as :: [has_url_template.secret](/_secret/schema-org/Property/Texts/has_url_template.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_url_template.secret|has_url_template.secret]] 
 

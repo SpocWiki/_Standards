@@ -68,17 +68,17 @@ ISO_15924_alpha_4_code: Zsym
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symbol](/_Standards/Language/Linguistics/Semiotics/Symbol.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Symbol|Symbol]] 
 
-### #is_/same_as :: [Symbol.public](/_public/Language/Linguistics/Semiotics/Symbol.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Symbol.public|Symbol.public]] 
 
-### #is_/same_as :: [Symbol.internal](/_internal/Language/Linguistics/Semiotics/Symbol.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Symbol.internal|Symbol.internal]] 
 
-### #is_/same_as :: [Symbol.protect](/_protect/Language/Linguistics/Semiotics/Symbol.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Symbol.protect|Symbol.protect]] 
 
-### #is_/same_as :: [Symbol.private](/_private/Language/Linguistics/Semiotics/Symbol.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Symbol.private|Symbol.private]] 
 
-### #is_/same_as :: [Symbol.personal](/_personal/Language/Linguistics/Semiotics/Symbol.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Symbol.personal|Symbol.personal]] 
 
-### #is_/same_as :: [Symbol.secret](/_secret/Language/Linguistics/Semiotics/Symbol.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Symbol.secret|Symbol.secret]] 
 

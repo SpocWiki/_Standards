@@ -88,17 +88,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Room](/_Standards/Earth/Geography/Place/Accommodation/Room.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Room|Room]] 
 
-### #is_/same_as :: [Room.public](/_public/Earth/Geography/Place/Accommodation/Room.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Room.public|Room.public]] 
 
-### #is_/same_as :: [Room.internal](/_internal/Earth/Geography/Place/Accommodation/Room.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Room.internal|Room.internal]] 
 
-### #is_/same_as :: [Room.protect](/_protect/Earth/Geography/Place/Accommodation/Room.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Room.protect|Room.protect]] 
 
-### #is_/same_as :: [Room.private](/_private/Earth/Geography/Place/Accommodation/Room.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Room.private|Room.private]] 
 
-### #is_/same_as :: [Room.personal](/_personal/Earth/Geography/Place/Accommodation/Room.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Room.personal|Room.personal]] 
 
-### #is_/same_as :: [Room.secret](/_secret/Earth/Geography/Place/Accommodation/Room.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Room.secret|Room.secret]] 
 

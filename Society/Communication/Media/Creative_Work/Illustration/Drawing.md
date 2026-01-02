@@ -75,17 +75,17 @@ A picture or diagram made with a pencil, pen, or crayon rather than paint.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drawing](/_Standards/Society/Communication/Media/Creative_Work/Illustration/Drawing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Illustration/Drawing|Drawing]] 
 
-### #is_/same_as :: [Drawing.public](/_public/Society/Communication/Media/Creative_Work/Illustration/Drawing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Illustration/Drawing.public|Drawing.public]] 
 
-### #is_/same_as :: [Drawing.internal](/_internal/Society/Communication/Media/Creative_Work/Illustration/Drawing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Illustration/Drawing.internal|Drawing.internal]] 
 
-### #is_/same_as :: [Drawing.protect](/_protect/Society/Communication/Media/Creative_Work/Illustration/Drawing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Illustration/Drawing.protect|Drawing.protect]] 
 
-### #is_/same_as :: [Drawing.private](/_private/Society/Communication/Media/Creative_Work/Illustration/Drawing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Illustration/Drawing.private|Drawing.private]] 
 
-### #is_/same_as :: [Drawing.personal](/_personal/Society/Communication/Media/Creative_Work/Illustration/Drawing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Illustration/Drawing.personal|Drawing.personal]] 
 
-### #is_/same_as :: [Drawing.secret](/_secret/Society/Communication/Media/Creative_Work/Illustration/Drawing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Illustration/Drawing.secret|Drawing.secret]] 
 

@@ -42,17 +42,17 @@ Completed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Study_is_completed](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed|Study_is_completed]] 
 
-### #is_/same_as :: [Study_is_completed.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.public|Study_is_completed.public]] 
 
-### #is_/same_as :: [Study_is_completed.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.internal|Study_is_completed.internal]] 
 
-### #is_/same_as :: [Study_is_completed.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.protect|Study_is_completed.protect]] 
 
-### #is_/same_as :: [Study_is_completed.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.private|Study_is_completed.private]] 
 
-### #is_/same_as :: [Study_is_completed.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.personal|Study_is_completed.personal]] 
 
-### #is_/same_as :: [Study_is_completed.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_completed.secret|Study_is_completed.secret]] 
 

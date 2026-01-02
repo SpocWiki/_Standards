@@ -69,17 +69,17 @@ UMLS_CUI: C0242270
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compassion](/_Standards/bio/Psychology/Affect/Emotion/Compassion.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Compassion|Compassion]] 
 
-### #is_/same_as :: [Compassion.public](/_public/bio/Psychology/Affect/Emotion/Compassion.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Compassion.public|Compassion.public]] 
 
-### #is_/same_as :: [Compassion.internal](/_internal/bio/Psychology/Affect/Emotion/Compassion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Compassion.internal|Compassion.internal]] 
 
-### #is_/same_as :: [Compassion.protect](/_protect/bio/Psychology/Affect/Emotion/Compassion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Compassion.protect|Compassion.protect]] 
 
-### #is_/same_as :: [Compassion.private](/_private/bio/Psychology/Affect/Emotion/Compassion.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Compassion.private|Compassion.private]] 
 
-### #is_/same_as :: [Compassion.personal](/_personal/bio/Psychology/Affect/Emotion/Compassion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Compassion.personal|Compassion.personal]] 
 
-### #is_/same_as :: [Compassion.secret](/_secret/bio/Psychology/Affect/Emotion/Compassion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Compassion.secret|Compassion.secret]] 
 

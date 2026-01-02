@@ -507,17 +507,17 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Place](/_Standards/fileClass/FileClass~Thing/FileClass~Place.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place|FileClass~Place]] 
 
-### #is_/same_as :: [FileClass~Place.public](/_public/fileClass/FileClass~Thing/FileClass~Place.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place.public|FileClass~Place.public]] 
 
-### #is_/same_as :: [FileClass~Place.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place.internal|FileClass~Place.internal]] 
 
-### #is_/same_as :: [FileClass~Place.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place.protect|FileClass~Place.protect]] 
 
-### #is_/same_as :: [FileClass~Place.private](/_private/fileClass/FileClass~Thing/FileClass~Place.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place.private|FileClass~Place.private]] 
 
-### #is_/same_as :: [FileClass~Place.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place.personal|FileClass~Place.personal]] 
 
-### #is_/same_as :: [FileClass~Place.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place.secret|FileClass~Place.secret]] 
 

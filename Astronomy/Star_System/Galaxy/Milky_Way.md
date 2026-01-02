@@ -216,17 +216,17 @@ different_from:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Milky_Way](/_Standards/Astronomy/Star_System/Galaxy/Milky_Way.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Milky_Way|Milky_Way]] 
 
-### #is_/same_as :: [Milky_Way.public](/_public/Astronomy/Star_System/Galaxy/Milky_Way.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Milky_Way.public|Milky_Way.public]] 
 
-### #is_/same_as :: [Milky_Way.internal](/_internal/Astronomy/Star_System/Galaxy/Milky_Way.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Milky_Way.internal|Milky_Way.internal]] 
 
-### #is_/same_as :: [Milky_Way.protect](/_protect/Astronomy/Star_System/Galaxy/Milky_Way.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Milky_Way.protect|Milky_Way.protect]] 
 
-### #is_/same_as :: [Milky_Way.private](/_private/Astronomy/Star_System/Galaxy/Milky_Way.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Milky_Way.private|Milky_Way.private]] 
 
-### #is_/same_as :: [Milky_Way.personal](/_personal/Astronomy/Star_System/Galaxy/Milky_Way.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Milky_Way.personal|Milky_Way.personal]] 
 
-### #is_/same_as :: [Milky_Way.secret](/_secret/Astronomy/Star_System/Galaxy/Milky_Way.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Milky_Way.secret|Milky_Way.secret]] 
 

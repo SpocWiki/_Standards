@@ -50,17 +50,17 @@ Commons_category: Mirages
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mirage](/_Standards/Science/Physics/Wave/Optics/Mirage.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Mirage|Mirage]] 
 
-### #is_/same_as :: [Mirage.public](/_public/Science/Physics/Wave/Optics/Mirage.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Mirage.public|Mirage.public]] 
 
-### #is_/same_as :: [Mirage.internal](/_internal/Science/Physics/Wave/Optics/Mirage.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Mirage.internal|Mirage.internal]] 
 
-### #is_/same_as :: [Mirage.protect](/_protect/Science/Physics/Wave/Optics/Mirage.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Mirage.protect|Mirage.protect]] 
 
-### #is_/same_as :: [Mirage.private](/_private/Science/Physics/Wave/Optics/Mirage.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Mirage.private|Mirage.private]] 
 
-### #is_/same_as :: [Mirage.personal](/_personal/Science/Physics/Wave/Optics/Mirage.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Mirage.personal|Mirage.personal]] 
 
-### #is_/same_as :: [Mirage.secret](/_secret/Science/Physics/Wave/Optics/Mirage.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Mirage.secret|Mirage.secret]] 
 

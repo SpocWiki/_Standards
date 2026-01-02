@@ -96,17 +96,17 @@ name_in_native_language: James Francis Cagney, Jr.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cagney,James](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James|Cagney,James]] 
 
-### #is_/same_as :: [Cagney,James.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.public|Cagney,James.public]] 
 
-### #is_/same_as :: [Cagney,James.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.internal|Cagney,James.internal]] 
 
-### #is_/same_as :: [Cagney,James.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.protect|Cagney,James.protect]] 
 
-### #is_/same_as :: [Cagney,James.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.private|Cagney,James.private]] 
 
-### #is_/same_as :: [Cagney,James.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.personal|Cagney,James.personal]] 
 
-### #is_/same_as :: [Cagney,James.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cagney,James.secret|Cagney,James.secret]] 
 

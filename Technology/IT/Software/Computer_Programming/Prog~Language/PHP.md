@@ -188,17 +188,17 @@ Mastodon_address: php@fosstodon.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PHP](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/PHP|PHP]] 
 
-### #is_/same_as :: [PHP.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.public|PHP.public]] 
 
-### #is_/same_as :: [PHP.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.internal|PHP.internal]] 
 
-### #is_/same_as :: [PHP.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.protect|PHP.protect]] 
 
-### #is_/same_as :: [PHP.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.private|PHP.private]] 
 
-### #is_/same_as :: [PHP.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.personal|PHP.personal]] 
 
-### #is_/same_as :: [PHP.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/PHP.secret|PHP.secret]] 
 

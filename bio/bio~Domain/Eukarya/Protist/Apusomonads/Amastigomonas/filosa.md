@@ -64,17 +64,17 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [filosa](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa|filosa]] 
 
-### #is_/same_as :: [filosa.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.public|filosa.public]] 
 
-### #is_/same_as :: [filosa.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.internal|filosa.internal]] 
 
-### #is_/same_as :: [filosa.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.protect|filosa.protect]] 
 
-### #is_/same_as :: [filosa.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.private|filosa.private]] 
 
-### #is_/same_as :: [filosa.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.personal|filosa.personal]] 
 
-### #is_/same_as :: [filosa.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Amastigomonas/filosa.secret|filosa.secret]] 
 

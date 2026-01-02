@@ -101,17 +101,17 @@ date_of_birth: 1765-11-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fulton,Robert](/_Standards/Science/Inventor/Fulton,Robert.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Fulton,Robert|Fulton,Robert]] 
 
-### #is_/same_as :: [Fulton,Robert.public](/_public/Science/Inventor/Fulton,Robert.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Fulton,Robert.public|Fulton,Robert.public]] 
 
-### #is_/same_as :: [Fulton,Robert.internal](/_internal/Science/Inventor/Fulton,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Fulton,Robert.internal|Fulton,Robert.internal]] 
 
-### #is_/same_as :: [Fulton,Robert.protect](/_protect/Science/Inventor/Fulton,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Fulton,Robert.protect|Fulton,Robert.protect]] 
 
-### #is_/same_as :: [Fulton,Robert.private](/_private/Science/Inventor/Fulton,Robert.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Fulton,Robert.private|Fulton,Robert.private]] 
 
-### #is_/same_as :: [Fulton,Robert.personal](/_personal/Science/Inventor/Fulton,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Fulton,Robert.personal|Fulton,Robert.personal]] 
 
-### #is_/same_as :: [Fulton,Robert.secret](/_secret/Science/Inventor/Fulton,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Fulton,Robert.secret|Fulton,Robert.secret]] 
 

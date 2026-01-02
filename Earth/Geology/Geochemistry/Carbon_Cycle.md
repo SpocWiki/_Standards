@@ -70,17 +70,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/TSIKL_UGLERODA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbon_Cycle](/_Standards/Earth/Geology/Geochemistry/Carbon_Cycle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geochemistry/Carbon_Cycle|Carbon_Cycle]] 
 
-### #is_/same_as :: [Carbon_Cycle.public](/_public/Earth/Geology/Geochemistry/Carbon_Cycle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geochemistry/Carbon_Cycle.public|Carbon_Cycle.public]] 
 
-### #is_/same_as :: [Carbon_Cycle.internal](/_internal/Earth/Geology/Geochemistry/Carbon_Cycle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geochemistry/Carbon_Cycle.internal|Carbon_Cycle.internal]] 
 
-### #is_/same_as :: [Carbon_Cycle.protect](/_protect/Earth/Geology/Geochemistry/Carbon_Cycle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geochemistry/Carbon_Cycle.protect|Carbon_Cycle.protect]] 
 
-### #is_/same_as :: [Carbon_Cycle.private](/_private/Earth/Geology/Geochemistry/Carbon_Cycle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geochemistry/Carbon_Cycle.private|Carbon_Cycle.private]] 
 
-### #is_/same_as :: [Carbon_Cycle.personal](/_personal/Earth/Geology/Geochemistry/Carbon_Cycle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geochemistry/Carbon_Cycle.personal|Carbon_Cycle.personal]] 
 
-### #is_/same_as :: [Carbon_Cycle.secret](/_secret/Earth/Geology/Geochemistry/Carbon_Cycle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geochemistry/Carbon_Cycle.secret|Carbon_Cycle.secret]] 
 

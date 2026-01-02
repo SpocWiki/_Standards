@@ -64,17 +64,17 @@ Baidu_Tieba_name: 新闻
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [News](/_Standards/Society/Communication/Media/Journalism/News.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/News|News]] 
 
-### #is_/same_as :: [News.public](/_public/Society/Communication/Media/Journalism/News.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/News.public|News.public]] 
 
-### #is_/same_as :: [News.internal](/_internal/Society/Communication/Media/Journalism/News.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/News.internal|News.internal]] 
 
-### #is_/same_as :: [News.protect](/_protect/Society/Communication/Media/Journalism/News.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/News.protect|News.protect]] 
 
-### #is_/same_as :: [News.private](/_private/Society/Communication/Media/Journalism/News.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/News.private|News.private]] 
 
-### #is_/same_as :: [News.personal](/_personal/Society/Communication/Media/Journalism/News.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/News.personal|News.personal]] 
 
-### #is_/same_as :: [News.secret](/_secret/Society/Communication/Media/Journalism/News.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/News.secret|News.secret]] 
 

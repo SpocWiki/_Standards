@@ -172,17 +172,17 @@ Europeana_entity: agent/base/147204
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cher](/_Standards/Society/Communication/Media/Music/Musician/Singer/Cher.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Cher|Cher]] 
 
-### #is_/same_as :: [Cher.public](/_public/Society/Communication/Media/Music/Musician/Singer/Cher.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Cher.public|Cher.public]] 
 
-### #is_/same_as :: [Cher.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Cher.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Cher.internal|Cher.internal]] 
 
-### #is_/same_as :: [Cher.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Cher.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Cher.protect|Cher.protect]] 
 
-### #is_/same_as :: [Cher.private](/_private/Society/Communication/Media/Music/Musician/Singer/Cher.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Cher.private|Cher.private]] 
 
-### #is_/same_as :: [Cher.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Cher.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Cher.personal|Cher.personal]] 
 
-### #is_/same_as :: [Cher.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Cher.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Cher.secret|Cher.secret]] 
 

@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_colleague](/_Standards/schema-org/Relation/has/has_colleague.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_colleague|has_colleague]] 
 
-### #is_/same_as :: [has_colleague.public](/_public/schema-org/Relation/has/has_colleague.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_colleague.public|has_colleague.public]] 
 
-### #is_/same_as :: [has_colleague.internal](/_internal/schema-org/Relation/has/has_colleague.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_colleague.internal|has_colleague.internal]] 
 
-### #is_/same_as :: [has_colleague.protect](/_protect/schema-org/Relation/has/has_colleague.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_colleague.protect|has_colleague.protect]] 
 
-### #is_/same_as :: [has_colleague.private](/_private/schema-org/Relation/has/has_colleague.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_colleague.private|has_colleague.private]] 
 
-### #is_/same_as :: [has_colleague.personal](/_personal/schema-org/Relation/has/has_colleague.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_colleague.personal|has_colleague.personal]] 
 
-### #is_/same_as :: [has_colleague.secret](/_secret/schema-org/Relation/has/has_colleague.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_colleague.secret|has_colleague.secret]] 
 

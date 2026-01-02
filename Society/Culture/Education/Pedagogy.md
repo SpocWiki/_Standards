@@ -71,17 +71,17 @@ OpenStreetMap_key: pedagogy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pedagogy](/_Standards/Society/Culture/Education/Pedagogy.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Pedagogy|Pedagogy]] 
 
-### #is_/same_as :: [Pedagogy.public](/_public/Society/Culture/Education/Pedagogy.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Pedagogy.public|Pedagogy.public]] 
 
-### #is_/same_as :: [Pedagogy.internal](/_internal/Society/Culture/Education/Pedagogy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Pedagogy.internal|Pedagogy.internal]] 
 
-### #is_/same_as :: [Pedagogy.protect](/_protect/Society/Culture/Education/Pedagogy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Pedagogy.protect|Pedagogy.protect]] 
 
-### #is_/same_as :: [Pedagogy.private](/_private/Society/Culture/Education/Pedagogy.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Pedagogy.private|Pedagogy.private]] 
 
-### #is_/same_as :: [Pedagogy.personal](/_personal/Society/Culture/Education/Pedagogy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Pedagogy.personal|Pedagogy.personal]] 
 
-### #is_/same_as :: [Pedagogy.secret](/_secret/Society/Culture/Education/Pedagogy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Pedagogy.secret|Pedagogy.secret]] 
 

@@ -51,17 +51,17 @@ Commons_category: Daytime (astronomy)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daytime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime|Daytime]] 
 
-### #is_/same_as :: [Daytime.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.public|Daytime.public]] 
 
-### #is_/same_as :: [Daytime.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.internal|Daytime.internal]] 
 
-### #is_/same_as :: [Daytime.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.protect|Daytime.protect]] 
 
-### #is_/same_as :: [Daytime.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.private|Daytime.private]] 
 
-### #is_/same_as :: [Daytime.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.personal|Daytime.personal]] 
 
-### #is_/same_as :: [Daytime.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Daytime.secret|Daytime.secret]] 
 

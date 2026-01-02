@@ -68,17 +68,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~Serpukhovian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
 
-### #is_/same_as :: [Age~Serpukhovian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.public|Age~Serpukhovian.public]] 
 
-### #is_/same_as :: [Age~Serpukhovian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.internal|Age~Serpukhovian.internal]] 
 
-### #is_/same_as :: [Age~Serpukhovian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.protect|Age~Serpukhovian.protect]] 
 
-### #is_/same_as :: [Age~Serpukhovian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.private|Age~Serpukhovian.private]] 
 
-### #is_/same_as :: [Age~Serpukhovian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.personal|Age~Serpukhovian.personal]] 
 
-### #is_/same_as :: [Age~Serpukhovian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.secret|Age~Serpukhovian.secret]] 
 

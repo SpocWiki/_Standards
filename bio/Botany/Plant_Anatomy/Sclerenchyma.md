@@ -45,17 +45,17 @@ Commons_category: Sclerenchyma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sclerenchyma](/_Standards/bio/Botany/Plant_Anatomy/Sclerenchyma.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Sclerenchyma|Sclerenchyma]] 
 
-### #is_/same_as :: [Sclerenchyma.public](/_public/bio/Botany/Plant_Anatomy/Sclerenchyma.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Sclerenchyma.public|Sclerenchyma.public]] 
 
-### #is_/same_as :: [Sclerenchyma.internal](/_internal/bio/Botany/Plant_Anatomy/Sclerenchyma.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Sclerenchyma.internal|Sclerenchyma.internal]] 
 
-### #is_/same_as :: [Sclerenchyma.protect](/_protect/bio/Botany/Plant_Anatomy/Sclerenchyma.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Sclerenchyma.protect|Sclerenchyma.protect]] 
 
-### #is_/same_as :: [Sclerenchyma.private](/_private/bio/Botany/Plant_Anatomy/Sclerenchyma.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Sclerenchyma.private|Sclerenchyma.private]] 
 
-### #is_/same_as :: [Sclerenchyma.personal](/_personal/bio/Botany/Plant_Anatomy/Sclerenchyma.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Sclerenchyma.personal|Sclerenchyma.personal]] 
 
-### #is_/same_as :: [Sclerenchyma.secret](/_secret/bio/Botany/Plant_Anatomy/Sclerenchyma.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Sclerenchyma.secret|Sclerenchyma.secret]] 
 

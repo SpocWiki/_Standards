@@ -46,17 +46,17 @@ Commons_category: Defensive walls
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Defensive_Wall](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall|Defensive_Wall]] 
 
-### #is_/same_as :: [Defensive_Wall.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.public|Defensive_Wall.public]] 
 
-### #is_/same_as :: [Defensive_Wall.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.internal|Defensive_Wall.internal]] 
 
-### #is_/same_as :: [Defensive_Wall.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.protect|Defensive_Wall.protect]] 
 
-### #is_/same_as :: [Defensive_Wall.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.private|Defensive_Wall.private]] 
 
-### #is_/same_as :: [Defensive_Wall.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.personal|Defensive_Wall.personal]] 
 
-### #is_/same_as :: [Defensive_Wall.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Defensive_Wall.secret|Defensive_Wall.secret]] 
 

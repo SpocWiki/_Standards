@@ -48,17 +48,17 @@ These are not classified as essential, but they provide health benefits:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nutrient](/_Standards/bio/Metabolism/Nutrition/Nutrient.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Nutrient|Nutrient]] 
 
-### #is_/same_as :: [Nutrient.public](/_public/bio/Metabolism/Nutrition/Nutrient.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Nutrient.public|Nutrient.public]] 
 
-### #is_/same_as :: [Nutrient.internal](/_internal/bio/Metabolism/Nutrition/Nutrient.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Nutrient.internal|Nutrient.internal]] 
 
-### #is_/same_as :: [Nutrient.protect](/_protect/bio/Metabolism/Nutrition/Nutrient.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Nutrient.protect|Nutrient.protect]] 
 
-### #is_/same_as :: [Nutrient.private](/_private/bio/Metabolism/Nutrition/Nutrient.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Nutrient.private|Nutrient.private]] 
 
-### #is_/same_as :: [Nutrient.personal](/_personal/bio/Metabolism/Nutrition/Nutrient.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Nutrient.personal|Nutrient.personal]] 
 
-### #is_/same_as :: [Nutrient.secret](/_secret/bio/Metabolism/Nutrition/Nutrient.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Nutrient.secret|Nutrient.secret]] 
 

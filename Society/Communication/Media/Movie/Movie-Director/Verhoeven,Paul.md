@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verhoeven,Paul](/_Standards/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul|Verhoeven,Paul]] 
 
-### #is_/same_as :: [Verhoeven,Paul.public](/_public/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.public|Verhoeven,Paul.public]] 
 
-### #is_/same_as :: [Verhoeven,Paul.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.internal|Verhoeven,Paul.internal]] 
 
-### #is_/same_as :: [Verhoeven,Paul.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.protect|Verhoeven,Paul.protect]] 
 
-### #is_/same_as :: [Verhoeven,Paul.private](/_private/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.private|Verhoeven,Paul.private]] 
 
-### #is_/same_as :: [Verhoeven,Paul.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.personal|Verhoeven,Paul.personal]] 
 
-### #is_/same_as :: [Verhoeven,Paul.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Verhoeven,Paul.secret|Verhoeven,Paul.secret]] 
 

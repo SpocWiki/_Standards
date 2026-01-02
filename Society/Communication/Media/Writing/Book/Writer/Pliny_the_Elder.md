@@ -118,17 +118,17 @@ name_in_native_language: Caius Plinius Secundus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pliny_the_Elder](/_Standards/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder|Pliny_the_Elder]] 
 
-### #is_/same_as :: [Pliny_the_Elder.public](/_public/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.public|Pliny_the_Elder.public]] 
 
-### #is_/same_as :: [Pliny_the_Elder.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.internal|Pliny_the_Elder.internal]] 
 
-### #is_/same_as :: [Pliny_the_Elder.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.protect|Pliny_the_Elder.protect]] 
 
-### #is_/same_as :: [Pliny_the_Elder.private](/_private/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.private|Pliny_the_Elder.private]] 
 
-### #is_/same_as :: [Pliny_the_Elder.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.personal|Pliny_the_Elder.personal]] 
 
-### #is_/same_as :: [Pliny_the_Elder.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Pliny_the_Elder.secret|Pliny_the_Elder.secret]] 
 

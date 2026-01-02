@@ -68,17 +68,17 @@ A type of blood vessel that specifically carries lymph fluid unidirectionally to
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lymphatic_vessel](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel|Lymphatic_vessel]] 
 
-### #is_/same_as :: [Lymphatic_vessel.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.public|Lymphatic_vessel.public]] 
 
-### #is_/same_as :: [Lymphatic_vessel.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.internal|Lymphatic_vessel.internal]] 
 
-### #is_/same_as :: [Lymphatic_vessel.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.protect|Lymphatic_vessel.protect]] 
 
-### #is_/same_as :: [Lymphatic_vessel.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.private|Lymphatic_vessel.private]] 
 
-### #is_/same_as :: [Lymphatic_vessel.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.personal|Lymphatic_vessel.personal]] 
 
-### #is_/same_as :: [Lymphatic_vessel.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Lymphatic_vessel.secret|Lymphatic_vessel.secret]] 
 

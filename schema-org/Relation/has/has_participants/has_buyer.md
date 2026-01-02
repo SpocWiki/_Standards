@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_buyer](has_buyer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_buyer|has_buyer]] 
 
-### #is_/same_as :: [has_buyer.public](/_public/schema-org/Relation/has/has_buyer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_buyer.public|has_buyer.public]] 
 
-### #is_/same_as :: [has_buyer.internal](/_internal/schema-org/Relation/has/has_buyer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_buyer.internal|has_buyer.internal]] 
 
-### #is_/same_as :: [has_buyer.protect](/_protect/schema-org/Relation/has/has_buyer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_buyer.protect|has_buyer.protect]] 
 
-### #is_/same_as :: [has_buyer.private](/_private/schema-org/Relation/has/has_buyer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_buyer.private|has_buyer.private]] 
 
-### #is_/same_as :: [has_buyer.personal](/_personal/schema-org/Relation/has/has_buyer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_buyer.personal|has_buyer.personal]] 
 
-### #is_/same_as :: [has_buyer.secret](/_secret/schema-org/Relation/has/has_buyer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_buyer.secret|has_buyer.secret]] 
 

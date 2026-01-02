@@ -72,17 +72,17 @@ Commons_category: Eastern Orthodox Church
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastern_Orthodoxy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy|Eastern_Orthodoxy]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.public|Eastern_Orthodoxy.public]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.internal|Eastern_Orthodoxy.internal]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.protect|Eastern_Orthodoxy.protect]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.private|Eastern_Orthodoxy.private]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.personal|Eastern_Orthodoxy.personal]] 
 
-### #is_/same_as :: [Eastern_Orthodoxy.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy.secret|Eastern_Orthodoxy.secret]] 
 

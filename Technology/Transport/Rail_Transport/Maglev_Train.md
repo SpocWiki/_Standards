@@ -67,17 +67,17 @@ Commons_category: Magnetic levitation trains
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maglev_Train](/_Standards/Technology/Transport/Rail_Transport/Maglev_Train.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Rail_Transport/Maglev_Train|Maglev_Train]] 
 
-### #is_/same_as :: [Maglev_Train.public](/_public/Technology/Transport/Rail_Transport/Maglev_Train.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Rail_Transport/Maglev_Train.public|Maglev_Train.public]] 
 
-### #is_/same_as :: [Maglev_Train.internal](/_internal/Technology/Transport/Rail_Transport/Maglev_Train.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Rail_Transport/Maglev_Train.internal|Maglev_Train.internal]] 
 
-### #is_/same_as :: [Maglev_Train.protect](/_protect/Technology/Transport/Rail_Transport/Maglev_Train.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Rail_Transport/Maglev_Train.protect|Maglev_Train.protect]] 
 
-### #is_/same_as :: [Maglev_Train.private](/_private/Technology/Transport/Rail_Transport/Maglev_Train.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Rail_Transport/Maglev_Train.private|Maglev_Train.private]] 
 
-### #is_/same_as :: [Maglev_Train.personal](/_personal/Technology/Transport/Rail_Transport/Maglev_Train.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Rail_Transport/Maglev_Train.personal|Maglev_Train.personal]] 
 
-### #is_/same_as :: [Maglev_Train.secret](/_secret/Technology/Transport/Rail_Transport/Maglev_Train.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Rail_Transport/Maglev_Train.secret|Maglev_Train.secret]] 
 

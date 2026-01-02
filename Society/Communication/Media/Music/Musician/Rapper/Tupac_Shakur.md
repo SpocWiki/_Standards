@@ -159,17 +159,17 @@ Know_Your_Meme_slug: tupac-hologram
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tupac_Shakur](/_Standards/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur|Tupac_Shakur]] 
 
-### #is_/same_as :: [Tupac_Shakur.public](/_public/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.public|Tupac_Shakur.public]] 
 
-### #is_/same_as :: [Tupac_Shakur.internal](/_internal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.internal|Tupac_Shakur.internal]] 
 
-### #is_/same_as :: [Tupac_Shakur.protect](/_protect/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.protect|Tupac_Shakur.protect]] 
 
-### #is_/same_as :: [Tupac_Shakur.private](/_private/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.private|Tupac_Shakur.private]] 
 
-### #is_/same_as :: [Tupac_Shakur.personal](/_personal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.personal|Tupac_Shakur.personal]] 
 
-### #is_/same_as :: [Tupac_Shakur.secret](/_secret/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rapper/Tupac_Shakur.secret|Tupac_Shakur.secret]] 
 

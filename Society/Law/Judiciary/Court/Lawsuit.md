@@ -22,3 +22,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lawsuit) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Lawsuit|Lawsuit]] 
+
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Lawsuit.public|Lawsuit.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Lawsuit.internal|Lawsuit.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Lawsuit.protect|Lawsuit.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Lawsuit.private|Lawsuit.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Lawsuit.personal|Lawsuit.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Lawsuit.secret|Lawsuit.secret]] 
+

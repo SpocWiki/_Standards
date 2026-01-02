@@ -48,17 +48,17 @@ Commons_category: Lutes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute|Lute]] 
 
-### #is_/same_as :: [Lute.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.public|Lute.public]] 
 
-### #is_/same_as :: [Lute.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.internal|Lute.internal]] 
 
-### #is_/same_as :: [Lute.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.protect|Lute.protect]] 
 
-### #is_/same_as :: [Lute.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.private|Lute.private]] 
 
-### #is_/same_as :: [Lute.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.personal|Lute.personal]] 
 
-### #is_/same_as :: [Lute.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute.secret|Lute.secret]] 
 

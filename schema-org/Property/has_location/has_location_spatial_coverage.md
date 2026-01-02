@@ -49,17 +49,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_spatial_coverage](/_Standards/schema-org/Property/has_location/has_location_spatial_coverage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_spatial_coverage|has_location_spatial_coverage]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.public](/_public/schema-org/Property/has_location/has_location_spatial_coverage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_spatial_coverage.public|has_location_spatial_coverage.public]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.internal](/_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_spatial_coverage.internal|has_location_spatial_coverage.internal]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.protect](/_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_spatial_coverage.protect|has_location_spatial_coverage.protect]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.private](/_private/schema-org/Property/has_location/has_location_spatial_coverage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_spatial_coverage.private|has_location_spatial_coverage.private]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.personal](/_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_spatial_coverage.personal|has_location_spatial_coverage.personal]] 
 
-### #is_/same_as :: [has_location_spatial_coverage.secret](/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_spatial_coverage.secret|has_location_spatial_coverage.secret]] 
 

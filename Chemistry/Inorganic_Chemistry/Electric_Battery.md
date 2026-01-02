@@ -74,17 +74,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Batte
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Battery](/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Electric_Battery|Electric_Battery]] 
 
-### #is_/same_as :: [Electric_Battery.public](/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Electric_Battery.public|Electric_Battery.public]] 
 
-### #is_/same_as :: [Electric_Battery.internal](/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Electric_Battery.internal|Electric_Battery.internal]] 
 
-### #is_/same_as :: [Electric_Battery.protect](/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Electric_Battery.protect|Electric_Battery.protect]] 
 
-### #is_/same_as :: [Electric_Battery.private](/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Electric_Battery.private|Electric_Battery.private]] 
 
-### #is_/same_as :: [Electric_Battery.personal](/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Electric_Battery.personal|Electric_Battery.personal]] 
 
-### #is_/same_as :: [Electric_Battery.secret](/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Electric_Battery.secret|Electric_Battery.secret]] 
 

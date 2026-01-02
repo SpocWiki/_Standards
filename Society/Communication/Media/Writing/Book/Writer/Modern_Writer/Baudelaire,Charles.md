@@ -125,17 +125,17 @@ birth_name: Charles-Pierre Baudelaire
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baudelaire,Charles](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles|Baudelaire,Charles]] 
 
-### #is_/same_as :: [Baudelaire,Charles.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.public|Baudelaire,Charles.public]] 
 
-### #is_/same_as :: [Baudelaire,Charles.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.internal|Baudelaire,Charles.internal]] 
 
-### #is_/same_as :: [Baudelaire,Charles.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.protect|Baudelaire,Charles.protect]] 
 
-### #is_/same_as :: [Baudelaire,Charles.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.private|Baudelaire,Charles.private]] 
 
-### #is_/same_as :: [Baudelaire,Charles.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.personal|Baudelaire,Charles.personal]] 
 
-### #is_/same_as :: [Baudelaire,Charles.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Baudelaire,Charles.secret|Baudelaire,Charles.secret]] 
 

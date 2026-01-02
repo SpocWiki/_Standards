@@ -73,17 +73,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Pirates%20Banner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piracy](/_Standards/Society/Military/Military_Organization/Navy/Piracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Piracy|Piracy]] 
 
-### #is_/same_as :: [Piracy.public](/_public/Society/Military/Military_Organization/Navy/Piracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Piracy.public|Piracy.public]] 
 
-### #is_/same_as :: [Piracy.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Piracy.internal|Piracy.internal]] 
 
-### #is_/same_as :: [Piracy.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Piracy.protect|Piracy.protect]] 
 
-### #is_/same_as :: [Piracy.private](/_private/Society/Military/Military_Organization/Navy/Piracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Piracy.private|Piracy.private]] 
 
-### #is_/same_as :: [Piracy.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Piracy.personal|Piracy.personal]] 
 
-### #is_/same_as :: [Piracy.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Piracy.secret|Piracy.secret]] 
 

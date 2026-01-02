@@ -194,17 +194,17 @@ Plex_person_key: 5d7768254de0ee001fcc832d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winfrey,Oprah](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah|Winfrey,Oprah]] 
 
-### #is_/same_as :: [Winfrey,Oprah.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.public|Winfrey,Oprah.public]] 
 
-### #is_/same_as :: [Winfrey,Oprah.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.internal|Winfrey,Oprah.internal]] 
 
-### #is_/same_as :: [Winfrey,Oprah.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.protect|Winfrey,Oprah.protect]] 
 
-### #is_/same_as :: [Winfrey,Oprah.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.private|Winfrey,Oprah.private]] 
 
-### #is_/same_as :: [Winfrey,Oprah.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.personal|Winfrey,Oprah.personal]] 
 
-### #is_/same_as :: [Winfrey,Oprah.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/Talk-Show/Winfrey,Oprah.secret|Winfrey,Oprah.secret]] 
 

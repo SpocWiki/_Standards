@@ -34,17 +34,17 @@ Commons_category: Watercraft
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watercraft](/_Standards/Technology/Transport/Water_Transport/Watercraft.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft|Watercraft]] 
 
-### #is_/same_as :: [Watercraft.public](/_public/Technology/Transport/Water_Transport/Watercraft.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft.public|Watercraft.public]] 
 
-### #is_/same_as :: [Watercraft.internal](/_internal/Technology/Transport/Water_Transport/Watercraft.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft.internal|Watercraft.internal]] 
 
-### #is_/same_as :: [Watercraft.protect](/_protect/Technology/Transport/Water_Transport/Watercraft.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft.protect|Watercraft.protect]] 
 
-### #is_/same_as :: [Watercraft.private](/_private/Technology/Transport/Water_Transport/Watercraft.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft.private|Watercraft.private]] 
 
-### #is_/same_as :: [Watercraft.personal](/_personal/Technology/Transport/Water_Transport/Watercraft.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft.personal|Watercraft.personal]] 
 
-### #is_/same_as :: [Watercraft.secret](/_secret/Technology/Transport/Water_Transport/Watercraft.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft.secret|Watercraft.secret]] 
 

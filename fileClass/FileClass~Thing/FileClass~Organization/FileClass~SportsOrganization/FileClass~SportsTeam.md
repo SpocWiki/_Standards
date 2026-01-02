@@ -64,17 +64,17 @@ Gender:: {"type":"Select","options":{"valuesList":{"Female","Male"},"sourceType"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SportsTeam](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam|FileClass~SportsTeam]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.public|FileClass~SportsTeam.public]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.internal|FileClass~SportsTeam.internal]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.protect|FileClass~SportsTeam.protect]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.private|FileClass~SportsTeam.private]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.personal|FileClass~SportsTeam.personal]] 
 
-### #is_/same_as :: [FileClass~SportsTeam.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SportsOrganization/FileClass~SportsTeam.secret|FileClass~SportsTeam.secret]] 
 

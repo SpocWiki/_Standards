@@ -149,17 +149,17 @@ ISNI: 0000000121442113
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theodor_W._Adorno](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno|Theodor_W._Adorno]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.public|Theodor_W._Adorno.public]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.internal|Theodor_W._Adorno.internal]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.protect|Theodor_W._Adorno.protect]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.private|Theodor_W._Adorno.private]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.personal|Theodor_W._Adorno.personal]] 
 
-### #is_/same_as :: [Theodor_W._Adorno.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Theodor_W._Adorno.secret|Theodor_W._Adorno.secret]] 
 

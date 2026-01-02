@@ -58,17 +58,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Conghua%20toweroftropi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tropic_of_Cancer](/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer|Tropic_of_Cancer]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.public](/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.public|Tropic_of_Cancer.public]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.internal](/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.internal|Tropic_of_Cancer.internal]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.protect](/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.protect|Tropic_of_Cancer.protect]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.private](/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.private|Tropic_of_Cancer.private]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.personal](/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.personal|Tropic_of_Cancer.personal]] 
 
-### #is_/same_as :: [Tropic_of_Cancer.secret](/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Circle_of_latitude/Tropic_of_Cancer.secret|Tropic_of_Cancer.secret]] 
 

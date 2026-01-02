@@ -116,17 +116,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Oil%20Compa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Standard_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil|Standard_Oil]] 
 
-### #is_/same_as :: [Standard_Oil.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.public|Standard_Oil.public]] 
 
-### #is_/same_as :: [Standard_Oil.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.internal|Standard_Oil.internal]] 
 
-### #is_/same_as :: [Standard_Oil.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.protect|Standard_Oil.protect]] 
 
-### #is_/same_as :: [Standard_Oil.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.private|Standard_Oil.private]] 
 
-### #is_/same_as :: [Standard_Oil.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.personal|Standard_Oil.personal]] 
 
-### #is_/same_as :: [Standard_Oil.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Standard_Oil.secret|Standard_Oil.secret]] 
 

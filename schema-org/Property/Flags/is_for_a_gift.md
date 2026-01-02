@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_for_a_gift](/_Standards/schema-org/Property/Flags/is_for_a_gift.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_for_a_gift|is_for_a_gift]] 
 
-### #is_/same_as :: [is_for_a_gift.public](/_public/schema-org/Property/Flags/is_for_a_gift.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_for_a_gift.public|is_for_a_gift.public]] 
 
-### #is_/same_as :: [is_for_a_gift.internal](/_internal/schema-org/Property/Flags/is_for_a_gift.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_for_a_gift.internal|is_for_a_gift.internal]] 
 
-### #is_/same_as :: [is_for_a_gift.protect](/_protect/schema-org/Property/Flags/is_for_a_gift.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_for_a_gift.protect|is_for_a_gift.protect]] 
 
-### #is_/same_as :: [is_for_a_gift.private](/_private/schema-org/Property/Flags/is_for_a_gift.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_for_a_gift.private|is_for_a_gift.private]] 
 
-### #is_/same_as :: [is_for_a_gift.personal](/_personal/schema-org/Property/Flags/is_for_a_gift.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_for_a_gift.personal|is_for_a_gift.personal]] 
 
-### #is_/same_as :: [is_for_a_gift.secret](/_secret/schema-org/Property/Flags/is_for_a_gift.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_for_a_gift.secret|is_for_a_gift.secret]] 
 

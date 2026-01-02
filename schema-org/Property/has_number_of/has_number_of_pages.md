@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_pages](/_Standards/schema-org/Property/has_number_of/has_number_of_pages.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_pages|has_number_of_pages]] 
 
-### #is_/same_as :: [has_number_of_pages.public](/_public/schema-org/Property/has_number_of/has_number_of_pages.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_pages.public|has_number_of_pages.public]] 
 
-### #is_/same_as :: [has_number_of_pages.internal](/_internal/schema-org/Property/has_number_of/has_number_of_pages.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_pages.internal|has_number_of_pages.internal]] 
 
-### #is_/same_as :: [has_number_of_pages.protect](/_protect/schema-org/Property/has_number_of/has_number_of_pages.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_pages.protect|has_number_of_pages.protect]] 
 
-### #is_/same_as :: [has_number_of_pages.private](/_private/schema-org/Property/has_number_of/has_number_of_pages.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_pages.private|has_number_of_pages.private]] 
 
-### #is_/same_as :: [has_number_of_pages.personal](/_personal/schema-org/Property/has_number_of/has_number_of_pages.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_pages.personal|has_number_of_pages.personal]] 
 
-### #is_/same_as :: [has_number_of_pages.secret](/_secret/schema-org/Property/has_number_of/has_number_of_pages.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_pages.secret|has_number_of_pages.secret]] 
 

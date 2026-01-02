@@ -56,17 +56,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_work_example](/_Standards/schema-org/Relation/has/has_work_example.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_work_example|has_work_example]] 
 
-### #is_/same_as :: [has_work_example.public](/_public/schema-org/Relation/has/has_work_example.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_work_example.public|has_work_example.public]] 
 
-### #is_/same_as :: [has_work_example.internal](/_internal/schema-org/Relation/has/has_work_example.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_work_example.internal|has_work_example.internal]] 
 
-### #is_/same_as :: [has_work_example.protect](/_protect/schema-org/Relation/has/has_work_example.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_work_example.protect|has_work_example.protect]] 
 
-### #is_/same_as :: [has_work_example.private](/_private/schema-org/Relation/has/has_work_example.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_work_example.private|has_work_example.private]] 
 
-### #is_/same_as :: [has_work_example.personal](/_personal/schema-org/Relation/has/has_work_example.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_work_example.personal|has_work_example.personal]] 
 
-### #is_/same_as :: [has_work_example.secret](/_secret/schema-org/Relation/has/has_work_example.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_work_example.secret|has_work_example.secret]] 
 

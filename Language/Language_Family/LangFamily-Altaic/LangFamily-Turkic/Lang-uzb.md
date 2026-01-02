@@ -110,17 +110,17 @@ GOST_7_75_97_code: узб 710
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-uzb](/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb|Lang-uzb]] 
 
-### #is_/same_as :: [Lang-uzb.public](/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.public|Lang-uzb.public]] 
 
-### #is_/same_as :: [Lang-uzb.internal](/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.internal|Lang-uzb.internal]] 
 
-### #is_/same_as :: [Lang-uzb.protect](/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.protect|Lang-uzb.protect]] 
 
-### #is_/same_as :: [Lang-uzb.private](/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.private|Lang-uzb.private]] 
 
-### #is_/same_as :: [Lang-uzb.personal](/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.personal|Lang-uzb.personal]] 
 
-### #is_/same_as :: [Lang-uzb.secret](/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Altaic/LangFamily-Turkic/Lang-uzb.secret|Lang-uzb.secret]] 
 

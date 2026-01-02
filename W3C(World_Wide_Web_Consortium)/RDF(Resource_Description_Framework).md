@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework)](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)|RDF(Resource_Description_Framework)]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).public|RDF(Resource_Description_Framework).public]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).internal|RDF(Resource_Description_Framework).internal]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).protect|RDF(Resource_Description_Framework).protect]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).private|RDF(Resource_Description_Framework).private]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).personal|RDF(Resource_Description_Framework).personal]] 
 
-### #is_/same_as :: [RDF(Resource_Description_Framework).secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework).secret|RDF(Resource_Description_Framework).secret]] 
 

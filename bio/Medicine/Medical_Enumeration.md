@@ -41,17 +41,17 @@ Enumerations related to health and the practice of medicine: A concept that is u
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Enumeration](/_Standards/bio/Medicine/Medical_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration|Medical_Enumeration]] 
 
-### #is_/same_as :: [Medical_Enumeration.public](/_public/bio/Medicine/Medical_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration.public|Medical_Enumeration.public]] 
 
-### #is_/same_as :: [Medical_Enumeration.internal](/_internal/bio/Medicine/Medical_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration.internal|Medical_Enumeration.internal]] 
 
-### #is_/same_as :: [Medical_Enumeration.protect](/_protect/bio/Medicine/Medical_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration.protect|Medical_Enumeration.protect]] 
 
-### #is_/same_as :: [Medical_Enumeration.private](/_private/bio/Medicine/Medical_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration.private|Medical_Enumeration.private]] 
 
-### #is_/same_as :: [Medical_Enumeration.personal](/_personal/bio/Medicine/Medical_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration.personal|Medical_Enumeration.personal]] 
 
-### #is_/same_as :: [Medical_Enumeration.secret](/_secret/bio/Medicine/Medical_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration.secret|Medical_Enumeration.secret]] 
 

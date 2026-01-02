@@ -117,17 +117,17 @@ date_of_birth: 1946-03-12T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minnelli,Liza](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza|Minnelli,Liza]] 
 
-### #is_/same_as :: [Minnelli,Liza.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.public|Minnelli,Liza.public]] 
 
-### #is_/same_as :: [Minnelli,Liza.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.internal|Minnelli,Liza.internal]] 
 
-### #is_/same_as :: [Minnelli,Liza.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.protect|Minnelli,Liza.protect]] 
 
-### #is_/same_as :: [Minnelli,Liza.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.private|Minnelli,Liza.private]] 
 
-### #is_/same_as :: [Minnelli,Liza.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.personal|Minnelli,Liza.personal]] 
 
-### #is_/same_as :: [Minnelli,Liza.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Minnelli,Liza.secret|Minnelli,Liza.secret]] 
 

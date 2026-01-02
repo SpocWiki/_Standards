@@ -53,17 +53,17 @@ In a non-repeated or finite-horizon ultimatum game, the first Nash equilibria (u
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ultimatum_Game](/_Standards/Mathematics/Game_Theory/Ultimatum_Game.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Game_Theory/Ultimatum_Game|Ultimatum_Game]] 
 
-### #is_/same_as :: [Ultimatum_Game.public](/_public/Mathematics/Game_Theory/Ultimatum_Game.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Game_Theory/Ultimatum_Game.public|Ultimatum_Game.public]] 
 
-### #is_/same_as :: [Ultimatum_Game.internal](/_internal/Mathematics/Game_Theory/Ultimatum_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Game_Theory/Ultimatum_Game.internal|Ultimatum_Game.internal]] 
 
-### #is_/same_as :: [Ultimatum_Game.protect](/_protect/Mathematics/Game_Theory/Ultimatum_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Game_Theory/Ultimatum_Game.protect|Ultimatum_Game.protect]] 
 
-### #is_/same_as :: [Ultimatum_Game.private](/_private/Mathematics/Game_Theory/Ultimatum_Game.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Game_Theory/Ultimatum_Game.private|Ultimatum_Game.private]] 
 
-### #is_/same_as :: [Ultimatum_Game.personal](/_personal/Mathematics/Game_Theory/Ultimatum_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Game_Theory/Ultimatum_Game.personal|Ultimatum_Game.personal]] 
 
-### #is_/same_as :: [Ultimatum_Game.secret](/_secret/Mathematics/Game_Theory/Ultimatum_Game.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Game_Theory/Ultimatum_Game.secret|Ultimatum_Game.secret]] 
 

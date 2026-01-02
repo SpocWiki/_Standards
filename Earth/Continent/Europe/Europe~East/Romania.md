@@ -553,17 +553,17 @@ Capital :: [[Bukarest]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Romania](/_Standards/Earth/Continent/Europe/Europe~East/Romania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Romania|Romania]] 
 
-### #is_/same_as :: [Romania.public](/_public/Earth/Continent/Europe/Europe~East/Romania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Romania.public|Romania.public]] 
 
-### #is_/same_as :: [Romania.internal](/_internal/Earth/Continent/Europe/Europe~East/Romania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Romania.internal|Romania.internal]] 
 
-### #is_/same_as :: [Romania.protect](/_protect/Earth/Continent/Europe/Europe~East/Romania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Romania.protect|Romania.protect]] 
 
-### #is_/same_as :: [Romania.private](/_private/Earth/Continent/Europe/Europe~East/Romania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Romania.private|Romania.private]] 
 
-### #is_/same_as :: [Romania.personal](/_personal/Earth/Continent/Europe/Europe~East/Romania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Romania.personal|Romania.personal]] 
 
-### #is_/same_as :: [Romania.secret](/_secret/Earth/Continent/Europe/Europe~East/Romania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Romania.secret|Romania.secret]] 
 

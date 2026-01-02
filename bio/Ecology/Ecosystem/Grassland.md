@@ -46,17 +46,17 @@ GeoNames_feature_code: V.GRSLD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grassland](/_Standards/bio/Ecology/Ecosystem/Grassland.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Grassland|Grassland]] 
 
-### #is_/same_as :: [Grassland.public](/_public/bio/Ecology/Ecosystem/Grassland.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Grassland.public|Grassland.public]] 
 
-### #is_/same_as :: [Grassland.internal](/_internal/bio/Ecology/Ecosystem/Grassland.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Grassland.internal|Grassland.internal]] 
 
-### #is_/same_as :: [Grassland.protect](/_protect/bio/Ecology/Ecosystem/Grassland.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Grassland.protect|Grassland.protect]] 
 
-### #is_/same_as :: [Grassland.private](/_private/bio/Ecology/Ecosystem/Grassland.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Grassland.private|Grassland.private]] 
 
-### #is_/same_as :: [Grassland.personal](/_personal/bio/Ecology/Ecosystem/Grassland.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Grassland.personal|Grassland.personal]] 
 
-### #is_/same_as :: [Grassland.secret](/_secret/bio/Ecology/Ecosystem/Grassland.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Grassland.secret|Grassland.secret]] 
 

@@ -41,17 +41,17 @@ Commons_category: Lagoons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lagoon](/_Standards/Earth/Geology/Landform/body_of_water/Lagoon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/Lagoon|Lagoon]] 
 
-### #is_/same_as :: [Lagoon.public](/_public/Earth/Geology/Landform/body_of_water/Lagoon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/Lagoon.public|Lagoon.public]] 
 
-### #is_/same_as :: [Lagoon.internal](/_internal/Earth/Geology/Landform/body_of_water/Lagoon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/Lagoon.internal|Lagoon.internal]] 
 
-### #is_/same_as :: [Lagoon.protect](/_protect/Earth/Geology/Landform/body_of_water/Lagoon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/Lagoon.protect|Lagoon.protect]] 
 
-### #is_/same_as :: [Lagoon.private](/_private/Earth/Geology/Landform/body_of_water/Lagoon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/Lagoon.private|Lagoon.private]] 
 
-### #is_/same_as :: [Lagoon.personal](/_personal/Earth/Geology/Landform/body_of_water/Lagoon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/Lagoon.personal|Lagoon.personal]] 
 
-### #is_/same_as :: [Lagoon.secret](/_secret/Earth/Geology/Landform/body_of_water/Lagoon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/Lagoon.secret|Lagoon.secret]] 
 

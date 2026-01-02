@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Savoriness](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness|Savoriness]] 
 
-### #is_/same_as :: [Savoriness.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.public|Savoriness.public]] 
 
-### #is_/same_as :: [Savoriness.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.internal|Savoriness.internal]] 
 
-### #is_/same_as :: [Savoriness.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.protect|Savoriness.protect]] 
 
-### #is_/same_as :: [Savoriness.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.private|Savoriness.private]] 
 
-### #is_/same_as :: [Savoriness.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.personal|Savoriness.personal]] 
 
-### #is_/same_as :: [Savoriness.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste/Savoriness.secret|Savoriness.secret]] 
 

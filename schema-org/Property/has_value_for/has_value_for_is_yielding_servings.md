@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings](/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_is_yielding_servings|has_value_for_is_yielding_servings]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.public](/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.public|has_value_for_is_yielding_servings.public]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.internal](/_internal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.internal|has_value_for_is_yielding_servings.internal]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.protect](/_protect/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.protect|has_value_for_is_yielding_servings.protect]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.private](/_private/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.private|has_value_for_is_yielding_servings.private]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.personal](/_personal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.personal|has_value_for_is_yielding_servings.personal]] 
 
-### #is_/same_as :: [has_value_for_is_yielding_servings.secret](/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_is_yielding_servings.secret|has_value_for_is_yielding_servings.secret]] 
 

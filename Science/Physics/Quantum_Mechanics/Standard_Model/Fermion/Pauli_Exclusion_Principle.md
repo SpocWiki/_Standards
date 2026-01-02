@@ -68,17 +68,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "PauliExclusionPrinciple"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle|Pauli_Exclusion_Principle]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.public|Pauli_Exclusion_Principle.public]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.internal|Pauli_Exclusion_Principle.internal]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.protect|Pauli_Exclusion_Principle.protect]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.private|Pauli_Exclusion_Principle.private]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.personal|Pauli_Exclusion_Principle.personal]] 
 
-### #is_/same_as :: [Pauli_Exclusion_Principle.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Pauli_Exclusion_Principle.secret|Pauli_Exclusion_Principle.secret]] 
 

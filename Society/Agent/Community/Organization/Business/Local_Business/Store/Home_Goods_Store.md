@@ -41,17 +41,17 @@ A home goods store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Home_Goods_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store|Home_Goods_Store]] 
 
-### #is_/same_as :: [Home_Goods_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.public|Home_Goods_Store.public]] 
 
-### #is_/same_as :: [Home_Goods_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.internal|Home_Goods_Store.internal]] 
 
-### #is_/same_as :: [Home_Goods_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.protect|Home_Goods_Store.protect]] 
 
-### #is_/same_as :: [Home_Goods_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.private|Home_Goods_Store.private]] 
 
-### #is_/same_as :: [Home_Goods_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.personal|Home_Goods_Store.personal]] 
 
-### #is_/same_as :: [Home_Goods_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Home_Goods_Store.secret|Home_Goods_Store.secret]] 
 

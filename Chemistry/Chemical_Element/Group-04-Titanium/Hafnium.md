@@ -125,17 +125,17 @@ ZVG_number: 7720
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hafnium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]] 
 
-### #is_/same_as :: [Hafnium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]] 
 
-### #is_/same_as :: [Hafnium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.internal|Hafnium.internal]] 
 
-### #is_/same_as :: [Hafnium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.protect|Hafnium.protect]] 
 
-### #is_/same_as :: [Hafnium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]] 
 
-### #is_/same_as :: [Hafnium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]] 
 
-### #is_/same_as :: [Hafnium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]] 
 

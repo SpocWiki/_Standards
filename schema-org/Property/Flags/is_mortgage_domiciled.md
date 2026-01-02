@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_mortgage_domiciled](/_Standards/schema-org/Property/Flags/is_mortgage_domiciled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_mortgage_domiciled|is_mortgage_domiciled]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.public](/_public/schema-org/Property/Flags/is_mortgage_domiciled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_mortgage_domiciled.public|is_mortgage_domiciled.public]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.internal](/_internal/schema-org/Property/Flags/is_mortgage_domiciled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_mortgage_domiciled.internal|is_mortgage_domiciled.internal]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.protect](/_protect/schema-org/Property/Flags/is_mortgage_domiciled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_mortgage_domiciled.protect|is_mortgage_domiciled.protect]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.private](/_private/schema-org/Property/Flags/is_mortgage_domiciled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_mortgage_domiciled.private|is_mortgage_domiciled.private]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.personal](/_personal/schema-org/Property/Flags/is_mortgage_domiciled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_mortgage_domiciled.personal|is_mortgage_domiciled.personal]] 
 
-### #is_/same_as :: [is_mortgage_domiciled.secret](/_secret/schema-org/Property/Flags/is_mortgage_domiciled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_mortgage_domiciled.secret|is_mortgage_domiciled.secret]] 
 

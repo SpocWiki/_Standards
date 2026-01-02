@@ -37,17 +37,17 @@ One or more messages between organizations or people on a particular topic. Indi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Conversation](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation|FileClass~Conversation]] 
 
-### #is_/same_as :: [FileClass~Conversation.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.public|FileClass~Conversation.public]] 
 
-### #is_/same_as :: [FileClass~Conversation.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.internal|FileClass~Conversation.internal]] 
 
-### #is_/same_as :: [FileClass~Conversation.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.protect|FileClass~Conversation.protect]] 
 
-### #is_/same_as :: [FileClass~Conversation.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.private|FileClass~Conversation.private]] 
 
-### #is_/same_as :: [FileClass~Conversation.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.personal|FileClass~Conversation.personal]] 
 
-### #is_/same_as :: [FileClass~Conversation.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Conversation.secret|FileClass~Conversation.secret]] 
 

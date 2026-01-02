@@ -67,17 +67,17 @@ point_in_time: 1928-08-27T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact|1928-Kellogg-Briand_Pact]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.public|1928-Kellogg-Briand_Pact.public]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.internal|1928-Kellogg-Briand_Pact.internal]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.protect|1928-Kellogg-Briand_Pact.protect]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.private|1928-Kellogg-Briand_Pact.private]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.personal|1928-Kellogg-Briand_Pact.personal]] 
 
-### #is_/same_as :: [1928-Kellogg-Briand_Pact.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1928-Kellogg-Briand_Pact.secret|1928-Kellogg-Briand_Pact.secret]] 
 

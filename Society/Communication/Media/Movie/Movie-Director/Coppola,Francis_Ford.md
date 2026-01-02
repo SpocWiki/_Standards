@@ -229,17 +229,17 @@ Instagram_username: francisfordcoppola
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coppola,Francis_Ford](/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford|Coppola,Francis_Ford]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.public](/_public/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.public|Coppola,Francis_Ford.public]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.internal|Coppola,Francis_Ford.internal]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.protect|Coppola,Francis_Ford.protect]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.private](/_private/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.private|Coppola,Francis_Ford.private]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.personal|Coppola,Francis_Ford.personal]] 
 
-### #is_/same_as :: [Coppola,Francis_Ford.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford.secret|Coppola,Francis_Ford.secret]] 
 

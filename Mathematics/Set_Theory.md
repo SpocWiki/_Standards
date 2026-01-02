@@ -54,17 +54,17 @@ subreddit: SetTheory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Set_Theory](/_Standards/Mathematics/Set_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Set_Theory|Set_Theory]] 
 
-### #is_/same_as :: [Set_Theory.public](/_public/Mathematics/Set_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Set_Theory.public|Set_Theory.public]] 
 
-### #is_/same_as :: [Set_Theory.internal](/_internal/Mathematics/Set_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Set_Theory.internal|Set_Theory.internal]] 
 
-### #is_/same_as :: [Set_Theory.protect](/_protect/Mathematics/Set_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Set_Theory.protect|Set_Theory.protect]] 
 
-### #is_/same_as :: [Set_Theory.private](/_private/Mathematics/Set_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Set_Theory.private|Set_Theory.private]] 
 
-### #is_/same_as :: [Set_Theory.personal](/_personal/Mathematics/Set_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Set_Theory.personal|Set_Theory.personal]] 
 
-### #is_/same_as :: [Set_Theory.secret](/_secret/Mathematics/Set_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Set_Theory.secret|Set_Theory.secret]] 
 

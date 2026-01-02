@@ -98,17 +98,17 @@ writing_language: '[[_Standards/WikiData/WD~Persian,9168]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hafez](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez|Hafez]] 
 
-### #is_/same_as :: [Hafez.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.public|Hafez.public]] 
 
-### #is_/same_as :: [Hafez.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.internal|Hafez.internal]] 
 
-### #is_/same_as :: [Hafez.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.protect|Hafez.protect]] 
 
-### #is_/same_as :: [Hafez.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.private|Hafez.private]] 
 
-### #is_/same_as :: [Hafez.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.personal|Hafez.personal]] 
 
-### #is_/same_as :: [Hafez.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Hafez.secret|Hafez.secret]] 
 

@@ -32,17 +32,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Linear%20Programming%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inequality](/_Standards/schema-org/Relation/is_same_as/Inequality.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is_same_as/Inequality|Inequality]] 
 
-### #is_/same_as :: [Inequality.public](/_public/schema-org/Relation/is_same_as/Inequality.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is_same_as/Inequality.public|Inequality.public]] 
 
-### #is_/same_as :: [Inequality.internal](/_internal/schema-org/Relation/is_same_as/Inequality.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is_same_as/Inequality.internal|Inequality.internal]] 
 
-### #is_/same_as :: [Inequality.protect](/_protect/schema-org/Relation/is_same_as/Inequality.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is_same_as/Inequality.protect|Inequality.protect]] 
 
-### #is_/same_as :: [Inequality.private](/_private/schema-org/Relation/is_same_as/Inequality.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is_same_as/Inequality.private|Inequality.private]] 
 
-### #is_/same_as :: [Inequality.personal](/_personal/schema-org/Relation/is_same_as/Inequality.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is_same_as/Inequality.personal|Inequality.personal]] 
 
-### #is_/same_as :: [Inequality.secret](/_secret/schema-org/Relation/is_same_as/Inequality.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is_same_as/Inequality.secret|Inequality.secret]] 
 

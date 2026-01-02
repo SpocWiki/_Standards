@@ -84,17 +84,17 @@ Baidu_Tieba_name: 纪录片
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Documentary_Film](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film|Documentary_Film]] 
 
-### #is_/same_as :: [Documentary_Film.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.public|Documentary_Film.public]] 
 
-### #is_/same_as :: [Documentary_Film.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.internal|Documentary_Film.internal]] 
 
-### #is_/same_as :: [Documentary_Film.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.protect|Documentary_Film.protect]] 
 
-### #is_/same_as :: [Documentary_Film.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.private|Documentary_Film.private]] 
 
-### #is_/same_as :: [Documentary_Film.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.personal|Documentary_Film.personal]] 
 
-### #is_/same_as :: [Documentary_Film.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Documentary_Film.secret|Documentary_Film.secret]] 
 

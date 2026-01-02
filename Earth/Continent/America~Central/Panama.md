@@ -469,17 +469,17 @@ Capital :: [[Panama_City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Panama](/_Standards/Earth/Continent/America~Central/Panama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Panama|Panama]] 
 
-### #is_/same_as :: [Panama.public](/_public/Earth/Continent/America~Central/Panama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Panama.public|Panama.public]] 
 
-### #is_/same_as :: [Panama.internal](/_internal/Earth/Continent/America~Central/Panama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Panama.internal|Panama.internal]] 
 
-### #is_/same_as :: [Panama.protect](/_protect/Earth/Continent/America~Central/Panama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Panama.protect|Panama.protect]] 
 
-### #is_/same_as :: [Panama.private](/_private/Earth/Continent/America~Central/Panama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Panama.private|Panama.private]] 
 
-### #is_/same_as :: [Panama.personal](/_personal/Earth/Continent/America~Central/Panama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]] 
 
-### #is_/same_as :: [Panama.secret](/_secret/Earth/Continent/America~Central/Panama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]] 
 

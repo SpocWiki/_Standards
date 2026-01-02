@@ -23,17 +23,17 @@ Commons_category: Contemporary classical music
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contemporary_classical_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music|Contemporary_classical_Music]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.public|Contemporary_classical_Music.public]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.internal|Contemporary_classical_Music.internal]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.protect|Contemporary_classical_Music.protect]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.private|Contemporary_classical_Music.private]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.personal|Contemporary_classical_Music.personal]] 
 
-### #is_/same_as :: [Contemporary_classical_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Contemporary_classical_Music.secret|Contemporary_classical_Music.secret]] 
 

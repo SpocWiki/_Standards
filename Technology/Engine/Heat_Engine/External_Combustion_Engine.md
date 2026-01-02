@@ -23,17 +23,17 @@ but materials, heat transfer rates, and engineering limitations prevent this fro
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [External_Combustion_Engine](/_Standards/Technology/Engine/Heat_Engine/External_Combustion_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/External_Combustion_Engine|External_Combustion_Engine]] 
 
-### #is_/same_as :: [External_Combustion_Engine.public](/_public/Technology/Engine/Heat_Engine/External_Combustion_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/External_Combustion_Engine.public|External_Combustion_Engine.public]] 
 
-### #is_/same_as :: [External_Combustion_Engine.internal](/_internal/Technology/Engine/Heat_Engine/External_Combustion_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/External_Combustion_Engine.internal|External_Combustion_Engine.internal]] 
 
-### #is_/same_as :: [External_Combustion_Engine.protect](/_protect/Technology/Engine/Heat_Engine/External_Combustion_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/External_Combustion_Engine.protect|External_Combustion_Engine.protect]] 
 
-### #is_/same_as :: [External_Combustion_Engine.private](/_private/Technology/Engine/Heat_Engine/External_Combustion_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/External_Combustion_Engine.private|External_Combustion_Engine.private]] 
 
-### #is_/same_as :: [External_Combustion_Engine.personal](/_personal/Technology/Engine/Heat_Engine/External_Combustion_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/External_Combustion_Engine.personal|External_Combustion_Engine.personal]] 
 
-### #is_/same_as :: [External_Combustion_Engine.secret](/_secret/Technology/Engine/Heat_Engine/External_Combustion_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/External_Combustion_Engine.secret|External_Combustion_Engine.secret]] 
 

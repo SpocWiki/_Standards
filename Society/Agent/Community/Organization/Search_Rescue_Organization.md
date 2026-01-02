@@ -43,17 +43,17 @@ A Search and Rescue organization of some kind.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Search_Rescue_Organization](/_Standards/Society/Agent/Community/Organization/Search_Rescue_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Search_Rescue_Organization|Search_Rescue_Organization]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.public](/_public/Society/Agent/Community/Organization/Search_Rescue_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Search_Rescue_Organization.public|Search_Rescue_Organization.public]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.internal](/_internal/Society/Agent/Community/Organization/Search_Rescue_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Search_Rescue_Organization.internal|Search_Rescue_Organization.internal]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.protect](/_protect/Society/Agent/Community/Organization/Search_Rescue_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Search_Rescue_Organization.protect|Search_Rescue_Organization.protect]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.private](/_private/Society/Agent/Community/Organization/Search_Rescue_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Search_Rescue_Organization.private|Search_Rescue_Organization.private]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.personal](/_personal/Society/Agent/Community/Organization/Search_Rescue_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Search_Rescue_Organization.personal|Search_Rescue_Organization.personal]] 
 
-### #is_/same_as :: [Search_Rescue_Organization.secret](/_secret/Society/Agent/Community/Organization/Search_Rescue_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Search_Rescue_Organization.secret|Search_Rescue_Organization.secret]] 
 

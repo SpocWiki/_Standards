@@ -41,17 +41,17 @@ A specific strength in which a medical drug is available in a specific country.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Strength](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength|Drug_Strength]] 
 
-### #is_/same_as :: [Drug_Strength.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.public|Drug_Strength.public]] 
 
-### #is_/same_as :: [Drug_Strength.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.internal|Drug_Strength.internal]] 
 
-### #is_/same_as :: [Drug_Strength.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.protect|Drug_Strength.protect]] 
 
-### #is_/same_as :: [Drug_Strength.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.private|Drug_Strength.private]] 
 
-### #is_/same_as :: [Drug_Strength.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.personal|Drug_Strength.personal]] 
 
-### #is_/same_as :: [Drug_Strength.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Drug_Strength.secret|Drug_Strength.secret]] 
 

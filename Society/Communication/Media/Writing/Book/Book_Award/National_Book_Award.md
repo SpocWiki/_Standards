@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [National_Book_Award](/_Standards/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award|National_Book_Award]] 
 
-### #is_/same_as :: [National_Book_Award.public](/_public/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.public|National_Book_Award.public]] 
 
-### #is_/same_as :: [National_Book_Award.internal](/_internal/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.internal|National_Book_Award.internal]] 
 
-### #is_/same_as :: [National_Book_Award.protect](/_protect/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.protect|National_Book_Award.protect]] 
 
-### #is_/same_as :: [National_Book_Award.private](/_private/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.private|National_Book_Award.private]] 
 
-### #is_/same_as :: [National_Book_Award.personal](/_personal/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.personal|National_Book_Award.personal]] 
 
-### #is_/same_as :: [National_Book_Award.secret](/_secret/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Book_Award/National_Book_Award.secret|National_Book_Award.secret]] 
 

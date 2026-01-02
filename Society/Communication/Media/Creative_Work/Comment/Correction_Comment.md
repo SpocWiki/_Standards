@@ -43,17 +43,17 @@ A [[../Comment]] that corrects [[CreativeWork]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Correction_Comment](/_Standards/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comment/Correction_Comment|Correction_Comment]] 
 
-### #is_/same_as :: [Correction_Comment.public](/_public/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.public|Correction_Comment.public]] 
 
-### #is_/same_as :: [Correction_Comment.internal](/_internal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.internal|Correction_Comment.internal]] 
 
-### #is_/same_as :: [Correction_Comment.protect](/_protect/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.protect|Correction_Comment.protect]] 
 
-### #is_/same_as :: [Correction_Comment.private](/_private/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.private|Correction_Comment.private]] 
 
-### #is_/same_as :: [Correction_Comment.personal](/_personal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.personal|Correction_Comment.personal]] 
 
-### #is_/same_as :: [Correction_Comment.secret](/_secret/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comment/Correction_Comment.secret|Correction_Comment.secret]] 
 

@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endocrine](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine|Endocrine]] 
 
-### #is_/same_as :: [Endocrine.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.public|Endocrine.public]] 
 
-### #is_/same_as :: [Endocrine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.internal|Endocrine.internal]] 
 
-### #is_/same_as :: [Endocrine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.protect|Endocrine.protect]] 
 
-### #is_/same_as :: [Endocrine.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.private|Endocrine.private]] 
 
-### #is_/same_as :: [Endocrine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.personal|Endocrine.personal]] 
 
-### #is_/same_as :: [Endocrine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Endocrine.secret|Endocrine.secret]] 
 

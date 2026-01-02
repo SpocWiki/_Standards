@@ -35,17 +35,17 @@ Library_of_Congress_Classification: K2320
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Injunction](/_Standards/Society/Law/Judiciary/Court/Injunction.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Injunction|Injunction]] 
 
-### #is_/same_as :: [Injunction.public](/_public/Society/Law/Judiciary/Court/Injunction.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Injunction.public|Injunction.public]] 
 
-### #is_/same_as :: [Injunction.internal](/_internal/Society/Law/Judiciary/Court/Injunction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Injunction.internal|Injunction.internal]] 
 
-### #is_/same_as :: [Injunction.protect](/_protect/Society/Law/Judiciary/Court/Injunction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Injunction.protect|Injunction.protect]] 
 
-### #is_/same_as :: [Injunction.private](/_private/Society/Law/Judiciary/Court/Injunction.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Injunction.private|Injunction.private]] 
 
-### #is_/same_as :: [Injunction.personal](/_personal/Society/Law/Judiciary/Court/Injunction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Injunction.personal|Injunction.personal]] 
 
-### #is_/same_as :: [Injunction.secret](/_secret/Society/Law/Judiciary/Court/Injunction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Injunction.secret|Injunction.secret]] 
 

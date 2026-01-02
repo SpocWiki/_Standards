@@ -122,17 +122,17 @@ Libris_URI: vs68bq9d24k6106
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marx_Brothers](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers|Marx_Brothers]] 
 
-### #is_/same_as :: [Marx_Brothers.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.public|Marx_Brothers.public]] 
 
-### #is_/same_as :: [Marx_Brothers.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.internal|Marx_Brothers.internal]] 
 
-### #is_/same_as :: [Marx_Brothers.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.protect|Marx_Brothers.protect]] 
 
-### #is_/same_as :: [Marx_Brothers.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.private|Marx_Brothers.private]] 
 
-### #is_/same_as :: [Marx_Brothers.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.personal|Marx_Brothers.personal]] 
 
-### #is_/same_as :: [Marx_Brothers.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Marx_Brothers.secret|Marx_Brothers.secret]] 
 

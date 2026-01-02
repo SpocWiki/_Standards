@@ -93,17 +93,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lanthanide](/_Standards/Chemistry/Chemical_Element/Lanthanide.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide|Lanthanide]] 
 
-### #is_/same_as :: [Lanthanide.public](/_public/Chemistry/Chemical_Element/Lanthanide.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide.public|Lanthanide.public]] 
 
-### #is_/same_as :: [Lanthanide.internal](/_internal/Chemistry/Chemical_Element/Lanthanide.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide.internal|Lanthanide.internal]] 
 
-### #is_/same_as :: [Lanthanide.protect](/_protect/Chemistry/Chemical_Element/Lanthanide.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide.protect|Lanthanide.protect]] 
 
-### #is_/same_as :: [Lanthanide.private](/_private/Chemistry/Chemical_Element/Lanthanide.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide.private|Lanthanide.private]] 
 
-### #is_/same_as :: [Lanthanide.personal](/_personal/Chemistry/Chemical_Element/Lanthanide.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide.personal|Lanthanide.personal]] 
 
-### #is_/same_as :: [Lanthanide.secret](/_secret/Chemistry/Chemical_Element/Lanthanide.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide.secret|Lanthanide.secret]] 
 

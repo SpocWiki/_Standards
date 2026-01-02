@@ -37,17 +37,17 @@ A spreadsheet file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument|FileClass~SpreadsheetDigitalDocument]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.public|FileClass~SpreadsheetDigitalDocument.public]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.internal|FileClass~SpreadsheetDigitalDocument.internal]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.protect|FileClass~SpreadsheetDigitalDocument.protect]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.private|FileClass~SpreadsheetDigitalDocument.private]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.personal|FileClass~SpreadsheetDigitalDocument.personal]] 
 
-### #is_/same_as :: [FileClass~SpreadsheetDigitalDocument.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~DigitalDocument/FileClass~SpreadsheetDigitalDocument.secret|FileClass~SpreadsheetDigitalDocument.secret]] 
 

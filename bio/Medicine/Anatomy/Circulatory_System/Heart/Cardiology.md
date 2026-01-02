@@ -53,17 +53,17 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=cardiology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cardiology](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology|Cardiology]] 
 
-### #is_/same_as :: [Cardiology.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.public|Cardiology.public]] 
 
-### #is_/same_as :: [Cardiology.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.internal|Cardiology.internal]] 
 
-### #is_/same_as :: [Cardiology.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.protect|Cardiology.protect]] 
 
-### #is_/same_as :: [Cardiology.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.private|Cardiology.private]] 
 
-### #is_/same_as :: [Cardiology.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.personal|Cardiology.personal]] 
 
-### #is_/same_as :: [Cardiology.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Heart/Cardiology.secret|Cardiology.secret]] 
 

@@ -43,17 +43,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lodging_Reservation](/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation|Lodging_Reservation]] 
 
-### #is_/same_as :: [Lodging_Reservation.public](/_public/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.public|Lodging_Reservation.public]] 
 
-### #is_/same_as :: [Lodging_Reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.internal|Lodging_Reservation.internal]] 
 
-### #is_/same_as :: [Lodging_Reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.protect|Lodging_Reservation.protect]] 
 
-### #is_/same_as :: [Lodging_Reservation.private](/_private/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.private|Lodging_Reservation.private]] 
 
-### #is_/same_as :: [Lodging_Reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.personal|Lodging_Reservation.personal]] 
 
-### #is_/same_as :: [Lodging_Reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Lodging_Reservation.secret|Lodging_Reservation.secret]] 
 

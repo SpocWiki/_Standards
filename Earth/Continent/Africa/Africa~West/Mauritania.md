@@ -469,17 +469,17 @@ Capital :: [[Nouakchott]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mauritania](/_Standards/Earth/Continent/Africa/Africa~West/Mauritania.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Mauritania|Mauritania]] 
 
-### #is_/same_as :: [Mauritania.public](/_public/Earth/Continent/Africa/Africa~West/Mauritania.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Mauritania.public|Mauritania.public]] 
 
-### #is_/same_as :: [Mauritania.internal](/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Mauritania.internal|Mauritania.internal]] 
 
-### #is_/same_as :: [Mauritania.protect](/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Mauritania.protect|Mauritania.protect]] 
 
-### #is_/same_as :: [Mauritania.private](/_private/Earth/Continent/Africa/Africa~West/Mauritania.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Mauritania.private|Mauritania.private]] 
 
-### #is_/same_as :: [Mauritania.personal](/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]] 
 
-### #is_/same_as :: [Mauritania.secret](/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]] 
 

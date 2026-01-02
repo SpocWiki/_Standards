@@ -52,17 +52,17 @@ Dewey_Decimal_Classification: 677.31
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wool](/_Standards/Chemistry/Material/Fiber/Wool.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fiber/Wool|Wool]] 
 
-### #is_/same_as :: [Wool.public](/_public/Chemistry/Material/Fiber/Wool.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fiber/Wool.public|Wool.public]] 
 
-### #is_/same_as :: [Wool.internal](/_internal/Chemistry/Material/Fiber/Wool.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fiber/Wool.internal|Wool.internal]] 
 
-### #is_/same_as :: [Wool.protect](/_protect/Chemistry/Material/Fiber/Wool.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fiber/Wool.protect|Wool.protect]] 
 
-### #is_/same_as :: [Wool.private](/_private/Chemistry/Material/Fiber/Wool.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fiber/Wool.private|Wool.private]] 
 
-### #is_/same_as :: [Wool.personal](/_personal/Chemistry/Material/Fiber/Wool.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fiber/Wool.personal|Wool.personal]] 
 
-### #is_/same_as :: [Wool.secret](/_secret/Chemistry/Material/Fiber/Wool.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fiber/Wool.secret|Wool.secret]] 
 

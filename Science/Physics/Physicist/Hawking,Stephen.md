@@ -289,17 +289,17 @@ ISNI: 0000000121034996
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hawking,Stephen](/_Standards/Science/Physics/Physicist/Hawking,Stephen.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Hawking,Stephen|Hawking,Stephen]] 
 
-### #is_/same_as :: [Hawking,Stephen.public](/_public/Science/Physics/Physicist/Hawking,Stephen.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Hawking,Stephen.public|Hawking,Stephen.public]] 
 
-### #is_/same_as :: [Hawking,Stephen.internal](/_internal/Science/Physics/Physicist/Hawking,Stephen.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Hawking,Stephen.internal|Hawking,Stephen.internal]] 
 
-### #is_/same_as :: [Hawking,Stephen.protect](/_protect/Science/Physics/Physicist/Hawking,Stephen.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Hawking,Stephen.protect|Hawking,Stephen.protect]] 
 
-### #is_/same_as :: [Hawking,Stephen.private](/_private/Science/Physics/Physicist/Hawking,Stephen.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Hawking,Stephen.private|Hawking,Stephen.private]] 
 
-### #is_/same_as :: [Hawking,Stephen.personal](/_personal/Science/Physics/Physicist/Hawking,Stephen.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Hawking,Stephen.personal|Hawking,Stephen.personal]] 
 
-### #is_/same_as :: [Hawking,Stephen.secret](/_secret/Science/Physics/Physicist/Hawking,Stephen.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Hawking,Stephen.secret|Hawking,Stephen.secret]] 
 

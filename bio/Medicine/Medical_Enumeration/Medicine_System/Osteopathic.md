@@ -40,17 +40,17 @@ A system of medicine focused on promoting the body's innate ability to heal itse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Osteopathic](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic|Osteopathic]] 
 
-### #is_/same_as :: [Osteopathic.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.public|Osteopathic.public]] 
 
-### #is_/same_as :: [Osteopathic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.internal|Osteopathic.internal]] 
 
-### #is_/same_as :: [Osteopathic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.protect|Osteopathic.protect]] 
 
-### #is_/same_as :: [Osteopathic.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.private|Osteopathic.private]] 
 
-### #is_/same_as :: [Osteopathic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.personal|Osteopathic.personal]] 
 
-### #is_/same_as :: [Osteopathic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Osteopathic.secret|Osteopathic.secret]] 
 

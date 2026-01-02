@@ -43,17 +43,17 @@ luxury accommodations, the key feature of which is multiple rooms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Suite](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite|FileClass~Suite]] 
 
-### #is_/same_as :: [FileClass~Suite.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.public|FileClass~Suite.public]] 
 
-### #is_/same_as :: [FileClass~Suite.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.internal|FileClass~Suite.internal]] 
 
-### #is_/same_as :: [FileClass~Suite.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.protect|FileClass~Suite.protect]] 
 
-### #is_/same_as :: [FileClass~Suite.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.private|FileClass~Suite.private]] 
 
-### #is_/same_as :: [FileClass~Suite.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.personal|FileClass~Suite.personal]] 
 
-### #is_/same_as :: [FileClass~Suite.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation/FileClass~Suite.secret|FileClass~Suite.secret]] 
 

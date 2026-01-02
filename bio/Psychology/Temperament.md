@@ -30,17 +30,17 @@ Commons_category: Temperaments
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Temperament](/_Standards/bio/Psychology/Temperament.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Temperament|Temperament]] 
 
-### #is_/same_as :: [Temperament.public](/_public/bio/Psychology/Temperament.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Temperament.public|Temperament.public]] 
 
-### #is_/same_as :: [Temperament.internal](/_internal/bio/Psychology/Temperament.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Temperament.internal|Temperament.internal]] 
 
-### #is_/same_as :: [Temperament.protect](/_protect/bio/Psychology/Temperament.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Temperament.protect|Temperament.protect]] 
 
-### #is_/same_as :: [Temperament.private](/_private/bio/Psychology/Temperament.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Temperament.private|Temperament.private]] 
 
-### #is_/same_as :: [Temperament.personal](/_personal/bio/Psychology/Temperament.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Temperament.personal|Temperament.personal]] 
 
-### #is_/same_as :: [Temperament.secret](/_secret/bio/Psychology/Temperament.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Temperament.secret|Temperament.secret]] 
 

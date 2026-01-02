@@ -56,17 +56,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/IZOTOPI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isotope](/_Standards/Chemistry/Chemical_Element/Isotope.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Isotope|Isotope]] 
 
-### #is_/same_as :: [Isotope.public](/_public/Chemistry/Chemical_Element/Isotope.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Isotope.public|Isotope.public]] 
 
-### #is_/same_as :: [Isotope.internal](/_internal/Chemistry/Chemical_Element/Isotope.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Isotope.internal|Isotope.internal]] 
 
-### #is_/same_as :: [Isotope.protect](/_protect/Chemistry/Chemical_Element/Isotope.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Isotope.protect|Isotope.protect]] 
 
-### #is_/same_as :: [Isotope.private](/_private/Chemistry/Chemical_Element/Isotope.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Isotope.private|Isotope.private]] 
 
-### #is_/same_as :: [Isotope.personal](/_personal/Chemistry/Chemical_Element/Isotope.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Isotope.personal|Isotope.personal]] 
 
-### #is_/same_as :: [Isotope.secret](/_secret/Chemistry/Chemical_Element/Isotope.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Isotope.secret|Isotope.secret]] 
 

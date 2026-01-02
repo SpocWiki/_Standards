@@ -91,17 +91,17 @@ Krugosvet_article: religiya/pogrebalnye-obychai-i-obryady
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Funeral](/_Standards/bio/Metabolism/Death/Funeral.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Funeral|Funeral]] 
 
-### #is_/same_as :: [Funeral.public](/_public/bio/Metabolism/Death/Funeral.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Funeral.public|Funeral.public]] 
 
-### #is_/same_as :: [Funeral.internal](/_internal/bio/Metabolism/Death/Funeral.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Funeral.internal|Funeral.internal]] 
 
-### #is_/same_as :: [Funeral.protect](/_protect/bio/Metabolism/Death/Funeral.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Funeral.protect|Funeral.protect]] 
 
-### #is_/same_as :: [Funeral.private](/_private/bio/Metabolism/Death/Funeral.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Funeral.private|Funeral.private]] 
 
-### #is_/same_as :: [Funeral.personal](/_personal/bio/Metabolism/Death/Funeral.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Funeral.personal|Funeral.personal]] 
 
-### #is_/same_as :: [Funeral.secret](/_secret/bio/Metabolism/Death/Funeral.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Funeral.secret|Funeral.secret]] 
 

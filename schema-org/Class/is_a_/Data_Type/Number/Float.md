@@ -37,17 +37,17 @@ Data type: Floating number.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Float](/_Standards/schema-org/Class/is_a_/Data_Type/Number/Float.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Data_Type/Number/Float|Float]] 
 
-### #is_/same_as :: [Float.public](/_public/schema-org/Class/is_a_/Data_Type/Number/Float.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Data_Type/Number/Float.public|Float.public]] 
 
-### #is_/same_as :: [Float.internal](/_internal/schema-org/Class/is_a_/Data_Type/Number/Float.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Data_Type/Number/Float.internal|Float.internal]] 
 
-### #is_/same_as :: [Float.protect](/_protect/schema-org/Class/is_a_/Data_Type/Number/Float.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Data_Type/Number/Float.protect|Float.protect]] 
 
-### #is_/same_as :: [Float.private](/_private/schema-org/Class/is_a_/Data_Type/Number/Float.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Data_Type/Number/Float.private|Float.private]] 
 
-### #is_/same_as :: [Float.personal](/_personal/schema-org/Class/is_a_/Data_Type/Number/Float.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Data_Type/Number/Float.personal|Float.personal]] 
 
-### #is_/same_as :: [Float.secret](/_secret/schema-org/Class/is_a_/Data_Type/Number/Float.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Data_Type/Number/Float.secret|Float.secret]] 
 

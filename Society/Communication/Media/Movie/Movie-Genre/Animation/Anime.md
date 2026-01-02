@@ -80,17 +80,17 @@ Universal_Decimal_Classification: 791.43-252.5(520)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anime](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime|Anime]] 
 
-### #is_/same_as :: [Anime.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.public|Anime.public]] 
 
-### #is_/same_as :: [Anime.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.internal|Anime.internal]] 
 
-### #is_/same_as :: [Anime.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.protect|Anime.protect]] 
 
-### #is_/same_as :: [Anime.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.private|Anime.private]] 
 
-### #is_/same_as :: [Anime.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.personal|Anime.personal]] 
 
-### #is_/same_as :: [Anime.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime.secret|Anime.secret]] 
 

@@ -61,17 +61,17 @@ Commons_category: Industrialists
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Industrialist](/_Standards/Society/Economics/Industry/Industrialist.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Industrialist|Industrialist]] 
 
-### #is_/same_as :: [Industrialist.public](/_public/Society/Economics/Industry/Industrialist.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Industrialist.public|Industrialist.public]] 
 
-### #is_/same_as :: [Industrialist.internal](/_internal/Society/Economics/Industry/Industrialist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Industrialist.internal|Industrialist.internal]] 
 
-### #is_/same_as :: [Industrialist.protect](/_protect/Society/Economics/Industry/Industrialist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Industrialist.protect|Industrialist.protect]] 
 
-### #is_/same_as :: [Industrialist.private](/_private/Society/Economics/Industry/Industrialist.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Industrialist.private|Industrialist.private]] 
 
-### #is_/same_as :: [Industrialist.personal](/_personal/Society/Economics/Industry/Industrialist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Industrialist.personal|Industrialist.personal]] 
 
-### #is_/same_as :: [Industrialist.secret](/_secret/Society/Economics/Industry/Industrialist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Industrialist.secret|Industrialist.secret]] 
 

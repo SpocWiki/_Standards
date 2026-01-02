@@ -59,17 +59,17 @@ Commons_category: Numerical integration
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Numerical_Integration](/_Standards/Mathematics/Calculus/Integral/Numerical_Integration.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Integral/Numerical_Integration|Numerical_Integration]] 
 
-### #is_/same_as :: [Numerical_Integration.public](/_public/Mathematics/Calculus/Integral/Numerical_Integration.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Integral/Numerical_Integration.public|Numerical_Integration.public]] 
 
-### #is_/same_as :: [Numerical_Integration.internal](/_internal/Mathematics/Calculus/Integral/Numerical_Integration.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Integral/Numerical_Integration.internal|Numerical_Integration.internal]] 
 
-### #is_/same_as :: [Numerical_Integration.protect](/_protect/Mathematics/Calculus/Integral/Numerical_Integration.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Integral/Numerical_Integration.protect|Numerical_Integration.protect]] 
 
-### #is_/same_as :: [Numerical_Integration.private](/_private/Mathematics/Calculus/Integral/Numerical_Integration.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Integral/Numerical_Integration.private|Numerical_Integration.private]] 
 
-### #is_/same_as :: [Numerical_Integration.personal](/_personal/Mathematics/Calculus/Integral/Numerical_Integration.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Integral/Numerical_Integration.personal|Numerical_Integration.personal]] 
 
-### #is_/same_as :: [Numerical_Integration.secret](/_secret/Mathematics/Calculus/Integral/Numerical_Integration.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Integral/Numerical_Integration.secret|Numerical_Integration.secret]] 
 

@@ -42,17 +42,17 @@ Commons_category: Cantatas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cantata](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata|Cantata]] 
 
-### #is_/same_as :: [Cantata.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.public|Cantata.public]] 
 
-### #is_/same_as :: [Cantata.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.internal|Cantata.internal]] 
 
-### #is_/same_as :: [Cantata.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.protect|Cantata.protect]] 
 
-### #is_/same_as :: [Cantata.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.private|Cantata.private]] 
 
-### #is_/same_as :: [Cantata.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.personal|Cantata.personal]] 
 
-### #is_/same_as :: [Cantata.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Cantata.secret|Cantata.secret]] 
 

@@ -100,17 +100,17 @@ Libris_URI: zw9cdkch2004bb5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jenner,Edward](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward|Jenner,Edward]] 
 
-### #is_/same_as :: [Jenner,Edward.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.public|Jenner,Edward.public]] 
 
-### #is_/same_as :: [Jenner,Edward.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.internal|Jenner,Edward.internal]] 
 
-### #is_/same_as :: [Jenner,Edward.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.protect|Jenner,Edward.protect]] 
 
-### #is_/same_as :: [Jenner,Edward.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.private|Jenner,Edward.private]] 
 
-### #is_/same_as :: [Jenner,Edward.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.personal|Jenner,Edward.personal]] 
 
-### #is_/same_as :: [Jenner,Edward.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher/Jenner,Edward.secret|Jenner,Edward.secret]] 
 

@@ -39,17 +39,17 @@ NBN_System_Key: NHMSYS0000461689
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pimpinella](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella|Pimpinella]] 
 
-### #is_/same_as :: [Pimpinella.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.public|Pimpinella.public]] 
 
-### #is_/same_as :: [Pimpinella.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.internal|Pimpinella.internal]] 
 
-### #is_/same_as :: [Pimpinella.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.protect|Pimpinella.protect]] 
 
-### #is_/same_as :: [Pimpinella.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.private|Pimpinella.private]] 
 
-### #is_/same_as :: [Pimpinella.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.personal|Pimpinella.personal]] 
 
-### #is_/same_as :: [Pimpinella.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Apiales/Apiaceae/Apioideae/Pimpinella.secret|Pimpinella.secret]] 
 

@@ -685,17 +685,17 @@ Commons_category: Linoleic acid
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linoleic_Acid](/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid|Linoleic_Acid]] 
 
-### #is_/same_as :: [Linoleic_Acid.public](/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.public|Linoleic_Acid.public]] 
 
-### #is_/same_as :: [Linoleic_Acid.internal](/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.internal|Linoleic_Acid.internal]] 
 
-### #is_/same_as :: [Linoleic_Acid.protect](/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.protect|Linoleic_Acid.protect]] 
 
-### #is_/same_as :: [Linoleic_Acid.private](/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.private|Linoleic_Acid.private]] 
 
-### #is_/same_as :: [Linoleic_Acid.personal](/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.personal|Linoleic_Acid.personal]] 
 
-### #is_/same_as :: [Linoleic_Acid.secret](/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.secret|Linoleic_Acid.secret]] 
 

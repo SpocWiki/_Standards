@@ -212,17 +212,17 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roosevelt,Eleanor](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor|Roosevelt,Eleanor]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.public|Roosevelt,Eleanor.public]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.internal|Roosevelt,Eleanor.internal]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.protect|Roosevelt,Eleanor.protect]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.private|Roosevelt,Eleanor.private]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.personal|Roosevelt,Eleanor.personal]] 
 
-### #is_/same_as :: [Roosevelt,Eleanor.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Eleanor.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Eleanor.secret|Roosevelt,Eleanor.secret]] 
 

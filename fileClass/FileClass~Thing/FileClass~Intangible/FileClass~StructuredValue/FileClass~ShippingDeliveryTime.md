@@ -82,17 +82,17 @@ TransitTime:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime|FileClass~ShippingDeliveryTime]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.public|FileClass~ShippingDeliveryTime.public]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.internal|FileClass~ShippingDeliveryTime.internal]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.protect|FileClass~ShippingDeliveryTime.protect]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.private|FileClass~ShippingDeliveryTime.private]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.personal|FileClass~ShippingDeliveryTime.personal]] 
 
-### #is_/same_as :: [FileClass~ShippingDeliveryTime.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ShippingDeliveryTime.secret|FileClass~ShippingDeliveryTime.secret]] 
 

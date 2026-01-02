@@ -68,17 +68,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spectroscopy](/_Standards/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Remote_Sensing/Spectroscopy|Spectroscopy]] 
 
-### #is_/same_as :: [Spectroscopy.public](/_public/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.public|Spectroscopy.public]] 
 
-### #is_/same_as :: [Spectroscopy.internal](/_internal/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.internal|Spectroscopy.internal]] 
 
-### #is_/same_as :: [Spectroscopy.protect](/_protect/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.protect|Spectroscopy.protect]] 
 
-### #is_/same_as :: [Spectroscopy.private](/_private/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.private|Spectroscopy.private]] 
 
-### #is_/same_as :: [Spectroscopy.personal](/_personal/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.personal|Spectroscopy.personal]] 
 
-### #is_/same_as :: [Spectroscopy.secret](/_secret/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Remote_Sensing/Spectroscopy.secret|Spectroscopy.secret]] 
 

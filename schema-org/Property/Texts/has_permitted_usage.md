@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_permitted_usage](/_Standards/schema-org/Property/Texts/has_permitted_usage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_permitted_usage|has_permitted_usage]] 
 
-### #is_/same_as :: [has_permitted_usage.public](/_public/schema-org/Property/Texts/has_permitted_usage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_permitted_usage.public|has_permitted_usage.public]] 
 
-### #is_/same_as :: [has_permitted_usage.internal](/_internal/schema-org/Property/Texts/has_permitted_usage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_permitted_usage.internal|has_permitted_usage.internal]] 
 
-### #is_/same_as :: [has_permitted_usage.protect](/_protect/schema-org/Property/Texts/has_permitted_usage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_permitted_usage.protect|has_permitted_usage.protect]] 
 
-### #is_/same_as :: [has_permitted_usage.private](/_private/schema-org/Property/Texts/has_permitted_usage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_permitted_usage.private|has_permitted_usage.private]] 
 
-### #is_/same_as :: [has_permitted_usage.personal](/_personal/schema-org/Property/Texts/has_permitted_usage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_permitted_usage.personal|has_permitted_usage.personal]] 
 
-### #is_/same_as :: [has_permitted_usage.secret](/_secret/schema-org/Property/Texts/has_permitted_usage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_permitted_usage.secret|has_permitted_usage.secret]] 
 

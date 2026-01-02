@@ -98,17 +98,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tree](/_Standards/bio/Botany/Tree.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Tree|Tree]] 
 
-### #is_/same_as :: [Tree.public](/_public/bio/Botany/Tree.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Tree.public|Tree.public]] 
 
-### #is_/same_as :: [Tree.internal](/_internal/bio/Botany/Tree.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Tree.internal|Tree.internal]] 
 
-### #is_/same_as :: [Tree.protect](/_protect/bio/Botany/Tree.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Tree.protect|Tree.protect]] 
 
-### #is_/same_as :: [Tree.private](/_private/bio/Botany/Tree.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Tree.private|Tree.private]] 
 
-### #is_/same_as :: [Tree.personal](/_personal/bio/Botany/Tree.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Tree.personal|Tree.personal]] 
 
-### #is_/same_as :: [Tree.secret](/_secret/bio/Botany/Tree.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Tree.secret|Tree.secret]] 
 

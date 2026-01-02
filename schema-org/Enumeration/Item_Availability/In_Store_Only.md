@@ -42,17 +42,17 @@ Indicates that the item is available only at physical locations.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [In_Store_Only](/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability/In_Store_Only|In_Store_Only]] 
 
-### #is_/same_as :: [In_Store_Only.public](/_public/schema-org/Enumeration/Item_Availability/In_Store_Only.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability/In_Store_Only.public|In_Store_Only.public]] 
 
-### #is_/same_as :: [In_Store_Only.internal](/_internal/schema-org/Enumeration/Item_Availability/In_Store_Only.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability/In_Store_Only.internal|In_Store_Only.internal]] 
 
-### #is_/same_as :: [In_Store_Only.protect](/_protect/schema-org/Enumeration/Item_Availability/In_Store_Only.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability/In_Store_Only.protect|In_Store_Only.protect]] 
 
-### #is_/same_as :: [In_Store_Only.private](/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability/In_Store_Only.private|In_Store_Only.private]] 
 
-### #is_/same_as :: [In_Store_Only.personal](/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability/In_Store_Only.personal|In_Store_Only.personal]] 
 
-### #is_/same_as :: [In_Store_Only.secret](/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability/In_Store_Only.secret|In_Store_Only.secret]] 
 

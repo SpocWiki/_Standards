@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_disease_spread_statistics](/_Standards/schema-org/Relation/has/has_disease_spread_statistics.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_disease_spread_statistics|has_disease_spread_statistics]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.public](/_public/schema-org/Relation/has/has_disease_spread_statistics.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_disease_spread_statistics.public|has_disease_spread_statistics.public]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.internal](/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_disease_spread_statistics.internal|has_disease_spread_statistics.internal]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.protect](/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_disease_spread_statistics.protect|has_disease_spread_statistics.protect]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.private](/_private/schema-org/Relation/has/has_disease_spread_statistics.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_disease_spread_statistics.private|has_disease_spread_statistics.private]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.personal](/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_disease_spread_statistics.personal|has_disease_spread_statistics.personal]] 
 
-### #is_/same_as :: [has_disease_spread_statistics.secret](/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_disease_spread_statistics.secret|has_disease_spread_statistics.secret]] 
 

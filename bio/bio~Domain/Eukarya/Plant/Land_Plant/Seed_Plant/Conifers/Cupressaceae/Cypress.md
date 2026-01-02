@@ -91,17 +91,17 @@ NBN_System_Key: NHMSYS0000457763
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cypress](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress|Cypress]] 
 
-### #is_/same_as :: [Cypress.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.public|Cypress.public]] 
 
-### #is_/same_as :: [Cypress.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.internal|Cypress.internal]] 
 
-### #is_/same_as :: [Cypress.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.protect|Cypress.protect]] 
 
-### #is_/same_as :: [Cypress.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.private|Cypress.private]] 
 
-### #is_/same_as :: [Cypress.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.personal|Cypress.personal]] 
 
-### #is_/same_as :: [Cypress.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Cupressaceae/Cypress.secret|Cypress.secret]] 
 

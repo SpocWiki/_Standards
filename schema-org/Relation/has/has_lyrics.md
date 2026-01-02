@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_lyrics](/_Standards/schema-org/Relation/has/has_lyrics.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_lyrics|has_lyrics]] 
 
-### #is_/same_as :: [has_lyrics.public](/_public/schema-org/Relation/has/has_lyrics.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_lyrics.public|has_lyrics.public]] 
 
-### #is_/same_as :: [has_lyrics.internal](/_internal/schema-org/Relation/has/has_lyrics.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_lyrics.internal|has_lyrics.internal]] 
 
-### #is_/same_as :: [has_lyrics.protect](/_protect/schema-org/Relation/has/has_lyrics.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_lyrics.protect|has_lyrics.protect]] 
 
-### #is_/same_as :: [has_lyrics.private](/_private/schema-org/Relation/has/has_lyrics.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_lyrics.private|has_lyrics.private]] 
 
-### #is_/same_as :: [has_lyrics.personal](/_personal/schema-org/Relation/has/has_lyrics.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_lyrics.personal|has_lyrics.personal]] 
 
-### #is_/same_as :: [has_lyrics.secret](/_secret/schema-org/Relation/has/has_lyrics.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_lyrics.secret|has_lyrics.secret]] 
 

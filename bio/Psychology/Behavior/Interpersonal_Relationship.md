@@ -52,17 +52,17 @@ MeSH_tree_code: F01.829.401
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interpersonal_Relationship](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship|Interpersonal_Relationship]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior/Interpersonal_Relationship.public|Interpersonal_Relationship.public]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior/Interpersonal_Relationship.internal|Interpersonal_Relationship.internal]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior/Interpersonal_Relationship.protect|Interpersonal_Relationship.protect]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior/Interpersonal_Relationship.private|Interpersonal_Relationship.private]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior/Interpersonal_Relationship.personal|Interpersonal_Relationship.personal]] 
 
-### #is_/same_as :: [Interpersonal_Relationship.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior/Interpersonal_Relationship.secret|Interpersonal_Relationship.secret]] 
 

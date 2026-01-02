@@ -94,17 +94,17 @@ Commons_gallery: Messier 1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crab_Nebula](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula|Crab_Nebula]] 
 
-### #is_/same_as :: [Crab_Nebula.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.public|Crab_Nebula.public]] 
 
-### #is_/same_as :: [Crab_Nebula.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.internal|Crab_Nebula.internal]] 
 
-### #is_/same_as :: [Crab_Nebula.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.protect|Crab_Nebula.protect]] 
 
-### #is_/same_as :: [Crab_Nebula.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.private|Crab_Nebula.private]] 
 
-### #is_/same_as :: [Crab_Nebula.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.personal|Crab_Nebula.personal]] 
 
-### #is_/same_as :: [Crab_Nebula.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.secret|Crab_Nebula.secret]] 
 

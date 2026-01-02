@@ -67,17 +67,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Drone%20seasonal%20tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Season](/_Standards/Earth/Climate/Season.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season|Season]] 
 
-### #is_/same_as :: [Season.public](/_public/Earth/Climate/Season.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season.public|Season.public]] 
 
-### #is_/same_as :: [Season.internal](/_internal/Earth/Climate/Season.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season.internal|Season.internal]] 
 
-### #is_/same_as :: [Season.protect](/_protect/Earth/Climate/Season.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season.protect|Season.protect]] 
 
-### #is_/same_as :: [Season.private](/_private/Earth/Climate/Season.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season.private|Season.private]] 
 
-### #is_/same_as :: [Season.personal](/_personal/Earth/Climate/Season.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season.personal|Season.personal]] 
 
-### #is_/same_as :: [Season.secret](/_secret/Earth/Climate/Season.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season.secret|Season.secret]] 
 

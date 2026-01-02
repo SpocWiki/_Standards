@@ -187,17 +187,17 @@ A country.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Country](/_Standards/Earth/Geography/Place/Administrative_Area/Country.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/Country|Country]] 
 
-### #is_/same_as :: [Country.public](/_public/Earth/Geography/Place/Administrative_Area/Country.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/Country.public|Country.public]] 
 
-### #is_/same_as :: [Country.internal](/_internal/Earth/Geography/Place/Administrative_Area/Country.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/Country.internal|Country.internal]] 
 
-### #is_/same_as :: [Country.protect](/_protect/Earth/Geography/Place/Administrative_Area/Country.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/Country.protect|Country.protect]] 
 
-### #is_/same_as :: [Country.private](/_private/Earth/Geography/Place/Administrative_Area/Country.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/Country.private|Country.private]] 
 
-### #is_/same_as :: [Country.personal](/_personal/Earth/Geography/Place/Administrative_Area/Country.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/Country.personal|Country.personal]] 
 
-### #is_/same_as :: [Country.secret](/_secret/Earth/Geography/Place/Administrative_Area/Country.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/Country.secret|Country.secret]] 
 

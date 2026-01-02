@@ -47,17 +47,17 @@ Commons_category: Offal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offal](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal|Offal]] 
 
-### #is_/same_as :: [Offal.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.public|Offal.public]] 
 
-### #is_/same_as :: [Offal.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.internal|Offal.internal]] 
 
-### #is_/same_as :: [Offal.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.protect|Offal.protect]] 
 
-### #is_/same_as :: [Offal.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.private|Offal.private]] 
 
-### #is_/same_as :: [Offal.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.personal|Offal.personal]] 
 
-### #is_/same_as :: [Offal.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Offal.secret|Offal.secret]] 
 

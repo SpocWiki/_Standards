@@ -38,17 +38,17 @@ MeSH_tree_code: H01.158.273.200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Developmental_Biology](/_Standards/bio/Reproduction/Developmental_Biology.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology|Developmental_Biology]] 
 
-### #is_/same_as :: [Developmental_Biology.public](/_public/bio/Reproduction/Developmental_Biology.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology.public|Developmental_Biology.public]] 
 
-### #is_/same_as :: [Developmental_Biology.internal](/_internal/bio/Reproduction/Developmental_Biology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology.internal|Developmental_Biology.internal]] 
 
-### #is_/same_as :: [Developmental_Biology.protect](/_protect/bio/Reproduction/Developmental_Biology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology.protect|Developmental_Biology.protect]] 
 
-### #is_/same_as :: [Developmental_Biology.private](/_private/bio/Reproduction/Developmental_Biology.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology.private|Developmental_Biology.private]] 
 
-### #is_/same_as :: [Developmental_Biology.personal](/_personal/bio/Reproduction/Developmental_Biology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology.personal|Developmental_Biology.personal]] 
 
-### #is_/same_as :: [Developmental_Biology.secret](/_secret/bio/Reproduction/Developmental_Biology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology.secret|Developmental_Biology.secret]] 
 

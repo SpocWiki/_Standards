@@ -85,17 +85,17 @@ SOC_Code_2010_: 11-0000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Management](/_Standards/Society/Agent/Management.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Management|Management]] 
 
-### #is_/same_as :: [Management.public](/_public/Society/Agent/Management.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Management.public|Management.public]] 
 
-### #is_/same_as :: [Management.internal](/_internal/Society/Agent/Management.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Management.internal|Management.internal]] 
 
-### #is_/same_as :: [Management.protect](/_protect/Society/Agent/Management.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Management.protect|Management.protect]] 
 
-### #is_/same_as :: [Management.private](/_private/Society/Agent/Management.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Management.private|Management.private]] 
 
-### #is_/same_as :: [Management.personal](/_personal/Society/Agent/Management.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Management.personal|Management.personal]] 
 
-### #is_/same_as :: [Management.secret](/_secret/Society/Agent/Management.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Management.secret|Management.secret]] 
 

@@ -54,17 +54,17 @@ subreddit: TalesFromRetail
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Retail](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail|Retail]] 
 
-### #is_/same_as :: [Retail.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Retail.public|Retail.public]] 
 
-### #is_/same_as :: [Retail.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail.internal|Retail.internal]] 
 
-### #is_/same_as :: [Retail.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail.protect|Retail.protect]] 
 
-### #is_/same_as :: [Retail.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Retail.private|Retail.private]] 
 
-### #is_/same_as :: [Retail.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail.personal|Retail.personal]] 
 
-### #is_/same_as :: [Retail.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail.secret|Retail.secret]] 
 

@@ -49,17 +49,17 @@ Commons_category: Rulers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruler](/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler|Ruler]] 
 
-### #is_/same_as :: [Ruler.public](/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.public|Ruler.public]] 
 
-### #is_/same_as :: [Ruler.internal](/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.internal|Ruler.internal]] 
 
-### #is_/same_as :: [Ruler.protect](/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.protect|Ruler.protect]] 
 
-### #is_/same_as :: [Ruler.private](/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.private|Ruler.private]] 
 
-### #is_/same_as :: [Ruler.personal](/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.personal|Ruler.personal]] 
 
-### #is_/same_as :: [Ruler.secret](/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Ruler.secret|Ruler.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_address_delivery](/_Standards/schema-org/Property/has_location/has_location_address_delivery.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_address_delivery|has_location_address_delivery]] 
 
-### #is_/same_as :: [has_location_address_delivery.public](/_public/schema-org/Property/has_location/has_location_address_delivery.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_address_delivery.public|has_location_address_delivery.public]] 
 
-### #is_/same_as :: [has_location_address_delivery.internal](/_internal/schema-org/Property/has_location/has_location_address_delivery.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_address_delivery.internal|has_location_address_delivery.internal]] 
 
-### #is_/same_as :: [has_location_address_delivery.protect](/_protect/schema-org/Property/has_location/has_location_address_delivery.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_address_delivery.protect|has_location_address_delivery.protect]] 
 
-### #is_/same_as :: [has_location_address_delivery.private](/_private/schema-org/Property/has_location/has_location_address_delivery.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_address_delivery.private|has_location_address_delivery.private]] 
 
-### #is_/same_as :: [has_location_address_delivery.personal](/_personal/schema-org/Property/has_location/has_location_address_delivery.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_address_delivery.personal|has_location_address_delivery.personal]] 
 
-### #is_/same_as :: [has_location_address_delivery.secret](/_secret/schema-org/Property/has_location/has_location_address_delivery.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_address_delivery.secret|has_location_address_delivery.secret]] 
 

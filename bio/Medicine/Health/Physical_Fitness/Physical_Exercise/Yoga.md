@@ -111,17 +111,17 @@ Dewey_Decimal_Classification: 181.45
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yoga](/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga|Yoga]] 
 
-### #is_/same_as :: [Yoga.public](/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.public|Yoga.public]] 
 
-### #is_/same_as :: [Yoga.internal](/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.internal|Yoga.internal]] 
 
-### #is_/same_as :: [Yoga.protect](/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.protect|Yoga.protect]] 
 
-### #is_/same_as :: [Yoga.private](/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.private|Yoga.private]] 
 
-### #is_/same_as :: [Yoga.personal](/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.personal|Yoga.personal]] 
 
-### #is_/same_as :: [Yoga.secret](/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Physical_Fitness/Physical_Exercise/Yoga.secret|Yoga.secret]] 
 

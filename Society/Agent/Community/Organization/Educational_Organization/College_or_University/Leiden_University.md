@@ -126,17 +126,17 @@ official_website: https://www.universiteitleiden.nl/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leiden_University](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University|Leiden_University]] 
 
-### #is_/same_as :: [Leiden_University.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.public|Leiden_University.public]] 
 
-### #is_/same_as :: [Leiden_University.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.internal|Leiden_University.internal]] 
 
-### #is_/same_as :: [Leiden_University.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.protect|Leiden_University.protect]] 
 
-### #is_/same_as :: [Leiden_University.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.private|Leiden_University.private]] 
 
-### #is_/same_as :: [Leiden_University.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.personal|Leiden_University.personal]] 
 
-### #is_/same_as :: [Leiden_University.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Leiden_University.secret|Leiden_University.secret]] 
 

@@ -50,17 +50,17 @@ Colon_Classification: Q:4198
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pilgrimage](/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Pilgrimage|Pilgrimage]] 
 
-### #is_/same_as :: [Pilgrimage.public](/_public/Philosophy/Metaphysic/Religion/Pilgrimage.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Pilgrimage.public|Pilgrimage.public]] 
 
-### #is_/same_as :: [Pilgrimage.internal](/_internal/Philosophy/Metaphysic/Religion/Pilgrimage.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Pilgrimage.internal|Pilgrimage.internal]] 
 
-### #is_/same_as :: [Pilgrimage.protect](/_protect/Philosophy/Metaphysic/Religion/Pilgrimage.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Pilgrimage.protect|Pilgrimage.protect]] 
 
-### #is_/same_as :: [Pilgrimage.private](/_private/Philosophy/Metaphysic/Religion/Pilgrimage.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Pilgrimage.private|Pilgrimage.private]] 
 
-### #is_/same_as :: [Pilgrimage.personal](/_personal/Philosophy/Metaphysic/Religion/Pilgrimage.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Pilgrimage.personal|Pilgrimage.personal]] 
 
-### #is_/same_as :: [Pilgrimage.secret](/_secret/Philosophy/Metaphysic/Religion/Pilgrimage.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Pilgrimage.secret|Pilgrimage.secret]] 
 

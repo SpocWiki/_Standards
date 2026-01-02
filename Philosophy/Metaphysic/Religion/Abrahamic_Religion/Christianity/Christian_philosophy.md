@@ -51,17 +51,17 @@ P8189: 987007544605305171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christian_philosophy](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy|Christian_philosophy]] 
 
-### #is_/same_as :: [Christian_philosophy.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.public|Christian_philosophy.public]] 
 
-### #is_/same_as :: [Christian_philosophy.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.internal|Christian_philosophy.internal]] 
 
-### #is_/same_as :: [Christian_philosophy.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.protect|Christian_philosophy.protect]] 
 
-### #is_/same_as :: [Christian_philosophy.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.private|Christian_philosophy.private]] 
 
-### #is_/same_as :: [Christian_philosophy.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.personal|Christian_philosophy.personal]] 
 
-### #is_/same_as :: [Christian_philosophy.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_philosophy.secret|Christian_philosophy.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_production](/_Standards/schema-org/Property/has_Date_Time/has_time_of_production.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_production|has_time_of_production]] 
 
-### #is_/same_as :: [has_time_of_production.public](/_public/schema-org/Property/has_Date_Time/has_time_of_production.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_production.public|has_time_of_production.public]] 
 
-### #is_/same_as :: [has_time_of_production.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_production.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_production.internal|has_time_of_production.internal]] 
 
-### #is_/same_as :: [has_time_of_production.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_production.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_production.protect|has_time_of_production.protect]] 
 
-### #is_/same_as :: [has_time_of_production.private](/_private/schema-org/Property/has_Date_Time/has_time_of_production.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_production.private|has_time_of_production.private]] 
 
-### #is_/same_as :: [has_time_of_production.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_production.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_production.personal|has_time_of_production.personal]] 
 
-### #is_/same_as :: [has_time_of_production.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_production.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_production.secret|has_time_of_production.secret]] 
 

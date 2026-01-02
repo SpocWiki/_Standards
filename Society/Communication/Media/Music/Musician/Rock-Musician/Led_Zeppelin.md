@@ -87,17 +87,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Led%20zeppelin%20revis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Led_Zeppelin](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin|Led_Zeppelin]] 
 
-### #is_/same_as :: [Led_Zeppelin.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.public|Led_Zeppelin.public]] 
 
-### #is_/same_as :: [Led_Zeppelin.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.internal|Led_Zeppelin.internal]] 
 
-### #is_/same_as :: [Led_Zeppelin.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.protect|Led_Zeppelin.protect]] 
 
-### #is_/same_as :: [Led_Zeppelin.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.private|Led_Zeppelin.private]] 
 
-### #is_/same_as :: [Led_Zeppelin.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.personal|Led_Zeppelin.personal]] 
 
-### #is_/same_as :: [Led_Zeppelin.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Led_Zeppelin.secret|Led_Zeppelin.secret]] 
 

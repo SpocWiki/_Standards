@@ -71,17 +71,17 @@ Commons_category: Oresund
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Øresund](/_Standards/Earth/Continent/Europe/Europe~North/Øresund.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Øresund|Øresund]] 
 
-### #is_/same_as :: [Øresund.public](/_public/Earth/Continent/Europe/Europe~North/Øresund.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Øresund.public|Øresund.public]] 
 
-### #is_/same_as :: [Øresund.internal](/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Øresund.internal|Øresund.internal]] 
 
-### #is_/same_as :: [Øresund.protect](/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Øresund.protect|Øresund.protect]] 
 
-### #is_/same_as :: [Øresund.private](/_private/Earth/Continent/Europe/Europe~North/Øresund.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Øresund.private|Øresund.private]] 
 
-### #is_/same_as :: [Øresund.personal](/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Øresund.personal|Øresund.personal]] 
 
-### #is_/same_as :: [Øresund.secret](/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Øresund.secret|Øresund.secret]] 
 

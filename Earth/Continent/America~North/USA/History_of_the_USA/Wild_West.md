@@ -35,3 +35,22 @@ Commons_gallery: Wild West
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/American%20frontier) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West|Wild_West]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.public|Wild_West.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.internal|Wild_West.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.protect|Wild_West.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.private|Wild_West.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.personal|Wild_West.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/Wild_West.secret|Wild_West.secret]] 
+

@@ -68,17 +68,17 @@ ReviewCount:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AggregateRating](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating|FileClass~AggregateRating]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.public|FileClass~AggregateRating.public]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.internal|FileClass~AggregateRating.internal]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.protect|FileClass~AggregateRating.protect]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.private|FileClass~AggregateRating.private]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.personal|FileClass~AggregateRating.personal]] 
 
-### #is_/same_as :: [FileClass~AggregateRating.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Rating/FileClass~AggregateRating.secret|FileClass~AggregateRating.secret]] 
 

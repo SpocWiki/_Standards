@@ -44,17 +44,17 @@ A medical procedure intended primarily for therapeutic purposes, aimed at improv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Therapeutic_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure|Therapeutic_Procedure]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.public|Therapeutic_Procedure.public]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.internal|Therapeutic_Procedure.internal]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.protect|Therapeutic_Procedure.protect]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.private|Therapeutic_Procedure.private]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.personal|Therapeutic_Procedure.personal]] 
 
-### #is_/same_as :: [Therapeutic_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure.secret|Therapeutic_Procedure.secret]] 
 

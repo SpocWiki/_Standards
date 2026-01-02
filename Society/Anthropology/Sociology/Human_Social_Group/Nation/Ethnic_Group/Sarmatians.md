@@ -62,17 +62,17 @@ Commons_category: Sarmatians
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sarmatians](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians|Sarmatians]] 
 
-### #is_/same_as :: [Sarmatians.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.public|Sarmatians.public]] 
 
-### #is_/same_as :: [Sarmatians.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.internal|Sarmatians.internal]] 
 
-### #is_/same_as :: [Sarmatians.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.protect|Sarmatians.protect]] 
 
-### #is_/same_as :: [Sarmatians.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.private|Sarmatians.private]] 
 
-### #is_/same_as :: [Sarmatians.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.personal|Sarmatians.personal]] 
 
-### #is_/same_as :: [Sarmatians.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Sarmatians.secret|Sarmatians.secret]] 
 

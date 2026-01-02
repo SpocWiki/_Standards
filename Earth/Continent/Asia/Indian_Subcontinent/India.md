@@ -1464,17 +1464,17 @@ Capital :: [[India/Counties/Delhi/City/New_Delhi]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [India](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/India|India]] 
 
-### #is_/same_as :: [India.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/India.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/India.public|India.public]] 
 
-### #is_/same_as :: [India.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/India.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/India.internal|India.internal]] 
 
-### #is_/same_as :: [India.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/India.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/India.protect|India.protect]] 
 
-### #is_/same_as :: [India.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/India.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/India.private|India.private]] 
 
-### #is_/same_as :: [India.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/India.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/India.personal|India.personal]] 
 
-### #is_/same_as :: [India.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/India.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/India.secret|India.secret]] 
 

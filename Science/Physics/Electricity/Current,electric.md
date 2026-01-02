@@ -62,17 +62,17 @@ There are many Units for Current, but the SI-Unit is the [[../../../Dimension/Un
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Current,electric](/_Standards/Science/Physics/Electricity/Current,electric.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Current,electric|Current,electric]] 
 
-### #is_/same_as :: [Current,electric.public](/_public/Science/Physics/Electricity/Current,electric.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Current,electric.public|Current,electric.public]] 
 
-### #is_/same_as :: [Current,electric.internal](/_internal/Science/Physics/Electricity/Current,electric.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Current,electric.internal|Current,electric.internal]] 
 
-### #is_/same_as :: [Current,electric.protect](/_protect/Science/Physics/Electricity/Current,electric.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Current,electric.protect|Current,electric.protect]] 
 
-### #is_/same_as :: [Current,electric.private](/_private/Science/Physics/Electricity/Current,electric.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Current,electric.private|Current,electric.private]] 
 
-### #is_/same_as :: [Current,electric.personal](/_personal/Science/Physics/Electricity/Current,electric.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Current,electric.personal|Current,electric.personal]] 
 
-### #is_/same_as :: [Current,electric.secret](/_secret/Science/Physics/Electricity/Current,electric.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Current,electric.secret|Current,electric.secret]] 
 

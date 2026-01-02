@@ -9,17 +9,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Temperature](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature|Planck-Temperature]] 
 
-### #is_/same_as :: [Planck-Temperature.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.public|Planck-Temperature.public]] 
 
-### #is_/same_as :: [Planck-Temperature.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.internal|Planck-Temperature.internal]] 
 
-### #is_/same_as :: [Planck-Temperature.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.protect|Planck-Temperature.protect]] 
 
-### #is_/same_as :: [Planck-Temperature.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.private|Planck-Temperature.private]] 
 
-### #is_/same_as :: [Planck-Temperature.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.personal|Planck-Temperature.personal]] 
 
-### #is_/same_as :: [Planck-Temperature.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Temperature.secret|Planck-Temperature.secret]] 
 

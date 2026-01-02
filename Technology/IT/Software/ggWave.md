@@ -9,17 +9,17 @@ Uses multi-frequency [Frequency-Shift Keying (FSK)](https://en.wikipedia.org/wik
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ggWave](/_Standards/Technology/IT/Software/ggWave.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/ggWave|ggWave]] 
 
-### #is_/same_as :: [ggWave.public](/_public/Technology/IT/Software/ggWave.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/ggWave.public|ggWave.public]] 
 
-### #is_/same_as :: [ggWave.internal](/_internal/Technology/IT/Software/ggWave.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/ggWave.internal|ggWave.internal]] 
 
-### #is_/same_as :: [ggWave.protect](/_protect/Technology/IT/Software/ggWave.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/ggWave.protect|ggWave.protect]] 
 
-### #is_/same_as :: [ggWave.private](/_private/Technology/IT/Software/ggWave.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/ggWave.private|ggWave.private]] 
 
-### #is_/same_as :: [ggWave.personal](/_personal/Technology/IT/Software/ggWave.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/ggWave.personal|ggWave.personal]] 
 
-### #is_/same_as :: [ggWave.secret](/_secret/Technology/IT/Software/ggWave.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/ggWave.secret|ggWave.secret]] 
 

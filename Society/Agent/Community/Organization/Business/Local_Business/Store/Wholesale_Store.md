@@ -41,17 +41,17 @@ A wholesale store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wholesale_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store|Wholesale_Store]] 
 
-### #is_/same_as :: [Wholesale_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.public|Wholesale_Store.public]] 
 
-### #is_/same_as :: [Wholesale_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.internal|Wholesale_Store.internal]] 
 
-### #is_/same_as :: [Wholesale_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.protect|Wholesale_Store.protect]] 
 
-### #is_/same_as :: [Wholesale_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.private|Wholesale_Store.private]] 
 
-### #is_/same_as :: [Wholesale_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.personal|Wholesale_Store.personal]] 
 
-### #is_/same_as :: [Wholesale_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Wholesale_Store.secret|Wholesale_Store.secret]] 
 

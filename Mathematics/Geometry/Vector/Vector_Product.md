@@ -82,17 +82,17 @@ Commons_category: Cross product
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vector_Product](/_Standards/Mathematics/Geometry/Vector/Vector_Product.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Vector/Vector_Product|Vector_Product]] 
 
-### #is_/same_as :: [Vector_Product.public](/_public/Mathematics/Geometry/Vector/Vector_Product.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Vector/Vector_Product.public|Vector_Product.public]] 
 
-### #is_/same_as :: [Vector_Product.internal](/_internal/Mathematics/Geometry/Vector/Vector_Product.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Vector/Vector_Product.internal|Vector_Product.internal]] 
 
-### #is_/same_as :: [Vector_Product.protect](/_protect/Mathematics/Geometry/Vector/Vector_Product.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Vector/Vector_Product.protect|Vector_Product.protect]] 
 
-### #is_/same_as :: [Vector_Product.private](/_private/Mathematics/Geometry/Vector/Vector_Product.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Vector/Vector_Product.private|Vector_Product.private]] 
 
-### #is_/same_as :: [Vector_Product.personal](/_personal/Mathematics/Geometry/Vector/Vector_Product.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Vector/Vector_Product.personal|Vector_Product.personal]] 
 
-### #is_/same_as :: [Vector_Product.secret](/_secret/Mathematics/Geometry/Vector/Vector_Product.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Vector/Vector_Product.secret|Vector_Product.secret]] 
 

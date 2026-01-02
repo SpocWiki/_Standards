@@ -110,17 +110,17 @@ dissolved_abolished_or_demolished_date: 2012-12-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arab_Spring](/_Standards/Society/Politics/Arab_Spring.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Arab_Spring|Arab_Spring]] 
 
-### #is_/same_as :: [Arab_Spring.public](/_public/Society/Politics/Arab_Spring.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Arab_Spring.public|Arab_Spring.public]] 
 
-### #is_/same_as :: [Arab_Spring.internal](/_internal/Society/Politics/Arab_Spring.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Arab_Spring.internal|Arab_Spring.internal]] 
 
-### #is_/same_as :: [Arab_Spring.protect](/_protect/Society/Politics/Arab_Spring.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Arab_Spring.protect|Arab_Spring.protect]] 
 
-### #is_/same_as :: [Arab_Spring.private](/_private/Society/Politics/Arab_Spring.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Arab_Spring.private|Arab_Spring.private]] 
 
-### #is_/same_as :: [Arab_Spring.personal](/_personal/Society/Politics/Arab_Spring.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Arab_Spring.personal|Arab_Spring.personal]] 
 
-### #is_/same_as :: [Arab_Spring.secret](/_secret/Society/Politics/Arab_Spring.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Arab_Spring.secret|Arab_Spring.secret]] 
 

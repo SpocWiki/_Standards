@@ -138,17 +138,17 @@ Europeana_entity: agent/base/145331
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dewey,John](/_Standards/Philosophy/Philosopher/Dewey,John.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Dewey,John|Dewey,John]] 
 
-### #is_/same_as :: [Dewey,John.public](/_public/Philosophy/Philosopher/Dewey,John.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Dewey,John.public|Dewey,John.public]] 
 
-### #is_/same_as :: [Dewey,John.internal](/_internal/Philosophy/Philosopher/Dewey,John.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Dewey,John.internal|Dewey,John.internal]] 
 
-### #is_/same_as :: [Dewey,John.protect](/_protect/Philosophy/Philosopher/Dewey,John.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Dewey,John.protect|Dewey,John.protect]] 
 
-### #is_/same_as :: [Dewey,John.private](/_private/Philosophy/Philosopher/Dewey,John.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Dewey,John.private|Dewey,John.private]] 
 
-### #is_/same_as :: [Dewey,John.personal](/_personal/Philosophy/Philosopher/Dewey,John.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Dewey,John.personal|Dewey,John.personal]] 
 
-### #is_/same_as :: [Dewey,John.secret](/_secret/Philosophy/Philosopher/Dewey,John.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Dewey,John.secret|Dewey,John.secret]] 
 

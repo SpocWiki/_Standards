@@ -41,17 +41,17 @@ taxon_common_name: дрэўнавушка
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pleurotus](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus|Pleurotus]] 
 
-### #is_/same_as :: [Pleurotus.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.public|Pleurotus.public]] 
 
-### #is_/same_as :: [Pleurotus.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.internal|Pleurotus.internal]] 
 
-### #is_/same_as :: [Pleurotus.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.protect|Pleurotus.protect]] 
 
-### #is_/same_as :: [Pleurotus.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.private|Pleurotus.private]] 
 
-### #is_/same_as :: [Pleurotus.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.personal|Pleurotus.personal]] 
 
-### #is_/same_as :: [Pleurotus.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Agaricales/Pleurotaceae/Pleurotus.secret|Pleurotus.secret]] 
 

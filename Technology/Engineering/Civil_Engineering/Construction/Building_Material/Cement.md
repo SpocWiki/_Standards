@@ -59,17 +59,17 @@ P8189: 987007284980005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cement](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement|Cement]] 
 
-### #is_/same_as :: [Cement.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.public|Cement.public]] 
 
-### #is_/same_as :: [Cement.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.internal|Cement.internal]] 
 
-### #is_/same_as :: [Cement.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.protect|Cement.protect]] 
 
-### #is_/same_as :: [Cement.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.private|Cement.private]] 
 
-### #is_/same_as :: [Cement.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.personal|Cement.personal]] 
 
-### #is_/same_as :: [Cement.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Cement.secret|Cement.secret]] 
 

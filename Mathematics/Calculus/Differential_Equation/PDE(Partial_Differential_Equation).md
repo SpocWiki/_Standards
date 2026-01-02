@@ -34,17 +34,17 @@ Wolfram_Language_entity_type: PartialDifferentialEquation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation)](/_Standards/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation)|PDE(Partial_Differential_Equation)]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).public](/_public/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).public|PDE(Partial_Differential_Equation).public]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).internal](/_internal/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).internal|PDE(Partial_Differential_Equation).internal]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).protect](/_protect/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).protect|PDE(Partial_Differential_Equation).protect]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).private](/_private/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).private|PDE(Partial_Differential_Equation).private]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).personal](/_personal/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).personal|PDE(Partial_Differential_Equation).personal]] 
 
-### #is_/same_as :: [PDE(Partial_Differential_Equation).secret](/_secret/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Differential_Equation/PDE(Partial_Differential_Equation).secret|PDE(Partial_Differential_Equation).secret]] 
 

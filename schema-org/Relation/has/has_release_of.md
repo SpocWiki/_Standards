@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_release_of](/_Standards/schema-org/Relation/has/has_release_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_release_of|has_release_of]] 
 
-### #is_/same_as :: [has_release_of.public](/_public/schema-org/Relation/has/has_release_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_release_of.public|has_release_of.public]] 
 
-### #is_/same_as :: [has_release_of.internal](/_internal/schema-org/Relation/has/has_release_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_release_of.internal|has_release_of.internal]] 
 
-### #is_/same_as :: [has_release_of.protect](/_protect/schema-org/Relation/has/has_release_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_release_of.protect|has_release_of.protect]] 
 
-### #is_/same_as :: [has_release_of.private](/_private/schema-org/Relation/has/has_release_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_release_of.private|has_release_of.private]] 
 
-### #is_/same_as :: [has_release_of.personal](/_personal/schema-org/Relation/has/has_release_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_release_of.personal|has_release_of.personal]] 
 
-### #is_/same_as :: [has_release_of.secret](/_secret/schema-org/Relation/has/has_release_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_release_of.secret|has_release_of.secret]] 
 

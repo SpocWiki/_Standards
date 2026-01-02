@@ -36,17 +36,17 @@ instance_of: "[[_Standards/WikiData/WD~type_of_dance,107357104]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jitterbug](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Jitterbug|Jitterbug]] 
 
-### #is_/same_as :: [Jitterbug.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.public|Jitterbug.public]] 
 
-### #is_/same_as :: [Jitterbug.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.internal|Jitterbug.internal]] 
 
-### #is_/same_as :: [Jitterbug.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.protect|Jitterbug.protect]] 
 
-### #is_/same_as :: [Jitterbug.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.private|Jitterbug.private]] 
 
-### #is_/same_as :: [Jitterbug.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.personal|Jitterbug.personal]] 
 
-### #is_/same_as :: [Jitterbug.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Jitterbug.secret|Jitterbug.secret]] 
 

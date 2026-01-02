@@ -308,17 +308,17 @@ it is advantageous be able to digest them without severe intoxication.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethanol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Ethanol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Ethanol|Ethanol]] 
 
-### #is_/same_as :: [Ethanol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Ethanol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Ethanol.public|Ethanol.public]] 
 
-### #is_/same_as :: [Ethanol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.internal|Ethanol.internal]] 
 
-### #is_/same_as :: [Ethanol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Ethanol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Ethanol.protect|Ethanol.protect]] 
 
-### #is_/same_as :: [Ethanol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Ethanol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Ethanol.private|Ethanol.private]] 
 
-### #is_/same_as :: [Ethanol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Ethanol.personal|Ethanol.personal]] 
 
-### #is_/same_as :: [Ethanol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Ethanol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Ethanol.secret|Ethanol.secret]] 
 

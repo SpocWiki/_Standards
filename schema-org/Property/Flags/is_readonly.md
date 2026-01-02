@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_readonly](/_Standards/schema-org/Property/Flags/is_readonly.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_readonly|is_readonly]] 
 
-### #is_/same_as :: [is_readonly.public](/_public/schema-org/Property/Flags/is_readonly.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_readonly.public|is_readonly.public]] 
 
-### #is_/same_as :: [is_readonly.internal](/_internal/schema-org/Property/Flags/is_readonly.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_readonly.internal|is_readonly.internal]] 
 
-### #is_/same_as :: [is_readonly.protect](/_protect/schema-org/Property/Flags/is_readonly.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_readonly.protect|is_readonly.protect]] 
 
-### #is_/same_as :: [is_readonly.private](/_private/schema-org/Property/Flags/is_readonly.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_readonly.private|is_readonly.private]] 
 
-### #is_/same_as :: [is_readonly.personal](/_personal/schema-org/Property/Flags/is_readonly.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_readonly.personal|is_readonly.personal]] 
 
-### #is_/same_as :: [is_readonly.secret](/_secret/schema-org/Property/Flags/is_readonly.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_readonly.secret|is_readonly.secret]] 
 

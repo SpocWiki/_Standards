@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim](/_Standards/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Mai_Thi_Nguyen-Kim|Mai_Thi_Nguyen-Kim]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.public](/_public/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.public|Mai_Thi_Nguyen-Kim.public]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.internal](/_internal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.internal|Mai_Thi_Nguyen-Kim.internal]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.protect](/_protect/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.protect|Mai_Thi_Nguyen-Kim.protect]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.private](/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.private|Mai_Thi_Nguyen-Kim.private]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.personal](/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.personal|Mai_Thi_Nguyen-Kim.personal]] 
 
-### #is_/same_as :: [Mai_Thi_Nguyen-Kim.secret](/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Mai_Thi_Nguyen-Kim.secret|Mai_Thi_Nguyen-Kim.secret]] 
 

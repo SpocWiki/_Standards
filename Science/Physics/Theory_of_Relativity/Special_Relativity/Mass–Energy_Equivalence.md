@@ -52,17 +52,17 @@ time_of_discovery_or_invention: 1905-11-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass–Energy_Equivalence](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence|Mass–Energy_Equivalence]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.public](/_public/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.public|Mass–Energy_Equivalence.public]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.internal](/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.internal|Mass–Energy_Equivalence.internal]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.protect](/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.protect|Mass–Energy_Equivalence.protect]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.private](/_private/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.private|Mass–Energy_Equivalence.private]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.personal](/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.personal|Mass–Energy_Equivalence.personal]] 
 
-### #is_/same_as :: [Mass–Energy_Equivalence.secret](/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity/Mass–Energy_Equivalence.secret|Mass–Energy_Equivalence.secret]] 
 

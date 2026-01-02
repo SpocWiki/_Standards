@@ -99,17 +99,17 @@ Percentile90:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution|FileClass~QuantitativeValueDistribution]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.public|FileClass~QuantitativeValueDistribution.public]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.internal|FileClass~QuantitativeValueDistribution.internal]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.protect|FileClass~QuantitativeValueDistribution.protect]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.private|FileClass~QuantitativeValueDistribution.private]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.personal|FileClass~QuantitativeValueDistribution.personal]] 
 
-### #is_/same_as :: [FileClass~QuantitativeValueDistribution.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~QuantitativeValueDistribution.secret|FileClass~QuantitativeValueDistribution.secret]] 
 

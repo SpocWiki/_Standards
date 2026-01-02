@@ -73,17 +73,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/KVAZARI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quasar](/_Standards/Astronomy/Black_Hole/Quasar.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole/Quasar|Quasar]] 
 
-### #is_/same_as :: [Quasar.public](/_public/Astronomy/Black_Hole/Quasar.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole/Quasar.public|Quasar.public]] 
 
-### #is_/same_as :: [Quasar.internal](/_internal/Astronomy/Black_Hole/Quasar.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole/Quasar.internal|Quasar.internal]] 
 
-### #is_/same_as :: [Quasar.protect](/_protect/Astronomy/Black_Hole/Quasar.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole/Quasar.protect|Quasar.protect]] 
 
-### #is_/same_as :: [Quasar.private](/_private/Astronomy/Black_Hole/Quasar.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole/Quasar.private|Quasar.private]] 
 
-### #is_/same_as :: [Quasar.personal](/_personal/Astronomy/Black_Hole/Quasar.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole/Quasar.personal|Quasar.personal]] 
 
-### #is_/same_as :: [Quasar.secret](/_secret/Astronomy/Black_Hole/Quasar.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole/Quasar.secret|Quasar.secret]] 
 

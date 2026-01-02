@@ -63,17 +63,17 @@ Commons_category: Principalities
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Principality](/_Standards/Society/Politics/Government/Monarchy/Principality.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Principality|Principality]] 
 
-### #is_/same_as :: [Principality.public](/_public/Society/Politics/Government/Monarchy/Principality.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Principality.public|Principality.public]] 
 
-### #is_/same_as :: [Principality.internal](/_internal/Society/Politics/Government/Monarchy/Principality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Principality.internal|Principality.internal]] 
 
-### #is_/same_as :: [Principality.protect](/_protect/Society/Politics/Government/Monarchy/Principality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Principality.protect|Principality.protect]] 
 
-### #is_/same_as :: [Principality.private](/_private/Society/Politics/Government/Monarchy/Principality.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Principality.private|Principality.private]] 
 
-### #is_/same_as :: [Principality.personal](/_personal/Society/Politics/Government/Monarchy/Principality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Principality.personal|Principality.personal]] 
 
-### #is_/same_as :: [Principality.secret](/_secret/Society/Politics/Government/Monarchy/Principality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Principality.secret|Principality.secret]] 
 

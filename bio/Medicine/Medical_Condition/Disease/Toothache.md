@@ -63,17 +63,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toothache](/_Standards/bio/Medicine/Medical_Condition/Disease/Toothache.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Toothache|Toothache]] 
 
-### #is_/same_as :: [Toothache.public](/_public/bio/Medicine/Medical_Condition/Disease/Toothache.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Toothache.public|Toothache.public]] 
 
-### #is_/same_as :: [Toothache.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Toothache.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Toothache.internal|Toothache.internal]] 
 
-### #is_/same_as :: [Toothache.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Toothache.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Toothache.protect|Toothache.protect]] 
 
-### #is_/same_as :: [Toothache.private](/_private/bio/Medicine/Medical_Condition/Disease/Toothache.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Toothache.private|Toothache.private]] 
 
-### #is_/same_as :: [Toothache.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Toothache.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Toothache.personal|Toothache.personal]] 
 
-### #is_/same_as :: [Toothache.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Toothache.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Toothache.secret|Toothache.secret]] 
 

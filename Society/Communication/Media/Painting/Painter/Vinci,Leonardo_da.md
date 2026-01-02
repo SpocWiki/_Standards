@@ -275,17 +275,17 @@ writing_language: '[[_Standards/WikiData/WD~Italian,652]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vinci,Leonardo_da](/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da|Vinci,Leonardo_da]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.public](/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.public|Vinci,Leonardo_da.public]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.internal](/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.internal|Vinci,Leonardo_da.internal]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.protect](/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.protect|Vinci,Leonardo_da.protect]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.private](/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.private|Vinci,Leonardo_da.private]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.personal](/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.personal|Vinci,Leonardo_da.personal]] 
 
-### #is_/same_as :: [Vinci,Leonardo_da.secret](/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Vinci,Leonardo_da.secret|Vinci,Leonardo_da.secret]] 
 

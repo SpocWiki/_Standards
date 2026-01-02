@@ -156,17 +156,17 @@ Commons_category: Tasman Sea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tasman_Sea](/_Standards/Earth/Ocean/Australasian_Sea/Tasman_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Australasian_Sea/Tasman_Sea|Tasman_Sea]] 
 
-### #is_/same_as :: [Tasman_Sea.public](/_public/Earth/Ocean/Australasian_Sea/Tasman_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Australasian_Sea/Tasman_Sea.public|Tasman_Sea.public]] 
 
-### #is_/same_as :: [Tasman_Sea.internal](/_internal/Earth/Ocean/Australasian_Sea/Tasman_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Australasian_Sea/Tasman_Sea.internal|Tasman_Sea.internal]] 
 
-### #is_/same_as :: [Tasman_Sea.protect](/_protect/Earth/Ocean/Australasian_Sea/Tasman_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Australasian_Sea/Tasman_Sea.protect|Tasman_Sea.protect]] 
 
-### #is_/same_as :: [Tasman_Sea.private](/_private/Earth/Ocean/Australasian_Sea/Tasman_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Australasian_Sea/Tasman_Sea.private|Tasman_Sea.private]] 
 
-### #is_/same_as :: [Tasman_Sea.personal](/_personal/Earth/Ocean/Australasian_Sea/Tasman_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Australasian_Sea/Tasman_Sea.personal|Tasman_Sea.personal]] 
 
-### #is_/same_as :: [Tasman_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea/Tasman_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Australasian_Sea/Tasman_Sea.secret|Tasman_Sea.secret]] 
 

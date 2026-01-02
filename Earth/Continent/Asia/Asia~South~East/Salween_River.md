@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Salween_River](/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Salween_River|Salween_River]] 
 
-### #is_/same_as :: [Salween_River.public](/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Salween_River.public|Salween_River.public]] 
 
-### #is_/same_as :: [Salween_River.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Salween_River.internal|Salween_River.internal]] 
 
-### #is_/same_as :: [Salween_River.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Salween_River.protect|Salween_River.protect]] 
 
-### #is_/same_as :: [Salween_River.private](/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Salween_River.private|Salween_River.private]] 
 
-### #is_/same_as :: [Salween_River.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Salween_River.personal|Salween_River.personal]] 
 
-### #is_/same_as :: [Salween_River.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Salween_River.secret|Salween_River.secret]] 
 

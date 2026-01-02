@@ -35,17 +35,17 @@ Commons_category: Contemporary art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contemporary_Art](/_Standards/Society/Communication/Art/Contemporary_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Contemporary_Art|Contemporary_Art]] 
 
-### #is_/same_as :: [Contemporary_Art.public](/_public/Society/Communication/Art/Contemporary_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Contemporary_Art.public|Contemporary_Art.public]] 
 
-### #is_/same_as :: [Contemporary_Art.internal](/_internal/Society/Communication/Art/Contemporary_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Contemporary_Art.internal|Contemporary_Art.internal]] 
 
-### #is_/same_as :: [Contemporary_Art.protect](/_protect/Society/Communication/Art/Contemporary_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Contemporary_Art.protect|Contemporary_Art.protect]] 
 
-### #is_/same_as :: [Contemporary_Art.private](/_private/Society/Communication/Art/Contemporary_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Contemporary_Art.private|Contemporary_Art.private]] 
 
-### #is_/same_as :: [Contemporary_Art.personal](/_personal/Society/Communication/Art/Contemporary_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Contemporary_Art.personal|Contemporary_Art.personal]] 
 
-### #is_/same_as :: [Contemporary_Art.secret](/_secret/Society/Communication/Art/Contemporary_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Contemporary_Art.secret|Contemporary_Art.secret]] 
 

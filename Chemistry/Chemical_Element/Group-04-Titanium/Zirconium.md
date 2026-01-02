@@ -133,17 +133,17 @@ ZVG_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zirconium](/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]] 
 
-### #is_/same_as :: [Zirconium.public](/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]] 
 
-### #is_/same_as :: [Zirconium.internal](/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]] 
 
-### #is_/same_as :: [Zirconium.protect](/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.protect|Zirconium.protect]] 
 
-### #is_/same_as :: [Zirconium.private](/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]] 
 
-### #is_/same_as :: [Zirconium.personal](/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]] 
 
-### #is_/same_as :: [Zirconium.secret](/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]] 
 

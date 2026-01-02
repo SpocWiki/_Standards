@@ -59,17 +59,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gamma-Ray_Burst](/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst|Gamma-Ray_Burst]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.public](/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.public|Gamma-Ray_Burst.public]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.internal](/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.internal|Gamma-Ray_Burst.internal]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.protect](/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.protect|Gamma-Ray_Burst.protect]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.private](/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.private|Gamma-Ray_Burst.private]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.personal](/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.personal|Gamma-Ray_Burst.personal]] 
 
-### #is_/same_as :: [Gamma-Ray_Burst.secret](/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Gamma-Ray_Burst.secret|Gamma-Ray_Burst.secret]] 
 

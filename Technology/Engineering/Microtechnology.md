@@ -30,17 +30,17 @@ Commons_category: Microtechnology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microtechnology](/_Standards/Technology/Engineering/Microtechnology.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Microtechnology|Microtechnology]] 
 
-### #is_/same_as :: [Microtechnology.public](/_public/Technology/Engineering/Microtechnology.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Microtechnology.public|Microtechnology.public]] 
 
-### #is_/same_as :: [Microtechnology.internal](/_internal/Technology/Engineering/Microtechnology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Microtechnology.internal|Microtechnology.internal]] 
 
-### #is_/same_as :: [Microtechnology.protect](/_protect/Technology/Engineering/Microtechnology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Microtechnology.protect|Microtechnology.protect]] 
 
-### #is_/same_as :: [Microtechnology.private](/_private/Technology/Engineering/Microtechnology.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Microtechnology.private|Microtechnology.private]] 
 
-### #is_/same_as :: [Microtechnology.personal](/_personal/Technology/Engineering/Microtechnology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Microtechnology.personal|Microtechnology.personal]] 
 
-### #is_/same_as :: [Microtechnology.secret](/_secret/Technology/Engineering/Microtechnology.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Microtechnology.secret|Microtechnology.secret]] 
 

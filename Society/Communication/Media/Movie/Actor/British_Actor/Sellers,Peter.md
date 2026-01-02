@@ -103,17 +103,17 @@ Plex_person_key: 5d7768284de0ee001fcc8dd1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sellers,Peter](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter|Sellers,Peter]] 
 
-### #is_/same_as :: [Sellers,Peter.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.public|Sellers,Peter.public]] 
 
-### #is_/same_as :: [Sellers,Peter.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.internal|Sellers,Peter.internal]] 
 
-### #is_/same_as :: [Sellers,Peter.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.protect|Sellers,Peter.protect]] 
 
-### #is_/same_as :: [Sellers,Peter.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.private|Sellers,Peter.private]] 
 
-### #is_/same_as :: [Sellers,Peter.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.personal|Sellers,Peter.personal]] 
 
-### #is_/same_as :: [Sellers,Peter.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Sellers,Peter.secret|Sellers,Peter.secret]] 
 

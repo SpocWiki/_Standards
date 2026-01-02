@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_domain](/_Standards/schema-org/Predicate/has_domain.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate/has_domain|has_domain]] 
 
-### #is_/same_as :: [has_domain.public](/_public/schema-org/Predicate/has_domain.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Predicate/has_domain.public|has_domain.public]] 
 
-### #is_/same_as :: [has_domain.internal](/_internal/schema-org/Predicate/has_domain.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Predicate/has_domain.internal|has_domain.internal]] 
 
-### #is_/same_as :: [has_domain.protect](/_protect/schema-org/Predicate/has_domain.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Predicate/has_domain.protect|has_domain.protect]] 
 
-### #is_/same_as :: [has_domain.private](/_private/schema-org/Predicate/has_domain.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Predicate/has_domain.private|has_domain.private]] 
 
-### #is_/same_as :: [has_domain.personal](/_personal/schema-org/Predicate/has_domain.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Predicate/has_domain.personal|has_domain.personal]] 
 
-### #is_/same_as :: [has_domain.secret](/_secret/schema-org/Predicate/has_domain.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Predicate/has_domain.secret|has_domain.secret]] 
 

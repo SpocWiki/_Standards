@@ -40,17 +40,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Extragalactic%20Distan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder](/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Universe/Cosmic_Distance_Ladder|Cosmic_Distance_Ladder]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.public](/_public/Astronomy/Universe/Cosmic_Distance_Ladder.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Universe/Cosmic_Distance_Ladder.public|Cosmic_Distance_Ladder.public]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.internal](/_internal/Astronomy/Universe/Cosmic_Distance_Ladder.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Universe/Cosmic_Distance_Ladder.internal|Cosmic_Distance_Ladder.internal]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.protect](/_protect/Astronomy/Universe/Cosmic_Distance_Ladder.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Universe/Cosmic_Distance_Ladder.protect|Cosmic_Distance_Ladder.protect]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.private](/_private/Astronomy/Universe/Cosmic_Distance_Ladder.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Universe/Cosmic_Distance_Ladder.private|Cosmic_Distance_Ladder.private]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.personal](/_personal/Astronomy/Universe/Cosmic_Distance_Ladder.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Universe/Cosmic_Distance_Ladder.personal|Cosmic_Distance_Ladder.personal]] 
 
-### #is_/same_as :: [Cosmic_Distance_Ladder.secret](/_secret/Astronomy/Universe/Cosmic_Distance_Ladder.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Universe/Cosmic_Distance_Ladder.secret|Cosmic_Distance_Ladder.secret]] 
 

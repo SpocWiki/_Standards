@@ -144,17 +144,17 @@ Europeana_entity: agent/base/145434
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Butler,Judith](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith|Butler,Judith]] 
 
-### #is_/same_as :: [Butler,Judith.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.public|Butler,Judith.public]] 
 
-### #is_/same_as :: [Butler,Judith.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.internal|Butler,Judith.internal]] 
 
-### #is_/same_as :: [Butler,Judith.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.protect|Butler,Judith.protect]] 
 
-### #is_/same_as :: [Butler,Judith.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.private|Butler,Judith.private]] 
 
-### #is_/same_as :: [Butler,Judith.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.personal|Butler,Judith.personal]] 
 
-### #is_/same_as :: [Butler,Judith.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Butler,Judith.secret|Butler,Judith.secret]] 
 

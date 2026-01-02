@@ -123,17 +123,17 @@ work_period_start_: 1905-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blixen,Karen](/_Standards/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen|Blixen,Karen]] 
 
-### #is_/same_as :: [Blixen,Karen.public](/_public/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.public|Blixen,Karen.public]] 
 
-### #is_/same_as :: [Blixen,Karen.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.internal|Blixen,Karen.internal]] 
 
-### #is_/same_as :: [Blixen,Karen.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.protect|Blixen,Karen.protect]] 
 
-### #is_/same_as :: [Blixen,Karen.private](/_private/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.private|Blixen,Karen.private]] 
 
-### #is_/same_as :: [Blixen,Karen.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.personal|Blixen,Karen.personal]] 
 
-### #is_/same_as :: [Blixen,Karen.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Blixen,Karen.secret|Blixen,Karen.secret]] 
 

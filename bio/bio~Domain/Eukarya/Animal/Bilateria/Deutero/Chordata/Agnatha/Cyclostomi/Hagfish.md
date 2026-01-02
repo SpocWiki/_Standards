@@ -61,17 +61,17 @@ taxon_common_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hagfish](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish|Hagfish]] 
 
-### #is_/same_as :: [Hagfish.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.public|Hagfish.public]] 
 
-### #is_/same_as :: [Hagfish.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.internal|Hagfish.internal]] 
 
-### #is_/same_as :: [Hagfish.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.protect|Hagfish.protect]] 
 
-### #is_/same_as :: [Hagfish.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.private|Hagfish.private]] 
 
-### #is_/same_as :: [Hagfish.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.personal|Hagfish.personal]] 
 
-### #is_/same_as :: [Hagfish.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi/Hagfish.secret|Hagfish.secret]] 
 

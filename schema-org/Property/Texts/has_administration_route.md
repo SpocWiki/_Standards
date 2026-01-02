@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_administration_route](/_Standards/schema-org/Property/Texts/has_administration_route.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_administration_route|has_administration_route]] 
 
-### #is_/same_as :: [has_administration_route.public](/_public/schema-org/Property/Texts/has_administration_route.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_administration_route.public|has_administration_route.public]] 
 
-### #is_/same_as :: [has_administration_route.internal](/_internal/schema-org/Property/Texts/has_administration_route.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_administration_route.internal|has_administration_route.internal]] 
 
-### #is_/same_as :: [has_administration_route.protect](/_protect/schema-org/Property/Texts/has_administration_route.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_administration_route.protect|has_administration_route.protect]] 
 
-### #is_/same_as :: [has_administration_route.private](/_private/schema-org/Property/Texts/has_administration_route.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_administration_route.private|has_administration_route.private]] 
 
-### #is_/same_as :: [has_administration_route.personal](/_personal/schema-org/Property/Texts/has_administration_route.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_administration_route.personal|has_administration_route.personal]] 
 
-### #is_/same_as :: [has_administration_route.secret](/_secret/schema-org/Property/Texts/has_administration_route.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_administration_route.secret|has_administration_route.secret]] 
 

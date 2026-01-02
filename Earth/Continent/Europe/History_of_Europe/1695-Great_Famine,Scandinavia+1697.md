@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697](/_Standards/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697|1695-Great_Famine,Scandinavia+1697]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.public](/_public/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.public|1695-Great_Famine,Scandinavia+1697.public]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.internal|1695-Great_Famine,Scandinavia+1697.internal]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.protect|1695-Great_Famine,Scandinavia+1697.protect]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.private](/_private/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.private|1695-Great_Famine,Scandinavia+1697.private]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.personal|1695-Great_Famine,Scandinavia+1697.personal]] 
 
-### #is_/same_as :: [1695-Great_Famine,Scandinavia+1697.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1695-Great_Famine,Scandinavia+1697.secret|1695-Great_Famine,Scandinavia+1697.secret]] 
 

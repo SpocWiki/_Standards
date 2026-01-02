@@ -60,17 +60,17 @@ Commons_category: Garbs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sheaf(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture)|Sheaf(Agriculture)]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).public](/_public/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).public|Sheaf(Agriculture).public]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).internal|Sheaf(Agriculture).internal]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).protect|Sheaf(Agriculture).protect]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).private](/_private/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).private|Sheaf(Agriculture).private]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).personal|Sheaf(Agriculture).personal]] 
 
-### #is_/same_as :: [Sheaf(Agriculture).secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Sheaf(Agriculture).secret|Sheaf(Agriculture).secret]] 
 

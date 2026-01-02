@@ -41,17 +41,17 @@ Commons_category: Equivalence relations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Equivalence_Relation](/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation|Equivalence_Relation]] 
 
-### #is_/same_as :: [Equivalence_Relation.public](/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.public|Equivalence_Relation.public]] 
 
-### #is_/same_as :: [Equivalence_Relation.internal](/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.internal|Equivalence_Relation.internal]] 
 
-### #is_/same_as :: [Equivalence_Relation.protect](/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.protect|Equivalence_Relation.protect]] 
 
-### #is_/same_as :: [Equivalence_Relation.private](/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.private|Equivalence_Relation.private]] 
 
-### #is_/same_as :: [Equivalence_Relation.personal](/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.personal|Equivalence_Relation.personal]] 
 
-### #is_/same_as :: [Equivalence_Relation.secret](/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/Binary_Relation/Homogeneous_Relation/Equivalence_Relation.secret|Equivalence_Relation.secret]] 
 

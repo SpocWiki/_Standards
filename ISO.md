@@ -18,17 +18,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ISO](/_Standards/ISO.md) 
+### #is_/same_as :: [[/_Standards/ISO|ISO]] 
 
-### #is_/same_as :: [ISO.public](/_public/ISO.public.md) 
+### #is_/same_as :: [[/_public/ISO.public|ISO.public]] 
 
-### #is_/same_as :: [ISO.internal](/_internal/ISO.internal.md) 
+### #is_/same_as :: [[/_internal/ISO.internal|ISO.internal]] 
 
-### #is_/same_as :: [ISO.protect](/_protect/ISO.protect.md) 
+### #is_/same_as :: [[/_protect/ISO.protect|ISO.protect]] 
 
-### #is_/same_as :: [ISO.private](/_private/ISO.private.md) 
+### #is_/same_as :: [[/_private/ISO.private|ISO.private]] 
 
-### #is_/same_as :: [ISO.personal](/_personal/ISO.personal.md) 
+### #is_/same_as :: [[/_personal/ISO.personal|ISO.personal]] 
 
-### #is_/same_as :: [ISO.secret](/_secret/ISO.secret.md)
+### #is_/same_as :: [[/_secret/ISO.secret|ISO.secret]] 
 

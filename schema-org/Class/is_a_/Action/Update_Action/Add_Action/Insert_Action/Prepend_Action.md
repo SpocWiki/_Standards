@@ -41,17 +41,17 @@ The act of inserting at the beginning if an ordered collection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prepend_Action](/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action|Prepend_Action]] 
 
-### #is_/same_as :: [Prepend_Action.public](/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.public|Prepend_Action.public]] 
 
-### #is_/same_as :: [Prepend_Action.internal](/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.internal|Prepend_Action.internal]] 
 
-### #is_/same_as :: [Prepend_Action.protect](/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.protect|Prepend_Action.protect]] 
 
-### #is_/same_as :: [Prepend_Action.private](/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.private|Prepend_Action.private]] 
 
-### #is_/same_as :: [Prepend_Action.personal](/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.personal|Prepend_Action.personal]] 
 
-### #is_/same_as :: [Prepend_Action.secret](/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Update_Action/Add_Action/Insert_Action/Prepend_Action.secret|Prepend_Action.secret]] 
 

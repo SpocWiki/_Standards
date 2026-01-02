@@ -96,17 +96,17 @@ Examples are:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [schema-org](/_Standards/schema-org.md) 
+### #is_/same_as :: [[/_Standards/schema-org|schema-org]] 
 
-### #is_/same_as :: [schema-org.public](/_public/schema-org.public.md) 
+### #is_/same_as :: [[/_public/schema-org.public|schema-org.public]] 
 
-### #is_/same_as :: [schema-org.internal](/_internal/schema-org.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org.internal|schema-org.internal]] 
 
-### #is_/same_as :: [schema-org.protect](/_protect/schema-org.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org.protect|schema-org.protect]] 
 
-### #is_/same_as :: [schema-org.private](/_private/schema-org.private.md) 
+### #is_/same_as :: [[/_private/schema-org.private|schema-org.private]] 
 
-### #is_/same_as :: [schema-org.personal](/_personal/schema-org.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org.personal|schema-org.personal]] 
 
-### #is_/same_as :: [schema-org.secret](/_secret/schema-org.secret.md)
+### #is_/same_as :: [[/_secret/schema-org.secret|schema-org.secret]] 
 

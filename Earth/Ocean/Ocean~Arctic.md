@@ -87,17 +87,17 @@ volume_as_quantity: 18750000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Arctic](/_Standards/Earth/Ocean/Ocean~Arctic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Arctic|Ocean~Arctic]] 
 
-### #is_/same_as :: [Ocean~Arctic.public](/_public/Earth/Ocean/Ocean~Arctic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Arctic.public|Ocean~Arctic.public]] 
 
-### #is_/same_as :: [Ocean~Arctic.internal](/_internal/Earth/Ocean/Ocean~Arctic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Arctic.internal|Ocean~Arctic.internal]] 
 
-### #is_/same_as :: [Ocean~Arctic.protect](/_protect/Earth/Ocean/Ocean~Arctic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Arctic.protect|Ocean~Arctic.protect]] 
 
-### #is_/same_as :: [Ocean~Arctic.private](/_private/Earth/Ocean/Ocean~Arctic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Arctic.private|Ocean~Arctic.private]] 
 
-### #is_/same_as :: [Ocean~Arctic.personal](/_personal/Earth/Ocean/Ocean~Arctic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Arctic.personal|Ocean~Arctic.personal]] 
 
-### #is_/same_as :: [Ocean~Arctic.secret](/_secret/Earth/Ocean/Ocean~Arctic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Arctic.secret|Ocean~Arctic.secret]] 
 

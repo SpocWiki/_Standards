@@ -87,17 +87,17 @@ Colon_Classification: O111,3K67,36
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gulliver's_Travels](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels|Gulliver's_Travels]] 
 
-### #is_/same_as :: [Gulliver's_Travels.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.public|Gulliver's_Travels.public]] 
 
-### #is_/same_as :: [Gulliver's_Travels.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.internal|Gulliver's_Travels.internal]] 
 
-### #is_/same_as :: [Gulliver's_Travels.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.protect|Gulliver's_Travels.protect]] 
 
-### #is_/same_as :: [Gulliver's_Travels.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.private|Gulliver's_Travels.private]] 
 
-### #is_/same_as :: [Gulliver's_Travels.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.personal|Gulliver's_Travels.personal]] 
 
-### #is_/same_as :: [Gulliver's_Travels.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Swift,Jonathan/Gulliver's_Travels.secret|Gulliver's_Travels.secret]] 
 

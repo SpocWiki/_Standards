@@ -45,17 +45,17 @@ Library_of_Congress_Classification: BL1213.56
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahman](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman|Brahman]] 
 
-### #is_/same_as :: [Brahman.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.public|Brahman.public]] 
 
-### #is_/same_as :: [Brahman.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.internal|Brahman.internal]] 
 
-### #is_/same_as :: [Brahman.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.protect|Brahman.protect]] 
 
-### #is_/same_as :: [Brahman.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.private|Brahman.private]] 
 
-### #is_/same_as :: [Brahman.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.personal|Brahman.personal]] 
 
-### #is_/same_as :: [Brahman.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Brahman.secret|Brahman.secret]] 
 

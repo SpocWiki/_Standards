@@ -107,17 +107,17 @@ name: ꠇꠝ꠆ꠙꠥꠐꠣꠞ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer](/_Standards/Technology/IT/Computer_Hardware/Computer.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer|Computer]] 
 
-### #is_/same_as :: [Computer.public](/_public/Technology/IT/Computer_Hardware/Computer.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer.public|Computer.public]] 
 
-### #is_/same_as :: [Computer.internal](/_internal/Technology/IT/Computer_Hardware/Computer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer.internal|Computer.internal]] 
 
-### #is_/same_as :: [Computer.protect](/_protect/Technology/IT/Computer_Hardware/Computer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer.protect|Computer.protect]] 
 
-### #is_/same_as :: [Computer.private](/_private/Technology/IT/Computer_Hardware/Computer.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer.private|Computer.private]] 
 
-### #is_/same_as :: [Computer.personal](/_personal/Technology/IT/Computer_Hardware/Computer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer.personal|Computer.personal]] 
 
-### #is_/same_as :: [Computer.secret](/_secret/Technology/IT/Computer_Hardware/Computer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer.secret|Computer.secret]] 
 

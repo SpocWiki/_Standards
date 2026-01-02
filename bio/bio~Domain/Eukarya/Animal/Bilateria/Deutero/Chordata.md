@@ -393,17 +393,17 @@ Copyright ::            © 1995 Chris Brochu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chordata](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata|Chordata]] 
 
-### #is_/same_as :: [Chordata.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.public|Chordata.public]] 
 
-### #is_/same_as :: [Chordata.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.internal|Chordata.internal]] 
 
-### #is_/same_as :: [Chordata.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.protect|Chordata.protect]] 
 
-### #is_/same_as :: [Chordata.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.private|Chordata.private]] 
 
-### #is_/same_as :: [Chordata.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.personal|Chordata.personal]] 
 
-### #is_/same_as :: [Chordata.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata.secret|Chordata.secret]] 
 

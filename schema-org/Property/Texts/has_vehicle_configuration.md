@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_vehicle_configuration](/_Standards/schema-org/Property/Texts/has_vehicle_configuration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_vehicle_configuration|has_vehicle_configuration]] 
 
-### #is_/same_as :: [has_vehicle_configuration.public](/_public/schema-org/Property/Texts/has_vehicle_configuration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_vehicle_configuration.public|has_vehicle_configuration.public]] 
 
-### #is_/same_as :: [has_vehicle_configuration.internal](/_internal/schema-org/Property/Texts/has_vehicle_configuration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_vehicle_configuration.internal|has_vehicle_configuration.internal]] 
 
-### #is_/same_as :: [has_vehicle_configuration.protect](/_protect/schema-org/Property/Texts/has_vehicle_configuration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_vehicle_configuration.protect|has_vehicle_configuration.protect]] 
 
-### #is_/same_as :: [has_vehicle_configuration.private](/_private/schema-org/Property/Texts/has_vehicle_configuration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_vehicle_configuration.private|has_vehicle_configuration.private]] 
 
-### #is_/same_as :: [has_vehicle_configuration.personal](/_personal/schema-org/Property/Texts/has_vehicle_configuration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_vehicle_configuration.personal|has_vehicle_configuration.personal]] 
 
-### #is_/same_as :: [has_vehicle_configuration.secret](/_secret/schema-org/Property/Texts/has_vehicle_configuration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_vehicle_configuration.secret|has_vehicle_configuration.secret]] 
 

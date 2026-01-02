@@ -62,17 +62,17 @@ Stack_Exchange_tag: https://stackoverflow.com/tags/wifi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wi-Fi](/_Standards/Technology/IT/Computer_Network/Wi-Fi.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Wi-Fi|Wi-Fi]] 
 
-### #is_/same_as :: [Wi-Fi.public](/_public/Technology/IT/Computer_Network/Wi-Fi.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Wi-Fi.public|Wi-Fi.public]] 
 
-### #is_/same_as :: [Wi-Fi.internal](/_internal/Technology/IT/Computer_Network/Wi-Fi.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Wi-Fi.internal|Wi-Fi.internal]] 
 
-### #is_/same_as :: [Wi-Fi.protect](/_protect/Technology/IT/Computer_Network/Wi-Fi.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Wi-Fi.protect|Wi-Fi.protect]] 
 
-### #is_/same_as :: [Wi-Fi.private](/_private/Technology/IT/Computer_Network/Wi-Fi.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Wi-Fi.private|Wi-Fi.private]] 
 
-### #is_/same_as :: [Wi-Fi.personal](/_personal/Technology/IT/Computer_Network/Wi-Fi.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Wi-Fi.personal|Wi-Fi.personal]] 
 
-### #is_/same_as :: [Wi-Fi.secret](/_secret/Technology/IT/Computer_Network/Wi-Fi.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Wi-Fi.secret|Wi-Fi.secret]] 
 

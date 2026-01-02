@@ -76,17 +76,17 @@ Commons_category: Prime numbers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prime_Number](/_Standards/Mathematics/Number_Theory/Prime_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number_Theory/Prime_Number|Prime_Number]] 
 
-### #is_/same_as :: [Prime_Number.public](/_public/Mathematics/Number_Theory/Prime_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number_Theory/Prime_Number.public|Prime_Number.public]] 
 
-### #is_/same_as :: [Prime_Number.internal](/_internal/Mathematics/Number_Theory/Prime_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number_Theory/Prime_Number.internal|Prime_Number.internal]] 
 
-### #is_/same_as :: [Prime_Number.protect](/_protect/Mathematics/Number_Theory/Prime_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number_Theory/Prime_Number.protect|Prime_Number.protect]] 
 
-### #is_/same_as :: [Prime_Number.private](/_private/Mathematics/Number_Theory/Prime_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number_Theory/Prime_Number.private|Prime_Number.private]] 
 
-### #is_/same_as :: [Prime_Number.personal](/_personal/Mathematics/Number_Theory/Prime_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number_Theory/Prime_Number.personal|Prime_Number.personal]] 
 
-### #is_/same_as :: [Prime_Number.secret](/_secret/Mathematics/Number_Theory/Prime_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number_Theory/Prime_Number.secret|Prime_Number.secret]] 
 

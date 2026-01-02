@@ -85,17 +85,17 @@ Commons_gallery: Sierra Nevada, USA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sierra_Nevada](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada|Sierra_Nevada]] 
 
-### #is_/same_as :: [Sierra_Nevada.public](/_public/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.public|Sierra_Nevada.public]] 
 
-### #is_/same_as :: [Sierra_Nevada.internal](/_internal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.internal|Sierra_Nevada.internal]] 
 
-### #is_/same_as :: [Sierra_Nevada.protect](/_protect/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.protect|Sierra_Nevada.protect]] 
 
-### #is_/same_as :: [Sierra_Nevada.private](/_private/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.private|Sierra_Nevada.private]] 
 
-### #is_/same_as :: [Sierra_Nevada.personal](/_personal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.personal|Sierra_Nevada.personal]] 
 
-### #is_/same_as :: [Sierra_Nevada.secret](/_secret/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Range_mtn-North_America/Sierra_Nevada.secret|Sierra_Nevada.secret]] 
 

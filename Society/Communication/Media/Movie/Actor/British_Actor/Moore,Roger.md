@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moore,Roger](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger|Moore,Roger]] 
 
-### #is_/same_as :: [Moore,Roger.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.public|Moore,Roger.public]] 
 
-### #is_/same_as :: [Moore,Roger.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.internal|Moore,Roger.internal]] 
 
-### #is_/same_as :: [Moore,Roger.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.protect|Moore,Roger.protect]] 
 
-### #is_/same_as :: [Moore,Roger.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.private|Moore,Roger.private]] 
 
-### #is_/same_as :: [Moore,Roger.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.personal|Moore,Roger.personal]] 
 
-### #is_/same_as :: [Moore,Roger.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Moore,Roger.secret|Moore,Roger.secret]] 
 

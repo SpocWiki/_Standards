@@ -70,17 +70,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Lime%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lime(Fruit)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit)|Lime(Fruit)]] 
 
-### #is_/same_as :: [Lime(Fruit).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).public|Lime(Fruit).public]] 
 
-### #is_/same_as :: [Lime(Fruit).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).internal|Lime(Fruit).internal]] 
 
-### #is_/same_as :: [Lime(Fruit).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).protect|Lime(Fruit).protect]] 
 
-### #is_/same_as :: [Lime(Fruit).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).private|Lime(Fruit).private]] 
 
-### #is_/same_as :: [Lime(Fruit).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).personal|Lime(Fruit).personal]] 
 
-### #is_/same_as :: [Lime(Fruit).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Lime(Fruit).secret|Lime(Fruit).secret]] 
 

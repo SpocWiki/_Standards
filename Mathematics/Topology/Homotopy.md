@@ -36,17 +36,17 @@ Commons_category: Homotopy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homotopy](/_Standards/Mathematics/Topology/Homotopy.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Homotopy|Homotopy]] 
 
-### #is_/same_as :: [Homotopy.public](/_public/Mathematics/Topology/Homotopy.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Homotopy.public|Homotopy.public]] 
 
-### #is_/same_as :: [Homotopy.internal](/_internal/Mathematics/Topology/Homotopy.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Homotopy.internal|Homotopy.internal]] 
 
-### #is_/same_as :: [Homotopy.protect](/_protect/Mathematics/Topology/Homotopy.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Homotopy.protect|Homotopy.protect]] 
 
-### #is_/same_as :: [Homotopy.private](/_private/Mathematics/Topology/Homotopy.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Homotopy.private|Homotopy.private]] 
 
-### #is_/same_as :: [Homotopy.personal](/_personal/Mathematics/Topology/Homotopy.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Homotopy.personal|Homotopy.personal]] 
 
-### #is_/same_as :: [Homotopy.secret](/_secret/Mathematics/Topology/Homotopy.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Homotopy.secret|Homotopy.secret]] 
 

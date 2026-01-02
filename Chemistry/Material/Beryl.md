@@ -64,17 +64,17 @@ Wolfram_Language_entity_code: Entity["Mineral", "Beryl"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beryl](/_Standards/Chemistry/Material/Beryl.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Beryl|Beryl]] 
 
-### #is_/same_as :: [Beryl.public](/_public/Chemistry/Material/Beryl.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Beryl.public|Beryl.public]] 
 
-### #is_/same_as :: [Beryl.internal](/_internal/Chemistry/Material/Beryl.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Beryl.internal|Beryl.internal]] 
 
-### #is_/same_as :: [Beryl.protect](/_protect/Chemistry/Material/Beryl.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Beryl.protect|Beryl.protect]] 
 
-### #is_/same_as :: [Beryl.private](/_private/Chemistry/Material/Beryl.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Beryl.private|Beryl.private]] 
 
-### #is_/same_as :: [Beryl.personal](/_personal/Chemistry/Material/Beryl.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Beryl.personal|Beryl.personal]] 
 
-### #is_/same_as :: [Beryl.secret](/_secret/Chemistry/Material/Beryl.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Beryl.secret|Beryl.secret]] 
 

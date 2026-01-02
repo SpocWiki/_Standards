@@ -40,17 +40,17 @@ topic_s_main_category: '[[_Standards/WikiData/WD~Q9734169,9734169]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solid](/_Standards/Science/Physics/State_of_Matter/Solid.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid|Solid]] 
 
-### #is_/same_as :: [Solid.public](/_public/Science/Physics/State_of_Matter/Solid.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid.public|Solid.public]] 
 
-### #is_/same_as :: [Solid.internal](/_internal/Science/Physics/State_of_Matter/Solid.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid.internal|Solid.internal]] 
 
-### #is_/same_as :: [Solid.protect](/_protect/Science/Physics/State_of_Matter/Solid.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid.protect|Solid.protect]] 
 
-### #is_/same_as :: [Solid.private](/_private/Science/Physics/State_of_Matter/Solid.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid.private|Solid.private]] 
 
-### #is_/same_as :: [Solid.personal](/_personal/Science/Physics/State_of_Matter/Solid.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid.personal|Solid.personal]] 
 
-### #is_/same_as :: [Solid.secret](/_secret/Science/Physics/State_of_Matter/Solid.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid.secret|Solid.secret]] 
 

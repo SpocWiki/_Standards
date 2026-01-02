@@ -72,17 +72,17 @@ Wikidata_property: email address
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Email](/_Standards/Technology/IT/Computer_Network/Internet/Email.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/Email|Email]] 
 
-### #is_/same_as :: [Email.public](/_public/Technology/IT/Computer_Network/Internet/Email.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/Email.public|Email.public]] 
 
-### #is_/same_as :: [Email.internal](/_internal/Technology/IT/Computer_Network/Internet/Email.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/Email.internal|Email.internal]] 
 
-### #is_/same_as :: [Email.protect](/_protect/Technology/IT/Computer_Network/Internet/Email.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/Email.protect|Email.protect]] 
 
-### #is_/same_as :: [Email.private](/_private/Technology/IT/Computer_Network/Internet/Email.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/Email.private|Email.private]] 
 
-### #is_/same_as :: [Email.personal](/_personal/Technology/IT/Computer_Network/Internet/Email.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/Email.personal|Email.personal]] 
 
-### #is_/same_as :: [Email.secret](/_secret/Technology/IT/Computer_Network/Internet/Email.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/Email.secret|Email.secret]] 
 

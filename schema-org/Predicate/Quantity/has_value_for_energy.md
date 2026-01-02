@@ -120,17 +120,17 @@ Properties that take Energy as values are of the form '{Number} {Energy unit of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_energy](/_Standards/schema-org/Predicate/Quantity/has_value_for_energy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate/Quantity/has_value_for_energy|has_value_for_energy]] 
 
-### #is_/same_as :: [has_value_for_energy.public](/_public/schema-org/Predicate/Quantity/has_value_for_energy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Predicate/Quantity/has_value_for_energy.public|has_value_for_energy.public]] 
 
-### #is_/same_as :: [has_value_for_energy.internal](/_internal/schema-org/Predicate/Quantity/has_value_for_energy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Predicate/Quantity/has_value_for_energy.internal|has_value_for_energy.internal]] 
 
-### #is_/same_as :: [has_value_for_energy.protect](/_protect/schema-org/Predicate/Quantity/has_value_for_energy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Predicate/Quantity/has_value_for_energy.protect|has_value_for_energy.protect]] 
 
-### #is_/same_as :: [has_value_for_energy.private](/_private/schema-org/Predicate/Quantity/has_value_for_energy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Predicate/Quantity/has_value_for_energy.private|has_value_for_energy.private]] 
 
-### #is_/same_as :: [has_value_for_energy.personal](/_personal/schema-org/Predicate/Quantity/has_value_for_energy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Predicate/Quantity/has_value_for_energy.personal|has_value_for_energy.personal]] 
 
-### #is_/same_as :: [has_value_for_energy.secret](/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret|has_value_for_energy.secret]] 
 

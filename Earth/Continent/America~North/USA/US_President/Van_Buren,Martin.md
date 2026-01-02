@@ -121,17 +121,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Van_Buren,Martin](/_Standards/Earth/Continent/America~North/US~President/Van_Buren,Martin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin|Van_Buren,Martin]] 
 
-### #is_/same_as :: [Van_Buren,Martin.public](/_public/Earth/Continent/America~North/US~President/Van_Buren,Martin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.public|Van_Buren,Martin.public]] 
 
-### #is_/same_as :: [Van_Buren,Martin.internal](/_internal/Earth/Continent/America~North/US~President/Van_Buren,Martin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.internal|Van_Buren,Martin.internal]] 
 
-### #is_/same_as :: [Van_Buren,Martin.protect](/_protect/Earth/Continent/America~North/US~President/Van_Buren,Martin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.protect|Van_Buren,Martin.protect]] 
 
-### #is_/same_as :: [Van_Buren,Martin.private](/_private/Earth/Continent/America~North/US~President/Van_Buren,Martin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.private|Van_Buren,Martin.private]] 
 
-### #is_/same_as :: [Van_Buren,Martin.personal](/_personal/Earth/Continent/America~North/US~President/Van_Buren,Martin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.personal|Van_Buren,Martin.personal]] 
 
-### #is_/same_as :: [Van_Buren,Martin.secret](/_secret/Earth/Continent/America~North/US~President/Van_Buren,Martin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Van_Buren,Martin.secret|Van_Buren,Martin.secret]] 
 

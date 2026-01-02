@@ -118,17 +118,17 @@ date_of_death: 2011-02-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moore,Gary](/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary|Moore,Gary]] 
 
-### #is_/same_as :: [Moore,Gary.public](/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.public|Moore,Gary.public]] 
 
-### #is_/same_as :: [Moore,Gary.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.internal|Moore,Gary.internal]] 
 
-### #is_/same_as :: [Moore,Gary.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.protect|Moore,Gary.protect]] 
 
-### #is_/same_as :: [Moore,Gary.private](/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.private|Moore,Gary.private]] 
 
-### #is_/same_as :: [Moore,Gary.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.personal|Moore,Gary.personal]] 
 
-### #is_/same_as :: [Moore,Gary.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Blues_Singer/Moore,Gary.secret|Moore,Gary.secret]] 
 

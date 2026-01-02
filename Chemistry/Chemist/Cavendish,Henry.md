@@ -87,17 +87,17 @@ ISNI: 0000000108149043
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cavendish,Henry](/_Standards/Chemistry/Chemist/Cavendish,Henry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Cavendish,Henry|Cavendish,Henry]] 
 
-### #is_/same_as :: [Cavendish,Henry.public](/_public/Chemistry/Chemist/Cavendish,Henry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Cavendish,Henry.public|Cavendish,Henry.public]] 
 
-### #is_/same_as :: [Cavendish,Henry.internal](/_internal/Chemistry/Chemist/Cavendish,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Cavendish,Henry.internal|Cavendish,Henry.internal]] 
 
-### #is_/same_as :: [Cavendish,Henry.protect](/_protect/Chemistry/Chemist/Cavendish,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Cavendish,Henry.protect|Cavendish,Henry.protect]] 
 
-### #is_/same_as :: [Cavendish,Henry.private](/_private/Chemistry/Chemist/Cavendish,Henry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Cavendish,Henry.private|Cavendish,Henry.private]] 
 
-### #is_/same_as :: [Cavendish,Henry.personal](/_personal/Chemistry/Chemist/Cavendish,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Cavendish,Henry.personal|Cavendish,Henry.personal]] 
 
-### #is_/same_as :: [Cavendish,Henry.secret](/_secret/Chemistry/Chemist/Cavendish,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Cavendish,Henry.secret|Cavendish,Henry.secret]] 
 

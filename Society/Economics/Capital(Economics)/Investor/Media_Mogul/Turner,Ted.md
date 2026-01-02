@@ -131,17 +131,17 @@ Plex_person_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turner,Ted](/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted|Turner,Ted]] 
 
-### #is_/same_as :: [Turner,Ted.public](/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.public|Turner,Ted.public]] 
 
-### #is_/same_as :: [Turner,Ted.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.internal|Turner,Ted.internal]] 
 
-### #is_/same_as :: [Turner,Ted.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.protect|Turner,Ted.protect]] 
 
-### #is_/same_as :: [Turner,Ted.private](/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.private|Turner,Ted.private]] 
 
-### #is_/same_as :: [Turner,Ted.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.personal|Turner,Ted.personal]] 
 
-### #is_/same_as :: [Turner,Ted.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Media_Mogul/Turner,Ted.secret|Turner,Ted.secret]] 
 

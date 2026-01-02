@@ -65,17 +65,17 @@ Google_Doodle: leap-year-2008
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leap_Year](/_Standards/Dimension/Dim~Time/Leap_Year.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Leap_Year|Leap_Year]] 
 
-### #is_/same_as :: [Leap_Year.public](/_public/Dimension/Dim~Time/Leap_Year.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Leap_Year.public|Leap_Year.public]] 
 
-### #is_/same_as :: [Leap_Year.internal](/_internal/Dimension/Dim~Time/Leap_Year.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Leap_Year.internal|Leap_Year.internal]] 
 
-### #is_/same_as :: [Leap_Year.protect](/_protect/Dimension/Dim~Time/Leap_Year.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Leap_Year.protect|Leap_Year.protect]] 
 
-### #is_/same_as :: [Leap_Year.private](/_private/Dimension/Dim~Time/Leap_Year.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Leap_Year.private|Leap_Year.private]] 
 
-### #is_/same_as :: [Leap_Year.personal](/_personal/Dimension/Dim~Time/Leap_Year.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Leap_Year.personal|Leap_Year.personal]] 
 
-### #is_/same_as :: [Leap_Year.secret](/_secret/Dimension/Dim~Time/Leap_Year.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Leap_Year.secret|Leap_Year.secret]] 
 

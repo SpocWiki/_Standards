@@ -100,17 +100,17 @@ width:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Three_Gorges_Dam](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam|Three_Gorges_Dam]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.public|Three_Gorges_Dam.public]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.internal|Three_Gorges_Dam.internal]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.protect|Three_Gorges_Dam.protect]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.private|Three_Gorges_Dam.private]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.personal|Three_Gorges_Dam.personal]] 
 
-### #is_/same_as :: [Three_Gorges_Dam.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Dam/Three_Gorges_Dam.secret|Three_Gorges_Dam.secret]] 
 

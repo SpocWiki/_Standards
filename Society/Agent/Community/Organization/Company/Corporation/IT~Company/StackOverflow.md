@@ -37,17 +37,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [StackOverflow](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow|StackOverflow]] 
 
-### #is_/same_as :: [StackOverflow.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.public|StackOverflow.public]] 
 
-### #is_/same_as :: [StackOverflow.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.internal|StackOverflow.internal]] 
 
-### #is_/same_as :: [StackOverflow.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.protect|StackOverflow.protect]] 
 
-### #is_/same_as :: [StackOverflow.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.private|StackOverflow.private]] 
 
-### #is_/same_as :: [StackOverflow.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.personal|StackOverflow.personal]] 
 
-### #is_/same_as :: [StackOverflow.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/StackOverflow.secret|StackOverflow.secret]] 
 

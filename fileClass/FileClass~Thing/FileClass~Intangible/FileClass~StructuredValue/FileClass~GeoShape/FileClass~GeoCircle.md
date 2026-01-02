@@ -60,17 +60,17 @@ GeoRadius:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GeoCircle](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle|FileClass~GeoCircle]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.public|FileClass~GeoCircle.public]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.internal|FileClass~GeoCircle.internal]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.protect|FileClass~GeoCircle.protect]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.private|FileClass~GeoCircle.private]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.personal|FileClass~GeoCircle.personal]] 
 
-### #is_/same_as :: [FileClass~GeoCircle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~GeoShape/FileClass~GeoCircle.secret|FileClass~GeoCircle.secret]] 
 

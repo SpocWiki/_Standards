@@ -83,17 +83,17 @@ Bluesky_handle: billboard.com
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Billboard(magazine)](/_Standards/Society/Communication/Media/Music/Billboard(magazine).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Billboard(magazine)|Billboard(magazine)]] 
 
-### #is_/same_as :: [Billboard(magazine).public](/_public/Society/Communication/Media/Music/Billboard(magazine).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Billboard(magazine).public|Billboard(magazine).public]] 
 
-### #is_/same_as :: [Billboard(magazine).internal](/_internal/Society/Communication/Media/Music/Billboard(magazine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Billboard(magazine).internal|Billboard(magazine).internal]] 
 
-### #is_/same_as :: [Billboard(magazine).protect](/_protect/Society/Communication/Media/Music/Billboard(magazine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Billboard(magazine).protect|Billboard(magazine).protect]] 
 
-### #is_/same_as :: [Billboard(magazine).private](/_private/Society/Communication/Media/Music/Billboard(magazine).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Billboard(magazine).private|Billboard(magazine).private]] 
 
-### #is_/same_as :: [Billboard(magazine).personal](/_personal/Society/Communication/Media/Music/Billboard(magazine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Billboard(magazine).personal|Billboard(magazine).personal]] 
 
-### #is_/same_as :: [Billboard(magazine).secret](/_secret/Society/Communication/Media/Music/Billboard(magazine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Billboard(magazine).secret|Billboard(magazine).secret]] 
 

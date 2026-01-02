@@ -83,17 +83,17 @@ watershed_area: 2117700
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niger_River](/_Standards/Earth/Continent/Africa/Africa~West/Niger_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Niger_River|Niger_River]] 
 
-### #is_/same_as :: [Niger_River.public](/_public/Earth/Continent/Africa/Africa~West/Niger_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Niger_River.public|Niger_River.public]] 
 
-### #is_/same_as :: [Niger_River.internal](/_internal/Earth/Continent/Africa/Africa~West/Niger_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Niger_River.internal|Niger_River.internal]] 
 
-### #is_/same_as :: [Niger_River.protect](/_protect/Earth/Continent/Africa/Africa~West/Niger_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Niger_River.protect|Niger_River.protect]] 
 
-### #is_/same_as :: [Niger_River.private](/_private/Earth/Continent/Africa/Africa~West/Niger_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Niger_River.private|Niger_River.private]] 
 
-### #is_/same_as :: [Niger_River.personal](/_personal/Earth/Continent/Africa/Africa~West/Niger_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Niger_River.personal|Niger_River.personal]] 
 
-### #is_/same_as :: [Niger_River.secret](/_secret/Earth/Continent/Africa/Africa~West/Niger_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Niger_River.secret|Niger_River.secret]] 
 

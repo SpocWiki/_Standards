@@ -93,17 +93,17 @@ Wikidata_property:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clothing](/_Standards/Technology/Tool/Clothing.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing|Clothing]] 
 
-### #is_/same_as :: [Clothing.public](/_public/Technology/Tool/Clothing.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing.public|Clothing.public]] 
 
-### #is_/same_as :: [Clothing.internal](/_internal/Technology/Tool/Clothing.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing.internal|Clothing.internal]] 
 
-### #is_/same_as :: [Clothing.protect](/_protect/Technology/Tool/Clothing.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing.protect|Clothing.protect]] 
 
-### #is_/same_as :: [Clothing.private](/_private/Technology/Tool/Clothing.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing.private|Clothing.private]] 
 
-### #is_/same_as :: [Clothing.personal](/_personal/Technology/Tool/Clothing.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing.personal|Clothing.personal]] 
 
-### #is_/same_as :: [Clothing.secret](/_secret/Technology/Tool/Clothing.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing.secret|Clothing.secret]] 
 

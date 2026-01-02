@@ -42,17 +42,17 @@ Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Deimos"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deimos(Moon)](/_Standards/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon)|Deimos(Moon)]] 
 
-### #is_/same_as :: [Deimos(Moon).public](/_public/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).public|Deimos(Moon).public]] 
 
-### #is_/same_as :: [Deimos(Moon).internal](/_internal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).internal|Deimos(Moon).internal]] 
 
-### #is_/same_as :: [Deimos(Moon).protect](/_protect/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).protect|Deimos(Moon).protect]] 
 
-### #is_/same_as :: [Deimos(Moon).private](/_private/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).private|Deimos(Moon).private]] 
 
-### #is_/same_as :: [Deimos(Moon).personal](/_personal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).personal|Deimos(Moon).personal]] 
 
-### #is_/same_as :: [Deimos(Moon).secret](/_secret/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Mars(Planet)/Deimos(Moon).secret|Deimos(Moon).secret]] 
 

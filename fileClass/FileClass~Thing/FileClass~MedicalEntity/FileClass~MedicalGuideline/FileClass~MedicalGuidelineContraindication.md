@@ -37,17 +37,17 @@ A guideline contraindication that designates a process as harmful and where qual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication|FileClass~MedicalGuidelineContraindication]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.public|FileClass~MedicalGuidelineContraindication.public]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.internal|FileClass~MedicalGuidelineContraindication.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.protect|FileClass~MedicalGuidelineContraindication.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.private|FileClass~MedicalGuidelineContraindication.private]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.personal|FileClass~MedicalGuidelineContraindication.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalGuidelineContraindication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalGuideline/FileClass~MedicalGuidelineContraindication.secret|FileClass~MedicalGuidelineContraindication.secret]] 
 

@@ -32,17 +32,17 @@ studied_by: "[[_Standards/WikiData/WD~psychology,9418]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mental_State](/_Standards/bio/Psychology/Mind/Mental_State.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Mental_State|Mental_State]] 
 
-### #is_/same_as :: [Mental_State.public](/_public/bio/Psychology/Mind/Mental_State.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Mental_State.public|Mental_State.public]] 
 
-### #is_/same_as :: [Mental_State.internal](/_internal/bio/Psychology/Mind/Mental_State.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Mental_State.internal|Mental_State.internal]] 
 
-### #is_/same_as :: [Mental_State.protect](/_protect/bio/Psychology/Mind/Mental_State.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Mental_State.protect|Mental_State.protect]] 
 
-### #is_/same_as :: [Mental_State.private](/_private/bio/Psychology/Mind/Mental_State.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Mental_State.private|Mental_State.private]] 
 
-### #is_/same_as :: [Mental_State.personal](/_personal/bio/Psychology/Mind/Mental_State.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Mental_State.personal|Mental_State.personal]] 
 
-### #is_/same_as :: [Mental_State.secret](/_secret/bio/Psychology/Mind/Mental_State.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Mental_State.secret|Mental_State.secret]] 
 

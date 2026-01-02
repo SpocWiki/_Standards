@@ -40,17 +40,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyramid_Scheme](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme|Pyramid_Scheme]] 
 
-### #is_/same_as :: [Pyramid_Scheme.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.public|Pyramid_Scheme.public]] 
 
-### #is_/same_as :: [Pyramid_Scheme.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.internal|Pyramid_Scheme.internal]] 
 
-### #is_/same_as :: [Pyramid_Scheme.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.protect|Pyramid_Scheme.protect]] 
 
-### #is_/same_as :: [Pyramid_Scheme.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.private|Pyramid_Scheme.private]] 
 
-### #is_/same_as :: [Pyramid_Scheme.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.personal|Pyramid_Scheme.personal]] 
 
-### #is_/same_as :: [Pyramid_Scheme.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/Pyramid_Scheme.secret|Pyramid_Scheme.secret]] 
 

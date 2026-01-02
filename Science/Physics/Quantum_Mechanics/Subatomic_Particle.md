@@ -58,17 +58,17 @@ Commons_category: Subatomic particles
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subatomic_Particle](/_Standards/Science/Physics/Quantum_Mechanics/Subatomic_Particle.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Subatomic_Particle|Subatomic_Particle]] 
 
-### #is_/same_as :: [Subatomic_Particle.public](/_public/Science/Physics/Quantum_Mechanics/Subatomic_Particle.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Subatomic_Particle.public|Subatomic_Particle.public]] 
 
-### #is_/same_as :: [Subatomic_Particle.internal](/_internal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.internal|Subatomic_Particle.internal]] 
 
-### #is_/same_as :: [Subatomic_Particle.protect](/_protect/Science/Physics/Quantum_Mechanics/Subatomic_Particle.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Subatomic_Particle.protect|Subatomic_Particle.protect]] 
 
-### #is_/same_as :: [Subatomic_Particle.private](/_private/Science/Physics/Quantum_Mechanics/Subatomic_Particle.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Subatomic_Particle.private|Subatomic_Particle.private]] 
 
-### #is_/same_as :: [Subatomic_Particle.personal](/_personal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Subatomic_Particle.personal|Subatomic_Particle.personal]] 
 
-### #is_/same_as :: [Subatomic_Particle.secret](/_secret/Science/Physics/Quantum_Mechanics/Subatomic_Particle.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Subatomic_Particle.secret|Subatomic_Particle.secret]] 
 

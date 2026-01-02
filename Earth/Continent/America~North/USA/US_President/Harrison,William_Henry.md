@@ -95,17 +95,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harrison,William_Henry](/_Standards/Earth/Continent/America~North/US~President/Harrison,William_Henry.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry|Harrison,William_Henry]] 
 
-### #is_/same_as :: [Harrison,William_Henry.public](/_public/Earth/Continent/America~North/US~President/Harrison,William_Henry.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.public|Harrison,William_Henry.public]] 
 
-### #is_/same_as :: [Harrison,William_Henry.internal](/_internal/Earth/Continent/America~North/US~President/Harrison,William_Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.internal|Harrison,William_Henry.internal]] 
 
-### #is_/same_as :: [Harrison,William_Henry.protect](/_protect/Earth/Continent/America~North/US~President/Harrison,William_Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.protect|Harrison,William_Henry.protect]] 
 
-### #is_/same_as :: [Harrison,William_Henry.private](/_private/Earth/Continent/America~North/US~President/Harrison,William_Henry.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.private|Harrison,William_Henry.private]] 
 
-### #is_/same_as :: [Harrison,William_Henry.personal](/_personal/Earth/Continent/America~North/US~President/Harrison,William_Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.personal|Harrison,William_Henry.personal]] 
 
-### #is_/same_as :: [Harrison,William_Henry.secret](/_secret/Earth/Continent/America~North/US~President/Harrison,William_Henry.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Harrison,William_Henry.secret|Harrison,William_Henry.secret]] 
 

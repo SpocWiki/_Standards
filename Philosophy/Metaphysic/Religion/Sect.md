@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sect](/_Standards/Philosophy/Metaphysic/Religion/Sect.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Sect|Sect]] 
 
-### #is_/same_as :: [Sect.public](/_public/Philosophy/Metaphysic/Religion/Sect.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Sect.public|Sect.public]] 
 
-### #is_/same_as :: [Sect.internal](/_internal/Philosophy/Metaphysic/Religion/Sect.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Sect.internal|Sect.internal]] 
 
-### #is_/same_as :: [Sect.protect](/_protect/Philosophy/Metaphysic/Religion/Sect.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Sect.protect|Sect.protect]] 
 
-### #is_/same_as :: [Sect.private](/_private/Philosophy/Metaphysic/Religion/Sect.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Sect.private|Sect.private]] 
 
-### #is_/same_as :: [Sect.personal](/_personal/Philosophy/Metaphysic/Religion/Sect.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Sect.personal|Sect.personal]] 
 
-### #is_/same_as :: [Sect.secret](/_secret/Philosophy/Metaphysic/Religion/Sect.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Sect.secret|Sect.secret]] 
 

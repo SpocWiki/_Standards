@@ -107,17 +107,17 @@ Wikidata_property: area
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Area](/_Standards/Dimension/Linear_Dimension/Area.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Area|Area]] 
 
-### #is_/same_as :: [Area.public](/_public/Dimension/Linear_Dimension/Area.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Area.public|Area.public]] 
 
-### #is_/same_as :: [Area.internal](/_internal/Dimension/Linear_Dimension/Area.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Area.internal|Area.internal]] 
 
-### #is_/same_as :: [Area.protect](/_protect/Dimension/Linear_Dimension/Area.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Area.protect|Area.protect]] 
 
-### #is_/same_as :: [Area.private](/_private/Dimension/Linear_Dimension/Area.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Area.private|Area.private]] 
 
-### #is_/same_as :: [Area.personal](/_personal/Dimension/Linear_Dimension/Area.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Area.personal|Area.personal]] 
 
-### #is_/same_as :: [Area.secret](/_secret/Dimension/Linear_Dimension/Area.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Area.secret|Area.secret]] 
 

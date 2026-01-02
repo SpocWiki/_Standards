@@ -87,17 +87,17 @@ Commons_category: United Nations Industrial Development Organization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization](/_Standards/UN(United_Nations)/United_Nations_Industrial_Development_Organization.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/United_Nations_Industrial_Development_Organization|United_Nations_Industrial_Development_Organization]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.public](/_public/UN(United_Nations)/United_Nations_Industrial_Development_Organization.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/United_Nations_Industrial_Development_Organization.public|United_Nations_Industrial_Development_Organization.public]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.internal](/_internal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.internal|United_Nations_Industrial_Development_Organization.internal]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.protect](/_protect/UN(United_Nations)/United_Nations_Industrial_Development_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/United_Nations_Industrial_Development_Organization.protect|United_Nations_Industrial_Development_Organization.protect]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.private](/_private/UN(United_Nations)/United_Nations_Industrial_Development_Organization.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/United_Nations_Industrial_Development_Organization.private|United_Nations_Industrial_Development_Organization.private]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.personal](/_personal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/United_Nations_Industrial_Development_Organization.personal|United_Nations_Industrial_Development_Organization.personal]] 
 
-### #is_/same_as :: [United_Nations_Industrial_Development_Organization.secret](/_secret/UN(United_Nations)/United_Nations_Industrial_Development_Organization.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/United_Nations_Industrial_Development_Organization.secret|United_Nations_Industrial_Development_Organization.secret]] 
 

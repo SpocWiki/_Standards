@@ -39,17 +39,17 @@ The members of the Traitorous Eight were:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fairchild_Semiconductor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor|Fairchild_Semiconductor]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.public|Fairchild_Semiconductor.public]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.internal|Fairchild_Semiconductor.internal]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.protect|Fairchild_Semiconductor.protect]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.private|Fairchild_Semiconductor.private]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.personal|Fairchild_Semiconductor.personal]] 
 
-### #is_/same_as :: [Fairchild_Semiconductor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Fairchild_Semiconductor.secret|Fairchild_Semiconductor.secret]] 
 

@@ -414,17 +414,17 @@ Capital :: [[Maldives/Counties/Malé/City/Malé]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maldives](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Maldives|Maldives]] 
 
-### #is_/same_as :: [Maldives.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Maldives.public|Maldives.public]] 
 
-### #is_/same_as :: [Maldives.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.internal|Maldives.internal]] 
 
-### #is_/same_as :: [Maldives.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Maldives.protect|Maldives.protect]] 
 
-### #is_/same_as :: [Maldives.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Maldives.private|Maldives.private]] 
 
-### #is_/same_as :: [Maldives.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Maldives.personal|Maldives.personal]] 
 
-### #is_/same_as :: [Maldives.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Maldives.secret|Maldives.secret]] 
 

@@ -37,17 +37,17 @@ A state or province of a country.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~State](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State|FileClass~State]] 
 
-### #is_/same_as :: [FileClass~State.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.public|FileClass~State.public]] 
 
-### #is_/same_as :: [FileClass~State.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.internal|FileClass~State.internal]] 
 
-### #is_/same_as :: [FileClass~State.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.protect|FileClass~State.protect]] 
 
-### #is_/same_as :: [FileClass~State.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.private|FileClass~State.private]] 
 
-### #is_/same_as :: [FileClass~State.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.personal|FileClass~State.personal]] 
 
-### #is_/same_as :: [FileClass~State.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~AdministrativeArea/FileClass~State.secret|FileClass~State.secret]] 
 

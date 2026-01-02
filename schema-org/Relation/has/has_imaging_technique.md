@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_imaging_technique](/_Standards/schema-org/Relation/has/has_imaging_technique.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_imaging_technique|has_imaging_technique]] 
 
-### #is_/same_as :: [has_imaging_technique.public](/_public/schema-org/Relation/has/has_imaging_technique.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_imaging_technique.public|has_imaging_technique.public]] 
 
-### #is_/same_as :: [has_imaging_technique.internal](/_internal/schema-org/Relation/has/has_imaging_technique.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_imaging_technique.internal|has_imaging_technique.internal]] 
 
-### #is_/same_as :: [has_imaging_technique.protect](/_protect/schema-org/Relation/has/has_imaging_technique.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_imaging_technique.protect|has_imaging_technique.protect]] 
 
-### #is_/same_as :: [has_imaging_technique.private](/_private/schema-org/Relation/has/has_imaging_technique.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_imaging_technique.private|has_imaging_technique.private]] 
 
-### #is_/same_as :: [has_imaging_technique.personal](/_personal/schema-org/Relation/has/has_imaging_technique.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_imaging_technique.personal|has_imaging_technique.personal]] 
 
-### #is_/same_as :: [has_imaging_technique.secret](/_secret/schema-org/Relation/has/has_imaging_technique.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_imaging_technique.secret|has_imaging_technique.secret]] 
 

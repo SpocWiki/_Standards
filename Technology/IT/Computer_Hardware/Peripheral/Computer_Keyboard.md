@@ -67,17 +67,17 @@ Debian_Wiki_article: fr/Keyboard
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Keyboard](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard|Computer_Keyboard]] 
 
-### #is_/same_as :: [Computer_Keyboard.public](/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.public|Computer_Keyboard.public]] 
 
-### #is_/same_as :: [Computer_Keyboard.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.internal|Computer_Keyboard.internal]] 
 
-### #is_/same_as :: [Computer_Keyboard.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.protect|Computer_Keyboard.protect]] 
 
-### #is_/same_as :: [Computer_Keyboard.private](/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.private|Computer_Keyboard.private]] 
 
-### #is_/same_as :: [Computer_Keyboard.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.personal|Computer_Keyboard.personal]] 
 
-### #is_/same_as :: [Computer_Keyboard.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Keyboard.secret|Computer_Keyboard.secret]] 
 

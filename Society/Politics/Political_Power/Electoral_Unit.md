@@ -56,17 +56,17 @@ OpenStreetMap_tag_or_key: Tag:boundary=political
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electoral_Unit](/_Standards/Society/Politics/Political_Power/Electoral_Unit.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Electoral_Unit|Electoral_Unit]] 
 
-### #is_/same_as :: [Electoral_Unit.public](/_public/Society/Politics/Political_Power/Electoral_Unit.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Electoral_Unit.public|Electoral_Unit.public]] 
 
-### #is_/same_as :: [Electoral_Unit.internal](/_internal/Society/Politics/Political_Power/Electoral_Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Electoral_Unit.internal|Electoral_Unit.internal]] 
 
-### #is_/same_as :: [Electoral_Unit.protect](/_protect/Society/Politics/Political_Power/Electoral_Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Electoral_Unit.protect|Electoral_Unit.protect]] 
 
-### #is_/same_as :: [Electoral_Unit.private](/_private/Society/Politics/Political_Power/Electoral_Unit.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Electoral_Unit.private|Electoral_Unit.private]] 
 
-### #is_/same_as :: [Electoral_Unit.personal](/_personal/Society/Politics/Political_Power/Electoral_Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Electoral_Unit.personal|Electoral_Unit.personal]] 
 
-### #is_/same_as :: [Electoral_Unit.secret](/_secret/Society/Politics/Political_Power/Electoral_Unit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Electoral_Unit.secret|Electoral_Unit.secret]] 
 

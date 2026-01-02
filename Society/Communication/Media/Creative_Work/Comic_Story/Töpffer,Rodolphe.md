@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Töpffer,Rodolphe](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe|Töpffer,Rodolphe]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.public|Töpffer,Rodolphe.public]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.internal|Töpffer,Rodolphe.internal]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.protect|Töpffer,Rodolphe.protect]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.private|Töpffer,Rodolphe.private]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.personal|Töpffer,Rodolphe.personal]] 
 
-### #is_/same_as :: [Töpffer,Rodolphe.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Töpffer,Rodolphe.secret|Töpffer,Rodolphe.secret]] 
 

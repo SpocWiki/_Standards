@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_credential](/_Standards/schema-org/Relation/has/has_credential.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_credential|has_credential]] 
 
-### #is_/same_as :: [has_credential.public](/_public/schema-org/Relation/has/has_credential.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_credential.public|has_credential.public]] 
 
-### #is_/same_as :: [has_credential.internal](/_internal/schema-org/Relation/has/has_credential.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_credential.internal|has_credential.internal]] 
 
-### #is_/same_as :: [has_credential.protect](/_protect/schema-org/Relation/has/has_credential.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_credential.protect|has_credential.protect]] 
 
-### #is_/same_as :: [has_credential.private](/_private/schema-org/Relation/has/has_credential.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_credential.private|has_credential.private]] 
 
-### #is_/same_as :: [has_credential.personal](/_personal/schema-org/Relation/has/has_credential.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_credential.personal|has_credential.personal]] 
 
-### #is_/same_as :: [has_credential.secret](/_secret/schema-org/Relation/has/has_credential.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_credential.secret|has_credential.secret]] 
 

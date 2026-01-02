@@ -52,17 +52,17 @@ subclass_of: '[[_Standards/WikiData/WD~fluid,102205]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liquid](/_Standards/Science/Physics/State_of_Matter/Liquid.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Liquid|Liquid]] 
 
-### #is_/same_as :: [Liquid.public](/_public/Science/Physics/State_of_Matter/Liquid.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Liquid.public|Liquid.public]] 
 
-### #is_/same_as :: [Liquid.internal](/_internal/Science/Physics/State_of_Matter/Liquid.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Liquid.internal|Liquid.internal]] 
 
-### #is_/same_as :: [Liquid.protect](/_protect/Science/Physics/State_of_Matter/Liquid.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Liquid.protect|Liquid.protect]] 
 
-### #is_/same_as :: [Liquid.private](/_private/Science/Physics/State_of_Matter/Liquid.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Liquid.private|Liquid.private]] 
 
-### #is_/same_as :: [Liquid.personal](/_personal/Science/Physics/State_of_Matter/Liquid.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Liquid.personal|Liquid.personal]] 
 
-### #is_/same_as :: [Liquid.secret](/_secret/Science/Physics/State_of_Matter/Liquid.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Liquid.secret|Liquid.secret]] 
 

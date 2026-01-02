@@ -155,17 +155,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SHUMAN_ROBERT_ALEKSAND
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schumann,Robert](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert|Schumann,Robert]] 
 
-### #is_/same_as :: [Schumann,Robert.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.public|Schumann,Robert.public]] 
 
-### #is_/same_as :: [Schumann,Robert.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.internal|Schumann,Robert.internal]] 
 
-### #is_/same_as :: [Schumann,Robert.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.protect|Schumann,Robert.protect]] 
 
-### #is_/same_as :: [Schumann,Robert.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.private|Schumann,Robert.private]] 
 
-### #is_/same_as :: [Schumann,Robert.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.personal|Schumann,Robert.personal]] 
 
-### #is_/same_as :: [Schumann,Robert.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schumann,Robert.secret|Schumann,Robert.secret]] 
 

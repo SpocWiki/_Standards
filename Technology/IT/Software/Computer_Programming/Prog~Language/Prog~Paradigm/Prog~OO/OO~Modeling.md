@@ -85,17 +85,17 @@ Example: `Penguins` are `Birds`, but they can not `Fly()`.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OO~Modeling](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling|OO~Modeling]] 
 
-### #is_/same_as :: [OO~Modeling.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.public|OO~Modeling.public]] 
 
-### #is_/same_as :: [OO~Modeling.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.internal|OO~Modeling.internal]] 
 
-### #is_/same_as :: [OO~Modeling.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.protect|OO~Modeling.protect]] 
 
-### #is_/same_as :: [OO~Modeling.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.private|OO~Modeling.private]] 
 
-### #is_/same_as :: [OO~Modeling.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.personal|OO~Modeling.personal]] 
 
-### #is_/same_as :: [OO~Modeling.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/OO~Modeling.secret|OO~Modeling.secret]] 
 

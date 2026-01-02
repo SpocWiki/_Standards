@@ -88,17 +88,17 @@ Group ::  [[../Lanthanide]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nobelium](/_Standards/Chemistry/Chemical_Element/Lanthanide/Nobelium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Nobelium|Nobelium]] 
 
-### #is_/same_as :: [Nobelium.public](/_public/Chemistry/Chemical_Element/Lanthanide/Nobelium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Nobelium.public|Nobelium.public]] 
 
-### #is_/same_as :: [Nobelium.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Nobelium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Nobelium.internal|Nobelium.internal]] 
 
-### #is_/same_as :: [Nobelium.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Nobelium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Nobelium.protect|Nobelium.protect]] 
 
-### #is_/same_as :: [Nobelium.private](/_private/Chemistry/Chemical_Element/Lanthanide/Nobelium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Nobelium.private|Nobelium.private]] 
 
-### #is_/same_as :: [Nobelium.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Nobelium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Nobelium.personal|Nobelium.personal]] 
 
-### #is_/same_as :: [Nobelium.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Nobelium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Nobelium.secret|Nobelium.secret]] 
 

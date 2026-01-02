@@ -74,17 +74,17 @@ described_at_URL: https://www.nytimes.com/2023/02/28/arts/music/pink-floyd-dark-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon|Dark_Side_of_the_Moon]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.public|Dark_Side_of_the_Moon.public]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.internal|Dark_Side_of_the_Moon.internal]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.protect|Dark_Side_of_the_Moon.protect]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.private|Dark_Side_of_the_Moon.private]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.personal|Dark_Side_of_the_Moon.personal]] 
 
-### #is_/same_as :: [Dark_Side_of_the_Moon.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Dark_Side_of_the_Moon.secret|Dark_Side_of_the_Moon.secret]] 
 

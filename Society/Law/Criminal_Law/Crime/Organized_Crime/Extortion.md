@@ -84,17 +84,17 @@ Commons_category: Extortion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Extortion](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion|Extortion]] 
 
-### #is_/same_as :: [Extortion.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.public|Extortion.public]] 
 
-### #is_/same_as :: [Extortion.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.internal|Extortion.internal]] 
 
-### #is_/same_as :: [Extortion.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.protect|Extortion.protect]] 
 
-### #is_/same_as :: [Extortion.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.private|Extortion.private]] 
 
-### #is_/same_as :: [Extortion.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.personal|Extortion.personal]] 
 
-### #is_/same_as :: [Extortion.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Extortion.secret|Extortion.secret]] 
 

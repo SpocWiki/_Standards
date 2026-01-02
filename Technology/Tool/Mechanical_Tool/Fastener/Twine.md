@@ -29,17 +29,17 @@ Commons_category: Twine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Twine](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Twine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Twine|Twine]] 
 
-### #is_/same_as :: [Twine.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Twine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Twine.public|Twine.public]] 
 
-### #is_/same_as :: [Twine.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Twine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Twine.internal|Twine.internal]] 
 
-### #is_/same_as :: [Twine.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Twine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Twine.protect|Twine.protect]] 
 
-### #is_/same_as :: [Twine.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Twine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Twine.private|Twine.private]] 
 
-### #is_/same_as :: [Twine.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Twine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Twine.personal|Twine.personal]] 
 
-### #is_/same_as :: [Twine.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Twine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Twine.secret|Twine.secret]] 
 

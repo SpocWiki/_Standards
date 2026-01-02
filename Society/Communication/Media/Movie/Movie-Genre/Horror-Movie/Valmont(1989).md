@@ -10,17 +10,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Valmont(1989)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989)|Valmont(1989)]] 
 
-### #is_/same_as :: [Valmont(1989).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).public|Valmont(1989).public]] 
 
-### #is_/same_as :: [Valmont(1989).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).internal|Valmont(1989).internal]] 
 
-### #is_/same_as :: [Valmont(1989).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).protect|Valmont(1989).protect]] 
 
-### #is_/same_as :: [Valmont(1989).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).private|Valmont(1989).private]] 
 
-### #is_/same_as :: [Valmont(1989).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).personal|Valmont(1989).personal]] 
 
-### #is_/same_as :: [Valmont(1989).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Valmont(1989).secret|Valmont(1989).secret]] 
 

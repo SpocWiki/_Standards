@@ -50,17 +50,17 @@ time_of_discovery_or_invention: 1994-11-09T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darmstadtium](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium|Darmstadtium]] 
 
-### #is_/same_as :: [Darmstadtium.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.public|Darmstadtium.public]] 
 
-### #is_/same_as :: [Darmstadtium.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.internal|Darmstadtium.internal]] 
 
-### #is_/same_as :: [Darmstadtium.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.protect|Darmstadtium.protect]] 
 
-### #is_/same_as :: [Darmstadtium.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.private|Darmstadtium.private]] 
 
-### #is_/same_as :: [Darmstadtium.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.personal|Darmstadtium.personal]] 
 
-### #is_/same_as :: [Darmstadtium.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Darmstadtium.secret|Darmstadtium.secret]] 
 

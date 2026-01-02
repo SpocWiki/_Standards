@@ -95,17 +95,17 @@ subreddit: playingcards
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Playing_Card](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card|Playing_Card]] 
 
-### #is_/same_as :: [Playing_Card.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.public|Playing_Card.public]] 
 
-### #is_/same_as :: [Playing_Card.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.internal|Playing_Card.internal]] 
 
-### #is_/same_as :: [Playing_Card.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.protect|Playing_Card.protect]] 
 
-### #is_/same_as :: [Playing_Card.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.private|Playing_Card.private]] 
 
-### #is_/same_as :: [Playing_Card.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.personal|Playing_Card.personal]] 
 
-### #is_/same_as :: [Playing_Card.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game/Playing_Card.secret|Playing_Card.secret]] 
 

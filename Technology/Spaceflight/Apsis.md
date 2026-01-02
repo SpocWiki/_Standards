@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apsis](/_Standards/Technology/Spaceflight/Apsis.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Apsis|Apsis]] 
 
-### #is_/same_as :: [Apsis.public](/_public/Technology/Spaceflight/Apsis.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Apsis.public|Apsis.public]] 
 
-### #is_/same_as :: [Apsis.internal](/_internal/Technology/Spaceflight/Apsis.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Apsis.internal|Apsis.internal]] 
 
-### #is_/same_as :: [Apsis.protect](/_protect/Technology/Spaceflight/Apsis.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Apsis.protect|Apsis.protect]] 
 
-### #is_/same_as :: [Apsis.private](/_private/Technology/Spaceflight/Apsis.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Apsis.private|Apsis.private]] 
 
-### #is_/same_as :: [Apsis.personal](/_personal/Technology/Spaceflight/Apsis.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Apsis.personal|Apsis.personal]] 
 
-### #is_/same_as :: [Apsis.secret](/_secret/Technology/Spaceflight/Apsis.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Apsis.secret|Apsis.secret]] 
 

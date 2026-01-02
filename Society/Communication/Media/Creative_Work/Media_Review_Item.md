@@ -43,17 +43,17 @@ Represents an item or group of closely related items treated as a unit for the s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Media_Review_Item](/_Standards/Society/Communication/Media/Creative_Work/Media_Review_Item.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Media_Review_Item|Media_Review_Item]] 
 
-### #is_/same_as :: [Media_Review_Item.public](/_public/Society/Communication/Media/Creative_Work/Media_Review_Item.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Media_Review_Item.public|Media_Review_Item.public]] 
 
-### #is_/same_as :: [Media_Review_Item.internal](/_internal/Society/Communication/Media/Creative_Work/Media_Review_Item.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Media_Review_Item.internal|Media_Review_Item.internal]] 
 
-### #is_/same_as :: [Media_Review_Item.protect](/_protect/Society/Communication/Media/Creative_Work/Media_Review_Item.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Media_Review_Item.protect|Media_Review_Item.protect]] 
 
-### #is_/same_as :: [Media_Review_Item.private](/_private/Society/Communication/Media/Creative_Work/Media_Review_Item.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Media_Review_Item.private|Media_Review_Item.private]] 
 
-### #is_/same_as :: [Media_Review_Item.personal](/_personal/Society/Communication/Media/Creative_Work/Media_Review_Item.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Media_Review_Item.personal|Media_Review_Item.personal]] 
 
-### #is_/same_as :: [Media_Review_Item.secret](/_secret/Society/Communication/Media/Creative_Work/Media_Review_Item.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Media_Review_Item.secret|Media_Review_Item.secret]] 
 

@@ -59,17 +59,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Korea%202003-05-01%20N
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Korean_Peninsula](/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Korean_Peninsula|Korean_Peninsula]] 
 
-### #is_/same_as :: [Korean_Peninsula.public](/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Korean_Peninsula.public|Korean_Peninsula.public]] 
 
-### #is_/same_as :: [Korean_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.internal|Korean_Peninsula.internal]] 
 
-### #is_/same_as :: [Korean_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Korean_Peninsula.protect|Korean_Peninsula.protect]] 
 
-### #is_/same_as :: [Korean_Peninsula.private](/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Korean_Peninsula.private|Korean_Peninsula.private]] 
 
-### #is_/same_as :: [Korean_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Korean_Peninsula.personal|Korean_Peninsula.personal]] 
 
-### #is_/same_as :: [Korean_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Korean_Peninsula.secret|Korean_Peninsula.secret]] 
 

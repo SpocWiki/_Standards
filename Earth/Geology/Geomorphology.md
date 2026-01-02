@@ -43,17 +43,17 @@ Basisklassifikation: "38.45"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geomorphology](/_Standards/Earth/Geology/Geomorphology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Geomorphology|Geomorphology]] 
 
-### #is_/same_as :: [Geomorphology.public](/_public/Earth/Geology/Geomorphology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Geomorphology.public|Geomorphology.public]] 
 
-### #is_/same_as :: [Geomorphology.internal](/_internal/Earth/Geology/Geomorphology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Geomorphology.internal|Geomorphology.internal]] 
 
-### #is_/same_as :: [Geomorphology.protect](/_protect/Earth/Geology/Geomorphology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Geomorphology.protect|Geomorphology.protect]] 
 
-### #is_/same_as :: [Geomorphology.private](/_private/Earth/Geology/Geomorphology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Geomorphology.private|Geomorphology.private]] 
 
-### #is_/same_as :: [Geomorphology.personal](/_personal/Earth/Geology/Geomorphology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Geomorphology.personal|Geomorphology.personal]] 
 
-### #is_/same_as :: [Geomorphology.secret](/_secret/Earth/Geology/Geomorphology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Geomorphology.secret|Geomorphology.secret]] 
 

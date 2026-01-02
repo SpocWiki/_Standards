@@ -47,17 +47,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Letter_of_Marque](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque|Letter_of_Marque]] 
 
-### #is_/same_as :: [Letter_of_Marque.public](/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.public|Letter_of_Marque.public]] 
 
-### #is_/same_as :: [Letter_of_Marque.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.internal|Letter_of_Marque.internal]] 
 
-### #is_/same_as :: [Letter_of_Marque.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.protect|Letter_of_Marque.protect]] 
 
-### #is_/same_as :: [Letter_of_Marque.private](/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.private|Letter_of_Marque.private]] 
 
-### #is_/same_as :: [Letter_of_Marque.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.personal|Letter_of_Marque.personal]] 
 
-### #is_/same_as :: [Letter_of_Marque.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Letter_of_Marque.secret|Letter_of_Marque.secret]] 
 

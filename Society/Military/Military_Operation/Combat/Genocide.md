@@ -80,17 +80,17 @@ UMLS_CUI: C0017426
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genocide](/_Standards/Society/Military/Military_Operation/Combat/Genocide.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/Genocide|Genocide]] 
 
-### #is_/same_as :: [Genocide.public](/_public/Society/Military/Military_Operation/Combat/Genocide.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/Genocide.public|Genocide.public]] 
 
-### #is_/same_as :: [Genocide.internal](/_internal/Society/Military/Military_Operation/Combat/Genocide.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/Genocide.internal|Genocide.internal]] 
 
-### #is_/same_as :: [Genocide.protect](/_protect/Society/Military/Military_Operation/Combat/Genocide.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/Genocide.protect|Genocide.protect]] 
 
-### #is_/same_as :: [Genocide.private](/_private/Society/Military/Military_Operation/Combat/Genocide.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/Genocide.private|Genocide.private]] 
 
-### #is_/same_as :: [Genocide.personal](/_personal/Society/Military/Military_Operation/Combat/Genocide.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/Genocide.personal|Genocide.personal]] 
 
-### #is_/same_as :: [Genocide.secret](/_secret/Society/Military/Military_Operation/Combat/Genocide.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/Genocide.secret|Genocide.secret]] 
 

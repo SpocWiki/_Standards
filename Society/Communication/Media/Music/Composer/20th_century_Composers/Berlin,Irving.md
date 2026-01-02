@@ -153,17 +153,17 @@ work_period_start_: 1907-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berlin,Irving](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving|Berlin,Irving]] 
 
-### #is_/same_as :: [Berlin,Irving.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.public|Berlin,Irving.public]] 
 
-### #is_/same_as :: [Berlin,Irving.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.internal|Berlin,Irving.internal]] 
 
-### #is_/same_as :: [Berlin,Irving.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.protect|Berlin,Irving.protect]] 
 
-### #is_/same_as :: [Berlin,Irving.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.private|Berlin,Irving.private]] 
 
-### #is_/same_as :: [Berlin,Irving.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.personal|Berlin,Irving.personal]] 
 
-### #is_/same_as :: [Berlin,Irving.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving.secret|Berlin,Irving.secret]] 
 

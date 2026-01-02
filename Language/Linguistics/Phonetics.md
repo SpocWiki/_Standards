@@ -49,17 +49,17 @@ Commons_category: Phonetics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phonetics](/_Standards/Language/Linguistics/Phonetics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Phonetics|Phonetics]] 
 
-### #is_/same_as :: [Phonetics.public](/_public/Language/Linguistics/Phonetics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Phonetics.public|Phonetics.public]] 
 
-### #is_/same_as :: [Phonetics.internal](/_internal/Language/Linguistics/Phonetics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Phonetics.internal|Phonetics.internal]] 
 
-### #is_/same_as :: [Phonetics.protect](/_protect/Language/Linguistics/Phonetics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Phonetics.protect|Phonetics.protect]] 
 
-### #is_/same_as :: [Phonetics.private](/_private/Language/Linguistics/Phonetics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Phonetics.private|Phonetics.private]] 
 
-### #is_/same_as :: [Phonetics.personal](/_personal/Language/Linguistics/Phonetics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Phonetics.personal|Phonetics.personal]] 
 
-### #is_/same_as :: [Phonetics.secret](/_secret/Language/Linguistics/Phonetics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Phonetics.secret|Phonetics.secret]] 
 

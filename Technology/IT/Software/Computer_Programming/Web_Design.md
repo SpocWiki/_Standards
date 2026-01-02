@@ -32,17 +32,17 @@ GitHub_topic: webdesign
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Design](/_Standards/Technology/IT/Software/Computer_Programming/Web_Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Web_Design|Web_Design]] 
 
-### #is_/same_as :: [Web_Design.public](/_public/Technology/IT/Software/Computer_Programming/Web_Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Web_Design.public|Web_Design.public]] 
 
-### #is_/same_as :: [Web_Design.internal](/_internal/Technology/IT/Software/Computer_Programming/Web_Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Web_Design.internal|Web_Design.internal]] 
 
-### #is_/same_as :: [Web_Design.protect](/_protect/Technology/IT/Software/Computer_Programming/Web_Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Web_Design.protect|Web_Design.protect]] 
 
-### #is_/same_as :: [Web_Design.private](/_private/Technology/IT/Software/Computer_Programming/Web_Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Web_Design.private|Web_Design.private]] 
 
-### #is_/same_as :: [Web_Design.personal](/_personal/Technology/IT/Software/Computer_Programming/Web_Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Web_Design.personal|Web_Design.personal]] 
 
-### #is_/same_as :: [Web_Design.secret](/_secret/Technology/IT/Software/Computer_Programming/Web_Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Web_Design.secret|Web_Design.secret]] 
 

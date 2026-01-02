@@ -74,17 +74,17 @@ Reciprocally, all other Energy Forms can be converted to Heat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heat](/_Standards/Science/Physics/Thermodynamics/Heat.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Heat|Heat]] 
 
-### #is_/same_as :: [Heat.public](/_public/Science/Physics/Thermodynamics/Heat.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Heat.public|Heat.public]] 
 
-### #is_/same_as :: [Heat.internal](/_internal/Science/Physics/Thermodynamics/Heat.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Heat.internal|Heat.internal]] 
 
-### #is_/same_as :: [Heat.protect](/_protect/Science/Physics/Thermodynamics/Heat.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Heat.protect|Heat.protect]] 
 
-### #is_/same_as :: [Heat.private](/_private/Science/Physics/Thermodynamics/Heat.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Heat.private|Heat.private]] 
 
-### #is_/same_as :: [Heat.personal](/_personal/Science/Physics/Thermodynamics/Heat.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Heat.personal|Heat.personal]] 
 
-### #is_/same_as :: [Heat.secret](/_secret/Science/Physics/Thermodynamics/Heat.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Heat.secret|Heat.secret]] 
 

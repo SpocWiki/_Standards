@@ -115,17 +115,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Eagle%20Song%20of%20th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indigenous_Americans](/_Standards/Earth/Continent/America~North/Indigenous_Americans.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Indigenous_Americans|Indigenous_Americans]] 
 
-### #is_/same_as :: [Indigenous_Americans.public](/_public/Earth/Continent/America~North/Indigenous_Americans.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Indigenous_Americans.public|Indigenous_Americans.public]] 
 
-### #is_/same_as :: [Indigenous_Americans.internal](/_internal/Earth/Continent/America~North/Indigenous_Americans.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Indigenous_Americans.internal|Indigenous_Americans.internal]] 
 
-### #is_/same_as :: [Indigenous_Americans.protect](/_protect/Earth/Continent/America~North/Indigenous_Americans.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Indigenous_Americans.protect|Indigenous_Americans.protect]] 
 
-### #is_/same_as :: [Indigenous_Americans.private](/_private/Earth/Continent/America~North/Indigenous_Americans.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Indigenous_Americans.private|Indigenous_Americans.private]] 
 
-### #is_/same_as :: [Indigenous_Americans.personal](/_personal/Earth/Continent/America~North/Indigenous_Americans.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Indigenous_Americans.personal|Indigenous_Americans.personal]] 
 
-### #is_/same_as :: [Indigenous_Americans.secret](/_secret/Earth/Continent/America~North/Indigenous_Americans.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Indigenous_Americans.secret|Indigenous_Americans.secret]] 
 

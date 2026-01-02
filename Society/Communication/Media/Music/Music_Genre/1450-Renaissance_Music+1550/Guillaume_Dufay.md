@@ -112,17 +112,17 @@ date_of_birth: 1397-08-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guillaume_Dufay](/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay|Guillaume_Dufay]] 
 
-### #is_/same_as :: [Guillaume_Dufay.public](/_public/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.public|Guillaume_Dufay.public]] 
 
-### #is_/same_as :: [Guillaume_Dufay.internal](/_internal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.internal|Guillaume_Dufay.internal]] 
 
-### #is_/same_as :: [Guillaume_Dufay.protect](/_protect/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.protect|Guillaume_Dufay.protect]] 
 
-### #is_/same_as :: [Guillaume_Dufay.private](/_private/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.private|Guillaume_Dufay.private]] 
 
-### #is_/same_as :: [Guillaume_Dufay.personal](/_personal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.personal|Guillaume_Dufay.personal]] 
 
-### #is_/same_as :: [Guillaume_Dufay.secret](/_secret/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/1450-Renaissance_Music+1550/Guillaume_Dufay.secret|Guillaume_Dufay.secret]] 
 

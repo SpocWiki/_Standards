@@ -66,17 +66,17 @@ Dewey_Decimal_Classification: 530.13
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statistical_Mechanics](/_Standards/Science/Physics/Thermodynamics/Statistical_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Statistical_Mechanics|Statistical_Mechanics]] 
 
-### #is_/same_as :: [Statistical_Mechanics.public](/_public/Science/Physics/Thermodynamics/Statistical_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Statistical_Mechanics.public|Statistical_Mechanics.public]] 
 
-### #is_/same_as :: [Statistical_Mechanics.internal](/_internal/Science/Physics/Thermodynamics/Statistical_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Statistical_Mechanics.internal|Statistical_Mechanics.internal]] 
 
-### #is_/same_as :: [Statistical_Mechanics.protect](/_protect/Science/Physics/Thermodynamics/Statistical_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Statistical_Mechanics.protect|Statistical_Mechanics.protect]] 
 
-### #is_/same_as :: [Statistical_Mechanics.private](/_private/Science/Physics/Thermodynamics/Statistical_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Statistical_Mechanics.private|Statistical_Mechanics.private]] 
 
-### #is_/same_as :: [Statistical_Mechanics.personal](/_personal/Science/Physics/Thermodynamics/Statistical_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Statistical_Mechanics.personal|Statistical_Mechanics.personal]] 
 
-### #is_/same_as :: [Statistical_Mechanics.secret](/_secret/Science/Physics/Thermodynamics/Statistical_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Statistical_Mechanics.secret|Statistical_Mechanics.secret]] 
 

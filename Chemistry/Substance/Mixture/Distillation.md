@@ -64,17 +64,17 @@ start_time: 0300-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distillation](/_Standards/Chemistry/Substance/Mixture/Distillation.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Distillation|Distillation]] 
 
-### #is_/same_as :: [Distillation.public](/_public/Chemistry/Substance/Mixture/Distillation.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Distillation.public|Distillation.public]] 
 
-### #is_/same_as :: [Distillation.internal](/_internal/Chemistry/Substance/Mixture/Distillation.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Distillation.internal|Distillation.internal]] 
 
-### #is_/same_as :: [Distillation.protect](/_protect/Chemistry/Substance/Mixture/Distillation.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Distillation.protect|Distillation.protect]] 
 
-### #is_/same_as :: [Distillation.private](/_private/Chemistry/Substance/Mixture/Distillation.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Distillation.private|Distillation.private]] 
 
-### #is_/same_as :: [Distillation.personal](/_personal/Chemistry/Substance/Mixture/Distillation.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Distillation.personal|Distillation.personal]] 
 
-### #is_/same_as :: [Distillation.secret](/_secret/Chemistry/Substance/Mixture/Distillation.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Distillation.secret|Distillation.secret]] 
 

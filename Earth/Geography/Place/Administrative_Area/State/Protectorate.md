@@ -48,17 +48,17 @@ OmegaWiki_Defined_Meaning: "799006"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protectorate](/_Standards/Earth/Geography/Place/Administrative_Area/State/Protectorate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Protectorate|Protectorate]] 
 
-### #is_/same_as :: [Protectorate.public](/_public/Earth/Geography/Place/Administrative_Area/State/Protectorate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Protectorate.public|Protectorate.public]] 
 
-### #is_/same_as :: [Protectorate.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Protectorate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Protectorate.internal|Protectorate.internal]] 
 
-### #is_/same_as :: [Protectorate.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Protectorate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Protectorate.protect|Protectorate.protect]] 
 
-### #is_/same_as :: [Protectorate.private](/_private/Earth/Geography/Place/Administrative_Area/State/Protectorate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Protectorate.private|Protectorate.private]] 
 
-### #is_/same_as :: [Protectorate.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Protectorate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Protectorate.personal|Protectorate.personal]] 
 
-### #is_/same_as :: [Protectorate.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Protectorate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Protectorate.secret|Protectorate.secret]] 
 

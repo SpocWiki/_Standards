@@ -102,17 +102,17 @@ The paradox vanishes once you adopt modern quantum field theory:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electron](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron|Electron]] 
 
-### #is_/same_as :: [Electron.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.public|Electron.public]] 
 
-### #is_/same_as :: [Electron.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.internal|Electron.internal]] 
 
-### #is_/same_as :: [Electron.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.protect|Electron.protect]] 
 
-### #is_/same_as :: [Electron.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.private|Electron.private]] 
 
-### #is_/same_as :: [Electron.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.personal|Electron.personal]] 
 
-### #is_/same_as :: [Electron.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Fermion/Lepton/Electron.secret|Electron.secret]] 
 

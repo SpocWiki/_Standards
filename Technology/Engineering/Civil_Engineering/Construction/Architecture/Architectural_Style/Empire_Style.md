@@ -27,17 +27,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ingres%2C%20Napoleon%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Empire_Style](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style|Empire_Style]] 
 
-### #is_/same_as :: [Empire_Style.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.public|Empire_Style.public]] 
 
-### #is_/same_as :: [Empire_Style.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.internal|Empire_Style.internal]] 
 
-### #is_/same_as :: [Empire_Style.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.protect|Empire_Style.protect]] 
 
-### #is_/same_as :: [Empire_Style.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.private|Empire_Style.private]] 
 
-### #is_/same_as :: [Empire_Style.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.personal|Empire_Style.personal]] 
 
-### #is_/same_as :: [Empire_Style.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Empire_Style.secret|Empire_Style.secret]] 
 

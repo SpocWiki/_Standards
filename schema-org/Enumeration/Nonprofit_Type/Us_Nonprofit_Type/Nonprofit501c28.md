@@ -42,17 +42,17 @@ Nonprofit501c28: Non-profit type referring to National Railroad Retirement Inves
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c28](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28|Nonprofit501c28]] 
 
-### #is_/same_as :: [Nonprofit501c28.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.public|Nonprofit501c28.public]] 
 
-### #is_/same_as :: [Nonprofit501c28.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.internal|Nonprofit501c28.internal]] 
 
-### #is_/same_as :: [Nonprofit501c28.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.protect|Nonprofit501c28.protect]] 
 
-### #is_/same_as :: [Nonprofit501c28.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.private|Nonprofit501c28.private]] 
 
-### #is_/same_as :: [Nonprofit501c28.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.personal|Nonprofit501c28.personal]] 
 
-### #is_/same_as :: [Nonprofit501c28.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c28.secret|Nonprofit501c28.secret]] 
 

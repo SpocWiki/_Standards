@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Root](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Root|Root]] 
 
-### #is_/same_as :: [Root.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.public|Root.public]] 
 
-### #is_/same_as :: [Root.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.internal|Root.internal]] 
 
-### #is_/same_as :: [Root.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.protect|Root.protect]] 
 
-### #is_/same_as :: [Root.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.private|Root.private]] 
 
-### #is_/same_as :: [Root.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.personal|Root.personal]] 
 
-### #is_/same_as :: [Root.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Root.secret|Root.secret]] 
 

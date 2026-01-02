@@ -19,17 +19,17 @@ instance_of: "[[_Standards/WikiData/WD~literary_theory,459381]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Criticism](/_Standards/Society/Communication/Media/Writing/Book/Literature/New_Criticism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/New_Criticism|New_Criticism]] 
 
-### #is_/same_as :: [New_Criticism.public](/_public/Society/Communication/Media/Writing/Book/Literature/New_Criticism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/New_Criticism.public|New_Criticism.public]] 
 
-### #is_/same_as :: [New_Criticism.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.internal|New_Criticism.internal]] 
 
-### #is_/same_as :: [New_Criticism.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/New_Criticism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/New_Criticism.protect|New_Criticism.protect]] 
 
-### #is_/same_as :: [New_Criticism.private](/_private/Society/Communication/Media/Writing/Book/Literature/New_Criticism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/New_Criticism.private|New_Criticism.private]] 
 
-### #is_/same_as :: [New_Criticism.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/New_Criticism.personal|New_Criticism.personal]] 
 
-### #is_/same_as :: [New_Criticism.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/New_Criticism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/New_Criticism.secret|New_Criticism.secret]] 
 

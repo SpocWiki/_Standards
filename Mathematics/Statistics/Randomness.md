@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Randomness](/_Standards/Mathematics/Statistics/Randomness.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Randomness|Randomness]] 
 
-### #is_/same_as :: [Randomness.public](/_public/Mathematics/Statistics/Randomness.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Randomness.public|Randomness.public]] 
 
-### #is_/same_as :: [Randomness.internal](/_internal/Mathematics/Statistics/Randomness.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Randomness.internal|Randomness.internal]] 
 
-### #is_/same_as :: [Randomness.protect](/_protect/Mathematics/Statistics/Randomness.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Randomness.protect|Randomness.protect]] 
 
-### #is_/same_as :: [Randomness.private](/_private/Mathematics/Statistics/Randomness.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Randomness.private|Randomness.private]] 
 
-### #is_/same_as :: [Randomness.personal](/_personal/Mathematics/Statistics/Randomness.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Randomness.personal|Randomness.personal]] 
 
-### #is_/same_as :: [Randomness.secret](/_secret/Mathematics/Statistics/Randomness.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Randomness.secret|Randomness.secret]] 
 

@@ -41,17 +41,17 @@ Residence type: Single-family home.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Single_Family_Residence](/_Standards/Earth/Geography/Place/Accommodation/Single_Family_Residence.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Single_Family_Residence|Single_Family_Residence]] 
 
-### #is_/same_as :: [Single_Family_Residence.public](/_public/Earth/Geography/Place/Accommodation/Single_Family_Residence.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Single_Family_Residence.public|Single_Family_Residence.public]] 
 
-### #is_/same_as :: [Single_Family_Residence.internal](/_internal/Earth/Geography/Place/Accommodation/Single_Family_Residence.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Single_Family_Residence.internal|Single_Family_Residence.internal]] 
 
-### #is_/same_as :: [Single_Family_Residence.protect](/_protect/Earth/Geography/Place/Accommodation/Single_Family_Residence.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Single_Family_Residence.protect|Single_Family_Residence.protect]] 
 
-### #is_/same_as :: [Single_Family_Residence.private](/_private/Earth/Geography/Place/Accommodation/Single_Family_Residence.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Single_Family_Residence.private|Single_Family_Residence.private]] 
 
-### #is_/same_as :: [Single_Family_Residence.personal](/_personal/Earth/Geography/Place/Accommodation/Single_Family_Residence.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Single_Family_Residence.personal|Single_Family_Residence.personal]] 
 
-### #is_/same_as :: [Single_Family_Residence.secret](/_secret/Earth/Geography/Place/Accommodation/Single_Family_Residence.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Single_Family_Residence.secret|Single_Family_Residence.secret]] 
 

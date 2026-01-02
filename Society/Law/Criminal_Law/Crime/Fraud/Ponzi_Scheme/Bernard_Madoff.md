@@ -115,17 +115,17 @@ date_of_death: 2021-04-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernard_Madoff](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff|Bernard_Madoff]] 
 
-### #is_/same_as :: [Bernard_Madoff.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.public|Bernard_Madoff.public]] 
 
-### #is_/same_as :: [Bernard_Madoff.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.internal|Bernard_Madoff.internal]] 
 
-### #is_/same_as :: [Bernard_Madoff.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.protect|Bernard_Madoff.protect]] 
 
-### #is_/same_as :: [Bernard_Madoff.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.private|Bernard_Madoff.private]] 
 
-### #is_/same_as :: [Bernard_Madoff.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.personal|Bernard_Madoff.personal]] 
 
-### #is_/same_as :: [Bernard_Madoff.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Bernard_Madoff.secret|Bernard_Madoff.secret]] 
 

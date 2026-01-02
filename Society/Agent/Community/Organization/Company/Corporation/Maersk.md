@@ -96,17 +96,17 @@ inception: 1904-04-16T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maersk](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Maersk.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Maersk|Maersk]] 
 
-### #is_/same_as :: [Maersk.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Maersk.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Maersk.public|Maersk.public]] 
 
-### #is_/same_as :: [Maersk.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Maersk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Maersk.internal|Maersk.internal]] 
 
-### #is_/same_as :: [Maersk.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Maersk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Maersk.protect|Maersk.protect]] 
 
-### #is_/same_as :: [Maersk.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Maersk.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Maersk.private|Maersk.private]] 
 
-### #is_/same_as :: [Maersk.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Maersk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Maersk.personal|Maersk.personal]] 
 
-### #is_/same_as :: [Maersk.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Maersk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Maersk.secret|Maersk.secret]] 
 

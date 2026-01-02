@@ -33,17 +33,17 @@ Commons_category: Superclusters of galaxies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supercluster](/_Standards/Astronomy/Star_System/Supercluster.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Supercluster|Supercluster]] 
 
-### #is_/same_as :: [Supercluster.public](/_public/Astronomy/Star_System/Supercluster.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Supercluster.public|Supercluster.public]] 
 
-### #is_/same_as :: [Supercluster.internal](/_internal/Astronomy/Star_System/Supercluster.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Supercluster.internal|Supercluster.internal]] 
 
-### #is_/same_as :: [Supercluster.protect](/_protect/Astronomy/Star_System/Supercluster.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Supercluster.protect|Supercluster.protect]] 
 
-### #is_/same_as :: [Supercluster.private](/_private/Astronomy/Star_System/Supercluster.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Supercluster.private|Supercluster.private]] 
 
-### #is_/same_as :: [Supercluster.personal](/_personal/Astronomy/Star_System/Supercluster.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Supercluster.personal|Supercluster.personal]] 
 
-### #is_/same_as :: [Supercluster.secret](/_secret/Astronomy/Star_System/Supercluster.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Supercluster.secret|Supercluster.secret]] 
 

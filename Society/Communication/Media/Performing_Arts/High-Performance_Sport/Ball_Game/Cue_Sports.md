@@ -59,17 +59,17 @@ Baidu_Tieba_name: 台球
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cue_Sports](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports|Cue_Sports]] 
 
-### #is_/same_as :: [Cue_Sports.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.public|Cue_Sports.public]] 
 
-### #is_/same_as :: [Cue_Sports.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.internal|Cue_Sports.internal]] 
 
-### #is_/same_as :: [Cue_Sports.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.protect|Cue_Sports.protect]] 
 
-### #is_/same_as :: [Cue_Sports.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.private|Cue_Sports.private]] 
 
-### #is_/same_as :: [Cue_Sports.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.personal|Cue_Sports.personal]] 
 
-### #is_/same_as :: [Cue_Sports.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Ball_Game/Cue_Sports.secret|Cue_Sports.secret]] 
 

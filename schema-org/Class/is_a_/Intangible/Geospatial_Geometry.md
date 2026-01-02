@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geospatial_Geometry](/_Standards/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Geospatial_Geometry|Geospatial_Geometry]] 
 
-### #is_/same_as :: [Geospatial_Geometry.public](/_public/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.public|Geospatial_Geometry.public]] 
 
-### #is_/same_as :: [Geospatial_Geometry.internal](/_internal/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.internal|Geospatial_Geometry.internal]] 
 
-### #is_/same_as :: [Geospatial_Geometry.protect](/_protect/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.protect|Geospatial_Geometry.protect]] 
 
-### #is_/same_as :: [Geospatial_Geometry.private](/_private/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.private|Geospatial_Geometry.private]] 
 
-### #is_/same_as :: [Geospatial_Geometry.personal](/_personal/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.personal|Geospatial_Geometry.personal]] 
 
-### #is_/same_as :: [Geospatial_Geometry.secret](/_secret/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Geospatial_Geometry.secret|Geospatial_Geometry.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_dosage_form](/_Standards/schema-org/Property/Texts/has_dosage_form.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_dosage_form|has_dosage_form]] 
 
-### #is_/same_as :: [has_dosage_form.public](/_public/schema-org/Property/Texts/has_dosage_form.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_dosage_form.public|has_dosage_form.public]] 
 
-### #is_/same_as :: [has_dosage_form.internal](/_internal/schema-org/Property/Texts/has_dosage_form.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_dosage_form.internal|has_dosage_form.internal]] 
 
-### #is_/same_as :: [has_dosage_form.protect](/_protect/schema-org/Property/Texts/has_dosage_form.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_dosage_form.protect|has_dosage_form.protect]] 
 
-### #is_/same_as :: [has_dosage_form.private](/_private/schema-org/Property/Texts/has_dosage_form.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_dosage_form.private|has_dosage_form.private]] 
 
-### #is_/same_as :: [has_dosage_form.personal](/_personal/schema-org/Property/Texts/has_dosage_form.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_dosage_form.personal|has_dosage_form.personal]] 
 
-### #is_/same_as :: [has_dosage_form.secret](/_secret/schema-org/Property/Texts/has_dosage_form.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_dosage_form.secret|has_dosage_form.secret]] 
 

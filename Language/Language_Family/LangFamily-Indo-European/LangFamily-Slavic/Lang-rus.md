@@ -290,17 +290,17 @@ writing_system: '[[_Standards/WikiData/WD~Cyrillic_script,8209]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-rus](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus|Lang-rus]] 
 
-### #is_/same_as :: [Lang-rus.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.public|Lang-rus.public]] 
 
-### #is_/same_as :: [Lang-rus.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.internal|Lang-rus.internal]] 
 
-### #is_/same_as :: [Lang-rus.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.protect|Lang-rus.protect]] 
 
-### #is_/same_as :: [Lang-rus.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.private|Lang-rus.private]] 
 
-### #is_/same_as :: [Lang-rus.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.personal|Lang-rus.personal]] 
 
-### #is_/same_as :: [Lang-rus.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-rus.secret|Lang-rus.secret]] 
 

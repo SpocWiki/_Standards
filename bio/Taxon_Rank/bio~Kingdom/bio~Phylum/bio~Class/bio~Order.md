@@ -73,17 +73,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Order](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order|bio~Order]] 
 
-### #is_/same_as :: [bio~Order.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.public|bio~Order.public]] 
 
-### #is_/same_as :: [bio~Order.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.internal|bio~Order.internal]] 
 
-### #is_/same_as :: [bio~Order.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.protect|bio~Order.protect]] 
 
-### #is_/same_as :: [bio~Order.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.private|bio~Order.private]] 
 
-### #is_/same_as :: [bio~Order.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.personal|bio~Order.personal]] 
 
-### #is_/same_as :: [bio~Order.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order.secret|bio~Order.secret]] 
 

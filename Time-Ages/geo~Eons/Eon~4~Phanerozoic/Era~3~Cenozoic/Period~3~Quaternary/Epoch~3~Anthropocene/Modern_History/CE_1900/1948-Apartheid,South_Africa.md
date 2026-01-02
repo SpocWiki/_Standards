@@ -87,17 +87,17 @@ U_S_National_Archives_Identifier: 10640722
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa|1948-Apartheid,South_Africa]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.public|1948-Apartheid,South_Africa.public]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.internal|1948-Apartheid,South_Africa.internal]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.protect|1948-Apartheid,South_Africa.protect]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.private|1948-Apartheid,South_Africa.private]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.personal|1948-Apartheid,South_Africa.personal]] 
 
-### #is_/same_as :: [1948-Apartheid,South_Africa.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1948-Apartheid,South_Africa.secret|1948-Apartheid,South_Africa.secret]] 
 

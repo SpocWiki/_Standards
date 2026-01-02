@@ -85,17 +85,17 @@ Commons_gallery: Øresund bridge
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Øresund_Bridge](/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge|Øresund_Bridge]] 
 
-### #is_/same_as :: [Øresund_Bridge.public](/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.public|Øresund_Bridge.public]] 
 
-### #is_/same_as :: [Øresund_Bridge.internal](/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.internal|Øresund_Bridge.internal]] 
 
-### #is_/same_as :: [Øresund_Bridge.protect](/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.protect|Øresund_Bridge.protect]] 
 
-### #is_/same_as :: [Øresund_Bridge.private](/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.private|Øresund_Bridge.private]] 
 
-### #is_/same_as :: [Øresund_Bridge.personal](/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.personal|Øresund_Bridge.personal]] 
 
-### #is_/same_as :: [Øresund_Bridge.secret](/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Øresund/Øresund_Bridge.secret|Øresund_Bridge.secret]] 
 

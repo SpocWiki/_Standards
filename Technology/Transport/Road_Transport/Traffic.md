@@ -61,17 +61,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traffic](/_Standards/Technology/Transport/Road_Transport/Traffic.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Traffic|Traffic]] 
 
-### #is_/same_as :: [Traffic.public](/_public/Technology/Transport/Road_Transport/Traffic.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Traffic.public|Traffic.public]] 
 
-### #is_/same_as :: [Traffic.internal](/_internal/Technology/Transport/Road_Transport/Traffic.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Traffic.internal|Traffic.internal]] 
 
-### #is_/same_as :: [Traffic.protect](/_protect/Technology/Transport/Road_Transport/Traffic.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Traffic.protect|Traffic.protect]] 
 
-### #is_/same_as :: [Traffic.private](/_private/Technology/Transport/Road_Transport/Traffic.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Traffic.private|Traffic.private]] 
 
-### #is_/same_as :: [Traffic.personal](/_personal/Technology/Transport/Road_Transport/Traffic.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Traffic.personal|Traffic.personal]] 
 
-### #is_/same_as :: [Traffic.secret](/_secret/Technology/Transport/Road_Transport/Traffic.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Traffic.secret|Traffic.secret]] 
 

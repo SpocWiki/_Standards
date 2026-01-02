@@ -42,17 +42,17 @@ Nonprofit501c14: Non-profit type referring to State~Chartered Credit Unions, Mut
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c14](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14|Nonprofit501c14]] 
 
-### #is_/same_as :: [Nonprofit501c14.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.public|Nonprofit501c14.public]] 
 
-### #is_/same_as :: [Nonprofit501c14.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.internal|Nonprofit501c14.internal]] 
 
-### #is_/same_as :: [Nonprofit501c14.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.protect|Nonprofit501c14.protect]] 
 
-### #is_/same_as :: [Nonprofit501c14.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.private|Nonprofit501c14.private]] 
 
-### #is_/same_as :: [Nonprofit501c14.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.personal|Nonprofit501c14.personal]] 
 
-### #is_/same_as :: [Nonprofit501c14.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c14.secret|Nonprofit501c14.secret]] 
 

@@ -41,17 +41,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_height_in_meters](/_Standards/schema-org/Property/has_value_for/has_value_for_height_in_meters.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_height_in_meters|has_value_for_height_in_meters]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.public](/_public/schema-org/Property/has_value_for/has_value_for_height_in_meters.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_height_in_meters.public|has_value_for_height_in_meters.public]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.internal](/_internal/schema-org/Property/has_value_for/has_value_for_height_in_meters.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_height_in_meters.internal|has_value_for_height_in_meters.internal]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.protect](/_protect/schema-org/Property/has_value_for/has_value_for_height_in_meters.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_height_in_meters.protect|has_value_for_height_in_meters.protect]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.private](/_private/schema-org/Property/has_value_for/has_value_for_height_in_meters.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_height_in_meters.private|has_value_for_height_in_meters.private]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.personal](/_personal/schema-org/Property/has_value_for/has_value_for_height_in_meters.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_height_in_meters.personal|has_value_for_height_in_meters.personal]] 
 
-### #is_/same_as :: [has_value_for_height_in_meters.secret](/_secret/schema-org/Property/has_value_for/has_value_for_height_in_meters.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_height_in_meters.secret|has_value_for_height_in_meters.secret]] 
 

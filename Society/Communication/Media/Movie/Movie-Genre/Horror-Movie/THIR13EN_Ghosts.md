@@ -18,17 +18,17 @@ similar to [[Cell,film@2000]] or the [[Cube_(film_series)]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [THIR13EN_Ghosts](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts|THIR13EN_Ghosts]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.public|THIR13EN_Ghosts.public]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.internal|THIR13EN_Ghosts.internal]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.protect|THIR13EN_Ghosts.protect]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.private|THIR13EN_Ghosts.private]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.personal|THIR13EN_Ghosts.personal]] 
 
-### #is_/same_as :: [THIR13EN_Ghosts.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/THIR13EN_Ghosts.secret|THIR13EN_Ghosts.secret]] 
 

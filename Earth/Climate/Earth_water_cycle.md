@@ -63,17 +63,17 @@ Commons_category: Water cycle
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth_water_cycle](/_Standards/Earth/Climate/Earth_water_cycle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Earth_water_cycle|Earth_water_cycle]] 
 
-### #is_/same_as :: [Earth_water_cycle.public](/_public/Earth/Climate/Earth_water_cycle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Earth_water_cycle.public|Earth_water_cycle.public]] 
 
-### #is_/same_as :: [Earth_water_cycle.internal](/_internal/Earth/Climate/Earth_water_cycle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Earth_water_cycle.internal|Earth_water_cycle.internal]] 
 
-### #is_/same_as :: [Earth_water_cycle.protect](/_protect/Earth/Climate/Earth_water_cycle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Earth_water_cycle.protect|Earth_water_cycle.protect]] 
 
-### #is_/same_as :: [Earth_water_cycle.private](/_private/Earth/Climate/Earth_water_cycle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Earth_water_cycle.private|Earth_water_cycle.private]] 
 
-### #is_/same_as :: [Earth_water_cycle.personal](/_personal/Earth/Climate/Earth_water_cycle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Earth_water_cycle.personal|Earth_water_cycle.personal]] 
 
-### #is_/same_as :: [Earth_water_cycle.secret](/_secret/Earth/Climate/Earth_water_cycle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Earth_water_cycle.secret|Earth_water_cycle.secret]] 
 

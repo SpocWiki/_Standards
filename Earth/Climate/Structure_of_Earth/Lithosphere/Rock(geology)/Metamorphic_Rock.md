@@ -49,17 +49,17 @@ Commons_category: Metamorphic rocks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metamorphic_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock|Metamorphic_Rock]] 
 
-### #is_/same_as :: [Metamorphic_Rock.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.public|Metamorphic_Rock.public]] 
 
-### #is_/same_as :: [Metamorphic_Rock.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.internal|Metamorphic_Rock.internal]] 
 
-### #is_/same_as :: [Metamorphic_Rock.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.protect|Metamorphic_Rock.protect]] 
 
-### #is_/same_as :: [Metamorphic_Rock.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.private|Metamorphic_Rock.private]] 
 
-### #is_/same_as :: [Metamorphic_Rock.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.personal|Metamorphic_Rock.personal]] 
 
-### #is_/same_as :: [Metamorphic_Rock.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Metamorphic_Rock.secret|Metamorphic_Rock.secret]] 
 

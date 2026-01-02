@@ -50,17 +50,17 @@ Commons_gallery: National anthem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [National_Anthem](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Anthem|National_Anthem]] 
 
-### #is_/same_as :: [National_Anthem.public](/_public/Earth/Geography/Place/Administrative_Area/State/National_Anthem.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/National_Anthem.public|National_Anthem.public]] 
 
-### #is_/same_as :: [National_Anthem.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.internal|National_Anthem.internal]] 
 
-### #is_/same_as :: [National_Anthem.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/National_Anthem.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/National_Anthem.protect|National_Anthem.protect]] 
 
-### #is_/same_as :: [National_Anthem.private](/_private/Earth/Geography/Place/Administrative_Area/State/National_Anthem.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/National_Anthem.private|National_Anthem.private]] 
 
-### #is_/same_as :: [National_Anthem.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/National_Anthem.personal|National_Anthem.personal]] 
 
-### #is_/same_as :: [National_Anthem.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/National_Anthem.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/National_Anthem.secret|National_Anthem.secret]] 
 

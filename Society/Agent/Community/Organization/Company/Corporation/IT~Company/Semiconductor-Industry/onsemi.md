@@ -27,17 +27,17 @@ It's Process is licensed to [[GlobalFoundries]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [onsemi](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi|onsemi]] 
 
-### #is_/same_as :: [onsemi.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.public|onsemi.public]] 
 
-### #is_/same_as :: [onsemi.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.internal|onsemi.internal]] 
 
-### #is_/same_as :: [onsemi.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.protect|onsemi.protect]] 
 
-### #is_/same_as :: [onsemi.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.private|onsemi.private]] 
 
-### #is_/same_as :: [onsemi.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.personal|onsemi.personal]] 
 
-### #is_/same_as :: [onsemi.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/onsemi.secret|onsemi.secret]] 
 

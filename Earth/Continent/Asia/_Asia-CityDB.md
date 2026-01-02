@@ -346,17 +346,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Asia-CityDB](/_Standards/Earth/Continent/Asia/_Asia-CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/_Asia-CityDB|_Asia-CityDB]] 
 
-### #is_/same_as :: [_Asia-CityDB.public](/_public/Earth/Continent/Asia/_Asia-CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/_Asia-CityDB.public|_Asia-CityDB.public]] 
 
-### #is_/same_as :: [_Asia-CityDB.internal](/_internal/Earth/Continent/Asia/_Asia-CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/_Asia-CityDB.internal|_Asia-CityDB.internal]] 
 
-### #is_/same_as :: [_Asia-CityDB.protect](/_protect/Earth/Continent/Asia/_Asia-CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/_Asia-CityDB.protect|_Asia-CityDB.protect]] 
 
-### #is_/same_as :: [_Asia-CityDB.private](/_private/Earth/Continent/Asia/_Asia-CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/_Asia-CityDB.private|_Asia-CityDB.private]] 
 
-### #is_/same_as :: [_Asia-CityDB.personal](/_personal/Earth/Continent/Asia/_Asia-CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/_Asia-CityDB.personal|_Asia-CityDB.personal]] 
 
-### #is_/same_as :: [_Asia-CityDB.secret](/_secret/Earth/Continent/Asia/_Asia-CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/_Asia-CityDB.secret|_Asia-CityDB.secret]] 
 

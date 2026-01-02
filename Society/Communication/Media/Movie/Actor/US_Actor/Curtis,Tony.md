@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curtis,Tony](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony|Curtis,Tony]] 
 
-### #is_/same_as :: [Curtis,Tony.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.public|Curtis,Tony.public]] 
 
-### #is_/same_as :: [Curtis,Tony.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.internal|Curtis,Tony.internal]] 
 
-### #is_/same_as :: [Curtis,Tony.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.protect|Curtis,Tony.protect]] 
 
-### #is_/same_as :: [Curtis,Tony.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.private|Curtis,Tony.private]] 
 
-### #is_/same_as :: [Curtis,Tony.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.personal|Curtis,Tony.personal]] 
 
-### #is_/same_as :: [Curtis,Tony.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Curtis,Tony.secret|Curtis,Tony.secret]] 
 

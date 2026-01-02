@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_start_offset](/_Standards/schema-org/Relation/has/has_start_offset.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_start_offset|has_start_offset]] 
 
-### #is_/same_as :: [has_start_offset.public](/_public/schema-org/Relation/has/has_start_offset.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_start_offset.public|has_start_offset.public]] 
 
-### #is_/same_as :: [has_start_offset.internal](/_internal/schema-org/Relation/has/has_start_offset.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_start_offset.internal|has_start_offset.internal]] 
 
-### #is_/same_as :: [has_start_offset.protect](/_protect/schema-org/Relation/has/has_start_offset.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_start_offset.protect|has_start_offset.protect]] 
 
-### #is_/same_as :: [has_start_offset.private](/_private/schema-org/Relation/has/has_start_offset.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_start_offset.private|has_start_offset.private]] 
 
-### #is_/same_as :: [has_start_offset.personal](/_personal/schema-org/Relation/has/has_start_offset.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_start_offset.personal|has_start_offset.personal]] 
 
-### #is_/same_as :: [has_start_offset.secret](/_secret/schema-org/Relation/has/has_start_offset.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_start_offset.secret|has_start_offset.secret]] 
 

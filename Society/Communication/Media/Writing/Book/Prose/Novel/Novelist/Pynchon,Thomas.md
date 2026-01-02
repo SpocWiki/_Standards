@@ -100,17 +100,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/PINCHON_TOMAS.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pynchon,Thomas](/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas|Pynchon,Thomas]] 
 
-### #is_/same_as :: [Pynchon,Thomas.public](/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.public|Pynchon,Thomas.public]] 
 
-### #is_/same_as :: [Pynchon,Thomas.internal](/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.internal|Pynchon,Thomas.internal]] 
 
-### #is_/same_as :: [Pynchon,Thomas.protect](/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.protect|Pynchon,Thomas.protect]] 
 
-### #is_/same_as :: [Pynchon,Thomas.private](/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.private|Pynchon,Thomas.private]] 
 
-### #is_/same_as :: [Pynchon,Thomas.personal](/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.personal|Pynchon,Thomas.personal]] 
 
-### #is_/same_as :: [Pynchon,Thomas.secret](/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Prose/Novel/Novelist/Pynchon,Thomas.secret|Pynchon,Thomas.secret]] 
 

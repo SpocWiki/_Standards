@@ -98,17 +98,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/La%20Internacio%20en%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Internationale](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale|The_Internationale]] 
 
-### #is_/same_as :: [The_Internationale.public](/_public/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.public|The_Internationale.public]] 
 
-### #is_/same_as :: [The_Internationale.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.internal|The_Internationale.internal]] 
 
-### #is_/same_as :: [The_Internationale.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.protect|The_Internationale.protect]] 
 
-### #is_/same_as :: [The_Internationale.private](/_private/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.private|The_Internationale.private]] 
 
-### #is_/same_as :: [The_Internationale.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.personal|The_Internationale.personal]] 
 
-### #is_/same_as :: [The_Internationale.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Hymn/The_Internationale.secret|The_Internationale.secret]] 
 

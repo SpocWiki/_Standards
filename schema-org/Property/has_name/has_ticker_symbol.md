@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_ticker_symbol](/_Standards/schema-org/Property/has_name/has_ticker_symbol.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_ticker_symbol|has_ticker_symbol]] 
 
-### #is_/same_as :: [has_ticker_symbol.public](/_public/schema-org/Property/has_name/has_ticker_symbol.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_ticker_symbol.public|has_ticker_symbol.public]] 
 
-### #is_/same_as :: [has_ticker_symbol.internal](/_internal/schema-org/Property/has_name/has_ticker_symbol.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_ticker_symbol.internal|has_ticker_symbol.internal]] 
 
-### #is_/same_as :: [has_ticker_symbol.protect](/_protect/schema-org/Property/has_name/has_ticker_symbol.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_ticker_symbol.protect|has_ticker_symbol.protect]] 
 
-### #is_/same_as :: [has_ticker_symbol.private](/_private/schema-org/Property/has_name/has_ticker_symbol.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_ticker_symbol.private|has_ticker_symbol.private]] 
 
-### #is_/same_as :: [has_ticker_symbol.personal](/_personal/schema-org/Property/has_name/has_ticker_symbol.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_ticker_symbol.personal|has_ticker_symbol.personal]] 
 
-### #is_/same_as :: [has_ticker_symbol.secret](/_secret/schema-org/Property/has_name/has_ticker_symbol.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_ticker_symbol.secret|has_ticker_symbol.secret]] 
 

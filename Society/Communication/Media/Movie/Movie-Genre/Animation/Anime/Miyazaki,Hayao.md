@@ -28,17 +28,17 @@ He is also impatient.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Miyazaki,Hayao](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao|Miyazaki,Hayao]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.public|Miyazaki,Hayao.public]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.internal|Miyazaki,Hayao.internal]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.protect|Miyazaki,Hayao.protect]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.private|Miyazaki,Hayao.private]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.personal|Miyazaki,Hayao.personal]] 
 
-### #is_/same_as :: [Miyazaki,Hayao.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Miyazaki,Hayao.secret|Miyazaki,Hayao.secret]] 
 

@@ -107,17 +107,17 @@ Krugosvet_article: gumanitarnye_nauki/psihologiya_i_pedagogika/ADLER_ALFRED.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adler,Alfred](/_Standards/bio/Psychology/Psychologist/Adler,Alfred.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Adler,Alfred|Adler,Alfred]] 
 
-### #is_/same_as :: [Adler,Alfred.public](/_public/bio/Psychology/Psychologist/Adler,Alfred.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Adler,Alfred.public|Adler,Alfred.public]] 
 
-### #is_/same_as :: [Adler,Alfred.internal](/_internal/bio/Psychology/Psychologist/Adler,Alfred.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Adler,Alfred.internal|Adler,Alfred.internal]] 
 
-### #is_/same_as :: [Adler,Alfred.protect](/_protect/bio/Psychology/Psychologist/Adler,Alfred.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Adler,Alfred.protect|Adler,Alfred.protect]] 
 
-### #is_/same_as :: [Adler,Alfred.private](/_private/bio/Psychology/Psychologist/Adler,Alfred.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Adler,Alfred.private|Adler,Alfred.private]] 
 
-### #is_/same_as :: [Adler,Alfred.personal](/_personal/bio/Psychology/Psychologist/Adler,Alfred.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Adler,Alfred.personal|Adler,Alfred.personal]] 
 
-### #is_/same_as :: [Adler,Alfred.secret](/_secret/bio/Psychology/Psychologist/Adler,Alfred.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Adler,Alfred.secret|Adler,Alfred.secret]] 
 

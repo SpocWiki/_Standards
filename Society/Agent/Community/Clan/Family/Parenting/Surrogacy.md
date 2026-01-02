@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "306.8743"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surrogacy](/_Standards/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Parenting/Surrogacy|Surrogacy]] 
 
-### #is_/same_as :: [Surrogacy.public](/_public/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.public|Surrogacy.public]] 
 
-### #is_/same_as :: [Surrogacy.internal](/_internal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.internal|Surrogacy.internal]] 
 
-### #is_/same_as :: [Surrogacy.protect](/_protect/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.protect|Surrogacy.protect]] 
 
-### #is_/same_as :: [Surrogacy.private](/_private/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.private|Surrogacy.private]] 
 
-### #is_/same_as :: [Surrogacy.personal](/_personal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.personal|Surrogacy.personal]] 
 
-### #is_/same_as :: [Surrogacy.secret](/_secret/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Parenting/Surrogacy.secret|Surrogacy.secret]] 
 

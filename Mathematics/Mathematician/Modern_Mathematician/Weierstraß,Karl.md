@@ -173,17 +173,17 @@ Libris_URI: 86lnqm4s2tjwvh0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weierstraß,Karl](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl|Weierstraß,Karl]] 
 
-### #is_/same_as :: [Weierstraß,Karl.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.public|Weierstraß,Karl.public]] 
 
-### #is_/same_as :: [Weierstraß,Karl.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.internal|Weierstraß,Karl.internal]] 
 
-### #is_/same_as :: [Weierstraß,Karl.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.protect|Weierstraß,Karl.protect]] 
 
-### #is_/same_as :: [Weierstraß,Karl.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.private|Weierstraß,Karl.private]] 
 
-### #is_/same_as :: [Weierstraß,Karl.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.personal|Weierstraß,Karl.personal]] 
 
-### #is_/same_as :: [Weierstraß,Karl.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Weierstraß,Karl.secret|Weierstraß,Karl.secret]] 
 

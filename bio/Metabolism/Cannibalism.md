@@ -55,17 +55,17 @@ MeSH_tree_code: F01.145.113.547.200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cannibalism](/_Standards/bio/Metabolism/Cannibalism.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Cannibalism|Cannibalism]] 
 
-### #is_/same_as :: [Cannibalism.public](/_public/bio/Metabolism/Cannibalism.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Cannibalism.public|Cannibalism.public]] 
 
-### #is_/same_as :: [Cannibalism.internal](/_internal/bio/Metabolism/Cannibalism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Cannibalism.internal|Cannibalism.internal]] 
 
-### #is_/same_as :: [Cannibalism.protect](/_protect/bio/Metabolism/Cannibalism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Cannibalism.protect|Cannibalism.protect]] 
 
-### #is_/same_as :: [Cannibalism.private](/_private/bio/Metabolism/Cannibalism.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Cannibalism.private|Cannibalism.private]] 
 
-### #is_/same_as :: [Cannibalism.personal](/_personal/bio/Metabolism/Cannibalism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Cannibalism.personal|Cannibalism.personal]] 
 
-### #is_/same_as :: [Cannibalism.secret](/_secret/bio/Metabolism/Cannibalism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Cannibalism.secret|Cannibalism.secret]] 
 

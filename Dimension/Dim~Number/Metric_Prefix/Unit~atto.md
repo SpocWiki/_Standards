@@ -21,17 +21,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~atto](/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~atto.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~atto|Unit~atto]] 
 
-### #is_/same_as :: [Unit~atto.public](/_public/Dimension/Dim~Number/Metric_Prefix/Unit~atto.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Metric_Prefix/Unit~atto.public|Unit~atto.public]] 
 
-### #is_/same_as :: [Unit~atto.internal](/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.internal|Unit~atto.internal]] 
 
-### #is_/same_as :: [Unit~atto.protect](/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~atto.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~atto.protect|Unit~atto.protect]] 
 
-### #is_/same_as :: [Unit~atto.private](/_private/Dimension/Dim~Number/Metric_Prefix/Unit~atto.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Metric_Prefix/Unit~atto.private|Unit~atto.private]] 
 
-### #is_/same_as :: [Unit~atto.personal](/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~atto.personal|Unit~atto.personal]] 
 
-### #is_/same_as :: [Unit~atto.secret](/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~atto.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~atto.secret|Unit~atto.secret]] 
 

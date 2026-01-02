@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name_of_train](/_Standards/schema-org/Property/has_name/has_name_of_train.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_of_train|has_name_of_train]] 
 
-### #is_/same_as :: [has_name_of_train.public](/_public/schema-org/Property/has_name/has_name_of_train.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name_of_train.public|has_name_of_train.public]] 
 
-### #is_/same_as :: [has_name_of_train.internal](/_internal/schema-org/Property/has_name/has_name_of_train.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name_of_train.internal|has_name_of_train.internal]] 
 
-### #is_/same_as :: [has_name_of_train.protect](/_protect/schema-org/Property/has_name/has_name_of_train.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name_of_train.protect|has_name_of_train.protect]] 
 
-### #is_/same_as :: [has_name_of_train.private](/_private/schema-org/Property/has_name/has_name_of_train.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name_of_train.private|has_name_of_train.private]] 
 
-### #is_/same_as :: [has_name_of_train.personal](/_personal/schema-org/Property/has_name/has_name_of_train.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name_of_train.personal|has_name_of_train.personal]] 
 
-### #is_/same_as :: [has_name_of_train.secret](/_secret/schema-org/Property/has_name/has_name_of_train.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name_of_train.secret|has_name_of_train.secret]] 
 

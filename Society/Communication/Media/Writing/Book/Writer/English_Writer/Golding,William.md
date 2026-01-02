@@ -97,17 +97,17 @@ work_period_start_: 1934-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golding,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William|Golding,William]] 
 
-### #is_/same_as :: [Golding,William.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.public|Golding,William.public]] 
 
-### #is_/same_as :: [Golding,William.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.internal|Golding,William.internal]] 
 
-### #is_/same_as :: [Golding,William.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.protect|Golding,William.protect]] 
 
-### #is_/same_as :: [Golding,William.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.private|Golding,William.private]] 
 
-### #is_/same_as :: [Golding,William.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.personal|Golding,William.personal]] 
 
-### #is_/same_as :: [Golding,William.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Golding,William.secret|Golding,William.secret]] 
 

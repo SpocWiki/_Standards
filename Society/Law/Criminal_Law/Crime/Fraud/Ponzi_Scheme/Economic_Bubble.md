@@ -49,17 +49,17 @@ Dewey_Decimal_Classification: 332.645
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economic_Bubble](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble|Economic_Bubble]] 
 
-### #is_/same_as :: [Economic_Bubble.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.public|Economic_Bubble.public]] 
 
-### #is_/same_as :: [Economic_Bubble.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.internal|Economic_Bubble.internal]] 
 
-### #is_/same_as :: [Economic_Bubble.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.protect|Economic_Bubble.protect]] 
 
-### #is_/same_as :: [Economic_Bubble.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.private|Economic_Bubble.private]] 
 
-### #is_/same_as :: [Economic_Bubble.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.personal|Economic_Bubble.personal]] 
 
-### #is_/same_as :: [Economic_Bubble.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme/Economic_Bubble.secret|Economic_Bubble.secret]] 
 

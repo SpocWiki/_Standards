@@ -27,17 +27,17 @@ inception: 1960-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Jazz](/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz|Free_Jazz]] 
 
-### #is_/same_as :: [Free_Jazz.public](/_public/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.public|Free_Jazz.public]] 
 
-### #is_/same_as :: [Free_Jazz.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.internal|Free_Jazz.internal]] 
 
-### #is_/same_as :: [Free_Jazz.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.protect|Free_Jazz.protect]] 
 
-### #is_/same_as :: [Free_Jazz.private](/_private/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.private|Free_Jazz.private]] 
 
-### #is_/same_as :: [Free_Jazz.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.personal|Free_Jazz.personal]] 
 
-### #is_/same_as :: [Free_Jazz.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Jazz/Free_Jazz.secret|Free_Jazz.secret]] 
 

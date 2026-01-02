@@ -116,17 +116,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schubert,Franz](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz|Schubert,Franz]] 
 
-### #is_/same_as :: [Schubert,Franz.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.public|Schubert,Franz.public]] 
 
-### #is_/same_as :: [Schubert,Franz.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.internal|Schubert,Franz.internal]] 
 
-### #is_/same_as :: [Schubert,Franz.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.protect|Schubert,Franz.protect]] 
 
-### #is_/same_as :: [Schubert,Franz.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.private|Schubert,Franz.private]] 
 
-### #is_/same_as :: [Schubert,Franz.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.personal|Schubert,Franz.personal]] 
 
-### #is_/same_as :: [Schubert,Franz.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Schubert,Franz.secret|Schubert,Franz.secret]] 
 

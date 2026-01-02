@@ -134,17 +134,17 @@ U_S_National_Archives_Identifier: "10581104"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astaire,Fred](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred|Astaire,Fred]] 
 
-### #is_/same_as :: [Astaire,Fred.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.public|Astaire,Fred.public]] 
 
-### #is_/same_as :: [Astaire,Fred.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.internal|Astaire,Fred.internal]] 
 
-### #is_/same_as :: [Astaire,Fred.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.protect|Astaire,Fred.protect]] 
 
-### #is_/same_as :: [Astaire,Fred.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.private|Astaire,Fred.private]] 
 
-### #is_/same_as :: [Astaire,Fred.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.personal|Astaire,Fred.personal]] 
 
-### #is_/same_as :: [Astaire,Fred.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Dancer/Astaire,Fred.secret|Astaire,Fred.secret]] 
 

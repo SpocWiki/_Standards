@@ -150,17 +150,17 @@ ZVG_number: 8490
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercury](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Mercury|Mercury]] 
 
-### #is_/same_as :: [Mercury.public](/_public/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.public|Mercury.public]] 
 
-### #is_/same_as :: [Mercury.internal](/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.internal|Mercury.internal]] 
 
-### #is_/same_as :: [Mercury.protect](/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.protect|Mercury.protect]] 
 
-### #is_/same_as :: [Mercury.private](/_private/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.private|Mercury.private]] 
 
-### #is_/same_as :: [Mercury.personal](/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.personal|Mercury.personal]] 
 
-### #is_/same_as :: [Mercury.secret](/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.secret|Mercury.secret]] 
 

@@ -82,17 +82,17 @@ Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/ARTILLERIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artillery](/_Standards/Society/Military/Military_Engineering/Weapon/Artillery.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Artillery|Artillery]] 
 
-### #is_/same_as :: [Artillery.public](/_public/Society/Military/Military_Engineering/Weapon/Artillery.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Artillery.public|Artillery.public]] 
 
-### #is_/same_as :: [Artillery.internal](/_internal/Society/Military/Military_Engineering/Weapon/Artillery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Artillery.internal|Artillery.internal]] 
 
-### #is_/same_as :: [Artillery.protect](/_protect/Society/Military/Military_Engineering/Weapon/Artillery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Artillery.protect|Artillery.protect]] 
 
-### #is_/same_as :: [Artillery.private](/_private/Society/Military/Military_Engineering/Weapon/Artillery.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Artillery.private|Artillery.private]] 
 
-### #is_/same_as :: [Artillery.personal](/_personal/Society/Military/Military_Engineering/Weapon/Artillery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Artillery.personal|Artillery.personal]] 
 
-### #is_/same_as :: [Artillery.secret](/_secret/Society/Military/Military_Engineering/Weapon/Artillery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Artillery.secret|Artillery.secret]] 
 

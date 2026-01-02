@@ -20,3 +20,22 @@ which yields the current Date and Time in a fixed Resolution/[[../Science/Physic
 > [Wikipedia](https://en.wikipedia.org/wiki/Present)
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/schema-org/Now|Now]] 
+
+### #is_/same_as :: [[/_public/schema-org/Now.public|Now.public]] 
+
+### #is_/same_as :: [[/_internal/schema-org/Now.internal|Now.internal]] 
+
+### #is_/same_as :: [[/_protect/schema-org/Now.protect|Now.protect]] 
+
+### #is_/same_as :: [[/_private/schema-org/Now.private|Now.private]] 
+
+### #is_/same_as :: [[/_personal/schema-org/Now.personal|Now.personal]] 
+
+### #is_/same_as :: [[/_secret/schema-org/Now.secret|Now.secret]] 
+

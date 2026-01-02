@@ -60,17 +60,17 @@ Commons_category: Percentages
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Percent](/_Standards/Dimension/Dim~Number/Unit~Percent.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Unit~Percent|Unit~Percent]] 
 
-### #is_/same_as :: [Unit~Percent.public](/_public/Dimension/Dim~Number/Unit~Percent.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Unit~Percent.public|Unit~Percent.public]] 
 
-### #is_/same_as :: [Unit~Percent.internal](/_internal/Dimension/Dim~Number/Unit~Percent.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Unit~Percent.internal|Unit~Percent.internal]] 
 
-### #is_/same_as :: [Unit~Percent.protect](/_protect/Dimension/Dim~Number/Unit~Percent.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Unit~Percent.protect|Unit~Percent.protect]] 
 
-### #is_/same_as :: [Unit~Percent.private](/_private/Dimension/Dim~Number/Unit~Percent.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Unit~Percent.private|Unit~Percent.private]] 
 
-### #is_/same_as :: [Unit~Percent.personal](/_personal/Dimension/Dim~Number/Unit~Percent.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Unit~Percent.personal|Unit~Percent.personal]] 
 
-### #is_/same_as :: [Unit~Percent.secret](/_secret/Dimension/Dim~Number/Unit~Percent.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Unit~Percent.secret|Unit~Percent.secret]] 
 

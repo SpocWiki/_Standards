@@ -154,17 +154,17 @@ P1015: "90080278"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bertolucci,Bernardo](/_Standards/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo|Bertolucci,Bernardo]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.public](/_public/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.public|Bertolucci,Bernardo.public]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.internal|Bertolucci,Bernardo.internal]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.protect|Bertolucci,Bernardo.protect]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.private](/_private/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.private|Bertolucci,Bernardo.private]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.personal|Bertolucci,Bernardo.personal]] 
 
-### #is_/same_as :: [Bertolucci,Bernardo.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bertolucci,Bernardo.secret|Bertolucci,Bernardo.secret]] 
 

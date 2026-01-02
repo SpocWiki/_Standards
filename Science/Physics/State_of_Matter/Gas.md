@@ -44,17 +44,17 @@ U_S_National_Archives_Identifier: 10637828
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gas](/_Standards/Science/Physics/State_of_Matter/Gas.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Gas|Gas]] 
 
-### #is_/same_as :: [Gas.public](/_public/Science/Physics/State_of_Matter/Gas.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Gas.public|Gas.public]] 
 
-### #is_/same_as :: [Gas.internal](/_internal/Science/Physics/State_of_Matter/Gas.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Gas.internal|Gas.internal]] 
 
-### #is_/same_as :: [Gas.protect](/_protect/Science/Physics/State_of_Matter/Gas.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Gas.protect|Gas.protect]] 
 
-### #is_/same_as :: [Gas.private](/_private/Science/Physics/State_of_Matter/Gas.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Gas.private|Gas.private]] 
 
-### #is_/same_as :: [Gas.personal](/_personal/Science/Physics/State_of_Matter/Gas.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Gas.personal|Gas.personal]] 
 
-### #is_/same_as :: [Gas.secret](/_secret/Science/Physics/State_of_Matter/Gas.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Gas.secret|Gas.secret]] 
 

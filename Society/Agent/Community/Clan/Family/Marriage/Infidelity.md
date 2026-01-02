@@ -46,17 +46,17 @@ PhilPapers_topic: infidelity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infidelity](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Infidelity.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Infidelity|Infidelity]] 
 
-### #is_/same_as :: [Infidelity.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Infidelity.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Infidelity.public|Infidelity.public]] 
 
-### #is_/same_as :: [Infidelity.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.internal|Infidelity.internal]] 
 
-### #is_/same_as :: [Infidelity.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Infidelity.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Infidelity.protect|Infidelity.protect]] 
 
-### #is_/same_as :: [Infidelity.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Infidelity.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Infidelity.private|Infidelity.private]] 
 
-### #is_/same_as :: [Infidelity.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Infidelity.personal|Infidelity.personal]] 
 
-### #is_/same_as :: [Infidelity.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Infidelity.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Infidelity.secret|Infidelity.secret]] 
 

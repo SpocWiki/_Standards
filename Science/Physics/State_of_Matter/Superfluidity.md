@@ -57,17 +57,17 @@ non-classical state of matter.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Superfluidity](/_Standards/Science/Physics/State_of_Matter/Superfluidity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Superfluidity|Superfluidity]] 
 
-### #is_/same_as :: [Superfluidity.public](/_public/Science/Physics/State_of_Matter/Superfluidity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Superfluidity.public|Superfluidity.public]] 
 
-### #is_/same_as :: [Superfluidity.internal](/_internal/Science/Physics/State_of_Matter/Superfluidity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Superfluidity.internal|Superfluidity.internal]] 
 
-### #is_/same_as :: [Superfluidity.protect](/_protect/Science/Physics/State_of_Matter/Superfluidity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Superfluidity.protect|Superfluidity.protect]] 
 
-### #is_/same_as :: [Superfluidity.private](/_private/Science/Physics/State_of_Matter/Superfluidity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Superfluidity.private|Superfluidity.private]] 
 
-### #is_/same_as :: [Superfluidity.personal](/_personal/Science/Physics/State_of_Matter/Superfluidity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Superfluidity.personal|Superfluidity.personal]] 
 
-### #is_/same_as :: [Superfluidity.secret](/_secret/Science/Physics/State_of_Matter/Superfluidity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Superfluidity.secret|Superfluidity.secret]] 
 

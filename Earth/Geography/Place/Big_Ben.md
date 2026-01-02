@@ -83,17 +83,17 @@ hashtag: ElizabethTower
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Ben](/_Standards/Earth/Geography/Place/Big_Ben.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Big_Ben|Big_Ben]] 
 
-### #is_/same_as :: [Big_Ben.public](/_public/Earth/Geography/Place/Big_Ben.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Big_Ben.public|Big_Ben.public]] 
 
-### #is_/same_as :: [Big_Ben.internal](/_internal/Earth/Geography/Place/Big_Ben.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Big_Ben.internal|Big_Ben.internal]] 
 
-### #is_/same_as :: [Big_Ben.protect](/_protect/Earth/Geography/Place/Big_Ben.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Big_Ben.protect|Big_Ben.protect]] 
 
-### #is_/same_as :: [Big_Ben.private](/_private/Earth/Geography/Place/Big_Ben.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Big_Ben.private|Big_Ben.private]] 
 
-### #is_/same_as :: [Big_Ben.personal](/_personal/Earth/Geography/Place/Big_Ben.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Big_Ben.personal|Big_Ben.personal]] 
 
-### #is_/same_as :: [Big_Ben.secret](/_secret/Earth/Geography/Place/Big_Ben.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Big_Ben.secret|Big_Ben.secret]] 
 

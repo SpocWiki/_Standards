@@ -70,17 +70,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Chicken"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chicken_Meat](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat|Chicken_Meat]] 
 
-### #is_/same_as :: [Chicken_Meat.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.public|Chicken_Meat.public]] 
 
-### #is_/same_as :: [Chicken_Meat.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.internal|Chicken_Meat.internal]] 
 
-### #is_/same_as :: [Chicken_Meat.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.protect|Chicken_Meat.protect]] 
 
-### #is_/same_as :: [Chicken_Meat.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.private|Chicken_Meat.private]] 
 
-### #is_/same_as :: [Chicken_Meat.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.personal|Chicken_Meat.personal]] 
 
-### #is_/same_as :: [Chicken_Meat.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Chicken_Meat.secret|Chicken_Meat.secret]] 
 

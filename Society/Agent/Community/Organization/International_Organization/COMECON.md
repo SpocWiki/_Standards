@@ -46,17 +46,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/WiezowiecRWPGwMoskwie.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [COMECON](/_Standards/Society/Agent/Community/Organization/International_Organization/COMECON.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/COMECON|COMECON]] 
 
-### #is_/same_as :: [COMECON.public](/_public/Society/Agent/Community/Organization/International_Organization/COMECON.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/COMECON.public|COMECON.public]] 
 
-### #is_/same_as :: [COMECON.internal](/_internal/Society/Agent/Community/Organization/International_Organization/COMECON.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/COMECON.internal|COMECON.internal]] 
 
-### #is_/same_as :: [COMECON.protect](/_protect/Society/Agent/Community/Organization/International_Organization/COMECON.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/COMECON.protect|COMECON.protect]] 
 
-### #is_/same_as :: [COMECON.private](/_private/Society/Agent/Community/Organization/International_Organization/COMECON.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/COMECON.private|COMECON.private]] 
 
-### #is_/same_as :: [COMECON.personal](/_personal/Society/Agent/Community/Organization/International_Organization/COMECON.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/COMECON.personal|COMECON.personal]] 
 
-### #is_/same_as :: [COMECON.secret](/_secret/Society/Agent/Community/Organization/International_Organization/COMECON.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/COMECON.secret|COMECON.secret]] 
 

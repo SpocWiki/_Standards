@@ -47,17 +47,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rock(geology)](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)|Rock(geology)]] 
 
-### #is_/same_as :: [Rock(geology).public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).public|Rock(geology).public]] 
 
-### #is_/same_as :: [Rock(geology).internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).internal|Rock(geology).internal]] 
 
-### #is_/same_as :: [Rock(geology).protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).protect|Rock(geology).protect]] 
 
-### #is_/same_as :: [Rock(geology).private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).private|Rock(geology).private]] 
 
-### #is_/same_as :: [Rock(geology).personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).personal|Rock(geology).personal]] 
 
-### #is_/same_as :: [Rock(geology).secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology).secret|Rock(geology).secret]] 
 

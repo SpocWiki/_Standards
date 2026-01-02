@@ -67,17 +67,17 @@ short_name: Crt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Crater](/_Standards/Astronomy/Star~Constellation/Zodiac~Crater.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Crater|Zodiac~Crater]] 
 
-### #is_/same_as :: [Zodiac~Crater.public](/_public/Astronomy/Star~Constellation/Zodiac~Crater.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Crater.public|Zodiac~Crater.public]] 
 
-### #is_/same_as :: [Zodiac~Crater.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Crater.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Crater.internal|Zodiac~Crater.internal]] 
 
-### #is_/same_as :: [Zodiac~Crater.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Crater.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Crater.protect|Zodiac~Crater.protect]] 
 
-### #is_/same_as :: [Zodiac~Crater.private](/_private/Astronomy/Star~Constellation/Zodiac~Crater.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Crater.private|Zodiac~Crater.private]] 
 
-### #is_/same_as :: [Zodiac~Crater.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Crater.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Crater.personal|Zodiac~Crater.personal]] 
 
-### #is_/same_as :: [Zodiac~Crater.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Crater.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Crater.secret|Zodiac~Crater.secret]] 
 

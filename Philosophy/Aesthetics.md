@@ -55,17 +55,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_aesthetics,16000272]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aesthetics](/_Standards/Philosophy/Aesthetics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Aesthetics|Aesthetics]] 
 
-### #is_/same_as :: [Aesthetics.public](/_public/Philosophy/Aesthetics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Aesthetics.public|Aesthetics.public]] 
 
-### #is_/same_as :: [Aesthetics.internal](/_internal/Philosophy/Aesthetics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Aesthetics.internal|Aesthetics.internal]] 
 
-### #is_/same_as :: [Aesthetics.protect](/_protect/Philosophy/Aesthetics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Aesthetics.protect|Aesthetics.protect]] 
 
-### #is_/same_as :: [Aesthetics.private](/_private/Philosophy/Aesthetics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Aesthetics.private|Aesthetics.private]] 
 
-### #is_/same_as :: [Aesthetics.personal](/_personal/Philosophy/Aesthetics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Aesthetics.personal|Aesthetics.personal]] 
 
-### #is_/same_as :: [Aesthetics.secret](/_secret/Philosophy/Aesthetics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Aesthetics.secret|Aesthetics.secret]] 
 

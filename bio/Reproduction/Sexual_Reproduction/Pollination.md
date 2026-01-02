@@ -52,17 +52,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pollination](/_Standards/bio/Reproduction/Sexual_Reproduction/Pollination.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Pollination|Pollination]] 
 
-### #is_/same_as :: [Pollination.public](/_public/bio/Reproduction/Sexual_Reproduction/Pollination.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Pollination.public|Pollination.public]] 
 
-### #is_/same_as :: [Pollination.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Pollination.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Pollination.internal|Pollination.internal]] 
 
-### #is_/same_as :: [Pollination.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Pollination.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Pollination.protect|Pollination.protect]] 
 
-### #is_/same_as :: [Pollination.private](/_private/bio/Reproduction/Sexual_Reproduction/Pollination.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Pollination.private|Pollination.private]] 
 
-### #is_/same_as :: [Pollination.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Pollination.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Pollination.personal|Pollination.personal]] 
 
-### #is_/same_as :: [Pollination.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Pollination.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Pollination.secret|Pollination.secret]] 
 

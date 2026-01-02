@@ -39,17 +39,17 @@ Design models for medical trials. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Trial_Design](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design|Medical_Trial_Design]] 
 
-### #is_/same_as :: [Medical_Trial_Design.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.public|Medical_Trial_Design.public]] 
 
-### #is_/same_as :: [Medical_Trial_Design.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.internal|Medical_Trial_Design.internal]] 
 
-### #is_/same_as :: [Medical_Trial_Design.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.protect|Medical_Trial_Design.protect]] 
 
-### #is_/same_as :: [Medical_Trial_Design.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.private|Medical_Trial_Design.private]] 
 
-### #is_/same_as :: [Medical_Trial_Design.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.personal|Medical_Trial_Design.personal]] 
 
-### #is_/same_as :: [Medical_Trial_Design.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design.secret|Medical_Trial_Design.secret]] 
 

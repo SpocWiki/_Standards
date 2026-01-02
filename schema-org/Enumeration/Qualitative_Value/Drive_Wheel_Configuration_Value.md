@@ -41,17 +41,17 @@ A value indicating which roadwheels will receive torque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value](/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value|Drive_Wheel_Configuration_Value]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.public](/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.public|Drive_Wheel_Configuration_Value.public]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.internal|Drive_Wheel_Configuration_Value.internal]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.protect|Drive_Wheel_Configuration_Value.protect]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.private](/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.private|Drive_Wheel_Configuration_Value.private]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.personal|Drive_Wheel_Configuration_Value.personal]] 
 
-### #is_/same_as :: [Drive_Wheel_Configuration_Value.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value.secret|Drive_Wheel_Configuration_Value.secret]] 
 

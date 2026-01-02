@@ -133,17 +133,17 @@ P1015: 90382225
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [De_Sica,Vittorio](/_Standards/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio|De_Sica,Vittorio]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.public](/_public/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.public|De_Sica,Vittorio.public]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.internal|De_Sica,Vittorio.internal]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.protect|De_Sica,Vittorio.protect]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.private](/_private/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.private|De_Sica,Vittorio.private]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.personal|De_Sica,Vittorio.personal]] 
 
-### #is_/same_as :: [De_Sica,Vittorio.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/De_Sica,Vittorio.secret|De_Sica,Vittorio.secret]] 
 

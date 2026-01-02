@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_of_POS](/_Standards/schema-org/Property/has_location/has_location_of_POS.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_of_POS|has_location_of_POS]] 
 
-### #is_/same_as :: [has_location_of_POS.public](/_public/schema-org/Property/has_location/has_location_of_POS.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_of_POS.public|has_location_of_POS.public]] 
 
-### #is_/same_as :: [has_location_of_POS.internal](/_internal/schema-org/Property/has_location/has_location_of_POS.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_of_POS.internal|has_location_of_POS.internal]] 
 
-### #is_/same_as :: [has_location_of_POS.protect](/_protect/schema-org/Property/has_location/has_location_of_POS.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_of_POS.protect|has_location_of_POS.protect]] 
 
-### #is_/same_as :: [has_location_of_POS.private](/_private/schema-org/Property/has_location/has_location_of_POS.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_of_POS.private|has_location_of_POS.private]] 
 
-### #is_/same_as :: [has_location_of_POS.personal](/_personal/schema-org/Property/has_location/has_location_of_POS.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_of_POS.personal|has_location_of_POS.personal]] 
 
-### #is_/same_as :: [has_location_of_POS.secret](/_secret/schema-org/Property/has_location/has_location_of_POS.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_of_POS.secret|has_location_of_POS.secret]] 
 

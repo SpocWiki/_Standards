@@ -59,17 +59,17 @@ ServiceOperator:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~GovernmentService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService|FileClass~GovernmentService]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.public|FileClass~GovernmentService.public]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.internal|FileClass~GovernmentService.internal]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.protect|FileClass~GovernmentService.protect]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.private|FileClass~GovernmentService.private]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.personal|FileClass~GovernmentService.personal]] 
 
-### #is_/same_as :: [FileClass~GovernmentService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~GovernmentService.secret|FileClass~GovernmentService.secret]] 
 

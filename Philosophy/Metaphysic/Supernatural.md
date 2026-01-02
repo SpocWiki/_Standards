@@ -32,17 +32,17 @@ Baidu_Tieba_name: 超自然
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supernatural](/_Standards/Philosophy/Metaphysic/Supernatural.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural|Supernatural]] 
 
-### #is_/same_as :: [Supernatural.public](/_public/Philosophy/Metaphysic/Supernatural.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural.public|Supernatural.public]] 
 
-### #is_/same_as :: [Supernatural.internal](/_internal/Philosophy/Metaphysic/Supernatural.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural.internal|Supernatural.internal]] 
 
-### #is_/same_as :: [Supernatural.protect](/_protect/Philosophy/Metaphysic/Supernatural.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural.protect|Supernatural.protect]] 
 
-### #is_/same_as :: [Supernatural.private](/_private/Philosophy/Metaphysic/Supernatural.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural.private|Supernatural.private]] 
 
-### #is_/same_as :: [Supernatural.personal](/_personal/Philosophy/Metaphysic/Supernatural.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural.personal|Supernatural.personal]] 
 
-### #is_/same_as :: [Supernatural.secret](/_secret/Philosophy/Metaphysic/Supernatural.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural.secret|Supernatural.secret]] 
 

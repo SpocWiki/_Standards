@@ -38,17 +38,17 @@ Gujarati_Vishwakosh_entry: શ્વાર્ઝસ્ચાઇલ્ડ-ત્�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schwarzschild_Radius](/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius|Schwarzschild_Radius]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.public](/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.public|Schwarzschild_Radius.public]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.internal](/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.internal|Schwarzschild_Radius.internal]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.protect](/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.protect|Schwarzschild_Radius.protect]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.private](/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.private|Schwarzschild_Radius.private]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.personal](/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.personal|Schwarzschild_Radius.personal]] 
 
-### #is_/same_as :: [Schwarzschild_Radius.secret](/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theory_of_Relativity/General_Relativity/Schwarzschild_Radius.secret|Schwarzschild_Radius.secret]] 
 

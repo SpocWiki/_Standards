@@ -37,17 +37,17 @@ Beach.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Beach](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach|FileClass~Beach]] 
 
-### #is_/same_as :: [FileClass~Beach.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.public|FileClass~Beach.public]] 
 
-### #is_/same_as :: [FileClass~Beach.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.internal|FileClass~Beach.internal]] 
 
-### #is_/same_as :: [FileClass~Beach.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.protect|FileClass~Beach.protect]] 
 
-### #is_/same_as :: [FileClass~Beach.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.private|FileClass~Beach.private]] 
 
-### #is_/same_as :: [FileClass~Beach.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.personal|FileClass~Beach.personal]] 
 
-### #is_/same_as :: [FileClass~Beach.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Beach.secret|FileClass~Beach.secret]] 
 

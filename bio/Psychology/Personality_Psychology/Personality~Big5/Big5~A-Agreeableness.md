@@ -70,17 +70,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~A-Agreeableness](Big5~A-Agreeableness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness|Big5~A-Agreeableness]] 
 
-### #is_/same_as :: [Big5~Agreeableness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.public|Big5~A-Agreeableness.public]] 
 
-### #is_/same_as :: [Big5~Agreeableness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.internal|Big5~A-Agreeableness.internal]] 
 
-### #is_/same_as :: [Big5~Agreeableness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.protect|Big5~A-Agreeableness.protect]] 
 
-### #is_/same_as :: [Big5~Agreeableness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.private|Big5~A-Agreeableness.private]] 
 
-### #is_/same_as :: [Big5~Agreeableness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.personal|Big5~A-Agreeableness.personal]] 
 
-### #is_/same_as :: [Big5~Agreeableness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Agreeableness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~A-Agreeableness.secret|Big5~A-Agreeableness.secret]] 
 

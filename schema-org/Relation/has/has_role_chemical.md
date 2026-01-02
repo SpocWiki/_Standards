@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_role_chemical](/_Standards/schema-org/Relation/has/has_role_chemical.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_role_chemical|has_role_chemical]] 
 
-### #is_/same_as :: [has_role_chemical.public](/_public/schema-org/Relation/has/has_role_chemical.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_role_chemical.public|has_role_chemical.public]] 
 
-### #is_/same_as :: [has_role_chemical.internal](/_internal/schema-org/Relation/has/has_role_chemical.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_role_chemical.internal|has_role_chemical.internal]] 
 
-### #is_/same_as :: [has_role_chemical.protect](/_protect/schema-org/Relation/has/has_role_chemical.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_role_chemical.protect|has_role_chemical.protect]] 
 
-### #is_/same_as :: [has_role_chemical.private](/_private/schema-org/Relation/has/has_role_chemical.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_role_chemical.private|has_role_chemical.private]] 
 
-### #is_/same_as :: [has_role_chemical.personal](/_personal/schema-org/Relation/has/has_role_chemical.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_role_chemical.personal|has_role_chemical.personal]] 
 
-### #is_/same_as :: [has_role_chemical.secret](/_secret/schema-org/Relation/has/has_role_chemical.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_role_chemical.secret|has_role_chemical.secret]] 
 

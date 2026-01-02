@@ -58,17 +58,17 @@ MeSH_tree_code: I01.076.201.450.457
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethnology](/_Standards/Society/Anthropology/Sociology/Ethnology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Ethnology|Ethnology]] 
 
-### #is_/same_as :: [Ethnology.public](/_public/Society/Anthropology/Sociology/Ethnology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Ethnology.public|Ethnology.public]] 
 
-### #is_/same_as :: [Ethnology.internal](/_internal/Society/Anthropology/Sociology/Ethnology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Ethnology.internal|Ethnology.internal]] 
 
-### #is_/same_as :: [Ethnology.protect](/_protect/Society/Anthropology/Sociology/Ethnology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Ethnology.protect|Ethnology.protect]] 
 
-### #is_/same_as :: [Ethnology.private](/_private/Society/Anthropology/Sociology/Ethnology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Ethnology.private|Ethnology.private]] 
 
-### #is_/same_as :: [Ethnology.personal](/_personal/Society/Anthropology/Sociology/Ethnology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Ethnology.personal|Ethnology.personal]] 
 
-### #is_/same_as :: [Ethnology.secret](/_secret/Society/Anthropology/Sociology/Ethnology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Ethnology.secret|Ethnology.secret]] 
 

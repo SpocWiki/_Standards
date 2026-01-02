@@ -53,17 +53,17 @@ Commons_category: Fourier analysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fourier_Analysis](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis|Fourier_Analysis]] 
 
-### #is_/same_as :: [Fourier_Analysis.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.public|Fourier_Analysis.public]] 
 
-### #is_/same_as :: [Fourier_Analysis.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.internal|Fourier_Analysis.internal]] 
 
-### #is_/same_as :: [Fourier_Analysis.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.protect|Fourier_Analysis.protect]] 
 
-### #is_/same_as :: [Fourier_Analysis.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.private|Fourier_Analysis.private]] 
 
-### #is_/same_as :: [Fourier_Analysis.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.personal|Fourier_Analysis.personal]] 
 
-### #is_/same_as :: [Fourier_Analysis.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis.secret|Fourier_Analysis.secret]] 
 

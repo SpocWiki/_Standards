@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_in_collection](/_Standards/schema-org/Relation/is/is_in_collection.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_in_collection|is_in_collection]] 
 
-### #is_/same_as :: [is_in_collection.public](/_public/schema-org/Relation/is/is_in_collection.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_in_collection.public|is_in_collection.public]] 
 
-### #is_/same_as :: [is_in_collection.internal](/_internal/schema-org/Relation/is/is_in_collection.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_in_collection.internal|is_in_collection.internal]] 
 
-### #is_/same_as :: [is_in_collection.protect](/_protect/schema-org/Relation/is/is_in_collection.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_in_collection.protect|is_in_collection.protect]] 
 
-### #is_/same_as :: [is_in_collection.private](/_private/schema-org/Relation/is/is_in_collection.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_in_collection.private|is_in_collection.private]] 
 
-### #is_/same_as :: [is_in_collection.personal](/_personal/schema-org/Relation/is/is_in_collection.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_in_collection.personal|is_in_collection.personal]] 
 
-### #is_/same_as :: [is_in_collection.secret](/_secret/schema-org/Relation/is/is_in_collection.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_in_collection.secret|is_in_collection.secret]] 
 

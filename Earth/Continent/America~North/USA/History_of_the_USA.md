@@ -96,3 +96,22 @@ Commons_category: History of the United States
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20United%20States) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA|History_of_the_USA]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA.public|History_of_the_USA.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA.internal|History_of_the_USA.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA.protect|History_of_the_USA.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA.private|History_of_the_USA.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA.personal|History_of_the_USA.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA.secret|History_of_the_USA.secret]] 
+

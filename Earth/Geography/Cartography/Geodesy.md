@@ -51,17 +51,17 @@ Commons_category: Geodesy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geodesy](/_Standards/Earth/Geography/Cartography/Geodesy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Geodesy|Geodesy]] 
 
-### #is_/same_as :: [Geodesy.public](/_public/Earth/Geography/Cartography/Geodesy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Geodesy.public|Geodesy.public]] 
 
-### #is_/same_as :: [Geodesy.internal](/_internal/Earth/Geography/Cartography/Geodesy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Geodesy.internal|Geodesy.internal]] 
 
-### #is_/same_as :: [Geodesy.protect](/_protect/Earth/Geography/Cartography/Geodesy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Geodesy.protect|Geodesy.protect]] 
 
-### #is_/same_as :: [Geodesy.private](/_private/Earth/Geography/Cartography/Geodesy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Geodesy.private|Geodesy.private]] 
 
-### #is_/same_as :: [Geodesy.personal](/_personal/Earth/Geography/Cartography/Geodesy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Geodesy.personal|Geodesy.personal]] 
 
-### #is_/same_as :: [Geodesy.secret](/_secret/Earth/Geography/Cartography/Geodesy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Geodesy.secret|Geodesy.secret]] 
 

@@ -228,17 +228,17 @@ ISNI: 000000012186288X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Library_of_Congress](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress|Library_of_Congress]] 
 
-### #is_/same_as :: [Library_of_Congress.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.public|Library_of_Congress.public]] 
 
-### #is_/same_as :: [Library_of_Congress.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.internal|Library_of_Congress.internal]] 
 
-### #is_/same_as :: [Library_of_Congress.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.protect|Library_of_Congress.protect]] 
 
-### #is_/same_as :: [Library_of_Congress.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.private|Library_of_Congress.private]] 
 
-### #is_/same_as :: [Library_of_Congress.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.personal|Library_of_Congress.personal]] 
 
-### #is_/same_as :: [Library_of_Congress.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Library_of_Congress.secret|Library_of_Congress.secret]] 
 

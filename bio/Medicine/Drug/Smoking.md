@@ -78,17 +78,17 @@ MeSH_tree_code: F01.145.805
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smoking](/_Standards/bio/Medicine/Drug/Smoking.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Smoking|Smoking]] 
 
-### #is_/same_as :: [Smoking.public](/_public/bio/Medicine/Drug/Smoking.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Smoking.public|Smoking.public]] 
 
-### #is_/same_as :: [Smoking.internal](/_internal/bio/Medicine/Drug/Smoking.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Smoking.internal|Smoking.internal]] 
 
-### #is_/same_as :: [Smoking.protect](/_protect/bio/Medicine/Drug/Smoking.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Smoking.protect|Smoking.protect]] 
 
-### #is_/same_as :: [Smoking.private](/_private/bio/Medicine/Drug/Smoking.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Smoking.private|Smoking.private]] 
 
-### #is_/same_as :: [Smoking.personal](/_personal/bio/Medicine/Drug/Smoking.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Smoking.personal|Smoking.personal]] 
 
-### #is_/same_as :: [Smoking.secret](/_secret/bio/Medicine/Drug/Smoking.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Smoking.secret|Smoking.secret]] 
 

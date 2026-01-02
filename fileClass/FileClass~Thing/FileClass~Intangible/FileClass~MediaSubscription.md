@@ -59,17 +59,17 @@ ExpectsAcceptanceOf:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MediaSubscription](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription|FileClass~MediaSubscription]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.public|FileClass~MediaSubscription.public]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.internal|FileClass~MediaSubscription.internal]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.protect|FileClass~MediaSubscription.protect]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.private|FileClass~MediaSubscription.private]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.personal|FileClass~MediaSubscription.personal]] 
 
-### #is_/same_as :: [FileClass~MediaSubscription.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MediaSubscription.secret|FileClass~MediaSubscription.secret]] 
 

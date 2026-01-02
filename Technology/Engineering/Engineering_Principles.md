@@ -53,17 +53,17 @@ One Argument for Business Re-Engineering is [[Shakedown]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engineering_Principles](/_Standards/Technology/Engineering/Engineering_Principles.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Engineering_Principles|Engineering_Principles]] 
 
-### #is_/same_as :: [Engineering_Principles.public](/_public/Technology/Engineering/Engineering_Principles.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Engineering_Principles.public|Engineering_Principles.public]] 
 
-### #is_/same_as :: [Engineering_Principles.internal](/_internal/Technology/Engineering/Engineering_Principles.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Engineering_Principles.internal|Engineering_Principles.internal]] 
 
-### #is_/same_as :: [Engineering_Principles.protect](/_protect/Technology/Engineering/Engineering_Principles.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Engineering_Principles.protect|Engineering_Principles.protect]] 
 
-### #is_/same_as :: [Engineering_Principles.private](/_private/Technology/Engineering/Engineering_Principles.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Engineering_Principles.private|Engineering_Principles.private]] 
 
-### #is_/same_as :: [Engineering_Principles.personal](/_personal/Technology/Engineering/Engineering_Principles.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Engineering_Principles.personal|Engineering_Principles.personal]] 
 
-### #is_/same_as :: [Engineering_Principles.secret](/_secret/Technology/Engineering/Engineering_Principles.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Engineering_Principles.secret|Engineering_Principles.secret]] 
 

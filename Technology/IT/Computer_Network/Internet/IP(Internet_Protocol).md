@@ -54,17 +54,17 @@ Wolfram_Language_entity_code: Entity["Concept", "TCPIP::8s584"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IP(Internet_Protocol)](/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)|IP(Internet_Protocol)]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).public](/_public/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).public|IP(Internet_Protocol).public]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).internal](/_internal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).internal|IP(Internet_Protocol).internal]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).protect](/_protect/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).protect|IP(Internet_Protocol).protect]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).private](/_private/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).private|IP(Internet_Protocol).private]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).personal](/_personal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).personal|IP(Internet_Protocol).personal]] 
 
-### #is_/same_as :: [IP(Internet_Protocol).secret](/_secret/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol).secret|IP(Internet_Protocol).secret]] 
 

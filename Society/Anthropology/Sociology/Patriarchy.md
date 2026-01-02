@@ -52,17 +52,17 @@ IMDb_keyword: patriarchy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Patriarchy](/_Standards/Society/Anthropology/Sociology/Patriarchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Patriarchy|Patriarchy]] 
 
-### #is_/same_as :: [Patriarchy.public](/_public/Society/Anthropology/Sociology/Patriarchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Patriarchy.public|Patriarchy.public]] 
 
-### #is_/same_as :: [Patriarchy.internal](/_internal/Society/Anthropology/Sociology/Patriarchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Patriarchy.internal|Patriarchy.internal]] 
 
-### #is_/same_as :: [Patriarchy.protect](/_protect/Society/Anthropology/Sociology/Patriarchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Patriarchy.protect|Patriarchy.protect]] 
 
-### #is_/same_as :: [Patriarchy.private](/_private/Society/Anthropology/Sociology/Patriarchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Patriarchy.private|Patriarchy.private]] 
 
-### #is_/same_as :: [Patriarchy.personal](/_personal/Society/Anthropology/Sociology/Patriarchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Patriarchy.personal|Patriarchy.personal]] 
 
-### #is_/same_as :: [Patriarchy.secret](/_secret/Society/Anthropology/Sociology/Patriarchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Patriarchy.secret|Patriarchy.secret]] 
 

@@ -144,17 +144,17 @@ RecordedAs:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicComposition](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition|FileClass~MusicComposition]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.public|FileClass~MusicComposition.public]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.internal|FileClass~MusicComposition.internal]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.protect|FileClass~MusicComposition.protect]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.private|FileClass~MusicComposition.private]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.personal|FileClass~MusicComposition.personal]] 
 
-### #is_/same_as :: [FileClass~MusicComposition.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MusicComposition.secret|FileClass~MusicComposition.secret]] 
 

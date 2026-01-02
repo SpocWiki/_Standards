@@ -56,17 +56,17 @@ Commons_category: Evil
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Evil](/_Standards/Philosophy/Ethics/Evil.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Evil|Evil]] 
 
-### #is_/same_as :: [Evil.public](/_public/Philosophy/Ethics/Evil.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Evil.public|Evil.public]] 
 
-### #is_/same_as :: [Evil.internal](/_internal/Philosophy/Ethics/Evil.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Evil.internal|Evil.internal]] 
 
-### #is_/same_as :: [Evil.protect](/_protect/Philosophy/Ethics/Evil.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Evil.protect|Evil.protect]] 
 
-### #is_/same_as :: [Evil.private](/_private/Philosophy/Ethics/Evil.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Evil.private|Evil.private]] 
 
-### #is_/same_as :: [Evil.personal](/_personal/Philosophy/Ethics/Evil.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Evil.personal|Evil.personal]] 
 
-### #is_/same_as :: [Evil.secret](/_secret/Philosophy/Ethics/Evil.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Evil.secret|Evil.secret]] 
 

@@ -40,17 +40,17 @@ Library_of_Congress_Classification: BR140-BR1510
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Christianity](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity|History_of_Christianity]] 
 
-### #is_/same_as :: [History_of_Christianity.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.public|History_of_Christianity.public]] 
 
-### #is_/same_as :: [History_of_Christianity.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.internal|History_of_Christianity.internal]] 
 
-### #is_/same_as :: [History_of_Christianity.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.protect|History_of_Christianity.protect]] 
 
-### #is_/same_as :: [History_of_Christianity.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.private|History_of_Christianity.private]] 
 
-### #is_/same_as :: [History_of_Christianity.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.personal|History_of_Christianity.personal]] 
 
-### #is_/same_as :: [History_of_Christianity.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/History_of_Christianity.secret|History_of_Christianity.secret]] 
 

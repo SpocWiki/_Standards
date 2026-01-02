@@ -54,17 +54,17 @@ Library_of_Congress_Classification: QP187.A1-QP187.Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Endocrine_System](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System|Endocrine_System]] 
 
-### #is_/same_as :: [Endocrine_System.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.public|Endocrine_System.public]] 
 
-### #is_/same_as :: [Endocrine_System.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.internal|Endocrine_System.internal]] 
 
-### #is_/same_as :: [Endocrine_System.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.protect|Endocrine_System.protect]] 
 
-### #is_/same_as :: [Endocrine_System.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.private|Endocrine_System.private]] 
 
-### #is_/same_as :: [Endocrine_System.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.personal|Endocrine_System.personal]] 
 
-### #is_/same_as :: [Endocrine_System.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Endocrine_System.secret|Endocrine_System.secret]] 
 

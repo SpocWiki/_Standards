@@ -37,17 +37,17 @@ Krugosvet_article: gosudarstvo-i-politika/detsentralizatsiya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decentralization](/_Standards/Earth/Geography/Decentralization.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Decentralization|Decentralization]] 
 
-### #is_/same_as :: [Decentralization.public](/_public/Earth/Geography/Decentralization.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Decentralization.public|Decentralization.public]] 
 
-### #is_/same_as :: [Decentralization.internal](/_internal/Earth/Geography/Decentralization.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Decentralization.internal|Decentralization.internal]] 
 
-### #is_/same_as :: [Decentralization.protect](/_protect/Earth/Geography/Decentralization.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Decentralization.protect|Decentralization.protect]] 
 
-### #is_/same_as :: [Decentralization.private](/_private/Earth/Geography/Decentralization.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Decentralization.private|Decentralization.private]] 
 
-### #is_/same_as :: [Decentralization.personal](/_personal/Earth/Geography/Decentralization.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Decentralization.personal|Decentralization.personal]] 
 
-### #is_/same_as :: [Decentralization.secret](/_secret/Earth/Geography/Decentralization.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Decentralization.secret|Decentralization.secret]] 
 

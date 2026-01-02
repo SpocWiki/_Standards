@@ -391,17 +391,17 @@ Biotechnology Adv. 22(1-2):161-187.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hymenochaetales](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales|Hymenochaetales]] 
 
-### #is_/same_as :: [Hymenochaetales.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.public|Hymenochaetales.public]] 
 
-### #is_/same_as :: [Hymenochaetales.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.internal|Hymenochaetales.internal]] 
 
-### #is_/same_as :: [Hymenochaetales.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.protect|Hymenochaetales.protect]] 
 
-### #is_/same_as :: [Hymenochaetales.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.private|Hymenochaetales.private]] 
 
-### #is_/same_as :: [Hymenochaetales.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.personal|Hymenochaetales.personal]] 
 
-### #is_/same_as :: [Hymenochaetales.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Agaricomycotina/Agaricomycetes/Hymenochaetales.secret|Hymenochaetales.secret]] 
 

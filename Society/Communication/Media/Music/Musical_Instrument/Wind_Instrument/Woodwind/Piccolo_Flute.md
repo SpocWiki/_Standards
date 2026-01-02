@@ -46,17 +46,17 @@ Amazon_com_browse_node: 11972091
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piccolo_Flute](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute|Piccolo_Flute]] 
 
-### #is_/same_as :: [Piccolo_Flute.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.public|Piccolo_Flute.public]] 
 
-### #is_/same_as :: [Piccolo_Flute.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.internal|Piccolo_Flute.internal]] 
 
-### #is_/same_as :: [Piccolo_Flute.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.protect|Piccolo_Flute.protect]] 
 
-### #is_/same_as :: [Piccolo_Flute.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.private|Piccolo_Flute.private]] 
 
-### #is_/same_as :: [Piccolo_Flute.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.personal|Piccolo_Flute.personal]] 
 
-### #is_/same_as :: [Piccolo_Flute.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Piccolo_Flute.secret|Piccolo_Flute.secret]] 
 

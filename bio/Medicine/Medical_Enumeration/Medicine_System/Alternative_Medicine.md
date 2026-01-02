@@ -57,17 +57,17 @@ OpenStreetMap_tag_or_key: Tag:healthcare=alternative
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alternative_Medicine](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine|Alternative_Medicine]] 
 
-### #is_/same_as :: [Alternative_Medicine.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.public|Alternative_Medicine.public]] 
 
-### #is_/same_as :: [Alternative_Medicine.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.internal|Alternative_Medicine.internal]] 
 
-### #is_/same_as :: [Alternative_Medicine.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.protect|Alternative_Medicine.protect]] 
 
-### #is_/same_as :: [Alternative_Medicine.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.private|Alternative_Medicine.private]] 
 
-### #is_/same_as :: [Alternative_Medicine.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.personal|Alternative_Medicine.personal]] 
 
-### #is_/same_as :: [Alternative_Medicine.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Alternative_Medicine.secret|Alternative_Medicine.secret]] 
 

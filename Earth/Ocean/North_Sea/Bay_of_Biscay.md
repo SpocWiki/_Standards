@@ -84,17 +84,17 @@ official_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bay_of_Biscay](/_Standards/Earth/Ocean/North_Sea/Bay_of_Biscay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/North_Sea/Bay_of_Biscay|Bay_of_Biscay]] 
 
-### #is_/same_as :: [Bay_of_Biscay.public](/_public/Earth/Ocean/North_Sea/Bay_of_Biscay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/North_Sea/Bay_of_Biscay.public|Bay_of_Biscay.public]] 
 
-### #is_/same_as :: [Bay_of_Biscay.internal](/_internal/Earth/Ocean/North_Sea/Bay_of_Biscay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/North_Sea/Bay_of_Biscay.internal|Bay_of_Biscay.internal]] 
 
-### #is_/same_as :: [Bay_of_Biscay.protect](/_protect/Earth/Ocean/North_Sea/Bay_of_Biscay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/North_Sea/Bay_of_Biscay.protect|Bay_of_Biscay.protect]] 
 
-### #is_/same_as :: [Bay_of_Biscay.private](/_private/Earth/Ocean/North_Sea/Bay_of_Biscay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/North_Sea/Bay_of_Biscay.private|Bay_of_Biscay.private]] 
 
-### #is_/same_as :: [Bay_of_Biscay.personal](/_personal/Earth/Ocean/North_Sea/Bay_of_Biscay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/North_Sea/Bay_of_Biscay.personal|Bay_of_Biscay.personal]] 
 
-### #is_/same_as :: [Bay_of_Biscay.secret](/_secret/Earth/Ocean/North_Sea/Bay_of_Biscay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/North_Sea/Bay_of_Biscay.secret|Bay_of_Biscay.secret]] 
 

@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_live_blog_update](/_Standards/schema-org/Relation/has/has_live_blog_update.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_live_blog_update|has_live_blog_update]] 
 
-### #is_/same_as :: [has_live_blog_update.public](/_public/schema-org/Relation/has/has_live_blog_update.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_live_blog_update.public|has_live_blog_update.public]] 
 
-### #is_/same_as :: [has_live_blog_update.internal](/_internal/schema-org/Relation/has/has_live_blog_update.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_live_blog_update.internal|has_live_blog_update.internal]] 
 
-### #is_/same_as :: [has_live_blog_update.protect](/_protect/schema-org/Relation/has/has_live_blog_update.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_live_blog_update.protect|has_live_blog_update.protect]] 
 
-### #is_/same_as :: [has_live_blog_update.private](/_private/schema-org/Relation/has/has_live_blog_update.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_live_blog_update.private|has_live_blog_update.private]] 
 
-### #is_/same_as :: [has_live_blog_update.personal](/_personal/schema-org/Relation/has/has_live_blog_update.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_live_blog_update.personal|has_live_blog_update.personal]] 
 
-### #is_/same_as :: [has_live_blog_update.secret](/_secret/schema-org/Relation/has/has_live_blog_update.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_live_blog_update.secret|has_live_blog_update.secret]] 
 

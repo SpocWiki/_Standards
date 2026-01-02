@@ -206,17 +206,17 @@ official_name: Shell plc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shell_plc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc|Shell_plc]] 
 
-### #is_/same_as :: [Shell_plc.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.public|Shell_plc.public]] 
 
-### #is_/same_as :: [Shell_plc.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.internal|Shell_plc.internal]] 
 
-### #is_/same_as :: [Shell_plc.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.protect|Shell_plc.protect]] 
 
-### #is_/same_as :: [Shell_plc.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.private|Shell_plc.private]] 
 
-### #is_/same_as :: [Shell_plc.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.personal|Shell_plc.personal]] 
 
-### #is_/same_as :: [Shell_plc.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil/Shell_plc.secret|Shell_plc.secret]] 
 

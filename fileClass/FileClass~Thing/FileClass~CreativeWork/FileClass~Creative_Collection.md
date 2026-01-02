@@ -48,17 +48,17 @@ CollectionSize:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Creative_Collection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection|FileClass~Creative_Collection]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.public|FileClass~Creative_Collection.public]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.internal|FileClass~Creative_Collection.internal]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.protect|FileClass~Creative_Collection.protect]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.private|FileClass~Creative_Collection.private]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.personal|FileClass~Creative_Collection.personal]] 
 
-### #is_/same_as :: [FileClass~Creative_Collection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Creative_Collection.secret|FileClass~Creative_Collection.secret]] 
 

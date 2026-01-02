@@ -132,17 +132,17 @@ birth_name: Robert Lee Zemeckis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zemeckis,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert|Zemeckis,Robert]] 
 
-### #is_/same_as :: [Zemeckis,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.public|Zemeckis,Robert.public]] 
 
-### #is_/same_as :: [Zemeckis,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.internal|Zemeckis,Robert.internal]] 
 
-### #is_/same_as :: [Zemeckis,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.protect|Zemeckis,Robert.protect]] 
 
-### #is_/same_as :: [Zemeckis,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.private|Zemeckis,Robert.private]] 
 
-### #is_/same_as :: [Zemeckis,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.personal|Zemeckis,Robert.personal]] 
 
-### #is_/same_as :: [Zemeckis,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Zemeckis,Robert.secret|Zemeckis,Robert.secret]] 
 

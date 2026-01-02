@@ -31,17 +31,17 @@ Commons_category: Genetic drift
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genetic_Drift](/_Standards/bio/Genetics/Genetic_Drift.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Genetic_Drift|Genetic_Drift]] 
 
-### #is_/same_as :: [Genetic_Drift.public](/_public/bio/Genetics/Genetic_Drift.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Genetic_Drift.public|Genetic_Drift.public]] 
 
-### #is_/same_as :: [Genetic_Drift.internal](/_internal/bio/Genetics/Genetic_Drift.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Genetic_Drift.internal|Genetic_Drift.internal]] 
 
-### #is_/same_as :: [Genetic_Drift.protect](/_protect/bio/Genetics/Genetic_Drift.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Genetic_Drift.protect|Genetic_Drift.protect]] 
 
-### #is_/same_as :: [Genetic_Drift.private](/_private/bio/Genetics/Genetic_Drift.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Genetic_Drift.private|Genetic_Drift.private]] 
 
-### #is_/same_as :: [Genetic_Drift.personal](/_personal/bio/Genetics/Genetic_Drift.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Genetic_Drift.personal|Genetic_Drift.personal]] 
 
-### #is_/same_as :: [Genetic_Drift.secret](/_secret/bio/Genetics/Genetic_Drift.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Genetic_Drift.secret|Genetic_Drift.secret]] 
 

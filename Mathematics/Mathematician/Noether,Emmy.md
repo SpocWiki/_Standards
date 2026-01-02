@@ -81,17 +81,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Noether,Emmy](/_Standards/Mathematics/Mathematician/Noether,Emmy.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Noether,Emmy|Noether,Emmy]] 
 
-### #is_/same_as :: [Noether,Emmy.public](/_public/Mathematics/Mathematician/Noether,Emmy.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Noether,Emmy.public|Noether,Emmy.public]] 
 
-### #is_/same_as :: [Noether,Emmy.internal](/_internal/Mathematics/Mathematician/Noether,Emmy.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Noether,Emmy.internal|Noether,Emmy.internal]] 
 
-### #is_/same_as :: [Noether,Emmy.protect](/_protect/Mathematics/Mathematician/Noether,Emmy.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Noether,Emmy.protect|Noether,Emmy.protect]] 
 
-### #is_/same_as :: [Noether,Emmy.private](/_private/Mathematics/Mathematician/Noether,Emmy.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Noether,Emmy.private|Noether,Emmy.private]] 
 
-### #is_/same_as :: [Noether,Emmy.personal](/_personal/Mathematics/Mathematician/Noether,Emmy.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Noether,Emmy.personal|Noether,Emmy.personal]] 
 
-### #is_/same_as :: [Noether,Emmy.secret](/_secret/Mathematics/Mathematician/Noether,Emmy.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Noether,Emmy.secret|Noether,Emmy.secret]] 
 

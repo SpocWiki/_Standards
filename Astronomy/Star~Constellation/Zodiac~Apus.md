@@ -54,17 +54,17 @@ official_name: Apus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Apus](/_Standards/Astronomy/Star~Constellation/Zodiac~Apus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Apus|Zodiac~Apus]] 
 
-### #is_/same_as :: [Zodiac~Apus.public](/_public/Astronomy/Star~Constellation/Zodiac~Apus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Apus.public|Zodiac~Apus.public]] 
 
-### #is_/same_as :: [Zodiac~Apus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Apus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Apus.internal|Zodiac~Apus.internal]] 
 
-### #is_/same_as :: [Zodiac~Apus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Apus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Apus.protect|Zodiac~Apus.protect]] 
 
-### #is_/same_as :: [Zodiac~Apus.private](/_private/Astronomy/Star~Constellation/Zodiac~Apus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Apus.private|Zodiac~Apus.private]] 
 
-### #is_/same_as :: [Zodiac~Apus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Apus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Apus.personal|Zodiac~Apus.personal]] 
 
-### #is_/same_as :: [Zodiac~Apus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Apus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Apus.secret|Zodiac~Apus.secret]] 
 

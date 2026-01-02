@@ -69,17 +69,17 @@ Commons_category: Infrastructure
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infrastructure](/_Standards/Society/Economics/Infrastructure.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Infrastructure|Infrastructure]] 
 
-### #is_/same_as :: [Infrastructure.public](/_public/Society/Economics/Infrastructure.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Infrastructure.public|Infrastructure.public]] 
 
-### #is_/same_as :: [Infrastructure.internal](/_internal/Society/Economics/Infrastructure.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Infrastructure.internal|Infrastructure.internal]] 
 
-### #is_/same_as :: [Infrastructure.protect](/_protect/Society/Economics/Infrastructure.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Infrastructure.protect|Infrastructure.protect]] 
 
-### #is_/same_as :: [Infrastructure.private](/_private/Society/Economics/Infrastructure.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Infrastructure.private|Infrastructure.private]] 
 
-### #is_/same_as :: [Infrastructure.personal](/_personal/Society/Economics/Infrastructure.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Infrastructure.personal|Infrastructure.personal]] 
 
-### #is_/same_as :: [Infrastructure.secret](/_secret/Society/Economics/Infrastructure.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Infrastructure.secret|Infrastructure.secret]] 
 

@@ -3,17 +3,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rdfs;Class](/_Standards/schema-org/Class/is_a_/Rdfs;Class.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Rdfs;Class|Rdfs;Class]] 
 
-### #is_/same_as :: [Rdfs;Class.public](/_public/schema-org/Class/is_a_/Rdfs;Class.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Rdfs;Class.public|Rdfs;Class.public]] 
 
-### #is_/same_as :: [Rdfs;Class.internal](/_internal/schema-org/Class/is_a_/Rdfs;Class.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Rdfs;Class.internal|Rdfs;Class.internal]] 
 
-### #is_/same_as :: [Rdfs;Class.protect](/_protect/schema-org/Class/is_a_/Rdfs;Class.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Rdfs;Class.protect|Rdfs;Class.protect]] 
 
-### #is_/same_as :: [Rdfs;Class.private](/_private/schema-org/Class/is_a_/Rdfs;Class.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Rdfs;Class.private|Rdfs;Class.private]] 
 
-### #is_/same_as :: [Rdfs;Class.personal](/_personal/schema-org/Class/is_a_/Rdfs;Class.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Rdfs;Class.personal|Rdfs;Class.personal]] 
 
-### #is_/same_as :: [Rdfs;Class.secret](/_secret/schema-org/Class/is_a_/Rdfs;Class.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Rdfs;Class.secret|Rdfs;Class.secret]] 
 

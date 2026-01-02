@@ -140,17 +140,17 @@ ISNI: 0000000121308926
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond](/_Standards/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/d'Alembert,Jean_le_Rond|d'Alembert,Jean_le_Rond]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.public](/_public/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.public|d'Alembert,Jean_le_Rond.public]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.internal](/_internal/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.internal|d'Alembert,Jean_le_Rond.internal]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.protect](/_protect/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.protect|d'Alembert,Jean_le_Rond.protect]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.private](/_private/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.private|d'Alembert,Jean_le_Rond.private]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.personal](/_personal/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.personal|d'Alembert,Jean_le_Rond.personal]] 
 
-### #is_/same_as :: [d'Alembert,Jean_le_Rond.secret](/_secret/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/d'Alembert,Jean_le_Rond.secret|d'Alembert,Jean_le_Rond.secret]] 
 

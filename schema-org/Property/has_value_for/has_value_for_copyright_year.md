@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_copyright_year](/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_copyright_year|has_value_for_copyright_year]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.public](/_public/schema-org/Property/has_value_for/has_value_for_copyright_year.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_copyright_year.public|has_value_for_copyright_year.public]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.internal](/_internal/schema-org/Property/has_value_for/has_value_for_copyright_year.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_copyright_year.internal|has_value_for_copyright_year.internal]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.protect](/_protect/schema-org/Property/has_value_for/has_value_for_copyright_year.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_copyright_year.protect|has_value_for_copyright_year.protect]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.private](/_private/schema-org/Property/has_value_for/has_value_for_copyright_year.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_copyright_year.private|has_value_for_copyright_year.private]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.personal](/_personal/schema-org/Property/has_value_for/has_value_for_copyright_year.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_copyright_year.personal|has_value_for_copyright_year.personal]] 
 
-### #is_/same_as :: [has_value_for_copyright_year.secret](/_secret/schema-org/Property/has_value_for/has_value_for_copyright_year.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_copyright_year.secret|has_value_for_copyright_year.secret]] 
 

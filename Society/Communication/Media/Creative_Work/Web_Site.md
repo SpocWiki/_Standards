@@ -59,17 +59,17 @@ A WebSite is a set of related web pages and other items typically served from a 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Site](/_Standards/Society/Communication/Media/Creative_Work/Web_Site.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site|Web_Site]] 
 
-### #is_/same_as :: [Web_Site.public](/_public/Society/Communication/Media/Creative_Work/Web_Site.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Site.public|Web_Site.public]] 
 
-### #is_/same_as :: [Web_Site.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Site.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Site.internal|Web_Site.internal]] 
 
-### #is_/same_as :: [Web_Site.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Site.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Site.protect|Web_Site.protect]] 
 
-### #is_/same_as :: [Web_Site.private](/_private/Society/Communication/Media/Creative_Work/Web_Site.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Site.private|Web_Site.private]] 
 
-### #is_/same_as :: [Web_Site.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Site.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Site.personal|Web_Site.personal]] 
 
-### #is_/same_as :: [Web_Site.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Site.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site.secret|Web_Site.secret]] 
 

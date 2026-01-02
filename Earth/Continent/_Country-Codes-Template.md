@@ -104,17 +104,17 @@ Sub-region_Name ::  [[{{Sub-region_Name}}]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Country-Codes-Template](/_Standards/Earth/Continent/_Country-Codes-Template.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/_Country-Codes-Template|_Country-Codes-Template]] 
 
-### #is_/same_as :: [_Country-Codes-Template.public](/_public/Earth/Continent/_Country-Codes-Template.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/_Country-Codes-Template.public|_Country-Codes-Template.public]] 
 
-### #is_/same_as :: [_Country-Codes-Template.internal](/_internal/Earth/Continent/_Country-Codes-Template.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/_Country-Codes-Template.internal|_Country-Codes-Template.internal]] 
 
-### #is_/same_as :: [_Country-Codes-Template.protect](/_protect/Earth/Continent/_Country-Codes-Template.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/_Country-Codes-Template.protect|_Country-Codes-Template.protect]] 
 
-### #is_/same_as :: [_Country-Codes-Template.private](/_private/Earth/Continent/_Country-Codes-Template.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/_Country-Codes-Template.private|_Country-Codes-Template.private]] 
 
-### #is_/same_as :: [_Country-Codes-Template.personal](/_personal/Earth/Continent/_Country-Codes-Template.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/_Country-Codes-Template.personal|_Country-Codes-Template.personal]] 
 
-### #is_/same_as :: [_Country-Codes-Template.secret](/_secret/Earth/Continent/_Country-Codes-Template.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/_Country-Codes-Template.secret|_Country-Codes-Template.secret]] 
 

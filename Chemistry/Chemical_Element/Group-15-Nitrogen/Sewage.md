@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sewage](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage|Sewage]] 
 
-### #is_/same_as :: [Sewage.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.public|Sewage.public]] 
 
-### #is_/same_as :: [Sewage.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.internal|Sewage.internal]] 
 
-### #is_/same_as :: [Sewage.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.protect|Sewage.protect]] 
 
-### #is_/same_as :: [Sewage.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.private|Sewage.private]] 
 
-### #is_/same_as :: [Sewage.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.personal|Sewage.personal]] 
 
-### #is_/same_as :: [Sewage.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Sewage.secret|Sewage.secret]] 
 

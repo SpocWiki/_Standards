@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winkler,Henry](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry|Winkler,Henry]] 
 
-### #is_/same_as :: [Winkler,Henry.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.public|Winkler,Henry.public]] 
 
-### #is_/same_as :: [Winkler,Henry.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.internal|Winkler,Henry.internal]] 
 
-### #is_/same_as :: [Winkler,Henry.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.protect|Winkler,Henry.protect]] 
 
-### #is_/same_as :: [Winkler,Henry.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.private|Winkler,Henry.private]] 
 
-### #is_/same_as :: [Winkler,Henry.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.personal|Winkler,Henry.personal]] 
 
-### #is_/same_as :: [Winkler,Henry.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Winkler,Henry.secret|Winkler,Henry.secret]] 
 

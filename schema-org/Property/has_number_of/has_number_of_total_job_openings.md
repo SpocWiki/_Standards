@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_total_job_openings](/_Standards/schema-org/Property/has_number_of/has_number_of_total_job_openings.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_total_job_openings|has_number_of_total_job_openings]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.public](/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_total_job_openings.public|has_number_of_total_job_openings.public]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.internal](/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_total_job_openings.internal|has_number_of_total_job_openings.internal]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.protect](/_protect/schema-org/Property/has_number_of/has_number_of_total_job_openings.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_total_job_openings.protect|has_number_of_total_job_openings.protect]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.private](/_private/schema-org/Property/has_number_of/has_number_of_total_job_openings.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_total_job_openings.private|has_number_of_total_job_openings.private]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.personal](/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_total_job_openings.personal|has_number_of_total_job_openings.personal]] 
 
-### #is_/same_as :: [has_number_of_total_job_openings.secret](/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_total_job_openings.secret|has_number_of_total_job_openings.secret]] 
 

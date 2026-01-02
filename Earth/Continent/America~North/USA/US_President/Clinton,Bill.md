@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clinton,Bill](/_Standards/Earth/Continent/America~North/US~President/Clinton,Bill.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Clinton,Bill|Clinton,Bill]] 
 
-### #is_/same_as :: [Clinton,Bill.public](/_public/Earth/Continent/America~North/US~President/Clinton,Bill.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Clinton,Bill.public|Clinton,Bill.public]] 
 
-### #is_/same_as :: [Clinton,Bill.internal](/_internal/Earth/Continent/America~North/US~President/Clinton,Bill.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Clinton,Bill.internal|Clinton,Bill.internal]] 
 
-### #is_/same_as :: [Clinton,Bill.protect](/_protect/Earth/Continent/America~North/US~President/Clinton,Bill.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Clinton,Bill.protect|Clinton,Bill.protect]] 
 
-### #is_/same_as :: [Clinton,Bill.private](/_private/Earth/Continent/America~North/US~President/Clinton,Bill.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Clinton,Bill.private|Clinton,Bill.private]] 
 
-### #is_/same_as :: [Clinton,Bill.personal](/_personal/Earth/Continent/America~North/US~President/Clinton,Bill.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Clinton,Bill.personal|Clinton,Bill.personal]] 
 
-### #is_/same_as :: [Clinton,Bill.secret](/_secret/Earth/Continent/America~North/US~President/Clinton,Bill.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Clinton,Bill.secret|Clinton,Bill.secret]] 
 

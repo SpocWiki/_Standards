@@ -85,17 +85,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/GUGENOTI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Huguenots](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots|Huguenots]] 
 
-### #is_/same_as :: [Huguenots.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.public|Huguenots.public]] 
 
-### #is_/same_as :: [Huguenots.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.internal|Huguenots.internal]] 
 
-### #is_/same_as :: [Huguenots.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.protect|Huguenots.protect]] 
 
-### #is_/same_as :: [Huguenots.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.private|Huguenots.private]] 
 
-### #is_/same_as :: [Huguenots.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.personal|Huguenots.personal]] 
 
-### #is_/same_as :: [Huguenots.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Protestantism/Calvinism/Huguenots.secret|Huguenots.secret]] 
 

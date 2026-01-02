@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cena,John](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John|Cena,John]] 
 
-### #is_/same_as :: [Cena,John.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.public|Cena,John.public]] 
 
-### #is_/same_as :: [Cena,John.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.internal|Cena,John.internal]] 
 
-### #is_/same_as :: [Cena,John.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.protect|Cena,John.protect]] 
 
-### #is_/same_as :: [Cena,John.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.private|Cena,John.private]] 
 
-### #is_/same_as :: [Cena,John.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.personal|Cena,John.personal]] 
 
-### #is_/same_as :: [Cena,John.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cena,John.secret|Cena,John.secret]] 
 

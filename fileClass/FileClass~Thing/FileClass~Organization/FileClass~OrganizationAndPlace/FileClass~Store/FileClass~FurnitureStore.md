@@ -37,17 +37,17 @@ A furniture store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FurnitureStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore|FileClass~FurnitureStore]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.public|FileClass~FurnitureStore.public]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.internal|FileClass~FurnitureStore.internal]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.protect|FileClass~FurnitureStore.protect]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.private|FileClass~FurnitureStore.private]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.personal|FileClass~FurnitureStore.personal]] 
 
-### #is_/same_as :: [FileClass~FurnitureStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~FurnitureStore.secret|FileClass~FurnitureStore.secret]] 
 

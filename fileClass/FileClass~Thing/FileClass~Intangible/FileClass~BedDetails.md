@@ -57,17 +57,17 @@ TypeOfBed:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BedDetails](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails|FileClass~BedDetails]] 
 
-### #is_/same_as :: [FileClass~BedDetails.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.public|FileClass~BedDetails.public]] 
 
-### #is_/same_as :: [FileClass~BedDetails.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.internal|FileClass~BedDetails.internal]] 
 
-### #is_/same_as :: [FileClass~BedDetails.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.protect|FileClass~BedDetails.protect]] 
 
-### #is_/same_as :: [FileClass~BedDetails.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.private|FileClass~BedDetails.private]] 
 
-### #is_/same_as :: [FileClass~BedDetails.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.personal|FileClass~BedDetails.personal]] 
 
-### #is_/same_as :: [FileClass~BedDetails.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BedDetails.secret|FileClass~BedDetails.secret]] 
 

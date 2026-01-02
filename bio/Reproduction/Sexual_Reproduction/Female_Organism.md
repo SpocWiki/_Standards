@@ -65,17 +65,17 @@ short_name: ♀
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Female_Organism](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism|Female_Organism]] 
 
-### #is_/same_as :: [Female_Organism.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism.public|Female_Organism.public]] 
 
-### #is_/same_as :: [Female_Organism.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism.internal|Female_Organism.internal]] 
 
-### #is_/same_as :: [Female_Organism.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism.protect|Female_Organism.protect]] 
 
-### #is_/same_as :: [Female_Organism.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism.private|Female_Organism.private]] 
 
-### #is_/same_as :: [Female_Organism.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism.personal|Female_Organism.personal]] 
 
-### #is_/same_as :: [Female_Organism.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism.secret|Female_Organism.secret]] 
 

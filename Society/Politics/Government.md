@@ -104,17 +104,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_government,25113003]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Government](/_Standards/Society/Politics/Government.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government|Government]] 
 
-### #is_/same_as :: [Government.public](/_public/Society/Politics/Government.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government.public|Government.public]] 
 
-### #is_/same_as :: [Government.internal](/_internal/Society/Politics/Government.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government.internal|Government.internal]] 
 
-### #is_/same_as :: [Government.protect](/_protect/Society/Politics/Government.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government.protect|Government.protect]] 
 
-### #is_/same_as :: [Government.private](/_private/Society/Politics/Government.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government.private|Government.private]] 
 
-### #is_/same_as :: [Government.personal](/_personal/Society/Politics/Government.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government.personal|Government.personal]] 
 
-### #is_/same_as :: [Government.secret](/_secret/Society/Politics/Government.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government.secret|Government.secret]] 
 

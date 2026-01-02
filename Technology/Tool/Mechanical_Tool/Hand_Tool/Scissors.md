@@ -71,17 +71,17 @@ MCN_code: 8213.00.00
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scissors](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors|Scissors]] 
 
-### #is_/same_as :: [Scissors.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.public|Scissors.public]] 
 
-### #is_/same_as :: [Scissors.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.internal|Scissors.internal]] 
 
-### #is_/same_as :: [Scissors.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.protect|Scissors.protect]] 
 
-### #is_/same_as :: [Scissors.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.private|Scissors.private]] 
 
-### #is_/same_as :: [Scissors.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.personal|Scissors.personal]] 
 
-### #is_/same_as :: [Scissors.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Scissors.secret|Scissors.secret]] 
 

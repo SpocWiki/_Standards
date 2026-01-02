@@ -44,17 +44,17 @@ Commons_category: Celestial equator
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Celestial_Equator](/_Standards/Astronomy/Solar_System/Celestial_Equator.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Celestial_Equator|Celestial_Equator]] 
 
-### #is_/same_as :: [Celestial_Equator.public](/_public/Astronomy/Solar_System/Celestial_Equator.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Celestial_Equator.public|Celestial_Equator.public]] 
 
-### #is_/same_as :: [Celestial_Equator.internal](/_internal/Astronomy/Solar_System/Celestial_Equator.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Celestial_Equator.internal|Celestial_Equator.internal]] 
 
-### #is_/same_as :: [Celestial_Equator.protect](/_protect/Astronomy/Solar_System/Celestial_Equator.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Celestial_Equator.protect|Celestial_Equator.protect]] 
 
-### #is_/same_as :: [Celestial_Equator.private](/_private/Astronomy/Solar_System/Celestial_Equator.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Celestial_Equator.private|Celestial_Equator.private]] 
 
-### #is_/same_as :: [Celestial_Equator.personal](/_personal/Astronomy/Solar_System/Celestial_Equator.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Celestial_Equator.personal|Celestial_Equator.personal]] 
 
-### #is_/same_as :: [Celestial_Equator.secret](/_secret/Astronomy/Solar_System/Celestial_Equator.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Celestial_Equator.secret|Celestial_Equator.secret]] 
 

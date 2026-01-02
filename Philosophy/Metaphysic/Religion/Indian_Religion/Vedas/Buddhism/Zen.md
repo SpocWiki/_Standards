@@ -90,17 +90,17 @@ Dewey_Decimal_Classification: 294.3927
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zen](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen|Zen]] 
 
-### #is_/same_as :: [Zen.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.public|Zen.public]] 
 
-### #is_/same_as :: [Zen.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.internal|Zen.internal]] 
 
-### #is_/same_as :: [Zen.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.protect|Zen.protect]] 
 
-### #is_/same_as :: [Zen.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.private|Zen.private]] 
 
-### #is_/same_as :: [Zen.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.personal|Zen.personal]] 
 
-### #is_/same_as :: [Zen.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Zen.secret|Zen.secret]] 
 

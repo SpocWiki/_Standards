@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TensorFlow](/_Standards/Technology/IT/Computer_Hardware/Processor/TensorFlow.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Processor/TensorFlow|TensorFlow]] 
 
-### #is_/same_as :: [TensorFlow.public](/_public/Technology/IT/Computer_Hardware/Processor/TensorFlow.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Processor/TensorFlow.public|TensorFlow.public]] 
 
-### #is_/same_as :: [TensorFlow.internal](/_internal/Technology/IT/Computer_Hardware/Processor/TensorFlow.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Processor/TensorFlow.internal|TensorFlow.internal]] 
 
-### #is_/same_as :: [TensorFlow.protect](/_protect/Technology/IT/Computer_Hardware/Processor/TensorFlow.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Processor/TensorFlow.protect|TensorFlow.protect]] 
 
-### #is_/same_as :: [TensorFlow.private](/_private/Technology/IT/Computer_Hardware/Processor/TensorFlow.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Processor/TensorFlow.private|TensorFlow.private]] 
 
-### #is_/same_as :: [TensorFlow.personal](/_personal/Technology/IT/Computer_Hardware/Processor/TensorFlow.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Processor/TensorFlow.personal|TensorFlow.personal]] 
 
-### #is_/same_as :: [TensorFlow.secret](/_secret/Technology/IT/Computer_Hardware/Processor/TensorFlow.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Processor/TensorFlow.secret|TensorFlow.secret]] 
 

@@ -86,17 +86,17 @@ Royal_Academy_new_identifier: eros-greek-deity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eros](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros|Eros]] 
 
-### #is_/same_as :: [Eros.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.public|Eros.public]] 
 
-### #is_/same_as :: [Eros.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.internal|Eros.internal]] 
 
-### #is_/same_as :: [Eros.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.protect|Eros.protect]] 
 
-### #is_/same_as :: [Eros.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.private|Eros.private]] 
 
-### #is_/same_as :: [Eros.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.personal|Eros.personal]] 
 
-### #is_/same_as :: [Eros.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Eros.secret|Eros.secret]] 
 

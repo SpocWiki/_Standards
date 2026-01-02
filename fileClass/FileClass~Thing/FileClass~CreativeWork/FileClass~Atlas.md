@@ -37,17 +37,17 @@ A collection or bound volume of maps, charts, plates or tables, physical or in m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Atlas](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas|FileClass~Atlas]] 
 
-### #is_/same_as :: [FileClass~Atlas.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.public|FileClass~Atlas.public]] 
 
-### #is_/same_as :: [FileClass~Atlas.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.internal|FileClass~Atlas.internal]] 
 
-### #is_/same_as :: [FileClass~Atlas.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.protect|FileClass~Atlas.protect]] 
 
-### #is_/same_as :: [FileClass~Atlas.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.private|FileClass~Atlas.private]] 
 
-### #is_/same_as :: [FileClass~Atlas.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.personal|FileClass~Atlas.personal]] 
 
-### #is_/same_as :: [FileClass~Atlas.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Atlas.secret|FileClass~Atlas.secret]] 
 

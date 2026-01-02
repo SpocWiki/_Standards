@@ -101,17 +101,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ovid](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid|Ovid]] 
 
-### #is_/same_as :: [Ovid.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.public|Ovid.public]] 
 
-### #is_/same_as :: [Ovid.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.internal|Ovid.internal]] 
 
-### #is_/same_as :: [Ovid.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.protect|Ovid.protect]] 
 
-### #is_/same_as :: [Ovid.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.private|Ovid.private]] 
 
-### #is_/same_as :: [Ovid.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.personal|Ovid.personal]] 
 
-### #is_/same_as :: [Ovid.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Ovid.secret|Ovid.secret]] 
 

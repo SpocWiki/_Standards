@@ -54,17 +54,17 @@ Commons_category: Substitution reactions
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Substitution_Reaction](/_Standards/Chemistry/Chemical_Reaction/Substitution_Reaction.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Substitution_Reaction|Substitution_Reaction]] 
 
-### #is_/same_as :: [Substitution_Reaction.public](/_public/Chemistry/Chemical_Reaction/Substitution_Reaction.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Substitution_Reaction.public|Substitution_Reaction.public]] 
 
-### #is_/same_as :: [Substitution_Reaction.internal](/_internal/Chemistry/Chemical_Reaction/Substitution_Reaction.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Substitution_Reaction.internal|Substitution_Reaction.internal]] 
 
-### #is_/same_as :: [Substitution_Reaction.protect](/_protect/Chemistry/Chemical_Reaction/Substitution_Reaction.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Substitution_Reaction.protect|Substitution_Reaction.protect]] 
 
-### #is_/same_as :: [Substitution_Reaction.private](/_private/Chemistry/Chemical_Reaction/Substitution_Reaction.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Substitution_Reaction.private|Substitution_Reaction.private]] 
 
-### #is_/same_as :: [Substitution_Reaction.personal](/_personal/Chemistry/Chemical_Reaction/Substitution_Reaction.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Substitution_Reaction.personal|Substitution_Reaction.personal]] 
 
-### #is_/same_as :: [Substitution_Reaction.secret](/_secret/Chemistry/Chemical_Reaction/Substitution_Reaction.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Substitution_Reaction.secret|Substitution_Reaction.secret]] 
 

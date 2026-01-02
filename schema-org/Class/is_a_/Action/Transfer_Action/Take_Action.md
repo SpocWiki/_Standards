@@ -48,17 +48,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Take_Action](/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action|Take_Action]] 
 
-### #is_/same_as :: [Take_Action.public](/_public/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.public|Take_Action.public]] 
 
-### #is_/same_as :: [Take_Action.internal](/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.internal|Take_Action.internal]] 
 
-### #is_/same_as :: [Take_Action.protect](/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.protect|Take_Action.protect]] 
 
-### #is_/same_as :: [Take_Action.private](/_private/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.private|Take_Action.private]] 
 
-### #is_/same_as :: [Take_Action.personal](/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.personal|Take_Action.personal]] 
 
-### #is_/same_as :: [Take_Action.secret](/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Take_Action.secret|Take_Action.secret]] 
 

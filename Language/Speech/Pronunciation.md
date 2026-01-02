@@ -43,17 +43,17 @@ Commons_category: Pronunciation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pronunciation](/_Standards/Language/Speech/Pronunciation.md) 
+### #is_/same_as :: [[/_Standards/Language/Speech/Pronunciation|Pronunciation]] 
 
-### #is_/same_as :: [Pronunciation.public](/_public/Language/Speech/Pronunciation.public.md) 
+### #is_/same_as :: [[/_public/Language/Speech/Pronunciation.public|Pronunciation.public]] 
 
-### #is_/same_as :: [Pronunciation.internal](/_internal/Language/Speech/Pronunciation.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Speech/Pronunciation.internal|Pronunciation.internal]] 
 
-### #is_/same_as :: [Pronunciation.protect](/_protect/Language/Speech/Pronunciation.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Speech/Pronunciation.protect|Pronunciation.protect]] 
 
-### #is_/same_as :: [Pronunciation.private](/_private/Language/Speech/Pronunciation.private.md) 
+### #is_/same_as :: [[/_private/Language/Speech/Pronunciation.private|Pronunciation.private]] 
 
-### #is_/same_as :: [Pronunciation.personal](/_personal/Language/Speech/Pronunciation.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Speech/Pronunciation.personal|Pronunciation.personal]] 
 
-### #is_/same_as :: [Pronunciation.secret](/_secret/Language/Speech/Pronunciation.secret.md)
+### #is_/same_as :: [[/_secret/Language/Speech/Pronunciation.secret|Pronunciation.secret]] 
 

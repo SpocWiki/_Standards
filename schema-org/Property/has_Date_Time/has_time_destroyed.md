@@ -53,17 +53,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_destroyed](/_Standards/schema-org/Property/has_Date_Time/has_time_destroyed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_destroyed|has_time_destroyed]] 
 
-### #is_/same_as :: [has_time_destroyed.public](/_public/schema-org/Property/has_Date_Time/has_time_destroyed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_destroyed.public|has_time_destroyed.public]] 
 
-### #is_/same_as :: [has_time_destroyed.internal](/_internal/schema-org/Property/has_Date_Time/has_time_destroyed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_destroyed.internal|has_time_destroyed.internal]] 
 
-### #is_/same_as :: [has_time_destroyed.protect](/_protect/schema-org/Property/has_Date_Time/has_time_destroyed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_destroyed.protect|has_time_destroyed.protect]] 
 
-### #is_/same_as :: [has_time_destroyed.private](/_private/schema-org/Property/has_Date_Time/has_time_destroyed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_destroyed.private|has_time_destroyed.private]] 
 
-### #is_/same_as :: [has_time_destroyed.personal](/_personal/schema-org/Property/has_Date_Time/has_time_destroyed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_destroyed.personal|has_time_destroyed.personal]] 
 
-### #is_/same_as :: [has_time_destroyed.secret](/_secret/schema-org/Property/has_Date_Time/has_time_destroyed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_destroyed.secret|has_time_destroyed.secret]] 
 

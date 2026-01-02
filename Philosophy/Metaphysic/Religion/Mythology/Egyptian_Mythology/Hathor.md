@@ -60,17 +60,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/HATHOR.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hathor](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor|Hathor]] 
 
-### #is_/same_as :: [Hathor.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.public|Hathor.public]] 
 
-### #is_/same_as :: [Hathor.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.internal|Hathor.internal]] 
 
-### #is_/same_as :: [Hathor.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.protect|Hathor.protect]] 
 
-### #is_/same_as :: [Hathor.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.private|Hathor.private]] 
 
-### #is_/same_as :: [Hathor.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.personal|Hathor.personal]] 
 
-### #is_/same_as :: [Hathor.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Hathor.secret|Hathor.secret]] 
 

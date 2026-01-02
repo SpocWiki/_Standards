@@ -159,17 +159,17 @@ ISNI: "0000000121351334"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sibelius,Jean](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean|Sibelius,Jean]] 
 
-### #is_/same_as :: [Sibelius,Jean.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.public|Sibelius,Jean.public]] 
 
-### #is_/same_as :: [Sibelius,Jean.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.internal|Sibelius,Jean.internal]] 
 
-### #is_/same_as :: [Sibelius,Jean.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.protect|Sibelius,Jean.protect]] 
 
-### #is_/same_as :: [Sibelius,Jean.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.private|Sibelius,Jean.private]] 
 
-### #is_/same_as :: [Sibelius,Jean.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.personal|Sibelius,Jean.personal]] 
 
-### #is_/same_as :: [Sibelius,Jean.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Sibelius,Jean.secret|Sibelius,Jean.secret]] 
 

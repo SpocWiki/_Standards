@@ -68,17 +68,17 @@ X_Twitter_username: SuperBowl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Super_Bowl](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl|Super_Bowl]] 
 
-### #is_/same_as :: [Super_Bowl.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.public|Super_Bowl.public]] 
 
-### #is_/same_as :: [Super_Bowl.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.internal|Super_Bowl.internal]] 
 
-### #is_/same_as :: [Super_Bowl.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.protect|Super_Bowl.protect]] 
 
-### #is_/same_as :: [Super_Bowl.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.private|Super_Bowl.private]] 
 
-### #is_/same_as :: [Super_Bowl.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.personal|Super_Bowl.personal]] 
 
-### #is_/same_as :: [Super_Bowl.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/American Football/NFL(National_Football_League)/Super_Bowl.secret|Super_Bowl.secret]] 
 

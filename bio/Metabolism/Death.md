@@ -122,17 +122,17 @@ topic_has_template: "[[_Standards/WikiData/WD~Template_Death,10728979]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Death](/_Standards/bio/Metabolism/Death.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death|Death]] 
 
-### #is_/same_as :: [Death.public](/_public/bio/Metabolism/Death.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death.public|Death.public]] 
 
-### #is_/same_as :: [Death.internal](/_internal/bio/Metabolism/Death.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death.internal|Death.internal]] 
 
-### #is_/same_as :: [Death.protect](/_protect/bio/Metabolism/Death.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death.protect|Death.protect]] 
 
-### #is_/same_as :: [Death.private](/_private/bio/Metabolism/Death.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death.private|Death.private]] 
 
-### #is_/same_as :: [Death.personal](/_personal/bio/Metabolism/Death.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death.personal|Death.personal]] 
 
-### #is_/same_as :: [Death.secret](/_secret/bio/Metabolism/Death.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death.secret|Death.secret]] 
 

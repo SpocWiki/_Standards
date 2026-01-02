@@ -116,17 +116,17 @@ Europeana_entity: agent/base/53157
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Niccolò_Paganini](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini|Niccolò_Paganini]] 
 
-### #is_/same_as :: [Niccolò_Paganini.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.public|Niccolò_Paganini.public]] 
 
-### #is_/same_as :: [Niccolò_Paganini.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.internal|Niccolò_Paganini.internal]] 
 
-### #is_/same_as :: [Niccolò_Paganini.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.protect|Niccolò_Paganini.protect]] 
 
-### #is_/same_as :: [Niccolò_Paganini.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.private|Niccolò_Paganini.private]] 
 
-### #is_/same_as :: [Niccolò_Paganini.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.personal|Niccolò_Paganini.personal]] 
 
-### #is_/same_as :: [Niccolò_Paganini.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Niccolò_Paganini.secret|Niccolò_Paganini.secret]] 
 

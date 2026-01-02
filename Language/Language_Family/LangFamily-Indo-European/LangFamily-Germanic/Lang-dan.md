@@ -143,17 +143,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-dan](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan|Lang-dan]] 
 
-### #is_/same_as :: [Lang-dan.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.public|Lang-dan.public]] 
 
-### #is_/same_as :: [Lang-dan.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.internal|Lang-dan.internal]] 
 
-### #is_/same_as :: [Lang-dan.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.protect|Lang-dan.protect]] 
 
-### #is_/same_as :: [Lang-dan.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.private|Lang-dan.private]] 
 
-### #is_/same_as :: [Lang-dan.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.personal|Lang-dan.personal]] 
 
-### #is_/same_as :: [Lang-dan.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-dan.secret|Lang-dan.secret]] 
 

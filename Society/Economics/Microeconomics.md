@@ -56,17 +56,17 @@ Commons_category: Microeconomics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Microeconomics](/_Standards/Society/Economics/Microeconomics.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Microeconomics|Microeconomics]] 
 
-### #is_/same_as :: [Microeconomics.public](/_public/Society/Economics/Microeconomics.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Microeconomics.public|Microeconomics.public]] 
 
-### #is_/same_as :: [Microeconomics.internal](/_internal/Society/Economics/Microeconomics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Microeconomics.internal|Microeconomics.internal]] 
 
-### #is_/same_as :: [Microeconomics.protect](/_protect/Society/Economics/Microeconomics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Microeconomics.protect|Microeconomics.protect]] 
 
-### #is_/same_as :: [Microeconomics.private](/_private/Society/Economics/Microeconomics.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Microeconomics.private|Microeconomics.private]] 
 
-### #is_/same_as :: [Microeconomics.personal](/_personal/Society/Economics/Microeconomics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Microeconomics.personal|Microeconomics.personal]] 
 
-### #is_/same_as :: [Microeconomics.secret](/_secret/Society/Economics/Microeconomics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Microeconomics.secret|Microeconomics.secret]] 
 

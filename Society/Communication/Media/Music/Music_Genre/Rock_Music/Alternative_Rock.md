@@ -55,17 +55,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Portrayal%20-%2001%20-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alternative_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock|Alternative_Rock]] 
 
-### #is_/same_as :: [Alternative_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.public|Alternative_Rock.public]] 
 
-### #is_/same_as :: [Alternative_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.internal|Alternative_Rock.internal]] 
 
-### #is_/same_as :: [Alternative_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.protect|Alternative_Rock.protect]] 
 
-### #is_/same_as :: [Alternative_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.private|Alternative_Rock.private]] 
 
-### #is_/same_as :: [Alternative_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.personal|Alternative_Rock.personal]] 
 
-### #is_/same_as :: [Alternative_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rock_Music/Alternative_Rock.secret|Alternative_Rock.secret]] 
 

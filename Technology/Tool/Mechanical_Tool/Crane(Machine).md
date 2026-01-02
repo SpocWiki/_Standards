@@ -52,17 +52,17 @@ OpenStreetMap_tag_or_key: Tag:man_made=crane
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crane(Machine)](/_Standards/Technology/Tool/Mechanical_Tool/Crane(Machine).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Crane(Machine)|Crane(Machine)]] 
 
-### #is_/same_as :: [Crane(Machine).public](/_public/Technology/Tool/Mechanical_Tool/Crane(Machine).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Crane(Machine).public|Crane(Machine).public]] 
 
-### #is_/same_as :: [Crane(Machine).internal](/_internal/Technology/Tool/Mechanical_Tool/Crane(Machine).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Crane(Machine).internal|Crane(Machine).internal]] 
 
-### #is_/same_as :: [Crane(Machine).protect](/_protect/Technology/Tool/Mechanical_Tool/Crane(Machine).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Crane(Machine).protect|Crane(Machine).protect]] 
 
-### #is_/same_as :: [Crane(Machine).private](/_private/Technology/Tool/Mechanical_Tool/Crane(Machine).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Crane(Machine).private|Crane(Machine).private]] 
 
-### #is_/same_as :: [Crane(Machine).personal](/_personal/Technology/Tool/Mechanical_Tool/Crane(Machine).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Crane(Machine).personal|Crane(Machine).personal]] 
 
-### #is_/same_as :: [Crane(Machine).secret](/_secret/Technology/Tool/Mechanical_Tool/Crane(Machine).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Crane(Machine).secret|Crane(Machine).secret]] 
 

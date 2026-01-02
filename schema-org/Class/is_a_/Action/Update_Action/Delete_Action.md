@@ -41,17 +41,17 @@ The act of editing a recipient by removing one of its objects.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delete_Action](/_Standards/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Update_Action/Delete_Action|Delete_Action]] 
 
-### #is_/same_as :: [Delete_Action.public](/_public/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.public|Delete_Action.public]] 
 
-### #is_/same_as :: [Delete_Action.internal](/_internal/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.internal|Delete_Action.internal]] 
 
-### #is_/same_as :: [Delete_Action.protect](/_protect/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.protect|Delete_Action.protect]] 
 
-### #is_/same_as :: [Delete_Action.private](/_private/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.private|Delete_Action.private]] 
 
-### #is_/same_as :: [Delete_Action.personal](/_personal/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.personal|Delete_Action.personal]] 
 
-### #is_/same_as :: [Delete_Action.secret](/_secret/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Update_Action/Delete_Action.secret|Delete_Action.secret]] 
 

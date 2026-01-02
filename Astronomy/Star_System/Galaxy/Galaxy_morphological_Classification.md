@@ -30,17 +30,17 @@ Commons_category: Galaxy morphological classification
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galaxy_morphological_Classification](/_Standards/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification|Galaxy_morphological_Classification]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.public](/_public/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.public|Galaxy_morphological_Classification.public]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.internal](/_internal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.internal|Galaxy_morphological_Classification.internal]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.protect](/_protect/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.protect|Galaxy_morphological_Classification.protect]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.private](/_private/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.private|Galaxy_morphological_Classification.private]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.personal](/_personal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.personal|Galaxy_morphological_Classification.personal]] 
 
-### #is_/same_as :: [Galaxy_morphological_Classification.secret](/_secret/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Galaxy_morphological_Classification.secret|Galaxy_morphological_Classification.secret]] 
 

@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_aircraft](/_Standards/schema-org/Relation/has/has_aircraft.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_aircraft|has_aircraft]] 
 
-### #is_/same_as :: [has_aircraft.public](/_public/schema-org/Relation/has/has_aircraft.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_aircraft.public|has_aircraft.public]] 
 
-### #is_/same_as :: [has_aircraft.internal](/_internal/schema-org/Relation/has/has_aircraft.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_aircraft.internal|has_aircraft.internal]] 
 
-### #is_/same_as :: [has_aircraft.protect](/_protect/schema-org/Relation/has/has_aircraft.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_aircraft.protect|has_aircraft.protect]] 
 
-### #is_/same_as :: [has_aircraft.private](/_private/schema-org/Relation/has/has_aircraft.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_aircraft.private|has_aircraft.private]] 
 
-### #is_/same_as :: [has_aircraft.personal](/_personal/schema-org/Relation/has/has_aircraft.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_aircraft.personal|has_aircraft.personal]] 
 
-### #is_/same_as :: [has_aircraft.secret](/_secret/schema-org/Relation/has/has_aircraft.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_aircraft.secret|has_aircraft.secret]] 
 

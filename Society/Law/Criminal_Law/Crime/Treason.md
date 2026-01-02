@@ -73,17 +73,17 @@ Universal_Decimal_Classification: 341.226.11
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Treason](/_Standards/Society/Law/Criminal_Law/Crime/Treason.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Treason|Treason]] 
 
-### #is_/same_as :: [Treason.public](/_public/Society/Law/Criminal_Law/Crime/Treason.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Treason.public|Treason.public]] 
 
-### #is_/same_as :: [Treason.internal](/_internal/Society/Law/Criminal_Law/Crime/Treason.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Treason.internal|Treason.internal]] 
 
-### #is_/same_as :: [Treason.protect](/_protect/Society/Law/Criminal_Law/Crime/Treason.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Treason.protect|Treason.protect]] 
 
-### #is_/same_as :: [Treason.private](/_private/Society/Law/Criminal_Law/Crime/Treason.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Treason.private|Treason.private]] 
 
-### #is_/same_as :: [Treason.personal](/_personal/Society/Law/Criminal_Law/Crime/Treason.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Treason.personal|Treason.personal]] 
 
-### #is_/same_as :: [Treason.secret](/_secret/Society/Law/Criminal_Law/Crime/Treason.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Treason.secret|Treason.secret]] 
 

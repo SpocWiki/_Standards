@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ronzheimer,Paul](/_Standards/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul|Ronzheimer,Paul]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.public](/_public/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.public|Ronzheimer,Paul.public]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.internal|Ronzheimer,Paul.internal]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.protect|Ronzheimer,Paul.protect]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.private](/_private/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.private|Ronzheimer,Paul.private]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.personal|Ronzheimer,Paul.personal]] 
 
-### #is_/same_as :: [Ronzheimer,Paul.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Ronzheimer,Paul.secret|Ronzheimer,Paul.secret]] 
 

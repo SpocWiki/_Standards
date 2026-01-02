@@ -474,17 +474,17 @@ edit internet links
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ascomycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Ascomycota|Ascomycota]] 
 
-### #is_/same_as :: [Ascomycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Ascomycota.public|Ascomycota.public]] 
 
-### #is_/same_as :: [Ascomycota.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.internal|Ascomycota.internal]] 
 
-### #is_/same_as :: [Ascomycota.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Ascomycota.protect|Ascomycota.protect]] 
 
-### #is_/same_as :: [Ascomycota.private](/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Ascomycota.private|Ascomycota.private]] 
 
-### #is_/same_as :: [Ascomycota.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Ascomycota.personal|Ascomycota.personal]] 
 
-### #is_/same_as :: [Ascomycota.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Ascomycota.secret|Ascomycota.secret]] 
 

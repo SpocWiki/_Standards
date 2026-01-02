@@ -54,17 +54,17 @@ Commons_category: Stoma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stomata](/_Standards/bio/Botany/Plant_Anatomy/Transpiration/Stomata.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Transpiration/Stomata|Stomata]] 
 
-### #is_/same_as :: [Stomata.public](/_public/bio/Botany/Plant_Anatomy/Transpiration/Stomata.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Transpiration/Stomata.public|Stomata.public]] 
 
-### #is_/same_as :: [Stomata.internal](/_internal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.internal|Stomata.internal]] 
 
-### #is_/same_as :: [Stomata.protect](/_protect/bio/Botany/Plant_Anatomy/Transpiration/Stomata.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Transpiration/Stomata.protect|Stomata.protect]] 
 
-### #is_/same_as :: [Stomata.private](/_private/bio/Botany/Plant_Anatomy/Transpiration/Stomata.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Transpiration/Stomata.private|Stomata.private]] 
 
-### #is_/same_as :: [Stomata.personal](/_personal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Transpiration/Stomata.personal|Stomata.personal]] 
 
-### #is_/same_as :: [Stomata.secret](/_secret/bio/Botany/Plant_Anatomy/Transpiration/Stomata.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Transpiration/Stomata.secret|Stomata.secret]] 
 

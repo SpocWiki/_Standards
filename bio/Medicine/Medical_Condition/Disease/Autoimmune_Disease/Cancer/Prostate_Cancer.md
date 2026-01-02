@@ -160,17 +160,17 @@ GitHub_topic: prostate-cancer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prostate_Cancer](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer|Prostate_Cancer]] 
 
-### #is_/same_as :: [Prostate_Cancer.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.public|Prostate_Cancer.public]] 
 
-### #is_/same_as :: [Prostate_Cancer.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.internal|Prostate_Cancer.internal]] 
 
-### #is_/same_as :: [Prostate_Cancer.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.protect|Prostate_Cancer.protect]] 
 
-### #is_/same_as :: [Prostate_Cancer.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.private|Prostate_Cancer.private]] 
 
-### #is_/same_as :: [Prostate_Cancer.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.personal|Prostate_Cancer.personal]] 
 
-### #is_/same_as :: [Prostate_Cancer.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Prostate_Cancer.secret|Prostate_Cancer.secret]] 
 

@@ -42,17 +42,17 @@ The [[position]] property is used to reconstruct the order of the items in a Bre
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [breadcrumb_list](/_Standards/schema-org/Collection/item_list/breadcrumb_list.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/item_list/breadcrumb_list|breadcrumb_list]] 
 
-### #is_/same_as :: [breadcrumb_list.public](/_public/schema-org/Collection/item_list/breadcrumb_list.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/item_list/breadcrumb_list.public|breadcrumb_list.public]] 
 
-### #is_/same_as :: [breadcrumb_list.internal](/_internal/schema-org/Collection/item_list/breadcrumb_list.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/item_list/breadcrumb_list.internal|breadcrumb_list.internal]] 
 
-### #is_/same_as :: [breadcrumb_list.protect](/_protect/schema-org/Collection/item_list/breadcrumb_list.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/item_list/breadcrumb_list.protect|breadcrumb_list.protect]] 
 
-### #is_/same_as :: [breadcrumb_list.private](/_private/schema-org/Collection/item_list/breadcrumb_list.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/item_list/breadcrumb_list.private|breadcrumb_list.private]] 
 
-### #is_/same_as :: [breadcrumb_list.personal](/_personal/schema-org/Collection/item_list/breadcrumb_list.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/item_list/breadcrumb_list.personal|breadcrumb_list.personal]] 
 
-### #is_/same_as :: [breadcrumb_list.secret](/_secret/schema-org/Collection/item_list/breadcrumb_list.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/item_list/breadcrumb_list.secret|breadcrumb_list.secret]] 
 

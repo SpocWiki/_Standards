@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_training_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_training_salary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_training_salary|has_value_for_training_salary]] 
 
-### #is_/same_as :: [has_value_for_training_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_training_salary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_training_salary.public|has_value_for_training_salary.public]] 
 
-### #is_/same_as :: [has_value_for_training_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_training_salary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_training_salary.internal|has_value_for_training_salary.internal]] 
 
-### #is_/same_as :: [has_value_for_training_salary.protect](/_protect/schema-org/Property/has_value_for/has_value_for_training_salary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_training_salary.protect|has_value_for_training_salary.protect]] 
 
-### #is_/same_as :: [has_value_for_training_salary.private](/_private/schema-org/Property/has_value_for/has_value_for_training_salary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_training_salary.private|has_value_for_training_salary.private]] 
 
-### #is_/same_as :: [has_value_for_training_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_training_salary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_training_salary.personal|has_value_for_training_salary.personal]] 
 
-### #is_/same_as :: [has_value_for_training_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_training_salary.secret|has_value_for_training_salary.secret]] 
 

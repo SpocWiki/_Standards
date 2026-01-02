@@ -50,17 +50,17 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mercantilism](/_Standards/Society/Ideology/Economic_Ideology/Mercantilism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Mercantilism|Mercantilism]] 
 
-### #is_/same_as :: [Mercantilism.public](/_public/Society/Ideology/Economic_Ideology/Mercantilism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Mercantilism.public|Mercantilism.public]] 
 
-### #is_/same_as :: [Mercantilism.internal](/_internal/Society/Ideology/Economic_Ideology/Mercantilism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Mercantilism.internal|Mercantilism.internal]] 
 
-### #is_/same_as :: [Mercantilism.protect](/_protect/Society/Ideology/Economic_Ideology/Mercantilism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Mercantilism.protect|Mercantilism.protect]] 
 
-### #is_/same_as :: [Mercantilism.private](/_private/Society/Ideology/Economic_Ideology/Mercantilism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Mercantilism.private|Mercantilism.private]] 
 
-### #is_/same_as :: [Mercantilism.personal](/_personal/Society/Ideology/Economic_Ideology/Mercantilism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Mercantilism.personal|Mercantilism.personal]] 
 
-### #is_/same_as :: [Mercantilism.secret](/_secret/Society/Ideology/Economic_Ideology/Mercantilism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Mercantilism.secret|Mercantilism.secret]] 
 

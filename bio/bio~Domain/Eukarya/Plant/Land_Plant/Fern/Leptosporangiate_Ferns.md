@@ -423,17 +423,17 @@ those of all basal families) remain unresolved.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leptosporangiate_Ferns](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns|Leptosporangiate_Ferns]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.public|Leptosporangiate_Ferns.public]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.internal|Leptosporangiate_Ferns.internal]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.protect|Leptosporangiate_Ferns.protect]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.private|Leptosporangiate_Ferns.private]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.personal|Leptosporangiate_Ferns.personal]] 
 
-### #is_/same_as :: [Leptosporangiate_Ferns.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern/Leptosporangiate_Ferns.secret|Leptosporangiate_Ferns.secret]] 
 

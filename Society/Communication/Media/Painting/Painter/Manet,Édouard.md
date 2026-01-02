@@ -286,17 +286,17 @@ Europeana_entity: agent/base/56427
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manet,Édouard](/_Standards/Society/Communication/Media/Painting/Painter/Manet,Édouard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Manet,Édouard|Manet,Édouard]] 
 
-### #is_/same_as :: [Manet,Édouard.public](/_public/Society/Communication/Media/Painting/Painter/Manet,Édouard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Manet,Édouard.public|Manet,Édouard.public]] 
 
-### #is_/same_as :: [Manet,Édouard.internal](/_internal/Society/Communication/Media/Painting/Painter/Manet,Édouard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Manet,Édouard.internal|Manet,Édouard.internal]] 
 
-### #is_/same_as :: [Manet,Édouard.protect](/_protect/Society/Communication/Media/Painting/Painter/Manet,Édouard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Manet,Édouard.protect|Manet,Édouard.protect]] 
 
-### #is_/same_as :: [Manet,Édouard.private](/_private/Society/Communication/Media/Painting/Painter/Manet,Édouard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Manet,Édouard.private|Manet,Édouard.private]] 
 
-### #is_/same_as :: [Manet,Édouard.personal](/_personal/Society/Communication/Media/Painting/Painter/Manet,Édouard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Manet,Édouard.personal|Manet,Édouard.personal]] 
 
-### #is_/same_as :: [Manet,Édouard.secret](/_secret/Society/Communication/Media/Painting/Painter/Manet,Édouard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Manet,Édouard.secret|Manet,Édouard.secret]] 
 

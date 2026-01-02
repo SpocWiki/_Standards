@@ -75,17 +75,17 @@ Unicode_character: 🧤
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glove](/_Standards/Technology/Tool/Clothing/Glove.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Glove|Glove]] 
 
-### #is_/same_as :: [Glove.public](/_public/Technology/Tool/Clothing/Glove.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Glove.public|Glove.public]] 
 
-### #is_/same_as :: [Glove.internal](/_internal/Technology/Tool/Clothing/Glove.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Glove.internal|Glove.internal]] 
 
-### #is_/same_as :: [Glove.protect](/_protect/Technology/Tool/Clothing/Glove.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Glove.protect|Glove.protect]] 
 
-### #is_/same_as :: [Glove.private](/_private/Technology/Tool/Clothing/Glove.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Glove.private|Glove.private]] 
 
-### #is_/same_as :: [Glove.personal](/_personal/Technology/Tool/Clothing/Glove.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Glove.personal|Glove.personal]] 
 
-### #is_/same_as :: [Glove.secret](/_secret/Technology/Tool/Clothing/Glove.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Glove.secret|Glove.secret]] 
 

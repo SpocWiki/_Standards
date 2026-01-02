@@ -65,17 +65,17 @@ Commons_category: Thyristors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thyristor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor|Thyristor]] 
 
-### #is_/same_as :: [Thyristor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.public|Thyristor.public]] 
 
-### #is_/same_as :: [Thyristor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.internal|Thyristor.internal]] 
 
-### #is_/same_as :: [Thyristor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.protect|Thyristor.protect]] 
 
-### #is_/same_as :: [Thyristor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.private|Thyristor.private]] 
 
-### #is_/same_as :: [Thyristor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.personal|Thyristor.personal]] 
 
-### #is_/same_as :: [Thyristor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Thyristor.secret|Thyristor.secret]] 
 

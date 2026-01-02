@@ -72,17 +72,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rocky%20Marciano%20195
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marciano,Rocky](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky|Marciano,Rocky]] 
 
-### #is_/same_as :: [Marciano,Rocky.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.public|Marciano,Rocky.public]] 
 
-### #is_/same_as :: [Marciano,Rocky.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.internal|Marciano,Rocky.internal]] 
 
-### #is_/same_as :: [Marciano,Rocky.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.protect|Marciano,Rocky.protect]] 
 
-### #is_/same_as :: [Marciano,Rocky.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.private|Marciano,Rocky.private]] 
 
-### #is_/same_as :: [Marciano,Rocky.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.personal|Marciano,Rocky.personal]] 
 
-### #is_/same_as :: [Marciano,Rocky.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Boxing/Marciano,Rocky.secret|Marciano,Rocky.secret]] 
 

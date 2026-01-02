@@ -48,17 +48,17 @@ Commons_category: Geological stacks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stack(Geology)](/_Standards/Earth/Geology/Landform/Stack(Geology).md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Stack(Geology)|Stack(Geology)]] 
 
-### #is_/same_as :: [Stack(Geology).public](/_public/Earth/Geology/Landform/Stack(Geology).public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Stack(Geology).public|Stack(Geology).public]] 
 
-### #is_/same_as :: [Stack(Geology).internal](/_internal/Earth/Geology/Landform/Stack(Geology).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Stack(Geology).internal|Stack(Geology).internal]] 
 
-### #is_/same_as :: [Stack(Geology).protect](/_protect/Earth/Geology/Landform/Stack(Geology).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Stack(Geology).protect|Stack(Geology).protect]] 
 
-### #is_/same_as :: [Stack(Geology).private](/_private/Earth/Geology/Landform/Stack(Geology).private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Stack(Geology).private|Stack(Geology).private]] 
 
-### #is_/same_as :: [Stack(Geology).personal](/_personal/Earth/Geology/Landform/Stack(Geology).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Stack(Geology).personal|Stack(Geology).personal]] 
 
-### #is_/same_as :: [Stack(Geology).secret](/_secret/Earth/Geology/Landform/Stack(Geology).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Stack(Geology).secret|Stack(Geology).secret]] 
 

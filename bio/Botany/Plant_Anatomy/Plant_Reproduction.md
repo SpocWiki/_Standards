@@ -36,17 +36,17 @@ Commons_category: Plant reproduction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Reproduction](/_Standards/bio/Botany/Plant_Anatomy/Plant_Reproduction.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Reproduction|Plant_Reproduction]] 
 
-### #is_/same_as :: [Plant_Reproduction.public](/_public/bio/Botany/Plant_Anatomy/Plant_Reproduction.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Reproduction.public|Plant_Reproduction.public]] 
 
-### #is_/same_as :: [Plant_Reproduction.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Reproduction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Reproduction.internal|Plant_Reproduction.internal]] 
 
-### #is_/same_as :: [Plant_Reproduction.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Reproduction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Reproduction.protect|Plant_Reproduction.protect]] 
 
-### #is_/same_as :: [Plant_Reproduction.private](/_private/bio/Botany/Plant_Anatomy/Plant_Reproduction.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Reproduction.private|Plant_Reproduction.private]] 
 
-### #is_/same_as :: [Plant_Reproduction.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Reproduction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Reproduction.personal|Plant_Reproduction.personal]] 
 
-### #is_/same_as :: [Plant_Reproduction.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Reproduction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Reproduction.secret|Plant_Reproduction.secret]] 
 

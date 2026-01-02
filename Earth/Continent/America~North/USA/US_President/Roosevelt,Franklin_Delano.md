@@ -257,17 +257,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano](/_Standards/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano|Roosevelt,Franklin_Delano]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.public](/_public/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.public|Roosevelt,Franklin_Delano.public]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.internal](/_internal/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.internal|Roosevelt,Franklin_Delano.internal]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.protect](/_protect/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.protect|Roosevelt,Franklin_Delano.protect]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.private](/_private/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.private|Roosevelt,Franklin_Delano.private]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.personal](/_personal/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.personal|Roosevelt,Franklin_Delano.personal]] 
 
-### #is_/same_as :: [Roosevelt,Franklin_Delano.secret](/_secret/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Franklin_Delano.secret|Roosevelt,Franklin_Delano.secret]] 
 

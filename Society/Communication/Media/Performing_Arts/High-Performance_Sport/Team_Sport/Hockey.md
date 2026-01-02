@@ -85,17 +85,17 @@ Archive_of_Our_Own_tag: Women's Hockey RPF
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hockey](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey|Hockey]] 
 
-### #is_/same_as :: [Hockey.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.public|Hockey.public]] 
 
-### #is_/same_as :: [Hockey.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.internal|Hockey.internal]] 
 
-### #is_/same_as :: [Hockey.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.protect|Hockey.protect]] 
 
-### #is_/same_as :: [Hockey.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.private|Hockey.private]] 
 
-### #is_/same_as :: [Hockey.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.personal|Hockey.personal]] 
 
-### #is_/same_as :: [Hockey.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey.secret|Hockey.secret]] 
 

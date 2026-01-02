@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_music_by](/_Standards/schema-org/Relation/has/has_music_by.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_music_by|has_music_by]] 
 
-### #is_/same_as :: [has_music_by.public](/_public/schema-org/Relation/has/has_music_by.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_music_by.public|has_music_by.public]] 
 
-### #is_/same_as :: [has_music_by.internal](/_internal/schema-org/Relation/has/has_music_by.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_music_by.internal|has_music_by.internal]] 
 
-### #is_/same_as :: [has_music_by.protect](/_protect/schema-org/Relation/has/has_music_by.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_music_by.protect|has_music_by.protect]] 
 
-### #is_/same_as :: [has_music_by.private](/_private/schema-org/Relation/has/has_music_by.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_music_by.private|has_music_by.private]] 
 
-### #is_/same_as :: [has_music_by.personal](/_personal/schema-org/Relation/has/has_music_by.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_music_by.personal|has_music_by.personal]] 
 
-### #is_/same_as :: [has_music_by.secret](/_secret/schema-org/Relation/has/has_music_by.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_music_by.secret|has_music_by.secret]] 
 

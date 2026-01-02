@@ -50,17 +50,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/NUKLON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nucleon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon|Nucleon]] 
 
-### #is_/same_as :: [Nucleon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.public|Nucleon.public]] 
 
-### #is_/same_as :: [Nucleon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.internal|Nucleon.internal]] 
 
-### #is_/same_as :: [Nucleon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.protect|Nucleon.protect]] 
 
-### #is_/same_as :: [Nucleon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.private|Nucleon.private]] 
 
-### #is_/same_as :: [Nucleon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.personal|Nucleon.personal]] 
 
-### #is_/same_as :: [Nucleon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon.secret|Nucleon.secret]] 
 

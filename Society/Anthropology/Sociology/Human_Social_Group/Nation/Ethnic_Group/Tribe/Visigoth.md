@@ -77,17 +77,17 @@ Krugosvet_article_archived_: istoriya/VESTGOTI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visigoth](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth|Visigoth]] 
 
-### #is_/same_as :: [Visigoth.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.public|Visigoth.public]] 
 
-### #is_/same_as :: [Visigoth.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.internal|Visigoth.internal]] 
 
-### #is_/same_as :: [Visigoth.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.protect|Visigoth.protect]] 
 
-### #is_/same_as :: [Visigoth.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.private|Visigoth.private]] 
 
-### #is_/same_as :: [Visigoth.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.personal|Visigoth.personal]] 
 
-### #is_/same_as :: [Visigoth.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Visigoth.secret|Visigoth.secret]] 
 

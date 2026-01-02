@@ -57,17 +57,17 @@ MeSH_tree_code: V02.540
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humor](/_Standards/bio/Psychology/Affect/Emotion/Humor.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Humor|Humor]] 
 
-### #is_/same_as :: [Humor.public](/_public/bio/Psychology/Affect/Emotion/Humor.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Humor.public|Humor.public]] 
 
-### #is_/same_as :: [Humor.internal](/_internal/bio/Psychology/Affect/Emotion/Humor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Humor.internal|Humor.internal]] 
 
-### #is_/same_as :: [Humor.protect](/_protect/bio/Psychology/Affect/Emotion/Humor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Humor.protect|Humor.protect]] 
 
-### #is_/same_as :: [Humor.private](/_private/bio/Psychology/Affect/Emotion/Humor.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Humor.private|Humor.private]] 
 
-### #is_/same_as :: [Humor.personal](/_personal/bio/Psychology/Affect/Emotion/Humor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Humor.personal|Humor.personal]] 
 
-### #is_/same_as :: [Humor.secret](/_secret/bio/Psychology/Affect/Emotion/Humor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Humor.secret|Humor.secret]] 
 

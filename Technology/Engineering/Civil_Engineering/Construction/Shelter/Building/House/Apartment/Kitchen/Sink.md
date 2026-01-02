@@ -55,17 +55,17 @@ Commons_category: Sinks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sink](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink|Sink]] 
 
-### #is_/same_as :: [Sink.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.public|Sink.public]] 
 
-### #is_/same_as :: [Sink.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.internal|Sink.internal]] 
 
-### #is_/same_as :: [Sink.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.protect|Sink.protect]] 
 
-### #is_/same_as :: [Sink.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.private|Sink.private]] 
 
-### #is_/same_as :: [Sink.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.personal|Sink.personal]] 
 
-### #is_/same_as :: [Sink.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Sink.secret|Sink.secret]] 
 

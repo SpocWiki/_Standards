@@ -76,17 +76,17 @@ Dewey_Decimal_Classification: "338.927"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sustainable_Development](/_Standards/Society/Social_Issues/Sustainable_Development.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Sustainable_Development|Sustainable_Development]] 
 
-### #is_/same_as :: [Sustainable_Development.public](/_public/Society/Social_Issues/Sustainable_Development.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Sustainable_Development.public|Sustainable_Development.public]] 
 
-### #is_/same_as :: [Sustainable_Development.internal](/_internal/Society/Social_Issues/Sustainable_Development.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Sustainable_Development.internal|Sustainable_Development.internal]] 
 
-### #is_/same_as :: [Sustainable_Development.protect](/_protect/Society/Social_Issues/Sustainable_Development.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Sustainable_Development.protect|Sustainable_Development.protect]] 
 
-### #is_/same_as :: [Sustainable_Development.private](/_private/Society/Social_Issues/Sustainable_Development.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Sustainable_Development.private|Sustainable_Development.private]] 
 
-### #is_/same_as :: [Sustainable_Development.personal](/_personal/Society/Social_Issues/Sustainable_Development.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Sustainable_Development.personal|Sustainable_Development.personal]] 
 
-### #is_/same_as :: [Sustainable_Development.secret](/_secret/Society/Social_Issues/Sustainable_Development.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Sustainable_Development.secret|Sustainable_Development.secret]] 
 

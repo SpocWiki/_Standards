@@ -42,17 +42,17 @@ Game server status: OfflineTemporarily. Server is offline now but it can be onli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offline_Temporarily](/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily|Offline_Temporarily]] 
 
-### #is_/same_as :: [Offline_Temporarily.public](/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.public|Offline_Temporarily.public]] 
 
-### #is_/same_as :: [Offline_Temporarily.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.internal|Offline_Temporarily.internal]] 
 
-### #is_/same_as :: [Offline_Temporarily.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.protect|Offline_Temporarily.protect]] 
 
-### #is_/same_as :: [Offline_Temporarily.private](/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.private|Offline_Temporarily.private]] 
 
-### #is_/same_as :: [Offline_Temporarily.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.personal|Offline_Temporarily.personal]] 
 
-### #is_/same_as :: [Offline_Temporarily.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Game_Server_Status/Offline_Temporarily.secret|Offline_Temporarily.secret]] 
 

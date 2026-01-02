@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_address_origin](/_Standards/schema-org/Property/has_location/has_location_address_origin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_address_origin|has_location_address_origin]] 
 
-### #is_/same_as :: [has_location_address_origin.public](/_public/schema-org/Property/has_location/has_location_address_origin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_address_origin.public|has_location_address_origin.public]] 
 
-### #is_/same_as :: [has_location_address_origin.internal](/_internal/schema-org/Property/has_location/has_location_address_origin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_address_origin.internal|has_location_address_origin.internal]] 
 
-### #is_/same_as :: [has_location_address_origin.protect](/_protect/schema-org/Property/has_location/has_location_address_origin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_address_origin.protect|has_location_address_origin.protect]] 
 
-### #is_/same_as :: [has_location_address_origin.private](/_private/schema-org/Property/has_location/has_location_address_origin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_address_origin.private|has_location_address_origin.private]] 
 
-### #is_/same_as :: [has_location_address_origin.personal](/_personal/schema-org/Property/has_location/has_location_address_origin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_address_origin.personal|has_location_address_origin.personal]] 
 
-### #is_/same_as :: [has_location_address_origin.secret](/_secret/schema-org/Property/has_location/has_location_address_origin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_address_origin.secret|has_location_address_origin.secret]] 
 

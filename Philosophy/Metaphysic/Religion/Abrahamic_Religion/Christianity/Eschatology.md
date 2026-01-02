@@ -49,17 +49,17 @@ Colon_Classification: Q:36
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eschatology](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology|Eschatology]] 
 
-### #is_/same_as :: [Eschatology.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.public|Eschatology.public]] 
 
-### #is_/same_as :: [Eschatology.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.internal|Eschatology.internal]] 
 
-### #is_/same_as :: [Eschatology.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.protect|Eschatology.protect]] 
 
-### #is_/same_as :: [Eschatology.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.private|Eschatology.private]] 
 
-### #is_/same_as :: [Eschatology.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.personal|Eschatology.personal]] 
 
-### #is_/same_as :: [Eschatology.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eschatology.secret|Eschatology.secret]] 
 

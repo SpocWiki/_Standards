@@ -105,17 +105,17 @@ that specializes in the care of infants, children and adolescents.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pediatric](/_Standards/bio/Medicine/Medical_Business/Pediatric.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Pediatric|Pediatric]] 
 
-### #is_/same_as :: [Pediatric.public](/_public/bio/Medicine/Medical_Business/Pediatric.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Pediatric.public|Pediatric.public]] 
 
-### #is_/same_as :: [Pediatric.internal](/_internal/bio/Medicine/Medical_Business/Pediatric.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Pediatric.internal|Pediatric.internal]] 
 
-### #is_/same_as :: [Pediatric.protect](/_protect/bio/Medicine/Medical_Business/Pediatric.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Pediatric.protect|Pediatric.protect]] 
 
-### #is_/same_as :: [Pediatric.private](/_private/bio/Medicine/Medical_Business/Pediatric.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Pediatric.private|Pediatric.private]] 
 
-### #is_/same_as :: [Pediatric.personal](/_personal/bio/Medicine/Medical_Business/Pediatric.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Pediatric.personal|Pediatric.personal]] 
 
-### #is_/same_as :: [Pediatric.secret](/_secret/bio/Medicine/Medical_Business/Pediatric.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Pediatric.secret|Pediatric.secret]] 
 

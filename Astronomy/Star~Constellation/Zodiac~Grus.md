@@ -81,17 +81,17 @@ official_name: Grus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Grus](/_Standards/Astronomy/Star~Constellation/Zodiac~Grus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Grus|Zodiac~Grus]] 
 
-### #is_/same_as :: [Zodiac~Grus.public](/_public/Astronomy/Star~Constellation/Zodiac~Grus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Grus.public|Zodiac~Grus.public]] 
 
-### #is_/same_as :: [Zodiac~Grus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Grus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Grus.internal|Zodiac~Grus.internal]] 
 
-### #is_/same_as :: [Zodiac~Grus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Grus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Grus.protect|Zodiac~Grus.protect]] 
 
-### #is_/same_as :: [Zodiac~Grus.private](/_private/Astronomy/Star~Constellation/Zodiac~Grus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Grus.private|Zodiac~Grus.private]] 
 
-### #is_/same_as :: [Zodiac~Grus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Grus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Grus.personal|Zodiac~Grus.personal]] 
 
-### #is_/same_as :: [Zodiac~Grus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Grus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Grus.secret|Zodiac~Grus.secret]] 
 

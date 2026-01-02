@@ -42,17 +42,17 @@ Nonprofit501c21: Non-profit type referring to Black Lung Benefit Trusts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c21](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21|Nonprofit501c21]] 
 
-### #is_/same_as :: [Nonprofit501c21.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.public|Nonprofit501c21.public]] 
 
-### #is_/same_as :: [Nonprofit501c21.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.internal|Nonprofit501c21.internal]] 
 
-### #is_/same_as :: [Nonprofit501c21.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.protect|Nonprofit501c21.protect]] 
 
-### #is_/same_as :: [Nonprofit501c21.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.private|Nonprofit501c21.private]] 
 
-### #is_/same_as :: [Nonprofit501c21.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.personal|Nonprofit501c21.personal]] 
 
-### #is_/same_as :: [Nonprofit501c21.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c21.secret|Nonprofit501c21.secret]] 
 

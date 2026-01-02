@@ -53,17 +53,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q175240-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vizier](/_Standards/Society/Politics/Government/Vizier.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Vizier|Vizier]] 
 
-### #is_/same_as :: [Vizier.public](/_public/Society/Politics/Government/Vizier.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Vizier.public|Vizier.public]] 
 
-### #is_/same_as :: [Vizier.internal](/_internal/Society/Politics/Government/Vizier.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Vizier.internal|Vizier.internal]] 
 
-### #is_/same_as :: [Vizier.protect](/_protect/Society/Politics/Government/Vizier.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Vizier.protect|Vizier.protect]] 
 
-### #is_/same_as :: [Vizier.private](/_private/Society/Politics/Government/Vizier.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Vizier.private|Vizier.private]] 
 
-### #is_/same_as :: [Vizier.personal](/_personal/Society/Politics/Government/Vizier.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Vizier.personal|Vizier.personal]] 
 
-### #is_/same_as :: [Vizier.secret](/_secret/Society/Politics/Government/Vizier.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Vizier.secret|Vizier.secret]] 
 

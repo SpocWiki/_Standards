@@ -78,17 +78,17 @@ A specific branch of medical science that pertains to study of anesthetics and t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anesthesia](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia|Anesthesia]] 
 
-### #is_/same_as :: [Anesthesia.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.public|Anesthesia.public]] 
 
-### #is_/same_as :: [Anesthesia.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.internal|Anesthesia.internal]] 
 
-### #is_/same_as :: [Anesthesia.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.protect|Anesthesia.protect]] 
 
-### #is_/same_as :: [Anesthesia.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.private|Anesthesia.private]] 
 
-### #is_/same_as :: [Anesthesia.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.personal|Anesthesia.personal]] 
 
-### #is_/same_as :: [Anesthesia.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Anesthesia.secret|Anesthesia.secret]] 
 

@@ -42,17 +42,17 @@ RemixAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Remix_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album|Remix_Album]] 
 
-### #is_/same_as :: [Remix_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.public|Remix_Album.public]] 
 
-### #is_/same_as :: [Remix_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.internal|Remix_Album.internal]] 
 
-### #is_/same_as :: [Remix_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.protect|Remix_Album.protect]] 
 
-### #is_/same_as :: [Remix_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.private|Remix_Album.private]] 
 
-### #is_/same_as :: [Remix_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.personal|Remix_Album.personal]] 
 
-### #is_/same_as :: [Remix_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Remix_Album.secret|Remix_Album.secret]] 
 

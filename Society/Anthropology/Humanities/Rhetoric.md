@@ -58,17 +58,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/RITORIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhetoric](/_Standards/Society/Anthropology/Humanities/Rhetoric.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Humanities/Rhetoric|Rhetoric]] 
 
-### #is_/same_as :: [Rhetoric.public](/_public/Society/Anthropology/Humanities/Rhetoric.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Humanities/Rhetoric.public|Rhetoric.public]] 
 
-### #is_/same_as :: [Rhetoric.internal](/_internal/Society/Anthropology/Humanities/Rhetoric.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Humanities/Rhetoric.internal|Rhetoric.internal]] 
 
-### #is_/same_as :: [Rhetoric.protect](/_protect/Society/Anthropology/Humanities/Rhetoric.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Humanities/Rhetoric.protect|Rhetoric.protect]] 
 
-### #is_/same_as :: [Rhetoric.private](/_private/Society/Anthropology/Humanities/Rhetoric.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Humanities/Rhetoric.private|Rhetoric.private]] 
 
-### #is_/same_as :: [Rhetoric.personal](/_personal/Society/Anthropology/Humanities/Rhetoric.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Humanities/Rhetoric.personal|Rhetoric.personal]] 
 
-### #is_/same_as :: [Rhetoric.secret](/_secret/Society/Anthropology/Humanities/Rhetoric.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Humanities/Rhetoric.secret|Rhetoric.secret]] 
 

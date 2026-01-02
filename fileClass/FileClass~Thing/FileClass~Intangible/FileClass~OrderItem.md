@@ -84,17 +84,17 @@ OrderedItem:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OrderItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem|FileClass~OrderItem]] 
 
-### #is_/same_as :: [FileClass~OrderItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.public|FileClass~OrderItem.public]] 
 
-### #is_/same_as :: [FileClass~OrderItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.internal|FileClass~OrderItem.internal]] 
 
-### #is_/same_as :: [FileClass~OrderItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.protect|FileClass~OrderItem.protect]] 
 
-### #is_/same_as :: [FileClass~OrderItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.private|FileClass~OrderItem.private]] 
 
-### #is_/same_as :: [FileClass~OrderItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.personal|FileClass~OrderItem.personal]] 
 
-### #is_/same_as :: [FileClass~OrderItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~OrderItem.secret|FileClass~OrderItem.secret]] 
 

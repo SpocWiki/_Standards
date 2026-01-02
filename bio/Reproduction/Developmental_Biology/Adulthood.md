@@ -59,17 +59,17 @@ female_form_of_label: доросла
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adulthood](/_Standards/bio/Reproduction/Developmental_Biology/Adulthood.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Adulthood|Adulthood]] 
 
-### #is_/same_as :: [Adulthood.public](/_public/bio/Reproduction/Developmental_Biology/Adulthood.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Adulthood.public|Adulthood.public]] 
 
-### #is_/same_as :: [Adulthood.internal](/_internal/bio/Reproduction/Developmental_Biology/Adulthood.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Adulthood.internal|Adulthood.internal]] 
 
-### #is_/same_as :: [Adulthood.protect](/_protect/bio/Reproduction/Developmental_Biology/Adulthood.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Adulthood.protect|Adulthood.protect]] 
 
-### #is_/same_as :: [Adulthood.private](/_private/bio/Reproduction/Developmental_Biology/Adulthood.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Adulthood.private|Adulthood.private]] 
 
-### #is_/same_as :: [Adulthood.personal](/_personal/bio/Reproduction/Developmental_Biology/Adulthood.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Adulthood.personal|Adulthood.personal]] 
 
-### #is_/same_as :: [Adulthood.secret](/_secret/bio/Reproduction/Developmental_Biology/Adulthood.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Adulthood.secret|Adulthood.secret]] 
 

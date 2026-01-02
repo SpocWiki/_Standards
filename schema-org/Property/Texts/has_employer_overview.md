@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_employer_overview](/_Standards/schema-org/Property/Texts/has_employer_overview.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_employer_overview|has_employer_overview]] 
 
-### #is_/same_as :: [has_employer_overview.public](/_public/schema-org/Property/Texts/has_employer_overview.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_employer_overview.public|has_employer_overview.public]] 
 
-### #is_/same_as :: [has_employer_overview.internal](/_internal/schema-org/Property/Texts/has_employer_overview.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_employer_overview.internal|has_employer_overview.internal]] 
 
-### #is_/same_as :: [has_employer_overview.protect](/_protect/schema-org/Property/Texts/has_employer_overview.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_employer_overview.protect|has_employer_overview.protect]] 
 
-### #is_/same_as :: [has_employer_overview.private](/_private/schema-org/Property/Texts/has_employer_overview.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_employer_overview.private|has_employer_overview.private]] 
 
-### #is_/same_as :: [has_employer_overview.personal](/_personal/schema-org/Property/Texts/has_employer_overview.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_employer_overview.personal|has_employer_overview.personal]] 
 
-### #is_/same_as :: [has_employer_overview.secret](/_secret/schema-org/Property/Texts/has_employer_overview.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_employer_overview.secret|has_employer_overview.secret]] 
 

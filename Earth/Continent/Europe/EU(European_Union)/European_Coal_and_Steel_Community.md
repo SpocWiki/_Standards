@@ -80,17 +80,17 @@ dissolved_abolished_or_demolished_date: 2002-07-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community|European_Coal_and_Steel_Community]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.public|European_Coal_and_Steel_Community.public]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.internal|European_Coal_and_Steel_Community.internal]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.protect|European_Coal_and_Steel_Community.protect]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.private|European_Coal_and_Steel_Community.private]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.personal|European_Coal_and_Steel_Community.personal]] 
 
-### #is_/same_as :: [European_Coal_and_Steel_Community.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Coal_and_Steel_Community.secret|European_Coal_and_Steel_Community.secret]] 
 

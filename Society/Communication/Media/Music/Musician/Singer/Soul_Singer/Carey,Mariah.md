@@ -160,17 +160,17 @@ REDnote_profile: 66ac93f9000000000b031421
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carey,Mariah](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah|Carey,Mariah]] 
 
-### #is_/same_as :: [Carey,Mariah.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.public|Carey,Mariah.public]] 
 
-### #is_/same_as :: [Carey,Mariah.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.internal|Carey,Mariah.internal]] 
 
-### #is_/same_as :: [Carey,Mariah.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.protect|Carey,Mariah.protect]] 
 
-### #is_/same_as :: [Carey,Mariah.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.private|Carey,Mariah.private]] 
 
-### #is_/same_as :: [Carey,Mariah.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.personal|Carey,Mariah.personal]] 
 
-### #is_/same_as :: [Carey,Mariah.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Carey,Mariah.secret|Carey,Mariah.secret]] 
 

@@ -47,17 +47,17 @@ part_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Class](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class|bio~Class]] 
 
-### #is_/same_as :: [bio~Class.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.public|bio~Class.public]] 
 
-### #is_/same_as :: [bio~Class.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.internal|bio~Class.internal]] 
 
-### #is_/same_as :: [bio~Class.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.protect|bio~Class.protect]] 
 
-### #is_/same_as :: [bio~Class.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.private|bio~Class.private]] 
 
-### #is_/same_as :: [bio~Class.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.personal|bio~Class.personal]] 
 
-### #is_/same_as :: [bio~Class.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class.secret|bio~Class.secret]] 
 

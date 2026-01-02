@@ -65,17 +65,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cutlery](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery|Cutlery]] 
 
-### #is_/same_as :: [Cutlery.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.public|Cutlery.public]] 
 
-### #is_/same_as :: [Cutlery.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.internal|Cutlery.internal]] 
 
-### #is_/same_as :: [Cutlery.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.protect|Cutlery.protect]] 
 
-### #is_/same_as :: [Cutlery.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.private|Cutlery.private]] 
 
-### #is_/same_as :: [Cutlery.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.personal|Cutlery.personal]] 
 
-### #is_/same_as :: [Cutlery.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery.secret|Cutlery.secret]] 
 

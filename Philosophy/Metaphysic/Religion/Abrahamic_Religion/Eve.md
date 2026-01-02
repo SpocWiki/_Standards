@@ -97,17 +97,17 @@ in Threat modeling.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eve](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve|Eve]] 
 
-### #is_/same_as :: [Eve.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.public|Eve.public]] 
 
-### #is_/same_as :: [Eve.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.internal|Eve.internal]] 
 
-### #is_/same_as :: [Eve.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.protect|Eve.protect]] 
 
-### #is_/same_as :: [Eve.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.private|Eve.private]] 
 
-### #is_/same_as :: [Eve.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.personal|Eve.personal]] 
 
-### #is_/same_as :: [Eve.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve.secret|Eve.secret]] 
 

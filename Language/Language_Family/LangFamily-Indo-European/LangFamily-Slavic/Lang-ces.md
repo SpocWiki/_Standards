@@ -170,17 +170,17 @@ exact_match: http://publications.europa.eu/resource/authority/language/CES
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ces](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces|Lang-ces]] 
 
-### #is_/same_as :: [Lang-ces.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.public|Lang-ces.public]] 
 
-### #is_/same_as :: [Lang-ces.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.internal|Lang-ces.internal]] 
 
-### #is_/same_as :: [Lang-ces.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.protect|Lang-ces.protect]] 
 
-### #is_/same_as :: [Lang-ces.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.private|Lang-ces.private]] 
 
-### #is_/same_as :: [Lang-ces.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.personal|Lang-ces.personal]] 
 
-### #is_/same_as :: [Lang-ces.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ces.secret|Lang-ces.secret]] 
 

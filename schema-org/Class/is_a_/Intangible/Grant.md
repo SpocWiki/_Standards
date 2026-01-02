@@ -48,17 +48,17 @@ The amount of a [[Grant]] is represented using [[amount]] as a [[MonetaryAmount]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grant](/_Standards/schema-org/Class/is_a_/Intangible/Grant.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Grant|Grant]] 
 
-### #is_/same_as :: [Grant.public](/_public/schema-org/Class/is_a_/Intangible/Grant.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Grant.public|Grant.public]] 
 
-### #is_/same_as :: [Grant.internal](/_internal/schema-org/Class/is_a_/Intangible/Grant.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Grant.internal|Grant.internal]] 
 
-### #is_/same_as :: [Grant.protect](/_protect/schema-org/Class/is_a_/Intangible/Grant.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Grant.protect|Grant.protect]] 
 
-### #is_/same_as :: [Grant.private](/_private/schema-org/Class/is_a_/Intangible/Grant.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Grant.private|Grant.private]] 
 
-### #is_/same_as :: [Grant.personal](/_personal/schema-org/Class/is_a_/Intangible/Grant.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Grant.personal|Grant.personal]] 
 
-### #is_/same_as :: [Grant.secret](/_secret/schema-org/Class/is_a_/Intangible/Grant.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Grant.secret|Grant.secret]] 
 

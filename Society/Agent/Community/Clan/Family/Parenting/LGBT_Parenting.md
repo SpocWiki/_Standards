@@ -39,17 +39,17 @@ described_at_URL: https://www.parool.nl/columns-opinie/regenbooggezin-is-voor-ve
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LGBT_Parenting](/_Standards/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting|LGBT_Parenting]] 
 
-### #is_/same_as :: [LGBT_Parenting.public](/_public/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.public|LGBT_Parenting.public]] 
 
-### #is_/same_as :: [LGBT_Parenting.internal](/_internal/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.internal|LGBT_Parenting.internal]] 
 
-### #is_/same_as :: [LGBT_Parenting.protect](/_protect/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.protect|LGBT_Parenting.protect]] 
 
-### #is_/same_as :: [LGBT_Parenting.private](/_private/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.private|LGBT_Parenting.private]] 
 
-### #is_/same_as :: [LGBT_Parenting.personal](/_personal/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.personal|LGBT_Parenting.personal]] 
 
-### #is_/same_as :: [LGBT_Parenting.secret](/_secret/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Parenting/LGBT_Parenting.secret|LGBT_Parenting.secret]] 
 

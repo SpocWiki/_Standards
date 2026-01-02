@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_insertion](/_Standards/schema-org/Relation/has/has_insertion.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_insertion|has_insertion]] 
 
-### #is_/same_as :: [has_insertion.public](/_public/schema-org/Relation/has/has_insertion.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_insertion.public|has_insertion.public]] 
 
-### #is_/same_as :: [has_insertion.internal](/_internal/schema-org/Relation/has/has_insertion.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_insertion.internal|has_insertion.internal]] 
 
-### #is_/same_as :: [has_insertion.protect](/_protect/schema-org/Relation/has/has_insertion.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_insertion.protect|has_insertion.protect]] 
 
-### #is_/same_as :: [has_insertion.private](/_private/schema-org/Relation/has/has_insertion.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_insertion.private|has_insertion.private]] 
 
-### #is_/same_as :: [has_insertion.personal](/_personal/schema-org/Relation/has/has_insertion.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_insertion.personal|has_insertion.personal]] 
 
-### #is_/same_as :: [has_insertion.secret](/_secret/schema-org/Relation/has/has_insertion.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_insertion.secret|has_insertion.secret]] 
 

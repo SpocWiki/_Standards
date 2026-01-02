@@ -41,17 +41,17 @@ An event venue.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Venue](/_Standards/Earth/Geography/Place/Civic_Structure/Event_Venue.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Event_Venue|Event_Venue]] 
 
-### #is_/same_as :: [Event_Venue.public](/_public/Earth/Geography/Place/Civic_Structure/Event_Venue.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Event_Venue.public|Event_Venue.public]] 
 
-### #is_/same_as :: [Event_Venue.internal](/_internal/Earth/Geography/Place/Civic_Structure/Event_Venue.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Event_Venue.internal|Event_Venue.internal]] 
 
-### #is_/same_as :: [Event_Venue.protect](/_protect/Earth/Geography/Place/Civic_Structure/Event_Venue.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Event_Venue.protect|Event_Venue.protect]] 
 
-### #is_/same_as :: [Event_Venue.private](/_private/Earth/Geography/Place/Civic_Structure/Event_Venue.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Event_Venue.private|Event_Venue.private]] 
 
-### #is_/same_as :: [Event_Venue.personal](/_personal/Earth/Geography/Place/Civic_Structure/Event_Venue.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Event_Venue.personal|Event_Venue.personal]] 
 
-### #is_/same_as :: [Event_Venue.secret](/_secret/Earth/Geography/Place/Civic_Structure/Event_Venue.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Event_Venue.secret|Event_Venue.secret]] 
 

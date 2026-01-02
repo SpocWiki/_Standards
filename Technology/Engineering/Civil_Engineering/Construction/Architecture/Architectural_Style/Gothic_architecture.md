@@ -73,17 +73,17 @@ Krugosvet_article: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GOTICHESKAYA_A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gothic_architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture|Gothic_architecture]] 
 
-### #is_/same_as :: [Gothic_architecture.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.public|Gothic_architecture.public]] 
 
-### #is_/same_as :: [Gothic_architecture.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.internal|Gothic_architecture.internal]] 
 
-### #is_/same_as :: [Gothic_architecture.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.protect|Gothic_architecture.protect]] 
 
-### #is_/same_as :: [Gothic_architecture.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.private|Gothic_architecture.private]] 
 
-### #is_/same_as :: [Gothic_architecture.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.personal|Gothic_architecture.personal]] 
 
-### #is_/same_as :: [Gothic_architecture.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_architecture.secret|Gothic_architecture.secret]] 
 

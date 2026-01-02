@@ -43,17 +43,17 @@ Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/invest
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pinus_cembroides](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides|Pinus_cembroides]] 
 
-### #is_/same_as :: [Pinus_cembroides.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.public|Pinus_cembroides.public]] 
 
-### #is_/same_as :: [Pinus_cembroides.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.internal|Pinus_cembroides.internal]] 
 
-### #is_/same_as :: [Pinus_cembroides.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.protect|Pinus_cembroides.protect]] 
 
-### #is_/same_as :: [Pinus_cembroides.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.private|Pinus_cembroides.private]] 
 
-### #is_/same_as :: [Pinus_cembroides.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.personal|Pinus_cembroides.personal]] 
 
-### #is_/same_as :: [Pinus_cembroides.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/Pinus_cembroides.secret|Pinus_cembroides.secret]] 
 

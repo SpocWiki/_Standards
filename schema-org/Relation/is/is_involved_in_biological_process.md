@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_involved_in_biological_process](/_Standards/schema-org/Relation/is/is_involved_in_biological_process.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_involved_in_biological_process|is_involved_in_biological_process]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.public](/_public/schema-org/Relation/is/is_involved_in_biological_process.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_involved_in_biological_process.public|is_involved_in_biological_process.public]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.internal](/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_involved_in_biological_process.internal|is_involved_in_biological_process.internal]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.protect](/_protect/schema-org/Relation/is/is_involved_in_biological_process.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_involved_in_biological_process.protect|is_involved_in_biological_process.protect]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.private](/_private/schema-org/Relation/is/is_involved_in_biological_process.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_involved_in_biological_process.private|is_involved_in_biological_process.private]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.personal](/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_involved_in_biological_process.personal|is_involved_in_biological_process.personal]] 
 
-### #is_/same_as :: [is_involved_in_biological_process.secret](/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_involved_in_biological_process.secret|is_involved_in_biological_process.secret]] 
 

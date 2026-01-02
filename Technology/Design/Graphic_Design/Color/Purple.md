@@ -62,17 +62,17 @@ Iconclass_notation: 22C4(PURPLE)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Purple](/_Standards/Technology/Design/Graphic_Design/Color/Purple.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Purple|Purple]] 
 
-### #is_/same_as :: [Purple.public](/_public/Technology/Design/Graphic_Design/Color/Purple.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Purple.public|Purple.public]] 
 
-### #is_/same_as :: [Purple.internal](/_internal/Technology/Design/Graphic_Design/Color/Purple.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Purple.internal|Purple.internal]] 
 
-### #is_/same_as :: [Purple.protect](/_protect/Technology/Design/Graphic_Design/Color/Purple.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Purple.protect|Purple.protect]] 
 
-### #is_/same_as :: [Purple.private](/_private/Technology/Design/Graphic_Design/Color/Purple.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Purple.private|Purple.private]] 
 
-### #is_/same_as :: [Purple.personal](/_personal/Technology/Design/Graphic_Design/Color/Purple.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Purple.personal|Purple.personal]] 
 
-### #is_/same_as :: [Purple.secret](/_secret/Technology/Design/Graphic_Design/Color/Purple.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Purple.secret|Purple.secret]] 
 

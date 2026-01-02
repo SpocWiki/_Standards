@@ -46,17 +46,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Experiment%20zur%20Rel
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Special_Relativity](/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Theory_of_Relativity/Special_Relativity|Special_Relativity]] 
 
-### #is_/same_as :: [Special_Relativity.public](/_public/Science/Physics/Theory_of_Relativity/Special_Relativity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Theory_of_Relativity/Special_Relativity.public|Special_Relativity.public]] 
 
-### #is_/same_as :: [Special_Relativity.internal](/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Theory_of_Relativity/Special_Relativity.internal|Special_Relativity.internal]] 
 
-### #is_/same_as :: [Special_Relativity.protect](/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Theory_of_Relativity/Special_Relativity.protect|Special_Relativity.protect]] 
 
-### #is_/same_as :: [Special_Relativity.private](/_private/Science/Physics/Theory_of_Relativity/Special_Relativity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Theory_of_Relativity/Special_Relativity.private|Special_Relativity.private]] 
 
-### #is_/same_as :: [Special_Relativity.personal](/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Theory_of_Relativity/Special_Relativity.personal|Special_Relativity.personal]] 
 
-### #is_/same_as :: [Special_Relativity.secret](/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Theory_of_Relativity/Special_Relativity.secret|Special_Relativity.secret]] 
 

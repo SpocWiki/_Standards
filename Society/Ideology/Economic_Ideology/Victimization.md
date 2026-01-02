@@ -15,3 +15,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Victimisation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Victimization|Victimization]] 
+
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Victimization.public|Victimization.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Victimization.internal|Victimization.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Victimization.protect|Victimization.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Victimization.private|Victimization.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Victimization.personal|Victimization.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Victimization.secret|Victimization.secret]] 
+

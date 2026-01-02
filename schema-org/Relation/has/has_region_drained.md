@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_region_drained](/_Standards/schema-org/Relation/has/has_region_drained.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_region_drained|has_region_drained]] 
 
-### #is_/same_as :: [has_region_drained.public](/_public/schema-org/Relation/has/has_region_drained.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_region_drained.public|has_region_drained.public]] 
 
-### #is_/same_as :: [has_region_drained.internal](/_internal/schema-org/Relation/has/has_region_drained.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_region_drained.internal|has_region_drained.internal]] 
 
-### #is_/same_as :: [has_region_drained.protect](/_protect/schema-org/Relation/has/has_region_drained.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_region_drained.protect|has_region_drained.protect]] 
 
-### #is_/same_as :: [has_region_drained.private](/_private/schema-org/Relation/has/has_region_drained.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_region_drained.private|has_region_drained.private]] 
 
-### #is_/same_as :: [has_region_drained.personal](/_personal/schema-org/Relation/has/has_region_drained.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_region_drained.personal|has_region_drained.personal]] 
 
-### #is_/same_as :: [has_region_drained.secret](/_secret/schema-org/Relation/has/has_region_drained.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_region_drained.secret|has_region_drained.secret]] 
 

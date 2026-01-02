@@ -15,17 +15,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musician](/_Standards/Society/Communication/Media/Music/Musician.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician|Musician]] 
 
-### #is_/same_as :: [Musician.public](/_public/Society/Communication/Media/Music/Musician.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician.public|Musician.public]] 
 
-### #is_/same_as :: [Musician.internal](/_internal/Society/Communication/Media/Music/Musician.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician.internal|Musician.internal]] 
 
-### #is_/same_as :: [Musician.protect](/_protect/Society/Communication/Media/Music/Musician.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician.protect|Musician.protect]] 
 
-### #is_/same_as :: [Musician.private](/_private/Society/Communication/Media/Music/Musician.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician.private|Musician.private]] 
 
-### #is_/same_as :: [Musician.personal](/_personal/Society/Communication/Media/Music/Musician.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician.personal|Musician.personal]] 
 
-### #is_/same_as :: [Musician.secret](/_secret/Society/Communication/Media/Music/Musician.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician.secret|Musician.secret]] 
 

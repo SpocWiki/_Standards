@@ -64,17 +64,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [County](/_Standards/Earth/Geography/Place/Administrative_Area/County.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/County|County]] 
 
-### #is_/same_as :: [County.public](/_public/Earth/Geography/Place/Administrative_Area/County.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/County.public|County.public]] 
 
-### #is_/same_as :: [County.internal](/_internal/Earth/Geography/Place/Administrative_Area/County.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/County.internal|County.internal]] 
 
-### #is_/same_as :: [County.protect](/_protect/Earth/Geography/Place/Administrative_Area/County.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/County.protect|County.protect]] 
 
-### #is_/same_as :: [County.private](/_private/Earth/Geography/Place/Administrative_Area/County.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/County.private|County.private]] 
 
-### #is_/same_as :: [County.personal](/_personal/Earth/Geography/Place/Administrative_Area/County.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/County.personal|County.personal]] 
 
-### #is_/same_as :: [County.secret](/_secret/Earth/Geography/Place/Administrative_Area/County.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/County.secret|County.secret]] 
 

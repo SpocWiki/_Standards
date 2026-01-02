@@ -44,17 +44,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%94%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Disobedience](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience|Civil_Disobedience]] 
 
-### #is_/same_as :: [Civil_Disobedience.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.public|Civil_Disobedience.public]] 
 
-### #is_/same_as :: [Civil_Disobedience.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.internal|Civil_Disobedience.internal]] 
 
-### #is_/same_as :: [Civil_Disobedience.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.protect|Civil_Disobedience.protect]] 
 
-### #is_/same_as :: [Civil_Disobedience.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.private|Civil_Disobedience.private]] 
 
-### #is_/same_as :: [Civil_Disobedience.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.personal|Civil_Disobedience.personal]] 
 
-### #is_/same_as :: [Civil_Disobedience.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Disobedience.secret|Civil_Disobedience.secret]] 
 

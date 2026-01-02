@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_menu_item](/_Standards/schema-org/Relation/has/has_menu_item.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_menu_item|has_menu_item]] 
 
-### #is_/same_as :: [has_menu_item.public](/_public/schema-org/Relation/has/has_menu_item.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_menu_item.public|has_menu_item.public]] 
 
-### #is_/same_as :: [has_menu_item.internal](/_internal/schema-org/Relation/has/has_menu_item.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_menu_item.internal|has_menu_item.internal]] 
 
-### #is_/same_as :: [has_menu_item.protect](/_protect/schema-org/Relation/has/has_menu_item.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_menu_item.protect|has_menu_item.protect]] 
 
-### #is_/same_as :: [has_menu_item.private](/_private/schema-org/Relation/has/has_menu_item.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_menu_item.private|has_menu_item.private]] 
 
-### #is_/same_as :: [has_menu_item.personal](/_personal/schema-org/Relation/has/has_menu_item.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_menu_item.personal|has_menu_item.personal]] 
 
-### #is_/same_as :: [has_menu_item.secret](/_secret/schema-org/Relation/has/has_menu_item.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_menu_item.secret|has_menu_item.secret]] 
 

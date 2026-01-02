@@ -52,17 +52,17 @@ Most comics have at least two parts: a cover (ComicCoverArt) and an interior sto
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comic_Story](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comic_Story|Comic_Story]] 
 
-### #is_/same_as :: [Comic_Story.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comic_Story.public|Comic_Story.public]] 
 
-### #is_/same_as :: [Comic_Story.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comic_Story.internal|Comic_Story.internal]] 
 
-### #is_/same_as :: [Comic_Story.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comic_Story.protect|Comic_Story.protect]] 
 
-### #is_/same_as :: [Comic_Story.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comic_Story.private|Comic_Story.private]] 
 
-### #is_/same_as :: [Comic_Story.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comic_Story.personal|Comic_Story.personal]] 
 
-### #is_/same_as :: [Comic_Story.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comic_Story.secret|Comic_Story.secret]] 
 

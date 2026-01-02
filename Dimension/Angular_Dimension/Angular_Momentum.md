@@ -52,17 +52,17 @@ given by its inverse [[Angular_Momentum]]:  ___λ = h / p___
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angular_Momentum](/_Standards/Dimension/Angular_Dimension/Angular_Momentum.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Angular_Momentum|Angular_Momentum]] 
 
-### #is_/same_as :: [Angular_Momentum.public](/_public/Dimension/Angular_Dimension/Angular_Momentum.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Angular_Momentum.public|Angular_Momentum.public]] 
 
-### #is_/same_as :: [Angular_Momentum.internal](/_internal/Dimension/Angular_Dimension/Angular_Momentum.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Angular_Momentum.internal|Angular_Momentum.internal]] 
 
-### #is_/same_as :: [Angular_Momentum.protect](/_protect/Dimension/Angular_Dimension/Angular_Momentum.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Angular_Momentum.protect|Angular_Momentum.protect]] 
 
-### #is_/same_as :: [Angular_Momentum.private](/_private/Dimension/Angular_Dimension/Angular_Momentum.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Angular_Momentum.private|Angular_Momentum.private]] 
 
-### #is_/same_as :: [Angular_Momentum.personal](/_personal/Dimension/Angular_Dimension/Angular_Momentum.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Angular_Momentum.personal|Angular_Momentum.personal]] 
 
-### #is_/same_as :: [Angular_Momentum.secret](/_secret/Dimension/Angular_Dimension/Angular_Momentum.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Angular_Momentum.secret|Angular_Momentum.secret]] 
 

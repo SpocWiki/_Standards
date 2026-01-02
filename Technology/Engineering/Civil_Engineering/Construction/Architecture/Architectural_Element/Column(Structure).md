@@ -85,17 +85,17 @@ OpenStreetMap_tag: man_made=column
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Column(Structure)](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure)|Column(Structure)]] 
 
-### #is_/same_as :: [Column(Structure).public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).public|Column(Structure).public]] 
 
-### #is_/same_as :: [Column(Structure).internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).internal|Column(Structure).internal]] 
 
-### #is_/same_as :: [Column(Structure).protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).protect|Column(Structure).protect]] 
 
-### #is_/same_as :: [Column(Structure).private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).private|Column(Structure).private]] 
 
-### #is_/same_as :: [Column(Structure).personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).personal|Column(Structure).personal]] 
 
-### #is_/same_as :: [Column(Structure).secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Column(Structure).secret|Column(Structure).secret]] 
 

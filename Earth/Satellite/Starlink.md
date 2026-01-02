@@ -75,17 +75,17 @@ first_flight: 2019-05-24T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Starlink](/_Standards/Earth/Satellite/Starlink.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/Starlink|Starlink]] 
 
-### #is_/same_as :: [Starlink.public](/_public/Earth/Satellite/Starlink.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/Starlink.public|Starlink.public]] 
 
-### #is_/same_as :: [Starlink.internal](/_internal/Earth/Satellite/Starlink.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/Starlink.internal|Starlink.internal]] 
 
-### #is_/same_as :: [Starlink.protect](/_protect/Earth/Satellite/Starlink.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/Starlink.protect|Starlink.protect]] 
 
-### #is_/same_as :: [Starlink.private](/_private/Earth/Satellite/Starlink.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/Starlink.private|Starlink.private]] 
 
-### #is_/same_as :: [Starlink.personal](/_personal/Earth/Satellite/Starlink.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/Starlink.personal|Starlink.personal]] 
 
-### #is_/same_as :: [Starlink.secret](/_secret/Earth/Satellite/Starlink.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/Starlink.secret|Starlink.secret]] 
 

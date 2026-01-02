@@ -118,17 +118,17 @@ inception: 1501-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ramallah](/_Standards/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Palestine/Ramallah|Ramallah]] 
 
-### #is_/same_as :: [Ramallah.public](/_public/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.public|Ramallah.public]] 
 
-### #is_/same_as :: [Ramallah.internal](/_internal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.internal|Ramallah.internal]] 
 
-### #is_/same_as :: [Ramallah.protect](/_protect/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.protect|Ramallah.protect]] 
 
-### #is_/same_as :: [Ramallah.private](/_private/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.private|Ramallah.private]] 
 
-### #is_/same_as :: [Ramallah.personal](/_personal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.personal|Ramallah.personal]] 
 
-### #is_/same_as :: [Ramallah.secret](/_secret/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Palestine/Ramallah.secret|Ramallah.secret]] 
 

@@ -81,17 +81,17 @@ time_of_discovery_or_invention: 1789-08-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enceladus(Moon)](/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon)|Enceladus(Moon)]] 
 
-### #is_/same_as :: [Enceladus(Moon).public](/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).public|Enceladus(Moon).public]] 
 
-### #is_/same_as :: [Enceladus(Moon).internal](/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).internal|Enceladus(Moon).internal]] 
 
-### #is_/same_as :: [Enceladus(Moon).protect](/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).protect|Enceladus(Moon).protect]] 
 
-### #is_/same_as :: [Enceladus(Moon).private](/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).private|Enceladus(Moon).private]] 
 
-### #is_/same_as :: [Enceladus(Moon).personal](/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).personal|Enceladus(Moon).personal]] 
 
-### #is_/same_as :: [Enceladus(Moon).secret](/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Saturn(Planet)/Enceladus(Moon).secret|Enceladus(Moon).secret]] 
 

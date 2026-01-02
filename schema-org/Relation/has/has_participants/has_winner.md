@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_winner](has_winner.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_winner|has_winner]] 
 
-### #is_/same_as :: [has_winner.public](/_public/schema-org/Relation/has/has_winner.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_winner.public|has_winner.public]] 
 
-### #is_/same_as :: [has_winner.internal](/_internal/schema-org/Relation/has/has_winner.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_winner.internal|has_winner.internal]] 
 
-### #is_/same_as :: [has_winner.protect](/_protect/schema-org/Relation/has/has_winner.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_winner.protect|has_winner.protect]] 
 
-### #is_/same_as :: [has_winner.private](/_private/schema-org/Relation/has/has_winner.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_winner.private|has_winner.private]] 
 
-### #is_/same_as :: [has_winner.personal](/_personal/schema-org/Relation/has/has_winner.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_winner.personal|has_winner.personal]] 
 
-### #is_/same_as :: [has_winner.secret](/_secret/schema-org/Relation/has/has_winner.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_winner.secret|has_winner.secret]] 
 

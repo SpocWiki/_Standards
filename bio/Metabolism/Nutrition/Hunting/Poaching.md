@@ -53,17 +53,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Le%20braconnier%20par%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poaching](/_Standards/bio/Metabolism/Nutrition/Hunting/Poaching.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunting/Poaching|Poaching]] 
 
-### #is_/same_as :: [Poaching.public](/_public/bio/Metabolism/Nutrition/Hunting/Poaching.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Hunting/Poaching.public|Poaching.public]] 
 
-### #is_/same_as :: [Poaching.internal](/_internal/bio/Metabolism/Nutrition/Hunting/Poaching.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Hunting/Poaching.internal|Poaching.internal]] 
 
-### #is_/same_as :: [Poaching.protect](/_protect/bio/Metabolism/Nutrition/Hunting/Poaching.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Hunting/Poaching.protect|Poaching.protect]] 
 
-### #is_/same_as :: [Poaching.private](/_private/bio/Metabolism/Nutrition/Hunting/Poaching.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Hunting/Poaching.private|Poaching.private]] 
 
-### #is_/same_as :: [Poaching.personal](/_personal/bio/Metabolism/Nutrition/Hunting/Poaching.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Hunting/Poaching.personal|Poaching.personal]] 
 
-### #is_/same_as :: [Poaching.secret](/_secret/bio/Metabolism/Nutrition/Hunting/Poaching.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Hunting/Poaching.secret|Poaching.secret]] 
 

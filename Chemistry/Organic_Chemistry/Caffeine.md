@@ -271,17 +271,17 @@ ATC_code: N06BC01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caffeine](/_Standards/Chemistry/Organic_Chemistry/Caffeine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Caffeine|Caffeine]] 
 
-### #is_/same_as :: [Caffeine.public](/_public/Chemistry/Organic_Chemistry/Caffeine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Caffeine.public|Caffeine.public]] 
 
-### #is_/same_as :: [Caffeine.internal](/_internal/Chemistry/Organic_Chemistry/Caffeine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Caffeine.internal|Caffeine.internal]] 
 
-### #is_/same_as :: [Caffeine.protect](/_protect/Chemistry/Organic_Chemistry/Caffeine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Caffeine.protect|Caffeine.protect]] 
 
-### #is_/same_as :: [Caffeine.private](/_private/Chemistry/Organic_Chemistry/Caffeine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Caffeine.private|Caffeine.private]] 
 
-### #is_/same_as :: [Caffeine.personal](/_personal/Chemistry/Organic_Chemistry/Caffeine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Caffeine.personal|Caffeine.personal]] 
 
-### #is_/same_as :: [Caffeine.secret](/_secret/Chemistry/Organic_Chemistry/Caffeine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Caffeine.secret|Caffeine.secret]] 
 

@@ -39,17 +39,17 @@ Max McCandles is played by ???
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poor_Things](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things|Poor_Things]] 
 
-### #is_/same_as :: [Poor_Things.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.public|Poor_Things.public]] 
 
-### #is_/same_as :: [Poor_Things.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.internal|Poor_Things.internal]] 
 
-### #is_/same_as :: [Poor_Things.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.protect|Poor_Things.protect]] 
 
-### #is_/same_as :: [Poor_Things.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.private|Poor_Things.private]] 
 
-### #is_/same_as :: [Poor_Things.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.personal|Poor_Things.personal]] 
 
-### #is_/same_as :: [Poor_Things.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Poor_Things.secret|Poor_Things.secret]] 
 

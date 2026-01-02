@@ -53,17 +53,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/MAYATNIK_FUKO.ht
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foucault_Pendulum](/_Standards/Science/Physics/Classical_Mechanics/Foucault_Pendulum.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Foucault_Pendulum|Foucault_Pendulum]] 
 
-### #is_/same_as :: [Foucault_Pendulum.public](/_public/Science/Physics/Classical_Mechanics/Foucault_Pendulum.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Foucault_Pendulum.public|Foucault_Pendulum.public]] 
 
-### #is_/same_as :: [Foucault_Pendulum.internal](/_internal/Science/Physics/Classical_Mechanics/Foucault_Pendulum.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Foucault_Pendulum.internal|Foucault_Pendulum.internal]] 
 
-### #is_/same_as :: [Foucault_Pendulum.protect](/_protect/Science/Physics/Classical_Mechanics/Foucault_Pendulum.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Foucault_Pendulum.protect|Foucault_Pendulum.protect]] 
 
-### #is_/same_as :: [Foucault_Pendulum.private](/_private/Science/Physics/Classical_Mechanics/Foucault_Pendulum.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Foucault_Pendulum.private|Foucault_Pendulum.private]] 
 
-### #is_/same_as :: [Foucault_Pendulum.personal](/_personal/Science/Physics/Classical_Mechanics/Foucault_Pendulum.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Foucault_Pendulum.personal|Foucault_Pendulum.personal]] 
 
-### #is_/same_as :: [Foucault_Pendulum.secret](/_secret/Science/Physics/Classical_Mechanics/Foucault_Pendulum.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Foucault_Pendulum.secret|Foucault_Pendulum.secret]] 
 

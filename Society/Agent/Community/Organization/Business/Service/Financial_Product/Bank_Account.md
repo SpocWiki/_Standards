@@ -43,17 +43,17 @@ A product or service offered by a bank whereby one may deposit, withdraw or tran
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bank_Account](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account|Bank_Account]] 
 
-### #is_/same_as :: [Bank_Account.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.public|Bank_Account.public]] 
 
-### #is_/same_as :: [Bank_Account.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.internal|Bank_Account.internal]] 
 
-### #is_/same_as :: [Bank_Account.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.protect|Bank_Account.protect]] 
 
-### #is_/same_as :: [Bank_Account.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.private|Bank_Account.private]] 
 
-### #is_/same_as :: [Bank_Account.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.personal|Bank_Account.personal]] 
 
-### #is_/same_as :: [Bank_Account.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Bank_Account.secret|Bank_Account.secret]] 
 

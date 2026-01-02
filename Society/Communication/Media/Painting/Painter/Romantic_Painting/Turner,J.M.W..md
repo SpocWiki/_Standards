@@ -266,17 +266,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/TERN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turner,J.M.W.](/_Standards/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W.|Turner,J.M.W.]] 
 
-### #is_/same_as :: [Turner,J.M.W..public](/_public/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..public|Turner,J.M.W..public]] 
 
-### #is_/same_as :: [Turner,J.M.W..internal](/_internal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..internal|Turner,J.M.W..internal]] 
 
-### #is_/same_as :: [Turner,J.M.W..protect](/_protect/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..protect|Turner,J.M.W..protect]] 
 
-### #is_/same_as :: [Turner,J.M.W..private](/_private/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..private|Turner,J.M.W..private]] 
 
-### #is_/same_as :: [Turner,J.M.W..personal](/_personal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..personal|Turner,J.M.W..personal]] 
 
-### #is_/same_as :: [Turner,J.M.W..secret](/_secret/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Romantic_Painting/Turner,J.M.W..secret|Turner,J.M.W..secret]] 
 

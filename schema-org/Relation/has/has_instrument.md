@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_instrument](/_Standards/schema-org/Relation/has/has_instrument.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_instrument|has_instrument]] 
 
-### #is_/same_as :: [has_instrument.public](/_public/schema-org/Relation/has/has_instrument.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_instrument.public|has_instrument.public]] 
 
-### #is_/same_as :: [has_instrument.internal](/_internal/schema-org/Relation/has/has_instrument.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_instrument.internal|has_instrument.internal]] 
 
-### #is_/same_as :: [has_instrument.protect](/_protect/schema-org/Relation/has/has_instrument.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_instrument.protect|has_instrument.protect]] 
 
-### #is_/same_as :: [has_instrument.private](/_private/schema-org/Relation/has/has_instrument.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_instrument.private|has_instrument.private]] 
 
-### #is_/same_as :: [has_instrument.personal](/_personal/schema-org/Relation/has/has_instrument.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_instrument.personal|has_instrument.personal]] 
 
-### #is_/same_as :: [has_instrument.secret](/_secret/schema-org/Relation/has/has_instrument.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_instrument.secret|has_instrument.secret]] 
 

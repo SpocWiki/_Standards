@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_suggested_max_age](/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_max_age.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_suggested_max_age|has_value_for_suggested_max_age]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.public](/_public/schema-org/Property/has_value_for/has_value_for_suggested_max_age.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_suggested_max_age.public|has_value_for_suggested_max_age.public]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.internal](/_internal/schema-org/Property/has_value_for/has_value_for_suggested_max_age.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_suggested_max_age.internal|has_value_for_suggested_max_age.internal]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.protect](/_protect/schema-org/Property/has_value_for/has_value_for_suggested_max_age.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_suggested_max_age.protect|has_value_for_suggested_max_age.protect]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.private](/_private/schema-org/Property/has_value_for/has_value_for_suggested_max_age.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_suggested_max_age.private|has_value_for_suggested_max_age.private]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.personal](/_personal/schema-org/Property/has_value_for/has_value_for_suggested_max_age.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_suggested_max_age.personal|has_value_for_suggested_max_age.personal]] 
 
-### #is_/same_as :: [has_value_for_suggested_max_age.secret](/_secret/schema-org/Property/has_value_for/has_value_for_suggested_max_age.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_suggested_max_age.secret|has_value_for_suggested_max_age.secret]] 
 

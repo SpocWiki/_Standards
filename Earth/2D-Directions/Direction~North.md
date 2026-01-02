@@ -49,17 +49,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/CompassRose%20%28mul%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Direction~North](/_Standards/Earth/2D-Directions/Direction~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Direction~North|Direction~North]] 
 
-### #is_/same_as :: [Direction~North.public](/_public/Earth/2D-Directions/Direction~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Direction~North.public|Direction~North.public]] 
 
-### #is_/same_as :: [Direction~North.internal](/_internal/Earth/2D-Directions/Direction~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Direction~North.internal|Direction~North.internal]] 
 
-### #is_/same_as :: [Direction~North.protect](/_protect/Earth/2D-Directions/Direction~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Direction~North.protect|Direction~North.protect]] 
 
-### #is_/same_as :: [Direction~North.private](/_private/Earth/2D-Directions/Direction~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Direction~North.private|Direction~North.private]] 
 
-### #is_/same_as :: [Direction~North.personal](/_personal/Earth/2D-Directions/Direction~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Direction~North.personal|Direction~North.personal]] 
 
-### #is_/same_as :: [Direction~North.secret](/_secret/Earth/2D-Directions/Direction~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Direction~North.secret|Direction~North.secret]] 
 

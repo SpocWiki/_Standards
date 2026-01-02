@@ -58,17 +58,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brigade](/_Standards/Society/Military/Military_Organization/Brigade.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Brigade|Brigade]] 
 
-### #is_/same_as :: [Brigade.public](/_public/Society/Military/Military_Organization/Brigade.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Brigade.public|Brigade.public]] 
 
-### #is_/same_as :: [Brigade.internal](/_internal/Society/Military/Military_Organization/Brigade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Brigade.internal|Brigade.internal]] 
 
-### #is_/same_as :: [Brigade.protect](/_protect/Society/Military/Military_Organization/Brigade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Brigade.protect|Brigade.protect]] 
 
-### #is_/same_as :: [Brigade.private](/_private/Society/Military/Military_Organization/Brigade.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Brigade.private|Brigade.private]] 
 
-### #is_/same_as :: [Brigade.personal](/_personal/Society/Military/Military_Organization/Brigade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Brigade.personal|Brigade.personal]] 
 
-### #is_/same_as :: [Brigade.secret](/_secret/Society/Military/Military_Organization/Brigade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Brigade.secret|Brigade.secret]] 
 

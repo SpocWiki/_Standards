@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/U.S.%20Air%20Force%20A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Fall](/_Standards/Science/Physics/Classical_Mechanics/Free_Fall.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Free_Fall|Free_Fall]] 
 
-### #is_/same_as :: [Free_Fall.public](/_public/Science/Physics/Classical_Mechanics/Free_Fall.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Free_Fall.public|Free_Fall.public]] 
 
-### #is_/same_as :: [Free_Fall.internal](/_internal/Science/Physics/Classical_Mechanics/Free_Fall.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Free_Fall.internal|Free_Fall.internal]] 
 
-### #is_/same_as :: [Free_Fall.protect](/_protect/Science/Physics/Classical_Mechanics/Free_Fall.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Free_Fall.protect|Free_Fall.protect]] 
 
-### #is_/same_as :: [Free_Fall.private](/_private/Science/Physics/Classical_Mechanics/Free_Fall.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Free_Fall.private|Free_Fall.private]] 
 
-### #is_/same_as :: [Free_Fall.personal](/_personal/Science/Physics/Classical_Mechanics/Free_Fall.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Free_Fall.personal|Free_Fall.personal]] 
 
-### #is_/same_as :: [Free_Fall.secret](/_secret/Science/Physics/Classical_Mechanics/Free_Fall.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Free_Fall.secret|Free_Fall.secret]] 
 

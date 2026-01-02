@@ -49,17 +49,17 @@ Wikidata_usage_instructions: Not all hovercraft are watercraft, so add watercraf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hovercraft](/_Standards/Technology/Transport/Hovercraft.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Hovercraft|Hovercraft]] 
 
-### #is_/same_as :: [Hovercraft.public](/_public/Technology/Transport/Hovercraft.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Hovercraft.public|Hovercraft.public]] 
 
-### #is_/same_as :: [Hovercraft.internal](/_internal/Technology/Transport/Hovercraft.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Hovercraft.internal|Hovercraft.internal]] 
 
-### #is_/same_as :: [Hovercraft.protect](/_protect/Technology/Transport/Hovercraft.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Hovercraft.protect|Hovercraft.protect]] 
 
-### #is_/same_as :: [Hovercraft.private](/_private/Technology/Transport/Hovercraft.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Hovercraft.private|Hovercraft.private]] 
 
-### #is_/same_as :: [Hovercraft.personal](/_personal/Technology/Transport/Hovercraft.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Hovercraft.personal|Hovercraft.personal]] 
 
-### #is_/same_as :: [Hovercraft.secret](/_secret/Technology/Transport/Hovercraft.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Hovercraft.secret|Hovercraft.secret]] 
 

@@ -480,17 +480,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/M%C3%A8tode%20de%20Gau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaussian_Elimination](/_Standards/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination|Gaussian_Elimination]] 
 
-### #is_/same_as :: [Gaussian_Elimination.public](/_public/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.public|Gaussian_Elimination.public]] 
 
-### #is_/same_as :: [Gaussian_Elimination.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.internal|Gaussian_Elimination.internal]] 
 
-### #is_/same_as :: [Gaussian_Elimination.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.protect|Gaussian_Elimination.protect]] 
 
-### #is_/same_as :: [Gaussian_Elimination.private](/_private/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.private|Gaussian_Elimination.private]] 
 
-### #is_/same_as :: [Gaussian_Elimination.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.personal|Gaussian_Elimination.personal]] 
 
-### #is_/same_as :: [Gaussian_Elimination.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Gaussian_Elimination.secret|Gaussian_Elimination.secret]] 
 

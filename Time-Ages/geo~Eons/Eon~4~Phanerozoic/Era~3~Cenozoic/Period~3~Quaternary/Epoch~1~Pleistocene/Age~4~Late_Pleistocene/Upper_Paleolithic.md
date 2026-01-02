@@ -61,17 +61,17 @@ Commons_category: Upper Paleolithic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Upper_Paleolithic](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic|Upper_Paleolithic]] 
 
-### #is_/same_as :: [Upper_Paleolithic.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.public|Upper_Paleolithic.public]] 
 
-### #is_/same_as :: [Upper_Paleolithic.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.internal|Upper_Paleolithic.internal]] 
 
-### #is_/same_as :: [Upper_Paleolithic.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.protect|Upper_Paleolithic.protect]] 
 
-### #is_/same_as :: [Upper_Paleolithic.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.private|Upper_Paleolithic.private]] 
 
-### #is_/same_as :: [Upper_Paleolithic.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.personal|Upper_Paleolithic.personal]] 
 
-### #is_/same_as :: [Upper_Paleolithic.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic.secret|Upper_Paleolithic.secret]] 
 

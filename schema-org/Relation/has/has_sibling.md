@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sibling](/_Standards/schema-org/Relation/has/has_sibling.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sibling|has_sibling]] 
 
-### #is_/same_as :: [has_sibling.public](/_public/schema-org/Relation/has/has_sibling.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sibling.public|has_sibling.public]] 
 
-### #is_/same_as :: [has_sibling.internal](/_internal/schema-org/Relation/has/has_sibling.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sibling.internal|has_sibling.internal]] 
 
-### #is_/same_as :: [has_sibling.protect](/_protect/schema-org/Relation/has/has_sibling.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sibling.protect|has_sibling.protect]] 
 
-### #is_/same_as :: [has_sibling.private](/_private/schema-org/Relation/has/has_sibling.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sibling.private|has_sibling.private]] 
 
-### #is_/same_as :: [has_sibling.personal](/_personal/schema-org/Relation/has/has_sibling.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sibling.personal|has_sibling.personal]] 
 
-### #is_/same_as :: [has_sibling.secret](/_secret/schema-org/Relation/has/has_sibling.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sibling.secret|has_sibling.secret]] 
 

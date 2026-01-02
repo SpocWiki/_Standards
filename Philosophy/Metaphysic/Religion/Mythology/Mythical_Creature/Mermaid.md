@@ -56,17 +56,17 @@ Dewey_Decimal_Classification: "398.21"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mermaid](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid|Mermaid]] 
 
-### #is_/same_as :: [Mermaid.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.public|Mermaid.public]] 
 
-### #is_/same_as :: [Mermaid.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.internal|Mermaid.internal]] 
 
-### #is_/same_as :: [Mermaid.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.protect|Mermaid.protect]] 
 
-### #is_/same_as :: [Mermaid.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.private|Mermaid.private]] 
 
-### #is_/same_as :: [Mermaid.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.personal|Mermaid.personal]] 
 
-### #is_/same_as :: [Mermaid.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Mermaid.secret|Mermaid.secret]] 
 

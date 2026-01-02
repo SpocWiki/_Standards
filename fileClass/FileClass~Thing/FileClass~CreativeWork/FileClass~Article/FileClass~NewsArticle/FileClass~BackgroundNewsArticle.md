@@ -37,17 +37,17 @@ A [[NewsArticle]] providing historical context, definition and detail on a speci
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle|FileClass~BackgroundNewsArticle]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.public|FileClass~BackgroundNewsArticle.public]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.internal|FileClass~BackgroundNewsArticle.internal]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.protect|FileClass~BackgroundNewsArticle.protect]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.private|FileClass~BackgroundNewsArticle.private]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.personal|FileClass~BackgroundNewsArticle.personal]] 
 
-### #is_/same_as :: [FileClass~BackgroundNewsArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~NewsArticle/FileClass~BackgroundNewsArticle.secret|FileClass~BackgroundNewsArticle.secret]] 
 

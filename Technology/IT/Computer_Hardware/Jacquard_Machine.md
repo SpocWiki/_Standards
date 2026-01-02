@@ -49,17 +49,17 @@ subclass_of: '[[_Standards/WikiData/WD~textile_arts_tool,19394283]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jacquard_Machine](/_Standards/Technology/IT/Computer_Hardware/Jacquard_Machine.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Jacquard_Machine|Jacquard_Machine]] 
 
-### #is_/same_as :: [Jacquard_Machine.public](/_public/Technology/IT/Computer_Hardware/Jacquard_Machine.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Jacquard_Machine.public|Jacquard_Machine.public]] 
 
-### #is_/same_as :: [Jacquard_Machine.internal](/_internal/Technology/IT/Computer_Hardware/Jacquard_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Jacquard_Machine.internal|Jacquard_Machine.internal]] 
 
-### #is_/same_as :: [Jacquard_Machine.protect](/_protect/Technology/IT/Computer_Hardware/Jacquard_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Jacquard_Machine.protect|Jacquard_Machine.protect]] 
 
-### #is_/same_as :: [Jacquard_Machine.private](/_private/Technology/IT/Computer_Hardware/Jacquard_Machine.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Jacquard_Machine.private|Jacquard_Machine.private]] 
 
-### #is_/same_as :: [Jacquard_Machine.personal](/_personal/Technology/IT/Computer_Hardware/Jacquard_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Jacquard_Machine.personal|Jacquard_Machine.personal]] 
 
-### #is_/same_as :: [Jacquard_Machine.secret](/_secret/Technology/IT/Computer_Hardware/Jacquard_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Jacquard_Machine.secret|Jacquard_Machine.secret]] 
 

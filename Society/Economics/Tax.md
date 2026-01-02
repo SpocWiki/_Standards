@@ -65,17 +65,17 @@ UMLS_CUI: C0039371
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tax](/_Standards/Society/Economics/Tax.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Tax|Tax]] 
 
-### #is_/same_as :: [Tax.public](/_public/Society/Economics/Tax.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Tax.public|Tax.public]] 
 
-### #is_/same_as :: [Tax.internal](/_internal/Society/Economics/Tax.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Tax.internal|Tax.internal]] 
 
-### #is_/same_as :: [Tax.protect](/_protect/Society/Economics/Tax.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Tax.protect|Tax.protect]] 
 
-### #is_/same_as :: [Tax.private](/_private/Society/Economics/Tax.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Tax.private|Tax.private]] 
 
-### #is_/same_as :: [Tax.personal](/_personal/Society/Economics/Tax.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Tax.personal|Tax.personal]] 
 
-### #is_/same_as :: [Tax.secret](/_secret/Society/Economics/Tax.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Tax.secret|Tax.secret]] 
 

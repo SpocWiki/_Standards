@@ -114,17 +114,17 @@ Glottolog_code: yuec1235
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-zh-yue](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue|Lang-zh-yue]] 
 
-### #is_/same_as :: [Lang-zh-yue.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.public|Lang-zh-yue.public]] 
 
-### #is_/same_as :: [Lang-zh-yue.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.internal|Lang-zh-yue.internal]] 
 
-### #is_/same_as :: [Lang-zh-yue.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.protect|Lang-zh-yue.protect]] 
 
-### #is_/same_as :: [Lang-zh-yue.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.private|Lang-zh-yue.private]] 
 
-### #is_/same_as :: [Lang-zh-yue.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.personal|Lang-zh-yue.personal]] 
 
-### #is_/same_as :: [Lang-zh-yue.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-yue.secret|Lang-zh-yue.secret]] 
 

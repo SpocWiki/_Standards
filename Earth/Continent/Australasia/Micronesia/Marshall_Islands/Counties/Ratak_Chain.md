@@ -41,17 +41,17 @@ markerFolder: ./Ratak_Chain/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ratak_Chain](/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain|Ratak_Chain]] 
 
-### #is_/same_as :: [Ratak_Chain.public](/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.public|Ratak_Chain.public]] 
 
-### #is_/same_as :: [Ratak_Chain.internal](/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.internal|Ratak_Chain.internal]] 
 
-### #is_/same_as :: [Ratak_Chain.protect](/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.protect|Ratak_Chain.protect]] 
 
-### #is_/same_as :: [Ratak_Chain.private](/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.private|Ratak_Chain.private]] 
 
-### #is_/same_as :: [Ratak_Chain.personal](/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.personal|Ratak_Chain.personal]] 
 
-### #is_/same_as :: [Ratak_Chain.secret](/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Marshall_Islands/Counties/Ratak_Chain.secret|Ratak_Chain.secret]] 
 

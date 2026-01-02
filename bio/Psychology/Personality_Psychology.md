@@ -41,17 +41,17 @@ Provenio_UUID: e95a9e09-42b9-4125-8f67-dfb9353c8054
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Personality_Psychology](/_Standards/bio/Psychology/Personality_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology|Personality_Psychology]] 
 
-### #is_/same_as :: [Personality_Psychology.public](/_public/bio/Psychology/Personality_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology.public|Personality_Psychology.public]] 
 
-### #is_/same_as :: [Personality_Psychology.internal](/_internal/bio/Psychology/Personality_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology.internal|Personality_Psychology.internal]] 
 
-### #is_/same_as :: [Personality_Psychology.protect](/_protect/bio/Psychology/Personality_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology.protect|Personality_Psychology.protect]] 
 
-### #is_/same_as :: [Personality_Psychology.private](/_private/bio/Psychology/Personality_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology.private|Personality_Psychology.private]] 
 
-### #is_/same_as :: [Personality_Psychology.personal](/_personal/bio/Psychology/Personality_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology.personal|Personality_Psychology.personal]] 
 
-### #is_/same_as :: [Personality_Psychology.secret](/_secret/bio/Psychology/Personality_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology.secret|Personality_Psychology.secret]] 
 

@@ -111,17 +111,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_John_Rawls,14407155]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rawls,John](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Rawls,John|Rawls,John]] 
 
-### #is_/same_as :: [Rawls,John.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.public|Rawls,John.public]] 
 
-### #is_/same_as :: [Rawls,John.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.internal|Rawls,John.internal]] 
 
-### #is_/same_as :: [Rawls,John.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.protect|Rawls,John.protect]] 
 
-### #is_/same_as :: [Rawls,John.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.private|Rawls,John.private]] 
 
-### #is_/same_as :: [Rawls,John.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.personal|Rawls,John.personal]] 
 
-### #is_/same_as :: [Rawls,John.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Rawls,John.secret|Rawls,John.secret]] 
 

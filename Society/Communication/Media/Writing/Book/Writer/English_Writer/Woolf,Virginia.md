@@ -182,17 +182,17 @@ described_at_URL: https://heritage.humanists.uk/virginia-woolf/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Woolf,Virginia](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia|Woolf,Virginia]] 
 
-### #is_/same_as :: [Woolf,Virginia.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.public|Woolf,Virginia.public]] 
 
-### #is_/same_as :: [Woolf,Virginia.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.internal|Woolf,Virginia.internal]] 
 
-### #is_/same_as :: [Woolf,Virginia.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.protect|Woolf,Virginia.protect]] 
 
-### #is_/same_as :: [Woolf,Virginia.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.private|Woolf,Virginia.private]] 
 
-### #is_/same_as :: [Woolf,Virginia.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.personal|Woolf,Virginia.personal]] 
 
-### #is_/same_as :: [Woolf,Virginia.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Woolf,Virginia.secret|Woolf,Virginia.secret]] 
 

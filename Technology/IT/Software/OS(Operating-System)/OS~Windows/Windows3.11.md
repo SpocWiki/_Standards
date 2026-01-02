@@ -7,17 +7,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windows3.11](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11|Windows3.11]] 
 
-### #is_/same_as :: [Windows3.11.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.public|Windows3.11.public]] 
 
-### #is_/same_as :: [Windows3.11.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.internal|Windows3.11.internal]] 
 
-### #is_/same_as :: [Windows3.11.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.protect|Windows3.11.protect]] 
 
-### #is_/same_as :: [Windows3.11.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.private|Windows3.11.private]] 
 
-### #is_/same_as :: [Windows3.11.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.personal|Windows3.11.personal]] 
 
-### #is_/same_as :: [Windows3.11.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows3.11.secret|Windows3.11.secret]] 
 

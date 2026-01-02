@@ -45,17 +45,17 @@ A vehicle is a device that is designed or used to transport people or cargo over
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vehicle](/_Standards/Technology/Transport/Vehicle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Vehicle|Vehicle]] 
 
-### #is_/same_as :: [Vehicle.public](/_public/Technology/Transport/Vehicle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Vehicle.public|Vehicle.public]] 
 
-### #is_/same_as :: [Vehicle.internal](/_internal/Technology/Transport/Vehicle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Vehicle.internal|Vehicle.internal]] 
 
-### #is_/same_as :: [Vehicle.protect](/_protect/Technology/Transport/Vehicle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Vehicle.protect|Vehicle.protect]] 
 
-### #is_/same_as :: [Vehicle.private](/_private/Technology/Transport/Vehicle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Vehicle.private|Vehicle.private]] 
 
-### #is_/same_as :: [Vehicle.personal](/_personal/Technology/Transport/Vehicle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Vehicle.personal|Vehicle.personal]] 
 
-### #is_/same_as :: [Vehicle.secret](/_secret/Technology/Transport/Vehicle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Vehicle.secret|Vehicle.secret]] 
 

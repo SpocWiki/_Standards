@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_special_commitments](/_Standards/schema-org/Property/Texts/has_special_commitments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_special_commitments|has_special_commitments]] 
 
-### #is_/same_as :: [has_special_commitments.public](/_public/schema-org/Property/Texts/has_special_commitments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_special_commitments.public|has_special_commitments.public]] 
 
-### #is_/same_as :: [has_special_commitments.internal](/_internal/schema-org/Property/Texts/has_special_commitments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_special_commitments.internal|has_special_commitments.internal]] 
 
-### #is_/same_as :: [has_special_commitments.protect](/_protect/schema-org/Property/Texts/has_special_commitments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_special_commitments.protect|has_special_commitments.protect]] 
 
-### #is_/same_as :: [has_special_commitments.private](/_private/schema-org/Property/Texts/has_special_commitments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_special_commitments.private|has_special_commitments.private]] 
 
-### #is_/same_as :: [has_special_commitments.personal](/_personal/schema-org/Property/Texts/has_special_commitments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_special_commitments.personal|has_special_commitments.personal]] 
 
-### #is_/same_as :: [has_special_commitments.secret](/_secret/schema-org/Property/Texts/has_special_commitments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_special_commitments.secret|has_special_commitments.secret]] 
 

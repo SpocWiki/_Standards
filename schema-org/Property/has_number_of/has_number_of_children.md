@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_children](/_Standards/schema-org/Property/has_number_of/has_number_of_children.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_children|has_number_of_children]] 
 
-### #is_/same_as :: [has_number_of_children.public](/_public/schema-org/Property/has_number_of/has_number_of_children.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_children.public|has_number_of_children.public]] 
 
-### #is_/same_as :: [has_number_of_children.internal](/_internal/schema-org/Property/has_number_of/has_number_of_children.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_children.internal|has_number_of_children.internal]] 
 
-### #is_/same_as :: [has_number_of_children.protect](/_protect/schema-org/Property/has_number_of/has_number_of_children.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_children.protect|has_number_of_children.protect]] 
 
-### #is_/same_as :: [has_number_of_children.private](/_private/schema-org/Property/has_number_of/has_number_of_children.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_children.private|has_number_of_children.private]] 
 
-### #is_/same_as :: [has_number_of_children.personal](/_personal/schema-org/Property/has_number_of/has_number_of_children.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_children.personal|has_number_of_children.personal]] 
 
-### #is_/same_as :: [has_number_of_children.secret](/_secret/schema-org/Property/has_number_of/has_number_of_children.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_children.secret|has_number_of_children.secret]] 
 

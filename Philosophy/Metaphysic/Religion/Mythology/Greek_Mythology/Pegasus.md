@@ -79,17 +79,17 @@ name_in_native_language: Πήγασος
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pegasus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus|Pegasus]] 
 
-### #is_/same_as :: [Pegasus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.public|Pegasus.public]] 
 
-### #is_/same_as :: [Pegasus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.internal|Pegasus.internal]] 
 
-### #is_/same_as :: [Pegasus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.protect|Pegasus.protect]] 
 
-### #is_/same_as :: [Pegasus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.private|Pegasus.private]] 
 
-### #is_/same_as :: [Pegasus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.personal|Pegasus.personal]] 
 
-### #is_/same_as :: [Pegasus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Pegasus.secret|Pegasus.secret]] 
 

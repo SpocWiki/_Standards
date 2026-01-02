@@ -40,17 +40,17 @@ start_time: 1908-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment](/_Standards/Science/Physics/Atom/Geiger–Marsden_Experiment.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Geiger–Marsden_Experiment|Geiger–Marsden_Experiment]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.public](/_public/Science/Physics/Atom/Geiger–Marsden_Experiment.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Geiger–Marsden_Experiment.public|Geiger–Marsden_Experiment.public]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.internal](/_internal/Science/Physics/Atom/Geiger–Marsden_Experiment.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Geiger–Marsden_Experiment.internal|Geiger–Marsden_Experiment.internal]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.protect](/_protect/Science/Physics/Atom/Geiger–Marsden_Experiment.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Geiger–Marsden_Experiment.protect|Geiger–Marsden_Experiment.protect]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.private](/_private/Science/Physics/Atom/Geiger–Marsden_Experiment.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Geiger–Marsden_Experiment.private|Geiger–Marsden_Experiment.private]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.personal](/_personal/Science/Physics/Atom/Geiger–Marsden_Experiment.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Geiger–Marsden_Experiment.personal|Geiger–Marsden_Experiment.personal]] 
 
-### #is_/same_as :: [Geiger–Marsden_Experiment.secret](/_secret/Science/Physics/Atom/Geiger–Marsden_Experiment.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Geiger–Marsden_Experiment.secret|Geiger–Marsden_Experiment.secret]] 
 

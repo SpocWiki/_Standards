@@ -80,17 +80,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/PODZHELUDOCHNAYA_ZHELEZA.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pancreas](/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_digestive_System/Pancreas|Pancreas]] 
 
-### #is_/same_as :: [Pancreas.public](/_public/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.public|Pancreas.public]] 
 
-### #is_/same_as :: [Pancreas.internal](/_internal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.internal|Pancreas.internal]] 
 
-### #is_/same_as :: [Pancreas.protect](/_protect/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.protect|Pancreas.protect]] 
 
-### #is_/same_as :: [Pancreas.private](/_private/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.private|Pancreas.private]] 
 
-### #is_/same_as :: [Pancreas.personal](/_personal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.personal|Pancreas.personal]] 
 
-### #is_/same_as :: [Pancreas.secret](/_secret/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_digestive_System/Pancreas.secret|Pancreas.secret]] 
 

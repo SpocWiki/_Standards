@@ -44,17 +44,17 @@ Krugosvet_article: narody-i-yazyki/kreoly
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creole_Peoples](/_Standards/Society/Agent/Community/Creole_Peoples.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Creole_Peoples|Creole_Peoples]] 
 
-### #is_/same_as :: [Creole_Peoples.public](/_public/Society/Agent/Community/Creole_Peoples.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Creole_Peoples.public|Creole_Peoples.public]] 
 
-### #is_/same_as :: [Creole_Peoples.internal](/_internal/Society/Agent/Community/Creole_Peoples.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Creole_Peoples.internal|Creole_Peoples.internal]] 
 
-### #is_/same_as :: [Creole_Peoples.protect](/_protect/Society/Agent/Community/Creole_Peoples.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Creole_Peoples.protect|Creole_Peoples.protect]] 
 
-### #is_/same_as :: [Creole_Peoples.private](/_private/Society/Agent/Community/Creole_Peoples.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Creole_Peoples.private|Creole_Peoples.private]] 
 
-### #is_/same_as :: [Creole_Peoples.personal](/_personal/Society/Agent/Community/Creole_Peoples.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Creole_Peoples.personal|Creole_Peoples.personal]] 
 
-### #is_/same_as :: [Creole_Peoples.secret](/_secret/Society/Agent/Community/Creole_Peoples.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Creole_Peoples.secret|Creole_Peoples.secret]] 
 

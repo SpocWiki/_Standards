@@ -33,17 +33,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pacific~East](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~East|Pacific~East]] 
 
-### #is_/same_as :: [Pacific~East.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific~East.public|Pacific~East.public]] 
 
-### #is_/same_as :: [Pacific~East.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~East.internal|Pacific~East.internal]] 
 
-### #is_/same_as :: [Pacific~East.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~East.protect|Pacific~East.protect]] 
 
-### #is_/same_as :: [Pacific~East.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific~East.private|Pacific~East.private]] 
 
-### #is_/same_as :: [Pacific~East.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~East.personal|Pacific~East.personal]] 
 
-### #is_/same_as :: [Pacific~East.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~East.secret|Pacific~East.secret]] 
 

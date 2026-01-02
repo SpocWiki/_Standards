@@ -39,17 +39,17 @@ Categories of physical activity, organized by physiologic classification.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Physical_Activity_Category](/_Standards/schema-org/Enumeration/Physical_Activity_Category.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category|Physical_Activity_Category]] 
 
-### #is_/same_as :: [Physical_Activity_Category.public](/_public/schema-org/Enumeration/Physical_Activity_Category.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category.public|Physical_Activity_Category.public]] 
 
-### #is_/same_as :: [Physical_Activity_Category.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category.internal|Physical_Activity_Category.internal]] 
 
-### #is_/same_as :: [Physical_Activity_Category.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category.protect|Physical_Activity_Category.protect]] 
 
-### #is_/same_as :: [Physical_Activity_Category.private](/_private/schema-org/Enumeration/Physical_Activity_Category.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category.private|Physical_Activity_Category.private]] 
 
-### #is_/same_as :: [Physical_Activity_Category.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category.personal|Physical_Activity_Category.personal]] 
 
-### #is_/same_as :: [Physical_Activity_Category.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category.secret|Physical_Activity_Category.secret]] 
 

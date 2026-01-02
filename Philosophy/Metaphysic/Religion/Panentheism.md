@@ -29,17 +29,17 @@ PhilPapers_topic: panentheism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Panentheism](/_Standards/Philosophy/Metaphysic/Religion/Panentheism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Panentheism|Panentheism]] 
 
-### #is_/same_as :: [Panentheism.public](/_public/Philosophy/Metaphysic/Religion/Panentheism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Panentheism.public|Panentheism.public]] 
 
-### #is_/same_as :: [Panentheism.internal](/_internal/Philosophy/Metaphysic/Religion/Panentheism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Panentheism.internal|Panentheism.internal]] 
 
-### #is_/same_as :: [Panentheism.protect](/_protect/Philosophy/Metaphysic/Religion/Panentheism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Panentheism.protect|Panentheism.protect]] 
 
-### #is_/same_as :: [Panentheism.private](/_private/Philosophy/Metaphysic/Religion/Panentheism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Panentheism.private|Panentheism.private]] 
 
-### #is_/same_as :: [Panentheism.personal](/_personal/Philosophy/Metaphysic/Religion/Panentheism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Panentheism.personal|Panentheism.personal]] 
 
-### #is_/same_as :: [Panentheism.secret](/_secret/Philosophy/Metaphysic/Religion/Panentheism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Panentheism.secret|Panentheism.secret]] 
 

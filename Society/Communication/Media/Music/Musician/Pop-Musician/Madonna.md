@@ -298,17 +298,17 @@ Library_of_Congress_Classification: ML420.M1387
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madonna](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna|Madonna]] 
 
-### #is_/same_as :: [Madonna.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.public|Madonna.public]] 
 
-### #is_/same_as :: [Madonna.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.internal|Madonna.internal]] 
 
-### #is_/same_as :: [Madonna.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.protect|Madonna.protect]] 
 
-### #is_/same_as :: [Madonna.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.private|Madonna.private]] 
 
-### #is_/same_as :: [Madonna.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.personal|Madonna.personal]] 
 
-### #is_/same_as :: [Madonna.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Madonna.secret|Madonna.secret]] 
 

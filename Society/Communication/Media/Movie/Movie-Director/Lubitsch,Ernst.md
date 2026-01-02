@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lubitsch,Ernst](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst|Lubitsch,Ernst]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.public](/_public/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.public|Lubitsch,Ernst.public]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.internal|Lubitsch,Ernst.internal]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.protect|Lubitsch,Ernst.protect]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.private](/_private/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.private|Lubitsch,Ernst.private]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.personal|Lubitsch,Ernst.personal]] 
 
-### #is_/same_as :: [Lubitsch,Ernst.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst.secret|Lubitsch,Ernst.secret]] 
 

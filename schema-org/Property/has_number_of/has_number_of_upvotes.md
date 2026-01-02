@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_upvotes](/_Standards/schema-org/Property/has_number_of/has_number_of_upvotes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_upvotes|has_number_of_upvotes]] 
 
-### #is_/same_as :: [has_number_of_upvotes.public](/_public/schema-org/Property/has_number_of/has_number_of_upvotes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_upvotes.public|has_number_of_upvotes.public]] 
 
-### #is_/same_as :: [has_number_of_upvotes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_upvotes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_upvotes.internal|has_number_of_upvotes.internal]] 
 
-### #is_/same_as :: [has_number_of_upvotes.protect](/_protect/schema-org/Property/has_number_of/has_number_of_upvotes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_upvotes.protect|has_number_of_upvotes.protect]] 
 
-### #is_/same_as :: [has_number_of_upvotes.private](/_private/schema-org/Property/has_number_of/has_number_of_upvotes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_upvotes.private|has_number_of_upvotes.private]] 
 
-### #is_/same_as :: [has_number_of_upvotes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_upvotes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_upvotes.personal|has_number_of_upvotes.personal]] 
 
-### #is_/same_as :: [has_number_of_upvotes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_upvotes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_upvotes.secret|has_number_of_upvotes.secret]] 
 

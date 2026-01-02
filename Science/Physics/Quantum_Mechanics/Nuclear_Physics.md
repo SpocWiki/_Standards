@@ -43,17 +43,17 @@ IPTC_NewsCode: mediatopic/20000733
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Physics](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics|Nuclear_Physics]] 
 
-### #is_/same_as :: [Nuclear_Physics.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics.public|Nuclear_Physics.public]] 
 
-### #is_/same_as :: [Nuclear_Physics.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.internal|Nuclear_Physics.internal]] 
 
-### #is_/same_as :: [Nuclear_Physics.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics.protect|Nuclear_Physics.protect]] 
 
-### #is_/same_as :: [Nuclear_Physics.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics.private|Nuclear_Physics.private]] 
 
-### #is_/same_as :: [Nuclear_Physics.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics.personal|Nuclear_Physics.personal]] 
 
-### #is_/same_as :: [Nuclear_Physics.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics.secret|Nuclear_Physics.secret]] 
 

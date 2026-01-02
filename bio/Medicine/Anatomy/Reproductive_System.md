@@ -45,17 +45,17 @@ topic_s_main_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reproductive_System](/_Standards/bio/Medicine/Anatomy/Reproductive_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Reproductive_System|Reproductive_System]] 
 
-### #is_/same_as :: [Reproductive_System.public](/_public/bio/Medicine/Anatomy/Reproductive_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Reproductive_System.public|Reproductive_System.public]] 
 
-### #is_/same_as :: [Reproductive_System.internal](/_internal/bio/Medicine/Anatomy/Reproductive_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Reproductive_System.internal|Reproductive_System.internal]] 
 
-### #is_/same_as :: [Reproductive_System.protect](/_protect/bio/Medicine/Anatomy/Reproductive_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Reproductive_System.protect|Reproductive_System.protect]] 
 
-### #is_/same_as :: [Reproductive_System.private](/_private/bio/Medicine/Anatomy/Reproductive_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Reproductive_System.private|Reproductive_System.private]] 
 
-### #is_/same_as :: [Reproductive_System.personal](/_personal/bio/Medicine/Anatomy/Reproductive_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Reproductive_System.personal|Reproductive_System.personal]] 
 
-### #is_/same_as :: [Reproductive_System.secret](/_secret/bio/Medicine/Anatomy/Reproductive_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Reproductive_System.secret|Reproductive_System.secret]] 
 

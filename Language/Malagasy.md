@@ -72,17 +72,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malagasy](/_Standards/Language/Malagasy.md) 
+### #is_/same_as :: [[/_Standards/Language/Malagasy|Malagasy]] 
 
-### #is_/same_as :: [Malagasy.public](/_public/Language/Malagasy.public.md) 
+### #is_/same_as :: [[/_public/Language/Malagasy.public|Malagasy.public]] 
 
-### #is_/same_as :: [Malagasy.internal](/_internal/Language/Malagasy.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Malagasy.internal|Malagasy.internal]] 
 
-### #is_/same_as :: [Malagasy.protect](/_protect/Language/Malagasy.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Malagasy.protect|Malagasy.protect]] 
 
-### #is_/same_as :: [Malagasy.private](/_private/Language/Malagasy.private.md) 
+### #is_/same_as :: [[/_private/Language/Malagasy.private|Malagasy.private]] 
 
-### #is_/same_as :: [Malagasy.personal](/_personal/Language/Malagasy.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Malagasy.personal|Malagasy.personal]] 
 
-### #is_/same_as :: [Malagasy.secret](/_secret/Language/Malagasy.secret.md)
+### #is_/same_as :: [[/_secret/Language/Malagasy.secret|Malagasy.secret]] 
 

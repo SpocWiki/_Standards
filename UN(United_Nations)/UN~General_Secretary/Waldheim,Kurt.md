@@ -103,17 +103,17 @@ date_of_birth: 1918-12-21T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waldheim,Kurt](/_Standards/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt|Waldheim,Kurt]] 
 
-### #is_/same_as :: [Waldheim,Kurt.public](/_public/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.public|Waldheim,Kurt.public]] 
 
-### #is_/same_as :: [Waldheim,Kurt.internal](/_internal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.internal|Waldheim,Kurt.internal]] 
 
-### #is_/same_as :: [Waldheim,Kurt.protect](/_protect/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.protect|Waldheim,Kurt.protect]] 
 
-### #is_/same_as :: [Waldheim,Kurt.private](/_private/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.private|Waldheim,Kurt.private]] 
 
-### #is_/same_as :: [Waldheim,Kurt.personal](/_personal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.personal|Waldheim,Kurt.personal]] 
 
-### #is_/same_as :: [Waldheim,Kurt.secret](/_secret/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UN~General_Secretary/Waldheim,Kurt.secret|Waldheim,Kurt.secret]] 
 

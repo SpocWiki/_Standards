@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_subtitle_language](/_Standards/schema-org/Relation/has/has_subtitle_language.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_subtitle_language|has_subtitle_language]] 
 
-### #is_/same_as :: [has_subtitle_language.public](/_public/schema-org/Relation/has/has_subtitle_language.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_subtitle_language.public|has_subtitle_language.public]] 
 
-### #is_/same_as :: [has_subtitle_language.internal](/_internal/schema-org/Relation/has/has_subtitle_language.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_subtitle_language.internal|has_subtitle_language.internal]] 
 
-### #is_/same_as :: [has_subtitle_language.protect](/_protect/schema-org/Relation/has/has_subtitle_language.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_subtitle_language.protect|has_subtitle_language.protect]] 
 
-### #is_/same_as :: [has_subtitle_language.private](/_private/schema-org/Relation/has/has_subtitle_language.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_subtitle_language.private|has_subtitle_language.private]] 
 
-### #is_/same_as :: [has_subtitle_language.personal](/_personal/schema-org/Relation/has/has_subtitle_language.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_subtitle_language.personal|has_subtitle_language.personal]] 
 
-### #is_/same_as :: [has_subtitle_language.secret](/_secret/schema-org/Relation/has/has_subtitle_language.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_subtitle_language.secret|has_subtitle_language.secret]] 
 

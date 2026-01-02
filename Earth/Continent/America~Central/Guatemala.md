@@ -505,17 +505,17 @@ Capital :: [[Guatemala_City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guatemala](/_Standards/Earth/Continent/America~Central/Guatemala.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Guatemala|Guatemala]] 
 
-### #is_/same_as :: [Guatemala.public](/_public/Earth/Continent/America~Central/Guatemala.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Guatemala.public|Guatemala.public]] 
 
-### #is_/same_as :: [Guatemala.internal](/_internal/Earth/Continent/America~Central/Guatemala.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Guatemala.internal|Guatemala.internal]] 
 
-### #is_/same_as :: [Guatemala.protect](/_protect/Earth/Continent/America~Central/Guatemala.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Guatemala.protect|Guatemala.protect]] 
 
-### #is_/same_as :: [Guatemala.private](/_private/Earth/Continent/America~Central/Guatemala.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Guatemala.private|Guatemala.private]] 
 
-### #is_/same_as :: [Guatemala.personal](/_personal/Earth/Continent/America~Central/Guatemala.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Guatemala.personal|Guatemala.personal]] 
 
-### #is_/same_as :: [Guatemala.secret](/_secret/Earth/Continent/America~Central/Guatemala.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Guatemala.secret|Guatemala.secret]] 
 

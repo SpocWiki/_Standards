@@ -41,17 +41,17 @@ Lists or enumerationsâ€”for example, a list of cuisines or music genres, et
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enumeration](/_Standards/schema-org/Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration|Enumeration]] 
 
-### #is_/same_as :: [Enumeration.public](/_public/schema-org/Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration.public|Enumeration.public]] 
 
-### #is_/same_as :: [Enumeration.internal](/_internal/schema-org/Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration.internal|Enumeration.internal]] 
 
-### #is_/same_as :: [Enumeration.protect](/_protect/schema-org/Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration.protect|Enumeration.protect]] 
 
-### #is_/same_as :: [Enumeration.private](/_private/schema-org/Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration.private|Enumeration.private]] 
 
-### #is_/same_as :: [Enumeration.personal](/_personal/schema-org/Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration.personal|Enumeration.personal]] 
 
-### #is_/same_as :: [Enumeration.secret](/_secret/schema-org/Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration.secret|Enumeration.secret]] 
 

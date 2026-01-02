@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_subscription_required](/_Standards/schema-org/Property/Flags/is_subscription_required.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_subscription_required|is_subscription_required]] 
 
-### #is_/same_as :: [is_subscription_required.public](/_public/schema-org/Property/Flags/is_subscription_required.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_subscription_required.public|is_subscription_required.public]] 
 
-### #is_/same_as :: [is_subscription_required.internal](/_internal/schema-org/Property/Flags/is_subscription_required.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_subscription_required.internal|is_subscription_required.internal]] 
 
-### #is_/same_as :: [is_subscription_required.protect](/_protect/schema-org/Property/Flags/is_subscription_required.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_subscription_required.protect|is_subscription_required.protect]] 
 
-### #is_/same_as :: [is_subscription_required.private](/_private/schema-org/Property/Flags/is_subscription_required.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_subscription_required.private|is_subscription_required.private]] 
 
-### #is_/same_as :: [is_subscription_required.personal](/_personal/schema-org/Property/Flags/is_subscription_required.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_subscription_required.personal|is_subscription_required.personal]] 
 
-### #is_/same_as :: [is_subscription_required.secret](/_secret/schema-org/Property/Flags/is_subscription_required.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_subscription_required.secret|is_subscription_required.secret]] 
 

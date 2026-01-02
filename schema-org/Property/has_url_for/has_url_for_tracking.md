@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_tracking](/_Standards/schema-org/Property/has_url_for/has_url_for_tracking.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_tracking|has_url_for_tracking]] 
 
-### #is_/same_as :: [has_url_for_tracking.public](/_public/schema-org/Property/has_url_for/has_url_for_tracking.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_tracking.public|has_url_for_tracking.public]] 
 
-### #is_/same_as :: [has_url_for_tracking.internal](/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_tracking.internal|has_url_for_tracking.internal]] 
 
-### #is_/same_as :: [has_url_for_tracking.protect](/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_tracking.protect|has_url_for_tracking.protect]] 
 
-### #is_/same_as :: [has_url_for_tracking.private](/_private/schema-org/Property/has_url_for/has_url_for_tracking.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_tracking.private|has_url_for_tracking.private]] 
 
-### #is_/same_as :: [has_url_for_tracking.personal](/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_tracking.personal|has_url_for_tracking.personal]] 
 
-### #is_/same_as :: [has_url_for_tracking.secret](/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_tracking.secret|has_url_for_tracking.secret]] 
 

@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_encoding](/_Standards/schema-org/Relation/has/has_encoding.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_encoding|has_encoding]] 
 
-### #is_/same_as :: [has_encoding.public](/_public/schema-org/Relation/has/has_encoding.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_encoding.public|has_encoding.public]] 
 
-### #is_/same_as :: [has_encoding.internal](/_internal/schema-org/Relation/has/has_encoding.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_encoding.internal|has_encoding.internal]] 
 
-### #is_/same_as :: [has_encoding.protect](/_protect/schema-org/Relation/has/has_encoding.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_encoding.protect|has_encoding.protect]] 
 
-### #is_/same_as :: [has_encoding.private](/_private/schema-org/Relation/has/has_encoding.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_encoding.private|has_encoding.private]] 
 
-### #is_/same_as :: [has_encoding.personal](/_personal/schema-org/Relation/has/has_encoding.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_encoding.personal|has_encoding.personal]] 
 
-### #is_/same_as :: [has_encoding.secret](/_secret/schema-org/Relation/has/has_encoding.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_encoding.secret|has_encoding.secret]] 
 

@@ -162,17 +162,17 @@ wears: "[[_Standards/WikiData/WD~Neil_Armstrong's_spacesuit_for_Apollo_11,633443
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Armstrong,Neil](/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Modern_Explorer/Armstrong,Neil|Armstrong,Neil]] 
 
-### #is_/same_as :: [Armstrong,Neil.public](/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Modern_Explorer/Armstrong,Neil.public|Armstrong,Neil.public]] 
 
-### #is_/same_as :: [Armstrong,Neil.internal](/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.internal|Armstrong,Neil.internal]] 
 
-### #is_/same_as :: [Armstrong,Neil.protect](/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Modern_Explorer/Armstrong,Neil.protect|Armstrong,Neil.protect]] 
 
-### #is_/same_as :: [Armstrong,Neil.private](/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Modern_Explorer/Armstrong,Neil.private|Armstrong,Neil.private]] 
 
-### #is_/same_as :: [Armstrong,Neil.personal](/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Modern_Explorer/Armstrong,Neil.personal|Armstrong,Neil.personal]] 
 
-### #is_/same_as :: [Armstrong,Neil.secret](/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Modern_Explorer/Armstrong,Neil.secret|Armstrong,Neil.secret]] 
 

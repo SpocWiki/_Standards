@@ -77,17 +77,17 @@ official_name: DIN Deutsches Institut für Normung e.V.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung)](/_Standards/ISO/DIN(Deutsches_Institut_für_Normung).md) 
+### #is_/same_as :: [[/_Standards/ISO/DIN(Deutsches_Institut_für_Normung)|DIN(Deutsches_Institut_für_Normung)]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).public](/_public/ISO/DIN(Deutsches_Institut_für_Normung).public.md) 
+### #is_/same_as :: [[/_public/ISO/DIN(Deutsches_Institut_für_Normung).public|DIN(Deutsches_Institut_für_Normung).public]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).internal](/_internal/ISO/DIN(Deutsches_Institut_für_Normung).internal.md) 
+### #is_/same_as :: [[/_internal/ISO/DIN(Deutsches_Institut_für_Normung).internal|DIN(Deutsches_Institut_für_Normung).internal]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).protect](/_protect/ISO/DIN(Deutsches_Institut_für_Normung).protect.md) 
+### #is_/same_as :: [[/_protect/ISO/DIN(Deutsches_Institut_für_Normung).protect|DIN(Deutsches_Institut_für_Normung).protect]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).private](/_private/ISO/DIN(Deutsches_Institut_für_Normung).private.md) 
+### #is_/same_as :: [[/_private/ISO/DIN(Deutsches_Institut_für_Normung).private|DIN(Deutsches_Institut_für_Normung).private]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).personal](/_personal/ISO/DIN(Deutsches_Institut_für_Normung).personal.md) 
+### #is_/same_as :: [[/_personal/ISO/DIN(Deutsches_Institut_für_Normung).personal|DIN(Deutsches_Institut_für_Normung).personal]] 
 
-### #is_/same_as :: [DIN(Deutsches_Institut_für_Normung).secret](/_secret/ISO/DIN(Deutsches_Institut_für_Normung).secret.md)
+### #is_/same_as :: [[/_secret/ISO/DIN(Deutsches_Institut_für_Normung).secret|DIN(Deutsches_Institut_für_Normung).secret]] 
 

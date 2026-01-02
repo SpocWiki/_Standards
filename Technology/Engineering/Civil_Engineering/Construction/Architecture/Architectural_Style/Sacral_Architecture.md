@@ -62,17 +62,17 @@ Commons_category: Religious architecture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sacral_Architecture](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture|Sacral_Architecture]] 
 
-### #is_/same_as :: [Sacral_Architecture.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.public|Sacral_Architecture.public]] 
 
-### #is_/same_as :: [Sacral_Architecture.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.internal|Sacral_Architecture.internal]] 
 
-### #is_/same_as :: [Sacral_Architecture.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.protect|Sacral_Architecture.protect]] 
 
-### #is_/same_as :: [Sacral_Architecture.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.private|Sacral_Architecture.private]] 
 
-### #is_/same_as :: [Sacral_Architecture.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.personal|Sacral_Architecture.personal]] 
 
-### #is_/same_as :: [Sacral_Architecture.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Sacral_Architecture.secret|Sacral_Architecture.secret]] 
 

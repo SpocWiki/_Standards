@@ -117,17 +117,17 @@ A muscle is an anatomical structure consisting of a contractile form of tissue t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Muscle](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle|Muscle]] 
 
-### #is_/same_as :: [Muscle.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Muscle.public|Muscle.public]] 
 
-### #is_/same_as :: [Muscle.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Muscle.internal|Muscle.internal]] 
 
-### #is_/same_as :: [Muscle.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Muscle.protect|Muscle.protect]] 
 
-### #is_/same_as :: [Muscle.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Muscle.private|Muscle.private]] 
 
-### #is_/same_as :: [Muscle.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Muscle.personal|Muscle.personal]] 
 
-### #is_/same_as :: [Muscle.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Muscle.secret|Muscle.secret]] 
 

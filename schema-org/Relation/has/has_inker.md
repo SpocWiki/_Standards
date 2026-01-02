@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_inker](/_Standards/schema-org/Relation/has/has_inker.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_inker|has_inker]] 
 
-### #is_/same_as :: [has_inker.public](/_public/schema-org/Relation/has/has_inker.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_inker.public|has_inker.public]] 
 
-### #is_/same_as :: [has_inker.internal](/_internal/schema-org/Relation/has/has_inker.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_inker.internal|has_inker.internal]] 
 
-### #is_/same_as :: [has_inker.protect](/_protect/schema-org/Relation/has/has_inker.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_inker.protect|has_inker.protect]] 
 
-### #is_/same_as :: [has_inker.private](/_private/schema-org/Relation/has/has_inker.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_inker.private|has_inker.private]] 
 
-### #is_/same_as :: [has_inker.personal](/_personal/schema-org/Relation/has/has_inker.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_inker.personal|has_inker.personal]] 
 
-### #is_/same_as :: [has_inker.secret](/_secret/schema-org/Relation/has/has_inker.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_inker.secret|has_inker.secret]] 
 

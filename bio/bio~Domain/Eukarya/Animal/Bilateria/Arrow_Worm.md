@@ -110,17 +110,17 @@ Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arrow_Worm](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm|Arrow_Worm]] 
 
-### #is_/same_as :: [Arrow_Worm.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.public|Arrow_Worm.public]] 
 
-### #is_/same_as :: [Arrow_Worm.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.internal|Arrow_Worm.internal]] 
 
-### #is_/same_as :: [Arrow_Worm.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.protect|Arrow_Worm.protect]] 
 
-### #is_/same_as :: [Arrow_Worm.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.private|Arrow_Worm.private]] 
 
-### #is_/same_as :: [Arrow_Worm.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.personal|Arrow_Worm.personal]] 
 
-### #is_/same_as :: [Arrow_Worm.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arrow_Worm.secret|Arrow_Worm.secret]] 
 

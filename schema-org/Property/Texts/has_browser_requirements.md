@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_browser_requirements](/_Standards/schema-org/Property/Texts/has_browser_requirements.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_browser_requirements|has_browser_requirements]] 
 
-### #is_/same_as :: [has_browser_requirements.public](/_public/schema-org/Property/Texts/has_browser_requirements.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_browser_requirements.public|has_browser_requirements.public]] 
 
-### #is_/same_as :: [has_browser_requirements.internal](/_internal/schema-org/Property/Texts/has_browser_requirements.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_browser_requirements.internal|has_browser_requirements.internal]] 
 
-### #is_/same_as :: [has_browser_requirements.protect](/_protect/schema-org/Property/Texts/has_browser_requirements.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_browser_requirements.protect|has_browser_requirements.protect]] 
 
-### #is_/same_as :: [has_browser_requirements.private](/_private/schema-org/Property/Texts/has_browser_requirements.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_browser_requirements.private|has_browser_requirements.private]] 
 
-### #is_/same_as :: [has_browser_requirements.personal](/_personal/schema-org/Property/Texts/has_browser_requirements.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_browser_requirements.personal|has_browser_requirements.personal]] 
 
-### #is_/same_as :: [has_browser_requirements.secret](/_secret/schema-org/Property/Texts/has_browser_requirements.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_browser_requirements.secret|has_browser_requirements.secret]] 
 

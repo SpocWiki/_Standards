@@ -58,17 +58,17 @@ Commons_category: Samosas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samosa](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa|Samosa]] 
 
-### #is_/same_as :: [Samosa.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.public|Samosa.public]] 
 
-### #is_/same_as :: [Samosa.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.internal|Samosa.internal]] 
 
-### #is_/same_as :: [Samosa.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.protect|Samosa.protect]] 
 
-### #is_/same_as :: [Samosa.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.private|Samosa.private]] 
 
-### #is_/same_as :: [Samosa.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.personal|Samosa.personal]] 
 
-### #is_/same_as :: [Samosa.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Samosa.secret|Samosa.secret]] 
 

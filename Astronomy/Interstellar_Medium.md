@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interstellar_Medium](/_Standards/Astronomy/Interstellar_Medium.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]] 
 
-### #is_/same_as :: [Interstellar_Medium.public](/_public/Astronomy/Interstellar_Medium.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]] 
 
-### #is_/same_as :: [Interstellar_Medium.internal](/_internal/Astronomy/Interstellar_Medium.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]] 
 
-### #is_/same_as :: [Interstellar_Medium.protect](/_protect/Astronomy/Interstellar_Medium.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium.protect|Interstellar_Medium.protect]] 
 
-### #is_/same_as :: [Interstellar_Medium.private](/_private/Astronomy/Interstellar_Medium.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium.private|Interstellar_Medium.private]] 
 
-### #is_/same_as :: [Interstellar_Medium.personal](/_personal/Astronomy/Interstellar_Medium.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]] 
 
-### #is_/same_as :: [Interstellar_Medium.secret](/_secret/Astronomy/Interstellar_Medium.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]] 
 

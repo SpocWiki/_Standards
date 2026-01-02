@@ -102,17 +102,17 @@ markerFile: [[Mont_Saint-Michel]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mont_Saint-Michel](/_Standards/Earth/Geography/Place/Mont_Saint-Michel.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Mont_Saint-Michel|Mont_Saint-Michel]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.public](/_public/Earth/Geography/Place/Mont_Saint-Michel.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Mont_Saint-Michel.public|Mont_Saint-Michel.public]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.internal](/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Mont_Saint-Michel.internal|Mont_Saint-Michel.internal]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.protect](/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Mont_Saint-Michel.protect|Mont_Saint-Michel.protect]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.private](/_private/Earth/Geography/Place/Mont_Saint-Michel.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Mont_Saint-Michel.private|Mont_Saint-Michel.private]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.personal](/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Mont_Saint-Michel.personal|Mont_Saint-Michel.personal]] 
 
-### #is_/same_as :: [Mont_Saint-Michel.secret](/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Mont_Saint-Michel.secret|Mont_Saint-Michel.secret]] 
 

@@ -108,17 +108,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marco_Polo](/_Standards/Earth/Explorer/Age_of_Discovery/Marco_Polo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Marco_Polo|Marco_Polo]] 
 
-### #is_/same_as :: [Marco_Polo.public](/_public/Earth/Explorer/Age_of_Discovery/Marco_Polo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Marco_Polo.public|Marco_Polo.public]] 
 
-### #is_/same_as :: [Marco_Polo.internal](/_internal/Earth/Explorer/Age_of_Discovery/Marco_Polo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Marco_Polo.internal|Marco_Polo.internal]] 
 
-### #is_/same_as :: [Marco_Polo.protect](/_protect/Earth/Explorer/Age_of_Discovery/Marco_Polo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Marco_Polo.protect|Marco_Polo.protect]] 
 
-### #is_/same_as :: [Marco_Polo.private](/_private/Earth/Explorer/Age_of_Discovery/Marco_Polo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Marco_Polo.private|Marco_Polo.private]] 
 
-### #is_/same_as :: [Marco_Polo.personal](/_personal/Earth/Explorer/Age_of_Discovery/Marco_Polo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Marco_Polo.personal|Marco_Polo.personal]] 
 
-### #is_/same_as :: [Marco_Polo.secret](/_secret/Earth/Explorer/Age_of_Discovery/Marco_Polo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Marco_Polo.secret|Marco_Polo.secret]] 
 

@@ -58,17 +58,17 @@ OpenStreetMap_tag_or_key: Tag:healthcare:speciality=geriatrics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geriatrics](/_Standards/bio/Medicine/Medical_Business/Geriatrics.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Geriatrics|Geriatrics]] 
 
-### #is_/same_as :: [Geriatrics.public](/_public/bio/Medicine/Medical_Business/Geriatrics.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Geriatrics.public|Geriatrics.public]] 
 
-### #is_/same_as :: [Geriatrics.internal](/_internal/bio/Medicine/Medical_Business/Geriatrics.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Geriatrics.internal|Geriatrics.internal]] 
 
-### #is_/same_as :: [Geriatrics.protect](/_protect/bio/Medicine/Medical_Business/Geriatrics.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Geriatrics.protect|Geriatrics.protect]] 
 
-### #is_/same_as :: [Geriatrics.private](/_private/bio/Medicine/Medical_Business/Geriatrics.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Geriatrics.private|Geriatrics.private]] 
 
-### #is_/same_as :: [Geriatrics.personal](/_personal/bio/Medicine/Medical_Business/Geriatrics.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Geriatrics.personal|Geriatrics.personal]] 
 
-### #is_/same_as :: [Geriatrics.secret](/_secret/bio/Medicine/Medical_Business/Geriatrics.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Geriatrics.secret|Geriatrics.secret]] 
 

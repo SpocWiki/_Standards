@@ -77,17 +77,17 @@ inception: 1907-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scouting](/_Standards/Society/Culture/Education/Scouting.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Scouting|Scouting]] 
 
-### #is_/same_as :: [Scouting.public](/_public/Society/Culture/Education/Scouting.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Scouting.public|Scouting.public]] 
 
-### #is_/same_as :: [Scouting.internal](/_internal/Society/Culture/Education/Scouting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Scouting.internal|Scouting.internal]] 
 
-### #is_/same_as :: [Scouting.protect](/_protect/Society/Culture/Education/Scouting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Scouting.protect|Scouting.protect]] 
 
-### #is_/same_as :: [Scouting.private](/_private/Society/Culture/Education/Scouting.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Scouting.private|Scouting.private]] 
 
-### #is_/same_as :: [Scouting.personal](/_personal/Society/Culture/Education/Scouting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Scouting.personal|Scouting.personal]] 
 
-### #is_/same_as :: [Scouting.secret](/_secret/Society/Culture/Education/Scouting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Scouting.secret|Scouting.secret]] 
 

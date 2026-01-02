@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_return_method](/_Standards/schema-org/Relation/has/has_return_method.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_return_method|has_return_method]] 
 
-### #is_/same_as :: [has_return_method.public](/_public/schema-org/Relation/has/has_return_method.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_return_method.public|has_return_method.public]] 
 
-### #is_/same_as :: [has_return_method.internal](/_internal/schema-org/Relation/has/has_return_method.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_return_method.internal|has_return_method.internal]] 
 
-### #is_/same_as :: [has_return_method.protect](/_protect/schema-org/Relation/has/has_return_method.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_return_method.protect|has_return_method.protect]] 
 
-### #is_/same_as :: [has_return_method.private](/_private/schema-org/Relation/has/has_return_method.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_return_method.private|has_return_method.private]] 
 
-### #is_/same_as :: [has_return_method.personal](/_personal/schema-org/Relation/has/has_return_method.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_return_method.personal|has_return_method.personal]] 
 
-### #is_/same_as :: [has_return_method.secret](/_secret/schema-org/Relation/has/has_return_method.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_return_method.secret|has_return_method.secret]] 
 

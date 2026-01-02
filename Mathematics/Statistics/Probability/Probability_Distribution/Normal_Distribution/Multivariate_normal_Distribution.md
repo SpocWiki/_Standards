@@ -43,17 +43,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multivariate_normal_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution|Multivariate_normal_Distribution]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.public|Multivariate_normal_Distribution.public]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.internal|Multivariate_normal_Distribution.internal]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.protect|Multivariate_normal_Distribution.protect]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.private|Multivariate_normal_Distribution.private]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.personal|Multivariate_normal_Distribution.personal]] 
 
-### #is_/same_as :: [Multivariate_normal_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Normal_Distribution/Multivariate_normal_Distribution.secret|Multivariate_normal_Distribution.secret]] 
 

@@ -31,17 +31,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CEFACT](/_Standards/UN(United_Nations)/CEFACT.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/CEFACT|CEFACT]] 
 
-### #is_/same_as :: [CEFACT.public](/_public/UN(United_Nations)/CEFACT.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/CEFACT.public|CEFACT.public]] 
 
-### #is_/same_as :: [CEFACT.internal](/_internal/UN(United_Nations)/CEFACT.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/CEFACT.internal|CEFACT.internal]] 
 
-### #is_/same_as :: [CEFACT.protect](/_protect/UN(United_Nations)/CEFACT.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/CEFACT.protect|CEFACT.protect]] 
 
-### #is_/same_as :: [CEFACT.private](/_private/UN(United_Nations)/CEFACT.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/CEFACT.private|CEFACT.private]] 
 
-### #is_/same_as :: [CEFACT.personal](/_personal/UN(United_Nations)/CEFACT.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/CEFACT.personal|CEFACT.personal]] 
 
-### #is_/same_as :: [CEFACT.secret](/_secret/UN(United_Nations)/CEFACT.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/CEFACT.secret|CEFACT.secret]] 
 

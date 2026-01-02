@@ -104,17 +104,17 @@ ISNI: 0000000109177871
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hubble,Edwin](/_Standards/Astronomy/Astronomer/Hubble,Edwin.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Hubble,Edwin|Hubble,Edwin]] 
 
-### #is_/same_as :: [Hubble,Edwin.public](/_public/Astronomy/Astronomer/Hubble,Edwin.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Hubble,Edwin.public|Hubble,Edwin.public]] 
 
-### #is_/same_as :: [Hubble,Edwin.internal](/_internal/Astronomy/Astronomer/Hubble,Edwin.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Hubble,Edwin.internal|Hubble,Edwin.internal]] 
 
-### #is_/same_as :: [Hubble,Edwin.protect](/_protect/Astronomy/Astronomer/Hubble,Edwin.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Hubble,Edwin.protect|Hubble,Edwin.protect]] 
 
-### #is_/same_as :: [Hubble,Edwin.private](/_private/Astronomy/Astronomer/Hubble,Edwin.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Hubble,Edwin.private|Hubble,Edwin.private]] 
 
-### #is_/same_as :: [Hubble,Edwin.personal](/_personal/Astronomy/Astronomer/Hubble,Edwin.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Hubble,Edwin.personal|Hubble,Edwin.personal]] 
 
-### #is_/same_as :: [Hubble,Edwin.secret](/_secret/Astronomy/Astronomer/Hubble,Edwin.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Hubble,Edwin.secret|Hubble,Edwin.secret]] 
 

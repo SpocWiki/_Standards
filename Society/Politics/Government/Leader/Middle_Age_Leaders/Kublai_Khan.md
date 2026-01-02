@@ -112,17 +112,17 @@ name_in_native_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kublai_Khan](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan|Kublai_Khan]] 
 
-### #is_/same_as :: [Kublai_Khan.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.public|Kublai_Khan.public]] 
 
-### #is_/same_as :: [Kublai_Khan.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.internal|Kublai_Khan.internal]] 
 
-### #is_/same_as :: [Kublai_Khan.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.protect|Kublai_Khan.protect]] 
 
-### #is_/same_as :: [Kublai_Khan.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.private|Kublai_Khan.private]] 
 
-### #is_/same_as :: [Kublai_Khan.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.personal|Kublai_Khan.personal]] 
 
-### #is_/same_as :: [Kublai_Khan.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Kublai_Khan.secret|Kublai_Khan.secret]] 
 

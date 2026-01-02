@@ -120,17 +120,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit_of_Measurement](/_Standards/Dimension/Unit_of_Measurement.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement|Unit_of_Measurement]] 
 
-### #is_/same_as :: [Unit_of_Measurement.public](/_public/Dimension/Unit_of_Measurement.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement.public|Unit_of_Measurement.public]] 
 
-### #is_/same_as :: [Unit_of_Measurement.internal](/_internal/Dimension/Unit_of_Measurement.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement.internal|Unit_of_Measurement.internal]] 
 
-### #is_/same_as :: [Unit_of_Measurement.protect](/_protect/Dimension/Unit_of_Measurement.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement.protect|Unit_of_Measurement.protect]] 
 
-### #is_/same_as :: [Unit_of_Measurement.private](/_private/Dimension/Unit_of_Measurement.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement.private|Unit_of_Measurement.private]] 
 
-### #is_/same_as :: [Unit_of_Measurement.personal](/_personal/Dimension/Unit_of_Measurement.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement.personal|Unit_of_Measurement.personal]] 
 
-### #is_/same_as :: [Unit_of_Measurement.secret](/_secret/Dimension/Unit_of_Measurement.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement.secret|Unit_of_Measurement.secret]] 
 

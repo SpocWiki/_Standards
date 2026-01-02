@@ -49,17 +49,17 @@ Europeana_entity: agent/base/157054
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kahn,Philippe](/_Standards/Science/Inventor/Kahn,Philippe.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Kahn,Philippe|Kahn,Philippe]] 
 
-### #is_/same_as :: [Kahn,Philippe.public](/_public/Science/Inventor/Kahn,Philippe.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Kahn,Philippe.public|Kahn,Philippe.public]] 
 
-### #is_/same_as :: [Kahn,Philippe.internal](/_internal/Science/Inventor/Kahn,Philippe.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Kahn,Philippe.internal|Kahn,Philippe.internal]] 
 
-### #is_/same_as :: [Kahn,Philippe.protect](/_protect/Science/Inventor/Kahn,Philippe.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Kahn,Philippe.protect|Kahn,Philippe.protect]] 
 
-### #is_/same_as :: [Kahn,Philippe.private](/_private/Science/Inventor/Kahn,Philippe.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Kahn,Philippe.private|Kahn,Philippe.private]] 
 
-### #is_/same_as :: [Kahn,Philippe.personal](/_personal/Science/Inventor/Kahn,Philippe.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Kahn,Philippe.personal|Kahn,Philippe.personal]] 
 
-### #is_/same_as :: [Kahn,Philippe.secret](/_secret/Science/Inventor/Kahn,Philippe.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Kahn,Philippe.secret|Kahn,Philippe.secret]] 
 

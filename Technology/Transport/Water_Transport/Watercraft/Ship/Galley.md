@@ -51,17 +51,17 @@ Commons_category: Galleys (ship)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galley](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Galley|Galley]] 
 
-### #is_/same_as :: [Galley.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.public|Galley.public]] 
 
-### #is_/same_as :: [Galley.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.internal|Galley.internal]] 
 
-### #is_/same_as :: [Galley.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.protect|Galley.protect]] 
 
-### #is_/same_as :: [Galley.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.private|Galley.private]] 
 
-### #is_/same_as :: [Galley.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.personal|Galley.personal]] 
 
-### #is_/same_as :: [Galley.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Galley.secret|Galley.secret]] 
 

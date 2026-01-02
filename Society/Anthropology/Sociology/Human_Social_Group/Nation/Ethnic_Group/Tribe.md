@@ -61,17 +61,17 @@ Tribes are a smaller, more kinship-based kind of ethnic Group.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tribe](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe|Tribe]] 
 
-### #is_/same_as :: [Tribe.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.public|Tribe.public]] 
 
-### #is_/same_as :: [Tribe.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.internal|Tribe.internal]] 
 
-### #is_/same_as :: [Tribe.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.protect|Tribe.protect]] 
 
-### #is_/same_as :: [Tribe.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.private|Tribe.private]] 
 
-### #is_/same_as :: [Tribe.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.personal|Tribe.personal]] 
 
-### #is_/same_as :: [Tribe.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe.secret|Tribe.secret]] 
 

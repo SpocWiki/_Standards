@@ -61,17 +61,17 @@ P8189: 987007294837205171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arch](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch|Arch]] 
 
-### #is_/same_as :: [Arch.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.public|Arch.public]] 
 
-### #is_/same_as :: [Arch.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.internal|Arch.internal]] 
 
-### #is_/same_as :: [Arch.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.protect|Arch.protect]] 
 
-### #is_/same_as :: [Arch.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.private|Arch.private]] 
 
-### #is_/same_as :: [Arch.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.personal|Arch.personal]] 
 
-### #is_/same_as :: [Arch.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Arch.secret|Arch.secret]] 
 

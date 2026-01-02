@@ -39,17 +39,17 @@ Wolfram_Language_entity_type: StarCluster
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Cluster](/_Standards/Astronomy/Star_System/Star_Cluster.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Star_Cluster|Star_Cluster]] 
 
-### #is_/same_as :: [Star_Cluster.public](/_public/Astronomy/Star_System/Star_Cluster.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Star_Cluster.public|Star_Cluster.public]] 
 
-### #is_/same_as :: [Star_Cluster.internal](/_internal/Astronomy/Star_System/Star_Cluster.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Star_Cluster.internal|Star_Cluster.internal]] 
 
-### #is_/same_as :: [Star_Cluster.protect](/_protect/Astronomy/Star_System/Star_Cluster.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Star_Cluster.protect|Star_Cluster.protect]] 
 
-### #is_/same_as :: [Star_Cluster.private](/_private/Astronomy/Star_System/Star_Cluster.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Star_Cluster.private|Star_Cluster.private]] 
 
-### #is_/same_as :: [Star_Cluster.personal](/_personal/Astronomy/Star_System/Star_Cluster.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Star_Cluster.personal|Star_Cluster.personal]] 
 
-### #is_/same_as :: [Star_Cluster.secret](/_secret/Astronomy/Star_System/Star_Cluster.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Star_Cluster.secret|Star_Cluster.secret]] 
 

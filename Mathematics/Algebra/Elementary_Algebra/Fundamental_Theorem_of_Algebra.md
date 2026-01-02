@@ -53,17 +53,17 @@ Commons_category: Fundamental theorem of algebra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra](/_Standards/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra|Fundamental_Theorem_of_Algebra]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.public](/_public/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.public|Fundamental_Theorem_of_Algebra.public]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.internal|Fundamental_Theorem_of_Algebra.internal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.protect|Fundamental_Theorem_of_Algebra.protect]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.private](/_private/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.private|Fundamental_Theorem_of_Algebra.private]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.personal|Fundamental_Theorem_of_Algebra.personal]] 
 
-### #is_/same_as :: [Fundamental_Theorem_of_Algebra.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Elementary_Algebra/Fundamental_Theorem_of_Algebra.secret|Fundamental_Theorem_of_Algebra.secret]] 
 

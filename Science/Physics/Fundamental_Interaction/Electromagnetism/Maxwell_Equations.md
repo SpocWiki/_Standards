@@ -491,17 +491,17 @@ IEV_number: 121-11-62
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maxwell_Equations](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations|Maxwell_Equations]] 
 
-### #is_/same_as :: [Maxwell_Equations.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.public|Maxwell_Equations.public]] 
 
-### #is_/same_as :: [Maxwell_Equations.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.internal|Maxwell_Equations.internal]] 
 
-### #is_/same_as :: [Maxwell_Equations.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.protect|Maxwell_Equations.protect]] 
 
-### #is_/same_as :: [Maxwell_Equations.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.private|Maxwell_Equations.private]] 
 
-### #is_/same_as :: [Maxwell_Equations.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.personal|Maxwell_Equations.personal]] 
 
-### #is_/same_as :: [Maxwell_Equations.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Maxwell_Equations.secret|Maxwell_Equations.secret]] 
 

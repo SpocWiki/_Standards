@@ -72,17 +72,17 @@ Copyright ::           © 2000 [John White](mailto:reptiles@erols.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limulus_polyphemus](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus|Limulus_polyphemus]] 
 
-### #is_/same_as :: [Limulus_polyphemus.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.public|Limulus_polyphemus.public]] 
 
-### #is_/same_as :: [Limulus_polyphemus.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.internal|Limulus_polyphemus.internal]] 
 
-### #is_/same_as :: [Limulus_polyphemus.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.protect|Limulus_polyphemus.protect]] 
 
-### #is_/same_as :: [Limulus_polyphemus.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.private|Limulus_polyphemus.private]] 
 
-### #is_/same_as :: [Limulus_polyphemus.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.personal|Limulus_polyphemus.personal]] 
 
-### #is_/same_as :: [Limulus_polyphemus.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Horseshoe_Crab/Limuloidea/Limulus_polyphemus.secret|Limulus_polyphemus.secret]] 
 

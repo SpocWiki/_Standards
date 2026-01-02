@@ -73,17 +73,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spore](/_Standards/bio/Reproduction/Spore.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Spore|Spore]] 
 
-### #is_/same_as :: [Spore.public](/_public/bio/Reproduction/Spore.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Spore.public|Spore.public]] 
 
-### #is_/same_as :: [Spore.internal](/_internal/bio/Reproduction/Spore.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Spore.internal|Spore.internal]] 
 
-### #is_/same_as :: [Spore.protect](/_protect/bio/Reproduction/Spore.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Spore.protect|Spore.protect]] 
 
-### #is_/same_as :: [Spore.private](/_private/bio/Reproduction/Spore.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Spore.private|Spore.private]] 
 
-### #is_/same_as :: [Spore.personal](/_personal/bio/Reproduction/Spore.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Spore.personal|Spore.personal]] 
 
-### #is_/same_as :: [Spore.secret](/_secret/bio/Reproduction/Spore.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Spore.secret|Spore.secret]] 
 

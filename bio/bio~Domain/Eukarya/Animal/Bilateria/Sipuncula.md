@@ -69,17 +69,17 @@ Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sipuncula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula|Sipuncula]] 
 
-### #is_/same_as :: [Sipuncula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.public|Sipuncula.public]] 
 
-### #is_/same_as :: [Sipuncula.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.internal|Sipuncula.internal]] 
 
-### #is_/same_as :: [Sipuncula.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.protect|Sipuncula.protect]] 
 
-### #is_/same_as :: [Sipuncula.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.private|Sipuncula.private]] 
 
-### #is_/same_as :: [Sipuncula.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.personal|Sipuncula.personal]] 
 
-### #is_/same_as :: [Sipuncula.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Sipuncula.secret|Sipuncula.secret]] 
 

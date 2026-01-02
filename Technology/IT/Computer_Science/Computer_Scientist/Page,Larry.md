@@ -88,17 +88,17 @@ Instagram_username: larry_page
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Page,Larry](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry|Page,Larry]] 
 
-### #is_/same_as :: [Page,Larry.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.public|Page,Larry.public]] 
 
-### #is_/same_as :: [Page,Larry.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.internal|Page,Larry.internal]] 
 
-### #is_/same_as :: [Page,Larry.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.protect|Page,Larry.protect]] 
 
-### #is_/same_as :: [Page,Larry.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.private|Page,Larry.private]] 
 
-### #is_/same_as :: [Page,Larry.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.personal|Page,Larry.personal]] 
 
-### #is_/same_as :: [Page,Larry.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Page,Larry.secret|Page,Larry.secret]] 
 

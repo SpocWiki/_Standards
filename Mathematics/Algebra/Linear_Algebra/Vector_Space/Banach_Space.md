@@ -38,17 +38,17 @@ A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banach_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space|Banach_Space]] 
 
-### #is_/same_as :: [Banach_Space.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.public|Banach_Space.public]] 
 
-### #is_/same_as :: [Banach_Space.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.internal|Banach_Space.internal]] 
 
-### #is_/same_as :: [Banach_Space.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.protect|Banach_Space.protect]] 
 
-### #is_/same_as :: [Banach_Space.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.private|Banach_Space.private]] 
 
-### #is_/same_as :: [Banach_Space.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.personal|Banach_Space.personal]] 
 
-### #is_/same_as :: [Banach_Space.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space/Banach_Space.secret|Banach_Space.secret]] 
 

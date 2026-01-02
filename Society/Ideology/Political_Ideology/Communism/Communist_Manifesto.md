@@ -119,17 +119,17 @@ Libris_URI: fcrv0rzz4cdz0x0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communist_Manifesto](/_Standards/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto|Communist_Manifesto]] 
 
-### #is_/same_as :: [Communist_Manifesto.public](/_public/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.public|Communist_Manifesto.public]] 
 
-### #is_/same_as :: [Communist_Manifesto.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.internal|Communist_Manifesto.internal]] 
 
-### #is_/same_as :: [Communist_Manifesto.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.protect|Communist_Manifesto.protect]] 
 
-### #is_/same_as :: [Communist_Manifesto.private](/_private/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.private|Communist_Manifesto.private]] 
 
-### #is_/same_as :: [Communist_Manifesto.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.personal|Communist_Manifesto.personal]] 
 
-### #is_/same_as :: [Communist_Manifesto.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Communist_Manifesto.secret|Communist_Manifesto.secret]] 
 

@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pastewka,Bastian](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian|Pastewka,Bastian]] 
 
-### #is_/same_as :: [Pastewka,Bastian.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.public|Pastewka,Bastian.public]] 
 
-### #is_/same_as :: [Pastewka,Bastian.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.internal|Pastewka,Bastian.internal]] 
 
-### #is_/same_as :: [Pastewka,Bastian.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.protect|Pastewka,Bastian.protect]] 
 
-### #is_/same_as :: [Pastewka,Bastian.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.private|Pastewka,Bastian.private]] 
 
-### #is_/same_as :: [Pastewka,Bastian.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.personal|Pastewka,Bastian.personal]] 
 
-### #is_/same_as :: [Pastewka,Bastian.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Pastewka,Bastian.secret|Pastewka,Bastian.secret]] 
 

@@ -70,17 +70,17 @@ NAICS aggregation levels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NAICS](/_Standards/NAICS.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS|NAICS]] 
 
-### #is_/same_as :: [NAICS.public](/_public/NAICS.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.public|NAICS.public]] 
 
-### #is_/same_as :: [NAICS.internal](/_internal/NAICS.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.internal|NAICS.internal]] 
 
-### #is_/same_as :: [NAICS.protect](/_protect/NAICS.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.protect|NAICS.protect]] 
 
-### #is_/same_as :: [NAICS.private](/_private/NAICS.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.private|NAICS.private]] 
 
-### #is_/same_as :: [NAICS.personal](/_personal/NAICS.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.personal|NAICS.personal]] 
 
-### #is_/same_as :: [NAICS.secret](/_secret/NAICS.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ISIC(International_Standard_Industrial_Classification)/NAICS.secret|NAICS.secret]] 
 

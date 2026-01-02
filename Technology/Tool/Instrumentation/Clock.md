@@ -59,17 +59,17 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clock](/_Standards/Technology/Tool/Instrumentation/Clock.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Clock|Clock]] 
 
-### #is_/same_as :: [Clock.public](/_public/Technology/Tool/Instrumentation/Clock.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Clock.public|Clock.public]] 
 
-### #is_/same_as :: [Clock.internal](/_internal/Technology/Tool/Instrumentation/Clock.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Clock.internal|Clock.internal]] 
 
-### #is_/same_as :: [Clock.protect](/_protect/Technology/Tool/Instrumentation/Clock.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Clock.protect|Clock.protect]] 
 
-### #is_/same_as :: [Clock.private](/_private/Technology/Tool/Instrumentation/Clock.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Clock.private|Clock.private]] 
 
-### #is_/same_as :: [Clock.personal](/_personal/Technology/Tool/Instrumentation/Clock.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Clock.personal|Clock.personal]] 
 
-### #is_/same_as :: [Clock.secret](/_secret/Technology/Tool/Instrumentation/Clock.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Clock.secret|Clock.secret]] 
 

@@ -88,17 +88,17 @@ Wolfram_Language_entity_code: Entity["Mineral", "Graphite"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graphite](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite|Graphite]] 
 
-### #is_/same_as :: [Graphite.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.public|Graphite.public]] 
 
-### #is_/same_as :: [Graphite.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.internal|Graphite.internal]] 
 
-### #is_/same_as :: [Graphite.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.protect|Graphite.protect]] 
 
-### #is_/same_as :: [Graphite.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.private|Graphite.private]] 
 
-### #is_/same_as :: [Graphite.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.personal|Graphite.personal]] 
 
-### #is_/same_as :: [Graphite.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon/Graphite.secret|Graphite.secret]] 
 

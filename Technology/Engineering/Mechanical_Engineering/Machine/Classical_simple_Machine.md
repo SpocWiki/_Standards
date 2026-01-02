@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classical_simple_Machine](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine|Classical_simple_Machine]] 
 
-### #is_/same_as :: [Classical_simple_Machine.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.public|Classical_simple_Machine.public]] 
 
-### #is_/same_as :: [Classical_simple_Machine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.internal|Classical_simple_Machine.internal]] 
 
-### #is_/same_as :: [Classical_simple_Machine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.protect|Classical_simple_Machine.protect]] 
 
-### #is_/same_as :: [Classical_simple_Machine.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.private|Classical_simple_Machine.private]] 
 
-### #is_/same_as :: [Classical_simple_Machine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.personal|Classical_simple_Machine.personal]] 
 
-### #is_/same_as :: [Classical_simple_Machine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine.secret|Classical_simple_Machine.secret]] 
 

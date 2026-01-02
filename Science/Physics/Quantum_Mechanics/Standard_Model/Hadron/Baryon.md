@@ -72,17 +72,17 @@ Commons_category: Baryons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baryon](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon|Baryon]] 
 
-### #is_/same_as :: [Baryon.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.public|Baryon.public]] 
 
-### #is_/same_as :: [Baryon.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.internal|Baryon.internal]] 
 
-### #is_/same_as :: [Baryon.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.protect|Baryon.protect]] 
 
-### #is_/same_as :: [Baryon.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.private|Baryon.private]] 
 
-### #is_/same_as :: [Baryon.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.personal|Baryon.personal]] 
 
-### #is_/same_as :: [Baryon.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon.secret|Baryon.secret]] 
 

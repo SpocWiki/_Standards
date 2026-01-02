@@ -103,17 +103,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/science
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Science](/_Standards/Science.md) 
+### #is_/same_as :: [[/_Standards/Science|Science]] 
 
-### #is_/same_as :: [Science.public](/_public/Science.public.md) 
+### #is_/same_as :: [[/_public/Science.public|Science.public]] 
 
-### #is_/same_as :: [Science.internal](/_internal/Science.internal.md) 
+### #is_/same_as :: [[/_internal/Science.internal|Science.internal]] 
 
-### #is_/same_as :: [Science.protect](/_protect/Science.protect.md) 
+### #is_/same_as :: [[/_protect/Science.protect|Science.protect]] 
 
-### #is_/same_as :: [Science.private](/_private/Science.private.md) 
+### #is_/same_as :: [[/_private/Science.private|Science.private]] 
 
-### #is_/same_as :: [Science.personal](/_personal/Science.personal.md) 
+### #is_/same_as :: [[/_personal/Science.personal|Science.personal]] 
 
-### #is_/same_as :: [Science.secret](/_secret/Science.secret.md)
+### #is_/same_as :: [[/_secret/Science.secret|Science.secret]] 
 

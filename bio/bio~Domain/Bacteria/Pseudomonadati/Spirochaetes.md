@@ -110,17 +110,17 @@ title: Spirochaetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spirochaetes](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes|Spirochaetes]] 
 
-### #is_/same_as :: [Spirochaetes.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.public|Spirochaetes.public]] 
 
-### #is_/same_as :: [Spirochaetes.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.internal|Spirochaetes.internal]] 
 
-### #is_/same_as :: [Spirochaetes.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.protect|Spirochaetes.protect]] 
 
-### #is_/same_as :: [Spirochaetes.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.private|Spirochaetes.private]] 
 
-### #is_/same_as :: [Spirochaetes.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.personal|Spirochaetes.personal]] 
 
-### #is_/same_as :: [Spirochaetes.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Spirochaetes.secret|Spirochaetes.secret]] 
 

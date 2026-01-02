@@ -187,17 +187,17 @@ X_Twitter_username: NATO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NATO](/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO|NATO]] 
 
-### #is_/same_as :: [NATO.public](/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.public|NATO.public]] 
 
-### #is_/same_as :: [NATO.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.internal|NATO.internal]] 
 
-### #is_/same_as :: [NATO.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.protect|NATO.protect]] 
 
-### #is_/same_as :: [NATO.private](/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.private|NATO.private]] 
 
-### #is_/same_as :: [NATO.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.personal|NATO.personal]] 
 
-### #is_/same_as :: [NATO.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Military_Alliance/NATO.secret|NATO.secret]] 
 

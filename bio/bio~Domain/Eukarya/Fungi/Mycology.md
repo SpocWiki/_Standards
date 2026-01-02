@@ -52,17 +52,17 @@ MeSH_tree_code: H01.158.273.540.553
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mycology](/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycology.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Mycology|Mycology]] 
 
-### #is_/same_as :: [Mycology.public](/_public/bio/bio~Domain/Eukarya/Fungi/Mycology.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Mycology.public|Mycology.public]] 
 
-### #is_/same_as :: [Mycology.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Mycology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Mycology.internal|Mycology.internal]] 
 
-### #is_/same_as :: [Mycology.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Mycology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Mycology.protect|Mycology.protect]] 
 
-### #is_/same_as :: [Mycology.private](/_private/bio/bio~Domain/Eukarya/Fungi/Mycology.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Mycology.private|Mycology.private]] 
 
-### #is_/same_as :: [Mycology.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Mycology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Mycology.personal|Mycology.personal]] 
 
-### #is_/same_as :: [Mycology.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Mycology.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Mycology.secret|Mycology.secret]] 
 

@@ -92,17 +92,17 @@ Wikidata_usage_instructions: Use audio track (Q7302866) instead for track on a m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Song](/_Standards/Society/Communication/Media/Music/Song.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Song|Song]] 
 
-### #is_/same_as :: [Song.public](/_public/Society/Communication/Media/Music/Song.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Song.public|Song.public]] 
 
-### #is_/same_as :: [Song.internal](/_internal/Society/Communication/Media/Music/Song.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Song.internal|Song.internal]] 
 
-### #is_/same_as :: [Song.protect](/_protect/Society/Communication/Media/Music/Song.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Song.protect|Song.protect]] 
 
-### #is_/same_as :: [Song.private](/_private/Society/Communication/Media/Music/Song.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Song.private|Song.private]] 
 
-### #is_/same_as :: [Song.personal](/_personal/Society/Communication/Media/Music/Song.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Song.personal|Song.personal]] 
 
-### #is_/same_as :: [Song.secret](/_secret/Society/Communication/Media/Music/Song.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Song.secret|Song.secret]] 
 

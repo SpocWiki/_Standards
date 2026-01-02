@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [2020-Beirut_Explosion](/_Standards/Society/Disaster/2020-Beirut_Explosion.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/2020-Beirut_Explosion|2020-Beirut_Explosion]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.public](/_public/Society/Disaster/2020-Beirut_Explosion.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/2020-Beirut_Explosion.public|2020-Beirut_Explosion.public]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.internal](/_internal/Society/Disaster/2020-Beirut_Explosion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/2020-Beirut_Explosion.internal|2020-Beirut_Explosion.internal]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.protect](/_protect/Society/Disaster/2020-Beirut_Explosion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/2020-Beirut_Explosion.protect|2020-Beirut_Explosion.protect]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.private](/_private/Society/Disaster/2020-Beirut_Explosion.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/2020-Beirut_Explosion.private|2020-Beirut_Explosion.private]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.personal](/_personal/Society/Disaster/2020-Beirut_Explosion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/2020-Beirut_Explosion.personal|2020-Beirut_Explosion.personal]] 
 
-### #is_/same_as :: [2020-Beirut_Explosion.secret](/_secret/Society/Disaster/2020-Beirut_Explosion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/2020-Beirut_Explosion.secret|2020-Beirut_Explosion.secret]] 
 

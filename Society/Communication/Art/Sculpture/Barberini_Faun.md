@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barberini_Faun](/_Standards/Society/Communication/Art/Sculpture/Barberini_Faun.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Sculpture/Barberini_Faun|Barberini_Faun]] 
 
-### #is_/same_as :: [Barberini_Faun.public](/_public/Society/Communication/Art/Sculpture/Barberini_Faun.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Sculpture/Barberini_Faun.public|Barberini_Faun.public]] 
 
-### #is_/same_as :: [Barberini_Faun.internal](/_internal/Society/Communication/Art/Sculpture/Barberini_Faun.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Sculpture/Barberini_Faun.internal|Barberini_Faun.internal]] 
 
-### #is_/same_as :: [Barberini_Faun.protect](/_protect/Society/Communication/Art/Sculpture/Barberini_Faun.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Sculpture/Barberini_Faun.protect|Barberini_Faun.protect]] 
 
-### #is_/same_as :: [Barberini_Faun.private](/_private/Society/Communication/Art/Sculpture/Barberini_Faun.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Sculpture/Barberini_Faun.private|Barberini_Faun.private]] 
 
-### #is_/same_as :: [Barberini_Faun.personal](/_personal/Society/Communication/Art/Sculpture/Barberini_Faun.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Sculpture/Barberini_Faun.personal|Barberini_Faun.personal]] 
 
-### #is_/same_as :: [Barberini_Faun.secret](/_secret/Society/Communication/Art/Sculpture/Barberini_Faun.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Sculpture/Barberini_Faun.secret|Barberini_Faun.secret]] 
 

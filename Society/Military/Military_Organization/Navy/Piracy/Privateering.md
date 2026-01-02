@@ -60,17 +60,17 @@ male_form_of_label: قرصان رسمي
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Privateering](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering|Privateering]] 
 
-### #is_/same_as :: [Privateering.public](/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering.public|Privateering.public]] 
 
-### #is_/same_as :: [Privateering.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering.internal|Privateering.internal]] 
 
-### #is_/same_as :: [Privateering.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering.protect|Privateering.protect]] 
 
-### #is_/same_as :: [Privateering.private](/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering.private|Privateering.private]] 
 
-### #is_/same_as :: [Privateering.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering.personal|Privateering.personal]] 
 
-### #is_/same_as :: [Privateering.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering.secret|Privateering.secret]] 
 

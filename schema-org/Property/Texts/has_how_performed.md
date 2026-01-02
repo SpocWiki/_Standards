@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_how_performed](/_Standards/schema-org/Property/Texts/has_how_performed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_how_performed|has_how_performed]] 
 
-### #is_/same_as :: [has_how_performed.public](/_public/schema-org/Property/Texts/has_how_performed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_how_performed.public|has_how_performed.public]] 
 
-### #is_/same_as :: [has_how_performed.internal](/_internal/schema-org/Property/Texts/has_how_performed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_how_performed.internal|has_how_performed.internal]] 
 
-### #is_/same_as :: [has_how_performed.protect](/_protect/schema-org/Property/Texts/has_how_performed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_how_performed.protect|has_how_performed.protect]] 
 
-### #is_/same_as :: [has_how_performed.private](/_private/schema-org/Property/Texts/has_how_performed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_how_performed.private|has_how_performed.private]] 
 
-### #is_/same_as :: [has_how_performed.personal](/_personal/schema-org/Property/Texts/has_how_performed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_how_performed.personal|has_how_performed.personal]] 
 
-### #is_/same_as :: [has_how_performed.secret](/_secret/schema-org/Property/Texts/has_how_performed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_how_performed.secret|has_how_performed.secret]] 
 

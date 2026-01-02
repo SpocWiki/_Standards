@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bohr%20atom%20model.sv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Physics](/_Standards/Science/Physics/Atom/Atomic_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Physics|Atomic_Physics]] 
 
-### #is_/same_as :: [Atomic_Physics.public](/_public/Science/Physics/Atom/Atomic_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Physics.public|Atomic_Physics.public]] 
 
-### #is_/same_as :: [Atomic_Physics.internal](/_internal/Science/Physics/Atom/Atomic_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Physics.internal|Atomic_Physics.internal]] 
 
-### #is_/same_as :: [Atomic_Physics.protect](/_protect/Science/Physics/Atom/Atomic_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Physics.protect|Atomic_Physics.protect]] 
 
-### #is_/same_as :: [Atomic_Physics.private](/_private/Science/Physics/Atom/Atomic_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Physics.private|Atomic_Physics.private]] 
 
-### #is_/same_as :: [Atomic_Physics.personal](/_personal/Science/Physics/Atom/Atomic_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Physics.personal|Atomic_Physics.personal]] 
 
-### #is_/same_as :: [Atomic_Physics.secret](/_secret/Science/Physics/Atom/Atomic_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Physics.secret|Atomic_Physics.secret]] 
 

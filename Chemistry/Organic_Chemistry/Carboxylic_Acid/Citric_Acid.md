@@ -251,17 +251,17 @@ HO   O
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Citric_Acid](/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid|Citric_Acid]] 
 
-### #is_/same_as :: [Citric_Acid.public](/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.public|Citric_Acid.public]] 
 
-### #is_/same_as :: [Citric_Acid.internal](/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.internal|Citric_Acid.internal]] 
 
-### #is_/same_as :: [Citric_Acid.protect](/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.protect|Citric_Acid.protect]] 
 
-### #is_/same_as :: [Citric_Acid.private](/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.private|Citric_Acid.private]] 
 
-### #is_/same_as :: [Citric_Acid.personal](/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.personal|Citric_Acid.personal]] 
 
-### #is_/same_as :: [Citric_Acid.secret](/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid.secret|Citric_Acid.secret]] 
 

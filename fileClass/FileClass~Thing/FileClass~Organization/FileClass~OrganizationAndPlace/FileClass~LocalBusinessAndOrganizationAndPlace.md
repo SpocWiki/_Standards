@@ -37,17 +37,17 @@ See LocalBusiness, Organization, Place for more information.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace|FileClass~LocalBusinessAndOrganizationAndPlace]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.public|FileClass~LocalBusinessAndOrganizationAndPlace.public]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.internal|FileClass~LocalBusinessAndOrganizationAndPlace.internal]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.protect|FileClass~LocalBusinessAndOrganizationAndPlace.protect]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.private|FileClass~LocalBusinessAndOrganizationAndPlace.private]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.personal|FileClass~LocalBusinessAndOrganizationAndPlace.personal]] 
 
-### #is_/same_as :: [FileClass~LocalBusinessAndOrganizationAndPlace.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~LocalBusinessAndOrganizationAndPlace.secret|FileClass~LocalBusinessAndOrganizationAndPlace.secret]] 
 

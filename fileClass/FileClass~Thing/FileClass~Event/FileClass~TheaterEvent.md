@@ -37,17 +37,17 @@ Event type: Theater performance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TheaterEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent|FileClass~TheaterEvent]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.public|FileClass~TheaterEvent.public]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.internal|FileClass~TheaterEvent.internal]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.protect|FileClass~TheaterEvent.protect]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.private|FileClass~TheaterEvent.private]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.personal|FileClass~TheaterEvent.personal]] 
 
-### #is_/same_as :: [FileClass~TheaterEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~TheaterEvent.secret|FileClass~TheaterEvent.secret]] 
 

@@ -60,17 +60,17 @@ Commons_category: Logical positivism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logical_Positivism](/_Standards/Philosophy/Logical_Positivism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logical_Positivism|Logical_Positivism]] 
 
-### #is_/same_as :: [Logical_Positivism.public](/_public/Philosophy/Logical_Positivism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logical_Positivism.public|Logical_Positivism.public]] 
 
-### #is_/same_as :: [Logical_Positivism.internal](/_internal/Philosophy/Logical_Positivism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logical_Positivism.internal|Logical_Positivism.internal]] 
 
-### #is_/same_as :: [Logical_Positivism.protect](/_protect/Philosophy/Logical_Positivism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logical_Positivism.protect|Logical_Positivism.protect]] 
 
-### #is_/same_as :: [Logical_Positivism.private](/_private/Philosophy/Logical_Positivism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logical_Positivism.private|Logical_Positivism.private]] 
 
-### #is_/same_as :: [Logical_Positivism.personal](/_personal/Philosophy/Logical_Positivism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logical_Positivism.personal|Logical_Positivism.personal]] 
 
-### #is_/same_as :: [Logical_Positivism.secret](/_secret/Philosophy/Logical_Positivism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logical_Positivism.secret|Logical_Positivism.secret]] 
 

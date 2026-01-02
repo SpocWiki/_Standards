@@ -120,17 +120,17 @@ ISNI: 0000000121487346
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trier,Lars_von](/_Standards/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von|Trier,Lars_von]] 
 
-### #is_/same_as :: [Trier,Lars_von.public](/_public/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.public|Trier,Lars_von.public]] 
 
-### #is_/same_as :: [Trier,Lars_von.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.internal|Trier,Lars_von.internal]] 
 
-### #is_/same_as :: [Trier,Lars_von.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.protect|Trier,Lars_von.protect]] 
 
-### #is_/same_as :: [Trier,Lars_von.private](/_private/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.private|Trier,Lars_von.private]] 
 
-### #is_/same_as :: [Trier,Lars_von.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.personal|Trier,Lars_von.personal]] 
 
-### #is_/same_as :: [Trier,Lars_von.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Trier,Lars_von.secret|Trier,Lars_von.secret]] 
 

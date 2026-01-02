@@ -93,17 +93,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/POLONI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polonium](/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium|Polonium]] 
 
-### #is_/same_as :: [Polonium.public](/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.public|Polonium.public]] 
 
-### #is_/same_as :: [Polonium.internal](/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.internal|Polonium.internal]] 
 
-### #is_/same_as :: [Polonium.protect](/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.protect|Polonium.protect]] 
 
-### #is_/same_as :: [Polonium.private](/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.private|Polonium.private]] 
 
-### #is_/same_as :: [Polonium.personal](/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.personal|Polonium.personal]] 
 
-### #is_/same_as :: [Polonium.secret](/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Polonium.secret|Polonium.secret]] 
 

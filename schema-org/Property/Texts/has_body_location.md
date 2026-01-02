@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_body_location](/_Standards/schema-org/Property/Texts/has_body_location.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_body_location|has_body_location]] 
 
-### #is_/same_as :: [has_body_location.public](/_public/schema-org/Property/Texts/has_body_location.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_body_location.public|has_body_location.public]] 
 
-### #is_/same_as :: [has_body_location.internal](/_internal/schema-org/Property/Texts/has_body_location.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_body_location.internal|has_body_location.internal]] 
 
-### #is_/same_as :: [has_body_location.protect](/_protect/schema-org/Property/Texts/has_body_location.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_body_location.protect|has_body_location.protect]] 
 
-### #is_/same_as :: [has_body_location.private](/_private/schema-org/Property/Texts/has_body_location.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_body_location.private|has_body_location.private]] 
 
-### #is_/same_as :: [has_body_location.personal](/_personal/schema-org/Property/Texts/has_body_location.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_body_location.personal|has_body_location.personal]] 
 
-### #is_/same_as :: [has_body_location.secret](/_secret/schema-org/Property/Texts/has_body_location.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_body_location.secret|has_body_location.secret]] 
 

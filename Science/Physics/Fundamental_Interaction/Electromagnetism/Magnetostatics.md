@@ -23,17 +23,17 @@ Commons_category: Magnetostatics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetostatics](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics|Magnetostatics]] 
 
-### #is_/same_as :: [Magnetostatics.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.public|Magnetostatics.public]] 
 
-### #is_/same_as :: [Magnetostatics.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.internal|Magnetostatics.internal]] 
 
-### #is_/same_as :: [Magnetostatics.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.protect|Magnetostatics.protect]] 
 
-### #is_/same_as :: [Magnetostatics.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.private|Magnetostatics.private]] 
 
-### #is_/same_as :: [Magnetostatics.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.personal|Magnetostatics.personal]] 
 
-### #is_/same_as :: [Magnetostatics.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Magnetostatics.secret|Magnetostatics.secret]] 
 

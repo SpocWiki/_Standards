@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_application_contact](/_Standards/schema-org/Relation/has/has_application_contact.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_application_contact|has_application_contact]] 
 
-### #is_/same_as :: [has_application_contact.public](/_public/schema-org/Relation/has/has_application_contact.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_application_contact.public|has_application_contact.public]] 
 
-### #is_/same_as :: [has_application_contact.internal](/_internal/schema-org/Relation/has/has_application_contact.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_application_contact.internal|has_application_contact.internal]] 
 
-### #is_/same_as :: [has_application_contact.protect](/_protect/schema-org/Relation/has/has_application_contact.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_application_contact.protect|has_application_contact.protect]] 
 
-### #is_/same_as :: [has_application_contact.private](/_private/schema-org/Relation/has/has_application_contact.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_application_contact.private|has_application_contact.private]] 
 
-### #is_/same_as :: [has_application_contact.personal](/_personal/schema-org/Relation/has/has_application_contact.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_application_contact.personal|has_application_contact.personal]] 
 
-### #is_/same_as :: [has_application_contact.secret](/_secret/schema-org/Relation/has/has_application_contact.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_application_contact.secret|has_application_contact.secret]] 
 

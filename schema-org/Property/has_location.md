@@ -14,17 +14,17 @@ Class of [[../Predicate|Predicates]] /Relations with a geographical Location of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location](/_Standards/schema-org/Property/has_location.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location|has_location]] 
 
-### #is_/same_as :: [has_location.public](/_public/schema-org/Property/has_location.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location.public|has_location.public]] 
 
-### #is_/same_as :: [has_location.internal](/_internal/schema-org/Property/has_location.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location.internal|has_location.internal]] 
 
-### #is_/same_as :: [has_location.protect](/_protect/schema-org/Property/has_location.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location.protect|has_location.protect]] 
 
-### #is_/same_as :: [has_location.private](/_private/schema-org/Property/has_location.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location.private|has_location.private]] 
 
-### #is_/same_as :: [has_location.personal](/_personal/schema-org/Property/has_location.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location.personal|has_location.personal]] 
 
-### #is_/same_as :: [has_location.secret](/_secret/schema-org/Property/has_location.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location.secret|has_location.secret]] 
 

@@ -42,17 +42,17 @@ Nonprofit501c16: Non-profit type referring to Cooperative Organizations to Finan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c16](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16|Nonprofit501c16]] 
 
-### #is_/same_as :: [Nonprofit501c16.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.public|Nonprofit501c16.public]] 
 
-### #is_/same_as :: [Nonprofit501c16.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.internal|Nonprofit501c16.internal]] 
 
-### #is_/same_as :: [Nonprofit501c16.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.protect|Nonprofit501c16.protect]] 
 
-### #is_/same_as :: [Nonprofit501c16.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.private|Nonprofit501c16.private]] 
 
-### #is_/same_as :: [Nonprofit501c16.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.personal|Nonprofit501c16.personal]] 
 
-### #is_/same_as :: [Nonprofit501c16.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c16.secret|Nonprofit501c16.secret]] 
 

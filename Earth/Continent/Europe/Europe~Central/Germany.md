@@ -916,17 +916,17 @@ Capital :: [[../../../../WikiData/WD~Berlin,64]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Germany](/_Standards/Earth/Continent/Europe/Europe~Central/Germany.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Germany|Germany]] 
 
-### #is_/same_as :: [Germany.public](/_public/Earth/Continent/Europe/Europe~Central/Germany.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Germany.public|Germany.public]] 
 
-### #is_/same_as :: [Germany.internal](/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Germany.internal|Germany.internal]] 
 
-### #is_/same_as :: [Germany.protect](/_protect/Earth/Continent/Europe/Europe~Central/Germany.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Germany.protect|Germany.protect]] 
 
-### #is_/same_as :: [Germany.private](/_private/Earth/Continent/Europe/Europe~Central/Germany.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Germany.private|Germany.private]] 
 
-### #is_/same_as :: [Germany.personal](/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Germany.personal|Germany.personal]] 
 
-### #is_/same_as :: [Germany.secret](/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Germany.secret|Germany.secret]] 
 

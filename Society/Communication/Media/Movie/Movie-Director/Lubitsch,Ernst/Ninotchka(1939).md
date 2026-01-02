@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ninotchka(1939)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939)|Ninotchka(1939)]] 
 
-### #is_/same_as :: [Ninotchka(1939).public](/_public/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).public|Ninotchka(1939).public]] 
 
-### #is_/same_as :: [Ninotchka(1939).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).internal|Ninotchka(1939).internal]] 
 
-### #is_/same_as :: [Ninotchka(1939).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).protect|Ninotchka(1939).protect]] 
 
-### #is_/same_as :: [Ninotchka(1939).private](/_private/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).private|Ninotchka(1939).private]] 
 
-### #is_/same_as :: [Ninotchka(1939).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).personal|Ninotchka(1939).personal]] 
 
-### #is_/same_as :: [Ninotchka(1939).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Lubitsch,Ernst/Ninotchka(1939).secret|Ninotchka(1939).secret]] 
 

@@ -37,17 +37,17 @@ A movie rental store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MovieRentalStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore|FileClass~MovieRentalStore]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.public|FileClass~MovieRentalStore.public]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.internal|FileClass~MovieRentalStore.internal]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.protect|FileClass~MovieRentalStore.protect]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.private|FileClass~MovieRentalStore.private]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.personal|FileClass~MovieRentalStore.personal]] 
 
-### #is_/same_as :: [FileClass~MovieRentalStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~MovieRentalStore.secret|FileClass~MovieRentalStore.secret]] 
 

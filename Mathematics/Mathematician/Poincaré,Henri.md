@@ -204,17 +204,17 @@ to reveal the essential Structure.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poincaré,Henri](/_Standards/Mathematics/Mathematician/Poincaré,Henri.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Poincaré,Henri|Poincaré,Henri]] 
 
-### #is_/same_as :: [Poincaré,Henri.public](/_public/Mathematics/Mathematician/Poincaré,Henri.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Poincaré,Henri.public|Poincaré,Henri.public]] 
 
-### #is_/same_as :: [Poincaré,Henri.internal](/_internal/Mathematics/Mathematician/Poincaré,Henri.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Poincaré,Henri.internal|Poincaré,Henri.internal]] 
 
-### #is_/same_as :: [Poincaré,Henri.protect](/_protect/Mathematics/Mathematician/Poincaré,Henri.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Poincaré,Henri.protect|Poincaré,Henri.protect]] 
 
-### #is_/same_as :: [Poincaré,Henri.private](/_private/Mathematics/Mathematician/Poincaré,Henri.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Poincaré,Henri.private|Poincaré,Henri.private]] 
 
-### #is_/same_as :: [Poincaré,Henri.personal](/_personal/Mathematics/Mathematician/Poincaré,Henri.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Poincaré,Henri.personal|Poincaré,Henri.personal]] 
 
-### #is_/same_as :: [Poincaré,Henri.secret](/_secret/Mathematics/Mathematician/Poincaré,Henri.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Poincaré,Henri.secret|Poincaré,Henri.secret]] 
 

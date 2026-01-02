@@ -62,17 +62,17 @@ IPTC_NewsCode: mediatopic/20000538
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leisure](/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Occupation/Leisure|Leisure]] 
 
-### #is_/same_as :: [Leisure.public](/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Occupation/Leisure.public|Leisure.public]] 
 
-### #is_/same_as :: [Leisure.internal](/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.internal|Leisure.internal]] 
 
-### #is_/same_as :: [Leisure.protect](/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Occupation/Leisure.protect|Leisure.protect]] 
 
-### #is_/same_as :: [Leisure.private](/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Occupation/Leisure.private|Leisure.private]] 
 
-### #is_/same_as :: [Leisure.personal](/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Occupation/Leisure.personal|Leisure.personal]] 
 
-### #is_/same_as :: [Leisure.secret](/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Occupation/Leisure.secret|Leisure.secret]] 
 

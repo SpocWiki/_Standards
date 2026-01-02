@@ -70,17 +70,17 @@ inception: 1787-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Don_Giovanni](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni|Don_Giovanni]] 
 
-### #is_/same_as :: [Don_Giovanni.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.public|Don_Giovanni.public]] 
 
-### #is_/same_as :: [Don_Giovanni.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.internal|Don_Giovanni.internal]] 
 
-### #is_/same_as :: [Don_Giovanni.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.protect|Don_Giovanni.protect]] 
 
-### #is_/same_as :: [Don_Giovanni.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.private|Don_Giovanni.private]] 
 
-### #is_/same_as :: [Don_Giovanni.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.personal|Don_Giovanni.personal]] 
 
-### #is_/same_as :: [Don_Giovanni.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/Don_Giovanni.secret|Don_Giovanni.secret]] 
 

@@ -27,17 +27,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Apollo%2011.%20Televis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moon_Landing](/_Standards/Earth/Satellite/Moon/Moon_Landing.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/Moon/Moon_Landing|Moon_Landing]] 
 
-### #is_/same_as :: [Moon_Landing.public](/_public/Earth/Satellite/Moon/Moon_Landing.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/Moon/Moon_Landing.public|Moon_Landing.public]] 
 
-### #is_/same_as :: [Moon_Landing.internal](/_internal/Earth/Satellite/Moon/Moon_Landing.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/Moon/Moon_Landing.internal|Moon_Landing.internal]] 
 
-### #is_/same_as :: [Moon_Landing.protect](/_protect/Earth/Satellite/Moon/Moon_Landing.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/Moon/Moon_Landing.protect|Moon_Landing.protect]] 
 
-### #is_/same_as :: [Moon_Landing.private](/_private/Earth/Satellite/Moon/Moon_Landing.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/Moon/Moon_Landing.private|Moon_Landing.private]] 
 
-### #is_/same_as :: [Moon_Landing.personal](/_personal/Earth/Satellite/Moon/Moon_Landing.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/Moon/Moon_Landing.personal|Moon_Landing.personal]] 
 
-### #is_/same_as :: [Moon_Landing.secret](/_secret/Earth/Satellite/Moon/Moon_Landing.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/Moon/Moon_Landing.secret|Moon_Landing.secret]] 
 

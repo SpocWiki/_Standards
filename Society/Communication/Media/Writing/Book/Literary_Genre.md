@@ -51,17 +51,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_literary_genre
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literary_Genre](/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre|Literary_Genre]] 
 
-### #is_/same_as :: [Literary_Genre.public](/_public/Society/Communication/Media/Writing/Book/Literary_Genre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literary_Genre.public|Literary_Genre.public]] 
 
-### #is_/same_as :: [Literary_Genre.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Genre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literary_Genre.internal|Literary_Genre.internal]] 
 
-### #is_/same_as :: [Literary_Genre.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Genre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literary_Genre.protect|Literary_Genre.protect]] 
 
-### #is_/same_as :: [Literary_Genre.private](/_private/Society/Communication/Media/Writing/Book/Literary_Genre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literary_Genre.private|Literary_Genre.private]] 
 
-### #is_/same_as :: [Literary_Genre.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Genre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literary_Genre.personal|Literary_Genre.personal]] 
 
-### #is_/same_as :: [Literary_Genre.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Genre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literary_Genre.secret|Literary_Genre.secret]] 
 

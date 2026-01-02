@@ -161,17 +161,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Byron,Lord](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord|Byron,Lord]] 
 
-### #is_/same_as :: [Byron,Lord.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.public|Byron,Lord.public]] 
 
-### #is_/same_as :: [Byron,Lord.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.internal|Byron,Lord.internal]] 
 
-### #is_/same_as :: [Byron,Lord.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.protect|Byron,Lord.protect]] 
 
-### #is_/same_as :: [Byron,Lord.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.private|Byron,Lord.private]] 
 
-### #is_/same_as :: [Byron,Lord.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.personal|Byron,Lord.personal]] 
 
-### #is_/same_as :: [Byron,Lord.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Byron,Lord.secret|Byron,Lord.secret]] 
 

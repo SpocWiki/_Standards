@@ -60,17 +60,17 @@ Harmonic Minor: 2,1,2,2,1,3,1.2,1
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Major_Scale](Major_Scale.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale|Major_Scale]] 
 
-### #is_/same_as :: [Major_Scale.public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.public|Major_Scale.public]] 
 
-### #is_/same_as :: [Major_Scale.internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.internal|Major_Scale.internal]] 
 
-### #is_/same_as :: [Major_Scale.protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.protect|Major_Scale.protect]] 
 
-### #is_/same_as :: [Major_Scale.private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.private|Major_Scale.private]] 
 
-### #is_/same_as :: [Major_Scale.personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.personal|Major_Scale.personal]] 
 
-### #is_/same_as :: [Major_Scale.secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Major_Scale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Diatonic_Scale/Major_Scale.secret|Major_Scale.secret]] 
 

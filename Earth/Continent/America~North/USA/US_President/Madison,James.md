@@ -51,17 +51,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Madison,James](/_Standards/Earth/Continent/America~North/US~President/Madison,James.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Madison,James|Madison,James]] 
 
-### #is_/same_as :: [Madison,James.public](/_public/Earth/Continent/America~North/US~President/Madison,James.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Madison,James.public|Madison,James.public]] 
 
-### #is_/same_as :: [Madison,James.internal](/_internal/Earth/Continent/America~North/US~President/Madison,James.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Madison,James.internal|Madison,James.internal]] 
 
-### #is_/same_as :: [Madison,James.protect](/_protect/Earth/Continent/America~North/US~President/Madison,James.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Madison,James.protect|Madison,James.protect]] 
 
-### #is_/same_as :: [Madison,James.private](/_private/Earth/Continent/America~North/US~President/Madison,James.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Madison,James.private|Madison,James.private]] 
 
-### #is_/same_as :: [Madison,James.personal](/_personal/Earth/Continent/America~North/US~President/Madison,James.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Madison,James.personal|Madison,James.personal]] 
 
-### #is_/same_as :: [Madison,James.secret](/_secret/Earth/Continent/America~North/US~President/Madison,James.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Madison,James.secret|Madison,James.secret]] 
 

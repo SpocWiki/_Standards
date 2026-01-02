@@ -86,17 +86,17 @@ UNSPSC_Code: 55101525
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Encyclopedia](/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia|Encyclopedia]] 
 
-### #is_/same_as :: [Encyclopedia.public](/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.public|Encyclopedia.public]] 
 
-### #is_/same_as :: [Encyclopedia.internal](/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.internal|Encyclopedia.internal]] 
 
-### #is_/same_as :: [Encyclopedia.protect](/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.protect|Encyclopedia.protect]] 
 
-### #is_/same_as :: [Encyclopedia.private](/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.private|Encyclopedia.private]] 
 
-### #is_/same_as :: [Encyclopedia.personal](/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.personal|Encyclopedia.personal]] 
 
-### #is_/same_as :: [Encyclopedia.secret](/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Digital_Document/Reference_Work/Encyclopedia.secret|Encyclopedia.secret]] 
 

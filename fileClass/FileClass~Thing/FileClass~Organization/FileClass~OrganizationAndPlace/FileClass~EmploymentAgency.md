@@ -37,17 +37,17 @@ An employment agency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~EmploymentAgency](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency|FileClass~EmploymentAgency]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.public|FileClass~EmploymentAgency.public]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.internal|FileClass~EmploymentAgency.internal]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.protect|FileClass~EmploymentAgency.protect]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.private|FileClass~EmploymentAgency.private]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.personal|FileClass~EmploymentAgency.personal]] 
 
-### #is_/same_as :: [FileClass~EmploymentAgency.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~EmploymentAgency.secret|FileClass~EmploymentAgency.secret]] 
 

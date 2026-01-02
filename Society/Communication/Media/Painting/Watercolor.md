@@ -72,17 +72,17 @@ Dewey_Decimal_Classification: 751.422
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watercolor](/_Standards/Society/Communication/Media/Painting/Watercolor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Watercolor|Watercolor]] 
 
-### #is_/same_as :: [Watercolor.public](/_public/Society/Communication/Media/Painting/Watercolor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Watercolor.public|Watercolor.public]] 
 
-### #is_/same_as :: [Watercolor.internal](/_internal/Society/Communication/Media/Painting/Watercolor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Watercolor.internal|Watercolor.internal]] 
 
-### #is_/same_as :: [Watercolor.protect](/_protect/Society/Communication/Media/Painting/Watercolor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Watercolor.protect|Watercolor.protect]] 
 
-### #is_/same_as :: [Watercolor.private](/_private/Society/Communication/Media/Painting/Watercolor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Watercolor.private|Watercolor.private]] 
 
-### #is_/same_as :: [Watercolor.personal](/_personal/Society/Communication/Media/Painting/Watercolor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Watercolor.personal|Watercolor.personal]] 
 
-### #is_/same_as :: [Watercolor.secret](/_secret/Society/Communication/Media/Painting/Watercolor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Watercolor.secret|Watercolor.secret]] 
 

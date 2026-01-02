@@ -66,17 +66,17 @@ Library_of_Congress_Classification: JC381
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Absolute_Monarchy](/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Monarchy/Absolute_Monarchy|Absolute_Monarchy]] 
 
-### #is_/same_as :: [Absolute_Monarchy.public](/_public/Society/Politics/Government/Monarchy/Absolute_Monarchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Monarchy/Absolute_Monarchy.public|Absolute_Monarchy.public]] 
 
-### #is_/same_as :: [Absolute_Monarchy.internal](/_internal/Society/Politics/Government/Monarchy/Absolute_Monarchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Monarchy/Absolute_Monarchy.internal|Absolute_Monarchy.internal]] 
 
-### #is_/same_as :: [Absolute_Monarchy.protect](/_protect/Society/Politics/Government/Monarchy/Absolute_Monarchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Monarchy/Absolute_Monarchy.protect|Absolute_Monarchy.protect]] 
 
-### #is_/same_as :: [Absolute_Monarchy.private](/_private/Society/Politics/Government/Monarchy/Absolute_Monarchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Monarchy/Absolute_Monarchy.private|Absolute_Monarchy.private]] 
 
-### #is_/same_as :: [Absolute_Monarchy.personal](/_personal/Society/Politics/Government/Monarchy/Absolute_Monarchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Monarchy/Absolute_Monarchy.personal|Absolute_Monarchy.personal]] 
 
-### #is_/same_as :: [Absolute_Monarchy.secret](/_secret/Society/Politics/Government/Monarchy/Absolute_Monarchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Monarchy/Absolute_Monarchy.secret|Absolute_Monarchy.secret]] 
 

@@ -609,17 +609,17 @@ Capital ::[[Cairo]]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egypt](/_Standards/Earth/Continent/Africa/Africa~North/Egypt.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Egypt|Egypt]] 
 
-### #is_/same_as :: [Egypt.public](/_public/Earth/Continent/Africa/Africa~North/Egypt.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Egypt.public|Egypt.public]] 
 
-### #is_/same_as :: [Egypt.internal](/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Egypt.internal|Egypt.internal]] 
 
-### #is_/same_as :: [Egypt.protect](/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Egypt.protect|Egypt.protect]] 
 
-### #is_/same_as :: [Egypt.private](/_private/Earth/Continent/Africa/Africa~North/Egypt.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Egypt.private|Egypt.private]] 
 
-### #is_/same_as :: [Egypt.personal](/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Egypt.personal|Egypt.personal]] 
 
-### #is_/same_as :: [Egypt.secret](/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Egypt.secret|Egypt.secret]] 
 

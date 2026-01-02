@@ -122,17 +122,17 @@ Commons_gallery: Tour de France
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tour_de_France](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France|Tour_de_France]] 
 
-### #is_/same_as :: [Tour_de_France.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.public|Tour_de_France.public]] 
 
-### #is_/same_as :: [Tour_de_France.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.internal|Tour_de_France.internal]] 
 
-### #is_/same_as :: [Tour_de_France.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.protect|Tour_de_France.protect]] 
 
-### #is_/same_as :: [Tour_de_France.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.private|Tour_de_France.private]] 
 
-### #is_/same_as :: [Tour_de_France.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.personal|Tour_de_France.personal]] 
 
-### #is_/same_as :: [Tour_de_France.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Tour_de_France.secret|Tour_de_France.secret]] 
 

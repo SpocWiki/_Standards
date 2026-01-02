@@ -86,17 +86,17 @@ IEV_number: 113-04-20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internal_Energy](/_Standards/Dimension/Energy/Internal_Energy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Internal_Energy|Internal_Energy]] 
 
-### #is_/same_as :: [Internal_Energy.public](/_public/Dimension/Energy/Internal_Energy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Internal_Energy.public|Internal_Energy.public]] 
 
-### #is_/same_as :: [Internal_Energy.internal](/_internal/Dimension/Energy/Internal_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Internal_Energy.internal|Internal_Energy.internal]] 
 
-### #is_/same_as :: [Internal_Energy.protect](/_protect/Dimension/Energy/Internal_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Internal_Energy.protect|Internal_Energy.protect]] 
 
-### #is_/same_as :: [Internal_Energy.private](/_private/Dimension/Energy/Internal_Energy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Internal_Energy.private|Internal_Energy.private]] 
 
-### #is_/same_as :: [Internal_Energy.personal](/_personal/Dimension/Energy/Internal_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Internal_Energy.personal|Internal_Energy.personal]] 
 
-### #is_/same_as :: [Internal_Energy.secret](/_secret/Dimension/Energy/Internal_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Internal_Energy.secret|Internal_Energy.secret]] 
 

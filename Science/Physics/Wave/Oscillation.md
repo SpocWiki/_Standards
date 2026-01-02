@@ -67,17 +67,17 @@ Commons_category: Oscillation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oscillation](/_Standards/Science/Physics/Wave/Oscillation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Oscillation|Oscillation]] 
 
-### #is_/same_as :: [Oscillation.public](/_public/Science/Physics/Wave/Oscillation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Oscillation.public|Oscillation.public]] 
 
-### #is_/same_as :: [Oscillation.internal](/_internal/Science/Physics/Wave/Oscillation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Oscillation.internal|Oscillation.internal]] 
 
-### #is_/same_as :: [Oscillation.protect](/_protect/Science/Physics/Wave/Oscillation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Oscillation.protect|Oscillation.protect]] 
 
-### #is_/same_as :: [Oscillation.private](/_private/Science/Physics/Wave/Oscillation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Oscillation.private|Oscillation.private]] 
 
-### #is_/same_as :: [Oscillation.personal](/_personal/Science/Physics/Wave/Oscillation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Oscillation.personal|Oscillation.personal]] 
 
-### #is_/same_as :: [Oscillation.secret](/_secret/Science/Physics/Wave/Oscillation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Oscillation.secret|Oscillation.secret]] 
 

@@ -151,17 +151,17 @@ Libris_URI: 42gjc2fn37mlq4h
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balzac,Honoré_de](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de|Balzac,Honoré_de]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.public|Balzac,Honoré_de.public]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.internal|Balzac,Honoré_de.internal]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.protect|Balzac,Honoré_de.protect]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.private|Balzac,Honoré_de.private]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.personal|Balzac,Honoré_de.personal]] 
 
-### #is_/same_as :: [Balzac,Honoré_de.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Balzac,Honoré_de.secret|Balzac,Honoré_de.secret]] 
 

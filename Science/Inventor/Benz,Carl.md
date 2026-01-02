@@ -85,17 +85,17 @@ Commons_category: Carl Benz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benz,Carl](/_Standards/Science/Inventor/Benz,Carl.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Benz,Carl|Benz,Carl]] 
 
-### #is_/same_as :: [Benz,Carl.public](/_public/Science/Inventor/Benz,Carl.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Benz,Carl.public|Benz,Carl.public]] 
 
-### #is_/same_as :: [Benz,Carl.internal](/_internal/Science/Inventor/Benz,Carl.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Benz,Carl.internal|Benz,Carl.internal]] 
 
-### #is_/same_as :: [Benz,Carl.protect](/_protect/Science/Inventor/Benz,Carl.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Benz,Carl.protect|Benz,Carl.protect]] 
 
-### #is_/same_as :: [Benz,Carl.private](/_private/Science/Inventor/Benz,Carl.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Benz,Carl.private|Benz,Carl.private]] 
 
-### #is_/same_as :: [Benz,Carl.personal](/_personal/Science/Inventor/Benz,Carl.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Benz,Carl.personal|Benz,Carl.personal]] 
 
-### #is_/same_as :: [Benz,Carl.secret](/_secret/Science/Inventor/Benz,Carl.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Benz,Carl.secret|Benz,Carl.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: Die casting
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Die_casting](/_Standards/Technology/Engineering/Mechanical_Engineering/Die_casting.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Die_casting|Die_casting]] 
 
-### #is_/same_as :: [Die_casting.public](/_public/Technology/Engineering/Mechanical_Engineering/Die_casting.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Die_casting.public|Die_casting.public]] 
 
-### #is_/same_as :: [Die_casting.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Die_casting.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Die_casting.internal|Die_casting.internal]] 
 
-### #is_/same_as :: [Die_casting.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Die_casting.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Die_casting.protect|Die_casting.protect]] 
 
-### #is_/same_as :: [Die_casting.private](/_private/Technology/Engineering/Mechanical_Engineering/Die_casting.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Die_casting.private|Die_casting.private]] 
 
-### #is_/same_as :: [Die_casting.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Die_casting.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Die_casting.personal|Die_casting.personal]] 
 
-### #is_/same_as :: [Die_casting.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Die_casting.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Die_casting.secret|Die_casting.secret]] 
 

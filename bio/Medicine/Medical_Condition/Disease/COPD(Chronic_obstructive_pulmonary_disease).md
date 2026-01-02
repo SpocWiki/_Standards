@@ -159,17 +159,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease)](/_Standards/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease)|COPD(Chronic_obstructive_pulmonary_disease)]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).public](/_public/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).public|COPD(Chronic_obstructive_pulmonary_disease).public]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).internal](/_internal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).internal|COPD(Chronic_obstructive_pulmonary_disease).internal]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).protect](/_protect/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).protect|COPD(Chronic_obstructive_pulmonary_disease).protect]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).private](/_private/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).private|COPD(Chronic_obstructive_pulmonary_disease).private]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).personal](/_personal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).personal|COPD(Chronic_obstructive_pulmonary_disease).personal]] 
 
-### #is_/same_as :: [COPD(Chronic_obstructive_pulmonary_disease).secret](/_secret/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/COPD(Chronic_obstructive_pulmonary_disease).secret|COPD(Chronic_obstructive_pulmonary_disease).secret]] 
 

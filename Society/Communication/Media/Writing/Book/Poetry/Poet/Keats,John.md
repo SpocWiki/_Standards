@@ -104,17 +104,17 @@ Libris_URI: 64jlmv9q3n1735f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Keats,John](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John|Keats,John]] 
 
-### #is_/same_as :: [Keats,John.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.public|Keats,John.public]] 
 
-### #is_/same_as :: [Keats,John.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.internal|Keats,John.internal]] 
 
-### #is_/same_as :: [Keats,John.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.protect|Keats,John.protect]] 
 
-### #is_/same_as :: [Keats,John.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.private|Keats,John.private]] 
 
-### #is_/same_as :: [Keats,John.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.personal|Keats,John.personal]] 
 
-### #is_/same_as :: [Keats,John.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Keats,John.secret|Keats,John.secret]] 
 

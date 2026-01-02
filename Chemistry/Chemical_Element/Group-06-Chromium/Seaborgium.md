@@ -59,17 +59,17 @@ DSSTOX_compound_identifier: DTXCID501323012
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seaborgium](/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium|Seaborgium]] 
 
-### #is_/same_as :: [Seaborgium.public](/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.public|Seaborgium.public]] 
 
-### #is_/same_as :: [Seaborgium.internal](/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.internal|Seaborgium.internal]] 
 
-### #is_/same_as :: [Seaborgium.protect](/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.protect|Seaborgium.protect]] 
 
-### #is_/same_as :: [Seaborgium.private](/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.private|Seaborgium.private]] 
 
-### #is_/same_as :: [Seaborgium.personal](/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.personal|Seaborgium.personal]] 
 
-### #is_/same_as :: [Seaborgium.secret](/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Seaborgium.secret|Seaborgium.secret]] 
 

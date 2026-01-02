@@ -235,17 +235,17 @@ A car is a wheeled, self-powered motor [[../Vehicle|vehicle]] used for transport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Car](/_Standards/Technology/Transport/Road_Transport/Car.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Car|Car]] 
 
-### #is_/same_as :: [Car.public](/_public/Technology/Transport/Road_Transport/Car.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Car.public|Car.public]] 
 
-### #is_/same_as :: [Car.internal](/_internal/Technology/Transport/Road_Transport/Car.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Car.internal|Car.internal]] 
 
-### #is_/same_as :: [Car.protect](/_protect/Technology/Transport/Road_Transport/Car.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Car.protect|Car.protect]] 
 
-### #is_/same_as :: [Car.private](/_private/Technology/Transport/Road_Transport/Car.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Car.private|Car.private]] 
 
-### #is_/same_as :: [Car.personal](/_personal/Technology/Transport/Road_Transport/Car.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Car.personal|Car.personal]] 
 
-### #is_/same_as :: [Car.secret](/_secret/Technology/Transport/Road_Transport/Car.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Car.secret|Car.secret]] 
 

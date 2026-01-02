@@ -122,17 +122,17 @@ UNII: W90AYD6R3Q
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium|Radium]] 
 
-### #is_/same_as :: [Radium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public|Radium.public]] 
 
-### #is_/same_as :: [Radium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]] 
 
-### #is_/same_as :: [Radium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.protect|Radium.protect]] 
 
-### #is_/same_as :: [Radium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.private|Radium.private]] 
 
-### #is_/same_as :: [Radium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.personal|Radium.personal]] 
 
-### #is_/same_as :: [Radium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]] 
 

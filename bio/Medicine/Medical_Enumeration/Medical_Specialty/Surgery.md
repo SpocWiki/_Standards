@@ -56,17 +56,17 @@ OpenStreetMap_tag: healthcare:speciality=surgery
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surgery](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery|Surgery]] 
 
-### #is_/same_as :: [Surgery.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.public|Surgery.public]] 
 
-### #is_/same_as :: [Surgery.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.internal|Surgery.internal]] 
 
-### #is_/same_as :: [Surgery.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.protect|Surgery.protect]] 
 
-### #is_/same_as :: [Surgery.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.private|Surgery.private]] 
 
-### #is_/same_as :: [Surgery.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.personal|Surgery.personal]] 
 
-### #is_/same_as :: [Surgery.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Surgery.secret|Surgery.secret]] 
 

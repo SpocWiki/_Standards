@@ -69,17 +69,17 @@ Commons_category: Extraterrestrial life
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Extraterrestrial_Life](/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrobiology/Extraterrestrial_Life|Extraterrestrial_Life]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.public](/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrobiology/Extraterrestrial_Life.public|Extraterrestrial_Life.public]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.internal](/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrobiology/Extraterrestrial_Life.internal|Extraterrestrial_Life.internal]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.protect](/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrobiology/Extraterrestrial_Life.protect|Extraterrestrial_Life.protect]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.private](/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrobiology/Extraterrestrial_Life.private|Extraterrestrial_Life.private]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.personal](/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrobiology/Extraterrestrial_Life.personal|Extraterrestrial_Life.personal]] 
 
-### #is_/same_as :: [Extraterrestrial_Life.secret](/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrobiology/Extraterrestrial_Life.secret|Extraterrestrial_Life.secret]] 
 

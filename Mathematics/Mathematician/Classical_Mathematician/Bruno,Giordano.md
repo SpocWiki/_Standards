@@ -125,17 +125,17 @@ Krugosvet_article: nauka_i_tehnika/astronomiya/BRUNO_DZHORDANO.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bruno,Giordano](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano|Bruno,Giordano]] 
 
-### #is_/same_as :: [Bruno,Giordano.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.public|Bruno,Giordano.public]] 
 
-### #is_/same_as :: [Bruno,Giordano.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.internal|Bruno,Giordano.internal]] 
 
-### #is_/same_as :: [Bruno,Giordano.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.protect|Bruno,Giordano.protect]] 
 
-### #is_/same_as :: [Bruno,Giordano.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.private|Bruno,Giordano.private]] 
 
-### #is_/same_as :: [Bruno,Giordano.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.personal|Bruno,Giordano.personal]] 
 
-### #is_/same_as :: [Bruno,Giordano.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Bruno,Giordano.secret|Bruno,Giordano.secret]] 
 

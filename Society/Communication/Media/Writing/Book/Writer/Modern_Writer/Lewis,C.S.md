@@ -181,17 +181,17 @@ subreddit: CSLewis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lewis,C.S](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S|Lewis,C.S]] 
 
-### #is_/same_as :: [Lewis,C.S.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.public|Lewis,C.S.public]] 
 
-### #is_/same_as :: [Lewis,C.S.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.internal|Lewis,C.S.internal]] 
 
-### #is_/same_as :: [Lewis,C.S.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.protect|Lewis,C.S.protect]] 
 
-### #is_/same_as :: [Lewis,C.S.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.private|Lewis,C.S.private]] 
 
-### #is_/same_as :: [Lewis,C.S.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.personal|Lewis,C.S.personal]] 
 
-### #is_/same_as :: [Lewis,C.S.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lewis,C.S.secret|Lewis,C.S.secret]] 
 

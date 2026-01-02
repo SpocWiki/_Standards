@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_nsn](/_Standards/schema-org/Property/has_name/has_nsn.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_nsn|has_nsn]] 
 
-### #is_/same_as :: [has_nsn.public](/_public/schema-org/Property/has_name/has_nsn.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_nsn.public|has_nsn.public]] 
 
-### #is_/same_as :: [has_nsn.internal](/_internal/schema-org/Property/has_name/has_nsn.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_nsn.internal|has_nsn.internal]] 
 
-### #is_/same_as :: [has_nsn.protect](/_protect/schema-org/Property/has_name/has_nsn.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_nsn.protect|has_nsn.protect]] 
 
-### #is_/same_as :: [has_nsn.private](/_private/schema-org/Property/has_name/has_nsn.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_nsn.private|has_nsn.private]] 
 
-### #is_/same_as :: [has_nsn.personal](/_personal/schema-org/Property/has_name/has_nsn.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_nsn.personal|has_nsn.personal]] 
 
-### #is_/same_as :: [has_nsn.secret](/_secret/schema-org/Property/has_name/has_nsn.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_nsn.secret|has_nsn.secret]] 
 

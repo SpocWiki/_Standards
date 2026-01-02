@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forrest_Gump](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump|Forrest_Gump]] 
 
-### #is_/same_as :: [Forrest_Gump.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.public|Forrest_Gump.public]] 
 
-### #is_/same_as :: [Forrest_Gump.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.internal|Forrest_Gump.internal]] 
 
-### #is_/same_as :: [Forrest_Gump.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.protect|Forrest_Gump.protect]] 
 
-### #is_/same_as :: [Forrest_Gump.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.private|Forrest_Gump.private]] 
 
-### #is_/same_as :: [Forrest_Gump.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.personal|Forrest_Gump.personal]] 
 
-### #is_/same_as :: [Forrest_Gump.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Forrest_Gump.secret|Forrest_Gump.secret]] 
 

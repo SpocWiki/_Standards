@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Background_Extinction_Rate](/_Standards/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate|Background_Extinction_Rate]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.public](/_public/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.public|Background_Extinction_Rate.public]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.internal](/_internal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.internal|Background_Extinction_Rate.internal]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.protect](/_protect/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.protect|Background_Extinction_Rate.protect]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.private](/_private/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.private|Background_Extinction_Rate.private]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.personal](/_personal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.personal|Background_Extinction_Rate.personal]] 
 
-### #is_/same_as :: [Background_Extinction_Rate.secret](/_secret/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Extinction/Extinction_Event/Background_Extinction_Rate.secret|Background_Extinction_Rate.secret]] 
 

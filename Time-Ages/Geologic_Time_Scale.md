@@ -39,17 +39,17 @@ Commons_category: Geologic time scale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geologic_Time_Scale](/_Standards/Time-Ages/Geologic_Time_Scale.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/Geologic_Time_Scale|Geologic_Time_Scale]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.public](/_public/Time-Ages/Geologic_Time_Scale.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/Geologic_Time_Scale.public|Geologic_Time_Scale.public]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.internal](/_internal/Time-Ages/Geologic_Time_Scale.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/Geologic_Time_Scale.internal|Geologic_Time_Scale.internal]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.protect](/_protect/Time-Ages/Geologic_Time_Scale.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/Geologic_Time_Scale.protect|Geologic_Time_Scale.protect]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.private](/_private/Time-Ages/Geologic_Time_Scale.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/Geologic_Time_Scale.private|Geologic_Time_Scale.private]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.personal](/_personal/Time-Ages/Geologic_Time_Scale.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/Geologic_Time_Scale.personal|Geologic_Time_Scale.personal]] 
 
-### #is_/same_as :: [Geologic_Time_Scale.secret](/_secret/Time-Ages/Geologic_Time_Scale.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/Geologic_Time_Scale.secret|Geologic_Time_Scale.secret]] 
 

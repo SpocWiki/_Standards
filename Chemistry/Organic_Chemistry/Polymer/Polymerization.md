@@ -48,17 +48,17 @@ Commons_category: Polymerization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polymerization](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymerization|Polymerization]] 
 
-### #is_/same_as :: [Polymerization.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Polymer/Polymerization.public|Polymerization.public]] 
 
-### #is_/same_as :: [Polymerization.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymerization.internal|Polymerization.internal]] 
 
-### #is_/same_as :: [Polymerization.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymerization.protect|Polymerization.protect]] 
 
-### #is_/same_as :: [Polymerization.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Polymer/Polymerization.private|Polymerization.private]] 
 
-### #is_/same_as :: [Polymerization.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymerization.personal|Polymerization.personal]] 
 
-### #is_/same_as :: [Polymerization.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymerization.secret|Polymerization.secret]] 
 

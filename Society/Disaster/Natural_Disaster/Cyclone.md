@@ -76,17 +76,17 @@ Krugosvet_article_archived_: geografiya/tsiklon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclone](/_Standards/Society/Disaster/Natural_Disaster/Cyclone.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Cyclone|Cyclone]] 
 
-### #is_/same_as :: [Cyclone.public](/_public/Society/Disaster/Natural_Disaster/Cyclone.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Cyclone.public|Cyclone.public]] 
 
-### #is_/same_as :: [Cyclone.internal](/_internal/Society/Disaster/Natural_Disaster/Cyclone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Cyclone.internal|Cyclone.internal]] 
 
-### #is_/same_as :: [Cyclone.protect](/_protect/Society/Disaster/Natural_Disaster/Cyclone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Cyclone.protect|Cyclone.protect]] 
 
-### #is_/same_as :: [Cyclone.private](/_private/Society/Disaster/Natural_Disaster/Cyclone.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Cyclone.private|Cyclone.private]] 
 
-### #is_/same_as :: [Cyclone.personal](/_personal/Society/Disaster/Natural_Disaster/Cyclone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Cyclone.personal|Cyclone.personal]] 
 
-### #is_/same_as :: [Cyclone.secret](/_secret/Society/Disaster/Natural_Disaster/Cyclone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Cyclone.secret|Cyclone.secret]] 
 

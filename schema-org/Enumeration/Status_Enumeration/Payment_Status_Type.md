@@ -39,17 +39,17 @@ A specific payment status. For example, PaymentDue, PaymentComplete, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Status_Type](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type|Payment_Status_Type]] 
 
-### #is_/same_as :: [Payment_Status_Type.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.public|Payment_Status_Type.public]] 
 
-### #is_/same_as :: [Payment_Status_Type.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.internal|Payment_Status_Type.internal]] 
 
-### #is_/same_as :: [Payment_Status_Type.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.protect|Payment_Status_Type.protect]] 
 
-### #is_/same_as :: [Payment_Status_Type.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.private|Payment_Status_Type.private]] 
 
-### #is_/same_as :: [Payment_Status_Type.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.personal|Payment_Status_Type.personal]] 
 
-### #is_/same_as :: [Payment_Status_Type.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type.secret|Payment_Status_Type.secret]] 
 

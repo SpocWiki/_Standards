@@ -152,17 +152,17 @@ U_S_National_Archives_Identifier: 10583107
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bergman,Ingrid](/_Standards/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Bergman,Ingrid|Bergman,Ingrid]] 
 
-### #is_/same_as :: [Bergman,Ingrid.public](/_public/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.public|Bergman,Ingrid.public]] 
 
-### #is_/same_as :: [Bergman,Ingrid.internal](/_internal/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.internal|Bergman,Ingrid.internal]] 
 
-### #is_/same_as :: [Bergman,Ingrid.protect](/_protect/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.protect|Bergman,Ingrid.protect]] 
 
-### #is_/same_as :: [Bergman,Ingrid.private](/_private/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.private|Bergman,Ingrid.private]] 
 
-### #is_/same_as :: [Bergman,Ingrid.personal](/_personal/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.personal|Bergman,Ingrid.personal]] 
 
-### #is_/same_as :: [Bergman,Ingrid.secret](/_secret/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Bergman,Ingrid.secret|Bergman,Ingrid.secret]] 
 

@@ -64,17 +64,17 @@ name_in_native_language: Ferdinand Gotthold Max Eisenstein
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eisenstein,Gotthold](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold|Eisenstein,Gotthold]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.public|Eisenstein,Gotthold.public]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.internal|Eisenstein,Gotthold.internal]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.protect|Eisenstein,Gotthold.protect]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.private|Eisenstein,Gotthold.private]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.personal|Eisenstein,Gotthold.personal]] 
 
-### #is_/same_as :: [Eisenstein,Gotthold.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Eisenstein,Gotthold.secret|Eisenstein,Gotthold.secret]] 
 

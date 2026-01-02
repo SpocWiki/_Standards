@@ -64,17 +64,17 @@ MeSH_tree_code: G01.906.345
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Entropy](/_Standards/Dimension/Energy/Entropy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Entropy|Entropy]] 
 
-### #is_/same_as :: [Entropy.public](/_public/Dimension/Energy/Entropy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Entropy.public|Entropy.public]] 
 
-### #is_/same_as :: [Entropy.internal](/_internal/Dimension/Energy/Entropy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Entropy.internal|Entropy.internal]] 
 
-### #is_/same_as :: [Entropy.protect](/_protect/Dimension/Energy/Entropy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Entropy.protect|Entropy.protect]] 
 
-### #is_/same_as :: [Entropy.private](/_private/Dimension/Energy/Entropy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Entropy.private|Entropy.private]] 
 
-### #is_/same_as :: [Entropy.personal](/_personal/Dimension/Energy/Entropy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Entropy.personal|Entropy.personal]] 
 
-### #is_/same_as :: [Entropy.secret](/_secret/Dimension/Energy/Entropy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Entropy.secret|Entropy.secret]] 
 

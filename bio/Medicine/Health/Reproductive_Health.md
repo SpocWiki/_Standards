@@ -44,17 +44,17 @@ MeSH_tree_code: N01.400.625
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reproductive_Health](/_Standards/bio/Medicine/Health/Reproductive_Health.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Reproductive_Health|Reproductive_Health]] 
 
-### #is_/same_as :: [Reproductive_Health.public](/_public/bio/Medicine/Health/Reproductive_Health.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Reproductive_Health.public|Reproductive_Health.public]] 
 
-### #is_/same_as :: [Reproductive_Health.internal](/_internal/bio/Medicine/Health/Reproductive_Health.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Reproductive_Health.internal|Reproductive_Health.internal]] 
 
-### #is_/same_as :: [Reproductive_Health.protect](/_protect/bio/Medicine/Health/Reproductive_Health.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Reproductive_Health.protect|Reproductive_Health.protect]] 
 
-### #is_/same_as :: [Reproductive_Health.private](/_private/bio/Medicine/Health/Reproductive_Health.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Reproductive_Health.private|Reproductive_Health.private]] 
 
-### #is_/same_as :: [Reproductive_Health.personal](/_personal/bio/Medicine/Health/Reproductive_Health.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Reproductive_Health.personal|Reproductive_Health.personal]] 
 
-### #is_/same_as :: [Reproductive_Health.secret](/_secret/bio/Medicine/Health/Reproductive_Health.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Reproductive_Health.secret|Reproductive_Health.secret]] 
 

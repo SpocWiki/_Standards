@@ -37,17 +37,17 @@ Commons_category: Bivectors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BiVector](/_Standards/Mathematics/Geometry/Geometric_Algebra/BiVector.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometric_Algebra/BiVector|BiVector]] 
 
-### #is_/same_as :: [BiVector.public](/_public/Mathematics/Geometry/Geometric_Algebra/BiVector.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometric_Algebra/BiVector.public|BiVector.public]] 
 
-### #is_/same_as :: [BiVector.internal](/_internal/Mathematics/Geometry/Geometric_Algebra/BiVector.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometric_Algebra/BiVector.internal|BiVector.internal]] 
 
-### #is_/same_as :: [BiVector.protect](/_protect/Mathematics/Geometry/Geometric_Algebra/BiVector.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometric_Algebra/BiVector.protect|BiVector.protect]] 
 
-### #is_/same_as :: [BiVector.private](/_private/Mathematics/Geometry/Geometric_Algebra/BiVector.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometric_Algebra/BiVector.private|BiVector.private]] 
 
-### #is_/same_as :: [BiVector.personal](/_personal/Mathematics/Geometry/Geometric_Algebra/BiVector.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometric_Algebra/BiVector.personal|BiVector.personal]] 
 
-### #is_/same_as :: [BiVector.secret](/_secret/Mathematics/Geometry/Geometric_Algebra/BiVector.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometric_Algebra/BiVector.secret|BiVector.secret]] 
 

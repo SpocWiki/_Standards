@@ -195,17 +195,17 @@ Colloquially, Business is anything that keeps you occupied / busy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business](/_Standards/Society/Agent/Community/Organization/Business.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business|Business]] 
 
-### #is_/same_as :: [Business.public](/_public/Society/Agent/Community/Organization/Business.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business.public|Business.public]] 
 
-### #is_/same_as :: [Business.internal](/_internal/Society/Agent/Community/Organization/Business.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business.internal|Business.internal]] 
 
-### #is_/same_as :: [Business.protect](/_protect/Society/Agent/Community/Organization/Business.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business.protect|Business.protect]] 
 
-### #is_/same_as :: [Business.private](/_private/Society/Agent/Community/Organization/Business.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business.private|Business.private]] 
 
-### #is_/same_as :: [Business.personal](/_personal/Society/Agent/Community/Organization/Business.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business.personal|Business.personal]] 
 
-### #is_/same_as :: [Business.secret](/_secret/Society/Agent/Community/Organization/Business.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business.secret|Business.secret]] 
 

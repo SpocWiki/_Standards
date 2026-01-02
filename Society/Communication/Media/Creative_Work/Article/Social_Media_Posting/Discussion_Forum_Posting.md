@@ -41,17 +41,17 @@ A posting to a discussion forum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discussion_Forum_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting|Discussion_Forum_Posting]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.public|Discussion_Forum_Posting.public]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.internal|Discussion_Forum_Posting.internal]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.protect|Discussion_Forum_Posting.protect]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.private|Discussion_Forum_Posting.private]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.personal|Discussion_Forum_Posting.personal]] 
 
-### #is_/same_as :: [Discussion_Forum_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Discussion_Forum_Posting.secret|Discussion_Forum_Posting.secret]] 
 

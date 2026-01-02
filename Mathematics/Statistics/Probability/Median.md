@@ -45,17 +45,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Median](/_Standards/Mathematics/Statistics/Probability/Median.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Median|Median]] 
 
-### #is_/same_as :: [Median.public](/_public/Mathematics/Statistics/Probability/Median.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Median.public|Median.public]] 
 
-### #is_/same_as :: [Median.internal](/_internal/Mathematics/Statistics/Probability/Median.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Median.internal|Median.internal]] 
 
-### #is_/same_as :: [Median.protect](/_protect/Mathematics/Statistics/Probability/Median.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Median.protect|Median.protect]] 
 
-### #is_/same_as :: [Median.private](/_private/Mathematics/Statistics/Probability/Median.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Median.private|Median.private]] 
 
-### #is_/same_as :: [Median.personal](/_personal/Mathematics/Statistics/Probability/Median.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Median.personal|Median.personal]] 
 
-### #is_/same_as :: [Median.secret](/_secret/Mathematics/Statistics/Probability/Median.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Median.secret|Median.secret]] 
 

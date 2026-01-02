@@ -71,17 +71,17 @@ date_of_birth: 1914-05-29T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tenzing_Norgay](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay|Tenzing_Norgay]] 
 
-### #is_/same_as :: [Tenzing_Norgay.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.public|Tenzing_Norgay.public]] 
 
-### #is_/same_as :: [Tenzing_Norgay.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.internal|Tenzing_Norgay.internal]] 
 
-### #is_/same_as :: [Tenzing_Norgay.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.protect|Tenzing_Norgay.protect]] 
 
-### #is_/same_as :: [Tenzing_Norgay.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.private|Tenzing_Norgay.private]] 
 
-### #is_/same_as :: [Tenzing_Norgay.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.personal|Tenzing_Norgay.personal]] 
 
-### #is_/same_as :: [Tenzing_Norgay.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Mountaineering/Tenzing_Norgay.secret|Tenzing_Norgay.secret]] 
 

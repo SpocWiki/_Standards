@@ -42,17 +42,17 @@ Physical activity of relatively low intensity that depends primarily on the aero
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aerobic_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity|Aerobic_Activity]] 
 
-### #is_/same_as :: [Aerobic_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.public|Aerobic_Activity.public]] 
 
-### #is_/same_as :: [Aerobic_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.internal|Aerobic_Activity.internal]] 
 
-### #is_/same_as :: [Aerobic_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.protect|Aerobic_Activity.protect]] 
 
-### #is_/same_as :: [Aerobic_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.private|Aerobic_Activity.private]] 
 
-### #is_/same_as :: [Aerobic_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.personal|Aerobic_Activity.personal]] 
 
-### #is_/same_as :: [Aerobic_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Aerobic_Activity.secret|Aerobic_Activity.secret]] 
 

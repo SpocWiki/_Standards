@@ -49,17 +49,17 @@ Commons_category: Crusader states
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1098-Crusader_States](/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/1098-Crusader_States|1098-Crusader_States]] 
 
-### #is_/same_as :: [1098-Crusader_States.public](/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/1098-Crusader_States.public|1098-Crusader_States.public]] 
 
-### #is_/same_as :: [1098-Crusader_States.internal](/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.internal|1098-Crusader_States.internal]] 
 
-### #is_/same_as :: [1098-Crusader_States.protect](/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/1098-Crusader_States.protect|1098-Crusader_States.protect]] 
 
-### #is_/same_as :: [1098-Crusader_States.private](/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/1098-Crusader_States.private|1098-Crusader_States.private]] 
 
-### #is_/same_as :: [1098-Crusader_States.personal](/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/1098-Crusader_States.personal|1098-Crusader_States.personal]] 
 
-### #is_/same_as :: [1098-Crusader_States.secret](/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/1098-Crusader_States.secret|1098-Crusader_States.secret]] 
 

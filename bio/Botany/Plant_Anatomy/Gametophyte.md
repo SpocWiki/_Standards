@@ -33,17 +33,17 @@ Commons_category: Gametophytes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gametophyte](/_Standards/bio/Botany/Plant_Anatomy/Gametophyte.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Gametophyte|Gametophyte]] 
 
-### #is_/same_as :: [Gametophyte.public](/_public/bio/Botany/Plant_Anatomy/Gametophyte.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Gametophyte.public|Gametophyte.public]] 
 
-### #is_/same_as :: [Gametophyte.internal](/_internal/bio/Botany/Plant_Anatomy/Gametophyte.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Gametophyte.internal|Gametophyte.internal]] 
 
-### #is_/same_as :: [Gametophyte.protect](/_protect/bio/Botany/Plant_Anatomy/Gametophyte.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Gametophyte.protect|Gametophyte.protect]] 
 
-### #is_/same_as :: [Gametophyte.private](/_private/bio/Botany/Plant_Anatomy/Gametophyte.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Gametophyte.private|Gametophyte.private]] 
 
-### #is_/same_as :: [Gametophyte.personal](/_personal/bio/Botany/Plant_Anatomy/Gametophyte.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Gametophyte.personal|Gametophyte.personal]] 
 
-### #is_/same_as :: [Gametophyte.secret](/_secret/bio/Botany/Plant_Anatomy/Gametophyte.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Gametophyte.secret|Gametophyte.secret]] 
 

@@ -83,17 +83,17 @@ Commons_category: Diplomats
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diplomat](/_Standards/Society/Politics/Diplomacy/Diplomat.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Diplomacy/Diplomat|Diplomat]] 
 
-### #is_/same_as :: [Diplomat.public](/_public/Society/Politics/Diplomacy/Diplomat.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Diplomacy/Diplomat.public|Diplomat.public]] 
 
-### #is_/same_as :: [Diplomat.internal](/_internal/Society/Politics/Diplomacy/Diplomat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Diplomacy/Diplomat.internal|Diplomat.internal]] 
 
-### #is_/same_as :: [Diplomat.protect](/_protect/Society/Politics/Diplomacy/Diplomat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Diplomacy/Diplomat.protect|Diplomat.protect]] 
 
-### #is_/same_as :: [Diplomat.private](/_private/Society/Politics/Diplomacy/Diplomat.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Diplomacy/Diplomat.private|Diplomat.private]] 
 
-### #is_/same_as :: [Diplomat.personal](/_personal/Society/Politics/Diplomacy/Diplomat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Diplomacy/Diplomat.personal|Diplomat.personal]] 
 
-### #is_/same_as :: [Diplomat.secret](/_secret/Society/Politics/Diplomacy/Diplomat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Diplomacy/Diplomat.secret|Diplomat.secret]] 
 

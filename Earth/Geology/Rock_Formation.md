@@ -43,17 +43,17 @@ Commons_category: Geologic formations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rock_Formation](/_Standards/Earth/Geology/Rock_Formation.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Rock_Formation|Rock_Formation]] 
 
-### #is_/same_as :: [Rock_Formation.public](/_public/Earth/Geology/Rock_Formation.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Rock_Formation.public|Rock_Formation.public]] 
 
-### #is_/same_as :: [Rock_Formation.internal](/_internal/Earth/Geology/Rock_Formation.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Rock_Formation.internal|Rock_Formation.internal]] 
 
-### #is_/same_as :: [Rock_Formation.protect](/_protect/Earth/Geology/Rock_Formation.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Rock_Formation.protect|Rock_Formation.protect]] 
 
-### #is_/same_as :: [Rock_Formation.private](/_private/Earth/Geology/Rock_Formation.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Rock_Formation.private|Rock_Formation.private]] 
 
-### #is_/same_as :: [Rock_Formation.personal](/_personal/Earth/Geology/Rock_Formation.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Rock_Formation.personal|Rock_Formation.personal]] 
 
-### #is_/same_as :: [Rock_Formation.secret](/_secret/Earth/Geology/Rock_Formation.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Rock_Formation.secret|Rock_Formation.secret]] 
 

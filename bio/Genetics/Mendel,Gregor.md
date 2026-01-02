@@ -149,17 +149,17 @@ Google_Doodle: gregor-mendels-189th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mendel,Gregor](/_Standards/bio/Genetics/Mendel,Gregor.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Mendel,Gregor|Mendel,Gregor]] 
 
-### #is_/same_as :: [Mendel,Gregor.public](/_public/bio/Genetics/Mendel,Gregor.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Mendel,Gregor.public|Mendel,Gregor.public]] 
 
-### #is_/same_as :: [Mendel,Gregor.internal](/_internal/bio/Genetics/Mendel,Gregor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Mendel,Gregor.internal|Mendel,Gregor.internal]] 
 
-### #is_/same_as :: [Mendel,Gregor.protect](/_protect/bio/Genetics/Mendel,Gregor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Mendel,Gregor.protect|Mendel,Gregor.protect]] 
 
-### #is_/same_as :: [Mendel,Gregor.private](/_private/bio/Genetics/Mendel,Gregor.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Mendel,Gregor.private|Mendel,Gregor.private]] 
 
-### #is_/same_as :: [Mendel,Gregor.personal](/_personal/bio/Genetics/Mendel,Gregor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Mendel,Gregor.personal|Mendel,Gregor.personal]] 
 
-### #is_/same_as :: [Mendel,Gregor.secret](/_secret/bio/Genetics/Mendel,Gregor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Mendel,Gregor.secret|Mendel,Gregor.secret]] 
 

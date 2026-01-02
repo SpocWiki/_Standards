@@ -117,17 +117,17 @@ ISNI: 000000011611940X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526|0454-Theoderic_the_Great+0526]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.public|0454-Theoderic_the_Great+0526.public]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.internal|0454-Theoderic_the_Great+0526.internal]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.protect|0454-Theoderic_the_Great+0526.protect]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.private|0454-Theoderic_the_Great+0526.private]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.personal|0454-Theoderic_the_Great+0526.personal]] 
 
-### #is_/same_as :: [0454-Theoderic_the_Great+0526.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0400/0454-Theoderic_the_Great+0526.secret|0454-Theoderic_the_Great+0526.secret]] 
 

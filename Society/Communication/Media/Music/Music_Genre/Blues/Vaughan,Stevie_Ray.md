@@ -103,17 +103,17 @@ Europeana_entity: agent/base/61533
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray](/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray|Vaughan,Stevie_Ray]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.public](/_public/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.public|Vaughan,Stevie_Ray.public]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.internal|Vaughan,Stevie_Ray.internal]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.protect|Vaughan,Stevie_Ray.protect]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.private](/_private/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.private|Vaughan,Stevie_Ray.private]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.personal|Vaughan,Stevie_Ray.personal]] 
 
-### #is_/same_as :: [Vaughan,Stevie_Ray.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Blues/Vaughan,Stevie_Ray.secret|Vaughan,Stevie_Ray.secret]] 
 

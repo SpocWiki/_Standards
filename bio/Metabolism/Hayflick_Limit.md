@@ -33,17 +33,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hayflick_Limit](/_Standards/bio/Metabolism/Hayflick_Limit.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Hayflick_Limit|Hayflick_Limit]] 
 
-### #is_/same_as :: [Hayflick_Limit.public](/_public/bio/Metabolism/Hayflick_Limit.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Hayflick_Limit.public|Hayflick_Limit.public]] 
 
-### #is_/same_as :: [Hayflick_Limit.internal](/_internal/bio/Metabolism/Hayflick_Limit.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Hayflick_Limit.internal|Hayflick_Limit.internal]] 
 
-### #is_/same_as :: [Hayflick_Limit.protect](/_protect/bio/Metabolism/Hayflick_Limit.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Hayflick_Limit.protect|Hayflick_Limit.protect]] 
 
-### #is_/same_as :: [Hayflick_Limit.private](/_private/bio/Metabolism/Hayflick_Limit.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Hayflick_Limit.private|Hayflick_Limit.private]] 
 
-### #is_/same_as :: [Hayflick_Limit.personal](/_personal/bio/Metabolism/Hayflick_Limit.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Hayflick_Limit.personal|Hayflick_Limit.personal]] 
 
-### #is_/same_as :: [Hayflick_Limit.secret](/_secret/bio/Metabolism/Hayflick_Limit.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Hayflick_Limit.secret|Hayflick_Limit.secret]] 
 

@@ -110,17 +110,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Common_Cold](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold|Common_Cold]] 
 
-### #is_/same_as :: [Common_Cold.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.public|Common_Cold.public]] 
 
-### #is_/same_as :: [Common_Cold.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.internal|Common_Cold.internal]] 
 
-### #is_/same_as :: [Common_Cold.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.protect|Common_Cold.protect]] 
 
-### #is_/same_as :: [Common_Cold.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.private|Common_Cold.private]] 
 
-### #is_/same_as :: [Common_Cold.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.personal|Common_Cold.personal]] 
 
-### #is_/same_as :: [Common_Cold.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Common_Cold.secret|Common_Cold.secret]] 
 

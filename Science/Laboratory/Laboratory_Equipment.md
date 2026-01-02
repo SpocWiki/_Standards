@@ -38,17 +38,17 @@ Iconclass_notation: 49E81
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laboratory_Equipment](/_Standards/Science/Laboratory_Equipment.md) 
+### #is_/same_as :: [[/_Standards/Science/Laboratory/Laboratory_Equipment|Laboratory_Equipment]] 
 
-### #is_/same_as :: [Laboratory_Equipment.public](/_public/Science/Laboratory_Equipment.public.md) 
+### #is_/same_as :: [[/_public/Science/Laboratory/Laboratory_Equipment.public|Laboratory_Equipment.public]] 
 
-### #is_/same_as :: [Laboratory_Equipment.internal](/_internal/Science/Laboratory_Equipment.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Laboratory/Laboratory_Equipment.internal|Laboratory_Equipment.internal]] 
 
-### #is_/same_as :: [Laboratory_Equipment.protect](/_protect/Science/Laboratory_Equipment.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Laboratory/Laboratory_Equipment.protect|Laboratory_Equipment.protect]] 
 
-### #is_/same_as :: [Laboratory_Equipment.private](/_private/Science/Laboratory_Equipment.private.md) 
+### #is_/same_as :: [[/_private/Science/Laboratory/Laboratory_Equipment.private|Laboratory_Equipment.private]] 
 
-### #is_/same_as :: [Laboratory_Equipment.personal](/_personal/Science/Laboratory_Equipment.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Laboratory/Laboratory_Equipment.personal|Laboratory_Equipment.personal]] 
 
-### #is_/same_as :: [Laboratory_Equipment.secret](/_secret/Science/Laboratory_Equipment.secret.md)
+### #is_/same_as :: [[/_secret/Science/Laboratory/Laboratory_Equipment.secret|Laboratory_Equipment.secret]] 
 

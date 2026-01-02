@@ -48,17 +48,17 @@ TargetCollection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~UpdateAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction|FileClass~UpdateAction]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.public|FileClass~UpdateAction.public]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.internal|FileClass~UpdateAction.internal]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.protect|FileClass~UpdateAction.protect]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.private|FileClass~UpdateAction.private]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.personal|FileClass~UpdateAction.personal]] 
 
-### #is_/same_as :: [FileClass~UpdateAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~UpdateAction.secret|FileClass~UpdateAction.secret]] 
 

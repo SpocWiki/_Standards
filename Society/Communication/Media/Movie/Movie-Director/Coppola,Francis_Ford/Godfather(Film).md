@@ -251,17 +251,17 @@ Amazon_Standard_Identification_Number: B005DNPFUE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Godfather(Film)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film)|Godfather(Film)]] 
 
-### #is_/same_as :: [Godfather(Film).public](/_public/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).public|Godfather(Film).public]] 
 
-### #is_/same_as :: [Godfather(Film).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).internal|Godfather(Film).internal]] 
 
-### #is_/same_as :: [Godfather(Film).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).protect|Godfather(Film).protect]] 
 
-### #is_/same_as :: [Godfather(Film).private](/_private/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).private|Godfather(Film).private]] 
 
-### #is_/same_as :: [Godfather(Film).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).personal|Godfather(Film).personal]] 
 
-### #is_/same_as :: [Godfather(Film).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Coppola,Francis_Ford/Godfather(Film).secret|Godfather(Film).secret]] 
 

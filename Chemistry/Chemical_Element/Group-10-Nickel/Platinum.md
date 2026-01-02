@@ -134,17 +134,17 @@ Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Platinum](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Platinum|Platinum]] 
 
-### #is_/same_as :: [Platinum.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.public|Platinum.public]] 
 
-### #is_/same_as :: [Platinum.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.internal|Platinum.internal]] 
 
-### #is_/same_as :: [Platinum.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.protect|Platinum.protect]] 
 
-### #is_/same_as :: [Platinum.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.private|Platinum.private]] 
 
-### #is_/same_as :: [Platinum.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.personal|Platinum.personal]] 
 
-### #is_/same_as :: [Platinum.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]] 
 

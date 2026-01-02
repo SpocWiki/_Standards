@@ -39,17 +39,17 @@ Commons_category: Writing tools
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Writing_Tool](/_Standards/Technology/Tool/Writing_Tool.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Writing_Tool|Writing_Tool]] 
 
-### #is_/same_as :: [Writing_Tool.public](/_public/Technology/Tool/Writing_Tool.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Writing_Tool.public|Writing_Tool.public]] 
 
-### #is_/same_as :: [Writing_Tool.internal](/_internal/Technology/Tool/Writing_Tool.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Writing_Tool.internal|Writing_Tool.internal]] 
 
-### #is_/same_as :: [Writing_Tool.protect](/_protect/Technology/Tool/Writing_Tool.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Writing_Tool.protect|Writing_Tool.protect]] 
 
-### #is_/same_as :: [Writing_Tool.private](/_private/Technology/Tool/Writing_Tool.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Writing_Tool.private|Writing_Tool.private]] 
 
-### #is_/same_as :: [Writing_Tool.personal](/_personal/Technology/Tool/Writing_Tool.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Writing_Tool.personal|Writing_Tool.personal]] 
 
-### #is_/same_as :: [Writing_Tool.secret](/_secret/Technology/Tool/Writing_Tool.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Writing_Tool.secret|Writing_Tool.secret]] 
 

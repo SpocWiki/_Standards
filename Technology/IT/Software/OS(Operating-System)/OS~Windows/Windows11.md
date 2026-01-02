@@ -8,17 +8,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windows11](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11|Windows11]] 
 
-### #is_/same_as :: [Windows11.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.public|Windows11.public]] 
 
-### #is_/same_as :: [Windows11.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.internal|Windows11.internal]] 
 
-### #is_/same_as :: [Windows11.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.protect|Windows11.protect]] 
 
-### #is_/same_as :: [Windows11.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.private|Windows11.private]] 
 
-### #is_/same_as :: [Windows11.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.personal|Windows11.personal]] 
 
-### #is_/same_as :: [Windows11.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/Windows11.secret|Windows11.secret]] 
 

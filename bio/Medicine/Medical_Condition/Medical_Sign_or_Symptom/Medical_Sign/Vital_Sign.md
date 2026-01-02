@@ -41,17 +41,17 @@ Vital signs are measures of various physiological functions in order to assess t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vital_Sign](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign|Vital_Sign]] 
 
-### #is_/same_as :: [Vital_Sign.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.public|Vital_Sign.public]] 
 
-### #is_/same_as :: [Vital_Sign.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.internal|Vital_Sign.internal]] 
 
-### #is_/same_as :: [Vital_Sign.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.protect|Vital_Sign.protect]] 
 
-### #is_/same_as :: [Vital_Sign.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.private|Vital_Sign.private]] 
 
-### #is_/same_as :: [Vital_Sign.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.personal|Vital_Sign.personal]] 
 
-### #is_/same_as :: [Vital_Sign.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom/Medical_Sign/Vital_Sign.secret|Vital_Sign.secret]] 
 

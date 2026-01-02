@@ -205,17 +205,17 @@ work_period_end_: 1918-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Klimt,Gustav](/_Standards/Society/Communication/Media/Painting/Painter/Klimt,Gustav.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Klimt,Gustav|Klimt,Gustav]] 
 
-### #is_/same_as :: [Klimt,Gustav.public](/_public/Society/Communication/Media/Painting/Painter/Klimt,Gustav.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Klimt,Gustav.public|Klimt,Gustav.public]] 
 
-### #is_/same_as :: [Klimt,Gustav.internal](/_internal/Society/Communication/Media/Painting/Painter/Klimt,Gustav.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Klimt,Gustav.internal|Klimt,Gustav.internal]] 
 
-### #is_/same_as :: [Klimt,Gustav.protect](/_protect/Society/Communication/Media/Painting/Painter/Klimt,Gustav.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Klimt,Gustav.protect|Klimt,Gustav.protect]] 
 
-### #is_/same_as :: [Klimt,Gustav.private](/_private/Society/Communication/Media/Painting/Painter/Klimt,Gustav.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Klimt,Gustav.private|Klimt,Gustav.private]] 
 
-### #is_/same_as :: [Klimt,Gustav.personal](/_personal/Society/Communication/Media/Painting/Painter/Klimt,Gustav.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Klimt,Gustav.personal|Klimt,Gustav.personal]] 
 
-### #is_/same_as :: [Klimt,Gustav.secret](/_secret/Society/Communication/Media/Painting/Painter/Klimt,Gustav.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Klimt,Gustav.secret|Klimt,Gustav.secret]] 
 

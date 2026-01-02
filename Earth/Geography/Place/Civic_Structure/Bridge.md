@@ -169,17 +169,17 @@ A bridge.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bridge](/_Standards/Earth/Geography/Place/Civic_Structure/Bridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Bridge|Bridge]] 
 
-### #is_/same_as :: [Bridge.public](/_public/Earth/Geography/Place/Civic_Structure/Bridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Bridge.public|Bridge.public]] 
 
-### #is_/same_as :: [Bridge.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Bridge.internal|Bridge.internal]] 
 
-### #is_/same_as :: [Bridge.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Bridge.protect|Bridge.protect]] 
 
-### #is_/same_as :: [Bridge.private](/_private/Earth/Geography/Place/Civic_Structure/Bridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Bridge.private|Bridge.private]] 
 
-### #is_/same_as :: [Bridge.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Bridge.personal|Bridge.personal]] 
 
-### #is_/same_as :: [Bridge.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Bridge.secret|Bridge.secret]] 
 

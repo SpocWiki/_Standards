@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_health_plan_copay_option](/_Standards/schema-org/Property/Texts/has_health_plan_copay_option.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_health_plan_copay_option|has_health_plan_copay_option]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.public](/_public/schema-org/Property/Texts/has_health_plan_copay_option.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_health_plan_copay_option.public|has_health_plan_copay_option.public]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.internal](/_internal/schema-org/Property/Texts/has_health_plan_copay_option.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_health_plan_copay_option.internal|has_health_plan_copay_option.internal]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.protect](/_protect/schema-org/Property/Texts/has_health_plan_copay_option.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_health_plan_copay_option.protect|has_health_plan_copay_option.protect]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.private](/_private/schema-org/Property/Texts/has_health_plan_copay_option.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_health_plan_copay_option.private|has_health_plan_copay_option.private]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.personal](/_personal/schema-org/Property/Texts/has_health_plan_copay_option.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_health_plan_copay_option.personal|has_health_plan_copay_option.personal]] 
 
-### #is_/same_as :: [has_health_plan_copay_option.secret](/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_health_plan_copay_option.secret|has_health_plan_copay_option.secret]] 
 

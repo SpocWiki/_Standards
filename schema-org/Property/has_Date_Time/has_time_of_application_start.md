@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_application_start](/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_start.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_application_start|has_time_of_application_start]] 
 
-### #is_/same_as :: [has_time_of_application_start.public](/_public/schema-org/Property/has_Date_Time/has_time_of_application_start.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_application_start.public|has_time_of_application_start.public]] 
 
-### #is_/same_as :: [has_time_of_application_start.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_application_start.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_application_start.internal|has_time_of_application_start.internal]] 
 
-### #is_/same_as :: [has_time_of_application_start.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_application_start.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_application_start.protect|has_time_of_application_start.protect]] 
 
-### #is_/same_as :: [has_time_of_application_start.private](/_private/schema-org/Property/has_Date_Time/has_time_of_application_start.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_application_start.private|has_time_of_application_start.private]] 
 
-### #is_/same_as :: [has_time_of_application_start.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_application_start.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_application_start.personal|has_time_of_application_start.personal]] 
 
-### #is_/same_as :: [has_time_of_application_start.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_application_start.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_application_start.secret|has_time_of_application_start.secret]] 
 

@@ -45,17 +45,17 @@ Commons_category: Human foetuses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Fetus](/_Standards/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus|Human_Fetus]] 
 
-### #is_/same_as :: [Human_Fetus.public](/_public/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.public|Human_Fetus.public]] 
 
-### #is_/same_as :: [Human_Fetus.internal](/_internal/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.internal|Human_Fetus.internal]] 
 
-### #is_/same_as :: [Human_Fetus.protect](/_protect/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.protect|Human_Fetus.protect]] 
 
-### #is_/same_as :: [Human_Fetus.private](/_private/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.private|Human_Fetus.private]] 
 
-### #is_/same_as :: [Human_Fetus.personal](/_personal/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.personal|Human_Fetus.personal]] 
 
-### #is_/same_as :: [Human_Fetus.secret](/_secret/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Embryo/Human_Fetus.secret|Human_Fetus.secret]] 
 

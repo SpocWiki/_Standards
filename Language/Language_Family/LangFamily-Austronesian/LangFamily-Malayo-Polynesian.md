@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian](/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian|LangFamily-Malayo-Polynesian]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.public](/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.public|LangFamily-Malayo-Polynesian.public]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.internal](/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.internal|LangFamily-Malayo-Polynesian.internal]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.protect](/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.protect|LangFamily-Malayo-Polynesian.protect]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.private](/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.private|LangFamily-Malayo-Polynesian.private]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.personal](/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.personal|LangFamily-Malayo-Polynesian.personal]] 
 
-### #is_/same_as :: [LangFamily-Malayo-Polynesian.secret](/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Austronesian/LangFamily-Malayo-Polynesian.secret|LangFamily-Malayo-Polynesian.secret]] 
 

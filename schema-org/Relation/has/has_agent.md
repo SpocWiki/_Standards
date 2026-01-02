@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_agent](/_Standards/schema-org/Relation/has/has_agent.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_agent|has_agent]] 
 
-### #is_/same_as :: [has_agent.public](/_public/schema-org/Relation/has/has_agent.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_agent.public|has_agent.public]] 
 
-### #is_/same_as :: [has_agent.internal](/_internal/schema-org/Relation/has/has_agent.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_agent.internal|has_agent.internal]] 
 
-### #is_/same_as :: [has_agent.protect](/_protect/schema-org/Relation/has/has_agent.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_agent.protect|has_agent.protect]] 
 
-### #is_/same_as :: [has_agent.private](/_private/schema-org/Relation/has/has_agent.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_agent.private|has_agent.private]] 
 
-### #is_/same_as :: [has_agent.personal](/_personal/schema-org/Relation/has/has_agent.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_agent.personal|has_agent.personal]] 
 
-### #is_/same_as :: [has_agent.secret](/_secret/schema-org/Relation/has/has_agent.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_agent.secret|has_agent.secret]] 
 

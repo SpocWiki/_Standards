@@ -36,17 +36,17 @@ Commons_category: Meritocracy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meritocracy](/_Standards/Society/Politics/Government/Meritocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Meritocracy|Meritocracy]] 
 
-### #is_/same_as :: [Meritocracy.public](/_public/Society/Politics/Government/Meritocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Meritocracy.public|Meritocracy.public]] 
 
-### #is_/same_as :: [Meritocracy.internal](/_internal/Society/Politics/Government/Meritocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Meritocracy.internal|Meritocracy.internal]] 
 
-### #is_/same_as :: [Meritocracy.protect](/_protect/Society/Politics/Government/Meritocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Meritocracy.protect|Meritocracy.protect]] 
 
-### #is_/same_as :: [Meritocracy.private](/_private/Society/Politics/Government/Meritocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Meritocracy.private|Meritocracy.private]] 
 
-### #is_/same_as :: [Meritocracy.personal](/_personal/Society/Politics/Government/Meritocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Meritocracy.personal|Meritocracy.personal]] 
 
-### #is_/same_as :: [Meritocracy.secret](/_secret/Society/Politics/Government/Meritocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Meritocracy.secret|Meritocracy.secret]] 
 

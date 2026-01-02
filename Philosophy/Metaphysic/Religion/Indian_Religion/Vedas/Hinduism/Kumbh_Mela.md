@@ -48,17 +48,17 @@ Commons_category: Kumbh Mela
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kumbh_Mela](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela|Kumbh_Mela]] 
 
-### #is_/same_as :: [Kumbh_Mela.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.public|Kumbh_Mela.public]] 
 
-### #is_/same_as :: [Kumbh_Mela.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.internal|Kumbh_Mela.internal]] 
 
-### #is_/same_as :: [Kumbh_Mela.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.protect|Kumbh_Mela.protect]] 
 
-### #is_/same_as :: [Kumbh_Mela.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.private|Kumbh_Mela.private]] 
 
-### #is_/same_as :: [Kumbh_Mela.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.personal|Kumbh_Mela.personal]] 
 
-### #is_/same_as :: [Kumbh_Mela.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Kumbh_Mela.secret|Kumbh_Mela.secret]] 
 

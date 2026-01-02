@@ -125,17 +125,17 @@ PeerTube_channel_address: fsf@framatube.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Free_Software_Foundation](/_Standards/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation|Free_Software_Foundation]] 
 
-### #is_/same_as :: [Free_Software_Foundation.public](/_public/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.public|Free_Software_Foundation.public]] 
 
-### #is_/same_as :: [Free_Software_Foundation.internal](/_internal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.internal|Free_Software_Foundation.internal]] 
 
-### #is_/same_as :: [Free_Software_Foundation.protect](/_protect/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.protect|Free_Software_Foundation.protect]] 
 
-### #is_/same_as :: [Free_Software_Foundation.private](/_private/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.private|Free_Software_Foundation.private]] 
 
-### #is_/same_as :: [Free_Software_Foundation.personal](/_personal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.personal|Free_Software_Foundation.personal]] 
 
-### #is_/same_as :: [Free_Software_Foundation.secret](/_secret/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OSS(Open-Source_SW)/Free_Software_Foundation.secret|Free_Software_Foundation.secret]] 
 

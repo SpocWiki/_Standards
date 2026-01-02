@@ -65,17 +65,17 @@ degrading them from the [[../Cavalry|Cavalry]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infantry](/_Standards/Society/Military/Military_Organization/Army/Infantry.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Army/Infantry|Infantry]] 
 
-### #is_/same_as :: [Infantry.public](/_public/Society/Military/Military_Organization/Army/Infantry.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Army/Infantry.public|Infantry.public]] 
 
-### #is_/same_as :: [Infantry.internal](/_internal/Society/Military/Military_Organization/Army/Infantry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Army/Infantry.internal|Infantry.internal]] 
 
-### #is_/same_as :: [Infantry.protect](/_protect/Society/Military/Military_Organization/Army/Infantry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Army/Infantry.protect|Infantry.protect]] 
 
-### #is_/same_as :: [Infantry.private](/_private/Society/Military/Military_Organization/Army/Infantry.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Army/Infantry.private|Infantry.private]] 
 
-### #is_/same_as :: [Infantry.personal](/_personal/Society/Military/Military_Organization/Army/Infantry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Army/Infantry.personal|Infantry.personal]] 
 
-### #is_/same_as :: [Infantry.secret](/_secret/Society/Military/Military_Organization/Army/Infantry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Army/Infantry.secret|Infantry.secret]] 
 

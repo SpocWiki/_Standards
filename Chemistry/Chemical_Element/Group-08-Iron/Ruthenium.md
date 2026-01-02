@@ -122,17 +122,17 @@ ZVG_number: 7440
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruthenium](/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium|Ruthenium]] 
 
-### #is_/same_as :: [Ruthenium.public](/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public|Ruthenium.public]] 
 
-### #is_/same_as :: [Ruthenium.internal](/_internal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.internal|Ruthenium.internal]] 
 
-### #is_/same_as :: [Ruthenium.protect](/_protect/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.protect|Ruthenium.protect]] 
 
-### #is_/same_as :: [Ruthenium.private](/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private|Ruthenium.private]] 
 
-### #is_/same_as :: [Ruthenium.personal](/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]] 
 
-### #is_/same_as :: [Ruthenium.secret](/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]] 
 

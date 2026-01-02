@@ -83,17 +83,17 @@ time_of_discovery_or_invention: 1770-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weighing_Scale](/_Standards/Technology/Tool/Instrumentation/Weighing_Scale.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Weighing_Scale|Weighing_Scale]] 
 
-### #is_/same_as :: [Weighing_Scale.public](/_public/Technology/Tool/Instrumentation/Weighing_Scale.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Weighing_Scale.public|Weighing_Scale.public]] 
 
-### #is_/same_as :: [Weighing_Scale.internal](/_internal/Technology/Tool/Instrumentation/Weighing_Scale.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Weighing_Scale.internal|Weighing_Scale.internal]] 
 
-### #is_/same_as :: [Weighing_Scale.protect](/_protect/Technology/Tool/Instrumentation/Weighing_Scale.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Weighing_Scale.protect|Weighing_Scale.protect]] 
 
-### #is_/same_as :: [Weighing_Scale.private](/_private/Technology/Tool/Instrumentation/Weighing_Scale.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Weighing_Scale.private|Weighing_Scale.private]] 
 
-### #is_/same_as :: [Weighing_Scale.personal](/_personal/Technology/Tool/Instrumentation/Weighing_Scale.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Weighing_Scale.personal|Weighing_Scale.personal]] 
 
-### #is_/same_as :: [Weighing_Scale.secret](/_secret/Technology/Tool/Instrumentation/Weighing_Scale.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Weighing_Scale.secret|Weighing_Scale.secret]] 
 

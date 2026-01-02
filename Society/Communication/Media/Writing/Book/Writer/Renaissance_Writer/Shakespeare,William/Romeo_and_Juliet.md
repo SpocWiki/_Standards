@@ -60,17 +60,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Romeo_and_Juliet](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet|Romeo_and_Juliet]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.public|Romeo_and_Juliet.public]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.internal|Romeo_and_Juliet.internal]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.protect|Romeo_and_Juliet.protect]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.private|Romeo_and_Juliet.private]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.personal|Romeo_and_Juliet.personal]] 
 
-### #is_/same_as :: [Romeo_and_Juliet.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Romeo_and_Juliet.secret|Romeo_and_Juliet.secret]] 
 

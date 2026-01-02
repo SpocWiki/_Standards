@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_door](/_Standards/schema-org/Property/has_Date_Time/has_time_of_door.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_door|has_time_of_door]] 
 
-### #is_/same_as :: [has_time_of_door.public](/_public/schema-org/Property/has_Date_Time/has_time_of_door.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_door.public|has_time_of_door.public]] 
 
-### #is_/same_as :: [has_time_of_door.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_door.internal|has_time_of_door.internal]] 
 
-### #is_/same_as :: [has_time_of_door.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_door.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_door.protect|has_time_of_door.protect]] 
 
-### #is_/same_as :: [has_time_of_door.private](/_private/schema-org/Property/has_Date_Time/has_time_of_door.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_door.private|has_time_of_door.private]] 
 
-### #is_/same_as :: [has_time_of_door.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_door.personal|has_time_of_door.personal]] 
 
-### #is_/same_as :: [has_time_of_door.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_door.secret|has_time_of_door.secret]] 
 

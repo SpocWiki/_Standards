@@ -559,17 +559,17 @@ Wolfram_Language_entity_code: Entity["Ocean", "PacificOcean"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~Pacific](/_Standards/Earth/Ocean/Ocean~Pacific.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific|Ocean~Pacific]] 
 
-### #is_/same_as :: [Ocean~Pacific.public](/_public/Earth/Ocean/Ocean~Pacific.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific.public|Ocean~Pacific.public]] 
 
-### #is_/same_as :: [Ocean~Pacific.internal](/_internal/Earth/Ocean/Ocean~Pacific.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific.internal|Ocean~Pacific.internal]] 
 
-### #is_/same_as :: [Ocean~Pacific.protect](/_protect/Earth/Ocean/Ocean~Pacific.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific.protect|Ocean~Pacific.protect]] 
 
-### #is_/same_as :: [Ocean~Pacific.private](/_private/Earth/Ocean/Ocean~Pacific.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific.private|Ocean~Pacific.private]] 
 
-### #is_/same_as :: [Ocean~Pacific.personal](/_personal/Earth/Ocean/Ocean~Pacific.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific.personal|Ocean~Pacific.personal]] 
 
-### #is_/same_as :: [Ocean~Pacific.secret](/_secret/Earth/Ocean/Ocean~Pacific.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific.secret|Ocean~Pacific.secret]] 
 

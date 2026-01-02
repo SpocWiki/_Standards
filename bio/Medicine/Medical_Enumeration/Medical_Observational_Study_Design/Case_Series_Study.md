@@ -41,17 +41,17 @@ A case series (also known as a clinical series) is a medical research study that
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Case_Series_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study|Case_Series_Study]] 
 
-### #is_/same_as :: [Case_Series_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.public|Case_Series_Study.public]] 
 
-### #is_/same_as :: [Case_Series_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.internal|Case_Series_Study.internal]] 
 
-### #is_/same_as :: [Case_Series_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.protect|Case_Series_Study.protect]] 
 
-### #is_/same_as :: [Case_Series_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.private|Case_Series_Study.private]] 
 
-### #is_/same_as :: [Case_Series_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.personal|Case_Series_Study.personal]] 
 
-### #is_/same_as :: [Case_Series_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Case_Series_Study.secret|Case_Series_Study.secret]] 
 

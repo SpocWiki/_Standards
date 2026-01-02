@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parliament](/_Standards/Society/Politics/Government/Democracy/Parliament.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Parliament|Parliament]] 
 
-### #is_/same_as :: [Parliament.public](/_public/Society/Politics/Government/Democracy/Parliament.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Parliament.public|Parliament.public]] 
 
-### #is_/same_as :: [Parliament.internal](/_internal/Society/Politics/Government/Democracy/Parliament.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Parliament.internal|Parliament.internal]] 
 
-### #is_/same_as :: [Parliament.protect](/_protect/Society/Politics/Government/Democracy/Parliament.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Parliament.protect|Parliament.protect]] 
 
-### #is_/same_as :: [Parliament.private](/_private/Society/Politics/Government/Democracy/Parliament.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Parliament.private|Parliament.private]] 
 
-### #is_/same_as :: [Parliament.personal](/_personal/Society/Politics/Government/Democracy/Parliament.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Parliament.personal|Parliament.personal]] 
 
-### #is_/same_as :: [Parliament.secret](/_secret/Society/Politics/Government/Democracy/Parliament.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Parliament.secret|Parliament.secret]] 
 

@@ -170,17 +170,17 @@ time_of_discovery_or_invention: 1777-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Methane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane|Methane]] 
 
-### #is_/same_as :: [Methane.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.public|Methane.public]] 
 
-### #is_/same_as :: [Methane.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.internal|Methane.internal]] 
 
-### #is_/same_as :: [Methane.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.protect|Methane.protect]] 
 
-### #is_/same_as :: [Methane.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.private|Methane.private]] 
 
-### #is_/same_as :: [Methane.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.personal|Methane.personal]] 
 
-### #is_/same_as :: [Methane.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.secret|Methane.secret]] 
 

@@ -289,17 +289,17 @@ pseudonym: Theotocopuli, Dominico
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Greco](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco|El_Greco]] 
 
-### #is_/same_as :: [El_Greco.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.public|El_Greco.public]] 
 
-### #is_/same_as :: [El_Greco.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.internal|El_Greco.internal]] 
 
-### #is_/same_as :: [El_Greco.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.protect|El_Greco.protect]] 
 
-### #is_/same_as :: [El_Greco.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.private|El_Greco.private]] 
 
-### #is_/same_as :: [El_Greco.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.personal|El_Greco.personal]] 
 
-### #is_/same_as :: [El_Greco.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/El_Greco.secret|El_Greco.secret]] 
 

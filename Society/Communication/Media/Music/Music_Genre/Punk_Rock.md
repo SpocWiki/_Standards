@@ -52,17 +52,17 @@ native_label: Punk rock
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Punk_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Punk_Rock.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Punk_Rock|Punk_Rock]] 
 
-### #is_/same_as :: [Punk_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Punk_Rock.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Punk_Rock.public|Punk_Rock.public]] 
 
-### #is_/same_as :: [Punk_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.internal|Punk_Rock.internal]] 
 
-### #is_/same_as :: [Punk_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Punk_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Punk_Rock.protect|Punk_Rock.protect]] 
 
-### #is_/same_as :: [Punk_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Punk_Rock.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Punk_Rock.private|Punk_Rock.private]] 
 
-### #is_/same_as :: [Punk_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Punk_Rock.personal|Punk_Rock.personal]] 
 
-### #is_/same_as :: [Punk_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Punk_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Punk_Rock.secret|Punk_Rock.secret]] 
 

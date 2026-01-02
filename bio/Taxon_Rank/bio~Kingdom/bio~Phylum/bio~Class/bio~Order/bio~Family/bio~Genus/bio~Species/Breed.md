@@ -55,3 +55,22 @@ By comparison, natural mammalian subspecies often show F_ST values of only 5% to
 > [Wikipedia](https://en.wikipedia.org/wiki/Breed) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed|Breed]] 
+
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.public|Breed.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.internal|Breed.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.protect|Breed.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.private|Breed.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.personal|Breed.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/Breed.secret|Breed.secret]] 
+

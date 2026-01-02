@@ -276,17 +276,17 @@ These are pretty redundant though, e.g. the 5 concepts 1, 3, 4, 5 and 6 essentia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand|Gandhi,Mohandas_Karamchand]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.public|Gandhi,Mohandas_Karamchand.public]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.internal|Gandhi,Mohandas_Karamchand.internal]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.protect|Gandhi,Mohandas_Karamchand.protect]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.private|Gandhi,Mohandas_Karamchand.private]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.personal|Gandhi,Mohandas_Karamchand.personal]] 
 
-### #is_/same_as :: [Gandhi,Mohandas_Karamchand.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Gandhi,Mohandas_Karamchand.secret|Gandhi,Mohandas_Karamchand.secret]] 
 

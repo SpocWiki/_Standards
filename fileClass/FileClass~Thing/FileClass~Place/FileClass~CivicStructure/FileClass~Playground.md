@@ -37,17 +37,17 @@ A playground.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Playground](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground|FileClass~Playground]] 
 
-### #is_/same_as :: [FileClass~Playground.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.public|FileClass~Playground.public]] 
 
-### #is_/same_as :: [FileClass~Playground.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.internal|FileClass~Playground.internal]] 
 
-### #is_/same_as :: [FileClass~Playground.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.protect|FileClass~Playground.protect]] 
 
-### #is_/same_as :: [FileClass~Playground.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.private|FileClass~Playground.private]] 
 
-### #is_/same_as :: [FileClass~Playground.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.personal|FileClass~Playground.personal]] 
 
-### #is_/same_as :: [FileClass~Playground.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Playground.secret|FileClass~Playground.secret]] 
 

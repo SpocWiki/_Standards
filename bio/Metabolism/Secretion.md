@@ -29,17 +29,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Secretion](/_Standards/bio/Metabolism/Secretion.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Secretion|Secretion]] 
 
-### #is_/same_as :: [Secretion.public](/_public/bio/Metabolism/Secretion.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Secretion.public|Secretion.public]] 
 
-### #is_/same_as :: [Secretion.internal](/_internal/bio/Metabolism/Secretion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Secretion.internal|Secretion.internal]] 
 
-### #is_/same_as :: [Secretion.protect](/_protect/bio/Metabolism/Secretion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Secretion.protect|Secretion.protect]] 
 
-### #is_/same_as :: [Secretion.private](/_private/bio/Metabolism/Secretion.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Secretion.private|Secretion.private]] 
 
-### #is_/same_as :: [Secretion.personal](/_personal/bio/Metabolism/Secretion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Secretion.personal|Secretion.personal]] 
 
-### #is_/same_as :: [Secretion.secret](/_secret/bio/Metabolism/Secretion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Secretion.secret|Secretion.secret]] 
 

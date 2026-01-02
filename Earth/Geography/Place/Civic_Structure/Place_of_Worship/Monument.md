@@ -87,17 +87,17 @@ OpenStreetMap_tag_or_key: Tag:historic=monument
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monument](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument|Monument]] 
 
-### #is_/same_as :: [Monument.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.public|Monument.public]] 
 
-### #is_/same_as :: [Monument.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.internal|Monument.internal]] 
 
-### #is_/same_as :: [Monument.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.protect|Monument.protect]] 
 
-### #is_/same_as :: [Monument.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.private|Monument.private]] 
 
-### #is_/same_as :: [Monument.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.personal|Monument.personal]] 
 
-### #is_/same_as :: [Monument.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Monument.secret|Monument.secret]] 
 

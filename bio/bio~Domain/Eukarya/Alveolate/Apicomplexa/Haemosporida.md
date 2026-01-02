@@ -42,17 +42,17 @@ title: Plasmodiidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haemosporida](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida|Haemosporida]] 
 
-### #is_/same_as :: [Haemosporida.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.public|Haemosporida.public]] 
 
-### #is_/same_as :: [Haemosporida.internal](/_internal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.internal|Haemosporida.internal]] 
 
-### #is_/same_as :: [Haemosporida.protect](/_protect/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.protect|Haemosporida.protect]] 
 
-### #is_/same_as :: [Haemosporida.private](/_private/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.private|Haemosporida.private]] 
 
-### #is_/same_as :: [Haemosporida.personal](/_personal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.personal|Haemosporida.personal]] 
 
-### #is_/same_as :: [Haemosporida.secret](/_secret/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Haemosporida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Haemosporida.secret|Haemosporida.secret]] 
 

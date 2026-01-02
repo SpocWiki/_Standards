@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thiol](/_Standards/Chemistry/Organic_Chemistry/Thiol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Thiol|Thiol]] 
 
-### #is_/same_as :: [Thiol.public](/_public/Chemistry/Organic_Chemistry/Thiol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Thiol.public|Thiol.public]] 
 
-### #is_/same_as :: [Thiol.internal](/_internal/Chemistry/Organic_Chemistry/Thiol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Thiol.internal|Thiol.internal]] 
 
-### #is_/same_as :: [Thiol.protect](/_protect/Chemistry/Organic_Chemistry/Thiol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Thiol.protect|Thiol.protect]] 
 
-### #is_/same_as :: [Thiol.private](/_private/Chemistry/Organic_Chemistry/Thiol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Thiol.private|Thiol.private]] 
 
-### #is_/same_as :: [Thiol.personal](/_personal/Chemistry/Organic_Chemistry/Thiol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Thiol.personal|Thiol.personal]] 
 
-### #is_/same_as :: [Thiol.secret](/_secret/Chemistry/Organic_Chemistry/Thiol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Thiol.secret|Thiol.secret]] 
 

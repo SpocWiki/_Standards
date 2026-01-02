@@ -112,17 +112,17 @@ EPPO_Code: PHXDA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Date_Palm](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm|Date_Palm]] 
 
-### #is_/same_as :: [Date_Palm.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.public|Date_Palm.public]] 
 
-### #is_/same_as :: [Date_Palm.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.internal|Date_Palm.internal]] 
 
-### #is_/same_as :: [Date_Palm.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.protect|Date_Palm.protect]] 
 
-### #is_/same_as :: [Date_Palm.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.private|Date_Palm.private]] 
 
-### #is_/same_as :: [Date_Palm.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.personal|Date_Palm.personal]] 
 
-### #is_/same_as :: [Date_Palm.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Palm/Date_Palm.secret|Date_Palm.secret]] 
 

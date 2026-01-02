@@ -73,17 +73,17 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Langelinie%2C%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Little_Mermaid(Statue)](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue)|Little_Mermaid(Statue)]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).public|Little_Mermaid(Statue).public]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).internal|Little_Mermaid(Statue).internal]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).protect|Little_Mermaid(Statue).protect]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).private|Little_Mermaid(Statue).private]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).personal|Little_Mermaid(Statue).personal]] 
 
-### #is_/same_as :: [Little_Mermaid(Statue).secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Little_Mermaid(Statue).secret|Little_Mermaid(Statue).secret]] 
 

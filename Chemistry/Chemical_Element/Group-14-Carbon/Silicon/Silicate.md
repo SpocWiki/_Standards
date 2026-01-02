@@ -48,17 +48,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicate](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate|Silicate]] 
 
-### #is_/same_as :: [Silicate.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.public|Silicate.public]] 
 
-### #is_/same_as :: [Silicate.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.internal|Silicate.internal]] 
 
-### #is_/same_as :: [Silicate.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.protect|Silicate.protect]] 
 
-### #is_/same_as :: [Silicate.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.private|Silicate.private]] 
 
-### #is_/same_as :: [Silicate.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.personal|Silicate.personal]] 
 
-### #is_/same_as :: [Silicate.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Silicon/Silicate.secret|Silicate.secret]] 
 

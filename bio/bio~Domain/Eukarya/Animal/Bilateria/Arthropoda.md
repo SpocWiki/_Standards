@@ -237,17 +237,17 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arthropoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda|Arthropoda]] 
 
-### #is_/same_as :: [Arthropoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.public|Arthropoda.public]] 
 
-### #is_/same_as :: [Arthropoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.internal|Arthropoda.internal]] 
 
-### #is_/same_as :: [Arthropoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.protect|Arthropoda.protect]] 
 
-### #is_/same_as :: [Arthropoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.private|Arthropoda.private]] 
 
-### #is_/same_as :: [Arthropoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.personal|Arthropoda.personal]] 
 
-### #is_/same_as :: [Arthropoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda.secret|Arthropoda.secret]] 
 

@@ -104,17 +104,17 @@ Libris_URI: c9prp99w1wf4jxg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency)](/_Standards/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency)|IAEA(International_Atomic_Energy_Agency)]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).public](/_public/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).public|IAEA(International_Atomic_Energy_Agency).public]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).internal](/_internal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).internal|IAEA(International_Atomic_Energy_Agency).internal]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).protect](/_protect/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).protect|IAEA(International_Atomic_Energy_Agency).protect]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).private](/_private/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).private|IAEA(International_Atomic_Energy_Agency).private]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).personal](/_personal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).personal|IAEA(International_Atomic_Energy_Agency).personal]] 
 
-### #is_/same_as :: [IAEA(International_Atomic_Energy_Agency).secret](/_secret/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IAEA(International_Atomic_Energy_Agency).secret|IAEA(International_Atomic_Energy_Agency).secret]] 
 

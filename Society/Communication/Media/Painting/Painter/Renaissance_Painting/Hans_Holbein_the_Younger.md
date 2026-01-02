@@ -226,17 +226,17 @@ ISNI: 0000000120987816
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger|Hans_Holbein_the_Younger]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.public|Hans_Holbein_the_Younger.public]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.internal|Hans_Holbein_the_Younger.internal]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.protect|Hans_Holbein_the_Younger.protect]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.private|Hans_Holbein_the_Younger.private]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.personal|Hans_Holbein_the_Younger.personal]] 
 
-### #is_/same_as :: [Hans_Holbein_the_Younger.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Hans_Holbein_the_Younger.secret|Hans_Holbein_the_Younger.secret]] 
 

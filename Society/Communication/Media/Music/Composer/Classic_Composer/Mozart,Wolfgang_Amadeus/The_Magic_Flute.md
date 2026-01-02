@@ -94,17 +94,17 @@ inception: 1791-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Magic_Flute](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute|The_Magic_Flute]] 
 
-### #is_/same_as :: [The_Magic_Flute.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.public|The_Magic_Flute.public]] 
 
-### #is_/same_as :: [The_Magic_Flute.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.internal|The_Magic_Flute.internal]] 
 
-### #is_/same_as :: [The_Magic_Flute.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.protect|The_Magic_Flute.protect]] 
 
-### #is_/same_as :: [The_Magic_Flute.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.private|The_Magic_Flute.private]] 
 
-### #is_/same_as :: [The_Magic_Flute.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.personal|The_Magic_Flute.personal]] 
 
-### #is_/same_as :: [The_Magic_Flute.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Mozart,Wolfgang_Amadeus/The_Magic_Flute.secret|The_Magic_Flute.secret]] 
 

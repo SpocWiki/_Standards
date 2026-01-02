@@ -80,17 +80,17 @@ equivalent_class: http://pcp-on-web.de/ontology#Birth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Birth](/_Standards/bio/Reproduction/Pregnancy/Birth.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Pregnancy/Birth|Birth]] 
 
-### #is_/same_as :: [Birth.public](/_public/bio/Reproduction/Pregnancy/Birth.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Pregnancy/Birth.public|Birth.public]] 
 
-### #is_/same_as :: [Birth.internal](/_internal/bio/Reproduction/Pregnancy/Birth.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Pregnancy/Birth.internal|Birth.internal]] 
 
-### #is_/same_as :: [Birth.protect](/_protect/bio/Reproduction/Pregnancy/Birth.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Pregnancy/Birth.protect|Birth.protect]] 
 
-### #is_/same_as :: [Birth.private](/_private/bio/Reproduction/Pregnancy/Birth.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Pregnancy/Birth.private|Birth.private]] 
 
-### #is_/same_as :: [Birth.personal](/_personal/bio/Reproduction/Pregnancy/Birth.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Pregnancy/Birth.personal|Birth.personal]] 
 
-### #is_/same_as :: [Birth.secret](/_secret/bio/Reproduction/Pregnancy/Birth.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Pregnancy/Birth.secret|Birth.secret]] 
 

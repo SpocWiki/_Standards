@@ -38,17 +38,17 @@ Commons_category: Civil rights and liberties
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Liberties](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties|Civil_Liberties]] 
 
-### #is_/same_as :: [Civil_Liberties.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.public|Civil_Liberties.public]] 
 
-### #is_/same_as :: [Civil_Liberties.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.internal|Civil_Liberties.internal]] 
 
-### #is_/same_as :: [Civil_Liberties.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.protect|Civil_Liberties.protect]] 
 
-### #is_/same_as :: [Civil_Liberties.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.private|Civil_Liberties.private]] 
 
-### #is_/same_as :: [Civil_Liberties.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.personal|Civil_Liberties.personal]] 
 
-### #is_/same_as :: [Civil_Liberties.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Liberties.secret|Civil_Liberties.secret]] 
 

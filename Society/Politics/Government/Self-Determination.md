@@ -74,17 +74,17 @@ Gujarati_Vishwakosh_entry: આત્મનિર્ણયનો-અધિકા�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Self-Determination](/_Standards/Society/Politics/Government/Self-Determination.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Self-Determination|Self-Determination]] 
 
-### #is_/same_as :: [Self-Determination.public](/_public/Society/Politics/Government/Self-Determination.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Self-Determination.public|Self-Determination.public]] 
 
-### #is_/same_as :: [Self-Determination.internal](/_internal/Society/Politics/Government/Self-Determination.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Self-Determination.internal|Self-Determination.internal]] 
 
-### #is_/same_as :: [Self-Determination.protect](/_protect/Society/Politics/Government/Self-Determination.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Self-Determination.protect|Self-Determination.protect]] 
 
-### #is_/same_as :: [Self-Determination.private](/_private/Society/Politics/Government/Self-Determination.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Self-Determination.private|Self-Determination.private]] 
 
-### #is_/same_as :: [Self-Determination.personal](/_personal/Society/Politics/Government/Self-Determination.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Self-Determination.personal|Self-Determination.personal]] 
 
-### #is_/same_as :: [Self-Determination.secret](/_secret/Society/Politics/Government/Self-Determination.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Self-Determination.secret|Self-Determination.secret]] 
 

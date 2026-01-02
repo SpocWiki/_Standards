@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_accessibility_summary](/_Standards/schema-org/Property/Texts/has_accessibility_summary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_accessibility_summary|has_accessibility_summary]] 
 
-### #is_/same_as :: [has_accessibility_summary.public](/_public/schema-org/Property/Texts/has_accessibility_summary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_accessibility_summary.public|has_accessibility_summary.public]] 
 
-### #is_/same_as :: [has_accessibility_summary.internal](/_internal/schema-org/Property/Texts/has_accessibility_summary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_accessibility_summary.internal|has_accessibility_summary.internal]] 
 
-### #is_/same_as :: [has_accessibility_summary.protect](/_protect/schema-org/Property/Texts/has_accessibility_summary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_accessibility_summary.protect|has_accessibility_summary.protect]] 
 
-### #is_/same_as :: [has_accessibility_summary.private](/_private/schema-org/Property/Texts/has_accessibility_summary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_accessibility_summary.private|has_accessibility_summary.private]] 
 
-### #is_/same_as :: [has_accessibility_summary.personal](/_personal/schema-org/Property/Texts/has_accessibility_summary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_accessibility_summary.personal|has_accessibility_summary.personal]] 
 
-### #is_/same_as :: [has_accessibility_summary.secret](/_secret/schema-org/Property/Texts/has_accessibility_summary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_accessibility_summary.secret|has_accessibility_summary.secret]] 
 

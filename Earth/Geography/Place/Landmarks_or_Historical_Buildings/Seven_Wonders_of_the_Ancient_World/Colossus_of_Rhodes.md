@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colossus_of_Rhodes](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes|Colossus_of_Rhodes]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.public|Colossus_of_Rhodes.public]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.internal|Colossus_of_Rhodes.internal]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.protect|Colossus_of_Rhodes.protect]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.private|Colossus_of_Rhodes.private]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.personal|Colossus_of_Rhodes.personal]] 
 
-### #is_/same_as :: [Colossus_of_Rhodes.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Colossus_of_Rhodes.secret|Colossus_of_Rhodes.secret]] 
 

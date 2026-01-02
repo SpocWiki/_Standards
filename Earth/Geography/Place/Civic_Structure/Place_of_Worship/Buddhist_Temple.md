@@ -41,17 +41,17 @@ A Buddhist temple.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buddhist_Temple](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple|Buddhist_Temple]] 
 
-### #is_/same_as :: [Buddhist_Temple.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.public|Buddhist_Temple.public]] 
 
-### #is_/same_as :: [Buddhist_Temple.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.internal|Buddhist_Temple.internal]] 
 
-### #is_/same_as :: [Buddhist_Temple.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.protect|Buddhist_Temple.protect]] 
 
-### #is_/same_as :: [Buddhist_Temple.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.private|Buddhist_Temple.private]] 
 
-### #is_/same_as :: [Buddhist_Temple.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.personal|Buddhist_Temple.personal]] 
 
-### #is_/same_as :: [Buddhist_Temple.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Buddhist_Temple.secret|Buddhist_Temple.secret]] 
 

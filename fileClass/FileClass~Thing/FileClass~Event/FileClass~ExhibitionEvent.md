@@ -37,17 +37,17 @@ Event type: Exhibition event, e.g. at a museum, library, archive, tradeshow, ...
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent|FileClass~ExhibitionEvent]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.public|FileClass~ExhibitionEvent.public]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.internal|FileClass~ExhibitionEvent.internal]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.protect|FileClass~ExhibitionEvent.protect]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.private|FileClass~ExhibitionEvent.private]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.personal|FileClass~ExhibitionEvent.personal]] 
 
-### #is_/same_as :: [FileClass~ExhibitionEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~ExhibitionEvent.secret|FileClass~ExhibitionEvent.secret]] 
 

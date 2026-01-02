@@ -48,17 +48,17 @@ Provenio_UUID: 422db0f8-6330-4d19-a0e2-fd08a83ded27
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orthography](/_Standards/Language/Writing_System/Orthography.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Orthography|Orthography]] 
 
-### #is_/same_as :: [Orthography.public](/_public/Language/Writing_System/Orthography.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Orthography.public|Orthography.public]] 
 
-### #is_/same_as :: [Orthography.internal](/_internal/Language/Writing_System/Orthography.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Orthography.internal|Orthography.internal]] 
 
-### #is_/same_as :: [Orthography.protect](/_protect/Language/Writing_System/Orthography.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Orthography.protect|Orthography.protect]] 
 
-### #is_/same_as :: [Orthography.private](/_private/Language/Writing_System/Orthography.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Orthography.private|Orthography.private]] 
 
-### #is_/same_as :: [Orthography.personal](/_personal/Language/Writing_System/Orthography.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Orthography.personal|Orthography.personal]] 
 
-### #is_/same_as :: [Orthography.secret](/_secret/Language/Writing_System/Orthography.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Orthography.secret|Orthography.secret]] 
 

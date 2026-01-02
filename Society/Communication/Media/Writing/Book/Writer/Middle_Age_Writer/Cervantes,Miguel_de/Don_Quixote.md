@@ -154,17 +154,17 @@ catalog_code: 23:287039F
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Don_Quixote](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote|Don_Quixote]] 
 
-### #is_/same_as :: [Don_Quixote.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.public|Don_Quixote.public]] 
 
-### #is_/same_as :: [Don_Quixote.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.internal|Don_Quixote.internal]] 
 
-### #is_/same_as :: [Don_Quixote.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.protect|Don_Quixote.protect]] 
 
-### #is_/same_as :: [Don_Quixote.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.private|Don_Quixote.private]] 
 
-### #is_/same_as :: [Don_Quixote.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.personal|Don_Quixote.personal]] 
 
-### #is_/same_as :: [Don_Quixote.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Cervantes,Miguel_de/Don_Quixote.secret|Don_Quixote.secret]] 
 

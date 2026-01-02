@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_observation](/_Standards/schema-org/Property/has_Date_Time/has_time_of_observation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_observation|has_time_of_observation]] 
 
-### #is_/same_as :: [has_time_of_observation.public](/_public/schema-org/Property/has_Date_Time/has_time_of_observation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_observation.public|has_time_of_observation.public]] 
 
-### #is_/same_as :: [has_time_of_observation.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_observation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_observation.internal|has_time_of_observation.internal]] 
 
-### #is_/same_as :: [has_time_of_observation.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_observation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_observation.protect|has_time_of_observation.protect]] 
 
-### #is_/same_as :: [has_time_of_observation.private](/_private/schema-org/Property/has_Date_Time/has_time_of_observation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_observation.private|has_time_of_observation.private]] 
 
-### #is_/same_as :: [has_time_of_observation.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_observation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_observation.personal|has_time_of_observation.personal]] 
 
-### #is_/same_as :: [has_time_of_observation.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_observation.secret|has_time_of_observation.secret]] 
 

@@ -34,17 +34,17 @@ Commons_category: Nocebos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nocebo](/_Standards/bio/Medicine/Drug/Medication/Nocebo.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Medication/Nocebo|Nocebo]] 
 
-### #is_/same_as :: [Nocebo.public](/_public/bio/Medicine/Drug/Medication/Nocebo.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Medication/Nocebo.public|Nocebo.public]] 
 
-### #is_/same_as :: [Nocebo.internal](/_internal/bio/Medicine/Drug/Medication/Nocebo.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Medication/Nocebo.internal|Nocebo.internal]] 
 
-### #is_/same_as :: [Nocebo.protect](/_protect/bio/Medicine/Drug/Medication/Nocebo.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Medication/Nocebo.protect|Nocebo.protect]] 
 
-### #is_/same_as :: [Nocebo.private](/_private/bio/Medicine/Drug/Medication/Nocebo.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Medication/Nocebo.private|Nocebo.private]] 
 
-### #is_/same_as :: [Nocebo.personal](/_personal/bio/Medicine/Drug/Medication/Nocebo.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Medication/Nocebo.personal|Nocebo.personal]] 
 
-### #is_/same_as :: [Nocebo.secret](/_secret/bio/Medicine/Drug/Medication/Nocebo.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Medication/Nocebo.secret|Nocebo.secret]] 
 

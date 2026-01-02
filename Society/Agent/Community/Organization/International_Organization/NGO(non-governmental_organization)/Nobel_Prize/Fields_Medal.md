@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fields_Medal](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal|Fields_Medal]] 
 
-### #is_/same_as :: [Fields_Medal.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.public|Fields_Medal.public]] 
 
-### #is_/same_as :: [Fields_Medal.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.internal|Fields_Medal.internal]] 
 
-### #is_/same_as :: [Fields_Medal.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.protect|Fields_Medal.protect]] 
 
-### #is_/same_as :: [Fields_Medal.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.private|Fields_Medal.private]] 
 
-### #is_/same_as :: [Fields_Medal.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.personal|Fields_Medal.personal]] 
 
-### #is_/same_as :: [Fields_Medal.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Nobel_Prize/Fields_Medal.secret|Fields_Medal.secret]] 
 

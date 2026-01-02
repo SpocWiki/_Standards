@@ -80,17 +80,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indian_Subcontinent](/_Standards/Earth/Continent/Asia/Indian_Subcontinent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent|Indian_Subcontinent]] 
 
-### #is_/same_as :: [Indian_Subcontinent.public](/_public/Earth/Continent/Asia/Indian_Subcontinent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent.public|Indian_Subcontinent.public]] 
 
-### #is_/same_as :: [Indian_Subcontinent.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent.internal|Indian_Subcontinent.internal]] 
 
-### #is_/same_as :: [Indian_Subcontinent.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent.protect|Indian_Subcontinent.protect]] 
 
-### #is_/same_as :: [Indian_Subcontinent.private](/_private/Earth/Continent/Asia/Indian_Subcontinent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent.private|Indian_Subcontinent.private]] 
 
-### #is_/same_as :: [Indian_Subcontinent.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent.personal|Indian_Subcontinent.personal]] 
 
-### #is_/same_as :: [Indian_Subcontinent.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent.secret|Indian_Subcontinent.secret]] 
 

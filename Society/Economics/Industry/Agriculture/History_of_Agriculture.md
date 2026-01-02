@@ -43,17 +43,17 @@ Provenio_UUID: 7733d8ab-c2ea-4d0e-8ef9-0bf5939cf682
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/History_of_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/History_of_Agriculture|History_of_Agriculture]] 
 
-### #is_/same_as :: [History_of_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/History_of_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/History_of_Agriculture.public|History_of_Agriculture.public]] 
 
-### #is_/same_as :: [History_of_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/History_of_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/History_of_Agriculture.internal|History_of_Agriculture.internal]] 
 
-### #is_/same_as :: [History_of_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/History_of_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/History_of_Agriculture.protect|History_of_Agriculture.protect]] 
 
-### #is_/same_as :: [History_of_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/History_of_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/History_of_Agriculture.private|History_of_Agriculture.private]] 
 
-### #is_/same_as :: [History_of_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/History_of_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/History_of_Agriculture.personal|History_of_Agriculture.personal]] 
 
-### #is_/same_as :: [History_of_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/History_of_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/History_of_Agriculture.secret|History_of_Agriculture.secret]] 
 

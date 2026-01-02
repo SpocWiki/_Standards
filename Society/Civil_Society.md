@@ -39,17 +39,17 @@ Library_of_Congress_Classification: JC337
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Society](/_Standards/Society/Civil_Society.md) 
+### #is_/same_as :: [[/_Standards/Society/Civil_Society|Civil_Society]] 
 
-### #is_/same_as :: [Civil_Society.public](/_public/Society/Civil_Society.public.md) 
+### #is_/same_as :: [[/_public/Society/Civil_Society.public|Civil_Society.public]] 
 
-### #is_/same_as :: [Civil_Society.internal](/_internal/Society/Civil_Society.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Civil_Society.internal|Civil_Society.internal]] 
 
-### #is_/same_as :: [Civil_Society.protect](/_protect/Society/Civil_Society.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Civil_Society.protect|Civil_Society.protect]] 
 
-### #is_/same_as :: [Civil_Society.private](/_private/Society/Civil_Society.private.md) 
+### #is_/same_as :: [[/_private/Society/Civil_Society.private|Civil_Society.private]] 
 
-### #is_/same_as :: [Civil_Society.personal](/_personal/Society/Civil_Society.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Civil_Society.personal|Civil_Society.personal]] 
 
-### #is_/same_as :: [Civil_Society.secret](/_secret/Society/Civil_Society.secret.md)
+### #is_/same_as :: [[/_secret/Society/Civil_Society.secret|Civil_Society.secret]] 
 

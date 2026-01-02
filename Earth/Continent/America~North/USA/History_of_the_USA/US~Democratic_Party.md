@@ -87,3 +87,22 @@ aliases:
 
 ### #is_/same_as :: [US~Democratic_Party.secret](/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret.md)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party|US~Democratic_Party]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.public|US~Democratic_Party.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.internal|US~Democratic_Party.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.protect|US~Democratic_Party.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.private|US~Democratic_Party.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.personal|US~Democratic_Party.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/US~Democratic_Party.secret|US~Democratic_Party.secret]] 
+

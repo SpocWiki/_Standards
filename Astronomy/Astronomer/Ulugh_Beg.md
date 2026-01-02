@@ -110,17 +110,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/ULUGBEK_MUHAMMED_TARAGA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ulugh_Beg](/_Standards/Astronomy/Astronomer/Ulugh_Beg.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Ulugh_Beg|Ulugh_Beg]] 
 
-### #is_/same_as :: [Ulugh_Beg.public](/_public/Astronomy/Astronomer/Ulugh_Beg.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Ulugh_Beg.public|Ulugh_Beg.public]] 
 
-### #is_/same_as :: [Ulugh_Beg.internal](/_internal/Astronomy/Astronomer/Ulugh_Beg.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Ulugh_Beg.internal|Ulugh_Beg.internal]] 
 
-### #is_/same_as :: [Ulugh_Beg.protect](/_protect/Astronomy/Astronomer/Ulugh_Beg.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Ulugh_Beg.protect|Ulugh_Beg.protect]] 
 
-### #is_/same_as :: [Ulugh_Beg.private](/_private/Astronomy/Astronomer/Ulugh_Beg.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Ulugh_Beg.private|Ulugh_Beg.private]] 
 
-### #is_/same_as :: [Ulugh_Beg.personal](/_personal/Astronomy/Astronomer/Ulugh_Beg.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Ulugh_Beg.personal|Ulugh_Beg.personal]] 
 
-### #is_/same_as :: [Ulugh_Beg.secret](/_secret/Astronomy/Astronomer/Ulugh_Beg.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Ulugh_Beg.secret|Ulugh_Beg.secret]] 
 

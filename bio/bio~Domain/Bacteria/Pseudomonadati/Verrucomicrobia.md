@@ -92,17 +92,17 @@ title: Verrucomicrobia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verrucomicrobia](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia|Verrucomicrobia]] 
 
-### #is_/same_as :: [Verrucomicrobia.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.public|Verrucomicrobia.public]] 
 
-### #is_/same_as :: [Verrucomicrobia.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.internal|Verrucomicrobia.internal]] 
 
-### #is_/same_as :: [Verrucomicrobia.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.protect|Verrucomicrobia.protect]] 
 
-### #is_/same_as :: [Verrucomicrobia.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.private|Verrucomicrobia.private]] 
 
-### #is_/same_as :: [Verrucomicrobia.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.personal|Verrucomicrobia.personal]] 
 
-### #is_/same_as :: [Verrucomicrobia.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Verrucomicrobia.secret|Verrucomicrobia.secret]] 
 

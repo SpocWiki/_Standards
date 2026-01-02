@@ -58,17 +58,17 @@ male_form_of_label: Sekreterê Giştî yê Neteweyên Yekbûyî
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UN~General_Secretary](/_Standards/UN(United_Nations)/UN~General_Secretary.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UN~General_Secretary|UN~General_Secretary]] 
 
-### #is_/same_as :: [UN~General_Secretary.public](/_public/UN(United_Nations)/UN~General_Secretary.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UN~General_Secretary.public|UN~General_Secretary.public]] 
 
-### #is_/same_as :: [UN~General_Secretary.internal](/_internal/UN(United_Nations)/UN~General_Secretary.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UN~General_Secretary.internal|UN~General_Secretary.internal]] 
 
-### #is_/same_as :: [UN~General_Secretary.protect](/_protect/UN(United_Nations)/UN~General_Secretary.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UN~General_Secretary.protect|UN~General_Secretary.protect]] 
 
-### #is_/same_as :: [UN~General_Secretary.private](/_private/UN(United_Nations)/UN~General_Secretary.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UN~General_Secretary.private|UN~General_Secretary.private]] 
 
-### #is_/same_as :: [UN~General_Secretary.personal](/_personal/UN(United_Nations)/UN~General_Secretary.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UN~General_Secretary.personal|UN~General_Secretary.personal]] 
 
-### #is_/same_as :: [UN~General_Secretary.secret](/_secret/UN(United_Nations)/UN~General_Secretary.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UN~General_Secretary.secret|UN~General_Secretary.secret]] 
 

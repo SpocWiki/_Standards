@@ -53,17 +53,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brightness](/_Standards/Technology/Design/Graphic_Design/Brightness.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Brightness|Brightness]] 
 
-### #is_/same_as :: [Brightness.public](/_public/Technology/Design/Graphic_Design/Brightness.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Brightness.public|Brightness.public]] 
 
-### #is_/same_as :: [Brightness.internal](/_internal/Technology/Design/Graphic_Design/Brightness.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Brightness.internal|Brightness.internal]] 
 
-### #is_/same_as :: [Brightness.protect](/_protect/Technology/Design/Graphic_Design/Brightness.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Brightness.protect|Brightness.protect]] 
 
-### #is_/same_as :: [Brightness.private](/_private/Technology/Design/Graphic_Design/Brightness.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Brightness.private|Brightness.private]] 
 
-### #is_/same_as :: [Brightness.personal](/_personal/Technology/Design/Graphic_Design/Brightness.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Brightness.personal|Brightness.personal]] 
 
-### #is_/same_as :: [Brightness.secret](/_secret/Technology/Design/Graphic_Design/Brightness.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Brightness.secret|Brightness.secret]] 
 

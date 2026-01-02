@@ -108,17 +108,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leukemia](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia|Leukemia]] 
 
-### #is_/same_as :: [Leukemia.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.public|Leukemia.public]] 
 
-### #is_/same_as :: [Leukemia.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.internal|Leukemia.internal]] 
 
-### #is_/same_as :: [Leukemia.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.protect|Leukemia.protect]] 
 
-### #is_/same_as :: [Leukemia.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.private|Leukemia.private]] 
 
-### #is_/same_as :: [Leukemia.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.personal|Leukemia.personal]] 
 
-### #is_/same_as :: [Leukemia.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Leukemia.secret|Leukemia.secret]] 
 

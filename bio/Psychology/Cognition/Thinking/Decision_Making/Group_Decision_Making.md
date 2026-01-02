@@ -30,17 +30,17 @@ Library_of_Congress_Classification: HM746-HM751
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Decision_Making](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making|Group_Decision_Making]] 
 
-### #is_/same_as :: [Group_Decision_Making.public](/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.public|Group_Decision_Making.public]] 
 
-### #is_/same_as :: [Group_Decision_Making.internal](/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.internal|Group_Decision_Making.internal]] 
 
-### #is_/same_as :: [Group_Decision_Making.protect](/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.protect|Group_Decision_Making.protect]] 
 
-### #is_/same_as :: [Group_Decision_Making.private](/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.private|Group_Decision_Making.private]] 
 
-### #is_/same_as :: [Group_Decision_Making.personal](/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.personal|Group_Decision_Making.personal]] 
 
-### #is_/same_as :: [Group_Decision_Making.secret](/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Thinking/Decision_Making/Group_Decision_Making.secret|Group_Decision_Making.secret]] 
 

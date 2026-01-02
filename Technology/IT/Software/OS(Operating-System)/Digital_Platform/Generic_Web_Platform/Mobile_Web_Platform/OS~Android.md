@@ -207,17 +207,17 @@ Represents the broad notion of Android-based operating systems.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS~Android](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android|OS~Android]] 
 
-### #is_/same_as :: [OS~Android.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.public|OS~Android.public]] 
 
-### #is_/same_as :: [OS~Android.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.internal|OS~Android.internal]] 
 
-### #is_/same_as :: [OS~Android.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.protect|OS~Android.protect]] 
 
-### #is_/same_as :: [OS~Android.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.private|OS~Android.private]] 
 
-### #is_/same_as :: [OS~Android.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.personal|OS~Android.personal]] 
 
-### #is_/same_as :: [OS~Android.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~Android.secret|OS~Android.secret]] 
 

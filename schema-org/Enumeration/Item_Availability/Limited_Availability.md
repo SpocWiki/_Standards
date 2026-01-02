@@ -42,17 +42,17 @@ Indicates that the item has limited availability.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limited_Availability](/_Standards/schema-org/Enumeration/Item_Availability/Limited_Availability.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability/Limited_Availability|Limited_Availability]] 
 
-### #is_/same_as :: [Limited_Availability.public](/_public/schema-org/Enumeration/Item_Availability/Limited_Availability.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability/Limited_Availability.public|Limited_Availability.public]] 
 
-### #is_/same_as :: [Limited_Availability.internal](/_internal/schema-org/Enumeration/Item_Availability/Limited_Availability.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability/Limited_Availability.internal|Limited_Availability.internal]] 
 
-### #is_/same_as :: [Limited_Availability.protect](/_protect/schema-org/Enumeration/Item_Availability/Limited_Availability.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability/Limited_Availability.protect|Limited_Availability.protect]] 
 
-### #is_/same_as :: [Limited_Availability.private](/_private/schema-org/Enumeration/Item_Availability/Limited_Availability.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability/Limited_Availability.private|Limited_Availability.private]] 
 
-### #is_/same_as :: [Limited_Availability.personal](/_personal/schema-org/Enumeration/Item_Availability/Limited_Availability.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability/Limited_Availability.personal|Limited_Availability.personal]] 
 
-### #is_/same_as :: [Limited_Availability.secret](/_secret/schema-org/Enumeration/Item_Availability/Limited_Availability.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability/Limited_Availability.secret|Limited_Availability.secret]] 
 

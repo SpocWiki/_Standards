@@ -46,17 +46,17 @@ Krugosvet_article: tekhnologiya-i-promyshlennost/viski
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Whisky](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky|Whisky]] 
 
-### #is_/same_as :: [Whisky.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.public|Whisky.public]] 
 
-### #is_/same_as :: [Whisky.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.internal|Whisky.internal]] 
 
-### #is_/same_as :: [Whisky.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.protect|Whisky.protect]] 
 
-### #is_/same_as :: [Whisky.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.private|Whisky.private]] 
 
-### #is_/same_as :: [Whisky.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.personal|Whisky.personal]] 
 
-### #is_/same_as :: [Whisky.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Whisky.secret|Whisky.secret]] 
 

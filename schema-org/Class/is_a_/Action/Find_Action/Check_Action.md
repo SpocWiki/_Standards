@@ -41,17 +41,17 @@ An agent inspects, determines, investigates, inquires, or examines an object's a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Check_Action](/_Standards/schema-org/Class/is_a_/Action/Find_Action/Check_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Find_Action/Check_Action|Check_Action]] 
 
-### #is_/same_as :: [Check_Action.public](/_public/schema-org/Class/is_a_/Action/Find_Action/Check_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Find_Action/Check_Action.public|Check_Action.public]] 
 
-### #is_/same_as :: [Check_Action.internal](/_internal/schema-org/Class/is_a_/Action/Find_Action/Check_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Find_Action/Check_Action.internal|Check_Action.internal]] 
 
-### #is_/same_as :: [Check_Action.protect](/_protect/schema-org/Class/is_a_/Action/Find_Action/Check_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Find_Action/Check_Action.protect|Check_Action.protect]] 
 
-### #is_/same_as :: [Check_Action.private](/_private/schema-org/Class/is_a_/Action/Find_Action/Check_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Find_Action/Check_Action.private|Check_Action.private]] 
 
-### #is_/same_as :: [Check_Action.personal](/_personal/schema-org/Class/is_a_/Action/Find_Action/Check_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Find_Action/Check_Action.personal|Check_Action.personal]] 
 
-### #is_/same_as :: [Check_Action.secret](/_secret/schema-org/Class/is_a_/Action/Find_Action/Check_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Find_Action/Check_Action.secret|Check_Action.secret]] 
 

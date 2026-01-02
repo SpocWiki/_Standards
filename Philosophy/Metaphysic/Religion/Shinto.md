@@ -91,17 +91,17 @@ OpenStreetMap_tag: religion=shinto
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shinto](/_Standards/Philosophy/Metaphysic/Religion/Shinto.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Shinto|Shinto]] 
 
-### #is_/same_as :: [Shinto.public](/_public/Philosophy/Metaphysic/Religion/Shinto.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Shinto.public|Shinto.public]] 
 
-### #is_/same_as :: [Shinto.internal](/_internal/Philosophy/Metaphysic/Religion/Shinto.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Shinto.internal|Shinto.internal]] 
 
-### #is_/same_as :: [Shinto.protect](/_protect/Philosophy/Metaphysic/Religion/Shinto.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Shinto.protect|Shinto.protect]] 
 
-### #is_/same_as :: [Shinto.private](/_private/Philosophy/Metaphysic/Religion/Shinto.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Shinto.private|Shinto.private]] 
 
-### #is_/same_as :: [Shinto.personal](/_personal/Philosophy/Metaphysic/Religion/Shinto.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Shinto.personal|Shinto.personal]] 
 
-### #is_/same_as :: [Shinto.secret](/_secret/Philosophy/Metaphysic/Religion/Shinto.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Shinto.secret|Shinto.secret]] 
 

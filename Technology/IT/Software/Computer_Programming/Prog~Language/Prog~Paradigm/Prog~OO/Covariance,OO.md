@@ -14,17 +14,17 @@ i.e. they can be more specific without breaking the [[Liskov_Substitution-Princi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Covariance,OO](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO|Covariance,OO]] 
 
-### #is_/same_as :: [Covariance,OO.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.public|Covariance,OO.public]] 
 
-### #is_/same_as :: [Covariance,OO.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.internal|Covariance,OO.internal]] 
 
-### #is_/same_as :: [Covariance,OO.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.protect|Covariance,OO.protect]] 
 
-### #is_/same_as :: [Covariance,OO.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.private|Covariance,OO.private]] 
 
-### #is_/same_as :: [Covariance,OO.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.personal|Covariance,OO.personal]] 
 
-### #is_/same_as :: [Covariance,OO.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Covariance,OO.secret|Covariance,OO.secret]] 
 

@@ -94,17 +94,17 @@ You've got to promise not to stop when I say you win
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Everlong](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong|Everlong]] 
 
-### #is_/same_as :: [Everlong.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.public|Everlong.public]] 
 
-### #is_/same_as :: [Everlong.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.internal|Everlong.internal]] 
 
-### #is_/same_as :: [Everlong.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.protect|Everlong.protect]] 
 
-### #is_/same_as :: [Everlong.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.private|Everlong.private]] 
 
-### #is_/same_as :: [Everlong.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.personal|Everlong.personal]] 
 
-### #is_/same_as :: [Everlong.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Foo_Fighters/Everlong.secret|Everlong.secret]] 
 

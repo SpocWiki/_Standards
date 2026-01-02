@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [101_Dalmatians(1996)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996)|101_Dalmatians(1996)]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).public|101_Dalmatians(1996).public]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).internal|101_Dalmatians(1996).internal]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).protect|101_Dalmatians(1996).protect]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).private|101_Dalmatians(1996).private]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).personal|101_Dalmatians(1996).personal]] 
 
-### #is_/same_as :: [101_Dalmatians(1996).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/101_Dalmatians(1996).secret|101_Dalmatians(1996).secret]] 
 

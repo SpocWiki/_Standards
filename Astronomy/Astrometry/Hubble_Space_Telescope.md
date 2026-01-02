@@ -137,17 +137,17 @@ Wolfram_Language_entity_code: Entity["Satellite", "20580"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hubble_Space_Telescope](/_Standards/Astronomy/Astrometry/Hubble_Space_Telescope.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Hubble_Space_Telescope|Hubble_Space_Telescope]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.public](/_public/Astronomy/Astrometry/Hubble_Space_Telescope.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Hubble_Space_Telescope.public|Hubble_Space_Telescope.public]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.internal](/_internal/Astronomy/Astrometry/Hubble_Space_Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Hubble_Space_Telescope.internal|Hubble_Space_Telescope.internal]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.protect](/_protect/Astronomy/Astrometry/Hubble_Space_Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Hubble_Space_Telescope.protect|Hubble_Space_Telescope.protect]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.private](/_private/Astronomy/Astrometry/Hubble_Space_Telescope.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Hubble_Space_Telescope.private|Hubble_Space_Telescope.private]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.personal](/_personal/Astronomy/Astrometry/Hubble_Space_Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Hubble_Space_Telescope.personal|Hubble_Space_Telescope.personal]] 
 
-### #is_/same_as :: [Hubble_Space_Telescope.secret](/_secret/Astronomy/Astrometry/Hubble_Space_Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Hubble_Space_Telescope.secret|Hubble_Space_Telescope.secret]] 
 

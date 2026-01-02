@@ -60,17 +60,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statue](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue|Statue]] 
 
-### #is_/same_as :: [Statue.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue.public|Statue.public]] 
 
-### #is_/same_as :: [Statue.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue.internal|Statue.internal]] 
 
-### #is_/same_as :: [Statue.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue.protect|Statue.protect]] 
 
-### #is_/same_as :: [Statue.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue.private|Statue.private]] 
 
-### #is_/same_as :: [Statue.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue.personal|Statue.personal]] 
 
-### #is_/same_as :: [Statue.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue.secret|Statue.secret]] 
 

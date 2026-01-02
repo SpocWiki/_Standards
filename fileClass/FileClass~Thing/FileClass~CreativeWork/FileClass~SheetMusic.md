@@ -37,17 +37,17 @@ Printed music, as opposed to performed or recorded music.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SheetMusic](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic|FileClass~SheetMusic]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.public|FileClass~SheetMusic.public]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.internal|FileClass~SheetMusic.internal]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.protect|FileClass~SheetMusic.protect]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.private|FileClass~SheetMusic.private]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.personal|FileClass~SheetMusic.personal]] 
 
-### #is_/same_as :: [FileClass~SheetMusic.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~SheetMusic.secret|FileClass~SheetMusic.secret]] 
 

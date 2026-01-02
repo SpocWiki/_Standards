@@ -61,17 +61,17 @@ inception: 1908-05-15T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation|International_Ice_Hockey_Federation]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.public|International_Ice_Hockey_Federation.public]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.internal|International_Ice_Hockey_Federation.internal]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.protect|International_Ice_Hockey_Federation.protect]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.private|International_Ice_Hockey_Federation.private]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.personal|International_Ice_Hockey_Federation.personal]] 
 
-### #is_/same_as :: [International_Ice_Hockey_Federation.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/International_Ice_Hockey_Federation.secret|International_Ice_Hockey_Federation.secret]] 
 

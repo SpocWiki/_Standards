@@ -56,17 +56,17 @@ before [ has_/sub_classes:: [[AmpStory]], [[ArchiveComponent]], Article, Atlas, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Creative_Work](/_Standards/Society/Communication/Media/Creative_Work.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work|Creative_Work]] 
 
-### #is_/same_as :: [Creative_Work.public](/_public/Society/Communication/Media/Creative_Work.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work.public|Creative_Work.public]] 
 
-### #is_/same_as :: [Creative_Work.internal](/_internal/Society/Communication/Media/Creative_Work.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work.internal|Creative_Work.internal]] 
 
-### #is_/same_as :: [Creative_Work.protect](/_protect/Society/Communication/Media/Creative_Work.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work.protect|Creative_Work.protect]] 
 
-### #is_/same_as :: [Creative_Work.private](/_private/Society/Communication/Media/Creative_Work.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work.private|Creative_Work.private]] 
 
-### #is_/same_as :: [Creative_Work.personal](/_personal/Society/Communication/Media/Creative_Work.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work.personal|Creative_Work.personal]] 
 
-### #is_/same_as :: [Creative_Work.secret](/_secret/Society/Communication/Media/Creative_Work.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work.secret|Creative_Work.secret]] 
 

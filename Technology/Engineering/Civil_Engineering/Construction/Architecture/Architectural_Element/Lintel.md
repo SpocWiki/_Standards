@@ -47,17 +47,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lintel](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel|Lintel]] 
 
-### #is_/same_as :: [Lintel.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.public|Lintel.public]] 
 
-### #is_/same_as :: [Lintel.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.internal|Lintel.internal]] 
 
-### #is_/same_as :: [Lintel.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.protect|Lintel.protect]] 
 
-### #is_/same_as :: [Lintel.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.private|Lintel.private]] 
 
-### #is_/same_as :: [Lintel.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.personal|Lintel.personal]] 
 
-### #is_/same_as :: [Lintel.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Lintel.secret|Lintel.secret]] 
 

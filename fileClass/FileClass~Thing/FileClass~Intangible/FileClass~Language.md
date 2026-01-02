@@ -37,17 +37,17 @@ Natural languages such as Spanish, Tamil, Hindi, English, etc. Formal language c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Language](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language|FileClass~Language]] 
 
-### #is_/same_as :: [FileClass~Language.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.public|FileClass~Language.public]] 
 
-### #is_/same_as :: [FileClass~Language.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.internal|FileClass~Language.internal]] 
 
-### #is_/same_as :: [FileClass~Language.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.protect|FileClass~Language.protect]] 
 
-### #is_/same_as :: [FileClass~Language.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.private|FileClass~Language.private]] 
 
-### #is_/same_as :: [FileClass~Language.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.personal|FileClass~Language.personal]] 
 
-### #is_/same_as :: [FileClass~Language.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Language.secret|FileClass~Language.secret]] 
 

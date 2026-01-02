@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_bed](/_Standards/schema-org/Relation/has/has_bed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_bed|has_bed]] 
 
-### #is_/same_as :: [has_bed.public](/_public/schema-org/Relation/has/has_bed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_bed.public|has_bed.public]] 
 
-### #is_/same_as :: [has_bed.internal](/_internal/schema-org/Relation/has/has_bed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_bed.internal|has_bed.internal]] 
 
-### #is_/same_as :: [has_bed.protect](/_protect/schema-org/Relation/has/has_bed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_bed.protect|has_bed.protect]] 
 
-### #is_/same_as :: [has_bed.private](/_private/schema-org/Relation/has/has_bed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_bed.private|has_bed.private]] 
 
-### #is_/same_as :: [has_bed.personal](/_personal/schema-org/Relation/has/has_bed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_bed.personal|has_bed.personal]] 
 
-### #is_/same_as :: [has_bed.secret](/_secret/schema-org/Relation/has/has_bed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_bed.secret|has_bed.secret]] 
 

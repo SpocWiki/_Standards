@@ -67,17 +67,17 @@ MeSH_tree_code: J01.576.549
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laundry](/_Standards/Society/Economics/Home_Economics/Laundry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Laundry|Laundry]] 
 
-### #is_/same_as :: [Laundry.public](/_public/Society/Economics/Home_Economics/Laundry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Laundry.public|Laundry.public]] 
 
-### #is_/same_as :: [Laundry.internal](/_internal/Society/Economics/Home_Economics/Laundry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Laundry.internal|Laundry.internal]] 
 
-### #is_/same_as :: [Laundry.protect](/_protect/Society/Economics/Home_Economics/Laundry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Laundry.protect|Laundry.protect]] 
 
-### #is_/same_as :: [Laundry.private](/_private/Society/Economics/Home_Economics/Laundry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Laundry.private|Laundry.private]] 
 
-### #is_/same_as :: [Laundry.personal](/_personal/Society/Economics/Home_Economics/Laundry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Laundry.personal|Laundry.personal]] 
 
-### #is_/same_as :: [Laundry.secret](/_secret/Society/Economics/Home_Economics/Laundry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Laundry.secret|Laundry.secret]] 
 

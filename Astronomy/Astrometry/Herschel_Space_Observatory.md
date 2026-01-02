@@ -78,17 +78,17 @@ service_retirement: 2013-06-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herschel_Space_Observatory](/_Standards/Astronomy/Astrometry/Herschel_Space_Observatory.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Herschel_Space_Observatory|Herschel_Space_Observatory]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.public](/_public/Astronomy/Astrometry/Herschel_Space_Observatory.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Herschel_Space_Observatory.public|Herschel_Space_Observatory.public]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.internal](/_internal/Astronomy/Astrometry/Herschel_Space_Observatory.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Herschel_Space_Observatory.internal|Herschel_Space_Observatory.internal]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.protect](/_protect/Astronomy/Astrometry/Herschel_Space_Observatory.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Herschel_Space_Observatory.protect|Herschel_Space_Observatory.protect]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.private](/_private/Astronomy/Astrometry/Herschel_Space_Observatory.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Herschel_Space_Observatory.private|Herschel_Space_Observatory.private]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.personal](/_personal/Astronomy/Astrometry/Herschel_Space_Observatory.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Herschel_Space_Observatory.personal|Herschel_Space_Observatory.personal]] 
 
-### #is_/same_as :: [Herschel_Space_Observatory.secret](/_secret/Astronomy/Astrometry/Herschel_Space_Observatory.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Herschel_Space_Observatory.secret|Herschel_Space_Observatory.secret]] 
 

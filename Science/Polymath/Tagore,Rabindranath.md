@@ -177,17 +177,17 @@ Swedish_Open_Cultural_Heritage_URI: SMVK-EM/name/2236194
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tagore,Rabindranath](/_Standards/Science/Polymath/Tagore,Rabindranath.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Tagore,Rabindranath|Tagore,Rabindranath]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.public](/_public/Science/Polymath/Tagore,Rabindranath.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Tagore,Rabindranath.public|Tagore,Rabindranath.public]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.internal](/_internal/Science/Polymath/Tagore,Rabindranath.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Tagore,Rabindranath.internal|Tagore,Rabindranath.internal]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.protect](/_protect/Science/Polymath/Tagore,Rabindranath.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Tagore,Rabindranath.protect|Tagore,Rabindranath.protect]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.private](/_private/Science/Polymath/Tagore,Rabindranath.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Tagore,Rabindranath.private|Tagore,Rabindranath.private]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.personal](/_personal/Science/Polymath/Tagore,Rabindranath.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Tagore,Rabindranath.personal|Tagore,Rabindranath.personal]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.secret](/_secret/Science/Polymath/Tagore,Rabindranath.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Tagore,Rabindranath.secret|Tagore,Rabindranath.secret]] 
 

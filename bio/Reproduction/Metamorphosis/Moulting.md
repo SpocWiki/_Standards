@@ -39,17 +39,17 @@ MeSH_tree_code: G07.345.500.550.750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moulting](/_Standards/bio/Reproduction/Metamorphosis/Moulting.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Metamorphosis/Moulting|Moulting]] 
 
-### #is_/same_as :: [Moulting.public](/_public/bio/Reproduction/Metamorphosis/Moulting.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Metamorphosis/Moulting.public|Moulting.public]] 
 
-### #is_/same_as :: [Moulting.internal](/_internal/bio/Reproduction/Metamorphosis/Moulting.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Metamorphosis/Moulting.internal|Moulting.internal]] 
 
-### #is_/same_as :: [Moulting.protect](/_protect/bio/Reproduction/Metamorphosis/Moulting.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Metamorphosis/Moulting.protect|Moulting.protect]] 
 
-### #is_/same_as :: [Moulting.private](/_private/bio/Reproduction/Metamorphosis/Moulting.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Metamorphosis/Moulting.private|Moulting.private]] 
 
-### #is_/same_as :: [Moulting.personal](/_personal/bio/Reproduction/Metamorphosis/Moulting.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Metamorphosis/Moulting.personal|Moulting.personal]] 
 
-### #is_/same_as :: [Moulting.secret](/_secret/bio/Reproduction/Metamorphosis/Moulting.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Metamorphosis/Moulting.secret|Moulting.secret]] 
 

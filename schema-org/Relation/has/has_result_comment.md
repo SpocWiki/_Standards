@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_result_comment](/_Standards/schema-org/Relation/has/has_result_comment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_result_comment|has_result_comment]] 
 
-### #is_/same_as :: [has_result_comment.public](/_public/schema-org/Relation/has/has_result_comment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_result_comment.public|has_result_comment.public]] 
 
-### #is_/same_as :: [has_result_comment.internal](/_internal/schema-org/Relation/has/has_result_comment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_result_comment.internal|has_result_comment.internal]] 
 
-### #is_/same_as :: [has_result_comment.protect](/_protect/schema-org/Relation/has/has_result_comment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_result_comment.protect|has_result_comment.protect]] 
 
-### #is_/same_as :: [has_result_comment.private](/_private/schema-org/Relation/has/has_result_comment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_result_comment.private|has_result_comment.private]] 
 
-### #is_/same_as :: [has_result_comment.personal](/_personal/schema-org/Relation/has/has_result_comment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_result_comment.personal|has_result_comment.personal]] 
 
-### #is_/same_as :: [has_result_comment.secret](/_secret/schema-org/Relation/has/has_result_comment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_result_comment.secret|has_result_comment.secret]] 
 

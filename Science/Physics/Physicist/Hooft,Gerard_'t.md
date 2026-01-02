@@ -104,17 +104,17 @@ ISNI: 0000000121429592
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hooft,Gerard_'t](/_Standards/Science/Physics/Physicist/Hooft,Gerard_'t.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Hooft,Gerard_'t|Hooft,Gerard_'t]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.public](/_public/Science/Physics/Physicist/Hooft,Gerard_'t.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Hooft,Gerard_'t.public|Hooft,Gerard_'t.public]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.internal](/_internal/Science/Physics/Physicist/Hooft,Gerard_'t.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Hooft,Gerard_'t.internal|Hooft,Gerard_'t.internal]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.protect](/_protect/Science/Physics/Physicist/Hooft,Gerard_'t.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Hooft,Gerard_'t.protect|Hooft,Gerard_'t.protect]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.private](/_private/Science/Physics/Physicist/Hooft,Gerard_'t.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Hooft,Gerard_'t.private|Hooft,Gerard_'t.private]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.personal](/_personal/Science/Physics/Physicist/Hooft,Gerard_'t.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Hooft,Gerard_'t.personal|Hooft,Gerard_'t.personal]] 
 
-### #is_/same_as :: [Hooft,Gerard_'t.secret](/_secret/Science/Physics/Physicist/Hooft,Gerard_'t.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Hooft,Gerard_'t.secret|Hooft,Gerard_'t.secret]] 
 

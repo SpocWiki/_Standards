@@ -102,17 +102,17 @@ EPPO_Code: LIHCH
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Litchi_chinensis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis|Litchi_chinensis]] 
 
-### #is_/same_as :: [Litchi_chinensis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.public|Litchi_chinensis.public]] 
 
-### #is_/same_as :: [Litchi_chinensis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.internal|Litchi_chinensis.internal]] 
 
-### #is_/same_as :: [Litchi_chinensis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.protect|Litchi_chinensis.protect]] 
 
-### #is_/same_as :: [Litchi_chinensis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.private|Litchi_chinensis.private]] 
 
-### #is_/same_as :: [Litchi_chinensis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.personal|Litchi_chinensis.personal]] 
 
-### #is_/same_as :: [Litchi_chinensis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Sapindaceae/Litchi_chinensis.secret|Litchi_chinensis.secret]] 
 

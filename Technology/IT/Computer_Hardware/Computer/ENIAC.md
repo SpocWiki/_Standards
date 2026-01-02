@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20women%20operatin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ENIAC](/_Standards/Technology/IT/Computer_Hardware/Computer/ENIAC.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/ENIAC|ENIAC]] 
 
-### #is_/same_as :: [ENIAC.public](/_public/Technology/IT/Computer_Hardware/Computer/ENIAC.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/ENIAC.public|ENIAC.public]] 
 
-### #is_/same_as :: [ENIAC.internal](/_internal/Technology/IT/Computer_Hardware/Computer/ENIAC.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/ENIAC.internal|ENIAC.internal]] 
 
-### #is_/same_as :: [ENIAC.protect](/_protect/Technology/IT/Computer_Hardware/Computer/ENIAC.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/ENIAC.protect|ENIAC.protect]] 
 
-### #is_/same_as :: [ENIAC.private](/_private/Technology/IT/Computer_Hardware/Computer/ENIAC.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/ENIAC.private|ENIAC.private]] 
 
-### #is_/same_as :: [ENIAC.personal](/_personal/Technology/IT/Computer_Hardware/Computer/ENIAC.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/ENIAC.personal|ENIAC.personal]] 
 
-### #is_/same_as :: [ENIAC.secret](/_secret/Technology/IT/Computer_Hardware/Computer/ENIAC.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/ENIAC.secret|ENIAC.secret]] 
 

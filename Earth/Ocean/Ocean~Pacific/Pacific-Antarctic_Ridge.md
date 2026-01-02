@@ -41,17 +41,17 @@ coordinate_location: Point(-157.000165 -61.999555)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge|Pacific-Antarctic_Ridge]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.public|Pacific-Antarctic_Ridge.public]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.internal|Pacific-Antarctic_Ridge.internal]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.protect|Pacific-Antarctic_Ridge.protect]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.private|Pacific-Antarctic_Ridge.private]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.personal|Pacific-Antarctic_Ridge.personal]] 
 
-### #is_/same_as :: [Pacific-Antarctic_Ridge.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific-Antarctic_Ridge.secret|Pacific-Antarctic_Ridge.secret]] 
 

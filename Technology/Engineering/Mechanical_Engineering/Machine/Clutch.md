@@ -41,17 +41,17 @@ Commons_category: Clutches
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clutch](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Clutch|Clutch]] 
 
-### #is_/same_as :: [Clutch.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.public|Clutch.public]] 
 
-### #is_/same_as :: [Clutch.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.internal|Clutch.internal]] 
 
-### #is_/same_as :: [Clutch.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.protect|Clutch.protect]] 
 
-### #is_/same_as :: [Clutch.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.private|Clutch.private]] 
 
-### #is_/same_as :: [Clutch.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.personal|Clutch.personal]] 
 
-### #is_/same_as :: [Clutch.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Clutch.secret|Clutch.secret]] 
 

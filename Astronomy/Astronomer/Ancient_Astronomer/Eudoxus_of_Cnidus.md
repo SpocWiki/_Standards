@@ -66,17 +66,17 @@ ISNI: "0000000108697437"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus](/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus|Eudoxus_of_Cnidus]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.public](/_public/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.public|Eudoxus_of_Cnidus.public]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.internal](/_internal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.internal|Eudoxus_of_Cnidus.internal]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.protect](/_protect/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.protect|Eudoxus_of_Cnidus.protect]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.private](/_private/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.private|Eudoxus_of_Cnidus.private]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.personal](/_personal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.personal|Eudoxus_of_Cnidus.personal]] 
 
-### #is_/same_as :: [Eudoxus_of_Cnidus.secret](/_secret/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Ancient_Astronomer/Eudoxus_of_Cnidus.secret|Eudoxus_of_Cnidus.secret]] 
 

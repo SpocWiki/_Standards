@@ -43,17 +43,17 @@ Commons_category: Spoons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spoon](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon|Spoon]] 
 
-### #is_/same_as :: [Spoon.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.public|Spoon.public]] 
 
-### #is_/same_as :: [Spoon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.internal|Spoon.internal]] 
 
-### #is_/same_as :: [Spoon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.protect|Spoon.protect]] 
 
-### #is_/same_as :: [Spoon.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.private|Spoon.private]] 
 
-### #is_/same_as :: [Spoon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.personal|Spoon.personal]] 
 
-### #is_/same_as :: [Spoon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Spoon.secret|Spoon.secret]] 
 

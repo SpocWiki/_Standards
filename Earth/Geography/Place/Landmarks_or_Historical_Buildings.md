@@ -121,17 +121,17 @@ An historical landmark or building.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings|Landmarks_or_Historical_Buildings]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings.public|Landmarks_or_Historical_Buildings.public]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.internal|Landmarks_or_Historical_Buildings.internal]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings.protect|Landmarks_or_Historical_Buildings.protect]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings.private|Landmarks_or_Historical_Buildings.private]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]] 
 
-### #is_/same_as :: [Landmarks_or_Historical_Buildings.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]] 
 

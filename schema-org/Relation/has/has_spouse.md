@@ -43,17 +43,17 @@ This Relation is symmetric, and mostly a Function.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_spouse](/_Standards/schema-org/Relation/has/has_spouse.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_spouse|has_spouse]] 
 
-### #is_/same_as :: [has_spouse.public](/_public/schema-org/Relation/has/has_spouse.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_spouse.public|has_spouse.public]] 
 
-### #is_/same_as :: [has_spouse.internal](/_internal/schema-org/Relation/has/has_spouse.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_spouse.internal|has_spouse.internal]] 
 
-### #is_/same_as :: [has_spouse.protect](/_protect/schema-org/Relation/has/has_spouse.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_spouse.protect|has_spouse.protect]] 
 
-### #is_/same_as :: [has_spouse.private](/_private/schema-org/Relation/has/has_spouse.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_spouse.private|has_spouse.private]] 
 
-### #is_/same_as :: [has_spouse.personal](/_personal/schema-org/Relation/has/has_spouse.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_spouse.personal|has_spouse.personal]] 
 
-### #is_/same_as :: [has_spouse.secret](/_secret/schema-org/Relation/has/has_spouse.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_spouse.secret|has_spouse.secret]] 
 

@@ -64,17 +64,17 @@ Commons_category: Beta decay
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beta_Decay](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay|Beta_Decay]] 
 
-### #is_/same_as :: [Beta_Decay.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.public|Beta_Decay.public]] 
 
-### #is_/same_as :: [Beta_Decay.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.internal|Beta_Decay.internal]] 
 
-### #is_/same_as :: [Beta_Decay.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.protect|Beta_Decay.protect]] 
 
-### #is_/same_as :: [Beta_Decay.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.private|Beta_Decay.private]] 
 
-### #is_/same_as :: [Beta_Decay.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.personal|Beta_Decay.personal]] 
 
-### #is_/same_as :: [Beta_Decay.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Beta_Decay.secret|Beta_Decay.secret]] 
 

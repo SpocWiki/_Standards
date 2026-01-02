@@ -42,17 +42,17 @@ A [[../../../Society/Communication/Media/Creative_Work/Review|review]] of the it
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_review](/_Standards/schema-org/Relation/has/has_review.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_review|has_review]] 
 
-### #is_/same_as :: [has_review.public](/_public/schema-org/Relation/has/has_review.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_review.public|has_review.public]] 
 
-### #is_/same_as :: [has_review.internal](/_internal/schema-org/Relation/has/has_review.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_review.internal|has_review.internal]] 
 
-### #is_/same_as :: [has_review.protect](/_protect/schema-org/Relation/has/has_review.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_review.protect|has_review.protect]] 
 
-### #is_/same_as :: [has_review.private](/_private/schema-org/Relation/has/has_review.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_review.private|has_review.private]] 
 
-### #is_/same_as :: [has_review.personal](/_personal/schema-org/Relation/has/has_review.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_review.personal|has_review.personal]] 
 
-### #is_/same_as :: [has_review.secret](/_secret/schema-org/Relation/has/has_review.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_review.secret|has_review.secret]] 
 

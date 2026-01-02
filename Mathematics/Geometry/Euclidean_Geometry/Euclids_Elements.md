@@ -76,17 +76,17 @@ title: Στοιχεῖα
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclids_Elements](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements|Euclids_Elements]] 
 
-### #is_/same_as :: [Euclids_Elements.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.public|Euclids_Elements.public]] 
 
-### #is_/same_as :: [Euclids_Elements.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.internal|Euclids_Elements.internal]] 
 
-### #is_/same_as :: [Euclids_Elements.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.protect|Euclids_Elements.protect]] 
 
-### #is_/same_as :: [Euclids_Elements.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.private|Euclids_Elements.private]] 
 
-### #is_/same_as :: [Euclids_Elements.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.personal|Euclids_Elements.personal]] 
 
-### #is_/same_as :: [Euclids_Elements.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Euclidean_Geometry/Euclids_Elements.secret|Euclids_Elements.secret]] 
 

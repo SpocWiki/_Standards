@@ -56,17 +56,17 @@ described_at_URL: https://www.osha.gov/etools/electric-power/illustrated-glossar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Power_Transmission](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission|Electric_Power_Transmission]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.public|Electric_Power_Transmission.public]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.internal|Electric_Power_Transmission.internal]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.protect|Electric_Power_Transmission.protect]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.private|Electric_Power_Transmission.private]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.personal|Electric_Power_Transmission.personal]] 
 
-### #is_/same_as :: [Electric_Power_Transmission.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electric_Power_Transmission.secret|Electric_Power_Transmission.secret]] 
 

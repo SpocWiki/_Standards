@@ -48,17 +48,17 @@ GeoNames_feature_code: U.MOTU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moat](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat|Moat]] 
 
-### #is_/same_as :: [Moat.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.public|Moat.public]] 
 
-### #is_/same_as :: [Moat.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.internal|Moat.internal]] 
 
-### #is_/same_as :: [Moat.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.protect|Moat.protect]] 
 
-### #is_/same_as :: [Moat.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.private|Moat.private]] 
 
-### #is_/same_as :: [Moat.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.personal|Moat.personal]] 
 
-### #is_/same_as :: [Moat.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment/Fortification/Moat.secret|Moat.secret]] 
 

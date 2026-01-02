@@ -76,17 +76,17 @@ Library_of_Congress_Classification: JF801
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [National_Citizenship](/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/National_Citizenship|National_Citizenship]] 
 
-### #is_/same_as :: [National_Citizenship.public](/_public/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.public|National_Citizenship.public]] 
 
-### #is_/same_as :: [National_Citizenship.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.internal|National_Citizenship.internal]] 
 
-### #is_/same_as :: [National_Citizenship.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.protect|National_Citizenship.protect]] 
 
-### #is_/same_as :: [National_Citizenship.private](/_private/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.private|National_Citizenship.private]] 
 
-### #is_/same_as :: [National_Citizenship.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.personal|National_Citizenship.personal]] 
 
-### #is_/same_as :: [National_Citizenship.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/National_Citizenship.secret|National_Citizenship.secret]] 
 

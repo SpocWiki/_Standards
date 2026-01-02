@@ -36,17 +36,17 @@ Commons_category: Sustainable agriculture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sustainable_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Sustainable_Agriculture|Sustainable_Agriculture]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.public|Sustainable_Agriculture.public]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.internal|Sustainable_Agriculture.internal]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.protect|Sustainable_Agriculture.protect]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.private|Sustainable_Agriculture.private]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.personal|Sustainable_Agriculture.personal]] 
 
-### #is_/same_as :: [Sustainable_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Sustainable_Agriculture.secret|Sustainable_Agriculture.secret]] 
 

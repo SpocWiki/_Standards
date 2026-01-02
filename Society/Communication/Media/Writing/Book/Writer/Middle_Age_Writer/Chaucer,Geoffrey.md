@@ -120,17 +120,17 @@ writing_language: '[[_Standards/WikiData/WD~Middle_English,36395]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaucer,Geoffrey](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey|Chaucer,Geoffrey]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.public|Chaucer,Geoffrey.public]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.internal|Chaucer,Geoffrey.internal]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.protect|Chaucer,Geoffrey.protect]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.private|Chaucer,Geoffrey.private]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.personal|Chaucer,Geoffrey.personal]] 
 
-### #is_/same_as :: [Chaucer,Geoffrey.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Chaucer,Geoffrey.secret|Chaucer,Geoffrey.secret]] 
 

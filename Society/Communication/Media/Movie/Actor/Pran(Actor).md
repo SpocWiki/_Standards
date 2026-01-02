@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pran(Actor)](/_Standards/Society/Communication/Media/Movie/Actor/Pran(Actor).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Pran(Actor)|Pran(Actor)]] 
 
-### #is_/same_as :: [Pran(Actor).public](/_public/Society/Communication/Media/Movie/Actor/Pran(Actor).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Pran(Actor).public|Pran(Actor).public]] 
 
-### #is_/same_as :: [Pran(Actor).internal](/_internal/Society/Communication/Media/Movie/Actor/Pran(Actor).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Pran(Actor).internal|Pran(Actor).internal]] 
 
-### #is_/same_as :: [Pran(Actor).protect](/_protect/Society/Communication/Media/Movie/Actor/Pran(Actor).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Pran(Actor).protect|Pran(Actor).protect]] 
 
-### #is_/same_as :: [Pran(Actor).private](/_private/Society/Communication/Media/Movie/Actor/Pran(Actor).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Pran(Actor).private|Pran(Actor).private]] 
 
-### #is_/same_as :: [Pran(Actor).personal](/_personal/Society/Communication/Media/Movie/Actor/Pran(Actor).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Pran(Actor).personal|Pran(Actor).personal]] 
 
-### #is_/same_as :: [Pran(Actor).secret](/_secret/Society/Communication/Media/Movie/Actor/Pran(Actor).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Pran(Actor).secret|Pran(Actor).secret]] 
 

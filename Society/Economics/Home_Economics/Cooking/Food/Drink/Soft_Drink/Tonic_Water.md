@@ -30,17 +30,17 @@ AFCD_PFKID: F008460
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tonic_Water](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water|Tonic_Water]] 
 
-### #is_/same_as :: [Tonic_Water.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.public|Tonic_Water.public]] 
 
-### #is_/same_as :: [Tonic_Water.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.internal|Tonic_Water.internal]] 
 
-### #is_/same_as :: [Tonic_Water.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.protect|Tonic_Water.protect]] 
 
-### #is_/same_as :: [Tonic_Water.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.private|Tonic_Water.private]] 
 
-### #is_/same_as :: [Tonic_Water.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.personal|Tonic_Water.personal]] 
 
-### #is_/same_as :: [Tonic_Water.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Tonic_Water.secret|Tonic_Water.secret]] 
 

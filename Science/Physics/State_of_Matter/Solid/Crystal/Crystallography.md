@@ -53,17 +53,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Crystallography::jy7v8"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystallography](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography|Crystallography]] 
 
-### #is_/same_as :: [Crystallography.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.public|Crystallography.public]] 
 
-### #is_/same_as :: [Crystallography.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.internal|Crystallography.internal]] 
 
-### #is_/same_as :: [Crystallography.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.protect|Crystallography.protect]] 
 
-### #is_/same_as :: [Crystallography.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.private|Crystallography.private]] 
 
-### #is_/same_as :: [Crystallography.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.personal|Crystallography.personal]] 
 
-### #is_/same_as :: [Crystallography.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystallography.secret|Crystallography.secret]] 
 

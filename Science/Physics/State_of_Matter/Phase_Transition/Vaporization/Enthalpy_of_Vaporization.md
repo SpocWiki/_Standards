@@ -52,17 +52,17 @@ Commons_category: Enthalpy of vaporization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization|Enthalpy_of_Vaporization]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.public|Enthalpy_of_Vaporization.public]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.internal|Enthalpy_of_Vaporization.internal]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.protect|Enthalpy_of_Vaporization.protect]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.private|Enthalpy_of_Vaporization.private]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.personal|Enthalpy_of_Vaporization.personal]] 
 
-### #is_/same_as :: [Enthalpy_of_Vaporization.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization/Enthalpy_of_Vaporization.secret|Enthalpy_of_Vaporization.secret]] 
 

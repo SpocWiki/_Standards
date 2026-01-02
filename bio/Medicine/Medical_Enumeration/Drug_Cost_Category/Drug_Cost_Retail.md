@@ -44,17 +44,17 @@ The drug's cost represents the retail cost of the drug.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Cost_Retail](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail|Drug_Cost_Retail]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.public|Drug_Cost_Retail.public]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.internal|Drug_Cost_Retail.internal]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.protect|Drug_Cost_Retail.protect]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.private|Drug_Cost_Retail.private]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.personal|Drug_Cost_Retail.personal]] 
 
-### #is_/same_as :: [Drug_Cost_Retail.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Retail.secret|Drug_Cost_Retail.secret]] 
 

@@ -111,17 +111,17 @@ Libris_URI: 1zcgmhfk4f8z7pv
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crime_and_Punishment](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment|Crime_and_Punishment]] 
 
-### #is_/same_as :: [Crime_and_Punishment.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.public|Crime_and_Punishment.public]] 
 
-### #is_/same_as :: [Crime_and_Punishment.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.internal|Crime_and_Punishment.internal]] 
 
-### #is_/same_as :: [Crime_and_Punishment.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.protect|Crime_and_Punishment.protect]] 
 
-### #is_/same_as :: [Crime_and_Punishment.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.private|Crime_and_Punishment.private]] 
 
-### #is_/same_as :: [Crime_and_Punishment.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.personal|Crime_and_Punishment.personal]] 
 
-### #is_/same_as :: [Crime_and_Punishment.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Dostoyevsky,Fyodor/Crime_and_Punishment.secret|Crime_and_Punishment.secret]] 
 

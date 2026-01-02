@@ -98,17 +98,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aesop](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop|Aesop]] 
 
-### #is_/same_as :: [Aesop.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.public|Aesop.public]] 
 
-### #is_/same_as :: [Aesop.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.internal|Aesop.internal]] 
 
-### #is_/same_as :: [Aesop.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.protect|Aesop.protect]] 
 
-### #is_/same_as :: [Aesop.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.private|Aesop.private]] 
 
-### #is_/same_as :: [Aesop.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.personal|Aesop.personal]] 
 
-### #is_/same_as :: [Aesop.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aesop.secret|Aesop.secret]] 
 

@@ -97,17 +97,17 @@ has_part_s_: '[[_Standards/WikiData/WD~evolutionary_geography,135995350]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geography](/_Standards/Earth/Geography.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography|Geography]] 
 
-### #is_/same_as :: [Geography.public](/_public/Earth/Geography.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography.public|Geography.public]] 
 
-### #is_/same_as :: [Geography.internal](/_internal/Earth/Geography.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography.internal|Geography.internal]] 
 
-### #is_/same_as :: [Geography.protect](/_protect/Earth/Geography.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography.protect|Geography.protect]] 
 
-### #is_/same_as :: [Geography.private](/_private/Earth/Geography.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography.private|Geography.private]] 
 
-### #is_/same_as :: [Geography.personal](/_personal/Earth/Geography.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography.personal|Geography.personal]] 
 
-### #is_/same_as :: [Geography.secret](/_secret/Earth/Geography.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography.secret|Geography.secret]] 
 

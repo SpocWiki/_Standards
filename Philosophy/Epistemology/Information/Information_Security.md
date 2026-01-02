@@ -85,17 +85,17 @@ GitHub_topic: infosec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Information_Security](/_Standards/Philosophy/Epistemology/Information/Information_Security.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Information/Information_Security|Information_Security]] 
 
-### #is_/same_as :: [Information_Security.public](/_public/Philosophy/Epistemology/Information/Information_Security.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Information/Information_Security.public|Information_Security.public]] 
 
-### #is_/same_as :: [Information_Security.internal](/_internal/Philosophy/Epistemology/Information/Information_Security.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Information/Information_Security.internal|Information_Security.internal]] 
 
-### #is_/same_as :: [Information_Security.protect](/_protect/Philosophy/Epistemology/Information/Information_Security.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Information/Information_Security.protect|Information_Security.protect]] 
 
-### #is_/same_as :: [Information_Security.private](/_private/Philosophy/Epistemology/Information/Information_Security.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Information/Information_Security.private|Information_Security.private]] 
 
-### #is_/same_as :: [Information_Security.personal](/_personal/Philosophy/Epistemology/Information/Information_Security.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Information/Information_Security.personal|Information_Security.personal]] 
 
-### #is_/same_as :: [Information_Security.secret](/_secret/Philosophy/Epistemology/Information/Information_Security.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Information/Information_Security.secret|Information_Security.secret]] 
 

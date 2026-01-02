@@ -60,17 +60,17 @@ OpenStreetMap_tag: electricity=solar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Electricity](/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity|Solar_Electricity]] 
 
-### #is_/same_as :: [Solar_Electricity.public](/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.public|Solar_Electricity.public]] 
 
-### #is_/same_as :: [Solar_Electricity.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.internal|Solar_Electricity.internal]] 
 
-### #is_/same_as :: [Solar_Electricity.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.protect|Solar_Electricity.protect]] 
 
-### #is_/same_as :: [Solar_Electricity.private](/_private/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.private|Solar_Electricity.private]] 
 
-### #is_/same_as :: [Solar_Electricity.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.personal|Solar_Electricity.personal]] 
 
-### #is_/same_as :: [Solar_Electricity.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Renewable_Energy/Solar_Energy/Solar_Electricity.secret|Solar_Electricity.secret]] 
 

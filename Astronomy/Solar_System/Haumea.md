@@ -90,17 +90,17 @@ periapsis: 34.4961098
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haumea](/_Standards/Astronomy/Solar_System/Haumea.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Haumea|Haumea]] 
 
-### #is_/same_as :: [Haumea.public](/_public/Astronomy/Solar_System/Haumea.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Haumea.public|Haumea.public]] 
 
-### #is_/same_as :: [Haumea.internal](/_internal/Astronomy/Solar_System/Haumea.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Haumea.internal|Haumea.internal]] 
 
-### #is_/same_as :: [Haumea.protect](/_protect/Astronomy/Solar_System/Haumea.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Haumea.protect|Haumea.protect]] 
 
-### #is_/same_as :: [Haumea.private](/_private/Astronomy/Solar_System/Haumea.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Haumea.private|Haumea.private]] 
 
-### #is_/same_as :: [Haumea.personal](/_personal/Astronomy/Solar_System/Haumea.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Haumea.personal|Haumea.personal]] 
 
-### #is_/same_as :: [Haumea.secret](/_secret/Astronomy/Solar_System/Haumea.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Haumea.secret|Haumea.secret]] 
 

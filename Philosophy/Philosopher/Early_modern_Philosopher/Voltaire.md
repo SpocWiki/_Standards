@@ -178,17 +178,17 @@ Regensburg_Classification: BF 4870
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voltaire](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire|Voltaire]] 
 
-### #is_/same_as :: [Voltaire.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.public|Voltaire.public]] 
 
-### #is_/same_as :: [Voltaire.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.internal|Voltaire.internal]] 
 
-### #is_/same_as :: [Voltaire.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.protect|Voltaire.protect]] 
 
-### #is_/same_as :: [Voltaire.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.private|Voltaire.private]] 
 
-### #is_/same_as :: [Voltaire.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.personal|Voltaire.personal]] 
 
-### #is_/same_as :: [Voltaire.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Voltaire.secret|Voltaire.secret]] 
 

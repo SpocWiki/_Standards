@@ -59,17 +59,17 @@ OpenStreetMap_tag: healthcare:speciality=neurology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neurology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology|Neurology]] 
 
-### #is_/same_as :: [Neurology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.public|Neurology.public]] 
 
-### #is_/same_as :: [Neurology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.internal|Neurology.internal]] 
 
-### #is_/same_as :: [Neurology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.protect|Neurology.protect]] 
 
-### #is_/same_as :: [Neurology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.private|Neurology.private]] 
 
-### #is_/same_as :: [Neurology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.personal|Neurology.personal]] 
 
-### #is_/same_as :: [Neurology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Neurology.secret|Neurology.secret]] 
 

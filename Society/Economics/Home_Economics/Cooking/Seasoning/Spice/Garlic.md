@@ -67,17 +67,17 @@ Wikidata_usage_instructions: Untuk bawang putih sebagai spesies, gunakan Q23400
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garlic](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic|Garlic]] 
 
-### #is_/same_as :: [Garlic.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.public|Garlic.public]] 
 
-### #is_/same_as :: [Garlic.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.internal|Garlic.internal]] 
 
-### #is_/same_as :: [Garlic.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.protect|Garlic.protect]] 
 
-### #is_/same_as :: [Garlic.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.private|Garlic.private]] 
 
-### #is_/same_as :: [Garlic.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.personal|Garlic.personal]] 
 
-### #is_/same_as :: [Garlic.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Garlic.secret|Garlic.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_pick_up](/_Standards/schema-org/Property/has_Date_Time/has_time_to_pick_up.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_pick_up|has_time_to_pick_up]] 
 
-### #is_/same_as :: [has_time_to_pick_up.public](/_public/schema-org/Property/has_Date_Time/has_time_to_pick_up.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_pick_up.public|has_time_to_pick_up.public]] 
 
-### #is_/same_as :: [has_time_to_pick_up.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_pick_up.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_pick_up.internal|has_time_to_pick_up.internal]] 
 
-### #is_/same_as :: [has_time_to_pick_up.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_pick_up.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_pick_up.protect|has_time_to_pick_up.protect]] 
 
-### #is_/same_as :: [has_time_to_pick_up.private](/_private/schema-org/Property/has_Date_Time/has_time_to_pick_up.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_pick_up.private|has_time_to_pick_up.private]] 
 
-### #is_/same_as :: [has_time_to_pick_up.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_pick_up.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_pick_up.personal|has_time_to_pick_up.personal]] 
 
-### #is_/same_as :: [has_time_to_pick_up.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_pick_up.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_pick_up.secret|has_time_to_pick_up.secret]] 
 

@@ -34,17 +34,17 @@ and facilitated interactive computing for multiple users.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System)](/_Standards/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System)|DTSS(Dartmouth_Time_Sharing_System)]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).public](/_public/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).public|DTSS(Dartmouth_Time_Sharing_System).public]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).internal](/_internal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).internal|DTSS(Dartmouth_Time_Sharing_System).internal]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).protect](/_protect/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).protect|DTSS(Dartmouth_Time_Sharing_System).protect]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).private](/_private/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).private|DTSS(Dartmouth_Time_Sharing_System).private]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).personal](/_personal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).personal|DTSS(Dartmouth_Time_Sharing_System).personal]] 
 
-### #is_/same_as :: [DTSS(Dartmouth_Time_Sharing_System).secret](/_secret/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/DTSS(Dartmouth_Time_Sharing_System).secret|DTSS(Dartmouth_Time_Sharing_System).secret]] 
 

@@ -50,17 +50,17 @@ Commons_category: Fibers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fiber](/_Standards/Chemistry/Material/Fiber.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fiber|Fiber]] 
 
-### #is_/same_as :: [Fiber.public](/_public/Chemistry/Material/Fiber.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fiber.public|Fiber.public]] 
 
-### #is_/same_as :: [Fiber.internal](/_internal/Chemistry/Material/Fiber.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fiber.internal|Fiber.internal]] 
 
-### #is_/same_as :: [Fiber.protect](/_protect/Chemistry/Material/Fiber.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fiber.protect|Fiber.protect]] 
 
-### #is_/same_as :: [Fiber.private](/_private/Chemistry/Material/Fiber.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fiber.private|Fiber.private]] 
 
-### #is_/same_as :: [Fiber.personal](/_personal/Chemistry/Material/Fiber.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fiber.personal|Fiber.personal]] 
 
-### #is_/same_as :: [Fiber.secret](/_secret/Chemistry/Material/Fiber.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fiber.secret|Fiber.secret]] 
 

@@ -87,17 +87,17 @@ inception: 1790-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peking_Opera](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera|Peking_Opera]] 
 
-### #is_/same_as :: [Peking_Opera.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.public|Peking_Opera.public]] 
 
-### #is_/same_as :: [Peking_Opera.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.internal|Peking_Opera.internal]] 
 
-### #is_/same_as :: [Peking_Opera.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.protect|Peking_Opera.protect]] 
 
-### #is_/same_as :: [Peking_Opera.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.private|Peking_Opera.private]] 
 
-### #is_/same_as :: [Peking_Opera.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.personal|Peking_Opera.personal]] 
 
-### #is_/same_as :: [Peking_Opera.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Peking_Opera.secret|Peking_Opera.secret]] 
 

@@ -52,17 +52,17 @@ Commons_category: Human aging
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Ageing](/_Standards/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing|Human_Ageing]] 
 
-### #is_/same_as :: [Human_Ageing.public](/_public/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.public|Human_Ageing.public]] 
 
-### #is_/same_as :: [Human_Ageing.internal](/_internal/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.internal|Human_Ageing.internal]] 
 
-### #is_/same_as :: [Human_Ageing.protect](/_protect/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.protect|Human_Ageing.protect]] 
 
-### #is_/same_as :: [Human_Ageing.private](/_private/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.private|Human_Ageing.private]] 
 
-### #is_/same_as :: [Human_Ageing.personal](/_personal/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.personal|Human_Ageing.personal]] 
 
-### #is_/same_as :: [Human_Ageing.secret](/_secret/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Ageing/Human_Ageing.secret|Human_Ageing.secret]] 
 

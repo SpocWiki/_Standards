@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_original_media_link](/_Standards/schema-org/Relation/has/has_original_media_link.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_original_media_link|has_original_media_link]] 
 
-### #is_/same_as :: [has_original_media_link.public](/_public/schema-org/Relation/has/has_original_media_link.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_original_media_link.public|has_original_media_link.public]] 
 
-### #is_/same_as :: [has_original_media_link.internal](/_internal/schema-org/Relation/has/has_original_media_link.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_original_media_link.internal|has_original_media_link.internal]] 
 
-### #is_/same_as :: [has_original_media_link.protect](/_protect/schema-org/Relation/has/has_original_media_link.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_original_media_link.protect|has_original_media_link.protect]] 
 
-### #is_/same_as :: [has_original_media_link.private](/_private/schema-org/Relation/has/has_original_media_link.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_original_media_link.private|has_original_media_link.private]] 
 
-### #is_/same_as :: [has_original_media_link.personal](/_personal/schema-org/Relation/has/has_original_media_link.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_original_media_link.personal|has_original_media_link.personal]] 
 
-### #is_/same_as :: [has_original_media_link.secret](/_secret/schema-org/Relation/has/has_original_media_link.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_original_media_link.secret|has_original_media_link.secret]] 
 

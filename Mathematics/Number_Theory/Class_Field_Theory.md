@@ -86,17 +86,17 @@ subclass_of: "[[_Standards/WikiData/WD~algebraic_number_theory,613048]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Class_Field_Theory](/_Standards/Mathematics/Number_Theory/Class_Field_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number_Theory/Class_Field_Theory|Class_Field_Theory]] 
 
-### #is_/same_as :: [Class_Field_Theory.public](/_public/Mathematics/Number_Theory/Class_Field_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number_Theory/Class_Field_Theory.public|Class_Field_Theory.public]] 
 
-### #is_/same_as :: [Class_Field_Theory.internal](/_internal/Mathematics/Number_Theory/Class_Field_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number_Theory/Class_Field_Theory.internal|Class_Field_Theory.internal]] 
 
-### #is_/same_as :: [Class_Field_Theory.protect](/_protect/Mathematics/Number_Theory/Class_Field_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number_Theory/Class_Field_Theory.protect|Class_Field_Theory.protect]] 
 
-### #is_/same_as :: [Class_Field_Theory.private](/_private/Mathematics/Number_Theory/Class_Field_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number_Theory/Class_Field_Theory.private|Class_Field_Theory.private]] 
 
-### #is_/same_as :: [Class_Field_Theory.personal](/_personal/Mathematics/Number_Theory/Class_Field_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number_Theory/Class_Field_Theory.personal|Class_Field_Theory.personal]] 
 
-### #is_/same_as :: [Class_Field_Theory.secret](/_secret/Mathematics/Number_Theory/Class_Field_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number_Theory/Class_Field_Theory.secret|Class_Field_Theory.secret]] 
 

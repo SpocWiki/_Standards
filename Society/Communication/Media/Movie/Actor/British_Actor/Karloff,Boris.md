@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karloff,Boris](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris|Karloff,Boris]] 
 
-### #is_/same_as :: [Karloff,Boris.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.public|Karloff,Boris.public]] 
 
-### #is_/same_as :: [Karloff,Boris.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.internal|Karloff,Boris.internal]] 
 
-### #is_/same_as :: [Karloff,Boris.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.protect|Karloff,Boris.protect]] 
 
-### #is_/same_as :: [Karloff,Boris.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.private|Karloff,Boris.private]] 
 
-### #is_/same_as :: [Karloff,Boris.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.personal|Karloff,Boris.personal]] 
 
-### #is_/same_as :: [Karloff,Boris.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Karloff,Boris.secret|Karloff,Boris.secret]] 
 

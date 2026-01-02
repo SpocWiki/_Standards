@@ -34,17 +34,17 @@ Tweets are called "Skeets" alluding to sky-tweets.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bluesky](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky|Bluesky]] 
 
-### #is_/same_as :: [Bluesky.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.public|Bluesky.public]] 
 
-### #is_/same_as :: [Bluesky.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.internal|Bluesky.internal]] 
 
-### #is_/same_as :: [Bluesky.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.protect|Bluesky.protect]] 
 
-### #is_/same_as :: [Bluesky.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.private|Bluesky.private]] 
 
-### #is_/same_as :: [Bluesky.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.personal|Bluesky.personal]] 
 
-### #is_/same_as :: [Bluesky.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Bluesky.secret|Bluesky.secret]] 
 

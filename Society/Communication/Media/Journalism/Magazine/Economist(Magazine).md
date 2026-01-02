@@ -96,17 +96,17 @@ X_Twitter_username: TheEconomist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economist(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Economist(Magazine)|Economist(Magazine)]] 
 
-### #is_/same_as :: [Economist(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).public|Economist(Magazine).public]] 
 
-### #is_/same_as :: [Economist(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).internal|Economist(Magazine).internal]] 
 
-### #is_/same_as :: [Economist(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).protect|Economist(Magazine).protect]] 
 
-### #is_/same_as :: [Economist(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).private|Economist(Magazine).private]] 
 
-### #is_/same_as :: [Economist(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).personal|Economist(Magazine).personal]] 
 
-### #is_/same_as :: [Economist(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Economist(Magazine).secret|Economist(Magazine).secret]] 
 

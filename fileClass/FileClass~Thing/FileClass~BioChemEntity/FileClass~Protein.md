@@ -47,17 +47,17 @@ HasBioPolymerSequence:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Protein](/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein|FileClass~Protein]] 
 
-### #is_/same_as :: [FileClass~Protein.public](/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.public|FileClass~Protein.public]] 
 
-### #is_/same_as :: [FileClass~Protein.internal](/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.internal|FileClass~Protein.internal]] 
 
-### #is_/same_as :: [FileClass~Protein.protect](/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.protect|FileClass~Protein.protect]] 
 
-### #is_/same_as :: [FileClass~Protein.private](/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.private|FileClass~Protein.private]] 
 
-### #is_/same_as :: [FileClass~Protein.personal](/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.personal|FileClass~Protein.personal]] 
 
-### #is_/same_as :: [FileClass~Protein.secret](/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~BioChemEntity/FileClass~Protein.secret|FileClass~Protein.secret]] 
 

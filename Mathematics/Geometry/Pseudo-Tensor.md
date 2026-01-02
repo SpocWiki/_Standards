@@ -50,17 +50,17 @@ elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2<
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pseudo-Tensor](/_Standards/Mathematics/Geometry/Pseudo-Tensor.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Pseudo-Tensor|Pseudo-Tensor]] 
 
-### #is_/same_as :: [Pseudo-Tensor.public](/_public/Mathematics/Geometry/Pseudo-Tensor.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Pseudo-Tensor.public|Pseudo-Tensor.public]] 
 
-### #is_/same_as :: [Pseudo-Tensor.internal](/_internal/Mathematics/Geometry/Pseudo-Tensor.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Pseudo-Tensor.internal|Pseudo-Tensor.internal]] 
 
-### #is_/same_as :: [Pseudo-Tensor.protect](/_protect/Mathematics/Geometry/Pseudo-Tensor.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Pseudo-Tensor.protect|Pseudo-Tensor.protect]] 
 
-### #is_/same_as :: [Pseudo-Tensor.private](/_private/Mathematics/Geometry/Pseudo-Tensor.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Pseudo-Tensor.private|Pseudo-Tensor.private]] 
 
-### #is_/same_as :: [Pseudo-Tensor.personal](/_personal/Mathematics/Geometry/Pseudo-Tensor.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Pseudo-Tensor.personal|Pseudo-Tensor.personal]] 
 
-### #is_/same_as :: [Pseudo-Tensor.secret](/_secret/Mathematics/Geometry/Pseudo-Tensor.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Pseudo-Tensor.secret|Pseudo-Tensor.secret]] 
 

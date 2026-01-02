@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hyperion(Simmons_novel)](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel)|Hyperion(Simmons_novel)]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).public|Hyperion(Simmons_novel).public]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).internal|Hyperion(Simmons_novel).internal]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).protect|Hyperion(Simmons_novel).protect]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).private|Hyperion(Simmons_novel).private]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).personal|Hyperion(Simmons_novel).personal]] 
 
-### #is_/same_as :: [Hyperion(Simmons_novel).secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel).secret|Hyperion(Simmons_novel).secret]] 
 

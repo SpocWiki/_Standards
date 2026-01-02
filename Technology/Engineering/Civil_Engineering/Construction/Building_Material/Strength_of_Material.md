@@ -48,17 +48,17 @@ Dewey_Decimal_Classification: "620.105"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strength_of_Material](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material|Strength_of_Material]] 
 
-### #is_/same_as :: [Strength_of_Material.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.public|Strength_of_Material.public]] 
 
-### #is_/same_as :: [Strength_of_Material.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.internal|Strength_of_Material.internal]] 
 
-### #is_/same_as :: [Strength_of_Material.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.protect|Strength_of_Material.protect]] 
 
-### #is_/same_as :: [Strength_of_Material.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.private|Strength_of_Material.private]] 
 
-### #is_/same_as :: [Strength_of_Material.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.personal|Strength_of_Material.personal]] 
 
-### #is_/same_as :: [Strength_of_Material.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Strength_of_Material.secret|Strength_of_Material.secret]] 
 

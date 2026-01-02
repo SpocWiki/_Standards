@@ -92,17 +92,17 @@ Archive_of_Our_Own_tag: Norse Religion & Lore
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Norse_Mythology](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology|Norse_Mythology]] 
 
-### #is_/same_as :: [Norse_Mythology.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.public|Norse_Mythology.public]] 
 
-### #is_/same_as :: [Norse_Mythology.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.internal|Norse_Mythology.internal]] 
 
-### #is_/same_as :: [Norse_Mythology.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.protect|Norse_Mythology.protect]] 
 
-### #is_/same_as :: [Norse_Mythology.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.private|Norse_Mythology.private]] 
 
-### #is_/same_as :: [Norse_Mythology.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.personal|Norse_Mythology.personal]] 
 
-### #is_/same_as :: [Norse_Mythology.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology.secret|Norse_Mythology.secret]] 
 

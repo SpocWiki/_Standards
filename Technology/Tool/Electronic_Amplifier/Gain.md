@@ -82,17 +82,17 @@ different_from: "[[_Standards/WikiData/WD~Wzmocnienie,9381126]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gain](/_Standards/Technology/Tool/Electronic_Amplifier/Gain.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Electronic_Amplifier/Gain|Gain]] 
 
-### #is_/same_as :: [Gain.public](/_public/Technology/Tool/Electronic_Amplifier/Gain.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Electronic_Amplifier/Gain.public|Gain.public]] 
 
-### #is_/same_as :: [Gain.internal](/_internal/Technology/Tool/Electronic_Amplifier/Gain.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Electronic_Amplifier/Gain.internal|Gain.internal]] 
 
-### #is_/same_as :: [Gain.protect](/_protect/Technology/Tool/Electronic_Amplifier/Gain.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Electronic_Amplifier/Gain.protect|Gain.protect]] 
 
-### #is_/same_as :: [Gain.private](/_private/Technology/Tool/Electronic_Amplifier/Gain.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Electronic_Amplifier/Gain.private|Gain.private]] 
 
-### #is_/same_as :: [Gain.personal](/_personal/Technology/Tool/Electronic_Amplifier/Gain.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Electronic_Amplifier/Gain.personal|Gain.personal]] 
 
-### #is_/same_as :: [Gain.secret](/_secret/Technology/Tool/Electronic_Amplifier/Gain.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Electronic_Amplifier/Gain.secret|Gain.secret]] 
 

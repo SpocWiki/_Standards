@@ -59,17 +59,17 @@ Krugosvet_article_archived_: Earth_sciences/geografiya/KABOT_DZHON.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cabot,John](/_Standards/Earth/Explorer/Cabot,John.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Cabot,John|Cabot,John]] 
 
-### #is_/same_as :: [Cabot,John.public](/_public/Earth/Explorer/Cabot,John.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Cabot,John.public|Cabot,John.public]] 
 
-### #is_/same_as :: [Cabot,John.internal](/_internal/Earth/Explorer/Cabot,John.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Cabot,John.internal|Cabot,John.internal]] 
 
-### #is_/same_as :: [Cabot,John.protect](/_protect/Earth/Explorer/Cabot,John.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Cabot,John.protect|Cabot,John.protect]] 
 
-### #is_/same_as :: [Cabot,John.private](/_private/Earth/Explorer/Cabot,John.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Cabot,John.private|Cabot,John.private]] 
 
-### #is_/same_as :: [Cabot,John.personal](/_personal/Earth/Explorer/Cabot,John.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Cabot,John.personal|Cabot,John.personal]] 
 
-### #is_/same_as :: [Cabot,John.secret](/_secret/Earth/Explorer/Cabot,John.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Cabot,John.secret|Cabot,John.secret]] 
 

@@ -128,17 +128,17 @@ with gauge group SU(3)×SU(2)×U(1) and spontaneous symmetry breaking.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Standard_Model](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model|Standard_Model]] 
 
-### #is_/same_as :: [Standard_Model.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model.public|Standard_Model.public]] 
 
-### #is_/same_as :: [Standard_Model.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model.internal|Standard_Model.internal]] 
 
-### #is_/same_as :: [Standard_Model.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model.protect|Standard_Model.protect]] 
 
-### #is_/same_as :: [Standard_Model.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model.private|Standard_Model.private]] 
 
-### #is_/same_as :: [Standard_Model.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model.personal|Standard_Model.personal]] 
 
-### #is_/same_as :: [Standard_Model.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model.secret|Standard_Model.secret]] 
 

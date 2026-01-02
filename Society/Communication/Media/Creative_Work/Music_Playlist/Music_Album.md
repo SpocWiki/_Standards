@@ -41,17 +41,17 @@ A collection of music tracks.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Album](/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album|Music_Album]] 
 
-### #is_/same_as :: [Music_Album.public](/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.public|Music_Album.public]] 
 
-### #is_/same_as :: [Music_Album.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.internal|Music_Album.internal]] 
 
-### #is_/same_as :: [Music_Album.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.protect|Music_Album.protect]] 
 
-### #is_/same_as :: [Music_Album.private](/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.private|Music_Album.private]] 
 
-### #is_/same_as :: [Music_Album.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.personal|Music_Album.personal]] 
 
-### #is_/same_as :: [Music_Album.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Playlist/Music_Album.secret|Music_Album.secret]] 
 

@@ -46,17 +46,17 @@ subreddit: grouptheory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Theory](/_Standards/Mathematics/Algebra/Group_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory|Group_Theory]] 
 
-### #is_/same_as :: [Group_Theory.public](/_public/Mathematics/Algebra/Group_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory.public|Group_Theory.public]] 
 
-### #is_/same_as :: [Group_Theory.internal](/_internal/Mathematics/Algebra/Group_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory.internal|Group_Theory.internal]] 
 
-### #is_/same_as :: [Group_Theory.protect](/_protect/Mathematics/Algebra/Group_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory.protect|Group_Theory.protect]] 
 
-### #is_/same_as :: [Group_Theory.private](/_private/Mathematics/Algebra/Group_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory.private|Group_Theory.private]] 
 
-### #is_/same_as :: [Group_Theory.personal](/_personal/Mathematics/Algebra/Group_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory.personal|Group_Theory.personal]] 
 
-### #is_/same_as :: [Group_Theory.secret](/_secret/Mathematics/Algebra/Group_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory.secret|Group_Theory.secret]] 
 

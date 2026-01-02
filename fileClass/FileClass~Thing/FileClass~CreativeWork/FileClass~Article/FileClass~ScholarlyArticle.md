@@ -37,17 +37,17 @@ A scholarly article.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle|FileClass~ScholarlyArticle]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.public|FileClass~ScholarlyArticle.public]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.internal|FileClass~ScholarlyArticle.internal]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.protect|FileClass~ScholarlyArticle.protect]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.private|FileClass~ScholarlyArticle.private]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.personal|FileClass~ScholarlyArticle.personal]] 
 
-### #is_/same_as :: [FileClass~ScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle.secret|FileClass~ScholarlyArticle.secret]] 
 

@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_direct_apply](/_Standards/schema-org/Property/Flags/is_direct_apply.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_direct_apply|is_direct_apply]] 
 
-### #is_/same_as :: [is_direct_apply.public](/_public/schema-org/Property/Flags/is_direct_apply.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_direct_apply.public|is_direct_apply.public]] 
 
-### #is_/same_as :: [is_direct_apply.internal](/_internal/schema-org/Property/Flags/is_direct_apply.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_direct_apply.internal|is_direct_apply.internal]] 
 
-### #is_/same_as :: [is_direct_apply.protect](/_protect/schema-org/Property/Flags/is_direct_apply.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_direct_apply.protect|is_direct_apply.protect]] 
 
-### #is_/same_as :: [is_direct_apply.private](/_private/schema-org/Property/Flags/is_direct_apply.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_direct_apply.private|is_direct_apply.private]] 
 
-### #is_/same_as :: [is_direct_apply.personal](/_personal/schema-org/Property/Flags/is_direct_apply.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_direct_apply.personal|is_direct_apply.personal]] 
 
-### #is_/same_as :: [is_direct_apply.secret](/_secret/schema-org/Property/Flags/is_direct_apply.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_direct_apply.secret|is_direct_apply.secret]] 
 

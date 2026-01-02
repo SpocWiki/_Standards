@@ -41,17 +41,17 @@ Commons_category: History of Asia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Asia](/_Standards/Earth/Continent/Asia/History_of_Asia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/History_of_Asia|History_of_Asia]] 
 
-### #is_/same_as :: [History_of_Asia.public](/_public/Earth/Continent/Asia/History_of_Asia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/History_of_Asia.public|History_of_Asia.public]] 
 
-### #is_/same_as :: [History_of_Asia.internal](/_internal/Earth/Continent/Asia/History_of_Asia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/History_of_Asia.internal|History_of_Asia.internal]] 
 
-### #is_/same_as :: [History_of_Asia.protect](/_protect/Earth/Continent/Asia/History_of_Asia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/History_of_Asia.protect|History_of_Asia.protect]] 
 
-### #is_/same_as :: [History_of_Asia.private](/_private/Earth/Continent/Asia/History_of_Asia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/History_of_Asia.private|History_of_Asia.private]] 
 
-### #is_/same_as :: [History_of_Asia.personal](/_personal/Earth/Continent/Asia/History_of_Asia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/History_of_Asia.personal|History_of_Asia.personal]] 
 
-### #is_/same_as :: [History_of_Asia.secret](/_secret/Earth/Continent/Asia/History_of_Asia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/History_of_Asia.secret|History_of_Asia.secret]] 
 

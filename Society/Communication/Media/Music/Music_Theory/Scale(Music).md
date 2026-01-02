@@ -126,17 +126,17 @@ A  B  C# D  E  F# G#
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scale(Music)](/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)|Scale(Music)]] 
 
-### #is_/same_as :: [Scale(Music).public](/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music).public|Scale(Music).public]] 
 
-### #is_/same_as :: [Scale(Music).internal](/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music).internal|Scale(Music).internal]] 
 
-### #is_/same_as :: [Scale(Music).protect](/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music).protect|Scale(Music).protect]] 
 
-### #is_/same_as :: [Scale(Music).private](/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music).private|Scale(Music).private]] 
 
-### #is_/same_as :: [Scale(Music).personal](/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music).personal|Scale(Music).personal]] 
 
-### #is_/same_as :: [Scale(Music).secret](/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music).secret|Scale(Music).secret]] 
 

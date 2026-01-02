@@ -133,17 +133,17 @@ Commons_category: Mayors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mayor](/_Standards/Society/Civil_Society/Mayor.md) 
+### #is_/same_as :: [[/_Standards/Society/Civil_Society/Mayor|Mayor]] 
 
-### #is_/same_as :: [Mayor.public](/_public/Society/Civil_Society/Mayor.public.md) 
+### #is_/same_as :: [[/_public/Society/Civil_Society/Mayor.public|Mayor.public]] 
 
-### #is_/same_as :: [Mayor.internal](/_internal/Society/Civil_Society/Mayor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Civil_Society/Mayor.internal|Mayor.internal]] 
 
-### #is_/same_as :: [Mayor.protect](/_protect/Society/Civil_Society/Mayor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Civil_Society/Mayor.protect|Mayor.protect]] 
 
-### #is_/same_as :: [Mayor.private](/_private/Society/Civil_Society/Mayor.private.md) 
+### #is_/same_as :: [[/_private/Society/Civil_Society/Mayor.private|Mayor.private]] 
 
-### #is_/same_as :: [Mayor.personal](/_personal/Society/Civil_Society/Mayor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Civil_Society/Mayor.personal|Mayor.personal]] 
 
-### #is_/same_as :: [Mayor.secret](/_secret/Society/Civil_Society/Mayor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Civil_Society/Mayor.secret|Mayor.secret]] 
 

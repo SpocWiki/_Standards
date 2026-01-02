@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_page_start](/_Standards/schema-org/Property/has_number_of/has_number_of_page_start.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_page_start|has_number_of_page_start]] 
 
-### #is_/same_as :: [has_number_of_page_start.public](/_public/schema-org/Property/has_number_of/has_number_of_page_start.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_page_start.public|has_number_of_page_start.public]] 
 
-### #is_/same_as :: [has_number_of_page_start.internal](/_internal/schema-org/Property/has_number_of/has_number_of_page_start.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_page_start.internal|has_number_of_page_start.internal]] 
 
-### #is_/same_as :: [has_number_of_page_start.protect](/_protect/schema-org/Property/has_number_of/has_number_of_page_start.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_page_start.protect|has_number_of_page_start.protect]] 
 
-### #is_/same_as :: [has_number_of_page_start.private](/_private/schema-org/Property/has_number_of/has_number_of_page_start.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_page_start.private|has_number_of_page_start.private]] 
 
-### #is_/same_as :: [has_number_of_page_start.personal](/_personal/schema-org/Property/has_number_of/has_number_of_page_start.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_page_start.personal|has_number_of_page_start.personal]] 
 
-### #is_/same_as :: [has_number_of_page_start.secret](/_secret/schema-org/Property/has_number_of/has_number_of_page_start.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_page_start.secret|has_number_of_page_start.secret]] 
 

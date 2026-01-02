@@ -212,17 +212,17 @@ Europeana_entity: agent/base/59787
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caravaggio](/_Standards/Society/Communication/Media/Painting/Painter/Caravaggio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Caravaggio|Caravaggio]] 
 
-### #is_/same_as :: [Caravaggio.public](/_public/Society/Communication/Media/Painting/Painter/Caravaggio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Caravaggio.public|Caravaggio.public]] 
 
-### #is_/same_as :: [Caravaggio.internal](/_internal/Society/Communication/Media/Painting/Painter/Caravaggio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Caravaggio.internal|Caravaggio.internal]] 
 
-### #is_/same_as :: [Caravaggio.protect](/_protect/Society/Communication/Media/Painting/Painter/Caravaggio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Caravaggio.protect|Caravaggio.protect]] 
 
-### #is_/same_as :: [Caravaggio.private](/_private/Society/Communication/Media/Painting/Painter/Caravaggio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Caravaggio.private|Caravaggio.private]] 
 
-### #is_/same_as :: [Caravaggio.personal](/_personal/Society/Communication/Media/Painting/Painter/Caravaggio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Caravaggio.personal|Caravaggio.personal]] 
 
-### #is_/same_as :: [Caravaggio.secret](/_secret/Society/Communication/Media/Painting/Painter/Caravaggio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Caravaggio.secret|Caravaggio.secret]] 
 

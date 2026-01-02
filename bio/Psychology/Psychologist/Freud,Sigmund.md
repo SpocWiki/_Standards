@@ -171,17 +171,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freud,Sigmund](/_Standards/bio/Psychology/Psychologist/Freud,Sigmund.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Freud,Sigmund|Freud,Sigmund]] 
 
-### #is_/same_as :: [Freud,Sigmund.public](/_public/bio/Psychology/Psychologist/Freud,Sigmund.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Freud,Sigmund.public|Freud,Sigmund.public]] 
 
-### #is_/same_as :: [Freud,Sigmund.internal](/_internal/bio/Psychology/Psychologist/Freud,Sigmund.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Freud,Sigmund.internal|Freud,Sigmund.internal]] 
 
-### #is_/same_as :: [Freud,Sigmund.protect](/_protect/bio/Psychology/Psychologist/Freud,Sigmund.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Freud,Sigmund.protect|Freud,Sigmund.protect]] 
 
-### #is_/same_as :: [Freud,Sigmund.private](/_private/bio/Psychology/Psychologist/Freud,Sigmund.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Freud,Sigmund.private|Freud,Sigmund.private]] 
 
-### #is_/same_as :: [Freud,Sigmund.personal](/_personal/bio/Psychology/Psychologist/Freud,Sigmund.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Freud,Sigmund.personal|Freud,Sigmund.personal]] 
 
-### #is_/same_as :: [Freud,Sigmund.secret](/_secret/bio/Psychology/Psychologist/Freud,Sigmund.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Freud,Sigmund.secret|Freud,Sigmund.secret]] 
 

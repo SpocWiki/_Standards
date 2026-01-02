@@ -171,17 +171,17 @@ has_place_continent:: [[North-America]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon](/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.public](/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.internal](/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.protect](/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.protect|Saint-Pierre-et-Miquelon.protect]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.private](/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.private|Saint-Pierre-et-Miquelon.private]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.personal](/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.personal|Saint-Pierre-et-Miquelon.personal]] 
 
-### #is_/same_as :: [Saint-Pierre-et-Miquelon.secret](/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.secret|Saint-Pierre-et-Miquelon.secret]] 
 

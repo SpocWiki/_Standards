@@ -90,17 +90,17 @@ Commons_category: Orion Nebula
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orion_Nebula](/_Standards/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula|Orion_Nebula]] 
 
-### #is_/same_as :: [Orion_Nebula.public](/_public/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.public|Orion_Nebula.public]] 
 
-### #is_/same_as :: [Orion_Nebula.internal](/_internal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.internal|Orion_Nebula.internal]] 
 
-### #is_/same_as :: [Orion_Nebula.protect](/_protect/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.protect|Orion_Nebula.protect]] 
 
-### #is_/same_as :: [Orion_Nebula.private](/_private/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.private|Orion_Nebula.private]] 
 
-### #is_/same_as :: [Orion_Nebula.personal](/_personal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.personal|Orion_Nebula.personal]] 
 
-### #is_/same_as :: [Orion_Nebula.secret](/_secret/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium/Nebula/Orion_Nebula.secret|Orion_Nebula.secret]] 
 

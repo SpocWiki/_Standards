@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_order_number](/_Standards/schema-org/Property/Texts/has_order_number.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_order_number|has_order_number]] 
 
-### #is_/same_as :: [has_order_number.public](/_public/schema-org/Property/Texts/has_order_number.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_order_number.public|has_order_number.public]] 
 
-### #is_/same_as :: [has_order_number.internal](/_internal/schema-org/Property/Texts/has_order_number.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_order_number.internal|has_order_number.internal]] 
 
-### #is_/same_as :: [has_order_number.protect](/_protect/schema-org/Property/Texts/has_order_number.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_order_number.protect|has_order_number.protect]] 
 
-### #is_/same_as :: [has_order_number.private](/_private/schema-org/Property/Texts/has_order_number.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_order_number.private|has_order_number.private]] 
 
-### #is_/same_as :: [has_order_number.personal](/_personal/schema-org/Property/Texts/has_order_number.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_order_number.personal|has_order_number.personal]] 
 
-### #is_/same_as :: [has_order_number.secret](/_secret/schema-org/Property/Texts/has_order_number.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_order_number.secret|has_order_number.secret]] 
 

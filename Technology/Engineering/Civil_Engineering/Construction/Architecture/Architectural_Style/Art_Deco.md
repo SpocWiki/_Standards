@@ -97,17 +97,17 @@ inception:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Art_Deco](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco|Art_Deco]] 
 
-### #is_/same_as :: [Art_Deco.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.public|Art_Deco.public]] 
 
-### #is_/same_as :: [Art_Deco.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.internal|Art_Deco.internal]] 
 
-### #is_/same_as :: [Art_Deco.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.protect|Art_Deco.protect]] 
 
-### #is_/same_as :: [Art_Deco.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.private|Art_Deco.private]] 
 
-### #is_/same_as :: [Art_Deco.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.personal|Art_Deco.personal]] 
 
-### #is_/same_as :: [Art_Deco.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Art_Deco.secret|Art_Deco.secret]] 
 

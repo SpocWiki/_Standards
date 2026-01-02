@@ -39,17 +39,17 @@ studied_by:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moral_Hazard](/_Standards/Society/Economics/Moral_Hazard.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Moral_Hazard|Moral_Hazard]] 
 
-### #is_/same_as :: [Moral_Hazard.public](/_public/Society/Economics/Moral_Hazard.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Moral_Hazard.public|Moral_Hazard.public]] 
 
-### #is_/same_as :: [Moral_Hazard.internal](/_internal/Society/Economics/Moral_Hazard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Moral_Hazard.internal|Moral_Hazard.internal]] 
 
-### #is_/same_as :: [Moral_Hazard.protect](/_protect/Society/Economics/Moral_Hazard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Moral_Hazard.protect|Moral_Hazard.protect]] 
 
-### #is_/same_as :: [Moral_Hazard.private](/_private/Society/Economics/Moral_Hazard.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Moral_Hazard.private|Moral_Hazard.private]] 
 
-### #is_/same_as :: [Moral_Hazard.personal](/_personal/Society/Economics/Moral_Hazard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Moral_Hazard.personal|Moral_Hazard.personal]] 
 
-### #is_/same_as :: [Moral_Hazard.secret](/_secret/Society/Economics/Moral_Hazard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Moral_Hazard.secret|Moral_Hazard.secret]] 
 

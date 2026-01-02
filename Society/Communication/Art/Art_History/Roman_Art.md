@@ -47,17 +47,17 @@ Commons_category: Ancient Roman art
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roman_Art](/_Standards/Society/Communication/Art/Art_History/Roman_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Roman_Art|Roman_Art]] 
 
-### #is_/same_as :: [Roman_Art.public](/_public/Society/Communication/Art/Art_History/Roman_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Roman_Art.public|Roman_Art.public]] 
 
-### #is_/same_as :: [Roman_Art.internal](/_internal/Society/Communication/Art/Art_History/Roman_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Roman_Art.internal|Roman_Art.internal]] 
 
-### #is_/same_as :: [Roman_Art.protect](/_protect/Society/Communication/Art/Art_History/Roman_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Roman_Art.protect|Roman_Art.protect]] 
 
-### #is_/same_as :: [Roman_Art.private](/_private/Society/Communication/Art/Art_History/Roman_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Roman_Art.private|Roman_Art.private]] 
 
-### #is_/same_as :: [Roman_Art.personal](/_personal/Society/Communication/Art/Art_History/Roman_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Roman_Art.personal|Roman_Art.personal]] 
 
-### #is_/same_as :: [Roman_Art.secret](/_secret/Society/Communication/Art/Art_History/Roman_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Roman_Art.secret|Roman_Art.secret]] 
 

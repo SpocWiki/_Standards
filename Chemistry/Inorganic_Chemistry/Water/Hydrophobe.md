@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Super-hydrophobic%20pa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrophobe](/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Water/Hydrophobe|Hydrophobe]] 
 
-### #is_/same_as :: [Hydrophobe.public](/_public/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.public|Hydrophobe.public]] 
 
-### #is_/same_as :: [Hydrophobe.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.internal|Hydrophobe.internal]] 
 
-### #is_/same_as :: [Hydrophobe.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.protect|Hydrophobe.protect]] 
 
-### #is_/same_as :: [Hydrophobe.private](/_private/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.private|Hydrophobe.private]] 
 
-### #is_/same_as :: [Hydrophobe.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.personal|Hydrophobe.personal]] 
 
-### #is_/same_as :: [Hydrophobe.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Water/Hydrophobe.secret|Hydrophobe.secret]] 
 

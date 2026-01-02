@@ -129,17 +129,17 @@ graph TD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [War](/_Standards/Society/Military/Military_Operation/Combat/War.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War|War]] 
 
-### #is_/same_as :: [War.public](/_public/Society/Military/Military_Operation/Combat/War.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War.public|War.public]] 
 
-### #is_/same_as :: [War.internal](/_internal/Society/Military/Military_Operation/Combat/War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War.internal|War.internal]] 
 
-### #is_/same_as :: [War.protect](/_protect/Society/Military/Military_Operation/Combat/War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War.protect|War.protect]] 
 
-### #is_/same_as :: [War.private](/_private/Society/Military/Military_Operation/Combat/War.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War.private|War.private]] 
 
-### #is_/same_as :: [War.personal](/_personal/Society/Military/Military_Operation/Combat/War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War.personal|War.personal]] 
 
-### #is_/same_as :: [War.secret](/_secret/Society/Military/Military_Operation/Combat/War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War.secret|War.secret]] 
 

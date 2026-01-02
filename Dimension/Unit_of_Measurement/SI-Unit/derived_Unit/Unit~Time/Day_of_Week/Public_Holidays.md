@@ -42,17 +42,17 @@ This stands for any day that is a public holiday; it is a placeholder for all of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Holidays](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays|Public_Holidays]] 
 
-### #is_/same_as :: [Public_Holidays.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.public|Public_Holidays.public]] 
 
-### #is_/same_as :: [Public_Holidays.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.internal|Public_Holidays.internal]] 
 
-### #is_/same_as :: [Public_Holidays.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.protect|Public_Holidays.protect]] 
 
-### #is_/same_as :: [Public_Holidays.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.private|Public_Holidays.private]] 
 
-### #is_/same_as :: [Public_Holidays.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.personal|Public_Holidays.personal]] 
 
-### #is_/same_as :: [Public_Holidays.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Day_of_Week/Public_Holidays.secret|Public_Holidays.secret]] 
 

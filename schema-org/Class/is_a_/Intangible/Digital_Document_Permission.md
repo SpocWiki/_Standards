@@ -41,17 +41,17 @@ A permission for a particular person or group to access a particular file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Digital_Document_Permission](/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Digital_Document_Permission|Digital_Document_Permission]] 
 
-### #is_/same_as :: [Digital_Document_Permission.public](/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.public|Digital_Document_Permission.public]] 
 
-### #is_/same_as :: [Digital_Document_Permission.internal](/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.internal|Digital_Document_Permission.internal]] 
 
-### #is_/same_as :: [Digital_Document_Permission.protect](/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.protect|Digital_Document_Permission.protect]] 
 
-### #is_/same_as :: [Digital_Document_Permission.private](/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.private|Digital_Document_Permission.private]] 
 
-### #is_/same_as :: [Digital_Document_Permission.personal](/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.personal|Digital_Document_Permission.personal]] 
 
-### #is_/same_as :: [Digital_Document_Permission.secret](/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Digital_Document_Permission.secret|Digital_Document_Permission.secret]] 
 

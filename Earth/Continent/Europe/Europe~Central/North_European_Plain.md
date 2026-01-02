@@ -60,17 +60,17 @@ Commons_category: North European Plain
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [North_European_Plain](/_Standards/Earth/Continent/Europe/Europe~Central/North_European_Plain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/North_European_Plain|North_European_Plain]] 
 
-### #is_/same_as :: [North_European_Plain.public](/_public/Earth/Continent/Europe/Europe~Central/North_European_Plain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/North_European_Plain.public|North_European_Plain.public]] 
 
-### #is_/same_as :: [North_European_Plain.internal](/_internal/Earth/Continent/Europe/Europe~Central/North_European_Plain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/North_European_Plain.internal|North_European_Plain.internal]] 
 
-### #is_/same_as :: [North_European_Plain.protect](/_protect/Earth/Continent/Europe/Europe~Central/North_European_Plain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/North_European_Plain.protect|North_European_Plain.protect]] 
 
-### #is_/same_as :: [North_European_Plain.private](/_private/Earth/Continent/Europe/Europe~Central/North_European_Plain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/North_European_Plain.private|North_European_Plain.private]] 
 
-### #is_/same_as :: [North_European_Plain.personal](/_personal/Earth/Continent/Europe/Europe~Central/North_European_Plain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/North_European_Plain.personal|North_European_Plain.personal]] 
 
-### #is_/same_as :: [North_European_Plain.secret](/_secret/Earth/Continent/Europe/Europe~Central/North_European_Plain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/North_European_Plain.secret|North_European_Plain.secret]] 
 

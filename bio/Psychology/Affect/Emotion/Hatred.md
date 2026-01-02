@@ -48,17 +48,17 @@ MeSH_tree_code: F01.470.548
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hatred](/_Standards/bio/Psychology/Affect/Emotion/Hatred.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Hatred|Hatred]] 
 
-### #is_/same_as :: [Hatred.public](/_public/bio/Psychology/Affect/Emotion/Hatred.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Hatred.public|Hatred.public]] 
 
-### #is_/same_as :: [Hatred.internal](/_internal/bio/Psychology/Affect/Emotion/Hatred.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Hatred.internal|Hatred.internal]] 
 
-### #is_/same_as :: [Hatred.protect](/_protect/bio/Psychology/Affect/Emotion/Hatred.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Hatred.protect|Hatred.protect]] 
 
-### #is_/same_as :: [Hatred.private](/_private/bio/Psychology/Affect/Emotion/Hatred.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Hatred.private|Hatred.private]] 
 
-### #is_/same_as :: [Hatred.personal](/_personal/bio/Psychology/Affect/Emotion/Hatred.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Hatred.personal|Hatred.personal]] 
 
-### #is_/same_as :: [Hatred.secret](/_secret/bio/Psychology/Affect/Emotion/Hatred.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Hatred.secret|Hatred.secret]] 
 

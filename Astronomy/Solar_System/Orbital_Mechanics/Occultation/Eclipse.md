@@ -59,17 +59,17 @@ Dewey_Decimal_Classification: "523.99"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eclipse](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse|Eclipse]] 
 
-### #is_/same_as :: [Eclipse.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.public|Eclipse.public]] 
 
-### #is_/same_as :: [Eclipse.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.internal|Eclipse.internal]] 
 
-### #is_/same_as :: [Eclipse.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.protect|Eclipse.protect]] 
 
-### #is_/same_as :: [Eclipse.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.private|Eclipse.private]] 
 
-### #is_/same_as :: [Eclipse.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.personal|Eclipse.personal]] 
 
-### #is_/same_as :: [Eclipse.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse.secret|Eclipse.secret]] 
 

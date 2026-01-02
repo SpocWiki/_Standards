@@ -67,17 +67,17 @@ Wikidata_property: currency
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Currency](/_Standards/Society/Economics/Currency.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency|Currency]] 
 
-### #is_/same_as :: [Currency.public](/_public/Society/Economics/Currency.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency.public|Currency.public]] 
 
-### #is_/same_as :: [Currency.internal](/_internal/Society/Economics/Currency.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency.internal|Currency.internal]] 
 
-### #is_/same_as :: [Currency.protect](/_protect/Society/Economics/Currency.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency.protect|Currency.protect]] 
 
-### #is_/same_as :: [Currency.private](/_private/Society/Economics/Currency.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency.private|Currency.private]] 
 
-### #is_/same_as :: [Currency.personal](/_personal/Society/Economics/Currency.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency.personal|Currency.personal]] 
 
-### #is_/same_as :: [Currency.secret](/_secret/Society/Economics/Currency.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency.secret|Currency.secret]] 
 

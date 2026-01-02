@@ -58,17 +58,17 @@ name_in_kana: でんしこうがく
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronics](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics|Electronics]] 
 
-### #is_/same_as :: [Electronics.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics.public|Electronics.public]] 
 
-### #is_/same_as :: [Electronics.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics.internal|Electronics.internal]] 
 
-### #is_/same_as :: [Electronics.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics.protect|Electronics.protect]] 
 
-### #is_/same_as :: [Electronics.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics.private|Electronics.private]] 
 
-### #is_/same_as :: [Electronics.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics.personal|Electronics.personal]] 
 
-### #is_/same_as :: [Electronics.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics.secret|Electronics.secret]] 
 

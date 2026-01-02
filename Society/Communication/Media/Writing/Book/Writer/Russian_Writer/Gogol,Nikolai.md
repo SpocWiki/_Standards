@@ -169,17 +169,17 @@ Wolfram_Language_entity_code: Entity["Person", "NikolaiGogol::3qh39"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gogol,Nikolai](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai|Gogol,Nikolai]] 
 
-### #is_/same_as :: [Gogol,Nikolai.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.public|Gogol,Nikolai.public]] 
 
-### #is_/same_as :: [Gogol,Nikolai.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.internal|Gogol,Nikolai.internal]] 
 
-### #is_/same_as :: [Gogol,Nikolai.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.protect|Gogol,Nikolai.protect]] 
 
-### #is_/same_as :: [Gogol,Nikolai.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.private|Gogol,Nikolai.private]] 
 
-### #is_/same_as :: [Gogol,Nikolai.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.personal|Gogol,Nikolai.personal]] 
 
-### #is_/same_as :: [Gogol,Nikolai.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Gogol,Nikolai.secret|Gogol,Nikolai.secret]] 
 

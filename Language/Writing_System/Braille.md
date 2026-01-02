@@ -65,17 +65,17 @@ Open_Food_Facts_label: en:in-braille
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Braille](/_Standards/Language/Writing_System/Braille.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Braille|Braille]] 
 
-### #is_/same_as :: [Braille.public](/_public/Language/Writing_System/Braille.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Braille.public|Braille.public]] 
 
-### #is_/same_as :: [Braille.internal](/_internal/Language/Writing_System/Braille.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Braille.internal|Braille.internal]] 
 
-### #is_/same_as :: [Braille.protect](/_protect/Language/Writing_System/Braille.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Braille.protect|Braille.protect]] 
 
-### #is_/same_as :: [Braille.private](/_private/Language/Writing_System/Braille.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Braille.private|Braille.private]] 
 
-### #is_/same_as :: [Braille.personal](/_personal/Language/Writing_System/Braille.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Braille.personal|Braille.personal]] 
 
-### #is_/same_as :: [Braille.secret](/_secret/Language/Writing_System/Braille.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Braille.secret|Braille.secret]] 
 

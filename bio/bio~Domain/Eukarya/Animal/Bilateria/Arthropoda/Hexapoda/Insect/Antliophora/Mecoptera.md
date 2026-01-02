@@ -52,17 +52,17 @@ NBN_System_Key: NBNSYS0000160388
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mecoptera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera|Mecoptera]] 
 
-### #is_/same_as :: [Mecoptera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.public|Mecoptera.public]] 
 
-### #is_/same_as :: [Mecoptera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.internal|Mecoptera.internal]] 
 
-### #is_/same_as :: [Mecoptera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.protect|Mecoptera.protect]] 
 
-### #is_/same_as :: [Mecoptera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.private|Mecoptera.private]] 
 
-### #is_/same_as :: [Mecoptera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.personal|Mecoptera.personal]] 
 
-### #is_/same_as :: [Mecoptera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Antliophora/Mecoptera.secret|Mecoptera.secret]] 
 

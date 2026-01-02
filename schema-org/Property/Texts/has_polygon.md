@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_polygon](/_Standards/schema-org/Property/Texts/has_polygon.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_polygon|has_polygon]] 
 
-### #is_/same_as :: [has_polygon.public](/_public/schema-org/Property/Texts/has_polygon.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_polygon.public|has_polygon.public]] 
 
-### #is_/same_as :: [has_polygon.internal](/_internal/schema-org/Property/Texts/has_polygon.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_polygon.internal|has_polygon.internal]] 
 
-### #is_/same_as :: [has_polygon.protect](/_protect/schema-org/Property/Texts/has_polygon.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_polygon.protect|has_polygon.protect]] 
 
-### #is_/same_as :: [has_polygon.private](/_private/schema-org/Property/Texts/has_polygon.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_polygon.private|has_polygon.private]] 
 
-### #is_/same_as :: [has_polygon.personal](/_personal/schema-org/Property/Texts/has_polygon.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_polygon.personal|has_polygon.personal]] 
 
-### #is_/same_as :: [has_polygon.secret](/_secret/schema-org/Property/Texts/has_polygon.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_polygon.secret|has_polygon.secret]] 
 

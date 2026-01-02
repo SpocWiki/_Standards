@@ -56,17 +56,17 @@ MeSH_tree_code: D10.627
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil](/_Standards/bio/Metabolism/Nutrition/Fat/Oil.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Fat/Oil|Oil]] 
 
-### #is_/same_as :: [Oil.public](/_public/bio/Metabolism/Nutrition/Fat/Oil.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Fat/Oil.public|Oil.public]] 
 
-### #is_/same_as :: [Oil.internal](/_internal/bio/Metabolism/Nutrition/Fat/Oil.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Fat/Oil.internal|Oil.internal]] 
 
-### #is_/same_as :: [Oil.protect](/_protect/bio/Metabolism/Nutrition/Fat/Oil.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Fat/Oil.protect|Oil.protect]] 
 
-### #is_/same_as :: [Oil.private](/_private/bio/Metabolism/Nutrition/Fat/Oil.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Fat/Oil.private|Oil.private]] 
 
-### #is_/same_as :: [Oil.personal](/_personal/bio/Metabolism/Nutrition/Fat/Oil.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Fat/Oil.personal|Oil.personal]] 
 
-### #is_/same_as :: [Oil.secret](/_secret/bio/Metabolism/Nutrition/Fat/Oil.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Fat/Oil.secret|Oil.secret]] 
 

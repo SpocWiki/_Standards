@@ -42,17 +42,17 @@ Indicates that the item is refurbished.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refurbished_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition|Refurbished_Condition]] 
 
-### #is_/same_as :: [Refurbished_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.public|Refurbished_Condition.public]] 
 
-### #is_/same_as :: [Refurbished_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.internal|Refurbished_Condition.internal]] 
 
-### #is_/same_as :: [Refurbished_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.protect|Refurbished_Condition.protect]] 
 
-### #is_/same_as :: [Refurbished_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.private|Refurbished_Condition.private]] 
 
-### #is_/same_as :: [Refurbished_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.personal|Refurbished_Condition.personal]] 
 
-### #is_/same_as :: [Refurbished_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Offer_Item_Condition/Refurbished_Condition.secret|Refurbished_Condition.secret]] 
 

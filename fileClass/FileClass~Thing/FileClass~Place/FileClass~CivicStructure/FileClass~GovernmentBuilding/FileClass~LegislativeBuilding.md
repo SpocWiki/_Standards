@@ -37,17 +37,17 @@ A legislative building—for example, the state capitol.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding|FileClass~LegislativeBuilding]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.public|FileClass~LegislativeBuilding.public]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.internal|FileClass~LegislativeBuilding.internal]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.protect|FileClass~LegislativeBuilding.protect]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.private|FileClass~LegislativeBuilding.private]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.personal|FileClass~LegislativeBuilding.personal]] 
 
-### #is_/same_as :: [FileClass~LegislativeBuilding.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~GovernmentBuilding/FileClass~LegislativeBuilding.secret|FileClass~LegislativeBuilding.secret]] 
 

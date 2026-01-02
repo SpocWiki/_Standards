@@ -63,17 +63,17 @@ MeSH_tree_code: G08.686.784
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reproduction](/_Standards/bio/Reproduction.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction|Reproduction]] 
 
-### #is_/same_as :: [Reproduction.public](/_public/bio/Reproduction.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction.public|Reproduction.public]] 
 
-### #is_/same_as :: [Reproduction.internal](/_internal/bio/Reproduction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction.internal|Reproduction.internal]] 
 
-### #is_/same_as :: [Reproduction.protect](/_protect/bio/Reproduction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction.protect|Reproduction.protect]] 
 
-### #is_/same_as :: [Reproduction.private](/_private/bio/Reproduction.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction.private|Reproduction.private]] 
 
-### #is_/same_as :: [Reproduction.personal](/_personal/bio/Reproduction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction.personal|Reproduction.personal]] 
 
-### #is_/same_as :: [Reproduction.secret](/_secret/bio/Reproduction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction.secret|Reproduction.secret]] 
 

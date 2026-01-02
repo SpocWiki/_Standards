@@ -192,17 +192,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Louis_XIV](/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV|Louis_XIV]] 
 
-### #is_/same_as :: [Louis_XIV.public](/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.public|Louis_XIV.public]] 
 
-### #is_/same_as :: [Louis_XIV.internal](/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.internal|Louis_XIV.internal]] 
 
-### #is_/same_as :: [Louis_XIV.protect](/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.protect|Louis_XIV.protect]] 
 
-### #is_/same_as :: [Louis_XIV.private](/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.private|Louis_XIV.private]] 
 
-### #is_/same_as :: [Louis_XIV.personal](/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.personal|Louis_XIV.personal]] 
 
-### #is_/same_as :: [Louis_XIV.secret](/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Early_modern_Leaders/Louis_XIV.secret|Louis_XIV.secret]] 
 

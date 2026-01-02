@@ -41,3 +41,22 @@ taxon_common_name: zarodziec pasmowy
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium%20malariae) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae|Plasmodium_malariae]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.public|Plasmodium_malariae.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.internal|Plasmodium_malariae.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.protect|Plasmodium_malariae.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.private|Plasmodium_malariae.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.personal|Plasmodium_malariae.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae.secret|Plasmodium_malariae.secret]] 
+

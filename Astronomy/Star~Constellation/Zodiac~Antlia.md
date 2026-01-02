@@ -47,17 +47,17 @@ official_name: Antlia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Antlia](/_Standards/Astronomy/Star~Constellation/Zodiac~Antlia.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Antlia|Zodiac~Antlia]] 
 
-### #is_/same_as :: [Zodiac~Antlia.public](/_public/Astronomy/Star~Constellation/Zodiac~Antlia.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Antlia.public|Zodiac~Antlia.public]] 
 
-### #is_/same_as :: [Zodiac~Antlia.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Antlia.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Antlia.internal|Zodiac~Antlia.internal]] 
 
-### #is_/same_as :: [Zodiac~Antlia.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Antlia.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Antlia.protect|Zodiac~Antlia.protect]] 
 
-### #is_/same_as :: [Zodiac~Antlia.private](/_private/Astronomy/Star~Constellation/Zodiac~Antlia.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Antlia.private|Zodiac~Antlia.private]] 
 
-### #is_/same_as :: [Zodiac~Antlia.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Antlia.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Antlia.personal|Zodiac~Antlia.personal]] 
 
-### #is_/same_as :: [Zodiac~Antlia.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Antlia.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Antlia.secret|Zodiac~Antlia.secret]] 
 

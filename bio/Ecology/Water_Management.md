@@ -51,17 +51,17 @@ Commons_category: Water management
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Management](/_Standards/bio/Ecology/Water_Management.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Water_Management|Water_Management]] 
 
-### #is_/same_as :: [Water_Management.public](/_public/bio/Ecology/Water_Management.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Water_Management.public|Water_Management.public]] 
 
-### #is_/same_as :: [Water_Management.internal](/_internal/bio/Ecology/Water_Management.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Water_Management.internal|Water_Management.internal]] 
 
-### #is_/same_as :: [Water_Management.protect](/_protect/bio/Ecology/Water_Management.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Water_Management.protect|Water_Management.protect]] 
 
-### #is_/same_as :: [Water_Management.private](/_private/bio/Ecology/Water_Management.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Water_Management.private|Water_Management.private]] 
 
-### #is_/same_as :: [Water_Management.personal](/_personal/bio/Ecology/Water_Management.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Water_Management.personal|Water_Management.personal]] 
 
-### #is_/same_as :: [Water_Management.secret](/_secret/bio/Ecology/Water_Management.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Water_Management.secret|Water_Management.secret]] 
 

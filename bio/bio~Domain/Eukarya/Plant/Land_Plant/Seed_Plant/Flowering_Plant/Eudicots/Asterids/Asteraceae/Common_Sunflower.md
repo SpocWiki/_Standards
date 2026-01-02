@@ -182,17 +182,17 @@ NBN_System_Key: NBNSYS0000037346
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Common_Sunflower](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower|Common_Sunflower]] 
 
-### #is_/same_as :: [Common_Sunflower.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.public|Common_Sunflower.public]] 
 
-### #is_/same_as :: [Common_Sunflower.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.internal|Common_Sunflower.internal]] 
 
-### #is_/same_as :: [Common_Sunflower.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.protect|Common_Sunflower.protect]] 
 
-### #is_/same_as :: [Common_Sunflower.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.private|Common_Sunflower.private]] 
 
-### #is_/same_as :: [Common_Sunflower.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.personal|Common_Sunflower.personal]] 
 
-### #is_/same_as :: [Common_Sunflower.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Asterids/Asteraceae/Common_Sunflower.secret|Common_Sunflower.secret]] 
 

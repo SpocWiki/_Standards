@@ -156,17 +156,17 @@ ISNI: 0000000120955240
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grace_Kelly](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly|Grace_Kelly]] 
 
-### #is_/same_as :: [Grace_Kelly.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.public|Grace_Kelly.public]] 
 
-### #is_/same_as :: [Grace_Kelly.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.internal|Grace_Kelly.internal]] 
 
-### #is_/same_as :: [Grace_Kelly.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.protect|Grace_Kelly.protect]] 
 
-### #is_/same_as :: [Grace_Kelly.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.private|Grace_Kelly.private]] 
 
-### #is_/same_as :: [Grace_Kelly.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.personal|Grace_Kelly.personal]] 
 
-### #is_/same_as :: [Grace_Kelly.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Grace_Kelly.secret|Grace_Kelly.secret]] 
 

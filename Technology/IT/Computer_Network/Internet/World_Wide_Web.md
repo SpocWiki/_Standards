@@ -72,17 +72,17 @@ U_S_National_Archives_Identifier: 10644635
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Wide_Web](/_Standards/Technology/IT/Computer_Network/Internet/World_Wide_Web.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/World_Wide_Web|World_Wide_Web]] 
 
-### #is_/same_as :: [World_Wide_Web.public](/_public/Technology/IT/Computer_Network/Internet/World_Wide_Web.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/World_Wide_Web.public|World_Wide_Web.public]] 
 
-### #is_/same_as :: [World_Wide_Web.internal](/_internal/Technology/IT/Computer_Network/Internet/World_Wide_Web.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/World_Wide_Web.internal|World_Wide_Web.internal]] 
 
-### #is_/same_as :: [World_Wide_Web.protect](/_protect/Technology/IT/Computer_Network/Internet/World_Wide_Web.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/World_Wide_Web.protect|World_Wide_Web.protect]] 
 
-### #is_/same_as :: [World_Wide_Web.private](/_private/Technology/IT/Computer_Network/Internet/World_Wide_Web.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/World_Wide_Web.private|World_Wide_Web.private]] 
 
-### #is_/same_as :: [World_Wide_Web.personal](/_personal/Technology/IT/Computer_Network/Internet/World_Wide_Web.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/World_Wide_Web.personal|World_Wide_Web.personal]] 
 
-### #is_/same_as :: [World_Wide_Web.secret](/_secret/Technology/IT/Computer_Network/Internet/World_Wide_Web.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/World_Wide_Web.secret|World_Wide_Web.secret]] 
 

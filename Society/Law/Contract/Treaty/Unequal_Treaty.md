@@ -55,17 +55,17 @@ Commons_category: Unequal Treaties
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unequal_Treaty](/_Standards/Society/Law/Contract/Treaty/Unequal_Treaty.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract/Treaty/Unequal_Treaty|Unequal_Treaty]] 
 
-### #is_/same_as :: [Unequal_Treaty.public](/_public/Society/Law/Contract/Treaty/Unequal_Treaty.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract/Treaty/Unequal_Treaty.public|Unequal_Treaty.public]] 
 
-### #is_/same_as :: [Unequal_Treaty.internal](/_internal/Society/Law/Contract/Treaty/Unequal_Treaty.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract/Treaty/Unequal_Treaty.internal|Unequal_Treaty.internal]] 
 
-### #is_/same_as :: [Unequal_Treaty.protect](/_protect/Society/Law/Contract/Treaty/Unequal_Treaty.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract/Treaty/Unequal_Treaty.protect|Unequal_Treaty.protect]] 
 
-### #is_/same_as :: [Unequal_Treaty.private](/_private/Society/Law/Contract/Treaty/Unequal_Treaty.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract/Treaty/Unequal_Treaty.private|Unequal_Treaty.private]] 
 
-### #is_/same_as :: [Unequal_Treaty.personal](/_personal/Society/Law/Contract/Treaty/Unequal_Treaty.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract/Treaty/Unequal_Treaty.personal|Unequal_Treaty.personal]] 
 
-### #is_/same_as :: [Unequal_Treaty.secret](/_secret/Society/Law/Contract/Treaty/Unequal_Treaty.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract/Treaty/Unequal_Treaty.secret|Unequal_Treaty.secret]] 
 

@@ -42,17 +42,17 @@ is_sub_class_of::  {"type":"File","options":{"dvQueryString":"dv.pages('#class/C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Class](/_Standards/fileClass/FileClass~Class.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Class|FileClass~Class]] 
 
-### #is_/same_as :: [FileClass~Class.public](/_public/fileClass/FileClass~Class.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Class.public|FileClass~Class.public]] 
 
-### #is_/same_as :: [FileClass~Class.internal](/_internal/fileClass/FileClass~Class.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Class.internal|FileClass~Class.internal]] 
 
-### #is_/same_as :: [FileClass~Class.protect](/_protect/fileClass/FileClass~Class.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Class.protect|FileClass~Class.protect]] 
 
-### #is_/same_as :: [FileClass~Class.private](/_private/fileClass/FileClass~Class.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Class.private|FileClass~Class.private]] 
 
-### #is_/same_as :: [FileClass~Class.personal](/_personal/fileClass/FileClass~Class.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Class.personal|FileClass~Class.personal]] 
 
-### #is_/same_as :: [FileClass~Class.secret](/_secret/fileClass/FileClass~Class.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Class.secret|FileClass~Class.secret]] 
 

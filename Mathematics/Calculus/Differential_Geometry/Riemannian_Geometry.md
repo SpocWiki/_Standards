@@ -49,17 +49,17 @@ Stack_Exchange_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemannian_Geometry](/_Standards/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry|Riemannian_Geometry]] 
 
-### #is_/same_as :: [Riemannian_Geometry.public](/_public/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.public|Riemannian_Geometry.public]] 
 
-### #is_/same_as :: [Riemannian_Geometry.internal](/_internal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.internal|Riemannian_Geometry.internal]] 
 
-### #is_/same_as :: [Riemannian_Geometry.protect](/_protect/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.protect|Riemannian_Geometry.protect]] 
 
-### #is_/same_as :: [Riemannian_Geometry.private](/_private/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.private|Riemannian_Geometry.private]] 
 
-### #is_/same_as :: [Riemannian_Geometry.personal](/_personal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.personal|Riemannian_Geometry.personal]] 
 
-### #is_/same_as :: [Riemannian_Geometry.secret](/_secret/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Differential_Geometry/Riemannian_Geometry.secret|Riemannian_Geometry.secret]] 
 

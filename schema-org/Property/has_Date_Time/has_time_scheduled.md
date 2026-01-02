@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_scheduled](/_Standards/schema-org/Property/has_Date_Time/has_time_scheduled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_scheduled|has_time_scheduled]] 
 
-### #is_/same_as :: [has_time_scheduled.public](/_public/schema-org/Property/has_Date_Time/has_time_scheduled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_scheduled.public|has_time_scheduled.public]] 
 
-### #is_/same_as :: [has_time_scheduled.internal](/_internal/schema-org/Property/has_Date_Time/has_time_scheduled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_scheduled.internal|has_time_scheduled.internal]] 
 
-### #is_/same_as :: [has_time_scheduled.protect](/_protect/schema-org/Property/has_Date_Time/has_time_scheduled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_scheduled.protect|has_time_scheduled.protect]] 
 
-### #is_/same_as :: [has_time_scheduled.private](/_private/schema-org/Property/has_Date_Time/has_time_scheduled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_scheduled.private|has_time_scheduled.private]] 
 
-### #is_/same_as :: [has_time_scheduled.personal](/_personal/schema-org/Property/has_Date_Time/has_time_scheduled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_scheduled.personal|has_time_scheduled.personal]] 
 
-### #is_/same_as :: [has_time_scheduled.secret](/_secret/schema-org/Property/has_Date_Time/has_time_scheduled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_scheduled.secret|has_time_scheduled.secret]] 
 

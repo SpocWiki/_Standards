@@ -104,17 +104,17 @@ Common_Procurement_Vocabulary_code: 03222210-8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lemon](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon|Lemon]] 
 
-### #is_/same_as :: [Lemon.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.public|Lemon.public]] 
 
-### #is_/same_as :: [Lemon.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.internal|Lemon.internal]] 
 
-### #is_/same_as :: [Lemon.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.protect|Lemon.protect]] 
 
-### #is_/same_as :: [Lemon.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.private|Lemon.private]] 
 
-### #is_/same_as :: [Lemon.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.personal|Lemon.personal]] 
 
-### #is_/same_as :: [Lemon.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Sapindales/Rutaceae/Aurantioideae/Citrus/Lemon.secret|Lemon.secret]] 
 

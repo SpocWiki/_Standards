@@ -477,17 +477,17 @@ Capital ::[[Georgia,Europe/Regions~Georgia/Tbilisi]]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Georgia,Europe](/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Georgia,Europe|Georgia,Europe]] 
 
-### #is_/same_as :: [Georgia,Europe.public](/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Georgia,Europe.public|Georgia,Europe.public]] 
 
-### #is_/same_as :: [Georgia,Europe.internal](/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Georgia,Europe.internal|Georgia,Europe.internal]] 
 
-### #is_/same_as :: [Georgia,Europe.protect](/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Georgia,Europe.protect|Georgia,Europe.protect]] 
 
-### #is_/same_as :: [Georgia,Europe.private](/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Georgia,Europe.private|Georgia,Europe.private]] 
 
-### #is_/same_as :: [Georgia,Europe.personal](/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Georgia,Europe.personal|Georgia,Europe.personal]] 
 
-### #is_/same_as :: [Georgia,Europe.secret](/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Georgia,Europe.secret|Georgia,Europe.secret]] 
 

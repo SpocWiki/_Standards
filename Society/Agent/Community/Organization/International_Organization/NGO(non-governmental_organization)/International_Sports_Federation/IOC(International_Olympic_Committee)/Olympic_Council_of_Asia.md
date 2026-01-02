@@ -44,17 +44,17 @@ Commons_category: Olympic Council of Asia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Olympic_Council_of_Asia](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia|Olympic_Council_of_Asia]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.public|Olympic_Council_of_Asia.public]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.internal|Olympic_Council_of_Asia.internal]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.protect|Olympic_Council_of_Asia.protect]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.private|Olympic_Council_of_Asia.private]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.personal|Olympic_Council_of_Asia.personal]] 
 
-### #is_/same_as :: [Olympic_Council_of_Asia.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Sports_Federation/IOC(International_Olympic_Committee)/Olympic_Council_of_Asia.secret|Olympic_Council_of_Asia.secret]] 
 

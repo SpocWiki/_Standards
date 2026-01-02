@@ -100,17 +100,17 @@ Commons_gallery: Incandescent light bulb
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Incandescent_Light_Bulb](/_Standards/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb|Incandescent_Light_Bulb]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.public](/_public/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.public|Incandescent_Light_Bulb.public]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.internal](/_internal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.internal|Incandescent_Light_Bulb.internal]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.protect](/_protect/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.protect|Incandescent_Light_Bulb.protect]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.private](/_private/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.private|Incandescent_Light_Bulb.private]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.personal](/_personal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.personal|Incandescent_Light_Bulb.personal]] 
 
-### #is_/same_as :: [Incandescent_Light_Bulb.secret](/_secret/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Incandescent_Light_Bulb.secret|Incandescent_Light_Bulb.secret]] 
 

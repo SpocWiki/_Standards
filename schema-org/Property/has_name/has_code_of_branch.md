@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_code_of_branch](/_Standards/schema-org/Property/has_name/has_code_of_branch.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_of_branch|has_code_of_branch]] 
 
-### #is_/same_as :: [has_code_of_branch.public](/_public/schema-org/Property/has_name/has_code_of_branch.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_of_branch.public|has_code_of_branch.public]] 
 
-### #is_/same_as :: [has_code_of_branch.internal](/_internal/schema-org/Property/has_name/has_code_of_branch.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_of_branch.internal|has_code_of_branch.internal]] 
 
-### #is_/same_as :: [has_code_of_branch.protect](/_protect/schema-org/Property/has_name/has_code_of_branch.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_of_branch.protect|has_code_of_branch.protect]] 
 
-### #is_/same_as :: [has_code_of_branch.private](/_private/schema-org/Property/has_name/has_code_of_branch.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_of_branch.private|has_code_of_branch.private]] 
 
-### #is_/same_as :: [has_code_of_branch.personal](/_personal/schema-org/Property/has_name/has_code_of_branch.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_of_branch.personal|has_code_of_branch.personal]] 
 
-### #is_/same_as :: [has_code_of_branch.secret](/_secret/schema-org/Property/has_name/has_code_of_branch.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_of_branch.secret|has_code_of_branch.secret]] 
 

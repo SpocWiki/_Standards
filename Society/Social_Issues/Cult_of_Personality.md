@@ -47,17 +47,17 @@ Provenio_UUID: b7968586-5afe-47a9-aa48-f9fe60814303
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cult_of_Personality](/_Standards/Society/Social_Issues/Cult_of_Personality.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Cult_of_Personality|Cult_of_Personality]] 
 
-### #is_/same_as :: [Cult_of_Personality.public](/_public/Society/Social_Issues/Cult_of_Personality.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Cult_of_Personality.public|Cult_of_Personality.public]] 
 
-### #is_/same_as :: [Cult_of_Personality.internal](/_internal/Society/Social_Issues/Cult_of_Personality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Cult_of_Personality.internal|Cult_of_Personality.internal]] 
 
-### #is_/same_as :: [Cult_of_Personality.protect](/_protect/Society/Social_Issues/Cult_of_Personality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Cult_of_Personality.protect|Cult_of_Personality.protect]] 
 
-### #is_/same_as :: [Cult_of_Personality.private](/_private/Society/Social_Issues/Cult_of_Personality.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Cult_of_Personality.private|Cult_of_Personality.private]] 
 
-### #is_/same_as :: [Cult_of_Personality.personal](/_personal/Society/Social_Issues/Cult_of_Personality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Cult_of_Personality.personal|Cult_of_Personality.personal]] 
 
-### #is_/same_as :: [Cult_of_Personality.secret](/_secret/Society/Social_Issues/Cult_of_Personality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Cult_of_Personality.secret|Cult_of_Personality.secret]] 
 

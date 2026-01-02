@@ -47,17 +47,17 @@ PhilPapers_topic: historical-linguistics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Historical_Linguistics](/_Standards/Language/Linguistics/Historical_Linguistics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Historical_Linguistics|Historical_Linguistics]] 
 
-### #is_/same_as :: [Historical_Linguistics.public](/_public/Language/Linguistics/Historical_Linguistics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Historical_Linguistics.public|Historical_Linguistics.public]] 
 
-### #is_/same_as :: [Historical_Linguistics.internal](/_internal/Language/Linguistics/Historical_Linguistics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Historical_Linguistics.internal|Historical_Linguistics.internal]] 
 
-### #is_/same_as :: [Historical_Linguistics.protect](/_protect/Language/Linguistics/Historical_Linguistics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Historical_Linguistics.protect|Historical_Linguistics.protect]] 
 
-### #is_/same_as :: [Historical_Linguistics.private](/_private/Language/Linguistics/Historical_Linguistics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Historical_Linguistics.private|Historical_Linguistics.private]] 
 
-### #is_/same_as :: [Historical_Linguistics.personal](/_personal/Language/Linguistics/Historical_Linguistics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Historical_Linguistics.personal|Historical_Linguistics.personal]] 
 
-### #is_/same_as :: [Historical_Linguistics.secret](/_secret/Language/Linguistics/Historical_Linguistics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Historical_Linguistics.secret|Historical_Linguistics.secret]] 
 

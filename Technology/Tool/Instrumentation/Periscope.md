@@ -47,17 +47,17 @@ Commons_category: Periscopes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Periscope](/_Standards/Technology/Tool/Instrumentation/Periscope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Periscope|Periscope]] 
 
-### #is_/same_as :: [Periscope.public](/_public/Technology/Tool/Instrumentation/Periscope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Periscope.public|Periscope.public]] 
 
-### #is_/same_as :: [Periscope.internal](/_internal/Technology/Tool/Instrumentation/Periscope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Periscope.internal|Periscope.internal]] 
 
-### #is_/same_as :: [Periscope.protect](/_protect/Technology/Tool/Instrumentation/Periscope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Periscope.protect|Periscope.protect]] 
 
-### #is_/same_as :: [Periscope.private](/_private/Technology/Tool/Instrumentation/Periscope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Periscope.private|Periscope.private]] 
 
-### #is_/same_as :: [Periscope.personal](/_personal/Technology/Tool/Instrumentation/Periscope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Periscope.personal|Periscope.personal]] 
 
-### #is_/same_as :: [Periscope.secret](/_secret/Technology/Tool/Instrumentation/Periscope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Periscope.secret|Periscope.secret]] 
 

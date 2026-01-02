@@ -122,17 +122,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_metaphysics,17004632]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metaphysic](/_Standards/Philosophy/Metaphysic.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic|Metaphysic]] 
 
-### #is_/same_as :: [Metaphysic.public](/_public/Philosophy/Metaphysic.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic.public|Metaphysic.public]] 
 
-### #is_/same_as :: [Metaphysic.internal](/_internal/Philosophy/Metaphysic.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic.internal|Metaphysic.internal]] 
 
-### #is_/same_as :: [Metaphysic.protect](/_protect/Philosophy/Metaphysic.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic.protect|Metaphysic.protect]] 
 
-### #is_/same_as :: [Metaphysic.private](/_private/Philosophy/Metaphysic.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic.private|Metaphysic.private]] 
 
-### #is_/same_as :: [Metaphysic.personal](/_personal/Philosophy/Metaphysic.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic.personal|Metaphysic.personal]] 
 
-### #is_/same_as :: [Metaphysic.secret](/_secret/Philosophy/Metaphysic.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic.secret|Metaphysic.secret]] 
 

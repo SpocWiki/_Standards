@@ -67,17 +67,17 @@ union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symbiosis](/_Standards/bio/Metabolism/Symbiosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Symbiosis|Symbiosis]] 
 
-### #is_/same_as :: [Symbiosis.public](/_public/bio/Metabolism/Symbiosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Symbiosis.public|Symbiosis.public]] 
 
-### #is_/same_as :: [Symbiosis.internal](/_internal/bio/Metabolism/Symbiosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Symbiosis.internal|Symbiosis.internal]] 
 
-### #is_/same_as :: [Symbiosis.protect](/_protect/bio/Metabolism/Symbiosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Symbiosis.protect|Symbiosis.protect]] 
 
-### #is_/same_as :: [Symbiosis.private](/_private/bio/Metabolism/Symbiosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Symbiosis.private|Symbiosis.private]] 
 
-### #is_/same_as :: [Symbiosis.personal](/_personal/bio/Metabolism/Symbiosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Symbiosis.personal|Symbiosis.personal]] 
 
-### #is_/same_as :: [Symbiosis.secret](/_secret/bio/Metabolism/Symbiosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Symbiosis.secret|Symbiosis.secret]] 
 

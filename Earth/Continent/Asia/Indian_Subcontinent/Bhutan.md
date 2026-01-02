@@ -445,17 +445,17 @@ Capital :: [[Bhutan/Counties/Tongsa/City/Thimphu]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bhutan](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bhutan|Bhutan]] 
 
-### #is_/same_as :: [Bhutan.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.public|Bhutan.public]] 
 
-### #is_/same_as :: [Bhutan.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.internal|Bhutan.internal]] 
 
-### #is_/same_as :: [Bhutan.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.protect|Bhutan.protect]] 
 
-### #is_/same_as :: [Bhutan.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.private|Bhutan.private]] 
 
-### #is_/same_as :: [Bhutan.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.personal|Bhutan.personal]] 
 
-### #is_/same_as :: [Bhutan.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bhutan.secret|Bhutan.secret]] 
 

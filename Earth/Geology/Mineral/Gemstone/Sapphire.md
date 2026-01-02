@@ -68,17 +68,17 @@ Baidu_Tieba_name: 蓝宝石
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sapphire](/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire|Sapphire]] 
 
-### #is_/same_as :: [Sapphire.public](/_public/Earth/Geology/Mineral/Gemstone/Sapphire.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gemstone/Sapphire.public|Sapphire.public]] 
 
-### #is_/same_as :: [Sapphire.internal](/_internal/Earth/Geology/Mineral/Gemstone/Sapphire.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire.internal|Sapphire.internal]] 
 
-### #is_/same_as :: [Sapphire.protect](/_protect/Earth/Geology/Mineral/Gemstone/Sapphire.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gemstone/Sapphire.protect|Sapphire.protect]] 
 
-### #is_/same_as :: [Sapphire.private](/_private/Earth/Geology/Mineral/Gemstone/Sapphire.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gemstone/Sapphire.private|Sapphire.private]] 
 
-### #is_/same_as :: [Sapphire.personal](/_personal/Earth/Geology/Mineral/Gemstone/Sapphire.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire.personal|Sapphire.personal]] 
 
-### #is_/same_as :: [Sapphire.secret](/_secret/Earth/Geology/Mineral/Gemstone/Sapphire.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire.secret|Sapphire.secret]] 
 

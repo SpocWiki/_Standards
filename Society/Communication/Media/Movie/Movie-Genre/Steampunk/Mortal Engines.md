@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mortal Engines](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines|Mortal Engines]] 
 
-### #is_/same_as :: [Mortal Engines.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.public|Mortal Engines.public]] 
 
-### #is_/same_as :: [Mortal Engines.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.internal|Mortal Engines.internal]] 
 
-### #is_/same_as :: [Mortal Engines.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.protect|Mortal Engines.protect]] 
 
-### #is_/same_as :: [Mortal Engines.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.private|Mortal Engines.private]] 
 
-### #is_/same_as :: [Mortal Engines.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.personal|Mortal Engines.personal]] 
 
-### #is_/same_as :: [Mortal Engines.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Mortal Engines.secret|Mortal Engines.secret]] 
 

@@ -51,17 +51,17 @@ short_name: Scl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Sculptor](/_Standards/Astronomy/Star~Constellation/Zodiac~Sculptor.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Sculptor|Zodiac~Sculptor]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.public](/_public/Astronomy/Star~Constellation/Zodiac~Sculptor.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Sculptor.public|Zodiac~Sculptor.public]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Sculptor.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Sculptor.internal|Zodiac~Sculptor.internal]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Sculptor.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Sculptor.protect|Zodiac~Sculptor.protect]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.private](/_private/Astronomy/Star~Constellation/Zodiac~Sculptor.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Sculptor.private|Zodiac~Sculptor.private]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Sculptor.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Sculptor.personal|Zodiac~Sculptor.personal]] 
 
-### #is_/same_as :: [Zodiac~Sculptor.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Sculptor.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Sculptor.secret|Zodiac~Sculptor.secret]] 
 

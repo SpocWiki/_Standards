@@ -42,17 +42,17 @@ markerFile: [[Howland-Island]]
 
 ## Confidential Links & Embeds: 
 
-### [Howland-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island|Howland-Island]] 
 
-### [Howland-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.public|Howland-Island.public]] 
 
-### [Howland-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.internal|Howland-Island.internal]] 
 
-### [Howland-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.protect|Howland-Island.protect]] 
 
-### [Howland-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.private|Howland-Island.private]] 
 
-### [Howland-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.personal|Howland-Island.personal]] 
 
-### [Howland-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Howland-Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Howland-Island.secret|Howland-Island.secret]] 
 

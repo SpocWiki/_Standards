@@ -136,17 +136,17 @@ NLC_authorities: 000128303
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Derrida,Jacques](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques|Derrida,Jacques]] 
 
-### #is_/same_as :: [Derrida,Jacques.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.public|Derrida,Jacques.public]] 
 
-### #is_/same_as :: [Derrida,Jacques.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.internal|Derrida,Jacques.internal]] 
 
-### #is_/same_as :: [Derrida,Jacques.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.protect|Derrida,Jacques.protect]] 
 
-### #is_/same_as :: [Derrida,Jacques.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.private|Derrida,Jacques.private]] 
 
-### #is_/same_as :: [Derrida,Jacques.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.personal|Derrida,Jacques.personal]] 
 
-### #is_/same_as :: [Derrida,Jacques.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Derrida,Jacques.secret|Derrida,Jacques.secret]] 
 

@@ -46,17 +46,17 @@ Many applications rely on conventions (e.g., UTF-8 by default) or assume encodin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_text_encoding](/_Standards/schema-org/Relation/has/has_text_encoding.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_text_encoding|has_text_encoding]] 
 
-### #is_/same_as :: [has_text_encoding.public](/_public/schema-org/Relation/has/has_text_encoding.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_text_encoding.public|has_text_encoding.public]] 
 
-### #is_/same_as :: [has_text_encoding.internal](/_internal/schema-org/Relation/has/has_text_encoding.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_text_encoding.internal|has_text_encoding.internal]] 
 
-### #is_/same_as :: [has_text_encoding.protect](/_protect/schema-org/Relation/has/has_text_encoding.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_text_encoding.protect|has_text_encoding.protect]] 
 
-### #is_/same_as :: [has_text_encoding.private](/_private/schema-org/Relation/has/has_text_encoding.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_text_encoding.private|has_text_encoding.private]] 
 
-### #is_/same_as :: [has_text_encoding.personal](/_personal/schema-org/Relation/has/has_text_encoding.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_text_encoding.personal|has_text_encoding.personal]] 
 
-### #is_/same_as :: [has_text_encoding.secret](/_secret/schema-org/Relation/has/has_text_encoding.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_text_encoding.secret|has_text_encoding.secret]] 
 

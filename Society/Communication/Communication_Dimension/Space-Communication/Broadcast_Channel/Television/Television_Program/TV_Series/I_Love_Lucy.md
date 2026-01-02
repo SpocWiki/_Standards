@@ -104,17 +104,17 @@ Plex_media_key: 5d9c08717b5c2e001e65c17d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [I_Love_Lucy](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy|I_Love_Lucy]] 
 
-### #is_/same_as :: [I_Love_Lucy.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.public|I_Love_Lucy.public]] 
 
-### #is_/same_as :: [I_Love_Lucy.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.internal|I_Love_Lucy.internal]] 
 
-### #is_/same_as :: [I_Love_Lucy.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.protect|I_Love_Lucy.protect]] 
 
-### #is_/same_as :: [I_Love_Lucy.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.private|I_Love_Lucy.private]] 
 
-### #is_/same_as :: [I_Love_Lucy.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.personal|I_Love_Lucy.personal]] 
 
-### #is_/same_as :: [I_Love_Lucy.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/I_Love_Lucy.secret|I_Love_Lucy.secret]] 
 

@@ -76,17 +76,17 @@ date_of_birth: 1918-03-29T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walton,Sam](/_Standards/Society/Agent/Community/Organization/Business-Person/Walton,Sam.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business-Person/Walton,Sam|Walton,Sam]] 
 
-### #is_/same_as :: [Walton,Sam.public](/_public/Society/Agent/Community/Organization/Business-Person/Walton,Sam.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business-Person/Walton,Sam.public|Walton,Sam.public]] 
 
-### #is_/same_as :: [Walton,Sam.internal](/_internal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.internal|Walton,Sam.internal]] 
 
-### #is_/same_as :: [Walton,Sam.protect](/_protect/Society/Agent/Community/Organization/Business-Person/Walton,Sam.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business-Person/Walton,Sam.protect|Walton,Sam.protect]] 
 
-### #is_/same_as :: [Walton,Sam.private](/_private/Society/Agent/Community/Organization/Business-Person/Walton,Sam.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business-Person/Walton,Sam.private|Walton,Sam.private]] 
 
-### #is_/same_as :: [Walton,Sam.personal](/_personal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business-Person/Walton,Sam.personal|Walton,Sam.personal]] 
 
-### #is_/same_as :: [Walton,Sam.secret](/_secret/Society/Agent/Community/Organization/Business-Person/Walton,Sam.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business-Person/Walton,Sam.secret|Walton,Sam.secret]] 
 

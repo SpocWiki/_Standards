@@ -85,17 +85,17 @@ IPTC_NewsCode: mediatopic/20000442
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecosystem](/_Standards/bio/Ecology/Ecosystem.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem|Ecosystem]] 
 
-### #is_/same_as :: [Ecosystem.public](/_public/bio/Ecology/Ecosystem.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem.public|Ecosystem.public]] 
 
-### #is_/same_as :: [Ecosystem.internal](/_internal/bio/Ecology/Ecosystem.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem.internal|Ecosystem.internal]] 
 
-### #is_/same_as :: [Ecosystem.protect](/_protect/bio/Ecology/Ecosystem.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem.protect|Ecosystem.protect]] 
 
-### #is_/same_as :: [Ecosystem.private](/_private/bio/Ecology/Ecosystem.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem.private|Ecosystem.private]] 
 
-### #is_/same_as :: [Ecosystem.personal](/_personal/bio/Ecology/Ecosystem.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem.personal|Ecosystem.personal]] 
 
-### #is_/same_as :: [Ecosystem.secret](/_secret/bio/Ecology/Ecosystem.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem.secret|Ecosystem.secret]] 
 

@@ -85,17 +85,17 @@ name: Gulfstaternas samarbetsråd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)](/_Standards/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public](/_public/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).public]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal](/_internal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).internal]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect](/_protect/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).protect]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private](/_private/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).private]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal](/_personal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).personal]] 
 
-### #is_/same_as :: [GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret](/_secret/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret|GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf).secret]] 
 

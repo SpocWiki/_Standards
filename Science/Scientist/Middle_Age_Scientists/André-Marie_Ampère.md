@@ -128,17 +128,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [André-Marie_Ampère](/_Standards/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère|André-Marie_Ampère]] 
 
-### #is_/same_as :: [André-Marie_Ampère.public](/_public/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.public|André-Marie_Ampère.public]] 
 
-### #is_/same_as :: [André-Marie_Ampère.internal](/_internal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.internal|André-Marie_Ampère.internal]] 
 
-### #is_/same_as :: [André-Marie_Ampère.protect](/_protect/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.protect|André-Marie_Ampère.protect]] 
 
-### #is_/same_as :: [André-Marie_Ampère.private](/_private/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.private|André-Marie_Ampère.private]] 
 
-### #is_/same_as :: [André-Marie_Ampère.personal](/_personal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.personal|André-Marie_Ampère.personal]] 
 
-### #is_/same_as :: [André-Marie_Ampère.secret](/_secret/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Middle_Age_Scientists/André-Marie_Ampère.secret|André-Marie_Ampère.secret]] 
 

@@ -103,17 +103,17 @@ Know_Your_Meme_slug: the-adventures-of-tintin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tintin](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Tintin|Tintin]] 
 
-### #is_/same_as :: [Tintin.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.public|Tintin.public]] 
 
-### #is_/same_as :: [Tintin.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.internal|Tintin.internal]] 
 
-### #is_/same_as :: [Tintin.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.protect|Tintin.protect]] 
 
-### #is_/same_as :: [Tintin.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.private|Tintin.private]] 
 
-### #is_/same_as :: [Tintin.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.personal|Tintin.personal]] 
 
-### #is_/same_as :: [Tintin.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Tintin.secret|Tintin.secret]] 
 

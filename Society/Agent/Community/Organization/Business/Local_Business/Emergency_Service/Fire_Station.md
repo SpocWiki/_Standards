@@ -41,17 +41,17 @@ A fire station. With firemen.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fire_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station|Fire_Station]] 
 
-### #is_/same_as :: [Fire_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.public|Fire_Station.public]] 
 
-### #is_/same_as :: [Fire_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.internal|Fire_Station.internal]] 
 
-### #is_/same_as :: [Fire_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.protect|Fire_Station.protect]] 
 
-### #is_/same_as :: [Fire_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.private|Fire_Station.private]] 
 
-### #is_/same_as :: [Fire_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.personal|Fire_Station.personal]] 
 
-### #is_/same_as :: [Fire_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Fire_Station.secret|Fire_Station.secret]] 
 

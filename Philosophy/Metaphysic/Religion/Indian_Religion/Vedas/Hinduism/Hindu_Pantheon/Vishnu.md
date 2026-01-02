@@ -91,17 +91,17 @@ IPA_transcription:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vishnu](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu|Vishnu]] 
 
-### #is_/same_as :: [Vishnu.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.public|Vishnu.public]] 
 
-### #is_/same_as :: [Vishnu.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.internal|Vishnu.internal]] 
 
-### #is_/same_as :: [Vishnu.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.protect|Vishnu.protect]] 
 
-### #is_/same_as :: [Vishnu.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.private|Vishnu.private]] 
 
-### #is_/same_as :: [Vishnu.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.personal|Vishnu.personal]] 
 
-### #is_/same_as :: [Vishnu.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Hindu_Pantheon/Vishnu.secret|Vishnu.secret]] 
 

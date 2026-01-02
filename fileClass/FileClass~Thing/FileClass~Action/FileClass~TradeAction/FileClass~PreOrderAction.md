@@ -37,17 +37,17 @@ An agent orders a (not yet released) object/product/service to be delivered/sent
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PreOrderAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction|FileClass~PreOrderAction]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.public|FileClass~PreOrderAction.public]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.internal|FileClass~PreOrderAction.internal]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.protect|FileClass~PreOrderAction.protect]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.private|FileClass~PreOrderAction.private]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.personal|FileClass~PreOrderAction.personal]] 
 
-### #is_/same_as :: [FileClass~PreOrderAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TradeAction/FileClass~PreOrderAction.secret|FileClass~PreOrderAction.secret]] 
 

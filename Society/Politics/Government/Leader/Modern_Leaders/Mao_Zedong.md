@@ -148,17 +148,17 @@ work_period_end_: 1976
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mao_Zedong](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong|Mao_Zedong]] 
 
-### #is_/same_as :: [Mao_Zedong.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.public|Mao_Zedong.public]] 
 
-### #is_/same_as :: [Mao_Zedong.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.internal|Mao_Zedong.internal]] 
 
-### #is_/same_as :: [Mao_Zedong.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.protect|Mao_Zedong.protect]] 
 
-### #is_/same_as :: [Mao_Zedong.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.private|Mao_Zedong.private]] 
 
-### #is_/same_as :: [Mao_Zedong.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.personal|Mao_Zedong.personal]] 
 
-### #is_/same_as :: [Mao_Zedong.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Mao_Zedong.secret|Mao_Zedong.secret]] 
 

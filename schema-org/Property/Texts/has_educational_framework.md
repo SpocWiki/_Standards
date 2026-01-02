@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_educational_framework](/_Standards/schema-org/Property/Texts/has_educational_framework.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_educational_framework|has_educational_framework]] 
 
-### #is_/same_as :: [has_educational_framework.public](/_public/schema-org/Property/Texts/has_educational_framework.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_educational_framework.public|has_educational_framework.public]] 
 
-### #is_/same_as :: [has_educational_framework.internal](/_internal/schema-org/Property/Texts/has_educational_framework.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_educational_framework.internal|has_educational_framework.internal]] 
 
-### #is_/same_as :: [has_educational_framework.protect](/_protect/schema-org/Property/Texts/has_educational_framework.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_educational_framework.protect|has_educational_framework.protect]] 
 
-### #is_/same_as :: [has_educational_framework.private](/_private/schema-org/Property/Texts/has_educational_framework.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_educational_framework.private|has_educational_framework.private]] 
 
-### #is_/same_as :: [has_educational_framework.personal](/_personal/schema-org/Property/Texts/has_educational_framework.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_educational_framework.personal|has_educational_framework.personal]] 
 
-### #is_/same_as :: [has_educational_framework.secret](/_secret/schema-org/Property/Texts/has_educational_framework.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_educational_framework.secret|has_educational_framework.secret]] 
 

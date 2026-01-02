@@ -95,17 +95,17 @@ work_period_start_: 1925-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anderson,Marian](/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian|Anderson,Marian]] 
 
-### #is_/same_as :: [Anderson,Marian.public](/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.public|Anderson,Marian.public]] 
 
-### #is_/same_as :: [Anderson,Marian.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.internal|Anderson,Marian.internal]] 
 
-### #is_/same_as :: [Anderson,Marian.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.protect|Anderson,Marian.protect]] 
 
-### #is_/same_as :: [Anderson,Marian.private](/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.private|Anderson,Marian.private]] 
 
-### #is_/same_as :: [Anderson,Marian.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.personal|Anderson,Marian.personal]] 
 
-### #is_/same_as :: [Anderson,Marian.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Opera_Singer/Anderson,Marian.secret|Anderson,Marian.secret]] 
 

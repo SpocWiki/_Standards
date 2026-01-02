@@ -156,17 +156,17 @@ Vaccination has played a critical role in public health by preventing the spread
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vaccination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination|Vaccination]] 
 
-### #is_/same_as :: [Vaccination.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.public|Vaccination.public]] 
 
-### #is_/same_as :: [Vaccination.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.internal|Vaccination.internal]] 
 
-### #is_/same_as :: [Vaccination.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.protect|Vaccination.protect]] 
 
-### #is_/same_as :: [Vaccination.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.private|Vaccination.private]] 
 
-### #is_/same_as :: [Vaccination.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.personal|Vaccination.personal]] 
 
-### #is_/same_as :: [Vaccination.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination.secret|Vaccination.secret]] 
 

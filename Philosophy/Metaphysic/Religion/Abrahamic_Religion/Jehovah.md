@@ -55,17 +55,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jhwh4.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jehovah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah|Jehovah]] 
 
-### #is_/same_as :: [Jehovah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.public|Jehovah.public]] 
 
-### #is_/same_as :: [Jehovah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.internal|Jehovah.internal]] 
 
-### #is_/same_as :: [Jehovah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.protect|Jehovah.protect]] 
 
-### #is_/same_as :: [Jehovah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.private|Jehovah.private]] 
 
-### #is_/same_as :: [Jehovah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.personal|Jehovah.personal]] 
 
-### #is_/same_as :: [Jehovah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Jehovah.secret|Jehovah.secret]] 
 

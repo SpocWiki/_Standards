@@ -41,17 +41,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suite](/_Standards/Earth/Geography/Place/Accommodation/Suite.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Suite|Suite]] 
 
-### #is_/same_as :: [Suite.public](/_public/Earth/Geography/Place/Accommodation/Suite.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Suite.public|Suite.public]] 
 
-### #is_/same_as :: [Suite.internal](/_internal/Earth/Geography/Place/Accommodation/Suite.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Suite.internal|Suite.internal]] 
 
-### #is_/same_as :: [Suite.protect](/_protect/Earth/Geography/Place/Accommodation/Suite.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Suite.protect|Suite.protect]] 
 
-### #is_/same_as :: [Suite.private](/_private/Earth/Geography/Place/Accommodation/Suite.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Suite.private|Suite.private]] 
 
-### #is_/same_as :: [Suite.personal](/_personal/Earth/Geography/Place/Accommodation/Suite.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Suite.personal|Suite.personal]] 
 
-### #is_/same_as :: [Suite.secret](/_secret/Earth/Geography/Place/Accommodation/Suite.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Suite.secret|Suite.secret]] 
 

@@ -76,17 +76,17 @@ Krugosvet_article: istoriya/SEVERNAYA_VONA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721|1700-Great_Northern_War+1721]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.public|1700-Great_Northern_War+1721.public]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.internal|1700-Great_Northern_War+1721.internal]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.protect|1700-Great_Northern_War+1721.protect]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.private|1700-Great_Northern_War+1721.private]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.personal|1700-Great_Northern_War+1721.personal]] 
 
-### #is_/same_as :: [1700-Great_Northern_War+1721.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1700-Great_Northern_War+1721.secret|1700-Great_Northern_War+1721.secret]] 
 

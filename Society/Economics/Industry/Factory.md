@@ -85,17 +85,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Factory](/_Standards/Society/Economics/Industry/Factory.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Factory|Factory]] 
 
-### #is_/same_as :: [Factory.public](/_public/Society/Economics/Industry/Factory.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Factory.public|Factory.public]] 
 
-### #is_/same_as :: [Factory.internal](/_internal/Society/Economics/Industry/Factory.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Factory.internal|Factory.internal]] 
 
-### #is_/same_as :: [Factory.protect](/_protect/Society/Economics/Industry/Factory.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Factory.protect|Factory.protect]] 
 
-### #is_/same_as :: [Factory.private](/_private/Society/Economics/Industry/Factory.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Factory.private|Factory.private]] 
 
-### #is_/same_as :: [Factory.personal](/_personal/Society/Economics/Industry/Factory.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Factory.personal|Factory.personal]] 
 
-### #is_/same_as :: [Factory.secret](/_secret/Society/Economics/Industry/Factory.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Factory.secret|Factory.secret]] 
 

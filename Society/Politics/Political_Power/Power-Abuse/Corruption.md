@@ -62,17 +62,17 @@ IPTC_NewsCode: mediatopic/20000093
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Corruption](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption|Corruption]] 
 
-### #is_/same_as :: [Corruption.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse/Corruption.public|Corruption.public]] 
 
-### #is_/same_as :: [Corruption.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption.internal|Corruption.internal]] 
 
-### #is_/same_as :: [Corruption.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption.protect|Corruption.protect]] 
 
-### #is_/same_as :: [Corruption.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse/Corruption.private|Corruption.private]] 
 
-### #is_/same_as :: [Corruption.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption.personal|Corruption.personal]] 
 
-### #is_/same_as :: [Corruption.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption.secret|Corruption.secret]] 
 

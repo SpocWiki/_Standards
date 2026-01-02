@@ -42,17 +42,17 @@ Available by prescription only.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Prescription_Only](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only|Drug_Prescription_Only]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.public|Drug_Prescription_Only.public]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.internal|Drug_Prescription_Only.internal]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.protect|Drug_Prescription_Only.protect]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.private|Drug_Prescription_Only.private]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.personal|Drug_Prescription_Only.personal]] 
 
-### #is_/same_as :: [Drug_Prescription_Only.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Prescription_Status/Drug_Prescription_Only.secret|Drug_Prescription_Only.secret]] 
 

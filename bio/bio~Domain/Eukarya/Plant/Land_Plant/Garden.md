@@ -61,17 +61,17 @@ OpenStreetMap_tag: leisure=garden
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Garden](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden|Garden]] 
 
-### #is_/same_as :: [Garden.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.public|Garden.public]] 
 
-### #is_/same_as :: [Garden.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.internal|Garden.internal]] 
 
-### #is_/same_as :: [Garden.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.protect|Garden.protect]] 
 
-### #is_/same_as :: [Garden.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.private|Garden.private]] 
 
-### #is_/same_as :: [Garden.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.personal|Garden.personal]] 
 
-### #is_/same_as :: [Garden.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Garden.secret|Garden.secret]] 
 

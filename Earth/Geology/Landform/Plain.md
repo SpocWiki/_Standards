@@ -51,17 +51,17 @@ OpenStreetMap_tag: natural=plain
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plain](/_Standards/Earth/Geology/Landform/Plain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Plain|Plain]] 
 
-### #is_/same_as :: [Plain.public](/_public/Earth/Geology/Landform/Plain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Plain.public|Plain.public]] 
 
-### #is_/same_as :: [Plain.internal](/_internal/Earth/Geology/Landform/Plain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Plain.internal|Plain.internal]] 
 
-### #is_/same_as :: [Plain.protect](/_protect/Earth/Geology/Landform/Plain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Plain.protect|Plain.protect]] 
 
-### #is_/same_as :: [Plain.private](/_private/Earth/Geology/Landform/Plain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Plain.private|Plain.private]] 
 
-### #is_/same_as :: [Plain.personal](/_personal/Earth/Geology/Landform/Plain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Plain.personal|Plain.personal]] 
 
-### #is_/same_as :: [Plain.secret](/_secret/Earth/Geology/Landform/Plain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Plain.secret|Plain.secret]] 
 

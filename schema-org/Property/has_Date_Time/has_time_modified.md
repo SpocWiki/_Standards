@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_modified](/_Standards/schema-org/Property/has_Date_Time/has_time_modified.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_modified|has_time_modified]] 
 
-### #is_/same_as :: [has_time_modified.public](/_public/schema-org/Property/has_Date_Time/has_time_modified.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_modified.public|has_time_modified.public]] 
 
-### #is_/same_as :: [has_time_modified.internal](/_internal/schema-org/Property/has_Date_Time/has_time_modified.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_modified.internal|has_time_modified.internal]] 
 
-### #is_/same_as :: [has_time_modified.protect](/_protect/schema-org/Property/has_Date_Time/has_time_modified.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_modified.protect|has_time_modified.protect]] 
 
-### #is_/same_as :: [has_time_modified.private](/_private/schema-org/Property/has_Date_Time/has_time_modified.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_modified.private|has_time_modified.private]] 
 
-### #is_/same_as :: [has_time_modified.personal](/_personal/schema-org/Property/has_Date_Time/has_time_modified.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_modified.personal|has_time_modified.personal]] 
 
-### #is_/same_as :: [has_time_modified.secret](/_secret/schema-org/Property/has_Date_Time/has_time_modified.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_modified.secret|has_time_modified.secret]] 
 

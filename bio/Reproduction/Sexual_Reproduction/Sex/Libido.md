@@ -79,17 +79,17 @@ MeSH_tree_code: F02.739.794.511
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Libido](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Libido.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Libido|Libido]] 
 
-### #is_/same_as :: [Libido.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Libido.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Libido.public|Libido.public]] 
 
-### #is_/same_as :: [Libido.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Libido.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Libido.internal|Libido.internal]] 
 
-### #is_/same_as :: [Libido.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Libido.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Libido.protect|Libido.protect]] 
 
-### #is_/same_as :: [Libido.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Libido.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Libido.private|Libido.private]] 
 
-### #is_/same_as :: [Libido.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Libido.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Libido.personal|Libido.personal]] 
 
-### #is_/same_as :: [Libido.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Libido.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Libido.secret|Libido.secret]] 
 

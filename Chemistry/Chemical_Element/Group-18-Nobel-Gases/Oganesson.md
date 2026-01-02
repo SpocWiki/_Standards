@@ -77,17 +77,17 @@ time_of_discovery_or_invention: 2002-06-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oganesson](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson|Oganesson]] 
 
-### #is_/same_as :: [Oganesson.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public|Oganesson.public]] 
 
-### #is_/same_as :: [Oganesson.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal|Oganesson.internal]] 
 
-### #is_/same_as :: [Oganesson.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.protect|Oganesson.protect]] 
 
-### #is_/same_as :: [Oganesson.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.private|Oganesson.private]] 
 
-### #is_/same_as :: [Oganesson.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal|Oganesson.personal]] 
 
-### #is_/same_as :: [Oganesson.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret|Oganesson.secret]] 
 

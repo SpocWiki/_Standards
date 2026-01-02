@@ -57,3 +57,22 @@ taxon_common_name: マラリア原虫
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Plasmodium) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium|Plasmodium]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.public|Plasmodium.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.internal|Plasmodium.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.protect|Plasmodium.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.private|Plasmodium.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.personal|Plasmodium.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Plasmodium.secret|Plasmodium.secret]] 
+

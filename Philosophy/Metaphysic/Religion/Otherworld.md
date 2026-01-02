@@ -27,17 +27,17 @@ has_id_wikidata: Q16354816
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Otherworld](/_Standards/Philosophy/Metaphysic/Religion/Otherworld.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Otherworld|Otherworld]] 
 
-### #is_/same_as :: [Otherworld.public](/_public/Philosophy/Metaphysic/Religion/Otherworld.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Otherworld.public|Otherworld.public]] 
 
-### #is_/same_as :: [Otherworld.internal](/_internal/Philosophy/Metaphysic/Religion/Otherworld.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Otherworld.internal|Otherworld.internal]] 
 
-### #is_/same_as :: [Otherworld.protect](/_protect/Philosophy/Metaphysic/Religion/Otherworld.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Otherworld.protect|Otherworld.protect]] 
 
-### #is_/same_as :: [Otherworld.private](/_private/Philosophy/Metaphysic/Religion/Otherworld.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Otherworld.private|Otherworld.private]] 
 
-### #is_/same_as :: [Otherworld.personal](/_personal/Philosophy/Metaphysic/Religion/Otherworld.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Otherworld.personal|Otherworld.personal]] 
 
-### #is_/same_as :: [Otherworld.secret](/_secret/Philosophy/Metaphysic/Religion/Otherworld.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Otherworld.secret|Otherworld.secret]] 
 

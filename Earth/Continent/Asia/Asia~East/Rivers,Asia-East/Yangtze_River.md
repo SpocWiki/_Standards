@@ -136,17 +136,17 @@ minZoom: 6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yangtze_River](/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River|Yangtze_River]] 
 
-### #is_/same_as :: [Yangtze_River.public](/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.public|Yangtze_River.public]] 
 
-### #is_/same_as :: [Yangtze_River.internal](/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.internal|Yangtze_River.internal]] 
 
-### #is_/same_as :: [Yangtze_River.protect](/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.protect|Yangtze_River.protect]] 
 
-### #is_/same_as :: [Yangtze_River.private](/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.private|Yangtze_River.private]] 
 
-### #is_/same_as :: [Yangtze_River.personal](/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.personal|Yangtze_River.personal]] 
 
-### #is_/same_as :: [Yangtze_River.secret](/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yangtze_River.secret|Yangtze_River.secret]] 
 

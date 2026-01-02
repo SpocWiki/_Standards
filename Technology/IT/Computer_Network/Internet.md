@@ -81,17 +81,17 @@ Gujarati_Vishwakosh_entry: ઇન્ટરનેટ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Internet](/_Standards/Technology/IT/Computer_Network/Internet.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet|Internet]] 
 
-### #is_/same_as :: [Internet.public](/_public/Technology/IT/Computer_Network/Internet.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet.public|Internet.public]] 
 
-### #is_/same_as :: [Internet.internal](/_internal/Technology/IT/Computer_Network/Internet.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet.internal|Internet.internal]] 
 
-### #is_/same_as :: [Internet.protect](/_protect/Technology/IT/Computer_Network/Internet.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet.protect|Internet.protect]] 
 
-### #is_/same_as :: [Internet.private](/_private/Technology/IT/Computer_Network/Internet.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet.private|Internet.private]] 
 
-### #is_/same_as :: [Internet.personal](/_personal/Technology/IT/Computer_Network/Internet.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet.personal|Internet.personal]] 
 
-### #is_/same_as :: [Internet.secret](/_secret/Technology/IT/Computer_Network/Internet.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet.secret|Internet.secret]] 
 

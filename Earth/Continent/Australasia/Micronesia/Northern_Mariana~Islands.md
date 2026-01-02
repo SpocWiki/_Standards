@@ -139,17 +139,17 @@ Capital :: [[Saipan]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Northern_Mariana~Islands](/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands|Northern_Mariana~Islands]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.public](/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.public|Northern_Mariana~Islands.public]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.internal](/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.internal|Northern_Mariana~Islands.internal]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.protect](/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.protect|Northern_Mariana~Islands.protect]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.private](/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.private|Northern_Mariana~Islands.private]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.personal](/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.personal|Northern_Mariana~Islands.personal]] 
 
-### #is_/same_as :: [Northern_Mariana~Islands.secret](/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Northern_Mariana~Islands.secret|Northern_Mariana~Islands.secret]] 
 

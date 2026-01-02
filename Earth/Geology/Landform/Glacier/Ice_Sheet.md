@@ -53,17 +53,17 @@ Commons_category: Ice sheets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Sheet](/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Glacier/Ice_Sheet|Ice_Sheet]] 
 
-### #is_/same_as :: [Ice_Sheet.public](/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Glacier/Ice_Sheet.public|Ice_Sheet.public]] 
 
-### #is_/same_as :: [Ice_Sheet.internal](/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Glacier/Ice_Sheet.internal|Ice_Sheet.internal]] 
 
-### #is_/same_as :: [Ice_Sheet.protect](/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Glacier/Ice_Sheet.protect|Ice_Sheet.protect]] 
 
-### #is_/same_as :: [Ice_Sheet.private](/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Glacier/Ice_Sheet.private|Ice_Sheet.private]] 
 
-### #is_/same_as :: [Ice_Sheet.personal](/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Glacier/Ice_Sheet.personal|Ice_Sheet.personal]] 
 
-### #is_/same_as :: [Ice_Sheet.secret](/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Glacier/Ice_Sheet.secret|Ice_Sheet.secret]] 
 

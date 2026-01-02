@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gondry,Michel](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel|Gondry,Michel]] 
 
-### #is_/same_as :: [Gondry,Michel.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.public|Gondry,Michel.public]] 
 
-### #is_/same_as :: [Gondry,Michel.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.internal|Gondry,Michel.internal]] 
 
-### #is_/same_as :: [Gondry,Michel.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.protect|Gondry,Michel.protect]] 
 
-### #is_/same_as :: [Gondry,Michel.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.private|Gondry,Michel.private]] 
 
-### #is_/same_as :: [Gondry,Michel.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.personal|Gondry,Michel.personal]] 
 
-### #is_/same_as :: [Gondry,Michel.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Gondry,Michel.secret|Gondry,Michel.secret]] 
 

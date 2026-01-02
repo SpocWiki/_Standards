@@ -93,17 +93,17 @@ date_of_death: 1913-09-30T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diesel,Rudolf](/_Standards/Science/Inventor/Diesel,Rudolf.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Diesel,Rudolf|Diesel,Rudolf]] 
 
-### #is_/same_as :: [Diesel,Rudolf.public](/_public/Science/Inventor/Diesel,Rudolf.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Diesel,Rudolf.public|Diesel,Rudolf.public]] 
 
-### #is_/same_as :: [Diesel,Rudolf.internal](/_internal/Science/Inventor/Diesel,Rudolf.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Diesel,Rudolf.internal|Diesel,Rudolf.internal]] 
 
-### #is_/same_as :: [Diesel,Rudolf.protect](/_protect/Science/Inventor/Diesel,Rudolf.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Diesel,Rudolf.protect|Diesel,Rudolf.protect]] 
 
-### #is_/same_as :: [Diesel,Rudolf.private](/_private/Science/Inventor/Diesel,Rudolf.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Diesel,Rudolf.private|Diesel,Rudolf.private]] 
 
-### #is_/same_as :: [Diesel,Rudolf.personal](/_personal/Science/Inventor/Diesel,Rudolf.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Diesel,Rudolf.personal|Diesel,Rudolf.personal]] 
 
-### #is_/same_as :: [Diesel,Rudolf.secret](/_secret/Science/Inventor/Diesel,Rudolf.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Diesel,Rudolf.secret|Diesel,Rudolf.secret]] 
 

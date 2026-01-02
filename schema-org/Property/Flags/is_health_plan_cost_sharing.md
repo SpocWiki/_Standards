@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_health_plan_cost_sharing](/_Standards/schema-org/Property/Flags/is_health_plan_cost_sharing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_health_plan_cost_sharing|is_health_plan_cost_sharing]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.public](/_public/schema-org/Property/Flags/is_health_plan_cost_sharing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_health_plan_cost_sharing.public|is_health_plan_cost_sharing.public]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.internal](/_internal/schema-org/Property/Flags/is_health_plan_cost_sharing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_health_plan_cost_sharing.internal|is_health_plan_cost_sharing.internal]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.protect](/_protect/schema-org/Property/Flags/is_health_plan_cost_sharing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_health_plan_cost_sharing.protect|is_health_plan_cost_sharing.protect]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.private](/_private/schema-org/Property/Flags/is_health_plan_cost_sharing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_health_plan_cost_sharing.private|is_health_plan_cost_sharing.private]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.personal](/_personal/schema-org/Property/Flags/is_health_plan_cost_sharing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_health_plan_cost_sharing.personal|is_health_plan_cost_sharing.personal]] 
 
-### #is_/same_as :: [is_health_plan_cost_sharing.secret](/_secret/schema-org/Property/Flags/is_health_plan_cost_sharing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_health_plan_cost_sharing.secret|is_health_plan_cost_sharing.secret]] 
 

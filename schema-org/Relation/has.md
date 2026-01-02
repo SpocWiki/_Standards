@@ -17,17 +17,17 @@ or, when giving the text directly:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has](/_Standards/schema-org/Relation/has.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has|has]] 
 
-### #is_/same_as :: [has.public](/_public/schema-org/Relation/has.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has.public|has.public]] 
 
-### #is_/same_as :: [has.internal](/_internal/schema-org/Relation/has.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has.internal|has.internal]] 
 
-### #is_/same_as :: [has.protect](/_protect/schema-org/Relation/has.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has.protect|has.protect]] 
 
-### #is_/same_as :: [has.private](/_private/schema-org/Relation/has.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has.private|has.private]] 
 
-### #is_/same_as :: [has.personal](/_personal/schema-org/Relation/has.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has.personal|has.personal]] 
 
-### #is_/same_as :: [has.secret](/_secret/schema-org/Relation/has.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has.secret|has.secret]] 
 

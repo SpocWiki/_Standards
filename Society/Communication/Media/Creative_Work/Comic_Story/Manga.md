@@ -66,17 +66,17 @@ Universal_Decimal_Classification: 82-9:76(520)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manga](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Manga.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Manga|Manga]] 
 
-### #is_/same_as :: [Manga.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Manga.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comic_Story/Manga.public|Manga.public]] 
 
-### #is_/same_as :: [Manga.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Manga.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Manga.internal|Manga.internal]] 
 
-### #is_/same_as :: [Manga.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Manga.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Manga.protect|Manga.protect]] 
 
-### #is_/same_as :: [Manga.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Manga.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comic_Story/Manga.private|Manga.private]] 
 
-### #is_/same_as :: [Manga.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Manga.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Manga.personal|Manga.personal]] 
 
-### #is_/same_as :: [Manga.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Manga.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Manga.secret|Manga.secret]] 
 

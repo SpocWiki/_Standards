@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Container_Crane](/_Standards/Technology/Transport/Water_Transport/Container_Crane.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Container_Crane|Container_Crane]] 
 
-### #is_/same_as :: [Container_Crane.public](/_public/Technology/Transport/Water_Transport/Container_Crane.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Container_Crane.public|Container_Crane.public]] 
 
-### #is_/same_as :: [Container_Crane.internal](/_internal/Technology/Transport/Water_Transport/Container_Crane.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Container_Crane.internal|Container_Crane.internal]] 
 
-### #is_/same_as :: [Container_Crane.protect](/_protect/Technology/Transport/Water_Transport/Container_Crane.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Container_Crane.protect|Container_Crane.protect]] 
 
-### #is_/same_as :: [Container_Crane.private](/_private/Technology/Transport/Water_Transport/Container_Crane.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Container_Crane.private|Container_Crane.private]] 
 
-### #is_/same_as :: [Container_Crane.personal](/_personal/Technology/Transport/Water_Transport/Container_Crane.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Container_Crane.personal|Container_Crane.personal]] 
 
-### #is_/same_as :: [Container_Crane.secret](/_secret/Technology/Transport/Water_Transport/Container_Crane.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Container_Crane.secret|Container_Crane.secret]] 
 

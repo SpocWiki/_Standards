@@ -50,17 +50,17 @@ IMDb_keyword: bathtub
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bathtub](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub|Bathtub]] 
 
-### #is_/same_as :: [Bathtub.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.public|Bathtub.public]] 
 
-### #is_/same_as :: [Bathtub.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.internal|Bathtub.internal]] 
 
-### #is_/same_as :: [Bathtub.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.protect|Bathtub.protect]] 
 
-### #is_/same_as :: [Bathtub.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.private|Bathtub.private]] 
 
-### #is_/same_as :: [Bathtub.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.personal|Bathtub.personal]] 
 
-### #is_/same_as :: [Bathtub.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bathroom/Bathtub.secret|Bathtub.secret]] 
 

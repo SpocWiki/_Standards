@@ -165,17 +165,17 @@ ZVG_number: 8280
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arsenic](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic|Arsenic]] 
 
-### #is_/same_as :: [Arsenic.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.public|Arsenic.public]] 
 
-### #is_/same_as :: [Arsenic.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.internal|Arsenic.internal]] 
 
-### #is_/same_as :: [Arsenic.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.protect|Arsenic.protect]] 
 
-### #is_/same_as :: [Arsenic.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.private|Arsenic.private]] 
 
-### #is_/same_as :: [Arsenic.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.personal|Arsenic.personal]] 
 
-### #is_/same_as :: [Arsenic.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Arsenic.secret|Arsenic.secret]] 
 

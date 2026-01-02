@@ -36,17 +36,17 @@ Commons_category: Alto saxophones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alto_Saxophone](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone|Alto_Saxophone]] 
 
-### #is_/same_as :: [Alto_Saxophone.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.public|Alto_Saxophone.public]] 
 
-### #is_/same_as :: [Alto_Saxophone.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.internal|Alto_Saxophone.internal]] 
 
-### #is_/same_as :: [Alto_Saxophone.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.protect|Alto_Saxophone.protect]] 
 
-### #is_/same_as :: [Alto_Saxophone.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.private|Alto_Saxophone.private]] 
 
-### #is_/same_as :: [Alto_Saxophone.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.personal|Alto_Saxophone.personal]] 
 
-### #is_/same_as :: [Alto_Saxophone.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Alto_Saxophone.secret|Alto_Saxophone.secret]] 
 

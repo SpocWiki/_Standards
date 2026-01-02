@@ -48,17 +48,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [owl(Ontology_Web_Language)](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language)|owl(Ontology_Web_Language)]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).public|owl(Ontology_Web_Language).public]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).internal|owl(Ontology_Web_Language).internal]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).protect|owl(Ontology_Web_Language).protect]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).private|owl(Ontology_Web_Language).private]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).personal|owl(Ontology_Web_Language).personal]] 
 
-### #is_/same_as :: [owl(Ontology_Web_Language).secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/owl(Ontology_Web_Language).secret|owl(Ontology_Web_Language).secret]] 
 

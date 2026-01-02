@@ -143,17 +143,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [HTML](/_Standards/Technology/IT/Data/Data_Language/HTML.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Language/HTML|HTML]] 
 
-### #is_/same_as :: [HTML.public](/_public/Technology/IT/Data/Data_Language/HTML.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Language/HTML.public|HTML.public]] 
 
-### #is_/same_as :: [HTML.internal](/_internal/Technology/IT/Data/Data_Language/HTML.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Language/HTML.internal|HTML.internal]] 
 
-### #is_/same_as :: [HTML.protect](/_protect/Technology/IT/Data/Data_Language/HTML.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Language/HTML.protect|HTML.protect]] 
 
-### #is_/same_as :: [HTML.private](/_private/Technology/IT/Data/Data_Language/HTML.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Language/HTML.private|HTML.private]] 
 
-### #is_/same_as :: [HTML.personal](/_personal/Technology/IT/Data/Data_Language/HTML.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Language/HTML.personal|HTML.personal]] 
 
-### #is_/same_as :: [HTML.secret](/_secret/Technology/IT/Data/Data_Language/HTML.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Language/HTML.secret|HTML.secret]] 
 

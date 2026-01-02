@@ -59,17 +59,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wedge](/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge|Wedge]] 
 
-### #is_/same_as :: [Wedge.public](/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.public|Wedge.public]] 
 
-### #is_/same_as :: [Wedge.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.internal|Wedge.internal]] 
 
-### #is_/same_as :: [Wedge.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.protect|Wedge.protect]] 
 
-### #is_/same_as :: [Wedge.private](/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.private|Wedge.private]] 
 
-### #is_/same_as :: [Wedge.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.personal|Wedge.personal]] 
 
-### #is_/same_as :: [Wedge.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Classical_simple_Machine/Wedge.secret|Wedge.secret]] 
 

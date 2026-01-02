@@ -51,17 +51,17 @@ and a much smaller new version of [AT&T](https://en.wikipedia.org/wiki/AT%26T "A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [US_anti-trust_lawsuit](/_Standards/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit|US_anti-trust_lawsuit]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.public](/_public/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.public|US_anti-trust_lawsuit.public]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.internal](/_internal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.internal|US_anti-trust_lawsuit.internal]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.protect](/_protect/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.protect|US_anti-trust_lawsuit.protect]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.private](/_private/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.private|US_anti-trust_lawsuit.private]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.personal](/_personal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.personal|US_anti-trust_lawsuit.personal]] 
 
-### #is_/same_as :: [US_anti-trust_lawsuit.secret](/_secret/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/US_anti-trust_lawsuit.secret|US_anti-trust_lawsuit.secret]] 
 

@@ -80,17 +80,17 @@ Commons_category: Chemical weapons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Chemical_Weapon|Chemical_Weapon]] 
 
-### #is_/same_as :: [Chemical_Weapon.public](/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.public|Chemical_Weapon.public]] 
 
-### #is_/same_as :: [Chemical_Weapon.internal](/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.internal|Chemical_Weapon.internal]] 
 
-### #is_/same_as :: [Chemical_Weapon.protect](/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.protect|Chemical_Weapon.protect]] 
 
-### #is_/same_as :: [Chemical_Weapon.private](/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.private|Chemical_Weapon.private]] 
 
-### #is_/same_as :: [Chemical_Weapon.personal](/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.personal|Chemical_Weapon.personal]] 
 
-### #is_/same_as :: [Chemical_Weapon.secret](/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Chemical_Weapon.secret|Chemical_Weapon.secret]] 
 

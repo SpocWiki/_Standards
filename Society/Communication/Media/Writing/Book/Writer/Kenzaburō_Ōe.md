@@ -100,17 +100,17 @@ date_of_death: 2023-03-03T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kenzaburō_Ōe](/_Standards/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe|Kenzaburō_Ōe]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.public](/_public/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.public|Kenzaburō_Ōe.public]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.internal|Kenzaburō_Ōe.internal]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.protect|Kenzaburō_Ōe.protect]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.private](/_private/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.private|Kenzaburō_Ōe.private]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.personal|Kenzaburō_Ōe.personal]] 
 
-### #is_/same_as :: [Kenzaburō_Ōe.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Kenzaburō_Ōe.secret|Kenzaburō_Ōe.secret]] 
 

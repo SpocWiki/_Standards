@@ -41,17 +41,17 @@ A book, document, or piece of music written by hand rather than typed or printed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manuscript](/_Standards/Society/Communication/Media/Creative_Work/Manuscript.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Manuscript|Manuscript]] 
 
-### #is_/same_as :: [Manuscript.public](/_public/Society/Communication/Media/Creative_Work/Manuscript.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Manuscript.public|Manuscript.public]] 
 
-### #is_/same_as :: [Manuscript.internal](/_internal/Society/Communication/Media/Creative_Work/Manuscript.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Manuscript.internal|Manuscript.internal]] 
 
-### #is_/same_as :: [Manuscript.protect](/_protect/Society/Communication/Media/Creative_Work/Manuscript.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Manuscript.protect|Manuscript.protect]] 
 
-### #is_/same_as :: [Manuscript.private](/_private/Society/Communication/Media/Creative_Work/Manuscript.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Manuscript.private|Manuscript.private]] 
 
-### #is_/same_as :: [Manuscript.personal](/_personal/Society/Communication/Media/Creative_Work/Manuscript.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Manuscript.personal|Manuscript.personal]] 
 
-### #is_/same_as :: [Manuscript.secret](/_secret/Society/Communication/Media/Creative_Work/Manuscript.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Manuscript.secret|Manuscript.secret]] 
 

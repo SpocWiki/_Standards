@@ -37,17 +37,17 @@ Commons_category: Islamic Golden Age
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300|0800-Islamic_Golden_Age-1300]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.public|0800-Islamic_Golden_Age-1300.public]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.internal|0800-Islamic_Golden_Age-1300.internal]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.protect|0800-Islamic_Golden_Age-1300.protect]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.private|0800-Islamic_Golden_Age-1300.private]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.personal|0800-Islamic_Golden_Age-1300.personal]] 
 
-### #is_/same_as :: [0800-Islamic_Golden_Age-1300.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam/0800-Islamic_Golden_Age-1300.secret|0800-Islamic_Golden_Age-1300.secret]] 
 

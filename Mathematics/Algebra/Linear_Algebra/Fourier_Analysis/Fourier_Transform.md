@@ -97,17 +97,17 @@ Commons_category: Fourier transformation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fourier_Transform](/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform|Fourier_Transform]] 
 
-### #is_/same_as :: [Fourier_Transform.public](/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.public|Fourier_Transform.public]] 
 
-### #is_/same_as :: [Fourier_Transform.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.internal|Fourier_Transform.internal]] 
 
-### #is_/same_as :: [Fourier_Transform.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.protect|Fourier_Transform.protect]] 
 
-### #is_/same_as :: [Fourier_Transform.private](/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.private|Fourier_Transform.private]] 
 
-### #is_/same_as :: [Fourier_Transform.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.personal|Fourier_Transform.personal]] 
 
-### #is_/same_as :: [Fourier_Transform.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Fourier_Analysis/Fourier_Transform.secret|Fourier_Transform.secret]] 
 

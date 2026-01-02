@@ -38,17 +38,17 @@ Commons_category: Marine engineering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Naval_Engineering](/_Standards/Technology/Naval_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Naval_Engineering|Naval_Engineering]] 
 
-### #is_/same_as :: [Naval_Engineering.public](/_public/Technology/Naval_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Naval_Engineering.public|Naval_Engineering.public]] 
 
-### #is_/same_as :: [Naval_Engineering.internal](/_internal/Technology/Naval_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Naval_Engineering.internal|Naval_Engineering.internal]] 
 
-### #is_/same_as :: [Naval_Engineering.protect](/_protect/Technology/Naval_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Naval_Engineering.protect|Naval_Engineering.protect]] 
 
-### #is_/same_as :: [Naval_Engineering.private](/_private/Technology/Naval_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Naval_Engineering.private|Naval_Engineering.private]] 
 
-### #is_/same_as :: [Naval_Engineering.personal](/_personal/Technology/Naval_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Naval_Engineering.personal|Naval_Engineering.personal]] 
 
-### #is_/same_as :: [Naval_Engineering.secret](/_secret/Technology/Naval_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Naval_Engineering.secret|Naval_Engineering.secret]] 
 

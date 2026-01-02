@@ -84,17 +84,17 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bivalvia](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia|Bivalvia]] 
 
-### #is_/same_as :: [Bivalvia.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.public|Bivalvia.public]] 
 
-### #is_/same_as :: [Bivalvia.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.internal|Bivalvia.internal]] 
 
-### #is_/same_as :: [Bivalvia.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.protect|Bivalvia.protect]] 
 
-### #is_/same_as :: [Bivalvia.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.private|Bivalvia.private]] 
 
-### #is_/same_as :: [Bivalvia.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.personal|Bivalvia.personal]] 
 
-### #is_/same_as :: [Bivalvia.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Bivalvia.secret|Bivalvia.secret]] 
 

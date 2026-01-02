@@ -41,17 +41,17 @@ Event type: A social dance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dance_Event](/_Standards/schema-org/Class/is_a_/Event/Dance_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Dance_Event|Dance_Event]] 
 
-### #is_/same_as :: [Dance_Event.public](/_public/schema-org/Class/is_a_/Event/Dance_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Dance_Event.public|Dance_Event.public]] 
 
-### #is_/same_as :: [Dance_Event.internal](/_internal/schema-org/Class/is_a_/Event/Dance_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Dance_Event.internal|Dance_Event.internal]] 
 
-### #is_/same_as :: [Dance_Event.protect](/_protect/schema-org/Class/is_a_/Event/Dance_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Dance_Event.protect|Dance_Event.protect]] 
 
-### #is_/same_as :: [Dance_Event.private](/_private/schema-org/Class/is_a_/Event/Dance_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Dance_Event.private|Dance_Event.private]] 
 
-### #is_/same_as :: [Dance_Event.personal](/_personal/schema-org/Class/is_a_/Event/Dance_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Dance_Event.personal|Dance_Event.personal]] 
 
-### #is_/same_as :: [Dance_Event.secret](/_secret/schema-org/Class/is_a_/Event/Dance_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Dance_Event.secret|Dance_Event.secret]] 
 

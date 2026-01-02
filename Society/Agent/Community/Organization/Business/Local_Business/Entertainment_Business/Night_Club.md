@@ -74,17 +74,17 @@ A nightclub or discotheque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Night_Club](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club|Night_Club]] 
 
-### #is_/same_as :: [Night_Club.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.public|Night_Club.public]] 
 
-### #is_/same_as :: [Night_Club.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.internal|Night_Club.internal]] 
 
-### #is_/same_as :: [Night_Club.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.protect|Night_Club.protect]] 
 
-### #is_/same_as :: [Night_Club.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.private|Night_Club.private]] 
 
-### #is_/same_as :: [Night_Club.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.personal|Night_Club.personal]] 
 
-### #is_/same_as :: [Night_Club.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Night_Club.secret|Night_Club.secret]] 
 

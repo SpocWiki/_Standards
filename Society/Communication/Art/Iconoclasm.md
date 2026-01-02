@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iconoclasm](/_Standards/Society/Communication/Art/Iconoclasm.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Iconoclasm|Iconoclasm]] 
 
-### #is_/same_as :: [Iconoclasm.public](/_public/Society/Communication/Art/Iconoclasm.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Iconoclasm.public|Iconoclasm.public]] 
 
-### #is_/same_as :: [Iconoclasm.internal](/_internal/Society/Communication/Art/Iconoclasm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Iconoclasm.internal|Iconoclasm.internal]] 
 
-### #is_/same_as :: [Iconoclasm.protect](/_protect/Society/Communication/Art/Iconoclasm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Iconoclasm.protect|Iconoclasm.protect]] 
 
-### #is_/same_as :: [Iconoclasm.private](/_private/Society/Communication/Art/Iconoclasm.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Iconoclasm.private|Iconoclasm.private]] 
 
-### #is_/same_as :: [Iconoclasm.personal](/_personal/Society/Communication/Art/Iconoclasm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Iconoclasm.personal|Iconoclasm.personal]] 
 
-### #is_/same_as :: [Iconoclasm.secret](/_secret/Society/Communication/Art/Iconoclasm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Iconoclasm.secret|Iconoclasm.secret]] 
 

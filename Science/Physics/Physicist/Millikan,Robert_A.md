@@ -32,17 +32,17 @@ has_id_wikidata: 130975
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Millikan,Robert_A](/_Standards/Science/Physics/Physicist/Millikan,Robert_A.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Millikan,Robert_A|Millikan,Robert_A]] 
 
-### #is_/same_as :: [Millikan,Robert_A.public](/_public/Science/Physics/Physicist/Millikan,Robert_A.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Millikan,Robert_A.public|Millikan,Robert_A.public]] 
 
-### #is_/same_as :: [Millikan,Robert_A.internal](/_internal/Science/Physics/Physicist/Millikan,Robert_A.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Millikan,Robert_A.internal|Millikan,Robert_A.internal]] 
 
-### #is_/same_as :: [Millikan,Robert_A.protect](/_protect/Science/Physics/Physicist/Millikan,Robert_A.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Millikan,Robert_A.protect|Millikan,Robert_A.protect]] 
 
-### #is_/same_as :: [Millikan,Robert_A.private](/_private/Science/Physics/Physicist/Millikan,Robert_A.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Millikan,Robert_A.private|Millikan,Robert_A.private]] 
 
-### #is_/same_as :: [Millikan,Robert_A.personal](/_personal/Science/Physics/Physicist/Millikan,Robert_A.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Millikan,Robert_A.personal|Millikan,Robert_A.personal]] 
 
-### #is_/same_as :: [Millikan,Robert_A.secret](/_secret/Science/Physics/Physicist/Millikan,Robert_A.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Millikan,Robert_A.secret|Millikan,Robert_A.secret]] 
 

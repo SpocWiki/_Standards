@@ -57,17 +57,17 @@ time_of_discovery_or_invention: 1684-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Scutum](/_Standards/Astronomy/Star~Constellation/Zodiac~Scutum.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Scutum|Zodiac~Scutum]] 
 
-### #is_/same_as :: [Zodiac~Scutum.public](/_public/Astronomy/Star~Constellation/Zodiac~Scutum.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Scutum.public|Zodiac~Scutum.public]] 
 
-### #is_/same_as :: [Zodiac~Scutum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Scutum.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Scutum.internal|Zodiac~Scutum.internal]] 
 
-### #is_/same_as :: [Zodiac~Scutum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Scutum.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Scutum.protect|Zodiac~Scutum.protect]] 
 
-### #is_/same_as :: [Zodiac~Scutum.private](/_private/Astronomy/Star~Constellation/Zodiac~Scutum.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Scutum.private|Zodiac~Scutum.private]] 
 
-### #is_/same_as :: [Zodiac~Scutum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Scutum.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Scutum.personal|Zodiac~Scutum.personal]] 
 
-### #is_/same_as :: [Zodiac~Scutum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Scutum.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Scutum.secret|Zodiac~Scutum.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_encoding_creative_work](/_Standards/schema-org/Relation/is/is_encoding_creative_work.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_encoding_creative_work|is_encoding_creative_work]] 
 
-### #is_/same_as :: [is_encoding_creative_work.public](/_public/schema-org/Relation/is/is_encoding_creative_work.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_encoding_creative_work.public|is_encoding_creative_work.public]] 
 
-### #is_/same_as :: [is_encoding_creative_work.internal](/_internal/schema-org/Relation/is/is_encoding_creative_work.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_encoding_creative_work.internal|is_encoding_creative_work.internal]] 
 
-### #is_/same_as :: [is_encoding_creative_work.protect](/_protect/schema-org/Relation/is/is_encoding_creative_work.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_encoding_creative_work.protect|is_encoding_creative_work.protect]] 
 
-### #is_/same_as :: [is_encoding_creative_work.private](/_private/schema-org/Relation/is/is_encoding_creative_work.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_encoding_creative_work.private|is_encoding_creative_work.private]] 
 
-### #is_/same_as :: [is_encoding_creative_work.personal](/_personal/schema-org/Relation/is/is_encoding_creative_work.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_encoding_creative_work.personal|is_encoding_creative_work.personal]] 
 
-### #is_/same_as :: [is_encoding_creative_work.secret](/_secret/schema-org/Relation/is/is_encoding_creative_work.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_encoding_creative_work.secret|is_encoding_creative_work.secret]] 
 

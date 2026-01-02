@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_diagnosis](/_Standards/schema-org/Relation/has/has_diagnosis.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_diagnosis|has_diagnosis]] 
 
-### #is_/same_as :: [has_diagnosis.public](/_public/schema-org/Relation/has/has_diagnosis.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diagnosis.public|has_diagnosis.public]] 
 
-### #is_/same_as :: [has_diagnosis.internal](/_internal/schema-org/Relation/has/has_diagnosis.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diagnosis.internal|has_diagnosis.internal]] 
 
-### #is_/same_as :: [has_diagnosis.protect](/_protect/schema-org/Relation/has/has_diagnosis.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diagnosis.protect|has_diagnosis.protect]] 
 
-### #is_/same_as :: [has_diagnosis.private](/_private/schema-org/Relation/has/has_diagnosis.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diagnosis.private|has_diagnosis.private]] 
 
-### #is_/same_as :: [has_diagnosis.personal](/_personal/schema-org/Relation/has/has_diagnosis.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diagnosis.personal|has_diagnosis.personal]] 
 
-### #is_/same_as :: [has_diagnosis.secret](/_secret/schema-org/Relation/has/has_diagnosis.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diagnosis.secret|has_diagnosis.secret]] 
 

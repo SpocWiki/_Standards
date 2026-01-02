@@ -60,17 +60,17 @@ Colon_Classification: S:31
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Attention](/_Standards/bio/Psychology/Attention.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Attention|Attention]] 
 
-### #is_/same_as :: [Attention.public](/_public/bio/Psychology/Attention.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Attention.public|Attention.public]] 
 
-### #is_/same_as :: [Attention.internal](/_internal/bio/Psychology/Attention.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Attention.internal|Attention.internal]] 
 
-### #is_/same_as :: [Attention.protect](/_protect/bio/Psychology/Attention.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Attention.protect|Attention.protect]] 
 
-### #is_/same_as :: [Attention.private](/_private/bio/Psychology/Attention.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Attention.private|Attention.private]] 
 
-### #is_/same_as :: [Attention.personal](/_personal/bio/Psychology/Attention.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Attention.personal|Attention.personal]] 
 
-### #is_/same_as :: [Attention.secret](/_secret/bio/Psychology/Attention.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Attention.secret|Attention.secret]] 
 

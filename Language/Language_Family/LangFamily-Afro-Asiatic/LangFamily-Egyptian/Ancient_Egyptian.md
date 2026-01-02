@@ -66,17 +66,17 @@ GOST_7_75_97_code: дре 187
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ancient_Egyptian](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian|Ancient_Egyptian]] 
 
-### #is_/same_as :: [Ancient_Egyptian.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.public|Ancient_Egyptian.public]] 
 
-### #is_/same_as :: [Ancient_Egyptian.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.internal|Ancient_Egyptian.internal]] 
 
-### #is_/same_as :: [Ancient_Egyptian.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.protect|Ancient_Egyptian.protect]] 
 
-### #is_/same_as :: [Ancient_Egyptian.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.private|Ancient_Egyptian.private]] 
 
-### #is_/same_as :: [Ancient_Egyptian.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.personal|Ancient_Egyptian.personal]] 
 
-### #is_/same_as :: [Ancient_Egyptian.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily-Egyptian/Ancient_Egyptian.secret|Ancient_Egyptian.secret]] 
 

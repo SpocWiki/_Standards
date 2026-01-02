@@ -124,17 +124,17 @@ dv.view("TableByName");
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Second_Agricultural_Revolution](/_Standards/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution|Second_Agricultural_Revolution]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.public](/_public/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.public|Second_Agricultural_Revolution.public]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.internal](/_internal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.internal|Second_Agricultural_Revolution.internal]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.protect](/_protect/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.protect|Second_Agricultural_Revolution.protect]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.private](/_private/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.private|Second_Agricultural_Revolution.private]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.personal](/_personal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.personal|Second_Agricultural_Revolution.personal]] 
 
-### #is_/same_as :: [Second_Agricultural_Revolution.secret](/_secret/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Second_Agricultural_Revolution.secret|Second_Agricultural_Revolution.secret]] 
 

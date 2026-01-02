@@ -67,17 +67,17 @@ name_in_native_language: Ignacy Łukasiewicz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz](/_Standards/Science/Inventor/Ignacy_Łukasiewicz.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Ignacy_Łukasiewicz|Ignacy_Łukasiewicz]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.public](/_public/Science/Inventor/Ignacy_Łukasiewicz.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Ignacy_Łukasiewicz.public|Ignacy_Łukasiewicz.public]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.internal](/_internal/Science/Inventor/Ignacy_Łukasiewicz.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Ignacy_Łukasiewicz.internal|Ignacy_Łukasiewicz.internal]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.protect](/_protect/Science/Inventor/Ignacy_Łukasiewicz.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Ignacy_Łukasiewicz.protect|Ignacy_Łukasiewicz.protect]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.private](/_private/Science/Inventor/Ignacy_Łukasiewicz.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Ignacy_Łukasiewicz.private|Ignacy_Łukasiewicz.private]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.personal](/_personal/Science/Inventor/Ignacy_Łukasiewicz.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Ignacy_Łukasiewicz.personal|Ignacy_Łukasiewicz.personal]] 
 
-### #is_/same_as :: [Ignacy_Łukasiewicz.secret](/_secret/Science/Inventor/Ignacy_Łukasiewicz.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Ignacy_Łukasiewicz.secret|Ignacy_Łukasiewicz.secret]] 
 

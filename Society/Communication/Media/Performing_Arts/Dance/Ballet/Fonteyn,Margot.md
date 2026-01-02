@@ -144,17 +144,17 @@ date_of_birth: 1919-05-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fonteyn,Margot](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot|Fonteyn,Margot]] 
 
-### #is_/same_as :: [Fonteyn,Margot.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.public|Fonteyn,Margot.public]] 
 
-### #is_/same_as :: [Fonteyn,Margot.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.internal|Fonteyn,Margot.internal]] 
 
-### #is_/same_as :: [Fonteyn,Margot.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.protect|Fonteyn,Margot.protect]] 
 
-### #is_/same_as :: [Fonteyn,Margot.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.private|Fonteyn,Margot.private]] 
 
-### #is_/same_as :: [Fonteyn,Margot.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.personal|Fonteyn,Margot.personal]] 
 
-### #is_/same_as :: [Fonteyn,Margot.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Fonteyn,Margot.secret|Fonteyn,Margot.secret]] 
 

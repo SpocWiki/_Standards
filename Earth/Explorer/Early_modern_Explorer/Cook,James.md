@@ -119,17 +119,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cook,James](/_Standards/Earth/Explorer/Early_modern_Explorer/Cook,James.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Early_modern_Explorer/Cook,James|Cook,James]] 
 
-### #is_/same_as :: [Cook,James.public](/_public/Earth/Explorer/Early_modern_Explorer/Cook,James.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Early_modern_Explorer/Cook,James.public|Cook,James.public]] 
 
-### #is_/same_as :: [Cook,James.internal](/_internal/Earth/Explorer/Early_modern_Explorer/Cook,James.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Early_modern_Explorer/Cook,James.internal|Cook,James.internal]] 
 
-### #is_/same_as :: [Cook,James.protect](/_protect/Earth/Explorer/Early_modern_Explorer/Cook,James.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Early_modern_Explorer/Cook,James.protect|Cook,James.protect]] 
 
-### #is_/same_as :: [Cook,James.private](/_private/Earth/Explorer/Early_modern_Explorer/Cook,James.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Early_modern_Explorer/Cook,James.private|Cook,James.private]] 
 
-### #is_/same_as :: [Cook,James.personal](/_personal/Earth/Explorer/Early_modern_Explorer/Cook,James.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Early_modern_Explorer/Cook,James.personal|Cook,James.personal]] 
 
-### #is_/same_as :: [Cook,James.secret](/_secret/Earth/Explorer/Early_modern_Explorer/Cook,James.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Early_modern_Explorer/Cook,James.secret|Cook,James.secret]] 
 

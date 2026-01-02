@@ -43,17 +43,17 @@ has_id_wikidata: Q35498
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arthur,Chester_A](/_Standards/Earth/Continent/America~North/US~President/Arthur,Chester_A.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A|Arthur,Chester_A]] 
 
-### #is_/same_as :: [Arthur,Chester_A.public](/_public/Earth/Continent/America~North/US~President/Arthur,Chester_A.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.public|Arthur,Chester_A.public]] 
 
-### #is_/same_as :: [Arthur,Chester_A.internal](/_internal/Earth/Continent/America~North/US~President/Arthur,Chester_A.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.internal|Arthur,Chester_A.internal]] 
 
-### #is_/same_as :: [Arthur,Chester_A.protect](/_protect/Earth/Continent/America~North/US~President/Arthur,Chester_A.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.protect|Arthur,Chester_A.protect]] 
 
-### #is_/same_as :: [Arthur,Chester_A.private](/_private/Earth/Continent/America~North/US~President/Arthur,Chester_A.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.private|Arthur,Chester_A.private]] 
 
-### #is_/same_as :: [Arthur,Chester_A.personal](/_personal/Earth/Continent/America~North/US~President/Arthur,Chester_A.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.personal|Arthur,Chester_A.personal]] 
 
-### #is_/same_as :: [Arthur,Chester_A.secret](/_secret/Earth/Continent/America~North/US~President/Arthur,Chester_A.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Arthur,Chester_A.secret|Arthur,Chester_A.secret]] 
 

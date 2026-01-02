@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kael,Pauline](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline|Kael,Pauline]] 
 
-### #is_/same_as :: [Kael,Pauline.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.public|Kael,Pauline.public]] 
 
-### #is_/same_as :: [Kael,Pauline.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.internal|Kael,Pauline.internal]] 
 
-### #is_/same_as :: [Kael,Pauline.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.protect|Kael,Pauline.protect]] 
 
-### #is_/same_as :: [Kael,Pauline.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.private|Kael,Pauline.private]] 
 
-### #is_/same_as :: [Kael,Pauline.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.personal|Kael,Pauline.personal]] 
 
-### #is_/same_as :: [Kael,Pauline.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Kael,Pauline.secret|Kael,Pauline.secret]] 
 

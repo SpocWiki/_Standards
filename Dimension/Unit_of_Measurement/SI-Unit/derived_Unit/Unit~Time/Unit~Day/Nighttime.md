@@ -66,17 +66,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Night-a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nighttime](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime|Nighttime]] 
 
-### #is_/same_as :: [Nighttime.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.public|Nighttime.public]] 
 
-### #is_/same_as :: [Nighttime.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.internal|Nighttime.internal]] 
 
-### #is_/same_as :: [Nighttime.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.protect|Nighttime.protect]] 
 
-### #is_/same_as :: [Nighttime.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.private|Nighttime.private]] 
 
-### #is_/same_as :: [Nighttime.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.personal|Nighttime.personal]] 
 
-### #is_/same_as :: [Nighttime.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Time/Unit~Day/Nighttime.secret|Nighttime.secret]] 
 

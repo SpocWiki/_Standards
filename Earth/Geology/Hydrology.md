@@ -87,17 +87,17 @@ Gujarati_Vishwakosh_entry: જળવિદ્યા-અને-જળસ્રો
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrology](/_Standards/Earth/Geology/Hydrology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Hydrology|Hydrology]] 
 
-### #is_/same_as :: [Hydrology.public](/_public/Earth/Geology/Hydrology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Hydrology.public|Hydrology.public]] 
 
-### #is_/same_as :: [Hydrology.internal](/_internal/Earth/Geology/Hydrology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Hydrology.internal|Hydrology.internal]] 
 
-### #is_/same_as :: [Hydrology.protect](/_protect/Earth/Geology/Hydrology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Hydrology.protect|Hydrology.protect]] 
 
-### #is_/same_as :: [Hydrology.private](/_private/Earth/Geology/Hydrology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Hydrology.private|Hydrology.private]] 
 
-### #is_/same_as :: [Hydrology.personal](/_personal/Earth/Geology/Hydrology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Hydrology.personal|Hydrology.personal]] 
 
-### #is_/same_as :: [Hydrology.secret](/_secret/Earth/Geology/Hydrology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Hydrology.secret|Hydrology.secret]] 
 

@@ -37,17 +37,17 @@ A condition or factor that indicates use of a medical therapy, including signs, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication|FileClass~MedicalIndication]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.public|FileClass~MedicalIndication.public]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.internal|FileClass~MedicalIndication.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.protect|FileClass~MedicalIndication.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.private|FileClass~MedicalIndication.private]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.personal|FileClass~MedicalIndication.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication.secret|FileClass~MedicalIndication.secret]] 
 

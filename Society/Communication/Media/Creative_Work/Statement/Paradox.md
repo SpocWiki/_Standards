@@ -63,17 +63,17 @@ PhilPapers_topic: paradoxes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paradox](/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox|Paradox]] 
 
-### #is_/same_as :: [Paradox.public](/_public/Society/Communication/Media/Creative_Work/Statement/Paradox.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Statement/Paradox.public|Paradox.public]] 
 
-### #is_/same_as :: [Paradox.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Paradox.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Statement/Paradox.internal|Paradox.internal]] 
 
-### #is_/same_as :: [Paradox.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Paradox.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Statement/Paradox.protect|Paradox.protect]] 
 
-### #is_/same_as :: [Paradox.private](/_private/Society/Communication/Media/Creative_Work/Statement/Paradox.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Statement/Paradox.private|Paradox.private]] 
 
-### #is_/same_as :: [Paradox.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Paradox.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Statement/Paradox.personal|Paradox.personal]] 
 
-### #is_/same_as :: [Paradox.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Paradox.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Statement/Paradox.secret|Paradox.secret]] 
 

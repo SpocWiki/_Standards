@@ -42,17 +42,17 @@ pronunciation_audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Curry](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Curry|Curry]] 
 
-### #is_/same_as :: [Curry.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.public|Curry.public]] 
 
-### #is_/same_as :: [Curry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.internal|Curry.internal]] 
 
-### #is_/same_as :: [Curry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.protect|Curry.protect]] 
 
-### #is_/same_as :: [Curry.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.private|Curry.private]] 
 
-### #is_/same_as :: [Curry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.personal|Curry.personal]] 
 
-### #is_/same_as :: [Curry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Curry.secret|Curry.secret]] 
 

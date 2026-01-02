@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jagoda Marinic](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic|Jagoda Marinic]] 
 
-### #is_/same_as :: [Jagoda Marinic.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.public|Jagoda Marinic.public]] 
 
-### #is_/same_as :: [Jagoda Marinic.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.internal|Jagoda Marinic.internal]] 
 
-### #is_/same_as :: [Jagoda Marinic.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.protect|Jagoda Marinic.protect]] 
 
-### #is_/same_as :: [Jagoda Marinic.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.private|Jagoda Marinic.private]] 
 
-### #is_/same_as :: [Jagoda Marinic.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.personal|Jagoda Marinic.personal]] 
 
-### #is_/same_as :: [Jagoda Marinic.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Jagoda Marinic.secret|Jagoda Marinic.secret]] 
 

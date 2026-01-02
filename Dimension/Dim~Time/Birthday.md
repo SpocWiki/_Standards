@@ -54,17 +54,17 @@ Commons_category: Birthdays
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Birthday](/_Standards/Dimension/Dim~Time/Birthday.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Birthday|Birthday]] 
 
-### #is_/same_as :: [Birthday.public](/_public/Dimension/Dim~Time/Birthday.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Birthday.public|Birthday.public]] 
 
-### #is_/same_as :: [Birthday.internal](/_internal/Dimension/Dim~Time/Birthday.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Birthday.internal|Birthday.internal]] 
 
-### #is_/same_as :: [Birthday.protect](/_protect/Dimension/Dim~Time/Birthday.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Birthday.protect|Birthday.protect]] 
 
-### #is_/same_as :: [Birthday.private](/_private/Dimension/Dim~Time/Birthday.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Birthday.private|Birthday.private]] 
 
-### #is_/same_as :: [Birthday.personal](/_personal/Dimension/Dim~Time/Birthday.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Birthday.personal|Birthday.personal]] 
 
-### #is_/same_as :: [Birthday.secret](/_secret/Dimension/Dim~Time/Birthday.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Birthday.secret|Birthday.secret]] 
 

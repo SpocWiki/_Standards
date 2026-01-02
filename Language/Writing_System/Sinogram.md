@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinogram](/_Standards/Language/Writing_System/Sinogram.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Sinogram|Sinogram]] 
 
-### #is_/same_as :: [Sinogram.public](/_public/Language/Writing_System/Sinogram.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Sinogram.public|Sinogram.public]] 
 
-### #is_/same_as :: [Sinogram.internal](/_internal/Language/Writing_System/Sinogram.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Sinogram.internal|Sinogram.internal]] 
 
-### #is_/same_as :: [Sinogram.protect](/_protect/Language/Writing_System/Sinogram.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Sinogram.protect|Sinogram.protect]] 
 
-### #is_/same_as :: [Sinogram.private](/_private/Language/Writing_System/Sinogram.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Sinogram.private|Sinogram.private]] 
 
-### #is_/same_as :: [Sinogram.personal](/_personal/Language/Writing_System/Sinogram.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Sinogram.personal|Sinogram.personal]] 
 
-### #is_/same_as :: [Sinogram.secret](/_secret/Language/Writing_System/Sinogram.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Sinogram.secret|Sinogram.secret]] 
 

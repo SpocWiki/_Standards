@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mars(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology)|Mars(Mythology)]] 
 
-### #is_/same_as :: [Mars(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).public|Mars(Mythology).public]] 
 
-### #is_/same_as :: [Mars(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).internal|Mars(Mythology).internal]] 
 
-### #is_/same_as :: [Mars(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).protect|Mars(Mythology).protect]] 
 
-### #is_/same_as :: [Mars(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).private|Mars(Mythology).private]] 
 
-### #is_/same_as :: [Mars(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).personal|Mars(Mythology).personal]] 
 
-### #is_/same_as :: [Mars(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Mars(Mythology).secret|Mars(Mythology).secret]] 
 

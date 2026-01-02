@@ -71,17 +71,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Wuchiapingian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.public|Age~1~Wuchiapingian.public]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.internal|Age~1~Wuchiapingian.internal]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.protect|Age~1~Wuchiapingian.protect]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.private|Age~1~Wuchiapingian.private]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.personal|Age~1~Wuchiapingian.personal]] 
 
-### #is_/same_as :: [Age~1~Wuchiapingian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~6~Permian/Epoch~3~Lopingian/Age~1~Wuchiapingian.secret|Age~1~Wuchiapingian.secret]] 
 

@@ -37,17 +37,17 @@ A [[FAQPage]] is a [[WebPage]] presenting one or more "[Frequently asked questio
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~FAQPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage|FileClass~FAQPage]] 
 
-### #is_/same_as :: [FileClass~FAQPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.public|FileClass~FAQPage.public]] 
 
-### #is_/same_as :: [FileClass~FAQPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.internal|FileClass~FAQPage.internal]] 
 
-### #is_/same_as :: [FileClass~FAQPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.protect|FileClass~FAQPage.protect]] 
 
-### #is_/same_as :: [FileClass~FAQPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.private|FileClass~FAQPage.private]] 
 
-### #is_/same_as :: [FileClass~FAQPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.personal|FileClass~FAQPage.personal]] 
 
-### #is_/same_as :: [FileClass~FAQPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~FAQPage.secret|FileClass~FAQPage.secret]] 
 

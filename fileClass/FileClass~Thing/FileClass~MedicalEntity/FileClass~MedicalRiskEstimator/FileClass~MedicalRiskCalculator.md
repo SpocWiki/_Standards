@@ -37,17 +37,17 @@ A complex mathematical calculation requiring an online calculator, used to asses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator|FileClass~MedicalRiskCalculator]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.public|FileClass~MedicalRiskCalculator.public]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.internal|FileClass~MedicalRiskCalculator.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.protect|FileClass~MedicalRiskCalculator.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.private|FileClass~MedicalRiskCalculator.private]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.personal|FileClass~MedicalRiskCalculator.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalRiskCalculator.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalRiskEstimator/FileClass~MedicalRiskCalculator.secret|FileClass~MedicalRiskCalculator.secret]] 
 

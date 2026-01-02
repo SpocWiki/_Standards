@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Villa%20Borsi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bedroom](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom|Bedroom]] 
 
-### #is_/same_as :: [Bedroom.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.public|Bedroom.public]] 
 
-### #is_/same_as :: [Bedroom.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.internal|Bedroom.internal]] 
 
-### #is_/same_as :: [Bedroom.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.protect|Bedroom.protect]] 
 
-### #is_/same_as :: [Bedroom.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.private|Bedroom.private]] 
 
-### #is_/same_as :: [Bedroom.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.personal|Bedroom.personal]] 
 
-### #is_/same_as :: [Bedroom.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Bedroom.secret|Bedroom.secret]] 
 

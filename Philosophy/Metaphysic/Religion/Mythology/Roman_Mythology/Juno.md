@@ -91,17 +91,17 @@ name_in_native_language: IVNO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juno](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno|Juno]] 
 
-### #is_/same_as :: [Juno.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.public|Juno.public]] 
 
-### #is_/same_as :: [Juno.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.internal|Juno.internal]] 
 
-### #is_/same_as :: [Juno.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.protect|Juno.protect]] 
 
-### #is_/same_as :: [Juno.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.private|Juno.private]] 
 
-### #is_/same_as :: [Juno.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.personal|Juno.personal]] 
 
-### #is_/same_as :: [Juno.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Juno.secret|Juno.secret]] 
 

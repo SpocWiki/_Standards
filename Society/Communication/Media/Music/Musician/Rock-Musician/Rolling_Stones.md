@@ -166,17 +166,17 @@ X_Twitter_username: RollingStones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rolling_Stones](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones|Rolling_Stones]] 
 
-### #is_/same_as :: [Rolling_Stones.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.public|Rolling_Stones.public]] 
 
-### #is_/same_as :: [Rolling_Stones.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.internal|Rolling_Stones.internal]] 
 
-### #is_/same_as :: [Rolling_Stones.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.protect|Rolling_Stones.protect]] 
 
-### #is_/same_as :: [Rolling_Stones.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.private|Rolling_Stones.private]] 
 
-### #is_/same_as :: [Rolling_Stones.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.personal|Rolling_Stones.personal]] 
 
-### #is_/same_as :: [Rolling_Stones.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Rolling_Stones.secret|Rolling_Stones.secret]] 
 

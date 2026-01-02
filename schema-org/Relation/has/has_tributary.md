@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_tributary](/_Standards/schema-org/Relation/has/has_tributary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_tributary|has_tributary]] 
 
-### #is_/same_as :: [has_tributary.public](/_public/schema-org/Relation/has/has_tributary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_tributary.public|has_tributary.public]] 
 
-### #is_/same_as :: [has_tributary.internal](/_internal/schema-org/Relation/has/has_tributary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_tributary.internal|has_tributary.internal]] 
 
-### #is_/same_as :: [has_tributary.protect](/_protect/schema-org/Relation/has/has_tributary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_tributary.protect|has_tributary.protect]] 
 
-### #is_/same_as :: [has_tributary.private](/_private/schema-org/Relation/has/has_tributary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_tributary.private|has_tributary.private]] 
 
-### #is_/same_as :: [has_tributary.personal](/_personal/schema-org/Relation/has/has_tributary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_tributary.personal|has_tributary.personal]] 
 
-### #is_/same_as :: [has_tributary.secret](/_secret/schema-org/Relation/has/has_tributary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_tributary.secret|has_tributary.secret]] 
 

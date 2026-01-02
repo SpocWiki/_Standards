@@ -58,17 +58,17 @@ Commons_category: History of Africa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Africa](/_Standards/Earth/Continent/Africa/History_of_Africa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]] 
 
-### #is_/same_as :: [History_of_Africa.public](/_public/Earth/Continent/Africa/History_of_Africa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]] 
 
-### #is_/same_as :: [History_of_Africa.internal](/_internal/Earth/Continent/Africa/History_of_Africa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]] 
 
-### #is_/same_as :: [History_of_Africa.protect](/_protect/Earth/Continent/Africa/History_of_Africa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/History_of_Africa.protect|History_of_Africa.protect]] 
 
-### #is_/same_as :: [History_of_Africa.private](/_private/Earth/Continent/Africa/History_of_Africa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/History_of_Africa.private|History_of_Africa.private]] 
 
-### #is_/same_as :: [History_of_Africa.personal](/_personal/Earth/Continent/Africa/History_of_Africa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]] 
 
-### #is_/same_as :: [History_of_Africa.secret](/_secret/Earth/Continent/Africa/History_of_Africa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]] 
 

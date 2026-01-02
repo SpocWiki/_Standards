@@ -85,17 +85,17 @@ Dewey_Decimal_Classification: "388.13"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tunnel](/_Standards/Technology/Transport/Tunnel.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Tunnel|Tunnel]] 
 
-### #is_/same_as :: [Tunnel.public](/_public/Technology/Transport/Tunnel.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Tunnel.public|Tunnel.public]] 
 
-### #is_/same_as :: [Tunnel.internal](/_internal/Technology/Transport/Tunnel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Tunnel.internal|Tunnel.internal]] 
 
-### #is_/same_as :: [Tunnel.protect](/_protect/Technology/Transport/Tunnel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Tunnel.protect|Tunnel.protect]] 
 
-### #is_/same_as :: [Tunnel.private](/_private/Technology/Transport/Tunnel.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Tunnel.private|Tunnel.private]] 
 
-### #is_/same_as :: [Tunnel.personal](/_personal/Technology/Transport/Tunnel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Tunnel.personal|Tunnel.personal]] 
 
-### #is_/same_as :: [Tunnel.secret](/_secret/Technology/Transport/Tunnel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Tunnel.secret|Tunnel.secret]] 
 

@@ -141,17 +141,17 @@ Plex_person_key: 5d7768265af944001f1f6688
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meryl_Streep](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep|Meryl_Streep]] 
 
-### #is_/same_as :: [Meryl_Streep.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.public|Meryl_Streep.public]] 
 
-### #is_/same_as :: [Meryl_Streep.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.internal|Meryl_Streep.internal]] 
 
-### #is_/same_as :: [Meryl_Streep.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.protect|Meryl_Streep.protect]] 
 
-### #is_/same_as :: [Meryl_Streep.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.private|Meryl_Streep.private]] 
 
-### #is_/same_as :: [Meryl_Streep.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.personal|Meryl_Streep.personal]] 
 
-### #is_/same_as :: [Meryl_Streep.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Meryl_Streep.secret|Meryl_Streep.secret]] 
 

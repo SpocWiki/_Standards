@@ -59,17 +59,17 @@ Dewey_Decimal_Classification: "551.436"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hill](/_Standards/Earth/Geology/Landform/Hill.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Hill|Hill]] 
 
-### #is_/same_as :: [Hill.public](/_public/Earth/Geology/Landform/Hill.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Hill.public|Hill.public]] 
 
-### #is_/same_as :: [Hill.internal](/_internal/Earth/Geology/Landform/Hill.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Hill.internal|Hill.internal]] 
 
-### #is_/same_as :: [Hill.protect](/_protect/Earth/Geology/Landform/Hill.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Hill.protect|Hill.protect]] 
 
-### #is_/same_as :: [Hill.private](/_private/Earth/Geology/Landform/Hill.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Hill.private|Hill.private]] 
 
-### #is_/same_as :: [Hill.personal](/_personal/Earth/Geology/Landform/Hill.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Hill.personal|Hill.personal]] 
 
-### #is_/same_as :: [Hill.secret](/_secret/Earth/Geology/Landform/Hill.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Hill.secret|Hill.secret]] 
 

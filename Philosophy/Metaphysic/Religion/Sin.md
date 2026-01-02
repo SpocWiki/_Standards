@@ -57,17 +57,17 @@ Stack_Exchange_tag: https://hinduism.stackexchange.com/tags/sin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sin](/_Standards/Philosophy/Metaphysic/Religion/Sin.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Sin|Sin]] 
 
-### #is_/same_as :: [Sin.public](/_public/Philosophy/Metaphysic/Religion/Sin.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Sin.public|Sin.public]] 
 
-### #is_/same_as :: [Sin.internal](/_internal/Philosophy/Metaphysic/Religion/Sin.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Sin.internal|Sin.internal]] 
 
-### #is_/same_as :: [Sin.protect](/_protect/Philosophy/Metaphysic/Religion/Sin.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Sin.protect|Sin.protect]] 
 
-### #is_/same_as :: [Sin.private](/_private/Philosophy/Metaphysic/Religion/Sin.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Sin.private|Sin.private]] 
 
-### #is_/same_as :: [Sin.personal](/_personal/Philosophy/Metaphysic/Religion/Sin.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Sin.personal|Sin.personal]] 
 
-### #is_/same_as :: [Sin.secret](/_secret/Philosophy/Metaphysic/Religion/Sin.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Sin.secret|Sin.secret]] 
 

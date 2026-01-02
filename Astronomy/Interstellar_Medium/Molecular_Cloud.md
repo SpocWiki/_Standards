@@ -44,17 +44,17 @@ Commons_category: Molecular clouds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Molecular_Cloud](/_Standards/Astronomy/Interstellar_Medium/Molecular_Cloud.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Interstellar_Medium/Molecular_Cloud|Molecular_Cloud]] 
 
-### #is_/same_as :: [Molecular_Cloud.public](/_public/Astronomy/Interstellar_Medium/Molecular_Cloud.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Interstellar_Medium/Molecular_Cloud.public|Molecular_Cloud.public]] 
 
-### #is_/same_as :: [Molecular_Cloud.internal](/_internal/Astronomy/Interstellar_Medium/Molecular_Cloud.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Interstellar_Medium/Molecular_Cloud.internal|Molecular_Cloud.internal]] 
 
-### #is_/same_as :: [Molecular_Cloud.protect](/_protect/Astronomy/Interstellar_Medium/Molecular_Cloud.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Interstellar_Medium/Molecular_Cloud.protect|Molecular_Cloud.protect]] 
 
-### #is_/same_as :: [Molecular_Cloud.private](/_private/Astronomy/Interstellar_Medium/Molecular_Cloud.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Interstellar_Medium/Molecular_Cloud.private|Molecular_Cloud.private]] 
 
-### #is_/same_as :: [Molecular_Cloud.personal](/_personal/Astronomy/Interstellar_Medium/Molecular_Cloud.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Interstellar_Medium/Molecular_Cloud.personal|Molecular_Cloud.personal]] 
 
-### #is_/same_as :: [Molecular_Cloud.secret](/_secret/Astronomy/Interstellar_Medium/Molecular_Cloud.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Interstellar_Medium/Molecular_Cloud.secret|Molecular_Cloud.secret]] 
 

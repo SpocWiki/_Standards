@@ -207,17 +207,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bismarck,Otto_von](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von|Bismarck,Otto_von]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.public|Bismarck,Otto_von.public]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.internal|Bismarck,Otto_von.internal]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.protect|Bismarck,Otto_von.protect]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.private|Bismarck,Otto_von.private]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.personal|Bismarck,Otto_von.personal]] 
 
-### #is_/same_as :: [Bismarck,Otto_von.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Bismarck,Otto_von.secret|Bismarck,Otto_von.secret]] 
 

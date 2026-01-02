@@ -154,17 +154,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tsunami](/_Standards/Society/Disaster/Natural_Disaster/Tsunami.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Tsunami|Tsunami]] 
 
-### #is_/same_as :: [Tsunami.public](/_public/Society/Disaster/Natural_Disaster/Tsunami.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Tsunami.public|Tsunami.public]] 
 
-### #is_/same_as :: [Tsunami.internal](/_internal/Society/Disaster/Natural_Disaster/Tsunami.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Tsunami.internal|Tsunami.internal]] 
 
-### #is_/same_as :: [Tsunami.protect](/_protect/Society/Disaster/Natural_Disaster/Tsunami.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Tsunami.protect|Tsunami.protect]] 
 
-### #is_/same_as :: [Tsunami.private](/_private/Society/Disaster/Natural_Disaster/Tsunami.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Tsunami.private|Tsunami.private]] 
 
-### #is_/same_as :: [Tsunami.personal](/_personal/Society/Disaster/Natural_Disaster/Tsunami.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Tsunami.personal|Tsunami.personal]] 
 
-### #is_/same_as :: [Tsunami.secret](/_secret/Society/Disaster/Natural_Disaster/Tsunami.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Tsunami.secret|Tsunami.secret]] 
 

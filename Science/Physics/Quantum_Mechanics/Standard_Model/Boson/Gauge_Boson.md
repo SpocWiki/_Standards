@@ -34,17 +34,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Standard%20Model%20of%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauge_Boson](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson|Gauge_Boson]] 
 
-### #is_/same_as :: [Gauge_Boson.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.public|Gauge_Boson.public]] 
 
-### #is_/same_as :: [Gauge_Boson.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.internal|Gauge_Boson.internal]] 
 
-### #is_/same_as :: [Gauge_Boson.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.protect|Gauge_Boson.protect]] 
 
-### #is_/same_as :: [Gauge_Boson.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.private|Gauge_Boson.private]] 
 
-### #is_/same_as :: [Gauge_Boson.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.personal|Gauge_Boson.personal]] 
 
-### #is_/same_as :: [Gauge_Boson.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Boson/Gauge_Boson.secret|Gauge_Boson.secret]] 
 

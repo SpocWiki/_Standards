@@ -15,17 +15,17 @@ but Duration specifically measures the Time of a (continuous) Activity or State.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration_of](/_Standards/schema-org/Property/has_duration_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of|has_duration_of]] 
 
-### #is_/same_as :: [has_duration_of.public](/_public/schema-org/Property/has_duration_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of.public|has_duration_of.public]] 
 
-### #is_/same_as :: [has_duration_of.internal](/_internal/schema-org/Property/has_duration_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of.internal|has_duration_of.internal]] 
 
-### #is_/same_as :: [has_duration_of.protect](/_protect/schema-org/Property/has_duration_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of.protect|has_duration_of.protect]] 
 
-### #is_/same_as :: [has_duration_of.private](/_private/schema-org/Property/has_duration_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of.private|has_duration_of.private]] 
 
-### #is_/same_as :: [has_duration_of.personal](/_personal/schema-org/Property/has_duration_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of.personal|has_duration_of.personal]] 
 
-### #is_/same_as :: [has_duration_of.secret](/_secret/schema-org/Property/has_duration_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of.secret|has_duration_of.secret]] 
 

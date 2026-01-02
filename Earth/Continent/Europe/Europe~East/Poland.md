@@ -768,17 +768,17 @@ Capital :: [[Poland/Provinces~Poland/Masovian/counties~Mazowieckie/Warszawa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poland](/_Standards/Earth/Continent/Europe/Europe~East/Poland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Poland|Poland]] 
 
-### #is_/same_as :: [Poland.public](/_public/Earth/Continent/Europe/Europe~East/Poland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Poland.public|Poland.public]] 
 
-### #is_/same_as :: [Poland.internal](/_internal/Earth/Continent/Europe/Europe~East/Poland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Poland.internal|Poland.internal]] 
 
-### #is_/same_as :: [Poland.protect](/_protect/Earth/Continent/Europe/Europe~East/Poland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Poland.protect|Poland.protect]] 
 
-### #is_/same_as :: [Poland.private](/_private/Earth/Continent/Europe/Europe~East/Poland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Poland.private|Poland.private]] 
 
-### #is_/same_as :: [Poland.personal](/_personal/Earth/Continent/Europe/Europe~East/Poland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Poland.personal|Poland.personal]] 
 
-### #is_/same_as :: [Poland.secret](/_secret/Earth/Continent/Europe/Europe~East/Poland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Poland.secret|Poland.secret]] 
 

@@ -70,17 +70,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Compression](/_Standards/Technology/IT/IT-Algorithm/Data_Compression.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/IT-Algorithm/Data_Compression|Data_Compression]] 
 
-### #is_/same_as :: [Data_Compression.public](/_public/Technology/IT/IT-Algorithm/Data_Compression.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/IT-Algorithm/Data_Compression.public|Data_Compression.public]] 
 
-### #is_/same_as :: [Data_Compression.internal](/_internal/Technology/IT/IT-Algorithm/Data_Compression.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/IT-Algorithm/Data_Compression.internal|Data_Compression.internal]] 
 
-### #is_/same_as :: [Data_Compression.protect](/_protect/Technology/IT/IT-Algorithm/Data_Compression.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/IT-Algorithm/Data_Compression.protect|Data_Compression.protect]] 
 
-### #is_/same_as :: [Data_Compression.private](/_private/Technology/IT/IT-Algorithm/Data_Compression.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/IT-Algorithm/Data_Compression.private|Data_Compression.private]] 
 
-### #is_/same_as :: [Data_Compression.personal](/_personal/Technology/IT/IT-Algorithm/Data_Compression.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/IT-Algorithm/Data_Compression.personal|Data_Compression.personal]] 
 
-### #is_/same_as :: [Data_Compression.secret](/_secret/Technology/IT/IT-Algorithm/Data_Compression.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/IT-Algorithm/Data_Compression.secret|Data_Compression.secret]] 
 

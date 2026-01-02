@@ -37,17 +37,17 @@ A short radio program or a segment/part of a radio program.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RadioClip](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip|FileClass~RadioClip]] 
 
-### #is_/same_as :: [FileClass~RadioClip.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.public|FileClass~RadioClip.public]] 
 
-### #is_/same_as :: [FileClass~RadioClip.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.internal|FileClass~RadioClip.internal]] 
 
-### #is_/same_as :: [FileClass~RadioClip.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.protect|FileClass~RadioClip.protect]] 
 
-### #is_/same_as :: [FileClass~RadioClip.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.private|FileClass~RadioClip.private]] 
 
-### #is_/same_as :: [FileClass~RadioClip.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.personal|FileClass~RadioClip.personal]] 
 
-### #is_/same_as :: [FileClass~RadioClip.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Clip/FileClass~RadioClip.secret|FileClass~RadioClip.secret]] 
 

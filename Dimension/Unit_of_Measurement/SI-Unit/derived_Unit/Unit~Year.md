@@ -85,17 +85,17 @@ Wolfram_Language_unit_code: '"Years"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Year](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year|Unit~Year]] 
 
-### #is_/same_as :: [Unit~Year.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.public|Unit~Year.public]] 
 
-### #is_/same_as :: [Unit~Year.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.internal|Unit~Year.internal]] 
 
-### #is_/same_as :: [Unit~Year.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.protect|Unit~Year.protect]] 
 
-### #is_/same_as :: [Unit~Year.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.private|Unit~Year.private]] 
 
-### #is_/same_as :: [Unit~Year.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.personal|Unit~Year.personal]] 
 
-### #is_/same_as :: [Unit~Year.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Year.secret|Unit~Year.secret]] 
 

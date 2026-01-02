@@ -65,17 +65,17 @@ Wolfram_Language_entity_code: Entity["Food", "HOTCOCOA::np357"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hot_Chocolate](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate|Hot_Chocolate]] 
 
-### #is_/same_as :: [Hot_Chocolate.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.public|Hot_Chocolate.public]] 
 
-### #is_/same_as :: [Hot_Chocolate.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.internal|Hot_Chocolate.internal]] 
 
-### #is_/same_as :: [Hot_Chocolate.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.protect|Hot_Chocolate.protect]] 
 
-### #is_/same_as :: [Hot_Chocolate.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.private|Hot_Chocolate.private]] 
 
-### #is_/same_as :: [Hot_Chocolate.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.personal|Hot_Chocolate.personal]] 
 
-### #is_/same_as :: [Hot_Chocolate.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Hot_Chocolate.secret|Hot_Chocolate.secret]] 
 

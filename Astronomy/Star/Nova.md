@@ -76,17 +76,17 @@ Commons_category: Novae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nova](/_Standards/Astronomy/Star/Nova.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Nova|Nova]] 
 
-### #is_/same_as :: [Nova.public](/_public/Astronomy/Star/Nova.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Nova.public|Nova.public]] 
 
-### #is_/same_as :: [Nova.internal](/_internal/Astronomy/Star/Nova.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Nova.internal|Nova.internal]] 
 
-### #is_/same_as :: [Nova.protect](/_protect/Astronomy/Star/Nova.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Nova.protect|Nova.protect]] 
 
-### #is_/same_as :: [Nova.private](/_private/Astronomy/Star/Nova.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Nova.private|Nova.private]] 
 
-### #is_/same_as :: [Nova.personal](/_personal/Astronomy/Star/Nova.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Nova.personal|Nova.personal]] 
 
-### #is_/same_as :: [Nova.secret](/_secret/Astronomy/Star/Nova.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Nova.secret|Nova.secret]] 
 

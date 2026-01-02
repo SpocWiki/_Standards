@@ -61,17 +61,17 @@ Commons_category: Magnetic tapes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnetic_Tape](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape|Magnetic_Tape]] 
 
-### #is_/same_as :: [Magnetic_Tape.public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.public|Magnetic_Tape.public]] 
 
-### #is_/same_as :: [Magnetic_Tape.internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.internal|Magnetic_Tape.internal]] 
 
-### #is_/same_as :: [Magnetic_Tape.protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.protect|Magnetic_Tape.protect]] 
 
-### #is_/same_as :: [Magnetic_Tape.private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.private|Magnetic_Tape.private]] 
 
-### #is_/same_as :: [Magnetic_Tape.personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.personal|Magnetic_Tape.personal]] 
 
-### #is_/same_as :: [Magnetic_Tape.secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/Magnetic_Tape.secret|Magnetic_Tape.secret]] 
 

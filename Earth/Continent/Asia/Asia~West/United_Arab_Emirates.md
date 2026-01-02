@@ -574,17 +574,17 @@ By <a href="//commons.wikimedia.org/wiki/User:NuclearVacuum" title="User:Nuclear
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [United_Arab_Emirates](/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/United_Arab_Emirates|United_Arab_Emirates]] 
 
-### #is_/same_as :: [United_Arab_Emirates.public](/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.public|United_Arab_Emirates.public]] 
 
-### #is_/same_as :: [United_Arab_Emirates.internal](/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.internal|United_Arab_Emirates.internal]] 
 
-### #is_/same_as :: [United_Arab_Emirates.protect](/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.protect|United_Arab_Emirates.protect]] 
 
-### #is_/same_as :: [United_Arab_Emirates.private](/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.private|United_Arab_Emirates.private]] 
 
-### #is_/same_as :: [United_Arab_Emirates.personal](/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.personal|United_Arab_Emirates.personal]] 
 
-### #is_/same_as :: [United_Arab_Emirates.secret](/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/United_Arab_Emirates.secret|United_Arab_Emirates.secret]] 
 

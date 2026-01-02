@@ -55,3 +55,22 @@ unit_symbol:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lux) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux|Unit~Lux]] 
+
+### #is_/same_as :: [[/_public/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.public|Unit~Lux.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.internal|Unit~Lux.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.protect|Unit~Lux.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.private|Unit~Lux.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.personal|Unit~Lux.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Dim~Luminosity/Dim~illuminance/Unit~Lux.secret|Unit~Lux.secret]] 
+

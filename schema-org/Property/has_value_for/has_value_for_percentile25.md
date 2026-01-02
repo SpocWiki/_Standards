@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_percentile25](/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_percentile25|has_value_for_percentile25]] 
 
-### #is_/same_as :: [has_value_for_percentile25.public](/_public/schema-org/Property/has_value_for/has_value_for_percentile25.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_percentile25.public|has_value_for_percentile25.public]] 
 
-### #is_/same_as :: [has_value_for_percentile25.internal](/_internal/schema-org/Property/has_value_for/has_value_for_percentile25.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_percentile25.internal|has_value_for_percentile25.internal]] 
 
-### #is_/same_as :: [has_value_for_percentile25.protect](/_protect/schema-org/Property/has_value_for/has_value_for_percentile25.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_percentile25.protect|has_value_for_percentile25.protect]] 
 
-### #is_/same_as :: [has_value_for_percentile25.private](/_private/schema-org/Property/has_value_for/has_value_for_percentile25.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_percentile25.private|has_value_for_percentile25.private]] 
 
-### #is_/same_as :: [has_value_for_percentile25.personal](/_personal/schema-org/Property/has_value_for/has_value_for_percentile25.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_percentile25.personal|has_value_for_percentile25.personal]] 
 
-### #is_/same_as :: [has_value_for_percentile25.secret](/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_percentile25.secret|has_value_for_percentile25.secret]] 
 

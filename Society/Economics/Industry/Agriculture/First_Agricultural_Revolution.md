@@ -57,17 +57,17 @@ to settled agriculture (also known as the Neolithic Revolution)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [First_Agricultural_Revolution](/_Standards/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution|First_Agricultural_Revolution]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.public](/_public/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.public|First_Agricultural_Revolution.public]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.internal](/_internal/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.internal|First_Agricultural_Revolution.internal]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.protect](/_protect/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.protect|First_Agricultural_Revolution.protect]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.private](/_private/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.private|First_Agricultural_Revolution.private]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.personal](/_personal/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.personal|First_Agricultural_Revolution.personal]] 
 
-### #is_/same_as :: [First_Agricultural_Revolution.secret](/_secret/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/First_Agricultural_Revolution.secret|First_Agricultural_Revolution.secret]] 
 

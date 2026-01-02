@@ -51,17 +51,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Blockade%20of%20Toulon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blockade](/_Standards/Society/Military/Military_Operation/Military_Strategy/Blockade.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Blockade|Blockade]] 
 
-### #is_/same_as :: [Blockade.public](/_public/Society/Military/Military_Operation/Military_Strategy/Blockade.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Blockade.public|Blockade.public]] 
 
-### #is_/same_as :: [Blockade.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Blockade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Blockade.internal|Blockade.internal]] 
 
-### #is_/same_as :: [Blockade.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Blockade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Blockade.protect|Blockade.protect]] 
 
-### #is_/same_as :: [Blockade.private](/_private/Society/Military/Military_Operation/Military_Strategy/Blockade.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Blockade.private|Blockade.private]] 
 
-### #is_/same_as :: [Blockade.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Blockade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Blockade.personal|Blockade.personal]] 
 
-### #is_/same_as :: [Blockade.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Blockade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Blockade.secret|Blockade.secret]] 
 

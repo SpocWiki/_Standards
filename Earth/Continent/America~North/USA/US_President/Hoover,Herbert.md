@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hoover,Herbert](/_Standards/Earth/Continent/America~North/US~President/Hoover,Herbert.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Hoover,Herbert|Hoover,Herbert]] 
 
-### #is_/same_as :: [Hoover,Herbert.public](/_public/Earth/Continent/America~North/US~President/Hoover,Herbert.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.public|Hoover,Herbert.public]] 
 
-### #is_/same_as :: [Hoover,Herbert.internal](/_internal/Earth/Continent/America~North/US~President/Hoover,Herbert.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.internal|Hoover,Herbert.internal]] 
 
-### #is_/same_as :: [Hoover,Herbert.protect](/_protect/Earth/Continent/America~North/US~President/Hoover,Herbert.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.protect|Hoover,Herbert.protect]] 
 
-### #is_/same_as :: [Hoover,Herbert.private](/_private/Earth/Continent/America~North/US~President/Hoover,Herbert.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.private|Hoover,Herbert.private]] 
 
-### #is_/same_as :: [Hoover,Herbert.personal](/_personal/Earth/Continent/America~North/US~President/Hoover,Herbert.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.personal|Hoover,Herbert.personal]] 
 
-### #is_/same_as :: [Hoover,Herbert.secret](/_secret/Earth/Continent/America~North/US~President/Hoover,Herbert.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Hoover,Herbert.secret|Hoover,Herbert.secret]] 
 

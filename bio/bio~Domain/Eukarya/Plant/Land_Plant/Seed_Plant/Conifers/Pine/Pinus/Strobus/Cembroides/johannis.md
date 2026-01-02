@@ -72,17 +72,17 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [johannis](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis|johannis]] 
 
-### #is_/same_as :: [johannis.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.public|johannis.public]] 
 
-### #is_/same_as :: [johannis.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.internal|johannis.internal]] 
 
-### #is_/same_as :: [johannis.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.protect|johannis.protect]] 
 
-### #is_/same_as :: [johannis.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.private|johannis.private]] 
 
-### #is_/same_as :: [johannis.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.personal|johannis.personal]] 
 
-### #is_/same_as :: [johannis.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Strobus/Cembroides/johannis.secret|johannis.secret]] 
 

@@ -48,17 +48,17 @@ GeoNames_feature_code: U.SHFU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Continental_Shelf](/_Standards/Earth/Geology/Landform/Continental_Shelf.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Continental_Shelf|Continental_Shelf]] 
 
-### #is_/same_as :: [Continental_Shelf.public](/_public/Earth/Geology/Landform/Continental_Shelf.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Continental_Shelf.public|Continental_Shelf.public]] 
 
-### #is_/same_as :: [Continental_Shelf.internal](/_internal/Earth/Geology/Landform/Continental_Shelf.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Continental_Shelf.internal|Continental_Shelf.internal]] 
 
-### #is_/same_as :: [Continental_Shelf.protect](/_protect/Earth/Geology/Landform/Continental_Shelf.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Continental_Shelf.protect|Continental_Shelf.protect]] 
 
-### #is_/same_as :: [Continental_Shelf.private](/_private/Earth/Geology/Landform/Continental_Shelf.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Continental_Shelf.private|Continental_Shelf.private]] 
 
-### #is_/same_as :: [Continental_Shelf.personal](/_personal/Earth/Geology/Landform/Continental_Shelf.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Continental_Shelf.personal|Continental_Shelf.personal]] 
 
-### #is_/same_as :: [Continental_Shelf.secret](/_secret/Earth/Geology/Landform/Continental_Shelf.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Continental_Shelf.secret|Continental_Shelf.secret]] 
 

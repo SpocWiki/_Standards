@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Die_Welt](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt|Die_Welt]] 
 
-### #is_/same_as :: [Die_Welt.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.public|Die_Welt.public]] 
 
-### #is_/same_as :: [Die_Welt.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.internal|Die_Welt.internal]] 
 
-### #is_/same_as :: [Die_Welt.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.protect|Die_Welt.protect]] 
 
-### #is_/same_as :: [Die_Welt.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.private|Die_Welt.private]] 
 
-### #is_/same_as :: [Die_Welt.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.personal|Die_Welt.personal]] 
 
-### #is_/same_as :: [Die_Welt.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Die_Welt.secret|Die_Welt.secret]] 
 

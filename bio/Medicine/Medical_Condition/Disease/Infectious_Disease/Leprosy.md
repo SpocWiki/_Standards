@@ -130,17 +130,17 @@ U_S_National_Archives_Identifier: 10664110
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leprosy](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy|Leprosy]] 
 
-### #is_/same_as :: [Leprosy.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.public|Leprosy.public]] 
 
-### #is_/same_as :: [Leprosy.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.internal|Leprosy.internal]] 
 
-### #is_/same_as :: [Leprosy.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.protect|Leprosy.protect]] 
 
-### #is_/same_as :: [Leprosy.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.private|Leprosy.private]] 
 
-### #is_/same_as :: [Leprosy.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.personal|Leprosy.personal]] 
 
-### #is_/same_as :: [Leprosy.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Leprosy.secret|Leprosy.secret]] 
 

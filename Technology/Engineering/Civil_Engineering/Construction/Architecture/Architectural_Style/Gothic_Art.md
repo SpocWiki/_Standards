@@ -54,17 +54,17 @@ end_time: 1530-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gothic_Art](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art|Gothic_Art]] 
 
-### #is_/same_as :: [Gothic_Art.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.public|Gothic_Art.public]] 
 
-### #is_/same_as :: [Gothic_Art.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.internal|Gothic_Art.internal]] 
 
-### #is_/same_as :: [Gothic_Art.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.protect|Gothic_Art.protect]] 
 
-### #is_/same_as :: [Gothic_Art.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.private|Gothic_Art.private]] 
 
-### #is_/same_as :: [Gothic_Art.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.personal|Gothic_Art.personal]] 
 
-### #is_/same_as :: [Gothic_Art.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Gothic_Art.secret|Gothic_Art.secret]] 
 

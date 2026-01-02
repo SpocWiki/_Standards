@@ -94,17 +94,17 @@ EPPO_Code: RIBRU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ribes_rubrum](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum|Ribes_rubrum]] 
 
-### #is_/same_as :: [Ribes_rubrum.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.public|Ribes_rubrum.public]] 
 
-### #is_/same_as :: [Ribes_rubrum.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.internal|Ribes_rubrum.internal]] 
 
-### #is_/same_as :: [Ribes_rubrum.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.protect|Ribes_rubrum.protect]] 
 
-### #is_/same_as :: [Ribes_rubrum.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.private|Ribes_rubrum.private]] 
 
-### #is_/same_as :: [Ribes_rubrum.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.personal|Ribes_rubrum.personal]] 
 
-### #is_/same_as :: [Ribes_rubrum.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Saxifragales/Grossulariaceae/Ribes/Ribes_rubrum.secret|Ribes_rubrum.secret]] 
 

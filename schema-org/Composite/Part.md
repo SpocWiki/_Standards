@@ -39,17 +39,17 @@ Alternatively, rather define a Car-Class with these 5 Link-Properties.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Part](/_Standards/schema-org/Composite/Part.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Composite/Part|Part]] 
 
-### #is_/same_as :: [Part.public](/_public/schema-org/Composite/Part.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Composite/Part.public|Part.public]] 
 
-### #is_/same_as :: [Part.internal](/_internal/schema-org/Composite/Part.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Composite/Part.internal|Part.internal]] 
 
-### #is_/same_as :: [Part.protect](/_protect/schema-org/Composite/Part.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Composite/Part.protect|Part.protect]] 
 
-### #is_/same_as :: [Part.private](/_private/schema-org/Composite/Part.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Composite/Part.private|Part.private]] 
 
-### #is_/same_as :: [Part.personal](/_personal/schema-org/Composite/Part.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Composite/Part.personal|Part.personal]] 
 
-### #is_/same_as :: [Part.secret](/_secret/schema-org/Composite/Part.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Composite/Part.secret|Part.secret]] 
 

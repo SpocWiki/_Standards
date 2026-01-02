@@ -37,17 +37,17 @@ Commons_category: Weddell Sea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weddell_Sea](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea|Weddell_Sea]] 
 
-### #is_/same_as :: [Weddell_Sea.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.public|Weddell_Sea.public]] 
 
-### #is_/same_as :: [Weddell_Sea.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.internal|Weddell_Sea.internal]] 
 
-### #is_/same_as :: [Weddell_Sea.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.protect|Weddell_Sea.protect]] 
 
-### #is_/same_as :: [Weddell_Sea.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.private|Weddell_Sea.private]] 
 
-### #is_/same_as :: [Weddell_Sea.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.personal|Weddell_Sea.personal]] 
 
-### #is_/same_as :: [Weddell_Sea.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~American/Weddell_Sea.secret|Weddell_Sea.secret]] 
 

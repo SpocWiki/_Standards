@@ -123,17 +123,17 @@ ISNI: 0000000078791368
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brin,Sergey](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey|Brin,Sergey]] 
 
-### #is_/same_as :: [Brin,Sergey.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.public|Brin,Sergey.public]] 
 
-### #is_/same_as :: [Brin,Sergey.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.internal|Brin,Sergey.internal]] 
 
-### #is_/same_as :: [Brin,Sergey.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.protect|Brin,Sergey.protect]] 
 
-### #is_/same_as :: [Brin,Sergey.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.private|Brin,Sergey.private]] 
 
-### #is_/same_as :: [Brin,Sergey.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.personal|Brin,Sergey.personal]] 
 
-### #is_/same_as :: [Brin,Sergey.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Brin,Sergey.secret|Brin,Sergey.secret]] 
 

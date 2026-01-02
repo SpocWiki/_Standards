@@ -37,17 +37,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antarctic~Pacific](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific|Antarctic~Pacific]] 
 
-### #is_/same_as :: [Antarctic~Pacific.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.public|Antarctic~Pacific.public]] 
 
-### #is_/same_as :: [Antarctic~Pacific.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.internal|Antarctic~Pacific.internal]] 
 
-### #is_/same_as :: [Antarctic~Pacific.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.protect|Antarctic~Pacific.protect]] 
 
-### #is_/same_as :: [Antarctic~Pacific.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.private|Antarctic~Pacific.private]] 
 
-### #is_/same_as :: [Antarctic~Pacific.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.personal|Antarctic~Pacific.personal]] 
 
-### #is_/same_as :: [Antarctic~Pacific.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~Pacific.secret|Antarctic~Pacific.secret]] 
 

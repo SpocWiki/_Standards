@@ -58,17 +58,17 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Sistema%20presiden
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Presidential_System](/_Standards/Society/Politics/Government/Democracy/Presidential_System.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Presidential_System|Presidential_System]] 
 
-### #is_/same_as :: [Presidential_System.public](/_public/Society/Politics/Government/Democracy/Presidential_System.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Presidential_System.public|Presidential_System.public]] 
 
-### #is_/same_as :: [Presidential_System.internal](/_internal/Society/Politics/Government/Democracy/Presidential_System.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Presidential_System.internal|Presidential_System.internal]] 
 
-### #is_/same_as :: [Presidential_System.protect](/_protect/Society/Politics/Government/Democracy/Presidential_System.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Presidential_System.protect|Presidential_System.protect]] 
 
-### #is_/same_as :: [Presidential_System.private](/_private/Society/Politics/Government/Democracy/Presidential_System.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Presidential_System.private|Presidential_System.private]] 
 
-### #is_/same_as :: [Presidential_System.personal](/_personal/Society/Politics/Government/Democracy/Presidential_System.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Presidential_System.personal|Presidential_System.personal]] 
 
-### #is_/same_as :: [Presidential_System.secret](/_secret/Society/Politics/Government/Democracy/Presidential_System.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Presidential_System.secret|Presidential_System.secret]] 
 

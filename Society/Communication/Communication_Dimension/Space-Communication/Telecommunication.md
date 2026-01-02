@@ -64,17 +64,17 @@ MeSH_tree_code: L01.462.500.847
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Telecommunication](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication|Telecommunication]] 
 
-### #is_/same_as :: [Telecommunication.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.public|Telecommunication.public]] 
 
-### #is_/same_as :: [Telecommunication.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.internal|Telecommunication.internal]] 
 
-### #is_/same_as :: [Telecommunication.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.protect|Telecommunication.protect]] 
 
-### #is_/same_as :: [Telecommunication.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.private|Telecommunication.private]] 
 
-### #is_/same_as :: [Telecommunication.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.personal|Telecommunication.personal]] 
 
-### #is_/same_as :: [Telecommunication.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Telecommunication.secret|Telecommunication.secret]] 
 

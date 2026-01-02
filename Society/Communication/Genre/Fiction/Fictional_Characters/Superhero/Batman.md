@@ -432,17 +432,17 @@ Commons_category: Batman and his cast
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Batman](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman|Batman]] 
 
-### #is_/same_as :: [Batman.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.public|Batman.public]] 
 
-### #is_/same_as :: [Batman.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.internal|Batman.internal]] 
 
-### #is_/same_as :: [Batman.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.protect|Batman.protect]] 
 
-### #is_/same_as :: [Batman.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.private|Batman.private]] 
 
-### #is_/same_as :: [Batman.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.personal|Batman.personal]] 
 
-### #is_/same_as :: [Batman.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Superhero/Batman.secret|Batman.secret]] 
 

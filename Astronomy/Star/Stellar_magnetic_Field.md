@@ -33,17 +33,17 @@ Commons_category: Stellar magnetic fields
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_magnetic_Field](/_Standards/Astronomy/Star/Stellar_magnetic_Field.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Stellar_magnetic_Field|Stellar_magnetic_Field]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.public](/_public/Astronomy/Star/Stellar_magnetic_Field.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Stellar_magnetic_Field.public|Stellar_magnetic_Field.public]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.internal](/_internal/Astronomy/Star/Stellar_magnetic_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Stellar_magnetic_Field.internal|Stellar_magnetic_Field.internal]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.protect](/_protect/Astronomy/Star/Stellar_magnetic_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Stellar_magnetic_Field.protect|Stellar_magnetic_Field.protect]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.private](/_private/Astronomy/Star/Stellar_magnetic_Field.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Stellar_magnetic_Field.private|Stellar_magnetic_Field.private]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.personal](/_personal/Astronomy/Star/Stellar_magnetic_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Stellar_magnetic_Field.personal|Stellar_magnetic_Field.personal]] 
 
-### #is_/same_as :: [Stellar_magnetic_Field.secret](/_secret/Astronomy/Star/Stellar_magnetic_Field.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Stellar_magnetic_Field.secret|Stellar_magnetic_Field.secret]] 
 

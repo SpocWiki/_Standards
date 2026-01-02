@@ -110,17 +110,17 @@ which derives from the Middle Dutch term "droge" which means "dried".
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug](/_Standards/bio/Medicine/Drug.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug|Drug]] 
 
-### #is_/same_as :: [Drug.public](/_public/bio/Medicine/Drug.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug.public|Drug.public]] 
 
-### #is_/same_as :: [Drug.internal](/_internal/bio/Medicine/Drug.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug.internal|Drug.internal]] 
 
-### #is_/same_as :: [Drug.protect](/_protect/bio/Medicine/Drug.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug.protect|Drug.protect]] 
 
-### #is_/same_as :: [Drug.private](/_private/bio/Medicine/Drug.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug.private|Drug.private]] 
 
-### #is_/same_as :: [Drug.personal](/_personal/bio/Medicine/Drug.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug.personal|Drug.personal]] 
 
-### #is_/same_as :: [Drug.secret](/_secret/bio/Medicine/Drug.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug.secret|Drug.secret]] 
 

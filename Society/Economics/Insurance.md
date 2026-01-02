@@ -89,17 +89,17 @@ MeSH_tree_code: N03.219.521.576
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Insurance](/_Standards/Society/Economics/Insurance.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Insurance|Insurance]] 
 
-### #is_/same_as :: [Insurance.public](/_public/Society/Economics/Insurance.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Insurance.public|Insurance.public]] 
 
-### #is_/same_as :: [Insurance.internal](/_internal/Society/Economics/Insurance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Insurance.internal|Insurance.internal]] 
 
-### #is_/same_as :: [Insurance.protect](/_protect/Society/Economics/Insurance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Insurance.protect|Insurance.protect]] 
 
-### #is_/same_as :: [Insurance.private](/_private/Society/Economics/Insurance.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Insurance.private|Insurance.private]] 
 
-### #is_/same_as :: [Insurance.personal](/_personal/Society/Economics/Insurance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Insurance.personal|Insurance.personal]] 
 
-### #is_/same_as :: [Insurance.secret](/_secret/Society/Economics/Insurance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Insurance.secret|Insurance.secret]] 
 

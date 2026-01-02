@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Normative_Ethics](/_Standards/Philosophy/Ethics/Normative_Ethics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Normative_Ethics|Normative_Ethics]] 
 
-### #is_/same_as :: [Normative_Ethics.public](/_public/Philosophy/Ethics/Normative_Ethics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Normative_Ethics.public|Normative_Ethics.public]] 
 
-### #is_/same_as :: [Normative_Ethics.internal](/_internal/Philosophy/Ethics/Normative_Ethics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Normative_Ethics.internal|Normative_Ethics.internal]] 
 
-### #is_/same_as :: [Normative_Ethics.protect](/_protect/Philosophy/Ethics/Normative_Ethics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Normative_Ethics.protect|Normative_Ethics.protect]] 
 
-### #is_/same_as :: [Normative_Ethics.private](/_private/Philosophy/Ethics/Normative_Ethics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Normative_Ethics.private|Normative_Ethics.private]] 
 
-### #is_/same_as :: [Normative_Ethics.personal](/_personal/Philosophy/Ethics/Normative_Ethics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Normative_Ethics.personal|Normative_Ethics.personal]] 
 
-### #is_/same_as :: [Normative_Ethics.secret](/_secret/Philosophy/Ethics/Normative_Ethics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Normative_Ethics.secret|Normative_Ethics.secret]] 
 

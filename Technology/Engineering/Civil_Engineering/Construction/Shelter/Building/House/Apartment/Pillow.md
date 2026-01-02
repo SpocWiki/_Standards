@@ -59,17 +59,17 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/03938244-n
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pillow](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow|Pillow]] 
 
-### #is_/same_as :: [Pillow.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.public|Pillow.public]] 
 
-### #is_/same_as :: [Pillow.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.internal|Pillow.internal]] 
 
-### #is_/same_as :: [Pillow.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.protect|Pillow.protect]] 
 
-### #is_/same_as :: [Pillow.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.private|Pillow.private]] 
 
-### #is_/same_as :: [Pillow.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.personal|Pillow.personal]] 
 
-### #is_/same_as :: [Pillow.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Pillow.secret|Pillow.secret]] 
 

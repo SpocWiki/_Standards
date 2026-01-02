@@ -40,17 +40,17 @@ markerFolder: ./Peleliu/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peleliu](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu|Peleliu]] 
 
-### #is_/same_as :: [Peleliu.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.public|Peleliu.public]] 
 
-### #is_/same_as :: [Peleliu.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.internal|Peleliu.internal]] 
 
-### #is_/same_as :: [Peleliu.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.protect|Peleliu.protect]] 
 
-### #is_/same_as :: [Peleliu.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.private|Peleliu.private]] 
 
-### #is_/same_as :: [Peleliu.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.personal|Peleliu.personal]] 
 
-### #is_/same_as :: [Peleliu.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Peleliu.secret|Peleliu.secret]] 
 

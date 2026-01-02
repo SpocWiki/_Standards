@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_muscle_action](/_Standards/schema-org/Property/Texts/has_muscle_action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_muscle_action|has_muscle_action]] 
 
-### #is_/same_as :: [has_muscle_action.public](/_public/schema-org/Property/Texts/has_muscle_action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_muscle_action.public|has_muscle_action.public]] 
 
-### #is_/same_as :: [has_muscle_action.internal](/_internal/schema-org/Property/Texts/has_muscle_action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_muscle_action.internal|has_muscle_action.internal]] 
 
-### #is_/same_as :: [has_muscle_action.protect](/_protect/schema-org/Property/Texts/has_muscle_action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_muscle_action.protect|has_muscle_action.protect]] 
 
-### #is_/same_as :: [has_muscle_action.private](/_private/schema-org/Property/Texts/has_muscle_action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_muscle_action.private|has_muscle_action.private]] 
 
-### #is_/same_as :: [has_muscle_action.personal](/_personal/schema-org/Property/Texts/has_muscle_action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_muscle_action.personal|has_muscle_action.personal]] 
 
-### #is_/same_as :: [has_muscle_action.secret](/_secret/schema-org/Property/Texts/has_muscle_action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_muscle_action.secret|has_muscle_action.secret]] 
 

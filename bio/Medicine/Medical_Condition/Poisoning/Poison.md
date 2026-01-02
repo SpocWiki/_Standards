@@ -77,17 +77,17 @@ Commons_category: Poisons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poison](/_Standards/bio/Medicine/Medical_Condition/Poisoning/Poison.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Poisoning/Poison|Poison]] 
 
-### #is_/same_as :: [Poison.public](/_public/bio/Medicine/Medical_Condition/Poisoning/Poison.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Poisoning/Poison.public|Poison.public]] 
 
-### #is_/same_as :: [Poison.internal](/_internal/bio/Medicine/Medical_Condition/Poisoning/Poison.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Poisoning/Poison.internal|Poison.internal]] 
 
-### #is_/same_as :: [Poison.protect](/_protect/bio/Medicine/Medical_Condition/Poisoning/Poison.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Poisoning/Poison.protect|Poison.protect]] 
 
-### #is_/same_as :: [Poison.private](/_private/bio/Medicine/Medical_Condition/Poisoning/Poison.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Poisoning/Poison.private|Poison.private]] 
 
-### #is_/same_as :: [Poison.personal](/_personal/bio/Medicine/Medical_Condition/Poisoning/Poison.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Poisoning/Poison.personal|Poison.personal]] 
 
-### #is_/same_as :: [Poison.secret](/_secret/bio/Medicine/Medical_Condition/Poisoning/Poison.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Poisoning/Poison.secret|Poison.secret]] 
 

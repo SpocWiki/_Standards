@@ -148,17 +148,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nkrumah,Kwame](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame|Nkrumah,Kwame]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.public|Nkrumah,Kwame.public]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.internal|Nkrumah,Kwame.internal]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.protect|Nkrumah,Kwame.protect]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.private|Nkrumah,Kwame.private]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.personal|Nkrumah,Kwame.personal]] 
 
-### #is_/same_as :: [Nkrumah,Kwame.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Nkrumah,Kwame.secret|Nkrumah,Kwame.secret]] 
 

@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wild Wild West](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West|Wild_Wild_West]] 
 
-### #is_/same_as :: [Wild Wild West.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.public|Wild_Wild_West.public]] 
 
-### #is_/same_as :: [Wild Wild West.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.internal|Wild_Wild_West.internal]] 
 
-### #is_/same_as :: [Wild Wild West.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.protect|Wild_Wild_West.protect]] 
 
-### #is_/same_as :: [Wild Wild West.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.private|Wild_Wild_West.private]] 
 
-### #is_/same_as :: [Wild Wild West.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.personal|Wild_Wild_West.personal]] 
 
-### #is_/same_as :: [Wild Wild West.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild Wild West.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/Wild_Wild_West.secret|Wild_Wild_West.secret]] 
 

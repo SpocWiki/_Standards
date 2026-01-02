@@ -41,17 +41,17 @@ A tennis complex.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tennis_Complex](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex|Tennis_Complex]] 
 
-### #is_/same_as :: [Tennis_Complex.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.public|Tennis_Complex.public]] 
 
-### #is_/same_as :: [Tennis_Complex.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.internal|Tennis_Complex.internal]] 
 
-### #is_/same_as :: [Tennis_Complex.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.protect|Tennis_Complex.protect]] 
 
-### #is_/same_as :: [Tennis_Complex.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.private|Tennis_Complex.private]] 
 
-### #is_/same_as :: [Tennis_Complex.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.personal|Tennis_Complex.personal]] 
 
-### #is_/same_as :: [Tennis_Complex.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Tennis_Complex.secret|Tennis_Complex.secret]] 
 

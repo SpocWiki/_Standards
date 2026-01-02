@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knot](/_Standards/Technology/Tool/Mechanical_Tool/Knot.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Knot|Knot]] 
 
-### #is_/same_as :: [Knot.public](/_public/Technology/Tool/Mechanical_Tool/Knot.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]] 
 
-### #is_/same_as :: [Knot.internal](/_internal/Technology/Tool/Mechanical_Tool/Knot.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]] 
 
-### #is_/same_as :: [Knot.protect](/_protect/Technology/Tool/Mechanical_Tool/Knot.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]] 
 
-### #is_/same_as :: [Knot.private](/_private/Technology/Tool/Mechanical_Tool/Knot.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]] 
 
-### #is_/same_as :: [Knot.personal](/_personal/Technology/Tool/Mechanical_Tool/Knot.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]] 
 
-### #is_/same_as :: [Knot.secret](/_secret/Technology/Tool/Mechanical_Tool/Knot.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]] 
 

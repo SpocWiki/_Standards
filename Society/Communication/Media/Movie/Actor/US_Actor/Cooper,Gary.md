@@ -97,17 +97,17 @@ birth_name: Frank James Cooper
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cooper,Gary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary|Cooper,Gary]] 
 
-### #is_/same_as :: [Cooper,Gary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.public|Cooper,Gary.public]] 
 
-### #is_/same_as :: [Cooper,Gary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.internal|Cooper,Gary.internal]] 
 
-### #is_/same_as :: [Cooper,Gary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.protect|Cooper,Gary.protect]] 
 
-### #is_/same_as :: [Cooper,Gary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.private|Cooper,Gary.private]] 
 
-### #is_/same_as :: [Cooper,Gary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.personal|Cooper,Gary.personal]] 
 
-### #is_/same_as :: [Cooper,Gary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cooper,Gary.secret|Cooper,Gary.secret]] 
 

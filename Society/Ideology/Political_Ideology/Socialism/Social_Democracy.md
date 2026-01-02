@@ -107,17 +107,17 @@ subreddit: SocialDemocracy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Democracy](/_Standards/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Socialism/Social_Democracy|Social_Democracy]] 
 
-### #is_/same_as :: [Social_Democracy.public](/_public/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.public|Social_Democracy.public]] 
 
-### #is_/same_as :: [Social_Democracy.internal](/_internal/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.internal|Social_Democracy.internal]] 
 
-### #is_/same_as :: [Social_Democracy.protect](/_protect/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.protect|Social_Democracy.protect]] 
 
-### #is_/same_as :: [Social_Democracy.private](/_private/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.private|Social_Democracy.private]] 
 
-### #is_/same_as :: [Social_Democracy.personal](/_personal/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.personal|Social_Democracy.personal]] 
 
-### #is_/same_as :: [Social_Democracy.secret](/_secret/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Socialism/Social_Democracy.secret|Social_Democracy.secret]] 
 

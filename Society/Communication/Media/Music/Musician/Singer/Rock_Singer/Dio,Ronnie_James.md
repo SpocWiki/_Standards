@@ -118,17 +118,17 @@ Plex_person_key: 5d77682b8a7581001f12c40a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dio,Ronnie_James](/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James|Dio,Ronnie_James]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.public](/_public/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.public|Dio,Ronnie_James.public]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.internal|Dio,Ronnie_James.internal]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.protect|Dio,Ronnie_James.protect]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.private](/_private/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.private|Dio,Ronnie_James.private]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.personal|Dio,Ronnie_James.personal]] 
 
-### #is_/same_as :: [Dio,Ronnie_James.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Rock_Singer/Dio,Ronnie_James.secret|Dio,Ronnie_James.secret]] 
 

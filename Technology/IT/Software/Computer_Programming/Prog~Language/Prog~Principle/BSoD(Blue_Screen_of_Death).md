@@ -24,17 +24,17 @@ Seen often in the 1990s and early 2000s it has become rare in the 2010s, mostly 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death)|BSoD(Blue_Screen_of_Death)]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).public|BSoD(Blue_Screen_of_Death).public]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).internal|BSoD(Blue_Screen_of_Death).internal]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).protect|BSoD(Blue_Screen_of_Death).protect]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).private|BSoD(Blue_Screen_of_Death).private]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).personal|BSoD(Blue_Screen_of_Death).personal]] 
 
-### #is_/same_as :: [BSoD(Blue_Screen_of_Death).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/BSoD(Blue_Screen_of_Death).secret|BSoD(Blue_Screen_of_Death).secret]] 
 

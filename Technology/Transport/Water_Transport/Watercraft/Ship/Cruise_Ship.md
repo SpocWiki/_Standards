@@ -42,17 +42,17 @@ IMDb_keyword: cruise-ship
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cruise_Ship](/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship|Cruise_Ship]] 
 
-### #is_/same_as :: [Cruise_Ship.public](/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.public|Cruise_Ship.public]] 
 
-### #is_/same_as :: [Cruise_Ship.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.internal|Cruise_Ship.internal]] 
 
-### #is_/same_as :: [Cruise_Ship.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.protect|Cruise_Ship.protect]] 
 
-### #is_/same_as :: [Cruise_Ship.private](/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.private|Cruise_Ship.private]] 
 
-### #is_/same_as :: [Cruise_Ship.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.personal|Cruise_Ship.personal]] 
 
-### #is_/same_as :: [Cruise_Ship.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Ship/Cruise_Ship.secret|Cruise_Ship.secret]] 
 

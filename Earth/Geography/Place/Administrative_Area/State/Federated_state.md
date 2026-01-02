@@ -75,17 +75,17 @@ OpenStreetMap_tag_or_key: Tag:place=state
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Federated_state](/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Federated_state|Federated_state]] 
 
-### #is_/same_as :: [Federated_state.public](/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Federated_state.public|Federated_state.public]] 
 
-### #is_/same_as :: [Federated_state.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Federated_state.internal|Federated_state.internal]] 
 
-### #is_/same_as :: [Federated_state.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Federated_state.protect|Federated_state.protect]] 
 
-### #is_/same_as :: [Federated_state.private](/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Federated_state.private|Federated_state.private]] 
 
-### #is_/same_as :: [Federated_state.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Federated_state.personal|Federated_state.personal]] 
 
-### #is_/same_as :: [Federated_state.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Federated_state.secret|Federated_state.secret]] 
 

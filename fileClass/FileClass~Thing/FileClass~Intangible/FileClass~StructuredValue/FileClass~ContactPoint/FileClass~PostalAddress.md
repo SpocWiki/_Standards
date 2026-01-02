@@ -97,17 +97,17 @@ StreetAddress:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PostalAddress](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress|FileClass~PostalAddress]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.public|FileClass~PostalAddress.public]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.internal|FileClass~PostalAddress.internal]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.protect|FileClass~PostalAddress.protect]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.private|FileClass~PostalAddress.private]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.personal|FileClass~PostalAddress.personal]] 
 
-### #is_/same_as :: [FileClass~PostalAddress.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~ContactPoint/FileClass~PostalAddress.secret|FileClass~PostalAddress.secret]] 
 

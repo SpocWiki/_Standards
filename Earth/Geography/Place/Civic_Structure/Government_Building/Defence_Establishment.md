@@ -43,17 +43,17 @@ A defence establishment, such as an army or navy base.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Defence_Establishment](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment|Defence_Establishment]] 
 
-### #is_/same_as :: [Defence_Establishment.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.public|Defence_Establishment.public]] 
 
-### #is_/same_as :: [Defence_Establishment.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.internal|Defence_Establishment.internal]] 
 
-### #is_/same_as :: [Defence_Establishment.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.protect|Defence_Establishment.protect]] 
 
-### #is_/same_as :: [Defence_Establishment.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.private|Defence_Establishment.private]] 
 
-### #is_/same_as :: [Defence_Establishment.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.personal|Defence_Establishment.personal]] 
 
-### #is_/same_as :: [Defence_Establishment.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Defence_Establishment.secret|Defence_Establishment.secret]] 
 

@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cube_(film_series)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series)|Cube_(film_series)]] 
 
-### #is_/same_as :: [Cube_(film_series).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).public|Cube_(film_series).public]] 
 
-### #is_/same_as :: [Cube_(film_series).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).internal|Cube_(film_series).internal]] 
 
-### #is_/same_as :: [Cube_(film_series).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).protect|Cube_(film_series).protect]] 
 
-### #is_/same_as :: [Cube_(film_series).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).private|Cube_(film_series).private]] 
 
-### #is_/same_as :: [Cube_(film_series).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).personal|Cube_(film_series).personal]] 
 
-### #is_/same_as :: [Cube_(film_series).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Cube_(film_series).secret|Cube_(film_series).secret]] 
 

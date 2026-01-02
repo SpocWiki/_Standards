@@ -55,3 +55,22 @@ for [[../../../Continent/Europe/Europe~Central/Germany/Germany~West/Hessen/count
 > [Wikipedia](https://en.wikipedia.org/wiki/Wind%20engineering) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Wind/Wind_Engineering|Wind_Engineering]] 
+
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Wind/Wind_Engineering.public|Wind_Engineering.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Wind/Wind_Engineering.internal|Wind_Engineering.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Wind/Wind_Engineering.protect|Wind_Engineering.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Wind/Wind_Engineering.private|Wind_Engineering.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Wind/Wind_Engineering.personal|Wind_Engineering.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Wind/Wind_Engineering.secret|Wind_Engineering.secret]] 
+

@@ -91,17 +91,17 @@ A mosque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mosque](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque|Mosque]] 
 
-### #is_/same_as :: [Mosque.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.public|Mosque.public]] 
 
-### #is_/same_as :: [Mosque.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.internal|Mosque.internal]] 
 
-### #is_/same_as :: [Mosque.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.protect|Mosque.protect]] 
 
-### #is_/same_as :: [Mosque.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]] 
 
-### #is_/same_as :: [Mosque.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]] 
 
-### #is_/same_as :: [Mosque.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]] 
 

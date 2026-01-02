@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Telychian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian|Age~3~Telychian]] 
 
-### #is_/same_as :: [Age~3~Telychian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.public|Age~3~Telychian.public]] 
 
-### #is_/same_as :: [Age~3~Telychian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.internal|Age~3~Telychian.internal]] 
 
-### #is_/same_as :: [Age~3~Telychian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.protect|Age~3~Telychian.protect]] 
 
-### #is_/same_as :: [Age~3~Telychian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.private|Age~3~Telychian.private]] 
 
-### #is_/same_as :: [Age~3~Telychian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.personal|Age~3~Telychian.personal]] 
 
-### #is_/same_as :: [Age~3~Telychian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~3~Silurian/Epoch~1~Llandovery/Age~3~Telychian.secret|Age~3~Telychian.secret]] 
 

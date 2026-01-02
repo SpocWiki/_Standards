@@ -37,17 +37,17 @@ Commons_category: Applied ethics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Applied_Ethics](/_Standards/Philosophy/Ethics/Applied_Ethics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Applied_Ethics|Applied_Ethics]] 
 
-### #is_/same_as :: [Applied_Ethics.public](/_public/Philosophy/Ethics/Applied_Ethics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Applied_Ethics.public|Applied_Ethics.public]] 
 
-### #is_/same_as :: [Applied_Ethics.internal](/_internal/Philosophy/Ethics/Applied_Ethics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Applied_Ethics.internal|Applied_Ethics.internal]] 
 
-### #is_/same_as :: [Applied_Ethics.protect](/_protect/Philosophy/Ethics/Applied_Ethics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Applied_Ethics.protect|Applied_Ethics.protect]] 
 
-### #is_/same_as :: [Applied_Ethics.private](/_private/Philosophy/Ethics/Applied_Ethics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Applied_Ethics.private|Applied_Ethics.private]] 
 
-### #is_/same_as :: [Applied_Ethics.personal](/_personal/Philosophy/Ethics/Applied_Ethics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Applied_Ethics.personal|Applied_Ethics.personal]] 
 
-### #is_/same_as :: [Applied_Ethics.secret](/_secret/Philosophy/Ethics/Applied_Ethics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Applied_Ethics.secret|Applied_Ethics.secret]] 
 

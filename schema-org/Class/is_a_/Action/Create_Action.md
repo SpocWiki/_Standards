@@ -43,17 +43,17 @@ The act of deliberately creating/producing/generating/building a result out of t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Create_Action](/_Standards/schema-org/Class/is_a_/Action/Create_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Create_Action|Create_Action]] 
 
-### #is_/same_as :: [Create_Action.public](/_public/schema-org/Class/is_a_/Action/Create_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Create_Action.public|Create_Action.public]] 
 
-### #is_/same_as :: [Create_Action.internal](/_internal/schema-org/Class/is_a_/Action/Create_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Create_Action.internal|Create_Action.internal]] 
 
-### #is_/same_as :: [Create_Action.protect](/_protect/schema-org/Class/is_a_/Action/Create_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Create_Action.protect|Create_Action.protect]] 
 
-### #is_/same_as :: [Create_Action.private](/_private/schema-org/Class/is_a_/Action/Create_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Create_Action.private|Create_Action.private]] 
 
-### #is_/same_as :: [Create_Action.personal](/_personal/schema-org/Class/is_a_/Action/Create_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Create_Action.personal|Create_Action.personal]] 
 
-### #is_/same_as :: [Create_Action.secret](/_secret/schema-org/Class/is_a_/Action/Create_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Create_Action.secret|Create_Action.secret]] 
 

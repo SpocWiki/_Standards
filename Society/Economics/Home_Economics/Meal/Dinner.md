@@ -41,17 +41,17 @@ subreddit: tonightsdinner
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dinner](/_Standards/Society/Economics/Home_Economics/Meal/Dinner.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Meal/Dinner|Dinner]] 
 
-### #is_/same_as :: [Dinner.public](/_public/Society/Economics/Home_Economics/Meal/Dinner.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Meal/Dinner.public|Dinner.public]] 
 
-### #is_/same_as :: [Dinner.internal](/_internal/Society/Economics/Home_Economics/Meal/Dinner.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Meal/Dinner.internal|Dinner.internal]] 
 
-### #is_/same_as :: [Dinner.protect](/_protect/Society/Economics/Home_Economics/Meal/Dinner.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Meal/Dinner.protect|Dinner.protect]] 
 
-### #is_/same_as :: [Dinner.private](/_private/Society/Economics/Home_Economics/Meal/Dinner.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Meal/Dinner.private|Dinner.private]] 
 
-### #is_/same_as :: [Dinner.personal](/_personal/Society/Economics/Home_Economics/Meal/Dinner.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Meal/Dinner.personal|Dinner.personal]] 
 
-### #is_/same_as :: [Dinner.secret](/_secret/Society/Economics/Home_Economics/Meal/Dinner.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Meal/Dinner.secret|Dinner.secret]] 
 

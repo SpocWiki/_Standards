@@ -51,17 +51,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization|Unrepresented_Nations_and_Peoples_Organization]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.public](/_public/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.public|Unrepresented_Nations_and_Peoples_Organization.public]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.internal|Unrepresented_Nations_and_Peoples_Organization.internal]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.protect|Unrepresented_Nations_and_Peoples_Organization.protect]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.private](/_private/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.private|Unrepresented_Nations_and_Peoples_Organization.private]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.personal|Unrepresented_Nations_and_Peoples_Organization.personal]] 
 
-### #is_/same_as :: [Unrepresented_Nations_and_Peoples_Organization.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Unrepresented_Nations_and_Peoples_Organization.secret|Unrepresented_Nations_and_Peoples_Organization.secret]] 
 

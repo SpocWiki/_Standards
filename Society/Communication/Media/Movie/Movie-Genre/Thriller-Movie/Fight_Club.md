@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fight_Club](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club|Fight_Club]] 
 
-### #is_/same_as :: [Fight_Club.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.public|Fight_Club.public]] 
 
-### #is_/same_as :: [Fight_Club.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.internal|Fight_Club.internal]] 
 
-### #is_/same_as :: [Fight_Club.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.protect|Fight_Club.protect]] 
 
-### #is_/same_as :: [Fight_Club.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.private|Fight_Club.private]] 
 
-### #is_/same_as :: [Fight_Club.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.personal|Fight_Club.personal]] 
 
-### #is_/same_as :: [Fight_Club.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fight_Club.secret|Fight_Club.secret]] 
 

@@ -70,17 +70,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_gtin](/_Standards/schema-org/Property/has_name/has_gtin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_gtin|has_gtin]] 
 
-### #is_/same_as :: [has_gtin.public](/_public/schema-org/Property/has_name/has_gtin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_gtin.public|has_gtin.public]] 
 
-### #is_/same_as :: [has_gtin.internal](/_internal/schema-org/Property/has_name/has_gtin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_gtin.internal|has_gtin.internal]] 
 
-### #is_/same_as :: [has_gtin.protect](/_protect/schema-org/Property/has_name/has_gtin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_gtin.protect|has_gtin.protect]] 
 
-### #is_/same_as :: [has_gtin.private](/_private/schema-org/Property/has_name/has_gtin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_gtin.private|has_gtin.private]] 
 
-### #is_/same_as :: [has_gtin.personal](/_personal/schema-org/Property/has_name/has_gtin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_gtin.personal|has_gtin.personal]] 
 
-### #is_/same_as :: [has_gtin.secret](/_secret/schema-org/Property/has_name/has_gtin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_gtin.secret|has_gtin.secret]] 
 

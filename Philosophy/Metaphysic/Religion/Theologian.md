@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theologian](/_Standards/Philosophy/Metaphysic/Religion/Theologian.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Theologian|Theologian]] 
 
-### #is_/same_as :: [Theologian.public](/_public/Philosophy/Metaphysic/Religion/Theologian.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Theologian.public|Theologian.public]] 
 
-### #is_/same_as :: [Theologian.internal](/_internal/Philosophy/Metaphysic/Religion/Theologian.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Theologian.internal|Theologian.internal]] 
 
-### #is_/same_as :: [Theologian.protect](/_protect/Philosophy/Metaphysic/Religion/Theologian.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Theologian.protect|Theologian.protect]] 
 
-### #is_/same_as :: [Theologian.private](/_private/Philosophy/Metaphysic/Religion/Theologian.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Theologian.private|Theologian.private]] 
 
-### #is_/same_as :: [Theologian.personal](/_personal/Philosophy/Metaphysic/Religion/Theologian.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Theologian.personal|Theologian.personal]] 
 
-### #is_/same_as :: [Theologian.secret](/_secret/Philosophy/Metaphysic/Religion/Theologian.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Theologian.secret|Theologian.secret]] 
 

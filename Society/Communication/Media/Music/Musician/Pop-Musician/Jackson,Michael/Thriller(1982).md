@@ -65,17 +65,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thriller(1982)](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982)|Thriller(1982)]] 
 
-### #is_/same_as :: [Thriller(1982).public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).public|Thriller(1982).public]] 
 
-### #is_/same_as :: [Thriller(1982).internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).internal|Thriller(1982).internal]] 
 
-### #is_/same_as :: [Thriller(1982).protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).protect|Thriller(1982).protect]] 
 
-### #is_/same_as :: [Thriller(1982).private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).private|Thriller(1982).private]] 
 
-### #is_/same_as :: [Thriller(1982).personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).personal|Thriller(1982).personal]] 
 
-### #is_/same_as :: [Thriller(1982).secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Jackson,Michael/Thriller(1982).secret|Thriller(1982).secret]] 
 

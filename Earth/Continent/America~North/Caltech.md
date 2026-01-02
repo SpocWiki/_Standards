@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caltech](/_Standards/Earth/Continent/America~North/Caltech.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Caltech|Caltech]] 
 
-### #is_/same_as :: [Caltech.public](/_public/Earth/Continent/America~North/Caltech.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Caltech.public|Caltech.public]] 
 
-### #is_/same_as :: [Caltech.internal](/_internal/Earth/Continent/America~North/Caltech.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Caltech.internal|Caltech.internal]] 
 
-### #is_/same_as :: [Caltech.protect](/_protect/Earth/Continent/America~North/Caltech.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Caltech.protect|Caltech.protect]] 
 
-### #is_/same_as :: [Caltech.private](/_private/Earth/Continent/America~North/Caltech.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Caltech.private|Caltech.private]] 
 
-### #is_/same_as :: [Caltech.personal](/_personal/Earth/Continent/America~North/Caltech.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Caltech.personal|Caltech.personal]] 
 
-### #is_/same_as :: [Caltech.secret](/_secret/Earth/Continent/America~North/Caltech.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Caltech.secret|Caltech.secret]] 
 

@@ -79,17 +79,17 @@ VolumeNumber:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PublicationVolume](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume|FileClass~PublicationVolume]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.public|FileClass~PublicationVolume.public]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.internal|FileClass~PublicationVolume.internal]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.protect|FileClass~PublicationVolume.protect]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.private|FileClass~PublicationVolume.private]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.personal|FileClass~PublicationVolume.personal]] 
 
-### #is_/same_as :: [FileClass~PublicationVolume.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~PublicationVolume.secret|FileClass~PublicationVolume.secret]] 
 

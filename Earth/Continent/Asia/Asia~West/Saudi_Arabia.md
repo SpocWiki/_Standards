@@ -551,17 +551,17 @@ Capital :: [[Saudi_Arabia/Counties/Ar_Riyad/City/Riyadh=Er_Riad]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saudi_Arabia](/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Saudi_Arabia|Saudi_Arabia]] 
 
-### #is_/same_as :: [Saudi_Arabia.public](/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Saudi_Arabia.public|Saudi_Arabia.public]] 
 
-### #is_/same_as :: [Saudi_Arabia.internal](/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.internal|Saudi_Arabia.internal]] 
 
-### #is_/same_as :: [Saudi_Arabia.protect](/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Saudi_Arabia.protect|Saudi_Arabia.protect]] 
 
-### #is_/same_as :: [Saudi_Arabia.private](/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Saudi_Arabia.private|Saudi_Arabia.private]] 
 
-### #is_/same_as :: [Saudi_Arabia.personal](/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Saudi_Arabia.personal|Saudi_Arabia.personal]] 
 
-### #is_/same_as :: [Saudi_Arabia.secret](/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Saudi_Arabia.secret|Saudi_Arabia.secret]] 
 

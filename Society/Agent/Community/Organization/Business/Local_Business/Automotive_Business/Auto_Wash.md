@@ -41,17 +41,17 @@ A car wash business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Auto_Wash](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash|Auto_Wash]] 
 
-### #is_/same_as :: [Auto_Wash.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.public|Auto_Wash.public]] 
 
-### #is_/same_as :: [Auto_Wash.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.internal|Auto_Wash.internal]] 
 
-### #is_/same_as :: [Auto_Wash.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.protect|Auto_Wash.protect]] 
 
-### #is_/same_as :: [Auto_Wash.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.private|Auto_Wash.private]] 
 
-### #is_/same_as :: [Auto_Wash.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.personal|Auto_Wash.personal]] 
 
-### #is_/same_as :: [Auto_Wash.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Wash.secret|Auto_Wash.secret]] 
 

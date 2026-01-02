@@ -35,17 +35,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Sunny%20day%20on%20V%C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cumulus](/_Standards/Earth/Climate/Weather/Cloud/Cumulus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Cloud/Cumulus|Cumulus]] 
 
-### #is_/same_as :: [Cumulus.public](/_public/Earth/Climate/Weather/Cloud/Cumulus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Cloud/Cumulus.public|Cumulus.public]] 
 
-### #is_/same_as :: [Cumulus.internal](/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Cloud/Cumulus.internal|Cumulus.internal]] 
 
-### #is_/same_as :: [Cumulus.protect](/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Cloud/Cumulus.protect|Cumulus.protect]] 
 
-### #is_/same_as :: [Cumulus.private](/_private/Earth/Climate/Weather/Cloud/Cumulus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Cloud/Cumulus.private|Cumulus.private]] 
 
-### #is_/same_as :: [Cumulus.personal](/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Cloud/Cumulus.personal|Cumulus.personal]] 
 
-### #is_/same_as :: [Cumulus.secret](/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Cloud/Cumulus.secret|Cumulus.secret]] 
 

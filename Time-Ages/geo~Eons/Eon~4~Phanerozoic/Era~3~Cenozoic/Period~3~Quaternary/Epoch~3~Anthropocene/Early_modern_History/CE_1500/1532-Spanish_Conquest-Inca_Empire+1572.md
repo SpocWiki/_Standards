@@ -94,17 +94,17 @@ coordinate_location: Point(-71.983333 -13.522222)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572|1532-Spanish_Conquest-Inca_Empire+1572]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.public|1532-Spanish_Conquest-Inca_Empire+1572.public]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.internal|1532-Spanish_Conquest-Inca_Empire+1572.internal]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.protect|1532-Spanish_Conquest-Inca_Empire+1572.protect]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.private|1532-Spanish_Conquest-Inca_Empire+1572.private]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.personal|1532-Spanish_Conquest-Inca_Empire+1572.personal]] 
 
-### #is_/same_as :: [1532-Spanish_Conquest-Inca_Empire+1572.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1500/1532-Spanish_Conquest-Inca_Empire+1572.secret|1532-Spanish_Conquest-Inca_Empire+1572.secret]] 
 

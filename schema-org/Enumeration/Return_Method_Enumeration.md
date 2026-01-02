@@ -41,17 +41,17 @@ Enumerates several types of product return methods.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Return_Method_Enumeration](/_Standards/schema-org/Enumeration/Return_Method_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Method_Enumeration|Return_Method_Enumeration]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.public](/_public/schema-org/Enumeration/Return_Method_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Method_Enumeration.public|Return_Method_Enumeration.public]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.internal](/_internal/schema-org/Enumeration/Return_Method_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Method_Enumeration.internal|Return_Method_Enumeration.internal]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.protect](/_protect/schema-org/Enumeration/Return_Method_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Method_Enumeration.protect|Return_Method_Enumeration.protect]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.private](/_private/schema-org/Enumeration/Return_Method_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Method_Enumeration.private|Return_Method_Enumeration.private]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.personal](/_personal/schema-org/Enumeration/Return_Method_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Method_Enumeration.personal|Return_Method_Enumeration.personal]] 
 
-### #is_/same_as :: [Return_Method_Enumeration.secret](/_secret/schema-org/Enumeration/Return_Method_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Method_Enumeration.secret|Return_Method_Enumeration.secret]] 
 

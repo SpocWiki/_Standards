@@ -442,17 +442,17 @@ Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cape_Verde](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde|Cape_Verde]] 
 
-### #is_/same_as :: [Cape_Verde.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public|Cape_Verde.public]] 
 
-### #is_/same_as :: [Cape_Verde.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]] 
 
-### #is_/same_as :: [Cape_Verde.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde.protect|Cape_Verde.protect]] 
 
-### #is_/same_as :: [Cape_Verde.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]] 
 
-### #is_/same_as :: [Cape_Verde.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]] 
 
-### #is_/same_as :: [Cape_Verde.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]] 
 

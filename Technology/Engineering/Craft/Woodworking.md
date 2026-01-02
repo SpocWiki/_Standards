@@ -49,17 +49,17 @@ Dewey_Decimal_Classification: 684.08
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Woodworking](/_Standards/Technology/Engineering/Craft/Woodworking.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Craft/Woodworking|Woodworking]] 
 
-### #is_/same_as :: [Woodworking.public](/_public/Technology/Engineering/Craft/Woodworking.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Craft/Woodworking.public|Woodworking.public]] 
 
-### #is_/same_as :: [Woodworking.internal](/_internal/Technology/Engineering/Craft/Woodworking.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Craft/Woodworking.internal|Woodworking.internal]] 
 
-### #is_/same_as :: [Woodworking.protect](/_protect/Technology/Engineering/Craft/Woodworking.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Craft/Woodworking.protect|Woodworking.protect]] 
 
-### #is_/same_as :: [Woodworking.private](/_private/Technology/Engineering/Craft/Woodworking.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Craft/Woodworking.private|Woodworking.private]] 
 
-### #is_/same_as :: [Woodworking.personal](/_personal/Technology/Engineering/Craft/Woodworking.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Craft/Woodworking.personal|Woodworking.personal]] 
 
-### #is_/same_as :: [Woodworking.secret](/_secret/Technology/Engineering/Craft/Woodworking.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Craft/Woodworking.secret|Woodworking.secret]] 
 

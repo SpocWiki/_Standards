@@ -65,17 +65,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Time%20Lapse%20Pregnan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pregnancy](/_Standards/bio/Reproduction/Pregnancy.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Pregnancy|Pregnancy]] 
 
-### #is_/same_as :: [Pregnancy.public](/_public/bio/Reproduction/Pregnancy.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Pregnancy.public|Pregnancy.public]] 
 
-### #is_/same_as :: [Pregnancy.internal](/_internal/bio/Reproduction/Pregnancy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Pregnancy.internal|Pregnancy.internal]] 
 
-### #is_/same_as :: [Pregnancy.protect](/_protect/bio/Reproduction/Pregnancy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Pregnancy.protect|Pregnancy.protect]] 
 
-### #is_/same_as :: [Pregnancy.private](/_private/bio/Reproduction/Pregnancy.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Pregnancy.private|Pregnancy.private]] 
 
-### #is_/same_as :: [Pregnancy.personal](/_personal/bio/Reproduction/Pregnancy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Pregnancy.personal|Pregnancy.personal]] 
 
-### #is_/same_as :: [Pregnancy.secret](/_secret/bio/Reproduction/Pregnancy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Pregnancy.secret|Pregnancy.secret]] 
 

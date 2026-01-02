@@ -28,17 +28,17 @@ Commons_category: History of the Balkans
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_the_Balkans](/_Standards/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/History_of_the_Balkans|History_of_the_Balkans]] 
 
-### #is_/same_as :: [History_of_the_Balkans.public](/_public/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.public|History_of_the_Balkans.public]] 
 
-### #is_/same_as :: [History_of_the_Balkans.internal](/_internal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.internal|History_of_the_Balkans.internal]] 
 
-### #is_/same_as :: [History_of_the_Balkans.protect](/_protect/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.protect|History_of_the_Balkans.protect]] 
 
-### #is_/same_as :: [History_of_the_Balkans.private](/_private/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.private|History_of_the_Balkans.private]] 
 
-### #is_/same_as :: [History_of_the_Balkans.personal](/_personal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.personal|History_of_the_Balkans.personal]] 
 
-### #is_/same_as :: [History_of_the_Balkans.secret](/_secret/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/History_of_the_Balkans.secret|History_of_the_Balkans.secret]] 
 

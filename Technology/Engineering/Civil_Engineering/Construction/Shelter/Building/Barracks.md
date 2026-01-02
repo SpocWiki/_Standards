@@ -64,17 +64,17 @@ OpenStreetMap_tag_or_key: Tag:military=barracks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barracks](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks|Barracks]] 
 
-### #is_/same_as :: [Barracks.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.public|Barracks.public]] 
 
-### #is_/same_as :: [Barracks.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.internal|Barracks.internal]] 
 
-### #is_/same_as :: [Barracks.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.protect|Barracks.protect]] 
 
-### #is_/same_as :: [Barracks.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.private|Barracks.private]] 
 
-### #is_/same_as :: [Barracks.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.personal|Barracks.personal]] 
 
-### #is_/same_as :: [Barracks.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Barracks.secret|Barracks.secret]] 
 

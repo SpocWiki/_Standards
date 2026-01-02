@@ -69,36 +69,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chloride](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride|Chloride]] 
 
-### #is_/same_as :: [Chloride.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.public|Chloride.public]] 
 
-### #is_/same_as :: [Chloride.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.internal|Chloride.internal]] 
 
-### #is_/same_as :: [Chloride.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.protect|Chloride.protect]] 
 
-### #is_/same_as :: [Chloride.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.private|Chloride.private]] 
 
-### #is_/same_as :: [Chloride.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.personal|Chloride.personal]] 
 
-### #is_/same_as :: [Chloride.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Chloride.secret|Chloride.secret]] 
 
-
-# [[Chloride]] 
-
-#is_/part_of :: [[Chloride]] 
-
-![[Chloride.svg]]
-
- 
-
-## Embedded Graph 
-
-![[Chloride.svg]] 
-
-
-%%
-## Drawing
-```compressed-json
-N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
-```

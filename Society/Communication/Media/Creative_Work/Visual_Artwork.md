@@ -43,17 +43,17 @@ A work of art that is primarily visual in character.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Visual_Artwork](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork|Visual_Artwork]] 
 
-### #is_/same_as :: [Visual_Artwork.public](/_public/Society/Communication/Media/Creative_Work/Visual_Artwork.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Visual_Artwork.public|Visual_Artwork.public]] 
 
-### #is_/same_as :: [Visual_Artwork.internal](/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork.internal|Visual_Artwork.internal]] 
 
-### #is_/same_as :: [Visual_Artwork.protect](/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork.protect|Visual_Artwork.protect]] 
 
-### #is_/same_as :: [Visual_Artwork.private](/_private/Society/Communication/Media/Creative_Work/Visual_Artwork.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Visual_Artwork.private|Visual_Artwork.private]] 
 
-### #is_/same_as :: [Visual_Artwork.personal](/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork.personal|Visual_Artwork.personal]] 
 
-### #is_/same_as :: [Visual_Artwork.secret](/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork.secret|Visual_Artwork.secret]] 
 

@@ -16,17 +16,17 @@ Svoboda composed TV scores for the German channel [ZDF](https://en.wikipedia.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Svoboda,Karel](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel|Svoboda,Karel]] 
 
-### #is_/same_as :: [Svoboda,Karel.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.public|Svoboda,Karel.public]] 
 
-### #is_/same_as :: [Svoboda,Karel.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.internal|Svoboda,Karel.internal]] 
 
-### #is_/same_as :: [Svoboda,Karel.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.protect|Svoboda,Karel.protect]] 
 
-### #is_/same_as :: [Svoboda,Karel.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.private|Svoboda,Karel.private]] 
 
-### #is_/same_as :: [Svoboda,Karel.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.personal|Svoboda,Karel.personal]] 
 
-### #is_/same_as :: [Svoboda,Karel.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Svoboda,Karel.secret|Svoboda,Karel.secret]] 
 

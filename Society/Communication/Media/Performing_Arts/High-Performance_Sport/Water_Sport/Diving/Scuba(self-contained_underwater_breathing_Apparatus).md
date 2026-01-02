@@ -39,3 +39,22 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/EL54p.jpg
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Scuba%20set) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus)|Scuba(self-contained_underwater_breathing_Apparatus)]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).public|Scuba(self-contained_underwater_breathing_Apparatus).public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).internal|Scuba(self-contained_underwater_breathing_Apparatus).internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).protect|Scuba(self-contained_underwater_breathing_Apparatus).protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).private|Scuba(self-contained_underwater_breathing_Apparatus).private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).personal|Scuba(self-contained_underwater_breathing_Apparatus).personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving/Scuba(self-contained_underwater_breathing_Apparatus).secret|Scuba(self-contained_underwater_breathing_Apparatus).secret]] 
+

@@ -33,17 +33,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,Gerald](/_Standards/Earth/Continent/America~North/US~President/Ford,Gerald.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Ford,Gerald|Ford,Gerald]] 
 
-### #is_/same_as :: [Ford,Gerald.public](/_public/Earth/Continent/America~North/US~President/Ford,Gerald.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Ford,Gerald.public|Ford,Gerald.public]] 
 
-### #is_/same_as :: [Ford,Gerald.internal](/_internal/Earth/Continent/America~North/US~President/Ford,Gerald.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Ford,Gerald.internal|Ford,Gerald.internal]] 
 
-### #is_/same_as :: [Ford,Gerald.protect](/_protect/Earth/Continent/America~North/US~President/Ford,Gerald.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Ford,Gerald.protect|Ford,Gerald.protect]] 
 
-### #is_/same_as :: [Ford,Gerald.private](/_private/Earth/Continent/America~North/US~President/Ford,Gerald.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Ford,Gerald.private|Ford,Gerald.private]] 
 
-### #is_/same_as :: [Ford,Gerald.personal](/_personal/Earth/Continent/America~North/US~President/Ford,Gerald.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Ford,Gerald.personal|Ford,Gerald.personal]] 
 
-### #is_/same_as :: [Ford,Gerald.secret](/_secret/Earth/Continent/America~North/US~President/Ford,Gerald.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Ford,Gerald.secret|Ford,Gerald.secret]] 
 

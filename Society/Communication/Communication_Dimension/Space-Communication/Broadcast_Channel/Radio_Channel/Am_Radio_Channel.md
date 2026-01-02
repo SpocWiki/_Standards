@@ -41,17 +41,17 @@ A radio channel that uses AM.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Am_Radio_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel|Am_Radio_Channel]] 
 
-### #is_/same_as :: [Am_Radio_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.public|Am_Radio_Channel.public]] 
 
-### #is_/same_as :: [Am_Radio_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.internal|Am_Radio_Channel.internal]] 
 
-### #is_/same_as :: [Am_Radio_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.protect|Am_Radio_Channel.protect]] 
 
-### #is_/same_as :: [Am_Radio_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.private|Am_Radio_Channel.private]] 
 
-### #is_/same_as :: [Am_Radio_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.personal|Am_Radio_Channel.personal]] 
 
-### #is_/same_as :: [Am_Radio_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Am_Radio_Channel.secret|Am_Radio_Channel.secret]] 
 

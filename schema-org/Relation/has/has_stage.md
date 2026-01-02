@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_stage](/_Standards/schema-org/Relation/has/has_stage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_stage|has_stage]] 
 
-### #is_/same_as :: [has_stage.public](/_public/schema-org/Relation/has/has_stage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_stage.public|has_stage.public]] 
 
-### #is_/same_as :: [has_stage.internal](/_internal/schema-org/Relation/has/has_stage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_stage.internal|has_stage.internal]] 
 
-### #is_/same_as :: [has_stage.protect](/_protect/schema-org/Relation/has/has_stage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_stage.protect|has_stage.protect]] 
 
-### #is_/same_as :: [has_stage.private](/_private/schema-org/Relation/has/has_stage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_stage.private|has_stage.private]] 
 
-### #is_/same_as :: [has_stage.personal](/_personal/schema-org/Relation/has/has_stage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_stage.personal|has_stage.personal]] 
 
-### #is_/same_as :: [has_stage.secret](/_secret/schema-org/Relation/has/has_stage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_stage.secret|has_stage.secret]] 
 

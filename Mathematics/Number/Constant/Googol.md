@@ -52,17 +52,17 @@ name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Googol](/_Standards/Mathematics/Number/Constant/Googol.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number/Constant/Googol|Googol]] 
 
-### #is_/same_as :: [Googol.public](/_public/Mathematics/Number/Constant/Googol.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number/Constant/Googol.public|Googol.public]] 
 
-### #is_/same_as :: [Googol.internal](/_internal/Mathematics/Number/Constant/Googol.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number/Constant/Googol.internal|Googol.internal]] 
 
-### #is_/same_as :: [Googol.protect](/_protect/Mathematics/Number/Constant/Googol.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number/Constant/Googol.protect|Googol.protect]] 
 
-### #is_/same_as :: [Googol.private](/_private/Mathematics/Number/Constant/Googol.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number/Constant/Googol.private|Googol.private]] 
 
-### #is_/same_as :: [Googol.personal](/_personal/Mathematics/Number/Constant/Googol.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number/Constant/Googol.personal|Googol.personal]] 
 
-### #is_/same_as :: [Googol.secret](/_secret/Mathematics/Number/Constant/Googol.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number/Constant/Googol.secret|Googol.secret]] 
 

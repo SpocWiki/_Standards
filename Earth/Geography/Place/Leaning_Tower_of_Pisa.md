@@ -142,17 +142,17 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/Torre%20di%20pi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa](/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Leaning_Tower_of_Pisa|Leaning_Tower_of_Pisa]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.public](/_public/Earth/Geography/Place/Leaning_Tower_of_Pisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Leaning_Tower_of_Pisa.public|Leaning_Tower_of_Pisa.public]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.internal](/_internal/Earth/Geography/Place/Leaning_Tower_of_Pisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Leaning_Tower_of_Pisa.internal|Leaning_Tower_of_Pisa.internal]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.protect](/_protect/Earth/Geography/Place/Leaning_Tower_of_Pisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Leaning_Tower_of_Pisa.protect|Leaning_Tower_of_Pisa.protect]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.private](/_private/Earth/Geography/Place/Leaning_Tower_of_Pisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Leaning_Tower_of_Pisa.private|Leaning_Tower_of_Pisa.private]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.personal](/_personal/Earth/Geography/Place/Leaning_Tower_of_Pisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Leaning_Tower_of_Pisa.personal|Leaning_Tower_of_Pisa.personal]] 
 
-### #is_/same_as :: [Leaning_Tower_of_Pisa.secret](/_secret/Earth/Geography/Place/Leaning_Tower_of_Pisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Leaning_Tower_of_Pisa.secret|Leaning_Tower_of_Pisa.secret]] 
 

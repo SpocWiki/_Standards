@@ -47,17 +47,17 @@ UNSPSC_Code: 12352002
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alkene](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene|Alkene]] 
 
-### #is_/same_as :: [Alkene.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.public|Alkene.public]] 
 
-### #is_/same_as :: [Alkene.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.internal|Alkene.internal]] 
 
-### #is_/same_as :: [Alkene.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.protect|Alkene.protect]] 
 
-### #is_/same_as :: [Alkene.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.private|Alkene.private]] 
 
-### #is_/same_as :: [Alkene.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.personal|Alkene.personal]] 
 
-### #is_/same_as :: [Alkene.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene.secret|Alkene.secret]] 
 

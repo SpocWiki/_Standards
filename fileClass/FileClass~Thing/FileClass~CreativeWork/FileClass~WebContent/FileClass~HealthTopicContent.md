@@ -42,17 +42,17 @@ HasHealthAspect:: {"type":"Select","options":{"valuesList":{"AllergiesHealthAspe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HealthTopicContent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent|FileClass~HealthTopicContent]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.public|FileClass~HealthTopicContent.public]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.internal|FileClass~HealthTopicContent.internal]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.protect|FileClass~HealthTopicContent.protect]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.private|FileClass~HealthTopicContent.private]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.personal|FileClass~HealthTopicContent.personal]] 
 
-### #is_/same_as :: [FileClass~HealthTopicContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent/FileClass~HealthTopicContent.secret|FileClass~HealthTopicContent.secret]] 
 

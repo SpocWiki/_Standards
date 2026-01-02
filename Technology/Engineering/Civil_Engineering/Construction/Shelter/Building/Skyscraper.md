@@ -60,17 +60,17 @@ Commons_category: Skyscrapers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skyscraper](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper|Skyscraper]] 
 
-### #is_/same_as :: [Skyscraper.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.public|Skyscraper.public]] 
 
-### #is_/same_as :: [Skyscraper.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.internal|Skyscraper.internal]] 
 
-### #is_/same_as :: [Skyscraper.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.protect|Skyscraper.protect]] 
 
-### #is_/same_as :: [Skyscraper.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.private|Skyscraper.private]] 
 
-### #is_/same_as :: [Skyscraper.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.personal|Skyscraper.personal]] 
 
-### #is_/same_as :: [Skyscraper.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Skyscraper.secret|Skyscraper.secret]] 
 

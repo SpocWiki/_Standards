@@ -80,17 +80,17 @@ OpenStreetMap_tag_or_key: Tag:landform=dune_system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dune](/_Standards/Earth/Geology/Landform/Dune.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Dune|Dune]] 
 
-### #is_/same_as :: [Dune.public](/_public/Earth/Geology/Landform/Dune.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Dune.public|Dune.public]] 
 
-### #is_/same_as :: [Dune.internal](/_internal/Earth/Geology/Landform/Dune.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Dune.internal|Dune.internal]] 
 
-### #is_/same_as :: [Dune.protect](/_protect/Earth/Geology/Landform/Dune.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Dune.protect|Dune.protect]] 
 
-### #is_/same_as :: [Dune.private](/_private/Earth/Geology/Landform/Dune.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Dune.private|Dune.private]] 
 
-### #is_/same_as :: [Dune.personal](/_personal/Earth/Geology/Landform/Dune.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Dune.personal|Dune.personal]] 
 
-### #is_/same_as :: [Dune.secret](/_secret/Earth/Geology/Landform/Dune.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Dune.secret|Dune.secret]] 
 

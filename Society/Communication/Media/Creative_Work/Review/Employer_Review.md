@@ -43,17 +43,17 @@ An [[EmployerReview]] is a review of an [[../../../../Agent/Community/Organizati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Employer_Review](/_Standards/Society/Communication/Media/Creative_Work/Review/Employer_Review.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review/Employer_Review|Employer_Review]] 
 
-### #is_/same_as :: [Employer_Review.public](/_public/Society/Communication/Media/Creative_Work/Review/Employer_Review.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review/Employer_Review.public|Employer_Review.public]] 
 
-### #is_/same_as :: [Employer_Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review/Employer_Review.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review/Employer_Review.internal|Employer_Review.internal]] 
 
-### #is_/same_as :: [Employer_Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review/Employer_Review.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review/Employer_Review.protect|Employer_Review.protect]] 
 
-### #is_/same_as :: [Employer_Review.private](/_private/Society/Communication/Media/Creative_Work/Review/Employer_Review.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review/Employer_Review.private|Employer_Review.private]] 
 
-### #is_/same_as :: [Employer_Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review/Employer_Review.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review/Employer_Review.personal|Employer_Review.personal]] 
 
-### #is_/same_as :: [Employer_Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review/Employer_Review.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review/Employer_Review.secret|Employer_Review.secret]] 
 

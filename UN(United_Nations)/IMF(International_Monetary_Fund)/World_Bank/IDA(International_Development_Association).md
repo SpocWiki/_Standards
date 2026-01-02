@@ -64,17 +64,17 @@ X_Twitter_username: wbg_ida
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IDA(International_Development_Association)](/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association)|IDA(International_Development_Association)]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).public](/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).public|IDA(International_Development_Association).public]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).internal](/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).internal|IDA(International_Development_Association).internal]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).protect](/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).protect|IDA(International_Development_Association).protect]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).private](/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).private|IDA(International_Development_Association).private]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).personal](/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).personal|IDA(International_Development_Association).personal]] 
 
-### #is_/same_as :: [IDA(International_Development_Association).secret](/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/IMF(International_Monetary_Fund)/World_Bank/IDA(International_Development_Association).secret|IDA(International_Development_Association).secret]] 
 

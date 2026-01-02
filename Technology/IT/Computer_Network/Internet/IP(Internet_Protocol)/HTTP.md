@@ -91,17 +91,17 @@ Mozilla_Developer_Network_article:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [HTTP](/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP|HTTP]] 
 
-### #is_/same_as :: [HTTP.public](/_public/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.public|HTTP.public]] 
 
-### #is_/same_as :: [HTTP.internal](/_internal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.internal|HTTP.internal]] 
 
-### #is_/same_as :: [HTTP.protect](/_protect/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.protect|HTTP.protect]] 
 
-### #is_/same_as :: [HTTP.private](/_private/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.private|HTTP.private]] 
 
-### #is_/same_as :: [HTTP.personal](/_personal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.personal|HTTP.personal]] 
 
-### #is_/same_as :: [HTTP.secret](/_secret/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/IP(Internet_Protocol)/HTTP.secret|HTTP.secret]] 
 

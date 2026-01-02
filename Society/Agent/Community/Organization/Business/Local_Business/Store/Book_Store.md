@@ -41,17 +41,17 @@ A bookstore.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Book_Store](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store|Book_Store]] 
 
-### #is_/same_as :: [Book_Store.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.public|Book_Store.public]] 
 
-### #is_/same_as :: [Book_Store.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.internal|Book_Store.internal]] 
 
-### #is_/same_as :: [Book_Store.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.protect|Book_Store.protect]] 
 
-### #is_/same_as :: [Book_Store.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.private|Book_Store.private]] 
 
-### #is_/same_as :: [Book_Store.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.personal|Book_Store.personal]] 
 
-### #is_/same_as :: [Book_Store.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Store/Book_Store.secret|Book_Store.secret]] 
 

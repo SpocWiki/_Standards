@@ -84,17 +84,17 @@ Commons_category: UEFA European Championship
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UEFA_European_Championship](/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship|UEFA_European_Championship]] 
 
-### #is_/same_as :: [UEFA_European_Championship.public](/_public/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.public|UEFA_European_Championship.public]] 
 
-### #is_/same_as :: [UEFA_European_Championship.internal](/_internal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.internal|UEFA_European_Championship.internal]] 
 
-### #is_/same_as :: [UEFA_European_Championship.protect](/_protect/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.protect|UEFA_European_Championship.protect]] 
 
-### #is_/same_as :: [UEFA_European_Championship.private](/_private/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.private|UEFA_European_Championship.private]] 
 
-### #is_/same_as :: [UEFA_European_Championship.personal](/_personal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.personal|UEFA_European_Championship.personal]] 
 
-### #is_/same_as :: [UEFA_European_Championship.secret](/_secret/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Sports_Organization/UEFA/UEFA_European_Championship.secret|UEFA_European_Championship.secret]] 
 

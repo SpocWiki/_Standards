@@ -64,17 +64,17 @@ date_of_birth: 1909-08-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fender,Leo](/_Standards/Science/Inventor/Fender,Leo.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Fender,Leo|Fender,Leo]] 
 
-### #is_/same_as :: [Fender,Leo.public](/_public/Science/Inventor/Fender,Leo.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Fender,Leo.public|Fender,Leo.public]] 
 
-### #is_/same_as :: [Fender,Leo.internal](/_internal/Science/Inventor/Fender,Leo.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Fender,Leo.internal|Fender,Leo.internal]] 
 
-### #is_/same_as :: [Fender,Leo.protect](/_protect/Science/Inventor/Fender,Leo.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Fender,Leo.protect|Fender,Leo.protect]] 
 
-### #is_/same_as :: [Fender,Leo.private](/_private/Science/Inventor/Fender,Leo.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Fender,Leo.private|Fender,Leo.private]] 
 
-### #is_/same_as :: [Fender,Leo.personal](/_personal/Science/Inventor/Fender,Leo.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Fender,Leo.personal|Fender,Leo.personal]] 
 
-### #is_/same_as :: [Fender,Leo.secret](/_secret/Science/Inventor/Fender,Leo.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Fender,Leo.secret|Fender,Leo.secret]] 
 

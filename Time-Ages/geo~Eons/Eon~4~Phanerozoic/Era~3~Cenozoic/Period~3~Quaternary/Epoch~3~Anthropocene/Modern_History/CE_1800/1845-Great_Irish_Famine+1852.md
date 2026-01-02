@@ -126,17 +126,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852|1845-Great_Irish_Famine+1852]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.public|1845-Great_Irish_Famine+1852.public]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.internal|1845-Great_Irish_Famine+1852.internal]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.protect|1845-Great_Irish_Famine+1852.protect]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.private|1845-Great_Irish_Famine+1852.private]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.personal|1845-Great_Irish_Famine+1852.personal]] 
 
-### #is_/same_as :: [1845-Great_Irish_Famine+1852.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1845-Great_Irish_Famine+1852.secret|1845-Great_Irish_Famine+1852.secret]] 
 

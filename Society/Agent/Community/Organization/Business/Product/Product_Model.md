@@ -41,17 +41,17 @@ A datasheet or vendor specification of a product (in the sense of a prototypical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Product_Model](/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Model.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Product/Product_Model|Product_Model]] 
 
-### #is_/same_as :: [Product_Model.public](/_public/Society/Agent/Community/Organization/Business/Product/Product_Model.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Product/Product_Model.public|Product_Model.public]] 
 
-### #is_/same_as :: [Product_Model.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Product_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Product/Product_Model.internal|Product_Model.internal]] 
 
-### #is_/same_as :: [Product_Model.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Product_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Product/Product_Model.protect|Product_Model.protect]] 
 
-### #is_/same_as :: [Product_Model.private](/_private/Society/Agent/Community/Organization/Business/Product/Product_Model.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Product/Product_Model.private|Product_Model.private]] 
 
-### #is_/same_as :: [Product_Model.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Product_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Product/Product_Model.personal|Product_Model.personal]] 
 
-### #is_/same_as :: [Product_Model.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Product_Model.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Product/Product_Model.secret|Product_Model.secret]] 
 

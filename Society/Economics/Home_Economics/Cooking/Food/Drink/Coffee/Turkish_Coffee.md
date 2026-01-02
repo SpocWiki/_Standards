@@ -36,17 +36,17 @@ Commons_category: Turkish coffee
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turkish_Coffee](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee|Turkish_Coffee]] 
 
-### #is_/same_as :: [Turkish_Coffee.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.public|Turkish_Coffee.public]] 
 
-### #is_/same_as :: [Turkish_Coffee.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.internal|Turkish_Coffee.internal]] 
 
-### #is_/same_as :: [Turkish_Coffee.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.protect|Turkish_Coffee.protect]] 
 
-### #is_/same_as :: [Turkish_Coffee.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.private|Turkish_Coffee.private]] 
 
-### #is_/same_as :: [Turkish_Coffee.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.personal|Turkish_Coffee.personal]] 
 
-### #is_/same_as :: [Turkish_Coffee.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Coffee/Turkish_Coffee.secret|Turkish_Coffee.secret]] 
 

@@ -132,17 +132,17 @@ motto_text: Wir sind deins.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ARD(broadcaster)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster)|ARD(broadcaster)]] 
 
-### #is_/same_as :: [ARD(broadcaster).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).public|ARD(broadcaster).public]] 
 
-### #is_/same_as :: [ARD(broadcaster).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).internal|ARD(broadcaster).internal]] 
 
-### #is_/same_as :: [ARD(broadcaster).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).protect|ARD(broadcaster).protect]] 
 
-### #is_/same_as :: [ARD(broadcaster).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).private|ARD(broadcaster).private]] 
 
-### #is_/same_as :: [ARD(broadcaster).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).personal|ARD(broadcaster).personal]] 
 
-### #is_/same_as :: [ARD(broadcaster).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/ARD(broadcaster).secret|ARD(broadcaster).secret]] 
 

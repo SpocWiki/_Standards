@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_applicable_in_country](/_Standards/schema-org/Relation/is/is_applicable_in_country.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_applicable_in_country|is_applicable_in_country]] 
 
-### #is_/same_as :: [is_applicable_in_country.public](/_public/schema-org/Relation/is/is_applicable_in_country.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_applicable_in_country.public|is_applicable_in_country.public]] 
 
-### #is_/same_as :: [is_applicable_in_country.internal](/_internal/schema-org/Relation/is/is_applicable_in_country.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_applicable_in_country.internal|is_applicable_in_country.internal]] 
 
-### #is_/same_as :: [is_applicable_in_country.protect](/_protect/schema-org/Relation/is/is_applicable_in_country.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_applicable_in_country.protect|is_applicable_in_country.protect]] 
 
-### #is_/same_as :: [is_applicable_in_country.private](/_private/schema-org/Relation/is/is_applicable_in_country.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_applicable_in_country.private|is_applicable_in_country.private]] 
 
-### #is_/same_as :: [is_applicable_in_country.personal](/_personal/schema-org/Relation/is/is_applicable_in_country.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_applicable_in_country.personal|is_applicable_in_country.personal]] 
 
-### #is_/same_as :: [is_applicable_in_country.secret](/_secret/schema-org/Relation/is/is_applicable_in_country.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_applicable_in_country.secret|is_applicable_in_country.secret]] 
 

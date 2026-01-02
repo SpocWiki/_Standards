@@ -158,17 +158,17 @@ who claimed that the natural state is peaceful.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hobbes,Thomas](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas|Hobbes,Thomas]] 
 
-### #is_/same_as :: [Hobbes,Thomas.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.public|Hobbes,Thomas.public]] 
 
-### #is_/same_as :: [Hobbes,Thomas.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.internal|Hobbes,Thomas.internal]] 
 
-### #is_/same_as :: [Hobbes,Thomas.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.protect|Hobbes,Thomas.protect]] 
 
-### #is_/same_as :: [Hobbes,Thomas.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.private|Hobbes,Thomas.private]] 
 
-### #is_/same_as :: [Hobbes,Thomas.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.personal|Hobbes,Thomas.personal]] 
 
-### #is_/same_as :: [Hobbes,Thomas.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas.secret|Hobbes,Thomas.secret]] 
 

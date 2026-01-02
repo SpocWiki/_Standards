@@ -83,17 +83,17 @@ Baidu_Tieba_name: 口琴
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harmonica](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica|Harmonica]] 
 
-### #is_/same_as :: [Harmonica.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.public|Harmonica.public]] 
 
-### #is_/same_as :: [Harmonica.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.internal|Harmonica.internal]] 
 
-### #is_/same_as :: [Harmonica.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.protect|Harmonica.protect]] 
 
-### #is_/same_as :: [Harmonica.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.private|Harmonica.private]] 
 
-### #is_/same_as :: [Harmonica.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.personal|Harmonica.personal]] 
 
-### #is_/same_as :: [Harmonica.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument/Harmonica.secret|Harmonica.secret]] 
 

@@ -59,17 +59,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lieut%20goverr%20Gall-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Imagination](/_Standards/bio/Psychology/Cognition/Imagination.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Imagination|Imagination]] 
 
-### #is_/same_as :: [Imagination.public](/_public/bio/Psychology/Cognition/Imagination.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Imagination.public|Imagination.public]] 
 
-### #is_/same_as :: [Imagination.internal](/_internal/bio/Psychology/Cognition/Imagination.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Imagination.internal|Imagination.internal]] 
 
-### #is_/same_as :: [Imagination.protect](/_protect/bio/Psychology/Cognition/Imagination.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Imagination.protect|Imagination.protect]] 
 
-### #is_/same_as :: [Imagination.private](/_private/bio/Psychology/Cognition/Imagination.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Imagination.private|Imagination.private]] 
 
-### #is_/same_as :: [Imagination.personal](/_personal/bio/Psychology/Cognition/Imagination.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Imagination.personal|Imagination.personal]] 
 
-### #is_/same_as :: [Imagination.secret](/_secret/bio/Psychology/Cognition/Imagination.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Imagination.secret|Imagination.secret]] 
 

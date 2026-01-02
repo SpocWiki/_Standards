@@ -60,17 +60,17 @@ Library_of_Congress_Classification: NX456.5.H57
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hip_Hop_Culture](/_Standards/Society/Culture/Hip_Hop_Culture.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Hip_Hop_Culture|Hip_Hop_Culture]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.public](/_public/Society/Culture/Hip_Hop_Culture.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Hip_Hop_Culture.public|Hip_Hop_Culture.public]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.internal](/_internal/Society/Culture/Hip_Hop_Culture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Hip_Hop_Culture.internal|Hip_Hop_Culture.internal]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.protect](/_protect/Society/Culture/Hip_Hop_Culture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Hip_Hop_Culture.protect|Hip_Hop_Culture.protect]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.private](/_private/Society/Culture/Hip_Hop_Culture.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Hip_Hop_Culture.private|Hip_Hop_Culture.private]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.personal](/_personal/Society/Culture/Hip_Hop_Culture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Hip_Hop_Culture.personal|Hip_Hop_Culture.personal]] 
 
-### #is_/same_as :: [Hip_Hop_Culture.secret](/_secret/Society/Culture/Hip_Hop_Culture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Hip_Hop_Culture.secret|Hip_Hop_Culture.secret]] 
 

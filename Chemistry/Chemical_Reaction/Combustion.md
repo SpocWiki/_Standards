@@ -55,17 +55,17 @@ Commons_category: Combustion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combustion](/_Standards/Chemistry/Chemical_Reaction/Combustion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Combustion|Combustion]] 
 
-### #is_/same_as :: [Combustion.public](/_public/Chemistry/Chemical_Reaction/Combustion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Combustion.public|Combustion.public]] 
 
-### #is_/same_as :: [Combustion.internal](/_internal/Chemistry/Chemical_Reaction/Combustion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Combustion.internal|Combustion.internal]] 
 
-### #is_/same_as :: [Combustion.protect](/_protect/Chemistry/Chemical_Reaction/Combustion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Combustion.protect|Combustion.protect]] 
 
-### #is_/same_as :: [Combustion.private](/_private/Chemistry/Chemical_Reaction/Combustion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Combustion.private|Combustion.private]] 
 
-### #is_/same_as :: [Combustion.personal](/_personal/Chemistry/Chemical_Reaction/Combustion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Combustion.personal|Combustion.personal]] 
 
-### #is_/same_as :: [Combustion.secret](/_secret/Chemistry/Chemical_Reaction/Combustion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Combustion.secret|Combustion.secret]] 
 

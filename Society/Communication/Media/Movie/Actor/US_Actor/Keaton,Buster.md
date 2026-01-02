@@ -133,17 +133,17 @@ P1015: "90246210"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Keaton,Buster](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster|Keaton,Buster]] 
 
-### #is_/same_as :: [Keaton,Buster.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.public|Keaton,Buster.public]] 
 
-### #is_/same_as :: [Keaton,Buster.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.internal|Keaton,Buster.internal]] 
 
-### #is_/same_as :: [Keaton,Buster.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.protect|Keaton,Buster.protect]] 
 
-### #is_/same_as :: [Keaton,Buster.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.private|Keaton,Buster.private]] 
 
-### #is_/same_as :: [Keaton,Buster.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.personal|Keaton,Buster.personal]] 
 
-### #is_/same_as :: [Keaton,Buster.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Keaton,Buster.secret|Keaton,Buster.secret]] 
 

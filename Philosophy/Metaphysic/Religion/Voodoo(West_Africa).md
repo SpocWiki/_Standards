@@ -31,17 +31,17 @@ Dewey_Decimal_Classification: "299.675"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voodoo(West_Africa)](/_Standards/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Voodoo(West_Africa)|Voodoo(West_Africa)]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).public](/_public/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).public|Voodoo(West_Africa).public]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).internal](/_internal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).internal|Voodoo(West_Africa).internal]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).protect](/_protect/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).protect|Voodoo(West_Africa).protect]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).private](/_private/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).private|Voodoo(West_Africa).private]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).personal](/_personal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).personal|Voodoo(West_Africa).personal]] 
 
-### #is_/same_as :: [Voodoo(West_Africa).secret](/_secret/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Voodoo(West_Africa).secret|Voodoo(West_Africa).secret]] 
 

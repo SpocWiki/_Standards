@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Van_Helsing(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film)|Van_Helsing(film)]] 
 
-### #is_/same_as :: [Van_Helsing(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).public|Van_Helsing(film).public]] 
 
-### #is_/same_as :: [Van_Helsing(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).internal|Van_Helsing(film).internal]] 
 
-### #is_/same_as :: [Van_Helsing(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).protect|Van_Helsing(film).protect]] 
 
-### #is_/same_as :: [Van_Helsing(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).private|Van_Helsing(film).private]] 
 
-### #is_/same_as :: [Van_Helsing(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).personal|Van_Helsing(film).personal]] 
 
-### #is_/same_as :: [Van_Helsing(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Van_Helsing(film).secret|Van_Helsing(film).secret]] 
 

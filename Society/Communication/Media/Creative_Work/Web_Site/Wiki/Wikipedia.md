@@ -229,17 +229,17 @@ number_of_records: 63309777
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wikipedia](/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia|Wikipedia]] 
 
-### #is_/same_as :: [Wikipedia.public](/_public/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.public|Wikipedia.public]] 
 
-### #is_/same_as :: [Wikipedia.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.internal|Wikipedia.internal]] 
 
-### #is_/same_as :: [Wikipedia.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.protect|Wikipedia.protect]] 
 
-### #is_/same_as :: [Wikipedia.private](/_private/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.private|Wikipedia.private]] 
 
-### #is_/same_as :: [Wikipedia.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.personal|Wikipedia.personal]] 
 
-### #is_/same_as :: [Wikipedia.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki/Wikipedia.secret|Wikipedia.secret]] 
 

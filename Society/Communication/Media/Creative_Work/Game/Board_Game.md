@@ -67,17 +67,17 @@ IPTC_NewsCode: mediatopic/20000541
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Board_Game](/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Board_Game|Board_Game]] 
 
-### #is_/same_as :: [Board_Game.public](/_public/Society/Communication/Media/Creative_Work/Game/Board_Game.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Board_Game.public|Board_Game.public]] 
 
-### #is_/same_as :: [Board_Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Board_Game.internal|Board_Game.internal]] 
 
-### #is_/same_as :: [Board_Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Board_Game.protect|Board_Game.protect]] 
 
-### #is_/same_as :: [Board_Game.private](/_private/Society/Communication/Media/Creative_Work/Game/Board_Game.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Board_Game.private|Board_Game.private]] 
 
-### #is_/same_as :: [Board_Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Board_Game.personal|Board_Game.personal]] 
 
-### #is_/same_as :: [Board_Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Board_Game.secret|Board_Game.secret]] 
 

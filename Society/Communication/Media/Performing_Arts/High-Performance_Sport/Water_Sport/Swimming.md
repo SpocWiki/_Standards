@@ -79,17 +79,17 @@ Unicode_character: 🏊
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swimming](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming|Swimming]] 
 
-### #is_/same_as :: [Swimming.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.public|Swimming.public]] 
 
-### #is_/same_as :: [Swimming.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.internal|Swimming.internal]] 
 
-### #is_/same_as :: [Swimming.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.protect|Swimming.protect]] 
 
-### #is_/same_as :: [Swimming.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.private|Swimming.private]] 
 
-### #is_/same_as :: [Swimming.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.personal|Swimming.personal]] 
 
-### #is_/same_as :: [Swimming.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming.secret|Swimming.secret]] 
 

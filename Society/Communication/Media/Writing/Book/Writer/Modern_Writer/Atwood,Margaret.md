@@ -221,17 +221,17 @@ ISNI: 0000000123215491
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atwood,Margaret](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret|Atwood,Margaret]] 
 
-### #is_/same_as :: [Atwood,Margaret.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.public|Atwood,Margaret.public]] 
 
-### #is_/same_as :: [Atwood,Margaret.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.internal|Atwood,Margaret.internal]] 
 
-### #is_/same_as :: [Atwood,Margaret.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.protect|Atwood,Margaret.protect]] 
 
-### #is_/same_as :: [Atwood,Margaret.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.private|Atwood,Margaret.private]] 
 
-### #is_/same_as :: [Atwood,Margaret.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.personal|Atwood,Margaret.personal]] 
 
-### #is_/same_as :: [Atwood,Margaret.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Atwood,Margaret.secret|Atwood,Margaret.secret]] 
 

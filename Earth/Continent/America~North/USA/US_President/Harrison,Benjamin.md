@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harrison,Benjamin](/_Standards/Earth/Continent/America~North/US~President/Harrison,Benjamin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin|Harrison,Benjamin]] 
 
-### #is_/same_as :: [Harrison,Benjamin.public](/_public/Earth/Continent/America~North/US~President/Harrison,Benjamin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.public|Harrison,Benjamin.public]] 
 
-### #is_/same_as :: [Harrison,Benjamin.internal](/_internal/Earth/Continent/America~North/US~President/Harrison,Benjamin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.internal|Harrison,Benjamin.internal]] 
 
-### #is_/same_as :: [Harrison,Benjamin.protect](/_protect/Earth/Continent/America~North/US~President/Harrison,Benjamin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.protect|Harrison,Benjamin.protect]] 
 
-### #is_/same_as :: [Harrison,Benjamin.private](/_private/Earth/Continent/America~North/US~President/Harrison,Benjamin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.private|Harrison,Benjamin.private]] 
 
-### #is_/same_as :: [Harrison,Benjamin.personal](/_personal/Earth/Continent/America~North/US~President/Harrison,Benjamin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.personal|Harrison,Benjamin.personal]] 
 
-### #is_/same_as :: [Harrison,Benjamin.secret](/_secret/Earth/Continent/America~North/US~President/Harrison,Benjamin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Harrison,Benjamin.secret|Harrison,Benjamin.secret]] 
 

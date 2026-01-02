@@ -292,17 +292,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Warhol,Andy](/_Standards/Society/Communication/Media/Painting/Painter/Warhol,Andy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Warhol,Andy|Warhol,Andy]] 
 
-### #is_/same_as :: [Warhol,Andy.public](/_public/Society/Communication/Media/Painting/Painter/Warhol,Andy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Warhol,Andy.public|Warhol,Andy.public]] 
 
-### #is_/same_as :: [Warhol,Andy.internal](/_internal/Society/Communication/Media/Painting/Painter/Warhol,Andy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Warhol,Andy.internal|Warhol,Andy.internal]] 
 
-### #is_/same_as :: [Warhol,Andy.protect](/_protect/Society/Communication/Media/Painting/Painter/Warhol,Andy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Warhol,Andy.protect|Warhol,Andy.protect]] 
 
-### #is_/same_as :: [Warhol,Andy.private](/_private/Society/Communication/Media/Painting/Painter/Warhol,Andy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Warhol,Andy.private|Warhol,Andy.private]] 
 
-### #is_/same_as :: [Warhol,Andy.personal](/_personal/Society/Communication/Media/Painting/Painter/Warhol,Andy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Warhol,Andy.personal|Warhol,Andy.personal]] 
 
-### #is_/same_as :: [Warhol,Andy.secret](/_secret/Society/Communication/Media/Painting/Painter/Warhol,Andy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Warhol,Andy.secret|Warhol,Andy.secret]] 
 

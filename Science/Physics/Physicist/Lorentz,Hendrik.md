@@ -147,17 +147,17 @@ Libris_URI: 97mprj4t0dv8gl9
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lorentz,Hendrik](/_Standards/Science/Physics/Physicist/Lorentz,Hendrik.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Lorentz,Hendrik|Lorentz,Hendrik]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.public](/_public/Science/Physics/Physicist/Lorentz,Hendrik.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Lorentz,Hendrik.public|Lorentz,Hendrik.public]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.internal](/_internal/Science/Physics/Physicist/Lorentz,Hendrik.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Lorentz,Hendrik.internal|Lorentz,Hendrik.internal]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.protect](/_protect/Science/Physics/Physicist/Lorentz,Hendrik.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Lorentz,Hendrik.protect|Lorentz,Hendrik.protect]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.private](/_private/Science/Physics/Physicist/Lorentz,Hendrik.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Lorentz,Hendrik.private|Lorentz,Hendrik.private]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.personal](/_personal/Science/Physics/Physicist/Lorentz,Hendrik.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Lorentz,Hendrik.personal|Lorentz,Hendrik.personal]] 
 
-### #is_/same_as :: [Lorentz,Hendrik.secret](/_secret/Science/Physics/Physicist/Lorentz,Hendrik.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Lorentz,Hendrik.secret|Lorentz,Hendrik.secret]] 
 

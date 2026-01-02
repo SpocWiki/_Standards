@@ -36,17 +36,17 @@ studied_by: '[[_Standards/WikiData/WD~popular_and_genre_literature_studies,11312
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genre_Fiction](/_Standards/Society/Communication/Genre/Fiction/Genre_Fiction.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Genre_Fiction|Genre_Fiction]] 
 
-### #is_/same_as :: [Genre_Fiction.public](/_public/Society/Communication/Genre/Fiction/Genre_Fiction.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Genre_Fiction.public|Genre_Fiction.public]] 
 
-### #is_/same_as :: [Genre_Fiction.internal](/_internal/Society/Communication/Genre/Fiction/Genre_Fiction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Genre_Fiction.internal|Genre_Fiction.internal]] 
 
-### #is_/same_as :: [Genre_Fiction.protect](/_protect/Society/Communication/Genre/Fiction/Genre_Fiction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Genre_Fiction.protect|Genre_Fiction.protect]] 
 
-### #is_/same_as :: [Genre_Fiction.private](/_private/Society/Communication/Genre/Fiction/Genre_Fiction.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Genre_Fiction.private|Genre_Fiction.private]] 
 
-### #is_/same_as :: [Genre_Fiction.personal](/_personal/Society/Communication/Genre/Fiction/Genre_Fiction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Genre_Fiction.personal|Genre_Fiction.personal]] 
 
-### #is_/same_as :: [Genre_Fiction.secret](/_secret/Society/Communication/Genre/Fiction/Genre_Fiction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Genre_Fiction.secret|Genre_Fiction.secret]] 
 

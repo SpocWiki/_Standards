@@ -29,17 +29,17 @@ Items:: {"type":"MultiFile","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Collection](/_Standards/fileClass/FileClass~Collection.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Collection|FileClass~Collection]] 
 
-### #is_/same_as :: [FileClass~Collection.public](/_public/fileClass/FileClass~Collection.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Collection.public|FileClass~Collection.public]] 
 
-### #is_/same_as :: [FileClass~Collection.internal](/_internal/fileClass/FileClass~Collection.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Collection.internal|FileClass~Collection.internal]] 
 
-### #is_/same_as :: [FileClass~Collection.protect](/_protect/fileClass/FileClass~Collection.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Collection.protect|FileClass~Collection.protect]] 
 
-### #is_/same_as :: [FileClass~Collection.private](/_private/fileClass/FileClass~Collection.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Collection.private|FileClass~Collection.private]] 
 
-### #is_/same_as :: [FileClass~Collection.personal](/_personal/fileClass/FileClass~Collection.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Collection.personal|FileClass~Collection.personal]] 
 
-### #is_/same_as :: [FileClass~Collection.secret](/_secret/fileClass/FileClass~Collection.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Collection.secret|FileClass~Collection.secret]] 
 

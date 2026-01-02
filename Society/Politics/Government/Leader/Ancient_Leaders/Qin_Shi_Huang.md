@@ -89,17 +89,17 @@ sibling:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Qin_Shi_Huang](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang|Qin_Shi_Huang]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.public|Qin_Shi_Huang.public]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.internal|Qin_Shi_Huang.internal]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.protect|Qin_Shi_Huang.protect]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.private|Qin_Shi_Huang.private]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.personal|Qin_Shi_Huang.personal]] 
 
-### #is_/same_as :: [Qin_Shi_Huang.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Qin_Shi_Huang.secret|Qin_Shi_Huang.secret]] 
 

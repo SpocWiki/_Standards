@@ -85,17 +85,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/What%20is%20suicide.we
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suicide](/_Standards/bio/Metabolism/Death/Suicide.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Suicide|Suicide]] 
 
-### #is_/same_as :: [Suicide.public](/_public/bio/Metabolism/Death/Suicide.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Suicide.public|Suicide.public]] 
 
-### #is_/same_as :: [Suicide.internal](/_internal/bio/Metabolism/Death/Suicide.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Suicide.internal|Suicide.internal]] 
 
-### #is_/same_as :: [Suicide.protect](/_protect/bio/Metabolism/Death/Suicide.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Suicide.protect|Suicide.protect]] 
 
-### #is_/same_as :: [Suicide.private](/_private/bio/Metabolism/Death/Suicide.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Suicide.private|Suicide.private]] 
 
-### #is_/same_as :: [Suicide.personal](/_personal/bio/Metabolism/Death/Suicide.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Suicide.personal|Suicide.personal]] 
 
-### #is_/same_as :: [Suicide.secret](/_secret/bio/Metabolism/Death/Suicide.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Suicide.secret|Suicide.secret]] 
 

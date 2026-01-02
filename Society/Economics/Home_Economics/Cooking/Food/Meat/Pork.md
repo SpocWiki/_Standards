@@ -55,17 +55,17 @@ Library_of_Congress_Classification: TX556.P8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pork](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork|Pork]] 
 
-### #is_/same_as :: [Pork.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.public|Pork.public]] 
 
-### #is_/same_as :: [Pork.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.internal|Pork.internal]] 
 
-### #is_/same_as :: [Pork.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.protect|Pork.protect]] 
 
-### #is_/same_as :: [Pork.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.private|Pork.private]] 
 
-### #is_/same_as :: [Pork.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.personal|Pork.personal]] 
 
-### #is_/same_as :: [Pork.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Pork.secret|Pork.secret]] 
 

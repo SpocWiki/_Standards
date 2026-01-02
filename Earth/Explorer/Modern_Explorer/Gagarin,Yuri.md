@@ -163,17 +163,17 @@ RIA_Novosti_reference: 45597107
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gagarin,Yuri](/_Standards/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Modern_Explorer/Gagarin,Yuri|Gagarin,Yuri]] 
 
-### #is_/same_as :: [Gagarin,Yuri.public](/_public/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.public|Gagarin,Yuri.public]] 
 
-### #is_/same_as :: [Gagarin,Yuri.internal](/_internal/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.internal|Gagarin,Yuri.internal]] 
 
-### #is_/same_as :: [Gagarin,Yuri.protect](/_protect/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.protect|Gagarin,Yuri.protect]] 
 
-### #is_/same_as :: [Gagarin,Yuri.private](/_private/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.private|Gagarin,Yuri.private]] 
 
-### #is_/same_as :: [Gagarin,Yuri.personal](/_personal/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.personal|Gagarin,Yuri.personal]] 
 
-### #is_/same_as :: [Gagarin,Yuri.secret](/_secret/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Modern_Explorer/Gagarin,Yuri.secret|Gagarin,Yuri.secret]] 
 

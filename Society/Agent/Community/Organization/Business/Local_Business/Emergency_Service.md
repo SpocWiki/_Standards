@@ -43,17 +43,17 @@ An emergency service, such as a fire station or ER.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emergency_Service](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service|Emergency_Service]] 
 
-### #is_/same_as :: [Emergency_Service.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.public|Emergency_Service.public]] 
 
-### #is_/same_as :: [Emergency_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.internal|Emergency_Service.internal]] 
 
-### #is_/same_as :: [Emergency_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.protect|Emergency_Service.protect]] 
 
-### #is_/same_as :: [Emergency_Service.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.private|Emergency_Service.private]] 
 
-### #is_/same_as :: [Emergency_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.personal|Emergency_Service.personal]] 
 
-### #is_/same_as :: [Emergency_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service.secret|Emergency_Service.secret]] 
 

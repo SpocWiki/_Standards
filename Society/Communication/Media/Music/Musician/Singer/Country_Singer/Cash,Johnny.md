@@ -150,17 +150,17 @@ IPI_name_number: 00005462217
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cash,Johnny](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny|Cash,Johnny]] 
 
-### #is_/same_as :: [Cash,Johnny.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.public|Cash,Johnny.public]] 
 
-### #is_/same_as :: [Cash,Johnny.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.internal|Cash,Johnny.internal]] 
 
-### #is_/same_as :: [Cash,Johnny.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.protect|Cash,Johnny.protect]] 
 
-### #is_/same_as :: [Cash,Johnny.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.private|Cash,Johnny.private]] 
 
-### #is_/same_as :: [Cash,Johnny.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.personal|Cash,Johnny.personal]] 
 
-### #is_/same_as :: [Cash,Johnny.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Cash,Johnny.secret|Cash,Johnny.secret]] 
 

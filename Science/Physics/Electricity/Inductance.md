@@ -77,17 +77,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inductance](/_Standards/Science/Physics/Electricity/Inductance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Inductance|Inductance]] 
 
-### #is_/same_as :: [Inductance.public](/_public/Science/Physics/Electricity/Inductance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Inductance.public|Inductance.public]] 
 
-### #is_/same_as :: [Inductance.internal](/_internal/Science/Physics/Electricity/Inductance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Inductance.internal|Inductance.internal]] 
 
-### #is_/same_as :: [Inductance.protect](/_protect/Science/Physics/Electricity/Inductance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Inductance.protect|Inductance.protect]] 
 
-### #is_/same_as :: [Inductance.private](/_private/Science/Physics/Electricity/Inductance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Inductance.private|Inductance.private]] 
 
-### #is_/same_as :: [Inductance.personal](/_personal/Science/Physics/Electricity/Inductance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Inductance.personal|Inductance.personal]] 
 
-### #is_/same_as :: [Inductance.secret](/_secret/Science/Physics/Electricity/Inductance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Inductance.secret|Inductance.secret]] 
 

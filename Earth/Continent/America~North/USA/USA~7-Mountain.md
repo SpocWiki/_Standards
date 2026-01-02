@@ -25,17 +25,17 @@ markerFile: [[USA~7-Mountain]]
 
 ## Confidential Links & Embeds: 
 
-### [USA~Mountain](/_Standards/Earth/Continent/America~North/USA/USA~Mountain.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~7-Mountain|USA~7-Mountain]] 
 
-### [USA~Mountain.public](/_public/Earth/Continent/America~North/USA/USA~Mountain.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~7-Mountain.public|USA~7-Mountain.public]] 
 
-### [USA~Mountain.internal](/_internal/Earth/Continent/America~North/USA/USA~Mountain.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~7-Mountain.internal|USA~7-Mountain.internal]] 
 
-### [USA~Mountain.protect](/_protect/Earth/Continent/America~North/USA/USA~Mountain.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~7-Mountain.protect|USA~7-Mountain.protect]] 
 
-### [USA~Mountain.private](/_private/Earth/Continent/America~North/USA/USA~Mountain.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~7-Mountain.private|USA~7-Mountain.private]] 
 
-### [USA~Mountain.personal](/_personal/Earth/Continent/America~North/USA/USA~Mountain.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~7-Mountain.personal|USA~7-Mountain.personal]] 
 
-### [USA~Mountain.secret](/_secret/Earth/Continent/America~North/USA/USA~Mountain.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~7-Mountain.secret|USA~7-Mountain.secret]] 
 

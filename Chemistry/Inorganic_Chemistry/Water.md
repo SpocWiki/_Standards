@@ -276,17 +276,17 @@ ZVG_number: 1140
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water](/_Standards/Chemistry/Inorganic_Chemistry/Water.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Water|Water]] 
 
-### #is_/same_as :: [Water.public](/_public/Chemistry/Inorganic_Chemistry/Water.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Water.public|Water.public]] 
 
-### #is_/same_as :: [Water.internal](/_internal/Chemistry/Inorganic_Chemistry/Water.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Water.internal|Water.internal]] 
 
-### #is_/same_as :: [Water.protect](/_protect/Chemistry/Inorganic_Chemistry/Water.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Water.protect|Water.protect]] 
 
-### #is_/same_as :: [Water.private](/_private/Chemistry/Inorganic_Chemistry/Water.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Water.private|Water.private]] 
 
-### #is_/same_as :: [Water.personal](/_personal/Chemistry/Inorganic_Chemistry/Water.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Water.personal|Water.personal]] 
 
-### #is_/same_as :: [Water.secret](/_secret/Chemistry/Inorganic_Chemistry/Water.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Water.secret|Water.secret]] 
 

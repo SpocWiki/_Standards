@@ -155,17 +155,17 @@ Plex_person_key: 5d776826a091de001f2e6176
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clarke,Arthur_C](/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C|Clarke,Arthur_C]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.public](/_public/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.public|Clarke,Arthur_C.public]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.internal](/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.internal|Clarke,Arthur_C.internal]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.protect](/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.protect|Clarke,Arthur_C.protect]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.private](/_private/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.private|Clarke,Arthur_C.private]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.personal](/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.personal|Clarke,Arthur_C.personal]] 
 
-### #is_/same_as :: [Clarke,Arthur_C.secret](/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Science_Fiction/Clarke,Arthur_C.secret|Clarke,Arthur_C.secret]] 
 

@@ -63,17 +63,17 @@ Wolfram_Language_entity_code: Entity["MeasurementDevice", "ClockAtomic"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_clock](/_Standards/Dimension/Dim~Time/Atomic_clock.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Atomic_clock|Atomic_clock]] 
 
-### #is_/same_as :: [Atomic_clock.public](/_public/Dimension/Dim~Time/Atomic_clock.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Atomic_clock.public|Atomic_clock.public]] 
 
-### #is_/same_as :: [Atomic_clock.internal](/_internal/Dimension/Dim~Time/Atomic_clock.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Atomic_clock.internal|Atomic_clock.internal]] 
 
-### #is_/same_as :: [Atomic_clock.protect](/_protect/Dimension/Dim~Time/Atomic_clock.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Atomic_clock.protect|Atomic_clock.protect]] 
 
-### #is_/same_as :: [Atomic_clock.private](/_private/Dimension/Dim~Time/Atomic_clock.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Atomic_clock.private|Atomic_clock.private]] 
 
-### #is_/same_as :: [Atomic_clock.personal](/_personal/Dimension/Dim~Time/Atomic_clock.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Atomic_clock.personal|Atomic_clock.personal]] 
 
-### #is_/same_as :: [Atomic_clock.secret](/_secret/Dimension/Dim~Time/Atomic_clock.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Atomic_clock.secret|Atomic_clock.secret]] 
 

@@ -160,17 +160,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Esperanto](/_Standards/Language/Language_Family/Esperanto.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/Esperanto|Esperanto]] 
 
-### #is_/same_as :: [Esperanto.public](/_public/Language/Language_Family/Esperanto.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/Esperanto.public|Esperanto.public]] 
 
-### #is_/same_as :: [Esperanto.internal](/_internal/Language/Language_Family/Esperanto.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/Esperanto.internal|Esperanto.internal]] 
 
-### #is_/same_as :: [Esperanto.protect](/_protect/Language/Language_Family/Esperanto.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/Esperanto.protect|Esperanto.protect]] 
 
-### #is_/same_as :: [Esperanto.private](/_private/Language/Language_Family/Esperanto.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/Esperanto.private|Esperanto.private]] 
 
-### #is_/same_as :: [Esperanto.personal](/_personal/Language/Language_Family/Esperanto.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/Esperanto.personal|Esperanto.personal]] 
 
-### #is_/same_as :: [Esperanto.secret](/_secret/Language/Language_Family/Esperanto.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/Esperanto.secret|Esperanto.secret]] 
 

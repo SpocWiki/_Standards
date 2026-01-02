@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_supporting_data](/_Standards/schema-org/Relation/has/has_supporting_data.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_supporting_data|has_supporting_data]] 
 
-### #is_/same_as :: [has_supporting_data.public](/_public/schema-org/Relation/has/has_supporting_data.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_supporting_data.public|has_supporting_data.public]] 
 
-### #is_/same_as :: [has_supporting_data.internal](/_internal/schema-org/Relation/has/has_supporting_data.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_supporting_data.internal|has_supporting_data.internal]] 
 
-### #is_/same_as :: [has_supporting_data.protect](/_protect/schema-org/Relation/has/has_supporting_data.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_supporting_data.protect|has_supporting_data.protect]] 
 
-### #is_/same_as :: [has_supporting_data.private](/_private/schema-org/Relation/has/has_supporting_data.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_supporting_data.private|has_supporting_data.private]] 
 
-### #is_/same_as :: [has_supporting_data.personal](/_personal/schema-org/Relation/has/has_supporting_data.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_supporting_data.personal|has_supporting_data.personal]] 
 
-### #is_/same_as :: [has_supporting_data.secret](/_secret/schema-org/Relation/has/has_supporting_data.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_supporting_data.secret|has_supporting_data.secret]] 
 

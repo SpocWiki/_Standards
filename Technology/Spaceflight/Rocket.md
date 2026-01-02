@@ -67,17 +67,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/voennaya_tehnika/RAKETA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rocket](/_Standards/Technology/Spaceflight/Rocket.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Rocket|Rocket]] 
 
-### #is_/same_as :: [Rocket.public](/_public/Technology/Spaceflight/Rocket.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Rocket.public|Rocket.public]] 
 
-### #is_/same_as :: [Rocket.internal](/_internal/Technology/Spaceflight/Rocket.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Rocket.internal|Rocket.internal]] 
 
-### #is_/same_as :: [Rocket.protect](/_protect/Technology/Spaceflight/Rocket.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Rocket.protect|Rocket.protect]] 
 
-### #is_/same_as :: [Rocket.private](/_private/Technology/Spaceflight/Rocket.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Rocket.private|Rocket.private]] 
 
-### #is_/same_as :: [Rocket.personal](/_personal/Technology/Spaceflight/Rocket.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Rocket.personal|Rocket.personal]] 
 
-### #is_/same_as :: [Rocket.secret](/_secret/Technology/Spaceflight/Rocket.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Rocket.secret|Rocket.secret]] 
 

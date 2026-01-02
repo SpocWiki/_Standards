@@ -74,17 +74,17 @@ RTECS_number: WE1650000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sodium_Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate|Sodium_Sulfate]] 
 
-### #is_/same_as :: [Sodium_Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.public|Sodium_Sulfate.public]] 
 
-### #is_/same_as :: [Sodium_Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.internal|Sodium_Sulfate.internal]] 
 
-### #is_/same_as :: [Sodium_Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.protect|Sodium_Sulfate.protect]] 
 
-### #is_/same_as :: [Sodium_Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.private|Sodium_Sulfate.private]] 
 
-### #is_/same_as :: [Sodium_Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.personal|Sodium_Sulfate.personal]] 
 
-### #is_/same_as :: [Sodium_Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate/Sodium_Sulfate.secret|Sodium_Sulfate.secret]] 
 

@@ -88,17 +88,17 @@ work_period_start_: 1923
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kulthum,Umm](/_Standards/Society/Communication/Media/Music/Musician/Kulthum,Umm.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Kulthum,Umm|Kulthum,Umm]] 
 
-### #is_/same_as :: [Kulthum,Umm.public](/_public/Society/Communication/Media/Music/Musician/Kulthum,Umm.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Kulthum,Umm.public|Kulthum,Umm.public]] 
 
-### #is_/same_as :: [Kulthum,Umm.internal](/_internal/Society/Communication/Media/Music/Musician/Kulthum,Umm.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Kulthum,Umm.internal|Kulthum,Umm.internal]] 
 
-### #is_/same_as :: [Kulthum,Umm.protect](/_protect/Society/Communication/Media/Music/Musician/Kulthum,Umm.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Kulthum,Umm.protect|Kulthum,Umm.protect]] 
 
-### #is_/same_as :: [Kulthum,Umm.private](/_private/Society/Communication/Media/Music/Musician/Kulthum,Umm.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Kulthum,Umm.private|Kulthum,Umm.private]] 
 
-### #is_/same_as :: [Kulthum,Umm.personal](/_personal/Society/Communication/Media/Music/Musician/Kulthum,Umm.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Kulthum,Umm.personal|Kulthum,Umm.personal]] 
 
-### #is_/same_as :: [Kulthum,Umm.secret](/_secret/Society/Communication/Media/Music/Musician/Kulthum,Umm.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Kulthum,Umm.secret|Kulthum,Umm.secret]] 
 

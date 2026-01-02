@@ -64,17 +64,17 @@ subreddit: OperationsResearch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operations_Research](/_Standards/Mathematics/Optimization(Math)/Operations_Research.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Optimization(Math)/Operations_Research|Operations_Research]] 
 
-### #is_/same_as :: [Operations_Research.public](/_public/Mathematics/Optimization(Math)/Operations_Research.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Optimization(Math)/Operations_Research.public|Operations_Research.public]] 
 
-### #is_/same_as :: [Operations_Research.internal](/_internal/Mathematics/Optimization(Math)/Operations_Research.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Optimization(Math)/Operations_Research.internal|Operations_Research.internal]] 
 
-### #is_/same_as :: [Operations_Research.protect](/_protect/Mathematics/Optimization(Math)/Operations_Research.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Optimization(Math)/Operations_Research.protect|Operations_Research.protect]] 
 
-### #is_/same_as :: [Operations_Research.private](/_private/Mathematics/Optimization(Math)/Operations_Research.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Optimization(Math)/Operations_Research.private|Operations_Research.private]] 
 
-### #is_/same_as :: [Operations_Research.personal](/_personal/Mathematics/Optimization(Math)/Operations_Research.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Optimization(Math)/Operations_Research.personal|Operations_Research.personal]] 
 
-### #is_/same_as :: [Operations_Research.secret](/_secret/Mathematics/Optimization(Math)/Operations_Research.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Optimization(Math)/Operations_Research.secret|Operations_Research.secret]] 
 

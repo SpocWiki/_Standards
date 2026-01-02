@@ -96,17 +96,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Somali_Language](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language|Somali_Language]] 
 
-### #is_/same_as :: [Somali_Language.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.public|Somali_Language.public]] 
 
-### #is_/same_as :: [Somali_Language.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.internal|Somali_Language.internal]] 
 
-### #is_/same_as :: [Somali_Language.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.protect|Somali_Language.protect]] 
 
-### #is_/same_as :: [Somali_Language.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.private|Somali_Language.private]] 
 
-### #is_/same_as :: [Somali_Language.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.personal|Somali_Language.personal]] 
 
-### #is_/same_as :: [Somali_Language.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Cushitic/Somali_Language.secret|Somali_Language.secret]] 
 

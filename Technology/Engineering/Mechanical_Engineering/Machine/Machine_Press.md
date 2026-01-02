@@ -35,3 +35,22 @@ Dewey_Decimal_Classification: "621.98"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Machine%20press) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press|Machine_Press]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.public|Machine_Press.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.internal|Machine_Press.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.protect|Machine_Press.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.private|Machine_Press.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.personal|Machine_Press.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Machine/Machine_Press.secret|Machine_Press.secret]] 
+

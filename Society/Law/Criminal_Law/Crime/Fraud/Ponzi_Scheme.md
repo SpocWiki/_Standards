@@ -55,17 +55,17 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Ponz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ponzi_Scheme](/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme|Ponzi_Scheme]] 
 
-### #is_/same_as :: [Ponzi_Scheme.public](/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.public|Ponzi_Scheme.public]] 
 
-### #is_/same_as :: [Ponzi_Scheme.internal](/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.internal|Ponzi_Scheme.internal]] 
 
-### #is_/same_as :: [Ponzi_Scheme.protect](/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.protect|Ponzi_Scheme.protect]] 
 
-### #is_/same_as :: [Ponzi_Scheme.private](/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.private|Ponzi_Scheme.private]] 
 
-### #is_/same_as :: [Ponzi_Scheme.personal](/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.personal|Ponzi_Scheme.personal]] 
 
-### #is_/same_as :: [Ponzi_Scheme.secret](/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Fraud/Ponzi_Scheme.secret|Ponzi_Scheme.secret]] 
 

@@ -96,17 +96,17 @@ publication_date: 1911-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peter_Pan](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan|Peter_Pan]] 
 
-### #is_/same_as :: [Peter_Pan.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.public|Peter_Pan.public]] 
 
-### #is_/same_as :: [Peter_Pan.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.internal|Peter_Pan.internal]] 
 
-### #is_/same_as :: [Peter_Pan.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.protect|Peter_Pan.protect]] 
 
-### #is_/same_as :: [Peter_Pan.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.private|Peter_Pan.private]] 
 
-### #is_/same_as :: [Peter_Pan.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.personal|Peter_Pan.personal]] 
 
-### #is_/same_as :: [Peter_Pan.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Peter_Pan.secret|Peter_Pan.secret]] 
 

@@ -37,17 +37,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Iranian_languages,8084951
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ira](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira|Lang-ira]] 
 
-### #is_/same_as :: [Lang-ira.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.public|Lang-ira.public]] 
 
-### #is_/same_as :: [Lang-ira.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.internal|Lang-ira.internal]] 
 
-### #is_/same_as :: [Lang-ira.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.protect|Lang-ira.protect]] 
 
-### #is_/same_as :: [Lang-ira.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.private|Lang-ira.private]] 
 
-### #is_/same_as :: [Lang-ira.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.personal|Lang-ira.personal]] 
 
-### #is_/same_as :: [Lang-ira.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Indo-Iranian/Lang-ira.secret|Lang-ira.secret]] 
 

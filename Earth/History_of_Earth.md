@@ -34,17 +34,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025-07-31-Elektro-L-3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Earth](/_Standards/Earth/History_of_Earth.md) 
+### #is_/same_as :: [[/_Standards/Earth/History_of_Earth|History_of_Earth]] 
 
-### #is_/same_as :: [History_of_Earth.public](/_public/Earth/History_of_Earth.public.md) 
+### #is_/same_as :: [[/_public/Earth/History_of_Earth.public|History_of_Earth.public]] 
 
-### #is_/same_as :: [History_of_Earth.internal](/_internal/Earth/History_of_Earth.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/History_of_Earth.internal|History_of_Earth.internal]] 
 
-### #is_/same_as :: [History_of_Earth.protect](/_protect/Earth/History_of_Earth.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/History_of_Earth.protect|History_of_Earth.protect]] 
 
-### #is_/same_as :: [History_of_Earth.private](/_private/Earth/History_of_Earth.private.md) 
+### #is_/same_as :: [[/_private/Earth/History_of_Earth.private|History_of_Earth.private]] 
 
-### #is_/same_as :: [History_of_Earth.personal](/_personal/Earth/History_of_Earth.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/History_of_Earth.personal|History_of_Earth.personal]] 
 
-### #is_/same_as :: [History_of_Earth.secret](/_secret/Earth/History_of_Earth.secret.md)
+### #is_/same_as :: [[/_secret/Earth/History_of_Earth.secret|History_of_Earth.secret]] 
 

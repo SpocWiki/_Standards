@@ -50,17 +50,17 @@ IPTC_NewsCode: mediatopic/20000930
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Épée](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Épée.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Épée|Épée]] 
 
-### #is_/same_as :: [Épée.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Épée.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword/Épée.public|Épée.public]] 
 
-### #is_/same_as :: [Épée.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Épée.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword/Épée.internal|Épée.internal]] 
 
-### #is_/same_as :: [Épée.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Épée.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword/Épée.protect|Épée.protect]] 
 
-### #is_/same_as :: [Épée.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Épée.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword/Épée.private|Épée.private]] 
 
-### #is_/same_as :: [Épée.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Épée.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword/Épée.personal|Épée.personal]] 
 
-### #is_/same_as :: [Épée.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Épée.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword/Épée.secret|Épée.secret]] 
 

@@ -300,17 +300,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Language](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language|Prog~Language]] 
 
-### #is_/same_as :: [Prog~Language.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language.public|Prog~Language.public]] 
 
-### #is_/same_as :: [Prog~Language.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language.internal|Prog~Language.internal]] 
 
-### #is_/same_as :: [Prog~Language.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language.protect|Prog~Language.protect]] 
 
-### #is_/same_as :: [Prog~Language.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language.private|Prog~Language.private]] 
 
-### #is_/same_as :: [Prog~Language.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language.personal|Prog~Language.personal]] 
 
-### #is_/same_as :: [Prog~Language.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language.secret|Prog~Language.secret]] 
 

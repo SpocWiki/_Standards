@@ -61,17 +61,17 @@ Part of this is:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neoliberalism](/_Standards/Society/Ideology/Economic_Ideology/Neoliberalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Neoliberalism|Neoliberalism]] 
 
-### #is_/same_as :: [Neoliberalism.public](/_public/Society/Ideology/Economic_Ideology/Neoliberalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Neoliberalism.public|Neoliberalism.public]] 
 
-### #is_/same_as :: [Neoliberalism.internal](/_internal/Society/Ideology/Economic_Ideology/Neoliberalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Neoliberalism.internal|Neoliberalism.internal]] 
 
-### #is_/same_as :: [Neoliberalism.protect](/_protect/Society/Ideology/Economic_Ideology/Neoliberalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Neoliberalism.protect|Neoliberalism.protect]] 
 
-### #is_/same_as :: [Neoliberalism.private](/_private/Society/Ideology/Economic_Ideology/Neoliberalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Neoliberalism.private|Neoliberalism.private]] 
 
-### #is_/same_as :: [Neoliberalism.personal](/_personal/Society/Ideology/Economic_Ideology/Neoliberalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Neoliberalism.personal|Neoliberalism.personal]] 
 
-### #is_/same_as :: [Neoliberalism.secret](/_secret/Society/Ideology/Economic_Ideology/Neoliberalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Neoliberalism.secret|Neoliberalism.secret]] 
 

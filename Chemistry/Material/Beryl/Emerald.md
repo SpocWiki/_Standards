@@ -47,17 +47,17 @@ Baidu_Tieba_name: 祖母绿
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emerald](/_Standards/Chemistry/Material/Beryl/Emerald.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Beryl/Emerald|Emerald]] 
 
-### #is_/same_as :: [Emerald.public](/_public/Chemistry/Material/Beryl/Emerald.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Beryl/Emerald.public|Emerald.public]] 
 
-### #is_/same_as :: [Emerald.internal](/_internal/Chemistry/Material/Beryl/Emerald.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Beryl/Emerald.internal|Emerald.internal]] 
 
-### #is_/same_as :: [Emerald.protect](/_protect/Chemistry/Material/Beryl/Emerald.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Beryl/Emerald.protect|Emerald.protect]] 
 
-### #is_/same_as :: [Emerald.private](/_private/Chemistry/Material/Beryl/Emerald.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Beryl/Emerald.private|Emerald.private]] 
 
-### #is_/same_as :: [Emerald.personal](/_personal/Chemistry/Material/Beryl/Emerald.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Beryl/Emerald.personal|Emerald.personal]] 
 
-### #is_/same_as :: [Emerald.secret](/_secret/Chemistry/Material/Beryl/Emerald.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Beryl/Emerald.secret|Emerald.secret]] 
 

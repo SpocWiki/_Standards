@@ -58,17 +58,17 @@ Commons_category: Mojito
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mojito](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito|Mojito]] 
 
-### #is_/same_as :: [Mojito.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.public|Mojito.public]] 
 
-### #is_/same_as :: [Mojito.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.internal|Mojito.internal]] 
 
-### #is_/same_as :: [Mojito.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.protect|Mojito.protect]] 
 
-### #is_/same_as :: [Mojito.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.private|Mojito.private]] 
 
-### #is_/same_as :: [Mojito.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.personal|Mojito.personal]] 
 
-### #is_/same_as :: [Mojito.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail/Mojito.secret|Mojito.secret]] 
 

@@ -88,17 +88,17 @@ spectral_class: O9.7Iabpvar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cygnus_X-1](/_Standards/Astronomy/Black_Hole/Cygnus_X-1.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole/Cygnus_X-1|Cygnus_X-1]] 
 
-### #is_/same_as :: [Cygnus_X-1.public](/_public/Astronomy/Black_Hole/Cygnus_X-1.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole/Cygnus_X-1.public|Cygnus_X-1.public]] 
 
-### #is_/same_as :: [Cygnus_X-1.internal](/_internal/Astronomy/Black_Hole/Cygnus_X-1.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole/Cygnus_X-1.internal|Cygnus_X-1.internal]] 
 
-### #is_/same_as :: [Cygnus_X-1.protect](/_protect/Astronomy/Black_Hole/Cygnus_X-1.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole/Cygnus_X-1.protect|Cygnus_X-1.protect]] 
 
-### #is_/same_as :: [Cygnus_X-1.private](/_private/Astronomy/Black_Hole/Cygnus_X-1.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole/Cygnus_X-1.private|Cygnus_X-1.private]] 
 
-### #is_/same_as :: [Cygnus_X-1.personal](/_personal/Astronomy/Black_Hole/Cygnus_X-1.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole/Cygnus_X-1.personal|Cygnus_X-1.personal]] 
 
-### #is_/same_as :: [Cygnus_X-1.secret](/_secret/Astronomy/Black_Hole/Cygnus_X-1.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole/Cygnus_X-1.secret|Cygnus_X-1.secret]] 
 

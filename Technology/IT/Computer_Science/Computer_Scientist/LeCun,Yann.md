@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LeCun,Yann](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann|LeCun,Yann]] 
 
-### #is_/same_as :: [LeCun,Yann.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.public|LeCun,Yann.public]] 
 
-### #is_/same_as :: [LeCun,Yann.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.internal|LeCun,Yann.internal]] 
 
-### #is_/same_as :: [LeCun,Yann.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.protect|LeCun,Yann.protect]] 
 
-### #is_/same_as :: [LeCun,Yann.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.private|LeCun,Yann.private]] 
 
-### #is_/same_as :: [LeCun,Yann.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.personal|LeCun,Yann.personal]] 
 
-### #is_/same_as :: [LeCun,Yann.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/LeCun,Yann.secret|LeCun,Yann.secret]] 
 

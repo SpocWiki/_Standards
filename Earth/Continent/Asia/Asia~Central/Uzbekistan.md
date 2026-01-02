@@ -464,17 +464,17 @@ Capital :: [[Uzbekistan/Counties/Tashkent/City/Taschkent]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uzbekistan](/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Uzbekistan|Uzbekistan]] 
 
-### #is_/same_as :: [Uzbekistan.public](/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Uzbekistan.public|Uzbekistan.public]] 
 
-### #is_/same_as :: [Uzbekistan.internal](/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Uzbekistan.internal|Uzbekistan.internal]] 
 
-### #is_/same_as :: [Uzbekistan.protect](/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Uzbekistan.protect|Uzbekistan.protect]] 
 
-### #is_/same_as :: [Uzbekistan.private](/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Uzbekistan.private|Uzbekistan.private]] 
 
-### #is_/same_as :: [Uzbekistan.personal](/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Uzbekistan.personal|Uzbekistan.personal]] 
 
-### #is_/same_as :: [Uzbekistan.secret](/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Uzbekistan.secret|Uzbekistan.secret]] 
 

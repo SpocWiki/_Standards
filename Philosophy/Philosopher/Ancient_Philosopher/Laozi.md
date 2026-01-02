@@ -101,17 +101,17 @@ temple_name: 聖祖
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laozi](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Laozi.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Laozi|Laozi]] 
 
-### #is_/same_as :: [Laozi.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Laozi.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Laozi.public|Laozi.public]] 
 
-### #is_/same_as :: [Laozi.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.internal|Laozi.internal]] 
 
-### #is_/same_as :: [Laozi.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Laozi.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Laozi.protect|Laozi.protect]] 
 
-### #is_/same_as :: [Laozi.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Laozi.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Laozi.private|Laozi.private]] 
 
-### #is_/same_as :: [Laozi.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Laozi.personal|Laozi.personal]] 
 
-### #is_/same_as :: [Laozi.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Laozi.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Laozi.secret|Laozi.secret]] 
 

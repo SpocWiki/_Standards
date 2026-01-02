@@ -32,17 +32,17 @@ contributing_factor_of: "[[_Standards/WikiData/WD~behavior,9332]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disposition](/_Standards/bio/Psychology/Personality_Psychology/Personality/Disposition.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality/Disposition|Disposition]] 
 
-### #is_/same_as :: [Disposition.public](/_public/bio/Psychology/Personality_Psychology/Personality/Disposition.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality/Disposition.public|Disposition.public]] 
 
-### #is_/same_as :: [Disposition.internal](/_internal/bio/Psychology/Personality_Psychology/Personality/Disposition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality/Disposition.internal|Disposition.internal]] 
 
-### #is_/same_as :: [Disposition.protect](/_protect/bio/Psychology/Personality_Psychology/Personality/Disposition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality/Disposition.protect|Disposition.protect]] 
 
-### #is_/same_as :: [Disposition.private](/_private/bio/Psychology/Personality_Psychology/Personality/Disposition.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality/Disposition.private|Disposition.private]] 
 
-### #is_/same_as :: [Disposition.personal](/_personal/bio/Psychology/Personality_Psychology/Personality/Disposition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality/Disposition.personal|Disposition.personal]] 
 
-### #is_/same_as :: [Disposition.secret](/_secret/bio/Psychology/Personality_Psychology/Personality/Disposition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality/Disposition.secret|Disposition.secret]] 
 

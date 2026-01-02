@@ -232,17 +232,17 @@ Weakness leads to Dishonesty and Resentment when Goals are denied.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nietzsche,Friedrich](/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich|Nietzsche,Friedrich]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.public](/_public/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.public|Nietzsche,Friedrich.public]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.internal](/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.internal|Nietzsche,Friedrich.internal]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.protect](/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.protect|Nietzsche,Friedrich.protect]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.private](/_private/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.private|Nietzsche,Friedrich.private]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.personal](/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.personal|Nietzsche,Friedrich.personal]] 
 
-### #is_/same_as :: [Nietzsche,Friedrich.secret](/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Early_modern_Philosopher/Nietzsche,Friedrich.secret|Nietzsche,Friedrich.secret]] 
 

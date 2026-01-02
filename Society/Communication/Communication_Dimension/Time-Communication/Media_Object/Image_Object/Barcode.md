@@ -39,17 +39,17 @@ An image of a visual machine-readable code such as a barcode or QR code.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barcode](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode|Barcode]] 
 
-### #is_/same_as :: [Barcode.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.public|Barcode.public]] 
 
-### #is_/same_as :: [Barcode.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.internal|Barcode.internal]] 
 
-### #is_/same_as :: [Barcode.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.protect|Barcode.protect]] 
 
-### #is_/same_as :: [Barcode.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.private|Barcode.private]] 
 
-### #is_/same_as :: [Barcode.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.personal|Barcode.personal]] 
 
-### #is_/same_as :: [Barcode.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Image_Object/Barcode.secret|Barcode.secret]] 
 

@@ -40,17 +40,17 @@ GeoNames_feature_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guyot](/_Standards/Earth/Geology/Landform/Guyot.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Guyot|Guyot]] 
 
-### #is_/same_as :: [Guyot.public](/_public/Earth/Geology/Landform/Guyot.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Guyot.public|Guyot.public]] 
 
-### #is_/same_as :: [Guyot.internal](/_internal/Earth/Geology/Landform/Guyot.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Guyot.internal|Guyot.internal]] 
 
-### #is_/same_as :: [Guyot.protect](/_protect/Earth/Geology/Landform/Guyot.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Guyot.protect|Guyot.protect]] 
 
-### #is_/same_as :: [Guyot.private](/_private/Earth/Geology/Landform/Guyot.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Guyot.private|Guyot.private]] 
 
-### #is_/same_as :: [Guyot.personal](/_personal/Earth/Geology/Landform/Guyot.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Guyot.personal|Guyot.personal]] 
 
-### #is_/same_as :: [Guyot.secret](/_secret/Earth/Geology/Landform/Guyot.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Guyot.secret|Guyot.secret]] 
 

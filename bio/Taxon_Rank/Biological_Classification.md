@@ -92,17 +92,17 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Classification](/_Standards/bio/Taxon_Rank/Biological_Classification.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/Biological_Classification|Biological_Classification]] 
 
-### #is_/same_as :: [Biological_Classification.public](/_public/bio/Taxon_Rank/Biological_Classification.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/Biological_Classification.public|Biological_Classification.public]] 
 
-### #is_/same_as :: [Biological_Classification.internal](/_internal/bio/Taxon_Rank/Biological_Classification.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/Biological_Classification.internal|Biological_Classification.internal]] 
 
-### #is_/same_as :: [Biological_Classification.protect](/_protect/bio/Taxon_Rank/Biological_Classification.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/Biological_Classification.protect|Biological_Classification.protect]] 
 
-### #is_/same_as :: [Biological_Classification.private](/_private/bio/Taxon_Rank/Biological_Classification.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/Biological_Classification.private|Biological_Classification.private]] 
 
-### #is_/same_as :: [Biological_Classification.personal](/_personal/bio/Taxon_Rank/Biological_Classification.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/Biological_Classification.personal|Biological_Classification.personal]] 
 
-### #is_/same_as :: [Biological_Classification.secret](/_secret/bio/Taxon_Rank/Biological_Classification.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/Biological_Classification.secret|Biological_Classification.secret]] 
 

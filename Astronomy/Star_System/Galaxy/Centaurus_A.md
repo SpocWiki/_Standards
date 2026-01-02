@@ -134,17 +134,17 @@ Commons_category: Centaurus A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Centaurus_A](/_Standards/Astronomy/Star_System/Galaxy/Centaurus_A.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Galaxy/Centaurus_A|Centaurus_A]] 
 
-### #is_/same_as :: [Centaurus_A.public](/_public/Astronomy/Star_System/Galaxy/Centaurus_A.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Galaxy/Centaurus_A.public|Centaurus_A.public]] 
 
-### #is_/same_as :: [Centaurus_A.internal](/_internal/Astronomy/Star_System/Galaxy/Centaurus_A.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Galaxy/Centaurus_A.internal|Centaurus_A.internal]] 
 
-### #is_/same_as :: [Centaurus_A.protect](/_protect/Astronomy/Star_System/Galaxy/Centaurus_A.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Galaxy/Centaurus_A.protect|Centaurus_A.protect]] 
 
-### #is_/same_as :: [Centaurus_A.private](/_private/Astronomy/Star_System/Galaxy/Centaurus_A.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Galaxy/Centaurus_A.private|Centaurus_A.private]] 
 
-### #is_/same_as :: [Centaurus_A.personal](/_personal/Astronomy/Star_System/Galaxy/Centaurus_A.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Galaxy/Centaurus_A.personal|Centaurus_A.personal]] 
 
-### #is_/same_as :: [Centaurus_A.secret](/_secret/Astronomy/Star_System/Galaxy/Centaurus_A.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Galaxy/Centaurus_A.secret|Centaurus_A.secret]] 
 

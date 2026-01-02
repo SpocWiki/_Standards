@@ -84,17 +84,17 @@ OpenStreetMap_tag_or_key: Tag:resource=clay
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clay](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay|Clay]] 
 
-### #is_/same_as :: [Clay.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.public|Clay.public]] 
 
-### #is_/same_as :: [Clay.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.internal|Clay.internal]] 
 
-### #is_/same_as :: [Clay.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.protect|Clay.protect]] 
 
-### #is_/same_as :: [Clay.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.private|Clay.private]] 
 
-### #is_/same_as :: [Clay.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.personal|Clay.personal]] 
 
-### #is_/same_as :: [Clay.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Clay.secret|Clay.secret]] 
 

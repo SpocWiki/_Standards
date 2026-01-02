@@ -44,17 +44,17 @@ Commons_category: Inorganic compounds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inorganic_Compound](/_Standards/Chemistry/Inorganic_Chemistry/Inorganic_Compound.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Inorganic_Compound|Inorganic_Compound]] 
 
-### #is_/same_as :: [Inorganic_Compound.public](/_public/Chemistry/Inorganic_Chemistry/Inorganic_Compound.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Inorganic_Compound.public|Inorganic_Compound.public]] 
 
-### #is_/same_as :: [Inorganic_Compound.internal](/_internal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.internal|Inorganic_Compound.internal]] 
 
-### #is_/same_as :: [Inorganic_Compound.protect](/_protect/Chemistry/Inorganic_Chemistry/Inorganic_Compound.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Inorganic_Compound.protect|Inorganic_Compound.protect]] 
 
-### #is_/same_as :: [Inorganic_Compound.private](/_private/Chemistry/Inorganic_Chemistry/Inorganic_Compound.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Inorganic_Compound.private|Inorganic_Compound.private]] 
 
-### #is_/same_as :: [Inorganic_Compound.personal](/_personal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Inorganic_Compound.personal|Inorganic_Compound.personal]] 
 
-### #is_/same_as :: [Inorganic_Compound.secret](/_secret/Chemistry/Inorganic_Chemistry/Inorganic_Compound.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Inorganic_Compound.secret|Inorganic_Compound.secret]] 
 

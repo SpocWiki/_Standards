@@ -46,17 +46,17 @@ has_id_wikidata:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nymph(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology)|Nymph(Mythology)]] 
 
-### #is_/same_as :: [Nymph(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).public|Nymph(Mythology).public]] 
 
-### #is_/same_as :: [Nymph(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).internal|Nymph(Mythology).internal]] 
 
-### #is_/same_as :: [Nymph(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).protect|Nymph(Mythology).protect]] 
 
-### #is_/same_as :: [Nymph(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).private|Nymph(Mythology).private]] 
 
-### #is_/same_as :: [Nymph(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).personal|Nymph(Mythology).personal]] 
 
-### #is_/same_as :: [Nymph(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Nymph(Mythology).secret|Nymph(Mythology).secret]] 
 

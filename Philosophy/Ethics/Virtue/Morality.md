@@ -49,17 +49,17 @@ Commons_category: Morality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morality](Morality.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Virtue/Morality|Morality]] 
 
-### #is_/same_as :: [Morality.public](/_public/Philosophy/Ethics/Morality.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Virtue/Morality.public|Morality.public]] 
 
-### #is_/same_as :: [Morality.internal](/_internal/Philosophy/Ethics/Morality.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Virtue/Morality.internal|Morality.internal]] 
 
-### #is_/same_as :: [Morality.protect](/_protect/Philosophy/Ethics/Morality.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Virtue/Morality.protect|Morality.protect]] 
 
-### #is_/same_as :: [Morality.private](/_private/Philosophy/Ethics/Morality.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Virtue/Morality.private|Morality.private]] 
 
-### #is_/same_as :: [Morality.personal](/_personal/Philosophy/Ethics/Morality.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Virtue/Morality.personal|Morality.personal]] 
 
-### #is_/same_as :: [Morality.secret](/_secret/Philosophy/Ethics/Morality.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Virtue/Morality.secret|Morality.secret]] 
 

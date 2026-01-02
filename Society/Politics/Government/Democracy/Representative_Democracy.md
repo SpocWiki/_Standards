@@ -63,17 +63,17 @@ PhilPapers_topic: representative-democracy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Representative_Democracy](/_Standards/Society/Politics/Government/Democracy/Representative_Democracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Representative_Democracy|Representative_Democracy]] 
 
-### #is_/same_as :: [Representative_Democracy.public](/_public/Society/Politics/Government/Democracy/Representative_Democracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Representative_Democracy.public|Representative_Democracy.public]] 
 
-### #is_/same_as :: [Representative_Democracy.internal](/_internal/Society/Politics/Government/Democracy/Representative_Democracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Representative_Democracy.internal|Representative_Democracy.internal]] 
 
-### #is_/same_as :: [Representative_Democracy.protect](/_protect/Society/Politics/Government/Democracy/Representative_Democracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Representative_Democracy.protect|Representative_Democracy.protect]] 
 
-### #is_/same_as :: [Representative_Democracy.private](/_private/Society/Politics/Government/Democracy/Representative_Democracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Representative_Democracy.private|Representative_Democracy.private]] 
 
-### #is_/same_as :: [Representative_Democracy.personal](/_personal/Society/Politics/Government/Democracy/Representative_Democracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Representative_Democracy.personal|Representative_Democracy.personal]] 
 
-### #is_/same_as :: [Representative_Democracy.secret](/_secret/Society/Politics/Government/Democracy/Representative_Democracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Representative_Democracy.secret|Representative_Democracy.secret]] 
 

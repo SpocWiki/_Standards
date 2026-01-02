@@ -171,17 +171,17 @@ A library.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Library](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library|Library]] 
 
-### #is_/same_as :: [Library.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library.public|Library.public]] 
 
-### #is_/same_as :: [Library.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library.internal|Library.internal]] 
 
-### #is_/same_as :: [Library.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library.protect|Library.protect]] 
 
-### #is_/same_as :: [Library.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library.private|Library.private]] 
 
-### #is_/same_as :: [Library.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library.personal|Library.personal]] 
 
-### #is_/same_as :: [Library.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library.secret|Library.secret]] 
 

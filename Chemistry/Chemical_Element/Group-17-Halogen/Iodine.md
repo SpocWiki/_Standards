@@ -133,17 +133,17 @@ Unicode_character: 碘
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iodine](/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine|Iodine]] 
 
-### #is_/same_as :: [Iodine.public](/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public|Iodine.public]] 
 
-### #is_/same_as :: [Iodine.internal](/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.internal|Iodine.internal]] 
 
-### #is_/same_as :: [Iodine.protect](/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.protect|Iodine.protect]] 
 
-### #is_/same_as :: [Iodine.private](/_private/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.private|Iodine.private]] 
 
-### #is_/same_as :: [Iodine.personal](/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal|Iodine.personal]] 
 
-### #is_/same_as :: [Iodine.secret](/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret|Iodine.secret]] 
 

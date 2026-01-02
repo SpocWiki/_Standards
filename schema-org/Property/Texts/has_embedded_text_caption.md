@@ -50,17 +50,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_embedded_text_caption](/_Standards/schema-org/Property/Texts/has_embedded_text_caption.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_embedded_text_caption|has_embedded_text_caption]] 
 
-### #is_/same_as :: [has_embedded_text_caption.public](/_public/schema-org/Property/Texts/has_embedded_text_caption.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_embedded_text_caption.public|has_embedded_text_caption.public]] 
 
-### #is_/same_as :: [has_embedded_text_caption.internal](/_internal/schema-org/Property/Texts/has_embedded_text_caption.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_embedded_text_caption.internal|has_embedded_text_caption.internal]] 
 
-### #is_/same_as :: [has_embedded_text_caption.protect](/_protect/schema-org/Property/Texts/has_embedded_text_caption.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_embedded_text_caption.protect|has_embedded_text_caption.protect]] 
 
-### #is_/same_as :: [has_embedded_text_caption.private](/_private/schema-org/Property/Texts/has_embedded_text_caption.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_embedded_text_caption.private|has_embedded_text_caption.private]] 
 
-### #is_/same_as :: [has_embedded_text_caption.personal](/_personal/schema-org/Property/Texts/has_embedded_text_caption.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_embedded_text_caption.personal|has_embedded_text_caption.personal]] 
 
-### #is_/same_as :: [has_embedded_text_caption.secret](/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_embedded_text_caption.secret|has_embedded_text_caption.secret]] 
 

@@ -54,17 +54,17 @@ Commons_category: Rayleigh scattering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rayleigh_Scattering](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering|Rayleigh_Scattering]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.public|Rayleigh_Scattering.public]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.internal|Rayleigh_Scattering.internal]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.protect|Rayleigh_Scattering.protect]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.private|Rayleigh_Scattering.private]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.personal|Rayleigh_Scattering.personal]] 
 
-### #is_/same_as :: [Rayleigh_Scattering.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Rayleigh_Scattering.secret|Rayleigh_Scattering.secret]] 
 

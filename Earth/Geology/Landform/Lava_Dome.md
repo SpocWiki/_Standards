@@ -40,17 +40,17 @@ Commons_category: Lava domes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lava_Dome](/_Standards/Earth/Geology/Landform/Lava_Dome.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Lava_Dome|Lava_Dome]] 
 
-### #is_/same_as :: [Lava_Dome.public](/_public/Earth/Geology/Landform/Lava_Dome.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Lava_Dome.public|Lava_Dome.public]] 
 
-### #is_/same_as :: [Lava_Dome.internal](/_internal/Earth/Geology/Landform/Lava_Dome.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Lava_Dome.internal|Lava_Dome.internal]] 
 
-### #is_/same_as :: [Lava_Dome.protect](/_protect/Earth/Geology/Landform/Lava_Dome.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Lava_Dome.protect|Lava_Dome.protect]] 
 
-### #is_/same_as :: [Lava_Dome.private](/_private/Earth/Geology/Landform/Lava_Dome.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Lava_Dome.private|Lava_Dome.private]] 
 
-### #is_/same_as :: [Lava_Dome.personal](/_personal/Earth/Geology/Landform/Lava_Dome.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Lava_Dome.personal|Lava_Dome.personal]] 
 
-### #is_/same_as :: [Lava_Dome.secret](/_secret/Earth/Geology/Landform/Lava_Dome.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Lava_Dome.secret|Lava_Dome.secret]] 
 

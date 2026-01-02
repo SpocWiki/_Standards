@@ -137,17 +137,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_logic,7112678]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logic](/_Standards/Philosophy/Logic.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic|Logic]] 
 
-### #is_/same_as :: [Logic.public](/_public/Philosophy/Logic.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic.public|Logic.public]] 
 
-### #is_/same_as :: [Logic.internal](/_internal/Philosophy/Logic.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic.internal|Logic.internal]] 
 
-### #is_/same_as :: [Logic.protect](/_protect/Philosophy/Logic.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic.protect|Logic.protect]] 
 
-### #is_/same_as :: [Logic.private](/_private/Philosophy/Logic.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic.private|Logic.private]] 
 
-### #is_/same_as :: [Logic.personal](/_personal/Philosophy/Logic.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic.personal|Logic.personal]] 
 
-### #is_/same_as :: [Logic.secret](/_secret/Philosophy/Logic.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic.secret|Logic.secret]] 
 

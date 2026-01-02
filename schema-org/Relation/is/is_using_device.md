@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_using_device](/_Standards/schema-org/Relation/is/is_using_device.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_using_device|is_using_device]] 
 
-### #is_/same_as :: [is_using_device.public](/_public/schema-org/Relation/is/is_using_device.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_using_device.public|is_using_device.public]] 
 
-### #is_/same_as :: [is_using_device.internal](/_internal/schema-org/Relation/is/is_using_device.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_using_device.internal|is_using_device.internal]] 
 
-### #is_/same_as :: [is_using_device.protect](/_protect/schema-org/Relation/is/is_using_device.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_using_device.protect|is_using_device.protect]] 
 
-### #is_/same_as :: [is_using_device.private](/_private/schema-org/Relation/is/is_using_device.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_using_device.private|is_using_device.private]] 
 
-### #is_/same_as :: [is_using_device.personal](/_personal/schema-org/Relation/is/is_using_device.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_using_device.personal|is_using_device.personal]] 
 
-### #is_/same_as :: [is_using_device.secret](/_secret/schema-org/Relation/is/is_using_device.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_using_device.secret|is_using_device.secret]] 
 

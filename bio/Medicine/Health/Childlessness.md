@@ -28,17 +28,17 @@ Commons_category: Childlessness
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Childlessness](/_Standards/bio/Medicine/Health/Childlessness.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Childlessness|Childlessness]] 
 
-### #is_/same_as :: [Childlessness.public](/_public/bio/Medicine/Health/Childlessness.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Childlessness.public|Childlessness.public]] 
 
-### #is_/same_as :: [Childlessness.internal](/_internal/bio/Medicine/Health/Childlessness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Childlessness.internal|Childlessness.internal]] 
 
-### #is_/same_as :: [Childlessness.protect](/_protect/bio/Medicine/Health/Childlessness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Childlessness.protect|Childlessness.protect]] 
 
-### #is_/same_as :: [Childlessness.private](/_private/bio/Medicine/Health/Childlessness.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Childlessness.private|Childlessness.private]] 
 
-### #is_/same_as :: [Childlessness.personal](/_personal/bio/Medicine/Health/Childlessness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Childlessness.personal|Childlessness.personal]] 
 
-### #is_/same_as :: [Childlessness.secret](/_secret/bio/Medicine/Health/Childlessness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Childlessness.secret|Childlessness.secret]] 
 

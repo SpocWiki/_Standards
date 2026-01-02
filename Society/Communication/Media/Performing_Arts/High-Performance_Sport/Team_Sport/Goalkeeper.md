@@ -90,17 +90,17 @@ Commons_category: Goalkeepers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goalkeeper](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper|Goalkeeper]] 
 
-### #is_/same_as :: [Goalkeeper.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.public|Goalkeeper.public]] 
 
-### #is_/same_as :: [Goalkeeper.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.internal|Goalkeeper.internal]] 
 
-### #is_/same_as :: [Goalkeeper.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.protect|Goalkeeper.protect]] 
 
-### #is_/same_as :: [Goalkeeper.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.private|Goalkeeper.private]] 
 
-### #is_/same_as :: [Goalkeeper.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.personal|Goalkeeper.personal]] 
 
-### #is_/same_as :: [Goalkeeper.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Goalkeeper.secret|Goalkeeper.secret]] 
 

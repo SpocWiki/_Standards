@@ -52,3 +52,22 @@ Dewey_Decimal_Classification: "389.17"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Time%20zone) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time/Time_Zone|Time_Zone]] 
+
+### #is_/same_as :: [[/_public/Dimension/Dim~Time/Time_Zone.public|Time_Zone.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time/Time_Zone.internal|Time_Zone.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time/Time_Zone.protect|Time_Zone.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Dim~Time/Time_Zone.private|Time_Zone.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time/Time_Zone.personal|Time_Zone.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time/Time_Zone.secret|Time_Zone.secret]] 
+

@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wayne's_World](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World|Wayne's_World]] 
 
-### #is_/same_as :: [Wayne's_World.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.public|Wayne's_World.public]] 
 
-### #is_/same_as :: [Wayne's_World.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.internal|Wayne's_World.internal]] 
 
-### #is_/same_as :: [Wayne's_World.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.protect|Wayne's_World.protect]] 
 
-### #is_/same_as :: [Wayne's_World.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.private|Wayne's_World.private]] 
 
-### #is_/same_as :: [Wayne's_World.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.personal|Wayne's_World.personal]] 
 
-### #is_/same_as :: [Wayne's_World.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Wayne's_World.secret|Wayne's_World.secret]] 
 

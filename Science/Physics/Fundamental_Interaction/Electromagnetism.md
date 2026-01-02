@@ -56,17 +56,17 @@ IPTC_NewsCode: mediatopic/20000732
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetism](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism|Electromagnetism]] 
 
-### #is_/same_as :: [Electromagnetism.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism.public|Electromagnetism.public]] 
 
-### #is_/same_as :: [Electromagnetism.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism.internal|Electromagnetism.internal]] 
 
-### #is_/same_as :: [Electromagnetism.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism.protect|Electromagnetism.protect]] 
 
-### #is_/same_as :: [Electromagnetism.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism.private|Electromagnetism.private]] 
 
-### #is_/same_as :: [Electromagnetism.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism.personal|Electromagnetism.personal]] 
 
-### #is_/same_as :: [Electromagnetism.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism.secret|Electromagnetism.secret]] 
 

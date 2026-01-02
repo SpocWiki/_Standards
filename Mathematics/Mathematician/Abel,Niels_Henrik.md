@@ -123,17 +123,17 @@ date_of_birth: 1802-08-05T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abel,Niels_Henrik](/_Standards/Mathematics/Mathematician/Abel,Niels_Henrik.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Abel,Niels_Henrik|Abel,Niels_Henrik]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.public](/_public/Mathematics/Mathematician/Abel,Niels_Henrik.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Abel,Niels_Henrik.public|Abel,Niels_Henrik.public]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.internal](/_internal/Mathematics/Mathematician/Abel,Niels_Henrik.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Abel,Niels_Henrik.internal|Abel,Niels_Henrik.internal]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.protect](/_protect/Mathematics/Mathematician/Abel,Niels_Henrik.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Abel,Niels_Henrik.protect|Abel,Niels_Henrik.protect]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.private](/_private/Mathematics/Mathematician/Abel,Niels_Henrik.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Abel,Niels_Henrik.private|Abel,Niels_Henrik.private]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.personal](/_personal/Mathematics/Mathematician/Abel,Niels_Henrik.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Abel,Niels_Henrik.personal|Abel,Niels_Henrik.personal]] 
 
-### #is_/same_as :: [Abel,Niels_Henrik.secret](/_secret/Mathematics/Mathematician/Abel,Niels_Henrik.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Abel,Niels_Henrik.secret|Abel,Niels_Henrik.secret]] 
 

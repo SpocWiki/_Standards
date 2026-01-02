@@ -46,17 +46,17 @@ official_name: Triangulum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Triangulum](/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Triangulum|Zodiac~Triangulum]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.public](/_public/Astronomy/Star~Constellation/Zodiac~Triangulum.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Triangulum.public|Zodiac~Triangulum.public]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Triangulum.internal|Zodiac~Triangulum.internal]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Triangulum.protect|Zodiac~Triangulum.protect]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.private](/_private/Astronomy/Star~Constellation/Zodiac~Triangulum.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Triangulum.private|Zodiac~Triangulum.private]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Triangulum.personal|Zodiac~Triangulum.personal]] 
 
-### #is_/same_as :: [Zodiac~Triangulum.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Triangulum.secret|Zodiac~Triangulum.secret]] 
 

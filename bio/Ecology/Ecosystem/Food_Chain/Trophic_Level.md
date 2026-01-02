@@ -32,17 +32,17 @@ different_from: "[[_Standards/WikiData/WD~Trophic_level_index,7845626]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trophic_Level](/_Standards/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level|Trophic_Level]] 
 
-### #is_/same_as :: [Trophic_Level.public](/_public/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.public|Trophic_Level.public]] 
 
-### #is_/same_as :: [Trophic_Level.internal](/_internal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.internal|Trophic_Level.internal]] 
 
-### #is_/same_as :: [Trophic_Level.protect](/_protect/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.protect|Trophic_Level.protect]] 
 
-### #is_/same_as :: [Trophic_Level.private](/_private/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.private|Trophic_Level.private]] 
 
-### #is_/same_as :: [Trophic_Level.personal](/_personal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.personal|Trophic_Level.personal]] 
 
-### #is_/same_as :: [Trophic_Level.secret](/_secret/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Food_Chain/Trophic_Level.secret|Trophic_Level.secret]] 
 

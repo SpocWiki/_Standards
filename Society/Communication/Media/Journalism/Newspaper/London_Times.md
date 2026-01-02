@@ -109,17 +109,17 @@ inception: 1785-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [London_Times](/_Standards/Society/Communication/Media/Journalism/Newspaper/London_Times.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/London_Times|London_Times]] 
 
-### #is_/same_as :: [London_Times.public](/_public/Society/Communication/Media/Journalism/Newspaper/London_Times.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/London_Times.public|London_Times.public]] 
 
-### #is_/same_as :: [London_Times.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/London_Times.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/London_Times.internal|London_Times.internal]] 
 
-### #is_/same_as :: [London_Times.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/London_Times.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/London_Times.protect|London_Times.protect]] 
 
-### #is_/same_as :: [London_Times.private](/_private/Society/Communication/Media/Journalism/Newspaper/London_Times.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/London_Times.private|London_Times.private]] 
 
-### #is_/same_as :: [London_Times.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/London_Times.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/London_Times.personal|London_Times.personal]] 
 
-### #is_/same_as :: [London_Times.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/London_Times.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/London_Times.secret|London_Times.secret]] 
 

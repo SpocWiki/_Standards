@@ -104,17 +104,17 @@ Commons_category: Sculpturing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sculpture](/_Standards/Society/Communication/Art/Sculpture.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Sculpture|Sculpture]] 
 
-### #is_/same_as :: [Sculpture.public](/_public/Society/Communication/Art/Sculpture.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Sculpture.public|Sculpture.public]] 
 
-### #is_/same_as :: [Sculpture.internal](/_internal/Society/Communication/Art/Sculpture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Sculpture.internal|Sculpture.internal]] 
 
-### #is_/same_as :: [Sculpture.protect](/_protect/Society/Communication/Art/Sculpture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Sculpture.protect|Sculpture.protect]] 
 
-### #is_/same_as :: [Sculpture.private](/_private/Society/Communication/Art/Sculpture.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Sculpture.private|Sculpture.private]] 
 
-### #is_/same_as :: [Sculpture.personal](/_personal/Society/Communication/Art/Sculpture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Sculpture.personal|Sculpture.personal]] 
 
-### #is_/same_as :: [Sculpture.secret](/_secret/Society/Communication/Art/Sculpture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Sculpture.secret|Sculpture.secret]] 
 

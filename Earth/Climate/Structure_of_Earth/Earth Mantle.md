@@ -42,17 +42,17 @@ Commons_category: Structure of the Earth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth Mantle](/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle|Earth Mantle]] 
 
-### #is_/same_as :: [Earth Mantle.public](/_public/Earth/Climate/Structure_of_Earth/Earth Mantle.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle.public|Earth Mantle.public]] 
 
-### #is_/same_as :: [Earth Mantle.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle.internal|Earth Mantle.internal]] 
 
-### #is_/same_as :: [Earth Mantle.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle.protect|Earth Mantle.protect]] 
 
-### #is_/same_as :: [Earth Mantle.private](/_private/Earth/Climate/Structure_of_Earth/Earth Mantle.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle.private|Earth Mantle.private]] 
 
-### #is_/same_as :: [Earth Mantle.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle.personal|Earth Mantle.personal]] 
 
-### #is_/same_as :: [Earth Mantle.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle.secret|Earth Mantle.secret]] 
 

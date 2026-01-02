@@ -100,17 +100,17 @@ IMDb_keyword: reference-to-tarzan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tarzan](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan|Tarzan]] 
 
-### #is_/same_as :: [Tarzan.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.public|Tarzan.public]] 
 
-### #is_/same_as :: [Tarzan.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.internal|Tarzan.internal]] 
 
-### #is_/same_as :: [Tarzan.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.protect|Tarzan.protect]] 
 
-### #is_/same_as :: [Tarzan.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.private|Tarzan.private]] 
 
-### #is_/same_as :: [Tarzan.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.personal|Tarzan.personal]] 
 
-### #is_/same_as :: [Tarzan.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Tarzan.secret|Tarzan.secret]] 
 

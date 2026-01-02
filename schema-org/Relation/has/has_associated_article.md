@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_associated_article](/_Standards/schema-org/Relation/has/has_associated_article.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_associated_article|has_associated_article]] 
 
-### #is_/same_as :: [has_associated_article.public](/_public/schema-org/Relation/has/has_associated_article.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_associated_article.public|has_associated_article.public]] 
 
-### #is_/same_as :: [has_associated_article.internal](/_internal/schema-org/Relation/has/has_associated_article.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_associated_article.internal|has_associated_article.internal]] 
 
-### #is_/same_as :: [has_associated_article.protect](/_protect/schema-org/Relation/has/has_associated_article.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_associated_article.protect|has_associated_article.protect]] 
 
-### #is_/same_as :: [has_associated_article.private](/_private/schema-org/Relation/has/has_associated_article.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_associated_article.private|has_associated_article.private]] 
 
-### #is_/same_as :: [has_associated_article.personal](/_personal/schema-org/Relation/has/has_associated_article.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_associated_article.personal|has_associated_article.personal]] 
 
-### #is_/same_as :: [has_associated_article.secret](/_secret/schema-org/Relation/has/has_associated_article.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_associated_article.secret|has_associated_article.secret]] 
 

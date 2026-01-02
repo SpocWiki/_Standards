@@ -561,17 +561,17 @@ Capital :: [[Bangladesh/Divisions~Bangladesh/Dhaka/City/Dhaka]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bangladesh](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh|Bangladesh]] 
 
-### #is_/same_as :: [Bangladesh.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.public|Bangladesh.public]] 
 
-### #is_/same_as :: [Bangladesh.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.internal|Bangladesh.internal]] 
 
-### #is_/same_as :: [Bangladesh.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.protect|Bangladesh.protect]] 
 
-### #is_/same_as :: [Bangladesh.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.private|Bangladesh.private]] 
 
-### #is_/same_as :: [Bangladesh.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.personal|Bangladesh.personal]] 
 
-### #is_/same_as :: [Bangladesh.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Bangladesh.secret|Bangladesh.secret]] 
 

@@ -124,17 +124,17 @@ PhilPapers_topic: conspiracy-theories
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conspiracy_theory](/_Standards/Science/Pseudo-Science/Conspiracy_theory.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory|Conspiracy_Theory]] 
 
-### #is_/same_as :: [Conspiracy_theory.public](/_public/Science/Pseudo-Science/Conspiracy_theory.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.public|Conspiracy_Theory.public]] 
 
-### #is_/same_as :: [Conspiracy_theory.internal](/_internal/Science/Pseudo-Science/Conspiracy_theory.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.internal|Conspiracy_Theory.internal]] 
 
-### #is_/same_as :: [Conspiracy_theory.protect](/_protect/Science/Pseudo-Science/Conspiracy_theory.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.protect|Conspiracy_Theory.protect]] 
 
-### #is_/same_as :: [Conspiracy_theory.private](/_private/Science/Pseudo-Science/Conspiracy_theory.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.private|Conspiracy_Theory.private]] 
 
-### #is_/same_as :: [Conspiracy_theory.personal](/_personal/Science/Pseudo-Science/Conspiracy_theory.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.personal|Conspiracy_Theory.personal]] 
 
-### #is_/same_as :: [Conspiracy_theory.secret](/_secret/Science/Pseudo-Science/Conspiracy_theory.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory.secret|Conspiracy_Theory.secret]] 
 

@@ -145,17 +145,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/17230
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Selma_Lagerlöf](/_Standards/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf|Selma_Lagerlöf]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.public](/_public/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.public|Selma_Lagerlöf.public]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.internal|Selma_Lagerlöf.internal]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.protect|Selma_Lagerlöf.protect]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.private](/_private/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.private|Selma_Lagerlöf.private]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.personal|Selma_Lagerlöf.personal]] 
 
-### #is_/same_as :: [Selma_Lagerlöf.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Selma_Lagerlöf.secret|Selma_Lagerlöf.secret]] 
 

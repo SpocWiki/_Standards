@@ -44,17 +44,17 @@ Commons_category: Oil-drop experiment
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oil_Drop_Experiment](/_Standards/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment|Oil_Drop_Experiment]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.public](/_public/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.public|Oil_Drop_Experiment.public]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.internal](/_internal/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.internal|Oil_Drop_Experiment.internal]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.protect](/_protect/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.protect|Oil_Drop_Experiment.protect]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.private](/_private/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.private|Oil_Drop_Experiment.private]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.personal](/_personal/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.personal|Oil_Drop_Experiment.personal]] 
 
-### #is_/same_as :: [Oil_Drop_Experiment.secret](/_secret/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Charge,electric/Oil_Drop_Experiment.secret|Oil_Drop_Experiment.secret]] 
 

@@ -135,19 +135,20 @@ meaning fewer than 1 new mutation per genome per replication cycle on average.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/DNA%20replication)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DNA_Replication](/_Standards/DNA_Replication.md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication|DNA_Replication]] 
 
-### #is_/same_as :: [DNA_Replication.public](/_public/DNA_Replication.public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.public|DNA_Replication.public]] 
 
-### #is_/same_as :: [DNA_Replication.internal](/_internal/DNA_Replication.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.internal|DNA_Replication.internal]] 
 
-### #is_/same_as :: [DNA_Replication.protect](/_protect/DNA_Replication.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.protect|DNA_Replication.protect]] 
 
-### #is_/same_as :: [DNA_Replication.private](/_private/DNA_Replication.private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.private|DNA_Replication.private]] 
 
-### #is_/same_as :: [DNA_Replication.personal](/_personal/DNA_Replication.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.personal|DNA_Replication.personal]] 
 
-### #is_/same_as :: [DNA_Replication.secret](/_secret/DNA_Replication.secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Nucleic_Acid/DNA(Desoxyribo-Nucleic_Acid)/DNA_Replication.secret|DNA_Replication.secret]] 
 

@@ -26,17 +26,17 @@ Commons_category: Application layer protocols
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~7-Application](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application|OSI~7-Application]] 
 
-### #is_/same_as :: [OSI~7-Application.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.public|OSI~7-Application.public]] 
 
-### #is_/same_as :: [OSI~7-Application.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.internal|OSI~7-Application.internal]] 
 
-### #is_/same_as :: [OSI~7-Application.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.protect|OSI~7-Application.protect]] 
 
-### #is_/same_as :: [OSI~7-Application.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.private|OSI~7-Application.private]] 
 
-### #is_/same_as :: [OSI~7-Application.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.personal|OSI~7-Application.personal]] 
 
-### #is_/same_as :: [OSI~7-Application.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~7-Application.secret|OSI~7-Application.secret]] 
 

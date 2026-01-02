@@ -75,17 +75,17 @@ The dimensionless Reynolds-Number is named after him.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reynolds,Osborne](/_Standards/Science/Physics/Physicist/Reynolds,Osborne.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Reynolds,Osborne|Reynolds,Osborne]] 
 
-### #is_/same_as :: [Reynolds,Osborne.public](/_public/Science/Physics/Physicist/Reynolds,Osborne.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Reynolds,Osborne.public|Reynolds,Osborne.public]] 
 
-### #is_/same_as :: [Reynolds,Osborne.internal](/_internal/Science/Physics/Physicist/Reynolds,Osborne.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Reynolds,Osborne.internal|Reynolds,Osborne.internal]] 
 
-### #is_/same_as :: [Reynolds,Osborne.protect](/_protect/Science/Physics/Physicist/Reynolds,Osborne.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Reynolds,Osborne.protect|Reynolds,Osborne.protect]] 
 
-### #is_/same_as :: [Reynolds,Osborne.private](/_private/Science/Physics/Physicist/Reynolds,Osborne.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Reynolds,Osborne.private|Reynolds,Osborne.private]] 
 
-### #is_/same_as :: [Reynolds,Osborne.personal](/_personal/Science/Physics/Physicist/Reynolds,Osborne.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Reynolds,Osborne.personal|Reynolds,Osborne.personal]] 
 
-### #is_/same_as :: [Reynolds,Osborne.secret](/_secret/Science/Physics/Physicist/Reynolds,Osborne.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Reynolds,Osborne.secret|Reynolds,Osborne.secret]] 
 

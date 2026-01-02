@@ -96,17 +96,17 @@ This table is based on official Microsoft documentation and verified sources:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [MMC(Windows_Management-Console)](/_Standards/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console)|MMC(Windows_Management-Console)]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).public](/_public/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).public|MMC(Windows_Management-Console).public]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).internal](/_internal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).internal|MMC(Windows_Management-Console).internal]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).protect](/_protect/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).protect|MMC(Windows_Management-Console).protect]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).private](/_private/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).private|MMC(Windows_Management-Console).private]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).personal](/_personal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).personal|MMC(Windows_Management-Console).personal]] 
 
-### #is_/same_as :: [MMC(Windows_Management-Console).secret](/_secret/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/MMC(Windows_Management-Console).secret|MMC(Windows_Management-Console).secret]] 
 

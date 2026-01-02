@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_followup](/_Standards/schema-org/Property/Texts/has_followup.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_followup|has_followup]] 
 
-### #is_/same_as :: [has_followup.public](/_public/schema-org/Property/Texts/has_followup.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_followup.public|has_followup.public]] 
 
-### #is_/same_as :: [has_followup.internal](/_internal/schema-org/Property/Texts/has_followup.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_followup.internal|has_followup.internal]] 
 
-### #is_/same_as :: [has_followup.protect](/_protect/schema-org/Property/Texts/has_followup.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_followup.protect|has_followup.protect]] 
 
-### #is_/same_as :: [has_followup.private](/_private/schema-org/Property/Texts/has_followup.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_followup.private|has_followup.private]] 
 
-### #is_/same_as :: [has_followup.personal](/_personal/schema-org/Property/Texts/has_followup.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_followup.personal|has_followup.personal]] 
 
-### #is_/same_as :: [has_followup.secret](/_secret/schema-org/Property/Texts/has_followup.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_followup.secret|has_followup.secret]] 
 

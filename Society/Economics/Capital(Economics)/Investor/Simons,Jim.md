@@ -118,17 +118,17 @@ date_of_death: 2024-05-10T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simons,Jim](/_Standards/Society/Economics/Capital(Economics)/Investor/Simons,Jim.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Simons,Jim|Simons,Jim]] 
 
-### #is_/same_as :: [Simons,Jim.public](/_public/Society/Economics/Capital(Economics)/Investor/Simons,Jim.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Simons,Jim.public|Simons,Jim.public]] 
 
-### #is_/same_as :: [Simons,Jim.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Simons,Jim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Simons,Jim.internal|Simons,Jim.internal]] 
 
-### #is_/same_as :: [Simons,Jim.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Simons,Jim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Simons,Jim.protect|Simons,Jim.protect]] 
 
-### #is_/same_as :: [Simons,Jim.private](/_private/Society/Economics/Capital(Economics)/Investor/Simons,Jim.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Simons,Jim.private|Simons,Jim.private]] 
 
-### #is_/same_as :: [Simons,Jim.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Simons,Jim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Simons,Jim.personal|Simons,Jim.personal]] 
 
-### #is_/same_as :: [Simons,Jim.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Simons,Jim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Simons,Jim.secret|Simons,Jim.secret]] 
 

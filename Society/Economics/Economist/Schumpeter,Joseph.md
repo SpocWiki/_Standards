@@ -116,17 +116,17 @@ ISNI: 0000000121363669
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schumpeter,Joseph](/_Standards/Society/Economics/Economist/Schumpeter,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Schumpeter,Joseph|Schumpeter,Joseph]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.public](/_public/Society/Economics/Economist/Schumpeter,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Schumpeter,Joseph.public|Schumpeter,Joseph.public]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.internal](/_internal/Society/Economics/Economist/Schumpeter,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Schumpeter,Joseph.internal|Schumpeter,Joseph.internal]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.protect](/_protect/Society/Economics/Economist/Schumpeter,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Schumpeter,Joseph.protect|Schumpeter,Joseph.protect]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.private](/_private/Society/Economics/Economist/Schumpeter,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Schumpeter,Joseph.private|Schumpeter,Joseph.private]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.personal](/_personal/Society/Economics/Economist/Schumpeter,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Schumpeter,Joseph.personal|Schumpeter,Joseph.personal]] 
 
-### #is_/same_as :: [Schumpeter,Joseph.secret](/_secret/Society/Economics/Economist/Schumpeter,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Schumpeter,Joseph.secret|Schumpeter,Joseph.secret]] 
 

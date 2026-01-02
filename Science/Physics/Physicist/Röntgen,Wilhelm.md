@@ -151,17 +151,17 @@ Libris_URI: hftwzrl14nx7948
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Röntgen,Wilhelm](/_Standards/Science/Physics/Physicist/Röntgen,Wilhelm.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Röntgen,Wilhelm|Röntgen,Wilhelm]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.public](/_public/Science/Physics/Physicist/Röntgen,Wilhelm.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Röntgen,Wilhelm.public|Röntgen,Wilhelm.public]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.internal](/_internal/Science/Physics/Physicist/Röntgen,Wilhelm.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Röntgen,Wilhelm.internal|Röntgen,Wilhelm.internal]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.protect](/_protect/Science/Physics/Physicist/Röntgen,Wilhelm.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Röntgen,Wilhelm.protect|Röntgen,Wilhelm.protect]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.private](/_private/Science/Physics/Physicist/Röntgen,Wilhelm.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Röntgen,Wilhelm.private|Röntgen,Wilhelm.private]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.personal](/_personal/Science/Physics/Physicist/Röntgen,Wilhelm.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Röntgen,Wilhelm.personal|Röntgen,Wilhelm.personal]] 
 
-### #is_/same_as :: [Röntgen,Wilhelm.secret](/_secret/Science/Physics/Physicist/Röntgen,Wilhelm.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Röntgen,Wilhelm.secret|Röntgen,Wilhelm.secret]] 
 

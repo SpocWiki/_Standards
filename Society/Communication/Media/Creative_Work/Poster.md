@@ -41,17 +41,17 @@ A large, usually printed placard, bill, or announcement, often illustrated, that
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poster](/_Standards/Society/Communication/Media/Creative_Work/Poster.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Poster|Poster]] 
 
-### #is_/same_as :: [Poster.public](/_public/Society/Communication/Media/Creative_Work/Poster.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Poster.public|Poster.public]] 
 
-### #is_/same_as :: [Poster.internal](/_internal/Society/Communication/Media/Creative_Work/Poster.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Poster.internal|Poster.internal]] 
 
-### #is_/same_as :: [Poster.protect](/_protect/Society/Communication/Media/Creative_Work/Poster.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Poster.protect|Poster.protect]] 
 
-### #is_/same_as :: [Poster.private](/_private/Society/Communication/Media/Creative_Work/Poster.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Poster.private|Poster.private]] 
 
-### #is_/same_as :: [Poster.personal](/_personal/Society/Communication/Media/Creative_Work/Poster.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Poster.personal|Poster.personal]] 
 
-### #is_/same_as :: [Poster.secret](/_secret/Society/Communication/Media/Creative_Work/Poster.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Poster.secret|Poster.secret]] 
 

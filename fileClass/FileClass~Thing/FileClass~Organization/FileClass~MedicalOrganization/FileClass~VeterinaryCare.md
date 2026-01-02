@@ -37,17 +37,17 @@ A vet's office.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VeterinaryCare](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare|FileClass~VeterinaryCare]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.public|FileClass~VeterinaryCare.public]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.internal|FileClass~VeterinaryCare.internal]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.protect|FileClass~VeterinaryCare.protect]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.private|FileClass~VeterinaryCare.private]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.personal|FileClass~VeterinaryCare.personal]] 
 
-### #is_/same_as :: [FileClass~VeterinaryCare.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~MedicalOrganization/FileClass~VeterinaryCare.secret|FileClass~VeterinaryCare.secret]] 
 

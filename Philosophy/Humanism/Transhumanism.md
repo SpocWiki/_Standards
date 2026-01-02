@@ -52,17 +52,17 @@ Commons_category: Transhumanism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transhumanism](/_Standards/Philosophy/Humanism/Transhumanism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Humanism/Transhumanism|Transhumanism]] 
 
-### #is_/same_as :: [Transhumanism.public](/_public/Philosophy/Humanism/Transhumanism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Humanism/Transhumanism.public|Transhumanism.public]] 
 
-### #is_/same_as :: [Transhumanism.internal](/_internal/Philosophy/Humanism/Transhumanism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Humanism/Transhumanism.internal|Transhumanism.internal]] 
 
-### #is_/same_as :: [Transhumanism.protect](/_protect/Philosophy/Humanism/Transhumanism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Humanism/Transhumanism.protect|Transhumanism.protect]] 
 
-### #is_/same_as :: [Transhumanism.private](/_private/Philosophy/Humanism/Transhumanism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Humanism/Transhumanism.private|Transhumanism.private]] 
 
-### #is_/same_as :: [Transhumanism.personal](/_personal/Philosophy/Humanism/Transhumanism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Humanism/Transhumanism.personal|Transhumanism.personal]] 
 
-### #is_/same_as :: [Transhumanism.secret](/_secret/Philosophy/Humanism/Transhumanism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Humanism/Transhumanism.secret|Transhumanism.secret]] 
 

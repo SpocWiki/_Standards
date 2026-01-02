@@ -41,17 +41,17 @@ Lists or enumerations dealing with status types.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Status_Enumeration](/_Standards/schema-org/Enumeration/Status_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration|Status_Enumeration]] 
 
-### #is_/same_as :: [Status_Enumeration.public](/_public/schema-org/Enumeration/Status_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration.public|Status_Enumeration.public]] 
 
-### #is_/same_as :: [Status_Enumeration.internal](/_internal/schema-org/Enumeration/Status_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration.internal|Status_Enumeration.internal]] 
 
-### #is_/same_as :: [Status_Enumeration.protect](/_protect/schema-org/Enumeration/Status_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration.protect|Status_Enumeration.protect]] 
 
-### #is_/same_as :: [Status_Enumeration.private](/_private/schema-org/Enumeration/Status_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration.private|Status_Enumeration.private]] 
 
-### #is_/same_as :: [Status_Enumeration.personal](/_personal/schema-org/Enumeration/Status_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration.personal|Status_Enumeration.personal]] 
 
-### #is_/same_as :: [Status_Enumeration.secret](/_secret/schema-org/Enumeration/Status_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration.secret|Status_Enumeration.secret]] 
 

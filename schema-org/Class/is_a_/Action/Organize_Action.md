@@ -43,17 +43,17 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organize_Action](/_Standards/schema-org/Class/is_a_/Action/Organize_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Organize_Action|Organize_Action]] 
 
-### #is_/same_as :: [Organize_Action.public](/_public/schema-org/Class/is_a_/Action/Organize_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Organize_Action.public|Organize_Action.public]] 
 
-### #is_/same_as :: [Organize_Action.internal](/_internal/schema-org/Class/is_a_/Action/Organize_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Organize_Action.internal|Organize_Action.internal]] 
 
-### #is_/same_as :: [Organize_Action.protect](/_protect/schema-org/Class/is_a_/Action/Organize_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Organize_Action.protect|Organize_Action.protect]] 
 
-### #is_/same_as :: [Organize_Action.private](/_private/schema-org/Class/is_a_/Action/Organize_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Organize_Action.private|Organize_Action.private]] 
 
-### #is_/same_as :: [Organize_Action.personal](/_personal/schema-org/Class/is_a_/Action/Organize_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Organize_Action.personal|Organize_Action.personal]] 
 
-### #is_/same_as :: [Organize_Action.secret](/_secret/schema-org/Class/is_a_/Action/Organize_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Organize_Action.secret|Organize_Action.secret]] 
 

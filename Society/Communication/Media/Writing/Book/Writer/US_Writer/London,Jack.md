@@ -156,17 +156,17 @@ Regensburg_Classification: HU 4280
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [London,Jack](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack|London,Jack]] 
 
-### #is_/same_as :: [London,Jack.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.public|London,Jack.public]] 
 
-### #is_/same_as :: [London,Jack.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.internal|London,Jack.internal]] 
 
-### #is_/same_as :: [London,Jack.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.protect|London,Jack.protect]] 
 
-### #is_/same_as :: [London,Jack.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.private|London,Jack.private]] 
 
-### #is_/same_as :: [London,Jack.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.personal|London,Jack.personal]] 
 
-### #is_/same_as :: [London,Jack.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/London,Jack.secret|London,Jack.secret]] 
 

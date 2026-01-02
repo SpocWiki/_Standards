@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Civil_Rights_Movement](/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement|Civil_Rights_Movement]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.public](/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.public|Civil_Rights_Movement.public]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.internal](/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.internal|Civil_Rights_Movement.internal]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.protect](/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.protect|Civil_Rights_Movement.protect]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.private](/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.private|Civil_Rights_Movement.private]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.personal](/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.personal|Civil_Rights_Movement.personal]] 
 
-### #is_/same_as :: [Civil_Rights_Movement.secret](/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Civil_and_political_Rights/Civil_Rights_Movement.secret|Civil_Rights_Movement.secret]] 
 

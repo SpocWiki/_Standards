@@ -66,17 +66,17 @@ IPTC_NewsCode: mediatopic/20000125
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Criminal_Law](/_Standards/Society/Law/Criminal_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law|Criminal_Law]] 
 
-### #is_/same_as :: [Criminal_Law.public](/_public/Society/Law/Criminal_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law.public|Criminal_Law.public]] 
 
-### #is_/same_as :: [Criminal_Law.internal](/_internal/Society/Law/Criminal_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law.internal|Criminal_Law.internal]] 
 
-### #is_/same_as :: [Criminal_Law.protect](/_protect/Society/Law/Criminal_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law.protect|Criminal_Law.protect]] 
 
-### #is_/same_as :: [Criminal_Law.private](/_private/Society/Law/Criminal_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law.private|Criminal_Law.private]] 
 
-### #is_/same_as :: [Criminal_Law.personal](/_personal/Society/Law/Criminal_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law.personal|Criminal_Law.personal]] 
 
-### #is_/same_as :: [Criminal_Law.secret](/_secret/Society/Law/Criminal_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law.secret|Criminal_Law.secret]] 
 

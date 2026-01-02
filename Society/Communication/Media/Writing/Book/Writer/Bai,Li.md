@@ -128,17 +128,17 @@ writing_language: '[[_Standards/WikiData/WD~Chinese,7850]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bai,Li](/_Standards/Society/Communication/Media/Writing/Book/Writer/Bai,Li.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Bai,Li|Bai,Li]] 
 
-### #is_/same_as :: [Bai,Li.public](/_public/Society/Communication/Media/Writing/Book/Writer/Bai,Li.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Bai,Li.public|Bai,Li.public]] 
 
-### #is_/same_as :: [Bai,Li.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Bai,Li.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Bai,Li.internal|Bai,Li.internal]] 
 
-### #is_/same_as :: [Bai,Li.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Bai,Li.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Bai,Li.protect|Bai,Li.protect]] 
 
-### #is_/same_as :: [Bai,Li.private](/_private/Society/Communication/Media/Writing/Book/Writer/Bai,Li.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Bai,Li.private|Bai,Li.private]] 
 
-### #is_/same_as :: [Bai,Li.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Bai,Li.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Bai,Li.personal|Bai,Li.personal]] 
 
-### #is_/same_as :: [Bai,Li.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Bai,Li.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Bai,Li.secret|Bai,Li.secret]] 
 

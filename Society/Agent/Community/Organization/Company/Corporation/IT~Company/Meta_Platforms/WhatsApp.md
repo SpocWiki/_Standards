@@ -51,17 +51,17 @@ WhatsApp strives to offer the same Services a WeChat to unify Services and bind 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WhatsApp](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp|WhatsApp]] 
 
-### #is_/same_as :: [WhatsApp.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.public|WhatsApp.public]] 
 
-### #is_/same_as :: [WhatsApp.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.internal|WhatsApp.internal]] 
 
-### #is_/same_as :: [WhatsApp.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.protect|WhatsApp.protect]] 
 
-### #is_/same_as :: [WhatsApp.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.private|WhatsApp.private]] 
 
-### #is_/same_as :: [WhatsApp.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.personal|WhatsApp.personal]] 
 
-### #is_/same_as :: [WhatsApp.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/WhatsApp.secret|WhatsApp.secret]] 
 

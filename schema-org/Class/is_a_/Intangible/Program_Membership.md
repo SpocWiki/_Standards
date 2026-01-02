@@ -41,17 +41,17 @@ Used to describe membership in a loyalty programs (e.g. "StarAliance"), traveler
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Program_Membership](/_Standards/schema-org/Class/is_a_/Intangible/Program_Membership.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Program_Membership|Program_Membership]] 
 
-### #is_/same_as :: [Program_Membership.public](/_public/schema-org/Class/is_a_/Intangible/Program_Membership.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Program_Membership.public|Program_Membership.public]] 
 
-### #is_/same_as :: [Program_Membership.internal](/_internal/schema-org/Class/is_a_/Intangible/Program_Membership.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Program_Membership.internal|Program_Membership.internal]] 
 
-### #is_/same_as :: [Program_Membership.protect](/_protect/schema-org/Class/is_a_/Intangible/Program_Membership.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Program_Membership.protect|Program_Membership.protect]] 
 
-### #is_/same_as :: [Program_Membership.private](/_private/schema-org/Class/is_a_/Intangible/Program_Membership.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Program_Membership.private|Program_Membership.private]] 
 
-### #is_/same_as :: [Program_Membership.personal](/_personal/schema-org/Class/is_a_/Intangible/Program_Membership.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Program_Membership.personal|Program_Membership.personal]] 
 
-### #is_/same_as :: [Program_Membership.secret](/_secret/schema-org/Class/is_a_/Intangible/Program_Membership.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Program_Membership.secret|Program_Membership.secret]] 
 

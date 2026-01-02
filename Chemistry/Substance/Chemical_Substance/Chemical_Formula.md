@@ -94,17 +94,17 @@ Commons_category: Chemical formulas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemical_Formula](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Formula|Chemical_Formula]] 
 
-### #is_/same_as :: [Chemical_Formula.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Formula.public|Chemical_Formula.public]] 
 
-### #is_/same_as :: [Chemical_Formula.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.internal|Chemical_Formula.internal]] 
 
-### #is_/same_as :: [Chemical_Formula.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Formula.protect|Chemical_Formula.protect]] 
 
-### #is_/same_as :: [Chemical_Formula.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Formula.private|Chemical_Formula.private]] 
 
-### #is_/same_as :: [Chemical_Formula.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Formula.personal|Chemical_Formula.personal]] 
 
-### #is_/same_as :: [Chemical_Formula.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Formula.secret|Chemical_Formula.secret]] 
 

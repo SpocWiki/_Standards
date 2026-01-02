@@ -108,17 +108,17 @@ Google_Doodle: louis-daguerres-224th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daguerre,Louis](/_Standards/Science/Inventor/Daguerre,Louis.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Daguerre,Louis|Daguerre,Louis]] 
 
-### #is_/same_as :: [Daguerre,Louis.public](/_public/Science/Inventor/Daguerre,Louis.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Daguerre,Louis.public|Daguerre,Louis.public]] 
 
-### #is_/same_as :: [Daguerre,Louis.internal](/_internal/Science/Inventor/Daguerre,Louis.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Daguerre,Louis.internal|Daguerre,Louis.internal]] 
 
-### #is_/same_as :: [Daguerre,Louis.protect](/_protect/Science/Inventor/Daguerre,Louis.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Daguerre,Louis.protect|Daguerre,Louis.protect]] 
 
-### #is_/same_as :: [Daguerre,Louis.private](/_private/Science/Inventor/Daguerre,Louis.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Daguerre,Louis.private|Daguerre,Louis.private]] 
 
-### #is_/same_as :: [Daguerre,Louis.personal](/_personal/Science/Inventor/Daguerre,Louis.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Daguerre,Louis.personal|Daguerre,Louis.personal]] 
 
-### #is_/same_as :: [Daguerre,Louis.secret](/_secret/Science/Inventor/Daguerre,Louis.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Daguerre,Louis.secret|Daguerre,Louis.secret]] 
 

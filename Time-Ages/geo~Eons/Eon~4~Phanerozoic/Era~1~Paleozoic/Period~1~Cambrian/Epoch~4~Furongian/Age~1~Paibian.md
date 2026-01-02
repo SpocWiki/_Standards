@@ -64,17 +64,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Paibian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian|Age~1~Paibian]] 
 
-### #is_/same_as :: [Age~1~Paibian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.public|Age~1~Paibian.public]] 
 
-### #is_/same_as :: [Age~1~Paibian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.internal|Age~1~Paibian.internal]] 
 
-### #is_/same_as :: [Age~1~Paibian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.protect|Age~1~Paibian.protect]] 
 
-### #is_/same_as :: [Age~1~Paibian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.private|Age~1~Paibian.private]] 
 
-### #is_/same_as :: [Age~1~Paibian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.personal|Age~1~Paibian.personal]] 
 
-### #is_/same_as :: [Age~1~Paibian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~4~Furongian/Age~1~Paibian.secret|Age~1~Paibian.secret]] 
 

@@ -48,17 +48,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Table%20of%20Hydraulic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydraulics](/_Standards/Science/Physics/Fluid_Mechanics/Hydraulics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Hydraulics|Hydraulics]] 
 
-### #is_/same_as :: [Hydraulics.public](/_public/Science/Physics/Fluid_Mechanics/Hydraulics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Hydraulics.public|Hydraulics.public]] 
 
-### #is_/same_as :: [Hydraulics.internal](/_internal/Science/Physics/Fluid_Mechanics/Hydraulics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Hydraulics.internal|Hydraulics.internal]] 
 
-### #is_/same_as :: [Hydraulics.protect](/_protect/Science/Physics/Fluid_Mechanics/Hydraulics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Hydraulics.protect|Hydraulics.protect]] 
 
-### #is_/same_as :: [Hydraulics.private](/_private/Science/Physics/Fluid_Mechanics/Hydraulics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Hydraulics.private|Hydraulics.private]] 
 
-### #is_/same_as :: [Hydraulics.personal](/_personal/Science/Physics/Fluid_Mechanics/Hydraulics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Hydraulics.personal|Hydraulics.personal]] 
 
-### #is_/same_as :: [Hydraulics.secret](/_secret/Science/Physics/Fluid_Mechanics/Hydraulics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Hydraulics.secret|Hydraulics.secret]] 
 

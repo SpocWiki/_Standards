@@ -52,17 +52,17 @@ Commons_category: Social capital
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Capital](/_Standards/Society/Economics/Capital(Economics)/Social_Capital.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Social_Capital|Social_Capital]] 
 
-### #is_/same_as :: [Social_Capital.public](/_public/Society/Economics/Capital(Economics)/Social_Capital.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Social_Capital.public|Social_Capital.public]] 
 
-### #is_/same_as :: [Social_Capital.internal](/_internal/Society/Economics/Capital(Economics)/Social_Capital.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Social_Capital.internal|Social_Capital.internal]] 
 
-### #is_/same_as :: [Social_Capital.protect](/_protect/Society/Economics/Capital(Economics)/Social_Capital.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Social_Capital.protect|Social_Capital.protect]] 
 
-### #is_/same_as :: [Social_Capital.private](/_private/Society/Economics/Capital(Economics)/Social_Capital.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Social_Capital.private|Social_Capital.private]] 
 
-### #is_/same_as :: [Social_Capital.personal](/_personal/Society/Economics/Capital(Economics)/Social_Capital.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Social_Capital.personal|Social_Capital.personal]] 
 
-### #is_/same_as :: [Social_Capital.secret](/_secret/Society/Economics/Capital(Economics)/Social_Capital.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Social_Capital.secret|Social_Capital.secret]] 
 

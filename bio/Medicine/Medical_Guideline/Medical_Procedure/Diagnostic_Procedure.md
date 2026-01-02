@@ -41,17 +41,17 @@ A medical procedure intended primarily for diagnostic, as opposed to therapeutic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diagnostic_Procedure](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure|Diagnostic_Procedure]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.public|Diagnostic_Procedure.public]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.internal|Diagnostic_Procedure.internal]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.protect|Diagnostic_Procedure.protect]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.private|Diagnostic_Procedure.private]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.personal|Diagnostic_Procedure.personal]] 
 
-### #is_/same_as :: [Diagnostic_Procedure.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Diagnostic_Procedure.secret|Diagnostic_Procedure.secret]] 
 

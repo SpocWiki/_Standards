@@ -92,17 +92,17 @@ Colon_Classification: Y:356
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tradition](/_Standards/Society/Culture/Tradition.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Tradition|Tradition]] 
 
-### #is_/same_as :: [Tradition.public](/_public/Society/Culture/Tradition.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Tradition.public|Tradition.public]] 
 
-### #is_/same_as :: [Tradition.internal](/_internal/Society/Culture/Tradition.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Tradition.internal|Tradition.internal]] 
 
-### #is_/same_as :: [Tradition.protect](/_protect/Society/Culture/Tradition.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Tradition.protect|Tradition.protect]] 
 
-### #is_/same_as :: [Tradition.private](/_private/Society/Culture/Tradition.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Tradition.private|Tradition.private]] 
 
-### #is_/same_as :: [Tradition.personal](/_personal/Society/Culture/Tradition.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Tradition.personal|Tradition.personal]] 
 
-### #is_/same_as :: [Tradition.secret](/_secret/Society/Culture/Tradition.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Tradition.secret|Tradition.secret]] 
 

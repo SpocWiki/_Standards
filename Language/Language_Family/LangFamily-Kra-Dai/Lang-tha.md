@@ -133,17 +133,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/TASKI_YAZIK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-tha](/_Standards/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha|Lang-tha]] 
 
-### #is_/same_as :: [Lang-tha.public](/_public/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.public|Lang-tha.public]] 
 
-### #is_/same_as :: [Lang-tha.internal](/_internal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.internal|Lang-tha.internal]] 
 
-### #is_/same_as :: [Lang-tha.protect](/_protect/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.protect|Lang-tha.protect]] 
 
-### #is_/same_as :: [Lang-tha.private](/_private/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.private|Lang-tha.private]] 
 
-### #is_/same_as :: [Lang-tha.personal](/_personal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.personal|Lang-tha.personal]] 
 
-### #is_/same_as :: [Lang-tha.secret](/_secret/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Kra-Dai/Lang-tha.secret|Lang-tha.secret]] 
 

@@ -61,17 +61,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/SLOZHNIE_EFIRI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ester](/_Standards/Chemistry/Organic_Chemistry/Ester.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ester|Ester]] 
 
-### #is_/same_as :: [Ester.public](/_public/Chemistry/Organic_Chemistry/Ester.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ester.public|Ester.public]] 
 
-### #is_/same_as :: [Ester.internal](/_internal/Chemistry/Organic_Chemistry/Ester.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ester.internal|Ester.internal]] 
 
-### #is_/same_as :: [Ester.protect](/_protect/Chemistry/Organic_Chemistry/Ester.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ester.protect|Ester.protect]] 
 
-### #is_/same_as :: [Ester.private](/_private/Chemistry/Organic_Chemistry/Ester.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ester.private|Ester.private]] 
 
-### #is_/same_as :: [Ester.personal](/_personal/Chemistry/Organic_Chemistry/Ester.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ester.personal|Ester.personal]] 
 
-### #is_/same_as :: [Ester.secret](/_secret/Chemistry/Organic_Chemistry/Ester.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ester.secret|Ester.secret]] 
 

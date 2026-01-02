@@ -119,17 +119,17 @@ Libris_URI: dbqsmwnx06nfst5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ford,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Ford,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Ford,John|Ford,John]] 
 
-### #is_/same_as :: [Ford,John.public](/_public/Society/Communication/Media/Movie/Movie-Director/Ford,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Ford,John.public|Ford,John.public]] 
 
-### #is_/same_as :: [Ford,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Ford,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Ford,John.internal|Ford,John.internal]] 
 
-### #is_/same_as :: [Ford,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Ford,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Ford,John.protect|Ford,John.protect]] 
 
-### #is_/same_as :: [Ford,John.private](/_private/Society/Communication/Media/Movie/Movie-Director/Ford,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Ford,John.private|Ford,John.private]] 
 
-### #is_/same_as :: [Ford,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Ford,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Ford,John.personal|Ford,John.personal]] 
 
-### #is_/same_as :: [Ford,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Ford,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Ford,John.secret|Ford,John.secret]] 
 

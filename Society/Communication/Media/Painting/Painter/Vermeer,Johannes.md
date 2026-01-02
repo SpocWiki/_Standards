@@ -156,17 +156,17 @@ ISNI: 000000010901268X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vermeer,Johannes](/_Standards/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Vermeer,Johannes|Vermeer,Johannes]] 
 
-### #is_/same_as :: [Vermeer,Johannes.public](/_public/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.public|Vermeer,Johannes.public]] 
 
-### #is_/same_as :: [Vermeer,Johannes.internal](/_internal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.internal|Vermeer,Johannes.internal]] 
 
-### #is_/same_as :: [Vermeer,Johannes.protect](/_protect/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.protect|Vermeer,Johannes.protect]] 
 
-### #is_/same_as :: [Vermeer,Johannes.private](/_private/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.private|Vermeer,Johannes.private]] 
 
-### #is_/same_as :: [Vermeer,Johannes.personal](/_personal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.personal|Vermeer,Johannes.personal]] 
 
-### #is_/same_as :: [Vermeer,Johannes.secret](/_secret/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Vermeer,Johannes.secret|Vermeer,Johannes.secret]] 
 

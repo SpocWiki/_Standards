@@ -45,17 +45,17 @@ OpenStreetMap_tag_or_key: Tag:religion=animist
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Animism](/_Standards/Philosophy/Metaphysic/Religion/Animism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Animism|Animism]] 
 
-### #is_/same_as :: [Animism.public](/_public/Philosophy/Metaphysic/Religion/Animism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Animism.public|Animism.public]] 
 
-### #is_/same_as :: [Animism.internal](/_internal/Philosophy/Metaphysic/Religion/Animism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Animism.internal|Animism.internal]] 
 
-### #is_/same_as :: [Animism.protect](/_protect/Philosophy/Metaphysic/Religion/Animism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Animism.protect|Animism.protect]] 
 
-### #is_/same_as :: [Animism.private](/_private/Philosophy/Metaphysic/Religion/Animism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Animism.private|Animism.private]] 
 
-### #is_/same_as :: [Animism.personal](/_personal/Philosophy/Metaphysic/Religion/Animism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Animism.personal|Animism.personal]] 
 
-### #is_/same_as :: [Animism.secret](/_secret/Philosophy/Metaphysic/Religion/Animism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Animism.secret|Animism.secret]] 
 

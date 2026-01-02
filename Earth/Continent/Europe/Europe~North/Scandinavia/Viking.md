@@ -102,17 +102,17 @@ start_time: 0793-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Viking](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Viking|Viking]] 
 
-### #is_/same_as :: [Viking.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.public|Viking.public]] 
 
-### #is_/same_as :: [Viking.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.internal|Viking.internal]] 
 
-### #is_/same_as :: [Viking.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.protect|Viking.protect]] 
 
-### #is_/same_as :: [Viking.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.private|Viking.private]] 
 
-### #is_/same_as :: [Viking.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.personal|Viking.personal]] 
 
-### #is_/same_as :: [Viking.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Viking.secret|Viking.secret]] 
 

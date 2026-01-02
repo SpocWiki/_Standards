@@ -102,17 +102,17 @@ Use it like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fruits](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits|Fruits]] 
 
-### #is_/same_as :: [Fruits.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits.public|Fruits.public]] 
 
-### #is_/same_as :: [Fruits.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits.internal|Fruits.internal]] 
 
-### #is_/same_as :: [Fruits.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits.protect|Fruits.protect]] 
 
-### #is_/same_as :: [Fruits.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits.private|Fruits.private]] 
 
-### #is_/same_as :: [Fruits.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits.personal|Fruits.personal]] 
 
-### #is_/same_as :: [Fruits.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits.secret|Fruits.secret]] 
 

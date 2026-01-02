@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Semimajoraxis.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Semi-major_Axis](/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis|Semi-major_Axis]] 
 
-### #is_/same_as :: [Semi-major_Axis.public](/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.public|Semi-major_Axis.public]] 
 
-### #is_/same_as :: [Semi-major_Axis.internal](/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.internal|Semi-major_Axis.internal]] 
 
-### #is_/same_as :: [Semi-major_Axis.protect](/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.protect|Semi-major_Axis.protect]] 
 
-### #is_/same_as :: [Semi-major_Axis.private](/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.private|Semi-major_Axis.private]] 
 
-### #is_/same_as :: [Semi-major_Axis.personal](/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.personal|Semi-major_Axis.personal]] 
 
-### #is_/same_as :: [Semi-major_Axis.secret](/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Ellipse/Semi-major_Axis.secret|Semi-major_Axis.secret]] 
 

@@ -37,17 +37,17 @@ A performance group, such as a band, an orchestra, or a circus.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PerformingGroup](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup|FileClass~PerformingGroup]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.public|FileClass~PerformingGroup.public]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.internal|FileClass~PerformingGroup.internal]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.protect|FileClass~PerformingGroup.protect]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.private|FileClass~PerformingGroup.private]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.personal|FileClass~PerformingGroup.personal]] 
 
-### #is_/same_as :: [FileClass~PerformingGroup.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~PerformingGroup.secret|FileClass~PerformingGroup.secret]] 
 

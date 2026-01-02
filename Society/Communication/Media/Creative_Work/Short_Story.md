@@ -91,17 +91,17 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Short_Story](/_Standards/Society/Communication/Media/Creative_Work/Short_Story.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Short_Story|Short_Story]] 
 
-### #is_/same_as :: [Short_Story.public](/_public/Society/Communication/Media/Creative_Work/Short_Story.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Short_Story.public|Short_Story.public]] 
 
-### #is_/same_as :: [Short_Story.internal](/_internal/Society/Communication/Media/Creative_Work/Short_Story.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Short_Story.internal|Short_Story.internal]] 
 
-### #is_/same_as :: [Short_Story.protect](/_protect/Society/Communication/Media/Creative_Work/Short_Story.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Short_Story.protect|Short_Story.protect]] 
 
-### #is_/same_as :: [Short_Story.private](/_private/Society/Communication/Media/Creative_Work/Short_Story.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Short_Story.private|Short_Story.private]] 
 
-### #is_/same_as :: [Short_Story.personal](/_personal/Society/Communication/Media/Creative_Work/Short_Story.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Short_Story.personal|Short_Story.personal]] 
 
-### #is_/same_as :: [Short_Story.secret](/_secret/Society/Communication/Media/Creative_Work/Short_Story.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Short_Story.secret|Short_Story.secret]] 
 

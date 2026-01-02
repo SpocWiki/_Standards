@@ -55,17 +55,17 @@ Dewey_Decimal_Classification: "628.13"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Tower](/_Standards/bio/Ecology/Water_Management/Water_Tower.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Water_Management/Water_Tower|Water_Tower]] 
 
-### #is_/same_as :: [Water_Tower.public](/_public/bio/Ecology/Water_Management/Water_Tower.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Water_Management/Water_Tower.public|Water_Tower.public]] 
 
-### #is_/same_as :: [Water_Tower.internal](/_internal/bio/Ecology/Water_Management/Water_Tower.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Water_Management/Water_Tower.internal|Water_Tower.internal]] 
 
-### #is_/same_as :: [Water_Tower.protect](/_protect/bio/Ecology/Water_Management/Water_Tower.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Water_Management/Water_Tower.protect|Water_Tower.protect]] 
 
-### #is_/same_as :: [Water_Tower.private](/_private/bio/Ecology/Water_Management/Water_Tower.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Water_Management/Water_Tower.private|Water_Tower.private]] 
 
-### #is_/same_as :: [Water_Tower.personal](/_personal/bio/Ecology/Water_Management/Water_Tower.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Water_Management/Water_Tower.personal|Water_Tower.personal]] 
 
-### #is_/same_as :: [Water_Tower.secret](/_secret/bio/Ecology/Water_Management/Water_Tower.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Water_Management/Water_Tower.secret|Water_Tower.secret]] 
 

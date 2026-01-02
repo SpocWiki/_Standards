@@ -35,17 +35,17 @@ PhilPapers_topic: relativism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Relativism](/_Standards/Philosophy/Relativism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Relativism|Relativism]] 
 
-### #is_/same_as :: [Relativism.public](/_public/Philosophy/Relativism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Relativism.public|Relativism.public]] 
 
-### #is_/same_as :: [Relativism.internal](/_internal/Philosophy/Relativism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Relativism.internal|Relativism.internal]] 
 
-### #is_/same_as :: [Relativism.protect](/_protect/Philosophy/Relativism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Relativism.protect|Relativism.protect]] 
 
-### #is_/same_as :: [Relativism.private](/_private/Philosophy/Relativism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Relativism.private|Relativism.private]] 
 
-### #is_/same_as :: [Relativism.personal](/_personal/Philosophy/Relativism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Relativism.personal|Relativism.personal]] 
 
-### #is_/same_as :: [Relativism.secret](/_secret/Philosophy/Relativism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Relativism.secret|Relativism.secret]] 
 

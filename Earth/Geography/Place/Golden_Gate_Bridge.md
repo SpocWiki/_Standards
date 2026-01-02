@@ -108,17 +108,17 @@ Danbooru_tag: golden_gate_bridge
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Golden_Gate_Bridge](/_Standards/Earth/Geography/Place/Golden_Gate_Bridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Golden_Gate_Bridge|Golden_Gate_Bridge]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.public](/_public/Earth/Geography/Place/Golden_Gate_Bridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Golden_Gate_Bridge.public|Golden_Gate_Bridge.public]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.internal](/_internal/Earth/Geography/Place/Golden_Gate_Bridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Golden_Gate_Bridge.internal|Golden_Gate_Bridge.internal]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.protect](/_protect/Earth/Geography/Place/Golden_Gate_Bridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Golden_Gate_Bridge.protect|Golden_Gate_Bridge.protect]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.private](/_private/Earth/Geography/Place/Golden_Gate_Bridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Golden_Gate_Bridge.private|Golden_Gate_Bridge.private]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.personal](/_personal/Earth/Geography/Place/Golden_Gate_Bridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Golden_Gate_Bridge.personal|Golden_Gate_Bridge.personal]] 
 
-### #is_/same_as :: [Golden_Gate_Bridge.secret](/_secret/Earth/Geography/Place/Golden_Gate_Bridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Golden_Gate_Bridge.secret|Golden_Gate_Bridge.secret]] 
 

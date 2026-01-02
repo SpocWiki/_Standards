@@ -47,17 +47,17 @@ EAGLE_id:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arrow](/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow|Arrow]] 
 
-### #is_/same_as :: [Arrow.public](/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.public|Arrow.public]] 
 
-### #is_/same_as :: [Arrow.internal](/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.internal|Arrow.internal]] 
 
-### #is_/same_as :: [Arrow.protect](/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.protect|Arrow.protect]] 
 
-### #is_/same_as :: [Arrow.private](/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.private|Arrow.private]] 
 
-### #is_/same_as :: [Arrow.personal](/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.personal|Arrow.personal]] 
 
-### #is_/same_as :: [Arrow.secret](/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Ammunition/Arrow.secret|Arrow.secret]] 
 

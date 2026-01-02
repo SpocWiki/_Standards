@@ -66,17 +66,17 @@ title: Aquificae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aquificae](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae|Aquificae]] 
 
-### #is_/same_as :: [Aquificae.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.public|Aquificae.public]] 
 
-### #is_/same_as :: [Aquificae.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.internal|Aquificae.internal]] 
 
-### #is_/same_as :: [Aquificae.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.protect|Aquificae.protect]] 
 
-### #is_/same_as :: [Aquificae.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.private|Aquificae.private]] 
 
-### #is_/same_as :: [Aquificae.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.personal|Aquificae.personal]] 
 
-### #is_/same_as :: [Aquificae.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Aquificae.secret|Aquificae.secret]] 
 

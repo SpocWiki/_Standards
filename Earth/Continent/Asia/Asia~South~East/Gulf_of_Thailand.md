@@ -70,17 +70,17 @@ coordinate_location: Point(102.0 9.5)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gulf_of_Thailand](/_Standards/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand|Gulf_of_Thailand]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.public](/_public/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.public|Gulf_of_Thailand.public]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.internal|Gulf_of_Thailand.internal]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.protect|Gulf_of_Thailand.protect]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.private](/_private/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.private|Gulf_of_Thailand.private]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.personal|Gulf_of_Thailand.personal]] 
 
-### #is_/same_as :: [Gulf_of_Thailand.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Gulf_of_Thailand.secret|Gulf_of_Thailand.secret]] 
 

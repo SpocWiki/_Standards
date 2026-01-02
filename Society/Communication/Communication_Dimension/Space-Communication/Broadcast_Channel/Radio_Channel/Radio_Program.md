@@ -44,17 +44,17 @@ Commons_category: Radio programmes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Program](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program|Radio_Program]] 
 
-### #is_/same_as :: [Radio_Program.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.public|Radio_Program.public]] 
 
-### #is_/same_as :: [Radio_Program.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.internal|Radio_Program.internal]] 
 
-### #is_/same_as :: [Radio_Program.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.protect|Radio_Program.protect]] 
 
-### #is_/same_as :: [Radio_Program.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.private|Radio_Program.private]] 
 
-### #is_/same_as :: [Radio_Program.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.personal|Radio_Program.personal]] 
 
-### #is_/same_as :: [Radio_Program.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel/Radio_Program.secret|Radio_Program.secret]] 
 

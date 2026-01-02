@@ -42,17 +42,17 @@ An ItemList ordered with lower values listed first.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Order_Ascending](/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending|Item_List_Order_Ascending]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.public](/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.public|Item_List_Order_Ascending.public]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.internal|Item_List_Order_Ascending.internal]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.protect|Item_List_Order_Ascending.protect]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.private](/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.private|Item_List_Order_Ascending.private]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.personal|Item_List_Order_Ascending.personal]] 
 
-### #is_/same_as :: [Item_List_Order_Ascending.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Ascending.secret|Item_List_Order_Ascending.secret]] 
 

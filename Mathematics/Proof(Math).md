@@ -81,17 +81,17 @@ video:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proof(Math)](/_Standards/Mathematics/Proof(Math).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Proof(Math)|Proof(Math)]] 
 
-### #is_/same_as :: [Proof(Math).public](/_public/Mathematics/Proof(Math).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Proof(Math).public|Proof(Math).public]] 
 
-### #is_/same_as :: [Proof(Math).internal](/_internal/Mathematics/Proof(Math).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Proof(Math).internal|Proof(Math).internal]] 
 
-### #is_/same_as :: [Proof(Math).protect](/_protect/Mathematics/Proof(Math).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Proof(Math).protect|Proof(Math).protect]] 
 
-### #is_/same_as :: [Proof(Math).private](/_private/Mathematics/Proof(Math).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Proof(Math).private|Proof(Math).private]] 
 
-### #is_/same_as :: [Proof(Math).personal](/_personal/Mathematics/Proof(Math).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Proof(Math).personal|Proof(Math).personal]] 
 
-### #is_/same_as :: [Proof(Math).secret](/_secret/Mathematics/Proof(Math).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Proof(Math).secret|Proof(Math).secret]] 
 

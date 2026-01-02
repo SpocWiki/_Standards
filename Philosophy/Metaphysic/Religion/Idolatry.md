@@ -71,17 +71,17 @@ Commons_category: Idolatry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Idolatry](/_Standards/Philosophy/Metaphysic/Religion/Idolatry.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Idolatry|Idolatry]] 
 
-### #is_/same_as :: [Idolatry.public](/_public/Philosophy/Metaphysic/Religion/Idolatry.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Idolatry.public|Idolatry.public]] 
 
-### #is_/same_as :: [Idolatry.internal](/_internal/Philosophy/Metaphysic/Religion/Idolatry.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Idolatry.internal|Idolatry.internal]] 
 
-### #is_/same_as :: [Idolatry.protect](/_protect/Philosophy/Metaphysic/Religion/Idolatry.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Idolatry.protect|Idolatry.protect]] 
 
-### #is_/same_as :: [Idolatry.private](/_private/Philosophy/Metaphysic/Religion/Idolatry.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Idolatry.private|Idolatry.private]] 
 
-### #is_/same_as :: [Idolatry.personal](/_personal/Philosophy/Metaphysic/Religion/Idolatry.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Idolatry.personal|Idolatry.personal]] 
 
-### #is_/same_as :: [Idolatry.secret](/_secret/Philosophy/Metaphysic/Religion/Idolatry.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Idolatry.secret|Idolatry.secret]] 
 

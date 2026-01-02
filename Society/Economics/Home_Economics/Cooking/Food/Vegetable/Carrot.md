@@ -83,17 +83,17 @@ UNII: L56Z1JK48B
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carrot](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot|Carrot]] 
 
-### #is_/same_as :: [Carrot.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.public|Carrot.public]] 
 
-### #is_/same_as :: [Carrot.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.internal|Carrot.internal]] 
 
-### #is_/same_as :: [Carrot.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.protect|Carrot.protect]] 
 
-### #is_/same_as :: [Carrot.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.private|Carrot.private]] 
 
-### #is_/same_as :: [Carrot.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.personal|Carrot.personal]] 
 
-### #is_/same_as :: [Carrot.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Vegetable/Carrot.secret|Carrot.secret]] 
 

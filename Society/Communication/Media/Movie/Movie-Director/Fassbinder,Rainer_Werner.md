@@ -163,17 +163,17 @@ ISNI: 0000000122810969
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner](/_Standards/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner|Fassbinder,Rainer_Werner]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.public](/_public/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.public|Fassbinder,Rainer_Werner.public]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.internal|Fassbinder,Rainer_Werner.internal]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.protect|Fassbinder,Rainer_Werner.protect]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.private](/_private/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.private|Fassbinder,Rainer_Werner.private]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.personal|Fassbinder,Rainer_Werner.personal]] 
 
-### #is_/same_as :: [Fassbinder,Rainer_Werner.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Fassbinder,Rainer_Werner.secret|Fassbinder,Rainer_Werner.secret]] 
 

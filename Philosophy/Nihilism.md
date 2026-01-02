@@ -56,17 +56,17 @@ subreddit: nihilism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nihilism](/_Standards/Philosophy/Nihilism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Nihilism|Nihilism]] 
 
-### #is_/same_as :: [Nihilism.public](/_public/Philosophy/Nihilism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Nihilism.public|Nihilism.public]] 
 
-### #is_/same_as :: [Nihilism.internal](/_internal/Philosophy/Nihilism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Nihilism.internal|Nihilism.internal]] 
 
-### #is_/same_as :: [Nihilism.protect](/_protect/Philosophy/Nihilism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Nihilism.protect|Nihilism.protect]] 
 
-### #is_/same_as :: [Nihilism.private](/_private/Philosophy/Nihilism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Nihilism.private|Nihilism.private]] 
 
-### #is_/same_as :: [Nihilism.personal](/_personal/Philosophy/Nihilism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Nihilism.personal|Nihilism.personal]] 
 
-### #is_/same_as :: [Nihilism.secret](/_secret/Philosophy/Nihilism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Nihilism.secret|Nihilism.secret]] 
 

@@ -83,17 +83,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Max%20Scheler
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scheler,Max](/_Standards/Philosophy/Philosopher/Scheler,Max.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Scheler,Max|Scheler,Max]] 
 
-### #is_/same_as :: [Scheler,Max.public](/_public/Philosophy/Philosopher/Scheler,Max.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Scheler,Max.public|Scheler,Max.public]] 
 
-### #is_/same_as :: [Scheler,Max.internal](/_internal/Philosophy/Philosopher/Scheler,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Scheler,Max.internal|Scheler,Max.internal]] 
 
-### #is_/same_as :: [Scheler,Max.protect](/_protect/Philosophy/Philosopher/Scheler,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Scheler,Max.protect|Scheler,Max.protect]] 
 
-### #is_/same_as :: [Scheler,Max.private](/_private/Philosophy/Philosopher/Scheler,Max.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Scheler,Max.private|Scheler,Max.private]] 
 
-### #is_/same_as :: [Scheler,Max.personal](/_personal/Philosophy/Philosopher/Scheler,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Scheler,Max.personal|Scheler,Max.personal]] 
 
-### #is_/same_as :: [Scheler,Max.secret](/_secret/Philosophy/Philosopher/Scheler,Max.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Scheler,Max.secret|Scheler,Max.secret]] 
 

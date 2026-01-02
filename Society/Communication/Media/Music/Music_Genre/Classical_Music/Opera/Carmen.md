@@ -102,17 +102,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "BizetsCarmenPremiersPar
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carmen](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen|Carmen]] 
 
-### #is_/same_as :: [Carmen.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.public|Carmen.public]] 
 
-### #is_/same_as :: [Carmen.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.internal|Carmen.internal]] 
 
-### #is_/same_as :: [Carmen.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.protect|Carmen.protect]] 
 
-### #is_/same_as :: [Carmen.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.private|Carmen.private]] 
 
-### #is_/same_as :: [Carmen.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.personal|Carmen.personal]] 
 
-### #is_/same_as :: [Carmen.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera/Carmen.secret|Carmen.secret]] 
 

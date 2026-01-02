@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_skills](/_Standards/schema-org/Relation/has/has_skills.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_skills|has_skills]] 
 
-### #is_/same_as :: [has_skills.public](/_public/schema-org/Relation/has/has_skills.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_skills.public|has_skills.public]] 
 
-### #is_/same_as :: [has_skills.internal](/_internal/schema-org/Relation/has/has_skills.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_skills.internal|has_skills.internal]] 
 
-### #is_/same_as :: [has_skills.protect](/_protect/schema-org/Relation/has/has_skills.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_skills.protect|has_skills.protect]] 
 
-### #is_/same_as :: [has_skills.private](/_private/schema-org/Relation/has/has_skills.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_skills.private|has_skills.private]] 
 
-### #is_/same_as :: [has_skills.personal](/_personal/schema-org/Relation/has/has_skills.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_skills.personal|has_skills.personal]] 
 
-### #is_/same_as :: [has_skills.secret](/_secret/schema-org/Relation/has/has_skills.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_skills.secret|has_skills.secret]] 
 

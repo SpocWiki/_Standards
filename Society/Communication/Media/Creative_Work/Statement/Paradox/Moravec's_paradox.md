@@ -45,17 +45,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Moravec's_paradox](/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox|Moravec's_paradox]] 
 
-### #is_/same_as :: [Moravec's_paradox.public](/_public/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.public|Moravec's_paradox.public]] 
 
-### #is_/same_as :: [Moravec's_paradox.internal](/_internal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.internal|Moravec's_paradox.internal]] 
 
-### #is_/same_as :: [Moravec's_paradox.protect](/_protect/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.protect|Moravec's_paradox.protect]] 
 
-### #is_/same_as :: [Moravec's_paradox.private](/_private/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.private|Moravec's_paradox.private]] 
 
-### #is_/same_as :: [Moravec's_paradox.personal](/_personal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.personal|Moravec's_paradox.personal]] 
 
-### #is_/same_as :: [Moravec's_paradox.secret](/_secret/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Statement/Paradox/Moravec's_paradox.secret|Moravec's_paradox.secret]] 
 

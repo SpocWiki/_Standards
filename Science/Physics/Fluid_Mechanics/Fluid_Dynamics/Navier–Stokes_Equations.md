@@ -52,17 +52,17 @@ Dewey_Decimal_Classification: "532.5101"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Navier–Stokes_Equations](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations|Navier–Stokes_Equations]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.public|Navier–Stokes_Equations.public]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.internal|Navier–Stokes_Equations.internal]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.protect|Navier–Stokes_Equations.protect]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.private|Navier–Stokes_Equations.private]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.personal|Navier–Stokes_Equations.personal]] 
 
-### #is_/same_as :: [Navier–Stokes_Equations.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Navier–Stokes_Equations.secret|Navier–Stokes_Equations.secret]] 
 

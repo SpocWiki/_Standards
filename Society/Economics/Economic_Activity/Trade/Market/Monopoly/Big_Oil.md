@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big_Oil](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil|Big_Oil]] 
 
-### #is_/same_as :: [Big_Oil.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.public|Big_Oil.public]] 
 
-### #is_/same_as :: [Big_Oil.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.internal|Big_Oil.internal]] 
 
-### #is_/same_as :: [Big_Oil.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.protect|Big_Oil.protect]] 
 
-### #is_/same_as :: [Big_Oil.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.private|Big_Oil.private]] 
 
-### #is_/same_as :: [Big_Oil.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.personal|Big_Oil.personal]] 
 
-### #is_/same_as :: [Big_Oil.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Oil.secret|Big_Oil.secret]] 
 

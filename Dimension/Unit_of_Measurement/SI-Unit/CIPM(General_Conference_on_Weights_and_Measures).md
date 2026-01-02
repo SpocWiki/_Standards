@@ -35,17 +35,17 @@ ISNI: "0000000095553724"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures)|CIPM(General_Conference_on_Weights_and_Measures)]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).public|CIPM(General_Conference_on_Weights_and_Measures).public]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).internal|CIPM(General_Conference_on_Weights_and_Measures).internal]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).protect|CIPM(General_Conference_on_Weights_and_Measures).protect]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).private|CIPM(General_Conference_on_Weights_and_Measures).private]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).personal|CIPM(General_Conference_on_Weights_and_Measures).personal]] 
 
-### #is_/same_as :: [CIPM(General_Conference_on_Weights_and_Measures.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/CIPM(General_Conference_on_Weights_and_Measures).secret|CIPM(General_Conference_on_Weights_and_Measures).secret]] 
 

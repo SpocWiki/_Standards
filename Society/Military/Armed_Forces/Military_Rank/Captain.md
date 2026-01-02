@@ -69,17 +69,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Captain](/_Standards/Society/Military/Armed_Forces/Military_Rank/Captain.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank/Captain|Captain]] 
 
-### #is_/same_as :: [Captain.public](/_public/Society/Military/Armed_Forces/Military_Rank/Captain.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank/Captain.public|Captain.public]] 
 
-### #is_/same_as :: [Captain.internal](/_internal/Society/Military/Armed_Forces/Military_Rank/Captain.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank/Captain.internal|Captain.internal]] 
 
-### #is_/same_as :: [Captain.protect](/_protect/Society/Military/Armed_Forces/Military_Rank/Captain.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank/Captain.protect|Captain.protect]] 
 
-### #is_/same_as :: [Captain.private](/_private/Society/Military/Armed_Forces/Military_Rank/Captain.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank/Captain.private|Captain.private]] 
 
-### #is_/same_as :: [Captain.personal](/_personal/Society/Military/Armed_Forces/Military_Rank/Captain.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank/Captain.personal|Captain.personal]] 
 
-### #is_/same_as :: [Captain.secret](/_secret/Society/Military/Armed_Forces/Military_Rank/Captain.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank/Captain.secret|Captain.secret]] 
 

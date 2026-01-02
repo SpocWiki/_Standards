@@ -85,17 +85,17 @@ Copyright ::            © 2004 [Jon L. Norenburg](http://nemertes.si.edu/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nemertea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea|Nemertea]] 
 
-### #is_/same_as :: [Nemertea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.public|Nemertea.public]] 
 
-### #is_/same_as :: [Nemertea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.internal|Nemertea.internal]] 
 
-### #is_/same_as :: [Nemertea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.protect|Nemertea.protect]] 
 
-### #is_/same_as :: [Nemertea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.private|Nemertea.private]] 
 
-### #is_/same_as :: [Nemertea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.personal|Nemertea.personal]] 
 
-### #is_/same_as :: [Nemertea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nemertea.secret|Nemertea.secret]] 
 

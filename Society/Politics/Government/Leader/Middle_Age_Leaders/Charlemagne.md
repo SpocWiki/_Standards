@@ -172,17 +172,17 @@ unmarried_partner:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charlemagne](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne|Charlemagne]] 
 
-### #is_/same_as :: [Charlemagne.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.public|Charlemagne.public]] 
 
-### #is_/same_as :: [Charlemagne.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.internal|Charlemagne.internal]] 
 
-### #is_/same_as :: [Charlemagne.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.protect|Charlemagne.protect]] 
 
-### #is_/same_as :: [Charlemagne.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.private|Charlemagne.private]] 
 
-### #is_/same_as :: [Charlemagne.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.personal|Charlemagne.personal]] 
 
-### #is_/same_as :: [Charlemagne.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Charlemagne.secret|Charlemagne.secret]] 
 

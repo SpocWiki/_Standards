@@ -53,17 +53,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/-bertsomate-%20Simetri
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symmetry](/_Standards/Mathematics/Geometry/Symmetry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Symmetry|Symmetry]] 
 
-### #is_/same_as :: [Symmetry.public](/_public/Mathematics/Geometry/Symmetry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Symmetry.public|Symmetry.public]] 
 
-### #is_/same_as :: [Symmetry.internal](/_internal/Mathematics/Geometry/Symmetry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Symmetry.internal|Symmetry.internal]] 
 
-### #is_/same_as :: [Symmetry.protect](/_protect/Mathematics/Geometry/Symmetry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Symmetry.protect|Symmetry.protect]] 
 
-### #is_/same_as :: [Symmetry.private](/_private/Mathematics/Geometry/Symmetry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Symmetry.private|Symmetry.private]] 
 
-### #is_/same_as :: [Symmetry.personal](/_personal/Mathematics/Geometry/Symmetry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Symmetry.personal|Symmetry.personal]] 
 
-### #is_/same_as :: [Symmetry.secret](/_secret/Mathematics/Geometry/Symmetry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Symmetry.secret|Symmetry.secret]] 
 

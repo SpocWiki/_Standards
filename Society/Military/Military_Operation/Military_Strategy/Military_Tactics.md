@@ -45,17 +45,17 @@ Dewey_Decimal_Classification: "355.42"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Tactics](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics|Military_Tactics]] 
 
-### #is_/same_as :: [Military_Tactics.public](/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.public|Military_Tactics.public]] 
 
-### #is_/same_as :: [Military_Tactics.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.internal|Military_Tactics.internal]] 
 
-### #is_/same_as :: [Military_Tactics.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.protect|Military_Tactics.protect]] 
 
-### #is_/same_as :: [Military_Tactics.private](/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.private|Military_Tactics.private]] 
 
-### #is_/same_as :: [Military_Tactics.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.personal|Military_Tactics.personal]] 
 
-### #is_/same_as :: [Military_Tactics.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics.secret|Military_Tactics.secret]] 
 

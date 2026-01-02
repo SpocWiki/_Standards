@@ -125,17 +125,17 @@ ServiceUrl:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ServiceChannel](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel|FileClass~ServiceChannel]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.public|FileClass~ServiceChannel.public]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.internal|FileClass~ServiceChannel.internal]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.protect|FileClass~ServiceChannel.protect]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.private|FileClass~ServiceChannel.private]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.personal|FileClass~ServiceChannel.personal]] 
 
-### #is_/same_as :: [FileClass~ServiceChannel.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~ServiceChannel.secret|FileClass~ServiceChannel.secret]] 
 

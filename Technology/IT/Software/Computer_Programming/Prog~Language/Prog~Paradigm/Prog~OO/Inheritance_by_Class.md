@@ -21,17 +21,17 @@ Instances are smaller:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inheritance_by_Class](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class|Inheritance_by_Class]] 
 
-### #is_/same_as :: [Inheritance_by_Class.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.public|Inheritance_by_Class.public]] 
 
-### #is_/same_as :: [Inheritance_by_Class.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.internal|Inheritance_by_Class.internal]] 
 
-### #is_/same_as :: [Inheritance_by_Class.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.protect|Inheritance_by_Class.protect]] 
 
-### #is_/same_as :: [Inheritance_by_Class.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.private|Inheritance_by_Class.private]] 
 
-### #is_/same_as :: [Inheritance_by_Class.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.personal|Inheritance_by_Class.personal]] 
 
-### #is_/same_as :: [Inheritance_by_Class.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Inheritance_by_Class.secret|Inheritance_by_Class.secret]] 
 

@@ -72,17 +72,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carotenoid](/_Standards/Chemistry/Organic_Chemistry/Carotenoid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Carotenoid|Carotenoid]] 
 
-### #is_/same_as :: [Carotenoid.public](/_public/Chemistry/Organic_Chemistry/Carotenoid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Carotenoid.public|Carotenoid.public]] 
 
-### #is_/same_as :: [Carotenoid.internal](/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Carotenoid.internal|Carotenoid.internal]] 
 
-### #is_/same_as :: [Carotenoid.protect](/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Carotenoid.protect|Carotenoid.protect]] 
 
-### #is_/same_as :: [Carotenoid.private](/_private/Chemistry/Organic_Chemistry/Carotenoid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Carotenoid.private|Carotenoid.private]] 
 
-### #is_/same_as :: [Carotenoid.personal](/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Carotenoid.personal|Carotenoid.personal]] 
 
-### #is_/same_as :: [Carotenoid.secret](/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Carotenoid.secret|Carotenoid.secret]] 
 

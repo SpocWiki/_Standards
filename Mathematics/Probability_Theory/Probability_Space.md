@@ -65,17 +65,17 @@ maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Probability_Space](/_Standards/Mathematics/Probability_Theory/Probability_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Probability_Theory/Probability_Space|Probability_Space]] 
 
-### #is_/same_as :: [Probability_Space.public](/_public/Mathematics/Probability_Theory/Probability_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Probability_Theory/Probability_Space.public|Probability_Space.public]] 
 
-### #is_/same_as :: [Probability_Space.internal](/_internal/Mathematics/Probability_Theory/Probability_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Probability_Theory/Probability_Space.internal|Probability_Space.internal]] 
 
-### #is_/same_as :: [Probability_Space.protect](/_protect/Mathematics/Probability_Theory/Probability_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Probability_Theory/Probability_Space.protect|Probability_Space.protect]] 
 
-### #is_/same_as :: [Probability_Space.private](/_private/Mathematics/Probability_Theory/Probability_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Probability_Theory/Probability_Space.private|Probability_Space.private]] 
 
-### #is_/same_as :: [Probability_Space.personal](/_personal/Mathematics/Probability_Theory/Probability_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Probability_Theory/Probability_Space.personal|Probability_Space.personal]] 
 
-### #is_/same_as :: [Probability_Space.secret](/_secret/Mathematics/Probability_Theory/Probability_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Probability_Theory/Probability_Space.secret|Probability_Space.secret]] 
 

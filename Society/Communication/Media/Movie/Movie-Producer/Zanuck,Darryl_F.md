@@ -75,17 +75,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Darryl%20Zanu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zanuck,Darryl_F](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F|Zanuck,Darryl_F]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.public](/_public/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.public|Zanuck,Darryl_F.public]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.internal](/_internal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.internal|Zanuck,Darryl_F.internal]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.protect](/_protect/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.protect|Zanuck,Darryl_F.protect]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.private](/_private/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.private|Zanuck,Darryl_F.private]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.personal](/_personal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.personal|Zanuck,Darryl_F.personal]] 
 
-### #is_/same_as :: [Zanuck,Darryl_F.secret](/_secret/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Producer/Zanuck,Darryl_F.secret|Zanuck,Darryl_F.secret]] 
 

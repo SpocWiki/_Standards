@@ -75,17 +75,17 @@ NBN_System_Key: NHMSYS0000460670
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mentha](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha|Mentha]] 
 
-### #is_/same_as :: [Mentha.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.public|Mentha.public]] 
 
-### #is_/same_as :: [Mentha.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.internal|Mentha.internal]] 
 
-### #is_/same_as :: [Mentha.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.protect|Mentha.protect]] 
 
-### #is_/same_as :: [Mentha.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.private|Mentha.private]] 
 
-### #is_/same_as :: [Mentha.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.personal|Mentha.personal]] 
 
-### #is_/same_as :: [Mentha.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Lamiaceae/Nepetoideae/Mentheae/Menthinae/Mentha.secret|Mentha.secret]] 
 

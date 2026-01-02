@@ -33,17 +33,17 @@ subreddit: continentaltheory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Continental_Philosophy](/_Standards/Philosophy/Continental_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Continental_Philosophy|Continental_Philosophy]] 
 
-### #is_/same_as :: [Continental_Philosophy.public](/_public/Philosophy/Continental_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Continental_Philosophy.public|Continental_Philosophy.public]] 
 
-### #is_/same_as :: [Continental_Philosophy.internal](/_internal/Philosophy/Continental_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Continental_Philosophy.internal|Continental_Philosophy.internal]] 
 
-### #is_/same_as :: [Continental_Philosophy.protect](/_protect/Philosophy/Continental_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Continental_Philosophy.protect|Continental_Philosophy.protect]] 
 
-### #is_/same_as :: [Continental_Philosophy.private](/_private/Philosophy/Continental_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Continental_Philosophy.private|Continental_Philosophy.private]] 
 
-### #is_/same_as :: [Continental_Philosophy.personal](/_personal/Philosophy/Continental_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Continental_Philosophy.personal|Continental_Philosophy.personal]] 
 
-### #is_/same_as :: [Continental_Philosophy.secret](/_secret/Philosophy/Continental_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Continental_Philosophy.secret|Continental_Philosophy.secret]] 
 

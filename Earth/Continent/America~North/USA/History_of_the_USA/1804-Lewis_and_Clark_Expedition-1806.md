@@ -94,3 +94,22 @@ Commons_category: Lewis and Clark Expedition
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lewis%20and%20Clark%20Expedition) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806|1804-Lewis_and_Clark_Expedition-1806]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.public|1804-Lewis_and_Clark_Expedition-1806.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.internal|1804-Lewis_and_Clark_Expedition-1806.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.protect|1804-Lewis_and_Clark_Expedition-1806.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.private|1804-Lewis_and_Clark_Expedition-1806.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.personal|1804-Lewis_and_Clark_Expedition-1806.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1804-Lewis_and_Clark_Expedition-1806.secret|1804-Lewis_and_Clark_Expedition-1806.secret]] 
+

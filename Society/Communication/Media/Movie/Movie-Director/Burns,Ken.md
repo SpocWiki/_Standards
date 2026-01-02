@@ -86,17 +86,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2025%20-%20Ken%20Burns
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Burns,Ken](/_Standards/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Burns,Ken|Burns,Ken]] 
 
-### #is_/same_as :: [Burns,Ken.public](/_public/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.public|Burns,Ken.public]] 
 
-### #is_/same_as :: [Burns,Ken.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.internal|Burns,Ken.internal]] 
 
-### #is_/same_as :: [Burns,Ken.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.protect|Burns,Ken.protect]] 
 
-### #is_/same_as :: [Burns,Ken.private](/_private/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.private|Burns,Ken.private]] 
 
-### #is_/same_as :: [Burns,Ken.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.personal|Burns,Ken.personal]] 
 
-### #is_/same_as :: [Burns,Ken.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Burns,Ken.secret|Burns,Ken.secret]] 
 

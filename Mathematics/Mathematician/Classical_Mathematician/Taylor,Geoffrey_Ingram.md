@@ -120,17 +120,17 @@ name_in_native_language: Geoffrey Ingram Taylor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram|Taylor,Geoffrey_Ingram]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.public|Taylor,Geoffrey_Ingram.public]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.internal|Taylor,Geoffrey_Ingram.internal]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.protect|Taylor,Geoffrey_Ingram.protect]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.private|Taylor,Geoffrey_Ingram.private]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.personal|Taylor,Geoffrey_Ingram.personal]] 
 
-### #is_/same_as :: [Taylor,Geoffrey_Ingram.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Taylor,Geoffrey_Ingram.secret|Taylor,Geoffrey_Ingram.secret]] 
 

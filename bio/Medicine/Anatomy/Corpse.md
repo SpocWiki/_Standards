@@ -69,17 +69,17 @@ Commons_category: Human corpses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Corpse](/_Standards/bio/Medicine/Anatomy/Corpse.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Corpse|Corpse]] 
 
-### #is_/same_as :: [Corpse.public](/_public/bio/Medicine/Anatomy/Corpse.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Corpse.public|Corpse.public]] 
 
-### #is_/same_as :: [Corpse.internal](/_internal/bio/Medicine/Anatomy/Corpse.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Corpse.internal|Corpse.internal]] 
 
-### #is_/same_as :: [Corpse.protect](/_protect/bio/Medicine/Anatomy/Corpse.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Corpse.protect|Corpse.protect]] 
 
-### #is_/same_as :: [Corpse.private](/_private/bio/Medicine/Anatomy/Corpse.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Corpse.private|Corpse.private]] 
 
-### #is_/same_as :: [Corpse.personal](/_personal/bio/Medicine/Anatomy/Corpse.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Corpse.personal|Corpse.personal]] 
 
-### #is_/same_as :: [Corpse.secret](/_secret/bio/Medicine/Anatomy/Corpse.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Corpse.secret|Corpse.secret]] 
 

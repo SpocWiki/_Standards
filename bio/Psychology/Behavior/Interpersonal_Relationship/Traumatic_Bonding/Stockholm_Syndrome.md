@@ -42,17 +42,17 @@ IMDb_keyword: stockholm-syndrome
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stockholm_Syndrome](/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome|Stockholm_Syndrome]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.public](/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.public|Stockholm_Syndrome.public]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.internal](/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.internal|Stockholm_Syndrome.internal]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.protect](/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.protect|Stockholm_Syndrome.protect]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.private](/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.private|Stockholm_Syndrome.private]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.personal](/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.personal|Stockholm_Syndrome.personal]] 
 
-### #is_/same_as :: [Stockholm_Syndrome.secret](/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior/Interpersonal_Relationship/Traumatic_Bonding/Stockholm_Syndrome.secret|Stockholm_Syndrome.secret]] 
 

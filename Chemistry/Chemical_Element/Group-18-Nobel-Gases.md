@@ -75,17 +75,17 @@ Commons_category: Noble gases
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-18-Nobel-Gases](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases|Group-18-Nobel-Gases]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases.public|Group-18-Nobel-Gases.public]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.internal|Group-18-Nobel-Gases.internal]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases.protect|Group-18-Nobel-Gases.protect]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases.private|Group-18-Nobel-Gases.private]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases.personal|Group-18-Nobel-Gases.personal]] 
 
-### #is_/same_as :: [Group-18-Nobel-Gases.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases.secret|Group-18-Nobel-Gases.secret]] 
 

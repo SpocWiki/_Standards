@@ -69,17 +69,17 @@ Commons_category: Life (magazine)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Life_Magazine](/_Standards/Society/Communication/Media/Journalism/Magazine/Life_Magazine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Life_Magazine|Life_Magazine]] 
 
-### #is_/same_as :: [Life_Magazine.public](/_public/Society/Communication/Media/Journalism/Magazine/Life_Magazine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Life_Magazine.public|Life_Magazine.public]] 
 
-### #is_/same_as :: [Life_Magazine.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Life_Magazine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Life_Magazine.internal|Life_Magazine.internal]] 
 
-### #is_/same_as :: [Life_Magazine.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Life_Magazine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Life_Magazine.protect|Life_Magazine.protect]] 
 
-### #is_/same_as :: [Life_Magazine.private](/_private/Society/Communication/Media/Journalism/Magazine/Life_Magazine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Life_Magazine.private|Life_Magazine.private]] 
 
-### #is_/same_as :: [Life_Magazine.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Life_Magazine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Life_Magazine.personal|Life_Magazine.personal]] 
 
-### #is_/same_as :: [Life_Magazine.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Life_Magazine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Life_Magazine.secret|Life_Magazine.secret]] 
 

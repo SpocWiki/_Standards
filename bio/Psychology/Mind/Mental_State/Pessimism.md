@@ -51,17 +51,17 @@ Commons_category: Pessimism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pessimism](/_Standards/bio/Psychology/Mind/Mental_State/Pessimism.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Mental_State/Pessimism|Pessimism]] 
 
-### #is_/same_as :: [Pessimism.public](/_public/bio/Psychology/Mind/Mental_State/Pessimism.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Mental_State/Pessimism.public|Pessimism.public]] 
 
-### #is_/same_as :: [Pessimism.internal](/_internal/bio/Psychology/Mind/Mental_State/Pessimism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Mental_State/Pessimism.internal|Pessimism.internal]] 
 
-### #is_/same_as :: [Pessimism.protect](/_protect/bio/Psychology/Mind/Mental_State/Pessimism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Mental_State/Pessimism.protect|Pessimism.protect]] 
 
-### #is_/same_as :: [Pessimism.private](/_private/bio/Psychology/Mind/Mental_State/Pessimism.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Mental_State/Pessimism.private|Pessimism.private]] 
 
-### #is_/same_as :: [Pessimism.personal](/_personal/bio/Psychology/Mind/Mental_State/Pessimism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Mental_State/Pessimism.personal|Pessimism.personal]] 
 
-### #is_/same_as :: [Pessimism.secret](/_secret/bio/Psychology/Mind/Mental_State/Pessimism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Mental_State/Pessimism.secret|Pessimism.secret]] 
 

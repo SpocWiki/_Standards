@@ -110,17 +110,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eta_Carinae](/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]] 
 
-### #is_/same_as :: [Eta_Carinae.public](/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.public|Eta_Carinae.public]] 
 
-### #is_/same_as :: [Eta_Carinae.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.internal|Eta_Carinae.internal]] 
 
-### #is_/same_as :: [Eta_Carinae.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.protect|Eta_Carinae.protect]] 
 
-### #is_/same_as :: [Eta_Carinae.private](/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]] 
 
-### #is_/same_as :: [Eta_Carinae.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]] 
 
-### #is_/same_as :: [Eta_Carinae.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]] 
 

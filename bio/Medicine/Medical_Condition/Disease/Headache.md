@@ -78,17 +78,17 @@ Unicode_character: 🤕
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Headache](/_Standards/bio/Medicine/Medical_Condition/Disease/Headache.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Headache|Headache]] 
 
-### #is_/same_as :: [Headache.public](/_public/bio/Medicine/Medical_Condition/Disease/Headache.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Headache.public|Headache.public]] 
 
-### #is_/same_as :: [Headache.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Headache.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Headache.internal|Headache.internal]] 
 
-### #is_/same_as :: [Headache.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Headache.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Headache.protect|Headache.protect]] 
 
-### #is_/same_as :: [Headache.private](/_private/bio/Medicine/Medical_Condition/Disease/Headache.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Headache.private|Headache.private]] 
 
-### #is_/same_as :: [Headache.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Headache.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Headache.personal|Headache.personal]] 
 
-### #is_/same_as :: [Headache.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Headache.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Headache.secret|Headache.secret]] 
 

@@ -69,17 +69,17 @@ Commons_category: Duels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duel](/_Standards/Society/Military/Military_Operation/Combat/Duel.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/Duel|Duel]] 
 
-### #is_/same_as :: [Duel.public](/_public/Society/Military/Military_Operation/Combat/Duel.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/Duel.public|Duel.public]] 
 
-### #is_/same_as :: [Duel.internal](/_internal/Society/Military/Military_Operation/Combat/Duel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/Duel.internal|Duel.internal]] 
 
-### #is_/same_as :: [Duel.protect](/_protect/Society/Military/Military_Operation/Combat/Duel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/Duel.protect|Duel.protect]] 
 
-### #is_/same_as :: [Duel.private](/_private/Society/Military/Military_Operation/Combat/Duel.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/Duel.private|Duel.private]] 
 
-### #is_/same_as :: [Duel.personal](/_personal/Society/Military/Military_Operation/Combat/Duel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/Duel.personal|Duel.personal]] 
 
-### #is_/same_as :: [Duel.secret](/_secret/Society/Military/Military_Operation/Combat/Duel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/Duel.secret|Duel.secret]] 
 

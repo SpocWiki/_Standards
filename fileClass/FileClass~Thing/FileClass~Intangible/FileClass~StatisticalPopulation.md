@@ -39,17 +39,17 @@ A StatisticalPopulation is a set of instances of a certain given type that satis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation|FileClass~StatisticalPopulation]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.public|FileClass~StatisticalPopulation.public]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.internal|FileClass~StatisticalPopulation.internal]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.protect|FileClass~StatisticalPopulation.protect]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.private|FileClass~StatisticalPopulation.private]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.personal|FileClass~StatisticalPopulation.personal]] 
 
-### #is_/same_as :: [FileClass~StatisticalPopulation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StatisticalPopulation.secret|FileClass~StatisticalPopulation.secret]] 
 

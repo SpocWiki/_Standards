@@ -152,17 +152,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/31675
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1650-William_of_Orange+1702](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702|1650-William_of_Orange+1702]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.public|1650-William_of_Orange+1702.public]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.internal|1650-William_of_Orange+1702.internal]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.protect|1650-William_of_Orange+1702.protect]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.private|1650-William_of_Orange+1702.private]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.personal|1650-William_of_Orange+1702.personal]] 
 
-### #is_/same_as :: [1650-William_of_Orange+1702.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1650-William_of_Orange+1702.secret|1650-William_of_Orange+1702.secret]] 
 

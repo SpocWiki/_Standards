@@ -38,17 +38,17 @@ subclass_of: '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Philosophy](/_Standards/Philosophy/Religious_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Religious_Philosophy|Religious_Philosophy]] 
 
-### #is_/same_as :: [Religious_Philosophy.public](/_public/Philosophy/Religious_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Religious_Philosophy.public|Religious_Philosophy.public]] 
 
-### #is_/same_as :: [Religious_Philosophy.internal](/_internal/Philosophy/Religious_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Religious_Philosophy.internal|Religious_Philosophy.internal]] 
 
-### #is_/same_as :: [Religious_Philosophy.protect](/_protect/Philosophy/Religious_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Religious_Philosophy.protect|Religious_Philosophy.protect]] 
 
-### #is_/same_as :: [Religious_Philosophy.private](/_private/Philosophy/Religious_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Religious_Philosophy.private|Religious_Philosophy.private]] 
 
-### #is_/same_as :: [Religious_Philosophy.personal](/_personal/Philosophy/Religious_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Religious_Philosophy.personal|Religious_Philosophy.personal]] 
 
-### #is_/same_as :: [Religious_Philosophy.secret](/_secret/Philosophy/Religious_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Religious_Philosophy.secret|Religious_Philosophy.secret]] 
 

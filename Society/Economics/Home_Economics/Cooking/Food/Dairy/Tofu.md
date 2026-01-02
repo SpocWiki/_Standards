@@ -63,17 +63,17 @@ Amazon_com_browse_node: 6507197011
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tofu](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu|Tofu]] 
 
-### #is_/same_as :: [Tofu.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.public|Tofu.public]] 
 
-### #is_/same_as :: [Tofu.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.internal|Tofu.internal]] 
 
-### #is_/same_as :: [Tofu.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.protect|Tofu.protect]] 
 
-### #is_/same_as :: [Tofu.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.private|Tofu.private]] 
 
-### #is_/same_as :: [Tofu.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.personal|Tofu.personal]] 
 
-### #is_/same_as :: [Tofu.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Tofu.secret|Tofu.secret]] 
 

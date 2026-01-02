@@ -63,17 +63,17 @@ Commons_category: Dualism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dualism](/_Standards/Philosophy/Metaphysic/Religion/Dualism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dualism|Dualism]] 
 
-### #is_/same_as :: [Dualism.public](/_public/Philosophy/Metaphysic/Religion/Dualism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dualism.public|Dualism.public]] 
 
-### #is_/same_as :: [Dualism.internal](/_internal/Philosophy/Metaphysic/Religion/Dualism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dualism.internal|Dualism.internal]] 
 
-### #is_/same_as :: [Dualism.protect](/_protect/Philosophy/Metaphysic/Religion/Dualism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dualism.protect|Dualism.protect]] 
 
-### #is_/same_as :: [Dualism.private](/_private/Philosophy/Metaphysic/Religion/Dualism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dualism.private|Dualism.private]] 
 
-### #is_/same_as :: [Dualism.personal](/_personal/Philosophy/Metaphysic/Religion/Dualism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dualism.personal|Dualism.personal]] 
 
-### #is_/same_as :: [Dualism.secret](/_secret/Philosophy/Metaphysic/Religion/Dualism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dualism.secret|Dualism.secret]] 
 

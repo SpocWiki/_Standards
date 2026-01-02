@@ -50,17 +50,17 @@ GeoNames_feature_code: H.GYSR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geyser](/_Standards/Earth/Geology/Landform/Geyser.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Geyser|Geyser]] 
 
-### #is_/same_as :: [Geyser.public](/_public/Earth/Geology/Landform/Geyser.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Geyser.public|Geyser.public]] 
 
-### #is_/same_as :: [Geyser.internal](/_internal/Earth/Geology/Landform/Geyser.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Geyser.internal|Geyser.internal]] 
 
-### #is_/same_as :: [Geyser.protect](/_protect/Earth/Geology/Landform/Geyser.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Geyser.protect|Geyser.protect]] 
 
-### #is_/same_as :: [Geyser.private](/_private/Earth/Geology/Landform/Geyser.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Geyser.private|Geyser.private]] 
 
-### #is_/same_as :: [Geyser.personal](/_personal/Earth/Geology/Landform/Geyser.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Geyser.personal|Geyser.personal]] 
 
-### #is_/same_as :: [Geyser.secret](/_secret/Earth/Geology/Landform/Geyser.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Geyser.secret|Geyser.secret]] 
 

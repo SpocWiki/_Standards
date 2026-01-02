@@ -79,17 +79,17 @@ Unicode_character: 🤺
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fencing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing|Fencing]] 
 
-### #is_/same_as :: [Fencing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.public|Fencing.public]] 
 
-### #is_/same_as :: [Fencing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.internal|Fencing.internal]] 
 
-### #is_/same_as :: [Fencing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.protect|Fencing.protect]] 
 
-### #is_/same_as :: [Fencing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.private|Fencing.private]] 
 
-### #is_/same_as :: [Fencing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.personal|Fencing.personal]] 
 
-### #is_/same_as :: [Fencing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Fencing.secret|Fencing.secret]] 
 

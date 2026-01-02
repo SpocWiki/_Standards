@@ -73,17 +73,17 @@ OpenStreetMap_tag_or_key: Key:drinking_water
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drinking_Water](/_Standards/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Water/Drinking_Water|Drinking_Water]] 
 
-### #is_/same_as :: [Drinking_Water.public](/_public/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.public|Drinking_Water.public]] 
 
-### #is_/same_as :: [Drinking_Water.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.internal|Drinking_Water.internal]] 
 
-### #is_/same_as :: [Drinking_Water.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.protect|Drinking_Water.protect]] 
 
-### #is_/same_as :: [Drinking_Water.private](/_private/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.private|Drinking_Water.private]] 
 
-### #is_/same_as :: [Drinking_Water.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.personal|Drinking_Water.personal]] 
 
-### #is_/same_as :: [Drinking_Water.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Water/Drinking_Water.secret|Drinking_Water.secret]] 
 

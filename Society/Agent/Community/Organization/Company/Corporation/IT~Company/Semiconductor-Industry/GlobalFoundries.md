@@ -66,17 +66,17 @@ It lizenses Procudction Processes from [[onsemi]] and [[STMicroelectronics]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GlobalFoundries](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries|GlobalFoundries]] 
 
-### #is_/same_as :: [GlobalFoundries.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.public|GlobalFoundries.public]] 
 
-### #is_/same_as :: [GlobalFoundries.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.internal|GlobalFoundries.internal]] 
 
-### #is_/same_as :: [GlobalFoundries.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.protect|GlobalFoundries.protect]] 
 
-### #is_/same_as :: [GlobalFoundries.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.private|GlobalFoundries.private]] 
 
-### #is_/same_as :: [GlobalFoundries.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.personal|GlobalFoundries.personal]] 
 
-### #is_/same_as :: [GlobalFoundries.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/GlobalFoundries.secret|GlobalFoundries.secret]] 
 

@@ -75,17 +75,17 @@ Commons_category: Skulls
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skull](/_Standards/bio/Medicine/Anatomy/Skeleton/Skull.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Skull|Skull]] 
 
-### #is_/same_as :: [Skull.public](/_public/bio/Medicine/Anatomy/Skeleton/Skull.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Skull.public|Skull.public]] 
 
-### #is_/same_as :: [Skull.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Skull.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Skull.internal|Skull.internal]] 
 
-### #is_/same_as :: [Skull.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Skull.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Skull.protect|Skull.protect]] 
 
-### #is_/same_as :: [Skull.private](/_private/bio/Medicine/Anatomy/Skeleton/Skull.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Skull.private|Skull.private]] 
 
-### #is_/same_as :: [Skull.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Skull.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Skull.personal|Skull.personal]] 
 
-### #is_/same_as :: [Skull.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Skull.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Skull.secret|Skull.secret]] 
 

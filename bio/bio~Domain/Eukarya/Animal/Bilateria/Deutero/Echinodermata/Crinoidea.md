@@ -308,17 +308,17 @@ Copyright ::            © 1997 [Charles G. Messing](http://www.nova.edu/ocean/m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crinoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea|Crinoidea]] 
 
-### #is_/same_as :: [Crinoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.public|Crinoidea.public]] 
 
-### #is_/same_as :: [Crinoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.internal|Crinoidea.internal]] 
 
-### #is_/same_as :: [Crinoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.protect|Crinoidea.protect]] 
 
-### #is_/same_as :: [Crinoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.private|Crinoidea.private]] 
 
-### #is_/same_as :: [Crinoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.personal|Crinoidea.personal]] 
 
-### #is_/same_as :: [Crinoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Echinodermata/Crinoidea.secret|Crinoidea.secret]] 
 

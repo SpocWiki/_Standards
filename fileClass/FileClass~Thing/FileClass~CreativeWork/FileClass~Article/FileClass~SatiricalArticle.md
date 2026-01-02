@@ -37,17 +37,17 @@ An [[../../../../Society/Communication/Media/Creative_Work/Article]] whose conte
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SatiricalArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle|FileClass~SatiricalArticle]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.public|FileClass~SatiricalArticle.public]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.internal|FileClass~SatiricalArticle.internal]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.protect|FileClass~SatiricalArticle.protect]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.private|FileClass~SatiricalArticle.private]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.personal|FileClass~SatiricalArticle.personal]] 
 
-### #is_/same_as :: [FileClass~SatiricalArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~SatiricalArticle.secret|FileClass~SatiricalArticle.secret]] 
 

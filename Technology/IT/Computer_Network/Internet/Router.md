@@ -61,17 +61,17 @@ Baidu_Tieba_name: 路由器
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Router](/_Standards/Technology/IT/Computer_Network/Internet/Router.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/Internet/Router|Router]] 
 
-### #is_/same_as :: [Router.public](/_public/Technology/IT/Computer_Network/Internet/Router.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/Internet/Router.public|Router.public]] 
 
-### #is_/same_as :: [Router.internal](/_internal/Technology/IT/Computer_Network/Internet/Router.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/Internet/Router.internal|Router.internal]] 
 
-### #is_/same_as :: [Router.protect](/_protect/Technology/IT/Computer_Network/Internet/Router.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/Internet/Router.protect|Router.protect]] 
 
-### #is_/same_as :: [Router.private](/_private/Technology/IT/Computer_Network/Internet/Router.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/Internet/Router.private|Router.private]] 
 
-### #is_/same_as :: [Router.personal](/_personal/Technology/IT/Computer_Network/Internet/Router.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/Internet/Router.personal|Router.personal]] 
 
-### #is_/same_as :: [Router.secret](/_secret/Technology/IT/Computer_Network/Internet/Router.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/Internet/Router.secret|Router.secret]] 
 

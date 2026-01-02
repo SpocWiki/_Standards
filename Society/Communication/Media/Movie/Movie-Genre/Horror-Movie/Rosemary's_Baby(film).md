@@ -44,17 +44,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rosemary's_Baby(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film)|Rosemary's_Baby(film)]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).public|Rosemary's_Baby(film).public]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).internal|Rosemary's_Baby(film).internal]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).protect|Rosemary's_Baby(film).protect]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).private|Rosemary's_Baby(film).private]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).personal|Rosemary's_Baby(film).personal]] 
 
-### #is_/same_as :: [Rosemary's_Baby(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Rosemary's_Baby(film).secret|Rosemary's_Baby(film).secret]] 
 

@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_recipe](/_Standards/schema-org/Relation/has/has_recipe.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_recipe|has_recipe]] 
 
-### #is_/same_as :: [has_recipe.public](/_public/schema-org/Relation/has/has_recipe.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_recipe.public|has_recipe.public]] 
 
-### #is_/same_as :: [has_recipe.internal](/_internal/schema-org/Relation/has/has_recipe.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_recipe.internal|has_recipe.internal]] 
 
-### #is_/same_as :: [has_recipe.protect](/_protect/schema-org/Relation/has/has_recipe.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_recipe.protect|has_recipe.protect]] 
 
-### #is_/same_as :: [has_recipe.private](/_private/schema-org/Relation/has/has_recipe.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_recipe.private|has_recipe.private]] 
 
-### #is_/same_as :: [has_recipe.personal](/_personal/schema-org/Relation/has/has_recipe.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_recipe.personal|has_recipe.personal]] 
 
-### #is_/same_as :: [has_recipe.secret](/_secret/schema-org/Relation/has/has_recipe.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_recipe.secret|has_recipe.secret]] 
 

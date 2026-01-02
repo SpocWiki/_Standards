@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to diagnosis and treatment of
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gastroenterologic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic|Gastroenterologic]] 
 
-### #is_/same_as :: [Gastroenterologic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.public|Gastroenterologic.public]] 
 
-### #is_/same_as :: [Gastroenterologic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.internal|Gastroenterologic.internal]] 
 
-### #is_/same_as :: [Gastroenterologic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.protect|Gastroenterologic.protect]] 
 
-### #is_/same_as :: [Gastroenterologic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.private|Gastroenterologic.private]] 
 
-### #is_/same_as :: [Gastroenterologic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.personal|Gastroenterologic.personal]] 
 
-### #is_/same_as :: [Gastroenterologic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Gastroenterologic.secret|Gastroenterologic.secret]] 
 

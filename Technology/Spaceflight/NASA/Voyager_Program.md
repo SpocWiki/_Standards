@@ -79,17 +79,17 @@ Commons_category: Voyager program
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Voyager_Program](/_Standards/Technology/Spaceflight/NASA/Voyager_Program.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/NASA/Voyager_Program|Voyager_Program]] 
 
-### #is_/same_as :: [Voyager_Program.public](/_public/Technology/Spaceflight/NASA/Voyager_Program.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/NASA/Voyager_Program.public|Voyager_Program.public]] 
 
-### #is_/same_as :: [Voyager_Program.internal](/_internal/Technology/Spaceflight/NASA/Voyager_Program.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/NASA/Voyager_Program.internal|Voyager_Program.internal]] 
 
-### #is_/same_as :: [Voyager_Program.protect](/_protect/Technology/Spaceflight/NASA/Voyager_Program.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/NASA/Voyager_Program.protect|Voyager_Program.protect]] 
 
-### #is_/same_as :: [Voyager_Program.private](/_private/Technology/Spaceflight/NASA/Voyager_Program.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/NASA/Voyager_Program.private|Voyager_Program.private]] 
 
-### #is_/same_as :: [Voyager_Program.personal](/_personal/Technology/Spaceflight/NASA/Voyager_Program.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/Voyager_Program.personal|Voyager_Program.personal]] 
 
-### #is_/same_as :: [Voyager_Program.secret](/_secret/Technology/Spaceflight/NASA/Voyager_Program.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/Voyager_Program.secret|Voyager_Program.secret]] 
 

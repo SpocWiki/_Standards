@@ -208,17 +208,17 @@ Plex_person_key: 5d77682b3c3c2a001fbcc394
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Presley,Elvis](/_Standards/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis|Presley,Elvis]] 
 
-### #is_/same_as :: [Presley,Elvis.public](/_public/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.public|Presley,Elvis.public]] 
 
-### #is_/same_as :: [Presley,Elvis.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.internal|Presley,Elvis.internal]] 
 
-### #is_/same_as :: [Presley,Elvis.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.protect|Presley,Elvis.protect]] 
 
-### #is_/same_as :: [Presley,Elvis.private](/_private/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.private|Presley,Elvis.private]] 
 
-### #is_/same_as :: [Presley,Elvis.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.personal|Presley,Elvis.personal]] 
 
-### #is_/same_as :: [Presley,Elvis.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Presley,Elvis.secret|Presley,Elvis.secret]] 
 

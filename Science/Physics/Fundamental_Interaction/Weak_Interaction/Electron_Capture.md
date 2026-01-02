@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electron_Capture](/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture|Electron_Capture]] 
 
-### #is_/same_as :: [Electron_Capture.public](/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.public|Electron_Capture.public]] 
 
-### #is_/same_as :: [Electron_Capture.internal](/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.internal|Electron_Capture.internal]] 
 
-### #is_/same_as :: [Electron_Capture.protect](/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.protect|Electron_Capture.protect]] 
 
-### #is_/same_as :: [Electron_Capture.private](/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.private|Electron_Capture.private]] 
 
-### #is_/same_as :: [Electron_Capture.personal](/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.personal|Electron_Capture.personal]] 
 
-### #is_/same_as :: [Electron_Capture.secret](/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Weak_Interaction/Electron_Capture.secret|Electron_Capture.secret]] 
 

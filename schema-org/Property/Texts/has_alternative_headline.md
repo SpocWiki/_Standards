@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_alternative_headline](/_Standards/schema-org/Property/Texts/has_alternative_headline.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_alternative_headline|has_alternative_headline]] 
 
-### #is_/same_as :: [has_alternative_headline.public](/_public/schema-org/Property/Texts/has_alternative_headline.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_alternative_headline.public|has_alternative_headline.public]] 
 
-### #is_/same_as :: [has_alternative_headline.internal](/_internal/schema-org/Property/Texts/has_alternative_headline.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_alternative_headline.internal|has_alternative_headline.internal]] 
 
-### #is_/same_as :: [has_alternative_headline.protect](/_protect/schema-org/Property/Texts/has_alternative_headline.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_alternative_headline.protect|has_alternative_headline.protect]] 
 
-### #is_/same_as :: [has_alternative_headline.private](/_private/schema-org/Property/Texts/has_alternative_headline.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_alternative_headline.private|has_alternative_headline.private]] 
 
-### #is_/same_as :: [has_alternative_headline.personal](/_personal/schema-org/Property/Texts/has_alternative_headline.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_alternative_headline.personal|has_alternative_headline.personal]] 
 
-### #is_/same_as :: [has_alternative_headline.secret](/_secret/schema-org/Property/Texts/has_alternative_headline.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_alternative_headline.secret|has_alternative_headline.secret]] 
 

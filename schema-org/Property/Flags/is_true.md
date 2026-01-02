@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_true](/_Standards/schema-org/Property/Flags/is_true.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_true|is_true]] 
 
-### #is_/same_as :: [is_true.public](/_public/schema-org/Property/Flags/is_true.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_true.public|is_true.public]] 
 
-### #is_/same_as :: [is_true.internal](/_internal/schema-org/Property/Flags/is_true.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_true.internal|is_true.internal]] 
 
-### #is_/same_as :: [is_true.protect](/_protect/schema-org/Property/Flags/is_true.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_true.protect|is_true.protect]] 
 
-### #is_/same_as :: [is_true.private](/_private/schema-org/Property/Flags/is_true.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_true.private|is_true.private]] 
 
-### #is_/same_as :: [is_true.personal](/_personal/schema-org/Property/Flags/is_true.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_true.personal|is_true.personal]] 
 
-### #is_/same_as :: [is_true.secret](/_secret/schema-org/Property/Flags/is_true.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_true.secret|is_true.secret]] 
 

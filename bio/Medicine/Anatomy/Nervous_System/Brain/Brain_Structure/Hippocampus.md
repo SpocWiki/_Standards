@@ -52,17 +52,17 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hippocampus%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hippocampus](/_Standards/Hippocampus.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus|Hippocampus]] 
 
-### #is_/same_as :: [Hippocampus.public](/_public/Hippocampus.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.public|Hippocampus.public]] 
 
-### #is_/same_as :: [Hippocampus.internal](/_internal/Hippocampus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.internal|Hippocampus.internal]] 
 
-### #is_/same_as :: [Hippocampus.protect](/_protect/Hippocampus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.protect|Hippocampus.protect]] 
 
-### #is_/same_as :: [Hippocampus.private](/_private/Hippocampus.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.private|Hippocampus.private]] 
 
-### #is_/same_as :: [Hippocampus.personal](/_personal/Hippocampus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.personal|Hippocampus.personal]] 
 
-### #is_/same_as :: [Hippocampus.secret](/_secret/Hippocampus.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Brain/Brain_Structure/Hippocampus.secret|Hippocampus.secret]] 
 

@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Similarity](/_Standards/Mathematics/Geometry/Similarity.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Similarity|Similarity]] 
 
-### #is_/same_as :: [Similarity.public](/_public/Mathematics/Geometry/Similarity.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Similarity.public|Similarity.public]] 
 
-### #is_/same_as :: [Similarity.internal](/_internal/Mathematics/Geometry/Similarity.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Similarity.internal|Similarity.internal]] 
 
-### #is_/same_as :: [Similarity.protect](/_protect/Mathematics/Geometry/Similarity.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Similarity.protect|Similarity.protect]] 
 
-### #is_/same_as :: [Similarity.private](/_private/Mathematics/Geometry/Similarity.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Similarity.private|Similarity.private]] 
 
-### #is_/same_as :: [Similarity.personal](/_personal/Mathematics/Geometry/Similarity.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Similarity.personal|Similarity.personal]] 
 
-### #is_/same_as :: [Similarity.secret](/_secret/Mathematics/Geometry/Similarity.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Similarity.secret|Similarity.secret]] 
 

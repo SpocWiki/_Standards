@@ -43,17 +43,17 @@ Commons_category: Bicameral legislatures
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bicameral_Legislature](/_Standards/Society/Politics/Government/Democracy/Bicameral_Legislature.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Democracy/Bicameral_Legislature|Bicameral_Legislature]] 
 
-### #is_/same_as :: [Bicameral_Legislature.public](/_public/Society/Politics/Government/Democracy/Bicameral_Legislature.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Democracy/Bicameral_Legislature.public|Bicameral_Legislature.public]] 
 
-### #is_/same_as :: [Bicameral_Legislature.internal](/_internal/Society/Politics/Government/Democracy/Bicameral_Legislature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Democracy/Bicameral_Legislature.internal|Bicameral_Legislature.internal]] 
 
-### #is_/same_as :: [Bicameral_Legislature.protect](/_protect/Society/Politics/Government/Democracy/Bicameral_Legislature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Democracy/Bicameral_Legislature.protect|Bicameral_Legislature.protect]] 
 
-### #is_/same_as :: [Bicameral_Legislature.private](/_private/Society/Politics/Government/Democracy/Bicameral_Legislature.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Democracy/Bicameral_Legislature.private|Bicameral_Legislature.private]] 
 
-### #is_/same_as :: [Bicameral_Legislature.personal](/_personal/Society/Politics/Government/Democracy/Bicameral_Legislature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Democracy/Bicameral_Legislature.personal|Bicameral_Legislature.personal]] 
 
-### #is_/same_as :: [Bicameral_Legislature.secret](/_secret/Society/Politics/Government/Democracy/Bicameral_Legislature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Democracy/Bicameral_Legislature.secret|Bicameral_Legislature.secret]] 
 

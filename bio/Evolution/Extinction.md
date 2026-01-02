@@ -68,17 +68,17 @@ MeSH_tree_code: G16.510
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Extinction](/_Standards/bio/Evolution/Extinction.md) 
+### #is_/same_as :: [[/_Standards/bio/Evolution/Extinction|Extinction]] 
 
-### #is_/same_as :: [Extinction.public](/_public/bio/Evolution/Extinction.public.md) 
+### #is_/same_as :: [[/_public/bio/Evolution/Extinction.public|Extinction.public]] 
 
-### #is_/same_as :: [Extinction.internal](/_internal/bio/Evolution/Extinction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Evolution/Extinction.internal|Extinction.internal]] 
 
-### #is_/same_as :: [Extinction.protect](/_protect/bio/Evolution/Extinction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Evolution/Extinction.protect|Extinction.protect]] 
 
-### #is_/same_as :: [Extinction.private](/_private/bio/Evolution/Extinction.private.md) 
+### #is_/same_as :: [[/_private/bio/Evolution/Extinction.private|Extinction.private]] 
 
-### #is_/same_as :: [Extinction.personal](/_personal/bio/Evolution/Extinction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Evolution/Extinction.personal|Extinction.personal]] 
 
-### #is_/same_as :: [Extinction.secret](/_secret/bio/Evolution/Extinction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Evolution/Extinction.secret|Extinction.secret]] 
 

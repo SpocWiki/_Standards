@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_exercise_plan](/_Standards/schema-org/Relation/has/has_exercise_plan.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_exercise_plan|has_exercise_plan]] 
 
-### #is_/same_as :: [has_exercise_plan.public](/_public/schema-org/Relation/has/has_exercise_plan.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_exercise_plan.public|has_exercise_plan.public]] 
 
-### #is_/same_as :: [has_exercise_plan.internal](/_internal/schema-org/Relation/has/has_exercise_plan.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_exercise_plan.internal|has_exercise_plan.internal]] 
 
-### #is_/same_as :: [has_exercise_plan.protect](/_protect/schema-org/Relation/has/has_exercise_plan.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_exercise_plan.protect|has_exercise_plan.protect]] 
 
-### #is_/same_as :: [has_exercise_plan.private](/_private/schema-org/Relation/has/has_exercise_plan.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_exercise_plan.private|has_exercise_plan.private]] 
 
-### #is_/same_as :: [has_exercise_plan.personal](/_personal/schema-org/Relation/has/has_exercise_plan.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_exercise_plan.personal|has_exercise_plan.personal]] 
 
-### #is_/same_as :: [has_exercise_plan.secret](/_secret/schema-org/Relation/has/has_exercise_plan.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_exercise_plan.secret|has_exercise_plan.secret]] 
 

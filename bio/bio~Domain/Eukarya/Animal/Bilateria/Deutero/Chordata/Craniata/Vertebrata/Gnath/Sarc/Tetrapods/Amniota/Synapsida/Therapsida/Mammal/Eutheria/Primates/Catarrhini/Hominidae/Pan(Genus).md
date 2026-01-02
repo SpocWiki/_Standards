@@ -38,8 +38,8 @@ U_S_National_Archives_Identifier: 10647859
 
 # [[Pan(Genus)]] 
 
-![](Pan(Genus)/hugh_portrait.jpg)
-![](Pan(Genus)/mike_portrait.jpg)
+![](Pan(Genus)/Chimpanzee/hugh_portrait.jpg)
+![](Pan(Genus)/Chimpanzee/mike_portrait.jpg)
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Pan,80174|WD~Pan,80174]] 
 
@@ -106,7 +106,7 @@ U_S_National_Archives_Identifier: 10647859
 ## Title Illustrations
 
 ------------------------------------------------------------------------- 
-![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/hugh_portrait.jpg))
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/hugh_portrait.jpg))
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
@@ -119,7 +119,7 @@ View                 Frontal
 Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
-![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/mike_portrait.jpg))
+![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/mike_portrait.jpg))
 Scientific Name ::     Pan troglodytes schweinfurthii
 Location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
@@ -133,17 +133,17 @@ Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pan(Genus)](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus)|Pan(Genus)]] 
 
-### #is_/same_as :: [Pan(Genus).public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).public|Pan(Genus).public]] 
 
-### #is_/same_as :: [Pan(Genus).internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).internal|Pan(Genus).internal]] 
 
-### #is_/same_as :: [Pan(Genus).protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).protect|Pan(Genus).protect]] 
 
-### #is_/same_as :: [Pan(Genus).private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).private|Pan(Genus).private]] 
 
-### #is_/same_as :: [Pan(Genus).personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).personal|Pan(Genus).personal]] 
 
-### #is_/same_as :: [Pan(Genus).secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Pan(Genus).secret|Pan(Genus).secret]] 
 

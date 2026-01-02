@@ -225,17 +225,17 @@ ISNI: 0000000121266391
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de](/_Standards/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de|Toulouse-Lautrec,Henri_de]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.public](/_public/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.public|Toulouse-Lautrec,Henri_de.public]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.internal](/_internal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.internal|Toulouse-Lautrec,Henri_de.internal]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.protect](/_protect/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.protect|Toulouse-Lautrec,Henri_de.protect]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.private](/_private/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.private|Toulouse-Lautrec,Henri_de.private]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.personal](/_personal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.personal|Toulouse-Lautrec,Henri_de.personal]] 
 
-### #is_/same_as :: [Toulouse-Lautrec,Henri_de.secret](/_secret/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Toulouse-Lautrec,Henri_de.secret|Toulouse-Lautrec,Henri_de.secret]] 
 

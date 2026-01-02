@@ -42,17 +42,17 @@ Commons_category: Micrometers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Micrometer](/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer|Micrometer]] 
 
-### #is_/same_as :: [Micrometer.public](/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.public|Micrometer.public]] 
 
-### #is_/same_as :: [Micrometer.internal](/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.internal|Micrometer.internal]] 
 
-### #is_/same_as :: [Micrometer.protect](/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.protect|Micrometer.protect]] 
 
-### #is_/same_as :: [Micrometer.private](/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.private|Micrometer.private]] 
 
-### #is_/same_as :: [Micrometer.personal](/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.personal|Micrometer.personal]] 
 
-### #is_/same_as :: [Micrometer.secret](/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Measuring_Instrument/Micrometer.secret|Micrometer.secret]] 
 

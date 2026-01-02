@@ -29,17 +29,17 @@ Commons_category: Meta-ethics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metaethics](/_Standards/Philosophy/Ethics/Metaethics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Metaethics|Metaethics]] 
 
-### #is_/same_as :: [Metaethics.public](/_public/Philosophy/Ethics/Metaethics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Metaethics.public|Metaethics.public]] 
 
-### #is_/same_as :: [Metaethics.internal](/_internal/Philosophy/Ethics/Metaethics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Metaethics.internal|Metaethics.internal]] 
 
-### #is_/same_as :: [Metaethics.protect](/_protect/Philosophy/Ethics/Metaethics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Metaethics.protect|Metaethics.protect]] 
 
-### #is_/same_as :: [Metaethics.private](/_private/Philosophy/Ethics/Metaethics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Metaethics.private|Metaethics.private]] 
 
-### #is_/same_as :: [Metaethics.personal](/_personal/Philosophy/Ethics/Metaethics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Metaethics.personal|Metaethics.personal]] 
 
-### #is_/same_as :: [Metaethics.secret](/_secret/Philosophy/Ethics/Metaethics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Metaethics.secret|Metaethics.secret]] 
 

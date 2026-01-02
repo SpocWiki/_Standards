@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_test](/_Standards/schema-org/Relation/has/has_sub_test.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_sub_test|has_sub_test]] 
 
-### #is_/same_as :: [has_sub_test.public](/_public/schema-org/Relation/has/has_sub_test.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_sub_test.public|has_sub_test.public]] 
 
-### #is_/same_as :: [has_sub_test.internal](/_internal/schema-org/Relation/has/has_sub_test.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_sub_test.internal|has_sub_test.internal]] 
 
-### #is_/same_as :: [has_sub_test.protect](/_protect/schema-org/Relation/has/has_sub_test.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_sub_test.protect|has_sub_test.protect]] 
 
-### #is_/same_as :: [has_sub_test.private](/_private/schema-org/Relation/has/has_sub_test.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_sub_test.private|has_sub_test.private]] 
 
-### #is_/same_as :: [has_sub_test.personal](/_personal/schema-org/Relation/has/has_sub_test.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_sub_test.personal|has_sub_test.personal]] 
 
-### #is_/same_as :: [has_sub_test.secret](/_secret/schema-org/Relation/has/has_sub_test.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_sub_test.secret|has_sub_test.secret]] 
 

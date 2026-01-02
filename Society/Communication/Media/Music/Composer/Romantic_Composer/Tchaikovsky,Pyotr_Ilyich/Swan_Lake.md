@@ -72,17 +72,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiener%20Staatsoper%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swan_Lake](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake|Swan_Lake]] 
 
-### #is_/same_as :: [Swan_Lake.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.public|Swan_Lake.public]] 
 
-### #is_/same_as :: [Swan_Lake.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.internal|Swan_Lake.internal]] 
 
-### #is_/same_as :: [Swan_Lake.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.protect|Swan_Lake.protect]] 
 
-### #is_/same_as :: [Swan_Lake.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.private|Swan_Lake.private]] 
 
-### #is_/same_as :: [Swan_Lake.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.personal|Swan_Lake.personal]] 
 
-### #is_/same_as :: [Swan_Lake.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Tchaikovsky,Pyotr_Ilyich/Swan_Lake.secret|Swan_Lake.secret]] 
 

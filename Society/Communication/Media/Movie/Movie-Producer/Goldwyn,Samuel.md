@@ -79,17 +79,17 @@ ISNI: 0000000083793990
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goldwyn,Samuel](/_Standards/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel|Goldwyn,Samuel]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.public](/_public/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.public|Goldwyn,Samuel.public]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.internal](/_internal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.internal|Goldwyn,Samuel.internal]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.protect](/_protect/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.protect|Goldwyn,Samuel.protect]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.private](/_private/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.private|Goldwyn,Samuel.private]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.personal](/_personal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.personal|Goldwyn,Samuel.personal]] 
 
-### #is_/same_as :: [Goldwyn,Samuel.secret](/_secret/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Producer/Goldwyn,Samuel.secret|Goldwyn,Samuel.secret]] 
 

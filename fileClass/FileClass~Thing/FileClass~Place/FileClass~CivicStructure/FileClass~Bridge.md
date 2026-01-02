@@ -37,17 +37,17 @@ A bridge.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Bridge](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge|FileClass~Bridge]] 
 
-### #is_/same_as :: [FileClass~Bridge.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.public|FileClass~Bridge.public]] 
 
-### #is_/same_as :: [FileClass~Bridge.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.internal|FileClass~Bridge.internal]] 
 
-### #is_/same_as :: [FileClass~Bridge.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.protect|FileClass~Bridge.protect]] 
 
-### #is_/same_as :: [FileClass~Bridge.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.private|FileClass~Bridge.private]] 
 
-### #is_/same_as :: [FileClass~Bridge.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.personal|FileClass~Bridge.personal]] 
 
-### #is_/same_as :: [FileClass~Bridge.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~Bridge.secret|FileClass~Bridge.secret]] 
 

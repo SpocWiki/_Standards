@@ -79,17 +79,17 @@ Commons_category: Computer numerical control
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control)](/_Standards/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control)|CNC(Computer_Numerical_Control)]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).public](/_public/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).public|CNC(Computer_Numerical_Control).public]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).internal](/_internal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).internal|CNC(Computer_Numerical_Control).internal]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).protect](/_protect/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).protect|CNC(Computer_Numerical_Control).protect]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).private](/_private/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).private|CNC(Computer_Numerical_Control).private]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).personal](/_personal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).personal|CNC(Computer_Numerical_Control).personal]] 
 
-### #is_/same_as :: [CNC(Computer_Numerical_Control).secret](/_secret/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/CNC(Computer_Numerical_Control).secret|CNC(Computer_Numerical_Control).secret]] 
 

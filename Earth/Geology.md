@@ -80,17 +80,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Geology,15077486]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geology](/_Standards/Earth/Geology.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology|Geology]] 
 
-### #is_/same_as :: [Geology.public](/_public/Earth/Geology.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology.public|Geology.public]] 
 
-### #is_/same_as :: [Geology.internal](/_internal/Earth/Geology.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology.internal|Geology.internal]] 
 
-### #is_/same_as :: [Geology.protect](/_protect/Earth/Geology.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology.protect|Geology.protect]] 
 
-### #is_/same_as :: [Geology.private](/_private/Earth/Geology.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology.private|Geology.private]] 
 
-### #is_/same_as :: [Geology.personal](/_personal/Earth/Geology.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology.personal|Geology.personal]] 
 
-### #is_/same_as :: [Geology.secret](/_secret/Earth/Geology.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology.secret|Geology.secret]] 
 

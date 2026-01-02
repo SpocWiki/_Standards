@@ -13,17 +13,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toei_Animation](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation|Toei_Animation]] 
 
-### #is_/same_as :: [Toei_Animation.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.public|Toei_Animation.public]] 
 
-### #is_/same_as :: [Toei_Animation.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.internal|Toei_Animation.internal]] 
 
-### #is_/same_as :: [Toei_Animation.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.protect|Toei_Animation.protect]] 
 
-### #is_/same_as :: [Toei_Animation.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.private|Toei_Animation.private]] 
 
-### #is_/same_as :: [Toei_Animation.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.personal|Toei_Animation.personal]] 
 
-### #is_/same_as :: [Toei_Animation.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Toei_Animation.secret|Toei_Animation.secret]] 
 

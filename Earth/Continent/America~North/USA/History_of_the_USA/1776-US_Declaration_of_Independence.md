@@ -142,3 +142,22 @@ publication_date: 1776-07-04T00:00:00Z
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/United%20States%20Declaration%20of%20Independence) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence|1776-US_Declaration_of_Independence]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.public|1776-US_Declaration_of_Independence.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.internal|1776-US_Declaration_of_Independence.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.protect|1776-US_Declaration_of_Independence.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.private|1776-US_Declaration_of_Independence.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.personal|1776-US_Declaration_of_Independence.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1776-US_Declaration_of_Independence.secret|1776-US_Declaration_of_Independence.secret]] 
+

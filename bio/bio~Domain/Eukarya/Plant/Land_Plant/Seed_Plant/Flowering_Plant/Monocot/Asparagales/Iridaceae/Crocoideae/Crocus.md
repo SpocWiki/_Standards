@@ -152,17 +152,17 @@ NBN_System_Key: NHMSYS0000457717
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crocus](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus|Crocus]] 
 
-### #is_/same_as :: [Crocus.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.public|Crocus.public]] 
 
-### #is_/same_as :: [Crocus.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.internal|Crocus.internal]] 
 
-### #is_/same_as :: [Crocus.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.protect|Crocus.protect]] 
 
-### #is_/same_as :: [Crocus.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.private|Crocus.private]] 
 
-### #is_/same_as :: [Crocus.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.personal|Crocus.personal]] 
 
-### #is_/same_as :: [Crocus.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Asparagales/Iridaceae/Crocoideae/Crocus.secret|Crocus.secret]] 
 

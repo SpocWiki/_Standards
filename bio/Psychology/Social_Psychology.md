@@ -45,17 +45,17 @@ Library_of_Congress_Classification: HM1001-HM1281
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Psychology](/_Standards/bio/Psychology/Social_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Social_Psychology|Social_Psychology]] 
 
-### #is_/same_as :: [Social_Psychology.public](/_public/bio/Psychology/Social_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Social_Psychology.public|Social_Psychology.public]] 
 
-### #is_/same_as :: [Social_Psychology.internal](/_internal/bio/Psychology/Social_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Social_Psychology.internal|Social_Psychology.internal]] 
 
-### #is_/same_as :: [Social_Psychology.protect](/_protect/bio/Psychology/Social_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Social_Psychology.protect|Social_Psychology.protect]] 
 
-### #is_/same_as :: [Social_Psychology.private](/_private/bio/Psychology/Social_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Social_Psychology.private|Social_Psychology.private]] 
 
-### #is_/same_as :: [Social_Psychology.personal](/_personal/bio/Psychology/Social_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Social_Psychology.personal|Social_Psychology.personal]] 
 
-### #is_/same_as :: [Social_Psychology.secret](/_secret/bio/Psychology/Social_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Social_Psychology.secret|Social_Psychology.secret]] 
 

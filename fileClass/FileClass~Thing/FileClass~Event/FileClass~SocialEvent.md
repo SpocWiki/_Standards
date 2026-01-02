@@ -37,17 +37,17 @@ Event type: Social event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SocialEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent|FileClass~SocialEvent]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.public|FileClass~SocialEvent.public]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.internal|FileClass~SocialEvent.internal]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.protect|FileClass~SocialEvent.protect]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.private|FileClass~SocialEvent.private]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.personal|FileClass~SocialEvent.personal]] 
 
-### #is_/same_as :: [FileClass~SocialEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SocialEvent.secret|FileClass~SocialEvent.secret]] 
 

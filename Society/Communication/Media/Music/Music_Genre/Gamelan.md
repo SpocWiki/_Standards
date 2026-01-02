@@ -55,17 +55,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gamelan](/_Standards/Society/Communication/Media/Music/Music_Genre/Gamelan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Gamelan|Gamelan]] 
 
-### #is_/same_as :: [Gamelan.public](/_public/Society/Communication/Media/Music/Music_Genre/Gamelan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Gamelan.public|Gamelan.public]] 
 
-### #is_/same_as :: [Gamelan.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Gamelan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Gamelan.internal|Gamelan.internal]] 
 
-### #is_/same_as :: [Gamelan.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Gamelan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Gamelan.protect|Gamelan.protect]] 
 
-### #is_/same_as :: [Gamelan.private](/_private/Society/Communication/Media/Music/Music_Genre/Gamelan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Gamelan.private|Gamelan.private]] 
 
-### #is_/same_as :: [Gamelan.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Gamelan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Gamelan.personal|Gamelan.personal]] 
 
-### #is_/same_as :: [Gamelan.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Gamelan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Gamelan.secret|Gamelan.secret]] 
 

@@ -156,17 +156,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_statistics,7112738]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statistics](/_Standards/Mathematics/Statistics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics|Statistics]] 
 
-### #is_/same_as :: [Statistics.public](/_public/Mathematics/Statistics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics.public|Statistics.public]] 
 
-### #is_/same_as :: [Statistics.internal](/_internal/Mathematics/Statistics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics.internal|Statistics.internal]] 
 
-### #is_/same_as :: [Statistics.protect](/_protect/Mathematics/Statistics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics.protect|Statistics.protect]] 
 
-### #is_/same_as :: [Statistics.private](/_private/Mathematics/Statistics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics.private|Statistics.private]] 
 
-### #is_/same_as :: [Statistics.personal](/_personal/Mathematics/Statistics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics.personal|Statistics.personal]] 
 
-### #is_/same_as :: [Statistics.secret](/_secret/Mathematics/Statistics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics.secret|Statistics.secret]] 
 

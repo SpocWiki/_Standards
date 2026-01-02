@@ -107,17 +107,17 @@ part of a revision of the Characeae. Verlag von J. Cramer, Weinheim.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Charales](/_Standards/bio/bio~Domain/Eukarya/Plant/Charales.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Charales|Charales]] 
 
-### #is_/same_as :: [Charales.public](/_public/bio/bio~Domain/Eukarya/Plant/Charales.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Charales.public|Charales.public]] 
 
-### #is_/same_as :: [Charales.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Charales.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Charales.internal|Charales.internal]] 
 
-### #is_/same_as :: [Charales.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Charales.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Charales.protect|Charales.protect]] 
 
-### #is_/same_as :: [Charales.private](/_private/bio/bio~Domain/Eukarya/Plant/Charales.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Charales.private|Charales.private]] 
 
-### #is_/same_as :: [Charales.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Charales.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Charales.personal|Charales.personal]] 
 
-### #is_/same_as :: [Charales.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Charales.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Charales.secret|Charales.secret]] 
 

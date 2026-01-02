@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Random_House](/_Standards/Society/Communication/Media/Writing/Book/Publisher/Random_House.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Publisher/Random_House|Random_House]] 
 
-### #is_/same_as :: [Random_House.public](/_public/Society/Communication/Media/Writing/Book/Publisher/Random_House.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Publisher/Random_House.public|Random_House.public]] 
 
-### #is_/same_as :: [Random_House.internal](/_internal/Society/Communication/Media/Writing/Book/Publisher/Random_House.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Publisher/Random_House.internal|Random_House.internal]] 
 
-### #is_/same_as :: [Random_House.protect](/_protect/Society/Communication/Media/Writing/Book/Publisher/Random_House.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Publisher/Random_House.protect|Random_House.protect]] 
 
-### #is_/same_as :: [Random_House.private](/_private/Society/Communication/Media/Writing/Book/Publisher/Random_House.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Publisher/Random_House.private|Random_House.private]] 
 
-### #is_/same_as :: [Random_House.personal](/_personal/Society/Communication/Media/Writing/Book/Publisher/Random_House.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Publisher/Random_House.personal|Random_House.personal]] 
 
-### #is_/same_as :: [Random_House.secret](/_secret/Society/Communication/Media/Writing/Book/Publisher/Random_House.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Publisher/Random_House.secret|Random_House.secret]] 
 

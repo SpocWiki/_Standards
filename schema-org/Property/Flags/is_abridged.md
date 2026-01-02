@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_abridged](/_Standards/schema-org/Property/Flags/is_abridged.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_abridged|is_abridged]] 
 
-### #is_/same_as :: [is_abridged.public](/_public/schema-org/Property/Flags/is_abridged.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_abridged.public|is_abridged.public]] 
 
-### #is_/same_as :: [is_abridged.internal](/_internal/schema-org/Property/Flags/is_abridged.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_abridged.internal|is_abridged.internal]] 
 
-### #is_/same_as :: [is_abridged.protect](/_protect/schema-org/Property/Flags/is_abridged.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_abridged.protect|is_abridged.protect]] 
 
-### #is_/same_as :: [is_abridged.private](/_private/schema-org/Property/Flags/is_abridged.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_abridged.private|is_abridged.private]] 
 
-### #is_/same_as :: [is_abridged.personal](/_personal/schema-org/Property/Flags/is_abridged.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_abridged.personal|is_abridged.personal]] 
 
-### #is_/same_as :: [is_abridged.secret](/_secret/schema-org/Property/Flags/is_abridged.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_abridged.secret|is_abridged.secret]] 
 

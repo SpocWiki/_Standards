@@ -92,17 +92,17 @@ Especially the cost of Compute has drastically been reduced by 1.4 billion, enab
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IT](/_Standards/Technology/IT.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT|IT]] 
 
-### #is_/same_as :: [IT.public](/_public/Technology/IT.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT.public|IT.public]] 
 
-### #is_/same_as :: [IT.internal](/_internal/Technology/IT.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT.internal|IT.internal]] 
 
-### #is_/same_as :: [IT.protect](/_protect/Technology/IT.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT.protect|IT.protect]] 
 
-### #is_/same_as :: [IT.private](/_private/Technology/IT.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT.private|IT.private]] 
 
-### #is_/same_as :: [IT.personal](/_personal/Technology/IT.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT.personal|IT.personal]] 
 
-### #is_/same_as :: [IT.secret](/_secret/Technology/IT.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT.secret|IT.secret]] 
 

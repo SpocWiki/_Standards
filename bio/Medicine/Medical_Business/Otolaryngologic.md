@@ -40,17 +40,17 @@ A specific branch of medical science that is concerned with the ear, nose and th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Otolaryngologic](/_Standards/bio/Medicine/Medical_Business/Otolaryngologic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Otolaryngologic|Otolaryngologic]] 
 
-### #is_/same_as :: [Otolaryngologic.public](/_public/bio/Medicine/Medical_Business/Otolaryngologic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Otolaryngologic.public|Otolaryngologic.public]] 
 
-### #is_/same_as :: [Otolaryngologic.internal](/_internal/bio/Medicine/Medical_Business/Otolaryngologic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Otolaryngologic.internal|Otolaryngologic.internal]] 
 
-### #is_/same_as :: [Otolaryngologic.protect](/_protect/bio/Medicine/Medical_Business/Otolaryngologic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Otolaryngologic.protect|Otolaryngologic.protect]] 
 
-### #is_/same_as :: [Otolaryngologic.private](/_private/bio/Medicine/Medical_Business/Otolaryngologic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Otolaryngologic.private|Otolaryngologic.private]] 
 
-### #is_/same_as :: [Otolaryngologic.personal](/_personal/bio/Medicine/Medical_Business/Otolaryngologic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Otolaryngologic.personal|Otolaryngologic.personal]] 
 
-### #is_/same_as :: [Otolaryngologic.secret](/_secret/bio/Medicine/Medical_Business/Otolaryngologic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Otolaryngologic.secret|Otolaryngologic.secret]] 
 

@@ -62,17 +62,17 @@ native_label: Singer Corporation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company](/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company|Singer_Sewing_Machine_Company]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.public](/_public/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.public|Singer_Sewing_Machine_Company.public]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.internal](/_internal/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.internal|Singer_Sewing_Machine_Company.internal]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.protect](/_protect/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.protect|Singer_Sewing_Machine_Company.protect]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.private](/_private/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.private|Singer_Sewing_Machine_Company.private]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.personal](/_personal/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.personal|Singer_Sewing_Machine_Company.personal]] 
 
-### #is_/same_as :: [Singer_Sewing_Machine_Company.secret](/_secret/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Home_Appliance/Sewing_Machine/Singer_Sewing_Machine_Company.secret|Singer_Sewing_Machine_Company.secret]] 
 

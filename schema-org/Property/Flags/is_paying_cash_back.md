@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_paying_cash_back](/_Standards/schema-org/Property/Flags/is_paying_cash_back.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_paying_cash_back|is_paying_cash_back]] 
 
-### #is_/same_as :: [is_paying_cash_back.public](/_public/schema-org/Property/Flags/is_paying_cash_back.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_paying_cash_back.public|is_paying_cash_back.public]] 
 
-### #is_/same_as :: [is_paying_cash_back.internal](/_internal/schema-org/Property/Flags/is_paying_cash_back.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_paying_cash_back.internal|is_paying_cash_back.internal]] 
 
-### #is_/same_as :: [is_paying_cash_back.protect](/_protect/schema-org/Property/Flags/is_paying_cash_back.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_paying_cash_back.protect|is_paying_cash_back.protect]] 
 
-### #is_/same_as :: [is_paying_cash_back.private](/_private/schema-org/Property/Flags/is_paying_cash_back.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_paying_cash_back.private|is_paying_cash_back.private]] 
 
-### #is_/same_as :: [is_paying_cash_back.personal](/_personal/schema-org/Property/Flags/is_paying_cash_back.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_paying_cash_back.personal|is_paying_cash_back.personal]] 
 
-### #is_/same_as :: [is_paying_cash_back.secret](/_secret/schema-org/Property/Flags/is_paying_cash_back.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_paying_cash_back.secret|is_paying_cash_back.secret]] 
 

@@ -46,17 +46,17 @@ Commons_category: Literature of Spain
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spanish_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature|Spanish_Literature]] 
 
-### #is_/same_as :: [Spanish_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.public|Spanish_Literature.public]] 
 
-### #is_/same_as :: [Spanish_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.internal|Spanish_Literature.internal]] 
 
-### #is_/same_as :: [Spanish_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.protect|Spanish_Literature.protect]] 
 
-### #is_/same_as :: [Spanish_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.private|Spanish_Literature.private]] 
 
-### #is_/same_as :: [Spanish_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.personal|Spanish_Literature.personal]] 
 
-### #is_/same_as :: [Spanish_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Spanish_Literature.secret|Spanish_Literature.secret]] 
 

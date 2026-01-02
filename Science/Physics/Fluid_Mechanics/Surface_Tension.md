@@ -84,17 +84,17 @@ Dewey_Decimal_Classification: 530.427
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Surface_Tension](/_Standards/Science/Physics/Fluid_Mechanics/Surface_Tension.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Surface_Tension|Surface_Tension]] 
 
-### #is_/same_as :: [Surface_Tension.public](/_public/Science/Physics/Fluid_Mechanics/Surface_Tension.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Surface_Tension.public|Surface_Tension.public]] 
 
-### #is_/same_as :: [Surface_Tension.internal](/_internal/Science/Physics/Fluid_Mechanics/Surface_Tension.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Surface_Tension.internal|Surface_Tension.internal]] 
 
-### #is_/same_as :: [Surface_Tension.protect](/_protect/Science/Physics/Fluid_Mechanics/Surface_Tension.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Surface_Tension.protect|Surface_Tension.protect]] 
 
-### #is_/same_as :: [Surface_Tension.private](/_private/Science/Physics/Fluid_Mechanics/Surface_Tension.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Surface_Tension.private|Surface_Tension.private]] 
 
-### #is_/same_as :: [Surface_Tension.personal](/_personal/Science/Physics/Fluid_Mechanics/Surface_Tension.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Surface_Tension.personal|Surface_Tension.personal]] 
 
-### #is_/same_as :: [Surface_Tension.secret](/_secret/Science/Physics/Fluid_Mechanics/Surface_Tension.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Surface_Tension.secret|Surface_Tension.secret]] 
 

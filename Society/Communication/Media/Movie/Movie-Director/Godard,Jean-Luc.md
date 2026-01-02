@@ -130,17 +130,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Godard,Jean-Luc](/_Standards/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc|Godard,Jean-Luc]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.public](/_public/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.public|Godard,Jean-Luc.public]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.internal|Godard,Jean-Luc.internal]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.protect|Godard,Jean-Luc.protect]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.private](/_private/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.private|Godard,Jean-Luc.private]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.personal|Godard,Jean-Luc.personal]] 
 
-### #is_/same_as :: [Godard,Jean-Luc.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Godard,Jean-Luc.secret|Godard,Jean-Luc.secret]] 
 

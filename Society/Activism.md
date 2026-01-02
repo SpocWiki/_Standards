@@ -41,17 +41,17 @@ Commons_category: Activism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Activism](/_Standards/Society/Activism.md) 
+### #is_/same_as :: [[/_Standards/Society/Activism|Activism]] 
 
-### #is_/same_as :: [Activism.public](/_public/Society/Activism.public.md) 
+### #is_/same_as :: [[/_public/Society/Activism.public|Activism.public]] 
 
-### #is_/same_as :: [Activism.internal](/_internal/Society/Activism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Activism.internal|Activism.internal]] 
 
-### #is_/same_as :: [Activism.protect](/_protect/Society/Activism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Activism.protect|Activism.protect]] 
 
-### #is_/same_as :: [Activism.private](/_private/Society/Activism.private.md) 
+### #is_/same_as :: [[/_private/Society/Activism.private|Activism.private]] 
 
-### #is_/same_as :: [Activism.personal](/_personal/Society/Activism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Activism.personal|Activism.personal]] 
 
-### #is_/same_as :: [Activism.secret](/_secret/Society/Activism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Activism.secret|Activism.secret]] 
 

@@ -159,17 +159,17 @@ Capital :: [[San_Marino]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [San_Marino](/_Standards/Earth/Continent/Europe/Europe~South/San_Marino.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/San_Marino|San_Marino]] 
 
-### #is_/same_as :: [San_Marino.public](/_public/Earth/Continent/Europe/Europe~South/San_Marino.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/San_Marino.public|San_Marino.public]] 
 
-### #is_/same_as :: [San_Marino.internal](/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/San_Marino.internal|San_Marino.internal]] 
 
-### #is_/same_as :: [San_Marino.protect](/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/San_Marino.protect|San_Marino.protect]] 
 
-### #is_/same_as :: [San_Marino.private](/_private/Earth/Continent/Europe/Europe~South/San_Marino.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/San_Marino.private|San_Marino.private]] 
 
-### #is_/same_as :: [San_Marino.personal](/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]] 
 
-### #is_/same_as :: [San_Marino.secret](/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]] 
 

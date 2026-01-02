@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [IKEA](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA|IKEA]] 
 
-### #is_/same_as :: [IKEA.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.public|IKEA.public]] 
 
-### #is_/same_as :: [IKEA.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.internal|IKEA.internal]] 
 
-### #is_/same_as :: [IKEA.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.protect|IKEA.protect]] 
 
-### #is_/same_as :: [IKEA.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.private|IKEA.private]] 
 
-### #is_/same_as :: [IKEA.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.personal|IKEA.personal]] 
 
-### #is_/same_as :: [IKEA.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/IKEA.secret|IKEA.secret]] 
 

@@ -37,17 +37,17 @@ Commons_category: Battle axes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battle_Axe](/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe|Battle_Axe]] 
 
-### #is_/same_as :: [Battle_Axe.public](/_public/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.public|Battle_Axe.public]] 
 
-### #is_/same_as :: [Battle_Axe.internal](/_internal/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.internal|Battle_Axe.internal]] 
 
-### #is_/same_as :: [Battle_Axe.protect](/_protect/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.protect|Battle_Axe.protect]] 
 
-### #is_/same_as :: [Battle_Axe.private](/_private/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.private|Battle_Axe.private]] 
 
-### #is_/same_as :: [Battle_Axe.personal](/_personal/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.personal|Battle_Axe.personal]] 
 
-### #is_/same_as :: [Battle_Axe.secret](/_secret/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Club(Weapon)/Battle_Axe.secret|Battle_Axe.secret]] 
 

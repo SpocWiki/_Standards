@@ -59,17 +59,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Q10739150,10739150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symphony](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony|Symphony]] 
 
-### #is_/same_as :: [Symphony.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.public|Symphony.public]] 
 
-### #is_/same_as :: [Symphony.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.internal|Symphony.internal]] 
 
-### #is_/same_as :: [Symphony.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.protect|Symphony.protect]] 
 
-### #is_/same_as :: [Symphony.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.private|Symphony.private]] 
 
-### #is_/same_as :: [Symphony.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.personal|Symphony.personal]] 
 
-### #is_/same_as :: [Symphony.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Symphony.secret|Symphony.secret]] 
 

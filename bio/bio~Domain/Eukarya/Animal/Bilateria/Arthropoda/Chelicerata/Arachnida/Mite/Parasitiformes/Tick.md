@@ -174,17 +174,17 @@ Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tick](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick|Tick]] 
 
-### #is_/same_as :: [Tick.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.public|Tick.public]] 
 
-### #is_/same_as :: [Tick.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.internal|Tick.internal]] 
 
-### #is_/same_as :: [Tick.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.protect|Tick.protect]] 
 
-### #is_/same_as :: [Tick.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.private|Tick.private]] 
 
-### #is_/same_as :: [Tick.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.personal|Tick.personal]] 
 
-### #is_/same_as :: [Tick.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Mite/Parasitiformes/Tick.secret|Tick.secret]] 
 

@@ -33,17 +33,17 @@ subclass_of: "[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_Rotation](/_Standards/Astronomy/Star/Stellar_Rotation.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Stellar_Rotation|Stellar_Rotation]] 
 
-### #is_/same_as :: [Stellar_Rotation.public](/_public/Astronomy/Star/Stellar_Rotation.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Stellar_Rotation.public|Stellar_Rotation.public]] 
 
-### #is_/same_as :: [Stellar_Rotation.internal](/_internal/Astronomy/Star/Stellar_Rotation.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Stellar_Rotation.internal|Stellar_Rotation.internal]] 
 
-### #is_/same_as :: [Stellar_Rotation.protect](/_protect/Astronomy/Star/Stellar_Rotation.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Stellar_Rotation.protect|Stellar_Rotation.protect]] 
 
-### #is_/same_as :: [Stellar_Rotation.private](/_private/Astronomy/Star/Stellar_Rotation.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Stellar_Rotation.private|Stellar_Rotation.private]] 
 
-### #is_/same_as :: [Stellar_Rotation.personal](/_personal/Astronomy/Star/Stellar_Rotation.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Stellar_Rotation.personal|Stellar_Rotation.personal]] 
 
-### #is_/same_as :: [Stellar_Rotation.secret](/_secret/Astronomy/Star/Stellar_Rotation.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Stellar_Rotation.secret|Stellar_Rotation.secret]] 
 

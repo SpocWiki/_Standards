@@ -67,17 +67,17 @@ MIL_STD_2525_Symbol_Identification_Code: "10014000001101160000"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robbery](/_Standards/Society/Law/Criminal_Law/Crime/Robbery.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Robbery|Robbery]] 
 
-### #is_/same_as :: [Robbery.public](/_public/Society/Law/Criminal_Law/Crime/Robbery.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Robbery.public|Robbery.public]] 
 
-### #is_/same_as :: [Robbery.internal](/_internal/Society/Law/Criminal_Law/Crime/Robbery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Robbery.internal|Robbery.internal]] 
 
-### #is_/same_as :: [Robbery.protect](/_protect/Society/Law/Criminal_Law/Crime/Robbery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Robbery.protect|Robbery.protect]] 
 
-### #is_/same_as :: [Robbery.private](/_private/Society/Law/Criminal_Law/Crime/Robbery.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Robbery.private|Robbery.private]] 
 
-### #is_/same_as :: [Robbery.personal](/_personal/Society/Law/Criminal_Law/Crime/Robbery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Robbery.personal|Robbery.personal]] 
 
-### #is_/same_as :: [Robbery.secret](/_secret/Society/Law/Criminal_Law/Crime/Robbery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Robbery.secret|Robbery.secret]] 
 

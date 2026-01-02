@@ -43,17 +43,17 @@ Capital :: [[Vietnam/Provinces~Vietnam/Ho_Chi_Minh,City]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vietnam~South](/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam~South.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Vietnam~South|Vietnam~South]] 
 
-### #is_/same_as :: [Vietnam~South.public](/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Vietnam~South.public|Vietnam~South.public]] 
 
-### #is_/same_as :: [Vietnam~South.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.internal|Vietnam~South.internal]] 
 
-### #is_/same_as :: [Vietnam~South.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Vietnam~South.protect|Vietnam~South.protect]] 
 
-### #is_/same_as :: [Vietnam~South.private](/_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Vietnam~South.private|Vietnam~South.private]] 
 
-### #is_/same_as :: [Vietnam~South.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Vietnam~South.personal|Vietnam~South.personal]] 
 
-### #is_/same_as :: [Vietnam~South.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Vietnam~South.secret|Vietnam~South.secret]] 
 

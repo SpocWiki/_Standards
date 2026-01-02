@@ -60,17 +60,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polymer](/_Standards/Chemistry/Organic_Chemistry/Polymer.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Polymer|Polymer]] 
 
-### #is_/same_as :: [Polymer.public](/_public/Chemistry/Organic_Chemistry/Polymer.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Polymer.public|Polymer.public]] 
 
-### #is_/same_as :: [Polymer.internal](/_internal/Chemistry/Organic_Chemistry/Polymer.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Polymer.internal|Polymer.internal]] 
 
-### #is_/same_as :: [Polymer.protect](/_protect/Chemistry/Organic_Chemistry/Polymer.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Polymer.protect|Polymer.protect]] 
 
-### #is_/same_as :: [Polymer.private](/_private/Chemistry/Organic_Chemistry/Polymer.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Polymer.private|Polymer.private]] 
 
-### #is_/same_as :: [Polymer.personal](/_personal/Chemistry/Organic_Chemistry/Polymer.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Polymer.personal|Polymer.personal]] 
 
-### #is_/same_as :: [Polymer.secret](/_secret/Chemistry/Organic_Chemistry/Polymer.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Polymer.secret|Polymer.secret]] 
 

@@ -55,17 +55,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phase](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Phase|Phase]] 
 
-### #is_/same_as :: [Phase.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Phase.public|Phase.public]] 
 
-### #is_/same_as :: [Phase.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Phase.internal|Phase.internal]] 
 
-### #is_/same_as :: [Phase.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Phase.protect|Phase.protect]] 
 
-### #is_/same_as :: [Phase.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Phase.private|Phase.private]] 
 
-### #is_/same_as :: [Phase.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Phase.personal|Phase.personal]] 
 
-### #is_/same_as :: [Phase.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Phase.secret|Phase.secret]] 
 

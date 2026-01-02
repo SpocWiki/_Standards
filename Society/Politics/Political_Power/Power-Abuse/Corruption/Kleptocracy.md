@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Corrupt-Legislation-Ve
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kleptocracy](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy|Kleptocracy]] 
 
-### #is_/same_as :: [Kleptocracy.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.public|Kleptocracy.public]] 
 
-### #is_/same_as :: [Kleptocracy.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.internal|Kleptocracy.internal]] 
 
-### #is_/same_as :: [Kleptocracy.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.protect|Kleptocracy.protect]] 
 
-### #is_/same_as :: [Kleptocracy.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.private|Kleptocracy.private]] 
 
-### #is_/same_as :: [Kleptocracy.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.personal|Kleptocracy.personal]] 
 
-### #is_/same_as :: [Kleptocracy.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/Kleptocracy.secret|Kleptocracy.secret]] 
 

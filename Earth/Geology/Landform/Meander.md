@@ -55,17 +55,17 @@ and known to the [Ancient Greeks](https://en.wikipedia.org/wiki/Ancient_Greeks "
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meander](/_Standards/Earth/Geology/Landform/Meander.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Meander|Meander]] 
 
-### #is_/same_as :: [Meander.public](/_public/Earth/Geology/Landform/Meander.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Meander.public|Meander.public]] 
 
-### #is_/same_as :: [Meander.internal](/_internal/Earth/Geology/Landform/Meander.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Meander.internal|Meander.internal]] 
 
-### #is_/same_as :: [Meander.protect](/_protect/Earth/Geology/Landform/Meander.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Meander.protect|Meander.protect]] 
 
-### #is_/same_as :: [Meander.private](/_private/Earth/Geology/Landform/Meander.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Meander.private|Meander.private]] 
 
-### #is_/same_as :: [Meander.personal](/_personal/Earth/Geology/Landform/Meander.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Meander.personal|Meander.personal]] 
 
-### #is_/same_as :: [Meander.secret](/_secret/Earth/Geology/Landform/Meander.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Meander.secret|Meander.secret]] 
 

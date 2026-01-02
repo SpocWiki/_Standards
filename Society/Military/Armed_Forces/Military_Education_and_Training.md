@@ -46,17 +46,17 @@ Commons_category: Military education and training
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Education_and_Training](/_Standards/Society/Military/Armed_Forces/Military_Education_and_Training.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Education_and_Training|Military_Education_and_Training]] 
 
-### #is_/same_as :: [Military_Education_and_Training.public](/_public/Society/Military/Armed_Forces/Military_Education_and_Training.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Education_and_Training.public|Military_Education_and_Training.public]] 
 
-### #is_/same_as :: [Military_Education_and_Training.internal](/_internal/Society/Military/Armed_Forces/Military_Education_and_Training.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Education_and_Training.internal|Military_Education_and_Training.internal]] 
 
-### #is_/same_as :: [Military_Education_and_Training.protect](/_protect/Society/Military/Armed_Forces/Military_Education_and_Training.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Education_and_Training.protect|Military_Education_and_Training.protect]] 
 
-### #is_/same_as :: [Military_Education_and_Training.private](/_private/Society/Military/Armed_Forces/Military_Education_and_Training.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Education_and_Training.private|Military_Education_and_Training.private]] 
 
-### #is_/same_as :: [Military_Education_and_Training.personal](/_personal/Society/Military/Armed_Forces/Military_Education_and_Training.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Education_and_Training.personal|Military_Education_and_Training.personal]] 
 
-### #is_/same_as :: [Military_Education_and_Training.secret](/_secret/Society/Military/Armed_Forces/Military_Education_and_Training.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Education_and_Training.secret|Military_Education_and_Training.secret]] 
 

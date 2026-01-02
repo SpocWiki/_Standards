@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_size](/_Standards/schema-org/Relation/has/has_size.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_size|has_size]] 
 
-### #is_/same_as :: [has_size.public](/_public/schema-org/Relation/has/has_size.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_size.public|has_size.public]] 
 
-### #is_/same_as :: [has_size.internal](/_internal/schema-org/Relation/has/has_size.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_size.internal|has_size.internal]] 
 
-### #is_/same_as :: [has_size.protect](/_protect/schema-org/Relation/has/has_size.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_size.protect|has_size.protect]] 
 
-### #is_/same_as :: [has_size.private](/_private/schema-org/Relation/has/has_size.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_size.private|has_size.private]] 
 
-### #is_/same_as :: [has_size.personal](/_personal/schema-org/Relation/has/has_size.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_size.personal|has_size.personal]] 
 
-### #is_/same_as :: [has_size.secret](/_secret/schema-org/Relation/has/has_size.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_size.secret|has_size.secret]] 
 

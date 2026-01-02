@@ -40,17 +40,17 @@ markerFolder: ./Fiji~Eastern/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fiji~Eastern](/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern|Fiji~Eastern]] 
 
-### #is_/same_as :: [Fiji~Eastern.public](/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.public|Fiji~Eastern.public]] 
 
-### #is_/same_as :: [Fiji~Eastern.internal](/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.internal|Fiji~Eastern.internal]] 
 
-### #is_/same_as :: [Fiji~Eastern.protect](/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.protect|Fiji~Eastern.protect]] 
 
-### #is_/same_as :: [Fiji~Eastern.private](/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.private|Fiji~Eastern.private]] 
 
-### #is_/same_as :: [Fiji~Eastern.personal](/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.personal|Fiji~Eastern.personal]] 
 
-### #is_/same_as :: [Fiji~Eastern.secret](/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Fiji/Divisions~Fiji/Fiji~Eastern.secret|Fiji~Eastern.secret]] 
 

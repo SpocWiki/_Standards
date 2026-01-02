@@ -58,17 +58,17 @@ Unit :: #Unit/SI/cd
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Candela](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela|Unit~Candela]] 
 
-### #is_/same_as :: [Unit~Candela.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.public|Unit~Candela.public]] 
 
-### #is_/same_as :: [Unit~Candela.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.internal|Unit~Candela.internal]] 
 
-### #is_/same_as :: [Unit~Candela.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.protect|Unit~Candela.protect]] 
 
-### #is_/same_as :: [Unit~Candela.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.private|Unit~Candela.private]] 
 
-### #is_/same_as :: [Unit~Candela.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.personal|Unit~Candela.personal]] 
 
-### #is_/same_as :: [Unit~Candela.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Candela.secret|Unit~Candela.secret]] 
 

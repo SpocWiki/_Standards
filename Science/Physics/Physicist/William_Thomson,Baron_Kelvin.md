@@ -187,17 +187,17 @@ ISNI: "0000000121259810"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin](/_Standards/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/William_Thomson,Baron_Kelvin|William_Thomson,Baron_Kelvin]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.public](/_public/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.public|William_Thomson,Baron_Kelvin.public]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.internal](/_internal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.internal|William_Thomson,Baron_Kelvin.internal]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.protect](/_protect/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.protect|William_Thomson,Baron_Kelvin.protect]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.private](/_private/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.private|William_Thomson,Baron_Kelvin.private]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.personal](/_personal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.personal|William_Thomson,Baron_Kelvin.personal]] 
 
-### #is_/same_as :: [William_Thomson,Baron_Kelvin.secret](/_secret/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/William_Thomson,Baron_Kelvin.secret|William_Thomson,Baron_Kelvin.secret]] 
 

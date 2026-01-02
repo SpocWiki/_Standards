@@ -64,17 +64,17 @@ PhilPapers_topic: quantum-chemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantum_Chemistry](/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry|Quantum_Chemistry]] 
 
-### #is_/same_as :: [Quantum_Chemistry.public](/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.public|Quantum_Chemistry.public]] 
 
-### #is_/same_as :: [Quantum_Chemistry.internal](/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.internal|Quantum_Chemistry.internal]] 
 
-### #is_/same_as :: [Quantum_Chemistry.protect](/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.protect|Quantum_Chemistry.protect]] 
 
-### #is_/same_as :: [Quantum_Chemistry.private](/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.private|Quantum_Chemistry.private]] 
 
-### #is_/same_as :: [Quantum_Chemistry.personal](/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.personal|Quantum_Chemistry.personal]] 
 
-### #is_/same_as :: [Quantum_Chemistry.secret](/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Branch_of_Chemistry/Physical_Chemistry/Quantum_Chemistry.secret|Quantum_Chemistry.secret]] 
 

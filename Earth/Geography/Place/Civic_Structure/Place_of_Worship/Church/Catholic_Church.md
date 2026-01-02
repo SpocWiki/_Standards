@@ -41,17 +41,17 @@ A Catholic church.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catholic_Church](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church|Catholic_Church]] 
 
-### #is_/same_as :: [Catholic_Church.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.public|Catholic_Church.public]] 
 
-### #is_/same_as :: [Catholic_Church.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.internal|Catholic_Church.internal]] 
 
-### #is_/same_as :: [Catholic_Church.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.protect|Catholic_Church.protect]] 
 
-### #is_/same_as :: [Catholic_Church.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.private|Catholic_Church.private]] 
 
-### #is_/same_as :: [Catholic_Church.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.personal|Catholic_Church.personal]] 
 
-### #is_/same_as :: [Catholic_Church.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church/Catholic_Church.secret|Catholic_Church.secret]] 
 

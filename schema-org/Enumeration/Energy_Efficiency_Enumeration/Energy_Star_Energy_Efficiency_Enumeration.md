@@ -41,17 +41,17 @@ Used to indicate whether a product is EnergyStar certified.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration](/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration|Energy_Star_Energy_Efficiency_Enumeration]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.public](/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.public|Energy_Star_Energy_Efficiency_Enumeration.public]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.internal](/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.internal|Energy_Star_Energy_Efficiency_Enumeration.internal]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.protect](/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.protect|Energy_Star_Energy_Efficiency_Enumeration.protect]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.private](/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.private|Energy_Star_Energy_Efficiency_Enumeration.private]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.personal](/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.personal|Energy_Star_Energy_Efficiency_Enumeration.personal]] 
 
-### #is_/same_as :: [Energy_Star_Energy_Efficiency_Enumeration.secret](/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Energy_Efficiency_Enumeration/Energy_Star_Energy_Efficiency_Enumeration.secret|Energy_Star_Energy_Efficiency_Enumeration.secret]] 
 

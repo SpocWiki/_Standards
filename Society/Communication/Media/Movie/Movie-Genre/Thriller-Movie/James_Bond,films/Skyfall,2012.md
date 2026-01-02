@@ -47,17 +47,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skyfall,2012](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012|Skyfall,2012]] 
 
-### #is_/same_as :: [Skyfall,2012.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.public|Skyfall,2012.public]] 
 
-### #is_/same_as :: [Skyfall,2012.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.internal|Skyfall,2012.internal]] 
 
-### #is_/same_as :: [Skyfall,2012.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.protect|Skyfall,2012.protect]] 
 
-### #is_/same_as :: [Skyfall,2012.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.private|Skyfall,2012.private]] 
 
-### #is_/same_as :: [Skyfall,2012.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.personal|Skyfall,2012.personal]] 
 
-### #is_/same_as :: [Skyfall,2012.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Skyfall,2012.secret|Skyfall,2012.secret]] 
 

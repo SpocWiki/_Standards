@@ -140,17 +140,17 @@ date_of_death: 1911-03-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus](/_Standards/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus|van_'t_Hoff,Jacobus_Henricus]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.public](/_public/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.public|van_'t_Hoff,Jacobus_Henricus.public]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.internal](/_internal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.internal|van_'t_Hoff,Jacobus_Henricus.internal]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.protect](/_protect/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.protect|van_'t_Hoff,Jacobus_Henricus.protect]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.private](/_private/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.private|van_'t_Hoff,Jacobus_Henricus.private]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.personal](/_personal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.personal|van_'t_Hoff,Jacobus_Henricus.personal]] 
 
-### #is_/same_as :: [van_'t_Hoff,Jacobus_Henricus.secret](/_secret/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/van_'t_Hoff,Jacobus_Henricus.secret|van_'t_Hoff,Jacobus_Henricus.secret]] 
 

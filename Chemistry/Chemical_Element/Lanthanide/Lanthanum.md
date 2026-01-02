@@ -151,17 +151,17 @@ ZVG_number: 7570
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lanthanum](/_Standards/Chemistry/Chemical_Element/Lanthanide/Lanthanum.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Lanthanide/Lanthanum|Lanthanum]] 
 
-### #is_/same_as :: [Lanthanum.public](/_public/Chemistry/Chemical_Element/Lanthanide/Lanthanum.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Lanthanide/Lanthanum.public|Lanthanum.public]] 
 
-### #is_/same_as :: [Lanthanum.internal](/_internal/Chemistry/Chemical_Element/Lanthanide/Lanthanum.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Lanthanide/Lanthanum.internal|Lanthanum.internal]] 
 
-### #is_/same_as :: [Lanthanum.protect](/_protect/Chemistry/Chemical_Element/Lanthanide/Lanthanum.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Lanthanide/Lanthanum.protect|Lanthanum.protect]] 
 
-### #is_/same_as :: [Lanthanum.private](/_private/Chemistry/Chemical_Element/Lanthanide/Lanthanum.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Lanthanide/Lanthanum.private|Lanthanum.private]] 
 
-### #is_/same_as :: [Lanthanum.personal](/_personal/Chemistry/Chemical_Element/Lanthanide/Lanthanum.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Lanthanide/Lanthanum.personal|Lanthanum.personal]] 
 
-### #is_/same_as :: [Lanthanum.secret](/_secret/Chemistry/Chemical_Element/Lanthanide/Lanthanum.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Lanthanide/Lanthanum.secret|Lanthanum.secret]] 
 

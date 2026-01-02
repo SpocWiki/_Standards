@@ -39,17 +39,17 @@ The publication format of the book.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Book_Format_Type](/_Standards/schema-org/Enumeration/Book_Format_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type|Book_Format_Type]] 
 
-### #is_/same_as :: [Book_Format_Type.public](/_public/schema-org/Enumeration/Book_Format_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Book_Format_Type.public|Book_Format_Type.public]] 
 
-### #is_/same_as :: [Book_Format_Type.internal](/_internal/schema-org/Enumeration/Book_Format_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Book_Format_Type.internal|Book_Format_Type.internal]] 
 
-### #is_/same_as :: [Book_Format_Type.protect](/_protect/schema-org/Enumeration/Book_Format_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Book_Format_Type.protect|Book_Format_Type.protect]] 
 
-### #is_/same_as :: [Book_Format_Type.private](/_private/schema-org/Enumeration/Book_Format_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Book_Format_Type.private|Book_Format_Type.private]] 
 
-### #is_/same_as :: [Book_Format_Type.personal](/_personal/schema-org/Enumeration/Book_Format_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Book_Format_Type.personal|Book_Format_Type.personal]] 
 
-### #is_/same_as :: [Book_Format_Type.secret](/_secret/schema-org/Enumeration/Book_Format_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Book_Format_Type.secret|Book_Format_Type.secret]] 
 

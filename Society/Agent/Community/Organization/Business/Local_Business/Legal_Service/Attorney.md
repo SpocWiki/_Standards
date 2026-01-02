@@ -41,17 +41,17 @@ This type is deprecated - [[LegalService]] is more inclusive and less ambiguous.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Attorney](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney|Attorney]] 
 
-### #is_/same_as :: [Attorney.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.public|Attorney.public]] 
 
-### #is_/same_as :: [Attorney.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.internal|Attorney.internal]] 
 
-### #is_/same_as :: [Attorney.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.protect|Attorney.protect]] 
 
-### #is_/same_as :: [Attorney.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.private|Attorney.private]] 
 
-### #is_/same_as :: [Attorney.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.personal|Attorney.personal]] 
 
-### #is_/same_as :: [Attorney.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Attorney.secret|Attorney.secret]] 
 

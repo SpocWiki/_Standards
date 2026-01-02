@@ -12,17 +12,17 @@ The Title Music was written by [[Svoboda,Karel]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pinocchio,1976](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976|Pinocchio,1976]] 
 
-### #is_/same_as :: [Pinocchio,1976.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.public|Pinocchio,1976.public]] 
 
-### #is_/same_as :: [Pinocchio,1976.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.internal|Pinocchio,1976.internal]] 
 
-### #is_/same_as :: [Pinocchio,1976.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.protect|Pinocchio,1976.protect]] 
 
-### #is_/same_as :: [Pinocchio,1976.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.private|Pinocchio,1976.private]] 
 
-### #is_/same_as :: [Pinocchio,1976.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.personal|Pinocchio,1976.personal]] 
 
-### #is_/same_as :: [Pinocchio,1976.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Pinocchio,1976.secret|Pinocchio,1976.secret]] 
 

@@ -72,17 +72,17 @@ Commons_category: Slot machines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Slot_Machine](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine|Slot_Machine]] 
 
-### #is_/same_as :: [Slot_Machine.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.public|Slot_Machine.public]] 
 
-### #is_/same_as :: [Slot_Machine.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.internal|Slot_Machine.internal]] 
 
-### #is_/same_as :: [Slot_Machine.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.protect|Slot_Machine.protect]] 
 
-### #is_/same_as :: [Slot_Machine.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.private|Slot_Machine.private]] 
 
-### #is_/same_as :: [Slot_Machine.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.personal|Slot_Machine.personal]] 
 
-### #is_/same_as :: [Slot_Machine.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Gambling/Game_of_Chance/Slot_Machine.secret|Slot_Machine.secret]] 
 

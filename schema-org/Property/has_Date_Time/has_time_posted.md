@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_posted](/_Standards/schema-org/Property/has_Date_Time/has_time_posted.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_posted|has_time_posted]] 
 
-### #is_/same_as :: [has_time_posted.public](/_public/schema-org/Property/has_Date_Time/has_time_posted.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_posted.public|has_time_posted.public]] 
 
-### #is_/same_as :: [has_time_posted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_posted.internal|has_time_posted.internal]] 
 
-### #is_/same_as :: [has_time_posted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_posted.protect|has_time_posted.protect]] 
 
-### #is_/same_as :: [has_time_posted.private](/_private/schema-org/Property/has_Date_Time/has_time_posted.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_posted.private|has_time_posted.private]] 
 
-### #is_/same_as :: [has_time_posted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_posted.personal|has_time_posted.personal]] 
 
-### #is_/same_as :: [has_time_posted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_posted.secret|has_time_posted.secret]] 
 

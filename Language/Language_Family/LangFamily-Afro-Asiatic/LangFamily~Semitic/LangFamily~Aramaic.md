@@ -92,17 +92,17 @@ Dewey_Decimal_Classification: 492.29
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily~Aramaic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic|LangFamily~Aramaic]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.public|LangFamily~Aramaic.public]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.internal|LangFamily~Aramaic.internal]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.protect|LangFamily~Aramaic.protect]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.private|LangFamily~Aramaic.private]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.personal|LangFamily~Aramaic.personal]] 
 
-### #is_/same_as :: [LangFamily~Aramaic.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic/LangFamily~Aramaic.secret|LangFamily~Aramaic.secret]] 
 

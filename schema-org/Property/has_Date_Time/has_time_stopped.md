@@ -57,17 +57,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_stopped](/_Standards/schema-org/Property/has_Date_Time/has_time_stopped.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_stopped|has_time_stopped]] 
 
-### #is_/same_as :: [has_time_stopped.public](/_public/schema-org/Property/has_Date_Time/has_time_stopped.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_stopped.public|has_time_stopped.public]] 
 
-### #is_/same_as :: [has_time_stopped.internal](/_internal/schema-org/Property/has_Date_Time/has_time_stopped.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_stopped.internal|has_time_stopped.internal]] 
 
-### #is_/same_as :: [has_time_stopped.protect](/_protect/schema-org/Property/has_Date_Time/has_time_stopped.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_stopped.protect|has_time_stopped.protect]] 
 
-### #is_/same_as :: [has_time_stopped.private](/_private/schema-org/Property/has_Date_Time/has_time_stopped.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_stopped.private|has_time_stopped.private]] 
 
-### #is_/same_as :: [has_time_stopped.personal](/_personal/schema-org/Property/has_Date_Time/has_time_stopped.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_stopped.personal|has_time_stopped.personal]] 
 
-### #is_/same_as :: [has_time_stopped.secret](/_secret/schema-org/Property/has_Date_Time/has_time_stopped.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_stopped.secret|has_time_stopped.secret]] 
 

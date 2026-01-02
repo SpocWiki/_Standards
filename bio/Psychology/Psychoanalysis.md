@@ -56,17 +56,17 @@ Commons_category: Psychoanalysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Psychoanalysis](/_Standards/bio/Psychology/Psychoanalysis.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychoanalysis|Psychoanalysis]] 
 
-### #is_/same_as :: [Psychoanalysis.public](/_public/bio/Psychology/Psychoanalysis.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychoanalysis.public|Psychoanalysis.public]] 
 
-### #is_/same_as :: [Psychoanalysis.internal](/_internal/bio/Psychology/Psychoanalysis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychoanalysis.internal|Psychoanalysis.internal]] 
 
-### #is_/same_as :: [Psychoanalysis.protect](/_protect/bio/Psychology/Psychoanalysis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychoanalysis.protect|Psychoanalysis.protect]] 
 
-### #is_/same_as :: [Psychoanalysis.private](/_private/bio/Psychology/Psychoanalysis.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychoanalysis.private|Psychoanalysis.private]] 
 
-### #is_/same_as :: [Psychoanalysis.personal](/_personal/bio/Psychology/Psychoanalysis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychoanalysis.personal|Psychoanalysis.personal]] 
 
-### #is_/same_as :: [Psychoanalysis.secret](/_secret/bio/Psychology/Psychoanalysis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychoanalysis.secret|Psychoanalysis.secret]] 
 

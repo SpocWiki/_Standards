@@ -72,17 +72,17 @@ name_in_native_language: Nolan Bushnell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bushnell,Nolan](/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan|Bushnell,Nolan]] 
 
-### #is_/same_as :: [Bushnell,Nolan.public](/_public/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.public|Bushnell,Nolan.public]] 
 
-### #is_/same_as :: [Bushnell,Nolan.internal](/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.internal|Bushnell,Nolan.internal]] 
 
-### #is_/same_as :: [Bushnell,Nolan.protect](/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.protect|Bushnell,Nolan.protect]] 
 
-### #is_/same_as :: [Bushnell,Nolan.private](/_private/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.private|Bushnell,Nolan.private]] 
 
-### #is_/same_as :: [Bushnell,Nolan.personal](/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.personal|Bushnell,Nolan.personal]] 
 
-### #is_/same_as :: [Bushnell,Nolan.secret](/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Entrepreneur/Bushnell,Nolan.secret|Bushnell,Nolan.secret]] 
 

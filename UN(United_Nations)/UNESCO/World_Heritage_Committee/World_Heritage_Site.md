@@ -67,17 +67,17 @@ OpenStreetMap_tag: heritage:operator=whc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Heritage_Site](/_Standards/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site|World_Heritage_Site]] 
 
-### #is_/same_as :: [World_Heritage_Site.public](/_public/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.public|World_Heritage_Site.public]] 
 
-### #is_/same_as :: [World_Heritage_Site.internal](/_internal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.internal|World_Heritage_Site.internal]] 
 
-### #is_/same_as :: [World_Heritage_Site.protect](/_protect/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.protect|World_Heritage_Site.protect]] 
 
-### #is_/same_as :: [World_Heritage_Site.private](/_private/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.private|World_Heritage_Site.private]] 
 
-### #is_/same_as :: [World_Heritage_Site.personal](/_personal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.personal|World_Heritage_Site.personal]] 
 
-### #is_/same_as :: [World_Heritage_Site.secret](/_secret/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNESCO/World_Heritage_Committee/World_Heritage_Site.secret|World_Heritage_Site.secret]] 
 

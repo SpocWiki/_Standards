@@ -44,17 +44,17 @@ UKTrust: Non-profit type referring to a UK trust.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uk_Trust](/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust|Uk_Trust]] 
 
-### #is_/same_as :: [Uk_Trust.public](/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.public|Uk_Trust.public]] 
 
-### #is_/same_as :: [Uk_Trust.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.internal|Uk_Trust.internal]] 
 
-### #is_/same_as :: [Uk_Trust.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.protect|Uk_Trust.protect]] 
 
-### #is_/same_as :: [Uk_Trust.private](/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.private|Uk_Trust.private]] 
 
-### #is_/same_as :: [Uk_Trust.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.personal|Uk_Trust.personal]] 
 
-### #is_/same_as :: [Uk_Trust.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Uk_Nonprofit_Type/Uk_Trust.secret|Uk_Trust.secret]] 
 

@@ -57,17 +57,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Diels%C3%A4gen%20auf%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lumber](/_Standards/Chemistry/Material/Lumber.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Lumber|Lumber]] 
 
-### #is_/same_as :: [Lumber.public](/_public/Chemistry/Material/Lumber.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Lumber.public|Lumber.public]] 
 
-### #is_/same_as :: [Lumber.internal](/_internal/Chemistry/Material/Lumber.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Lumber.internal|Lumber.internal]] 
 
-### #is_/same_as :: [Lumber.protect](/_protect/Chemistry/Material/Lumber.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Lumber.protect|Lumber.protect]] 
 
-### #is_/same_as :: [Lumber.private](/_private/Chemistry/Material/Lumber.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Lumber.private|Lumber.private]] 
 
-### #is_/same_as :: [Lumber.personal](/_personal/Chemistry/Material/Lumber.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Lumber.personal|Lumber.personal]] 
 
-### #is_/same_as :: [Lumber.secret](/_secret/Chemistry/Material/Lumber.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Lumber.secret|Lumber.secret]] 
 

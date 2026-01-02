@@ -33,17 +33,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Extended_family](/_Standards/Society/Agent/Community/Clan/Extended_family.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Extended_family|Extended_family]] 
 
-### #is_/same_as :: [Extended_family.public](/_public/Society/Agent/Community/Clan/Extended_family.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Extended_family.public|Extended_family.public]] 
 
-### #is_/same_as :: [Extended_family.internal](/_internal/Society/Agent/Community/Clan/Extended_family.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Extended_family.internal|Extended_family.internal]] 
 
-### #is_/same_as :: [Extended_family.protect](/_protect/Society/Agent/Community/Clan/Extended_family.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Extended_family.protect|Extended_family.protect]] 
 
-### #is_/same_as :: [Extended_family.private](/_private/Society/Agent/Community/Clan/Extended_family.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Extended_family.private|Extended_family.private]] 
 
-### #is_/same_as :: [Extended_family.personal](/_personal/Society/Agent/Community/Clan/Extended_family.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Extended_family.personal|Extended_family.personal]] 
 
-### #is_/same_as :: [Extended_family.secret](/_secret/Society/Agent/Community/Clan/Extended_family.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Extended_family.secret|Extended_family.secret]] 
 

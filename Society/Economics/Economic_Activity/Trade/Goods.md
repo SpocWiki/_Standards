@@ -38,17 +38,17 @@ Colon_Classification: X:446
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goods](/_Standards/Society/Economics/Economic_Activity/Trade/Goods.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Goods|Goods]] 
 
-### #is_/same_as :: [Goods.public](/_public/Society/Economics/Economic_Activity/Trade/Goods.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Goods.public|Goods.public]] 
 
-### #is_/same_as :: [Goods.internal](/_internal/Society/Economics/Economic_Activity/Trade/Goods.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Goods.internal|Goods.internal]] 
 
-### #is_/same_as :: [Goods.protect](/_protect/Society/Economics/Economic_Activity/Trade/Goods.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Goods.protect|Goods.protect]] 
 
-### #is_/same_as :: [Goods.private](/_private/Society/Economics/Economic_Activity/Trade/Goods.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Goods.private|Goods.private]] 
 
-### #is_/same_as :: [Goods.personal](/_personal/Society/Economics/Economic_Activity/Trade/Goods.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Goods.personal|Goods.personal]] 
 
-### #is_/same_as :: [Goods.secret](/_secret/Society/Economics/Economic_Activity/Trade/Goods.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Goods.secret|Goods.secret]] 
 

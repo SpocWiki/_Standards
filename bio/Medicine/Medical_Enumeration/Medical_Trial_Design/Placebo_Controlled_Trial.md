@@ -42,17 +42,17 @@ A placebo-controlled trial design.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Placebo_Controlled_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial|Placebo_Controlled_Trial]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.public|Placebo_Controlled_Trial.public]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.internal|Placebo_Controlled_Trial.internal]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.protect|Placebo_Controlled_Trial.protect]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.private|Placebo_Controlled_Trial.private]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.personal|Placebo_Controlled_Trial.personal]] 
 
-### #is_/same_as :: [Placebo_Controlled_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Placebo_Controlled_Trial.secret|Placebo_Controlled_Trial.secret]] 
 

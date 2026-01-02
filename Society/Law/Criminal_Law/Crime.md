@@ -76,17 +76,17 @@ WordLift_URL: https://data.wordlift.io/wl76541/entity/criminal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crime](/_Standards/Society/Law/Criminal_Law/Crime.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime|Crime]] 
 
-### #is_/same_as :: [Crime.public](/_public/Society/Law/Criminal_Law/Crime.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime.public|Crime.public]] 
 
-### #is_/same_as :: [Crime.internal](/_internal/Society/Law/Criminal_Law/Crime.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime.internal|Crime.internal]] 
 
-### #is_/same_as :: [Crime.protect](/_protect/Society/Law/Criminal_Law/Crime.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime.protect|Crime.protect]] 
 
-### #is_/same_as :: [Crime.private](/_private/Society/Law/Criminal_Law/Crime.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime.private|Crime.private]] 
 
-### #is_/same_as :: [Crime.personal](/_personal/Society/Law/Criminal_Law/Crime.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime.personal|Crime.personal]] 
 
-### #is_/same_as :: [Crime.secret](/_secret/Society/Law/Criminal_Law/Crime.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime.secret|Crime.secret]] 
 

@@ -55,17 +55,17 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Semitic%20m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily~Semitic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic|LangFamily~Semitic]] 
 
-### #is_/same_as :: [LangFamily~Semitic.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.public|LangFamily~Semitic.public]] 
 
-### #is_/same_as :: [LangFamily~Semitic.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.internal|LangFamily~Semitic.internal]] 
 
-### #is_/same_as :: [LangFamily~Semitic.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.protect|LangFamily~Semitic.protect]] 
 
-### #is_/same_as :: [LangFamily~Semitic.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.private|LangFamily~Semitic.private]] 
 
-### #is_/same_as :: [LangFamily~Semitic.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.personal|LangFamily~Semitic.personal]] 
 
-### #is_/same_as :: [LangFamily~Semitic.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic/LangFamily~Semitic.secret|LangFamily~Semitic.secret]] 
 

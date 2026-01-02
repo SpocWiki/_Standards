@@ -110,17 +110,17 @@ UMLS_CUI: C1138416
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Flower](/_Standards/bio/Botany/Flower.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Flower|Flower]] 
 
-### #is_/same_as :: [Flower.public](/_public/bio/Botany/Flower.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Flower.public|Flower.public]] 
 
-### #is_/same_as :: [Flower.internal](/_internal/bio/Botany/Flower.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Flower.internal|Flower.internal]] 
 
-### #is_/same_as :: [Flower.protect](/_protect/bio/Botany/Flower.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Flower.protect|Flower.protect]] 
 
-### #is_/same_as :: [Flower.private](/_private/bio/Botany/Flower.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Flower.private|Flower.private]] 
 
-### #is_/same_as :: [Flower.personal](/_personal/bio/Botany/Flower.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Flower.personal|Flower.personal]] 
 
-### #is_/same_as :: [Flower.secret](/_secret/bio/Botany/Flower.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Flower.secret|Flower.secret]] 
 

@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feik,Eberhard](/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard|Feik,Eberhard]] 
 
-### #is_/same_as :: [Feik,Eberhard.public](/_public/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.public|Feik,Eberhard.public]] 
 
-### #is_/same_as :: [Feik,Eberhard.internal](/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.internal|Feik,Eberhard.internal]] 
 
-### #is_/same_as :: [Feik,Eberhard.protect](/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.protect|Feik,Eberhard.protect]] 
 
-### #is_/same_as :: [Feik,Eberhard.private](/_private/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.private|Feik,Eberhard.private]] 
 
-### #is_/same_as :: [Feik,Eberhard.personal](/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.personal|Feik,Eberhard.personal]] 
 
-### #is_/same_as :: [Feik,Eberhard.secret](/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/German_Actor/Feik,Eberhard.secret|Feik,Eberhard.secret]] 
 

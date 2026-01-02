@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_legislation_changes_to](/_Standards/schema-org/Relation/has/has_legislation_changes_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_legislation_changes_to|has_legislation_changes_to]] 
 
-### #is_/same_as :: [has_legislation_changes_to.public](/_public/schema-org/Relation/has/has_legislation_changes_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_legislation_changes_to.public|has_legislation_changes_to.public]] 
 
-### #is_/same_as :: [has_legislation_changes_to.internal](/_internal/schema-org/Relation/has/has_legislation_changes_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_legislation_changes_to.internal|has_legislation_changes_to.internal]] 
 
-### #is_/same_as :: [has_legislation_changes_to.protect](/_protect/schema-org/Relation/has/has_legislation_changes_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_legislation_changes_to.protect|has_legislation_changes_to.protect]] 
 
-### #is_/same_as :: [has_legislation_changes_to.private](/_private/schema-org/Relation/has/has_legislation_changes_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_legislation_changes_to.private|has_legislation_changes_to.private]] 
 
-### #is_/same_as :: [has_legislation_changes_to.personal](/_personal/schema-org/Relation/has/has_legislation_changes_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_legislation_changes_to.personal|has_legislation_changes_to.personal]] 
 
-### #is_/same_as :: [has_legislation_changes_to.secret](/_secret/schema-org/Relation/has/has_legislation_changes_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_legislation_changes_to.secret|has_legislation_changes_to.secret]] 
 

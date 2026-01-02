@@ -147,17 +147,17 @@ Ausprägung des [Rock](g:3) in Richtung [Avantgarde](g:115), zu dessen Pionieren
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Progressive_Rock](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock|Progressive_Rock]] 
 
-### #is_/same_as :: [Progressive_Rock.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.public|Progressive_Rock.public]] 
 
-### #is_/same_as :: [Progressive_Rock.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.internal|Progressive_Rock.internal]] 
 
-### #is_/same_as :: [Progressive_Rock.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.protect|Progressive_Rock.protect]] 
 
-### #is_/same_as :: [Progressive_Rock.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.private|Progressive_Rock.private]] 
 
-### #is_/same_as :: [Progressive_Rock.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.personal|Progressive_Rock.personal]] 
 
-### #is_/same_as :: [Progressive_Rock.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock.secret|Progressive_Rock.secret]] 
 

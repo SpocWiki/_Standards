@@ -38,17 +38,17 @@ Library_of_Congress_Classification: JC405
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constitutional_Monarchy](/_Standards/Society/Politics/Government/Constitutional_Monarchy.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Constitutional_Monarchy|Constitutional_Monarchy]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.public](/_public/Society/Politics/Government/Constitutional_Monarchy.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Constitutional_Monarchy.public|Constitutional_Monarchy.public]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.internal](/_internal/Society/Politics/Government/Constitutional_Monarchy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Constitutional_Monarchy.internal|Constitutional_Monarchy.internal]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.protect](/_protect/Society/Politics/Government/Constitutional_Monarchy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Constitutional_Monarchy.protect|Constitutional_Monarchy.protect]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.private](/_private/Society/Politics/Government/Constitutional_Monarchy.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Constitutional_Monarchy.private|Constitutional_Monarchy.private]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.personal](/_personal/Society/Politics/Government/Constitutional_Monarchy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Constitutional_Monarchy.personal|Constitutional_Monarchy.personal]] 
 
-### #is_/same_as :: [Constitutional_Monarchy.secret](/_secret/Society/Politics/Government/Constitutional_Monarchy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Constitutional_Monarchy.secret|Constitutional_Monarchy.secret]] 
 

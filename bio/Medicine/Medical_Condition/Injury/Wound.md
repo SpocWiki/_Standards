@@ -50,17 +50,17 @@ Dewey_Decimal_Classification: 617.14
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wound](/_Standards/bio/Medicine/Medical_Condition/Injury/Wound.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Injury/Wound|Wound]] 
 
-### #is_/same_as :: [Wound.public](/_public/bio/Medicine/Medical_Condition/Injury/Wound.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Injury/Wound.public|Wound.public]] 
 
-### #is_/same_as :: [Wound.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Wound.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Injury/Wound.internal|Wound.internal]] 
 
-### #is_/same_as :: [Wound.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Wound.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Injury/Wound.protect|Wound.protect]] 
 
-### #is_/same_as :: [Wound.private](/_private/bio/Medicine/Medical_Condition/Injury/Wound.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Injury/Wound.private|Wound.private]] 
 
-### #is_/same_as :: [Wound.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Wound.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Injury/Wound.personal|Wound.personal]] 
 
-### #is_/same_as :: [Wound.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Wound.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Injury/Wound.secret|Wound.secret]] 
 

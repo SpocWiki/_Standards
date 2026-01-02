@@ -41,17 +41,17 @@ Any collection of tests commonly ordered together.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Test_Panel](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel|Medical_Test_Panel]] 
 
-### #is_/same_as :: [Medical_Test_Panel.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.public|Medical_Test_Panel.public]] 
 
-### #is_/same_as :: [Medical_Test_Panel.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.internal|Medical_Test_Panel.internal]] 
 
-### #is_/same_as :: [Medical_Test_Panel.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.protect|Medical_Test_Panel.protect]] 
 
-### #is_/same_as :: [Medical_Test_Panel.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.private|Medical_Test_Panel.private]] 
 
-### #is_/same_as :: [Medical_Test_Panel.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.personal|Medical_Test_Panel.personal]] 
 
-### #is_/same_as :: [Medical_Test_Panel.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test/Medical_Test_Panel.secret|Medical_Test_Panel.secret]] 
 

@@ -37,17 +37,17 @@ The act of manipulating/administering/supervising/controlling one or more object
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~OrganizeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction|FileClass~OrganizeAction]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.public|FileClass~OrganizeAction.public]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.internal|FileClass~OrganizeAction.internal]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.protect|FileClass~OrganizeAction.protect]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.private|FileClass~OrganizeAction.private]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.personal|FileClass~OrganizeAction.personal]] 
 
-### #is_/same_as :: [FileClass~OrganizeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~OrganizeAction.secret|FileClass~OrganizeAction.secret]] 
 

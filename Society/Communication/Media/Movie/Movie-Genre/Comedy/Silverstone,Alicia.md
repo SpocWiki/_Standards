@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silverstone,Alicia](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia|Silverstone,Alicia]] 
 
-### #is_/same_as :: [Silverstone,Alicia.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.public|Silverstone,Alicia.public]] 
 
-### #is_/same_as :: [Silverstone,Alicia.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.internal|Silverstone,Alicia.internal]] 
 
-### #is_/same_as :: [Silverstone,Alicia.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.protect|Silverstone,Alicia.protect]] 
 
-### #is_/same_as :: [Silverstone,Alicia.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.private|Silverstone,Alicia.private]] 
 
-### #is_/same_as :: [Silverstone,Alicia.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.personal|Silverstone,Alicia.personal]] 
 
-### #is_/same_as :: [Silverstone,Alicia.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Silverstone,Alicia.secret|Silverstone,Alicia.secret]] 
 

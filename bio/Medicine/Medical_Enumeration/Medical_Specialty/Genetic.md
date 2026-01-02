@@ -43,17 +43,17 @@ and the variation of inherited characteristics and disorders.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genetic](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic|Genetic]] 
 
-### #is_/same_as :: [Genetic.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.public|Genetic.public]] 
 
-### #is_/same_as :: [Genetic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.internal|Genetic.internal]] 
 
-### #is_/same_as :: [Genetic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.protect|Genetic.protect]] 
 
-### #is_/same_as :: [Genetic.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.private|Genetic.private]] 
 
-### #is_/same_as :: [Genetic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.personal|Genetic.personal]] 
 
-### #is_/same_as :: [Genetic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Genetic.secret|Genetic.secret]] 
 

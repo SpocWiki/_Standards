@@ -123,17 +123,17 @@ date_of_death: 1782-03-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernoulli,Daniel](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel|Bernoulli,Daniel]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.public|Bernoulli,Daniel.public]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.internal|Bernoulli,Daniel.internal]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.protect|Bernoulli,Daniel.protect]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.private|Bernoulli,Daniel.private]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.personal|Bernoulli,Daniel.personal]] 
 
-### #is_/same_as :: [Bernoulli,Daniel.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Bernoulli,Daniel.secret|Bernoulli,Daniel.secret]] 
 

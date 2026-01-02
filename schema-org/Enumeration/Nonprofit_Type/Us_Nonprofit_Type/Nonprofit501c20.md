@@ -42,17 +42,17 @@ Nonprofit501c20: Non-profit type referring to Group Legal Services Plan Organiza
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c20](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20|Nonprofit501c20]] 
 
-### #is_/same_as :: [Nonprofit501c20.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.public|Nonprofit501c20.public]] 
 
-### #is_/same_as :: [Nonprofit501c20.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.internal|Nonprofit501c20.internal]] 
 
-### #is_/same_as :: [Nonprofit501c20.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.protect|Nonprofit501c20.protect]] 
 
-### #is_/same_as :: [Nonprofit501c20.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.private|Nonprofit501c20.private]] 
 
-### #is_/same_as :: [Nonprofit501c20.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.personal|Nonprofit501c20.personal]] 
 
-### #is_/same_as :: [Nonprofit501c20.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c20.secret|Nonprofit501c20.secret]] 
 

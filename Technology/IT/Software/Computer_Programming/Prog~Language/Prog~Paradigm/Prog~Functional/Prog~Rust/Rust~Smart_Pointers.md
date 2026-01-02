@@ -96,17 +96,17 @@ Rc::downgrade(&rc);
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rust~Smart_Pointers](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers|Rust~Smart_Pointers]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.public|Rust~Smart_Pointers.public]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.internal|Rust~Smart_Pointers.internal]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.protect|Rust~Smart_Pointers.protect]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.private|Rust~Smart_Pointers.private]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.personal|Rust~Smart_Pointers.personal]] 
 
-### #is_/same_as :: [Rust~Smart_Pointers.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Smart_Pointers.secret|Rust~Smart_Pointers.secret]] 
 

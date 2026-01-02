@@ -108,17 +108,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/NUREEV_RUDOLF_HA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nureyev,Rudolf](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf|Nureyev,Rudolf]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.public|Nureyev,Rudolf.public]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.internal|Nureyev,Rudolf.internal]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.protect|Nureyev,Rudolf.protect]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.private|Nureyev,Rudolf.private]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.personal|Nureyev,Rudolf.personal]] 
 
-### #is_/same_as :: [Nureyev,Rudolf.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nureyev,Rudolf.secret|Nureyev,Rudolf.secret]] 
 

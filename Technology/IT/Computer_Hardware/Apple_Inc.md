@@ -304,17 +304,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apple_Inc](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Apple_Inc|Apple_Inc]] 
 
-### #is_/same_as :: [Apple_Inc.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Apple_Inc.public|Apple_Inc.public]] 
 
-### #is_/same_as :: [Apple_Inc.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Apple_Inc.internal|Apple_Inc.internal]] 
 
-### #is_/same_as :: [Apple_Inc.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Apple_Inc.protect|Apple_Inc.protect]] 
 
-### #is_/same_as :: [Apple_Inc.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Apple_Inc.private|Apple_Inc.private]] 
 
-### #is_/same_as :: [Apple_Inc.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Apple_Inc.personal|Apple_Inc.personal]] 
 
-### #is_/same_as :: [Apple_Inc.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Apple_Inc.secret|Apple_Inc.secret]] 
 

@@ -124,17 +124,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liver_cirrhosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis|Liver_cirrhosis]] 
 
-### #is_/same_as :: [Liver_cirrhosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.public|Liver_cirrhosis.public]] 
 
-### #is_/same_as :: [Liver_cirrhosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.internal|Liver_cirrhosis.internal]] 
 
-### #is_/same_as :: [Liver_cirrhosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.protect|Liver_cirrhosis.protect]] 
 
-### #is_/same_as :: [Liver_cirrhosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.private|Liver_cirrhosis.private]] 
 
-### #is_/same_as :: [Liver_cirrhosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.personal|Liver_cirrhosis.personal]] 
 
-### #is_/same_as :: [Liver_cirrhosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Liver_cirrhosis.secret|Liver_cirrhosis.secret]] 
 

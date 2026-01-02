@@ -83,17 +83,17 @@ date_of_death: 2019-02-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nykänen,Matti](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti|Nykänen,Matti]] 
 
-### #is_/same_as :: [Nykänen,Matti.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.public|Nykänen,Matti.public]] 
 
-### #is_/same_as :: [Nykänen,Matti.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.internal|Nykänen,Matti.internal]] 
 
-### #is_/same_as :: [Nykänen,Matti.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.protect|Nykänen,Matti.protect]] 
 
-### #is_/same_as :: [Nykänen,Matti.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.private|Nykänen,Matti.private]] 
 
-### #is_/same_as :: [Nykänen,Matti.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.personal|Nykänen,Matti.personal]] 
 
-### #is_/same_as :: [Nykänen,Matti.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping/Nykänen,Matti.secret|Nykänen,Matti.secret]] 
 

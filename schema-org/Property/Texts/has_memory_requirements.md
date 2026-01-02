@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_memory_requirements](/_Standards/schema-org/Property/Texts/has_memory_requirements.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_memory_requirements|has_memory_requirements]] 
 
-### #is_/same_as :: [has_memory_requirements.public](/_public/schema-org/Property/Texts/has_memory_requirements.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_memory_requirements.public|has_memory_requirements.public]] 
 
-### #is_/same_as :: [has_memory_requirements.internal](/_internal/schema-org/Property/Texts/has_memory_requirements.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_memory_requirements.internal|has_memory_requirements.internal]] 
 
-### #is_/same_as :: [has_memory_requirements.protect](/_protect/schema-org/Property/Texts/has_memory_requirements.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_memory_requirements.protect|has_memory_requirements.protect]] 
 
-### #is_/same_as :: [has_memory_requirements.private](/_private/schema-org/Property/Texts/has_memory_requirements.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_memory_requirements.private|has_memory_requirements.private]] 
 
-### #is_/same_as :: [has_memory_requirements.personal](/_personal/schema-org/Property/Texts/has_memory_requirements.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_memory_requirements.personal|has_memory_requirements.personal]] 
 
-### #is_/same_as :: [has_memory_requirements.secret](/_secret/schema-org/Property/Texts/has_memory_requirements.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_memory_requirements.secret|has_memory_requirements.secret]] 
 

@@ -53,17 +53,17 @@ coordinate_location: Point(-28.4 38.466667)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge](/_Standards/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge|Mid-Atlantic_Ridge]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.public](/_public/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.public|Mid-Atlantic_Ridge.public]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.internal](/_internal/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.internal|Mid-Atlantic_Ridge.internal]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.protect](/_protect/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.protect|Mid-Atlantic_Ridge.protect]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.private](/_private/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.private|Mid-Atlantic_Ridge.private]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.personal](/_personal/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.personal|Mid-Atlantic_Ridge.personal]] 
 
-### #is_/same_as :: [Mid-Atlantic_Ridge.secret](/_secret/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Atlantic/Mid-Atlantic_Ridge.secret|Mid-Atlantic_Ridge.secret]] 
 

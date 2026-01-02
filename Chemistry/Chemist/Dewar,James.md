@@ -89,17 +89,17 @@ ISNI: 0000000107178678
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dewar,James](/_Standards/Chemistry/Chemist/Dewar,James.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Dewar,James|Dewar,James]] 
 
-### #is_/same_as :: [Dewar,James.public](/_public/Chemistry/Chemist/Dewar,James.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Dewar,James.public|Dewar,James.public]] 
 
-### #is_/same_as :: [Dewar,James.internal](/_internal/Chemistry/Chemist/Dewar,James.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Dewar,James.internal|Dewar,James.internal]] 
 
-### #is_/same_as :: [Dewar,James.protect](/_protect/Chemistry/Chemist/Dewar,James.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Dewar,James.protect|Dewar,James.protect]] 
 
-### #is_/same_as :: [Dewar,James.private](/_private/Chemistry/Chemist/Dewar,James.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Dewar,James.private|Dewar,James.private]] 
 
-### #is_/same_as :: [Dewar,James.personal](/_personal/Chemistry/Chemist/Dewar,James.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Dewar,James.personal|Dewar,James.personal]] 
 
-### #is_/same_as :: [Dewar,James.secret](/_secret/Chemistry/Chemist/Dewar,James.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Dewar,James.secret|Dewar,James.secret]] 
 

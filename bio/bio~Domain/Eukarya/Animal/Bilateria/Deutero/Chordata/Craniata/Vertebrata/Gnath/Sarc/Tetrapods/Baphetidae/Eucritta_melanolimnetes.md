@@ -75,17 +75,17 @@ melanolimnetes* (UMZC T.1347).  See Clack (2001). © [Jennifer A. Clack](http:/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eucritta_melanolimnetes](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes|Eucritta_melanolimnetes]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.public|Eucritta_melanolimnetes.public]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.internal|Eucritta_melanolimnetes.internal]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.protect|Eucritta_melanolimnetes.protect]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.private|Eucritta_melanolimnetes.private]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.personal|Eucritta_melanolimnetes.personal]] 
 
-### #is_/same_as :: [Eucritta_melanolimnetes.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Baphetidae/Eucritta_melanolimnetes.secret|Eucritta_melanolimnetes.secret]] 
 

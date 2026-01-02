@@ -32,17 +32,17 @@ Hard Pines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pinus(SubGenus)](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus)|Pinus(SubGenus)]] 
 
-### #is_/same_as :: [Pinus(SubGenus).public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).public|Pinus(SubGenus).public]] 
 
-### #is_/same_as :: [Pinus(SubGenus).internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).internal|Pinus(SubGenus).internal]] 
 
-### #is_/same_as :: [Pinus(SubGenus).protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).protect|Pinus(SubGenus).protect]] 
 
-### #is_/same_as :: [Pinus(SubGenus).private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).private|Pinus(SubGenus).private]] 
 
-### #is_/same_as :: [Pinus(SubGenus).personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).personal|Pinus(SubGenus).personal]] 
 
-### #is_/same_as :: [Pinus(SubGenus).secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Conifers/Pine/Pinus/Pinus(SubGenus).secret|Pinus(SubGenus).secret]] 
 

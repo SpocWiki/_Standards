@@ -67,17 +67,17 @@ short_name: Ind
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Indus](/_Standards/Astronomy/Star~Constellation/Zodiac~Indus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Indus|Zodiac~Indus]] 
 
-### #is_/same_as :: [Zodiac~Indus.public](/_public/Astronomy/Star~Constellation/Zodiac~Indus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Indus.public|Zodiac~Indus.public]] 
 
-### #is_/same_as :: [Zodiac~Indus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Indus.internal|Zodiac~Indus.internal]] 
 
-### #is_/same_as :: [Zodiac~Indus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Indus.protect|Zodiac~Indus.protect]] 
 
-### #is_/same_as :: [Zodiac~Indus.private](/_private/Astronomy/Star~Constellation/Zodiac~Indus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Indus.private|Zodiac~Indus.private]] 
 
-### #is_/same_as :: [Zodiac~Indus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Indus.personal|Zodiac~Indus.personal]] 
 
-### #is_/same_as :: [Zodiac~Indus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Indus.secret|Zodiac~Indus.secret]] 
 

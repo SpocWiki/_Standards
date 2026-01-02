@@ -344,17 +344,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/DELA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delacroix,Eugène](/_Standards/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Delacroix,Eugène|Delacroix,Eugène]] 
 
-### #is_/same_as :: [Delacroix,Eugène.public](/_public/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.public|Delacroix,Eugène.public]] 
 
-### #is_/same_as :: [Delacroix,Eugène.internal](/_internal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.internal|Delacroix,Eugène.internal]] 
 
-### #is_/same_as :: [Delacroix,Eugène.protect](/_protect/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.protect|Delacroix,Eugène.protect]] 
 
-### #is_/same_as :: [Delacroix,Eugène.private](/_private/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.private|Delacroix,Eugène.private]] 
 
-### #is_/same_as :: [Delacroix,Eugène.personal](/_personal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.personal|Delacroix,Eugène.personal]] 
 
-### #is_/same_as :: [Delacroix,Eugène.secret](/_secret/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Delacroix,Eugène.secret|Delacroix,Eugène.secret]] 
 

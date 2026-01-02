@@ -42,17 +42,17 @@ Any physical activity engaged in for job-related purposes. Examples may include 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Occupational_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity|Occupational_Activity]] 
 
-### #is_/same_as :: [Occupational_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.public|Occupational_Activity.public]] 
 
-### #is_/same_as :: [Occupational_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.internal|Occupational_Activity.internal]] 
 
-### #is_/same_as :: [Occupational_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.protect|Occupational_Activity.protect]] 
 
-### #is_/same_as :: [Occupational_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.private|Occupational_Activity.private]] 
 
-### #is_/same_as :: [Occupational_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.personal|Occupational_Activity.personal]] 
 
-### #is_/same_as :: [Occupational_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Occupational_Activity.secret|Occupational_Activity.secret]] 
 

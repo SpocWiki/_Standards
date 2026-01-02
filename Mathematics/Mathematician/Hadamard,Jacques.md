@@ -114,17 +114,17 @@ name_in_native_language: Jacques Hadamard
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hadamard,Jacques](/_Standards/Mathematics/Mathematician/Hadamard,Jacques.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Hadamard,Jacques|Hadamard,Jacques]] 
 
-### #is_/same_as :: [Hadamard,Jacques.public](/_public/Mathematics/Mathematician/Hadamard,Jacques.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Hadamard,Jacques.public|Hadamard,Jacques.public]] 
 
-### #is_/same_as :: [Hadamard,Jacques.internal](/_internal/Mathematics/Mathematician/Hadamard,Jacques.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Hadamard,Jacques.internal|Hadamard,Jacques.internal]] 
 
-### #is_/same_as :: [Hadamard,Jacques.protect](/_protect/Mathematics/Mathematician/Hadamard,Jacques.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Hadamard,Jacques.protect|Hadamard,Jacques.protect]] 
 
-### #is_/same_as :: [Hadamard,Jacques.private](/_private/Mathematics/Mathematician/Hadamard,Jacques.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Hadamard,Jacques.private|Hadamard,Jacques.private]] 
 
-### #is_/same_as :: [Hadamard,Jacques.personal](/_personal/Mathematics/Mathematician/Hadamard,Jacques.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Hadamard,Jacques.personal|Hadamard,Jacques.personal]] 
 
-### #is_/same_as :: [Hadamard,Jacques.secret](/_secret/Mathematics/Mathematician/Hadamard,Jacques.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Hadamard,Jacques.secret|Hadamard,Jacques.secret]] 
 

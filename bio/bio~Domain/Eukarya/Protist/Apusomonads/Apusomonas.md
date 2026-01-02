@@ -108,17 +108,17 @@ Soil. Archiv für Protistenkunde 116:254-269.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apusomonas](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas|Apusomonas]] 
 
-### #is_/same_as :: [Apusomonas.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.public|Apusomonas.public]] 
 
-### #is_/same_as :: [Apusomonas.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.internal|Apusomonas.internal]] 
 
-### #is_/same_as :: [Apusomonas.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.protect|Apusomonas.protect]] 
 
-### #is_/same_as :: [Apusomonas.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.private|Apusomonas.private]] 
 
-### #is_/same_as :: [Apusomonas.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.personal|Apusomonas.personal]] 
 
-### #is_/same_as :: [Apusomonas.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas.secret|Apusomonas.secret]] 
 

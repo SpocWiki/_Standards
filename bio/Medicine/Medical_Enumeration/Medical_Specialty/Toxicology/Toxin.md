@@ -48,17 +48,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toxin](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin|Toxin]] 
 
-### #is_/same_as :: [Toxin.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.public|Toxin.public]] 
 
-### #is_/same_as :: [Toxin.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.internal|Toxin.internal]] 
 
-### #is_/same_as :: [Toxin.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.protect|Toxin.protect]] 
 
-### #is_/same_as :: [Toxin.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.private|Toxin.private]] 
 
-### #is_/same_as :: [Toxin.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.personal|Toxin.personal]] 
 
-### #is_/same_as :: [Toxin.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Toxicology/Toxin.secret|Toxin.secret]] 
 

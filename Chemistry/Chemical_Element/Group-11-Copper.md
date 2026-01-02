@@ -39,17 +39,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-11-Copper](/_Standards/Chemistry/Chemical_Element/Group-11-Copper.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-11-Copper|Group-11-Copper]] 
 
-### #is_/same_as :: [Group-11-Copper.public](/_public/Chemistry/Chemical_Element/Group-11-Copper.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-11-Copper.public|Group-11-Copper.public]] 
 
-### #is_/same_as :: [Group-11-Copper.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-11-Copper.internal|Group-11-Copper.internal]] 
 
-### #is_/same_as :: [Group-11-Copper.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-11-Copper.protect|Group-11-Copper.protect]] 
 
-### #is_/same_as :: [Group-11-Copper.private](/_private/Chemistry/Chemical_Element/Group-11-Copper.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-11-Copper.private|Group-11-Copper.private]] 
 
-### #is_/same_as :: [Group-11-Copper.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-11-Copper.personal|Group-11-Copper.personal]] 
 
-### #is_/same_as :: [Group-11-Copper.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-11-Copper.secret|Group-11-Copper.secret]] 
 

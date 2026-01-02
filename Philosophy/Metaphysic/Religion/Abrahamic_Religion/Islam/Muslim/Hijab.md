@@ -122,17 +122,17 @@ Commons_category: Hijabs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hijab](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab|Hijab]] 
 
-### #is_/same_as :: [Hijab.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.public|Hijab.public]] 
 
-### #is_/same_as :: [Hijab.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.internal|Hijab.internal]] 
 
-### #is_/same_as :: [Hijab.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.protect|Hijab.protect]] 
 
-### #is_/same_as :: [Hijab.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.private|Hijab.private]] 
 
-### #is_/same_as :: [Hijab.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.personal|Hijab.personal]] 
 
-### #is_/same_as :: [Hijab.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Hijab.secret|Hijab.secret]] 
 

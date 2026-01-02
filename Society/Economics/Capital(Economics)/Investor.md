@@ -55,17 +55,17 @@ Commons_category: Investors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Investor](/_Standards/Society/Economics/Capital(Economics)/Investor.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor|Investor]] 
 
-### #is_/same_as :: [Investor.public](/_public/Society/Economics/Capital(Economics)/Investor.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor.public|Investor.public]] 
 
-### #is_/same_as :: [Investor.internal](/_internal/Society/Economics/Capital(Economics)/Investor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor.internal|Investor.internal]] 
 
-### #is_/same_as :: [Investor.protect](/_protect/Society/Economics/Capital(Economics)/Investor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor.protect|Investor.protect]] 
 
-### #is_/same_as :: [Investor.private](/_private/Society/Economics/Capital(Economics)/Investor.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor.private|Investor.private]] 
 
-### #is_/same_as :: [Investor.personal](/_personal/Society/Economics/Capital(Economics)/Investor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor.personal|Investor.personal]] 
 
-### #is_/same_as :: [Investor.secret](/_secret/Society/Economics/Capital(Economics)/Investor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor.secret|Investor.secret]] 
 

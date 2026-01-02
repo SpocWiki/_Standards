@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_by_day](/_Standards/schema-org/Relation/is/is_by_day.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_by_day|is_by_day]] 
 
-### #is_/same_as :: [is_by_day.public](/_public/schema-org/Relation/is/is_by_day.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_by_day.public|is_by_day.public]] 
 
-### #is_/same_as :: [is_by_day.internal](/_internal/schema-org/Relation/is/is_by_day.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_by_day.internal|is_by_day.internal]] 
 
-### #is_/same_as :: [is_by_day.protect](/_protect/schema-org/Relation/is/is_by_day.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_by_day.protect|is_by_day.protect]] 
 
-### #is_/same_as :: [is_by_day.private](/_private/schema-org/Relation/is/is_by_day.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_by_day.private|is_by_day.private]] 
 
-### #is_/same_as :: [is_by_day.personal](/_personal/schema-org/Relation/is/is_by_day.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_by_day.personal|is_by_day.personal]] 
 
-### #is_/same_as :: [is_by_day.secret](/_secret/schema-org/Relation/is/is_by_day.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_by_day.secret|is_by_day.secret]] 
 

@@ -110,17 +110,17 @@ Wolfram_Language_entity_type: LunarEclipse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lunar_Eclipse](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse|Lunar_Eclipse]] 
 
-### #is_/same_as :: [Lunar_Eclipse.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.public|Lunar_Eclipse.public]] 
 
-### #is_/same_as :: [Lunar_Eclipse.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.internal|Lunar_Eclipse.internal]] 
 
-### #is_/same_as :: [Lunar_Eclipse.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.protect|Lunar_Eclipse.protect]] 
 
-### #is_/same_as :: [Lunar_Eclipse.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.private|Lunar_Eclipse.private]] 
 
-### #is_/same_as :: [Lunar_Eclipse.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.personal|Lunar_Eclipse.personal]] 
 
-### #is_/same_as :: [Lunar_Eclipse.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Lunar_Eclipse.secret|Lunar_Eclipse.secret]] 
 

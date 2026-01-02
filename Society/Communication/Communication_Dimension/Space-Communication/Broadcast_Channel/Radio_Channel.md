@@ -76,17 +76,17 @@ A unique instance of a [[../../../../../Agent/Community/Organization/Business/Se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel|Radio_Channel]] 
 
-### #is_/same_as :: [Radio_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.public|Radio_Channel.public]] 
 
-### #is_/same_as :: [Radio_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.internal|Radio_Channel.internal]] 
 
-### #is_/same_as :: [Radio_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.protect|Radio_Channel.protect]] 
 
-### #is_/same_as :: [Radio_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.private|Radio_Channel.private]] 
 
-### #is_/same_as :: [Radio_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.personal|Radio_Channel.personal]] 
 
-### #is_/same_as :: [Radio_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Radio_Channel.secret|Radio_Channel.secret]] 
 

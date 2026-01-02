@@ -41,17 +41,17 @@ subreddit: georgism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Georgism](/_Standards/Society/Economics/Economy/Georgism.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economy/Georgism|Georgism]] 
 
-### #is_/same_as :: [Georgism.public](/_public/Society/Economics/Economy/Georgism.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economy/Georgism.public|Georgism.public]] 
 
-### #is_/same_as :: [Georgism.internal](/_internal/Society/Economics/Economy/Georgism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economy/Georgism.internal|Georgism.internal]] 
 
-### #is_/same_as :: [Georgism.protect](/_protect/Society/Economics/Economy/Georgism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economy/Georgism.protect|Georgism.protect]] 
 
-### #is_/same_as :: [Georgism.private](/_private/Society/Economics/Economy/Georgism.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economy/Georgism.private|Georgism.private]] 
 
-### #is_/same_as :: [Georgism.personal](/_personal/Society/Economics/Economy/Georgism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economy/Georgism.personal|Georgism.personal]] 
 
-### #is_/same_as :: [Georgism.secret](/_secret/Society/Economics/Economy/Georgism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economy/Georgism.secret|Georgism.secret]] 
 

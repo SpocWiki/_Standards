@@ -41,17 +41,17 @@ An over the air or online broadcast event.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Broadcast_Event](/_Standards/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event|Broadcast_Event]] 
 
-### #is_/same_as :: [Broadcast_Event.public](/_public/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.public|Broadcast_Event.public]] 
 
-### #is_/same_as :: [Broadcast_Event.internal](/_internal/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.internal|Broadcast_Event.internal]] 
 
-### #is_/same_as :: [Broadcast_Event.protect](/_protect/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.protect|Broadcast_Event.protect]] 
 
-### #is_/same_as :: [Broadcast_Event.private](/_private/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.private|Broadcast_Event.private]] 
 
-### #is_/same_as :: [Broadcast_Event.personal](/_personal/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.personal|Broadcast_Event.personal]] 
 
-### #is_/same_as :: [Broadcast_Event.secret](/_secret/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/Publication_Event/Broadcast_Event.secret|Broadcast_Event.secret]] 
 

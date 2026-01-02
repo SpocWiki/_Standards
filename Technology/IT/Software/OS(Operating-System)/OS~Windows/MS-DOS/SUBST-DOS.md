@@ -12,17 +12,17 @@ Works only on DOS & Windows.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SUBST-DOS](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS|SUBST-DOS]] 
 
-### #is_/same_as :: [SUBST-DOS.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.public|SUBST-DOS.public]] 
 
-### #is_/same_as :: [SUBST-DOS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.internal|SUBST-DOS.internal]] 
 
-### #is_/same_as :: [SUBST-DOS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.protect|SUBST-DOS.protect]] 
 
-### #is_/same_as :: [SUBST-DOS.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.private|SUBST-DOS.private]] 
 
-### #is_/same_as :: [SUBST-DOS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.personal|SUBST-DOS.personal]] 
 
-### #is_/same_as :: [SUBST-DOS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/MS-DOS/SUBST-DOS.secret|SUBST-DOS.secret]] 
 

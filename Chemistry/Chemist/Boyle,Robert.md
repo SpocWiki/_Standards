@@ -121,17 +121,17 @@ Provenio_UUID: 7274d432-9780-4dbf-a79d-ec317dccbea8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boyle,Robert](/_Standards/Chemistry/Chemist/Boyle,Robert.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Boyle,Robert|Boyle,Robert]] 
 
-### #is_/same_as :: [Boyle,Robert.public](/_public/Chemistry/Chemist/Boyle,Robert.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Boyle,Robert.public|Boyle,Robert.public]] 
 
-### #is_/same_as :: [Boyle,Robert.internal](/_internal/Chemistry/Chemist/Boyle,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Boyle,Robert.internal|Boyle,Robert.internal]] 
 
-### #is_/same_as :: [Boyle,Robert.protect](/_protect/Chemistry/Chemist/Boyle,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Boyle,Robert.protect|Boyle,Robert.protect]] 
 
-### #is_/same_as :: [Boyle,Robert.private](/_private/Chemistry/Chemist/Boyle,Robert.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Boyle,Robert.private|Boyle,Robert.private]] 
 
-### #is_/same_as :: [Boyle,Robert.personal](/_personal/Chemistry/Chemist/Boyle,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Boyle,Robert.personal|Boyle,Robert.personal]] 
 
-### #is_/same_as :: [Boyle,Robert.secret](/_secret/Chemistry/Chemist/Boyle,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Boyle,Robert.secret|Boyle,Robert.secret]] 
 

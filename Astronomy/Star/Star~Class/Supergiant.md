@@ -25,17 +25,17 @@ Commons_category: Supergiant stars
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supergiant](/_Standards/Astronomy/Star/Star~Class/Supergiant.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Supergiant|Supergiant]] 
 
-### #is_/same_as :: [Supergiant.public](/_public/Astronomy/Star/Star~Class/Supergiant.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Supergiant.public|Supergiant.public]] 
 
-### #is_/same_as :: [Supergiant.internal](/_internal/Astronomy/Star/Star~Class/Supergiant.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Supergiant.internal|Supergiant.internal]] 
 
-### #is_/same_as :: [Supergiant.protect](/_protect/Astronomy/Star/Star~Class/Supergiant.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Supergiant.protect|Supergiant.protect]] 
 
-### #is_/same_as :: [Supergiant.private](/_private/Astronomy/Star/Star~Class/Supergiant.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Supergiant.private|Supergiant.private]] 
 
-### #is_/same_as :: [Supergiant.personal](/_personal/Astronomy/Star/Star~Class/Supergiant.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Supergiant.personal|Supergiant.personal]] 
 
-### #is_/same_as :: [Supergiant.secret](/_secret/Astronomy/Star/Star~Class/Supergiant.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Supergiant.secret|Supergiant.secret]] 
 

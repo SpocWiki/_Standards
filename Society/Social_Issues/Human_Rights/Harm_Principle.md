@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harm_Principle](/_Standards/Society/Social_Issues/Human_Rights/Harm_Principle.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Harm_Principle|Harm_Principle]] 
 
-### #is_/same_as :: [Harm_Principle.public](/_public/Society/Social_Issues/Human_Rights/Harm_Principle.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Harm_Principle.public|Harm_Principle.public]] 
 
-### #is_/same_as :: [Harm_Principle.internal](/_internal/Society/Social_Issues/Human_Rights/Harm_Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Harm_Principle.internal|Harm_Principle.internal]] 
 
-### #is_/same_as :: [Harm_Principle.protect](/_protect/Society/Social_Issues/Human_Rights/Harm_Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Harm_Principle.protect|Harm_Principle.protect]] 
 
-### #is_/same_as :: [Harm_Principle.private](/_private/Society/Social_Issues/Human_Rights/Harm_Principle.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Harm_Principle.private|Harm_Principle.private]] 
 
-### #is_/same_as :: [Harm_Principle.personal](/_personal/Society/Social_Issues/Human_Rights/Harm_Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Harm_Principle.personal|Harm_Principle.personal]] 
 
-### #is_/same_as :: [Harm_Principle.secret](/_secret/Society/Social_Issues/Human_Rights/Harm_Principle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Harm_Principle.secret|Harm_Principle.secret]] 
 

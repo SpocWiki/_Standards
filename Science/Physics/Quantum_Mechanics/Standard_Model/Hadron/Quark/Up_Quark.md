@@ -53,17 +53,17 @@ electric_charge: 0.6666666666666666
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Up_Quark](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark|Up_Quark]] 
 
-### #is_/same_as :: [Up_Quark.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.public|Up_Quark.public]] 
 
-### #is_/same_as :: [Up_Quark.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.internal|Up_Quark.internal]] 
 
-### #is_/same_as :: [Up_Quark.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.protect|Up_Quark.protect]] 
 
-### #is_/same_as :: [Up_Quark.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.private|Up_Quark.private]] 
 
-### #is_/same_as :: [Up_Quark.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.personal|Up_Quark.personal]] 
 
-### #is_/same_as :: [Up_Quark.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Quark/Up_Quark.secret|Up_Quark.secret]] 
 

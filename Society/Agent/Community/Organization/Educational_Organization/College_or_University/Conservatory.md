@@ -47,17 +47,17 @@ Commons_category: Music conservatories
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conservatory](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory|Conservatory]] 
 
-### #is_/same_as :: [Conservatory.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.public|Conservatory.public]] 
 
-### #is_/same_as :: [Conservatory.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.internal|Conservatory.internal]] 
 
-### #is_/same_as :: [Conservatory.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.protect|Conservatory.protect]] 
 
-### #is_/same_as :: [Conservatory.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.private|Conservatory.private]] 
 
-### #is_/same_as :: [Conservatory.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.personal|Conservatory.personal]] 
 
-### #is_/same_as :: [Conservatory.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Conservatory.secret|Conservatory.secret]] 
 

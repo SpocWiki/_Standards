@@ -69,17 +69,17 @@ IPTC_NewsCode: mediatopic/20000328
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soft_Drink](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink|Soft_Drink]] 
 
-### #is_/same_as :: [Soft_Drink.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.public|Soft_Drink.public]] 
 
-### #is_/same_as :: [Soft_Drink.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.internal|Soft_Drink.internal]] 
 
-### #is_/same_as :: [Soft_Drink.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.protect|Soft_Drink.protect]] 
 
-### #is_/same_as :: [Soft_Drink.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.private|Soft_Drink.private]] 
 
-### #is_/same_as :: [Soft_Drink.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.personal|Soft_Drink.personal]] 
 
-### #is_/same_as :: [Soft_Drink.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink.secret|Soft_Drink.secret]] 
 

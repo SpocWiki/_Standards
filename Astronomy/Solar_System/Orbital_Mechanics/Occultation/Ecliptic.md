@@ -49,17 +49,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecliptic](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic|Ecliptic]] 
 
-### #is_/same_as :: [Ecliptic.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.public|Ecliptic.public]] 
 
-### #is_/same_as :: [Ecliptic.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.internal|Ecliptic.internal]] 
 
-### #is_/same_as :: [Ecliptic.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.protect|Ecliptic.protect]] 
 
-### #is_/same_as :: [Ecliptic.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.private|Ecliptic.private]] 
 
-### #is_/same_as :: [Ecliptic.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.personal|Ecliptic.personal]] 
 
-### #is_/same_as :: [Ecliptic.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Ecliptic.secret|Ecliptic.secret]] 
 

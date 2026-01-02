@@ -50,3 +50,22 @@ Botanical division containing terrestrial plants without stomata.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Liverwort) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort|Liverwort]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.public|Liverwort.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.internal|Liverwort.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.protect|Liverwort.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.private|Liverwort.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.personal|Liverwort.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Liverwort.secret|Liverwort.secret]] 
+

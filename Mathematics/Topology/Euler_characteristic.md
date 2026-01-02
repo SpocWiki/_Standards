@@ -43,17 +43,17 @@ named_after: '[[_Standards/WikiData/WD~Leonhard_Euler,7604]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler_characteristic](/_Standards/Mathematics/Topology/Euler_characteristic.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Euler_characteristic|Euler_characteristic]] 
 
-### #is_/same_as :: [Euler_characteristic.public](/_public/Mathematics/Topology/Euler_characteristic.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Euler_characteristic.public|Euler_characteristic.public]] 
 
-### #is_/same_as :: [Euler_characteristic.internal](/_internal/Mathematics/Topology/Euler_characteristic.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Euler_characteristic.internal|Euler_characteristic.internal]] 
 
-### #is_/same_as :: [Euler_characteristic.protect](/_protect/Mathematics/Topology/Euler_characteristic.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Euler_characteristic.protect|Euler_characteristic.protect]] 
 
-### #is_/same_as :: [Euler_characteristic.private](/_private/Mathematics/Topology/Euler_characteristic.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Euler_characteristic.private|Euler_characteristic.private]] 
 
-### #is_/same_as :: [Euler_characteristic.personal](/_personal/Mathematics/Topology/Euler_characteristic.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Euler_characteristic.personal|Euler_characteristic.personal]] 
 
-### #is_/same_as :: [Euler_characteristic.secret](/_secret/Mathematics/Topology/Euler_characteristic.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Euler_characteristic.secret|Euler_characteristic.secret]] 
 

@@ -51,17 +51,17 @@ Commons_gallery: Sewing machine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sewing_Machine](/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Home_Appliance/Sewing_Machine|Sewing_Machine]] 
 
-### #is_/same_as :: [Sewing_Machine.public](/_public/Technology/Tool/Home_Appliance/Sewing_Machine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Home_Appliance/Sewing_Machine.public|Sewing_Machine.public]] 
 
-### #is_/same_as :: [Sewing_Machine.internal](/_internal/Technology/Tool/Home_Appliance/Sewing_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Home_Appliance/Sewing_Machine.internal|Sewing_Machine.internal]] 
 
-### #is_/same_as :: [Sewing_Machine.protect](/_protect/Technology/Tool/Home_Appliance/Sewing_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Home_Appliance/Sewing_Machine.protect|Sewing_Machine.protect]] 
 
-### #is_/same_as :: [Sewing_Machine.private](/_private/Technology/Tool/Home_Appliance/Sewing_Machine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Home_Appliance/Sewing_Machine.private|Sewing_Machine.private]] 
 
-### #is_/same_as :: [Sewing_Machine.personal](/_personal/Technology/Tool/Home_Appliance/Sewing_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Home_Appliance/Sewing_Machine.personal|Sewing_Machine.personal]] 
 
-### #is_/same_as :: [Sewing_Machine.secret](/_secret/Technology/Tool/Home_Appliance/Sewing_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Home_Appliance/Sewing_Machine.secret|Sewing_Machine.secret]] 
 

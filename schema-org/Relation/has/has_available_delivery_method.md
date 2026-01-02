@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_available_delivery_method](/_Standards/schema-org/Relation/has/has_available_delivery_method.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_available_delivery_method|has_available_delivery_method]] 
 
-### #is_/same_as :: [has_available_delivery_method.public](/_public/schema-org/Relation/has/has_available_delivery_method.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_available_delivery_method.public|has_available_delivery_method.public]] 
 
-### #is_/same_as :: [has_available_delivery_method.internal](/_internal/schema-org/Relation/has/has_available_delivery_method.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_available_delivery_method.internal|has_available_delivery_method.internal]] 
 
-### #is_/same_as :: [has_available_delivery_method.protect](/_protect/schema-org/Relation/has/has_available_delivery_method.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_available_delivery_method.protect|has_available_delivery_method.protect]] 
 
-### #is_/same_as :: [has_available_delivery_method.private](/_private/schema-org/Relation/has/has_available_delivery_method.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_available_delivery_method.private|has_available_delivery_method.private]] 
 
-### #is_/same_as :: [has_available_delivery_method.personal](/_personal/schema-org/Relation/has/has_available_delivery_method.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_available_delivery_method.personal|has_available_delivery_method.personal]] 
 
-### #is_/same_as :: [has_available_delivery_method.secret](/_secret/schema-org/Relation/has/has_available_delivery_method.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_available_delivery_method.secret|has_available_delivery_method.secret]] 
 

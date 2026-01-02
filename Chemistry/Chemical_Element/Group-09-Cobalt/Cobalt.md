@@ -158,17 +158,17 @@ ZVG_number: 7270
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cobalt](/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt|Cobalt]] 
 
-### #is_/same_as :: [Cobalt.public](/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.public|Cobalt.public]] 
 
-### #is_/same_as :: [Cobalt.internal](/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.internal|Cobalt.internal]] 
 
-### #is_/same_as :: [Cobalt.protect](/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.protect|Cobalt.protect]] 
 
-### #is_/same_as :: [Cobalt.private](/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.private|Cobalt.private]] 
 
-### #is_/same_as :: [Cobalt.personal](/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.personal|Cobalt.personal]] 
 
-### #is_/same_as :: [Cobalt.secret](/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Cobalt.secret|Cobalt.secret]] 
 

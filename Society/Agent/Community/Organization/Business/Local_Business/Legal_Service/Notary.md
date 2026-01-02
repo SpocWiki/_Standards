@@ -39,17 +39,17 @@ A notary.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Notary](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary|Notary]] 
 
-### #is_/same_as :: [Notary.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.public|Notary.public]] 
 
-### #is_/same_as :: [Notary.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.internal|Notary.internal]] 
 
-### #is_/same_as :: [Notary.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.protect|Notary.protect]] 
 
-### #is_/same_as :: [Notary.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.private|Notary.private]] 
 
-### #is_/same_as :: [Notary.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.personal|Notary.personal]] 
 
-### #is_/same_as :: [Notary.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Legal_Service/Notary.secret|Notary.secret]] 
 

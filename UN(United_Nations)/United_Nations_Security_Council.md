@@ -120,17 +120,17 @@ EU_Corporate_body_code: UNSC
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [United_Nations_Security_Council](/_Standards/UN(United_Nations)/United_Nations_Security_Council.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/United_Nations_Security_Council|United_Nations_Security_Council]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.public](/_public/UN(United_Nations)/United_Nations_Security_Council.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/United_Nations_Security_Council.public|United_Nations_Security_Council.public]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.internal](/_internal/UN(United_Nations)/United_Nations_Security_Council.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/United_Nations_Security_Council.internal|United_Nations_Security_Council.internal]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.protect](/_protect/UN(United_Nations)/United_Nations_Security_Council.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/United_Nations_Security_Council.protect|United_Nations_Security_Council.protect]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.private](/_private/UN(United_Nations)/United_Nations_Security_Council.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/United_Nations_Security_Council.private|United_Nations_Security_Council.private]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.personal](/_personal/UN(United_Nations)/United_Nations_Security_Council.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/United_Nations_Security_Council.personal|United_Nations_Security_Council.personal]] 
 
-### #is_/same_as :: [United_Nations_Security_Council.secret](/_secret/UN(United_Nations)/United_Nations_Security_Council.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/United_Nations_Security_Council.secret|United_Nations_Security_Council.secret]] 
 

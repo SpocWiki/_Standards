@@ -59,17 +59,17 @@ RTECS_number: VV8760000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mica](/_Standards/Earth/Geology/Mineral/Mica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Mica|Mica]] 
 
-### #is_/same_as :: [Mica.public](/_public/Earth/Geology/Mineral/Mica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Mica.public|Mica.public]] 
 
-### #is_/same_as :: [Mica.internal](/_internal/Earth/Geology/Mineral/Mica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Mica.internal|Mica.internal]] 
 
-### #is_/same_as :: [Mica.protect](/_protect/Earth/Geology/Mineral/Mica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Mica.protect|Mica.protect]] 
 
-### #is_/same_as :: [Mica.private](/_private/Earth/Geology/Mineral/Mica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Mica.private|Mica.private]] 
 
-### #is_/same_as :: [Mica.personal](/_personal/Earth/Geology/Mineral/Mica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Mica.personal|Mica.personal]] 
 
-### #is_/same_as :: [Mica.secret](/_secret/Earth/Geology/Mineral/Mica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Mica.secret|Mica.secret]] 
 

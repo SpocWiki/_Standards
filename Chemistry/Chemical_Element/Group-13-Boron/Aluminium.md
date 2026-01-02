@@ -168,17 +168,17 @@ ZVG_number: 7130
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aluminium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium|Aluminium]] 
 
-### #is_/same_as :: [Aluminium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.public|Aluminium.public]] 
 
-### #is_/same_as :: [Aluminium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.internal|Aluminium.internal]] 
 
-### #is_/same_as :: [Aluminium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.protect|Aluminium.protect]] 
 
-### #is_/same_as :: [Aluminium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.private|Aluminium.private]] 
 
-### #is_/same_as :: [Aluminium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.personal|Aluminium.personal]] 
 
-### #is_/same_as :: [Aluminium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium.secret|Aluminium.secret]] 
 

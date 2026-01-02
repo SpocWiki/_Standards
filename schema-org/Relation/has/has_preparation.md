@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_preparation](/_Standards/schema-org/Relation/has/has_preparation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_preparation|has_preparation]] 
 
-### #is_/same_as :: [has_preparation.public](/_public/schema-org/Relation/has/has_preparation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_preparation.public|has_preparation.public]] 
 
-### #is_/same_as :: [has_preparation.internal](/_internal/schema-org/Relation/has/has_preparation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_preparation.internal|has_preparation.internal]] 
 
-### #is_/same_as :: [has_preparation.protect](/_protect/schema-org/Relation/has/has_preparation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_preparation.protect|has_preparation.protect]] 
 
-### #is_/same_as :: [has_preparation.private](/_private/schema-org/Relation/has/has_preparation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_preparation.private|has_preparation.private]] 
 
-### #is_/same_as :: [has_preparation.personal](/_personal/schema-org/Relation/has/has_preparation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_preparation.personal|has_preparation.personal]] 
 
-### #is_/same_as :: [has_preparation.secret](/_secret/schema-org/Relation/has/has_preparation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_preparation.secret|has_preparation.secret]] 
 

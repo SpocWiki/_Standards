@@ -494,17 +494,17 @@ Capital :: [[Libya/Districs~Libya/Tajura'_wa_an_Nawahi_al_Arba/City/Tripoli]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Libya](/_Standards/Earth/Continent/Africa/Africa~North/Libya.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Libya|Libya]] 
 
-### #is_/same_as :: [Libya.public](/_public/Earth/Continent/Africa/Africa~North/Libya.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Libya.public|Libya.public]] 
 
-### #is_/same_as :: [Libya.internal](/_internal/Earth/Continent/Africa/Africa~North/Libya.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Libya.internal|Libya.internal]] 
 
-### #is_/same_as :: [Libya.protect](/_protect/Earth/Continent/Africa/Africa~North/Libya.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Libya.protect|Libya.protect]] 
 
-### #is_/same_as :: [Libya.private](/_private/Earth/Continent/Africa/Africa~North/Libya.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Libya.private|Libya.private]] 
 
-### #is_/same_as :: [Libya.personal](/_personal/Earth/Continent/Africa/Africa~North/Libya.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Libya.personal|Libya.personal]] 
 
-### #is_/same_as :: [Libya.secret](/_secret/Earth/Continent/Africa/Africa~North/Libya.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Libya.secret|Libya.secret]] 
 

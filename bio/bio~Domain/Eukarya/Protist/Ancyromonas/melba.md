@@ -97,17 +97,17 @@ European Journal of Protistology 32:423-448.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [melba](/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba|melba]] 
 
-### #is_/same_as :: [melba.public](/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.public|melba.public]] 
 
-### #is_/same_as :: [melba.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.internal|melba.internal]] 
 
-### #is_/same_as :: [melba.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.protect|melba.protect]] 
 
-### #is_/same_as :: [melba.private](/_private/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.private|melba.private]] 
 
-### #is_/same_as :: [melba.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.personal|melba.personal]] 
 
-### #is_/same_as :: [melba.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Ancyromonas/melba.secret|melba.secret]] 
 

@@ -169,17 +169,17 @@ Libris_URI: 1zcfjk3k2hbxclg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hendrix,Jimi](/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi|Hendrix,Jimi]] 
 
-### #is_/same_as :: [Hendrix,Jimi.public](/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.public|Hendrix,Jimi.public]] 
 
-### #is_/same_as :: [Hendrix,Jimi.internal](/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.internal|Hendrix,Jimi.internal]] 
 
-### #is_/same_as :: [Hendrix,Jimi.protect](/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.protect|Hendrix,Jimi.protect]] 
 
-### #is_/same_as :: [Hendrix,Jimi.private](/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.private|Hendrix,Jimi.private]] 
 
-### #is_/same_as :: [Hendrix,Jimi.personal](/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.personal|Hendrix,Jimi.personal]] 
 
-### #is_/same_as :: [Hendrix,Jimi.secret](/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Rock-Musician/Hendrix,Jimi.secret|Hendrix,Jimi.secret]] 
 

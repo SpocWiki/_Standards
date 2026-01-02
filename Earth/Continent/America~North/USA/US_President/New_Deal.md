@@ -131,17 +131,17 @@ start_time: 1933-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Deal](/_Standards/Earth/Continent/America~North/US~President/New_Deal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/New_Deal|New_Deal]] 
 
-### #is_/same_as :: [New_Deal.public](/_public/Earth/Continent/America~North/US~President/New_Deal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/New_Deal.public|New_Deal.public]] 
 
-### #is_/same_as :: [New_Deal.internal](/_internal/Earth/Continent/America~North/US~President/New_Deal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/New_Deal.internal|New_Deal.internal]] 
 
-### #is_/same_as :: [New_Deal.protect](/_protect/Earth/Continent/America~North/US~President/New_Deal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/New_Deal.protect|New_Deal.protect]] 
 
-### #is_/same_as :: [New_Deal.private](/_private/Earth/Continent/America~North/US~President/New_Deal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/New_Deal.private|New_Deal.private]] 
 
-### #is_/same_as :: [New_Deal.personal](/_personal/Earth/Continent/America~North/US~President/New_Deal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/New_Deal.personal|New_Deal.personal]] 
 
-### #is_/same_as :: [New_Deal.secret](/_secret/Earth/Continent/America~North/US~President/New_Deal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/New_Deal.secret|New_Deal.secret]] 
 

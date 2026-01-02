@@ -52,17 +52,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Downey,Robert_Jr](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr|Downey,Robert_Jr]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.public|Downey,Robert_Jr.public]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.internal|Downey,Robert_Jr.internal]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.protect|Downey,Robert_Jr.protect]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.private|Downey,Robert_Jr.private]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.personal|Downey,Robert_Jr.personal]] 
 
-### #is_/same_as :: [Downey,Robert_Jr.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Downey,Robert_Jr.secret|Downey,Robert_Jr.secret]] 
 

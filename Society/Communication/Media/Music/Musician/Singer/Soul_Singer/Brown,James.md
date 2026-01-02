@@ -134,17 +134,17 @@ Wolfram_Language_entity_code: Entity["MusicAct", "JamesBrown::m5y3t"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brown,James](/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James|Brown,James]] 
 
-### #is_/same_as :: [Brown,James.public](/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.public|Brown,James.public]] 
 
-### #is_/same_as :: [Brown,James.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.internal|Brown,James.internal]] 
 
-### #is_/same_as :: [Brown,James.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.protect|Brown,James.protect]] 
 
-### #is_/same_as :: [Brown,James.private](/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.private|Brown,James.private]] 
 
-### #is_/same_as :: [Brown,James.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.personal|Brown,James.personal]] 
 
-### #is_/same_as :: [Brown,James.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Soul_Singer/Brown,James.secret|Brown,James.secret]] 
 

@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man_Called_Otto](/_Standards/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto|Man_Called_Otto]] 
 
-### #is_/same_as :: [Man_Called_Otto.public](/_public/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.public|Man_Called_Otto.public]] 
 
-### #is_/same_as :: [Man_Called_Otto.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.internal|Man_Called_Otto.internal]] 
 
-### #is_/same_as :: [Man_Called_Otto.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.protect|Man_Called_Otto.protect]] 
 
-### #is_/same_as :: [Man_Called_Otto.private](/_private/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.private|Man_Called_Otto.private]] 
 
-### #is_/same_as :: [Man_Called_Otto.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.personal|Man_Called_Otto.personal]] 
 
-### #is_/same_as :: [Man_Called_Otto.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Forster,Marc/Man_Called_Otto.secret|Man_Called_Otto.secret]] 
 

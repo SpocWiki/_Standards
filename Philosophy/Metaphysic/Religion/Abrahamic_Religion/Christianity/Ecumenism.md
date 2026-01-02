@@ -59,17 +59,17 @@ IPTC_NewsCode: mediatopic/20000660
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ecumenism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism|Ecumenism]] 
 
-### #is_/same_as :: [Ecumenism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.public|Ecumenism.public]] 
 
-### #is_/same_as :: [Ecumenism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.internal|Ecumenism.internal]] 
 
-### #is_/same_as :: [Ecumenism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.protect|Ecumenism.protect]] 
 
-### #is_/same_as :: [Ecumenism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.private|Ecumenism.private]] 
 
-### #is_/same_as :: [Ecumenism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.personal|Ecumenism.personal]] 
 
-### #is_/same_as :: [Ecumenism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Ecumenism.secret|Ecumenism.secret]] 
 

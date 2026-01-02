@@ -83,17 +83,17 @@ Unicode_character:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eye](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye|Eye]] 
 
-### #is_/same_as :: [Eye.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.public|Eye.public]] 
 
-### #is_/same_as :: [Eye.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.internal|Eye.internal]] 
 
-### #is_/same_as :: [Eye.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.protect|Eye.protect]] 
 
-### #is_/same_as :: [Eye.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.private|Eye.private]] 
 
-### #is_/same_as :: [Eye.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.personal|Eye.personal]] 
 
-### #is_/same_as :: [Eye.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Eye.secret|Eye.secret]] 
 

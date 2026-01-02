@@ -60,17 +60,17 @@ Baidu_Tieba_name: 眼镜
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glasses](/_Standards/Technology/Tool/Instrumentation/Glasses.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Glasses|Glasses]] 
 
-### #is_/same_as :: [Glasses.public](/_public/Technology/Tool/Instrumentation/Glasses.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Glasses.public|Glasses.public]] 
 
-### #is_/same_as :: [Glasses.internal](/_internal/Technology/Tool/Instrumentation/Glasses.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Glasses.internal|Glasses.internal]] 
 
-### #is_/same_as :: [Glasses.protect](/_protect/Technology/Tool/Instrumentation/Glasses.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Glasses.protect|Glasses.protect]] 
 
-### #is_/same_as :: [Glasses.private](/_private/Technology/Tool/Instrumentation/Glasses.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Glasses.private|Glasses.private]] 
 
-### #is_/same_as :: [Glasses.personal](/_personal/Technology/Tool/Instrumentation/Glasses.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Glasses.personal|Glasses.personal]] 
 
-### #is_/same_as :: [Glasses.secret](/_secret/Technology/Tool/Instrumentation/Glasses.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Glasses.secret|Glasses.secret]] 
 

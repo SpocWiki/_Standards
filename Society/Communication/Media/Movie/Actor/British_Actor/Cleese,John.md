@@ -148,17 +148,17 @@ That gives him a certain fascinating, arrogant freedom."
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cleese,John](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John|Cleese,John]] 
 
-### #is_/same_as :: [Cleese,John.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.public|Cleese,John.public]] 
 
-### #is_/same_as :: [Cleese,John.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.internal|Cleese,John.internal]] 
 
-### #is_/same_as :: [Cleese,John.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.protect|Cleese,John.protect]] 
 
-### #is_/same_as :: [Cleese,John.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.private|Cleese,John.private]] 
 
-### #is_/same_as :: [Cleese,John.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.personal|Cleese,John.personal]] 
 
-### #is_/same_as :: [Cleese,John.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Cleese,John.secret|Cleese,John.secret]] 
 

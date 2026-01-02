@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_value_added_tax_included](/_Standards/schema-org/Property/Flags/is_value_added_tax_included.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_value_added_tax_included|is_value_added_tax_included]] 
 
-### #is_/same_as :: [is_value_added_tax_included.public](/_public/schema-org/Property/Flags/is_value_added_tax_included.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_value_added_tax_included.public|is_value_added_tax_included.public]] 
 
-### #is_/same_as :: [is_value_added_tax_included.internal](/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_value_added_tax_included.internal|is_value_added_tax_included.internal]] 
 
-### #is_/same_as :: [is_value_added_tax_included.protect](/_protect/schema-org/Property/Flags/is_value_added_tax_included.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_value_added_tax_included.protect|is_value_added_tax_included.protect]] 
 
-### #is_/same_as :: [is_value_added_tax_included.private](/_private/schema-org/Property/Flags/is_value_added_tax_included.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_value_added_tax_included.private|is_value_added_tax_included.private]] 
 
-### #is_/same_as :: [is_value_added_tax_included.personal](/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_value_added_tax_included.personal|is_value_added_tax_included.personal]] 
 
-### #is_/same_as :: [is_value_added_tax_included.secret](/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_value_added_tax_included.secret|is_value_added_tax_included.secret]] 
 

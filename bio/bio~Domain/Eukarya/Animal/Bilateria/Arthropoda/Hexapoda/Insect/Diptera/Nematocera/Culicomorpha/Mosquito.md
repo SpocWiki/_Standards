@@ -129,3 +129,22 @@ Containing group: [Fly](Fly.md)
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
   Copyright ::            © Susan Ellis
   --------------------------
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito|Mosquito]] 
+
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.public|Mosquito.public]] 
+
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.internal|Mosquito.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.protect|Mosquito.protect]] 
+
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.private|Mosquito.private]] 
+
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.personal|Mosquito.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Diptera/Nematocera/Culicomorpha/Mosquito.secret|Mosquito.secret]] 
+

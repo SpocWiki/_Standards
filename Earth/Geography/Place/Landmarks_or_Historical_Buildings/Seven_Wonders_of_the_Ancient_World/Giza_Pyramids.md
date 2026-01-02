@@ -45,17 +45,17 @@ coordinate_location: Point(31.133333 29.983333)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Giza_Pyramids](/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids|Giza_Pyramids]] 
 
-### #is_/same_as :: [Giza_Pyramids.public](/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.public|Giza_Pyramids.public]] 
 
-### #is_/same_as :: [Giza_Pyramids.internal](/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.internal|Giza_Pyramids.internal]] 
 
-### #is_/same_as :: [Giza_Pyramids.protect](/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.protect|Giza_Pyramids.protect]] 
 
-### #is_/same_as :: [Giza_Pyramids.private](/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.private|Giza_Pyramids.private]] 
 
-### #is_/same_as :: [Giza_Pyramids.personal](/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.personal|Giza_Pyramids.personal]] 
 
-### #is_/same_as :: [Giza_Pyramids.secret](/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings/Seven_Wonders_of_the_Ancient_World/Giza_Pyramids.secret|Giza_Pyramids.secret]] 
 

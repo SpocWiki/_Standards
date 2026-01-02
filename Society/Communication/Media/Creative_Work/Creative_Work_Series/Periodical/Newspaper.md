@@ -41,17 +41,17 @@ A publication containing information about varied topics that are pertinent to g
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newspaper](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper|Newspaper]] 
 
-### #is_/same_as :: [Newspaper.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.public|Newspaper.public]] 
 
-### #is_/same_as :: [Newspaper.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.internal|Newspaper.internal]] 
 
-### #is_/same_as :: [Newspaper.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.protect|Newspaper.protect]] 
 
-### #is_/same_as :: [Newspaper.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.private|Newspaper.private]] 
 
-### #is_/same_as :: [Newspaper.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.personal|Newspaper.personal]] 
 
-### #is_/same_as :: [Newspaper.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Newspaper.secret|Newspaper.secret]] 
 

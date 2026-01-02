@@ -170,17 +170,17 @@ date_of_birth: 1930-05-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eastwood,Clint](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint|Eastwood,Clint]] 
 
-### #is_/same_as :: [Eastwood,Clint.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.public|Eastwood,Clint.public]] 
 
-### #is_/same_as :: [Eastwood,Clint.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.internal|Eastwood,Clint.internal]] 
 
-### #is_/same_as :: [Eastwood,Clint.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.protect|Eastwood,Clint.protect]] 
 
-### #is_/same_as :: [Eastwood,Clint.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.private|Eastwood,Clint.private]] 
 
-### #is_/same_as :: [Eastwood,Clint.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.personal|Eastwood,Clint.personal]] 
 
-### #is_/same_as :: [Eastwood,Clint.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Eastwood,Clint.secret|Eastwood,Clint.secret]] 
 

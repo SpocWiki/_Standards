@@ -37,17 +37,17 @@ A river (for example, the broad majestic Shannon).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater|FileClass~RiverBodyOfWater]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.public|FileClass~RiverBodyOfWater.public]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.internal|FileClass~RiverBodyOfWater.internal]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.protect|FileClass~RiverBodyOfWater.protect]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.private|FileClass~RiverBodyOfWater.private]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.personal|FileClass~RiverBodyOfWater.personal]] 
 
-### #is_/same_as :: [FileClass~RiverBodyOfWater.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~RiverBodyOfWater.secret|FileClass~RiverBodyOfWater.secret]] 
 

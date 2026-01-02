@@ -70,17 +70,17 @@ The word _vodka_ is a [diminutive](https://en.wikipedia.org/wiki/Diminutive "Dim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vodka](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka|Vodka]] 
 
-### #is_/same_as :: [Vodka.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.public|Vodka.public]] 
 
-### #is_/same_as :: [Vodka.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.internal|Vodka.internal]] 
 
-### #is_/same_as :: [Vodka.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.protect|Vodka.protect]] 
 
-### #is_/same_as :: [Vodka.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.private|Vodka.private]] 
 
-### #is_/same_as :: [Vodka.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.personal|Vodka.personal]] 
 
-### #is_/same_as :: [Vodka.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Vodka.secret|Vodka.secret]] 
 

@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Office(Series)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series)|Office(Series)]] 
 
-### #is_/same_as :: [Office(Series).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).public|Office(Series).public]] 
 
-### #is_/same_as :: [Office(Series).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).internal|Office(Series).internal]] 
 
-### #is_/same_as :: [Office(Series).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).protect|Office(Series).protect]] 
 
-### #is_/same_as :: [Office(Series).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).private|Office(Series).private]] 
 
-### #is_/same_as :: [Office(Series).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).personal|Office(Series).personal]] 
 
-### #is_/same_as :: [Office(Series).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Office(Series).secret|Office(Series).secret]] 
 

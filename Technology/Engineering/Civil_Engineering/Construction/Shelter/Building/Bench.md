@@ -40,17 +40,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bench](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench|Bench]] 
 
-### #is_/same_as :: [Bench.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.public|Bench.public]] 
 
-### #is_/same_as :: [Bench.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.internal|Bench.internal]] 
 
-### #is_/same_as :: [Bench.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.protect|Bench.protect]] 
 
-### #is_/same_as :: [Bench.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.private|Bench.private]] 
 
-### #is_/same_as :: [Bench.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.personal|Bench.personal]] 
 
-### #is_/same_as :: [Bench.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Bench.secret|Bench.secret]] 
 

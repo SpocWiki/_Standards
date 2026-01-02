@@ -62,17 +62,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Braucht%20der%20Mensch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meat](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat|Meat]] 
 
-### #is_/same_as :: [Meat.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat.public|Meat.public]] 
 
-### #is_/same_as :: [Meat.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat.internal|Meat.internal]] 
 
-### #is_/same_as :: [Meat.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat.protect|Meat.protect]] 
 
-### #is_/same_as :: [Meat.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat.private|Meat.private]] 
 
-### #is_/same_as :: [Meat.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat.personal|Meat.personal]] 
 
-### #is_/same_as :: [Meat.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat.secret|Meat.secret]] 
 

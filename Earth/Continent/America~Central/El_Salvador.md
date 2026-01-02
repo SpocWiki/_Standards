@@ -434,17 +434,17 @@ Capital :: [[El_Salvador/Counties/San_Salvador/City/San_Salvador]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [El_Salvador](/_Standards/Earth/Continent/America~Central/El_Salvador.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/El_Salvador|El_Salvador]] 
 
-### #is_/same_as :: [El_Salvador.public](/_public/Earth/Continent/America~Central/El_Salvador.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/El_Salvador.public|El_Salvador.public]] 
 
-### #is_/same_as :: [El_Salvador.internal](/_internal/Earth/Continent/America~Central/El_Salvador.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/El_Salvador.internal|El_Salvador.internal]] 
 
-### #is_/same_as :: [El_Salvador.protect](/_protect/Earth/Continent/America~Central/El_Salvador.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/El_Salvador.protect|El_Salvador.protect]] 
 
-### #is_/same_as :: [El_Salvador.private](/_private/Earth/Continent/America~Central/El_Salvador.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/El_Salvador.private|El_Salvador.private]] 
 
-### #is_/same_as :: [El_Salvador.personal](/_personal/Earth/Continent/America~Central/El_Salvador.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/El_Salvador.personal|El_Salvador.personal]] 
 
-### #is_/same_as :: [El_Salvador.secret](/_secret/Earth/Continent/America~Central/El_Salvador.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/El_Salvador.secret|El_Salvador.secret]] 
 

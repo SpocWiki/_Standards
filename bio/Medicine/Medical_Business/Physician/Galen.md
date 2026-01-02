@@ -105,17 +105,17 @@ ISNI: 0000000121302401
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galen](/_Standards/bio/Medicine/Medical_Business/Physician/Galen.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Physician/Galen|Galen]] 
 
-### #is_/same_as :: [Galen.public](/_public/bio/Medicine/Medical_Business/Physician/Galen.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Physician/Galen.public|Galen.public]] 
 
-### #is_/same_as :: [Galen.internal](/_internal/bio/Medicine/Medical_Business/Physician/Galen.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Physician/Galen.internal|Galen.internal]] 
 
-### #is_/same_as :: [Galen.protect](/_protect/bio/Medicine/Medical_Business/Physician/Galen.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Physician/Galen.protect|Galen.protect]] 
 
-### #is_/same_as :: [Galen.private](/_private/bio/Medicine/Medical_Business/Physician/Galen.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Physician/Galen.private|Galen.private]] 
 
-### #is_/same_as :: [Galen.personal](/_personal/bio/Medicine/Medical_Business/Physician/Galen.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Physician/Galen.personal|Galen.personal]] 
 
-### #is_/same_as :: [Galen.secret](/_secret/bio/Medicine/Medical_Business/Physician/Galen.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Physician/Galen.secret|Galen.secret]] 
 

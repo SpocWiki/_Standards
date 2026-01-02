@@ -47,17 +47,17 @@ Commons_category: Habitable zone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone](/_Standards/Astronomy/Star/Circumstellar_habitable_Zone.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Circumstellar_habitable_Zone|Circumstellar_habitable_Zone]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.public](/_public/Astronomy/Star/Circumstellar_habitable_Zone.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Circumstellar_habitable_Zone.public|Circumstellar_habitable_Zone.public]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.internal](/_internal/Astronomy/Star/Circumstellar_habitable_Zone.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Circumstellar_habitable_Zone.internal|Circumstellar_habitable_Zone.internal]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.protect](/_protect/Astronomy/Star/Circumstellar_habitable_Zone.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Circumstellar_habitable_Zone.protect|Circumstellar_habitable_Zone.protect]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.private](/_private/Astronomy/Star/Circumstellar_habitable_Zone.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Circumstellar_habitable_Zone.private|Circumstellar_habitable_Zone.private]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.personal](/_personal/Astronomy/Star/Circumstellar_habitable_Zone.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Circumstellar_habitable_Zone.personal|Circumstellar_habitable_Zone.personal]] 
 
-### #is_/same_as :: [Circumstellar_habitable_Zone.secret](/_secret/Astronomy/Star/Circumstellar_habitable_Zone.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Circumstellar_habitable_Zone.secret|Circumstellar_habitable_Zone.secret]] 
 

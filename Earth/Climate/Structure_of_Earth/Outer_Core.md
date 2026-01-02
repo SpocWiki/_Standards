@@ -24,17 +24,17 @@ instance_of: "[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Outer_Core](/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core|Outer_Core]] 
 
-### #is_/same_as :: [Outer_Core.public](/_public/Earth/Climate/Structure_of_Earth/Outer_Core.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Outer_Core.public|Outer_Core.public]] 
 
-### #is_/same_as :: [Outer_Core.internal](/_internal/Earth/Climate/Structure_of_Earth/Outer_Core.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Outer_Core.internal|Outer_Core.internal]] 
 
-### #is_/same_as :: [Outer_Core.protect](/_protect/Earth/Climate/Structure_of_Earth/Outer_Core.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Outer_Core.protect|Outer_Core.protect]] 
 
-### #is_/same_as :: [Outer_Core.private](/_private/Earth/Climate/Structure_of_Earth/Outer_Core.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Outer_Core.private|Outer_Core.private]] 
 
-### #is_/same_as :: [Outer_Core.personal](/_personal/Earth/Climate/Structure_of_Earth/Outer_Core.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Outer_Core.personal|Outer_Core.personal]] 
 
-### #is_/same_as :: [Outer_Core.secret](/_secret/Earth/Climate/Structure_of_Earth/Outer_Core.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Outer_Core.secret|Outer_Core.secret]] 
 

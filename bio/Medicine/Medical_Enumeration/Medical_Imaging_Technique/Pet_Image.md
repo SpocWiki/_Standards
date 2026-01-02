@@ -42,17 +42,17 @@ Positron emission tomography imaging.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pet_Image](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image|Pet_Image]] 
 
-### #is_/same_as :: [Pet_Image.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.public|Pet_Image.public]] 
 
-### #is_/same_as :: [Pet_Image.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.internal|Pet_Image.internal]] 
 
-### #is_/same_as :: [Pet_Image.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.protect|Pet_Image.protect]] 
 
-### #is_/same_as :: [Pet_Image.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.private|Pet_Image.private]] 
 
-### #is_/same_as :: [Pet_Image.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.personal|Pet_Image.personal]] 
 
-### #is_/same_as :: [Pet_Image.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique/Pet_Image.secret|Pet_Image.secret]] 
 

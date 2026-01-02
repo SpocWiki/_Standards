@@ -49,17 +49,17 @@ coordinate_location: Point(-4.57059 57.2144)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loch_Ness_Monster](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster|Loch_Ness_Monster]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.public|Loch_Ness_Monster.public]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.internal|Loch_Ness_Monster.internal]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.protect|Loch_Ness_Monster.protect]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.private|Loch_Ness_Monster.private]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.personal|Loch_Ness_Monster.personal]] 
 
-### #is_/same_as :: [Loch_Ness_Monster.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature/Loch_Ness_Monster.secret|Loch_Ness_Monster.secret]] 
 

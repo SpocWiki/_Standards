@@ -179,17 +179,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Parliament](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Parliament|European_Parliament]] 
 
-### #is_/same_as :: [European_Parliament.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Parliament.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Parliament.public|European_Parliament.public]] 
 
-### #is_/same_as :: [European_Parliament.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.internal|European_Parliament.internal]] 
 
-### #is_/same_as :: [European_Parliament.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Parliament.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Parliament.protect|European_Parliament.protect]] 
 
-### #is_/same_as :: [European_Parliament.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Parliament.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Parliament.private|European_Parliament.private]] 
 
-### #is_/same_as :: [European_Parliament.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Parliament.personal|European_Parliament.personal]] 
 
-### #is_/same_as :: [European_Parliament.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Parliament.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Parliament.secret|European_Parliament.secret]] 
 

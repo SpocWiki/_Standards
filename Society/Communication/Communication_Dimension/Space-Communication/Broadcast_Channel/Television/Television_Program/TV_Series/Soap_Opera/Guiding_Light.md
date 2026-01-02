@@ -180,17 +180,17 @@ end_time: 2009-09-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guiding_Light](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light|Guiding_Light]] 
 
-### #is_/same_as :: [Guiding_Light.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.public|Guiding_Light.public]] 
 
-### #is_/same_as :: [Guiding_Light.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.internal|Guiding_Light.internal]] 
 
-### #is_/same_as :: [Guiding_Light.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.protect|Guiding_Light.protect]] 
 
-### #is_/same_as :: [Guiding_Light.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.private|Guiding_Light.private]] 
 
-### #is_/same_as :: [Guiding_Light.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.personal|Guiding_Light.personal]] 
 
-### #is_/same_as :: [Guiding_Light.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera/Guiding_Light.secret|Guiding_Light.secret]] 
 

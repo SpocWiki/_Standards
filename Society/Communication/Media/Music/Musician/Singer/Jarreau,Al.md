@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jarreau,Al](/_Standards/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al|Jarreau,Al]] 
 
-### #is_/same_as :: [Jarreau,Al.public](/_public/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.public|Jarreau,Al.public]] 
 
-### #is_/same_as :: [Jarreau,Al.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.internal|Jarreau,Al.internal]] 
 
-### #is_/same_as :: [Jarreau,Al.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.protect|Jarreau,Al.protect]] 
 
-### #is_/same_as :: [Jarreau,Al.private](/_private/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.private|Jarreau,Al.private]] 
 
-### #is_/same_as :: [Jarreau,Al.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.personal|Jarreau,Al.personal]] 
 
-### #is_/same_as :: [Jarreau,Al.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Jarreau,Al.secret|Jarreau,Al.secret]] 
 

@@ -39,17 +39,17 @@ Enumerated options related to a ContactPoint.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contact_Point_Option](/_Standards/schema-org/Enumeration/Contact_Point_Option.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Contact_Point_Option|Contact_Point_Option]] 
 
-### #is_/same_as :: [Contact_Point_Option.public](/_public/schema-org/Enumeration/Contact_Point_Option.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Contact_Point_Option.public|Contact_Point_Option.public]] 
 
-### #is_/same_as :: [Contact_Point_Option.internal](/_internal/schema-org/Enumeration/Contact_Point_Option.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Contact_Point_Option.internal|Contact_Point_Option.internal]] 
 
-### #is_/same_as :: [Contact_Point_Option.protect](/_protect/schema-org/Enumeration/Contact_Point_Option.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Contact_Point_Option.protect|Contact_Point_Option.protect]] 
 
-### #is_/same_as :: [Contact_Point_Option.private](/_private/schema-org/Enumeration/Contact_Point_Option.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Contact_Point_Option.private|Contact_Point_Option.private]] 
 
-### #is_/same_as :: [Contact_Point_Option.personal](/_personal/schema-org/Enumeration/Contact_Point_Option.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Contact_Point_Option.personal|Contact_Point_Option.personal]] 
 
-### #is_/same_as :: [Contact_Point_Option.secret](/_secret/schema-org/Enumeration/Contact_Point_Option.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Contact_Point_Option.secret|Contact_Point_Option.secret]] 
 

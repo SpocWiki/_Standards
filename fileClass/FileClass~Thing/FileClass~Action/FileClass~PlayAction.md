@@ -64,17 +64,17 @@ Events:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PlayAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction|FileClass~PlayAction]] 
 
-### #is_/same_as :: [FileClass~PlayAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.public|FileClass~PlayAction.public]] 
 
-### #is_/same_as :: [FileClass~PlayAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.internal|FileClass~PlayAction.internal]] 
 
-### #is_/same_as :: [FileClass~PlayAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.protect|FileClass~PlayAction.protect]] 
 
-### #is_/same_as :: [FileClass~PlayAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.private|FileClass~PlayAction.private]] 
 
-### #is_/same_as :: [FileClass~PlayAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.personal|FileClass~PlayAction.personal]] 
 
-### #is_/same_as :: [FileClass~PlayAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~PlayAction.secret|FileClass~PlayAction.secret]] 
 

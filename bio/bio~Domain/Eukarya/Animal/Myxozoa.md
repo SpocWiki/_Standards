@@ -65,17 +65,17 @@ title: Myxozoa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Myxozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Myxozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Myxozoa|Myxozoa]] 
 
-### #is_/same_as :: [Myxozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Myxozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Myxozoa.public|Myxozoa.public]] 
 
-### #is_/same_as :: [Myxozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Myxozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Myxozoa.internal|Myxozoa.internal]] 
 
-### #is_/same_as :: [Myxozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Myxozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Myxozoa.protect|Myxozoa.protect]] 
 
-### #is_/same_as :: [Myxozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Myxozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Myxozoa.private|Myxozoa.private]] 
 
-### #is_/same_as :: [Myxozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Myxozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Myxozoa.personal|Myxozoa.personal]] 
 
-### #is_/same_as :: [Myxozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Myxozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Myxozoa.secret|Myxozoa.secret]] 
 

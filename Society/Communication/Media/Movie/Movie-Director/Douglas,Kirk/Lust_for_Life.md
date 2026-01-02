@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lust_for_Life](/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life|Lust_for_Life]] 
 
-### #is_/same_as :: [Lust_for_Life.public](/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.public|Lust_for_Life.public]] 
 
-### #is_/same_as :: [Lust_for_Life.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.internal|Lust_for_Life.internal]] 
 
-### #is_/same_as :: [Lust_for_Life.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.protect|Lust_for_Life.protect]] 
 
-### #is_/same_as :: [Lust_for_Life.private](/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.private|Lust_for_Life.private]] 
 
-### #is_/same_as :: [Lust_for_Life.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.personal|Lust_for_Life.personal]] 
 
-### #is_/same_as :: [Lust_for_Life.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk/Lust_for_Life.secret|Lust_for_Life.secret]] 
 

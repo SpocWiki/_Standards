@@ -31,17 +31,17 @@ official_website: https://www.ecaeurope.com/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Club_Association](/_Standards/Earth/Continent/Europe/European_Club_Association.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/European_Club_Association|European_Club_Association]] 
 
-### #is_/same_as :: [European_Club_Association.public](/_public/Earth/Continent/Europe/European_Club_Association.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/European_Club_Association.public|European_Club_Association.public]] 
 
-### #is_/same_as :: [European_Club_Association.internal](/_internal/Earth/Continent/Europe/European_Club_Association.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/European_Club_Association.internal|European_Club_Association.internal]] 
 
-### #is_/same_as :: [European_Club_Association.protect](/_protect/Earth/Continent/Europe/European_Club_Association.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/European_Club_Association.protect|European_Club_Association.protect]] 
 
-### #is_/same_as :: [European_Club_Association.private](/_private/Earth/Continent/Europe/European_Club_Association.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/European_Club_Association.private|European_Club_Association.private]] 
 
-### #is_/same_as :: [European_Club_Association.personal](/_personal/Earth/Continent/Europe/European_Club_Association.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/European_Club_Association.personal|European_Club_Association.personal]] 
 
-### #is_/same_as :: [European_Club_Association.secret](/_secret/Earth/Continent/Europe/European_Club_Association.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/European_Club_Association.secret|European_Club_Association.secret]] 
 

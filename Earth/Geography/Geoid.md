@@ -37,17 +37,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geoid](/_Standards/Earth/Geography/Geoid.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Geoid|Geoid]] 
 
-### #is_/same_as :: [Geoid.public](/_public/Earth/Geography/Geoid.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Geoid.public|Geoid.public]] 
 
-### #is_/same_as :: [Geoid.internal](/_internal/Earth/Geography/Geoid.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Geoid.internal|Geoid.internal]] 
 
-### #is_/same_as :: [Geoid.protect](/_protect/Earth/Geography/Geoid.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Geoid.protect|Geoid.protect]] 
 
-### #is_/same_as :: [Geoid.private](/_private/Earth/Geography/Geoid.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Geoid.private|Geoid.private]] 
 
-### #is_/same_as :: [Geoid.personal](/_personal/Earth/Geography/Geoid.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Geoid.personal|Geoid.personal]] 
 
-### #is_/same_as :: [Geoid.secret](/_secret/Earth/Geography/Geoid.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Geoid.secret|Geoid.secret]] 
 

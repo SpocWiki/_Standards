@@ -73,17 +73,17 @@ OpenStreetMap_tag: sport=ice_hockey
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Hockey](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey|Ice_Hockey]] 
 
-### #is_/same_as :: [Ice_Hockey.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.public|Ice_Hockey.public]] 
 
-### #is_/same_as :: [Ice_Hockey.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.internal|Ice_Hockey.internal]] 
 
-### #is_/same_as :: [Ice_Hockey.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.protect|Ice_Hockey.protect]] 
 
-### #is_/same_as :: [Ice_Hockey.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.private|Ice_Hockey.private]] 
 
-### #is_/same_as :: [Ice_Hockey.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.personal|Ice_Hockey.personal]] 
 
-### #is_/same_as :: [Ice_Hockey.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Hockey/Ice_Hockey.secret|Ice_Hockey.secret]] 
 

@@ -58,17 +58,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Phoenix-Fabelwesen.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Resurrection](/_Standards/Philosophy/Metaphysic/Supernatural/Resurrection.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Resurrection|Resurrection]] 
 
-### #is_/same_as :: [Resurrection.public](/_public/Philosophy/Metaphysic/Supernatural/Resurrection.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Resurrection.public|Resurrection.public]] 
 
-### #is_/same_as :: [Resurrection.internal](/_internal/Philosophy/Metaphysic/Supernatural/Resurrection.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Resurrection.internal|Resurrection.internal]] 
 
-### #is_/same_as :: [Resurrection.protect](/_protect/Philosophy/Metaphysic/Supernatural/Resurrection.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Resurrection.protect|Resurrection.protect]] 
 
-### #is_/same_as :: [Resurrection.private](/_private/Philosophy/Metaphysic/Supernatural/Resurrection.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Resurrection.private|Resurrection.private]] 
 
-### #is_/same_as :: [Resurrection.personal](/_personal/Philosophy/Metaphysic/Supernatural/Resurrection.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Resurrection.personal|Resurrection.personal]] 
 
-### #is_/same_as :: [Resurrection.secret](/_secret/Philosophy/Metaphysic/Supernatural/Resurrection.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Resurrection.secret|Resurrection.secret]] 
 

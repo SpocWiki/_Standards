@@ -37,17 +37,17 @@ The act of downloading an object.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DownloadAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction|FileClass~DownloadAction]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.public|FileClass~DownloadAction.public]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.internal|FileClass~DownloadAction.internal]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.protect|FileClass~DownloadAction.protect]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.private|FileClass~DownloadAction.private]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.personal|FileClass~DownloadAction.personal]] 
 
-### #is_/same_as :: [FileClass~DownloadAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~DownloadAction.secret|FileClass~DownloadAction.secret]] 
 

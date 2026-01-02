@@ -30,17 +30,17 @@ Commons_category: Politburos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Political_Bureau](/_Standards/Society/Ideology/Political_Ideology/Communism/Political_Bureau.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Political_Bureau|Political_Bureau]] 
 
-### #is_/same_as :: [Political_Bureau.public](/_public/Society/Ideology/Political_Ideology/Communism/Political_Bureau.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Political_Bureau.public|Political_Bureau.public]] 
 
-### #is_/same_as :: [Political_Bureau.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.internal|Political_Bureau.internal]] 
 
-### #is_/same_as :: [Political_Bureau.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Political_Bureau.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Political_Bureau.protect|Political_Bureau.protect]] 
 
-### #is_/same_as :: [Political_Bureau.private](/_private/Society/Ideology/Political_Ideology/Communism/Political_Bureau.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Political_Bureau.private|Political_Bureau.private]] 
 
-### #is_/same_as :: [Political_Bureau.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Political_Bureau.personal|Political_Bureau.personal]] 
 
-### #is_/same_as :: [Political_Bureau.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Political_Bureau.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Political_Bureau.secret|Political_Bureau.secret]] 
 

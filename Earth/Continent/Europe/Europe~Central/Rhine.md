@@ -295,17 +295,17 @@ watershed_area: 185000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhine](/_Standards/Earth/Continent/Europe/Europe~Central/Rhine.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Rhine|Rhine]] 
 
-### #is_/same_as :: [Rhine.public](/_public/Earth/Continent/Europe/Europe~Central/Rhine.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Rhine.public|Rhine.public]] 
 
-### #is_/same_as :: [Rhine.internal](/_internal/Earth/Continent/Europe/Europe~Central/Rhine.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Rhine.internal|Rhine.internal]] 
 
-### #is_/same_as :: [Rhine.protect](/_protect/Earth/Continent/Europe/Europe~Central/Rhine.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Rhine.protect|Rhine.protect]] 
 
-### #is_/same_as :: [Rhine.private](/_private/Earth/Continent/Europe/Europe~Central/Rhine.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Rhine.private|Rhine.private]] 
 
-### #is_/same_as :: [Rhine.personal](/_personal/Earth/Continent/Europe/Europe~Central/Rhine.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Rhine.personal|Rhine.personal]] 
 
-### #is_/same_as :: [Rhine.secret](/_secret/Earth/Continent/Europe/Europe~Central/Rhine.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Rhine.secret|Rhine.secret]] 
 

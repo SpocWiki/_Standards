@@ -62,17 +62,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Instagram](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram|Instagram]] 
 
-### #is_/same_as :: [Instagram.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.public|Instagram.public]] 
 
-### #is_/same_as :: [Instagram.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.internal|Instagram.internal]] 
 
-### #is_/same_as :: [Instagram.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.protect|Instagram.protect]] 
 
-### #is_/same_as :: [Instagram.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.private|Instagram.private]] 
 
-### #is_/same_as :: [Instagram.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.personal|Instagram.personal]] 
 
-### #is_/same_as :: [Instagram.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Instagram.secret|Instagram.secret]] 
 

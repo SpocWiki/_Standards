@@ -17,17 +17,17 @@ async fn print_tables() -> Result<(), Error> {
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [crates~aws-sdk-rust](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust|crates~aws-sdk-rust]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.public|crates~aws-sdk-rust.public]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.internal|crates~aws-sdk-rust.internal]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.protect|crates~aws-sdk-rust.protect]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.private|crates~aws-sdk-rust.private]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.personal|crates~aws-sdk-rust.personal]] 
 
-### #is_/same_as :: [crates~aws-sdk-rust.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Crates/crates~aws-sdk-rust.secret|crates~aws-sdk-rust.secret]] 
 

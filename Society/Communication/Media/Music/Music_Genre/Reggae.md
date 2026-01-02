@@ -61,17 +61,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/REGGI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reggae](/_Standards/Society/Communication/Media/Music/Music_Genre/Reggae.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Reggae|Reggae]] 
 
-### #is_/same_as :: [Reggae.public](/_public/Society/Communication/Media/Music/Music_Genre/Reggae.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Reggae.public|Reggae.public]] 
 
-### #is_/same_as :: [Reggae.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Reggae.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Reggae.internal|Reggae.internal]] 
 
-### #is_/same_as :: [Reggae.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Reggae.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Reggae.protect|Reggae.protect]] 
 
-### #is_/same_as :: [Reggae.private](/_private/Society/Communication/Media/Music/Music_Genre/Reggae.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Reggae.private|Reggae.private]] 
 
-### #is_/same_as :: [Reggae.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Reggae.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Reggae.personal|Reggae.personal]] 
 
-### #is_/same_as :: [Reggae.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Reggae.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Reggae.secret|Reggae.secret]] 
 

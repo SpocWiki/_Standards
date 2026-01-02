@@ -43,17 +43,17 @@ Commons_category: Astronautics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronautics](/_Standards/Technology/Spaceflight/Astronautics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Astronautics|Astronautics]] 
 
-### #is_/same_as :: [Astronautics.public](/_public/Technology/Spaceflight/Astronautics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Astronautics.public|Astronautics.public]] 
 
-### #is_/same_as :: [Astronautics.internal](/_internal/Technology/Spaceflight/Astronautics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Astronautics.internal|Astronautics.internal]] 
 
-### #is_/same_as :: [Astronautics.protect](/_protect/Technology/Spaceflight/Astronautics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Astronautics.protect|Astronautics.protect]] 
 
-### #is_/same_as :: [Astronautics.private](/_private/Technology/Spaceflight/Astronautics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Astronautics.private|Astronautics.private]] 
 
-### #is_/same_as :: [Astronautics.personal](/_personal/Technology/Spaceflight/Astronautics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Astronautics.personal|Astronautics.personal]] 
 
-### #is_/same_as :: [Astronautics.secret](/_secret/Technology/Spaceflight/Astronautics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Astronautics.secret|Astronautics.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_food_warning](/_Standards/schema-org/Property/Texts/has_food_warning.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_food_warning|has_food_warning]] 
 
-### #is_/same_as :: [has_food_warning.public](/_public/schema-org/Property/Texts/has_food_warning.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_food_warning.public|has_food_warning.public]] 
 
-### #is_/same_as :: [has_food_warning.internal](/_internal/schema-org/Property/Texts/has_food_warning.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_food_warning.internal|has_food_warning.internal]] 
 
-### #is_/same_as :: [has_food_warning.protect](/_protect/schema-org/Property/Texts/has_food_warning.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_food_warning.protect|has_food_warning.protect]] 
 
-### #is_/same_as :: [has_food_warning.private](/_private/schema-org/Property/Texts/has_food_warning.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_food_warning.private|has_food_warning.private]] 
 
-### #is_/same_as :: [has_food_warning.personal](/_personal/schema-org/Property/Texts/has_food_warning.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_food_warning.personal|has_food_warning.personal]] 
 
-### #is_/same_as :: [has_food_warning.secret](/_secret/schema-org/Property/Texts/has_food_warning.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_food_warning.secret|has_food_warning.secret]] 
 

@@ -81,17 +81,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Deity::2522b"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deity](/_Standards/Philosophy/Metaphysic/Religion/Deity.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Deity|Deity]] 
 
-### #is_/same_as :: [Deity.public](/_public/Philosophy/Metaphysic/Religion/Deity.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Deity.public|Deity.public]] 
 
-### #is_/same_as :: [Deity.internal](/_internal/Philosophy/Metaphysic/Religion/Deity.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Deity.internal|Deity.internal]] 
 
-### #is_/same_as :: [Deity.protect](/_protect/Philosophy/Metaphysic/Religion/Deity.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Deity.protect|Deity.protect]] 
 
-### #is_/same_as :: [Deity.private](/_private/Philosophy/Metaphysic/Religion/Deity.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Deity.private|Deity.private]] 
 
-### #is_/same_as :: [Deity.personal](/_personal/Philosophy/Metaphysic/Religion/Deity.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Deity.personal|Deity.personal]] 
 
-### #is_/same_as :: [Deity.secret](/_secret/Philosophy/Metaphysic/Religion/Deity.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Deity.secret|Deity.secret]] 
 

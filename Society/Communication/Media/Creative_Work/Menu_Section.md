@@ -41,17 +41,17 @@ A sub-grouping of food or drink items in a menu. E.g. courses (such as 'Dinner',
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menu_Section](/_Standards/Society/Communication/Media/Creative_Work/Menu_Section.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Menu_Section|Menu_Section]] 
 
-### #is_/same_as :: [Menu_Section.public](/_public/Society/Communication/Media/Creative_Work/Menu_Section.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Menu_Section.public|Menu_Section.public]] 
 
-### #is_/same_as :: [Menu_Section.internal](/_internal/Society/Communication/Media/Creative_Work/Menu_Section.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Menu_Section.internal|Menu_Section.internal]] 
 
-### #is_/same_as :: [Menu_Section.protect](/_protect/Society/Communication/Media/Creative_Work/Menu_Section.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Menu_Section.protect|Menu_Section.protect]] 
 
-### #is_/same_as :: [Menu_Section.private](/_private/Society/Communication/Media/Creative_Work/Menu_Section.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Menu_Section.private|Menu_Section.private]] 
 
-### #is_/same_as :: [Menu_Section.personal](/_personal/Society/Communication/Media/Creative_Work/Menu_Section.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Menu_Section.personal|Menu_Section.personal]] 
 
-### #is_/same_as :: [Menu_Section.secret](/_secret/Society/Communication/Media/Creative_Work/Menu_Section.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Menu_Section.secret|Menu_Section.secret]] 
 

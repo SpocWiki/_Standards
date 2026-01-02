@@ -47,17 +47,17 @@ Issn:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WebSite](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite|FileClass~WebSite]] 
 
-### #is_/same_as :: [FileClass~WebSite.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.public|FileClass~WebSite.public]] 
 
-### #is_/same_as :: [FileClass~WebSite.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.internal|FileClass~WebSite.internal]] 
 
-### #is_/same_as :: [FileClass~WebSite.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.protect|FileClass~WebSite.protect]] 
 
-### #is_/same_as :: [FileClass~WebSite.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.private|FileClass~WebSite.private]] 
 
-### #is_/same_as :: [FileClass~WebSite.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.personal|FileClass~WebSite.personal]] 
 
-### #is_/same_as :: [FileClass~WebSite.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebSite.secret|FileClass~WebSite.secret]] 
 

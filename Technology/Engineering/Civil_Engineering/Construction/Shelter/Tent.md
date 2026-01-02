@@ -63,17 +63,17 @@ Dewey_Decimal_Classification: "645.32"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tent](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent|Tent]] 
 
-### #is_/same_as :: [Tent.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.public|Tent.public]] 
 
-### #is_/same_as :: [Tent.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.internal|Tent.internal]] 
 
-### #is_/same_as :: [Tent.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.protect|Tent.protect]] 
 
-### #is_/same_as :: [Tent.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.private|Tent.private]] 
 
-### #is_/same_as :: [Tent.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.personal|Tent.personal]] 
 
-### #is_/same_as :: [Tent.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Tent.secret|Tent.secret]] 
 

@@ -137,17 +137,17 @@ date_of_death: 2019-05-24T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Murray_Gell-Mann](/_Standards/Science/Physics/Physicist/Murray_Gell-Mann.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Murray_Gell-Mann|Murray_Gell-Mann]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.public](/_public/Science/Physics/Physicist/Murray_Gell-Mann.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Murray_Gell-Mann.public|Murray_Gell-Mann.public]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.internal](/_internal/Science/Physics/Physicist/Murray_Gell-Mann.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Murray_Gell-Mann.internal|Murray_Gell-Mann.internal]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.protect](/_protect/Science/Physics/Physicist/Murray_Gell-Mann.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Murray_Gell-Mann.protect|Murray_Gell-Mann.protect]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.private](/_private/Science/Physics/Physicist/Murray_Gell-Mann.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Murray_Gell-Mann.private|Murray_Gell-Mann.private]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.personal](/_personal/Science/Physics/Physicist/Murray_Gell-Mann.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Murray_Gell-Mann.personal|Murray_Gell-Mann.personal]] 
 
-### #is_/same_as :: [Murray_Gell-Mann.secret](/_secret/Science/Physics/Physicist/Murray_Gell-Mann.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Murray_Gell-Mann.secret|Murray_Gell-Mann.secret]] 
 

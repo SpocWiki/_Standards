@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graviton](/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Graviton.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Gravity/Graviton|Graviton]] 
 
-### #is_/same_as :: [Graviton.public](/_public/Science/Physics/Fundamental_Interaction/Gravity/Graviton.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Gravity/Graviton.public|Graviton.public]] 
 
-### #is_/same_as :: [Graviton.internal](/_internal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.internal|Graviton.internal]] 
 
-### #is_/same_as :: [Graviton.protect](/_protect/Science/Physics/Fundamental_Interaction/Gravity/Graviton.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Gravity/Graviton.protect|Graviton.protect]] 
 
-### #is_/same_as :: [Graviton.private](/_private/Science/Physics/Fundamental_Interaction/Gravity/Graviton.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Gravity/Graviton.private|Graviton.private]] 
 
-### #is_/same_as :: [Graviton.personal](/_personal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Gravity/Graviton.personal|Graviton.personal]] 
 
-### #is_/same_as :: [Graviton.secret](/_secret/Science/Physics/Fundamental_Interaction/Gravity/Graviton.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Gravity/Graviton.secret|Graviton.secret]] 
 

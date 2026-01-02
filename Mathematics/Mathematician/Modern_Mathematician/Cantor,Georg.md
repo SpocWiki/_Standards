@@ -148,17 +148,17 @@ date_of_death: 1918-01-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cantor,Georg](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg|Cantor,Georg]] 
 
-### #is_/same_as :: [Cantor,Georg.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.public|Cantor,Georg.public]] 
 
-### #is_/same_as :: [Cantor,Georg.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.internal|Cantor,Georg.internal]] 
 
-### #is_/same_as :: [Cantor,Georg.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.protect|Cantor,Georg.protect]] 
 
-### #is_/same_as :: [Cantor,Georg.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.private|Cantor,Georg.private]] 
 
-### #is_/same_as :: [Cantor,Georg.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.personal|Cantor,Georg.personal]] 
 
-### #is_/same_as :: [Cantor,Georg.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Cantor,Georg.secret|Cantor,Georg.secret]] 
 

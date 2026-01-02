@@ -43,17 +43,17 @@ Entities that have a somewhat fixed, physical extension.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Place](/_Standards/Earth/Geography/Place.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place|Place]] 
 
-### #is_/same_as :: [Place.public](/_public/Earth/Geography/Place.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place.public|Place.public]] 
 
-### #is_/same_as :: [Place.internal](/_internal/Earth/Geography/Place.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place.internal|Place.internal]] 
 
-### #is_/same_as :: [Place.protect](/_protect/Earth/Geography/Place.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place.protect|Place.protect]] 
 
-### #is_/same_as :: [Place.private](/_private/Earth/Geography/Place.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place.private|Place.private]] 
 
-### #is_/same_as :: [Place.personal](/_personal/Earth/Geography/Place.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place.personal|Place.personal]] 
 
-### #is_/same_as :: [Place.secret](/_secret/Earth/Geography/Place.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place.secret|Place.secret]] 
 

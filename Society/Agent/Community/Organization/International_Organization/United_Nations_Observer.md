@@ -62,17 +62,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [United_Nations_Observer](/_Standards/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer|United_Nations_Observer]] 
 
-### #is_/same_as :: [United_Nations_Observer.public](/_public/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.public|United_Nations_Observer.public]] 
 
-### #is_/same_as :: [United_Nations_Observer.internal](/_internal/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.internal|United_Nations_Observer.internal]] 
 
-### #is_/same_as :: [United_Nations_Observer.protect](/_protect/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.protect|United_Nations_Observer.protect]] 
 
-### #is_/same_as :: [United_Nations_Observer.private](/_private/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.private|United_Nations_Observer.private]] 
 
-### #is_/same_as :: [United_Nations_Observer.personal](/_personal/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.personal|United_Nations_Observer.personal]] 
 
-### #is_/same_as :: [United_Nations_Observer.secret](/_secret/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/United_Nations_Observer.secret|United_Nations_Observer.secret]] 
 

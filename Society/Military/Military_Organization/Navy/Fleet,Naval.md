@@ -29,17 +29,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fleet,Naval](/_Standards/Society/Military/Military_Organization/Navy/Fleet,Naval.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Fleet,Naval|Fleet,Naval]] 
 
-### #is_/same_as :: [Fleet,Naval.public](/_public/Society/Military/Military_Organization/Navy/Fleet,Naval.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Fleet,Naval.public|Fleet,Naval.public]] 
 
-### #is_/same_as :: [Fleet,Naval.internal](/_internal/Society/Military/Military_Organization/Navy/Fleet,Naval.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Fleet,Naval.internal|Fleet,Naval.internal]] 
 
-### #is_/same_as :: [Fleet,Naval.protect](/_protect/Society/Military/Military_Organization/Navy/Fleet,Naval.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Fleet,Naval.protect|Fleet,Naval.protect]] 
 
-### #is_/same_as :: [Fleet,Naval.private](/_private/Society/Military/Military_Organization/Navy/Fleet,Naval.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Fleet,Naval.private|Fleet,Naval.private]] 
 
-### #is_/same_as :: [Fleet,Naval.personal](/_personal/Society/Military/Military_Organization/Navy/Fleet,Naval.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Fleet,Naval.personal|Fleet,Naval.personal]] 
 
-### #is_/same_as :: [Fleet,Naval.secret](/_secret/Society/Military/Military_Organization/Navy/Fleet,Naval.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Fleet,Naval.secret|Fleet,Naval.secret]] 
 

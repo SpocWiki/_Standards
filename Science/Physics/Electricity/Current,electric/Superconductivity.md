@@ -80,17 +80,17 @@ Dewey_Decimal_Classification: 537.623
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Superconductivity](/_Standards/Science/Physics/Electricity/Current,electric/Superconductivity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Current,electric/Superconductivity|Superconductivity]] 
 
-### #is_/same_as :: [Superconductivity.public](/_public/Science/Physics/Electricity/Current,electric/Superconductivity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Current,electric/Superconductivity.public|Superconductivity.public]] 
 
-### #is_/same_as :: [Superconductivity.internal](/_internal/Science/Physics/Electricity/Current,electric/Superconductivity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Current,electric/Superconductivity.internal|Superconductivity.internal]] 
 
-### #is_/same_as :: [Superconductivity.protect](/_protect/Science/Physics/Electricity/Current,electric/Superconductivity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Current,electric/Superconductivity.protect|Superconductivity.protect]] 
 
-### #is_/same_as :: [Superconductivity.private](/_private/Science/Physics/Electricity/Current,electric/Superconductivity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Current,electric/Superconductivity.private|Superconductivity.private]] 
 
-### #is_/same_as :: [Superconductivity.personal](/_personal/Science/Physics/Electricity/Current,electric/Superconductivity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Current,electric/Superconductivity.personal|Superconductivity.personal]] 
 
-### #is_/same_as :: [Superconductivity.secret](/_secret/Science/Physics/Electricity/Current,electric/Superconductivity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Current,electric/Superconductivity.secret|Superconductivity.secret]] 
 

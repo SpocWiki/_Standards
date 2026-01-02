@@ -44,17 +44,17 @@ Commons_category: Predation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Predation](/_Standards/bio/Metabolism/Predation.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Predation|Predation]] 
 
-### #is_/same_as :: [Predation.public](/_public/bio/Metabolism/Predation.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Predation.public|Predation.public]] 
 
-### #is_/same_as :: [Predation.internal](/_internal/bio/Metabolism/Predation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Predation.internal|Predation.internal]] 
 
-### #is_/same_as :: [Predation.protect](/_protect/bio/Metabolism/Predation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Predation.protect|Predation.protect]] 
 
-### #is_/same_as :: [Predation.private](/_private/bio/Metabolism/Predation.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Predation.private|Predation.private]] 
 
-### #is_/same_as :: [Predation.personal](/_personal/bio/Metabolism/Predation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Predation.personal|Predation.personal]] 
 
-### #is_/same_as :: [Predation.secret](/_secret/bio/Metabolism/Predation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Predation.secret|Predation.secret]] 
 

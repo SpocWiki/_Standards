@@ -36,17 +36,17 @@ Commons_category: Improvised explosive devices
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Improvised_explosive_Device](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device|Improvised_explosive_Device]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.public|Improvised_explosive_Device.public]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.internal|Improvised_explosive_Device.internal]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.protect|Improvised_explosive_Device.protect]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.private|Improvised_explosive_Device.private]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.personal|Improvised_explosive_Device.personal]] 
 
-### #is_/same_as :: [Improvised_explosive_Device.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Bomb/Improvised_explosive_Device.secret|Improvised_explosive_Device.secret]] 
 

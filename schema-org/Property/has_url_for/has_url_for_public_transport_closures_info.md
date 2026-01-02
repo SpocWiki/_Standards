@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info](/_Standards/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info|has_url_for_public_transport_closures_info]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.public](/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.public|has_url_for_public_transport_closures_info.public]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.internal](/_internal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.internal|has_url_for_public_transport_closures_info.internal]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.protect](/_protect/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.protect|has_url_for_public_transport_closures_info.protect]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.private](/_private/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.private|has_url_for_public_transport_closures_info.private]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.personal](/_personal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.personal|has_url_for_public_transport_closures_info.personal]] 
 
-### #is_/same_as :: [has_url_for_public_transport_closures_info.secret](/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_public_transport_closures_info.secret|has_url_for_public_transport_closures_info.secret]] 
 

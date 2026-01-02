@@ -208,17 +208,17 @@ ReturnShippingFeesAmount:: {"type":"MultiFile","options":{"dvQueryString":"dv.pa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy|FileClass~MerchantReturnPolicy]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.public|FileClass~MerchantReturnPolicy.public]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.internal|FileClass~MerchantReturnPolicy.internal]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.protect|FileClass~MerchantReturnPolicy.protect]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.private|FileClass~MerchantReturnPolicy.private]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.personal|FileClass~MerchantReturnPolicy.personal]] 
 
-### #is_/same_as :: [FileClass~MerchantReturnPolicy.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~MerchantReturnPolicy.secret|FileClass~MerchantReturnPolicy.secret]] 
 

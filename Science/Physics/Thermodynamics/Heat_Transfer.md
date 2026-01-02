@@ -75,17 +75,17 @@ Commons_category: Heat transfer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heat_Transfer](/_Standards/Science/Physics/Thermodynamics/Heat_Transfer.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Heat_Transfer|Heat_Transfer]] 
 
-### #is_/same_as :: [Heat_Transfer.public](/_public/Science/Physics/Thermodynamics/Heat_Transfer.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Heat_Transfer.public|Heat_Transfer.public]] 
 
-### #is_/same_as :: [Heat_Transfer.internal](/_internal/Science/Physics/Thermodynamics/Heat_Transfer.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Heat_Transfer.internal|Heat_Transfer.internal]] 
 
-### #is_/same_as :: [Heat_Transfer.protect](/_protect/Science/Physics/Thermodynamics/Heat_Transfer.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Heat_Transfer.protect|Heat_Transfer.protect]] 
 
-### #is_/same_as :: [Heat_Transfer.private](/_private/Science/Physics/Thermodynamics/Heat_Transfer.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Heat_Transfer.private|Heat_Transfer.private]] 
 
-### #is_/same_as :: [Heat_Transfer.personal](/_personal/Science/Physics/Thermodynamics/Heat_Transfer.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Heat_Transfer.personal|Heat_Transfer.personal]] 
 
-### #is_/same_as :: [Heat_Transfer.secret](/_secret/Science/Physics/Thermodynamics/Heat_Transfer.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Heat_Transfer.secret|Heat_Transfer.secret]] 
 

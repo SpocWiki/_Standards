@@ -173,17 +173,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/BREDBERI_RE_DUGLAS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bradbury,Ray](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray|Bradbury,Ray]] 
 
-### #is_/same_as :: [Bradbury,Ray.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.public|Bradbury,Ray.public]] 
 
-### #is_/same_as :: [Bradbury,Ray.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.internal|Bradbury,Ray.internal]] 
 
-### #is_/same_as :: [Bradbury,Ray.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.protect|Bradbury,Ray.protect]] 
 
-### #is_/same_as :: [Bradbury,Ray.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.private|Bradbury,Ray.private]] 
 
-### #is_/same_as :: [Bradbury,Ray.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.personal|Bradbury,Ray.personal]] 
 
-### #is_/same_as :: [Bradbury,Ray.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Bradbury,Ray.secret|Bradbury,Ray.secret]] 
 

@@ -24,17 +24,17 @@ The Author sad that he felt guilty to have survived both his sisters and for his
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nosaka,Akiyuki](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki|Nosaka,Akiyuki]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.public|Nosaka,Akiyuki.public]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.internal|Nosaka,Akiyuki.internal]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.protect|Nosaka,Akiyuki.protect]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.private|Nosaka,Akiyuki.private]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.personal|Nosaka,Akiyuki.personal]] 
 
-### #is_/same_as :: [Nosaka,Akiyuki.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Nosaka,Akiyuki.secret|Nosaka,Akiyuki.secret]] 
 

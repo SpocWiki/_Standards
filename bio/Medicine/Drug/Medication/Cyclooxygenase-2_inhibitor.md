@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor](/_Standards/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor|Cyclooxygenase-2_inhibitor]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.public](/_public/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.public|Cyclooxygenase-2_inhibitor.public]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.internal](/_internal/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.internal|Cyclooxygenase-2_inhibitor.internal]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.protect](/_protect/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.protect|Cyclooxygenase-2_inhibitor.protect]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.private](/_private/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.private|Cyclooxygenase-2_inhibitor.private]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.personal](/_personal/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.personal|Cyclooxygenase-2_inhibitor.personal]] 
 
-### #is_/same_as :: [Cyclooxygenase-2_inhibitor.secret](/_secret/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Medication/Cyclooxygenase-2_inhibitor.secret|Cyclooxygenase-2_inhibitor.secret]] 
 

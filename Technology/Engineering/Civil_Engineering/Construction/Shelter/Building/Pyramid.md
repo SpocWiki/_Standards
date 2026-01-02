@@ -63,17 +63,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_pyramid,133618
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyramid](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid|Pyramid]] 
 
-### #is_/same_as :: [Pyramid.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.public|Pyramid.public]] 
 
-### #is_/same_as :: [Pyramid.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.internal|Pyramid.internal]] 
 
-### #is_/same_as :: [Pyramid.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.protect|Pyramid.protect]] 
 
-### #is_/same_as :: [Pyramid.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.private|Pyramid.private]] 
 
-### #is_/same_as :: [Pyramid.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.personal|Pyramid.personal]] 
 
-### #is_/same_as :: [Pyramid.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid.secret|Pyramid.secret]] 
 

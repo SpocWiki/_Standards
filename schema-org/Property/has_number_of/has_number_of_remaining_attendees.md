@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_remaining_attendees](/_Standards/schema-org/Property/has_number_of/has_number_of_remaining_attendees.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_remaining_attendees|has_number_of_remaining_attendees]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.public](/_public/schema-org/Property/has_number_of/has_number_of_remaining_attendees.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_remaining_attendees.public|has_number_of_remaining_attendees.public]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.internal](/_internal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.internal|has_number_of_remaining_attendees.internal]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.protect](/_protect/schema-org/Property/has_number_of/has_number_of_remaining_attendees.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_remaining_attendees.protect|has_number_of_remaining_attendees.protect]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.private](/_private/schema-org/Property/has_number_of/has_number_of_remaining_attendees.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_remaining_attendees.private|has_number_of_remaining_attendees.private]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.personal](/_personal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_remaining_attendees.personal|has_number_of_remaining_attendees.personal]] 
 
-### #is_/same_as :: [has_number_of_remaining_attendees.secret](/_secret/schema-org/Property/has_number_of/has_number_of_remaining_attendees.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_remaining_attendees.secret|has_number_of_remaining_attendees.secret]] 
 

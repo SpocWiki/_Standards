@@ -72,17 +72,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/DelphinusCC.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Delphinus](/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Delphinus|Zodiac~Delphinus]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.public](/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Delphinus.public|Zodiac~Delphinus.public]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Delphinus.internal|Zodiac~Delphinus.internal]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Delphinus.protect|Zodiac~Delphinus.protect]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.private](/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Delphinus.private|Zodiac~Delphinus.private]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Delphinus.personal|Zodiac~Delphinus.personal]] 
 
-### #is_/same_as :: [Zodiac~Delphinus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Delphinus.secret|Zodiac~Delphinus.secret]] 
 

@@ -126,17 +126,17 @@ equivalent_class:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lawyer](/_Standards/Society/Law/Jurist/Lawyer.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Jurist/Lawyer|Lawyer]] 
 
-### #is_/same_as :: [Lawyer.public](/_public/Society/Law/Jurist/Lawyer.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Jurist/Lawyer.public|Lawyer.public]] 
 
-### #is_/same_as :: [Lawyer.internal](/_internal/Society/Law/Jurist/Lawyer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Jurist/Lawyer.internal|Lawyer.internal]] 
 
-### #is_/same_as :: [Lawyer.protect](/_protect/Society/Law/Jurist/Lawyer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Jurist/Lawyer.protect|Lawyer.protect]] 
 
-### #is_/same_as :: [Lawyer.private](/_private/Society/Law/Jurist/Lawyer.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Jurist/Lawyer.private|Lawyer.private]] 
 
-### #is_/same_as :: [Lawyer.personal](/_personal/Society/Law/Jurist/Lawyer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Jurist/Lawyer.personal|Lawyer.personal]] 
 
-### #is_/same_as :: [Lawyer.secret](/_secret/Society/Law/Jurist/Lawyer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Jurist/Lawyer.secret|Lawyer.secret]] 
 

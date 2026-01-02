@@ -91,17 +91,17 @@ Wolfram_Language_entity_code: Entity["River", "Mekong::3b95f"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mekong_River](/_Standards/Earth/Continent/Asia/Asia~South~East/Mekong_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Mekong_River|Mekong_River]] 
 
-### #is_/same_as :: [Mekong_River.public](/_public/Earth/Continent/Asia/Asia~South~East/Mekong_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Mekong_River.public|Mekong_River.public]] 
 
-### #is_/same_as :: [Mekong_River.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Mekong_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Mekong_River.internal|Mekong_River.internal]] 
 
-### #is_/same_as :: [Mekong_River.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Mekong_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Mekong_River.protect|Mekong_River.protect]] 
 
-### #is_/same_as :: [Mekong_River.private](/_private/Earth/Continent/Asia/Asia~South~East/Mekong_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Mekong_River.private|Mekong_River.private]] 
 
-### #is_/same_as :: [Mekong_River.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Mekong_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Mekong_River.personal|Mekong_River.personal]] 
 
-### #is_/same_as :: [Mekong_River.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Mekong_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Mekong_River.secret|Mekong_River.secret]] 
 

@@ -40,17 +40,17 @@ has_id_wikidata: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chimera](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera|Chimera]] 
 
-### #is_/same_as :: [Chimera.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.public|Chimera.public]] 
 
-### #is_/same_as :: [Chimera.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.internal|Chimera.internal]] 
 
-### #is_/same_as :: [Chimera.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.protect|Chimera.protect]] 
 
-### #is_/same_as :: [Chimera.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.private|Chimera.private]] 
 
-### #is_/same_as :: [Chimera.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.personal|Chimera.personal]] 
 
-### #is_/same_as :: [Chimera.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Chimera.secret|Chimera.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_received](/_Standards/schema-org/Property/has_Date_Time/has_time_received.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_received|has_time_received]] 
 
-### #is_/same_as :: [has_time_received.public](/_public/schema-org/Property/has_Date_Time/has_time_received.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_received.public|has_time_received.public]] 
 
-### #is_/same_as :: [has_time_received.internal](/_internal/schema-org/Property/has_Date_Time/has_time_received.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_received.internal|has_time_received.internal]] 
 
-### #is_/same_as :: [has_time_received.protect](/_protect/schema-org/Property/has_Date_Time/has_time_received.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_received.protect|has_time_received.protect]] 
 
-### #is_/same_as :: [has_time_received.private](/_private/schema-org/Property/has_Date_Time/has_time_received.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_received.private|has_time_received.private]] 
 
-### #is_/same_as :: [has_time_received.personal](/_personal/schema-org/Property/has_Date_Time/has_time_received.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_received.personal|has_time_received.personal]] 
 
-### #is_/same_as :: [has_time_received.secret](/_secret/schema-org/Property/has_Date_Time/has_time_received.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_received.secret|has_time_received.secret]] 
 

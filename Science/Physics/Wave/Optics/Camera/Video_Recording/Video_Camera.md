@@ -47,17 +47,17 @@ IMDb_keyword: video-camera
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Camera](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera|Video_Camera]] 
 
-### #is_/same_as :: [Video_Camera.public](/_public/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.public|Video_Camera.public]] 
 
-### #is_/same_as :: [Video_Camera.internal](/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.internal|Video_Camera.internal]] 
 
-### #is_/same_as :: [Video_Camera.protect](/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.protect|Video_Camera.protect]] 
 
-### #is_/same_as :: [Video_Camera.private](/_private/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.private|Video_Camera.private]] 
 
-### #is_/same_as :: [Video_Camera.personal](/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.personal|Video_Camera.personal]] 
 
-### #is_/same_as :: [Video_Camera.secret](/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording/Video_Camera.secret|Video_Camera.secret]] 
 

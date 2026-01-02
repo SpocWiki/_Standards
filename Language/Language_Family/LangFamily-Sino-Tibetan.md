@@ -61,17 +61,17 @@ WALS_family_code: sinotibetan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan|LangFamily-Sino-Tibetan]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan.public|LangFamily-Sino-Tibetan.public]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan.internal|LangFamily-Sino-Tibetan.internal]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan.protect|LangFamily-Sino-Tibetan.protect]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan.private|LangFamily-Sino-Tibetan.private]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan.personal|LangFamily-Sino-Tibetan.personal]] 
 
-### #is_/same_as :: [LangFamily-Sino-Tibetan.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan.secret|LangFamily-Sino-Tibetan.secret]] 
 

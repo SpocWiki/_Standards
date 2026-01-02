@@ -91,17 +91,17 @@ Gujarati_Vishwakosh_entry: ભારે-પાણી-ડ્યૂટેરિય
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heavy_Water](/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water|Heavy_Water]] 
 
-### #is_/same_as :: [Heavy_Water.public](/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public|Heavy_Water.public]] 
 
-### #is_/same_as :: [Heavy_Water.internal](/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal|Heavy_Water.internal]] 
 
-### #is_/same_as :: [Heavy_Water.protect](/_protect/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.protect|Heavy_Water.protect]] 
 
-### #is_/same_as :: [Heavy_Water.private](/_private/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.private|Heavy_Water.private]] 
 
-### #is_/same_as :: [Heavy_Water.personal](/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal|Heavy_Water.personal]] 
 
-### #is_/same_as :: [Heavy_Water.secret](/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret|Heavy_Water.secret]] 
 

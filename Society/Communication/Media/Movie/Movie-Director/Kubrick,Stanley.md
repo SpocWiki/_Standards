@@ -188,17 +188,17 @@ work_period_start_: 1951
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kubrick,Stanley](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley|Kubrick,Stanley]] 
 
-### #is_/same_as :: [Kubrick,Stanley.public](/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.public|Kubrick,Stanley.public]] 
 
-### #is_/same_as :: [Kubrick,Stanley.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.internal|Kubrick,Stanley.internal]] 
 
-### #is_/same_as :: [Kubrick,Stanley.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.protect|Kubrick,Stanley.protect]] 
 
-### #is_/same_as :: [Kubrick,Stanley.private](/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.private|Kubrick,Stanley.private]] 
 
-### #is_/same_as :: [Kubrick,Stanley.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.personal|Kubrick,Stanley.personal]] 
 
-### #is_/same_as :: [Kubrick,Stanley.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley.secret|Kubrick,Stanley.secret]] 
 

@@ -34,17 +34,17 @@ It has strong autobiographical streaks of Scott Neustadter
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [500_Days_of_Summer](/_Standards/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer|500_Days_of_Summer]] 
 
-### #is_/same_as :: [500_Days_of_Summer.public](/_public/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.public|500_Days_of_Summer.public]] 
 
-### #is_/same_as :: [500_Days_of_Summer.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.internal|500_Days_of_Summer.internal]] 
 
-### #is_/same_as :: [500_Days_of_Summer.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.protect|500_Days_of_Summer.protect]] 
 
-### #is_/same_as :: [500_Days_of_Summer.private](/_private/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.private|500_Days_of_Summer.private]] 
 
-### #is_/same_as :: [500_Days_of_Summer.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.personal|500_Days_of_Summer.personal]] 
 
-### #is_/same_as :: [500_Days_of_Summer.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/500_Days_of_Summer.secret|500_Days_of_Summer.secret]] 
 

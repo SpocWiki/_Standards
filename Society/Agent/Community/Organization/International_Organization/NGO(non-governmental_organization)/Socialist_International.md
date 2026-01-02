@@ -60,17 +60,17 @@ native_label: Socialist International
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Socialist_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International|Socialist_International]] 
 
-### #is_/same_as :: [Socialist_International.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.public|Socialist_International.public]] 
 
-### #is_/same_as :: [Socialist_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.internal|Socialist_International.internal]] 
 
-### #is_/same_as :: [Socialist_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.protect|Socialist_International.protect]] 
 
-### #is_/same_as :: [Socialist_International.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.private|Socialist_International.private]] 
 
-### #is_/same_as :: [Socialist_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.personal|Socialist_International.personal]] 
 
-### #is_/same_as :: [Socialist_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Socialist_International.secret|Socialist_International.secret]] 
 

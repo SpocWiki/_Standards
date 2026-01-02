@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_math_expression](/_Standards/schema-org/Relation/has/has_math_expression.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_math_expression|has_math_expression]] 
 
-### #is_/same_as :: [has_math_expression.public](/_public/schema-org/Relation/has/has_math_expression.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_math_expression.public|has_math_expression.public]] 
 
-### #is_/same_as :: [has_math_expression.internal](/_internal/schema-org/Relation/has/has_math_expression.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_math_expression.internal|has_math_expression.internal]] 
 
-### #is_/same_as :: [has_math_expression.protect](/_protect/schema-org/Relation/has/has_math_expression.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_math_expression.protect|has_math_expression.protect]] 
 
-### #is_/same_as :: [has_math_expression.private](/_private/schema-org/Relation/has/has_math_expression.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_math_expression.private|has_math_expression.private]] 
 
-### #is_/same_as :: [has_math_expression.personal](/_personal/schema-org/Relation/has/has_math_expression.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_math_expression.personal|has_math_expression.personal]] 
 
-### #is_/same_as :: [has_math_expression.secret](/_secret/schema-org/Relation/has/has_math_expression.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_math_expression.secret|has_math_expression.secret]] 
 

@@ -40,17 +40,17 @@ Commons_category: Religious denominations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Religious_Denomination](/_Standards/Philosophy/Metaphysic/Religion/Religious_Denomination.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Religious_Denomination|Religious_Denomination]] 
 
-### #is_/same_as :: [Religious_Denomination.public](/_public/Philosophy/Metaphysic/Religion/Religious_Denomination.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Religious_Denomination.public|Religious_Denomination.public]] 
 
-### #is_/same_as :: [Religious_Denomination.internal](/_internal/Philosophy/Metaphysic/Religion/Religious_Denomination.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Religious_Denomination.internal|Religious_Denomination.internal]] 
 
-### #is_/same_as :: [Religious_Denomination.protect](/_protect/Philosophy/Metaphysic/Religion/Religious_Denomination.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Religious_Denomination.protect|Religious_Denomination.protect]] 
 
-### #is_/same_as :: [Religious_Denomination.private](/_private/Philosophy/Metaphysic/Religion/Religious_Denomination.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Religious_Denomination.private|Religious_Denomination.private]] 
 
-### #is_/same_as :: [Religious_Denomination.personal](/_personal/Philosophy/Metaphysic/Religion/Religious_Denomination.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Religious_Denomination.personal|Religious_Denomination.personal]] 
 
-### #is_/same_as :: [Religious_Denomination.secret](/_secret/Philosophy/Metaphysic/Religion/Religious_Denomination.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Religious_Denomination.secret|Religious_Denomination.secret]] 
 

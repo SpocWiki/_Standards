@@ -125,17 +125,17 @@ Instagram_username: zidane
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zidane,Zinedine](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine|Zidane,Zinedine]] 
 
-### #is_/same_as :: [Zidane,Zinedine.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.public|Zidane,Zinedine.public]] 
 
-### #is_/same_as :: [Zidane,Zinedine.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.internal|Zidane,Zinedine.internal]] 
 
-### #is_/same_as :: [Zidane,Zinedine.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.protect|Zidane,Zinedine.protect]] 
 
-### #is_/same_as :: [Zidane,Zinedine.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.private|Zidane,Zinedine.private]] 
 
-### #is_/same_as :: [Zidane,Zinedine.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.personal|Zidane,Zinedine.personal]] 
 
-### #is_/same_as :: [Zidane,Zinedine.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Zidane,Zinedine.secret|Zidane,Zinedine.secret]] 
 

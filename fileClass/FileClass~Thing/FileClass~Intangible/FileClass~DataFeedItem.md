@@ -84,17 +84,17 @@ Item:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing')"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DataFeedItem](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem|FileClass~DataFeedItem]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.public|FileClass~DataFeedItem.public]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.internal|FileClass~DataFeedItem.internal]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.protect|FileClass~DataFeedItem.protect]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.private|FileClass~DataFeedItem.private]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.personal|FileClass~DataFeedItem.personal]] 
 
-### #is_/same_as :: [FileClass~DataFeedItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DataFeedItem.secret|FileClass~DataFeedItem.secret]] 
 

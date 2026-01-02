@@ -37,17 +37,17 @@ An [[../../../../Society/Communication/Media/Creative_Work/Article]] that an ext
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle|FileClass~AdvertiserContentArticle]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.public|FileClass~AdvertiserContentArticle.public]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.internal|FileClass~AdvertiserContentArticle.internal]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.protect|FileClass~AdvertiserContentArticle.protect]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.private|FileClass~AdvertiserContentArticle.private]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.personal|FileClass~AdvertiserContentArticle.personal]] 
 
-### #is_/same_as :: [FileClass~AdvertiserContentArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~AdvertiserContentArticle.secret|FileClass~AdvertiserContentArticle.secret]] 
 

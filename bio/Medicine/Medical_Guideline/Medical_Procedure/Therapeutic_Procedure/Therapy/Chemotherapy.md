@@ -62,17 +62,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Chemotherapy::3p27j"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chemotherapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy|Chemotherapy]] 
 
-### #is_/same_as :: [Chemotherapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.public|Chemotherapy.public]] 
 
-### #is_/same_as :: [Chemotherapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.internal|Chemotherapy.internal]] 
 
-### #is_/same_as :: [Chemotherapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.protect|Chemotherapy.protect]] 
 
-### #is_/same_as :: [Chemotherapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.private|Chemotherapy.private]] 
 
-### #is_/same_as :: [Chemotherapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.personal|Chemotherapy.personal]] 
 
-### #is_/same_as :: [Chemotherapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Chemotherapy.secret|Chemotherapy.secret]] 
 

@@ -94,17 +94,17 @@ IPTC_NewsCode: mediatopic/20000229
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Security](/_Standards/Technology/IT/Computer_Security.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Security|Computer_Security]] 
 
-### #is_/same_as :: [Computer_Security.public](/_public/Technology/IT/Computer_Security.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Security.public|Computer_Security.public]] 
 
-### #is_/same_as :: [Computer_Security.internal](/_internal/Technology/IT/Computer_Security.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Security.internal|Computer_Security.internal]] 
 
-### #is_/same_as :: [Computer_Security.protect](/_protect/Technology/IT/Computer_Security.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Security.protect|Computer_Security.protect]] 
 
-### #is_/same_as :: [Computer_Security.private](/_private/Technology/IT/Computer_Security.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Security.private|Computer_Security.private]] 
 
-### #is_/same_as :: [Computer_Security.personal](/_personal/Technology/IT/Computer_Security.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Security.personal|Computer_Security.personal]] 
 
-### #is_/same_as :: [Computer_Security.secret](/_secret/Technology/IT/Computer_Security.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Security.secret|Computer_Security.secret]] 
 

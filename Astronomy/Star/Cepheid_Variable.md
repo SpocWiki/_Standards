@@ -59,17 +59,17 @@ The name derives from the fact that most Stars in the [[../../Star~Constellation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cepheid_Variable](/_Standards/Astronomy/Star/Cepheid_Variable.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Cepheid_Variable|Cepheid_Variable]] 
 
-### #is_/same_as :: [Cepheid_Variable.public](/_public/Astronomy/Star/Cepheid_Variable.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Cepheid_Variable.public|Cepheid_Variable.public]] 
 
-### #is_/same_as :: [Cepheid_Variable.internal](/_internal/Astronomy/Star/Cepheid_Variable.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Cepheid_Variable.internal|Cepheid_Variable.internal]] 
 
-### #is_/same_as :: [Cepheid_Variable.protect](/_protect/Astronomy/Star/Cepheid_Variable.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Cepheid_Variable.protect|Cepheid_Variable.protect]] 
 
-### #is_/same_as :: [Cepheid_Variable.private](/_private/Astronomy/Star/Cepheid_Variable.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Cepheid_Variable.private|Cepheid_Variable.private]] 
 
-### #is_/same_as :: [Cepheid_Variable.personal](/_personal/Astronomy/Star/Cepheid_Variable.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Cepheid_Variable.personal|Cepheid_Variable.personal]] 
 
-### #is_/same_as :: [Cepheid_Variable.secret](/_secret/Astronomy/Star/Cepheid_Variable.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Cepheid_Variable.secret|Cepheid_Variable.secret]] 
 

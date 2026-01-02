@@ -84,17 +84,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Egg_as_Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Egg(Food)|Egg(Food)]] 
 
-### #is_/same_as :: [Egg_as_Food.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).public|Egg(Food).public]] 
 
-### #is_/same_as :: [Egg_as_Food.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).internal|Egg(Food).internal]] 
 
-### #is_/same_as :: [Egg_as_Food.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).protect|Egg(Food).protect]] 
 
-### #is_/same_as :: [Egg_as_Food.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).private|Egg(Food).private]] 
 
-### #is_/same_as :: [Egg_as_Food.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).personal|Egg(Food).personal]] 
 
-### #is_/same_as :: [Egg_as_Food.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Egg_as_Food.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Egg(Food).secret|Egg(Food).secret]] 
 

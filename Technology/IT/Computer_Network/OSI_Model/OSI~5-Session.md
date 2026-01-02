@@ -30,17 +30,17 @@ official_website: https://www.iso.org/ics/35.100.50/x/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~5-Session](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session|OSI~5-Session]] 
 
-### #is_/same_as :: [OSI~5-Session.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.public|OSI~5-Session.public]] 
 
-### #is_/same_as :: [OSI~5-Session.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.internal|OSI~5-Session.internal]] 
 
-### #is_/same_as :: [OSI~5-Session.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.protect|OSI~5-Session.protect]] 
 
-### #is_/same_as :: [OSI~5-Session.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.private|OSI~5-Session.private]] 
 
-### #is_/same_as :: [OSI~5-Session.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.personal|OSI~5-Session.personal]] 
 
-### #is_/same_as :: [OSI~5-Session.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~5-Session.secret|OSI~5-Session.secret]] 
 

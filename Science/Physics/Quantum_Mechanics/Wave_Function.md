@@ -53,17 +53,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/QuantumHarmonicOscilla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wave_Function](/_Standards/Science/Physics/Quantum_Mechanics/Wave_Function.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Wave_Function|Wave_Function]] 
 
-### #is_/same_as :: [Wave_Function.public](/_public/Science/Physics/Quantum_Mechanics/Wave_Function.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Wave_Function.public|Wave_Function.public]] 
 
-### #is_/same_as :: [Wave_Function.internal](/_internal/Science/Physics/Quantum_Mechanics/Wave_Function.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Wave_Function.internal|Wave_Function.internal]] 
 
-### #is_/same_as :: [Wave_Function.protect](/_protect/Science/Physics/Quantum_Mechanics/Wave_Function.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Wave_Function.protect|Wave_Function.protect]] 
 
-### #is_/same_as :: [Wave_Function.private](/_private/Science/Physics/Quantum_Mechanics/Wave_Function.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Wave_Function.private|Wave_Function.private]] 
 
-### #is_/same_as :: [Wave_Function.personal](/_personal/Science/Physics/Quantum_Mechanics/Wave_Function.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Wave_Function.personal|Wave_Function.personal]] 
 
-### #is_/same_as :: [Wave_Function.secret](/_secret/Science/Physics/Quantum_Mechanics/Wave_Function.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Wave_Function.secret|Wave_Function.secret]] 
 

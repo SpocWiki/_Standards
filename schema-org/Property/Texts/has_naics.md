@@ -42,17 +42,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_naics](/_Standards/schema-org/Property/Texts/has_naics.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_naics|has_naics]] 
 
-### #is_/same_as :: [has_naics.public](/_public/schema-org/Property/Texts/has_naics.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_naics.public|has_naics.public]] 
 
-### #is_/same_as :: [has_naics.internal](/_internal/schema-org/Property/Texts/has_naics.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_naics.internal|has_naics.internal]] 
 
-### #is_/same_as :: [has_naics.protect](/_protect/schema-org/Property/Texts/has_naics.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_naics.protect|has_naics.protect]] 
 
-### #is_/same_as :: [has_naics.private](/_private/schema-org/Property/Texts/has_naics.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_naics.private|has_naics.private]] 
 
-### #is_/same_as :: [has_naics.personal](/_personal/schema-org/Property/Texts/has_naics.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_naics.personal|has_naics.personal]] 
 
-### #is_/same_as :: [has_naics.secret](/_secret/schema-org/Property/Texts/has_naics.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_naics.secret|has_naics.secret]] 
 

@@ -54,17 +54,17 @@ IPTC_NewsCode: mediatopic/20000444
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Invasive_Species](/_Standards/bio/Ecology/Ecosystem/Invasive_Species.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Invasive_Species|Invasive_Species]] 
 
-### #is_/same_as :: [Invasive_Species.public](/_public/bio/Ecology/Ecosystem/Invasive_Species.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Invasive_Species.public|Invasive_Species.public]] 
 
-### #is_/same_as :: [Invasive_Species.internal](/_internal/bio/Ecology/Ecosystem/Invasive_Species.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Invasive_Species.internal|Invasive_Species.internal]] 
 
-### #is_/same_as :: [Invasive_Species.protect](/_protect/bio/Ecology/Ecosystem/Invasive_Species.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Invasive_Species.protect|Invasive_Species.protect]] 
 
-### #is_/same_as :: [Invasive_Species.private](/_private/bio/Ecology/Ecosystem/Invasive_Species.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Invasive_Species.private|Invasive_Species.private]] 
 
-### #is_/same_as :: [Invasive_Species.personal](/_personal/bio/Ecology/Ecosystem/Invasive_Species.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Invasive_Species.personal|Invasive_Species.personal]] 
 
-### #is_/same_as :: [Invasive_Species.secret](/_secret/bio/Ecology/Ecosystem/Invasive_Species.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Invasive_Species.secret|Invasive_Species.secret]] 
 

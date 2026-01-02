@@ -87,17 +87,17 @@ soil. Archiv für Protistenkunde 116:254-269.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [a.proboscidea](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea|a.proboscidea]] 
 
-### #is_/same_as :: [a.proboscidea.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.public|a.proboscidea.public]] 
 
-### #is_/same_as :: [a.proboscidea.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.internal|a.proboscidea.internal]] 
 
-### #is_/same_as :: [a.proboscidea.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.protect|a.proboscidea.protect]] 
 
-### #is_/same_as :: [a.proboscidea.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.private|a.proboscidea.private]] 
 
-### #is_/same_as :: [a.proboscidea.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.personal|a.proboscidea.personal]] 
 
-### #is_/same_as :: [a.proboscidea.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/a.proboscidea.secret|a.proboscidea.secret]] 
 

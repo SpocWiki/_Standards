@@ -41,17 +41,17 @@ The place where a person lives.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Residence](/_Standards/Earth/Geography/Place/Residence.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Residence|Residence]] 
 
-### #is_/same_as :: [Residence.public](/_public/Earth/Geography/Place/Residence.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Residence.public|Residence.public]] 
 
-### #is_/same_as :: [Residence.internal](/_internal/Earth/Geography/Place/Residence.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Residence.internal|Residence.internal]] 
 
-### #is_/same_as :: [Residence.protect](/_protect/Earth/Geography/Place/Residence.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Residence.protect|Residence.protect]] 
 
-### #is_/same_as :: [Residence.private](/_private/Earth/Geography/Place/Residence.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Residence.private|Residence.private]] 
 
-### #is_/same_as :: [Residence.personal](/_personal/Earth/Geography/Place/Residence.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Residence.personal|Residence.personal]] 
 
-### #is_/same_as :: [Residence.secret](/_secret/Earth/Geography/Place/Residence.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Residence.secret|Residence.secret]] 
 

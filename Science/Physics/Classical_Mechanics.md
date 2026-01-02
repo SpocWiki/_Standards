@@ -60,17 +60,17 @@ topic_s_main_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Classical_Mechanics](/_Standards/Science/Physics/Classical_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics|Classical_Mechanics]] 
 
-### #is_/same_as :: [Classical_Mechanics.public](/_public/Science/Physics/Classical_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics.public|Classical_Mechanics.public]] 
 
-### #is_/same_as :: [Classical_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics.internal|Classical_Mechanics.internal]] 
 
-### #is_/same_as :: [Classical_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics.protect|Classical_Mechanics.protect]] 
 
-### #is_/same_as :: [Classical_Mechanics.private](/_private/Science/Physics/Classical_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics.private|Classical_Mechanics.private]] 
 
-### #is_/same_as :: [Classical_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics.personal|Classical_Mechanics.personal]] 
 
-### #is_/same_as :: [Classical_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics.secret|Classical_Mechanics.secret]] 
 

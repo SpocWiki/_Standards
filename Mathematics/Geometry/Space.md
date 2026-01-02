@@ -57,17 +57,17 @@ Colon_Classification: CRT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space](/_Standards/Mathematics/Geometry/Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Space|Space]] 
 
-### #is_/same_as :: [Space.public](/_public/Mathematics/Geometry/Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Space.public|Space.public]] 
 
-### #is_/same_as :: [Space.internal](/_internal/Mathematics/Geometry/Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Space.internal|Space.internal]] 
 
-### #is_/same_as :: [Space.protect](/_protect/Mathematics/Geometry/Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Space.protect|Space.protect]] 
 
-### #is_/same_as :: [Space.private](/_private/Mathematics/Geometry/Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Space.private|Space.private]] 
 
-### #is_/same_as :: [Space.personal](/_personal/Mathematics/Geometry/Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Space.personal|Space.personal]] 
 
-### #is_/same_as :: [Space.secret](/_secret/Mathematics/Geometry/Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Space.secret|Space.secret]] 
 

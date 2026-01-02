@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Political_Science](/_Standards/Society/Anthropology/Sociology/Political_Science.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Political_Science|Political_Science]] 
 
-### #is_/same_as :: [Political_Science.public](/_public/Society/Anthropology/Sociology/Political_Science.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Political_Science.public|Political_Science.public]] 
 
-### #is_/same_as :: [Political_Science.internal](/_internal/Society/Anthropology/Sociology/Political_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Political_Science.internal|Political_Science.internal]] 
 
-### #is_/same_as :: [Political_Science.protect](/_protect/Society/Anthropology/Sociology/Political_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Political_Science.protect|Political_Science.protect]] 
 
-### #is_/same_as :: [Political_Science.private](/_private/Society/Anthropology/Sociology/Political_Science.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Political_Science.private|Political_Science.private]] 
 
-### #is_/same_as :: [Political_Science.personal](/_personal/Society/Anthropology/Sociology/Political_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Political_Science.personal|Political_Science.personal]] 
 
-### #is_/same_as :: [Political_Science.secret](/_secret/Society/Anthropology/Sociology/Political_Science.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Political_Science.secret|Political_Science.secret]] 
 

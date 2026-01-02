@@ -40,17 +40,17 @@ A specific branch of medical science that pertains to the study of the respirato
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pulmonary](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary|Pulmonary]] 
 
-### #is_/same_as :: [Pulmonary.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.public|Pulmonary.public]] 
 
-### #is_/same_as :: [Pulmonary.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.internal|Pulmonary.internal]] 
 
-### #is_/same_as :: [Pulmonary.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.protect|Pulmonary.protect]] 
 
-### #is_/same_as :: [Pulmonary.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.private|Pulmonary.private]] 
 
-### #is_/same_as :: [Pulmonary.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.personal|Pulmonary.personal]] 
 
-### #is_/same_as :: [Pulmonary.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonary.secret|Pulmonary.secret]] 
 

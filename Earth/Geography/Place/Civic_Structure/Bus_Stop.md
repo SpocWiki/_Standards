@@ -41,17 +41,17 @@ A bus stop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bus_Stop](/_Standards/Earth/Geography/Place/Civic_Structure/Bus_Stop.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Bus_Stop|Bus_Stop]] 
 
-### #is_/same_as :: [Bus_Stop.public](/_public/Earth/Geography/Place/Civic_Structure/Bus_Stop.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Bus_Stop.public|Bus_Stop.public]] 
 
-### #is_/same_as :: [Bus_Stop.internal](/_internal/Earth/Geography/Place/Civic_Structure/Bus_Stop.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Bus_Stop.internal|Bus_Stop.internal]] 
 
-### #is_/same_as :: [Bus_Stop.protect](/_protect/Earth/Geography/Place/Civic_Structure/Bus_Stop.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Bus_Stop.protect|Bus_Stop.protect]] 
 
-### #is_/same_as :: [Bus_Stop.private](/_private/Earth/Geography/Place/Civic_Structure/Bus_Stop.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Bus_Stop.private|Bus_Stop.private]] 
 
-### #is_/same_as :: [Bus_Stop.personal](/_personal/Earth/Geography/Place/Civic_Structure/Bus_Stop.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Bus_Stop.personal|Bus_Stop.personal]] 
 
-### #is_/same_as :: [Bus_Stop.secret](/_secret/Earth/Geography/Place/Civic_Structure/Bus_Stop.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Bus_Stop.secret|Bus_Stop.secret]] 
 

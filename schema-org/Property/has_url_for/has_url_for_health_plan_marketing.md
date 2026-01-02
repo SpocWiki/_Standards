@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing](/_Standards/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_health_plan_marketing|has_url_for_health_plan_marketing]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.public](/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.public|has_url_for_health_plan_marketing.public]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.internal](/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.internal|has_url_for_health_plan_marketing.internal]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.protect](/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.protect|has_url_for_health_plan_marketing.protect]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.private](/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.private|has_url_for_health_plan_marketing.private]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.personal](/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.personal|has_url_for_health_plan_marketing.personal]] 
 
-### #is_/same_as :: [has_url_for_health_plan_marketing.secret](/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_health_plan_marketing.secret|has_url_for_health_plan_marketing.secret]] 
 

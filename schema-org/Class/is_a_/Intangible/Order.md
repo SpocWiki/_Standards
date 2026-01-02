@@ -41,17 +41,17 @@ An order is a confirmation of a transaction (a receipt), which can contain multi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order](/_Standards/schema-org/Class/is_a_/Intangible/Order.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Order|Order]] 
 
-### #is_/same_as :: [Order.public](/_public/schema-org/Class/is_a_/Intangible/Order.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Order.public|Order.public]] 
 
-### #is_/same_as :: [Order.internal](/_internal/schema-org/Class/is_a_/Intangible/Order.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Order.internal|Order.internal]] 
 
-### #is_/same_as :: [Order.protect](/_protect/schema-org/Class/is_a_/Intangible/Order.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Order.protect|Order.protect]] 
 
-### #is_/same_as :: [Order.private](/_private/schema-org/Class/is_a_/Intangible/Order.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Order.private|Order.private]] 
 
-### #is_/same_as :: [Order.personal](/_personal/schema-org/Class/is_a_/Intangible/Order.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Order.personal|Order.personal]] 
 
-### #is_/same_as :: [Order.secret](/_secret/schema-org/Class/is_a_/Intangible/Order.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Order.secret|Order.secret]] 
 

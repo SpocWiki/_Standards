@@ -48,17 +48,17 @@ taxon_common_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theobroma](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma|Theobroma]] 
 
-### #is_/same_as :: [Theobroma.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.public|Theobroma.public]] 
 
-### #is_/same_as :: [Theobroma.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.internal|Theobroma.internal]] 
 
-### #is_/same_as :: [Theobroma.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.protect|Theobroma.protect]] 
 
-### #is_/same_as :: [Theobroma.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.private|Theobroma.private]] 
 
-### #is_/same_as :: [Theobroma.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.personal|Theobroma.personal]] 
 
-### #is_/same_as :: [Theobroma.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Malvales/Malvaceae/Byttnerioideae/Theobromateae/Theobroma.secret|Theobroma.secret]] 
 

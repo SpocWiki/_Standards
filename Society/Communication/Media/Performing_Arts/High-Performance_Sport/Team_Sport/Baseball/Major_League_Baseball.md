@@ -110,17 +110,17 @@ Reddit_username: mlbofficial
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Major_League_Baseball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball|Major_League_Baseball]] 
 
-### #is_/same_as :: [Major_League_Baseball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.public|Major_League_Baseball.public]] 
 
-### #is_/same_as :: [Major_League_Baseball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.internal|Major_League_Baseball.internal]] 
 
-### #is_/same_as :: [Major_League_Baseball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.protect|Major_League_Baseball.protect]] 
 
-### #is_/same_as :: [Major_League_Baseball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.private|Major_League_Baseball.private]] 
 
-### #is_/same_as :: [Major_League_Baseball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.personal|Major_League_Baseball.personal]] 
 
-### #is_/same_as :: [Major_League_Baseball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Baseball/Major_League_Baseball.secret|Major_League_Baseball.secret]] 
 

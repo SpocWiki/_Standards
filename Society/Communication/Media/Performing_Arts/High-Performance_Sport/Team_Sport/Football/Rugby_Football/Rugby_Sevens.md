@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rugby_Sevens](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens|Rugby_Sevens]] 
 
-### #is_/same_as :: [Rugby_Sevens.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.public|Rugby_Sevens.public]] 
 
-### #is_/same_as :: [Rugby_Sevens.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.internal|Rugby_Sevens.internal]] 
 
-### #is_/same_as :: [Rugby_Sevens.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.protect|Rugby_Sevens.protect]] 
 
-### #is_/same_as :: [Rugby_Sevens.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.private|Rugby_Sevens.private]] 
 
-### #is_/same_as :: [Rugby_Sevens.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.personal|Rugby_Sevens.personal]] 
 
-### #is_/same_as :: [Rugby_Sevens.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Rugby_Football/Rugby_Sevens.secret|Rugby_Sevens.secret]] 
 

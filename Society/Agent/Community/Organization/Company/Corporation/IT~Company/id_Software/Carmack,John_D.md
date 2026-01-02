@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carmack,John_D](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D|Carmack,John_D]] 
 
-### #is_/same_as :: [Carmack,John_D.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.public|Carmack,John_D.public]] 
 
-### #is_/same_as :: [Carmack,John_D.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.internal|Carmack,John_D.internal]] 
 
-### #is_/same_as :: [Carmack,John_D.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.protect|Carmack,John_D.protect]] 
 
-### #is_/same_as :: [Carmack,John_D.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.private|Carmack,John_D.private]] 
 
-### #is_/same_as :: [Carmack,John_D.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.personal|Carmack,John_D.personal]] 
 
-### #is_/same_as :: [Carmack,John_D.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/id_Software/Carmack,John_D.secret|Carmack,John_D.secret]] 
 

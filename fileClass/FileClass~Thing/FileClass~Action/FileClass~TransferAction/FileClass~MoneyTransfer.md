@@ -58,17 +58,17 @@ BeneficiaryBank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#cla
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MoneyTransfer](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer|FileClass~MoneyTransfer]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.public|FileClass~MoneyTransfer.public]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.internal|FileClass~MoneyTransfer.internal]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.protect|FileClass~MoneyTransfer.protect]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.private|FileClass~MoneyTransfer.private]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.personal|FileClass~MoneyTransfer.personal]] 
 
-### #is_/same_as :: [FileClass~MoneyTransfer.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~MoneyTransfer.secret|FileClass~MoneyTransfer.secret]] 
 

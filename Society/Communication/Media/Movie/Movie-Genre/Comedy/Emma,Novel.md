@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emma,Novel](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel|Emma,Novel]] 
 
-### #is_/same_as :: [Emma,Novel.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.public|Emma,Novel.public]] 
 
-### #is_/same_as :: [Emma,Novel.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.internal|Emma,Novel.internal]] 
 
-### #is_/same_as :: [Emma,Novel.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.protect|Emma,Novel.protect]] 
 
-### #is_/same_as :: [Emma,Novel.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.private|Emma,Novel.private]] 
 
-### #is_/same_as :: [Emma,Novel.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.personal|Emma,Novel.personal]] 
 
-### #is_/same_as :: [Emma,Novel.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Emma,Novel.secret|Emma,Novel.secret]] 
 

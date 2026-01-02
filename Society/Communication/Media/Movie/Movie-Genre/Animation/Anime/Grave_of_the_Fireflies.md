@@ -22,17 +22,17 @@ This Film is deeply sad, so sad that you can hardly watch it!
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grave_of_the_Fireflies](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies|Grave_of_the_Fireflies]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.public|Grave_of_the_Fireflies.public]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.internal|Grave_of_the_Fireflies.internal]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.protect|Grave_of_the_Fireflies.protect]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.private|Grave_of_the_Fireflies.private]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.personal|Grave_of_the_Fireflies.personal]] 
 
-### #is_/same_as :: [Grave_of_the_Fireflies.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Grave_of_the_Fireflies.secret|Grave_of_the_Fireflies.secret]] 
 

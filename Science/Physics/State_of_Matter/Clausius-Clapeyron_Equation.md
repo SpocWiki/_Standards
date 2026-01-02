@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation](/_Standards/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation|Clausius-Clapeyron_Equation]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.public](/_public/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.public|Clausius-Clapeyron_Equation.public]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.internal](/_internal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.internal|Clausius-Clapeyron_Equation.internal]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.protect](/_protect/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.protect|Clausius-Clapeyron_Equation.protect]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.private](/_private/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.private|Clausius-Clapeyron_Equation.private]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.personal](/_personal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.personal|Clausius-Clapeyron_Equation.personal]] 
 
-### #is_/same_as :: [Clausius-Clapeyron_Equation.secret](/_secret/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Clausius-Clapeyron_Equation.secret|Clausius-Clapeyron_Equation.secret]] 
 

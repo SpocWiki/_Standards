@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tango](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango|Tango]] 
 
-### #is_/same_as :: [Tango.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.public|Tango.public]] 
 
-### #is_/same_as :: [Tango.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.internal|Tango.internal]] 
 
-### #is_/same_as :: [Tango.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.protect|Tango.protect]] 
 
-### #is_/same_as :: [Tango.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.private|Tango.private]] 
 
-### #is_/same_as :: [Tango.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.personal|Tango.personal]] 
 
-### #is_/same_as :: [Tango.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Tango.secret|Tango.secret]] 
 

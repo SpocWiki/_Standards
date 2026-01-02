@@ -41,17 +41,17 @@ The act of giving money in return for temporary use, but not ownership, of an ob
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rent_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action|Rent_Action]] 
 
-### #is_/same_as :: [Rent_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.public|Rent_Action.public]] 
 
-### #is_/same_as :: [Rent_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.internal|Rent_Action.internal]] 
 
-### #is_/same_as :: [Rent_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.protect|Rent_Action.protect]] 
 
-### #is_/same_as :: [Rent_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.private|Rent_Action.private]] 
 
-### #is_/same_as :: [Rent_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.personal|Rent_Action.personal]] 
 
-### #is_/same_as :: [Rent_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Rent_Action.secret|Rent_Action.secret]] 
 

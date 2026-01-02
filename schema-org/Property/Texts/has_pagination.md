@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_pagination](/_Standards/schema-org/Property/Texts/has_pagination.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_pagination|has_pagination]] 
 
-### #is_/same_as :: [has_pagination.public](/_public/schema-org/Property/Texts/has_pagination.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_pagination.public|has_pagination.public]] 
 
-### #is_/same_as :: [has_pagination.internal](/_internal/schema-org/Property/Texts/has_pagination.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_pagination.internal|has_pagination.internal]] 
 
-### #is_/same_as :: [has_pagination.protect](/_protect/schema-org/Property/Texts/has_pagination.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_pagination.protect|has_pagination.protect]] 
 
-### #is_/same_as :: [has_pagination.private](/_private/schema-org/Property/Texts/has_pagination.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_pagination.private|has_pagination.private]] 
 
-### #is_/same_as :: [has_pagination.personal](/_personal/schema-org/Property/Texts/has_pagination.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_pagination.personal|has_pagination.personal]] 
 
-### #is_/same_as :: [has_pagination.secret](/_secret/schema-org/Property/Texts/has_pagination.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_pagination.secret|has_pagination.secret]] 
 

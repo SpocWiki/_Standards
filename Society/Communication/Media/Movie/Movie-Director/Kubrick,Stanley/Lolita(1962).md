@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lolita(1962)](/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962)|Lolita(1962)]] 
 
-### #is_/same_as :: [Lolita(1962).public](/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).public|Lolita(1962).public]] 
 
-### #is_/same_as :: [Lolita(1962).internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).internal|Lolita(1962).internal]] 
 
-### #is_/same_as :: [Lolita(1962).protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).protect|Lolita(1962).protect]] 
 
-### #is_/same_as :: [Lolita(1962).private](/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).private|Lolita(1962).private]] 
 
-### #is_/same_as :: [Lolita(1962).personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).personal|Lolita(1962).personal]] 
 
-### #is_/same_as :: [Lolita(1962).secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Kubrick,Stanley/Lolita(1962).secret|Lolita(1962).secret]] 
 

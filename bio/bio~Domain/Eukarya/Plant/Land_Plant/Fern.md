@@ -100,17 +100,17 @@ Ferns
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fern](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern|Fern]] 
 
-### #is_/same_as :: [Fern.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.public|Fern.public]] 
 
-### #is_/same_as :: [Fern.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.internal|Fern.internal]] 
 
-### #is_/same_as :: [Fern.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.protect|Fern.protect]] 
 
-### #is_/same_as :: [Fern.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.private|Fern.private]] 
 
-### #is_/same_as :: [Fern.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.personal|Fern.personal]] 
 
-### #is_/same_as :: [Fern.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Fern.secret|Fern.secret]] 
 

@@ -75,17 +75,17 @@ Facebook_username: odedguam
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development](/_Standards/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development|GUAM_Organization_for_Democracy_and_Economic_Development]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.public](/_public/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.public|GUAM_Organization_for_Democracy_and_Economic_Development.public]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.internal](/_internal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.internal|GUAM_Organization_for_Democracy_and_Economic_Development.internal]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.protect](/_protect/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.protect|GUAM_Organization_for_Democracy_and_Economic_Development.protect]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.private](/_private/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.private|GUAM_Organization_for_Democracy_and_Economic_Development.private]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.personal](/_personal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.personal|GUAM_Organization_for_Democracy_and_Economic_Development.personal]] 
 
-### #is_/same_as :: [GUAM_Organization_for_Democracy_and_Economic_Development.secret](/_secret/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/GUAM_Organization_for_Democracy_and_Economic_Development.secret|GUAM_Organization_for_Democracy_and_Economic_Development.secret]] 
 

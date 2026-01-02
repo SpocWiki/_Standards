@@ -311,17 +311,17 @@ ISNI: 000000012281955X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Einstein,Albert](/_Standards/Science/Scientist/Modern_Scientists/Einstein,Albert.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Einstein,Albert|Einstein,Albert]] 
 
-### #is_/same_as :: [Einstein,Albert.public](/_public/Science/Scientist/Modern_Scientists/Einstein,Albert.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Einstein,Albert.public|Einstein,Albert.public]] 
 
-### #is_/same_as :: [Einstein,Albert.internal](/_internal/Science/Scientist/Modern_Scientists/Einstein,Albert.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Einstein,Albert.internal|Einstein,Albert.internal]] 
 
-### #is_/same_as :: [Einstein,Albert.protect](/_protect/Science/Scientist/Modern_Scientists/Einstein,Albert.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Einstein,Albert.protect|Einstein,Albert.protect]] 
 
-### #is_/same_as :: [Einstein,Albert.private](/_private/Science/Scientist/Modern_Scientists/Einstein,Albert.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Einstein,Albert.private|Einstein,Albert.private]] 
 
-### #is_/same_as :: [Einstein,Albert.personal](/_personal/Science/Scientist/Modern_Scientists/Einstein,Albert.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Einstein,Albert.personal|Einstein,Albert.personal]] 
 
-### #is_/same_as :: [Einstein,Albert.secret](/_secret/Science/Scientist/Modern_Scientists/Einstein,Albert.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Einstein,Albert.secret|Einstein,Albert.secret]] 
 

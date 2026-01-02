@@ -262,17 +262,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bob%20Dylan%20-%20Azke
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dylan,Bob](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob|Dylan,Bob]] 
 
-### #is_/same_as :: [Dylan,Bob.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.public|Dylan,Bob.public]] 
 
-### #is_/same_as :: [Dylan,Bob.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.internal|Dylan,Bob.internal]] 
 
-### #is_/same_as :: [Dylan,Bob.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.protect|Dylan,Bob.protect]] 
 
-### #is_/same_as :: [Dylan,Bob.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.private|Dylan,Bob.private]] 
 
-### #is_/same_as :: [Dylan,Bob.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.personal|Dylan,Bob.personal]] 
 
-### #is_/same_as :: [Dylan,Bob.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Dylan,Bob.secret|Dylan,Bob.secret]] 
 

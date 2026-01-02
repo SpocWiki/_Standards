@@ -42,17 +42,17 @@ The drug's cost represents the maximum reimbursement paid by an insurer for the 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap|Drug_Cost_Reimbursement_Cap]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.public|Drug_Cost_Reimbursement_Cap.public]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.internal|Drug_Cost_Reimbursement_Cap.internal]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.protect|Drug_Cost_Reimbursement_Cap.protect]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.private|Drug_Cost_Reimbursement_Cap.private]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.personal|Drug_Cost_Reimbursement_Cap.personal]] 
 
-### #is_/same_as :: [Drug_Cost_Reimbursement_Cap.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Cost_Category/Drug_Cost_Reimbursement_Cap.secret|Drug_Cost_Reimbursement_Cap.secret]] 
 

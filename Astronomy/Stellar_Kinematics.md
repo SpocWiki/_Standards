@@ -36,17 +36,17 @@ subclass_of: "[[_Standards/WikiData/WD~kinematics,11476]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_Kinematics](/_Standards/Astronomy/Stellar_Kinematics.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Stellar_Kinematics|Stellar_Kinematics]] 
 
-### #is_/same_as :: [Stellar_Kinematics.public](/_public/Astronomy/Stellar_Kinematics.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Stellar_Kinematics.public|Stellar_Kinematics.public]] 
 
-### #is_/same_as :: [Stellar_Kinematics.internal](/_internal/Astronomy/Stellar_Kinematics.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Stellar_Kinematics.internal|Stellar_Kinematics.internal]] 
 
-### #is_/same_as :: [Stellar_Kinematics.protect](/_protect/Astronomy/Stellar_Kinematics.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Stellar_Kinematics.protect|Stellar_Kinematics.protect]] 
 
-### #is_/same_as :: [Stellar_Kinematics.private](/_private/Astronomy/Stellar_Kinematics.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Stellar_Kinematics.private|Stellar_Kinematics.private]] 
 
-### #is_/same_as :: [Stellar_Kinematics.personal](/_personal/Astronomy/Stellar_Kinematics.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Stellar_Kinematics.personal|Stellar_Kinematics.personal]] 
 
-### #is_/same_as :: [Stellar_Kinematics.secret](/_secret/Astronomy/Stellar_Kinematics.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Stellar_Kinematics.secret|Stellar_Kinematics.secret]] 
 

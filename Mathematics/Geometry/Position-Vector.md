@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Position-Vector](/_Standards/Mathematics/Geometry/Position-Vector.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Position-Vector|Position-Vector]] 
 
-### #is_/same_as :: [Position-Vector.public](/_public/Mathematics/Geometry/Position-Vector.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Position-Vector.public|Position-Vector.public]] 
 
-### #is_/same_as :: [Position-Vector.internal](/_internal/Mathematics/Geometry/Position-Vector.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Position-Vector.internal|Position-Vector.internal]] 
 
-### #is_/same_as :: [Position-Vector.protect](/_protect/Mathematics/Geometry/Position-Vector.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Position-Vector.protect|Position-Vector.protect]] 
 
-### #is_/same_as :: [Position-Vector.private](/_private/Mathematics/Geometry/Position-Vector.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Position-Vector.private|Position-Vector.private]] 
 
-### #is_/same_as :: [Position-Vector.personal](/_personal/Mathematics/Geometry/Position-Vector.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Position-Vector.personal|Position-Vector.personal]] 
 
-### #is_/same_as :: [Position-Vector.secret](/_secret/Mathematics/Geometry/Position-Vector.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Position-Vector.secret|Position-Vector.secret]] 
 

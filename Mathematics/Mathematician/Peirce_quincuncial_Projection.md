@@ -86,17 +86,17 @@ According to Peirce, his projection has the following properties (Peirce, 1879):
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection](/_Standards/Mathematics/Mathematician/Peirce_quincuncial_Projection.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Peirce_quincuncial_Projection|Peirce_quincuncial_Projection]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.public](/_public/Mathematics/Mathematician/Peirce_quincuncial_Projection.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Peirce_quincuncial_Projection.public|Peirce_quincuncial_Projection.public]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.internal](/_internal/Mathematics/Mathematician/Peirce_quincuncial_Projection.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Peirce_quincuncial_Projection.internal|Peirce_quincuncial_Projection.internal]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.protect](/_protect/Mathematics/Mathematician/Peirce_quincuncial_Projection.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Peirce_quincuncial_Projection.protect|Peirce_quincuncial_Projection.protect]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.private](/_private/Mathematics/Mathematician/Peirce_quincuncial_Projection.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Peirce_quincuncial_Projection.private|Peirce_quincuncial_Projection.private]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.personal](/_personal/Mathematics/Mathematician/Peirce_quincuncial_Projection.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Peirce_quincuncial_Projection.personal|Peirce_quincuncial_Projection.personal]] 
 
-### #is_/same_as :: [Peirce_quincuncial_Projection.secret](/_secret/Mathematics/Mathematician/Peirce_quincuncial_Projection.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Peirce_quincuncial_Projection.secret|Peirce_quincuncial_Projection.secret]] 
 

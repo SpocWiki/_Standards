@@ -89,17 +89,17 @@ X_Twitter_username: D_Copperfield
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copperfield,David](/_Standards/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David|Copperfield,David]] 
 
-### #is_/same_as :: [Copperfield,David.public](/_public/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.public|Copperfield,David.public]] 
 
-### #is_/same_as :: [Copperfield,David.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.internal|Copperfield,David.internal]] 
 
-### #is_/same_as :: [Copperfield,David.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.protect|Copperfield,David.protect]] 
 
-### #is_/same_as :: [Copperfield,David.private](/_private/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.private|Copperfield,David.private]] 
 
-### #is_/same_as :: [Copperfield,David.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.personal|Copperfield,David.personal]] 
 
-### #is_/same_as :: [Copperfield,David.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Performer/Copperfield,David.secret|Copperfield,David.secret]] 
 

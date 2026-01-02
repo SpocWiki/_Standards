@@ -39,17 +39,17 @@ vocalized_name: מְדִינַת שִׁלְטוֹן מָאֳחָד
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unitary_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Unitary_State|Unitary_State]] 
 
-### #is_/same_as :: [Unitary_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Unitary_State.public|Unitary_State.public]] 
 
-### #is_/same_as :: [Unitary_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.internal|Unitary_State.internal]] 
 
-### #is_/same_as :: [Unitary_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Unitary_State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Unitary_State.protect|Unitary_State.protect]] 
 
-### #is_/same_as :: [Unitary_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Unitary_State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Unitary_State.private|Unitary_State.private]] 
 
-### #is_/same_as :: [Unitary_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Unitary_State.personal|Unitary_State.personal]] 
 
-### #is_/same_as :: [Unitary_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Unitary_State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Unitary_State.secret|Unitary_State.secret]] 
 

@@ -41,17 +41,17 @@ A page devoted to a single item, such as a particular product or hotel.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page|Item_Page]] 
 
-### #is_/same_as :: [Item_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.public|Item_Page.public]] 
 
-### #is_/same_as :: [Item_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.internal|Item_Page.internal]] 
 
-### #is_/same_as :: [Item_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.protect|Item_Page.protect]] 
 
-### #is_/same_as :: [Item_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.private|Item_Page.private]] 
 
-### #is_/same_as :: [Item_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.personal|Item_Page.personal]] 
 
-### #is_/same_as :: [Item_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Item_Page.secret|Item_Page.secret]] 
 

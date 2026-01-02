@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tomahawk](/_Standards/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Axe/Tomahawk|Tomahawk]] 
 
-### #is_/same_as :: [Tomahawk.public](/_public/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.public|Tomahawk.public]] 
 
-### #is_/same_as :: [Tomahawk.internal](/_internal/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.internal|Tomahawk.internal]] 
 
-### #is_/same_as :: [Tomahawk.protect](/_protect/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.protect|Tomahawk.protect]] 
 
-### #is_/same_as :: [Tomahawk.private](/_private/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.private|Tomahawk.private]] 
 
-### #is_/same_as :: [Tomahawk.personal](/_personal/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.personal|Tomahawk.personal]] 
 
-### #is_/same_as :: [Tomahawk.secret](/_secret/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Axe/Tomahawk.secret|Tomahawk.secret]] 
 

@@ -50,17 +50,17 @@ See also [[NewsArticle]] for related vocabulary from a learning/education perspe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Background_News_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article|Background_News_Article]] 
 
-### #is_/same_as :: [Background_News_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.public|Background_News_Article.public]] 
 
-### #is_/same_as :: [Background_News_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.internal|Background_News_Article.internal]] 
 
-### #is_/same_as :: [Background_News_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.protect|Background_News_Article.protect]] 
 
-### #is_/same_as :: [Background_News_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.private|Background_News_Article.private]] 
 
-### #is_/same_as :: [Background_News_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.personal|Background_News_Article.personal]] 
 
-### #is_/same_as :: [Background_News_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/News_Article/Background_News_Article.secret|Background_News_Article.secret]] 
 

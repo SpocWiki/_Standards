@@ -39,17 +39,17 @@ RsvpResponseType is an enumeration type whose instances represent responding to 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rsvp_Response_Type](/_Standards/schema-org/Enumeration/Rsvp_Response_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Rsvp_Response_Type|Rsvp_Response_Type]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.public](/_public/schema-org/Enumeration/Rsvp_Response_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Rsvp_Response_Type.public|Rsvp_Response_Type.public]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.internal](/_internal/schema-org/Enumeration/Rsvp_Response_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Rsvp_Response_Type.internal|Rsvp_Response_Type.internal]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.protect](/_protect/schema-org/Enumeration/Rsvp_Response_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Rsvp_Response_Type.protect|Rsvp_Response_Type.protect]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.private](/_private/schema-org/Enumeration/Rsvp_Response_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Rsvp_Response_Type.private|Rsvp_Response_Type.private]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.personal](/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Rsvp_Response_Type.personal|Rsvp_Response_Type.personal]] 
 
-### #is_/same_as :: [Rsvp_Response_Type.secret](/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Rsvp_Response_Type.secret|Rsvp_Response_Type.secret]] 
 

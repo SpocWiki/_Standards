@@ -74,17 +74,17 @@ MCN_code: 8704.32.30
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refrigerator](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator|Refrigerator]] 
 
-### #is_/same_as :: [Refrigerator.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.public|Refrigerator.public]] 
 
-### #is_/same_as :: [Refrigerator.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.internal|Refrigerator.internal]] 
 
-### #is_/same_as :: [Refrigerator.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.protect|Refrigerator.protect]] 
 
-### #is_/same_as :: [Refrigerator.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.private|Refrigerator.private]] 
 
-### #is_/same_as :: [Refrigerator.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.personal|Refrigerator.personal]] 
 
-### #is_/same_as :: [Refrigerator.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Apartment/Kitchen/Refrigerator.secret|Refrigerator.secret]] 
 

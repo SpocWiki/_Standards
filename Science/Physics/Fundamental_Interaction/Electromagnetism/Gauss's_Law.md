@@ -35,19 +35,20 @@ Commons_category: Gauss' Law
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gauss's%20law) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauss's_Law](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law|Gauss's_Law]] 
 
-### #is_/same_as :: [Gauss's_Law.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.public|Gauss's_Law.public]] 
 
-### #is_/same_as :: [Gauss's_Law.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.internal|Gauss's_Law.internal]] 
 
-### #is_/same_as :: [Gauss's_Law.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.protect|Gauss's_Law.protect]] 
 
-### #is_/same_as :: [Gauss's_Law.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.private|Gauss's_Law.private]] 
 
-### #is_/same_as :: [Gauss's_Law.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.personal|Gauss's_Law.personal]] 
 
-### #is_/same_as :: [Gauss's_Law.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Gauss's_Law.secret|Gauss's_Law.secret]] 
 

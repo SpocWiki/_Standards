@@ -49,17 +49,17 @@ Library_of_Congress_Classification: RC76-RC76.5
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Examination](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination|Medical_Examination]] 
 
-### #is_/same_as :: [Medical_Examination.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.public|Medical_Examination.public]] 
 
-### #is_/same_as :: [Medical_Examination.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.internal|Medical_Examination.internal]] 
 
-### #is_/same_as :: [Medical_Examination.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.protect|Medical_Examination.protect]] 
 
-### #is_/same_as :: [Medical_Examination.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.private|Medical_Examination.private]] 
 
-### #is_/same_as :: [Medical_Examination.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.personal|Medical_Examination.personal]] 
 
-### #is_/same_as :: [Medical_Examination.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Medical_Examination.secret|Medical_Examination.secret]] 
 

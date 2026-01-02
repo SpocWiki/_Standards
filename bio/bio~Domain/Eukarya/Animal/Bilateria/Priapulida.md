@@ -82,17 +82,17 @@ Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Priapulida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida|Priapulida]] 
 
-### #is_/same_as :: [Priapulida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.public|Priapulida.public]] 
 
-### #is_/same_as :: [Priapulida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.internal|Priapulida.internal]] 
 
-### #is_/same_as :: [Priapulida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.protect|Priapulida.protect]] 
 
-### #is_/same_as :: [Priapulida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.private|Priapulida.private]] 
 
-### #is_/same_as :: [Priapulida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.personal|Priapulida.personal]] 
 
-### #is_/same_as :: [Priapulida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Priapulida.secret|Priapulida.secret]] 
 

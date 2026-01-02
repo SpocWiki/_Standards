@@ -124,17 +124,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Welche%20Form%20hat%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Universe](/_Standards/Astronomy/Universe.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Universe|Universe]] 
 
-### #is_/same_as :: [Universe.public](/_public/Astronomy/Universe.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Universe.public|Universe.public]] 
 
-### #is_/same_as :: [Universe.internal](/_internal/Astronomy/Universe.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Universe.internal|Universe.internal]] 
 
-### #is_/same_as :: [Universe.protect](/_protect/Astronomy/Universe.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Universe.protect|Universe.protect]] 
 
-### #is_/same_as :: [Universe.private](/_private/Astronomy/Universe.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Universe.private|Universe.private]] 
 
-### #is_/same_as :: [Universe.personal](/_personal/Astronomy/Universe.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Universe.personal|Universe.personal]] 
 
-### #is_/same_as :: [Universe.secret](/_secret/Astronomy/Universe.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Universe.secret|Universe.secret]] 
 

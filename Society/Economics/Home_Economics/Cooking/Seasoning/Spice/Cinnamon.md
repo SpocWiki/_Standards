@@ -79,17 +79,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Cinnamon"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cinnamon](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon|Cinnamon]] 
 
-### #is_/same_as :: [Cinnamon.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.public|Cinnamon.public]] 
 
-### #is_/same_as :: [Cinnamon.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.internal|Cinnamon.internal]] 
 
-### #is_/same_as :: [Cinnamon.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.protect|Cinnamon.protect]] 
 
-### #is_/same_as :: [Cinnamon.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.private|Cinnamon.private]] 
 
-### #is_/same_as :: [Cinnamon.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.personal|Cinnamon.personal]] 
 
-### #is_/same_as :: [Cinnamon.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Spice/Cinnamon.secret|Cinnamon.secret]] 
 

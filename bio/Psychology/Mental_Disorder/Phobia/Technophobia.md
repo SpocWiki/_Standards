@@ -37,17 +37,17 @@ Archive_of_Our_Own_tag: technophobia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technophobia](/_Standards/bio/Psychology/Mental_Disorder/Phobia/Technophobia.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Phobia/Technophobia|Technophobia]] 
 
-### #is_/same_as :: [Technophobia.public](/_public/bio/Psychology/Mental_Disorder/Phobia/Technophobia.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Phobia/Technophobia.public|Technophobia.public]] 
 
-### #is_/same_as :: [Technophobia.internal](/_internal/bio/Psychology/Mental_Disorder/Phobia/Technophobia.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Phobia/Technophobia.internal|Technophobia.internal]] 
 
-### #is_/same_as :: [Technophobia.protect](/_protect/bio/Psychology/Mental_Disorder/Phobia/Technophobia.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Phobia/Technophobia.protect|Technophobia.protect]] 
 
-### #is_/same_as :: [Technophobia.private](/_private/bio/Psychology/Mental_Disorder/Phobia/Technophobia.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Phobia/Technophobia.private|Technophobia.private]] 
 
-### #is_/same_as :: [Technophobia.personal](/_personal/bio/Psychology/Mental_Disorder/Phobia/Technophobia.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Phobia/Technophobia.personal|Technophobia.personal]] 
 
-### #is_/same_as :: [Technophobia.secret](/_secret/bio/Psychology/Mental_Disorder/Phobia/Technophobia.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Phobia/Technophobia.secret|Technophobia.secret]] 
 

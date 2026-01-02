@@ -17,17 +17,17 @@ Katakana Script is used in [[../../Earth/Continent/Asia/Asia~East/Japan|Japan]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Kana](/_Standards/Language/Writing_System/Script~Kana.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Kana|Script~Kana]] 
 
-### #is_/same_as :: [Script~Kana.public](/_public/Language/Writing_System/Script~Kana.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Kana.public|Script~Kana.public]] 
 
-### #is_/same_as :: [Script~Kana.internal](/_internal/Language/Writing_System/Script~Kana.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Kana.internal|Script~Kana.internal]] 
 
-### #is_/same_as :: [Script~Kana.protect](/_protect/Language/Writing_System/Script~Kana.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Kana.protect|Script~Kana.protect]] 
 
-### #is_/same_as :: [Script~Kana.private](/_private/Language/Writing_System/Script~Kana.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Kana.private|Script~Kana.private]] 
 
-### #is_/same_as :: [Script~Kana.personal](/_personal/Language/Writing_System/Script~Kana.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Kana.personal|Script~Kana.personal]] 
 
-### #is_/same_as :: [Script~Kana.secret](/_secret/Language/Writing_System/Script~Kana.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Kana.secret|Script~Kana.secret]] 
 

@@ -60,17 +60,17 @@ Commons_category: IMI Uzi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uzi](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Uzi|Uzi]] 
 
-### #is_/same_as :: [Uzi.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.public|Uzi.public]] 
 
-### #is_/same_as :: [Uzi.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.internal|Uzi.internal]] 
 
-### #is_/same_as :: [Uzi.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.protect|Uzi.protect]] 
 
-### #is_/same_as :: [Uzi.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.private|Uzi.private]] 
 
-### #is_/same_as :: [Uzi.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.personal|Uzi.personal]] 
 
-### #is_/same_as :: [Uzi.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Uzi.secret|Uzi.secret]] 
 

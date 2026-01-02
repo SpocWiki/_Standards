@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_business_function](/_Standards/schema-org/Relation/has/has_business_function.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_business_function|has_business_function]] 
 
-### #is_/same_as :: [has_business_function.public](/_public/schema-org/Relation/has/has_business_function.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_business_function.public|has_business_function.public]] 
 
-### #is_/same_as :: [has_business_function.internal](/_internal/schema-org/Relation/has/has_business_function.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_business_function.internal|has_business_function.internal]] 
 
-### #is_/same_as :: [has_business_function.protect](/_protect/schema-org/Relation/has/has_business_function.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_business_function.protect|has_business_function.protect]] 
 
-### #is_/same_as :: [has_business_function.private](/_private/schema-org/Relation/has/has_business_function.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_business_function.private|has_business_function.private]] 
 
-### #is_/same_as :: [has_business_function.personal](/_personal/schema-org/Relation/has/has_business_function.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_business_function.personal|has_business_function.personal]] 
 
-### #is_/same_as :: [has_business_function.secret](/_secret/schema-org/Relation/has/has_business_function.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_business_function.secret|has_business_function.secret]] 
 

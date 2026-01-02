@@ -60,17 +60,17 @@ coordinates_of_geographic_center: Point(-168.88625 65.861388888)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bering_Strait](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait|Bering_Strait]] 
 
-### #is_/same_as :: [Bering_Strait.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.public|Bering_Strait.public]] 
 
-### #is_/same_as :: [Bering_Strait.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.internal|Bering_Strait.internal]] 
 
-### #is_/same_as :: [Bering_Strait.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.protect|Bering_Strait.protect]] 
 
-### #is_/same_as :: [Bering_Strait.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.private|Bering_Strait.private]] 
 
-### #is_/same_as :: [Bering_Strait.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.personal|Bering_Strait.personal]] 
 
-### #is_/same_as :: [Bering_Strait.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~Arctic/Bering_Strait.secret|Bering_Strait.secret]] 
 

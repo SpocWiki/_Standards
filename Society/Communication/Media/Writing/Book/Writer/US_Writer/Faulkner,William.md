@@ -148,17 +148,17 @@ work_period_start_: 1919-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faulkner,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William|Faulkner,William]] 
 
-### #is_/same_as :: [Faulkner,William.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.public|Faulkner,William.public]] 
 
-### #is_/same_as :: [Faulkner,William.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.internal|Faulkner,William.internal]] 
 
-### #is_/same_as :: [Faulkner,William.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.protect|Faulkner,William.protect]] 
 
-### #is_/same_as :: [Faulkner,William.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.private|Faulkner,William.private]] 
 
-### #is_/same_as :: [Faulkner,William.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.personal|Faulkner,William.personal]] 
 
-### #is_/same_as :: [Faulkner,William.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Faulkner,William.secret|Faulkner,William.secret]] 
 

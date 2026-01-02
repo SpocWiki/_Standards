@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_offers](/_Standards/schema-org/Property/has_number_of/has_number_of_offers.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_offers|has_number_of_offers]] 
 
-### #is_/same_as :: [has_number_of_offers.public](/_public/schema-org/Property/has_number_of/has_number_of_offers.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_offers.public|has_number_of_offers.public]] 
 
-### #is_/same_as :: [has_number_of_offers.internal](/_internal/schema-org/Property/has_number_of/has_number_of_offers.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_offers.internal|has_number_of_offers.internal]] 
 
-### #is_/same_as :: [has_number_of_offers.protect](/_protect/schema-org/Property/has_number_of/has_number_of_offers.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_offers.protect|has_number_of_offers.protect]] 
 
-### #is_/same_as :: [has_number_of_offers.private](/_private/schema-org/Property/has_number_of/has_number_of_offers.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_offers.private|has_number_of_offers.private]] 
 
-### #is_/same_as :: [has_number_of_offers.personal](/_personal/schema-org/Property/has_number_of/has_number_of_offers.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_offers.personal|has_number_of_offers.personal]] 
 
-### #is_/same_as :: [has_number_of_offers.secret](/_secret/schema-org/Property/has_number_of/has_number_of_offers.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_offers.secret|has_number_of_offers.secret]] 
 

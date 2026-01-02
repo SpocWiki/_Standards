@@ -24,3 +24,22 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pedagogy)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Learning/Pedagogy|Pedagogy]] 
+
+### #is_/same_as :: [[/_public/Society/Culture/Education/Learning/Pedagogy.public|Pedagogy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Learning/Pedagogy.internal|Pedagogy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Learning/Pedagogy.protect|Pedagogy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Culture/Education/Learning/Pedagogy.private|Pedagogy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Learning/Pedagogy.personal|Pedagogy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Learning/Pedagogy.secret|Pedagogy.secret]] 
+

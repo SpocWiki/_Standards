@@ -55,17 +55,17 @@ Commons_category: Sovereign states
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sovereign_State](/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Administrative_Area/State/Sovereign_State|Sovereign_State]] 
 
-### #is_/same_as :: [Sovereign_State.public](/_public/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.public|Sovereign_State.public]] 
 
-### #is_/same_as :: [Sovereign_State.internal](/_internal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.internal|Sovereign_State.internal]] 
 
-### #is_/same_as :: [Sovereign_State.protect](/_protect/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.protect|Sovereign_State.protect]] 
 
-### #is_/same_as :: [Sovereign_State.private](/_private/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.private|Sovereign_State.private]] 
 
-### #is_/same_as :: [Sovereign_State.personal](/_personal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.personal|Sovereign_State.personal]] 
 
-### #is_/same_as :: [Sovereign_State.secret](/_secret/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Administrative_Area/State/Sovereign_State.secret|Sovereign_State.secret]] 
 

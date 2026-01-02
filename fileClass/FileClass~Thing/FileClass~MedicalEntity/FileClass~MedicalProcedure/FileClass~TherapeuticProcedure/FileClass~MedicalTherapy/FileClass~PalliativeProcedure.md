@@ -37,17 +37,17 @@ A medical procedure intended primarily for palliative purposes, aimed at relievi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure|FileClass~PalliativeProcedure]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.public|FileClass~PalliativeProcedure.public]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.internal|FileClass~PalliativeProcedure.internal]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.protect|FileClass~PalliativeProcedure.protect]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.private|FileClass~PalliativeProcedure.private]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.personal|FileClass~PalliativeProcedure.personal]] 
 
-### #is_/same_as :: [FileClass~PalliativeProcedure.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalProcedure/FileClass~TherapeuticProcedure/FileClass~MedicalTherapy/FileClass~PalliativeProcedure.secret|FileClass~PalliativeProcedure.secret]] 
 

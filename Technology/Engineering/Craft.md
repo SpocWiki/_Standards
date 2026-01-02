@@ -58,17 +58,17 @@ Provenio_UUID: e32451f1-69d6-4b3e-8772-eab34fcdf352
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Craft](/_Standards/Technology/Engineering/Craft.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Craft|Craft]] 
 
-### #is_/same_as :: [Craft.public](/_public/Technology/Engineering/Craft.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Craft.public|Craft.public]] 
 
-### #is_/same_as :: [Craft.internal](/_internal/Technology/Engineering/Craft.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Craft.internal|Craft.internal]] 
 
-### #is_/same_as :: [Craft.protect](/_protect/Technology/Engineering/Craft.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Craft.protect|Craft.protect]] 
 
-### #is_/same_as :: [Craft.private](/_private/Technology/Engineering/Craft.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Craft.private|Craft.private]] 
 
-### #is_/same_as :: [Craft.personal](/_personal/Technology/Engineering/Craft.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Craft.personal|Craft.personal]] 
 
-### #is_/same_as :: [Craft.secret](/_secret/Technology/Engineering/Craft.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Craft.secret|Craft.secret]] 
 

@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubin,Rick](/_Standards/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Producer/Rubin,Rick|Rubin,Rick]] 
 
-### #is_/same_as :: [Rubin,Rick.public](/_public/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.public|Rubin,Rick.public]] 
 
-### #is_/same_as :: [Rubin,Rick.internal](/_internal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.internal|Rubin,Rick.internal]] 
 
-### #is_/same_as :: [Rubin,Rick.protect](/_protect/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.protect|Rubin,Rick.protect]] 
 
-### #is_/same_as :: [Rubin,Rick.private](/_private/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.private|Rubin,Rick.private]] 
 
-### #is_/same_as :: [Rubin,Rick.personal](/_personal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.personal|Rubin,Rick.personal]] 
 
-### #is_/same_as :: [Rubin,Rick.secret](/_secret/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Producer/Rubin,Rick.secret|Rubin,Rick.secret]] 
 

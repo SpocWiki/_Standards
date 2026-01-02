@@ -91,17 +91,17 @@ Commons_category: Compact discs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CD(Compact_Disc)](/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc)|CD(Compact_Disc)]] 
 
-### #is_/same_as :: [CD(Compact_Disc).public](/_public/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).public|CD(Compact_Disc).public]] 
 
-### #is_/same_as :: [CD(Compact_Disc).internal](/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).internal|CD(Compact_Disc).internal]] 
 
-### #is_/same_as :: [CD(Compact_Disc).protect](/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).protect|CD(Compact_Disc).protect]] 
 
-### #is_/same_as :: [CD(Compact_Disc).private](/_private/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).private|CD(Compact_Disc).private]] 
 
-### #is_/same_as :: [CD(Compact_Disc).personal](/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).personal|CD(Compact_Disc).personal]] 
 
-### #is_/same_as :: [CD(Compact_Disc).secret](/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Storage/Storage_Medium/CD(Compact_Disc).secret|CD(Compact_Disc).secret]] 
 

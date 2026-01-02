@@ -69,17 +69,17 @@ Wikidata_usage_instructions: brukes for menneske Q5 med verdi har rolle  P12868
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refugee](/_Standards/UN(United_Nations)/UNHCR/Refugee.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/UNHCR/Refugee|Refugee]] 
 
-### #is_/same_as :: [Refugee.public](/_public/UN(United_Nations)/UNHCR/Refugee.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/UNHCR/Refugee.public|Refugee.public]] 
 
-### #is_/same_as :: [Refugee.internal](/_internal/UN(United_Nations)/UNHCR/Refugee.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/UNHCR/Refugee.internal|Refugee.internal]] 
 
-### #is_/same_as :: [Refugee.protect](/_protect/UN(United_Nations)/UNHCR/Refugee.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/UNHCR/Refugee.protect|Refugee.protect]] 
 
-### #is_/same_as :: [Refugee.private](/_private/UN(United_Nations)/UNHCR/Refugee.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/UNHCR/Refugee.private|Refugee.private]] 
 
-### #is_/same_as :: [Refugee.personal](/_personal/UN(United_Nations)/UNHCR/Refugee.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/UNHCR/Refugee.personal|Refugee.personal]] 
 
-### #is_/same_as :: [Refugee.secret](/_secret/UN(United_Nations)/UNHCR/Refugee.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/UNHCR/Refugee.secret|Refugee.secret]] 
 

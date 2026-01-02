@@ -36,17 +36,17 @@ Commons_category: Gilbert and Sullivan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gilbert_and_Sullivan](/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan|Gilbert_and_Sullivan]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.public](/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.public|Gilbert_and_Sullivan.public]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.internal](/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.internal|Gilbert_and_Sullivan.internal]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.protect](/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.protect|Gilbert_and_Sullivan.protect]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.private](/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.private|Gilbert_and_Sullivan.private]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.personal](/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.personal|Gilbert_and_Sullivan.personal]] 
 
-### #is_/same_as :: [Gilbert_and_Sullivan.secret](/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Performing_Group/Theater_Group/Gilbert_and_Sullivan.secret|Gilbert_and_Sullivan.secret]] 
 

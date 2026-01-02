@@ -8,17 +8,17 @@ The Lenovo P16s Intel Processor reaches only 1.4 TOPS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit)](/_Standards/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit)|NPU(Neural_Processing_Unit)]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).public](/_public/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).public|NPU(Neural_Processing_Unit).public]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).internal](/_internal/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).internal|NPU(Neural_Processing_Unit).internal]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).protect](/_protect/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).protect|NPU(Neural_Processing_Unit).protect]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).private](/_private/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).private|NPU(Neural_Processing_Unit).private]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).personal](/_personal/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).personal|NPU(Neural_Processing_Unit).personal]] 
 
-### #is_/same_as :: [NPU(Neural_Processing_Unit).secret](/_secret/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Processor/NPU(Neural_Processing_Unit).secret|NPU(Neural_Processing_Unit).secret]] 
 

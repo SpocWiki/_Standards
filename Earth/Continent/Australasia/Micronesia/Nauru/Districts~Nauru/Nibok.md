@@ -40,17 +40,17 @@ markerFolder: ./Nibok/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nibok](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok|Nibok]] 
 
-### #is_/same_as :: [Nibok.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.public|Nibok.public]] 
 
-### #is_/same_as :: [Nibok.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.internal|Nibok.internal]] 
 
-### #is_/same_as :: [Nibok.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.protect|Nibok.protect]] 
 
-### #is_/same_as :: [Nibok.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.private|Nibok.private]] 
 
-### #is_/same_as :: [Nibok.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.personal|Nibok.personal]] 
 
-### #is_/same_as :: [Nibok.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Nibok.secret|Nibok.secret]] 
 

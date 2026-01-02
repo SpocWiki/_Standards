@@ -158,17 +158,17 @@ Libris_URI: 42gkqrcn3bmhgn6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [He,Zheng](/_Standards/Earth/Explorer/Age_of_Discovery/He,Zheng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/He,Zheng|He,Zheng]] 
 
-### #is_/same_as :: [He,Zheng.public](/_public/Earth/Explorer/Age_of_Discovery/He,Zheng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/He,Zheng.public|He,Zheng.public]] 
 
-### #is_/same_as :: [He,Zheng.internal](/_internal/Earth/Explorer/Age_of_Discovery/He,Zheng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/He,Zheng.internal|He,Zheng.internal]] 
 
-### #is_/same_as :: [He,Zheng.protect](/_protect/Earth/Explorer/Age_of_Discovery/He,Zheng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/He,Zheng.protect|He,Zheng.protect]] 
 
-### #is_/same_as :: [He,Zheng.private](/_private/Earth/Explorer/Age_of_Discovery/He,Zheng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/He,Zheng.private|He,Zheng.private]] 
 
-### #is_/same_as :: [He,Zheng.personal](/_personal/Earth/Explorer/Age_of_Discovery/He,Zheng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/He,Zheng.personal|He,Zheng.personal]] 
 
-### #is_/same_as :: [He,Zheng.secret](/_secret/Earth/Explorer/Age_of_Discovery/He,Zheng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/He,Zheng.secret|He,Zheng.secret]] 
 

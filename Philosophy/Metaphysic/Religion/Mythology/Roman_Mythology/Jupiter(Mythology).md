@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jupiter(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology)|Jupiter(Mythology)]] 
 
-### #is_/same_as :: [Jupiter(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).public|Jupiter(Mythology).public]] 
 
-### #is_/same_as :: [Jupiter(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).internal|Jupiter(Mythology).internal]] 
 
-### #is_/same_as :: [Jupiter(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).protect|Jupiter(Mythology).protect]] 
 
-### #is_/same_as :: [Jupiter(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).private|Jupiter(Mythology).private]] 
 
-### #is_/same_as :: [Jupiter(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).personal|Jupiter(Mythology).personal]] 
 
-### #is_/same_as :: [Jupiter(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Jupiter(Mythology).secret|Jupiter(Mythology).secret]] 
 

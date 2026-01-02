@@ -88,17 +88,17 @@ Here are some with their Type and Description:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geo~Attributes](/_Standards/Earth/geo~Attributes.md) 
+### #is_/same_as :: [[/_Standards/Earth/geo~Attributes|geo~Attributes]] 
 
-### #is_/same_as :: [geo~Attributes.public](/_public/Earth/geo~Attributes.public.md) 
+### #is_/same_as :: [[/_public/Earth/geo~Attributes.public|geo~Attributes.public]] 
 
-### #is_/same_as :: [geo~Attributes.internal](/_internal/Earth/geo~Attributes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/geo~Attributes.internal|geo~Attributes.internal]] 
 
-### #is_/same_as :: [geo~Attributes.protect](/_protect/Earth/geo~Attributes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/geo~Attributes.protect|geo~Attributes.protect]] 
 
-### #is_/same_as :: [geo~Attributes.private](/_private/Earth/geo~Attributes.private.md) 
+### #is_/same_as :: [[/_private/Earth/geo~Attributes.private|geo~Attributes.private]] 
 
-### #is_/same_as :: [geo~Attributes.personal](/_personal/Earth/geo~Attributes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/geo~Attributes.personal|geo~Attributes.personal]] 
 
-### #is_/same_as :: [geo~Attributes.secret](/_secret/Earth/geo~Attributes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/geo~Attributes.secret|geo~Attributes.secret]] 
 

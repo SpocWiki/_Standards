@@ -49,17 +49,17 @@ Wikidata_property:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fictional_World](/_Standards/Society/Communication/Genre/Fiction/Fictional_World.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_World|Fictional_World]] 
 
-### #is_/same_as :: [Fictional_World.public](/_public/Society/Communication/Genre/Fiction/Fictional_World.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_World.public|Fictional_World.public]] 
 
-### #is_/same_as :: [Fictional_World.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_World.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_World.internal|Fictional_World.internal]] 
 
-### #is_/same_as :: [Fictional_World.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_World.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_World.protect|Fictional_World.protect]] 
 
-### #is_/same_as :: [Fictional_World.private](/_private/Society/Communication/Genre/Fiction/Fictional_World.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_World.private|Fictional_World.private]] 
 
-### #is_/same_as :: [Fictional_World.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_World.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_World.personal|Fictional_World.personal]] 
 
-### #is_/same_as :: [Fictional_World.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_World.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_World.secret|Fictional_World.secret]] 
 

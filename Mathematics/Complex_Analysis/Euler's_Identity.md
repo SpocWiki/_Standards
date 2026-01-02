@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/VignetteEulerIdentity.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler's_Identity](/_Standards/Mathematics/Complex_Analysis/Euler's_Identity.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Euler's_Identity|Euler's_Identity]] 
 
-### #is_/same_as :: [Euler's_Identity.public](/_public/Mathematics/Complex_Analysis/Euler's_Identity.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Euler's_Identity.public|Euler's_Identity.public]] 
 
-### #is_/same_as :: [Euler's_Identity.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Identity.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Euler's_Identity.internal|Euler's_Identity.internal]] 
 
-### #is_/same_as :: [Euler's_Identity.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Identity.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Euler's_Identity.protect|Euler's_Identity.protect]] 
 
-### #is_/same_as :: [Euler's_Identity.private](/_private/Mathematics/Complex_Analysis/Euler's_Identity.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Euler's_Identity.private|Euler's_Identity.private]] 
 
-### #is_/same_as :: [Euler's_Identity.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Identity.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Euler's_Identity.personal|Euler's_Identity.personal]] 
 
-### #is_/same_as :: [Euler's_Identity.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Identity.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Euler's_Identity.secret|Euler's_Identity.secret]] 
 

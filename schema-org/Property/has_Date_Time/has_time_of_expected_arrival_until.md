@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until](/_Standards/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until|has_time_of_expected_arrival_until]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.public](/_public/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.public|has_time_of_expected_arrival_until.public]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.internal|has_time_of_expected_arrival_until.internal]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.protect|has_time_of_expected_arrival_until.protect]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.private](/_private/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.private|has_time_of_expected_arrival_until.private]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.personal|has_time_of_expected_arrival_until.personal]] 
 
-### #is_/same_as :: [has_time_of_expected_arrival_until.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_expected_arrival_until.secret|has_time_of_expected_arrival_until.secret]] 
 

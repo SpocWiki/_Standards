@@ -39,17 +39,17 @@ OpenStreetMap_tag_or_key: Tag:athletics=discus_throw
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discus_Throw](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw|Discus_Throw]] 
 
-### #is_/same_as :: [Discus_Throw.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.public|Discus_Throw.public]] 
 
-### #is_/same_as :: [Discus_Throw.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.internal|Discus_Throw.internal]] 
 
-### #is_/same_as :: [Discus_Throw.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.protect|Discus_Throw.protect]] 
 
-### #is_/same_as :: [Discus_Throw.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.private|Discus_Throw.private]] 
 
-### #is_/same_as :: [Discus_Throw.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.personal|Discus_Throw.personal]] 
 
-### #is_/same_as :: [Discus_Throw.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Athletics/Track_and_Field/Discus_Throw.secret|Discus_Throw.secret]] 
 

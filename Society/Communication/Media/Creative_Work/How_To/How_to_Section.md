@@ -41,17 +41,17 @@ A sub-grouping of steps in the instructions for how to achieve a result (e.g. st
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_to_Section](/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Section.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Section|How_to_Section]] 
 
-### #is_/same_as :: [How_to_Section.public](/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Section.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Section.public|How_to_Section.public]] 
 
-### #is_/same_as :: [How_to_Section.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Section.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Section.internal|How_to_Section.internal]] 
 
-### #is_/same_as :: [How_to_Section.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Section.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Section.protect|How_to_Section.protect]] 
 
-### #is_/same_as :: [How_to_Section.private](/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Section.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Section.private|How_to_Section.private]] 
 
-### #is_/same_as :: [How_to_Section.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Section.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Section.personal|How_to_Section.personal]] 
 
-### #is_/same_as :: [How_to_Section.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Section.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Section.secret|How_to_Section.secret]] 
 

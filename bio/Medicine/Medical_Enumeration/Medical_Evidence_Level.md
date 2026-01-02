@@ -39,17 +39,17 @@ Level of evidence for a medical guideline. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Evidence_Level](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level|Medical_Evidence_Level]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.public|Medical_Evidence_Level.public]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.internal|Medical_Evidence_Level.internal]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.protect|Medical_Evidence_Level.protect]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.private|Medical_Evidence_Level.private]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.personal|Medical_Evidence_Level.personal]] 
 
-### #is_/same_as :: [Medical_Evidence_Level.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Evidence_Level.secret|Medical_Evidence_Level.secret]] 
 

@@ -52,17 +52,17 @@ Commons_category: Smuggling
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Smuggling](/_Standards/Society/Law/Criminal_Law/Crime/Smuggling.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Smuggling|Smuggling]] 
 
-### #is_/same_as :: [Smuggling.public](/_public/Society/Law/Criminal_Law/Crime/Smuggling.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Smuggling.public|Smuggling.public]] 
 
-### #is_/same_as :: [Smuggling.internal](/_internal/Society/Law/Criminal_Law/Crime/Smuggling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Smuggling.internal|Smuggling.internal]] 
 
-### #is_/same_as :: [Smuggling.protect](/_protect/Society/Law/Criminal_Law/Crime/Smuggling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Smuggling.protect|Smuggling.protect]] 
 
-### #is_/same_as :: [Smuggling.private](/_private/Society/Law/Criminal_Law/Crime/Smuggling.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Smuggling.private|Smuggling.private]] 
 
-### #is_/same_as :: [Smuggling.personal](/_personal/Society/Law/Criminal_Law/Crime/Smuggling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Smuggling.personal|Smuggling.personal]] 
 
-### #is_/same_as :: [Smuggling.secret](/_secret/Society/Law/Criminal_Law/Crime/Smuggling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Smuggling.secret|Smuggling.secret]] 
 

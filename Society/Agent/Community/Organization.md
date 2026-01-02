@@ -219,17 +219,17 @@ An organization such as a [[Organization/Educational_Organization/School|school]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organization](/_Standards/Society/Agent/Community/Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization|Organization]] 
 
-### #is_/same_as :: [Organization.public](/_public/Society/Agent/Community/Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization.public|Organization.public]] 
 
-### #is_/same_as :: [Organization.internal](/_internal/Society/Agent/Community/Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization.internal|Organization.internal]] 
 
-### #is_/same_as :: [Organization.protect](/_protect/Society/Agent/Community/Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization.protect|Organization.protect]] 
 
-### #is_/same_as :: [Organization.private](/_private/Society/Agent/Community/Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization.private|Organization.private]] 
 
-### #is_/same_as :: [Organization.personal](/_personal/Society/Agent/Community/Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization.personal|Organization.personal]] 
 
-### #is_/same_as :: [Organization.secret](/_secret/Society/Agent/Community/Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization.secret|Organization.secret]] 
 

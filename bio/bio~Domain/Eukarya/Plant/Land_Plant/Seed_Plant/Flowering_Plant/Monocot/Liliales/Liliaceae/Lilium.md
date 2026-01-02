@@ -79,17 +79,17 @@ NBN_System_Key: NHMSYS0000460337
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lilium](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium|Lilium]] 
 
-### #is_/same_as :: [Lilium.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.public|Lilium.public]] 
 
-### #is_/same_as :: [Lilium.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.internal|Lilium.internal]] 
 
-### #is_/same_as :: [Lilium.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.protect|Lilium.protect]] 
 
-### #is_/same_as :: [Lilium.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.private|Lilium.private]] 
 
-### #is_/same_as :: [Lilium.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.personal|Lilium.personal]] 
 
-### #is_/same_as :: [Lilium.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Liliales/Liliaceae/Lilium.secret|Lilium.secret]] 
 

@@ -43,17 +43,17 @@ SpocWebEntityId: {{SpocWebEntityId}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_StarClass~Template](/_Standards/Astronomy/Star/Star~Class/_StarClass~Template.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/_StarClass~Template|_StarClass~Template]] 
 
-### #is_/same_as :: [_StarClass~Template.public](/_public/Astronomy/Star/Star~Class/_StarClass~Template.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/_StarClass~Template.public|_StarClass~Template.public]] 
 
-### #is_/same_as :: [_StarClass~Template.internal](/_internal/Astronomy/Star/Star~Class/_StarClass~Template.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/_StarClass~Template.internal|_StarClass~Template.internal]] 
 
-### #is_/same_as :: [_StarClass~Template.protect](/_protect/Astronomy/Star/Star~Class/_StarClass~Template.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/_StarClass~Template.protect|_StarClass~Template.protect]] 
 
-### #is_/same_as :: [_StarClass~Template.private](/_private/Astronomy/Star/Star~Class/_StarClass~Template.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/_StarClass~Template.private|_StarClass~Template.private]] 
 
-### #is_/same_as :: [_StarClass~Template.personal](/_personal/Astronomy/Star/Star~Class/_StarClass~Template.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/_StarClass~Template.personal|_StarClass~Template.personal]] 
 
-### #is_/same_as :: [_StarClass~Template.secret](/_secret/Astronomy/Star/Star~Class/_StarClass~Template.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/_StarClass~Template.secret|_StarClass~Template.secret]] 
 

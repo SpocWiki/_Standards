@@ -100,17 +100,17 @@ SeriousAdverseOutcome:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalDevice](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice|FileClass~MedicalDevice]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.public|FileClass~MedicalDevice.public]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.internal|FileClass~MedicalDevice.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.protect|FileClass~MedicalDevice.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.private|FileClass~MedicalDevice.private]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.personal|FileClass~MedicalDevice.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalDevice.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalDevice.secret|FileClass~MedicalDevice.secret]] 
 

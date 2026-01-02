@@ -126,17 +126,17 @@ Regensburg_Classification: IU 4640
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medici,Lorenzo_de](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de|Medici,Lorenzo_de]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.public|Medici,Lorenzo_de.public]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.internal|Medici,Lorenzo_de.internal]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.protect|Medici,Lorenzo_de.protect]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.private|Medici,Lorenzo_de.private]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.personal|Medici,Lorenzo_de.personal]] 
 
-### #is_/same_as :: [Medici,Lorenzo_de.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Medici,Lorenzo_de.secret|Medici,Lorenzo_de.secret]] 
 

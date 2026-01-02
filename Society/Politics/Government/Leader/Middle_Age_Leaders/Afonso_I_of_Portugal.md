@@ -111,17 +111,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/D.%20Afonso%20Henrique
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Afonso_I_of_Portugal](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal|Afonso_I_of_Portugal]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.public|Afonso_I_of_Portugal.public]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.internal|Afonso_I_of_Portugal.internal]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.protect|Afonso_I_of_Portugal.protect]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.private|Afonso_I_of_Portugal.private]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.personal|Afonso_I_of_Portugal.personal]] 
 
-### #is_/same_as :: [Afonso_I_of_Portugal.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Afonso_I_of_Portugal.secret|Afonso_I_of_Portugal.secret]] 
 

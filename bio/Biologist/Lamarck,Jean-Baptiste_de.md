@@ -123,17 +123,17 @@ Commons_Creator_page: Jean-Baptiste de Lamarck
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de](/_Standards/bio/Biologist/Lamarck,Jean-Baptiste_de.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Lamarck,Jean-Baptiste_de|Lamarck,Jean-Baptiste_de]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.public](/_public/bio/Biologist/Lamarck,Jean-Baptiste_de.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Lamarck,Jean-Baptiste_de.public|Lamarck,Jean-Baptiste_de.public]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.internal](/_internal/bio/Biologist/Lamarck,Jean-Baptiste_de.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Lamarck,Jean-Baptiste_de.internal|Lamarck,Jean-Baptiste_de.internal]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.protect](/_protect/bio/Biologist/Lamarck,Jean-Baptiste_de.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Lamarck,Jean-Baptiste_de.protect|Lamarck,Jean-Baptiste_de.protect]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.private](/_private/bio/Biologist/Lamarck,Jean-Baptiste_de.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Lamarck,Jean-Baptiste_de.private|Lamarck,Jean-Baptiste_de.private]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.personal](/_personal/bio/Biologist/Lamarck,Jean-Baptiste_de.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Lamarck,Jean-Baptiste_de.personal|Lamarck,Jean-Baptiste_de.personal]] 
 
-### #is_/same_as :: [Lamarck,Jean-Baptiste_de.secret](/_secret/bio/Biologist/Lamarck,Jean-Baptiste_de.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Lamarck,Jean-Baptiste_de.secret|Lamarck,Jean-Baptiste_de.secret]] 
 

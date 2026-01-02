@@ -79,17 +79,17 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Uto-Aztecan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan](/_Standards/Language/Language_Family/LangFamily~Uto-Aztecan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily~Uto-Aztecan|LangFamily~Uto-Aztecan]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.public](/_public/Language/Language_Family/LangFamily~Uto-Aztecan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily~Uto-Aztecan.public|LangFamily~Uto-Aztecan.public]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.internal](/_internal/Language/Language_Family/LangFamily~Uto-Aztecan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily~Uto-Aztecan.internal|LangFamily~Uto-Aztecan.internal]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.protect](/_protect/Language/Language_Family/LangFamily~Uto-Aztecan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily~Uto-Aztecan.protect|LangFamily~Uto-Aztecan.protect]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.private](/_private/Language/Language_Family/LangFamily~Uto-Aztecan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily~Uto-Aztecan.private|LangFamily~Uto-Aztecan.private]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.personal](/_personal/Language/Language_Family/LangFamily~Uto-Aztecan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily~Uto-Aztecan.personal|LangFamily~Uto-Aztecan.personal]] 
 
-### #is_/same_as :: [LangFamily~Uto-Aztecan.secret](/_secret/Language/Language_Family/LangFamily~Uto-Aztecan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily~Uto-Aztecan.secret|LangFamily~Uto-Aztecan.secret]] 
 

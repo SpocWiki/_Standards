@@ -52,17 +52,17 @@ Colon_Classification: MV41
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Science](/_Standards/Society/Military/Military_Science.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Science|Military_Science]] 
 
-### #is_/same_as :: [Military_Science.public](/_public/Society/Military/Military_Science.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Science.public|Military_Science.public]] 
 
-### #is_/same_as :: [Military_Science.internal](/_internal/Society/Military/Military_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Science.internal|Military_Science.internal]] 
 
-### #is_/same_as :: [Military_Science.protect](/_protect/Society/Military/Military_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Science.protect|Military_Science.protect]] 
 
-### #is_/same_as :: [Military_Science.private](/_private/Society/Military/Military_Science.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Science.private|Military_Science.private]] 
 
-### #is_/same_as :: [Military_Science.personal](/_personal/Society/Military/Military_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Science.personal|Military_Science.personal]] 
 
-### #is_/same_as :: [Military_Science.secret](/_secret/Society/Military/Military_Science.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Science.secret|Military_Science.secret]] 
 

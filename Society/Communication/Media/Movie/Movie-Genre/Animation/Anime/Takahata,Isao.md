@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Takahata,Isao](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao|Takahata,Isao]] 
 
-### #is_/same_as :: [Takahata,Isao.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.public|Takahata,Isao.public]] 
 
-### #is_/same_as :: [Takahata,Isao.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.internal|Takahata,Isao.internal]] 
 
-### #is_/same_as :: [Takahata,Isao.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.protect|Takahata,Isao.protect]] 
 
-### #is_/same_as :: [Takahata,Isao.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.private|Takahata,Isao.private]] 
 
-### #is_/same_as :: [Takahata,Isao.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.personal|Takahata,Isao.personal]] 
 
-### #is_/same_as :: [Takahata,Isao.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Takahata,Isao.secret|Takahata,Isao.secret]] 
 

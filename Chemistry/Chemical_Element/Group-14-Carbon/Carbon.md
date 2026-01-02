@@ -136,17 +136,17 @@ ZVG_number: 8040
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon/Carbon|Carbon]] 
 
-### #is_/same_as :: [Carbon.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.public|Carbon.public]] 
 
-### #is_/same_as :: [Carbon.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.internal|Carbon.internal]] 
 
-### #is_/same_as :: [Carbon.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.protect|Carbon.protect]] 
 
-### #is_/same_as :: [Carbon.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.private|Carbon.private]] 
 
-### #is_/same_as :: [Carbon.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.personal|Carbon.personal]] 
 
-### #is_/same_as :: [Carbon.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon/Carbon.secret|Carbon.secret]] 
 

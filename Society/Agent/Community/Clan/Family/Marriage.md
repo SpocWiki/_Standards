@@ -97,17 +97,17 @@ Baidu_Tieba_name: 结婚
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marriage](/_Standards/Society/Agent/Community/Clan/Family/Marriage.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage|Marriage]] 
 
-### #is_/same_as :: [Marriage.public](/_public/Society/Agent/Community/Clan/Family/Marriage.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage.public|Marriage.public]] 
 
-### #is_/same_as :: [Marriage.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage.internal|Marriage.internal]] 
 
-### #is_/same_as :: [Marriage.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage.protect|Marriage.protect]] 
 
-### #is_/same_as :: [Marriage.private](/_private/Society/Agent/Community/Clan/Family/Marriage.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage.private|Marriage.private]] 
 
-### #is_/same_as :: [Marriage.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage.personal|Marriage.personal]] 
 
-### #is_/same_as :: [Marriage.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage.secret|Marriage.secret]] 
 

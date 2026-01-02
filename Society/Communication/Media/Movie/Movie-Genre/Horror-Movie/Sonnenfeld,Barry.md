@@ -18,17 +18,17 @@ Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sonnenfeld,Barry](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry|Sonnenfeld,Barry]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.public|Sonnenfeld,Barry.public]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.internal|Sonnenfeld,Barry.internal]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.protect|Sonnenfeld,Barry.protect]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.private|Sonnenfeld,Barry.private]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.personal|Sonnenfeld,Barry.personal]] 
 
-### #is_/same_as :: [Sonnenfeld,Barry.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Sonnenfeld,Barry.secret|Sonnenfeld,Barry.secret]] 
 

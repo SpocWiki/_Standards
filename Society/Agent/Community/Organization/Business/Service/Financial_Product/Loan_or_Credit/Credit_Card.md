@@ -58,17 +58,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Credit_Card](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card|Credit_Card]] 
 
-### #is_/same_as :: [Credit_Card.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.public|Credit_Card.public]] 
 
-### #is_/same_as :: [Credit_Card.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.internal|Credit_Card.internal]] 
 
-### #is_/same_as :: [Credit_Card.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.protect|Credit_Card.protect]] 
 
-### #is_/same_as :: [Credit_Card.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.private|Credit_Card.private]] 
 
-### #is_/same_as :: [Credit_Card.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.personal|Credit_Card.personal]] 
 
-### #is_/same_as :: [Credit_Card.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Credit_Card.secret|Credit_Card.secret]] 
 

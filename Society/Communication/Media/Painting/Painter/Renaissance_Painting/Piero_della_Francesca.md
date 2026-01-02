@@ -150,17 +150,17 @@ BHCL_UUID: 5de4bff6-68e6-4725-96ef-751d321bd0da
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piero_della_Francesca](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca|Piero_della_Francesca]] 
 
-### #is_/same_as :: [Piero_della_Francesca.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.public|Piero_della_Francesca.public]] 
 
-### #is_/same_as :: [Piero_della_Francesca.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.internal|Piero_della_Francesca.internal]] 
 
-### #is_/same_as :: [Piero_della_Francesca.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.protect|Piero_della_Francesca.protect]] 
 
-### #is_/same_as :: [Piero_della_Francesca.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.private|Piero_della_Francesca.private]] 
 
-### #is_/same_as :: [Piero_della_Francesca.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.personal|Piero_della_Francesca.personal]] 
 
-### #is_/same_as :: [Piero_della_Francesca.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/Piero_della_Francesca.secret|Piero_della_Francesca.secret]] 
 

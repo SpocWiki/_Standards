@@ -35,17 +35,17 @@ Containing group:[Sinentomata](../Sinentomata.md)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinentomon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon|Sinentomon]] 
 
-### #is_/same_as :: [Sinentomon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.public|Sinentomon.public]] 
 
-### #is_/same_as :: [Sinentomon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.internal|Sinentomon.internal]] 
 
-### #is_/same_as :: [Sinentomon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.protect|Sinentomon.protect]] 
 
-### #is_/same_as :: [Sinentomon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.private|Sinentomon.private]] 
 
-### #is_/same_as :: [Sinentomon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.personal|Sinentomon.personal]] 
 
-### #is_/same_as :: [Sinentomon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Sinentomata/Sinentomon.secret|Sinentomon.secret]] 
 

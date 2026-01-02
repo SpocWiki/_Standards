@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vosloo,Arnold](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold|Vosloo,Arnold]] 
 
-### #is_/same_as :: [Vosloo,Arnold.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.public|Vosloo,Arnold.public]] 
 
-### #is_/same_as :: [Vosloo,Arnold.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.internal|Vosloo,Arnold.internal]] 
 
-### #is_/same_as :: [Vosloo,Arnold.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.protect|Vosloo,Arnold.protect]] 
 
-### #is_/same_as :: [Vosloo,Arnold.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.private|Vosloo,Arnold.private]] 
 
-### #is_/same_as :: [Vosloo,Arnold.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.personal|Vosloo,Arnold.personal]] 
 
-### #is_/same_as :: [Vosloo,Arnold.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Vosloo,Arnold.secret|Vosloo,Arnold.secret]] 
 

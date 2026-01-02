@@ -106,17 +106,17 @@ P8189: 987007283907105200
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coin](/_Standards/Society/Economics/Money/Coin.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Money/Coin|Coin]] 
 
-### #is_/same_as :: [Coin.public](/_public/Society/Economics/Money/Coin.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Money/Coin.public|Coin.public]] 
 
-### #is_/same_as :: [Coin.internal](/_internal/Society/Economics/Money/Coin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Money/Coin.internal|Coin.internal]] 
 
-### #is_/same_as :: [Coin.protect](/_protect/Society/Economics/Money/Coin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Money/Coin.protect|Coin.protect]] 
 
-### #is_/same_as :: [Coin.private](/_private/Society/Economics/Money/Coin.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Money/Coin.private|Coin.private]] 
 
-### #is_/same_as :: [Coin.personal](/_personal/Society/Economics/Money/Coin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Money/Coin.personal|Coin.personal]] 
 
-### #is_/same_as :: [Coin.secret](/_secret/Society/Economics/Money/Coin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Money/Coin.secret|Coin.secret]] 
 

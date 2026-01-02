@@ -43,17 +43,17 @@ A set of Category Code values.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Category_Code_Set](/_Standards/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set|Category_Code_Set]] 
 
-### #is_/same_as :: [Category_Code_Set.public](/_public/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.public|Category_Code_Set.public]] 
 
-### #is_/same_as :: [Category_Code_Set.internal](/_internal/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.internal|Category_Code_Set.internal]] 
 
-### #is_/same_as :: [Category_Code_Set.protect](/_protect/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.protect|Category_Code_Set.protect]] 
 
-### #is_/same_as :: [Category_Code_Set.private](/_private/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.private|Category_Code_Set.private]] 
 
-### #is_/same_as :: [Category_Code_Set.personal](/_personal/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.personal|Category_Code_Set.personal]] 
 
-### #is_/same_as :: [Category_Code_Set.secret](/_secret/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Defined_Term_Set/Category_Code_Set.secret|Category_Code_Set.secret]] 
 

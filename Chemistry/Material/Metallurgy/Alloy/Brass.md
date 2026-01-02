@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brass](/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Alloy/Brass|Brass]] 
 
-### #is_/same_as :: [Brass.public](/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Alloy/Brass.public|Brass.public]] 
 
-### #is_/same_as :: [Brass.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Alloy/Brass.internal|Brass.internal]] 
 
-### #is_/same_as :: [Brass.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Alloy/Brass.protect|Brass.protect]] 
 
-### #is_/same_as :: [Brass.private](/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Alloy/Brass.private|Brass.private]] 
 
-### #is_/same_as :: [Brass.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Alloy/Brass.personal|Brass.personal]] 
 
-### #is_/same_as :: [Brass.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Alloy/Brass.secret|Brass.secret]] 
 

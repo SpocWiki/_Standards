@@ -45,17 +45,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atlas(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology)|Atlas(Mythology)]] 
 
-### #is_/same_as :: [Atlas(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).public|Atlas(Mythology).public]] 
 
-### #is_/same_as :: [Atlas(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).internal|Atlas(Mythology).internal]] 
 
-### #is_/same_as :: [Atlas(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).protect|Atlas(Mythology).protect]] 
 
-### #is_/same_as :: [Atlas(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).private|Atlas(Mythology).private]] 
 
-### #is_/same_as :: [Atlas(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).personal|Atlas(Mythology).personal]] 
 
-### #is_/same_as :: [Atlas(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology).secret|Atlas(Mythology).secret]] 
 

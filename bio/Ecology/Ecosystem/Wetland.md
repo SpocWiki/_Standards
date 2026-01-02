@@ -62,17 +62,17 @@ OpenStreetMap_tag: natural=wetland
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wetland](/_Standards/bio/Ecology/Ecosystem/Wetland.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Wetland|Wetland]] 
 
-### #is_/same_as :: [Wetland.public](/_public/bio/Ecology/Ecosystem/Wetland.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Wetland.public|Wetland.public]] 
 
-### #is_/same_as :: [Wetland.internal](/_internal/bio/Ecology/Ecosystem/Wetland.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Wetland.internal|Wetland.internal]] 
 
-### #is_/same_as :: [Wetland.protect](/_protect/bio/Ecology/Ecosystem/Wetland.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Wetland.protect|Wetland.protect]] 
 
-### #is_/same_as :: [Wetland.private](/_private/bio/Ecology/Ecosystem/Wetland.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Wetland.private|Wetland.private]] 
 
-### #is_/same_as :: [Wetland.personal](/_personal/bio/Ecology/Ecosystem/Wetland.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Wetland.personal|Wetland.personal]] 
 
-### #is_/same_as :: [Wetland.secret](/_secret/bio/Ecology/Ecosystem/Wetland.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Wetland.secret|Wetland.secret]] 
 

@@ -27,17 +27,17 @@ has_part_s_: "[[_Standards/WikiData/WD~degenerate_matter,51368]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compact_Star](/_Standards/Astronomy/Star/Compact_Star.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Compact_Star|Compact_Star]] 
 
-### #is_/same_as :: [Compact_Star.public](/_public/Astronomy/Star/Compact_Star.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Compact_Star.public|Compact_Star.public]] 
 
-### #is_/same_as :: [Compact_Star.internal](/_internal/Astronomy/Star/Compact_Star.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Compact_Star.internal|Compact_Star.internal]] 
 
-### #is_/same_as :: [Compact_Star.protect](/_protect/Astronomy/Star/Compact_Star.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Compact_Star.protect|Compact_Star.protect]] 
 
-### #is_/same_as :: [Compact_Star.private](/_private/Astronomy/Star/Compact_Star.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Compact_Star.private|Compact_Star.private]] 
 
-### #is_/same_as :: [Compact_Star.personal](/_personal/Astronomy/Star/Compact_Star.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Compact_Star.personal|Compact_Star.personal]] 
 
-### #is_/same_as :: [Compact_Star.secret](/_secret/Astronomy/Star/Compact_Star.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Compact_Star.secret|Compact_Star.secret]] 
 

@@ -122,17 +122,17 @@ it is placed at top level due to its depth and importance.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio](/_Standards/bio.md) 
+### #is_/same_as :: [[/_Standards/bio|bio]] 
 
-### #is_/same_as :: [bio.public](/_public/bio.public.md) 
+### #is_/same_as :: [[/_public/bio.public|bio.public]] 
 
-### #is_/same_as :: [bio.internal](/_internal/bio.internal.md) 
+### #is_/same_as :: [[/_internal/bio.internal|bio.internal]] 
 
-### #is_/same_as :: [bio.protect](/_protect/bio.protect.md) 
+### #is_/same_as :: [[/_protect/bio.protect|bio.protect]] 
 
-### #is_/same_as :: [bio.private](/_private/bio.private.md) 
+### #is_/same_as :: [[/_private/bio.private|bio.private]] 
 
-### #is_/same_as :: [bio.personal](/_personal/bio.personal.md) 
+### #is_/same_as :: [[/_personal/bio.personal|bio.personal]] 
 
-### #is_/same_as :: [bio.secret](/_secret/bio.secret.md)
+### #is_/same_as :: [[/_secret/bio.secret|bio.secret]] 
 

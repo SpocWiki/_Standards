@@ -48,17 +48,17 @@ Dewey_Decimal_Classification: 541.224
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Valence(Chemistry)](/_Standards/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Electron_Shell/Valence(Chemistry)|Valence(Chemistry)]] 
 
-### #is_/same_as :: [Valence(Chemistry).public](/_public/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).public|Valence(Chemistry).public]] 
 
-### #is_/same_as :: [Valence(Chemistry).internal](/_internal/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).internal|Valence(Chemistry).internal]] 
 
-### #is_/same_as :: [Valence(Chemistry).protect](/_protect/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).protect|Valence(Chemistry).protect]] 
 
-### #is_/same_as :: [Valence(Chemistry).private](/_private/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).private|Valence(Chemistry).private]] 
 
-### #is_/same_as :: [Valence(Chemistry).personal](/_personal/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).personal|Valence(Chemistry).personal]] 
 
-### #is_/same_as :: [Valence(Chemistry).secret](/_secret/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Electron_Shell/Valence(Chemistry).secret|Valence(Chemistry).secret]] 
 

@@ -90,17 +90,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_linguistics,7112675]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linguistics](/_Standards/Language/Linguistics.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics|Linguistics]] 
 
-### #is_/same_as :: [Linguistics.public](/_public/Language/Linguistics.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics.public|Linguistics.public]] 
 
-### #is_/same_as :: [Linguistics.internal](/_internal/Language/Linguistics.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics.internal|Linguistics.internal]] 
 
-### #is_/same_as :: [Linguistics.protect](/_protect/Language/Linguistics.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics.protect|Linguistics.protect]] 
 
-### #is_/same_as :: [Linguistics.private](/_private/Language/Linguistics.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics.private|Linguistics.private]] 
 
-### #is_/same_as :: [Linguistics.personal](/_personal/Language/Linguistics.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics.personal|Linguistics.personal]] 
 
-### #is_/same_as :: [Linguistics.secret](/_secret/Language/Linguistics.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics.secret|Linguistics.secret]] 
 

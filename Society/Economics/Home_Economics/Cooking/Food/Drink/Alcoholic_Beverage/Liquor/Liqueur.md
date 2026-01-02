@@ -46,17 +46,17 @@ Commons_category: Liqueurs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liqueur](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur|Liqueur]] 
 
-### #is_/same_as :: [Liqueur.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.public|Liqueur.public]] 
 
-### #is_/same_as :: [Liqueur.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.internal|Liqueur.internal]] 
 
-### #is_/same_as :: [Liqueur.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.protect|Liqueur.protect]] 
 
-### #is_/same_as :: [Liqueur.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.private|Liqueur.private]] 
 
-### #is_/same_as :: [Liqueur.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.personal|Liqueur.personal]] 
 
-### #is_/same_as :: [Liqueur.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Liquor/Liqueur.secret|Liqueur.secret]] 
 

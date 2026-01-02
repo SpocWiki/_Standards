@@ -126,17 +126,17 @@ X_Twitter_username: brigitte_bardot
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bardot,Brigitte](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte|Bardot,Brigitte]] 
 
-### #is_/same_as :: [Bardot,Brigitte.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.public|Bardot,Brigitte.public]] 
 
-### #is_/same_as :: [Bardot,Brigitte.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.internal|Bardot,Brigitte.internal]] 
 
-### #is_/same_as :: [Bardot,Brigitte.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.protect|Bardot,Brigitte.protect]] 
 
-### #is_/same_as :: [Bardot,Brigitte.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.private|Bardot,Brigitte.private]] 
 
-### #is_/same_as :: [Bardot,Brigitte.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.personal|Bardot,Brigitte.personal]] 
 
-### #is_/same_as :: [Bardot,Brigitte.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Bardot,Brigitte.secret|Bardot,Brigitte.secret]] 
 

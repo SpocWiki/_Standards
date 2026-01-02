@@ -73,17 +73,17 @@ Commons_category: Great Plains
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Rift_Valley](/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Great_Rift_Valley|Great_Rift_Valley]] 
 
-### #is_/same_as :: [Great_Rift_Valley.public](/_public/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.public|Great_Rift_Valley.public]] 
 
-### #is_/same_as :: [Great_Rift_Valley.internal](/_internal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.internal|Great_Rift_Valley.internal]] 
 
-### #is_/same_as :: [Great_Rift_Valley.protect](/_protect/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.protect|Great_Rift_Valley.protect]] 
 
-### #is_/same_as :: [Great_Rift_Valley.private](/_private/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.private|Great_Rift_Valley.private]] 
 
-### #is_/same_as :: [Great_Rift_Valley.personal](/_personal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.personal|Great_Rift_Valley.personal]] 
 
-### #is_/same_as :: [Great_Rift_Valley.secret](/_secret/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Great_Rift_Valley.secret|Great_Rift_Valley.secret]] 
 

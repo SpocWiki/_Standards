@@ -47,17 +47,17 @@ inception: 1907-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cubism](/_Standards/Society/Communication/Art/Cubism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Cubism|Cubism]] 
 
-### #is_/same_as :: [Cubism.public](/_public/Society/Communication/Art/Cubism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Cubism.public|Cubism.public]] 
 
-### #is_/same_as :: [Cubism.internal](/_internal/Society/Communication/Art/Cubism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Cubism.internal|Cubism.internal]] 
 
-### #is_/same_as :: [Cubism.protect](/_protect/Society/Communication/Art/Cubism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Cubism.protect|Cubism.protect]] 
 
-### #is_/same_as :: [Cubism.private](/_private/Society/Communication/Art/Cubism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Cubism.private|Cubism.private]] 
 
-### #is_/same_as :: [Cubism.personal](/_personal/Society/Communication/Art/Cubism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Cubism.personal|Cubism.personal]] 
 
-### #is_/same_as :: [Cubism.secret](/_secret/Society/Communication/Art/Cubism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Cubism.secret|Cubism.secret]] 
 

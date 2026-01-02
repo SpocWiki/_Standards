@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_available_channel](/_Standards/schema-org/Relation/has/has_available_channel.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_available_channel|has_available_channel]] 
 
-### #is_/same_as :: [has_available_channel.public](/_public/schema-org/Relation/has/has_available_channel.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_available_channel.public|has_available_channel.public]] 
 
-### #is_/same_as :: [has_available_channel.internal](/_internal/schema-org/Relation/has/has_available_channel.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_available_channel.internal|has_available_channel.internal]] 
 
-### #is_/same_as :: [has_available_channel.protect](/_protect/schema-org/Relation/has/has_available_channel.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_available_channel.protect|has_available_channel.protect]] 
 
-### #is_/same_as :: [has_available_channel.private](/_private/schema-org/Relation/has/has_available_channel.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_available_channel.private|has_available_channel.private]] 
 
-### #is_/same_as :: [has_available_channel.personal](/_personal/schema-org/Relation/has/has_available_channel.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_available_channel.personal|has_available_channel.personal]] 
 
-### #is_/same_as :: [has_available_channel.secret](/_secret/schema-org/Relation/has/has_available_channel.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_available_channel.secret|has_available_channel.secret]] 
 

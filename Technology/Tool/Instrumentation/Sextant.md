@@ -75,17 +75,17 @@ Commons_category: Sextants
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sextant](/_Standards/Technology/Tool/Instrumentation/Sextant.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Sextant|Sextant]] 
 
-### #is_/same_as :: [Sextant.public](/_public/Technology/Tool/Instrumentation/Sextant.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Sextant.public|Sextant.public]] 
 
-### #is_/same_as :: [Sextant.internal](/_internal/Technology/Tool/Instrumentation/Sextant.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Sextant.internal|Sextant.internal]] 
 
-### #is_/same_as :: [Sextant.protect](/_protect/Technology/Tool/Instrumentation/Sextant.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Sextant.protect|Sextant.protect]] 
 
-### #is_/same_as :: [Sextant.private](/_private/Technology/Tool/Instrumentation/Sextant.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Sextant.private|Sextant.private]] 
 
-### #is_/same_as :: [Sextant.personal](/_personal/Technology/Tool/Instrumentation/Sextant.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Sextant.personal|Sextant.personal]] 
 
-### #is_/same_as :: [Sextant.secret](/_secret/Technology/Tool/Instrumentation/Sextant.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Sextant.secret|Sextant.secret]] 
 

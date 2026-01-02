@@ -123,17 +123,17 @@ Commons_category: Alphabet Inc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alphabet_Inc](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc|Alphabet_Inc]] 
 
-### #is_/same_as :: [Alphabet_Inc.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.public|Alphabet_Inc.public]] 
 
-### #is_/same_as :: [Alphabet_Inc.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.internal|Alphabet_Inc.internal]] 
 
-### #is_/same_as :: [Alphabet_Inc.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.protect|Alphabet_Inc.protect]] 
 
-### #is_/same_as :: [Alphabet_Inc.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.private|Alphabet_Inc.private]] 
 
-### #is_/same_as :: [Alphabet_Inc.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.personal|Alphabet_Inc.personal]] 
 
-### #is_/same_as :: [Alphabet_Inc.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Monopoly/Big_Tech/Alphabet_Inc.secret|Alphabet_Inc.secret]] 
 

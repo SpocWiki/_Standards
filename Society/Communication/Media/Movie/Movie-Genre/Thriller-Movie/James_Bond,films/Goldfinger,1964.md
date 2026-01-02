@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Goldfinger,1964](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964|Goldfinger,1964]] 
 
-### #is_/same_as :: [Goldfinger,1964.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.public|Goldfinger,1964.public]] 
 
-### #is_/same_as :: [Goldfinger,1964.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.internal|Goldfinger,1964.internal]] 
 
-### #is_/same_as :: [Goldfinger,1964.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.protect|Goldfinger,1964.protect]] 
 
-### #is_/same_as :: [Goldfinger,1964.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.private|Goldfinger,1964.private]] 
 
-### #is_/same_as :: [Goldfinger,1964.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.personal|Goldfinger,1964.personal]] 
 
-### #is_/same_as :: [Goldfinger,1964.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Goldfinger,1964.secret|Goldfinger,1964.secret]] 
 

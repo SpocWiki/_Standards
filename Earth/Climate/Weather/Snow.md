@@ -68,17 +68,17 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Field-with-snow-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snow](/_Standards/Earth/Climate/Weather/Snow.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Snow|Snow]] 
 
-### #is_/same_as :: [Snow.public](/_public/Earth/Climate/Weather/Snow.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Snow.public|Snow.public]] 
 
-### #is_/same_as :: [Snow.internal](/_internal/Earth/Climate/Weather/Snow.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Snow.internal|Snow.internal]] 
 
-### #is_/same_as :: [Snow.protect](/_protect/Earth/Climate/Weather/Snow.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Snow.protect|Snow.protect]] 
 
-### #is_/same_as :: [Snow.private](/_private/Earth/Climate/Weather/Snow.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Snow.private|Snow.private]] 
 
-### #is_/same_as :: [Snow.personal](/_personal/Earth/Climate/Weather/Snow.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Snow.personal|Snow.personal]] 
 
-### #is_/same_as :: [Snow.secret](/_secret/Earth/Climate/Weather/Snow.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Snow.secret|Snow.secret]] 
 

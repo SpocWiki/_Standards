@@ -164,17 +164,17 @@ U_S_National_Archives_Identifier: 10580783
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buck,Pearl_S.](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S.|Buck,Pearl_S.]] 
 
-### #is_/same_as :: [Buck,Pearl_S..public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..public|Buck,Pearl_S..public]] 
 
-### #is_/same_as :: [Buck,Pearl_S..internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..internal|Buck,Pearl_S..internal]] 
 
-### #is_/same_as :: [Buck,Pearl_S..protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..protect|Buck,Pearl_S..protect]] 
 
-### #is_/same_as :: [Buck,Pearl_S..private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..private|Buck,Pearl_S..private]] 
 
-### #is_/same_as :: [Buck,Pearl_S..personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..personal|Buck,Pearl_S..personal]] 
 
-### #is_/same_as :: [Buck,Pearl_S..secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Buck,Pearl_S..secret|Buck,Pearl_S..secret]] 
 

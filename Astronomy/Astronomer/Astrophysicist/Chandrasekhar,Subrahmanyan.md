@@ -163,17 +163,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Subrahmanyan%20Chandra
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan](/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan|Chandrasekhar,Subrahmanyan]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.public](/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.public|Chandrasekhar,Subrahmanyan.public]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.internal](/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.internal|Chandrasekhar,Subrahmanyan.internal]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.protect](/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.protect|Chandrasekhar,Subrahmanyan.protect]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.private](/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.private|Chandrasekhar,Subrahmanyan.private]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.personal](/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.personal|Chandrasekhar,Subrahmanyan.personal]] 
 
-### #is_/same_as :: [Chandrasekhar,Subrahmanyan.secret](/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer/Astrophysicist/Chandrasekhar,Subrahmanyan.secret|Chandrasekhar,Subrahmanyan.secret]] 
 

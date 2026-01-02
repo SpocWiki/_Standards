@@ -45,17 +45,17 @@ or bacteriological diagnostic analyses or research.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laboratory_Science](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science|Laboratory_Science]] 
 
-### #is_/same_as :: [Laboratory_Science.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.public|Laboratory_Science.public]] 
 
-### #is_/same_as :: [Laboratory_Science.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.internal|Laboratory_Science.internal]] 
 
-### #is_/same_as :: [Laboratory_Science.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.protect|Laboratory_Science.protect]] 
 
-### #is_/same_as :: [Laboratory_Science.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.private|Laboratory_Science.private]] 
 
-### #is_/same_as :: [Laboratory_Science.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.personal|Laboratory_Science.personal]] 
 
-### #is_/same_as :: [Laboratory_Science.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Laboratory_Science.secret|Laboratory_Science.secret]] 
 

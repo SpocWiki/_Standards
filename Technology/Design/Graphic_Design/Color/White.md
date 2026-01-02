@@ -60,17 +60,17 @@ OpenStreetMap_tag_or_key: Tag:colour=white
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [White](/_Standards/Technology/Design/Graphic_Design/Color/White.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/White|White]] 
 
-### #is_/same_as :: [White.public](/_public/Technology/Design/Graphic_Design/Color/White.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/White.public|White.public]] 
 
-### #is_/same_as :: [White.internal](/_internal/Technology/Design/Graphic_Design/Color/White.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/White.internal|White.internal]] 
 
-### #is_/same_as :: [White.protect](/_protect/Technology/Design/Graphic_Design/Color/White.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/White.protect|White.protect]] 
 
-### #is_/same_as :: [White.private](/_private/Technology/Design/Graphic_Design/Color/White.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/White.private|White.private]] 
 
-### #is_/same_as :: [White.personal](/_personal/Technology/Design/Graphic_Design/Color/White.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/White.personal|White.personal]] 
 
-### #is_/same_as :: [White.secret](/_secret/Technology/Design/Graphic_Design/Color/White.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/White.secret|White.secret]] 
 

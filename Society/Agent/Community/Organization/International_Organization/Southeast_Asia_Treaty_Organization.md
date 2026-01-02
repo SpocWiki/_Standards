@@ -59,17 +59,17 @@ short_name: OTASE
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization](/_Standards/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization|Southeast_Asia_Treaty_Organization]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.public](/_public/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.public|Southeast_Asia_Treaty_Organization.public]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.internal|Southeast_Asia_Treaty_Organization.internal]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.protect|Southeast_Asia_Treaty_Organization.protect]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.private](/_private/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.private|Southeast_Asia_Treaty_Organization.private]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.personal|Southeast_Asia_Treaty_Organization.personal]] 
 
-### #is_/same_as :: [Southeast_Asia_Treaty_Organization.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Southeast_Asia_Treaty_Organization.secret|Southeast_Asia_Treaty_Organization.secret]] 
 

@@ -129,17 +129,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Apple"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apple](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple|Apple]] 
 
-### #is_/same_as :: [Apple.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.public|Apple.public]] 
 
-### #is_/same_as :: [Apple.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.internal|Apple.internal]] 
 
-### #is_/same_as :: [Apple.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.protect|Apple.protect]] 
 
-### #is_/same_as :: [Apple.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.private|Apple.private]] 
 
-### #is_/same_as :: [Apple.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.personal|Apple.personal]] 
 
-### #is_/same_as :: [Apple.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Apple.secret|Apple.secret]] 
 

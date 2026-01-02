@@ -54,17 +54,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063|-0312–Seleucid_Empire-0063]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.public|-0312–Seleucid_Empire-0063.public]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.internal|-0312–Seleucid_Empire-0063.internal]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.protect|-0312–Seleucid_Empire-0063.protect]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.private|-0312–Seleucid_Empire-0063.private]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.personal|-0312–Seleucid_Empire-0063.personal]] 
 
-### #is_/same_as :: [-0312–Seleucid_Empire-0063.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0312–Seleucid_Empire-0063.secret|-0312–Seleucid_Empire-0063.secret]] 
 

@@ -83,17 +83,17 @@ Marble is moderately hard, which makes for versatile Application, but gets very 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marble](/_Standards/Chemistry/Material/Marble.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Marble|Marble]] 
 
-### #is_/same_as :: [Marble.public](/_public/Chemistry/Material/Marble.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Marble.public|Marble.public]] 
 
-### #is_/same_as :: [Marble.internal](/_internal/Chemistry/Material/Marble.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Marble.internal|Marble.internal]] 
 
-### #is_/same_as :: [Marble.protect](/_protect/Chemistry/Material/Marble.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Marble.protect|Marble.protect]] 
 
-### #is_/same_as :: [Marble.private](/_private/Chemistry/Material/Marble.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Marble.private|Marble.private]] 
 
-### #is_/same_as :: [Marble.personal](/_personal/Chemistry/Material/Marble.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Marble.personal|Marble.personal]] 
 
-### #is_/same_as :: [Marble.secret](/_secret/Chemistry/Material/Marble.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Marble.secret|Marble.secret]] 
 

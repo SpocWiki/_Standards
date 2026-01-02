@@ -56,17 +56,17 @@ IMDb_keyword: reincarnation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reincarnation](/_Standards/Philosophy/Metaphysic/Religion/Reincarnation.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Reincarnation|Reincarnation]] 
 
-### #is_/same_as :: [Reincarnation.public](/_public/Philosophy/Metaphysic/Religion/Reincarnation.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Reincarnation.public|Reincarnation.public]] 
 
-### #is_/same_as :: [Reincarnation.internal](/_internal/Philosophy/Metaphysic/Religion/Reincarnation.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Reincarnation.internal|Reincarnation.internal]] 
 
-### #is_/same_as :: [Reincarnation.protect](/_protect/Philosophy/Metaphysic/Religion/Reincarnation.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Reincarnation.protect|Reincarnation.protect]] 
 
-### #is_/same_as :: [Reincarnation.private](/_private/Philosophy/Metaphysic/Religion/Reincarnation.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Reincarnation.private|Reincarnation.private]] 
 
-### #is_/same_as :: [Reincarnation.personal](/_personal/Philosophy/Metaphysic/Religion/Reincarnation.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Reincarnation.personal|Reincarnation.personal]] 
 
-### #is_/same_as :: [Reincarnation.secret](/_secret/Philosophy/Metaphysic/Religion/Reincarnation.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Reincarnation.secret|Reincarnation.secret]] 
 

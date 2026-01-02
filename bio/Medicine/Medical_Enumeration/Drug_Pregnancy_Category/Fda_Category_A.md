@@ -42,17 +42,17 @@ A designation by the US FDA signifying that adequate and well-controlled studies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fda_Category_A](/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A|Fda_Category_A]] 
 
-### #is_/same_as :: [Fda_Category_A.public](/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.public|Fda_Category_A.public]] 
 
-### #is_/same_as :: [Fda_Category_A.internal](/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.internal|Fda_Category_A.internal]] 
 
-### #is_/same_as :: [Fda_Category_A.protect](/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.protect|Fda_Category_A.protect]] 
 
-### #is_/same_as :: [Fda_Category_A.private](/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.private|Fda_Category_A.private]] 
 
-### #is_/same_as :: [Fda_Category_A.personal](/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.personal|Fda_Category_A.personal]] 
 
-### #is_/same_as :: [Fda_Category_A.secret](/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Drug_Pregnancy_Category/Fda_Category_A.secret|Fda_Category_A.secret]] 
 

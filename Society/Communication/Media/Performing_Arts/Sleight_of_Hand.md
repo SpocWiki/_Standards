@@ -47,17 +47,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sleight%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sleight_of_Hand](/_Standards/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Sleight_of_Hand|Sleight_of_Hand]] 
 
-### #is_/same_as :: [Sleight_of_Hand.public](/_public/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.public|Sleight_of_Hand.public]] 
 
-### #is_/same_as :: [Sleight_of_Hand.internal](/_internal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.internal|Sleight_of_Hand.internal]] 
 
-### #is_/same_as :: [Sleight_of_Hand.protect](/_protect/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.protect|Sleight_of_Hand.protect]] 
 
-### #is_/same_as :: [Sleight_of_Hand.private](/_private/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.private|Sleight_of_Hand.private]] 
 
-### #is_/same_as :: [Sleight_of_Hand.personal](/_personal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.personal|Sleight_of_Hand.personal]] 
 
-### #is_/same_as :: [Sleight_of_Hand.secret](/_secret/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Sleight_of_Hand.secret|Sleight_of_Hand.secret]] 
 

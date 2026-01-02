@@ -29,17 +29,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/filosofiya/PARADIGMA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paradigm](/_Standards/Philosophy/Paradigm.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Paradigm|Paradigm]] 
 
-### #is_/same_as :: [Paradigm.public](/_public/Philosophy/Paradigm.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Paradigm.public|Paradigm.public]] 
 
-### #is_/same_as :: [Paradigm.internal](/_internal/Philosophy/Paradigm.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Paradigm.internal|Paradigm.internal]] 
 
-### #is_/same_as :: [Paradigm.protect](/_protect/Philosophy/Paradigm.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Paradigm.protect|Paradigm.protect]] 
 
-### #is_/same_as :: [Paradigm.private](/_private/Philosophy/Paradigm.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Paradigm.private|Paradigm.private]] 
 
-### #is_/same_as :: [Paradigm.personal](/_personal/Philosophy/Paradigm.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Paradigm.personal|Paradigm.personal]] 
 
-### #is_/same_as :: [Paradigm.secret](/_secret/Philosophy/Paradigm.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Paradigm.secret|Paradigm.secret]] 
 

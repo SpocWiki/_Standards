@@ -121,17 +121,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Opera](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera|Opera]] 
 
-### #is_/same_as :: [Opera.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.public|Opera.public]] 
 
-### #is_/same_as :: [Opera.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.internal|Opera.internal]] 
 
-### #is_/same_as :: [Opera.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.protect|Opera.protect]] 
 
-### #is_/same_as :: [Opera.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.private|Opera.private]] 
 
-### #is_/same_as :: [Opera.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.personal|Opera.personal]] 
 
-### #is_/same_as :: [Opera.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Opera.secret|Opera.secret]] 
 

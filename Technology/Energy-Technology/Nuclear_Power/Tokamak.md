@@ -79,17 +79,17 @@ Commons_category: Tokamaks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tokamak](/_Standards/Technology/Energy-Technology/Nuclear_Power/Tokamak.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Nuclear_Power/Tokamak|Tokamak]] 
 
-### #is_/same_as :: [Tokamak.public](/_public/Technology/Energy-Technology/Nuclear_Power/Tokamak.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Nuclear_Power/Tokamak.public|Tokamak.public]] 
 
-### #is_/same_as :: [Tokamak.internal](/_internal/Technology/Energy-Technology/Nuclear_Power/Tokamak.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Nuclear_Power/Tokamak.internal|Tokamak.internal]] 
 
-### #is_/same_as :: [Tokamak.protect](/_protect/Technology/Energy-Technology/Nuclear_Power/Tokamak.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Nuclear_Power/Tokamak.protect|Tokamak.protect]] 
 
-### #is_/same_as :: [Tokamak.private](/_private/Technology/Energy-Technology/Nuclear_Power/Tokamak.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Nuclear_Power/Tokamak.private|Tokamak.private]] 
 
-### #is_/same_as :: [Tokamak.personal](/_personal/Technology/Energy-Technology/Nuclear_Power/Tokamak.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Nuclear_Power/Tokamak.personal|Tokamak.personal]] 
 
-### #is_/same_as :: [Tokamak.secret](/_secret/Technology/Energy-Technology/Nuclear_Power/Tokamak.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Nuclear_Power/Tokamak.secret|Tokamak.secret]] 
 

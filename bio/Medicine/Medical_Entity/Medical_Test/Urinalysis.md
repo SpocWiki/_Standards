@@ -35,17 +35,17 @@ ATC_code: V04B
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Urinalysis](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis|Urinalysis]] 
 
-### #is_/same_as :: [Urinalysis.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.public|Urinalysis.public]] 
 
-### #is_/same_as :: [Urinalysis.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.internal|Urinalysis.internal]] 
 
-### #is_/same_as :: [Urinalysis.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.protect|Urinalysis.protect]] 
 
-### #is_/same_as :: [Urinalysis.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.private|Urinalysis.private]] 
 
-### #is_/same_as :: [Urinalysis.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.personal|Urinalysis.personal]] 
 
-### #is_/same_as :: [Urinalysis.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test/Urinalysis.secret|Urinalysis.secret]] 
 

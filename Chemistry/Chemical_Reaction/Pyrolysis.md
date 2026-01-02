@@ -29,17 +29,17 @@ Commons_category: Pyrolysis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyrolysis](/_Standards/Chemistry/Chemical_Reaction/Pyrolysis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Pyrolysis|Pyrolysis]] 
 
-### #is_/same_as :: [Pyrolysis.public](/_public/Chemistry/Chemical_Reaction/Pyrolysis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Pyrolysis.public|Pyrolysis.public]] 
 
-### #is_/same_as :: [Pyrolysis.internal](/_internal/Chemistry/Chemical_Reaction/Pyrolysis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Pyrolysis.internal|Pyrolysis.internal]] 
 
-### #is_/same_as :: [Pyrolysis.protect](/_protect/Chemistry/Chemical_Reaction/Pyrolysis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Pyrolysis.protect|Pyrolysis.protect]] 
 
-### #is_/same_as :: [Pyrolysis.private](/_private/Chemistry/Chemical_Reaction/Pyrolysis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Pyrolysis.private|Pyrolysis.private]] 
 
-### #is_/same_as :: [Pyrolysis.personal](/_personal/Chemistry/Chemical_Reaction/Pyrolysis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Pyrolysis.personal|Pyrolysis.personal]] 
 
-### #is_/same_as :: [Pyrolysis.secret](/_secret/Chemistry/Chemical_Reaction/Pyrolysis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Pyrolysis.secret|Pyrolysis.secret]] 
 

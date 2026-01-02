@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [STMicroelectronics](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics|STMicroelectronics]] 
 
-### #is_/same_as :: [STMicroelectronics.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.public|STMicroelectronics.public]] 
 
-### #is_/same_as :: [STMicroelectronics.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.internal|STMicroelectronics.internal]] 
 
-### #is_/same_as :: [STMicroelectronics.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.protect|STMicroelectronics.protect]] 
 
-### #is_/same_as :: [STMicroelectronics.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.private|STMicroelectronics.private]] 
 
-### #is_/same_as :: [STMicroelectronics.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.personal|STMicroelectronics.personal]] 
 
-### #is_/same_as :: [STMicroelectronics.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/STMicroelectronics.secret|STMicroelectronics.secret]] 
 

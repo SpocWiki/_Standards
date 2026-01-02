@@ -60,17 +60,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_dateline](/_Standards/schema-org/Property/Texts/has_dateline.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_dateline|has_dateline]] 
 
-### #is_/same_as :: [has_dateline.public](/_public/schema-org/Property/Texts/has_dateline.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_dateline.public|has_dateline.public]] 
 
-### #is_/same_as :: [has_dateline.internal](/_internal/schema-org/Property/Texts/has_dateline.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_dateline.internal|has_dateline.internal]] 
 
-### #is_/same_as :: [has_dateline.protect](/_protect/schema-org/Property/Texts/has_dateline.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_dateline.protect|has_dateline.protect]] 
 
-### #is_/same_as :: [has_dateline.private](/_private/schema-org/Property/Texts/has_dateline.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_dateline.private|has_dateline.private]] 
 
-### #is_/same_as :: [has_dateline.personal](/_personal/schema-org/Property/Texts/has_dateline.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_dateline.personal|has_dateline.personal]] 
 
-### #is_/same_as :: [has_dateline.secret](/_secret/schema-org/Property/Texts/has_dateline.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_dateline.secret|has_dateline.secret]] 
 

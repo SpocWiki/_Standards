@@ -34,17 +34,17 @@ Commons_category: Astrodynamics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbital_Mechanics](/_Standards/Astronomy/Solar_System/Orbital_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics|Orbital_Mechanics]] 
 
-### #is_/same_as :: [Orbital_Mechanics.public](/_public/Astronomy/Solar_System/Orbital_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics.public|Orbital_Mechanics.public]] 
 
-### #is_/same_as :: [Orbital_Mechanics.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics.internal|Orbital_Mechanics.internal]] 
 
-### #is_/same_as :: [Orbital_Mechanics.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics.protect|Orbital_Mechanics.protect]] 
 
-### #is_/same_as :: [Orbital_Mechanics.private](/_private/Astronomy/Solar_System/Orbital_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics.private|Orbital_Mechanics.private]] 
 
-### #is_/same_as :: [Orbital_Mechanics.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics.personal|Orbital_Mechanics.personal]] 
 
-### #is_/same_as :: [Orbital_Mechanics.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics.secret|Orbital_Mechanics.secret]] 
 

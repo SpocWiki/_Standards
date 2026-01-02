@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_game_server](/_Standards/schema-org/Relation/has/has_game_server.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_game_server|has_game_server]] 
 
-### #is_/same_as :: [has_game_server.public](/_public/schema-org/Relation/has/has_game_server.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_game_server.public|has_game_server.public]] 
 
-### #is_/same_as :: [has_game_server.internal](/_internal/schema-org/Relation/has/has_game_server.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_game_server.internal|has_game_server.internal]] 
 
-### #is_/same_as :: [has_game_server.protect](/_protect/schema-org/Relation/has/has_game_server.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_game_server.protect|has_game_server.protect]] 
 
-### #is_/same_as :: [has_game_server.private](/_private/schema-org/Relation/has/has_game_server.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_game_server.private|has_game_server.private]] 
 
-### #is_/same_as :: [has_game_server.personal](/_personal/schema-org/Relation/has/has_game_server.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_game_server.personal|has_game_server.personal]] 
 
-### #is_/same_as :: [has_game_server.secret](/_secret/schema-org/Relation/has/has_game_server.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_game_server.secret|has_game_server.secret]] 
 

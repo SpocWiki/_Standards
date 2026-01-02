@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [King_Crimson](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson|King_Crimson]] 
 
-### #is_/same_as :: [King_Crimson.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.public|King_Crimson.public]] 
 
-### #is_/same_as :: [King_Crimson.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.internal|King_Crimson.internal]] 
 
-### #is_/same_as :: [King_Crimson.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.protect|King_Crimson.protect]] 
 
-### #is_/same_as :: [King_Crimson.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.private|King_Crimson.private]] 
 
-### #is_/same_as :: [King_Crimson.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.personal|King_Crimson.personal]] 
 
-### #is_/same_as :: [King_Crimson.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/King_Crimson.secret|King_Crimson.secret]] 
 

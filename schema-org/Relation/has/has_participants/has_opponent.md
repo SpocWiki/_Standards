@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_opponent](has_opponent.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_participants/has_opponent|has_opponent]] 
 
-### #is_/same_as :: [has_opponent.public](/_public/schema-org/Relation/has/has_opponent.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_participants/has_opponent.public|has_opponent.public]] 
 
-### #is_/same_as :: [has_opponent.internal](/_internal/schema-org/Relation/has/has_opponent.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_participants/has_opponent.internal|has_opponent.internal]] 
 
-### #is_/same_as :: [has_opponent.protect](/_protect/schema-org/Relation/has/has_opponent.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_participants/has_opponent.protect|has_opponent.protect]] 
 
-### #is_/same_as :: [has_opponent.private](/_private/schema-org/Relation/has/has_opponent.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_participants/has_opponent.private|has_opponent.private]] 
 
-### #is_/same_as :: [has_opponent.personal](/_personal/schema-org/Relation/has/has_opponent.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_participants/has_opponent.personal|has_opponent.personal]] 
 
-### #is_/same_as :: [has_opponent.secret](/_secret/schema-org/Relation/has/has_opponent.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_participants/has_opponent.secret|has_opponent.secret]] 
 

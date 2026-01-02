@@ -56,17 +56,17 @@ date_of_birth: 1919-09-06T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greatbatch,Wilson](/_Standards/Science/Inventor/Greatbatch,Wilson.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Greatbatch,Wilson|Greatbatch,Wilson]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.public](/_public/Science/Inventor/Greatbatch,Wilson.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Greatbatch,Wilson.public|Greatbatch,Wilson.public]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.internal](/_internal/Science/Inventor/Greatbatch,Wilson.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Greatbatch,Wilson.internal|Greatbatch,Wilson.internal]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.protect](/_protect/Science/Inventor/Greatbatch,Wilson.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Greatbatch,Wilson.protect|Greatbatch,Wilson.protect]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.private](/_private/Science/Inventor/Greatbatch,Wilson.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Greatbatch,Wilson.private|Greatbatch,Wilson.private]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.personal](/_personal/Science/Inventor/Greatbatch,Wilson.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Greatbatch,Wilson.personal|Greatbatch,Wilson.personal]] 
 
-### #is_/same_as :: [Greatbatch,Wilson.secret](/_secret/Science/Inventor/Greatbatch,Wilson.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Greatbatch,Wilson.secret|Greatbatch,Wilson.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_isrc](/_Standards/schema-org/Property/has_name/has_id_isrc.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_isrc|has_id_isrc]] 
 
-### #is_/same_as :: [has_id_isrc.public](/_public/schema-org/Property/has_name/has_id_isrc.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_isrc.public|has_id_isrc.public]] 
 
-### #is_/same_as :: [has_id_isrc.internal](/_internal/schema-org/Property/has_name/has_id_isrc.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_isrc.internal|has_id_isrc.internal]] 
 
-### #is_/same_as :: [has_id_isrc.protect](/_protect/schema-org/Property/has_name/has_id_isrc.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_isrc.protect|has_id_isrc.protect]] 
 
-### #is_/same_as :: [has_id_isrc.private](/_private/schema-org/Property/has_name/has_id_isrc.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_isrc.private|has_id_isrc.private]] 
 
-### #is_/same_as :: [has_id_isrc.personal](/_personal/schema-org/Property/has_name/has_id_isrc.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_isrc.personal|has_id_isrc.personal]] 
 
-### #is_/same_as :: [has_id_isrc.secret](/_secret/schema-org/Property/has_name/has_id_isrc.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_isrc.secret|has_id_isrc.secret]] 
 

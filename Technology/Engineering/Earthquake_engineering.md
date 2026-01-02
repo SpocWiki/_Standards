@@ -28,17 +28,17 @@ Commons_category: Earthquake engineering
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earthquake_engineering](/_Standards/Technology/Engineering/Earthquake_engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Earthquake_engineering|Earthquake_engineering]] 
 
-### #is_/same_as :: [Earthquake_engineering.public](/_public/Technology/Engineering/Earthquake_engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Earthquake_engineering.public|Earthquake_engineering.public]] 
 
-### #is_/same_as :: [Earthquake_engineering.internal](/_internal/Technology/Engineering/Earthquake_engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Earthquake_engineering.internal|Earthquake_engineering.internal]] 
 
-### #is_/same_as :: [Earthquake_engineering.protect](/_protect/Technology/Engineering/Earthquake_engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Earthquake_engineering.protect|Earthquake_engineering.protect]] 
 
-### #is_/same_as :: [Earthquake_engineering.private](/_private/Technology/Engineering/Earthquake_engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Earthquake_engineering.private|Earthquake_engineering.private]] 
 
-### #is_/same_as :: [Earthquake_engineering.personal](/_personal/Technology/Engineering/Earthquake_engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Earthquake_engineering.personal|Earthquake_engineering.personal]] 
 
-### #is_/same_as :: [Earthquake_engineering.secret](/_secret/Technology/Engineering/Earthquake_engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Earthquake_engineering.secret|Earthquake_engineering.secret]] 
 

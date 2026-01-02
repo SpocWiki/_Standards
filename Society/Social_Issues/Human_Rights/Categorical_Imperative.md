@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Categorical_Imperative](/_Standards/Society/Social_Issues/Human_Rights/Categorical_Imperative.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights/Categorical_Imperative|Categorical_Imperative]] 
 
-### #is_/same_as :: [Categorical_Imperative.public](/_public/Society/Social_Issues/Human_Rights/Categorical_Imperative.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights/Categorical_Imperative.public|Categorical_Imperative.public]] 
 
-### #is_/same_as :: [Categorical_Imperative.internal](/_internal/Society/Social_Issues/Human_Rights/Categorical_Imperative.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights/Categorical_Imperative.internal|Categorical_Imperative.internal]] 
 
-### #is_/same_as :: [Categorical_Imperative.protect](/_protect/Society/Social_Issues/Human_Rights/Categorical_Imperative.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights/Categorical_Imperative.protect|Categorical_Imperative.protect]] 
 
-### #is_/same_as :: [Categorical_Imperative.private](/_private/Society/Social_Issues/Human_Rights/Categorical_Imperative.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights/Categorical_Imperative.private|Categorical_Imperative.private]] 
 
-### #is_/same_as :: [Categorical_Imperative.personal](/_personal/Society/Social_Issues/Human_Rights/Categorical_Imperative.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights/Categorical_Imperative.personal|Categorical_Imperative.personal]] 
 
-### #is_/same_as :: [Categorical_Imperative.secret](/_secret/Society/Social_Issues/Human_Rights/Categorical_Imperative.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights/Categorical_Imperative.secret|Categorical_Imperative.secret]] 
 

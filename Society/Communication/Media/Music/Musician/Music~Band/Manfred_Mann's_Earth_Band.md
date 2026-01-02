@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band|Manfred_Mann's_Earth_Band]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.public|Manfred_Mann's_Earth_Band.public]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.internal|Manfred_Mann's_Earth_Band.internal]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.protect|Manfred_Mann's_Earth_Band.protect]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.private|Manfred_Mann's_Earth_Band.private]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.personal|Manfred_Mann's_Earth_Band.personal]] 
 
-### #is_/same_as :: [Manfred_Mann's_Earth_Band.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Manfred_Mann's_Earth_Band.secret|Manfred_Mann's_Earth_Band.secret]] 
 

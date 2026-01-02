@@ -48,17 +48,17 @@ OpenStreetMap_tag: healthcare:speciality=pulmonology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pulmonology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology|Pulmonology]] 
 
-### #is_/same_as :: [Pulmonology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.public|Pulmonology.public]] 
 
-### #is_/same_as :: [Pulmonology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.internal|Pulmonology.internal]] 
 
-### #is_/same_as :: [Pulmonology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.protect|Pulmonology.protect]] 
 
-### #is_/same_as :: [Pulmonology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.private|Pulmonology.private]] 
 
-### #is_/same_as :: [Pulmonology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.personal|Pulmonology.personal]] 
 
-### #is_/same_as :: [Pulmonology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Pulmonology.secret|Pulmonology.secret]] 
 

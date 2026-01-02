@@ -71,17 +71,17 @@ MeSH_tree_code: M01.270.968
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indigenous_People](/_Standards/Society/Indigenous_People.md) 
+### #is_/same_as :: [[/_Standards/Society/Indigenous_People|Indigenous_People]] 
 
-### #is_/same_as :: [Indigenous_People.public](/_public/Society/Indigenous_People.public.md) 
+### #is_/same_as :: [[/_public/Society/Indigenous_People.public|Indigenous_People.public]] 
 
-### #is_/same_as :: [Indigenous_People.internal](/_internal/Society/Indigenous_People.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Indigenous_People.internal|Indigenous_People.internal]] 
 
-### #is_/same_as :: [Indigenous_People.protect](/_protect/Society/Indigenous_People.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Indigenous_People.protect|Indigenous_People.protect]] 
 
-### #is_/same_as :: [Indigenous_People.private](/_private/Society/Indigenous_People.private.md) 
+### #is_/same_as :: [[/_private/Society/Indigenous_People.private|Indigenous_People.private]] 
 
-### #is_/same_as :: [Indigenous_People.personal](/_personal/Society/Indigenous_People.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Indigenous_People.personal|Indigenous_People.personal]] 
 
-### #is_/same_as :: [Indigenous_People.secret](/_secret/Society/Indigenous_People.secret.md)
+### #is_/same_as :: [[/_secret/Society/Indigenous_People.secret|Indigenous_People.secret]] 
 

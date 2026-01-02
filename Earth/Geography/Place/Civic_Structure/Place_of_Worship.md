@@ -49,17 +49,17 @@ Place of worship, such as a church, synagogue, or mosque.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Place_of_Worship](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship|Place_of_Worship]] 
 
-### #is_/same_as :: [Place_of_Worship.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship.public|Place_of_Worship.public]] 
 
-### #is_/same_as :: [Place_of_Worship.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.internal|Place_of_Worship.internal]] 
 
-### #is_/same_as :: [Place_of_Worship.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship.protect|Place_of_Worship.protect]] 
 
-### #is_/same_as :: [Place_of_Worship.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship.private|Place_of_Worship.private]] 
 
-### #is_/same_as :: [Place_of_Worship.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship.personal|Place_of_Worship.personal]] 
 
-### #is_/same_as :: [Place_of_Worship.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship.secret|Place_of_Worship.secret]] 
 

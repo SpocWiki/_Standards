@@ -67,17 +67,17 @@ short_name: CARICOM
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caribbean_Community](/_Standards/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Caribbean_Community|Caribbean_Community]] 
 
-### #is_/same_as :: [Caribbean_Community.public](/_public/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.public|Caribbean_Community.public]] 
 
-### #is_/same_as :: [Caribbean_Community.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.internal|Caribbean_Community.internal]] 
 
-### #is_/same_as :: [Caribbean_Community.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.protect|Caribbean_Community.protect]] 
 
-### #is_/same_as :: [Caribbean_Community.private](/_private/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.private|Caribbean_Community.private]] 
 
-### #is_/same_as :: [Caribbean_Community.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.personal|Caribbean_Community.personal]] 
 
-### #is_/same_as :: [Caribbean_Community.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Caribbean_Community.secret|Caribbean_Community.secret]] 
 

@@ -263,17 +263,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/PAVEL_SV.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paul_the_Apostle](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle|Paul_the_Apostle]] 
 
-### #is_/same_as :: [Paul_the_Apostle.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.public|Paul_the_Apostle.public]] 
 
-### #is_/same_as :: [Paul_the_Apostle.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.internal|Paul_the_Apostle.internal]] 
 
-### #is_/same_as :: [Paul_the_Apostle.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.protect|Paul_the_Apostle.protect]] 
 
-### #is_/same_as :: [Paul_the_Apostle.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.private|Paul_the_Apostle.private]] 
 
-### #is_/same_as :: [Paul_the_Apostle.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.personal|Paul_the_Apostle.personal]] 
 
-### #is_/same_as :: [Paul_the_Apostle.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Paul_the_Apostle.secret|Paul_the_Apostle.secret]] 
 

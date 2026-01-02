@@ -139,17 +139,17 @@ Libris_URI: dbqswkxx2kwq6fc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bogart,Humphrey](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey|Bogart,Humphrey]] 
 
-### #is_/same_as :: [Bogart,Humphrey.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.public|Bogart,Humphrey.public]] 
 
-### #is_/same_as :: [Bogart,Humphrey.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.internal|Bogart,Humphrey.internal]] 
 
-### #is_/same_as :: [Bogart,Humphrey.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.protect|Bogart,Humphrey.protect]] 
 
-### #is_/same_as :: [Bogart,Humphrey.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.private|Bogart,Humphrey.private]] 
 
-### #is_/same_as :: [Bogart,Humphrey.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.personal|Bogart,Humphrey.personal]] 
 
-### #is_/same_as :: [Bogart,Humphrey.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Bogart,Humphrey.secret|Bogart,Humphrey.secret]] 
 

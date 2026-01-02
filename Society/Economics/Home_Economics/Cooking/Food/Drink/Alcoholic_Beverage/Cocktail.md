@@ -46,17 +46,17 @@ Baidu_Tieba_name: 鸡尾酒
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cocktail](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail|Cocktail]] 
 
-### #is_/same_as :: [Cocktail.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.public|Cocktail.public]] 
 
-### #is_/same_as :: [Cocktail.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.internal|Cocktail.internal]] 
 
-### #is_/same_as :: [Cocktail.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.protect|Cocktail.protect]] 
 
-### #is_/same_as :: [Cocktail.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.private|Cocktail.private]] 
 
-### #is_/same_as :: [Cocktail.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.personal|Cocktail.personal]] 
 
-### #is_/same_as :: [Cocktail.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Alcoholic_Beverage/Cocktail.secret|Cocktail.secret]] 
 

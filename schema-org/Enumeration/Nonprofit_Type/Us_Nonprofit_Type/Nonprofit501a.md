@@ -42,17 +42,17 @@ Nonprofit501a: Non-profit type referring to Farmersâ€™ Cooperative Associat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501a](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a|Nonprofit501a]] 
 
-### #is_/same_as :: [Nonprofit501a.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.public|Nonprofit501a.public]] 
 
-### #is_/same_as :: [Nonprofit501a.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.internal|Nonprofit501a.internal]] 
 
-### #is_/same_as :: [Nonprofit501a.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.protect|Nonprofit501a.protect]] 
 
-### #is_/same_as :: [Nonprofit501a.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.private|Nonprofit501a.private]] 
 
-### #is_/same_as :: [Nonprofit501a.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.personal|Nonprofit501a.personal]] 
 
-### #is_/same_as :: [Nonprofit501a.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501a.secret|Nonprofit501a.secret]] 
 

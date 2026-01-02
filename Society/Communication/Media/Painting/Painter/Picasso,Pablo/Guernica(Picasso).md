@@ -60,17 +60,17 @@ inception: 1937-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guernica(Picasso)](/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso)|Guernica(Picasso)]] 
 
-### #is_/same_as :: [Guernica(Picasso).public](/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).public|Guernica(Picasso).public]] 
 
-### #is_/same_as :: [Guernica(Picasso).internal](/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).internal|Guernica(Picasso).internal]] 
 
-### #is_/same_as :: [Guernica(Picasso).protect](/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).protect|Guernica(Picasso).protect]] 
 
-### #is_/same_as :: [Guernica(Picasso).private](/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).private|Guernica(Picasso).private]] 
 
-### #is_/same_as :: [Guernica(Picasso).personal](/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).personal|Guernica(Picasso).personal]] 
 
-### #is_/same_as :: [Guernica(Picasso).secret](/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Picasso,Pablo/Guernica(Picasso).secret|Guernica(Picasso).secret]] 
 

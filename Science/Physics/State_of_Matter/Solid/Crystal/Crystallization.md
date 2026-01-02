@@ -43,17 +43,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Crystallisation::5bgvh"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crystallization](/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization|Crystallization]] 
 
-### #is_/same_as :: [Crystallization.public](/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.public|Crystallization.public]] 
 
-### #is_/same_as :: [Crystallization.internal](/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.internal|Crystallization.internal]] 
 
-### #is_/same_as :: [Crystallization.protect](/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.protect|Crystallization.protect]] 
 
-### #is_/same_as :: [Crystallization.private](/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.private|Crystallization.private]] 
 
-### #is_/same_as :: [Crystallization.personal](/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.personal|Crystallization.personal]] 
 
-### #is_/same_as :: [Crystallization.secret](/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Crystal/Crystallization.secret|Crystallization.secret]] 
 

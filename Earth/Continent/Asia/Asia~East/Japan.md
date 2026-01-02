@@ -773,17 +773,17 @@ Here is a detailed table of Japan's 47 prefectures with Data of 2020:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Japan](/_Standards/Earth/Continent/Asia/Asia~East/Japan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Japan|Japan]] 
 
-### #is_/same_as :: [Japan.public](/_public/Earth/Continent/Asia/Asia~East/Japan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Japan.public|Japan.public]] 
 
-### #is_/same_as :: [Japan.internal](/_internal/Earth/Continent/Asia/Asia~East/Japan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Japan.internal|Japan.internal]] 
 
-### #is_/same_as :: [Japan.protect](/_protect/Earth/Continent/Asia/Asia~East/Japan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Japan.protect|Japan.protect]] 
 
-### #is_/same_as :: [Japan.private](/_private/Earth/Continent/Asia/Asia~East/Japan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Japan.private|Japan.private]] 
 
-### #is_/same_as :: [Japan.personal](/_personal/Earth/Continent/Asia/Asia~East/Japan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Japan.personal|Japan.personal]] 
 
-### #is_/same_as :: [Japan.secret](/_secret/Earth/Continent/Asia/Asia~East/Japan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Japan.secret|Japan.secret]] 
 

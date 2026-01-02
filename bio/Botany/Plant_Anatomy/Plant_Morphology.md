@@ -40,17 +40,17 @@ Commons_category: Plant morphology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Morphology](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology|Plant_Morphology]] 
 
-### #is_/same_as :: [Plant_Morphology.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology.public|Plant_Morphology.public]] 
 
-### #is_/same_as :: [Plant_Morphology.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology.internal|Plant_Morphology.internal]] 
 
-### #is_/same_as :: [Plant_Morphology.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology.protect|Plant_Morphology.protect]] 
 
-### #is_/same_as :: [Plant_Morphology.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology.private|Plant_Morphology.private]] 
 
-### #is_/same_as :: [Plant_Morphology.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology.personal|Plant_Morphology.personal]] 
 
-### #is_/same_as :: [Plant_Morphology.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology.secret|Plant_Morphology.secret]] 
 

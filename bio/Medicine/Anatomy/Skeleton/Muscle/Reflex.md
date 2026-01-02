@@ -56,17 +56,17 @@ Commons_category: Reflexes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reflex](/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex|Reflex]] 
 
-### #is_/same_as :: [Reflex.public](/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.public|Reflex.public]] 
 
-### #is_/same_as :: [Reflex.internal](/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.internal|Reflex.internal]] 
 
-### #is_/same_as :: [Reflex.protect](/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.protect|Reflex.protect]] 
 
-### #is_/same_as :: [Reflex.private](/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.private|Reflex.private]] 
 
-### #is_/same_as :: [Reflex.personal](/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.personal|Reflex.personal]] 
 
-### #is_/same_as :: [Reflex.secret](/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Skeleton/Muscle/Reflex.secret|Reflex.secret]] 
 

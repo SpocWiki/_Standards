@@ -43,17 +43,17 @@ A payment method using a credit, debit, store or other card to associate the pay
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Card](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card|Payment_Card]] 
 
-### #is_/same_as :: [Payment_Card.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.public|Payment_Card.public]] 
 
-### #is_/same_as :: [Payment_Card.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.internal|Payment_Card.internal]] 
 
-### #is_/same_as :: [Payment_Card.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.protect|Payment_Card.protect]] 
 
-### #is_/same_as :: [Payment_Card.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.private|Payment_Card.private]] 
 
-### #is_/same_as :: [Payment_Card.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.personal|Payment_Card.personal]] 
 
-### #is_/same_as :: [Payment_Card.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Payment_Card.secret|Payment_Card.secret]] 
 

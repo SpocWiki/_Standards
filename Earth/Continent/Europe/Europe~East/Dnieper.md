@@ -215,17 +215,17 @@ Commons_category: Dnieper (river)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dnieper](/_Standards/Earth/Continent/Europe/Europe~East/Dnieper.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Dnieper|Dnieper]] 
 
-### #is_/same_as :: [Dnieper.public](/_public/Earth/Continent/Europe/Europe~East/Dnieper.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Dnieper.public|Dnieper.public]] 
 
-### #is_/same_as :: [Dnieper.internal](/_internal/Earth/Continent/Europe/Europe~East/Dnieper.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Dnieper.internal|Dnieper.internal]] 
 
-### #is_/same_as :: [Dnieper.protect](/_protect/Earth/Continent/Europe/Europe~East/Dnieper.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Dnieper.protect|Dnieper.protect]] 
 
-### #is_/same_as :: [Dnieper.private](/_private/Earth/Continent/Europe/Europe~East/Dnieper.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Dnieper.private|Dnieper.private]] 
 
-### #is_/same_as :: [Dnieper.personal](/_personal/Earth/Continent/Europe/Europe~East/Dnieper.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Dnieper.personal|Dnieper.personal]] 
 
-### #is_/same_as :: [Dnieper.secret](/_secret/Earth/Continent/Europe/Europe~East/Dnieper.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Dnieper.secret|Dnieper.secret]] 
 

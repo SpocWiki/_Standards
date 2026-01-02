@@ -36,17 +36,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yemen_Democratic_(Former)](/_Standards/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former)|Yemen_Democratic_(Former)]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).public](/_public/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).public|Yemen_Democratic_(Former).public]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).internal](/_internal/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).internal|Yemen_Democratic_(Former).internal]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).protect](/_protect/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).protect|Yemen_Democratic_(Former).protect]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).private](/_private/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).private|Yemen_Democratic_(Former).private]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).personal](/_personal/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).personal|Yemen_Democratic_(Former).personal]] 
 
-### #is_/same_as :: [Yemen_Democratic_(Former).secret](/_secret/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Yemen_Democratic_(Former).secret|Yemen_Democratic_(Former).secret]] 
 

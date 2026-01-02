@@ -42,17 +42,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harrelson,Woody](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody|Harrelson,Woody]] 
 
-### #is_/same_as :: [Harrelson,Woody.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.public|Harrelson,Woody.public]] 
 
-### #is_/same_as :: [Harrelson,Woody.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.internal|Harrelson,Woody.internal]] 
 
-### #is_/same_as :: [Harrelson,Woody.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.protect|Harrelson,Woody.protect]] 
 
-### #is_/same_as :: [Harrelson,Woody.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.private|Harrelson,Woody.private]] 
 
-### #is_/same_as :: [Harrelson,Woody.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.personal|Harrelson,Woody.personal]] 
 
-### #is_/same_as :: [Harrelson,Woody.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Harrelson,Woody.secret|Harrelson,Woody.secret]] 
 

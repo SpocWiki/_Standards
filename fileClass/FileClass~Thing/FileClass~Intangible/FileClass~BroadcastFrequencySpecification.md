@@ -67,17 +67,17 @@ BroadcastSubChannel:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification|FileClass~BroadcastFrequencySpecification]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.public|FileClass~BroadcastFrequencySpecification.public]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.internal|FileClass~BroadcastFrequencySpecification.internal]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.protect|FileClass~BroadcastFrequencySpecification.protect]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.private|FileClass~BroadcastFrequencySpecification.private]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.personal|FileClass~BroadcastFrequencySpecification.personal]] 
 
-### #is_/same_as :: [FileClass~BroadcastFrequencySpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~BroadcastFrequencySpecification.secret|FileClass~BroadcastFrequencySpecification.secret]] 
 

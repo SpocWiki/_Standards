@@ -149,17 +149,17 @@ and thus create a positive public Image.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carnegie,Andrew](/_Standards/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew|Carnegie,Andrew]] 
 
-### #is_/same_as :: [Carnegie,Andrew.public](/_public/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.public|Carnegie,Andrew.public]] 
 
-### #is_/same_as :: [Carnegie,Andrew.internal](/_internal/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.internal|Carnegie,Andrew.internal]] 
 
-### #is_/same_as :: [Carnegie,Andrew.protect](/_protect/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.protect|Carnegie,Andrew.protect]] 
 
-### #is_/same_as :: [Carnegie,Andrew.private](/_private/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.private|Carnegie,Andrew.private]] 
 
-### #is_/same_as :: [Carnegie,Andrew.personal](/_personal/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.personal|Carnegie,Andrew.personal]] 
 
-### #is_/same_as :: [Carnegie,Andrew.secret](/_secret/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business-Person/Carnegie,Andrew.secret|Carnegie,Andrew.secret]] 
 

@@ -72,17 +72,17 @@ water_footprint:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bean](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bean.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bean|Bean]] 
 
-### #is_/same_as :: [Bean.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Bean.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Bean.public|Bean.public]] 
 
-### #is_/same_as :: [Bean.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Bean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Bean.internal|Bean.internal]] 
 
-### #is_/same_as :: [Bean.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Bean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Bean.protect|Bean.protect]] 
 
-### #is_/same_as :: [Bean.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Bean.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Bean.private|Bean.private]] 
 
-### #is_/same_as :: [Bean.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Bean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Bean.personal|Bean.personal]] 
 
-### #is_/same_as :: [Bean.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Bean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Bean.secret|Bean.secret]] 
 

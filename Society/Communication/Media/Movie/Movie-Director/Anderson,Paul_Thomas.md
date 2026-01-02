@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anderson,Paul_Thomas](/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas|Anderson,Paul_Thomas]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.public](/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.public|Anderson,Paul_Thomas.public]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.internal|Anderson,Paul_Thomas.internal]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.protect|Anderson,Paul_Thomas.protect]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.private](/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.private|Anderson,Paul_Thomas.private]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.personal|Anderson,Paul_Thomas.personal]] 
 
-### #is_/same_as :: [Anderson,Paul_Thomas.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Anderson,Paul_Thomas.secret|Anderson,Paul_Thomas.secret]] 
 

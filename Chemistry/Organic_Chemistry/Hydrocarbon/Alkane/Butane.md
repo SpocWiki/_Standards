@@ -108,17 +108,17 @@ Commons_category: Butane
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Butane](/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane|Butane]] 
 
-### #is_/same_as :: [Butane.public](/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.public|Butane.public]] 
 
-### #is_/same_as :: [Butane.internal](/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.internal|Butane.internal]] 
 
-### #is_/same_as :: [Butane.protect](/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.protect|Butane.protect]] 
 
-### #is_/same_as :: [Butane.private](/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.private|Butane.private]] 
 
-### #is_/same_as :: [Butane.personal](/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.personal|Butane.personal]] 
 
-### #is_/same_as :: [Butane.secret](/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Butane.secret|Butane.secret]] 
 

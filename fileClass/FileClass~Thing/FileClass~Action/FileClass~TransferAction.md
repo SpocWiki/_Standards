@@ -59,17 +59,17 @@ ToLocation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TransferAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction|FileClass~TransferAction]] 
 
-### #is_/same_as :: [FileClass~TransferAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.public|FileClass~TransferAction.public]] 
 
-### #is_/same_as :: [FileClass~TransferAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.internal|FileClass~TransferAction.internal]] 
 
-### #is_/same_as :: [FileClass~TransferAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.protect|FileClass~TransferAction.protect]] 
 
-### #is_/same_as :: [FileClass~TransferAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.private|FileClass~TransferAction.private]] 
 
-### #is_/same_as :: [FileClass~TransferAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.personal|FileClass~TransferAction.personal]] 
 
-### #is_/same_as :: [FileClass~TransferAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction.secret|FileClass~TransferAction.secret]] 
 

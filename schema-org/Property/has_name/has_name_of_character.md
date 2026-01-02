@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name_of_character](/_Standards/schema-org/Property/has_name/has_name_of_character.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_of_character|has_name_of_character]] 
 
-### #is_/same_as :: [has_name_of_character.public](/_public/schema-org/Property/has_name/has_name_of_character.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name_of_character.public|has_name_of_character.public]] 
 
-### #is_/same_as :: [has_name_of_character.internal](/_internal/schema-org/Property/has_name/has_name_of_character.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name_of_character.internal|has_name_of_character.internal]] 
 
-### #is_/same_as :: [has_name_of_character.protect](/_protect/schema-org/Property/has_name/has_name_of_character.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name_of_character.protect|has_name_of_character.protect]] 
 
-### #is_/same_as :: [has_name_of_character.private](/_private/schema-org/Property/has_name/has_name_of_character.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name_of_character.private|has_name_of_character.private]] 
 
-### #is_/same_as :: [has_name_of_character.personal](/_personal/schema-org/Property/has_name/has_name_of_character.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name_of_character.personal|has_name_of_character.personal]] 
 
-### #is_/same_as :: [has_name_of_character.secret](/_secret/schema-org/Property/has_name/has_name_of_character.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name_of_character.secret|has_name_of_character.secret]] 
 

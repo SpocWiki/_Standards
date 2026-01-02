@@ -42,17 +42,17 @@ leading to a sucrose content of around 18% in modern varieties
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sugar_Beet](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet|Sugar_Beet]] 
 
-### #is_/same_as :: [Sugar_Beet.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.public|Sugar_Beet.public]] 
 
-### #is_/same_as :: [Sugar_Beet.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.internal|Sugar_Beet.internal]] 
 
-### #is_/same_as :: [Sugar_Beet.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.protect|Sugar_Beet.protect]] 
 
-### #is_/same_as :: [Sugar_Beet.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.private|Sugar_Beet.private]] 
 
-### #is_/same_as :: [Sugar_Beet.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.personal|Sugar_Beet.personal]] 
 
-### #is_/same_as :: [Sugar_Beet.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet.secret|Sugar_Beet.secret]] 
 

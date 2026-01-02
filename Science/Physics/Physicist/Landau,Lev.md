@@ -185,17 +185,17 @@ NLC_authorities: 000198060
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Landau,Lev](/_Standards/Science/Physics/Physicist/Landau,Lev.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Landau,Lev|Landau,Lev]] 
 
-### #is_/same_as :: [Landau,Lev.public](/_public/Science/Physics/Physicist/Landau,Lev.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Landau,Lev.public|Landau,Lev.public]] 
 
-### #is_/same_as :: [Landau,Lev.internal](/_internal/Science/Physics/Physicist/Landau,Lev.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Landau,Lev.internal|Landau,Lev.internal]] 
 
-### #is_/same_as :: [Landau,Lev.protect](/_protect/Science/Physics/Physicist/Landau,Lev.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Landau,Lev.protect|Landau,Lev.protect]] 
 
-### #is_/same_as :: [Landau,Lev.private](/_private/Science/Physics/Physicist/Landau,Lev.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Landau,Lev.private|Landau,Lev.private]] 
 
-### #is_/same_as :: [Landau,Lev.personal](/_personal/Science/Physics/Physicist/Landau,Lev.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Landau,Lev.personal|Landau,Lev.personal]] 
 
-### #is_/same_as :: [Landau,Lev.secret](/_secret/Science/Physics/Physicist/Landau,Lev.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Landau,Lev.secret|Landau,Lev.secret]] 
 

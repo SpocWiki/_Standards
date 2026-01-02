@@ -91,17 +91,17 @@ markerFolder: ./East_China_Sea/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [East_China_Sea](/_Standards/Earth/Ocean/East_China_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/East_China_Sea|East_China_Sea]] 
 
-### #is_/same_as :: [East_China_Sea.public](/_public/Earth/Ocean/East_China_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/East_China_Sea.public|East_China_Sea.public]] 
 
-### #is_/same_as :: [East_China_Sea.internal](/_internal/Earth/Ocean/East_China_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/East_China_Sea.internal|East_China_Sea.internal]] 
 
-### #is_/same_as :: [East_China_Sea.protect](/_protect/Earth/Ocean/East_China_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/East_China_Sea.protect|East_China_Sea.protect]] 
 
-### #is_/same_as :: [East_China_Sea.private](/_private/Earth/Ocean/East_China_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/East_China_Sea.private|East_China_Sea.private]] 
 
-### #is_/same_as :: [East_China_Sea.personal](/_personal/Earth/Ocean/East_China_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/East_China_Sea.personal|East_China_Sea.personal]] 
 
-### #is_/same_as :: [East_China_Sea.secret](/_secret/Earth/Ocean/East_China_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/East_China_Sea.secret|East_China_Sea.secret]] 
 

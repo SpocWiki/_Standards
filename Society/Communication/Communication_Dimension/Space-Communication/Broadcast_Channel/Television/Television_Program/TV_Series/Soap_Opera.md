@@ -58,17 +58,17 @@ Commons_category: Soap operas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soap_Opera](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera|Soap_Opera]] 
 
-### #is_/same_as :: [Soap_Opera.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.public|Soap_Opera.public]] 
 
-### #is_/same_as :: [Soap_Opera.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.internal|Soap_Opera.internal]] 
 
-### #is_/same_as :: [Soap_Opera.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.protect|Soap_Opera.protect]] 
 
-### #is_/same_as :: [Soap_Opera.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.private|Soap_Opera.private]] 
 
-### #is_/same_as :: [Soap_Opera.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.personal|Soap_Opera.personal]] 
 
-### #is_/same_as :: [Soap_Opera.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Soap_Opera.secret|Soap_Opera.secret]] 
 

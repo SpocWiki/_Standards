@@ -44,17 +44,17 @@ MeSH_tree_code: J01.040.895
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Organic_Agriculture](/_Standards/Society/Economics/Industry/Agriculture/Organic_Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Organic_Agriculture|Organic_Agriculture]] 
 
-### #is_/same_as :: [Organic_Agriculture.public](/_public/Society/Economics/Industry/Agriculture/Organic_Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Organic_Agriculture.public|Organic_Agriculture.public]] 
 
-### #is_/same_as :: [Organic_Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture/Organic_Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Organic_Agriculture.internal|Organic_Agriculture.internal]] 
 
-### #is_/same_as :: [Organic_Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture/Organic_Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Organic_Agriculture.protect|Organic_Agriculture.protect]] 
 
-### #is_/same_as :: [Organic_Agriculture.private](/_private/Society/Economics/Industry/Agriculture/Organic_Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Organic_Agriculture.private|Organic_Agriculture.private]] 
 
-### #is_/same_as :: [Organic_Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture/Organic_Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Organic_Agriculture.personal|Organic_Agriculture.personal]] 
 
-### #is_/same_as :: [Organic_Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture/Organic_Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Organic_Agriculture.secret|Organic_Agriculture.secret]] 
 

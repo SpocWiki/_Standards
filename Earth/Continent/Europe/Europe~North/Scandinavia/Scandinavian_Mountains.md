@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scandinavian_Mountains](/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains|Scandinavian_Mountains]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.public](/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.public|Scandinavian_Mountains.public]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.internal](/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.internal|Scandinavian_Mountains.internal]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.protect](/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.protect|Scandinavian_Mountains.protect]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.private](/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.private|Scandinavian_Mountains.private]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.personal](/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.personal|Scandinavian_Mountains.personal]] 
 
-### #is_/same_as :: [Scandinavian_Mountains.secret](/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~North/Scandinavia/Scandinavian_Mountains.secret|Scandinavian_Mountains.secret]] 
 

@@ -40,17 +40,17 @@ Unicode_character: 🪛
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Screwdriver](/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver|Screwdriver]] 
 
-### #is_/same_as :: [Screwdriver.public](/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.public|Screwdriver.public]] 
 
-### #is_/same_as :: [Screwdriver.internal](/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.internal|Screwdriver.internal]] 
 
-### #is_/same_as :: [Screwdriver.protect](/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.protect|Screwdriver.protect]] 
 
-### #is_/same_as :: [Screwdriver.private](/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.private|Screwdriver.private]] 
 
-### #is_/same_as :: [Screwdriver.personal](/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.personal|Screwdriver.personal]] 
 
-### #is_/same_as :: [Screwdriver.secret](/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Hand_Tool/Screwdriver.secret|Screwdriver.secret]] 
 

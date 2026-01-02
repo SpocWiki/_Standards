@@ -77,17 +77,17 @@ Krugosvet_article_archived_: Earth_sciences/geologiya/RUBIN.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ruby](/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby|Ruby]] 
 
-### #is_/same_as :: [Ruby.public](/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.public|Ruby.public]] 
 
-### #is_/same_as :: [Ruby.internal](/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.internal|Ruby.internal]] 
 
-### #is_/same_as :: [Ruby.protect](/_protect/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.protect|Ruby.protect]] 
 
-### #is_/same_as :: [Ruby.private](/_private/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.private|Ruby.private]] 
 
-### #is_/same_as :: [Ruby.personal](/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.personal|Ruby.personal]] 
 
-### #is_/same_as :: [Ruby.secret](/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire/Ruby.secret|Ruby.secret]] 
 

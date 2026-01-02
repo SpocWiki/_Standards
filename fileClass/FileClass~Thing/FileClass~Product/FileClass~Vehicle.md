@@ -473,17 +473,17 @@ Wheelbase:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Vehicle](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle|FileClass~Vehicle]] 
 
-### #is_/same_as :: [FileClass~Vehicle.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.public|FileClass~Vehicle.public]] 
 
-### #is_/same_as :: [FileClass~Vehicle.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.internal|FileClass~Vehicle.internal]] 
 
-### #is_/same_as :: [FileClass~Vehicle.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.protect|FileClass~Vehicle.protect]] 
 
-### #is_/same_as :: [FileClass~Vehicle.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.private|FileClass~Vehicle.private]] 
 
-### #is_/same_as :: [FileClass~Vehicle.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.personal|FileClass~Vehicle.personal]] 
 
-### #is_/same_as :: [FileClass~Vehicle.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~Vehicle.secret|FileClass~Vehicle.secret]] 
 

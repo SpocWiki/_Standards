@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_expire](/_Standards/schema-org/Property/has_Date_Time/has_time_to_expire.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_expire|has_time_to_expire]] 
 
-### #is_/same_as :: [has_time_to_expire.public](/_public/schema-org/Property/has_Date_Time/has_time_to_expire.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_expire.public|has_time_to_expire.public]] 
 
-### #is_/same_as :: [has_time_to_expire.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_expire.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_expire.internal|has_time_to_expire.internal]] 
 
-### #is_/same_as :: [has_time_to_expire.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_expire.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_expire.protect|has_time_to_expire.protect]] 
 
-### #is_/same_as :: [has_time_to_expire.private](/_private/schema-org/Property/has_Date_Time/has_time_to_expire.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_expire.private|has_time_to_expire.private]] 
 
-### #is_/same_as :: [has_time_to_expire.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_expire.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_expire.personal|has_time_to_expire.personal]] 
 
-### #is_/same_as :: [has_time_to_expire.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_expire.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_expire.secret|has_time_to_expire.secret]] 
 

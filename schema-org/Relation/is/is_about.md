@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_about](/_Standards/schema-org/Relation/is/is_about.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_about|is_about]] 
 
-### #is_/same_as :: [is_about.public](/_public/schema-org/Relation/is/is_about.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_about.public|is_about.public]] 
 
-### #is_/same_as :: [is_about.internal](/_internal/schema-org/Relation/is/is_about.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_about.internal|is_about.internal]] 
 
-### #is_/same_as :: [is_about.protect](/_protect/schema-org/Relation/is/is_about.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_about.protect|is_about.protect]] 
 
-### #is_/same_as :: [is_about.private](/_private/schema-org/Relation/is/is_about.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_about.private|is_about.private]] 
 
-### #is_/same_as :: [is_about.personal](/_personal/schema-org/Relation/is/is_about.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_about.personal|is_about.personal]] 
 
-### #is_/same_as :: [is_about.secret](/_secret/schema-org/Relation/is/is_about.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_about.secret|is_about.secret]] 
 

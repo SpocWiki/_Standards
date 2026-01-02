@@ -66,17 +66,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5863
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Java_Sea](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea|Java_Sea]] 
 
-### #is_/same_as :: [Java_Sea.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.public|Java_Sea.public]] 
 
-### #is_/same_as :: [Java_Sea.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.internal|Java_Sea.internal]] 
 
-### #is_/same_as :: [Java_Sea.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.protect|Java_Sea.protect]] 
 
-### #is_/same_as :: [Java_Sea.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.private|Java_Sea.private]] 
 
-### #is_/same_as :: [Java_Sea.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.personal|Java_Sea.personal]] 
 
-### #is_/same_as :: [Java_Sea.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Java_Sea.secret|Java_Sea.secret]] 
 

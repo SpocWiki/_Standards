@@ -109,17 +109,17 @@ booru_tag: francis_drake
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drake,Francis](/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis|Drake,Francis]] 
 
-### #is_/same_as :: [Drake,Francis.public](/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.public|Drake,Francis.public]] 
 
-### #is_/same_as :: [Drake,Francis.internal](/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.internal|Drake,Francis.internal]] 
 
-### #is_/same_as :: [Drake,Francis.protect](/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.protect|Drake,Francis.protect]] 
 
-### #is_/same_as :: [Drake,Francis.private](/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.private|Drake,Francis.private]] 
 
-### #is_/same_as :: [Drake,Francis.personal](/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.personal|Drake,Francis.personal]] 
 
-### #is_/same_as :: [Drake,Francis.secret](/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Piracy/Privateering/Drake,Francis.secret|Drake,Francis.secret]] 
 

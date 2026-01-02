@@ -51,17 +51,17 @@ Geospatial, AR/VR, artistic/animation, gaming, engineering and scientific conten
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [3d_Model](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model|3d_Model]] 
 
-### #is_/same_as :: [3d_Model.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.public|3d_Model.public]] 
 
-### #is_/same_as :: [3d_Model.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.internal|3d_Model.internal]] 
 
-### #is_/same_as :: [3d_Model.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.protect|3d_Model.protect]] 
 
-### #is_/same_as :: [3d_Model.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.private|3d_Model.private]] 
 
-### #is_/same_as :: [3d_Model.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.personal|3d_Model.personal]] 
 
-### #is_/same_as :: [3d_Model.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/3d_Model.secret|3d_Model.secret]] 
 

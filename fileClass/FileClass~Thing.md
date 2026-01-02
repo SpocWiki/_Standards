@@ -296,17 +296,17 @@ has_place_destroyed:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Thing](/_Standards/fileClass/FileClass~Thing.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing|FileClass~Thing]] 
 
-### #is_/same_as :: [FileClass~Thing.public](/_public/fileClass/FileClass~Thing.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing.public|FileClass~Thing.public]] 
 
-### #is_/same_as :: [FileClass~Thing.internal](/_internal/fileClass/FileClass~Thing.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing.internal|FileClass~Thing.internal]] 
 
-### #is_/same_as :: [FileClass~Thing.protect](/_protect/fileClass/FileClass~Thing.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing.protect|FileClass~Thing.protect]] 
 
-### #is_/same_as :: [FileClass~Thing.private](/_private/fileClass/FileClass~Thing.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing.private|FileClass~Thing.private]] 
 
-### #is_/same_as :: [FileClass~Thing.personal](/_personal/fileClass/FileClass~Thing.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing.personal|FileClass~Thing.personal]] 
 
-### #is_/same_as :: [FileClass~Thing.secret](/_secret/fileClass/FileClass~Thing.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing.secret|FileClass~Thing.secret]] 
 

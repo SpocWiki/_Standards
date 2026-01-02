@@ -42,17 +42,17 @@ Commons_category: General topology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [General_Topology](/_Standards/Mathematics/Topology/General_Topology.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/General_Topology|General_Topology]] 
 
-### #is_/same_as :: [General_Topology.public](/_public/Mathematics/Topology/General_Topology.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/General_Topology.public|General_Topology.public]] 
 
-### #is_/same_as :: [General_Topology.internal](/_internal/Mathematics/Topology/General_Topology.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/General_Topology.internal|General_Topology.internal]] 
 
-### #is_/same_as :: [General_Topology.protect](/_protect/Mathematics/Topology/General_Topology.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/General_Topology.protect|General_Topology.protect]] 
 
-### #is_/same_as :: [General_Topology.private](/_private/Mathematics/Topology/General_Topology.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/General_Topology.private|General_Topology.private]] 
 
-### #is_/same_as :: [General_Topology.personal](/_personal/Mathematics/Topology/General_Topology.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/General_Topology.personal|General_Topology.personal]] 
 
-### #is_/same_as :: [General_Topology.secret](/_secret/Mathematics/Topology/General_Topology.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/General_Topology.secret|General_Topology.secret]] 
 

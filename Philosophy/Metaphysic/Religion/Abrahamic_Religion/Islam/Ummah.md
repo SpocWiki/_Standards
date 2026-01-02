@@ -180,17 +180,17 @@ name_in_native_language: أُمَّةٌ، اَلْأُمَّةُ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ummah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah|Ummah]] 
 
-### #is_/same_as :: [Ummah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.public|Ummah.public]] 
 
-### #is_/same_as :: [Ummah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.internal|Ummah.internal]] 
 
-### #is_/same_as :: [Ummah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.protect|Ummah.protect]] 
 
-### #is_/same_as :: [Ummah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.private|Ummah.private]] 
 
-### #is_/same_as :: [Ummah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.personal|Ummah.personal]] 
 
-### #is_/same_as :: [Ummah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Ummah.secret|Ummah.secret]] 
 

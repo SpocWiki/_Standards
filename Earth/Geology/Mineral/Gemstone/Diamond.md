@@ -96,17 +96,17 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diama
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diamond](/_Standards/Earth/Geology/Mineral/Gemstone/Diamond.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Gemstone/Diamond|Diamond]] 
 
-### #is_/same_as :: [Diamond.public](/_public/Earth/Geology/Mineral/Gemstone/Diamond.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Gemstone/Diamond.public|Diamond.public]] 
 
-### #is_/same_as :: [Diamond.internal](/_internal/Earth/Geology/Mineral/Gemstone/Diamond.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Gemstone/Diamond.internal|Diamond.internal]] 
 
-### #is_/same_as :: [Diamond.protect](/_protect/Earth/Geology/Mineral/Gemstone/Diamond.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Gemstone/Diamond.protect|Diamond.protect]] 
 
-### #is_/same_as :: [Diamond.private](/_private/Earth/Geology/Mineral/Gemstone/Diamond.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Gemstone/Diamond.private|Diamond.private]] 
 
-### #is_/same_as :: [Diamond.personal](/_personal/Earth/Geology/Mineral/Gemstone/Diamond.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Gemstone/Diamond.personal|Diamond.personal]] 
 
-### #is_/same_as :: [Diamond.secret](/_secret/Earth/Geology/Mineral/Gemstone/Diamond.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Gemstone/Diamond.secret|Diamond.secret]] 
 

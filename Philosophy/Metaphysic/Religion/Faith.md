@@ -67,17 +67,17 @@ Colon_Classification: Q:353
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faith](/_Standards/Philosophy/Metaphysic/Religion/Faith.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Faith|Faith]] 
 
-### #is_/same_as :: [Faith.public](/_public/Philosophy/Metaphysic/Religion/Faith.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Faith.public|Faith.public]] 
 
-### #is_/same_as :: [Faith.internal](/_internal/Philosophy/Metaphysic/Religion/Faith.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Faith.internal|Faith.internal]] 
 
-### #is_/same_as :: [Faith.protect](/_protect/Philosophy/Metaphysic/Religion/Faith.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Faith.protect|Faith.protect]] 
 
-### #is_/same_as :: [Faith.private](/_private/Philosophy/Metaphysic/Religion/Faith.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Faith.private|Faith.private]] 
 
-### #is_/same_as :: [Faith.personal](/_personal/Philosophy/Metaphysic/Religion/Faith.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Faith.personal|Faith.personal]] 
 
-### #is_/same_as :: [Faith.secret](/_secret/Philosophy/Metaphysic/Religion/Faith.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Faith.secret|Faith.secret]] 
 

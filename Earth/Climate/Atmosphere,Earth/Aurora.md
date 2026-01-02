@@ -68,17 +68,17 @@ Dewey_Decimal_Classification: 538.768
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aurora](/_Standards/Earth/Climate/Atmosphere,Earth/Aurora.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Aurora|Aurora]] 
 
-### #is_/same_as :: [Aurora.public](/_public/Earth/Climate/Atmosphere,Earth/Aurora.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Aurora.public|Aurora.public]] 
 
-### #is_/same_as :: [Aurora.internal](/_internal/Earth/Climate/Atmosphere,Earth/Aurora.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Aurora.internal|Aurora.internal]] 
 
-### #is_/same_as :: [Aurora.protect](/_protect/Earth/Climate/Atmosphere,Earth/Aurora.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Aurora.protect|Aurora.protect]] 
 
-### #is_/same_as :: [Aurora.private](/_private/Earth/Climate/Atmosphere,Earth/Aurora.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Aurora.private|Aurora.private]] 
 
-### #is_/same_as :: [Aurora.personal](/_personal/Earth/Climate/Atmosphere,Earth/Aurora.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Aurora.personal|Aurora.personal]] 
 
-### #is_/same_as :: [Aurora.secret](/_secret/Earth/Climate/Atmosphere,Earth/Aurora.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Aurora.secret|Aurora.secret]] 
 

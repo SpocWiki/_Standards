@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_caption](/_Standards/schema-org/Relation/has/has_caption.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_caption|has_caption]] 
 
-### #is_/same_as :: [has_caption.public](/_public/schema-org/Relation/has/has_caption.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_caption.public|has_caption.public]] 
 
-### #is_/same_as :: [has_caption.internal](/_internal/schema-org/Relation/has/has_caption.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_caption.internal|has_caption.internal]] 
 
-### #is_/same_as :: [has_caption.protect](/_protect/schema-org/Relation/has/has_caption.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_caption.protect|has_caption.protect]] 
 
-### #is_/same_as :: [has_caption.private](/_private/schema-org/Relation/has/has_caption.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_caption.private|has_caption.private]] 
 
-### #is_/same_as :: [has_caption.personal](/_personal/schema-org/Relation/has/has_caption.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_caption.personal|has_caption.personal]] 
 
-### #is_/same_as :: [has_caption.secret](/_secret/schema-org/Relation/has/has_caption.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_caption.secret|has_caption.secret]] 
 

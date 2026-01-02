@@ -140,17 +140,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorful%20shaded%20ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Middle_East](/_Standards/Earth/Continent/Asia/Asia~West/Middle_East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Middle_East|Middle_East]] 
 
-### #is_/same_as :: [Middle_East.public](/_public/Earth/Continent/Asia/Asia~West/Middle_East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Middle_East.public|Middle_East.public]] 
 
-### #is_/same_as :: [Middle_East.internal](/_internal/Earth/Continent/Asia/Asia~West/Middle_East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Middle_East.internal|Middle_East.internal]] 
 
-### #is_/same_as :: [Middle_East.protect](/_protect/Earth/Continent/Asia/Asia~West/Middle_East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Middle_East.protect|Middle_East.protect]] 
 
-### #is_/same_as :: [Middle_East.private](/_private/Earth/Continent/Asia/Asia~West/Middle_East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Middle_East.private|Middle_East.private]] 
 
-### #is_/same_as :: [Middle_East.personal](/_personal/Earth/Continent/Asia/Asia~West/Middle_East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Middle_East.personal|Middle_East.personal]] 
 
-### #is_/same_as :: [Middle_East.secret](/_secret/Earth/Continent/Asia/Asia~West/Middle_East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Middle_East.secret|Middle_East.secret]] 
 

@@ -39,17 +39,17 @@ Target audiences types for medical web pages. Enumerated type.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Audience_Type](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type|Medical_Audience_Type]] 
 
-### #is_/same_as :: [Medical_Audience_Type.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.public|Medical_Audience_Type.public]] 
 
-### #is_/same_as :: [Medical_Audience_Type.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.internal|Medical_Audience_Type.internal]] 
 
-### #is_/same_as :: [Medical_Audience_Type.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.protect|Medical_Audience_Type.protect]] 
 
-### #is_/same_as :: [Medical_Audience_Type.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.private|Medical_Audience_Type.private]] 
 
-### #is_/same_as :: [Medical_Audience_Type.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.personal|Medical_Audience_Type.personal]] 
 
-### #is_/same_as :: [Medical_Audience_Type.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type.secret|Medical_Audience_Type.secret]] 
 

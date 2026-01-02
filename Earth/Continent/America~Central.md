@@ -84,17 +84,17 @@ markerFolder: ./America~Central/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [America~Central](/_Standards/Earth/Continent/America~Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central|America~Central]] 
 
-### #is_/same_as :: [America~Central.public](/_public/Earth/Continent/America~Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central.public|America~Central.public]] 
 
-### #is_/same_as :: [America~Central.internal](/_internal/Earth/Continent/America~Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central.internal|America~Central.internal]] 
 
-### #is_/same_as :: [America~Central.protect](/_protect/Earth/Continent/America~Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central.protect|America~Central.protect]] 
 
-### #is_/same_as :: [America~Central.private](/_private/Earth/Continent/America~Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central.private|America~Central.private]] 
 
-### #is_/same_as :: [America~Central.personal](/_personal/Earth/Continent/America~Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central.personal|America~Central.personal]] 
 
-### #is_/same_as :: [America~Central.secret](/_secret/Earth/Continent/America~Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central.secret|America~Central.secret]] 
 

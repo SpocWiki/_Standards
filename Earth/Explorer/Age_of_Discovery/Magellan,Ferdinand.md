@@ -99,17 +99,17 @@ spouse: '[[_Standards/WikiData/WD~Beatriz_Barbosa,22668563]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magellan,Ferdinand](/_Standards/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand|Magellan,Ferdinand]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.public](/_public/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.public|Magellan,Ferdinand.public]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.internal](/_internal/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.internal|Magellan,Ferdinand.internal]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.protect](/_protect/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.protect|Magellan,Ferdinand.protect]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.private](/_private/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.private|Magellan,Ferdinand.private]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.personal](/_personal/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.personal|Magellan,Ferdinand.personal]] 
 
-### #is_/same_as :: [Magellan,Ferdinand.secret](/_secret/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Magellan,Ferdinand.secret|Magellan,Ferdinand.secret]] 
 

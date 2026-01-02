@@ -42,17 +42,17 @@ Nonprofit501c22: Non-profit type referring to Withdrawal Liability Payment Funds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c22](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22|Nonprofit501c22]] 
 
-### #is_/same_as :: [Nonprofit501c22.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.public|Nonprofit501c22.public]] 
 
-### #is_/same_as :: [Nonprofit501c22.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.internal|Nonprofit501c22.internal]] 
 
-### #is_/same_as :: [Nonprofit501c22.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.protect|Nonprofit501c22.protect]] 
 
-### #is_/same_as :: [Nonprofit501c22.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.private|Nonprofit501c22.private]] 
 
-### #is_/same_as :: [Nonprofit501c22.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.personal|Nonprofit501c22.personal]] 
 
-### #is_/same_as :: [Nonprofit501c22.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c22.secret|Nonprofit501c22.secret]] 
 

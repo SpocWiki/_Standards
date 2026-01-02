@@ -72,17 +72,17 @@ CPV_Supplementary_code: FD04
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winter](/_Standards/Earth/Climate/Season/Winter.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Winter|Winter]] 
 
-### #is_/same_as :: [Winter.public](/_public/Earth/Climate/Season/Winter.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Winter.public|Winter.public]] 
 
-### #is_/same_as :: [Winter.internal](/_internal/Earth/Climate/Season/Winter.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Winter.internal|Winter.internal]] 
 
-### #is_/same_as :: [Winter.protect](/_protect/Earth/Climate/Season/Winter.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Winter.protect|Winter.protect]] 
 
-### #is_/same_as :: [Winter.private](/_private/Earth/Climate/Season/Winter.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Winter.private|Winter.private]] 
 
-### #is_/same_as :: [Winter.personal](/_personal/Earth/Climate/Season/Winter.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Winter.personal|Winter.personal]] 
 
-### #is_/same_as :: [Winter.secret](/_secret/Earth/Climate/Season/Winter.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Winter.secret|Winter.secret]] 
 

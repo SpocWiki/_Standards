@@ -77,17 +77,17 @@ topic_has_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ear](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear|Ear]] 
 
-### #is_/same_as :: [Ear.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.public|Ear.public]] 
 
-### #is_/same_as :: [Ear.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.internal|Ear.internal]] 
 
-### #is_/same_as :: [Ear.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.protect|Ear.protect]] 
 
-### #is_/same_as :: [Ear.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.private|Ear.private]] 
 
-### #is_/same_as :: [Ear.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.personal|Ear.personal]] 
 
-### #is_/same_as :: [Ear.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Ear.secret|Ear.secret]] 
 

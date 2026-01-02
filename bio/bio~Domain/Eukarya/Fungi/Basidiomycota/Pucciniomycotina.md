@@ -135,17 +135,17 @@ urediniomycetous yeasts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pucciniomycotina](/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina|Pucciniomycotina]] 
 
-### #is_/same_as :: [Pucciniomycotina.public](/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.public|Pucciniomycotina.public]] 
 
-### #is_/same_as :: [Pucciniomycotina.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.internal|Pucciniomycotina.internal]] 
 
-### #is_/same_as :: [Pucciniomycotina.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.protect|Pucciniomycotina.protect]] 
 
-### #is_/same_as :: [Pucciniomycotina.private](/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.private|Pucciniomycotina.private]] 
 
-### #is_/same_as :: [Pucciniomycotina.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.personal|Pucciniomycotina.personal]] 
 
-### #is_/same_as :: [Pucciniomycotina.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Basidiomycota/Pucciniomycotina.secret|Pucciniomycotina.secret]] 
 

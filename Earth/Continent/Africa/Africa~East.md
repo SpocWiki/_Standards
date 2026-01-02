@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Africa~East](/_Standards/Earth/Continent/Africa/Africa~East.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East|Africa~East]] 
 
-### #is_/same_as :: [Africa~East.public](/_public/Earth/Continent/Africa/Africa~East.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East.public|Africa~East.public]] 
 
-### #is_/same_as :: [Africa~East.internal](/_internal/Earth/Continent/Africa/Africa~East.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East.internal|Africa~East.internal]] 
 
-### #is_/same_as :: [Africa~East.protect](/_protect/Earth/Continent/Africa/Africa~East.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East.protect|Africa~East.protect]] 
 
-### #is_/same_as :: [Africa~East.private](/_private/Earth/Continent/Africa/Africa~East.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East.private|Africa~East.private]] 
 
-### #is_/same_as :: [Africa~East.personal](/_personal/Earth/Continent/Africa/Africa~East.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East.personal|Africa~East.personal]] 
 
-### #is_/same_as :: [Africa~East.secret](/_secret/Earth/Continent/Africa/Africa~East.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East.secret|Africa~East.secret]] 
 

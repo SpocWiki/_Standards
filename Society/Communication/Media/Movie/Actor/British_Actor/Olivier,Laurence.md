@@ -161,17 +161,17 @@ date_of_birth: 1907-05-22T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Olivier,Laurence](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence|Olivier,Laurence]] 
 
-### #is_/same_as :: [Olivier,Laurence.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.public|Olivier,Laurence.public]] 
 
-### #is_/same_as :: [Olivier,Laurence.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.internal|Olivier,Laurence.internal]] 
 
-### #is_/same_as :: [Olivier,Laurence.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.protect|Olivier,Laurence.protect]] 
 
-### #is_/same_as :: [Olivier,Laurence.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.private|Olivier,Laurence.private]] 
 
-### #is_/same_as :: [Olivier,Laurence.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.personal|Olivier,Laurence.personal]] 
 
-### #is_/same_as :: [Olivier,Laurence.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Olivier,Laurence.secret|Olivier,Laurence.secret]] 
 

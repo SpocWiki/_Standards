@@ -68,17 +68,17 @@ short_name: Diss.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Doctoral_Thesis](/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis|Doctoral_Thesis]] 
 
-### #is_/same_as :: [Doctoral_Thesis.public](/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.public|Doctoral_Thesis.public]] 
 
-### #is_/same_as :: [Doctoral_Thesis.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.internal|Doctoral_Thesis.internal]] 
 
-### #is_/same_as :: [Doctoral_Thesis.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.protect|Doctoral_Thesis.protect]] 
 
-### #is_/same_as :: [Doctoral_Thesis.private](/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.private|Doctoral_Thesis.private]] 
 
-### #is_/same_as :: [Doctoral_Thesis.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.personal|Doctoral_Thesis.personal]] 
 
-### #is_/same_as :: [Doctoral_Thesis.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/College_or_University/Doctoral_Thesis.secret|Doctoral_Thesis.secret]] 
 

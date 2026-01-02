@@ -41,17 +41,17 @@ OmegaWiki_Defined_Meaning: 1186968
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triumvirate](/_Standards/Society/Politics/Government/Triumvirate.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Triumvirate|Triumvirate]] 
 
-### #is_/same_as :: [Triumvirate.public](/_public/Society/Politics/Government/Triumvirate.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Triumvirate.public|Triumvirate.public]] 
 
-### #is_/same_as :: [Triumvirate.internal](/_internal/Society/Politics/Government/Triumvirate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Triumvirate.internal|Triumvirate.internal]] 
 
-### #is_/same_as :: [Triumvirate.protect](/_protect/Society/Politics/Government/Triumvirate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Triumvirate.protect|Triumvirate.protect]] 
 
-### #is_/same_as :: [Triumvirate.private](/_private/Society/Politics/Government/Triumvirate.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Triumvirate.private|Triumvirate.private]] 
 
-### #is_/same_as :: [Triumvirate.personal](/_personal/Society/Politics/Government/Triumvirate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Triumvirate.personal|Triumvirate.personal]] 
 
-### #is_/same_as :: [Triumvirate.secret](/_secret/Society/Politics/Government/Triumvirate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Triumvirate.secret|Triumvirate.secret]] 
 

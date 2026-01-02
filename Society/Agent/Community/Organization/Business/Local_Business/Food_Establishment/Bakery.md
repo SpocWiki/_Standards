@@ -39,17 +39,17 @@ A bakery.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bakery](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery|Bakery]] 
 
-### #is_/same_as :: [Bakery.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.public|Bakery.public]] 
 
-### #is_/same_as :: [Bakery.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.internal|Bakery.internal]] 
 
-### #is_/same_as :: [Bakery.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.protect|Bakery.protect]] 
 
-### #is_/same_as :: [Bakery.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.private|Bakery.private]] 
 
-### #is_/same_as :: [Bakery.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.personal|Bakery.personal]] 
 
-### #is_/same_as :: [Bakery.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Food_Establishment/Bakery.secret|Bakery.secret]] 
 

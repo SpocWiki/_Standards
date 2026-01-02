@@ -40,17 +40,17 @@ A table on a Web page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Table(HTML)](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML)|Table(HTML)]] 
 
-### #is_/same_as :: [Table(HTML).public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).public|Table(HTML).public]] 
 
-### #is_/same_as :: [Table(HTML).internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).internal|Table(HTML).internal]] 
 
-### #is_/same_as :: [Table(HTML).protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).protect|Table(HTML).protect]] 
 
-### #is_/same_as :: [Table(HTML).private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).private|Table(HTML).private]] 
 
-### #is_/same_as :: [Table(HTML).personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).personal|Table(HTML).personal]] 
 
-### #is_/same_as :: [Table(HTML).secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Web_Page_Element/Table(HTML).secret|Table(HTML).secret]] 
 

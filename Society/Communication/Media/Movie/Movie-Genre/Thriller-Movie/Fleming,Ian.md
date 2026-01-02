@@ -120,17 +120,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/FLEMING_YAN.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fleming,Ian](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian|Fleming,Ian]] 
 
-### #is_/same_as :: [Fleming,Ian.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.public|Fleming,Ian.public]] 
 
-### #is_/same_as :: [Fleming,Ian.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.internal|Fleming,Ian.internal]] 
 
-### #is_/same_as :: [Fleming,Ian.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.protect|Fleming,Ian.protect]] 
 
-### #is_/same_as :: [Fleming,Ian.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.private|Fleming,Ian.private]] 
 
-### #is_/same_as :: [Fleming,Ian.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.personal|Fleming,Ian.personal]] 
 
-### #is_/same_as :: [Fleming,Ian.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Fleming,Ian.secret|Fleming,Ian.secret]] 
 

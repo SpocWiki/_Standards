@@ -123,17 +123,17 @@ UMLS_CUI: C0402112
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientist](/_Standards/Science/Scientist.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist|Scientist]] 
 
-### #is_/same_as :: [Scientist.public](/_public/Science/Scientist.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist.public|Scientist.public]] 
 
-### #is_/same_as :: [Scientist.internal](/_internal/Science/Scientist.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist.internal|Scientist.internal]] 
 
-### #is_/same_as :: [Scientist.protect](/_protect/Science/Scientist.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist.protect|Scientist.protect]] 
 
-### #is_/same_as :: [Scientist.private](/_private/Science/Scientist.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist.private|Scientist.private]] 
 
-### #is_/same_as :: [Scientist.personal](/_personal/Science/Scientist.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist.personal|Scientist.personal]] 
 
-### #is_/same_as :: [Scientist.secret](/_secret/Science/Scientist.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist.secret|Scientist.secret]] 
 

@@ -59,17 +59,17 @@ HasMenuSection:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#clas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MenuSection](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection|FileClass~MenuSection]] 
 
-### #is_/same_as :: [FileClass~MenuSection.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.public|FileClass~MenuSection.public]] 
 
-### #is_/same_as :: [FileClass~MenuSection.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.internal|FileClass~MenuSection.internal]] 
 
-### #is_/same_as :: [FileClass~MenuSection.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.protect|FileClass~MenuSection.protect]] 
 
-### #is_/same_as :: [FileClass~MenuSection.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.private|FileClass~MenuSection.private]] 
 
-### #is_/same_as :: [FileClass~MenuSection.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.personal|FileClass~MenuSection.personal]] 
 
-### #is_/same_as :: [FileClass~MenuSection.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MenuSection.secret|FileClass~MenuSection.secret]] 
 

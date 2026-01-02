@@ -30,17 +30,17 @@ taxon_name: Triticeae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triticeae](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae|Triticeae]] 
 
-### #is_/same_as :: [Triticeae.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.public|Triticeae.public]] 
 
-### #is_/same_as :: [Triticeae.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.internal|Triticeae.internal]] 
 
-### #is_/same_as :: [Triticeae.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.protect|Triticeae.protect]] 
 
-### #is_/same_as :: [Triticeae.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.private|Triticeae.private]] 
 
-### #is_/same_as :: [Triticeae.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.personal|Triticeae.personal]] 
 
-### #is_/same_as :: [Triticeae.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Commelinanae/Poales/Poaceae/BOP/Pooideae/Triticeae.secret|Triticeae.secret]] 
 

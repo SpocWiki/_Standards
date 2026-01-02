@@ -133,17 +133,17 @@ country_of_origin: '[[_Standards/WikiData/WD~Burundi,967]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nile](/_Standards/Earth/Continent/Africa/Africa~North/Nile.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~North/Nile|Nile]] 
 
-### #is_/same_as :: [Nile.public](/_public/Earth/Continent/Africa/Africa~North/Nile.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~North/Nile.public|Nile.public]] 
 
-### #is_/same_as :: [Nile.internal](/_internal/Earth/Continent/Africa/Africa~North/Nile.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~North/Nile.internal|Nile.internal]] 
 
-### #is_/same_as :: [Nile.protect](/_protect/Earth/Continent/Africa/Africa~North/Nile.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~North/Nile.protect|Nile.protect]] 
 
-### #is_/same_as :: [Nile.private](/_private/Earth/Continent/Africa/Africa~North/Nile.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~North/Nile.private|Nile.private]] 
 
-### #is_/same_as :: [Nile.personal](/_personal/Earth/Continent/Africa/Africa~North/Nile.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~North/Nile.personal|Nile.personal]] 
 
-### #is_/same_as :: [Nile.secret](/_secret/Earth/Continent/Africa/Africa~North/Nile.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~North/Nile.secret|Nile.secret]] 
 

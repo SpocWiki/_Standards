@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_affiliation_with](/_Standards/schema-org/Relation/has/has_affiliation_with.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_affiliation_with|has_affiliation_with]] 
 
-### #is_/same_as :: [has_affiliation_with.public](/_public/schema-org/Relation/has/has_affiliation_with.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_affiliation_with.public|has_affiliation_with.public]] 
 
-### #is_/same_as :: [has_affiliation_with.internal](/_internal/schema-org/Relation/has/has_affiliation_with.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_affiliation_with.internal|has_affiliation_with.internal]] 
 
-### #is_/same_as :: [has_affiliation_with.protect](/_protect/schema-org/Relation/has/has_affiliation_with.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_affiliation_with.protect|has_affiliation_with.protect]] 
 
-### #is_/same_as :: [has_affiliation_with.private](/_private/schema-org/Relation/has/has_affiliation_with.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_affiliation_with.private|has_affiliation_with.private]] 
 
-### #is_/same_as :: [has_affiliation_with.personal](/_personal/schema-org/Relation/has/has_affiliation_with.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_affiliation_with.personal|has_affiliation_with.personal]] 
 
-### #is_/same_as :: [has_affiliation_with.secret](/_secret/schema-org/Relation/has/has_affiliation_with.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_affiliation_with.secret|has_affiliation_with.secret]] 
 

@@ -209,17 +209,17 @@ evidence is championed by Nielsen (2001):
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bilateria](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria|Bilateria]] 
 
-### #is_/same_as :: [Bilateria.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria.public|Bilateria.public]] 
 
-### #is_/same_as :: [Bilateria.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria.internal|Bilateria.internal]] 
 
-### #is_/same_as :: [Bilateria.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria.protect|Bilateria.protect]] 
 
-### #is_/same_as :: [Bilateria.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria.private|Bilateria.private]] 
 
-### #is_/same_as :: [Bilateria.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria.personal|Bilateria.personal]] 
 
-### #is_/same_as :: [Bilateria.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria.secret|Bilateria.secret]] 
 

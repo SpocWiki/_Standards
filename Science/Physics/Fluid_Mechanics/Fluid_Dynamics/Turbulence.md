@@ -49,17 +49,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Turbulence](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence|Turbulence]] 
 
-### #is_/same_as :: [Turbulence.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.public|Turbulence.public]] 
 
-### #is_/same_as :: [Turbulence.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.internal|Turbulence.internal]] 
 
-### #is_/same_as :: [Turbulence.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.protect|Turbulence.protect]] 
 
-### #is_/same_as :: [Turbulence.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.private|Turbulence.private]] 
 
-### #is_/same_as :: [Turbulence.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.personal|Turbulence.personal]] 
 
-### #is_/same_as :: [Turbulence.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Turbulence.secret|Turbulence.secret]] 
 

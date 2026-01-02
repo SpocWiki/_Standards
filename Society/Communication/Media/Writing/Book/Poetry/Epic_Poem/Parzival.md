@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parzival](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival|Parzival]] 
 
-### #is_/same_as :: [Parzival.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.public|Parzival.public]] 
 
-### #is_/same_as :: [Parzival.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.internal|Parzival.internal]] 
 
-### #is_/same_as :: [Parzival.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.protect|Parzival.protect]] 
 
-### #is_/same_as :: [Parzival.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.private|Parzival.private]] 
 
-### #is_/same_as :: [Parzival.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.personal|Parzival.personal]] 
 
-### #is_/same_as :: [Parzival.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Epic_Poem/Parzival.secret|Parzival.secret]] 
 

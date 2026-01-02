@@ -75,17 +75,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_technology,7112740]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technology](/_Standards/Technology.md) 
+### #is_/same_as :: [[/_Standards/Technology|Technology]] 
 
-### #is_/same_as :: [Technology.public](/_public/Technology.public.md) 
+### #is_/same_as :: [[/_public/Technology.public|Technology.public]] 
 
-### #is_/same_as :: [Technology.internal](/_internal/Technology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology.internal|Technology.internal]] 
 
-### #is_/same_as :: [Technology.protect](/_protect/Technology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology.protect|Technology.protect]] 
 
-### #is_/same_as :: [Technology.private](/_private/Technology.private.md) 
+### #is_/same_as :: [[/_private/Technology.private|Technology.private]] 
 
-### #is_/same_as :: [Technology.personal](/_personal/Technology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology.personal|Technology.personal]] 
 
-### #is_/same_as :: [Technology.secret](/_secret/Technology.secret.md)
+### #is_/same_as :: [[/_secret/Technology.secret|Technology.secret]] 
 

@@ -59,17 +59,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_event_schedule](/_Standards/schema-org/Relation/has/has_event_schedule.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_event_schedule|has_event_schedule]] 
 
-### #is_/same_as :: [has_event_schedule.public](/_public/schema-org/Relation/has/has_event_schedule.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_event_schedule.public|has_event_schedule.public]] 
 
-### #is_/same_as :: [has_event_schedule.internal](/_internal/schema-org/Relation/has/has_event_schedule.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_event_schedule.internal|has_event_schedule.internal]] 
 
-### #is_/same_as :: [has_event_schedule.protect](/_protect/schema-org/Relation/has/has_event_schedule.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_event_schedule.protect|has_event_schedule.protect]] 
 
-### #is_/same_as :: [has_event_schedule.private](/_private/schema-org/Relation/has/has_event_schedule.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_event_schedule.private|has_event_schedule.private]] 
 
-### #is_/same_as :: [has_event_schedule.personal](/_personal/schema-org/Relation/has/has_event_schedule.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_event_schedule.personal|has_event_schedule.personal]] 
 
-### #is_/same_as :: [has_event_schedule.secret](/_secret/schema-org/Relation/has/has_event_schedule.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_event_schedule.secret|has_event_schedule.secret]] 
 

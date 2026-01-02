@@ -25,17 +25,17 @@ unit_symbol:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Pico](/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~Pico|Unit~Pico]] 
 
-### #is_/same_as :: [Unit~Pico.public](/_public/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.public|Unit~Pico.public]] 
 
-### #is_/same_as :: [Unit~Pico.internal](/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.internal|Unit~Pico.internal]] 
 
-### #is_/same_as :: [Unit~Pico.protect](/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.protect|Unit~Pico.protect]] 
 
-### #is_/same_as :: [Unit~Pico.private](/_private/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.private|Unit~Pico.private]] 
 
-### #is_/same_as :: [Unit~Pico.personal](/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.personal|Unit~Pico.personal]] 
 
-### #is_/same_as :: [Unit~Pico.secret](/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~Pico.secret|Unit~Pico.secret]] 
 

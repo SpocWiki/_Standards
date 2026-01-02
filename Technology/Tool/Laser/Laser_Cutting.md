@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laser_Cutting](/_Standards/Technology/Tool/Laser/Laser_Cutting.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Laser/Laser_Cutting|Laser_Cutting]] 
 
-### #is_/same_as :: [Laser_Cutting.public](/_public/Technology/Tool/Laser/Laser_Cutting.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Laser/Laser_Cutting.public|Laser_Cutting.public]] 
 
-### #is_/same_as :: [Laser_Cutting.internal](/_internal/Technology/Tool/Laser/Laser_Cutting.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Laser/Laser_Cutting.internal|Laser_Cutting.internal]] 
 
-### #is_/same_as :: [Laser_Cutting.protect](/_protect/Technology/Tool/Laser/Laser_Cutting.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Laser/Laser_Cutting.protect|Laser_Cutting.protect]] 
 
-### #is_/same_as :: [Laser_Cutting.private](/_private/Technology/Tool/Laser/Laser_Cutting.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Laser/Laser_Cutting.private|Laser_Cutting.private]] 
 
-### #is_/same_as :: [Laser_Cutting.personal](/_personal/Technology/Tool/Laser/Laser_Cutting.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Laser/Laser_Cutting.personal|Laser_Cutting.personal]] 
 
-### #is_/same_as :: [Laser_Cutting.secret](/_secret/Technology/Tool/Laser/Laser_Cutting.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Laser/Laser_Cutting.secret|Laser_Cutting.secret]] 
 

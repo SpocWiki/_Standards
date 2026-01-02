@@ -13,17 +13,17 @@ Relation describes [[../../../Society/Law/Civil_Law/Ownership|Ownership]] from t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_Owner](/_Standards/schema-org/Relation/has/has_Owner.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_Owner|has_Owner]] 
 
-### #is_/same_as :: [has_Owner.public](/_public/schema-org/Relation/has/has_Owner.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_Owner.public|has_Owner.public]] 
 
-### #is_/same_as :: [has_Owner.internal](/_internal/schema-org/Relation/has/has_Owner.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_Owner.internal|has_Owner.internal]] 
 
-### #is_/same_as :: [has_Owner.protect](/_protect/schema-org/Relation/has/has_Owner.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_Owner.protect|has_Owner.protect]] 
 
-### #is_/same_as :: [has_Owner.private](/_private/schema-org/Relation/has/has_Owner.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_Owner.private|has_Owner.private]] 
 
-### #is_/same_as :: [has_Owner.personal](/_personal/schema-org/Relation/has/has_Owner.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_Owner.personal|has_Owner.personal]] 
 
-### #is_/same_as :: [has_Owner.secret](/_secret/schema-org/Relation/has/has_Owner.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_Owner.secret|has_Owner.secret]] 
 

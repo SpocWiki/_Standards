@@ -55,17 +55,17 @@ The idealised Stirling cycle consists of four [thermodynamic processes](https:/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stirling_Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine|Stirling_Engine]] 
 
-### #is_/same_as :: [Stirling_Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.public|Stirling_Engine.public]] 
 
-### #is_/same_as :: [Stirling_Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.internal|Stirling_Engine.internal]] 
 
-### #is_/same_as :: [Stirling_Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.protect|Stirling_Engine.protect]] 
 
-### #is_/same_as :: [Stirling_Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.private|Stirling_Engine.private]] 
 
-### #is_/same_as :: [Stirling_Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.personal|Stirling_Engine.personal]] 
 
-### #is_/same_as :: [Stirling_Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Engine/Steam_Engine/Stirling_Engine.secret|Stirling_Engine.secret]] 
 

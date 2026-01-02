@@ -52,17 +52,17 @@ Commons_category: Modern dance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modern_Dance](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance|Modern_Dance]] 
 
-### #is_/same_as :: [Modern_Dance.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.public|Modern_Dance.public]] 
 
-### #is_/same_as :: [Modern_Dance.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.internal|Modern_Dance.internal]] 
 
-### #is_/same_as :: [Modern_Dance.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.protect|Modern_Dance.protect]] 
 
-### #is_/same_as :: [Modern_Dance.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.private|Modern_Dance.private]] 
 
-### #is_/same_as :: [Modern_Dance.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.personal|Modern_Dance.personal]] 
 
-### #is_/same_as :: [Modern_Dance.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Modern_Dance.secret|Modern_Dance.secret]] 
 

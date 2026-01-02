@@ -98,17 +98,17 @@ Libris_URI: gdsvx4s033w3c3r
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oliver,Jamie](/_Standards/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie|Oliver,Jamie]] 
 
-### #is_/same_as :: [Oliver,Jamie.public](/_public/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.public|Oliver,Jamie.public]] 
 
-### #is_/same_as :: [Oliver,Jamie.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.internal|Oliver,Jamie.internal]] 
 
-### #is_/same_as :: [Oliver,Jamie.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.protect|Oliver,Jamie.protect]] 
 
-### #is_/same_as :: [Oliver,Jamie.private](/_private/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.private|Oliver,Jamie.private]] 
 
-### #is_/same_as :: [Oliver,Jamie.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.personal|Oliver,Jamie.personal]] 
 
-### #is_/same_as :: [Oliver,Jamie.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Cook/Oliver,Jamie.secret|Oliver,Jamie.secret]] 
 

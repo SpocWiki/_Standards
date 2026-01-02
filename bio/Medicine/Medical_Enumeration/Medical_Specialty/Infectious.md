@@ -40,17 +40,17 @@ Something in medical science that pertains to infectious diseases, i.e. caused b
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Infectious](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious|Infectious]] 
 
-### #is_/same_as :: [Infectious.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.public|Infectious.public]] 
 
-### #is_/same_as :: [Infectious.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.internal|Infectious.internal]] 
 
-### #is_/same_as :: [Infectious.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.protect|Infectious.protect]] 
 
-### #is_/same_as :: [Infectious.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.private|Infectious.private]] 
 
-### #is_/same_as :: [Infectious.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.personal|Infectious.personal]] 
 
-### #is_/same_as :: [Infectious.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Infectious.secret|Infectious.secret]] 
 

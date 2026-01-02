@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_required_quantity](/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_required_quantity|has_value_for_required_quantity]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.public](/_public/schema-org/Property/has_value_for/has_value_for_required_quantity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_required_quantity.public|has_value_for_required_quantity.public]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.internal](/_internal/schema-org/Property/has_value_for/has_value_for_required_quantity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_required_quantity.internal|has_value_for_required_quantity.internal]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.protect](/_protect/schema-org/Property/has_value_for/has_value_for_required_quantity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_required_quantity.protect|has_value_for_required_quantity.protect]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.private](/_private/schema-org/Property/has_value_for/has_value_for_required_quantity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_required_quantity.private|has_value_for_required_quantity.private]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.personal](/_personal/schema-org/Property/has_value_for/has_value_for_required_quantity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_required_quantity.personal|has_value_for_required_quantity.personal]] 
 
-### #is_/same_as :: [has_value_for_required_quantity.secret](/_secret/schema-org/Property/has_value_for/has_value_for_required_quantity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_required_quantity.secret|has_value_for_required_quantity.secret]] 
 

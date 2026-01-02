@@ -41,17 +41,17 @@ Commons_category: Manifestos
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manifesto](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Manifesto|Manifesto]] 
 
-### #is_/same_as :: [Manifesto.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.public|Manifesto.public]] 
 
-### #is_/same_as :: [Manifesto.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.internal|Manifesto.internal]] 
 
-### #is_/same_as :: [Manifesto.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.protect|Manifesto.protect]] 
 
-### #is_/same_as :: [Manifesto.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.private|Manifesto.private]] 
 
-### #is_/same_as :: [Manifesto.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.personal|Manifesto.personal]] 
 
-### #is_/same_as :: [Manifesto.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Manifesto.secret|Manifesto.secret]] 
 

@@ -103,17 +103,17 @@ ISNI: "0000000450923663"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hypatia](/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Ancient_Mathematician/Hypatia|Hypatia]] 
 
-### #is_/same_as :: [Hypatia.public](/_public/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.public|Hypatia.public]] 
 
-### #is_/same_as :: [Hypatia.internal](/_internal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.internal|Hypatia.internal]] 
 
-### #is_/same_as :: [Hypatia.protect](/_protect/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.protect|Hypatia.protect]] 
 
-### #is_/same_as :: [Hypatia.private](/_private/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.private|Hypatia.private]] 
 
-### #is_/same_as :: [Hypatia.personal](/_personal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.personal|Hypatia.personal]] 
 
-### #is_/same_as :: [Hypatia.secret](/_secret/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Ancient_Mathematician/Hypatia.secret|Hypatia.secret]] 
 

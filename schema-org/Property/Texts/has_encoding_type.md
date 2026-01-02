@@ -52,17 +52,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_encoding_type](/_Standards/schema-org/Property/Texts/has_encoding_type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_encoding_type|has_encoding_type]] 
 
-### #is_/same_as :: [has_encoding_type.public](/_public/schema-org/Property/Texts/has_encoding_type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_encoding_type.public|has_encoding_type.public]] 
 
-### #is_/same_as :: [has_encoding_type.internal](/_internal/schema-org/Property/Texts/has_encoding_type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_encoding_type.internal|has_encoding_type.internal]] 
 
-### #is_/same_as :: [has_encoding_type.protect](/_protect/schema-org/Property/Texts/has_encoding_type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_encoding_type.protect|has_encoding_type.protect]] 
 
-### #is_/same_as :: [has_encoding_type.private](/_private/schema-org/Property/Texts/has_encoding_type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_encoding_type.private|has_encoding_type.private]] 
 
-### #is_/same_as :: [has_encoding_type.personal](/_personal/schema-org/Property/Texts/has_encoding_type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_encoding_type.personal|has_encoding_type.personal]] 
 
-### #is_/same_as :: [has_encoding_type.secret](/_secret/schema-org/Property/Texts/has_encoding_type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_encoding_type.secret|has_encoding_type.secret]] 
 

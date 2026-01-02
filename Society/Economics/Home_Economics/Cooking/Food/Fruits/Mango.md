@@ -64,17 +64,17 @@ Unicode_character: 🥭
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mango](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango|Mango]] 
 
-### #is_/same_as :: [Mango.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.public|Mango.public]] 
 
-### #is_/same_as :: [Mango.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.internal|Mango.internal]] 
 
-### #is_/same_as :: [Mango.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.protect|Mango.protect]] 
 
-### #is_/same_as :: [Mango.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.private|Mango.private]] 
 
-### #is_/same_as :: [Mango.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.personal|Mango.personal]] 
 
-### #is_/same_as :: [Mango.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Mango.secret|Mango.secret]] 
 

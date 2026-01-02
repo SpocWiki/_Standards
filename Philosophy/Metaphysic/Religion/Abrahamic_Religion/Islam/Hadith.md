@@ -56,17 +56,17 @@ Library_of_Congress_Classification: KBP450
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hadith](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith|Hadith]] 
 
-### #is_/same_as :: [Hadith.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.public|Hadith.public]] 
 
-### #is_/same_as :: [Hadith.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.internal|Hadith.internal]] 
 
-### #is_/same_as :: [Hadith.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.protect|Hadith.protect]] 
 
-### #is_/same_as :: [Hadith.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.private|Hadith.private]] 
 
-### #is_/same_as :: [Hadith.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.personal|Hadith.personal]] 
 
-### #is_/same_as :: [Hadith.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Hadith.secret|Hadith.secret]] 
 

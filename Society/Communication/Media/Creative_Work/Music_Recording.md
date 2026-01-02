@@ -41,17 +41,17 @@ A music recording (track), usually a single song.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Recording](/_Standards/Society/Communication/Media/Creative_Work/Music_Recording.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Recording|Music_Recording]] 
 
-### #is_/same_as :: [Music_Recording.public](/_public/Society/Communication/Media/Creative_Work/Music_Recording.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Recording.public|Music_Recording.public]] 
 
-### #is_/same_as :: [Music_Recording.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Recording.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Recording.internal|Music_Recording.internal]] 
 
-### #is_/same_as :: [Music_Recording.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Recording.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Recording.protect|Music_Recording.protect]] 
 
-### #is_/same_as :: [Music_Recording.private](/_private/Society/Communication/Media/Creative_Work/Music_Recording.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Recording.private|Music_Recording.private]] 
 
-### #is_/same_as :: [Music_Recording.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Recording.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Recording.personal|Music_Recording.personal]] 
 
-### #is_/same_as :: [Music_Recording.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Recording.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Recording.secret|Music_Recording.secret]] 
 

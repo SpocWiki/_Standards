@@ -85,17 +85,17 @@ short_name: Cyg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Cygnus](/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Cygnus|Zodiac~Cygnus]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.public](/_public/Astronomy/Star~Constellation/Zodiac~Cygnus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Cygnus.public|Zodiac~Cygnus.public]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Cygnus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Cygnus.internal|Zodiac~Cygnus.internal]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Cygnus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Cygnus.protect|Zodiac~Cygnus.protect]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.private](/_private/Astronomy/Star~Constellation/Zodiac~Cygnus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Cygnus.private|Zodiac~Cygnus.private]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Cygnus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Cygnus.personal|Zodiac~Cygnus.personal]] 
 
-### #is_/same_as :: [Zodiac~Cygnus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Cygnus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Cygnus.secret|Zodiac~Cygnus.secret]] 
 

@@ -12,17 +12,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aneurysm](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm|Aneurysm]] 
 
-### #is_/same_as :: [Aneurysm.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.public|Aneurysm.public]] 
 
-### #is_/same_as :: [Aneurysm.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.internal|Aneurysm.internal]] 
 
-### #is_/same_as :: [Aneurysm.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.protect|Aneurysm.protect]] 
 
-### #is_/same_as :: [Aneurysm.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.private|Aneurysm.private]] 
 
-### #is_/same_as :: [Aneurysm.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.personal|Aneurysm.personal]] 
 
-### #is_/same_as :: [Aneurysm.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Aneurysm.secret|Aneurysm.secret]] 
 

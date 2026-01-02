@@ -220,17 +220,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Twain,Mark](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark|Twain,Mark]] 
 
-### #is_/same_as :: [Twain,Mark.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.public|Twain,Mark.public]] 
 
-### #is_/same_as :: [Twain,Mark.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.internal|Twain,Mark.internal]] 
 
-### #is_/same_as :: [Twain,Mark.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.protect|Twain,Mark.protect]] 
 
-### #is_/same_as :: [Twain,Mark.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.private|Twain,Mark.private]] 
 
-### #is_/same_as :: [Twain,Mark.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.personal|Twain,Mark.personal]] 
 
-### #is_/same_as :: [Twain,Mark.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Twain,Mark.secret|Twain,Mark.secret]] 
 

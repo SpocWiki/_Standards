@@ -136,17 +136,17 @@ Europeana_entity: agent/base/146849
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wayne,John](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John|Wayne,John]] 
 
-### #is_/same_as :: [Wayne,John.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.public|Wayne,John.public]] 
 
-### #is_/same_as :: [Wayne,John.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.internal|Wayne,John.internal]] 
 
-### #is_/same_as :: [Wayne,John.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.protect|Wayne,John.protect]] 
 
-### #is_/same_as :: [Wayne,John.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.private|Wayne,John.private]] 
 
-### #is_/same_as :: [Wayne,John.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.personal|Wayne,John.personal]] 
 
-### #is_/same_as :: [Wayne,John.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Wayne,John.secret|Wayne,John.secret]] 
 

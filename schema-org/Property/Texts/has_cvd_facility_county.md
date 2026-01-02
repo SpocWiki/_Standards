@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_cvd_facility_county](/_Standards/schema-org/Property/Texts/has_cvd_facility_county.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_cvd_facility_county|has_cvd_facility_county]] 
 
-### #is_/same_as :: [has_cvd_facility_county.public](/_public/schema-org/Property/Texts/has_cvd_facility_county.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_cvd_facility_county.public|has_cvd_facility_county.public]] 
 
-### #is_/same_as :: [has_cvd_facility_county.internal](/_internal/schema-org/Property/Texts/has_cvd_facility_county.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_cvd_facility_county.internal|has_cvd_facility_county.internal]] 
 
-### #is_/same_as :: [has_cvd_facility_county.protect](/_protect/schema-org/Property/Texts/has_cvd_facility_county.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_cvd_facility_county.protect|has_cvd_facility_county.protect]] 
 
-### #is_/same_as :: [has_cvd_facility_county.private](/_private/schema-org/Property/Texts/has_cvd_facility_county.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_cvd_facility_county.private|has_cvd_facility_county.private]] 
 
-### #is_/same_as :: [has_cvd_facility_county.personal](/_personal/schema-org/Property/Texts/has_cvd_facility_county.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_cvd_facility_county.personal|has_cvd_facility_county.personal]] 
 
-### #is_/same_as :: [has_cvd_facility_county.secret](/_secret/schema-org/Property/Texts/has_cvd_facility_county.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_cvd_facility_county.secret|has_cvd_facility_county.secret]] 
 

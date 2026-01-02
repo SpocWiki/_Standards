@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Sun](/_Standards/Society/Communication/Media/Journalism/Newspaper/The_Sun.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/The_Sun|The_Sun]] 
 
-### #is_/same_as :: [The_Sun.public](/_public/Society/Communication/Media/Journalism/Newspaper/The_Sun.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/The_Sun.public|The_Sun.public]] 
 
-### #is_/same_as :: [The_Sun.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/The_Sun.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/The_Sun.internal|The_Sun.internal]] 
 
-### #is_/same_as :: [The_Sun.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/The_Sun.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/The_Sun.protect|The_Sun.protect]] 
 
-### #is_/same_as :: [The_Sun.private](/_private/Society/Communication/Media/Journalism/Newspaper/The_Sun.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/The_Sun.private|The_Sun.private]] 
 
-### #is_/same_as :: [The_Sun.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/The_Sun.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/The_Sun.personal|The_Sun.personal]] 
 
-### #is_/same_as :: [The_Sun.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/The_Sun.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/The_Sun.secret|The_Sun.secret]] 
 

@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Africa-CountryDb](/_Standards/Earth/Continent/Africa/_Africa-CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/_Africa-CountryDb|_Africa-CountryDb]] 
 
-### #is_/same_as :: [_Africa-CountryDb.public](/_public/Earth/Continent/Africa/_Africa-CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/_Africa-CountryDb.public|_Africa-CountryDb.public]] 
 
-### #is_/same_as :: [_Africa-CountryDb.internal](/_internal/Earth/Continent/Africa/_Africa-CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/_Africa-CountryDb.internal|_Africa-CountryDb.internal]] 
 
-### #is_/same_as :: [_Africa-CountryDb.protect](/_protect/Earth/Continent/Africa/_Africa-CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/_Africa-CountryDb.protect|_Africa-CountryDb.protect]] 
 
-### #is_/same_as :: [_Africa-CountryDb.private](/_private/Earth/Continent/Africa/_Africa-CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/_Africa-CountryDb.private|_Africa-CountryDb.private]] 
 
-### #is_/same_as :: [_Africa-CountryDb.personal](/_personal/Earth/Continent/Africa/_Africa-CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/_Africa-CountryDb.personal|_Africa-CountryDb.personal]] 
 
-### #is_/same_as :: [_Africa-CountryDb.secret](/_secret/Earth/Continent/Africa/_Africa-CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/_Africa-CountryDb.secret|_Africa-CountryDb.secret]] 
 

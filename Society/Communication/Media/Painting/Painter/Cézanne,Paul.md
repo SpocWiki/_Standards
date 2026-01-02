@@ -315,17 +315,17 @@ ISNI: 0000000121287379
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cézanne,Paul](/_Standards/Society/Communication/Media/Painting/Painter/Cézanne,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Cézanne,Paul|Cézanne,Paul]] 
 
-### #is_/same_as :: [Cézanne,Paul.public](/_public/Society/Communication/Media/Painting/Painter/Cézanne,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Cézanne,Paul.public|Cézanne,Paul.public]] 
 
-### #is_/same_as :: [Cézanne,Paul.internal](/_internal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.internal|Cézanne,Paul.internal]] 
 
-### #is_/same_as :: [Cézanne,Paul.protect](/_protect/Society/Communication/Media/Painting/Painter/Cézanne,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Cézanne,Paul.protect|Cézanne,Paul.protect]] 
 
-### #is_/same_as :: [Cézanne,Paul.private](/_private/Society/Communication/Media/Painting/Painter/Cézanne,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Cézanne,Paul.private|Cézanne,Paul.private]] 
 
-### #is_/same_as :: [Cézanne,Paul.personal](/_personal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Cézanne,Paul.personal|Cézanne,Paul.personal]] 
 
-### #is_/same_as :: [Cézanne,Paul.secret](/_secret/Society/Communication/Media/Painting/Painter/Cézanne,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Cézanne,Paul.secret|Cézanne,Paul.secret]] 
 

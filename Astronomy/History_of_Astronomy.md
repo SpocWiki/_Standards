@@ -42,17 +42,17 @@ Commons_category: History of astronomy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Astronomy](/_Standards/Astronomy/History_of_Astronomy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/History_of_Astronomy|History_of_Astronomy]] 
 
-### #is_/same_as :: [History_of_Astronomy.public](/_public/Astronomy/History_of_Astronomy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/History_of_Astronomy.public|History_of_Astronomy.public]] 
 
-### #is_/same_as :: [History_of_Astronomy.internal](/_internal/Astronomy/History_of_Astronomy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/History_of_Astronomy.internal|History_of_Astronomy.internal]] 
 
-### #is_/same_as :: [History_of_Astronomy.protect](/_protect/Astronomy/History_of_Astronomy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/History_of_Astronomy.protect|History_of_Astronomy.protect]] 
 
-### #is_/same_as :: [History_of_Astronomy.private](/_private/Astronomy/History_of_Astronomy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/History_of_Astronomy.private|History_of_Astronomy.private]] 
 
-### #is_/same_as :: [History_of_Astronomy.personal](/_personal/Astronomy/History_of_Astronomy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/History_of_Astronomy.personal|History_of_Astronomy.personal]] 
 
-### #is_/same_as :: [History_of_Astronomy.secret](/_secret/Astronomy/History_of_Astronomy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/History_of_Astronomy.secret|History_of_Astronomy.secret]] 
 

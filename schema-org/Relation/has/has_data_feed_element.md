@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_data_feed_element](/_Standards/schema-org/Relation/has/has_data_feed_element.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_data_feed_element|has_data_feed_element]] 
 
-### #is_/same_as :: [has_data_feed_element.public](/_public/schema-org/Relation/has/has_data_feed_element.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_data_feed_element.public|has_data_feed_element.public]] 
 
-### #is_/same_as :: [has_data_feed_element.internal](/_internal/schema-org/Relation/has/has_data_feed_element.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_data_feed_element.internal|has_data_feed_element.internal]] 
 
-### #is_/same_as :: [has_data_feed_element.protect](/_protect/schema-org/Relation/has/has_data_feed_element.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_data_feed_element.protect|has_data_feed_element.protect]] 
 
-### #is_/same_as :: [has_data_feed_element.private](/_private/schema-org/Relation/has/has_data_feed_element.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_data_feed_element.private|has_data_feed_element.private]] 
 
-### #is_/same_as :: [has_data_feed_element.personal](/_personal/schema-org/Relation/has/has_data_feed_element.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_data_feed_element.personal|has_data_feed_element.personal]] 
 
-### #is_/same_as :: [has_data_feed_element.secret](/_secret/schema-org/Relation/has/has_data_feed_element.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_data_feed_element.secret|has_data_feed_element.secret]] 
 

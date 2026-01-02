@@ -63,17 +63,17 @@ Commons_category: Dust storms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dust_Storm](/_Standards/Earth/Climate/Weather/Dust_Storm.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Dust_Storm|Dust_Storm]] 
 
-### #is_/same_as :: [Dust_Storm.public](/_public/Earth/Climate/Weather/Dust_Storm.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Dust_Storm.public|Dust_Storm.public]] 
 
-### #is_/same_as :: [Dust_Storm.internal](/_internal/Earth/Climate/Weather/Dust_Storm.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Dust_Storm.internal|Dust_Storm.internal]] 
 
-### #is_/same_as :: [Dust_Storm.protect](/_protect/Earth/Climate/Weather/Dust_Storm.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Dust_Storm.protect|Dust_Storm.protect]] 
 
-### #is_/same_as :: [Dust_Storm.private](/_private/Earth/Climate/Weather/Dust_Storm.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Dust_Storm.private|Dust_Storm.private]] 
 
-### #is_/same_as :: [Dust_Storm.personal](/_personal/Earth/Climate/Weather/Dust_Storm.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Dust_Storm.personal|Dust_Storm.personal]] 
 
-### #is_/same_as :: [Dust_Storm.secret](/_secret/Earth/Climate/Weather/Dust_Storm.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Dust_Storm.secret|Dust_Storm.secret]] 
 

@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_greater_than](/_Standards/schema-org/Relation/is/is_greater_than.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_greater_than|is_greater_than]] 
 
-### #is_/same_as :: [is_greater_than.public](/_public/schema-org/Relation/is/is_greater_than.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_greater_than.public|is_greater_than.public]] 
 
-### #is_/same_as :: [is_greater_than.internal](/_internal/schema-org/Relation/is/is_greater_than.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_greater_than.internal|is_greater_than.internal]] 
 
-### #is_/same_as :: [is_greater_than.protect](/_protect/schema-org/Relation/is/is_greater_than.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_greater_than.protect|is_greater_than.protect]] 
 
-### #is_/same_as :: [is_greater_than.private](/_private/schema-org/Relation/is/is_greater_than.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_greater_than.private|is_greater_than.private]] 
 
-### #is_/same_as :: [is_greater_than.personal](/_personal/schema-org/Relation/is/is_greater_than.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_greater_than.personal|is_greater_than.personal]] 
 
-### #is_/same_as :: [is_greater_than.secret](/_secret/schema-org/Relation/is/is_greater_than.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_greater_than.secret|is_greater_than.secret]] 
 

@@ -115,17 +115,17 @@ Study:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity|FileClass~DefinedTermAndMedicalEntity]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.public|FileClass~DefinedTermAndMedicalEntity.public]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.internal|FileClass~DefinedTermAndMedicalEntity.internal]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.protect|FileClass~DefinedTermAndMedicalEntity.protect]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.private|FileClass~DefinedTermAndMedicalEntity.private]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.personal|FileClass~DefinedTermAndMedicalEntity.personal]] 
 
-### #is_/same_as :: [FileClass~DefinedTermAndMedicalEntity.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm/FileClass~DefinedTermAndMedicalEntity.secret|FileClass~DefinedTermAndMedicalEntity.secret]] 
 

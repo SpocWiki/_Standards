@@ -59,17 +59,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adams,John](/_Standards/Earth/Continent/America~North/US~President/Adams,John.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Adams,John|Adams,John]] 
 
-### #is_/same_as :: [Adams,John.public](/_public/Earth/Continent/America~North/US~President/Adams,John.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Adams,John.public|Adams,John.public]] 
 
-### #is_/same_as :: [Adams,John.internal](/_internal/Earth/Continent/America~North/US~President/Adams,John.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Adams,John.internal|Adams,John.internal]] 
 
-### #is_/same_as :: [Adams,John.protect](/_protect/Earth/Continent/America~North/US~President/Adams,John.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Adams,John.protect|Adams,John.protect]] 
 
-### #is_/same_as :: [Adams,John.private](/_private/Earth/Continent/America~North/US~President/Adams,John.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Adams,John.private|Adams,John.private]] 
 
-### #is_/same_as :: [Adams,John.personal](/_personal/Earth/Continent/America~North/US~President/Adams,John.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Adams,John.personal|Adams,John.personal]] 
 
-### #is_/same_as :: [Adams,John.secret](/_secret/Earth/Continent/America~North/US~President/Adams,John.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Adams,John.secret|Adams,John.secret]] 
 

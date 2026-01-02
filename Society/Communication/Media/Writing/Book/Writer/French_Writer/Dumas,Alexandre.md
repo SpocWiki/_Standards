@@ -169,17 +169,17 @@ NLC_authorities: 000126842
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dumas,Alexandre](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre|Dumas,Alexandre]] 
 
-### #is_/same_as :: [Dumas,Alexandre.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.public|Dumas,Alexandre.public]] 
 
-### #is_/same_as :: [Dumas,Alexandre.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.internal|Dumas,Alexandre.internal]] 
 
-### #is_/same_as :: [Dumas,Alexandre.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.protect|Dumas,Alexandre.protect]] 
 
-### #is_/same_as :: [Dumas,Alexandre.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.private|Dumas,Alexandre.private]] 
 
-### #is_/same_as :: [Dumas,Alexandre.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.personal|Dumas,Alexandre.personal]] 
 
-### #is_/same_as :: [Dumas,Alexandre.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Dumas,Alexandre.secret|Dumas,Alexandre.secret]] 
 

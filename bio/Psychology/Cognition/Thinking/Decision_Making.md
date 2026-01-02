@@ -53,17 +53,17 @@ MeSH_tree_code: F02.463.785.373
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decision_Making](/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Cognition/Thinking/Decision_Making|Decision_Making]] 
 
-### #is_/same_as :: [Decision_Making.public](/_public/bio/Psychology/Cognition/Thinking/Decision_Making.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Cognition/Thinking/Decision_Making.public|Decision_Making.public]] 
 
-### #is_/same_as :: [Decision_Making.internal](/_internal/bio/Psychology/Cognition/Thinking/Decision_Making.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Cognition/Thinking/Decision_Making.internal|Decision_Making.internal]] 
 
-### #is_/same_as :: [Decision_Making.protect](/_protect/bio/Psychology/Cognition/Thinking/Decision_Making.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Cognition/Thinking/Decision_Making.protect|Decision_Making.protect]] 
 
-### #is_/same_as :: [Decision_Making.private](/_private/bio/Psychology/Cognition/Thinking/Decision_Making.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Cognition/Thinking/Decision_Making.private|Decision_Making.private]] 
 
-### #is_/same_as :: [Decision_Making.personal](/_personal/bio/Psychology/Cognition/Thinking/Decision_Making.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Cognition/Thinking/Decision_Making.personal|Decision_Making.personal]] 
 
-### #is_/same_as :: [Decision_Making.secret](/_secret/bio/Psychology/Cognition/Thinking/Decision_Making.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Cognition/Thinking/Decision_Making.secret|Decision_Making.secret]] 
 

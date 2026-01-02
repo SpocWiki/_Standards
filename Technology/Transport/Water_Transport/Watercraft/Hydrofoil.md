@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrofoil](/_Standards/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Hydrofoil|Hydrofoil]] 
 
-### #is_/same_as :: [Hydrofoil.public](/_public/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.public|Hydrofoil.public]] 
 
-### #is_/same_as :: [Hydrofoil.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.internal|Hydrofoil.internal]] 
 
-### #is_/same_as :: [Hydrofoil.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.protect|Hydrofoil.protect]] 
 
-### #is_/same_as :: [Hydrofoil.private](/_private/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.private|Hydrofoil.private]] 
 
-### #is_/same_as :: [Hydrofoil.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.personal|Hydrofoil.personal]] 
 
-### #is_/same_as :: [Hydrofoil.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Hydrofoil.secret|Hydrofoil.secret]] 
 

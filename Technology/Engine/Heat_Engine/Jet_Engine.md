@@ -39,17 +39,17 @@ Commons_category: Jet engines
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jet_Engine](/_Standards/Technology/Engine/Heat_Engine/Jet_Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engine/Heat_Engine/Jet_Engine|Jet_Engine]] 
 
-### #is_/same_as :: [Jet_Engine.public](/_public/Technology/Engine/Heat_Engine/Jet_Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engine/Heat_Engine/Jet_Engine.public|Jet_Engine.public]] 
 
-### #is_/same_as :: [Jet_Engine.internal](/_internal/Technology/Engine/Heat_Engine/Jet_Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engine/Heat_Engine/Jet_Engine.internal|Jet_Engine.internal]] 
 
-### #is_/same_as :: [Jet_Engine.protect](/_protect/Technology/Engine/Heat_Engine/Jet_Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engine/Heat_Engine/Jet_Engine.protect|Jet_Engine.protect]] 
 
-### #is_/same_as :: [Jet_Engine.private](/_private/Technology/Engine/Heat_Engine/Jet_Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engine/Heat_Engine/Jet_Engine.private|Jet_Engine.private]] 
 
-### #is_/same_as :: [Jet_Engine.personal](/_personal/Technology/Engine/Heat_Engine/Jet_Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engine/Heat_Engine/Jet_Engine.personal|Jet_Engine.personal]] 
 
-### #is_/same_as :: [Jet_Engine.secret](/_secret/Technology/Engine/Heat_Engine/Jet_Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engine/Heat_Engine/Jet_Engine.secret|Jet_Engine.secret]] 
 

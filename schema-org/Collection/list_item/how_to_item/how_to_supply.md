@@ -40,17 +40,17 @@ A supply consumed when performing the instructions for how to achieve a result.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [how_to_supply](/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/list_item/how_to_item/how_to_supply|how_to_supply]] 
 
-### #is_/same_as :: [how_to_supply.public](/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/list_item/how_to_item/how_to_supply.public|how_to_supply.public]] 
 
-### #is_/same_as :: [how_to_supply.internal](/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/list_item/how_to_item/how_to_supply.internal|how_to_supply.internal]] 
 
-### #is_/same_as :: [how_to_supply.protect](/_protect/schema-org/Collection/list_item/how_to_item/how_to_supply.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/list_item/how_to_item/how_to_supply.protect|how_to_supply.protect]] 
 
-### #is_/same_as :: [how_to_supply.private](/_private/schema-org/Collection/list_item/how_to_item/how_to_supply.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/list_item/how_to_item/how_to_supply.private|how_to_supply.private]] 
 
-### #is_/same_as :: [how_to_supply.personal](/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/list_item/how_to_item/how_to_supply.personal|how_to_supply.personal]] 
 
-### #is_/same_as :: [how_to_supply.secret](/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/list_item/how_to_item/how_to_supply.secret|how_to_supply.secret]] 
 

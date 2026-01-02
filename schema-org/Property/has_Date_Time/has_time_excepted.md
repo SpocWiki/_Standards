@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_excepted](/_Standards/schema-org/Property/has_Date_Time/has_time_excepted.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_excepted|has_time_excepted]] 
 
-### #is_/same_as :: [has_time_excepted.public](/_public/schema-org/Property/has_Date_Time/has_time_excepted.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_excepted.public|has_time_excepted.public]] 
 
-### #is_/same_as :: [has_time_excepted.internal](/_internal/schema-org/Property/has_Date_Time/has_time_excepted.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_excepted.internal|has_time_excepted.internal]] 
 
-### #is_/same_as :: [has_time_excepted.protect](/_protect/schema-org/Property/has_Date_Time/has_time_excepted.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_excepted.protect|has_time_excepted.protect]] 
 
-### #is_/same_as :: [has_time_excepted.private](/_private/schema-org/Property/has_Date_Time/has_time_excepted.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_excepted.private|has_time_excepted.private]] 
 
-### #is_/same_as :: [has_time_excepted.personal](/_personal/schema-org/Property/has_Date_Time/has_time_excepted.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_excepted.personal|has_time_excepted.personal]] 
 
-### #is_/same_as :: [has_time_excepted.secret](/_secret/schema-org/Property/has_Date_Time/has_time_excepted.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_excepted.secret|has_time_excepted.secret]] 
 

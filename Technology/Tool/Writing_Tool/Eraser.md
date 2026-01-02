@@ -52,17 +52,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eraser](/_Standards/Technology/Tool/Writing_Tool/Eraser.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Writing_Tool/Eraser|Eraser]] 
 
-### #is_/same_as :: [Eraser.public](/_public/Technology/Tool/Writing_Tool/Eraser.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Writing_Tool/Eraser.public|Eraser.public]] 
 
-### #is_/same_as :: [Eraser.internal](/_internal/Technology/Tool/Writing_Tool/Eraser.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Writing_Tool/Eraser.internal|Eraser.internal]] 
 
-### #is_/same_as :: [Eraser.protect](/_protect/Technology/Tool/Writing_Tool/Eraser.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Writing_Tool/Eraser.protect|Eraser.protect]] 
 
-### #is_/same_as :: [Eraser.private](/_private/Technology/Tool/Writing_Tool/Eraser.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Writing_Tool/Eraser.private|Eraser.private]] 
 
-### #is_/same_as :: [Eraser.personal](/_personal/Technology/Tool/Writing_Tool/Eraser.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Writing_Tool/Eraser.personal|Eraser.personal]] 
 
-### #is_/same_as :: [Eraser.secret](/_secret/Technology/Tool/Writing_Tool/Eraser.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Writing_Tool/Eraser.secret|Eraser.secret]] 
 

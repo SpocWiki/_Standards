@@ -48,17 +48,17 @@ Dewey_Decimal_Classification: "512.44"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutative_Algebra](/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Commutative_Algebra|Commutative_Algebra]] 
 
-### #is_/same_as :: [Commutative_Algebra.public](/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Commutative_Algebra.public|Commutative_Algebra.public]] 
 
-### #is_/same_as :: [Commutative_Algebra.internal](/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.internal|Commutative_Algebra.internal]] 
 
-### #is_/same_as :: [Commutative_Algebra.protect](/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Commutative_Algebra.protect|Commutative_Algebra.protect]] 
 
-### #is_/same_as :: [Commutative_Algebra.private](/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Commutative_Algebra.private|Commutative_Algebra.private]] 
 
-### #is_/same_as :: [Commutative_Algebra.personal](/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Commutative_Algebra.personal|Commutative_Algebra.personal]] 
 
-### #is_/same_as :: [Commutative_Algebra.secret](/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Commutative_Algebra.secret|Commutative_Algebra.secret]] 
 

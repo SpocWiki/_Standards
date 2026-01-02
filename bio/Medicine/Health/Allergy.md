@@ -89,17 +89,17 @@ Commons_category: Allergies
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Allergy](/_Standards/bio/Medicine/Health/Allergy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Allergy|Allergy]] 
 
-### #is_/same_as :: [Allergy.public](/_public/bio/Medicine/Health/Allergy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Allergy.public|Allergy.public]] 
 
-### #is_/same_as :: [Allergy.internal](/_internal/bio/Medicine/Health/Allergy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Allergy.internal|Allergy.internal]] 
 
-### #is_/same_as :: [Allergy.protect](/_protect/bio/Medicine/Health/Allergy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Allergy.protect|Allergy.protect]] 
 
-### #is_/same_as :: [Allergy.private](/_private/bio/Medicine/Health/Allergy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Allergy.private|Allergy.private]] 
 
-### #is_/same_as :: [Allergy.personal](/_personal/bio/Medicine/Health/Allergy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Allergy.personal|Allergy.personal]] 
 
-### #is_/same_as :: [Allergy.secret](/_secret/bio/Medicine/Health/Allergy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Allergy.secret|Allergy.secret]] 
 

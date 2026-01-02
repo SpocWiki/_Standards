@@ -48,17 +48,17 @@ Krugosvet_article: meditsina/bred
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delusion](/_Standards/bio/Psychology/Mental_Disorder/Delusion.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mental_Disorder/Delusion|Delusion]] 
 
-### #is_/same_as :: [Delusion.public](/_public/bio/Psychology/Mental_Disorder/Delusion.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mental_Disorder/Delusion.public|Delusion.public]] 
 
-### #is_/same_as :: [Delusion.internal](/_internal/bio/Psychology/Mental_Disorder/Delusion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mental_Disorder/Delusion.internal|Delusion.internal]] 
 
-### #is_/same_as :: [Delusion.protect](/_protect/bio/Psychology/Mental_Disorder/Delusion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mental_Disorder/Delusion.protect|Delusion.protect]] 
 
-### #is_/same_as :: [Delusion.private](/_private/bio/Psychology/Mental_Disorder/Delusion.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mental_Disorder/Delusion.private|Delusion.private]] 
 
-### #is_/same_as :: [Delusion.personal](/_personal/bio/Psychology/Mental_Disorder/Delusion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mental_Disorder/Delusion.personal|Delusion.personal]] 
 
-### #is_/same_as :: [Delusion.secret](/_secret/bio/Psychology/Mental_Disorder/Delusion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mental_Disorder/Delusion.secret|Delusion.secret]] 
 

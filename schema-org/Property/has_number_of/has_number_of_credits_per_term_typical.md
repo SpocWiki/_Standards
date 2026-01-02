@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical](/_Standards/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical|has_number_of_credits_per_term_typical]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.public](/_public/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.public|has_number_of_credits_per_term_typical.public]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.internal](/_internal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.internal|has_number_of_credits_per_term_typical.internal]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.protect](/_protect/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.protect|has_number_of_credits_per_term_typical.protect]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.private](/_private/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.private|has_number_of_credits_per_term_typical.private]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.personal](/_personal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.personal|has_number_of_credits_per_term_typical.personal]] 
 
-### #is_/same_as :: [has_number_of_credits_per_term_typical.secret](/_secret/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_credits_per_term_typical.secret|has_number_of_credits_per_term_typical.secret]] 
 

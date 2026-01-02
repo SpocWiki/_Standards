@@ -41,17 +41,17 @@ A taxi stand.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxi_Stand](/_Standards/Earth/Geography/Place/Civic_Structure/Taxi_Stand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Taxi_Stand|Taxi_Stand]] 
 
-### #is_/same_as :: [Taxi_Stand.public](/_public/Earth/Geography/Place/Civic_Structure/Taxi_Stand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Taxi_Stand.public|Taxi_Stand.public]] 
 
-### #is_/same_as :: [Taxi_Stand.internal](/_internal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.internal|Taxi_Stand.internal]] 
 
-### #is_/same_as :: [Taxi_Stand.protect](/_protect/Earth/Geography/Place/Civic_Structure/Taxi_Stand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Taxi_Stand.protect|Taxi_Stand.protect]] 
 
-### #is_/same_as :: [Taxi_Stand.private](/_private/Earth/Geography/Place/Civic_Structure/Taxi_Stand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Taxi_Stand.private|Taxi_Stand.private]] 
 
-### #is_/same_as :: [Taxi_Stand.personal](/_personal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Taxi_Stand.personal|Taxi_Stand.personal]] 
 
-### #is_/same_as :: [Taxi_Stand.secret](/_secret/Earth/Geography/Place/Civic_Structure/Taxi_Stand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Taxi_Stand.secret|Taxi_Stand.secret]] 
 

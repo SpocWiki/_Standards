@@ -44,17 +44,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pesto"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pesto](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pesto.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pesto|Pesto]] 
 
-### #is_/same_as :: [Pesto.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Pesto.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Pesto.public|Pesto.public]] 
 
-### #is_/same_as :: [Pesto.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Pesto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Pesto.internal|Pesto.internal]] 
 
-### #is_/same_as :: [Pesto.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Pesto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Pesto.protect|Pesto.protect]] 
 
-### #is_/same_as :: [Pesto.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Pesto.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Pesto.private|Pesto.private]] 
 
-### #is_/same_as :: [Pesto.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Pesto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Pesto.personal|Pesto.personal]] 
 
-### #is_/same_as :: [Pesto.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Pesto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Pesto.secret|Pesto.secret]] 
 

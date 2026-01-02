@@ -51,17 +51,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Absorber.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Absorption](/_Standards/Chemistry/Chemical_Reaction/Absorption.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Absorption|Absorption]] 
 
-### #is_/same_as :: [Absorption.public](/_public/Chemistry/Chemical_Reaction/Absorption.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Absorption.public|Absorption.public]] 
 
-### #is_/same_as :: [Absorption.internal](/_internal/Chemistry/Chemical_Reaction/Absorption.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Absorption.internal|Absorption.internal]] 
 
-### #is_/same_as :: [Absorption.protect](/_protect/Chemistry/Chemical_Reaction/Absorption.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Absorption.protect|Absorption.protect]] 
 
-### #is_/same_as :: [Absorption.private](/_private/Chemistry/Chemical_Reaction/Absorption.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Absorption.private|Absorption.private]] 
 
-### #is_/same_as :: [Absorption.personal](/_personal/Chemistry/Chemical_Reaction/Absorption.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Absorption.personal|Absorption.personal]] 
 
-### #is_/same_as :: [Absorption.secret](/_secret/Chemistry/Chemical_Reaction/Absorption.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Absorption.secret|Absorption.secret]] 
 

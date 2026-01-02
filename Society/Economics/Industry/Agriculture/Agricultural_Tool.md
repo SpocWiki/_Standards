@@ -29,17 +29,17 @@ tool used for farming
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agricultural_Tool](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool|Agricultural_Tool]] 
 
-### #is_/same_as :: [Agricultural_Tool.public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool.public|Agricultural_Tool.public]] 
 
-### #is_/same_as :: [Agricultural_Tool.internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool.internal|Agricultural_Tool.internal]] 
 
-### #is_/same_as :: [Agricultural_Tool.protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool.protect|Agricultural_Tool.protect]] 
 
-### #is_/same_as :: [Agricultural_Tool.private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool.private|Agricultural_Tool.private]] 
 
-### #is_/same_as :: [Agricultural_Tool.personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool.personal|Agricultural_Tool.personal]] 
 
-### #is_/same_as :: [Agricultural_Tool.secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool.secret|Agricultural_Tool.secret]] 
 

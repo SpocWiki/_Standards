@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_diversity_staffing_report](/_Standards/schema-org/Relation/has/has_diversity_staffing_report.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_diversity_staffing_report|has_diversity_staffing_report]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.public](/_public/schema-org/Relation/has/has_diversity_staffing_report.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_diversity_staffing_report.public|has_diversity_staffing_report.public]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.internal](/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_diversity_staffing_report.internal|has_diversity_staffing_report.internal]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.protect](/_protect/schema-org/Relation/has/has_diversity_staffing_report.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_diversity_staffing_report.protect|has_diversity_staffing_report.protect]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.private](/_private/schema-org/Relation/has/has_diversity_staffing_report.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_diversity_staffing_report.private|has_diversity_staffing_report.private]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.personal](/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_diversity_staffing_report.personal|has_diversity_staffing_report.personal]] 
 
-### #is_/same_as :: [has_diversity_staffing_report.secret](/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_diversity_staffing_report.secret|has_diversity_staffing_report.secret]] 
 

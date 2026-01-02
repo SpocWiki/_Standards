@@ -41,17 +41,17 @@ The act of giving money to a seller in exchange for goods or services rendered. 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buy_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action|Buy_Action]] 
 
-### #is_/same_as :: [Buy_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.public|Buy_Action.public]] 
 
-### #is_/same_as :: [Buy_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.internal|Buy_Action.internal]] 
 
-### #is_/same_as :: [Buy_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.protect|Buy_Action.protect]] 
 
-### #is_/same_as :: [Buy_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.private|Buy_Action.private]] 
 
-### #is_/same_as :: [Buy_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.personal|Buy_Action.personal]] 
 
-### #is_/same_as :: [Buy_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Buy_Action.secret|Buy_Action.secret]] 
 

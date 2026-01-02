@@ -42,17 +42,17 @@ Nonprofit501c10: Non-profit type referring to Domestic Fraternal Societies and A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c10](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10|Nonprofit501c10]] 
 
-### #is_/same_as :: [Nonprofit501c10.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.public|Nonprofit501c10.public]] 
 
-### #is_/same_as :: [Nonprofit501c10.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.internal|Nonprofit501c10.internal]] 
 
-### #is_/same_as :: [Nonprofit501c10.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.protect|Nonprofit501c10.protect]] 
 
-### #is_/same_as :: [Nonprofit501c10.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.private|Nonprofit501c10.private]] 
 
-### #is_/same_as :: [Nonprofit501c10.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.personal|Nonprofit501c10.personal]] 
 
-### #is_/same_as :: [Nonprofit501c10.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c10.secret|Nonprofit501c10.secret]] 
 

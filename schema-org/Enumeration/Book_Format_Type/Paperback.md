@@ -40,17 +40,17 @@ Book format: Paperback.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paperback](/_Standards/schema-org/Enumeration/Book_Format_Type/Paperback.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type/Paperback|Paperback]] 
 
-### #is_/same_as :: [Paperback.public](/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Book_Format_Type/Paperback.public|Paperback.public]] 
 
-### #is_/same_as :: [Paperback.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Paperback.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Book_Format_Type/Paperback.internal|Paperback.internal]] 
 
-### #is_/same_as :: [Paperback.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Paperback.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Book_Format_Type/Paperback.protect|Paperback.protect]] 
 
-### #is_/same_as :: [Paperback.private](/_private/schema-org/Enumeration/Book_Format_Type/Paperback.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Book_Format_Type/Paperback.private|Paperback.private]] 
 
-### #is_/same_as :: [Paperback.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Paperback.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Book_Format_Type/Paperback.personal|Paperback.personal]] 
 
-### #is_/same_as :: [Paperback.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Paperback.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Book_Format_Type/Paperback.secret|Paperback.secret]] 
 

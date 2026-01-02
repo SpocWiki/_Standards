@@ -41,17 +41,17 @@ A placeholder for multiple similar products of the same kind.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Some_Products](/_Standards/Society/Agent/Community/Organization/Business/Product/Some_Products.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Product/Some_Products|Some_Products]] 
 
-### #is_/same_as :: [Some_Products.public](/_public/Society/Agent/Community/Organization/Business/Product/Some_Products.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Product/Some_Products.public|Some_Products.public]] 
 
-### #is_/same_as :: [Some_Products.internal](/_internal/Society/Agent/Community/Organization/Business/Product/Some_Products.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Product/Some_Products.internal|Some_Products.internal]] 
 
-### #is_/same_as :: [Some_Products.protect](/_protect/Society/Agent/Community/Organization/Business/Product/Some_Products.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Product/Some_Products.protect|Some_Products.protect]] 
 
-### #is_/same_as :: [Some_Products.private](/_private/Society/Agent/Community/Organization/Business/Product/Some_Products.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Product/Some_Products.private|Some_Products.private]] 
 
-### #is_/same_as :: [Some_Products.personal](/_personal/Society/Agent/Community/Organization/Business/Product/Some_Products.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Product/Some_Products.personal|Some_Products.personal]] 
 
-### #is_/same_as :: [Some_Products.secret](/_secret/Society/Agent/Community/Organization/Business/Product/Some_Products.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Product/Some_Products.secret|Some_Products.secret]] 
 

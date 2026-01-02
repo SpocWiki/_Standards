@@ -156,17 +156,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Daugava](/_Standards/Earth/Continent/Europe/Europe~East/Daugava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Daugava|Daugava]] 
 
-### #is_/same_as :: [Daugava.public](/_public/Earth/Continent/Europe/Europe~East/Daugava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Daugava.public|Daugava.public]] 
 
-### #is_/same_as :: [Daugava.internal](/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Daugava.internal|Daugava.internal]] 
 
-### #is_/same_as :: [Daugava.protect](/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Daugava.protect|Daugava.protect]] 
 
-### #is_/same_as :: [Daugava.private](/_private/Earth/Continent/Europe/Europe~East/Daugava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Daugava.private|Daugava.private]] 
 
-### #is_/same_as :: [Daugava.personal](/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Daugava.personal|Daugava.personal]] 
 
-### #is_/same_as :: [Daugava.secret](/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Daugava.secret|Daugava.secret]] 
 

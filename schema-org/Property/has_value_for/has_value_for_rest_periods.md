@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_rest_periods](/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_rest_periods|has_value_for_rest_periods]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.public](/_public/schema-org/Property/has_value_for/has_value_for_rest_periods.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_rest_periods.public|has_value_for_rest_periods.public]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.internal](/_internal/schema-org/Property/has_value_for/has_value_for_rest_periods.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_rest_periods.internal|has_value_for_rest_periods.internal]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.protect](/_protect/schema-org/Property/has_value_for/has_value_for_rest_periods.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_rest_periods.protect|has_value_for_rest_periods.protect]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.private](/_private/schema-org/Property/has_value_for/has_value_for_rest_periods.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_rest_periods.private|has_value_for_rest_periods.private]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.personal](/_personal/schema-org/Property/has_value_for/has_value_for_rest_periods.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_rest_periods.personal|has_value_for_rest_periods.personal]] 
 
-### #is_/same_as :: [has_value_for_rest_periods.secret](/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_rest_periods.secret|has_value_for_rest_periods.secret]] 
 

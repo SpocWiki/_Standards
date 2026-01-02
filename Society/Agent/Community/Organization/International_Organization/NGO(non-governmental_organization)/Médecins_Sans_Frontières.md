@@ -102,17 +102,17 @@ Instagram_username: doctorswithoutborders
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Médecins_Sans_Frontières](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières|Médecins_Sans_Frontières]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.public|Médecins_Sans_Frontières.public]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.internal|Médecins_Sans_Frontières.internal]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.protect|Médecins_Sans_Frontières.protect]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.private|Médecins_Sans_Frontières.private]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.personal|Médecins_Sans_Frontières.personal]] 
 
-### #is_/same_as :: [Médecins_Sans_Frontières.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Médecins_Sans_Frontières.secret|Médecins_Sans_Frontières.secret]] 
 

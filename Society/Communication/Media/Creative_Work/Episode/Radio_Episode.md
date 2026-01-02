@@ -41,17 +41,17 @@ A radio episode which can be part of a series or season.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radio_Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Episode/Radio_Episode|Radio_Episode]] 
 
-### #is_/same_as :: [Radio_Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.public|Radio_Episode.public]] 
 
-### #is_/same_as :: [Radio_Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.internal|Radio_Episode.internal]] 
 
-### #is_/same_as :: [Radio_Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.protect|Radio_Episode.protect]] 
 
-### #is_/same_as :: [Radio_Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.private|Radio_Episode.private]] 
 
-### #is_/same_as :: [Radio_Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.personal|Radio_Episode.personal]] 
 
-### #is_/same_as :: [Radio_Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Episode/Radio_Episode.secret|Radio_Episode.secret]] 
 

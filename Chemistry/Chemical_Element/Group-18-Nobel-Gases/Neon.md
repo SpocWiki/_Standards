@@ -125,17 +125,17 @@ ZVG_number: 7100
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neon](/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon|Neon]] 
 
-### #is_/same_as :: [Neon.public](/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.public|Neon.public]] 
 
-### #is_/same_as :: [Neon.internal](/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.internal|Neon.internal]] 
 
-### #is_/same_as :: [Neon.protect](/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.protect|Neon.protect]] 
 
-### #is_/same_as :: [Neon.private](/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.private|Neon.private]] 
 
-### #is_/same_as :: [Neon.personal](/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.personal|Neon.personal]] 
 
-### #is_/same_as :: [Neon.secret](/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Neon.secret|Neon.secret]] 
 

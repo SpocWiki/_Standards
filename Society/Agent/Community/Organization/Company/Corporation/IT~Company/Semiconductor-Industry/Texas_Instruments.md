@@ -77,17 +77,17 @@ popularized the use of integrated circuits in computer logic.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Texas_Instruments](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments|Texas_Instruments]] 
 
-### #is_/same_as :: [Texas_Instruments.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.public|Texas_Instruments.public]] 
 
-### #is_/same_as :: [Texas_Instruments.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.internal|Texas_Instruments.internal]] 
 
-### #is_/same_as :: [Texas_Instruments.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.protect|Texas_Instruments.protect]] 
 
-### #is_/same_as :: [Texas_Instruments.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.private|Texas_Instruments.private]] 
 
-### #is_/same_as :: [Texas_Instruments.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.personal|Texas_Instruments.personal]] 
 
-### #is_/same_as :: [Texas_Instruments.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Texas_Instruments.secret|Texas_Instruments.secret]] 
 

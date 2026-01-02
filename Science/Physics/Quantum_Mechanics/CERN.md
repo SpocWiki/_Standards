@@ -154,17 +154,17 @@ native_label: Organisation européenne pour la recherche nucléaire
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CERN](/_Standards/Science/Physics/Quantum_Mechanics/CERN.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/CERN|CERN]] 
 
-### #is_/same_as :: [CERN.public](/_public/Science/Physics/Quantum_Mechanics/CERN.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/CERN.public|CERN.public]] 
 
-### #is_/same_as :: [CERN.internal](/_internal/Science/Physics/Quantum_Mechanics/CERN.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/CERN.internal|CERN.internal]] 
 
-### #is_/same_as :: [CERN.protect](/_protect/Science/Physics/Quantum_Mechanics/CERN.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/CERN.protect|CERN.protect]] 
 
-### #is_/same_as :: [CERN.private](/_private/Science/Physics/Quantum_Mechanics/CERN.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/CERN.private|CERN.private]] 
 
-### #is_/same_as :: [CERN.personal](/_personal/Science/Physics/Quantum_Mechanics/CERN.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/CERN.personal|CERN.personal]] 
 
-### #is_/same_as :: [CERN.secret](/_secret/Science/Physics/Quantum_Mechanics/CERN.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/CERN.secret|CERN.secret]] 
 

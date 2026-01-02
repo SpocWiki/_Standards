@@ -155,17 +155,17 @@ net_worth: 390000000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Streisand,Barbra](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra|Streisand,Barbra]] 
 
-### #is_/same_as :: [Streisand,Barbra.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.public|Streisand,Barbra.public]] 
 
-### #is_/same_as :: [Streisand,Barbra.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.internal|Streisand,Barbra.internal]] 
 
-### #is_/same_as :: [Streisand,Barbra.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.protect|Streisand,Barbra.protect]] 
 
-### #is_/same_as :: [Streisand,Barbra.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.private|Streisand,Barbra.private]] 
 
-### #is_/same_as :: [Streisand,Barbra.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.personal|Streisand,Barbra.personal]] 
 
-### #is_/same_as :: [Streisand,Barbra.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Streisand,Barbra.secret|Streisand,Barbra.secret]] 
 

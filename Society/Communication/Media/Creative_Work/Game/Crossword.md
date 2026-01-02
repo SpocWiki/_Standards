@@ -41,17 +41,17 @@ Commons_gallery: Crossword
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crossword](/_Standards/Society/Communication/Media/Creative_Work/Game/Crossword.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Crossword|Crossword]] 
 
-### #is_/same_as :: [Crossword.public](/_public/Society/Communication/Media/Creative_Work/Game/Crossword.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Crossword.public|Crossword.public]] 
 
-### #is_/same_as :: [Crossword.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Crossword.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Crossword.internal|Crossword.internal]] 
 
-### #is_/same_as :: [Crossword.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Crossword.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Crossword.protect|Crossword.protect]] 
 
-### #is_/same_as :: [Crossword.private](/_private/Society/Communication/Media/Creative_Work/Game/Crossword.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Crossword.private|Crossword.private]] 
 
-### #is_/same_as :: [Crossword.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Crossword.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Crossword.personal|Crossword.personal]] 
 
-### #is_/same_as :: [Crossword.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Crossword.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Crossword.secret|Crossword.secret]] 
 

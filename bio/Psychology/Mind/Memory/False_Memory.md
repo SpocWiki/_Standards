@@ -17,3 +17,22 @@
 It is proven that traumatic Memories are not hidden. 
 It is much more probable that false Memories are created by Suggestion. 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mind/Memory/False_Memory|False_Memory]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Mind/Memory/False_Memory.public|False_Memory.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Mind/Memory/False_Memory.internal|False_Memory.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Mind/Memory/False_Memory.protect|False_Memory.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Mind/Memory/False_Memory.private|False_Memory.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Mind/Memory/False_Memory.personal|False_Memory.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Mind/Memory/False_Memory.secret|False_Memory.secret]] 
+

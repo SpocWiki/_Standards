@@ -41,17 +41,17 @@ Web page type: Checkout page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Checkout_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page|Checkout_Page]] 
 
-### #is_/same_as :: [Checkout_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.public|Checkout_Page.public]] 
 
-### #is_/same_as :: [Checkout_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.internal|Checkout_Page.internal]] 
 
-### #is_/same_as :: [Checkout_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.protect|Checkout_Page.protect]] 
 
-### #is_/same_as :: [Checkout_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.private|Checkout_Page.private]] 
 
-### #is_/same_as :: [Checkout_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.personal|Checkout_Page.personal]] 
 
-### #is_/same_as :: [Checkout_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page/Checkout_Page.secret|Checkout_Page.secret]] 
 

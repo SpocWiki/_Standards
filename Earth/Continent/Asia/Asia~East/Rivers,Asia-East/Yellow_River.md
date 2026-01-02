@@ -133,17 +133,17 @@ watershed_area: 752000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yellow_River](/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River|Yellow_River]] 
 
-### #is_/same_as :: [Yellow_River.public](/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.public|Yellow_River.public]] 
 
-### #is_/same_as :: [Yellow_River.internal](/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.internal|Yellow_River.internal]] 
 
-### #is_/same_as :: [Yellow_River.protect](/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.protect|Yellow_River.protect]] 
 
-### #is_/same_as :: [Yellow_River.private](/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.private|Yellow_River.private]] 
 
-### #is_/same_as :: [Yellow_River.personal](/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.personal|Yellow_River.personal]] 
 
-### #is_/same_as :: [Yellow_River.secret](/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~East/Rivers,Asia-East/Yellow_River.secret|Yellow_River.secret]] 
 

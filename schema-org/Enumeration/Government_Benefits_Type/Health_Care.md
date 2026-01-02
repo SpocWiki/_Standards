@@ -109,17 +109,17 @@ HealthCare: this is a benefit for health care.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Care](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Health_Care|Health_Care]] 
 
-### #is_/same_as :: [Health_Care.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Government_Benefits_Type/Health_Care.public|Health_Care.public]] 
 
-### #is_/same_as :: [Health_Care.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.internal|Health_Care.internal]] 
 
-### #is_/same_as :: [Health_Care.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Government_Benefits_Type/Health_Care.protect|Health_Care.protect]] 
 
-### #is_/same_as :: [Health_Care.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Government_Benefits_Type/Health_Care.private|Health_Care.private]] 
 
-### #is_/same_as :: [Health_Care.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Government_Benefits_Type/Health_Care.personal|Health_Care.personal]] 
 
-### #is_/same_as :: [Health_Care.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Government_Benefits_Type/Health_Care.secret|Health_Care.secret]] 
 

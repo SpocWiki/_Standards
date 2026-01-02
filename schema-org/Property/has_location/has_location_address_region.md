@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_address_region](/_Standards/schema-org/Property/has_location/has_location_address_region.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_address_region|has_location_address_region]] 
 
-### #is_/same_as :: [has_location_address_region.public](/_public/schema-org/Property/has_location/has_location_address_region.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_address_region.public|has_location_address_region.public]] 
 
-### #is_/same_as :: [has_location_address_region.internal](/_internal/schema-org/Property/has_location/has_location_address_region.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_address_region.internal|has_location_address_region.internal]] 
 
-### #is_/same_as :: [has_location_address_region.protect](/_protect/schema-org/Property/has_location/has_location_address_region.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_address_region.protect|has_location_address_region.protect]] 
 
-### #is_/same_as :: [has_location_address_region.private](/_private/schema-org/Property/has_location/has_location_address_region.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_address_region.private|has_location_address_region.private]] 
 
-### #is_/same_as :: [has_location_address_region.personal](/_personal/schema-org/Property/has_location/has_location_address_region.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_address_region.personal|has_location_address_region.personal]] 
 
-### #is_/same_as :: [has_location_address_region.secret](/_secret/schema-org/Property/has_location/has_location_address_region.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_address_region.secret|has_location_address_region.secret]] 
 

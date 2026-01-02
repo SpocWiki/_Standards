@@ -32,17 +32,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linux_Kernel](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel|Linux_Kernel]] 
 
-### #is_/same_as :: [Linux_Kernel.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.public|Linux_Kernel.public]] 
 
-### #is_/same_as :: [Linux_Kernel.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.internal|Linux_Kernel.internal]] 
 
-### #is_/same_as :: [Linux_Kernel.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.protect|Linux_Kernel.protect]] 
 
-### #is_/same_as :: [Linux_Kernel.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.private|Linux_Kernel.private]] 
 
-### #is_/same_as :: [Linux_Kernel.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.personal|Linux_Kernel.personal]] 
 
-### #is_/same_as :: [Linux_Kernel.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Linux/Linux_Kernel.secret|Linux_Kernel.secret]] 
 

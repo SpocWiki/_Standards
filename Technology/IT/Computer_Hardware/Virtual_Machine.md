@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virtual_Machine](/_Standards/Technology/IT/Computer_Hardware/Virtual_Machine.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Virtual_Machine|Virtual_Machine]] 
 
-### #is_/same_as :: [Virtual_Machine.public](/_public/Technology/IT/Computer_Hardware/Virtual_Machine.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Virtual_Machine.public|Virtual_Machine.public]] 
 
-### #is_/same_as :: [Virtual_Machine.internal](/_internal/Technology/IT/Computer_Hardware/Virtual_Machine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Virtual_Machine.internal|Virtual_Machine.internal]] 
 
-### #is_/same_as :: [Virtual_Machine.protect](/_protect/Technology/IT/Computer_Hardware/Virtual_Machine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Virtual_Machine.protect|Virtual_Machine.protect]] 
 
-### #is_/same_as :: [Virtual_Machine.private](/_private/Technology/IT/Computer_Hardware/Virtual_Machine.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Virtual_Machine.private|Virtual_Machine.private]] 
 
-### #is_/same_as :: [Virtual_Machine.personal](/_personal/Technology/IT/Computer_Hardware/Virtual_Machine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Virtual_Machine.personal|Virtual_Machine.personal]] 
 
-### #is_/same_as :: [Virtual_Machine.secret](/_secret/Technology/IT/Computer_Hardware/Virtual_Machine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Virtual_Machine.secret|Virtual_Machine.secret]] 
 

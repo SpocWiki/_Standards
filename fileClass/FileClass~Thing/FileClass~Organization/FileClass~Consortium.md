@@ -37,17 +37,17 @@ A Consortium is a membership [[../../../Society/Agent/Community/Organization]] w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Consortium](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium|FileClass~Consortium]] 
 
-### #is_/same_as :: [FileClass~Consortium.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.public|FileClass~Consortium.public]] 
 
-### #is_/same_as :: [FileClass~Consortium.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.internal|FileClass~Consortium.internal]] 
 
-### #is_/same_as :: [FileClass~Consortium.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.protect|FileClass~Consortium.protect]] 
 
-### #is_/same_as :: [FileClass~Consortium.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.private|FileClass~Consortium.private]] 
 
-### #is_/same_as :: [FileClass~Consortium.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.personal|FileClass~Consortium.personal]] 
 
-### #is_/same_as :: [FileClass~Consortium.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~Consortium.secret|FileClass~Consortium.secret]] 
 

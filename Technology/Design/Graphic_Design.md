@@ -48,17 +48,17 @@ subreddit: graphic_design
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graphic_Design](/_Standards/Technology/Design/Graphic_Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design|Graphic_Design]] 
 
-### #is_/same_as :: [Graphic_Design.public](/_public/Technology/Design/Graphic_Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design.public|Graphic_Design.public]] 
 
-### #is_/same_as :: [Graphic_Design.internal](/_internal/Technology/Design/Graphic_Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design.internal|Graphic_Design.internal]] 
 
-### #is_/same_as :: [Graphic_Design.protect](/_protect/Technology/Design/Graphic_Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design.protect|Graphic_Design.protect]] 
 
-### #is_/same_as :: [Graphic_Design.private](/_private/Technology/Design/Graphic_Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design.private|Graphic_Design.private]] 
 
-### #is_/same_as :: [Graphic_Design.personal](/_personal/Technology/Design/Graphic_Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design.personal|Graphic_Design.personal]] 
 
-### #is_/same_as :: [Graphic_Design.secret](/_secret/Technology/Design/Graphic_Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design.secret|Graphic_Design.secret]] 
 

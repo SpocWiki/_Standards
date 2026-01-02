@@ -43,17 +43,17 @@ disorders of heart and vasculature.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cardiovascular](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular|Cardiovascular]] 
 
-### #is_/same_as :: [Cardiovascular.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.public|Cardiovascular.public]] 
 
-### #is_/same_as :: [Cardiovascular.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.internal|Cardiovascular.internal]] 
 
-### #is_/same_as :: [Cardiovascular.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.protect|Cardiovascular.protect]] 
 
-### #is_/same_as :: [Cardiovascular.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.private|Cardiovascular.private]] 
 
-### #is_/same_as :: [Cardiovascular.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.personal|Cardiovascular.personal]] 
 
-### #is_/same_as :: [Cardiovascular.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Cardiovascular.secret|Cardiovascular.secret]] 
 

@@ -67,17 +67,17 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamient
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paleo-Indian](/_Standards/Earth/Continent/America~North/Paleo-Indian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]] 
 
-### #is_/same_as :: [Paleo-Indian.public](/_public/Earth/Continent/America~North/Paleo-Indian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]] 
 
-### #is_/same_as :: [Paleo-Indian.internal](/_internal/Earth/Continent/America~North/Paleo-Indian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]] 
 
-### #is_/same_as :: [Paleo-Indian.protect](/_protect/Earth/Continent/America~North/Paleo-Indian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Paleo-Indian.protect|Paleo-Indian.protect]] 
 
-### #is_/same_as :: [Paleo-Indian.private](/_private/Earth/Continent/America~North/Paleo-Indian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Paleo-Indian.private|Paleo-Indian.private]] 
 
-### #is_/same_as :: [Paleo-Indian.personal](/_personal/Earth/Continent/America~North/Paleo-Indian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]] 
 
-### #is_/same_as :: [Paleo-Indian.secret](/_secret/Earth/Continent/America~North/Paleo-Indian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]] 
 

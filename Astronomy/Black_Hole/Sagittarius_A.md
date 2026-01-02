@@ -61,17 +61,17 @@ The supermassive black hole at the center of the Milky Way Galaxy.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sagittarius_A](/_Standards/Astronomy/Black_Hole/Sagittarius_A.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole/Sagittarius_A|Sagittarius_A]] 
 
-### #is_/same_as :: [Sagittarius_A.public](/_public/Astronomy/Black_Hole/Sagittarius_A.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole/Sagittarius_A.public|Sagittarius_A.public]] 
 
-### #is_/same_as :: [Sagittarius_A.internal](/_internal/Astronomy/Black_Hole/Sagittarius_A.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole/Sagittarius_A.internal|Sagittarius_A.internal]] 
 
-### #is_/same_as :: [Sagittarius_A.protect](/_protect/Astronomy/Black_Hole/Sagittarius_A.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole/Sagittarius_A.protect|Sagittarius_A.protect]] 
 
-### #is_/same_as :: [Sagittarius_A.private](/_private/Astronomy/Black_Hole/Sagittarius_A.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole/Sagittarius_A.private|Sagittarius_A.private]] 
 
-### #is_/same_as :: [Sagittarius_A.personal](/_personal/Astronomy/Black_Hole/Sagittarius_A.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole/Sagittarius_A.personal|Sagittarius_A.personal]] 
 
-### #is_/same_as :: [Sagittarius_A.secret](/_secret/Astronomy/Black_Hole/Sagittarius_A.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole/Sagittarius_A.secret|Sagittarius_A.secret]] 
 

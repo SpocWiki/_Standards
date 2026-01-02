@@ -38,17 +38,17 @@ PhilPapers_topic: history-of-psychology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Psychology](/_Standards/bio/Psychology/History_of_Psychology.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/History_of_Psychology|History_of_Psychology]] 
 
-### #is_/same_as :: [History_of_Psychology.public](/_public/bio/Psychology/History_of_Psychology.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/History_of_Psychology.public|History_of_Psychology.public]] 
 
-### #is_/same_as :: [History_of_Psychology.internal](/_internal/bio/Psychology/History_of_Psychology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/History_of_Psychology.internal|History_of_Psychology.internal]] 
 
-### #is_/same_as :: [History_of_Psychology.protect](/_protect/bio/Psychology/History_of_Psychology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/History_of_Psychology.protect|History_of_Psychology.protect]] 
 
-### #is_/same_as :: [History_of_Psychology.private](/_private/bio/Psychology/History_of_Psychology.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/History_of_Psychology.private|History_of_Psychology.private]] 
 
-### #is_/same_as :: [History_of_Psychology.personal](/_personal/bio/Psychology/History_of_Psychology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/History_of_Psychology.personal|History_of_Psychology.personal]] 
 
-### #is_/same_as :: [History_of_Psychology.secret](/_secret/bio/Psychology/History_of_Psychology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/History_of_Psychology.secret|History_of_Psychology.secret]] 
 

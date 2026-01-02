@@ -42,17 +42,17 @@ Unicode_character: 🪜
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ladder](/_Standards/Technology/Tool/Mechanical_Tool/Ladder.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Ladder|Ladder]] 
 
-### #is_/same_as :: [Ladder.public](/_public/Technology/Tool/Mechanical_Tool/Ladder.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Ladder.public|Ladder.public]] 
 
-### #is_/same_as :: [Ladder.internal](/_internal/Technology/Tool/Mechanical_Tool/Ladder.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Ladder.internal|Ladder.internal]] 
 
-### #is_/same_as :: [Ladder.protect](/_protect/Technology/Tool/Mechanical_Tool/Ladder.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Ladder.protect|Ladder.protect]] 
 
-### #is_/same_as :: [Ladder.private](/_private/Technology/Tool/Mechanical_Tool/Ladder.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Ladder.private|Ladder.private]] 
 
-### #is_/same_as :: [Ladder.personal](/_personal/Technology/Tool/Mechanical_Tool/Ladder.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Ladder.personal|Ladder.personal]] 
 
-### #is_/same_as :: [Ladder.secret](/_secret/Technology/Tool/Mechanical_Tool/Ladder.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Ladder.secret|Ladder.secret]] 
 

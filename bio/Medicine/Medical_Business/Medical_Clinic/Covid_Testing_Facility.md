@@ -46,17 +46,17 @@ A CovidTestingFacility is a [[MedicalClinic]] where testing for the COVID-19 Cor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Covid_Testing_Facility](/_Standards/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility|Covid_Testing_Facility]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.public](/_public/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.public|Covid_Testing_Facility.public]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.internal](/_internal/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.internal|Covid_Testing_Facility.internal]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.protect](/_protect/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.protect|Covid_Testing_Facility.protect]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.private](/_private/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.private|Covid_Testing_Facility.private]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.personal](/_personal/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.personal|Covid_Testing_Facility.personal]] 
 
-### #is_/same_as :: [Covid_Testing_Facility.secret](/_secret/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Medical_Clinic/Covid_Testing_Facility.secret|Covid_Testing_Facility.secret]] 
 

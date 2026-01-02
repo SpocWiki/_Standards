@@ -165,17 +165,17 @@ Capital :: [[Azerbaijan/Counties/Bakı/City/Baku]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Azerbaijan](/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~North~West/Azerbaijan|Azerbaijan]] 
 
-### #is_/same_as :: [Azerbaijan.public](/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~North~West/Azerbaijan.public|Azerbaijan.public]] 
 
-### #is_/same_as :: [Azerbaijan.internal](/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.internal|Azerbaijan.internal]] 
 
-### #is_/same_as :: [Azerbaijan.protect](/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~North~West/Azerbaijan.protect|Azerbaijan.protect]] 
 
-### #is_/same_as :: [Azerbaijan.private](/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]] 
 
-### #is_/same_as :: [Azerbaijan.personal](/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]] 
 
-### #is_/same_as :: [Azerbaijan.secret](/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]] 
 

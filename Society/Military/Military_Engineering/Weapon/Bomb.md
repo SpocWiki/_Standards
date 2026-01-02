@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bomb](/_Standards/Society/Military/Military_Engineering/Weapon/Bomb.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Bomb|Bomb]] 
 
-### #is_/same_as :: [Bomb.public](/_public/Society/Military/Military_Engineering/Weapon/Bomb.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Bomb.public|Bomb.public]] 
 
-### #is_/same_as :: [Bomb.internal](/_internal/Society/Military/Military_Engineering/Weapon/Bomb.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Bomb.internal|Bomb.internal]] 
 
-### #is_/same_as :: [Bomb.protect](/_protect/Society/Military/Military_Engineering/Weapon/Bomb.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Bomb.protect|Bomb.protect]] 
 
-### #is_/same_as :: [Bomb.private](/_private/Society/Military/Military_Engineering/Weapon/Bomb.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Bomb.private|Bomb.private]] 
 
-### #is_/same_as :: [Bomb.personal](/_personal/Society/Military/Military_Engineering/Weapon/Bomb.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Bomb.personal|Bomb.personal]] 
 
-### #is_/same_as :: [Bomb.secret](/_secret/Society/Military/Military_Engineering/Weapon/Bomb.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Bomb.secret|Bomb.secret]] 
 

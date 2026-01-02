@@ -116,17 +116,17 @@ ISNI: 0000000121197891
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rockefeller,John_D.](/_Standards/Society/Economics/Industry/Industrialist/Rockefeller,John_D..md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Industrialist/Rockefeller,John_D.|Rockefeller,John_D.]] 
 
-### #is_/same_as :: [Rockefeller,John_D..public](/_public/Society/Economics/Industry/Industrialist/Rockefeller,John_D..public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Industrialist/Rockefeller,John_D..public|Rockefeller,John_D..public]] 
 
-### #is_/same_as :: [Rockefeller,John_D..internal](/_internal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..internal|Rockefeller,John_D..internal]] 
 
-### #is_/same_as :: [Rockefeller,John_D..protect](/_protect/Society/Economics/Industry/Industrialist/Rockefeller,John_D..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Industrialist/Rockefeller,John_D..protect|Rockefeller,John_D..protect]] 
 
-### #is_/same_as :: [Rockefeller,John_D..private](/_private/Society/Economics/Industry/Industrialist/Rockefeller,John_D..private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Industrialist/Rockefeller,John_D..private|Rockefeller,John_D..private]] 
 
-### #is_/same_as :: [Rockefeller,John_D..personal](/_personal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Industrialist/Rockefeller,John_D..personal|Rockefeller,John_D..personal]] 
 
-### #is_/same_as :: [Rockefeller,John_D..secret](/_secret/Society/Economics/Industry/Industrialist/Rockefeller,John_D..secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Industrialist/Rockefeller,John_D..secret|Rockefeller,John_D..secret]] 
 

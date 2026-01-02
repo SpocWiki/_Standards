@@ -44,17 +44,17 @@ Includes <a href="https://en.wikipedia.org/wiki/Advertorial">advertorials</a>, s
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Advertiser_Content_Article](/_Standards/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article|Advertiser_Content_Article]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.public](/_public/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.public|Advertiser_Content_Article.public]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.internal|Advertiser_Content_Article.internal]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.protect|Advertiser_Content_Article.protect]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.private](/_private/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.private|Advertiser_Content_Article.private]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.personal|Advertiser_Content_Article.personal]] 
 
-### #is_/same_as :: [Advertiser_Content_Article.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Advertiser_Content_Article.secret|Advertiser_Content_Article.secret]] 
 

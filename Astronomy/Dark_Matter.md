@@ -91,17 +91,17 @@ Dewey_Decimal_Classification: 523.1126
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dark_Matter](/_Standards/Astronomy/Dark_Matter.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Dark_Matter|Dark_Matter]] 
 
-### #is_/same_as :: [Dark_Matter.public](/_public/Astronomy/Dark_Matter.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Dark_Matter.public|Dark_Matter.public]] 
 
-### #is_/same_as :: [Dark_Matter.internal](/_internal/Astronomy/Dark_Matter.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Dark_Matter.internal|Dark_Matter.internal]] 
 
-### #is_/same_as :: [Dark_Matter.protect](/_protect/Astronomy/Dark_Matter.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Dark_Matter.protect|Dark_Matter.protect]] 
 
-### #is_/same_as :: [Dark_Matter.private](/_private/Astronomy/Dark_Matter.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Dark_Matter.private|Dark_Matter.private]] 
 
-### #is_/same_as :: [Dark_Matter.personal](/_personal/Astronomy/Dark_Matter.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Dark_Matter.personal|Dark_Matter.personal]] 
 
-### #is_/same_as :: [Dark_Matter.secret](/_secret/Astronomy/Dark_Matter.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Dark_Matter.secret|Dark_Matter.secret]] 
 

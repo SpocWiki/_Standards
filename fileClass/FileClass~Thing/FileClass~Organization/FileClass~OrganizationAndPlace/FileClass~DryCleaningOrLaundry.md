@@ -37,17 +37,17 @@ A dry-cleaning business.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry|FileClass~DryCleaningOrLaundry]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.public|FileClass~DryCleaningOrLaundry.public]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.internal|FileClass~DryCleaningOrLaundry.internal]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.protect|FileClass~DryCleaningOrLaundry.protect]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.private|FileClass~DryCleaningOrLaundry.private]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.personal|FileClass~DryCleaningOrLaundry.personal]] 
 
-### #is_/same_as :: [FileClass~DryCleaningOrLaundry.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~DryCleaningOrLaundry.secret|FileClass~DryCleaningOrLaundry.secret]] 
 

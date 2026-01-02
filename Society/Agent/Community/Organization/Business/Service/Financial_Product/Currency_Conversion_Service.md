@@ -41,17 +41,17 @@ A service to convert funds from one currency to another currency.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Currency_Conversion_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service|Currency_Conversion_Service]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.public|Currency_Conversion_Service.public]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.internal|Currency_Conversion_Service.internal]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.protect|Currency_Conversion_Service.protect]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.private|Currency_Conversion_Service.private]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.personal|Currency_Conversion_Service.personal]] 
 
-### #is_/same_as :: [Currency_Conversion_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Currency_Conversion_Service.secret|Currency_Conversion_Service.secret]] 
 

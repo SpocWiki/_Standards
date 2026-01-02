@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Levi-Civita,Tullio](/_Standards/Mathematics/Mathematician/Levi-Civita,Tullio.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Levi-Civita,Tullio|Levi-Civita,Tullio]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.public](/_public/Mathematics/Mathematician/Levi-Civita,Tullio.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Levi-Civita,Tullio.public|Levi-Civita,Tullio.public]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.internal](/_internal/Mathematics/Mathematician/Levi-Civita,Tullio.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Levi-Civita,Tullio.internal|Levi-Civita,Tullio.internal]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.protect](/_protect/Mathematics/Mathematician/Levi-Civita,Tullio.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Levi-Civita,Tullio.protect|Levi-Civita,Tullio.protect]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.private](/_private/Mathematics/Mathematician/Levi-Civita,Tullio.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Levi-Civita,Tullio.private|Levi-Civita,Tullio.private]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.personal](/_personal/Mathematics/Mathematician/Levi-Civita,Tullio.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Levi-Civita,Tullio.personal|Levi-Civita,Tullio.personal]] 
 
-### #is_/same_as :: [Levi-Civita,Tullio.secret](/_secret/Mathematics/Mathematician/Levi-Civita,Tullio.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Levi-Civita,Tullio.secret|Levi-Civita,Tullio.secret]] 
 

@@ -81,17 +81,17 @@ Dewey_Decimal_Classification: "539.725"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supersymmetry](/_Standards/Science/Physics/Quantum_Mechanics/Supersymmetry.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Supersymmetry|Supersymmetry]] 
 
-### #is_/same_as :: [Supersymmetry.public](/_public/Science/Physics/Quantum_Mechanics/Supersymmetry.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Supersymmetry.public|Supersymmetry.public]] 
 
-### #is_/same_as :: [Supersymmetry.internal](/_internal/Science/Physics/Quantum_Mechanics/Supersymmetry.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Supersymmetry.internal|Supersymmetry.internal]] 
 
-### #is_/same_as :: [Supersymmetry.protect](/_protect/Science/Physics/Quantum_Mechanics/Supersymmetry.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Supersymmetry.protect|Supersymmetry.protect]] 
 
-### #is_/same_as :: [Supersymmetry.private](/_private/Science/Physics/Quantum_Mechanics/Supersymmetry.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Supersymmetry.private|Supersymmetry.private]] 
 
-### #is_/same_as :: [Supersymmetry.personal](/_personal/Science/Physics/Quantum_Mechanics/Supersymmetry.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Supersymmetry.personal|Supersymmetry.personal]] 
 
-### #is_/same_as :: [Supersymmetry.secret](/_secret/Science/Physics/Quantum_Mechanics/Supersymmetry.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Supersymmetry.secret|Supersymmetry.secret]] 
 

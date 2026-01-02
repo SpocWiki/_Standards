@@ -43,17 +43,17 @@ A web page. Every web page is implicitly assumed to be declared to be of type We
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Page](/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Content/Web_Page|Web_Page]] 
 
-### #is_/same_as :: [Web_Page.public](/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.public|Web_Page.public]] 
 
-### #is_/same_as :: [Web_Page.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.internal|Web_Page.internal]] 
 
-### #is_/same_as :: [Web_Page.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.protect|Web_Page.protect]] 
 
-### #is_/same_as :: [Web_Page.private](/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.private|Web_Page.private]] 
 
-### #is_/same_as :: [Web_Page.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.personal|Web_Page.personal]] 
 
-### #is_/same_as :: [Web_Page.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Content/Web_Page.secret|Web_Page.secret]] 
 

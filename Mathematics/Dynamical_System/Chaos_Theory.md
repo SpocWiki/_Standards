@@ -88,17 +88,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/HAOSA_TEORIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chaos_Theory](/_Standards/Mathematics/Dynamical_System/Chaos_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Dynamical_System/Chaos_Theory|Chaos_Theory]] 
 
-### #is_/same_as :: [Chaos_Theory.public](/_public/Mathematics/Dynamical_System/Chaos_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Dynamical_System/Chaos_Theory.public|Chaos_Theory.public]] 
 
-### #is_/same_as :: [Chaos_Theory.internal](/_internal/Mathematics/Dynamical_System/Chaos_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Dynamical_System/Chaos_Theory.internal|Chaos_Theory.internal]] 
 
-### #is_/same_as :: [Chaos_Theory.protect](/_protect/Mathematics/Dynamical_System/Chaos_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Dynamical_System/Chaos_Theory.protect|Chaos_Theory.protect]] 
 
-### #is_/same_as :: [Chaos_Theory.private](/_private/Mathematics/Dynamical_System/Chaos_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Dynamical_System/Chaos_Theory.private|Chaos_Theory.private]] 
 
-### #is_/same_as :: [Chaos_Theory.personal](/_personal/Mathematics/Dynamical_System/Chaos_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Dynamical_System/Chaos_Theory.personal|Chaos_Theory.personal]] 
 
-### #is_/same_as :: [Chaos_Theory.secret](/_secret/Mathematics/Dynamical_System/Chaos_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Dynamical_System/Chaos_Theory.secret|Chaos_Theory.secret]] 
 

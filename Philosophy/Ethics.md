@@ -70,17 +70,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/ethics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethics](/_Standards/Philosophy/Ethics.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics|Ethics]] 
 
-### #is_/same_as :: [Ethics.public](/_public/Philosophy/Ethics.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics.public|Ethics.public]] 
 
-### #is_/same_as :: [Ethics.internal](/_internal/Philosophy/Ethics.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics.internal|Ethics.internal]] 
 
-### #is_/same_as :: [Ethics.protect](/_protect/Philosophy/Ethics.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics.protect|Ethics.protect]] 
 
-### #is_/same_as :: [Ethics.private](/_private/Philosophy/Ethics.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics.private|Ethics.private]] 
 
-### #is_/same_as :: [Ethics.personal](/_personal/Philosophy/Ethics.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics.personal|Ethics.personal]] 
 
-### #is_/same_as :: [Ethics.secret](/_secret/Philosophy/Ethics.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics.secret|Ethics.secret]] 
 

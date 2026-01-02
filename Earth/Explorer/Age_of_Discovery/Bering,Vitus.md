@@ -135,17 +135,17 @@ ISNI: 0000000073586496
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bering,Vitus](/_Standards/Earth/Explorer/Age_of_Discovery/Bering,Vitus.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Bering,Vitus|Bering,Vitus]] 
 
-### #is_/same_as :: [Bering,Vitus.public](/_public/Earth/Explorer/Age_of_Discovery/Bering,Vitus.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Bering,Vitus.public|Bering,Vitus.public]] 
 
-### #is_/same_as :: [Bering,Vitus.internal](/_internal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.internal|Bering,Vitus.internal]] 
 
-### #is_/same_as :: [Bering,Vitus.protect](/_protect/Earth/Explorer/Age_of_Discovery/Bering,Vitus.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Bering,Vitus.protect|Bering,Vitus.protect]] 
 
-### #is_/same_as :: [Bering,Vitus.private](/_private/Earth/Explorer/Age_of_Discovery/Bering,Vitus.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Bering,Vitus.private|Bering,Vitus.private]] 
 
-### #is_/same_as :: [Bering,Vitus.personal](/_personal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Bering,Vitus.personal|Bering,Vitus.personal]] 
 
-### #is_/same_as :: [Bering,Vitus.secret](/_secret/Earth/Explorer/Age_of_Discovery/Bering,Vitus.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Bering,Vitus.secret|Bering,Vitus.secret]] 
 

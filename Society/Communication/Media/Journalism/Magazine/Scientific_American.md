@@ -90,17 +90,17 @@ title: Scientific American
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scientific_American](/_Standards/Society/Communication/Media/Journalism/Magazine/Scientific_American.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Scientific_American|Scientific_American]] 
 
-### #is_/same_as :: [Scientific_American.public](/_public/Society/Communication/Media/Journalism/Magazine/Scientific_American.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Scientific_American.public|Scientific_American.public]] 
 
-### #is_/same_as :: [Scientific_American.internal](/_internal/Society/Communication/Media/Journalism/Magazine/Scientific_American.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Scientific_American.internal|Scientific_American.internal]] 
 
-### #is_/same_as :: [Scientific_American.protect](/_protect/Society/Communication/Media/Journalism/Magazine/Scientific_American.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Scientific_American.protect|Scientific_American.protect]] 
 
-### #is_/same_as :: [Scientific_American.private](/_private/Society/Communication/Media/Journalism/Magazine/Scientific_American.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Scientific_American.private|Scientific_American.private]] 
 
-### #is_/same_as :: [Scientific_American.personal](/_personal/Society/Communication/Media/Journalism/Magazine/Scientific_American.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Scientific_American.personal|Scientific_American.personal]] 
 
-### #is_/same_as :: [Scientific_American.secret](/_secret/Society/Communication/Media/Journalism/Magazine/Scientific_American.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Scientific_American.secret|Scientific_American.secret]] 
 

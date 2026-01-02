@@ -53,17 +53,17 @@ OpenStreetMap_tag: cuisine=seafood
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seafood](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Seafood.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Seafood|Seafood]] 
 
-### #is_/same_as :: [Seafood.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Seafood.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Seafood.public|Seafood.public]] 
 
-### #is_/same_as :: [Seafood.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Seafood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Seafood.internal|Seafood.internal]] 
 
-### #is_/same_as :: [Seafood.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Seafood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Seafood.protect|Seafood.protect]] 
 
-### #is_/same_as :: [Seafood.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Seafood.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Seafood.private|Seafood.private]] 
 
-### #is_/same_as :: [Seafood.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Seafood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Seafood.personal|Seafood.personal]] 
 
-### #is_/same_as :: [Seafood.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Seafood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Seafood.secret|Seafood.secret]] 
 

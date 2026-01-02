@@ -46,17 +46,17 @@ time_of_discovery_or_invention: 1911-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cloud_Chamber](/_Standards/Science/Physics/Cloud_Chamber.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Cloud_Chamber|Cloud_Chamber]] 
 
-### #is_/same_as :: [Cloud_Chamber.public](/_public/Science/Physics/Cloud_Chamber.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Cloud_Chamber.public|Cloud_Chamber.public]] 
 
-### #is_/same_as :: [Cloud_Chamber.internal](/_internal/Science/Physics/Cloud_Chamber.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Cloud_Chamber.internal|Cloud_Chamber.internal]] 
 
-### #is_/same_as :: [Cloud_Chamber.protect](/_protect/Science/Physics/Cloud_Chamber.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Cloud_Chamber.protect|Cloud_Chamber.protect]] 
 
-### #is_/same_as :: [Cloud_Chamber.private](/_private/Science/Physics/Cloud_Chamber.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Cloud_Chamber.private|Cloud_Chamber.private]] 
 
-### #is_/same_as :: [Cloud_Chamber.personal](/_personal/Science/Physics/Cloud_Chamber.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Cloud_Chamber.personal|Cloud_Chamber.personal]] 
 
-### #is_/same_as :: [Cloud_Chamber.secret](/_secret/Science/Physics/Cloud_Chamber.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Cloud_Chamber.secret|Cloud_Chamber.secret]] 
 

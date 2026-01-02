@@ -36,17 +36,17 @@ three-party, quarternary fiduciary relationship.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trust(Law)](/_Standards/Society/Law/Civil_Law/Trust(Law).md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Trust(Law)|Trust(Law)]] 
 
-### #is_/same_as :: [Trust(Law).public](/_public/Society/Law/Civil_Law/Trust(Law).public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Trust(Law).public|Trust(Law).public]] 
 
-### #is_/same_as :: [Trust(Law).internal](/_internal/Society/Law/Civil_Law/Trust(Law).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Trust(Law).internal|Trust(Law).internal]] 
 
-### #is_/same_as :: [Trust(Law).protect](/_protect/Society/Law/Civil_Law/Trust(Law).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Trust(Law).protect|Trust(Law).protect]] 
 
-### #is_/same_as :: [Trust(Law).private](/_private/Society/Law/Civil_Law/Trust(Law).private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Trust(Law).private|Trust(Law).private]] 
 
-### #is_/same_as :: [Trust(Law).personal](/_personal/Society/Law/Civil_Law/Trust(Law).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Trust(Law).personal|Trust(Law).personal]] 
 
-### #is_/same_as :: [Trust(Law).secret](/_secret/Society/Law/Civil_Law/Trust(Law).secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Trust(Law).secret|Trust(Law).secret]] 
 

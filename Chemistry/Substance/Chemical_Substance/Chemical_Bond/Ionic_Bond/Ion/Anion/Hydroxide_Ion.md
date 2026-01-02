@@ -68,17 +68,17 @@ Commons_category: Hydroxide ion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydroxide_Ion](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion|Hydroxide_Ion]] 
 
-### #is_/same_as :: [Hydroxide_Ion.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public|Hydroxide_Ion.public]] 
 
-### #is_/same_as :: [Hydroxide_Ion.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal|Hydroxide_Ion.internal]] 
 
-### #is_/same_as :: [Hydroxide_Ion.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.protect|Hydroxide_Ion.protect]] 
 
-### #is_/same_as :: [Hydroxide_Ion.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.private|Hydroxide_Ion.private]] 
 
-### #is_/same_as :: [Hydroxide_Ion.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal|Hydroxide_Ion.personal]] 
 
-### #is_/same_as :: [Hydroxide_Ion.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret|Hydroxide_Ion.secret]] 
 

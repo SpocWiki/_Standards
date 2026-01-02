@@ -76,17 +76,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hygiene](/_Standards/bio/Medicine/Health/Hygiene.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Hygiene|Hygiene]] 
 
-### #is_/same_as :: [Hygiene.public](/_public/bio/Medicine/Health/Hygiene.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Hygiene.public|Hygiene.public]] 
 
-### #is_/same_as :: [Hygiene.internal](/_internal/bio/Medicine/Health/Hygiene.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Hygiene.internal|Hygiene.internal]] 
 
-### #is_/same_as :: [Hygiene.protect](/_protect/bio/Medicine/Health/Hygiene.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Hygiene.protect|Hygiene.protect]] 
 
-### #is_/same_as :: [Hygiene.private](/_private/bio/Medicine/Health/Hygiene.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Hygiene.private|Hygiene.private]] 
 
-### #is_/same_as :: [Hygiene.personal](/_personal/bio/Medicine/Health/Hygiene.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Hygiene.personal|Hygiene.personal]] 
 
-### #is_/same_as :: [Hygiene.secret](/_secret/bio/Medicine/Health/Hygiene.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Hygiene.secret|Hygiene.secret]] 
 

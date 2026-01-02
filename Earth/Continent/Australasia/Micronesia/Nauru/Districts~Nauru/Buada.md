@@ -40,17 +40,17 @@ markerFolder: ./Buada/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Buada](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada|Buada]] 
 
-### #is_/same_as :: [Buada.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.public|Buada.public]] 
 
-### #is_/same_as :: [Buada.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.internal|Buada.internal]] 
 
-### #is_/same_as :: [Buada.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.protect|Buada.protect]] 
 
-### #is_/same_as :: [Buada.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.private|Buada.private]] 
 
-### #is_/same_as :: [Buada.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.personal|Buada.personal]] 
 
-### #is_/same_as :: [Buada.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Buada.secret|Buada.secret]] 
 

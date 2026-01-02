@@ -211,17 +211,17 @@ ISNI: 0000000121441970
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tolkien,J.R.R](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R|Tolkien,J.R.R]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.public|Tolkien,J.R.R.public]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.internal|Tolkien,J.R.R.internal]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.protect|Tolkien,J.R.R.protect]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.private|Tolkien,J.R.R.private]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.personal|Tolkien,J.R.R.personal]] 
 
-### #is_/same_as :: [Tolkien,J.R.R.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Tolkien,J.R.R.secret|Tolkien,J.R.R.secret]] 
 

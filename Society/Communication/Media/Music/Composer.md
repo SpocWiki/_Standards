@@ -134,17 +134,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Componi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Composer](/_Standards/Society/Communication/Media/Music/Composer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer|Composer]] 
 
-### #is_/same_as :: [Composer.public](/_public/Society/Communication/Media/Music/Composer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer.public|Composer.public]] 
 
-### #is_/same_as :: [Composer.internal](/_internal/Society/Communication/Media/Music/Composer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer.internal|Composer.internal]] 
 
-### #is_/same_as :: [Composer.protect](/_protect/Society/Communication/Media/Music/Composer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer.protect|Composer.protect]] 
 
-### #is_/same_as :: [Composer.private](/_private/Society/Communication/Media/Music/Composer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer.private|Composer.private]] 
 
-### #is_/same_as :: [Composer.personal](/_personal/Society/Communication/Media/Music/Composer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer.personal|Composer.personal]] 
 
-### #is_/same_as :: [Composer.secret](/_secret/Society/Communication/Media/Music/Composer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer.secret|Composer.secret]] 
 

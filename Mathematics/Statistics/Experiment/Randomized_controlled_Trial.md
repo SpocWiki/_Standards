@@ -45,17 +45,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Randomized_controlled_Trial](/_Standards/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Experiment/Randomized_controlled_Trial|Randomized_controlled_Trial]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.public](/_public/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.public|Randomized_controlled_Trial.public]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.internal](/_internal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.internal|Randomized_controlled_Trial.internal]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.protect](/_protect/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.protect|Randomized_controlled_Trial.protect]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.private](/_private/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.private|Randomized_controlled_Trial.private]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.personal](/_personal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.personal|Randomized_controlled_Trial.personal]] 
 
-### #is_/same_as :: [Randomized_controlled_Trial.secret](/_secret/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Experiment/Randomized_controlled_Trial.secret|Randomized_controlled_Trial.secret]] 
 

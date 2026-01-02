@@ -36,17 +36,17 @@ time_of_discovery_or_invention: 1793-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cotton_Gin](/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin|Cotton_Gin]] 
 
-### #is_/same_as :: [Cotton_Gin.public](/_public/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.public|Cotton_Gin.public]] 
 
-### #is_/same_as :: [Cotton_Gin.internal](/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.internal|Cotton_Gin.internal]] 
 
-### #is_/same_as :: [Cotton_Gin.protect](/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.protect|Cotton_Gin.protect]] 
 
-### #is_/same_as :: [Cotton_Gin.private](/_private/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.private|Cotton_Gin.private]] 
 
-### #is_/same_as :: [Cotton_Gin.personal](/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.personal|Cotton_Gin.personal]] 
 
-### #is_/same_as :: [Cotton_Gin.secret](/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Crop/Cotton/Cotton_Gin.secret|Cotton_Gin.secret]] 
 

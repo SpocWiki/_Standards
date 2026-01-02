@@ -21,17 +21,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fagen,Donald](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald|Fagen,Donald]] 
 
-### #is_/same_as :: [Fagen,Donald.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.public|Fagen,Donald.public]] 
 
-### #is_/same_as :: [Fagen,Donald.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.internal|Fagen,Donald.internal]] 
 
-### #is_/same_as :: [Fagen,Donald.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.protect|Fagen,Donald.protect]] 
 
-### #is_/same_as :: [Fagen,Donald.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.private|Fagen,Donald.private]] 
 
-### #is_/same_as :: [Fagen,Donald.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.personal|Fagen,Donald.personal]] 
 
-### #is_/same_as :: [Fagen,Donald.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan/Fagen,Donald.secret|Fagen,Donald.secret]] 
 

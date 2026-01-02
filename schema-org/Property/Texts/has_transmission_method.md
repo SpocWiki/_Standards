@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_transmission_method](/_Standards/schema-org/Property/Texts/has_transmission_method.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_transmission_method|has_transmission_method]] 
 
-### #is_/same_as :: [has_transmission_method.public](/_public/schema-org/Property/Texts/has_transmission_method.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_transmission_method.public|has_transmission_method.public]] 
 
-### #is_/same_as :: [has_transmission_method.internal](/_internal/schema-org/Property/Texts/has_transmission_method.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_transmission_method.internal|has_transmission_method.internal]] 
 
-### #is_/same_as :: [has_transmission_method.protect](/_protect/schema-org/Property/Texts/has_transmission_method.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_transmission_method.protect|has_transmission_method.protect]] 
 
-### #is_/same_as :: [has_transmission_method.private](/_private/schema-org/Property/Texts/has_transmission_method.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_transmission_method.private|has_transmission_method.private]] 
 
-### #is_/same_as :: [has_transmission_method.personal](/_personal/schema-org/Property/Texts/has_transmission_method.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_transmission_method.personal|has_transmission_method.personal]] 
 
-### #is_/same_as :: [has_transmission_method.secret](/_secret/schema-org/Property/Texts/has_transmission_method.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_transmission_method.secret|has_transmission_method.secret]] 
 

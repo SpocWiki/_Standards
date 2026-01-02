@@ -46,17 +46,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyrotechnics](/_Standards/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics|Pyrotechnics]] 
 
-### #is_/same_as :: [Pyrotechnics.public](/_public/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.public|Pyrotechnics.public]] 
 
-### #is_/same_as :: [Pyrotechnics.internal](/_internal/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.internal|Pyrotechnics.internal]] 
 
-### #is_/same_as :: [Pyrotechnics.protect](/_protect/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.protect|Pyrotechnics.protect]] 
 
-### #is_/same_as :: [Pyrotechnics.private](/_private/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.private|Pyrotechnics.private]] 
 
-### #is_/same_as :: [Pyrotechnics.personal](/_personal/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.personal|Pyrotechnics.personal]] 
 
-### #is_/same_as :: [Pyrotechnics.secret](/_secret/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Firework/Pyrotechnics.secret|Pyrotechnics.secret]] 
 

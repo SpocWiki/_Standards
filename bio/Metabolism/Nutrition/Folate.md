@@ -134,3 +134,22 @@ DSSTOX_compound_identifier: DTXCID102519
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Folate|Folate]] 
+
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Folate.public|Folate.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Folate.internal|Folate.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Folate.protect|Folate.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Folate.private|Folate.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Folate.personal|Folate.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Folate.secret|Folate.secret]] 
+

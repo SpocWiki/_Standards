@@ -47,17 +47,17 @@ Commons_category: Manifolds
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manifold](/_Standards/Mathematics/Geometry/Manifold.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Manifold|Manifold]] 
 
-### #is_/same_as :: [Manifold.public](/_public/Mathematics/Geometry/Manifold.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Manifold.public|Manifold.public]] 
 
-### #is_/same_as :: [Manifold.internal](/_internal/Mathematics/Geometry/Manifold.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Manifold.internal|Manifold.internal]] 
 
-### #is_/same_as :: [Manifold.protect](/_protect/Mathematics/Geometry/Manifold.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Manifold.protect|Manifold.protect]] 
 
-### #is_/same_as :: [Manifold.private](/_private/Mathematics/Geometry/Manifold.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Manifold.private|Manifold.private]] 
 
-### #is_/same_as :: [Manifold.personal](/_personal/Mathematics/Geometry/Manifold.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Manifold.personal|Manifold.personal]] 
 
-### #is_/same_as :: [Manifold.secret](/_secret/Mathematics/Geometry/Manifold.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Manifold.secret|Manifold.secret]] 
 

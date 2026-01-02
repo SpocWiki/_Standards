@@ -69,17 +69,17 @@ inception: 1922-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tupolev](/_Standards/Society/Military/Military–industrial_Complex/Tupolev.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military–industrial_Complex/Tupolev|Tupolev]] 
 
-### #is_/same_as :: [Tupolev.public](/_public/Society/Military/Military–industrial_Complex/Tupolev.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military–industrial_Complex/Tupolev.public|Tupolev.public]] 
 
-### #is_/same_as :: [Tupolev.internal](/_internal/Society/Military/Military–industrial_Complex/Tupolev.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military–industrial_Complex/Tupolev.internal|Tupolev.internal]] 
 
-### #is_/same_as :: [Tupolev.protect](/_protect/Society/Military/Military–industrial_Complex/Tupolev.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military–industrial_Complex/Tupolev.protect|Tupolev.protect]] 
 
-### #is_/same_as :: [Tupolev.private](/_private/Society/Military/Military–industrial_Complex/Tupolev.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military–industrial_Complex/Tupolev.private|Tupolev.private]] 
 
-### #is_/same_as :: [Tupolev.personal](/_personal/Society/Military/Military–industrial_Complex/Tupolev.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military–industrial_Complex/Tupolev.personal|Tupolev.personal]] 
 
-### #is_/same_as :: [Tupolev.secret](/_secret/Society/Military/Military–industrial_Complex/Tupolev.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military–industrial_Complex/Tupolev.secret|Tupolev.secret]] 
 

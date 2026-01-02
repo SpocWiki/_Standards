@@ -56,17 +56,17 @@ official_name: Lupus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Lupus](/_Standards/Astronomy/Star~Constellation/Zodiac~Lupus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Lupus|Zodiac~Lupus]] 
 
-### #is_/same_as :: [Zodiac~Lupus.public](/_public/Astronomy/Star~Constellation/Zodiac~Lupus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Lupus.public|Zodiac~Lupus.public]] 
 
-### #is_/same_as :: [Zodiac~Lupus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Lupus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Lupus.internal|Zodiac~Lupus.internal]] 
 
-### #is_/same_as :: [Zodiac~Lupus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Lupus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Lupus.protect|Zodiac~Lupus.protect]] 
 
-### #is_/same_as :: [Zodiac~Lupus.private](/_private/Astronomy/Star~Constellation/Zodiac~Lupus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Lupus.private|Zodiac~Lupus.private]] 
 
-### #is_/same_as :: [Zodiac~Lupus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Lupus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Lupus.personal|Zodiac~Lupus.personal]] 
 
-### #is_/same_as :: [Zodiac~Lupus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Lupus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Lupus.secret|Zodiac~Lupus.secret]] 
 

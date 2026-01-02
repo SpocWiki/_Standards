@@ -39,17 +39,17 @@ Dewey_Decimal_Classification: "551.453"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tundra](/_Standards/Earth/Climate/Biosphere/Biomes/Tundra.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome/Tundra|Tundra]] 
 
-### #is_/same_as :: [Tundra.public](/_public/Earth/Climate/Biosphere/Biomes/Tundra.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome/Tundra.public|Tundra.public]] 
 
-### #is_/same_as :: [Tundra.internal](/_internal/Earth/Climate/Biosphere/Biomes/Tundra.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome/Tundra.internal|Tundra.internal]] 
 
-### #is_/same_as :: [Tundra.protect](/_protect/Earth/Climate/Biosphere/Biomes/Tundra.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome/Tundra.protect|Tundra.protect]] 
 
-### #is_/same_as :: [Tundra.private](/_private/Earth/Climate/Biosphere/Biomes/Tundra.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome/Tundra.private|Tundra.private]] 
 
-### #is_/same_as :: [Tundra.personal](/_personal/Earth/Climate/Biosphere/Biomes/Tundra.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome/Tundra.personal|Tundra.personal]] 
 
-### #is_/same_as :: [Tundra.secret](/_secret/Earth/Climate/Biosphere/Biomes/Tundra.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome/Tundra.secret|Tundra.secret]] 
 

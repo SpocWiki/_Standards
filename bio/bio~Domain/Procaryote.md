@@ -74,17 +74,17 @@ resulted in the forming of Plant Cells.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Procaryote](/_Standards/bio/bio~Domain/Procaryote.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Procaryote|Procaryote]] 
 
-### #is_/same_as :: [Procaryote.public](/_public/bio/bio~Domain/Procaryote.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Procaryote.public|Procaryote.public]] 
 
-### #is_/same_as :: [Procaryote.internal](/_internal/bio/bio~Domain/Procaryote.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Procaryote.internal|Procaryote.internal]] 
 
-### #is_/same_as :: [Procaryote.protect](/_protect/bio/bio~Domain/Procaryote.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Procaryote.protect|Procaryote.protect]] 
 
-### #is_/same_as :: [Procaryote.private](/_private/bio/bio~Domain/Procaryote.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Procaryote.private|Procaryote.private]] 
 
-### #is_/same_as :: [Procaryote.personal](/_personal/bio/bio~Domain/Procaryote.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Procaryote.personal|Procaryote.personal]] 
 
-### #is_/same_as :: [Procaryote.secret](/_secret/bio/bio~Domain/Procaryote.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Procaryote.secret|Procaryote.secret]] 
 

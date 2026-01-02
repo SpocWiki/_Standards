@@ -51,17 +51,17 @@ Krugosvet_article_archived_: sport/SNOUBORDING.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Snowboarding](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding|Snowboarding]] 
 
-### #is_/same_as :: [Snowboarding.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.public|Snowboarding.public]] 
 
-### #is_/same_as :: [Snowboarding.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.internal|Snowboarding.internal]] 
 
-### #is_/same_as :: [Snowboarding.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.protect|Snowboarding.protect]] 
 
-### #is_/same_as :: [Snowboarding.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.private|Snowboarding.private]] 
 
-### #is_/same_as :: [Snowboarding.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.personal|Snowboarding.personal]] 
 
-### #is_/same_as :: [Snowboarding.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Snowboarding.secret|Snowboarding.secret]] 
 

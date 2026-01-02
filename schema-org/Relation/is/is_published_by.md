@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_published_by](/_Standards/schema-org/Relation/is/is_published_by.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_published_by|is_published_by]] 
 
-### #is_/same_as :: [is_published_by.public](/_public/schema-org/Relation/is/is_published_by.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_published_by.public|is_published_by.public]] 
 
-### #is_/same_as :: [is_published_by.internal](/_internal/schema-org/Relation/is/is_published_by.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_published_by.internal|is_published_by.internal]] 
 
-### #is_/same_as :: [is_published_by.protect](/_protect/schema-org/Relation/is/is_published_by.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_published_by.protect|is_published_by.protect]] 
 
-### #is_/same_as :: [is_published_by.private](/_private/schema-org/Relation/is/is_published_by.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_published_by.private|is_published_by.private]] 
 
-### #is_/same_as :: [is_published_by.personal](/_personal/schema-org/Relation/is/is_published_by.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_published_by.personal|is_published_by.personal]] 
 
-### #is_/same_as :: [is_published_by.secret](/_secret/schema-org/Relation/is/is_published_by.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_published_by.secret|is_published_by.secret]] 
 

@@ -136,17 +136,17 @@ Europeana_entity: agent/base/146848
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haydn,Joseph](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph|Haydn,Joseph]] 
 
-### #is_/same_as :: [Haydn,Joseph.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.public|Haydn,Joseph.public]] 
 
-### #is_/same_as :: [Haydn,Joseph.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.internal|Haydn,Joseph.internal]] 
 
-### #is_/same_as :: [Haydn,Joseph.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.protect|Haydn,Joseph.protect]] 
 
-### #is_/same_as :: [Haydn,Joseph.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.private|Haydn,Joseph.private]] 
 
-### #is_/same_as :: [Haydn,Joseph.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.personal|Haydn,Joseph.personal]] 
 
-### #is_/same_as :: [Haydn,Joseph.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Haydn,Joseph.secret|Haydn,Joseph.secret]] 
 

@@ -213,17 +213,17 @@ Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hesionidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae|Hesionidae]] 
 
-### #is_/same_as :: [Hesionidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.public|Hesionidae.public]] 
 
-### #is_/same_as :: [Hesionidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.internal|Hesionidae.internal]] 
 
-### #is_/same_as :: [Hesionidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.protect|Hesionidae.protect]] 
 
-### #is_/same_as :: [Hesionidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.private|Hesionidae.private]] 
 
-### #is_/same_as :: [Hesionidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.personal|Hesionidae.personal]] 
 
-### #is_/same_as :: [Hesionidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida/Hesionidae.secret|Hesionidae.secret]] 
 

@@ -98,17 +98,17 @@ Wikidata_property: Köppen climate classification
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Climate](/_Standards/Earth/Climate.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate|Climate]] 
 
-### #is_/same_as :: [Climate.public](/_public/Earth/Climate.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate.public|Climate.public]] 
 
-### #is_/same_as :: [Climate.internal](/_internal/Earth/Climate.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate.internal|Climate.internal]] 
 
-### #is_/same_as :: [Climate.protect](/_protect/Earth/Climate.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate.protect|Climate.protect]] 
 
-### #is_/same_as :: [Climate.private](/_private/Earth/Climate.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate.private|Climate.private]] 
 
-### #is_/same_as :: [Climate.personal](/_personal/Earth/Climate.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate.personal|Climate.personal]] 
 
-### #is_/same_as :: [Climate.secret](/_secret/Earth/Climate.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate.secret|Climate.secret]] 
 

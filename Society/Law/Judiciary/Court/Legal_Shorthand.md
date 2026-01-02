@@ -37,3 +37,22 @@ aliases:
 - [¢](https://en.wikipedia.org/wiki/%C2%A2 "¢") — Claim  
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Court/Legal_Shorthand|Legal_Shorthand]] 
+
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Court/Legal_Shorthand.public|Legal_Shorthand.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Court/Legal_Shorthand.internal|Legal_Shorthand.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Court/Legal_Shorthand.protect|Legal_Shorthand.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Court/Legal_Shorthand.private|Legal_Shorthand.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Court/Legal_Shorthand.personal|Legal_Shorthand.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Court/Legal_Shorthand.secret|Legal_Shorthand.secret]] 
+

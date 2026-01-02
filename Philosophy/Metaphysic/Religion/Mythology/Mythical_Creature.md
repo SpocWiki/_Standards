@@ -38,17 +38,17 @@ Dewey_Decimal_Classification: 398.2454
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mythical_Creature](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature|Mythical_Creature]] 
 
-### #is_/same_as :: [Mythical_Creature.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.public|Mythical_Creature.public]] 
 
-### #is_/same_as :: [Mythical_Creature.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.internal|Mythical_Creature.internal]] 
 
-### #is_/same_as :: [Mythical_Creature.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.protect|Mythical_Creature.protect]] 
 
-### #is_/same_as :: [Mythical_Creature.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.private|Mythical_Creature.private]] 
 
-### #is_/same_as :: [Mythical_Creature.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.personal|Mythical_Creature.personal]] 
 
-### #is_/same_as :: [Mythical_Creature.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Mythical_Creature.secret|Mythical_Creature.secret]] 
 

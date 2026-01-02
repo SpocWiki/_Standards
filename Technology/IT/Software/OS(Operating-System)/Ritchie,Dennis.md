@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ritchie,Dennis](/_Standards/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis|Ritchie,Dennis]] 
 
-### #is_/same_as :: [Ritchie,Dennis.public](/_public/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.public|Ritchie,Dennis.public]] 
 
-### #is_/same_as :: [Ritchie,Dennis.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.internal|Ritchie,Dennis.internal]] 
 
-### #is_/same_as :: [Ritchie,Dennis.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.protect|Ritchie,Dennis.protect]] 
 
-### #is_/same_as :: [Ritchie,Dennis.private](/_private/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.private|Ritchie,Dennis.private]] 
 
-### #is_/same_as :: [Ritchie,Dennis.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.personal|Ritchie,Dennis.personal]] 
 
-### #is_/same_as :: [Ritchie,Dennis.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Ritchie,Dennis.secret|Ritchie,Dennis.secret]] 
 

@@ -45,17 +45,17 @@ But typically it is an example [[../Collection/item_list|item_list]] with sub-se
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_sub_sets](/_Standards/schema-org/Collection/has_sub_sets.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/has_sub_sets|has_sub_sets]] 
 
-### #is_/same_as :: [has_sub_sets.public](/_public/schema-org/Collection/has_sub_sets.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/has_sub_sets.public|has_sub_sets.public]] 
 
-### #is_/same_as :: [has_sub_sets.internal](/_internal/schema-org/Collection/has_sub_sets.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/has_sub_sets.internal|has_sub_sets.internal]] 
 
-### #is_/same_as :: [has_sub_sets.protect](/_protect/schema-org/Collection/has_sub_sets.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/has_sub_sets.protect|has_sub_sets.protect]] 
 
-### #is_/same_as :: [has_sub_sets.private](/_private/schema-org/Collection/has_sub_sets.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/has_sub_sets.private|has_sub_sets.private]] 
 
-### #is_/same_as :: [has_sub_sets.personal](/_personal/schema-org/Collection/has_sub_sets.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/has_sub_sets.personal|has_sub_sets.personal]] 
 
-### #is_/same_as :: [has_sub_sets.secret](/_secret/schema-org/Collection/has_sub_sets.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/has_sub_sets.secret|has_sub_sets.secret]] 
 

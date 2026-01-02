@@ -176,17 +176,17 @@ Libris_URI: ljx02gr44ffn25w
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Koch,Robert](/_Standards/bio/Microbiology/Koch,Robert.md) 
+### #is_/same_as :: [[/_Standards/bio/Microbiology/Koch,Robert|Koch,Robert]] 
 
-### #is_/same_as :: [Koch,Robert.public](/_public/bio/Microbiology/Koch,Robert.public.md) 
+### #is_/same_as :: [[/_public/bio/Microbiology/Koch,Robert.public|Koch,Robert.public]] 
 
-### #is_/same_as :: [Koch,Robert.internal](/_internal/bio/Microbiology/Koch,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Microbiology/Koch,Robert.internal|Koch,Robert.internal]] 
 
-### #is_/same_as :: [Koch,Robert.protect](/_protect/bio/Microbiology/Koch,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Microbiology/Koch,Robert.protect|Koch,Robert.protect]] 
 
-### #is_/same_as :: [Koch,Robert.private](/_private/bio/Microbiology/Koch,Robert.private.md) 
+### #is_/same_as :: [[/_private/bio/Microbiology/Koch,Robert.private|Koch,Robert.private]] 
 
-### #is_/same_as :: [Koch,Robert.personal](/_personal/bio/Microbiology/Koch,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Microbiology/Koch,Robert.personal|Koch,Robert.personal]] 
 
-### #is_/same_as :: [Koch,Robert.secret](/_secret/bio/Microbiology/Koch,Robert.secret.md)
+### #is_/same_as :: [[/_secret/bio/Microbiology/Koch,Robert.secret|Koch,Robert.secret]] 
 

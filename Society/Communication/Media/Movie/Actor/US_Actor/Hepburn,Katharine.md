@@ -119,17 +119,17 @@ Plex_person_key: 5d7768263c3c2a001fbcafb0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hepburn,Katharine](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine|Hepburn,Katharine]] 
 
-### #is_/same_as :: [Hepburn,Katharine.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.public|Hepburn,Katharine.public]] 
 
-### #is_/same_as :: [Hepburn,Katharine.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.internal|Hepburn,Katharine.internal]] 
 
-### #is_/same_as :: [Hepburn,Katharine.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.protect|Hepburn,Katharine.protect]] 
 
-### #is_/same_as :: [Hepburn,Katharine.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.private|Hepburn,Katharine.private]] 
 
-### #is_/same_as :: [Hepburn,Katharine.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.personal|Hepburn,Katharine.personal]] 
 
-### #is_/same_as :: [Hepburn,Katharine.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Hepburn,Katharine.secret|Hepburn,Katharine.secret]] 
 

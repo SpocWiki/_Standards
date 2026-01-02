@@ -44,17 +44,17 @@ which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copyleft](/_Standards/Schemas/cc/CC-Licenses/Copyleft.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/CC-Licenses/Copyleft|Copyleft]] 
 
-### #is_/same_as :: [Copyleft.public](/_public/Schemas/cc/CC-Licenses/Copyleft.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/CC-Licenses/Copyleft.public|Copyleft.public]] 
 
-### #is_/same_as :: [Copyleft.internal](/_internal/Schemas/cc/CC-Licenses/Copyleft.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/CC-Licenses/Copyleft.internal|Copyleft.internal]] 
 
-### #is_/same_as :: [Copyleft.protect](/_protect/Schemas/cc/CC-Licenses/Copyleft.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/CC-Licenses/Copyleft.protect|Copyleft.protect]] 
 
-### #is_/same_as :: [Copyleft.private](/_private/Schemas/cc/CC-Licenses/Copyleft.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/CC-Licenses/Copyleft.private|Copyleft.private]] 
 
-### #is_/same_as :: [Copyleft.personal](/_personal/Schemas/cc/CC-Licenses/Copyleft.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/CC-Licenses/Copyleft.personal|Copyleft.personal]] 
 
-### #is_/same_as :: [Copyleft.secret](/_secret/Schemas/cc/CC-Licenses/Copyleft.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/CC-Licenses/Copyleft.secret|Copyleft.secret]] 
 

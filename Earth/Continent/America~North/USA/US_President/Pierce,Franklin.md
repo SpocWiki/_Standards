@@ -34,17 +34,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pierce,Franklin](/_Standards/Earth/Continent/America~North/US~President/Pierce,Franklin.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Pierce,Franklin|Pierce,Franklin]] 
 
-### #is_/same_as :: [Pierce,Franklin.public](/_public/Earth/Continent/America~North/US~President/Pierce,Franklin.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.public|Pierce,Franklin.public]] 
 
-### #is_/same_as :: [Pierce,Franklin.internal](/_internal/Earth/Continent/America~North/US~President/Pierce,Franklin.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.internal|Pierce,Franklin.internal]] 
 
-### #is_/same_as :: [Pierce,Franklin.protect](/_protect/Earth/Continent/America~North/US~President/Pierce,Franklin.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.protect|Pierce,Franklin.protect]] 
 
-### #is_/same_as :: [Pierce,Franklin.private](/_private/Earth/Continent/America~North/US~President/Pierce,Franklin.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.private|Pierce,Franklin.private]] 
 
-### #is_/same_as :: [Pierce,Franklin.personal](/_personal/Earth/Continent/America~North/US~President/Pierce,Franklin.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.personal|Pierce,Franklin.personal]] 
 
-### #is_/same_as :: [Pierce,Franklin.secret](/_secret/Earth/Continent/America~North/US~President/Pierce,Franklin.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.secret|Pierce,Franklin.secret]] 
 

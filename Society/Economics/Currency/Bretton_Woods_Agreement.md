@@ -74,17 +74,17 @@ As a Result the Price of Gold grew 10fold
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bretton_Woods_Agreement](/_Standards/Society/Economics/Currency/Bretton_Woods_Agreement.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Bretton_Woods_Agreement|Bretton_Woods_Agreement]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.public](/_public/Society/Economics/Currency/Bretton_Woods_Agreement.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Bretton_Woods_Agreement.public|Bretton_Woods_Agreement.public]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.internal](/_internal/Society/Economics/Currency/Bretton_Woods_Agreement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Bretton_Woods_Agreement.internal|Bretton_Woods_Agreement.internal]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.protect](/_protect/Society/Economics/Currency/Bretton_Woods_Agreement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Bretton_Woods_Agreement.protect|Bretton_Woods_Agreement.protect]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.private](/_private/Society/Economics/Currency/Bretton_Woods_Agreement.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Bretton_Woods_Agreement.private|Bretton_Woods_Agreement.private]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.personal](/_personal/Society/Economics/Currency/Bretton_Woods_Agreement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Bretton_Woods_Agreement.personal|Bretton_Woods_Agreement.personal]] 
 
-### #is_/same_as :: [Bretton_Woods_Agreement.secret](/_secret/Society/Economics/Currency/Bretton_Woods_Agreement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Bretton_Woods_Agreement.secret|Bretton_Woods_Agreement.secret]] 
 

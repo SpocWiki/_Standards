@@ -32,17 +32,17 @@ Commons_category: Geostationary orbit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geostationary_Orbit](/_Standards/Earth/Geostationary_Orbit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geostationary_Orbit|Geostationary_Orbit]] 
 
-### #is_/same_as :: [Geostationary_Orbit.public](/_public/Earth/Geostationary_Orbit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geostationary_Orbit.public|Geostationary_Orbit.public]] 
 
-### #is_/same_as :: [Geostationary_Orbit.internal](/_internal/Earth/Geostationary_Orbit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geostationary_Orbit.internal|Geostationary_Orbit.internal]] 
 
-### #is_/same_as :: [Geostationary_Orbit.protect](/_protect/Earth/Geostationary_Orbit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geostationary_Orbit.protect|Geostationary_Orbit.protect]] 
 
-### #is_/same_as :: [Geostationary_Orbit.private](/_private/Earth/Geostationary_Orbit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geostationary_Orbit.private|Geostationary_Orbit.private]] 
 
-### #is_/same_as :: [Geostationary_Orbit.personal](/_personal/Earth/Geostationary_Orbit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geostationary_Orbit.personal|Geostationary_Orbit.personal]] 
 
-### #is_/same_as :: [Geostationary_Orbit.secret](/_secret/Earth/Geostationary_Orbit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geostationary_Orbit.secret|Geostationary_Orbit.secret]] 
 

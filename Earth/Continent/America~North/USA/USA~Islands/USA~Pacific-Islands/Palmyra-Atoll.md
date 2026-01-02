@@ -45,17 +45,17 @@ markerFile: [[Palmyra-Atoll]]
 
 ## Confidential Links & Embeds: 
 
-### [Palmyra-Atoll](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll|Palmyra-Atoll]] 
 
-### [Palmyra-Atoll.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.public|Palmyra-Atoll.public]] 
 
-### [Palmyra-Atoll.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.internal|Palmyra-Atoll.internal]] 
 
-### [Palmyra-Atoll.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.protect|Palmyra-Atoll.protect]] 
 
-### [Palmyra-Atoll.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.private|Palmyra-Atoll.private]] 
 
-### [Palmyra-Atoll.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.personal|Palmyra-Atoll.personal]] 
 
-### [Palmyra-Atoll.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Palmyra-Atoll.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~Islands/USA~Pacific-Islands/Palmyra-Atoll.secret|Palmyra-Atoll.secret]] 
 

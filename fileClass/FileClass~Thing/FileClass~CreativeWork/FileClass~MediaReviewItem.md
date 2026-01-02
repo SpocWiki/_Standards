@@ -48,17 +48,17 @@ MediaItemAppearance:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MediaReviewItem](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem|FileClass~MediaReviewItem]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.public|FileClass~MediaReviewItem.public]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.internal|FileClass~MediaReviewItem.internal]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.protect|FileClass~MediaReviewItem.protect]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.private|FileClass~MediaReviewItem.private]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.personal|FileClass~MediaReviewItem.personal]] 
 
-### #is_/same_as :: [FileClass~MediaReviewItem.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaReviewItem.secret|FileClass~MediaReviewItem.secret]] 
 

@@ -49,17 +49,17 @@ Operator Names are preferably brief and have all the same Length for a tabular E
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prog~Naming](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming|Prog~Naming]] 
 
-### #is_/same_as :: [Prog~Naming.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.public|Prog~Naming.public]] 
 
-### #is_/same_as :: [Prog~Naming.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.internal|Prog~Naming.internal]] 
 
-### #is_/same_as :: [Prog~Naming.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.protect|Prog~Naming.protect]] 
 
-### #is_/same_as :: [Prog~Naming.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.private|Prog~Naming.private]] 
 
-### #is_/same_as :: [Prog~Naming.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.personal|Prog~Naming.personal]] 
 
-### #is_/same_as :: [Prog~Naming.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Naming.secret|Prog~Naming.secret]] 
 

@@ -78,17 +78,17 @@ Commons_category: Quadratic equation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quadratic_Equation](/_Standards/Mathematics/Algebra/Polynomial/Quadratic_Equation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Polynomial/Quadratic_Equation|Quadratic_Equation]] 
 
-### #is_/same_as :: [Quadratic_Equation.public](/_public/Mathematics/Algebra/Polynomial/Quadratic_Equation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Polynomial/Quadratic_Equation.public|Quadratic_Equation.public]] 
 
-### #is_/same_as :: [Quadratic_Equation.internal](/_internal/Mathematics/Algebra/Polynomial/Quadratic_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Polynomial/Quadratic_Equation.internal|Quadratic_Equation.internal]] 
 
-### #is_/same_as :: [Quadratic_Equation.protect](/_protect/Mathematics/Algebra/Polynomial/Quadratic_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Polynomial/Quadratic_Equation.protect|Quadratic_Equation.protect]] 
 
-### #is_/same_as :: [Quadratic_Equation.private](/_private/Mathematics/Algebra/Polynomial/Quadratic_Equation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Polynomial/Quadratic_Equation.private|Quadratic_Equation.private]] 
 
-### #is_/same_as :: [Quadratic_Equation.personal](/_personal/Mathematics/Algebra/Polynomial/Quadratic_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Polynomial/Quadratic_Equation.personal|Quadratic_Equation.personal]] 
 
-### #is_/same_as :: [Quadratic_Equation.secret](/_secret/Mathematics/Algebra/Polynomial/Quadratic_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Polynomial/Quadratic_Equation.secret|Quadratic_Equation.secret]] 
 

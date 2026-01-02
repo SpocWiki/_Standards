@@ -203,17 +203,17 @@ This quote is often attributed to Abraham Lincoln, though there is no definitive
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lincoln,Abraham](/_Standards/Earth/Continent/America~North/US~President/Lincoln,Abraham.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham|Lincoln,Abraham]] 
 
-### #is_/same_as :: [Lincoln,Abraham.public](/_public/Earth/Continent/America~North/US~President/Lincoln,Abraham.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.public|Lincoln,Abraham.public]] 
 
-### #is_/same_as :: [Lincoln,Abraham.internal](/_internal/Earth/Continent/America~North/US~President/Lincoln,Abraham.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.internal|Lincoln,Abraham.internal]] 
 
-### #is_/same_as :: [Lincoln,Abraham.protect](/_protect/Earth/Continent/America~North/US~President/Lincoln,Abraham.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.protect|Lincoln,Abraham.protect]] 
 
-### #is_/same_as :: [Lincoln,Abraham.private](/_private/Earth/Continent/America~North/US~President/Lincoln,Abraham.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.private|Lincoln,Abraham.private]] 
 
-### #is_/same_as :: [Lincoln,Abraham.personal](/_personal/Earth/Continent/America~North/US~President/Lincoln,Abraham.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]] 
 
-### #is_/same_as :: [Lincoln,Abraham.secret](/_secret/Earth/Continent/America~North/US~President/Lincoln,Abraham.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]] 
 

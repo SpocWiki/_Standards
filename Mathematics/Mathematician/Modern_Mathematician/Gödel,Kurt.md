@@ -157,17 +157,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gödel,Kurt](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt|Gödel,Kurt]] 
 
-### #is_/same_as :: [Gödel,Kurt.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.public|Gödel,Kurt.public]] 
 
-### #is_/same_as :: [Gödel,Kurt.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.internal|Gödel,Kurt.internal]] 
 
-### #is_/same_as :: [Gödel,Kurt.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.protect|Gödel,Kurt.protect]] 
 
-### #is_/same_as :: [Gödel,Kurt.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.private|Gödel,Kurt.private]] 
 
-### #is_/same_as :: [Gödel,Kurt.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.personal|Gödel,Kurt.personal]] 
 
-### #is_/same_as :: [Gödel,Kurt.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt.secret|Gödel,Kurt.secret]] 
 

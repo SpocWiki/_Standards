@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_variable_measured](/_Standards/schema-org/Relation/has/has_variable_measured.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_variable_measured|has_variable_measured]] 
 
-### #is_/same_as :: [has_variable_measured.public](/_public/schema-org/Relation/has/has_variable_measured.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_variable_measured.public|has_variable_measured.public]] 
 
-### #is_/same_as :: [has_variable_measured.internal](/_internal/schema-org/Relation/has/has_variable_measured.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_variable_measured.internal|has_variable_measured.internal]] 
 
-### #is_/same_as :: [has_variable_measured.protect](/_protect/schema-org/Relation/has/has_variable_measured.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_variable_measured.protect|has_variable_measured.protect]] 
 
-### #is_/same_as :: [has_variable_measured.private](/_private/schema-org/Relation/has/has_variable_measured.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_variable_measured.private|has_variable_measured.private]] 
 
-### #is_/same_as :: [has_variable_measured.personal](/_personal/schema-org/Relation/has/has_variable_measured.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_variable_measured.personal|has_variable_measured.personal]] 
 
-### #is_/same_as :: [has_variable_measured.secret](/_secret/schema-org/Relation/has/has_variable_measured.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_variable_measured.secret|has_variable_measured.secret]] 
 

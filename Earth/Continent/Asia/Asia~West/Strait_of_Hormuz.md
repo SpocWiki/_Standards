@@ -82,17 +82,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strait_of_Hormuz](/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz|Strait_of_Hormuz]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.public](/_public/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.public|Strait_of_Hormuz.public]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.internal](/_internal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.internal|Strait_of_Hormuz.internal]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.protect](/_protect/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.protect|Strait_of_Hormuz.protect]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.private](/_private/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.private|Strait_of_Hormuz.private]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.personal](/_personal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.personal|Strait_of_Hormuz.personal]] 
 
-### #is_/same_as :: [Strait_of_Hormuz.secret](/_secret/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Strait_of_Hormuz.secret|Strait_of_Hormuz.secret]] 
 

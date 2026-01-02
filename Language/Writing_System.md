@@ -102,17 +102,17 @@ topic_has_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Writing_System](/_Standards/Language/Writing_System.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System|Writing_System]] 
 
-### #is_/same_as :: [Writing_System.public](/_public/Language/Writing_System.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System.public|Writing_System.public]] 
 
-### #is_/same_as :: [Writing_System.internal](/_internal/Language/Writing_System.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System.internal|Writing_System.internal]] 
 
-### #is_/same_as :: [Writing_System.protect](/_protect/Language/Writing_System.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System.protect|Writing_System.protect]] 
 
-### #is_/same_as :: [Writing_System.private](/_private/Language/Writing_System.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System.private|Writing_System.private]] 
 
-### #is_/same_as :: [Writing_System.personal](/_personal/Language/Writing_System.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System.personal|Writing_System.personal]] 
 
-### #is_/same_as :: [Writing_System.secret](/_secret/Language/Writing_System.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System.secret|Writing_System.secret]] 
 

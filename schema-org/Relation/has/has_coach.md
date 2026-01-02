@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_coach](/_Standards/schema-org/Relation/has/has_coach.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_coach|has_coach]] 
 
-### #is_/same_as :: [has_coach.public](/_public/schema-org/Relation/has/has_coach.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_coach.public|has_coach.public]] 
 
-### #is_/same_as :: [has_coach.internal](/_internal/schema-org/Relation/has/has_coach.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_coach.internal|has_coach.internal]] 
 
-### #is_/same_as :: [has_coach.protect](/_protect/schema-org/Relation/has/has_coach.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_coach.protect|has_coach.protect]] 
 
-### #is_/same_as :: [has_coach.private](/_private/schema-org/Relation/has/has_coach.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_coach.private|has_coach.private]] 
 
-### #is_/same_as :: [has_coach.personal](/_personal/schema-org/Relation/has/has_coach.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_coach.personal|has_coach.personal]] 
 
-### #is_/same_as :: [has_coach.secret](/_secret/schema-org/Relation/has/has_coach.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_coach.secret|has_coach.secret]] 
 

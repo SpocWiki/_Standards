@@ -172,17 +172,17 @@ Libris_URI: pm147x67237v2gs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441](/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441|1390-Eyck,Jan_van+1441]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.public](/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.public|1390-Eyck,Jan_van+1441.public]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.internal](/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.internal|1390-Eyck,Jan_van+1441.internal]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.protect](/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.protect|1390-Eyck,Jan_van+1441.protect]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.private](/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.private|1390-Eyck,Jan_van+1441.private]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.personal](/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.personal|1390-Eyck,Jan_van+1441.personal]] 
 
-### #is_/same_as :: [1390-Eyck,Jan_van+1441.secret](/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renaissance_Painting/1390-Eyck,Jan_van+1441.secret|1390-Eyck,Jan_van+1441.secret]] 
 

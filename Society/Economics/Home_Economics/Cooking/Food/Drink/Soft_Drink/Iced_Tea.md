@@ -48,17 +48,17 @@ Commons_category: Iced tea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Iced_Tea](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea|Iced_Tea]] 
 
-### #is_/same_as :: [Iced_Tea.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.public|Iced_Tea.public]] 
 
-### #is_/same_as :: [Iced_Tea.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.internal|Iced_Tea.internal]] 
 
-### #is_/same_as :: [Iced_Tea.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.protect|Iced_Tea.protect]] 
 
-### #is_/same_as :: [Iced_Tea.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.private|Iced_Tea.private]] 
 
-### #is_/same_as :: [Iced_Tea.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.personal|Iced_Tea.personal]] 
 
-### #is_/same_as :: [Iced_Tea.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Iced_Tea.secret|Iced_Tea.secret]] 
 

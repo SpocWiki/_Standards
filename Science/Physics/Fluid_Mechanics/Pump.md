@@ -50,17 +50,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/NASOSI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pump](/_Standards/Science/Physics/Fluid_Mechanics/Pump.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Pump|Pump]] 
 
-### #is_/same_as :: [Pump.public](/_public/Science/Physics/Fluid_Mechanics/Pump.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Pump.public|Pump.public]] 
 
-### #is_/same_as :: [Pump.internal](/_internal/Science/Physics/Fluid_Mechanics/Pump.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Pump.internal|Pump.internal]] 
 
-### #is_/same_as :: [Pump.protect](/_protect/Science/Physics/Fluid_Mechanics/Pump.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Pump.protect|Pump.protect]] 
 
-### #is_/same_as :: [Pump.private](/_private/Science/Physics/Fluid_Mechanics/Pump.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Pump.private|Pump.private]] 
 
-### #is_/same_as :: [Pump.personal](/_personal/Science/Physics/Fluid_Mechanics/Pump.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Pump.personal|Pump.personal]] 
 
-### #is_/same_as :: [Pump.secret](/_secret/Science/Physics/Fluid_Mechanics/Pump.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Pump.secret|Pump.secret]] 
 

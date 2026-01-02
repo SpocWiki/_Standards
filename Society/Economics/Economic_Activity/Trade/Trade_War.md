@@ -29,17 +29,17 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Handels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trade_War](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War|Trade_War]] 
 
-### #is_/same_as :: [Trade_War.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_War.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Trade_War.public|Trade_War.public]] 
 
-### #is_/same_as :: [Trade_War.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Trade_War.internal|Trade_War.internal]] 
 
-### #is_/same_as :: [Trade_War.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Trade_War.protect|Trade_War.protect]] 
 
-### #is_/same_as :: [Trade_War.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_War.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Trade_War.private|Trade_War.private]] 
 
-### #is_/same_as :: [Trade_War.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Trade_War.personal|Trade_War.personal]] 
 
-### #is_/same_as :: [Trade_War.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Trade_War.secret|Trade_War.secret]] 
 

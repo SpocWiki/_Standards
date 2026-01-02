@@ -40,17 +40,17 @@ markerFolder: ./Ngardmau/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ngardmau](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau|Ngardmau]] 
 
-### #is_/same_as :: [Ngardmau.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.public|Ngardmau.public]] 
 
-### #is_/same_as :: [Ngardmau.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.internal|Ngardmau.internal]] 
 
-### #is_/same_as :: [Ngardmau.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.protect|Ngardmau.protect]] 
 
-### #is_/same_as :: [Ngardmau.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.private|Ngardmau.private]] 
 
-### #is_/same_as :: [Ngardmau.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.personal|Ngardmau.personal]] 
 
-### #is_/same_as :: [Ngardmau.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngardmau.secret|Ngardmau.secret]] 
 

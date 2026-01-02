@@ -42,17 +42,17 @@ A trial design in which the researcher knows the full details of the treatment, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Open_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial|Open_Trial]] 
 
-### #is_/same_as :: [Open_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.public|Open_Trial.public]] 
 
-### #is_/same_as :: [Open_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.internal|Open_Trial.internal]] 
 
-### #is_/same_as :: [Open_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.protect|Open_Trial.protect]] 
 
-### #is_/same_as :: [Open_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.private|Open_Trial.private]] 
 
-### #is_/same_as :: [Open_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.personal|Open_Trial.personal]] 
 
-### #is_/same_as :: [Open_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Open_Trial.secret|Open_Trial.secret]] 
 

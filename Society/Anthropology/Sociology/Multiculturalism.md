@@ -51,17 +51,17 @@ Commons_category: Multiculturalism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiculturalism](/_Standards/Society/Anthropology/Sociology/Multiculturalism.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Multiculturalism|Multiculturalism]] 
 
-### #is_/same_as :: [Multiculturalism.public](/_public/Society/Anthropology/Sociology/Multiculturalism.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Multiculturalism.public|Multiculturalism.public]] 
 
-### #is_/same_as :: [Multiculturalism.internal](/_internal/Society/Anthropology/Sociology/Multiculturalism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Multiculturalism.internal|Multiculturalism.internal]] 
 
-### #is_/same_as :: [Multiculturalism.protect](/_protect/Society/Anthropology/Sociology/Multiculturalism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Multiculturalism.protect|Multiculturalism.protect]] 
 
-### #is_/same_as :: [Multiculturalism.private](/_private/Society/Anthropology/Sociology/Multiculturalism.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Multiculturalism.private|Multiculturalism.private]] 
 
-### #is_/same_as :: [Multiculturalism.personal](/_personal/Society/Anthropology/Sociology/Multiculturalism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Multiculturalism.personal|Multiculturalism.personal]] 
 
-### #is_/same_as :: [Multiculturalism.secret](/_secret/Society/Anthropology/Sociology/Multiculturalism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Multiculturalism.secret|Multiculturalism.secret]] 
 

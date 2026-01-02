@@ -35,17 +35,17 @@ Commons_category: Precession
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Precession](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession|Precession]] 
 
-### #is_/same_as :: [Precession.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.public|Precession.public]] 
 
-### #is_/same_as :: [Precession.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.internal|Precession.internal]] 
 
-### #is_/same_as :: [Precession.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.protect|Precession.protect]] 
 
-### #is_/same_as :: [Precession.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.private|Precession.private]] 
 
-### #is_/same_as :: [Precession.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.personal|Precession.personal]] 
 
-### #is_/same_as :: [Precession.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Kinematics/Rotation/Precession.secret|Precession.secret]] 
 

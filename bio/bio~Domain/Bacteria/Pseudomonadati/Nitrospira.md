@@ -63,17 +63,17 @@ title: Nitrospira
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitrospira](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira|Nitrospira]] 
 
-### #is_/same_as :: [Nitrospira.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.public|Nitrospira.public]] 
 
-### #is_/same_as :: [Nitrospira.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.internal|Nitrospira.internal]] 
 
-### #is_/same_as :: [Nitrospira.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.protect|Nitrospira.protect]] 
 
-### #is_/same_as :: [Nitrospira.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.private|Nitrospira.private]] 
 
-### #is_/same_as :: [Nitrospira.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.personal|Nitrospira.personal]] 
 
-### #is_/same_as :: [Nitrospira.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Nitrospira.secret|Nitrospira.secret]] 
 

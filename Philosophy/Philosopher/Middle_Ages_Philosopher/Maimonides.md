@@ -142,17 +142,17 @@ Europeana_entity: agent/base/145343
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maimonides](/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides|Maimonides]] 
 
-### #is_/same_as :: [Maimonides.public](/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.public|Maimonides.public]] 
 
-### #is_/same_as :: [Maimonides.internal](/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.internal|Maimonides.internal]] 
 
-### #is_/same_as :: [Maimonides.protect](/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.protect|Maimonides.protect]] 
 
-### #is_/same_as :: [Maimonides.private](/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.private|Maimonides.private]] 
 
-### #is_/same_as :: [Maimonides.personal](/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.personal|Maimonides.personal]] 
 
-### #is_/same_as :: [Maimonides.secret](/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Middle_Ages_Philosopher/Maimonides.secret|Maimonides.secret]] 
 

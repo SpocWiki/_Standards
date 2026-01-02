@@ -51,17 +51,17 @@ Clans and Villages have better chances of Survival than Families.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clan](/_Standards/Society/Agent/Community/Clan.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan|Clan]] 
 
-### #is_/same_as :: [Clan.public](/_public/Society/Agent/Community/Clan.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan.public|Clan.public]] 
 
-### #is_/same_as :: [Clan.internal](/_internal/Society/Agent/Community/Clan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan.internal|Clan.internal]] 
 
-### #is_/same_as :: [Clan.protect](/_protect/Society/Agent/Community/Clan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan.protect|Clan.protect]] 
 
-### #is_/same_as :: [Clan.private](/_private/Society/Agent/Community/Clan.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan.private|Clan.private]] 
 
-### #is_/same_as :: [Clan.personal](/_personal/Society/Agent/Community/Clan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan.personal|Clan.personal]] 
 
-### #is_/same_as :: [Clan.secret](/_secret/Society/Agent/Community/Clan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan.secret|Clan.secret]] 
 

@@ -42,17 +42,17 @@ OrderStatus representing that there is a problem with the order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Problem](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem|Order_Problem]] 
 
-### #is_/same_as :: [Order_Problem.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.public|Order_Problem.public]] 
 
-### #is_/same_as :: [Order_Problem.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.internal|Order_Problem.internal]] 
 
-### #is_/same_as :: [Order_Problem.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.protect|Order_Problem.protect]] 
 
-### #is_/same_as :: [Order_Problem.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.private|Order_Problem.private]] 
 
-### #is_/same_as :: [Order_Problem.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.personal|Order_Problem.personal]] 
 
-### #is_/same_as :: [Order_Problem.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Problem.secret|Order_Problem.secret]] 
 

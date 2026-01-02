@@ -65,17 +65,17 @@ Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Liver"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liver](/_Standards/bio/Medicine/Anatomy/Liver.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Liver|Liver]] 
 
-### #is_/same_as :: [Liver.public](/_public/bio/Medicine/Anatomy/Liver.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Liver.public|Liver.public]] 
 
-### #is_/same_as :: [Liver.internal](/_internal/bio/Medicine/Anatomy/Liver.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Liver.internal|Liver.internal]] 
 
-### #is_/same_as :: [Liver.protect](/_protect/bio/Medicine/Anatomy/Liver.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Liver.protect|Liver.protect]] 
 
-### #is_/same_as :: [Liver.private](/_private/bio/Medicine/Anatomy/Liver.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Liver.private|Liver.private]] 
 
-### #is_/same_as :: [Liver.personal](/_personal/bio/Medicine/Anatomy/Liver.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Liver.personal|Liver.personal]] 
 
-### #is_/same_as :: [Liver.secret](/_secret/bio/Medicine/Anatomy/Liver.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Liver.secret|Liver.secret]] 
 

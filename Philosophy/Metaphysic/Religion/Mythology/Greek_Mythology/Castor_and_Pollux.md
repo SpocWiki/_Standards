@@ -70,17 +70,17 @@ title: Διὸς κοῦροι
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Castor_and_Pollux](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux|Castor_and_Pollux]] 
 
-### #is_/same_as :: [Castor_and_Pollux.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.public|Castor_and_Pollux.public]] 
 
-### #is_/same_as :: [Castor_and_Pollux.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.internal|Castor_and_Pollux.internal]] 
 
-### #is_/same_as :: [Castor_and_Pollux.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.protect|Castor_and_Pollux.protect]] 
 
-### #is_/same_as :: [Castor_and_Pollux.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.private|Castor_and_Pollux.private]] 
 
-### #is_/same_as :: [Castor_and_Pollux.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.personal|Castor_and_Pollux.personal]] 
 
-### #is_/same_as :: [Castor_and_Pollux.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Castor_and_Pollux.secret|Castor_and_Pollux.secret]] 
 

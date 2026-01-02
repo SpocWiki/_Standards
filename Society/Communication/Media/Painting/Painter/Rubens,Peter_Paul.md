@@ -524,17 +524,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubens,Peter_Paul](/_Standards/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul|Rubens,Peter_Paul]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.public](/_public/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.public|Rubens,Peter_Paul.public]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.internal](/_internal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.internal|Rubens,Peter_Paul.internal]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.protect](/_protect/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.protect|Rubens,Peter_Paul.protect]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.private](/_private/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.private|Rubens,Peter_Paul.private]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.personal](/_personal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.personal|Rubens,Peter_Paul.personal]] 
 
-### #is_/same_as :: [Rubens,Peter_Paul.secret](/_secret/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Rubens,Peter_Paul.secret|Rubens,Peter_Paul.secret]] 
 

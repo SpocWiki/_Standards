@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI_Model](/_Standards/Technology/IT/Computer_Network/OSI_Model.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model|OSI_Model]] 
 
-### #is_/same_as :: [OSI_Model.public](/_public/Technology/IT/Computer_Network/OSI_Model.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model.public|OSI_Model.public]] 
 
-### #is_/same_as :: [OSI_Model.internal](/_internal/Technology/IT/Computer_Network/OSI_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model.internal|OSI_Model.internal]] 
 
-### #is_/same_as :: [OSI_Model.protect](/_protect/Technology/IT/Computer_Network/OSI_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model.protect|OSI_Model.protect]] 
 
-### #is_/same_as :: [OSI_Model.private](/_private/Technology/IT/Computer_Network/OSI_Model.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model.private|OSI_Model.private]] 
 
-### #is_/same_as :: [OSI_Model.personal](/_personal/Technology/IT/Computer_Network/OSI_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model.personal|OSI_Model.personal]] 
 
-### #is_/same_as :: [OSI_Model.secret](/_secret/Technology/IT/Computer_Network/OSI_Model.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model.secret|OSI_Model.secret]] 
 

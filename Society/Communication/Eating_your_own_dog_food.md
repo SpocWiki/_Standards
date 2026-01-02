@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eating_your_own_dog_food](/_Standards/Society/Communication/Eating_your_own_dog_food.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Eating_your_own_dog_food|Eating_your_own_dog_food]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.public](/_public/Society/Communication/Eating_your_own_dog_food.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Eating_your_own_dog_food.public|Eating_your_own_dog_food.public]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.internal](/_internal/Society/Communication/Eating_your_own_dog_food.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Eating_your_own_dog_food.internal|Eating_your_own_dog_food.internal]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.protect](/_protect/Society/Communication/Eating_your_own_dog_food.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Eating_your_own_dog_food.protect|Eating_your_own_dog_food.protect]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.private](/_private/Society/Communication/Eating_your_own_dog_food.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Eating_your_own_dog_food.private|Eating_your_own_dog_food.private]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.personal](/_personal/Society/Communication/Eating_your_own_dog_food.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Eating_your_own_dog_food.personal|Eating_your_own_dog_food.personal]] 
 
-### #is_/same_as :: [Eating_your_own_dog_food.secret](/_secret/Society/Communication/Eating_your_own_dog_food.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Eating_your_own_dog_food.secret|Eating_your_own_dog_food.secret]] 
 

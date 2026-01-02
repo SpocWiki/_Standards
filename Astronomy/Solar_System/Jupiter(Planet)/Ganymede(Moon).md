@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ganymede(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon)|Ganymede(Moon)]] 
 
-### #is_/same_as :: [Ganymede(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).public|Ganymede(Moon).public]] 
 
-### #is_/same_as :: [Ganymede(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).internal|Ganymede(Moon).internal]] 
 
-### #is_/same_as :: [Ganymede(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).protect|Ganymede(Moon).protect]] 
 
-### #is_/same_as :: [Ganymede(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).private|Ganymede(Moon).private]] 
 
-### #is_/same_as :: [Ganymede(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).personal|Ganymede(Moon).personal]] 
 
-### #is_/same_as :: [Ganymede(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Ganymede(Moon).secret|Ganymede(Moon).secret]] 
 

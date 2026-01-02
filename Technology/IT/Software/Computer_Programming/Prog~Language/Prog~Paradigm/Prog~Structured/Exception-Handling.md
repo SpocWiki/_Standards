@@ -134,17 +134,17 @@ instead `panic/defer/recover` allows to only __clean up the State__ and modify t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exception-Handling](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling|Exception-Handling]] 
 
-### #is_/same_as :: [Exception-Handling.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.public|Exception-Handling.public]] 
 
-### #is_/same_as :: [Exception-Handling.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.internal|Exception-Handling.internal]] 
 
-### #is_/same_as :: [Exception-Handling.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.protect|Exception-Handling.protect]] 
 
-### #is_/same_as :: [Exception-Handling.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.private|Exception-Handling.private]] 
 
-### #is_/same_as :: [Exception-Handling.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.personal|Exception-Handling.personal]] 
 
-### #is_/same_as :: [Exception-Handling.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Exception-Handling.secret|Exception-Handling.secret]] 
 

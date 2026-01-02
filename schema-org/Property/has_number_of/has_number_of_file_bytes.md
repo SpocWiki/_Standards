@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_file_bytes](/_Standards/schema-org/Property/has_number_of/has_number_of_file_bytes.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_file_bytes|has_number_of_file_bytes]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.public](/_public/schema-org/Property/has_number_of/has_number_of_file_bytes.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_file_bytes.public|has_number_of_file_bytes.public]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.internal](/_internal/schema-org/Property/has_number_of/has_number_of_file_bytes.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_file_bytes.internal|has_number_of_file_bytes.internal]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.protect](/_protect/schema-org/Property/has_number_of/has_number_of_file_bytes.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_file_bytes.protect|has_number_of_file_bytes.protect]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.private](/_private/schema-org/Property/has_number_of/has_number_of_file_bytes.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_file_bytes.private|has_number_of_file_bytes.private]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.personal](/_personal/schema-org/Property/has_number_of/has_number_of_file_bytes.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_file_bytes.personal|has_number_of_file_bytes.personal]] 
 
-### #is_/same_as :: [has_number_of_file_bytes.secret](/_secret/schema-org/Property/has_number_of/has_number_of_file_bytes.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_file_bytes.secret|has_number_of_file_bytes.secret]] 
 

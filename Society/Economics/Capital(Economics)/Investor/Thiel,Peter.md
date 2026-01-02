@@ -74,17 +74,17 @@ Mithril, Valar, Palantir etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thiel,Peter](/_Standards/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)/Investor/Thiel,Peter|Thiel,Peter]] 
 
-### #is_/same_as :: [Thiel,Peter.public](/_public/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.public|Thiel,Peter.public]] 
 
-### #is_/same_as :: [Thiel,Peter.internal](/_internal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.internal|Thiel,Peter.internal]] 
 
-### #is_/same_as :: [Thiel,Peter.protect](/_protect/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.protect|Thiel,Peter.protect]] 
 
-### #is_/same_as :: [Thiel,Peter.private](/_private/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.private|Thiel,Peter.private]] 
 
-### #is_/same_as :: [Thiel,Peter.personal](/_personal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.personal|Thiel,Peter.personal]] 
 
-### #is_/same_as :: [Thiel,Peter.secret](/_secret/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics)/Investor/Thiel,Peter.secret|Thiel,Peter.secret]] 
 

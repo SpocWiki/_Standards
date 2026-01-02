@@ -86,17 +86,17 @@ P8189: 987007311068005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bosch,Carl](/_Standards/Science/Inventor/Bosch,Carl.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Bosch,Carl|Bosch,Carl]] 
 
-### #is_/same_as :: [Bosch,Carl.public](/_public/Science/Inventor/Bosch,Carl.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Bosch,Carl.public|Bosch,Carl.public]] 
 
-### #is_/same_as :: [Bosch,Carl.internal](/_internal/Science/Inventor/Bosch,Carl.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Bosch,Carl.internal|Bosch,Carl.internal]] 
 
-### #is_/same_as :: [Bosch,Carl.protect](/_protect/Science/Inventor/Bosch,Carl.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Bosch,Carl.protect|Bosch,Carl.protect]] 
 
-### #is_/same_as :: [Bosch,Carl.private](/_private/Science/Inventor/Bosch,Carl.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Bosch,Carl.private|Bosch,Carl.private]] 
 
-### #is_/same_as :: [Bosch,Carl.personal](/_personal/Science/Inventor/Bosch,Carl.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Bosch,Carl.personal|Bosch,Carl.personal]] 
 
-### #is_/same_as :: [Bosch,Carl.secret](/_secret/Science/Inventor/Bosch,Carl.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Bosch,Carl.secret|Bosch,Carl.secret]] 
 

@@ -494,17 +494,17 @@ Capital :: [[Chile/Counties/Región_Metropolitana_de_Santiago/City/Santiago]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chile](/_Standards/Earth/Continent/America~South/Southern_Cone/Chile.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Chile|Chile]] 
 
-### #is_/same_as :: [Chile.public](/_public/Earth/Continent/America~South/Southern_Cone/Chile.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Chile.public|Chile.public]] 
 
-### #is_/same_as :: [Chile.internal](/_internal/Earth/Continent/America~South/Southern_Cone/Chile.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Chile.internal|Chile.internal]] 
 
-### #is_/same_as :: [Chile.protect](/_protect/Earth/Continent/America~South/Southern_Cone/Chile.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Chile.protect|Chile.protect]] 
 
-### #is_/same_as :: [Chile.private](/_private/Earth/Continent/America~South/Southern_Cone/Chile.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Chile.private|Chile.private]] 
 
-### #is_/same_as :: [Chile.personal](/_personal/Earth/Continent/America~South/Southern_Cone/Chile.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Chile.personal|Chile.personal]] 
 
-### #is_/same_as :: [Chile.secret](/_secret/Earth/Continent/America~South/Southern_Cone/Chile.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Chile.secret|Chile.secret]] 
 

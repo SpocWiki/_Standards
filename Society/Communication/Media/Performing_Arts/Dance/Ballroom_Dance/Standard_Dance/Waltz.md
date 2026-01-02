@@ -42,17 +42,17 @@ Dewey_Decimal_Classification: 793.33
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waltz](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz|Waltz]] 
 
-### #is_/same_as :: [Waltz.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.public|Waltz.public]] 
 
-### #is_/same_as :: [Waltz.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.internal|Waltz.internal]] 
 
-### #is_/same_as :: [Waltz.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.protect|Waltz.protect]] 
 
-### #is_/same_as :: [Waltz.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.private|Waltz.private]] 
 
-### #is_/same_as :: [Waltz.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.personal|Waltz.personal]] 
 
-### #is_/same_as :: [Waltz.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Standard_Dance/Waltz.secret|Waltz.secret]] 
 

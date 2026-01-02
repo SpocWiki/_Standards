@@ -57,17 +57,17 @@ Commons_category: Ostrogoths
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ostrogoth](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth|Ostrogoth]] 
 
-### #is_/same_as :: [Ostrogoth.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.public|Ostrogoth.public]] 
 
-### #is_/same_as :: [Ostrogoth.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.internal|Ostrogoth.internal]] 
 
-### #is_/same_as :: [Ostrogoth.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.protect|Ostrogoth.protect]] 
 
-### #is_/same_as :: [Ostrogoth.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.private|Ostrogoth.private]] 
 
-### #is_/same_as :: [Ostrogoth.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.personal|Ostrogoth.personal]] 
 
-### #is_/same_as :: [Ostrogoth.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Tribe/Ostrogoth.secret|Ostrogoth.secret]] 
 

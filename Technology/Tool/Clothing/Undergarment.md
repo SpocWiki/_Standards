@@ -63,17 +63,17 @@ Dewey_Decimal_Classification: 391.42
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Undergarment](/_Standards/Technology/Tool/Clothing/Undergarment.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Undergarment|Undergarment]] 
 
-### #is_/same_as :: [Undergarment.public](/_public/Technology/Tool/Clothing/Undergarment.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Undergarment.public|Undergarment.public]] 
 
-### #is_/same_as :: [Undergarment.internal](/_internal/Technology/Tool/Clothing/Undergarment.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Undergarment.internal|Undergarment.internal]] 
 
-### #is_/same_as :: [Undergarment.protect](/_protect/Technology/Tool/Clothing/Undergarment.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Undergarment.protect|Undergarment.protect]] 
 
-### #is_/same_as :: [Undergarment.private](/_private/Technology/Tool/Clothing/Undergarment.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Undergarment.private|Undergarment.private]] 
 
-### #is_/same_as :: [Undergarment.personal](/_personal/Technology/Tool/Clothing/Undergarment.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Undergarment.personal|Undergarment.personal]] 
 
-### #is_/same_as :: [Undergarment.secret](/_secret/Technology/Tool/Clothing/Undergarment.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Undergarment.secret|Undergarment.secret]] 
 

@@ -135,17 +135,17 @@ ZVG_number: 8310
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Strontium](/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]] 
 
-### #is_/same_as :: [Strontium.public](/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]] 
 
-### #is_/same_as :: [Strontium.internal](/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.internal|Strontium.internal]] 
 
-### #is_/same_as :: [Strontium.protect](/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.protect|Strontium.protect]] 
 
-### #is_/same_as :: [Strontium.private](/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]] 
 
-### #is_/same_as :: [Strontium.personal](/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]] 
 
-### #is_/same_as :: [Strontium.secret](/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]] 
 

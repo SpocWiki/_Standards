@@ -40,17 +40,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rubik,Ernő](/_Standards/Science/Inventor/Rubik,Ernő.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Rubik,Ernő|Rubik,Ernő]] 
 
-### #is_/same_as :: [Rubik,Ernő.public](/_public/Science/Inventor/Rubik,Ernő.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Rubik,Ernő.public|Rubik,Ernő.public]] 
 
-### #is_/same_as :: [Rubik,Ernő.internal](/_internal/Science/Inventor/Rubik,Ernő.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Rubik,Ernő.internal|Rubik,Ernő.internal]] 
 
-### #is_/same_as :: [Rubik,Ernő.protect](/_protect/Science/Inventor/Rubik,Ernő.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Rubik,Ernő.protect|Rubik,Ernő.protect]] 
 
-### #is_/same_as :: [Rubik,Ernő.private](/_private/Science/Inventor/Rubik,Ernő.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Rubik,Ernő.private|Rubik,Ernő.private]] 
 
-### #is_/same_as :: [Rubik,Ernő.personal](/_personal/Science/Inventor/Rubik,Ernő.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Rubik,Ernő.personal|Rubik,Ernő.personal]] 
 
-### #is_/same_as :: [Rubik,Ernő.secret](/_secret/Science/Inventor/Rubik,Ernő.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Rubik,Ernő.secret|Rubik,Ernő.secret]] 
 

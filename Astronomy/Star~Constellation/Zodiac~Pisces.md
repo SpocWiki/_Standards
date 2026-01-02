@@ -55,17 +55,17 @@ short_name: Psc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Pisces](/_Standards/Astronomy/Star~Constellation/Zodiac~Pisces.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Pisces|Zodiac~Pisces]] 
 
-### #is_/same_as :: [Zodiac~Pisces.public](/_public/Astronomy/Star~Constellation/Zodiac~Pisces.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Pisces.public|Zodiac~Pisces.public]] 
 
-### #is_/same_as :: [Zodiac~Pisces.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Pisces.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Pisces.internal|Zodiac~Pisces.internal]] 
 
-### #is_/same_as :: [Zodiac~Pisces.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Pisces.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Pisces.protect|Zodiac~Pisces.protect]] 
 
-### #is_/same_as :: [Zodiac~Pisces.private](/_private/Astronomy/Star~Constellation/Zodiac~Pisces.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Pisces.private|Zodiac~Pisces.private]] 
 
-### #is_/same_as :: [Zodiac~Pisces.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Pisces.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Pisces.personal|Zodiac~Pisces.personal]] 
 
-### #is_/same_as :: [Zodiac~Pisces.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Pisces.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Pisces.secret|Zodiac~Pisces.secret]] 
 

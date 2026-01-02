@@ -154,17 +154,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/PINK_FLOD.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pink_Floyd](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd|Pink_Floyd]] 
 
-### #is_/same_as :: [Pink_Floyd.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.public|Pink_Floyd.public]] 
 
-### #is_/same_as :: [Pink_Floyd.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.internal|Pink_Floyd.internal]] 
 
-### #is_/same_as :: [Pink_Floyd.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.protect|Pink_Floyd.protect]] 
 
-### #is_/same_as :: [Pink_Floyd.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.private|Pink_Floyd.private]] 
 
-### #is_/same_as :: [Pink_Floyd.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.personal|Pink_Floyd.personal]] 
 
-### #is_/same_as :: [Pink_Floyd.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd.secret|Pink_Floyd.secret]] 
 

@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Campbell,Joseph-John](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John|Campbell,Joseph-John]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.public|Campbell,Joseph-John.public]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.internal|Campbell,Joseph-John.internal]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.protect|Campbell,Joseph-John.protect]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.private|Campbell,Joseph-John.private]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.personal|Campbell,Joseph-John.personal]] 
 
-### #is_/same_as :: [Campbell,Joseph-John.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Campbell,Joseph-John.secret|Campbell,Joseph-John.secret]] 
 

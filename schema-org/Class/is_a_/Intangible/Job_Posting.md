@@ -41,17 +41,17 @@ A listing that describes a job opening in a certain organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Job_Posting](/_Standards/schema-org/Class/is_a_/Intangible/Job_Posting.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Job_Posting|Job_Posting]] 
 
-### #is_/same_as :: [Job_Posting.public](/_public/schema-org/Class/is_a_/Intangible/Job_Posting.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Job_Posting.public|Job_Posting.public]] 
 
-### #is_/same_as :: [Job_Posting.internal](/_internal/schema-org/Class/is_a_/Intangible/Job_Posting.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Job_Posting.internal|Job_Posting.internal]] 
 
-### #is_/same_as :: [Job_Posting.protect](/_protect/schema-org/Class/is_a_/Intangible/Job_Posting.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Job_Posting.protect|Job_Posting.protect]] 
 
-### #is_/same_as :: [Job_Posting.private](/_private/schema-org/Class/is_a_/Intangible/Job_Posting.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Job_Posting.private|Job_Posting.private]] 
 
-### #is_/same_as :: [Job_Posting.personal](/_personal/schema-org/Class/is_a_/Intangible/Job_Posting.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Job_Posting.personal|Job_Posting.personal]] 
 
-### #is_/same_as :: [Job_Posting.secret](/_secret/schema-org/Class/is_a_/Intangible/Job_Posting.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Job_Posting.secret|Job_Posting.secret]] 
 

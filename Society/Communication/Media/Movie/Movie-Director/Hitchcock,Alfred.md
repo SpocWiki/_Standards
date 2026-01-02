@@ -195,17 +195,17 @@ work_period_start_: 1921
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hitchcock,Alfred](/_Standards/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred|Hitchcock,Alfred]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.public](/_public/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.public|Hitchcock,Alfred.public]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.internal|Hitchcock,Alfred.internal]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.protect|Hitchcock,Alfred.protect]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.private](/_private/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.private|Hitchcock,Alfred.private]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.personal|Hitchcock,Alfred.personal]] 
 
-### #is_/same_as :: [Hitchcock,Alfred.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Hitchcock,Alfred.secret|Hitchcock,Alfred.secret]] 
 

@@ -39,17 +39,17 @@ An answer offered to a question; perhaps correct, perhaps opinionated or wrong.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Answer](/_Standards/Society/Communication/Media/Creative_Work/Comment/Answer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comment/Answer|Answer]] 
 
-### #is_/same_as :: [Answer.public](/_public/Society/Communication/Media/Creative_Work/Comment/Answer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comment/Answer.public|Answer.public]] 
 
-### #is_/same_as :: [Answer.internal](/_internal/Society/Communication/Media/Creative_Work/Comment/Answer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comment/Answer.internal|Answer.internal]] 
 
-### #is_/same_as :: [Answer.protect](/_protect/Society/Communication/Media/Creative_Work/Comment/Answer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comment/Answer.protect|Answer.protect]] 
 
-### #is_/same_as :: [Answer.private](/_private/Society/Communication/Media/Creative_Work/Comment/Answer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comment/Answer.private|Answer.private]] 
 
-### #is_/same_as :: [Answer.personal](/_personal/Society/Communication/Media/Creative_Work/Comment/Answer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comment/Answer.personal|Answer.personal]] 
 
-### #is_/same_as :: [Answer.secret](/_secret/Society/Communication/Media/Creative_Work/Comment/Answer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comment/Answer.secret|Answer.secret]] 
 

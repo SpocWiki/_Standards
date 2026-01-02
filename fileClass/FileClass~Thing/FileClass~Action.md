@@ -175,17 +175,17 @@ Target:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Action](/_Standards/fileClass/FileClass~Thing/FileClass~Action.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action|FileClass~Action]] 
 
-### #is_/same_as :: [FileClass~Action.public](/_public/fileClass/FileClass~Thing/FileClass~Action.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action.public|FileClass~Action.public]] 
 
-### #is_/same_as :: [FileClass~Action.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action.internal|FileClass~Action.internal]] 
 
-### #is_/same_as :: [FileClass~Action.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action.protect|FileClass~Action.protect]] 
 
-### #is_/same_as :: [FileClass~Action.private](/_private/fileClass/FileClass~Thing/FileClass~Action.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action.private|FileClass~Action.private]] 
 
-### #is_/same_as :: [FileClass~Action.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action.personal|FileClass~Action.personal]] 
 
-### #is_/same_as :: [FileClass~Action.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action.secret|FileClass~Action.secret]] 
 

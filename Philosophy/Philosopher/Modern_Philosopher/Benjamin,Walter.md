@@ -162,17 +162,17 @@ NLC_authorities: 038174713
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benjamin,Walter](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter|Benjamin,Walter]] 
 
-### #is_/same_as :: [Benjamin,Walter.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.public|Benjamin,Walter.public]] 
 
-### #is_/same_as :: [Benjamin,Walter.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.internal|Benjamin,Walter.internal]] 
 
-### #is_/same_as :: [Benjamin,Walter.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.protect|Benjamin,Walter.protect]] 
 
-### #is_/same_as :: [Benjamin,Walter.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.private|Benjamin,Walter.private]] 
 
-### #is_/same_as :: [Benjamin,Walter.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.personal|Benjamin,Walter.personal]] 
 
-### #is_/same_as :: [Benjamin,Walter.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Benjamin,Walter.secret|Benjamin,Walter.secret]] 
 

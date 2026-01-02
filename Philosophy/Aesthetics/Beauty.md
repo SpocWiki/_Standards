@@ -62,17 +62,17 @@ UMLS_CUI: C0004898
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beauty](/_Standards/Philosophy/Aesthetics/Beauty.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Aesthetics/Beauty|Beauty]] 
 
-### #is_/same_as :: [Beauty.public](/_public/Philosophy/Aesthetics/Beauty.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Aesthetics/Beauty.public|Beauty.public]] 
 
-### #is_/same_as :: [Beauty.internal](/_internal/Philosophy/Aesthetics/Beauty.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Aesthetics/Beauty.internal|Beauty.internal]] 
 
-### #is_/same_as :: [Beauty.protect](/_protect/Philosophy/Aesthetics/Beauty.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Aesthetics/Beauty.protect|Beauty.protect]] 
 
-### #is_/same_as :: [Beauty.private](/_private/Philosophy/Aesthetics/Beauty.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Aesthetics/Beauty.private|Beauty.private]] 
 
-### #is_/same_as :: [Beauty.personal](/_personal/Philosophy/Aesthetics/Beauty.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Aesthetics/Beauty.personal|Beauty.personal]] 
 
-### #is_/same_as :: [Beauty.secret](/_secret/Philosophy/Aesthetics/Beauty.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Aesthetics/Beauty.secret|Beauty.secret]] 
 

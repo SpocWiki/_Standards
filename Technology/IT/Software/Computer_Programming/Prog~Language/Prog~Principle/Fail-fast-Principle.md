@@ -26,17 +26,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fail-fast-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle|Fail-fast-Principle]] 
 
-### #is_/same_as :: [Fail-fast-Principle.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.public|Fail-fast-Principle.public]] 
 
-### #is_/same_as :: [Fail-fast-Principle.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.internal|Fail-fast-Principle.internal]] 
 
-### #is_/same_as :: [Fail-fast-Principle.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.protect|Fail-fast-Principle.protect]] 
 
-### #is_/same_as :: [Fail-fast-Principle.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.private|Fail-fast-Principle.private]] 
 
-### #is_/same_as :: [Fail-fast-Principle.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.personal|Fail-fast-Principle.personal]] 
 
-### #is_/same_as :: [Fail-fast-Principle.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Principle/Fail-fast-Principle.secret|Fail-fast-Principle.secret]] 
 

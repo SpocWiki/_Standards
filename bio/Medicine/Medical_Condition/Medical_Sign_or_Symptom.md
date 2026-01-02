@@ -43,17 +43,17 @@ Any feature associated or not with a medical condition. In medicine a symptom is
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom](/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom|Medical_Sign_or_Symptom]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.public](/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.public|Medical_Sign_or_Symptom.public]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.internal](/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.internal|Medical_Sign_or_Symptom.internal]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.protect](/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.protect|Medical_Sign_or_Symptom.protect]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.private](/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.private|Medical_Sign_or_Symptom.private]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.personal](/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.personal|Medical_Sign_or_Symptom.personal]] 
 
-### #is_/same_as :: [Medical_Sign_or_Symptom.secret](/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Medical_Sign_or_Symptom.secret|Medical_Sign_or_Symptom.secret]] 
 

@@ -1211,17 +1211,17 @@ See also: [15th century](https://en.wikipedia.org/wiki/15th_century "15th centur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [geo~Eons](/_Standards/Time-Ages/geo~Eons.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons|geo~Eons]] 
 
-### #is_/same_as :: [geo~Eons.public](/_public/Time-Ages/geo~Eons.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons.public|geo~Eons.public]] 
 
-### #is_/same_as :: [geo~Eons.internal](/_internal/Time-Ages/geo~Eons.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons.internal|geo~Eons.internal]] 
 
-### #is_/same_as :: [geo~Eons.protect](/_protect/Time-Ages/geo~Eons.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons.protect|geo~Eons.protect]] 
 
-### #is_/same_as :: [geo~Eons.private](/_private/Time-Ages/geo~Eons.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons.private|geo~Eons.private]] 
 
-### #is_/same_as :: [geo~Eons.personal](/_personal/Time-Ages/geo~Eons.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons.personal|geo~Eons.personal]] 
 
-### #is_/same_as :: [geo~Eons.secret](/_secret/Time-Ages/geo~Eons.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons.secret|geo~Eons.secret]] 
 

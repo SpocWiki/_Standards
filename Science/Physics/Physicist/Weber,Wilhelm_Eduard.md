@@ -127,17 +127,17 @@ Libris_URI: wt7bgbpf0xdd2r0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard](/_Standards/Science/Physics/Physicist/Weber,Wilhelm_Eduard.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Weber,Wilhelm_Eduard|Weber,Wilhelm_Eduard]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.public](/_public/Science/Physics/Physicist/Weber,Wilhelm_Eduard.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Weber,Wilhelm_Eduard.public|Weber,Wilhelm_Eduard.public]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.internal](/_internal/Science/Physics/Physicist/Weber,Wilhelm_Eduard.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Weber,Wilhelm_Eduard.internal|Weber,Wilhelm_Eduard.internal]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.protect](/_protect/Science/Physics/Physicist/Weber,Wilhelm_Eduard.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Weber,Wilhelm_Eduard.protect|Weber,Wilhelm_Eduard.protect]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.private](/_private/Science/Physics/Physicist/Weber,Wilhelm_Eduard.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Weber,Wilhelm_Eduard.private|Weber,Wilhelm_Eduard.private]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.personal](/_personal/Science/Physics/Physicist/Weber,Wilhelm_Eduard.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Weber,Wilhelm_Eduard.personal|Weber,Wilhelm_Eduard.personal]] 
 
-### #is_/same_as :: [Weber,Wilhelm_Eduard.secret](/_secret/Science/Physics/Physicist/Weber,Wilhelm_Eduard.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Weber,Wilhelm_Eduard.secret|Weber,Wilhelm_Eduard.secret]] 
 

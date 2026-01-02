@@ -37,17 +37,17 @@ An indication for treating an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TreatmentIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication|FileClass~TreatmentIndication]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.public|FileClass~TreatmentIndication.public]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.internal|FileClass~TreatmentIndication.internal]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.protect|FileClass~TreatmentIndication.protect]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.private|FileClass~TreatmentIndication.private]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.personal|FileClass~TreatmentIndication.personal]] 
 
-### #is_/same_as :: [FileClass~TreatmentIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~TreatmentIndication.secret|FileClass~TreatmentIndication.secret]] 
 

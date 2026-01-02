@@ -176,17 +176,17 @@ ZVG_number: 8350
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silver](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Silver.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Silver|Silver]] 
 
-### #is_/same_as :: [Silver.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Silver.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-11-Copper/Silver.public|Silver.public]] 
 
-### #is_/same_as :: [Silver.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Silver.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Silver.internal|Silver.internal]] 
 
-### #is_/same_as :: [Silver.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Silver.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Silver.protect|Silver.protect]] 
 
-### #is_/same_as :: [Silver.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Silver.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-11-Copper/Silver.private|Silver.private]] 
 
-### #is_/same_as :: [Silver.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Silver.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Silver.personal|Silver.personal]] 
 
-### #is_/same_as :: [Silver.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Silver.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Silver.secret|Silver.secret]] 
 

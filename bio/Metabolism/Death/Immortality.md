@@ -33,17 +33,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Immortality](/_Standards/bio/Metabolism/Death/Immortality.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Immortality|Immortality]] 
 
-### #is_/same_as :: [Immortality.public](/_public/bio/Metabolism/Death/Immortality.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Immortality.public|Immortality.public]] 
 
-### #is_/same_as :: [Immortality.internal](/_internal/bio/Metabolism/Death/Immortality.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Immortality.internal|Immortality.internal]] 
 
-### #is_/same_as :: [Immortality.protect](/_protect/bio/Metabolism/Death/Immortality.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Immortality.protect|Immortality.protect]] 
 
-### #is_/same_as :: [Immortality.private](/_private/bio/Metabolism/Death/Immortality.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Immortality.private|Immortality.private]] 
 
-### #is_/same_as :: [Immortality.personal](/_personal/bio/Metabolism/Death/Immortality.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Immortality.personal|Immortality.personal]] 
 
-### #is_/same_as :: [Immortality.secret](/_secret/bio/Metabolism/Death/Immortality.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Immortality.secret|Immortality.secret]] 
 

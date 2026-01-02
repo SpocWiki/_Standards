@@ -57,17 +57,17 @@ MeSH_tree_code: F01.658.642
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Instinct](/_Standards/bio/Psychology/Behavior/Instinct.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Behavior/Instinct|Instinct]] 
 
-### #is_/same_as :: [Instinct.public](/_public/bio/Psychology/Behavior/Instinct.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Behavior/Instinct.public|Instinct.public]] 
 
-### #is_/same_as :: [Instinct.internal](/_internal/bio/Psychology/Behavior/Instinct.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Behavior/Instinct.internal|Instinct.internal]] 
 
-### #is_/same_as :: [Instinct.protect](/_protect/bio/Psychology/Behavior/Instinct.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Behavior/Instinct.protect|Instinct.protect]] 
 
-### #is_/same_as :: [Instinct.private](/_private/bio/Psychology/Behavior/Instinct.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Behavior/Instinct.private|Instinct.private]] 
 
-### #is_/same_as :: [Instinct.personal](/_personal/bio/Psychology/Behavior/Instinct.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Behavior/Instinct.personal|Instinct.personal]] 
 
-### #is_/same_as :: [Instinct.secret](/_secret/bio/Psychology/Behavior/Instinct.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Behavior/Instinct.secret|Instinct.secret]] 
 

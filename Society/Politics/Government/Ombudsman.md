@@ -81,17 +81,17 @@ OpenStreetMap_tag: government=ombudsperson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ombudsman](/_Standards/Society/Politics/Government/Ombudsman.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Ombudsman|Ombudsman]] 
 
-### #is_/same_as :: [Ombudsman.public](/_public/Society/Politics/Government/Ombudsman.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Ombudsman.public|Ombudsman.public]] 
 
-### #is_/same_as :: [Ombudsman.internal](/_internal/Society/Politics/Government/Ombudsman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Ombudsman.internal|Ombudsman.internal]] 
 
-### #is_/same_as :: [Ombudsman.protect](/_protect/Society/Politics/Government/Ombudsman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Ombudsman.protect|Ombudsman.protect]] 
 
-### #is_/same_as :: [Ombudsman.private](/_private/Society/Politics/Government/Ombudsman.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Ombudsman.private|Ombudsman.private]] 
 
-### #is_/same_as :: [Ombudsman.personal](/_personal/Society/Politics/Government/Ombudsman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Ombudsman.personal|Ombudsman.personal]] 
 
-### #is_/same_as :: [Ombudsman.secret](/_secret/Society/Politics/Government/Ombudsman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Ombudsman.secret|Ombudsman.secret]] 
 

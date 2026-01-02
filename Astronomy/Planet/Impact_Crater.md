@@ -44,17 +44,17 @@ OpenStreetMap_tag: geological=meteor_crater
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Impact_Crater](/_Standards/Astronomy/Planet/Impact_Crater.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]] 
 
-### #is_/same_as :: [Impact_Crater.public](/_public/Astronomy/Planet/Impact_Crater.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]] 
 
-### #is_/same_as :: [Impact_Crater.internal](/_internal/Astronomy/Planet/Impact_Crater.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]] 
 
-### #is_/same_as :: [Impact_Crater.protect](/_protect/Astronomy/Planet/Impact_Crater.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Impact_Crater.protect|Impact_Crater.protect]] 
 
-### #is_/same_as :: [Impact_Crater.private](/_private/Astronomy/Planet/Impact_Crater.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Impact_Crater.private|Impact_Crater.private]] 
 
-### #is_/same_as :: [Impact_Crater.personal](/_personal/Astronomy/Planet/Impact_Crater.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]] 
 
-### #is_/same_as :: [Impact_Crater.secret](/_secret/Astronomy/Planet/Impact_Crater.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]] 
 

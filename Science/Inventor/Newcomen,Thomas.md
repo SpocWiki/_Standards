@@ -57,17 +57,17 @@ date_of_birth: 1664-02-28T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newcomen,Thomas](/_Standards/Science/Inventor/Newcomen,Thomas.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Newcomen,Thomas|Newcomen,Thomas]] 
 
-### #is_/same_as :: [Newcomen,Thomas.public](/_public/Science/Inventor/Newcomen,Thomas.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Newcomen,Thomas.public|Newcomen,Thomas.public]] 
 
-### #is_/same_as :: [Newcomen,Thomas.internal](/_internal/Science/Inventor/Newcomen,Thomas.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Newcomen,Thomas.internal|Newcomen,Thomas.internal]] 
 
-### #is_/same_as :: [Newcomen,Thomas.protect](/_protect/Science/Inventor/Newcomen,Thomas.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Newcomen,Thomas.protect|Newcomen,Thomas.protect]] 
 
-### #is_/same_as :: [Newcomen,Thomas.private](/_private/Science/Inventor/Newcomen,Thomas.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Newcomen,Thomas.private|Newcomen,Thomas.private]] 
 
-### #is_/same_as :: [Newcomen,Thomas.personal](/_personal/Science/Inventor/Newcomen,Thomas.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Newcomen,Thomas.personal|Newcomen,Thomas.personal]] 
 
-### #is_/same_as :: [Newcomen,Thomas.secret](/_secret/Science/Inventor/Newcomen,Thomas.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Newcomen,Thomas.secret|Newcomen,Thomas.secret]] 
 

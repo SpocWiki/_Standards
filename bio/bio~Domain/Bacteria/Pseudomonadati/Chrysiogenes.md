@@ -54,17 +54,17 @@ title: Chrysiogenes arsenatis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chrysiogenes](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes|Chrysiogenes]] 
 
-### #is_/same_as :: [Chrysiogenes.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.public|Chrysiogenes.public]] 
 
-### #is_/same_as :: [Chrysiogenes.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.internal|Chrysiogenes.internal]] 
 
-### #is_/same_as :: [Chrysiogenes.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.protect|Chrysiogenes.protect]] 
 
-### #is_/same_as :: [Chrysiogenes.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.private|Chrysiogenes.private]] 
 
-### #is_/same_as :: [Chrysiogenes.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.personal|Chrysiogenes.personal]] 
 
-### #is_/same_as :: [Chrysiogenes.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Chrysiogenes.secret|Chrysiogenes.secret]] 
 

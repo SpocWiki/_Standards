@@ -42,17 +42,17 @@ booru_tag: shirt_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shirt](/_Standards/Technology/Tool/Clothing/Shirt.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Shirt|Shirt]] 
 
-### #is_/same_as :: [Shirt.public](/_public/Technology/Tool/Clothing/Shirt.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Shirt.public|Shirt.public]] 
 
-### #is_/same_as :: [Shirt.internal](/_internal/Technology/Tool/Clothing/Shirt.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Shirt.internal|Shirt.internal]] 
 
-### #is_/same_as :: [Shirt.protect](/_protect/Technology/Tool/Clothing/Shirt.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Shirt.protect|Shirt.protect]] 
 
-### #is_/same_as :: [Shirt.private](/_private/Technology/Tool/Clothing/Shirt.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Shirt.private|Shirt.private]] 
 
-### #is_/same_as :: [Shirt.personal](/_personal/Technology/Tool/Clothing/Shirt.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Shirt.personal|Shirt.personal]] 
 
-### #is_/same_as :: [Shirt.secret](/_secret/Technology/Tool/Clothing/Shirt.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Shirt.secret|Shirt.secret]] 
 

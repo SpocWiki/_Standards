@@ -39,17 +39,17 @@ Commons_category: Pentagons
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pentagon](/_Standards/Mathematics/Geometry/Geometry-2D/Pentagon.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Pentagon|Pentagon]] 
 
-### #is_/same_as :: [Pentagon.public](/_public/Mathematics/Geometry/Geometry-2D/Pentagon.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Pentagon.public|Pentagon.public]] 
 
-### #is_/same_as :: [Pentagon.internal](/_internal/Mathematics/Geometry/Geometry-2D/Pentagon.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Pentagon.internal|Pentagon.internal]] 
 
-### #is_/same_as :: [Pentagon.protect](/_protect/Mathematics/Geometry/Geometry-2D/Pentagon.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Pentagon.protect|Pentagon.protect]] 
 
-### #is_/same_as :: [Pentagon.private](/_private/Mathematics/Geometry/Geometry-2D/Pentagon.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Pentagon.private|Pentagon.private]] 
 
-### #is_/same_as :: [Pentagon.personal](/_personal/Mathematics/Geometry/Geometry-2D/Pentagon.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Pentagon.personal|Pentagon.personal]] 
 
-### #is_/same_as :: [Pentagon.secret](/_secret/Mathematics/Geometry/Geometry-2D/Pentagon.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Pentagon.secret|Pentagon.secret]] 
 

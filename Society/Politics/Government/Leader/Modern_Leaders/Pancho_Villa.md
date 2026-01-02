@@ -104,17 +104,17 @@ Wolfram_Language_entity_code: Entity["Person", "PanchoVilla::m8byc"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pancho_Villa](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa|Pancho_Villa]] 
 
-### #is_/same_as :: [Pancho_Villa.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.public|Pancho_Villa.public]] 
 
-### #is_/same_as :: [Pancho_Villa.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.internal|Pancho_Villa.internal]] 
 
-### #is_/same_as :: [Pancho_Villa.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.protect|Pancho_Villa.protect]] 
 
-### #is_/same_as :: [Pancho_Villa.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.private|Pancho_Villa.private]] 
 
-### #is_/same_as :: [Pancho_Villa.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.personal|Pancho_Villa.personal]] 
 
-### #is_/same_as :: [Pancho_Villa.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Pancho_Villa.secret|Pancho_Villa.secret]] 
 

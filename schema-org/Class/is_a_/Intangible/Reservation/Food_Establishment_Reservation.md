@@ -43,17 +43,17 @@ Note: This type is for information about actual reservations, e.g. in confirmati
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Establishment_Reservation](/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation|Food_Establishment_Reservation]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.public](/_public/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.public|Food_Establishment_Reservation.public]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.internal](/_internal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.internal|Food_Establishment_Reservation.internal]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.protect](/_protect/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.protect|Food_Establishment_Reservation.protect]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.private](/_private/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.private|Food_Establishment_Reservation.private]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.personal](/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.personal|Food_Establishment_Reservation.personal]] 
 
-### #is_/same_as :: [Food_Establishment_Reservation.secret](/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Reservation/Food_Establishment_Reservation.secret|Food_Establishment_Reservation.secret]] 
 

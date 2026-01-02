@@ -100,17 +100,17 @@ IMDb_keyword: nuclear-weapon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Weapon](/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon|Nuclear_Weapon]] 
 
-### #is_/same_as :: [Nuclear_Weapon.public](/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.public|Nuclear_Weapon.public]] 
 
-### #is_/same_as :: [Nuclear_Weapon.internal](/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.internal|Nuclear_Weapon.internal]] 
 
-### #is_/same_as :: [Nuclear_Weapon.protect](/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.protect|Nuclear_Weapon.protect]] 
 
-### #is_/same_as :: [Nuclear_Weapon.private](/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.private|Nuclear_Weapon.private]] 
 
-### #is_/same_as :: [Nuclear_Weapon.personal](/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.personal|Nuclear_Weapon.personal]] 
 
-### #is_/same_as :: [Nuclear_Weapon.secret](/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Nuclear_Weapon.secret|Nuclear_Weapon.secret]] 
 

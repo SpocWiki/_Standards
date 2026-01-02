@@ -41,17 +41,17 @@ Library_of_Congress_Classification: JZ1308
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmopolitanism](/_Standards/Society/Ideology/Political_Ideology/Cosmopolitanism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Cosmopolitanism|Cosmopolitanism]] 
 
-### #is_/same_as :: [Cosmopolitanism.public](/_public/Society/Ideology/Political_Ideology/Cosmopolitanism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Cosmopolitanism.public|Cosmopolitanism.public]] 
 
-### #is_/same_as :: [Cosmopolitanism.internal](/_internal/Society/Ideology/Political_Ideology/Cosmopolitanism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Cosmopolitanism.internal|Cosmopolitanism.internal]] 
 
-### #is_/same_as :: [Cosmopolitanism.protect](/_protect/Society/Ideology/Political_Ideology/Cosmopolitanism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Cosmopolitanism.protect|Cosmopolitanism.protect]] 
 
-### #is_/same_as :: [Cosmopolitanism.private](/_private/Society/Ideology/Political_Ideology/Cosmopolitanism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Cosmopolitanism.private|Cosmopolitanism.private]] 
 
-### #is_/same_as :: [Cosmopolitanism.personal](/_personal/Society/Ideology/Political_Ideology/Cosmopolitanism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Cosmopolitanism.personal|Cosmopolitanism.personal]] 
 
-### #is_/same_as :: [Cosmopolitanism.secret](/_secret/Society/Ideology/Political_Ideology/Cosmopolitanism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Cosmopolitanism.secret|Cosmopolitanism.secret]] 
 

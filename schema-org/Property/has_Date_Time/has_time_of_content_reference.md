@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_content_reference](/_Standards/schema-org/Property/has_Date_Time/has_time_of_content_reference.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_content_reference|has_time_of_content_reference]] 
 
-### #is_/same_as :: [has_time_of_content_reference.public](/_public/schema-org/Property/has_Date_Time/has_time_of_content_reference.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_content_reference.public|has_time_of_content_reference.public]] 
 
-### #is_/same_as :: [has_time_of_content_reference.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_content_reference.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_content_reference.internal|has_time_of_content_reference.internal]] 
 
-### #is_/same_as :: [has_time_of_content_reference.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_content_reference.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_content_reference.protect|has_time_of_content_reference.protect]] 
 
-### #is_/same_as :: [has_time_of_content_reference.private](/_private/schema-org/Property/has_Date_Time/has_time_of_content_reference.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_content_reference.private|has_time_of_content_reference.private]] 
 
-### #is_/same_as :: [has_time_of_content_reference.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_content_reference.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_content_reference.personal|has_time_of_content_reference.personal]] 
 
-### #is_/same_as :: [has_time_of_content_reference.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_content_reference.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_content_reference.secret|has_time_of_content_reference.secret]] 
 

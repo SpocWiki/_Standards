@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confounder](/_Standards/Mathematics/Statistics/Correlation/Confounder.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Correlation/Confounder|Confounder]] 
 
-### #is_/same_as :: [Confounder.public](/_public/Mathematics/Statistics/Correlation/Confounder.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Correlation/Confounder.public|Confounder.public]] 
 
-### #is_/same_as :: [Confounder.internal](/_internal/Mathematics/Statistics/Correlation/Confounder.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Correlation/Confounder.internal|Confounder.internal]] 
 
-### #is_/same_as :: [Confounder.protect](/_protect/Mathematics/Statistics/Correlation/Confounder.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Correlation/Confounder.protect|Confounder.protect]] 
 
-### #is_/same_as :: [Confounder.private](/_private/Mathematics/Statistics/Correlation/Confounder.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Correlation/Confounder.private|Confounder.private]] 
 
-### #is_/same_as :: [Confounder.personal](/_personal/Mathematics/Statistics/Correlation/Confounder.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Correlation/Confounder.personal|Confounder.personal]] 
 
-### #is_/same_as :: [Confounder.secret](/_secret/Mathematics/Statistics/Correlation/Confounder.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Correlation/Confounder.secret|Confounder.secret]] 
 

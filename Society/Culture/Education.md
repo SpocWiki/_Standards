@@ -161,17 +161,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/education
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Education](/_Standards/Society/Culture/Education.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education|Education]] 
 
-### #is_/same_as :: [Education.public](/_public/Society/Culture/Education.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education.public|Education.public]] 
 
-### #is_/same_as :: [Education.internal](/_internal/Society/Culture/Education.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education.internal|Education.internal]] 
 
-### #is_/same_as :: [Education.protect](/_protect/Society/Culture/Education.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education.protect|Education.protect]] 
 
-### #is_/same_as :: [Education.private](/_private/Society/Culture/Education.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education.private|Education.private]] 
 
-### #is_/same_as :: [Education.personal](/_personal/Society/Culture/Education.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education.personal|Education.personal]] 
 
-### #is_/same_as :: [Education.secret](/_secret/Society/Culture/Education.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education.secret|Education.secret]] 
 

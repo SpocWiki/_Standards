@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_address_locality](/_Standards/schema-org/Property/has_location/has_location_address_locality.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_address_locality|has_location_address_locality]] 
 
-### #is_/same_as :: [has_location_address_locality.public](/_public/schema-org/Property/has_location/has_location_address_locality.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_address_locality.public|has_location_address_locality.public]] 
 
-### #is_/same_as :: [has_location_address_locality.internal](/_internal/schema-org/Property/has_location/has_location_address_locality.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_address_locality.internal|has_location_address_locality.internal]] 
 
-### #is_/same_as :: [has_location_address_locality.protect](/_protect/schema-org/Property/has_location/has_location_address_locality.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_address_locality.protect|has_location_address_locality.protect]] 
 
-### #is_/same_as :: [has_location_address_locality.private](/_private/schema-org/Property/has_location/has_location_address_locality.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_address_locality.private|has_location_address_locality.private]] 
 
-### #is_/same_as :: [has_location_address_locality.personal](/_personal/schema-org/Property/has_location/has_location_address_locality.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_address_locality.personal|has_location_address_locality.personal]] 
 
-### #is_/same_as :: [has_location_address_locality.secret](/_secret/schema-org/Property/has_location/has_location_address_locality.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_address_locality.secret|has_location_address_locality.secret]] 
 

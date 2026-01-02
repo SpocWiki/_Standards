@@ -19,17 +19,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fowler,Martin](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin|Fowler,Martin]] 
 
-### #is_/same_as :: [Fowler,Martin.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.public|Fowler,Martin.public]] 
 
-### #is_/same_as :: [Fowler,Martin.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.internal|Fowler,Martin.internal]] 
 
-### #is_/same_as :: [Fowler,Martin.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.protect|Fowler,Martin.protect]] 
 
-### #is_/same_as :: [Fowler,Martin.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.private|Fowler,Martin.private]] 
 
-### #is_/same_as :: [Fowler,Martin.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.personal|Fowler,Martin.personal]] 
 
-### #is_/same_as :: [Fowler,Martin.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/Fowler,Martin.secret|Fowler,Martin.secret]] 
 

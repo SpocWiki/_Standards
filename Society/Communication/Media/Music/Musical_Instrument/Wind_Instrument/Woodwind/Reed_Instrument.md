@@ -184,17 +184,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reed_Instrument](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument|Reed_Instrument]] 
 
-### #is_/same_as :: [Reed_Instrument.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.public|Reed_Instrument.public]] 
 
-### #is_/same_as :: [Reed_Instrument.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.internal|Reed_Instrument.internal]] 
 
-### #is_/same_as :: [Reed_Instrument.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.protect|Reed_Instrument.protect]] 
 
-### #is_/same_as :: [Reed_Instrument.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.private|Reed_Instrument.private]] 
 
-### #is_/same_as :: [Reed_Instrument.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.personal|Reed_Instrument.personal]] 
 
-### #is_/same_as :: [Reed_Instrument.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Wind_Instrument/Woodwind/Reed_Instrument.secret|Reed_Instrument.secret]] 
 

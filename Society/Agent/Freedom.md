@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Freedom](/_Standards/Society/Agent/Freedom.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Freedom|Freedom]] 
 
-### #is_/same_as :: [Freedom.public](/_public/Society/Agent/Freedom.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Freedom.public|Freedom.public]] 
 
-### #is_/same_as :: [Freedom.internal](/_internal/Society/Agent/Freedom.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Freedom.internal|Freedom.internal]] 
 
-### #is_/same_as :: [Freedom.protect](/_protect/Society/Agent/Freedom.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Freedom.protect|Freedom.protect]] 
 
-### #is_/same_as :: [Freedom.private](/_private/Society/Agent/Freedom.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Freedom.private|Freedom.private]] 
 
-### #is_/same_as :: [Freedom.personal](/_personal/Society/Agent/Freedom.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Freedom.personal|Freedom.personal]] 
 
-### #is_/same_as :: [Freedom.secret](/_secret/Society/Agent/Freedom.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Freedom.secret|Freedom.secret]] 
 

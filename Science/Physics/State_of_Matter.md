@@ -94,17 +94,17 @@ Wolfram_Language_entity_type: MatterPhase
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [State_of_Matter](/_Standards/Science/Physics/State_of_Matter.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter|State_of_Matter]] 
 
-### #is_/same_as :: [State_of_Matter.public](/_public/Science/Physics/State_of_Matter.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter.public|State_of_Matter.public]] 
 
-### #is_/same_as :: [State_of_Matter.internal](/_internal/Science/Physics/State_of_Matter.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter.internal|State_of_Matter.internal]] 
 
-### #is_/same_as :: [State_of_Matter.protect](/_protect/Science/Physics/State_of_Matter.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter.protect|State_of_Matter.protect]] 
 
-### #is_/same_as :: [State_of_Matter.private](/_private/Science/Physics/State_of_Matter.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter.private|State_of_Matter.private]] 
 
-### #is_/same_as :: [State_of_Matter.personal](/_personal/Science/Physics/State_of_Matter.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter.personal|State_of_Matter.personal]] 
 
-### #is_/same_as :: [State_of_Matter.secret](/_secret/Science/Physics/State_of_Matter.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter.secret|State_of_Matter.secret]] 
 

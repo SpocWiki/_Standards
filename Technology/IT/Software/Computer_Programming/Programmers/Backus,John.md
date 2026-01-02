@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Backus,John](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Backus,John|Backus,John]] 
 
-### #is_/same_as :: [Backus,John.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.public|Backus,John.public]] 
 
-### #is_/same_as :: [Backus,John.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.internal|Backus,John.internal]] 
 
-### #is_/same_as :: [Backus,John.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.protect|Backus,John.protect]] 
 
-### #is_/same_as :: [Backus,John.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.private|Backus,John.private]] 
 
-### #is_/same_as :: [Backus,John.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.personal|Backus,John.personal]] 
 
-### #is_/same_as :: [Backus,John.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/Backus,John.secret|Backus,John.secret]] 
 

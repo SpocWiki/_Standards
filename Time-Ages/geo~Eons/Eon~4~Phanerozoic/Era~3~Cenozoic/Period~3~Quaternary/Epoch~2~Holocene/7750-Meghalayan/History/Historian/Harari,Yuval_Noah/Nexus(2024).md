@@ -32,3 +32,22 @@ tags: mediaDB/book
 > [Wikipedia](https://en.wikipedia.org/wiki/Nexus:%20A%20Brief%20History%20of%20Information%20Networks%20from%20the%20Stone%20Age%20to%20AI) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024)|Nexus(2024)]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).public|Nexus(2024).public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).internal|Nexus(2024).internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).protect|Nexus(2024).protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).private|Nexus(2024).private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).personal|Nexus(2024).personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian/Harari,Yuval_Noah/Nexus(2024).secret|Nexus(2024).secret]] 
+

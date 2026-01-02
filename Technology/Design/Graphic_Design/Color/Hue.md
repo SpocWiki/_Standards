@@ -36,17 +36,17 @@ IEV_number: 845-22-067
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hue](/_Standards/Technology/Design/Graphic_Design/Color/Hue.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Hue|Hue]] 
 
-### #is_/same_as :: [Hue.public](/_public/Technology/Design/Graphic_Design/Color/Hue.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Hue.public|Hue.public]] 
 
-### #is_/same_as :: [Hue.internal](/_internal/Technology/Design/Graphic_Design/Color/Hue.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Hue.internal|Hue.internal]] 
 
-### #is_/same_as :: [Hue.protect](/_protect/Technology/Design/Graphic_Design/Color/Hue.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Hue.protect|Hue.protect]] 
 
-### #is_/same_as :: [Hue.private](/_private/Technology/Design/Graphic_Design/Color/Hue.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Hue.private|Hue.private]] 
 
-### #is_/same_as :: [Hue.personal](/_personal/Technology/Design/Graphic_Design/Color/Hue.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Hue.personal|Hue.personal]] 
 
-### #is_/same_as :: [Hue.secret](/_secret/Technology/Design/Graphic_Design/Color/Hue.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Hue.secret|Hue.secret]] 
 

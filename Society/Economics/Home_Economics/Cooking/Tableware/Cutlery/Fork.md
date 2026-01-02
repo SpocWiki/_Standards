@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fork](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork|Fork]] 
 
-### #is_/same_as :: [Fork.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.public|Fork.public]] 
 
-### #is_/same_as :: [Fork.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.internal|Fork.internal]] 
 
-### #is_/same_as :: [Fork.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.protect|Fork.protect]] 
 
-### #is_/same_as :: [Fork.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.private|Fork.private]] 
 
-### #is_/same_as :: [Fork.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.personal|Fork.personal]] 
 
-### #is_/same_as :: [Fork.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Fork.secret|Fork.secret]] 
 

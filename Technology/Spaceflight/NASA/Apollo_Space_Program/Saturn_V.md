@@ -79,17 +79,17 @@ Commons_category: Saturn V
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saturn_V](/_Standards/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V|Saturn_V]] 
 
-### #is_/same_as :: [Saturn_V.public](/_public/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.public|Saturn_V.public]] 
 
-### #is_/same_as :: [Saturn_V.internal](/_internal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.internal|Saturn_V.internal]] 
 
-### #is_/same_as :: [Saturn_V.protect](/_protect/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.protect|Saturn_V.protect]] 
 
-### #is_/same_as :: [Saturn_V.private](/_private/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.private|Saturn_V.private]] 
 
-### #is_/same_as :: [Saturn_V.personal](/_personal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.personal|Saturn_V.personal]] 
 
-### #is_/same_as :: [Saturn_V.secret](/_secret/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/NASA/Apollo_Space_Program/Saturn_V.secret|Saturn_V.secret]] 
 

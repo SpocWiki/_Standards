@@ -76,17 +76,17 @@ In addition to [[Disaster/Natural_Disaster|Natural_Disaster]] there are Disaster
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disaster](/_Standards/Society/Disaster.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster|Disaster]] 
 
-### #is_/same_as :: [Disaster.public](/_public/Society/Disaster.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster.public|Disaster.public]] 
 
-### #is_/same_as :: [Disaster.internal](/_internal/Society/Disaster.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster.internal|Disaster.internal]] 
 
-### #is_/same_as :: [Disaster.protect](/_protect/Society/Disaster.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster.protect|Disaster.protect]] 
 
-### #is_/same_as :: [Disaster.private](/_private/Society/Disaster.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster.private|Disaster.private]] 
 
-### #is_/same_as :: [Disaster.personal](/_personal/Society/Disaster.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster.personal|Disaster.personal]] 
 
-### #is_/same_as :: [Disaster.secret](/_secret/Society/Disaster.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster.secret|Disaster.secret]] 
 

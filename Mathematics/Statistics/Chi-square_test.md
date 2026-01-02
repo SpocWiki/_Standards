@@ -50,17 +50,17 @@ name_in_kana: かいにじょうけんてい
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chi-square_test](/_Standards/Mathematics/Statistics/Chi-square_test.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Chi-square_test|Chi-square_test]] 
 
-### #is_/same_as :: [Chi-square_test.public](/_public/Mathematics/Statistics/Chi-square_test.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Chi-square_test.public|Chi-square_test.public]] 
 
-### #is_/same_as :: [Chi-square_test.internal](/_internal/Mathematics/Statistics/Chi-square_test.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Chi-square_test.internal|Chi-square_test.internal]] 
 
-### #is_/same_as :: [Chi-square_test.protect](/_protect/Mathematics/Statistics/Chi-square_test.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Chi-square_test.protect|Chi-square_test.protect]] 
 
-### #is_/same_as :: [Chi-square_test.private](/_private/Mathematics/Statistics/Chi-square_test.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Chi-square_test.private|Chi-square_test.private]] 
 
-### #is_/same_as :: [Chi-square_test.personal](/_personal/Mathematics/Statistics/Chi-square_test.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Chi-square_test.personal|Chi-square_test.personal]] 
 
-### #is_/same_as :: [Chi-square_test.secret](/_secret/Mathematics/Statistics/Chi-square_test.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Chi-square_test.secret|Chi-square_test.secret]] 
 

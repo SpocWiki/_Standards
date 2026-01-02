@@ -64,17 +64,17 @@ Wolfram_Language_entity_code: Entity["Concept", "FoodChain::9f855"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Food_Chain](/_Standards/bio/Ecology/Ecosystem/Food_Chain.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Ecosystem/Food_Chain|Food_Chain]] 
 
-### #is_/same_as :: [Food_Chain.public](/_public/bio/Ecology/Ecosystem/Food_Chain.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Ecosystem/Food_Chain.public|Food_Chain.public]] 
 
-### #is_/same_as :: [Food_Chain.internal](/_internal/bio/Ecology/Ecosystem/Food_Chain.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Ecosystem/Food_Chain.internal|Food_Chain.internal]] 
 
-### #is_/same_as :: [Food_Chain.protect](/_protect/bio/Ecology/Ecosystem/Food_Chain.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Ecosystem/Food_Chain.protect|Food_Chain.protect]] 
 
-### #is_/same_as :: [Food_Chain.private](/_private/bio/Ecology/Ecosystem/Food_Chain.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Ecosystem/Food_Chain.private|Food_Chain.private]] 
 
-### #is_/same_as :: [Food_Chain.personal](/_personal/bio/Ecology/Ecosystem/Food_Chain.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Ecosystem/Food_Chain.personal|Food_Chain.personal]] 
 
-### #is_/same_as :: [Food_Chain.secret](/_secret/bio/Ecology/Ecosystem/Food_Chain.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Ecosystem/Food_Chain.secret|Food_Chain.secret]] 
 

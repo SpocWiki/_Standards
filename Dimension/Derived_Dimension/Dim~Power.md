@@ -28,17 +28,17 @@ The word Power is derived from the french 'pouvoir' (Vermögen).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Power](/_Standards/Dimension/Derived_Dimension/Dim~Power.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Dim~Power|Dim~Power]] 
 
-### #is_/same_as :: [Dim~Power.public](/_public/Dimension/Derived_Dimension/Dim~Power.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Derived_Dimension/Dim~Power.public|Dim~Power.public]] 
 
-### #is_/same_as :: [Dim~Power.internal](/_internal/Dimension/Derived_Dimension/Dim~Power.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Derived_Dimension/Dim~Power.internal|Dim~Power.internal]] 
 
-### #is_/same_as :: [Dim~Power.protect](/_protect/Dimension/Derived_Dimension/Dim~Power.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Derived_Dimension/Dim~Power.protect|Dim~Power.protect]] 
 
-### #is_/same_as :: [Dim~Power.private](/_private/Dimension/Derived_Dimension/Dim~Power.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Derived_Dimension/Dim~Power.private|Dim~Power.private]] 
 
-### #is_/same_as :: [Dim~Power.personal](/_personal/Dimension/Derived_Dimension/Dim~Power.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Derived_Dimension/Dim~Power.personal|Dim~Power.personal]] 
 
-### #is_/same_as :: [Dim~Power.secret](/_secret/Dimension/Derived_Dimension/Dim~Power.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Derived_Dimension/Dim~Power.secret|Dim~Power.secret]] 
 

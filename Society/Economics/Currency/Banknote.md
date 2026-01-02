@@ -95,17 +95,17 @@ Commons_category: Banknotes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banknote](/_Standards/Society/Economics/Currency/Banknote.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Currency/Banknote|Banknote]] 
 
-### #is_/same_as :: [Banknote.public](/_public/Society/Economics/Currency/Banknote.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Currency/Banknote.public|Banknote.public]] 
 
-### #is_/same_as :: [Banknote.internal](/_internal/Society/Economics/Currency/Banknote.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Currency/Banknote.internal|Banknote.internal]] 
 
-### #is_/same_as :: [Banknote.protect](/_protect/Society/Economics/Currency/Banknote.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Currency/Banknote.protect|Banknote.protect]] 
 
-### #is_/same_as :: [Banknote.private](/_private/Society/Economics/Currency/Banknote.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Currency/Banknote.private|Banknote.private]] 
 
-### #is_/same_as :: [Banknote.personal](/_personal/Society/Economics/Currency/Banknote.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Currency/Banknote.personal|Banknote.personal]] 
 
-### #is_/same_as :: [Banknote.secret](/_secret/Society/Economics/Currency/Banknote.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Currency/Banknote.secret|Banknote.secret]] 
 

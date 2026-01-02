@@ -42,17 +42,17 @@ Dietetics and nutrition as a medical specialty.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diet_Nutrition](/_Standards/bio/Medicine/Medical_Business/Diet_Nutrition.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Diet_Nutrition|Diet_Nutrition]] 
 
-### #is_/same_as :: [Diet_Nutrition.public](/_public/bio/Medicine/Medical_Business/Diet_Nutrition.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Diet_Nutrition.public|Diet_Nutrition.public]] 
 
-### #is_/same_as :: [Diet_Nutrition.internal](/_internal/bio/Medicine/Medical_Business/Diet_Nutrition.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Diet_Nutrition.internal|Diet_Nutrition.internal]] 
 
-### #is_/same_as :: [Diet_Nutrition.protect](/_protect/bio/Medicine/Medical_Business/Diet_Nutrition.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Diet_Nutrition.protect|Diet_Nutrition.protect]] 
 
-### #is_/same_as :: [Diet_Nutrition.private](/_private/bio/Medicine/Medical_Business/Diet_Nutrition.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Diet_Nutrition.private|Diet_Nutrition.private]] 
 
-### #is_/same_as :: [Diet_Nutrition.personal](/_personal/bio/Medicine/Medical_Business/Diet_Nutrition.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Diet_Nutrition.personal|Diet_Nutrition.personal]] 
 
-### #is_/same_as :: [Diet_Nutrition.secret](/_secret/bio/Medicine/Medical_Business/Diet_Nutrition.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Diet_Nutrition.secret|Diet_Nutrition.secret]] 
 

@@ -49,17 +49,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Elemental(2023)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023)|Elemental(2023)]] 
 
-### #is_/same_as :: [Elemental(2023).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).public|Elemental(2023).public]] 
 
-### #is_/same_as :: [Elemental(2023).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).internal|Elemental(2023).internal]] 
 
-### #is_/same_as :: [Elemental(2023).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).protect|Elemental(2023).protect]] 
 
-### #is_/same_as :: [Elemental(2023).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).private|Elemental(2023).private]] 
 
-### #is_/same_as :: [Elemental(2023).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).personal|Elemental(2023).personal]] 
 
-### #is_/same_as :: [Elemental(2023).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/Disney+/Pixar/Elemental(2023).secret|Elemental(2023).secret]] 
 

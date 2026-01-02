@@ -75,17 +75,17 @@ short_name: RAM
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RAM(Random Access Memory)](/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/RAM(Random Access Memory)|RAM(Random Access Memory)]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).public](/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/RAM(Random Access Memory).public|RAM(Random Access Memory).public]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).internal](/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).internal|RAM(Random Access Memory).internal]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).protect](/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/RAM(Random Access Memory).protect|RAM(Random Access Memory).protect]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).private](/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/RAM(Random Access Memory).private|RAM(Random Access Memory).private]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).personal](/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/RAM(Random Access Memory).personal|RAM(Random Access Memory).personal]] 
 
-### #is_/same_as :: [RAM(Random Access Memory).secret](/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/RAM(Random Access Memory).secret|RAM(Random Access Memory).secret]] 
 

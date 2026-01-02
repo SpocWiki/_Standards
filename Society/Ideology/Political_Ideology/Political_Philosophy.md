@@ -76,17 +76,17 @@ subreddit: PoliticalPhilosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Political_Philosophy](/_Standards/Society/Politics/Political_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Political_Philosophy|Political_Philosophy]] 
 
-### #is_/same_as :: [Political_Philosophy.public](/_public/Society/Politics/Political_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Political_Philosophy.public|Political_Philosophy.public]] 
 
-### #is_/same_as :: [Political_Philosophy.internal](/_internal/Society/Politics/Political_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Political_Philosophy.internal|Political_Philosophy.internal]] 
 
-### #is_/same_as :: [Political_Philosophy.protect](/_protect/Society/Politics/Political_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Political_Philosophy.protect|Political_Philosophy.protect]] 
 
-### #is_/same_as :: [Political_Philosophy.private](/_private/Society/Politics/Political_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Political_Philosophy.private|Political_Philosophy.private]] 
 
-### #is_/same_as :: [Political_Philosophy.personal](/_personal/Society/Politics/Political_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Political_Philosophy.personal|Political_Philosophy.personal]] 
 
-### #is_/same_as :: [Political_Philosophy.secret](/_secret/Society/Politics/Political_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Political_Philosophy.secret|Political_Philosophy.secret]] 
 

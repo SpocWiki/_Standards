@@ -60,17 +60,17 @@ Commons_category: Pyroxene
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyroxene](/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene|Pyroxene]] 
 
-### #is_/same_as :: [Pyroxene.public](/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.public|Pyroxene.public]] 
 
-### #is_/same_as :: [Pyroxene.internal](/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.internal|Pyroxene.internal]] 
 
-### #is_/same_as :: [Pyroxene.protect](/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.protect|Pyroxene.protect]] 
 
-### #is_/same_as :: [Pyroxene.private](/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.private|Pyroxene.private]] 
 
-### #is_/same_as :: [Pyroxene.personal](/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.personal|Pyroxene.personal]] 
 
-### #is_/same_as :: [Pyroxene.secret](/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Earth Mantle/Pyroxene.secret|Pyroxene.secret]] 
 

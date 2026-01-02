@@ -164,17 +164,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Hemingway%20T
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hemingway,Ernest](/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest|Hemingway,Ernest]] 
 
-### #is_/same_as :: [Hemingway,Ernest.public](/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.public|Hemingway,Ernest.public]] 
 
-### #is_/same_as :: [Hemingway,Ernest.internal](/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.internal|Hemingway,Ernest.internal]] 
 
-### #is_/same_as :: [Hemingway,Ernest.protect](/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.protect|Hemingway,Ernest.protect]] 
 
-### #is_/same_as :: [Hemingway,Ernest.private](/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.private|Hemingway,Ernest.private]] 
 
-### #is_/same_as :: [Hemingway,Ernest.personal](/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.personal|Hemingway,Ernest.personal]] 
 
-### #is_/same_as :: [Hemingway,Ernest.secret](/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist/Hemingway,Ernest.secret|Hemingway,Ernest.secret]] 
 

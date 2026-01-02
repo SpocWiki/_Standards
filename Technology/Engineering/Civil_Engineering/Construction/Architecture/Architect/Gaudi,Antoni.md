@@ -141,17 +141,17 @@ Commons_gallery: Antoni Gaudí i Cornet
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaudi,Antoni](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni|Gaudi,Antoni]] 
 
-### #is_/same_as :: [Gaudi,Antoni.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.public|Gaudi,Antoni.public]] 
 
-### #is_/same_as :: [Gaudi,Antoni.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.internal|Gaudi,Antoni.internal]] 
 
-### #is_/same_as :: [Gaudi,Antoni.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.protect|Gaudi,Antoni.protect]] 
 
-### #is_/same_as :: [Gaudi,Antoni.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.private|Gaudi,Antoni.private]] 
 
-### #is_/same_as :: [Gaudi,Antoni.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.personal|Gaudi,Antoni.personal]] 
 
-### #is_/same_as :: [Gaudi,Antoni.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Gaudi,Antoni.secret|Gaudi,Antoni.secret]] 
 

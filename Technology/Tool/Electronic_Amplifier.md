@@ -45,17 +45,17 @@ Commons_category: Electronic amplifiers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electronic_Amplifier](/_Standards/Technology/Tool/Electronic_Amplifier.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Electronic_Amplifier|Electronic_Amplifier]] 
 
-### #is_/same_as :: [Electronic_Amplifier.public](/_public/Technology/Tool/Electronic_Amplifier.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Electronic_Amplifier.public|Electronic_Amplifier.public]] 
 
-### #is_/same_as :: [Electronic_Amplifier.internal](/_internal/Technology/Tool/Electronic_Amplifier.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Electronic_Amplifier.internal|Electronic_Amplifier.internal]] 
 
-### #is_/same_as :: [Electronic_Amplifier.protect](/_protect/Technology/Tool/Electronic_Amplifier.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Electronic_Amplifier.protect|Electronic_Amplifier.protect]] 
 
-### #is_/same_as :: [Electronic_Amplifier.private](/_private/Technology/Tool/Electronic_Amplifier.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Electronic_Amplifier.private|Electronic_Amplifier.private]] 
 
-### #is_/same_as :: [Electronic_Amplifier.personal](/_personal/Technology/Tool/Electronic_Amplifier.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Electronic_Amplifier.personal|Electronic_Amplifier.personal]] 
 
-### #is_/same_as :: [Electronic_Amplifier.secret](/_secret/Technology/Tool/Electronic_Amplifier.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Electronic_Amplifier.secret|Electronic_Amplifier.secret]] 
 

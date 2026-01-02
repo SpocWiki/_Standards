@@ -96,17 +96,17 @@ Both the S and the N Atoms have sp³ hybrid Orbitals to share the Hydrogen Atoms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ammonium_Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate|Ammonium_Sulfate]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.public|Ammonium_Sulfate.public]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.internal|Ammonium_Sulfate.internal]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.protect|Ammonium_Sulfate.protect]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.private|Ammonium_Sulfate.private]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.personal|Ammonium_Sulfate.personal]] 
 
-### #is_/same_as :: [Ammonium_Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.secret|Ammonium_Sulfate.secret]] 
 

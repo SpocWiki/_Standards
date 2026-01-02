@@ -65,17 +65,17 @@ OpenStreetMap_tag_or_key:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palace](/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Government_Building/Palace|Palace]] 
 
-### #is_/same_as :: [Palace.public](/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.public|Palace.public]] 
 
-### #is_/same_as :: [Palace.internal](/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.internal|Palace.internal]] 
 
-### #is_/same_as :: [Palace.protect](/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.protect|Palace.protect]] 
 
-### #is_/same_as :: [Palace.private](/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.private|Palace.private]] 
 
-### #is_/same_as :: [Palace.personal](/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.personal|Palace.personal]] 
 
-### #is_/same_as :: [Palace.secret](/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Government_Building/Palace.secret|Palace.secret]] 
 

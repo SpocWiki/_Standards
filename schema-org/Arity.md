@@ -170,17 +170,17 @@ allowing to apply well-known Operators on the Projection.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arity](/_Standards/schema-org/Arity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Arity|Arity]] 
 
-### #is_/same_as :: [Arity.public](/_public/schema-org/Arity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Arity.public|Arity.public]] 
 
-### #is_/same_as :: [Arity.internal](/_internal/schema-org/Arity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Arity.internal|Arity.internal]] 
 
-### #is_/same_as :: [Arity.protect](/_protect/schema-org/Arity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Arity.protect|Arity.protect]] 
 
-### #is_/same_as :: [Arity.private](/_private/schema-org/Arity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Arity.private|Arity.private]] 
 
-### #is_/same_as :: [Arity.personal](/_personal/schema-org/Arity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Arity.personal|Arity.personal]] 
 
-### #is_/same_as :: [Arity.secret](/_secret/schema-org/Arity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Arity.secret|Arity.secret]] 
 

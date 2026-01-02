@@ -42,17 +42,17 @@ Indicates that the item is available for ordering and delivery before general av
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pre_Sale](/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_Availability/Pre_Sale|Pre_Sale]] 
 
-### #is_/same_as :: [Pre_Sale.public](/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_Availability/Pre_Sale.public|Pre_Sale.public]] 
 
-### #is_/same_as :: [Pre_Sale.internal](/_internal/schema-org/Enumeration/Item_Availability/Pre_Sale.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_Availability/Pre_Sale.internal|Pre_Sale.internal]] 
 
-### #is_/same_as :: [Pre_Sale.protect](/_protect/schema-org/Enumeration/Item_Availability/Pre_Sale.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_Availability/Pre_Sale.protect|Pre_Sale.protect]] 
 
-### #is_/same_as :: [Pre_Sale.private](/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_Availability/Pre_Sale.private|Pre_Sale.private]] 
 
-### #is_/same_as :: [Pre_Sale.personal](/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_Availability/Pre_Sale.personal|Pre_Sale.personal]] 
 
-### #is_/same_as :: [Pre_Sale.secret](/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_Availability/Pre_Sale.secret|Pre_Sale.secret]] 
 

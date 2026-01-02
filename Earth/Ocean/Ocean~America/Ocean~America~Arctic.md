@@ -34,17 +34,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean~America~Arctic](/_Standards/Earth/Ocean/Ocean~America/Ocean~America~Arctic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~America/Ocean~America~Arctic|Ocean~America~Arctic]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.public](/_public/Earth/Ocean/Ocean~America/Ocean~America~Arctic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~America/Ocean~America~Arctic.public|Ocean~America~Arctic.public]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.internal](/_internal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.internal|Ocean~America~Arctic.internal]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.protect](/_protect/Earth/Ocean/Ocean~America/Ocean~America~Arctic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~America/Ocean~America~Arctic.protect|Ocean~America~Arctic.protect]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.private](/_private/Earth/Ocean/Ocean~America/Ocean~America~Arctic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~America/Ocean~America~Arctic.private|Ocean~America~Arctic.private]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.personal](/_personal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~America/Ocean~America~Arctic.personal|Ocean~America~Arctic.personal]] 
 
-### #is_/same_as :: [Ocean~America~Arctic.secret](/_secret/Earth/Ocean/Ocean~America/Ocean~America~Arctic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~America/Ocean~America~Arctic.secret|Ocean~America~Arctic.secret]] 
 

@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_material_extent](/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_material_extent|has_value_for_material_extent]] 
 
-### #is_/same_as :: [has_value_for_material_extent.public](/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_material_extent.public|has_value_for_material_extent.public]] 
 
-### #is_/same_as :: [has_value_for_material_extent.internal](/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_material_extent.internal|has_value_for_material_extent.internal]] 
 
-### #is_/same_as :: [has_value_for_material_extent.protect](/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_material_extent.protect|has_value_for_material_extent.protect]] 
 
-### #is_/same_as :: [has_value_for_material_extent.private](/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_material_extent.private|has_value_for_material_extent.private]] 
 
-### #is_/same_as :: [has_value_for_material_extent.personal](/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_material_extent.personal|has_value_for_material_extent.personal]] 
 
-### #is_/same_as :: [has_value_for_material_extent.secret](/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_material_extent.secret|has_value_for_material_extent.secret]] 
 

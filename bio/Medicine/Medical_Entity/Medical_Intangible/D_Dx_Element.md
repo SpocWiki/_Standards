@@ -41,17 +41,17 @@ An alternative, closely-related condition typically considered later in the diff
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [D_Dx_Element](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element|D_Dx_Element]] 
 
-### #is_/same_as :: [D_Dx_Element.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.public|D_Dx_Element.public]] 
 
-### #is_/same_as :: [D_Dx_Element.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.internal|D_Dx_Element.internal]] 
 
-### #is_/same_as :: [D_Dx_Element.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.protect|D_Dx_Element.protect]] 
 
-### #is_/same_as :: [D_Dx_Element.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.private|D_Dx_Element.private]] 
 
-### #is_/same_as :: [D_Dx_Element.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.personal|D_Dx_Element.personal]] 
 
-### #is_/same_as :: [D_Dx_Element.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/D_Dx_Element.secret|D_Dx_Element.secret]] 
 

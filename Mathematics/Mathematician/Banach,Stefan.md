@@ -159,17 +159,17 @@ date_of_death: 1945-08-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Banach,Stefan](/_Standards/Mathematics/Mathematician/Banach,Stefan.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Banach,Stefan|Banach,Stefan]] 
 
-### #is_/same_as :: [Banach,Stefan.public](/_public/Mathematics/Mathematician/Banach,Stefan.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Banach,Stefan.public|Banach,Stefan.public]] 
 
-### #is_/same_as :: [Banach,Stefan.internal](/_internal/Mathematics/Mathematician/Banach,Stefan.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Banach,Stefan.internal|Banach,Stefan.internal]] 
 
-### #is_/same_as :: [Banach,Stefan.protect](/_protect/Mathematics/Mathematician/Banach,Stefan.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Banach,Stefan.protect|Banach,Stefan.protect]] 
 
-### #is_/same_as :: [Banach,Stefan.private](/_private/Mathematics/Mathematician/Banach,Stefan.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Banach,Stefan.private|Banach,Stefan.private]] 
 
-### #is_/same_as :: [Banach,Stefan.personal](/_personal/Mathematics/Mathematician/Banach,Stefan.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Banach,Stefan.personal|Banach,Stefan.personal]] 
 
-### #is_/same_as :: [Banach,Stefan.secret](/_secret/Mathematics/Mathematician/Banach,Stefan.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Banach,Stefan.secret|Banach,Stefan.secret]] 
 

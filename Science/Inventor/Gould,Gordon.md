@@ -62,17 +62,17 @@ date_of_birth: 1920-07-17T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gould,Gordon](/_Standards/Science/Inventor/Gould,Gordon.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Gould,Gordon|Gould,Gordon]] 
 
-### #is_/same_as :: [Gould,Gordon.public](/_public/Science/Inventor/Gould,Gordon.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Gould,Gordon.public|Gould,Gordon.public]] 
 
-### #is_/same_as :: [Gould,Gordon.internal](/_internal/Science/Inventor/Gould,Gordon.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Gould,Gordon.internal|Gould,Gordon.internal]] 
 
-### #is_/same_as :: [Gould,Gordon.protect](/_protect/Science/Inventor/Gould,Gordon.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Gould,Gordon.protect|Gould,Gordon.protect]] 
 
-### #is_/same_as :: [Gould,Gordon.private](/_private/Science/Inventor/Gould,Gordon.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Gould,Gordon.private|Gould,Gordon.private]] 
 
-### #is_/same_as :: [Gould,Gordon.personal](/_personal/Science/Inventor/Gould,Gordon.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Gould,Gordon.personal|Gould,Gordon.personal]] 
 
-### #is_/same_as :: [Gould,Gordon.secret](/_secret/Science/Inventor/Gould,Gordon.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Gould,Gordon.secret|Gould,Gordon.secret]] 
 

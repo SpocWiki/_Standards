@@ -113,17 +113,17 @@ image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Wollstonecraf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Godwin,William](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William|Godwin,William]] 
 
-### #is_/same_as :: [Godwin,William.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.public|Godwin,William.public]] 
 
-### #is_/same_as :: [Godwin,William.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.internal|Godwin,William.internal]] 
 
-### #is_/same_as :: [Godwin,William.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.protect|Godwin,William.protect]] 
 
-### #is_/same_as :: [Godwin,William.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.private|Godwin,William.private]] 
 
-### #is_/same_as :: [Godwin,William.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.personal|Godwin,William.personal]] 
 
-### #is_/same_as :: [Godwin,William.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Godwin,William.secret|Godwin,William.secret]] 
 

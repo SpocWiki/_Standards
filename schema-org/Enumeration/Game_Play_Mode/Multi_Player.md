@@ -42,17 +42,17 @@ Play mode: MultiPlayer. Requiring or allowing multiple human players to play sim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multi_Player](/_Standards/schema-org/Enumeration/Game_Play_Mode/Multi_Player.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Game_Play_Mode/Multi_Player|Multi_Player]] 
 
-### #is_/same_as :: [Multi_Player.public](/_public/schema-org/Enumeration/Game_Play_Mode/Multi_Player.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Game_Play_Mode/Multi_Player.public|Multi_Player.public]] 
 
-### #is_/same_as :: [Multi_Player.internal](/_internal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.internal|Multi_Player.internal]] 
 
-### #is_/same_as :: [Multi_Player.protect](/_protect/schema-org/Enumeration/Game_Play_Mode/Multi_Player.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Game_Play_Mode/Multi_Player.protect|Multi_Player.protect]] 
 
-### #is_/same_as :: [Multi_Player.private](/_private/schema-org/Enumeration/Game_Play_Mode/Multi_Player.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Game_Play_Mode/Multi_Player.private|Multi_Player.private]] 
 
-### #is_/same_as :: [Multi_Player.personal](/_personal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Game_Play_Mode/Multi_Player.personal|Multi_Player.personal]] 
 
-### #is_/same_as :: [Multi_Player.secret](/_secret/schema-org/Enumeration/Game_Play_Mode/Multi_Player.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Game_Play_Mode/Multi_Player.secret|Multi_Player.secret]] 
 

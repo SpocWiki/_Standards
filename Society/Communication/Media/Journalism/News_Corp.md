@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [News_Corp](/_Standards/Society/Communication/Media/Journalism/News_Corp.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/News_Corp|News_Corp]] 
 
-### #is_/same_as :: [News_Corp.public](/_public/Society/Communication/Media/Journalism/News_Corp.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/News_Corp.public|News_Corp.public]] 
 
-### #is_/same_as :: [News_Corp.internal](/_internal/Society/Communication/Media/Journalism/News_Corp.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/News_Corp.internal|News_Corp.internal]] 
 
-### #is_/same_as :: [News_Corp.protect](/_protect/Society/Communication/Media/Journalism/News_Corp.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/News_Corp.protect|News_Corp.protect]] 
 
-### #is_/same_as :: [News_Corp.private](/_private/Society/Communication/Media/Journalism/News_Corp.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/News_Corp.private|News_Corp.private]] 
 
-### #is_/same_as :: [News_Corp.personal](/_personal/Society/Communication/Media/Journalism/News_Corp.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/News_Corp.personal|News_Corp.personal]] 
 
-### #is_/same_as :: [News_Corp.secret](/_secret/Society/Communication/Media/Journalism/News_Corp.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/News_Corp.secret|News_Corp.secret]] 
 

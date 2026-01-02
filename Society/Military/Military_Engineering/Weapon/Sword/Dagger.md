@@ -59,17 +59,17 @@ Unicode_character: 🗡
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dagger](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Dagger.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Dagger|Dagger]] 
 
-### #is_/same_as :: [Dagger.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Dagger.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword/Dagger.public|Dagger.public]] 
 
-### #is_/same_as :: [Dagger.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Dagger.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword/Dagger.internal|Dagger.internal]] 
 
-### #is_/same_as :: [Dagger.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Dagger.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword/Dagger.protect|Dagger.protect]] 
 
-### #is_/same_as :: [Dagger.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Dagger.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword/Dagger.private|Dagger.private]] 
 
-### #is_/same_as :: [Dagger.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Dagger.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword/Dagger.personal|Dagger.personal]] 
 
-### #is_/same_as :: [Dagger.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Dagger.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword/Dagger.secret|Dagger.secret]] 
 

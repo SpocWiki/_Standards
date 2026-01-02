@@ -46,17 +46,17 @@ Krugosvet_article: sport/PRIZHKI_V_VODU.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diving](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving|Diving]] 
 
-### #is_/same_as :: [Diving.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.public|Diving.public]] 
 
-### #is_/same_as :: [Diving.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.internal|Diving.internal]] 
 
-### #is_/same_as :: [Diving.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.protect|Diving.protect]] 
 
-### #is_/same_as :: [Diving.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.private|Diving.private]] 
 
-### #is_/same_as :: [Diving.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.personal|Diving.personal]] 
 
-### #is_/same_as :: [Diving.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Diving.secret|Diving.secret]] 
 

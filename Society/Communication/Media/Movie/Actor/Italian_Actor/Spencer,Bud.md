@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spencer,Bud](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud|Spencer,Bud]] 
 
-### #is_/same_as :: [Spencer,Bud.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.public|Spencer,Bud.public]] 
 
-### #is_/same_as :: [Spencer,Bud.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.internal|Spencer,Bud.internal]] 
 
-### #is_/same_as :: [Spencer,Bud.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.protect|Spencer,Bud.protect]] 
 
-### #is_/same_as :: [Spencer,Bud.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.private|Spencer,Bud.private]] 
 
-### #is_/same_as :: [Spencer,Bud.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.personal|Spencer,Bud.personal]] 
 
-### #is_/same_as :: [Spencer,Bud.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Spencer,Bud.secret|Spencer,Bud.secret]] 
 

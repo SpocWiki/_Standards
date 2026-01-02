@@ -234,17 +234,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beethoven,Ludwig_van](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van|Beethoven,Ludwig_van]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.public|Beethoven,Ludwig_van.public]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.internal|Beethoven,Ludwig_van.internal]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.protect|Beethoven,Ludwig_van.protect]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.private|Beethoven,Ludwig_van.private]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.personal|Beethoven,Ludwig_van.personal]] 
 
-### #is_/same_as :: [Beethoven,Ludwig_van.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Beethoven,Ludwig_van.secret|Beethoven,Ludwig_van.secret]] 
 

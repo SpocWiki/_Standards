@@ -10,17 +10,17 @@ Performers often adapt their [appearance](https://en.wikipedia.org/wiki/Physical
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performer](/_Standards/Society/Communication/Media/Performing_Arts/Performer.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Performer|Performer]] 
 
-### #is_/same_as :: [Performer.public](/_public/Society/Communication/Media/Performing_Arts/Performer.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Performer.public|Performer.public]] 
 
-### #is_/same_as :: [Performer.internal](/_internal/Society/Communication/Media/Performing_Arts/Performer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Performer.internal|Performer.internal]] 
 
-### #is_/same_as :: [Performer.protect](/_protect/Society/Communication/Media/Performing_Arts/Performer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Performer.protect|Performer.protect]] 
 
-### #is_/same_as :: [Performer.private](/_private/Society/Communication/Media/Performing_Arts/Performer.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Performer.private|Performer.private]] 
 
-### #is_/same_as :: [Performer.personal](/_personal/Society/Communication/Media/Performing_Arts/Performer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Performer.personal|Performer.personal]] 
 
-### #is_/same_as :: [Performer.secret](/_secret/Society/Communication/Media/Performing_Arts/Performer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Performer.secret|Performer.secret]] 
 

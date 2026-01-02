@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_isic_v4](/_Standards/schema-org/Property/Texts/has_isic_v4.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_isic_v4|has_isic_v4]] 
 
-### #is_/same_as :: [has_isic_v4.public](/_public/schema-org/Property/Texts/has_isic_v4.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_isic_v4.public|has_isic_v4.public]] 
 
-### #is_/same_as :: [has_isic_v4.internal](/_internal/schema-org/Property/Texts/has_isic_v4.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_isic_v4.internal|has_isic_v4.internal]] 
 
-### #is_/same_as :: [has_isic_v4.protect](/_protect/schema-org/Property/Texts/has_isic_v4.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_isic_v4.protect|has_isic_v4.protect]] 
 
-### #is_/same_as :: [has_isic_v4.private](/_private/schema-org/Property/Texts/has_isic_v4.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_isic_v4.private|has_isic_v4.private]] 
 
-### #is_/same_as :: [has_isic_v4.personal](/_personal/schema-org/Property/Texts/has_isic_v4.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_isic_v4.personal|has_isic_v4.personal]] 
 
-### #is_/same_as :: [has_isic_v4.secret](/_secret/schema-org/Property/Texts/has_isic_v4.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_isic_v4.secret|has_isic_v4.secret]] 
 

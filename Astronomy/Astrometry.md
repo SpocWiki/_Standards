@@ -30,17 +30,17 @@ Commons_category: Astrometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astrometry](/_Standards/Astronomy/Astrometry.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry|Astrometry]] 
 
-### #is_/same_as :: [Astrometry.public](/_public/Astronomy/Astrometry.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry.public|Astrometry.public]] 
 
-### #is_/same_as :: [Astrometry.internal](/_internal/Astronomy/Astrometry.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry.internal|Astrometry.internal]] 
 
-### #is_/same_as :: [Astrometry.protect](/_protect/Astronomy/Astrometry.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry.protect|Astrometry.protect]] 
 
-### #is_/same_as :: [Astrometry.private](/_private/Astronomy/Astrometry.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry.private|Astrometry.private]] 
 
-### #is_/same_as :: [Astrometry.personal](/_personal/Astronomy/Astrometry.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry.personal|Astrometry.personal]] 
 
-### #is_/same_as :: [Astrometry.secret](/_secret/Astronomy/Astrometry.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry.secret|Astrometry.secret]] 
 

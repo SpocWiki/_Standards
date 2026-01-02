@@ -178,17 +178,17 @@ name_in_native_language: Ἄρης
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ares](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares|Ares]] 
 
-### #is_/same_as :: [Ares.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.public|Ares.public]] 
 
-### #is_/same_as :: [Ares.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.internal|Ares.internal]] 
 
-### #is_/same_as :: [Ares.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.protect|Ares.protect]] 
 
-### #is_/same_as :: [Ares.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.private|Ares.private]] 
 
-### #is_/same_as :: [Ares.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.personal|Ares.personal]] 
 
-### #is_/same_as :: [Ares.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Ares.secret|Ares.secret]] 
 

@@ -63,17 +63,17 @@ Baidu_Tieba_name: 数独
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sudoku](/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku|Sudoku]] 
 
-### #is_/same_as :: [Sudoku.public](/_public/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.public|Sudoku.public]] 
 
-### #is_/same_as :: [Sudoku.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.internal|Sudoku.internal]] 
 
-### #is_/same_as :: [Sudoku.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.protect|Sudoku.protect]] 
 
-### #is_/same_as :: [Sudoku.private](/_private/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.private|Sudoku.private]] 
 
-### #is_/same_as :: [Sudoku.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.personal|Sudoku.personal]] 
 
-### #is_/same_as :: [Sudoku.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Puzzle/Sudoku.secret|Sudoku.secret]] 
 

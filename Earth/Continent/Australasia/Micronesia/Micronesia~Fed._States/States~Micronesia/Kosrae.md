@@ -40,17 +40,17 @@ markerFolder: ./Kosrae/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kosrae](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae|Kosrae]] 
 
-### #is_/same_as :: [Kosrae.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.public|Kosrae.public]] 
 
-### #is_/same_as :: [Kosrae.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.internal|Kosrae.internal]] 
 
-### #is_/same_as :: [Kosrae.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.protect|Kosrae.protect]] 
 
-### #is_/same_as :: [Kosrae.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.private|Kosrae.private]] 
 
-### #is_/same_as :: [Kosrae.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.personal|Kosrae.personal]] 
 
-### #is_/same_as :: [Kosrae.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Kosrae.secret|Kosrae.secret]] 
 

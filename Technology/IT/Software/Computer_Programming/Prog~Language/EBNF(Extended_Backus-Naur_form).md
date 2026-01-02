@@ -67,17 +67,17 @@ private static readonly Parser<IEnumerable<string>> ArgumentListParser =
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form)|EBNF(Extended_Backus-Naur_form)]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).public|EBNF(Extended_Backus-Naur_form).public]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).internal|EBNF(Extended_Backus-Naur_form).internal]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).protect|EBNF(Extended_Backus-Naur_form).protect]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).private|EBNF(Extended_Backus-Naur_form).private]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).personal|EBNF(Extended_Backus-Naur_form).personal]] 
 
-### #is_/same_as :: [EBNF(Extended_Backus-Naur_form).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/EBNF(Extended_Backus-Naur_form).secret|EBNF(Extended_Backus-Naur_form).secret]] 
 

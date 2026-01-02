@@ -134,17 +134,17 @@ street_address:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pantheon,Rome](/_Standards/Earth/Geography/Place/Pantheon,Rome.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Pantheon,Rome|Pantheon,Rome]] 
 
-### #is_/same_as :: [Pantheon,Rome.public](/_public/Earth/Geography/Place/Pantheon,Rome.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Pantheon,Rome.public|Pantheon,Rome.public]] 
 
-### #is_/same_as :: [Pantheon,Rome.internal](/_internal/Earth/Geography/Place/Pantheon,Rome.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Pantheon,Rome.internal|Pantheon,Rome.internal]] 
 
-### #is_/same_as :: [Pantheon,Rome.protect](/_protect/Earth/Geography/Place/Pantheon,Rome.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Pantheon,Rome.protect|Pantheon,Rome.protect]] 
 
-### #is_/same_as :: [Pantheon,Rome.private](/_private/Earth/Geography/Place/Pantheon,Rome.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Pantheon,Rome.private|Pantheon,Rome.private]] 
 
-### #is_/same_as :: [Pantheon,Rome.personal](/_personal/Earth/Geography/Place/Pantheon,Rome.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Pantheon,Rome.personal|Pantheon,Rome.personal]] 
 
-### #is_/same_as :: [Pantheon,Rome.secret](/_secret/Earth/Geography/Place/Pantheon,Rome.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Pantheon,Rome.secret|Pantheon,Rome.secret]] 
 

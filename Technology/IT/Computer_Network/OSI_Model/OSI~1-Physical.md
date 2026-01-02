@@ -36,17 +36,17 @@ Commons_category: Physical layer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~1-Physical](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical|OSI~1-Physical]] 
 
-### #is_/same_as :: [OSI~1-Physical.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.public|OSI~1-Physical.public]] 
 
-### #is_/same_as :: [OSI~1-Physical.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.internal|OSI~1-Physical.internal]] 
 
-### #is_/same_as :: [OSI~1-Physical.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.protect|OSI~1-Physical.protect]] 
 
-### #is_/same_as :: [OSI~1-Physical.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.private|OSI~1-Physical.private]] 
 
-### #is_/same_as :: [OSI~1-Physical.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.personal|OSI~1-Physical.personal]] 
 
-### #is_/same_as :: [OSI~1-Physical.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical.secret|OSI~1-Physical.secret]] 
 

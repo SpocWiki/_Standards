@@ -27,17 +27,17 @@ Commons_category: Polymer chemistry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polymer_Chemistry](/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry|Polymer_Chemistry]] 
 
-### #is_/same_as :: [Polymer_Chemistry.public](/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public|Polymer_Chemistry.public]] 
 
-### #is_/same_as :: [Polymer_Chemistry.internal](/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal|Polymer_Chemistry.internal]] 
 
-### #is_/same_as :: [Polymer_Chemistry.protect](/_protect/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.protect|Polymer_Chemistry.protect]] 
 
-### #is_/same_as :: [Polymer_Chemistry.private](/_private/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.private|Polymer_Chemistry.private]] 
 
-### #is_/same_as :: [Polymer_Chemistry.personal](/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal|Polymer_Chemistry.personal]] 
 
-### #is_/same_as :: [Polymer_Chemistry.secret](/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret|Polymer_Chemistry.secret]] 
 

@@ -43,17 +43,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tanganyika](/_Standards/Earth/Continent/Africa/Africa~East/Tanganyika.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/Tanganyika|Tanganyika]] 
 
-### #is_/same_as :: [Tanganyika.public](/_public/Earth/Continent/Africa/Africa~East/Tanganyika.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/Tanganyika.public|Tanganyika.public]] 
 
-### #is_/same_as :: [Tanganyika.internal](/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/Tanganyika.internal|Tanganyika.internal]] 
 
-### #is_/same_as :: [Tanganyika.protect](/_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/Tanganyika.protect|Tanganyika.protect]] 
 
-### #is_/same_as :: [Tanganyika.private](/_private/Earth/Continent/Africa/Africa~East/Tanganyika.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/Tanganyika.private|Tanganyika.private]] 
 
-### #is_/same_as :: [Tanganyika.personal](/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/Tanganyika.personal|Tanganyika.personal]] 
 
-### #is_/same_as :: [Tanganyika.secret](/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/Tanganyika.secret|Tanganyika.secret]] 
 

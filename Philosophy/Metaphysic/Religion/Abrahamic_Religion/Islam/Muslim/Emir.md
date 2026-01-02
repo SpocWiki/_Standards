@@ -57,17 +57,17 @@ Commons_category: Emirs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emir](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir|Emir]] 
 
-### #is_/same_as :: [Emir.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.public|Emir.public]] 
 
-### #is_/same_as :: [Emir.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.internal|Emir.internal]] 
 
-### #is_/same_as :: [Emir.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.protect|Emir.protect]] 
 
-### #is_/same_as :: [Emir.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.private|Emir.private]] 
 
-### #is_/same_as :: [Emir.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.personal|Emir.personal]] 
 
-### #is_/same_as :: [Emir.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Muslim/Emir.secret|Emir.secret]] 
 

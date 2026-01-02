@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_xpath](/_Standards/schema-org/Relation/has/has_xpath.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_xpath|has_xpath]] 
 
-### #is_/same_as :: [has_xpath.public](/_public/schema-org/Relation/has/has_xpath.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_xpath.public|has_xpath.public]] 
 
-### #is_/same_as :: [has_xpath.internal](/_internal/schema-org/Relation/has/has_xpath.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_xpath.internal|has_xpath.internal]] 
 
-### #is_/same_as :: [has_xpath.protect](/_protect/schema-org/Relation/has/has_xpath.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_xpath.protect|has_xpath.protect]] 
 
-### #is_/same_as :: [has_xpath.private](/_private/schema-org/Relation/has/has_xpath.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_xpath.private|has_xpath.private]] 
 
-### #is_/same_as :: [has_xpath.personal](/_personal/schema-org/Relation/has/has_xpath.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_xpath.personal|has_xpath.personal]] 
 
-### #is_/same_as :: [has_xpath.secret](/_secret/schema-org/Relation/has/has_xpath.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_xpath.secret|has_xpath.secret]] 
 

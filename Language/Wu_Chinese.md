@@ -71,17 +71,17 @@ native_label:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wu_Chinese](/_Standards/Language/Wu_Chinese.md) 
+### #is_/same_as :: [[/_Standards/Language/Wu_Chinese|Wu_Chinese]] 
 
-### #is_/same_as :: [Wu_Chinese.public](/_public/Language/Wu_Chinese.public.md) 
+### #is_/same_as :: [[/_public/Language/Wu_Chinese.public|Wu_Chinese.public]] 
 
-### #is_/same_as :: [Wu_Chinese.internal](/_internal/Language/Wu_Chinese.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Wu_Chinese.internal|Wu_Chinese.internal]] 
 
-### #is_/same_as :: [Wu_Chinese.protect](/_protect/Language/Wu_Chinese.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Wu_Chinese.protect|Wu_Chinese.protect]] 
 
-### #is_/same_as :: [Wu_Chinese.private](/_private/Language/Wu_Chinese.private.md) 
+### #is_/same_as :: [[/_private/Language/Wu_Chinese.private|Wu_Chinese.private]] 
 
-### #is_/same_as :: [Wu_Chinese.personal](/_personal/Language/Wu_Chinese.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Wu_Chinese.personal|Wu_Chinese.personal]] 
 
-### #is_/same_as :: [Wu_Chinese.secret](/_secret/Language/Wu_Chinese.secret.md)
+### #is_/same_as :: [[/_secret/Language/Wu_Chinese.secret|Wu_Chinese.secret]] 
 

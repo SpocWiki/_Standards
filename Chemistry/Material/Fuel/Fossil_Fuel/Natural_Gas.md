@@ -83,17 +83,17 @@ Commons_gallery: Natural gas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Natural_Gas](/_Standards/Chemistry/Material/Fuel/Natural_Gas.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas|Natural_Gas]] 
 
-### #is_/same_as :: [Natural_Gas.public](/_public/Chemistry/Material/Fuel/Natural_Gas.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.public|Natural_Gas.public]] 
 
-### #is_/same_as :: [Natural_Gas.internal](/_internal/Chemistry/Material/Fuel/Natural_Gas.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.internal|Natural_Gas.internal]] 
 
-### #is_/same_as :: [Natural_Gas.protect](/_protect/Chemistry/Material/Fuel/Natural_Gas.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.protect|Natural_Gas.protect]] 
 
-### #is_/same_as :: [Natural_Gas.private](/_private/Chemistry/Material/Fuel/Natural_Gas.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.private|Natural_Gas.private]] 
 
-### #is_/same_as :: [Natural_Gas.personal](/_personal/Chemistry/Material/Fuel/Natural_Gas.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.personal|Natural_Gas.personal]] 
 
-### #is_/same_as :: [Natural_Gas.secret](/_secret/Chemistry/Material/Fuel/Natural_Gas.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.secret|Natural_Gas.secret]] 
 

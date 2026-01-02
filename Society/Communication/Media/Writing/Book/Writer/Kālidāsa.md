@@ -75,17 +75,17 @@ writing_language: '[[_Standards/WikiData/WD~Sanskrit,11059]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kālidāsa](/_Standards/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Kālidāsa|Kālidāsa]] 
 
-### #is_/same_as :: [Kālidāsa.public](/_public/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.public|Kālidāsa.public]] 
 
-### #is_/same_as :: [Kālidāsa.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.internal|Kālidāsa.internal]] 
 
-### #is_/same_as :: [Kālidāsa.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.protect|Kālidāsa.protect]] 
 
-### #is_/same_as :: [Kālidāsa.private](/_private/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.private|Kālidāsa.private]] 
 
-### #is_/same_as :: [Kālidāsa.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.personal|Kālidāsa.personal]] 
 
-### #is_/same_as :: [Kālidāsa.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Kālidāsa.secret|Kālidāsa.secret]] 
 

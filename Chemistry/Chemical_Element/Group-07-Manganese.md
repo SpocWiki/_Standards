@@ -20,17 +20,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-07-Manganese](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese|Group-07-Manganese]] 
 
-### #is_/same_as :: [Group-07-Manganese.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-07-Manganese.public|Group-07-Manganese.public]] 
 
-### #is_/same_as :: [Group-07-Manganese.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-07-Manganese.internal|Group-07-Manganese.internal]] 
 
-### #is_/same_as :: [Group-07-Manganese.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-07-Manganese.protect|Group-07-Manganese.protect]] 
 
-### #is_/same_as :: [Group-07-Manganese.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-07-Manganese.private|Group-07-Manganese.private]] 
 
-### #is_/same_as :: [Group-07-Manganese.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-07-Manganese.personal|Group-07-Manganese.personal]] 
 
-### #is_/same_as :: [Group-07-Manganese.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-07-Manganese.secret|Group-07-Manganese.secret]] 
 

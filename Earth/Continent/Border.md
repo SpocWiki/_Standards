@@ -53,17 +53,17 @@ P8189: 987007283983005171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Border](/_Standards/Earth/Continent/Border.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Border|Border]] 
 
-### #is_/same_as :: [Border.public](/_public/Earth/Continent/Border.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Border.public|Border.public]] 
 
-### #is_/same_as :: [Border.internal](/_internal/Earth/Continent/Border.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Border.internal|Border.internal]] 
 
-### #is_/same_as :: [Border.protect](/_protect/Earth/Continent/Border.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Border.protect|Border.protect]] 
 
-### #is_/same_as :: [Border.private](/_private/Earth/Continent/Border.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Border.private|Border.private]] 
 
-### #is_/same_as :: [Border.personal](/_personal/Earth/Continent/Border.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Border.personal|Border.personal]] 
 
-### #is_/same_as :: [Border.secret](/_secret/Earth/Continent/Border.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Border.secret|Border.secret]] 
 

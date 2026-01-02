@@ -55,17 +55,17 @@ Commons_category: Metamorphosis (biology)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metamorphosis](/_Standards/bio/Reproduction/Metamorphosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Metamorphosis|Metamorphosis]] 
 
-### #is_/same_as :: [Metamorphosis.public](/_public/bio/Reproduction/Metamorphosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Metamorphosis.public|Metamorphosis.public]] 
 
-### #is_/same_as :: [Metamorphosis.internal](/_internal/bio/Reproduction/Metamorphosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Metamorphosis.internal|Metamorphosis.internal]] 
 
-### #is_/same_as :: [Metamorphosis.protect](/_protect/bio/Reproduction/Metamorphosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Metamorphosis.protect|Metamorphosis.protect]] 
 
-### #is_/same_as :: [Metamorphosis.private](/_private/bio/Reproduction/Metamorphosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Metamorphosis.private|Metamorphosis.private]] 
 
-### #is_/same_as :: [Metamorphosis.personal](/_personal/bio/Reproduction/Metamorphosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Metamorphosis.personal|Metamorphosis.personal]] 
 
-### #is_/same_as :: [Metamorphosis.secret](/_secret/bio/Reproduction/Metamorphosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Metamorphosis.secret|Metamorphosis.secret]] 
 

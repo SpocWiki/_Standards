@@ -67,17 +67,17 @@ last_line: Well, what would you do if your mother asked you?
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cat_in_the_Hat](/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat|Cat_in_the_Hat]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.public](/_public/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.public|Cat_in_the_Hat.public]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.internal](/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.internal|Cat_in_the_Hat.internal]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.protect](/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.protect|Cat_in_the_Hat.protect]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.private](/_private/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.private|Cat_in_the_Hat.private]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.personal](/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.personal|Cat_in_the_Hat.personal]] 
 
-### #is_/same_as :: [Cat_in_the_Hat.secret](/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Comic_Story/Cat_in_the_Hat.secret|Cat_in_the_Hat.secret]] 
 

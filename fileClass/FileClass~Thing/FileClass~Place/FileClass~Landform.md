@@ -36,17 +36,17 @@ A landform or physical feature.  Landform elements include mountains, plains, la
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Landform](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform|FileClass~Landform]] 
 
-### #is_/same_as :: [FileClass~Landform.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.public|FileClass~Landform.public]] 
 
-### #is_/same_as :: [FileClass~Landform.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.internal|FileClass~Landform.internal]] 
 
-### #is_/same_as :: [FileClass~Landform.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.protect|FileClass~Landform.protect]] 
 
-### #is_/same_as :: [FileClass~Landform.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.private|FileClass~Landform.private]] 
 
-### #is_/same_as :: [FileClass~Landform.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.personal|FileClass~Landform.personal]] 
 
-### #is_/same_as :: [FileClass~Landform.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform.secret|FileClass~Landform.secret]] 
 

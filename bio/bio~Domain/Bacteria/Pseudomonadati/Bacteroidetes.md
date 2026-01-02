@@ -136,17 +136,17 @@ title: Bacteroidetes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacteroidetes](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes|Bacteroidetes]] 
 
-### #is_/same_as :: [Bacteroidetes.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.public|Bacteroidetes.public]] 
 
-### #is_/same_as :: [Bacteroidetes.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.internal|Bacteroidetes.internal]] 
 
-### #is_/same_as :: [Bacteroidetes.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.protect|Bacteroidetes.protect]] 
 
-### #is_/same_as :: [Bacteroidetes.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.private|Bacteroidetes.private]] 
 
-### #is_/same_as :: [Bacteroidetes.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.personal|Bacteroidetes.personal]] 
 
-### #is_/same_as :: [Bacteroidetes.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Bacteroidetes.secret|Bacteroidetes.secret]] 
 

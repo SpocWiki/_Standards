@@ -80,17 +80,17 @@ Human have ca. 20 million (chemical) Smell-Receptors in 350 Types.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nose](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose|Nose]] 
 
-### #is_/same_as :: [Nose.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.public|Nose.public]] 
 
-### #is_/same_as :: [Nose.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.internal|Nose.internal]] 
 
-### #is_/same_as :: [Nose.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.protect|Nose.protect]] 
 
-### #is_/same_as :: [Nose.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.private|Nose.private]] 
 
-### #is_/same_as :: [Nose.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.personal|Nose.personal]] 
 
-### #is_/same_as :: [Nose.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Nose.secret|Nose.secret]] 
 

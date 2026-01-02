@@ -43,17 +43,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SubscribeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction|FileClass~SubscribeAction]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.public|FileClass~SubscribeAction.public]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.internal|FileClass~SubscribeAction.internal]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.protect|FileClass~SubscribeAction.protect]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.private|FileClass~SubscribeAction.private]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.personal|FileClass~SubscribeAction.personal]] 
 
-### #is_/same_as :: [FileClass~SubscribeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~SubscribeAction.secret|FileClass~SubscribeAction.secret]] 
 

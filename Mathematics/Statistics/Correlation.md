@@ -144,17 +144,17 @@ MeSH_tree_code: H01.548.832.500
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Correlation](/_Standards/Mathematics/Statistics/Correlation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Correlation|Correlation]] 
 
-### #is_/same_as :: [Correlation.public](/_public/Mathematics/Statistics/Correlation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Correlation.public|Correlation.public]] 
 
-### #is_/same_as :: [Correlation.internal](/_internal/Mathematics/Statistics/Correlation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Correlation.internal|Correlation.internal]] 
 
-### #is_/same_as :: [Correlation.protect](/_protect/Mathematics/Statistics/Correlation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Correlation.protect|Correlation.protect]] 
 
-### #is_/same_as :: [Correlation.private](/_private/Mathematics/Statistics/Correlation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Correlation.private|Correlation.private]] 
 
-### #is_/same_as :: [Correlation.personal](/_personal/Mathematics/Statistics/Correlation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Correlation.personal|Correlation.personal]] 
 
-### #is_/same_as :: [Correlation.secret](/_secret/Mathematics/Statistics/Correlation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Correlation.secret|Correlation.secret]] 
 

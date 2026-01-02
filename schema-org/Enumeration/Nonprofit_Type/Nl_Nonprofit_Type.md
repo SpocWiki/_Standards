@@ -41,17 +41,17 @@ NLNonprofitType: Non-profit organization type originating from the Netherlands.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nl_Nonprofit_Type](/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type|Nl_Nonprofit_Type]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.public](/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.public|Nl_Nonprofit_Type.public]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.internal|Nl_Nonprofit_Type.internal]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.protect|Nl_Nonprofit_Type.protect]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.private](/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.private|Nl_Nonprofit_Type.private]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.personal|Nl_Nonprofit_Type.personal]] 
 
-### #is_/same_as :: [Nl_Nonprofit_Type.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Nl_Nonprofit_Type.secret|Nl_Nonprofit_Type.secret]] 
 

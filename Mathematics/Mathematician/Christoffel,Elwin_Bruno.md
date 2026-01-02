@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno](/_Standards/Mathematics/Mathematician/Christoffel,Elwin_Bruno.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Christoffel,Elwin_Bruno|Christoffel,Elwin_Bruno]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.public](/_public/Mathematics/Mathematician/Christoffel,Elwin_Bruno.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Christoffel,Elwin_Bruno.public|Christoffel,Elwin_Bruno.public]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.internal](/_internal/Mathematics/Mathematician/Christoffel,Elwin_Bruno.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Christoffel,Elwin_Bruno.internal|Christoffel,Elwin_Bruno.internal]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.protect](/_protect/Mathematics/Mathematician/Christoffel,Elwin_Bruno.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Christoffel,Elwin_Bruno.protect|Christoffel,Elwin_Bruno.protect]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.private](/_private/Mathematics/Mathematician/Christoffel,Elwin_Bruno.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Christoffel,Elwin_Bruno.private|Christoffel,Elwin_Bruno.private]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.personal](/_personal/Mathematics/Mathematician/Christoffel,Elwin_Bruno.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Christoffel,Elwin_Bruno.personal|Christoffel,Elwin_Bruno.personal]] 
 
-### #is_/same_as :: [Christoffel,Elwin_Bruno.secret](/_secret/Mathematics/Mathematician/Christoffel,Elwin_Bruno.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Christoffel,Elwin_Bruno.secret|Christoffel,Elwin_Bruno.secret]] 
 

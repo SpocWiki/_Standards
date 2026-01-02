@@ -79,17 +79,17 @@ GeoNames_feature_code: S.FT
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fortification](/_Standards/Society/Military/Military_Engineering/Defense/Fortification.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Fortification|Fortification]] 
 
-### #is_/same_as :: [Fortification.public](/_public/Society/Military/Military_Engineering/Defense/Fortification.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Fortification.public|Fortification.public]] 
 
-### #is_/same_as :: [Fortification.internal](/_internal/Society/Military/Military_Engineering/Defense/Fortification.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Fortification.internal|Fortification.internal]] 
 
-### #is_/same_as :: [Fortification.protect](/_protect/Society/Military/Military_Engineering/Defense/Fortification.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Fortification.protect|Fortification.protect]] 
 
-### #is_/same_as :: [Fortification.private](/_private/Society/Military/Military_Engineering/Defense/Fortification.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Fortification.private|Fortification.private]] 
 
-### #is_/same_as :: [Fortification.personal](/_personal/Society/Military/Military_Engineering/Defense/Fortification.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Fortification.personal|Fortification.personal]] 
 
-### #is_/same_as :: [Fortification.secret](/_secret/Society/Military/Military_Engineering/Defense/Fortification.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Fortification.secret|Fortification.secret]] 
 

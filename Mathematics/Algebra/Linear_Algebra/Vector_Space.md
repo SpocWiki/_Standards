@@ -85,17 +85,17 @@ Commons_category: Vector spaces
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vector_Space](/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Vector_Space|Vector_Space]] 
 
-### #is_/same_as :: [Vector_Space.public](/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Vector_Space.public|Vector_Space.public]] 
 
-### #is_/same_as :: [Vector_Space.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Vector_Space.internal|Vector_Space.internal]] 
 
-### #is_/same_as :: [Vector_Space.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Vector_Space.protect|Vector_Space.protect]] 
 
-### #is_/same_as :: [Vector_Space.private](/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Vector_Space.private|Vector_Space.private]] 
 
-### #is_/same_as :: [Vector_Space.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Vector_Space.personal|Vector_Space.personal]] 
 
-### #is_/same_as :: [Vector_Space.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Vector_Space.secret|Vector_Space.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_required_gender](/_Standards/schema-org/Property/Texts/has_required_gender.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_required_gender|has_required_gender]] 
 
-### #is_/same_as :: [has_required_gender.public](/_public/schema-org/Property/Texts/has_required_gender.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_required_gender.public|has_required_gender.public]] 
 
-### #is_/same_as :: [has_required_gender.internal](/_internal/schema-org/Property/Texts/has_required_gender.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_required_gender.internal|has_required_gender.internal]] 
 
-### #is_/same_as :: [has_required_gender.protect](/_protect/schema-org/Property/Texts/has_required_gender.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_required_gender.protect|has_required_gender.protect]] 
 
-### #is_/same_as :: [has_required_gender.private](/_private/schema-org/Property/Texts/has_required_gender.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_required_gender.private|has_required_gender.private]] 
 
-### #is_/same_as :: [has_required_gender.personal](/_personal/schema-org/Property/Texts/has_required_gender.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_required_gender.personal|has_required_gender.personal]] 
 
-### #is_/same_as :: [has_required_gender.secret](/_secret/schema-org/Property/Texts/has_required_gender.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_required_gender.secret|has_required_gender.secret]] 
 

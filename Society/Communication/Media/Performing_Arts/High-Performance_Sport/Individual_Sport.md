@@ -24,17 +24,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Competitive%20table%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Individual_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport|Individual_Sport]] 
 
-### #is_/same_as :: [Individual_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.public|Individual_Sport.public]] 
 
-### #is_/same_as :: [Individual_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.internal|Individual_Sport.internal]] 
 
-### #is_/same_as :: [Individual_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.protect|Individual_Sport.protect]] 
 
-### #is_/same_as :: [Individual_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.private|Individual_Sport.private]] 
 
-### #is_/same_as :: [Individual_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.personal|Individual_Sport.personal]] 
 
-### #is_/same_as :: [Individual_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport.secret|Individual_Sport.secret]] 
 

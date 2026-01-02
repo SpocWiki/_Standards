@@ -53,17 +53,17 @@ PermissionType:: {"type":"Select","options":{"valuesList":{"CommentPermission","
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission|FileClass~DigitalDocumentPermission]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.public|FileClass~DigitalDocumentPermission.public]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.internal|FileClass~DigitalDocumentPermission.internal]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.protect|FileClass~DigitalDocumentPermission.protect]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.private|FileClass~DigitalDocumentPermission.private]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.personal|FileClass~DigitalDocumentPermission.personal]] 
 
-### #is_/same_as :: [FileClass~DigitalDocumentPermission.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DigitalDocumentPermission.secret|FileClass~DigitalDocumentPermission.secret]] 
 

@@ -82,17 +82,17 @@ Munzinger_Sport_number: 01000000915
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Müller,Gerd](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd|Müller,Gerd]] 
 
-### #is_/same_as :: [Müller,Gerd.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.public|Müller,Gerd.public]] 
 
-### #is_/same_as :: [Müller,Gerd.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.internal|Müller,Gerd.internal]] 
 
-### #is_/same_as :: [Müller,Gerd.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.protect|Müller,Gerd.protect]] 
 
-### #is_/same_as :: [Müller,Gerd.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.private|Müller,Gerd.private]] 
 
-### #is_/same_as :: [Müller,Gerd.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.personal|Müller,Gerd.personal]] 
 
-### #is_/same_as :: [Müller,Gerd.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Football/Association_Football/Footballer/Müller,Gerd.secret|Müller,Gerd.secret]] 
 

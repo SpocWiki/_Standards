@@ -41,17 +41,17 @@ A self-storage facility.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Self_Storage](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage|Self_Storage]] 
 
-### #is_/same_as :: [Self_Storage.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.public|Self_Storage.public]] 
 
-### #is_/same_as :: [Self_Storage.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.internal|Self_Storage.internal]] 
 
-### #is_/same_as :: [Self_Storage.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.protect|Self_Storage.protect]] 
 
-### #is_/same_as :: [Self_Storage.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.private|Self_Storage.private]] 
 
-### #is_/same_as :: [Self_Storage.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.personal|Self_Storage.personal]] 
 
-### #is_/same_as :: [Self_Storage.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Self_Storage.secret|Self_Storage.secret]] 
 

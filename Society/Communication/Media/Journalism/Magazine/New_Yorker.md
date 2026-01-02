@@ -126,17 +126,17 @@ Instagram_username: newyorkermag
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Yorker](/_Standards/Society/Communication/Media/Journalism/Magazine/New_Yorker.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/New_Yorker|New_Yorker]] 
 
-### #is_/same_as :: [New_Yorker.public](/_public/Society/Communication/Media/Journalism/Magazine/New_Yorker.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/New_Yorker.public|New_Yorker.public]] 
 
-### #is_/same_as :: [New_Yorker.internal](/_internal/Society/Communication/Media/Journalism/Magazine/New_Yorker.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/New_Yorker.internal|New_Yorker.internal]] 
 
-### #is_/same_as :: [New_Yorker.protect](/_protect/Society/Communication/Media/Journalism/Magazine/New_Yorker.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/New_Yorker.protect|New_Yorker.protect]] 
 
-### #is_/same_as :: [New_Yorker.private](/_private/Society/Communication/Media/Journalism/Magazine/New_Yorker.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/New_Yorker.private|New_Yorker.private]] 
 
-### #is_/same_as :: [New_Yorker.personal](/_personal/Society/Communication/Media/Journalism/Magazine/New_Yorker.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/New_Yorker.personal|New_Yorker.personal]] 
 
-### #is_/same_as :: [New_Yorker.secret](/_secret/Society/Communication/Media/Journalism/Magazine/New_Yorker.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/New_Yorker.secret|New_Yorker.secret]] 
 

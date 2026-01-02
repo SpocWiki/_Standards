@@ -105,17 +105,17 @@ Commons_category: Dental caries
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dental_Caries](/_Standards/bio/Medicine/Dentistry/Dental_Caries.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Dentistry/Dental_Caries|Dental_Caries]] 
 
-### #is_/same_as :: [Dental_Caries.public](/_public/bio/Medicine/Dentistry/Dental_Caries.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Dentistry/Dental_Caries.public|Dental_Caries.public]] 
 
-### #is_/same_as :: [Dental_Caries.internal](/_internal/bio/Medicine/Dentistry/Dental_Caries.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Dentistry/Dental_Caries.internal|Dental_Caries.internal]] 
 
-### #is_/same_as :: [Dental_Caries.protect](/_protect/bio/Medicine/Dentistry/Dental_Caries.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Dentistry/Dental_Caries.protect|Dental_Caries.protect]] 
 
-### #is_/same_as :: [Dental_Caries.private](/_private/bio/Medicine/Dentistry/Dental_Caries.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Dentistry/Dental_Caries.private|Dental_Caries.private]] 
 
-### #is_/same_as :: [Dental_Caries.personal](/_personal/bio/Medicine/Dentistry/Dental_Caries.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Dentistry/Dental_Caries.personal|Dental_Caries.personal]] 
 
-### #is_/same_as :: [Dental_Caries.secret](/_secret/bio/Medicine/Dentistry/Dental_Caries.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Dentistry/Dental_Caries.secret|Dental_Caries.secret]] 
 

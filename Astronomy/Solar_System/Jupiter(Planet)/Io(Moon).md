@@ -64,17 +64,17 @@ provisional_designation: Jupiter I
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Io(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon)|Io(Moon)]] 
 
-### #is_/same_as :: [Io(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).public|Io(Moon).public]] 
 
-### #is_/same_as :: [Io(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).internal|Io(Moon).internal]] 
 
-### #is_/same_as :: [Io(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).protect|Io(Moon).protect]] 
 
-### #is_/same_as :: [Io(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).private|Io(Moon).private]] 
 
-### #is_/same_as :: [Io(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).personal|Io(Moon).personal]] 
 
-### #is_/same_as :: [Io(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Io(Moon).secret|Io(Moon).secret]] 
 

@@ -65,17 +65,17 @@ Commons_category: Newton's laws of motion
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion](/_Standards/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion|Newton's_Laws_of_Motion]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.public](/_public/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.public|Newton's_Laws_of_Motion.public]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.internal](/_internal/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.internal|Newton's_Laws_of_Motion.internal]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.protect](/_protect/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.protect|Newton's_Laws_of_Motion.protect]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.private](/_private/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.private|Newton's_Laws_of_Motion.private]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.personal](/_personal/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.personal|Newton's_Laws_of_Motion.personal]] 
 
-### #is_/same_as :: [Newton's_Laws_of_Motion.secret](/_secret/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Newton's_Laws_of_Motion.secret|Newton's_Laws_of_Motion.secret]] 
 

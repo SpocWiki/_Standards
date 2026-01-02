@@ -74,17 +74,17 @@ Baidu_Tieba_name: 浏览器
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Web_Browser](/_Standards/Technology/IT/Software/Software_Category/Web_Browser.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Software_Category/Web_Browser|Web_Browser]] 
 
-### #is_/same_as :: [Web_Browser.public](/_public/Technology/IT/Software/Software_Category/Web_Browser.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Software_Category/Web_Browser.public|Web_Browser.public]] 
 
-### #is_/same_as :: [Web_Browser.internal](/_internal/Technology/IT/Software/Software_Category/Web_Browser.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Software_Category/Web_Browser.internal|Web_Browser.internal]] 
 
-### #is_/same_as :: [Web_Browser.protect](/_protect/Technology/IT/Software/Software_Category/Web_Browser.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Software_Category/Web_Browser.protect|Web_Browser.protect]] 
 
-### #is_/same_as :: [Web_Browser.private](/_private/Technology/IT/Software/Software_Category/Web_Browser.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Software_Category/Web_Browser.private|Web_Browser.private]] 
 
-### #is_/same_as :: [Web_Browser.personal](/_personal/Technology/IT/Software/Software_Category/Web_Browser.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Software_Category/Web_Browser.personal|Web_Browser.personal]] 
 
-### #is_/same_as :: [Web_Browser.secret](/_secret/Technology/IT/Software/Software_Category/Web_Browser.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Software_Category/Web_Browser.secret|Web_Browser.secret]] 
 

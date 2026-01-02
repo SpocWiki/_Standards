@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Keitel,Harvey](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey|Keitel,Harvey]] 
 
-### #is_/same_as :: [Keitel,Harvey.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.public|Keitel,Harvey.public]] 
 
-### #is_/same_as :: [Keitel,Harvey.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.internal|Keitel,Harvey.internal]] 
 
-### #is_/same_as :: [Keitel,Harvey.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.protect|Keitel,Harvey.protect]] 
 
-### #is_/same_as :: [Keitel,Harvey.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.private|Keitel,Harvey.private]] 
 
-### #is_/same_as :: [Keitel,Harvey.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.personal|Keitel,Harvey.personal]] 
 
-### #is_/same_as :: [Keitel,Harvey.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Keitel,Harvey.secret|Keitel,Harvey.secret]] 
 

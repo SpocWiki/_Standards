@@ -41,17 +41,17 @@ A stage of a medical condition, such as 'Stage IIIa'.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Condition_Stage](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage|Medical_Condition_Stage]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.public|Medical_Condition_Stage.public]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.internal|Medical_Condition_Stage.internal]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.protect|Medical_Condition_Stage.protect]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.private|Medical_Condition_Stage.private]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.personal|Medical_Condition_Stage.personal]] 
 
-### #is_/same_as :: [Medical_Condition_Stage.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible/Medical_Condition_Stage.secret|Medical_Condition_Stage.secret]] 
 

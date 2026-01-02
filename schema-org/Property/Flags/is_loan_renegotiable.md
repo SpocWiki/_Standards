@@ -46,17 +46,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_loan_renegotiable](/_Standards/schema-org/Property/Flags/is_loan_renegotiable.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Flags/is_loan_renegotiable|is_loan_renegotiable]] 
 
-### #is_/same_as :: [is_loan_renegotiable.public](/_public/schema-org/Property/Flags/is_loan_renegotiable.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Flags/is_loan_renegotiable.public|is_loan_renegotiable.public]] 
 
-### #is_/same_as :: [is_loan_renegotiable.internal](/_internal/schema-org/Property/Flags/is_loan_renegotiable.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Flags/is_loan_renegotiable.internal|is_loan_renegotiable.internal]] 
 
-### #is_/same_as :: [is_loan_renegotiable.protect](/_protect/schema-org/Property/Flags/is_loan_renegotiable.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Flags/is_loan_renegotiable.protect|is_loan_renegotiable.protect]] 
 
-### #is_/same_as :: [is_loan_renegotiable.private](/_private/schema-org/Property/Flags/is_loan_renegotiable.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Flags/is_loan_renegotiable.private|is_loan_renegotiable.private]] 
 
-### #is_/same_as :: [is_loan_renegotiable.personal](/_personal/schema-org/Property/Flags/is_loan_renegotiable.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Flags/is_loan_renegotiable.personal|is_loan_renegotiable.personal]] 
 
-### #is_/same_as :: [is_loan_renegotiable.secret](/_secret/schema-org/Property/Flags/is_loan_renegotiable.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Flags/is_loan_renegotiable.secret|is_loan_renegotiable.secret]] 
 

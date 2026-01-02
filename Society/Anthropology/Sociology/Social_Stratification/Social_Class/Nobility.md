@@ -69,17 +69,17 @@ Commons_category: Nobility
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nobility](/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility|Nobility]] 
 
-### #is_/same_as :: [Nobility.public](/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.public|Nobility.public]] 
 
-### #is_/same_as :: [Nobility.internal](/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.internal|Nobility.internal]] 
 
-### #is_/same_as :: [Nobility.protect](/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.protect|Nobility.protect]] 
 
-### #is_/same_as :: [Nobility.private](/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.private|Nobility.private]] 
 
-### #is_/same_as :: [Nobility.personal](/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.personal|Nobility.personal]] 
 
-### #is_/same_as :: [Nobility.secret](/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Social_Stratification/Social_Class/Nobility.secret|Nobility.secret]] 
 

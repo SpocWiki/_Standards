@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_day](/_Standards/schema-org/Property/has_Date_Time/has_time_of_day.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_day|has_time_of_day]] 
 
-### #is_/same_as :: [has_time_of_day.public](/_public/schema-org/Property/has_Date_Time/has_time_of_day.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_day.public|has_time_of_day.public]] 
 
-### #is_/same_as :: [has_time_of_day.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_day.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_day.internal|has_time_of_day.internal]] 
 
-### #is_/same_as :: [has_time_of_day.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_day.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_day.protect|has_time_of_day.protect]] 
 
-### #is_/same_as :: [has_time_of_day.private](/_private/schema-org/Property/has_Date_Time/has_time_of_day.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_day.private|has_time_of_day.private]] 
 
-### #is_/same_as :: [has_time_of_day.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_day.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_day.personal|has_time_of_day.personal]] 
 
-### #is_/same_as :: [has_time_of_day.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_day.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_day.secret|has_time_of_day.secret]] 
 

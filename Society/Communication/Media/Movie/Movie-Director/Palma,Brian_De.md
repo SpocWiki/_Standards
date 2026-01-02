@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palma,Brian_De](/_Standards/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De|Palma,Brian_De]] 
 
-### #is_/same_as :: [Palma,Brian_De.public](/_public/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.public|Palma,Brian_De.public]] 
 
-### #is_/same_as :: [Palma,Brian_De.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.internal|Palma,Brian_De.internal]] 
 
-### #is_/same_as :: [Palma,Brian_De.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.protect|Palma,Brian_De.protect]] 
 
-### #is_/same_as :: [Palma,Brian_De.private](/_private/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.private|Palma,Brian_De.private]] 
 
-### #is_/same_as :: [Palma,Brian_De.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.personal|Palma,Brian_De.personal]] 
 
-### #is_/same_as :: [Palma,Brian_De.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Palma,Brian_De.secret|Palma,Brian_De.secret]] 
 

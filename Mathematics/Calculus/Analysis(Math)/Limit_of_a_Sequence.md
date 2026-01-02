@@ -33,17 +33,17 @@ Commons_category: Limit of a sequence
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Limit_of_a_Sequence](/_Standards/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence|Limit_of_a_Sequence]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.public](/_public/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.public|Limit_of_a_Sequence.public]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.internal|Limit_of_a_Sequence.internal]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.protect|Limit_of_a_Sequence.protect]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.private](/_private/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.private|Limit_of_a_Sequence.private]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.personal|Limit_of_a_Sequence.personal]] 
 
-### #is_/same_as :: [Limit_of_a_Sequence.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Analysis(Math)/Limit_of_a_Sequence.secret|Limit_of_a_Sequence.secret]] 
 

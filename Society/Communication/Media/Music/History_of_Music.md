@@ -41,17 +41,17 @@ IMDb_keyword: music-history
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Music](/_Standards/Society/Communication/Media/Music/History_of_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/History_of_Music|History_of_Music]] 
 
-### #is_/same_as :: [History_of_Music.public](/_public/Society/Communication/Media/Music/History_of_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/History_of_Music.public|History_of_Music.public]] 
 
-### #is_/same_as :: [History_of_Music.internal](/_internal/Society/Communication/Media/Music/History_of_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/History_of_Music.internal|History_of_Music.internal]] 
 
-### #is_/same_as :: [History_of_Music.protect](/_protect/Society/Communication/Media/Music/History_of_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/History_of_Music.protect|History_of_Music.protect]] 
 
-### #is_/same_as :: [History_of_Music.private](/_private/Society/Communication/Media/Music/History_of_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/History_of_Music.private|History_of_Music.private]] 
 
-### #is_/same_as :: [History_of_Music.personal](/_personal/Society/Communication/Media/Music/History_of_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/History_of_Music.personal|History_of_Music.personal]] 
 
-### #is_/same_as :: [History_of_Music.secret](/_secret/Society/Communication/Media/Music/History_of_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/History_of_Music.secret|History_of_Music.secret]] 
 

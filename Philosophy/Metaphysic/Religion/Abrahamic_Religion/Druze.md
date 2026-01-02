@@ -78,17 +78,17 @@ name_in_native_language: موحدون دروز
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Druze](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze|Druze]] 
 
-### #is_/same_as :: [Druze.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.public|Druze.public]] 
 
-### #is_/same_as :: [Druze.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.internal|Druze.internal]] 
 
-### #is_/same_as :: [Druze.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.protect|Druze.protect]] 
 
-### #is_/same_as :: [Druze.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.private|Druze.private]] 
 
-### #is_/same_as :: [Druze.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.personal|Druze.personal]] 
 
-### #is_/same_as :: [Druze.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Druze.secret|Druze.secret]] 
 

@@ -57,17 +57,17 @@ Krugosvet_article_archived_: geologiya/obsidian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obsidian](/_Standards/Chemistry/Material/Glass/Obsidian.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Glass/Obsidian|Obsidian]] 
 
-### #is_/same_as :: [Obsidian.public](/_public/Chemistry/Material/Glass/Obsidian.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Glass/Obsidian.public|Obsidian.public]] 
 
-### #is_/same_as :: [Obsidian.internal](/_internal/Chemistry/Material/Glass/Obsidian.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Glass/Obsidian.internal|Obsidian.internal]] 
 
-### #is_/same_as :: [Obsidian.protect](/_protect/Chemistry/Material/Glass/Obsidian.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Glass/Obsidian.protect|Obsidian.protect]] 
 
-### #is_/same_as :: [Obsidian.private](/_private/Chemistry/Material/Glass/Obsidian.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Glass/Obsidian.private|Obsidian.private]] 
 
-### #is_/same_as :: [Obsidian.personal](/_personal/Chemistry/Material/Glass/Obsidian.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Glass/Obsidian.personal|Obsidian.personal]] 
 
-### #is_/same_as :: [Obsidian.secret](/_secret/Chemistry/Material/Glass/Obsidian.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Glass/Obsidian.secret|Obsidian.secret]] 
 

@@ -41,17 +41,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jackson,Samuel_L.](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L.|Jackson,Samuel_L.]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..public|Jackson,Samuel_L..public]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..internal|Jackson,Samuel_L..internal]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..protect|Jackson,Samuel_L..protect]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..private|Jackson,Samuel_L..private]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..personal|Jackson,Samuel_L..personal]] 
 
-### #is_/same_as :: [Jackson,Samuel_L..secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Jackson,Samuel_L..secret|Jackson,Samuel_L..secret]] 
 

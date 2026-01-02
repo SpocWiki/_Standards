@@ -127,17 +127,17 @@ Commons_gallery: Michel de Nostredame
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nostradamus](/_Standards/Philosophy/Metaphysic/Supernatural/Nostradamus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Supernatural/Nostradamus|Nostradamus]] 
 
-### #is_/same_as :: [Nostradamus.public](/_public/Philosophy/Metaphysic/Supernatural/Nostradamus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Supernatural/Nostradamus.public|Nostradamus.public]] 
 
-### #is_/same_as :: [Nostradamus.internal](/_internal/Philosophy/Metaphysic/Supernatural/Nostradamus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Supernatural/Nostradamus.internal|Nostradamus.internal]] 
 
-### #is_/same_as :: [Nostradamus.protect](/_protect/Philosophy/Metaphysic/Supernatural/Nostradamus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Supernatural/Nostradamus.protect|Nostradamus.protect]] 
 
-### #is_/same_as :: [Nostradamus.private](/_private/Philosophy/Metaphysic/Supernatural/Nostradamus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Supernatural/Nostradamus.private|Nostradamus.private]] 
 
-### #is_/same_as :: [Nostradamus.personal](/_personal/Philosophy/Metaphysic/Supernatural/Nostradamus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Supernatural/Nostradamus.personal|Nostradamus.personal]] 
 
-### #is_/same_as :: [Nostradamus.secret](/_secret/Philosophy/Metaphysic/Supernatural/Nostradamus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Supernatural/Nostradamus.secret|Nostradamus.secret]] 
 

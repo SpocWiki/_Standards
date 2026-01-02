@@ -86,17 +86,17 @@ A specific branch of medical science that deals with benign and malignant tumors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oncology](/_Standards/bio/Medicine/Medical_Business/Oncology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Oncology|Oncology]] 
 
-### #is_/same_as :: [Oncology.public](/_public/bio/Medicine/Medical_Business/Oncology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Oncology.public|Oncology.public]] 
 
-### #is_/same_as :: [Oncology.internal](/_internal/bio/Medicine/Medical_Business/Oncology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Oncology.internal|Oncology.internal]] 
 
-### #is_/same_as :: [Oncology.protect](/_protect/bio/Medicine/Medical_Business/Oncology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Oncology.protect|Oncology.protect]] 
 
-### #is_/same_as :: [Oncology.private](/_private/bio/Medicine/Medical_Business/Oncology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Oncology.private|Oncology.private]] 
 
-### #is_/same_as :: [Oncology.personal](/_personal/bio/Medicine/Medical_Business/Oncology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Oncology.personal|Oncology.personal]] 
 
-### #is_/same_as :: [Oncology.secret](/_secret/bio/Medicine/Medical_Business/Oncology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Oncology.secret|Oncology.secret]] 
 

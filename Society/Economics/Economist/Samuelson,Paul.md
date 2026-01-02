@@ -161,17 +161,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/ekonomika_i_pravo/SAMUELSON_POL.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samuelson,Paul](/_Standards/Society/Economics/Economist/Samuelson,Paul.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economist/Samuelson,Paul|Samuelson,Paul]] 
 
-### #is_/same_as :: [Samuelson,Paul.public](/_public/Society/Economics/Economist/Samuelson,Paul.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economist/Samuelson,Paul.public|Samuelson,Paul.public]] 
 
-### #is_/same_as :: [Samuelson,Paul.internal](/_internal/Society/Economics/Economist/Samuelson,Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economist/Samuelson,Paul.internal|Samuelson,Paul.internal]] 
 
-### #is_/same_as :: [Samuelson,Paul.protect](/_protect/Society/Economics/Economist/Samuelson,Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economist/Samuelson,Paul.protect|Samuelson,Paul.protect]] 
 
-### #is_/same_as :: [Samuelson,Paul.private](/_private/Society/Economics/Economist/Samuelson,Paul.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economist/Samuelson,Paul.private|Samuelson,Paul.private]] 
 
-### #is_/same_as :: [Samuelson,Paul.personal](/_personal/Society/Economics/Economist/Samuelson,Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economist/Samuelson,Paul.personal|Samuelson,Paul.personal]] 
 
-### #is_/same_as :: [Samuelson,Paul.secret](/_secret/Society/Economics/Economist/Samuelson,Paul.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economist/Samuelson,Paul.secret|Samuelson,Paul.secret]] 
 

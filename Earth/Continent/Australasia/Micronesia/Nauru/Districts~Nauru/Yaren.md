@@ -62,17 +62,17 @@ markerFolder: ./Yaren/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yaren](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren|Yaren]] 
 
-### #is_/same_as :: [Yaren.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.public|Yaren.public]] 
 
-### #is_/same_as :: [Yaren.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.internal|Yaren.internal]] 
 
-### #is_/same_as :: [Yaren.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.protect|Yaren.protect]] 
 
-### #is_/same_as :: [Yaren.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.private|Yaren.private]] 
 
-### #is_/same_as :: [Yaren.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.personal|Yaren.personal]] 
 
-### #is_/same_as :: [Yaren.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Yaren.secret|Yaren.secret]] 
 

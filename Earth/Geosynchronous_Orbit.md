@@ -40,17 +40,17 @@ Commons_category: Geosynchronous orbit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Geosynchronous_Orbit](/_Standards/Earth/Geosynchronous_Orbit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geosynchronous_Orbit|Geosynchronous_Orbit]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.public](/_public/Earth/Geosynchronous_Orbit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geosynchronous_Orbit.public|Geosynchronous_Orbit.public]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.internal](/_internal/Earth/Geosynchronous_Orbit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geosynchronous_Orbit.internal|Geosynchronous_Orbit.internal]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.protect](/_protect/Earth/Geosynchronous_Orbit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geosynchronous_Orbit.protect|Geosynchronous_Orbit.protect]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.private](/_private/Earth/Geosynchronous_Orbit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geosynchronous_Orbit.private|Geosynchronous_Orbit.private]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.personal](/_personal/Earth/Geosynchronous_Orbit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geosynchronous_Orbit.personal|Geosynchronous_Orbit.personal]] 
 
-### #is_/same_as :: [Geosynchronous_Orbit.secret](/_secret/Earth/Geosynchronous_Orbit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geosynchronous_Orbit.secret|Geosynchronous_Orbit.secret]] 
 

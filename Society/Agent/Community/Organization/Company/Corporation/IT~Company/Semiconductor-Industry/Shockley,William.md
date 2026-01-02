@@ -106,17 +106,17 @@ ISNI: 0000000109203822
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shockley,William](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William|Shockley,William]] 
 
-### #is_/same_as :: [Shockley,William.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.public|Shockley,William.public]] 
 
-### #is_/same_as :: [Shockley,William.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.internal|Shockley,William.internal]] 
 
-### #is_/same_as :: [Shockley,William.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.protect|Shockley,William.protect]] 
 
-### #is_/same_as :: [Shockley,William.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.private|Shockley,William.private]] 
 
-### #is_/same_as :: [Shockley,William.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.personal|Shockley,William.personal]] 
 
-### #is_/same_as :: [Shockley,William.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Shockley,William.secret|Shockley,William.secret]] 
 

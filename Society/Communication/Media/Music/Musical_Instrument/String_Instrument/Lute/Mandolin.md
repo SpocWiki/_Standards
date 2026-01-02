@@ -63,17 +63,17 @@ Commons_category: Mandolins
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mandolin](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin|Mandolin]] 
 
-### #is_/same_as :: [Mandolin.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.public|Mandolin.public]] 
 
-### #is_/same_as :: [Mandolin.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.internal|Mandolin.internal]] 
 
-### #is_/same_as :: [Mandolin.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.protect|Mandolin.protect]] 
 
-### #is_/same_as :: [Mandolin.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.private|Mandolin.private]] 
 
-### #is_/same_as :: [Mandolin.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.personal|Mandolin.personal]] 
 
-### #is_/same_as :: [Mandolin.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Lute/Mandolin.secret|Mandolin.secret]] 
 

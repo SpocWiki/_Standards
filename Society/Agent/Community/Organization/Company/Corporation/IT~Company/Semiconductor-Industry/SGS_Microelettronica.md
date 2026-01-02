@@ -12,17 +12,17 @@ SGS Microelettronica originated in 1972 from a previous merger of two companies:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [SGS_Microelettronica](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica|SGS_Microelettronica]] 
 
-### #is_/same_as :: [SGS_Microelettronica.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.public|SGS_Microelettronica.public]] 
 
-### #is_/same_as :: [SGS_Microelettronica.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.internal|SGS_Microelettronica.internal]] 
 
-### #is_/same_as :: [SGS_Microelettronica.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.protect|SGS_Microelettronica.protect]] 
 
-### #is_/same_as :: [SGS_Microelettronica.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.private|SGS_Microelettronica.private]] 
 
-### #is_/same_as :: [SGS_Microelettronica.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.personal|SGS_Microelettronica.personal]] 
 
-### #is_/same_as :: [SGS_Microelettronica.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/SGS_Microelettronica.secret|SGS_Microelettronica.secret]] 
 

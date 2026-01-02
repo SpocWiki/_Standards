@@ -29,17 +29,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Student-T_Test](/_Standards/Mathematics/Statistics/Student-T_Test.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Student-T_Test|Student-T_Test]] 
 
-### #is_/same_as :: [Student-T_Test.public](/_public/Mathematics/Statistics/Student-T_Test.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Student-T_Test.public|Student-T_Test.public]] 
 
-### #is_/same_as :: [Student-T_Test.internal](/_internal/Mathematics/Statistics/Student-T_Test.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Student-T_Test.internal|Student-T_Test.internal]] 
 
-### #is_/same_as :: [Student-T_Test.protect](/_protect/Mathematics/Statistics/Student-T_Test.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Student-T_Test.protect|Student-T_Test.protect]] 
 
-### #is_/same_as :: [Student-T_Test.private](/_private/Mathematics/Statistics/Student-T_Test.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Student-T_Test.private|Student-T_Test.private]] 
 
-### #is_/same_as :: [Student-T_Test.personal](/_personal/Mathematics/Statistics/Student-T_Test.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Student-T_Test.personal|Student-T_Test.personal]] 
 
-### #is_/same_as :: [Student-T_Test.secret](/_secret/Mathematics/Statistics/Student-T_Test.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Student-T_Test.secret|Student-T_Test.secret]] 
 

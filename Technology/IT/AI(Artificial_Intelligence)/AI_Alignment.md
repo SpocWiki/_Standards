@@ -45,17 +45,17 @@ Similar to the Exhaust Faking in Automobiles.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [AI_Alignment](/_Standards/Technology/IT/Artificial_Intelligence/AI_Alignment.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment|AI_Alignment]] 
 
-### #is_/same_as :: [AI_Alignment.public](/_public/Technology/IT/Artificial_Intelligence/AI_Alignment.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.public|AI_Alignment.public]] 
 
-### #is_/same_as :: [AI_Alignment.internal](/_internal/Technology/IT/Artificial_Intelligence/AI_Alignment.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.internal|AI_Alignment.internal]] 
 
-### #is_/same_as :: [AI_Alignment.protect](/_protect/Technology/IT/Artificial_Intelligence/AI_Alignment.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.protect|AI_Alignment.protect]] 
 
-### #is_/same_as :: [AI_Alignment.private](/_private/Technology/IT/Artificial_Intelligence/AI_Alignment.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.private|AI_Alignment.private]] 
 
-### #is_/same_as :: [AI_Alignment.personal](/_personal/Technology/IT/Artificial_Intelligence/AI_Alignment.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.personal|AI_Alignment.personal]] 
 
-### #is_/same_as :: [AI_Alignment.secret](/_secret/Technology/IT/Artificial_Intelligence/AI_Alignment.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/AI(Artificial_Intelligence)/AI_Alignment.secret|AI_Alignment.secret]] 
 

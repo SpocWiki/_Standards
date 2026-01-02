@@ -109,17 +109,17 @@ Libris_URI: 0xbfk45j01x4337
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Franklin,Rosalind](/_Standards/Chemistry/Chemist/Franklin,Rosalind.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Franklin,Rosalind|Franklin,Rosalind]] 
 
-### #is_/same_as :: [Franklin,Rosalind.public](/_public/Chemistry/Chemist/Franklin,Rosalind.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Franklin,Rosalind.public|Franklin,Rosalind.public]] 
 
-### #is_/same_as :: [Franklin,Rosalind.internal](/_internal/Chemistry/Chemist/Franklin,Rosalind.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Franklin,Rosalind.internal|Franklin,Rosalind.internal]] 
 
-### #is_/same_as :: [Franklin,Rosalind.protect](/_protect/Chemistry/Chemist/Franklin,Rosalind.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Franklin,Rosalind.protect|Franklin,Rosalind.protect]] 
 
-### #is_/same_as :: [Franklin,Rosalind.private](/_private/Chemistry/Chemist/Franklin,Rosalind.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Franklin,Rosalind.private|Franklin,Rosalind.private]] 
 
-### #is_/same_as :: [Franklin,Rosalind.personal](/_personal/Chemistry/Chemist/Franklin,Rosalind.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Franklin,Rosalind.personal|Franklin,Rosalind.personal]] 
 
-### #is_/same_as :: [Franklin,Rosalind.secret](/_secret/Chemistry/Chemist/Franklin,Rosalind.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Franklin,Rosalind.secret|Franklin,Rosalind.secret]] 
 

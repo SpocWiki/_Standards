@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good](/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_amount_of_this_good|has_value_for_amount_of_this_good]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.public](/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.public|has_value_for_amount_of_this_good.public]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.internal](/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.internal|has_value_for_amount_of_this_good.internal]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.protect](/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.protect|has_value_for_amount_of_this_good.protect]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.private](/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.private|has_value_for_amount_of_this_good.private]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.personal](/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.personal|has_value_for_amount_of_this_good.personal]] 
 
-### #is_/same_as :: [has_value_for_amount_of_this_good.secret](/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_amount_of_this_good.secret|has_value_for_amount_of_this_good.secret]] 
 

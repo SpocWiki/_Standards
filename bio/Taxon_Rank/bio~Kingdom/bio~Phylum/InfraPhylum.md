@@ -29,17 +29,17 @@ different_from: '[[_Standards/WikiData/WD~infradivision,23759835]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [InfraPhylum](/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum|InfraPhylum]] 
 
-### #is_/same_as :: [InfraPhylum.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.public|InfraPhylum.public]] 
 
-### #is_/same_as :: [InfraPhylum.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.internal|InfraPhylum.internal]] 
 
-### #is_/same_as :: [InfraPhylum.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.protect|InfraPhylum.protect]] 
 
-### #is_/same_as :: [InfraPhylum.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.private|InfraPhylum.private]] 
 
-### #is_/same_as :: [InfraPhylum.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.personal|InfraPhylum.personal]] 
 
-### #is_/same_as :: [InfraPhylum.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum.secret|InfraPhylum.secret]] 
 

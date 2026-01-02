@@ -102,17 +102,17 @@ UMLS_CUI: C0033168
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prison](/_Standards/Society/Law/Judiciary/Prison.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Judiciary/Prison|Prison]] 
 
-### #is_/same_as :: [Prison.public](/_public/Society/Law/Judiciary/Prison.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Judiciary/Prison.public|Prison.public]] 
 
-### #is_/same_as :: [Prison.internal](/_internal/Society/Law/Judiciary/Prison.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Judiciary/Prison.internal|Prison.internal]] 
 
-### #is_/same_as :: [Prison.protect](/_protect/Society/Law/Judiciary/Prison.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Judiciary/Prison.protect|Prison.protect]] 
 
-### #is_/same_as :: [Prison.private](/_private/Society/Law/Judiciary/Prison.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Judiciary/Prison.private|Prison.private]] 
 
-### #is_/same_as :: [Prison.personal](/_personal/Society/Law/Judiciary/Prison.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Judiciary/Prison.personal|Prison.personal]] 
 
-### #is_/same_as :: [Prison.secret](/_secret/Society/Law/Judiciary/Prison.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Judiciary/Prison.secret|Prison.secret]] 
 

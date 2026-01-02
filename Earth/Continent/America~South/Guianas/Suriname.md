@@ -410,17 +410,17 @@ Capital :: [[Suriname/Counties/Paramaribo/City/Paramaribo]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suriname](/_Standards/Earth/Continent/America~South/Guianas/Suriname.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Guianas/Suriname|Suriname]] 
 
-### #is_/same_as :: [Suriname.public](/_public/Earth/Continent/America~South/Guianas/Suriname.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Guianas/Suriname.public|Suriname.public]] 
 
-### #is_/same_as :: [Suriname.internal](/_internal/Earth/Continent/America~South/Guianas/Suriname.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Guianas/Suriname.internal|Suriname.internal]] 
 
-### #is_/same_as :: [Suriname.protect](/_protect/Earth/Continent/America~South/Guianas/Suriname.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Guianas/Suriname.protect|Suriname.protect]] 
 
-### #is_/same_as :: [Suriname.private](/_private/Earth/Continent/America~South/Guianas/Suriname.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Guianas/Suriname.private|Suriname.private]] 
 
-### #is_/same_as :: [Suriname.personal](/_personal/Earth/Continent/America~South/Guianas/Suriname.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]] 
 
-### #is_/same_as :: [Suriname.secret](/_secret/Earth/Continent/America~South/Guianas/Suriname.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]] 
 

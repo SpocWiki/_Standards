@@ -66,17 +66,17 @@ Commons_category: Club (weapon)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Club(Weapon)](/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon).md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Club(Weapon)|Club(Weapon)]] 
 
-### #is_/same_as :: [Club(Weapon).public](/_public/Society/Military/Military_Engineering/Weapon/Club(Weapon).public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Club(Weapon).public|Club(Weapon).public]] 
 
-### #is_/same_as :: [Club(Weapon).internal](/_internal/Society/Military/Military_Engineering/Weapon/Club(Weapon).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Club(Weapon).internal|Club(Weapon).internal]] 
 
-### #is_/same_as :: [Club(Weapon).protect](/_protect/Society/Military/Military_Engineering/Weapon/Club(Weapon).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Club(Weapon).protect|Club(Weapon).protect]] 
 
-### #is_/same_as :: [Club(Weapon).private](/_private/Society/Military/Military_Engineering/Weapon/Club(Weapon).private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Club(Weapon).private|Club(Weapon).private]] 
 
-### #is_/same_as :: [Club(Weapon).personal](/_personal/Society/Military/Military_Engineering/Weapon/Club(Weapon).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Club(Weapon).personal|Club(Weapon).personal]] 
 
-### #is_/same_as :: [Club(Weapon).secret](/_secret/Society/Military/Military_Engineering/Weapon/Club(Weapon).secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Club(Weapon).secret|Club(Weapon).secret]] 
 

@@ -55,17 +55,17 @@ Each costs ca. 300e6$
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Submarine_Communications_Cable](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable|Submarine_Communications_Cable]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.public|Submarine_Communications_Cable.public]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.internal|Submarine_Communications_Cable.internal]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.protect|Submarine_Communications_Cable.protect]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.private|Submarine_Communications_Cable.private]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.personal|Submarine_Communications_Cable.personal]] 
 
-### #is_/same_as :: [Submarine_Communications_Cable.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~1-Physical/Submarine_Communications_Cable.secret|Submarine_Communications_Cable.secret]] 
 

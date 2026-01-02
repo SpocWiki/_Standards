@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_to_drop_off](/_Standards/schema-org/Property/has_Date_Time/has_time_to_drop_off.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_to_drop_off|has_time_to_drop_off]] 
 
-### #is_/same_as :: [has_time_to_drop_off.public](/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_to_drop_off.public|has_time_to_drop_off.public]] 
 
-### #is_/same_as :: [has_time_to_drop_off.internal](/_internal/schema-org/Property/has_Date_Time/has_time_to_drop_off.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_to_drop_off.internal|has_time_to_drop_off.internal]] 
 
-### #is_/same_as :: [has_time_to_drop_off.protect](/_protect/schema-org/Property/has_Date_Time/has_time_to_drop_off.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_to_drop_off.protect|has_time_to_drop_off.protect]] 
 
-### #is_/same_as :: [has_time_to_drop_off.private](/_private/schema-org/Property/has_Date_Time/has_time_to_drop_off.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_to_drop_off.private|has_time_to_drop_off.private]] 
 
-### #is_/same_as :: [has_time_to_drop_off.personal](/_personal/schema-org/Property/has_Date_Time/has_time_to_drop_off.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_to_drop_off.personal|has_time_to_drop_off.personal]] 
 
-### #is_/same_as :: [has_time_to_drop_off.secret](/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_to_drop_off.secret|has_time_to_drop_off.secret]] 
 

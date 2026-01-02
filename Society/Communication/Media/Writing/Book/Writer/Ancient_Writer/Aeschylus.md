@@ -102,17 +102,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aeschylus](/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus|Aeschylus]] 
 
-### #is_/same_as :: [Aeschylus.public](/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.public|Aeschylus.public]] 
 
-### #is_/same_as :: [Aeschylus.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.internal|Aeschylus.internal]] 
 
-### #is_/same_as :: [Aeschylus.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.protect|Aeschylus.protect]] 
 
-### #is_/same_as :: [Aeschylus.private](/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.private|Aeschylus.private]] 
 
-### #is_/same_as :: [Aeschylus.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.personal|Aeschylus.personal]] 
 
-### #is_/same_as :: [Aeschylus.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Ancient_Writer/Aeschylus.secret|Aeschylus.secret]] 
 

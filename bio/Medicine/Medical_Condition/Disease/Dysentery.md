@@ -64,17 +64,17 @@ Krugosvet_article: medicina/DIZENTERIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dysentery](/_Standards/bio/Medicine/Medical_Condition/Disease/Dysentery.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Dysentery|Dysentery]] 
 
-### #is_/same_as :: [Dysentery.public](/_public/bio/Medicine/Medical_Condition/Disease/Dysentery.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Dysentery.public|Dysentery.public]] 
 
-### #is_/same_as :: [Dysentery.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Dysentery.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Dysentery.internal|Dysentery.internal]] 
 
-### #is_/same_as :: [Dysentery.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Dysentery.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Dysentery.protect|Dysentery.protect]] 
 
-### #is_/same_as :: [Dysentery.private](/_private/bio/Medicine/Medical_Condition/Disease/Dysentery.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Dysentery.private|Dysentery.private]] 
 
-### #is_/same_as :: [Dysentery.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Dysentery.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Dysentery.personal|Dysentery.personal]] 
 
-### #is_/same_as :: [Dysentery.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Dysentery.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Dysentery.secret|Dysentery.secret]] 
 

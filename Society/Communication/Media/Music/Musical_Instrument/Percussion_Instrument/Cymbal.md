@@ -41,17 +41,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/TARELKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cymbal](/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal|Cymbal]] 
 
-### #is_/same_as :: [Cymbal.public](/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.public|Cymbal.public]] 
 
-### #is_/same_as :: [Cymbal.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.internal|Cymbal.internal]] 
 
-### #is_/same_as :: [Cymbal.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.protect|Cymbal.protect]] 
 
-### #is_/same_as :: [Cymbal.private](/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.private|Cymbal.private]] 
 
-### #is_/same_as :: [Cymbal.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.personal|Cymbal.personal]] 
 
-### #is_/same_as :: [Cymbal.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/Percussion_Instrument/Cymbal.secret|Cymbal.secret]] 
 

@@ -312,17 +312,17 @@ Copyright ::         © 2002 [Fredrik Pleijel](mailto:pleijel@mnhn.fr)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phyllodocida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida|Phyllodocida]] 
 
-### #is_/same_as :: [Phyllodocida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.public|Phyllodocida.public]] 
 
-### #is_/same_as :: [Phyllodocida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.internal|Phyllodocida.internal]] 
 
-### #is_/same_as :: [Phyllodocida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.protect|Phyllodocida.protect]] 
 
-### #is_/same_as :: [Phyllodocida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.private|Phyllodocida.private]] 
 
-### #is_/same_as :: [Phyllodocida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.personal|Phyllodocida.personal]] 
 
-### #is_/same_as :: [Phyllodocida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida/Phyllodocida.secret|Phyllodocida.secret]] 
 

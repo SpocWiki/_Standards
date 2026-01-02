@@ -37,17 +37,17 @@ Short story or tale. A brief work of literature, usually written in narrative pr
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ShortStory](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory|FileClass~ShortStory]] 
 
-### #is_/same_as :: [FileClass~ShortStory.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.public|FileClass~ShortStory.public]] 
 
-### #is_/same_as :: [FileClass~ShortStory.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.internal|FileClass~ShortStory.internal]] 
 
-### #is_/same_as :: [FileClass~ShortStory.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.protect|FileClass~ShortStory.protect]] 
 
-### #is_/same_as :: [FileClass~ShortStory.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.private|FileClass~ShortStory.private]] 
 
-### #is_/same_as :: [FileClass~ShortStory.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.personal|FileClass~ShortStory.personal]] 
 
-### #is_/same_as :: [FileClass~ShortStory.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~ShortStory.secret|FileClass~ShortStory.secret]] 
 

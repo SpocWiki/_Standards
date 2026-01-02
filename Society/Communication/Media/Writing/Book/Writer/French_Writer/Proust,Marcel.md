@@ -99,17 +99,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proust,Marcel](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel|Proust,Marcel]] 
 
-### #is_/same_as :: [Proust,Marcel.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.public|Proust,Marcel.public]] 
 
-### #is_/same_as :: [Proust,Marcel.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.internal|Proust,Marcel.internal]] 
 
-### #is_/same_as :: [Proust,Marcel.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.protect|Proust,Marcel.protect]] 
 
-### #is_/same_as :: [Proust,Marcel.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.private|Proust,Marcel.private]] 
 
-### #is_/same_as :: [Proust,Marcel.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.personal|Proust,Marcel.personal]] 
 
-### #is_/same_as :: [Proust,Marcel.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Proust,Marcel.secret|Proust,Marcel.secret]] 
 

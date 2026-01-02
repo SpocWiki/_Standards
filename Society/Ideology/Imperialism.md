@@ -38,17 +38,17 @@ U_S_National_Archives_Identifier: 10637576
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Imperialism](/_Standards/Society/Ideology/Imperialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Imperialism|Imperialism]] 
 
-### #is_/same_as :: [Imperialism.public](/_public/Society/Ideology/Imperialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Imperialism.public|Imperialism.public]] 
 
-### #is_/same_as :: [Imperialism.internal](/_internal/Society/Ideology/Imperialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Imperialism.internal|Imperialism.internal]] 
 
-### #is_/same_as :: [Imperialism.protect](/_protect/Society/Ideology/Imperialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Imperialism.protect|Imperialism.protect]] 
 
-### #is_/same_as :: [Imperialism.private](/_private/Society/Ideology/Imperialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Imperialism.private|Imperialism.private]] 
 
-### #is_/same_as :: [Imperialism.personal](/_personal/Society/Ideology/Imperialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Imperialism.personal|Imperialism.personal]] 
 
-### #is_/same_as :: [Imperialism.secret](/_secret/Society/Ideology/Imperialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Imperialism.secret|Imperialism.secret]] 
 

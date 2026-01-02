@@ -37,17 +37,17 @@ Dewey_Decimal_Classification: "361.65"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Welfare_State](/_Standards/Society/Politics/Government/Welfare_State.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Welfare_State|Welfare_State]] 
 
-### #is_/same_as :: [Welfare_State.public](/_public/Society/Politics/Government/Welfare_State.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Welfare_State.public|Welfare_State.public]] 
 
-### #is_/same_as :: [Welfare_State.internal](/_internal/Society/Politics/Government/Welfare_State.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Welfare_State.internal|Welfare_State.internal]] 
 
-### #is_/same_as :: [Welfare_State.protect](/_protect/Society/Politics/Government/Welfare_State.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Welfare_State.protect|Welfare_State.protect]] 
 
-### #is_/same_as :: [Welfare_State.private](/_private/Society/Politics/Government/Welfare_State.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Welfare_State.private|Welfare_State.private]] 
 
-### #is_/same_as :: [Welfare_State.personal](/_personal/Society/Politics/Government/Welfare_State.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Welfare_State.personal|Welfare_State.personal]] 
 
-### #is_/same_as :: [Welfare_State.secret](/_secret/Society/Politics/Government/Welfare_State.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Welfare_State.secret|Welfare_State.secret]] 
 

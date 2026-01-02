@@ -40,17 +40,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Travolta,John](/_Standards/Society/Communication/Media/Movie/Movie-Director/Travolta,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Travolta,John|Travolta,John]] 
 
-### #is_/same_as :: [Travolta,John.public](/_public/Society/Communication/Media/Movie/Movie-Director/Travolta,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Travolta,John.public|Travolta,John.public]] 
 
-### #is_/same_as :: [Travolta,John.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Travolta,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Travolta,John.internal|Travolta,John.internal]] 
 
-### #is_/same_as :: [Travolta,John.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Travolta,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Travolta,John.protect|Travolta,John.protect]] 
 
-### #is_/same_as :: [Travolta,John.private](/_private/Society/Communication/Media/Movie/Movie-Director/Travolta,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Travolta,John.private|Travolta,John.private]] 
 
-### #is_/same_as :: [Travolta,John.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Travolta,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Travolta,John.personal|Travolta,John.personal]] 
 
-### #is_/same_as :: [Travolta,John.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Travolta,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Travolta,John.secret|Travolta,John.secret]] 
 

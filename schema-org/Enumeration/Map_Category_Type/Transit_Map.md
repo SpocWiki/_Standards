@@ -42,17 +42,17 @@ A transit map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transit_Map](/_Standards/schema-org/Enumeration/Map_Category_Type/Transit_Map.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type/Transit_Map|Transit_Map]] 
 
-### #is_/same_as :: [Transit_Map.public](/_public/schema-org/Enumeration/Map_Category_Type/Transit_Map.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Map_Category_Type/Transit_Map.public|Transit_Map.public]] 
 
-### #is_/same_as :: [Transit_Map.internal](/_internal/schema-org/Enumeration/Map_Category_Type/Transit_Map.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Map_Category_Type/Transit_Map.internal|Transit_Map.internal]] 
 
-### #is_/same_as :: [Transit_Map.protect](/_protect/schema-org/Enumeration/Map_Category_Type/Transit_Map.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Map_Category_Type/Transit_Map.protect|Transit_Map.protect]] 
 
-### #is_/same_as :: [Transit_Map.private](/_private/schema-org/Enumeration/Map_Category_Type/Transit_Map.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Map_Category_Type/Transit_Map.private|Transit_Map.private]] 
 
-### #is_/same_as :: [Transit_Map.personal](/_personal/schema-org/Enumeration/Map_Category_Type/Transit_Map.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Map_Category_Type/Transit_Map.personal|Transit_Map.personal]] 
 
-### #is_/same_as :: [Transit_Map.secret](/_secret/schema-org/Enumeration/Map_Category_Type/Transit_Map.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Map_Category_Type/Transit_Map.secret|Transit_Map.secret]] 
 

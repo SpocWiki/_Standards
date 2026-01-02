@@ -20,17 +20,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~femto](/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~femto.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Metric_Prefix/Unit~femto|Unit~femto]] 
 
-### #is_/same_as :: [Unit~femto.public](/_public/Dimension/Dim~Number/Metric_Prefix/Unit~femto.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Metric_Prefix/Unit~femto.public|Unit~femto.public]] 
 
-### #is_/same_as :: [Unit~femto.internal](/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~femto.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Metric_Prefix/Unit~femto.internal|Unit~femto.internal]] 
 
-### #is_/same_as :: [Unit~femto.protect](/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~femto.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Metric_Prefix/Unit~femto.protect|Unit~femto.protect]] 
 
-### #is_/same_as :: [Unit~femto.private](/_private/Dimension/Dim~Number/Metric_Prefix/Unit~femto.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Metric_Prefix/Unit~femto.private|Unit~femto.private]] 
 
-### #is_/same_as :: [Unit~femto.personal](/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~femto.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Metric_Prefix/Unit~femto.personal|Unit~femto.personal]] 
 
-### #is_/same_as :: [Unit~femto.secret](/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~femto.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Metric_Prefix/Unit~femto.secret|Unit~femto.secret]] 
 

@@ -40,17 +40,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhumsiki%20Peak.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volcanic_Plug](/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Volcano/Volcanic_Plug|Volcanic_Plug]] 
 
-### #is_/same_as :: [Volcanic_Plug.public](/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Volcano/Volcanic_Plug.public|Volcanic_Plug.public]] 
 
-### #is_/same_as :: [Volcanic_Plug.internal](/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Volcano/Volcanic_Plug.internal|Volcanic_Plug.internal]] 
 
-### #is_/same_as :: [Volcanic_Plug.protect](/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Volcano/Volcanic_Plug.protect|Volcanic_Plug.protect]] 
 
-### #is_/same_as :: [Volcanic_Plug.private](/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Volcano/Volcanic_Plug.private|Volcanic_Plug.private]] 
 
-### #is_/same_as :: [Volcanic_Plug.personal](/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Volcano/Volcanic_Plug.personal|Volcanic_Plug.personal]] 
 
-### #is_/same_as :: [Volcanic_Plug.secret](/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Volcano/Volcanic_Plug.secret|Volcanic_Plug.secret]] 
 

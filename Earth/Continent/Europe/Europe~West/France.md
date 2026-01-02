@@ -858,17 +858,17 @@ Capital :: [[Paris]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [France](/_Standards/Earth/Continent/Europe/Europe~West/France.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~West/France|France]] 
 
-### #is_/same_as :: [France.public](/_public/Earth/Continent/Europe/Europe~West/France.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~West/France.public|France.public]] 
 
-### #is_/same_as :: [France.internal](/_internal/Earth/Continent/Europe/Europe~West/France.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~West/France.internal|France.internal]] 
 
-### #is_/same_as :: [France.protect](/_protect/Earth/Continent/Europe/Europe~West/France.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~West/France.protect|France.protect]] 
 
-### #is_/same_as :: [France.private](/_private/Earth/Continent/Europe/Europe~West/France.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~West/France.private|France.private]] 
 
-### #is_/same_as :: [France.personal](/_personal/Earth/Continent/Europe/Europe~West/France.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~West/France.personal|France.personal]] 
 
-### #is_/same_as :: [France.secret](/_secret/Earth/Continent/Europe/Europe~West/France.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~West/France.secret|France.secret]] 
 

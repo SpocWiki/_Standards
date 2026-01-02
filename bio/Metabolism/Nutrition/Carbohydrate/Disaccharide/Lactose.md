@@ -106,17 +106,17 @@ SPLASH:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lactose](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose|Lactose]] 
 
-### #is_/same_as :: [Lactose.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.public|Lactose.public]] 
 
-### #is_/same_as :: [Lactose.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.internal|Lactose.internal]] 
 
-### #is_/same_as :: [Lactose.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.protect|Lactose.protect]] 
 
-### #is_/same_as :: [Lactose.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.private|Lactose.private]] 
 
-### #is_/same_as :: [Lactose.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.personal|Lactose.personal]] 
 
-### #is_/same_as :: [Lactose.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Disaccharide/Lactose.secret|Lactose.secret]] 
 

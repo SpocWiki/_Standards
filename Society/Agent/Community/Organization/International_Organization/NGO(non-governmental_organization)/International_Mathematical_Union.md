@@ -48,17 +48,17 @@ domain_name: mathunion.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [International_Mathematical_Union](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union|International_Mathematical_Union]] 
 
-### #is_/same_as :: [International_Mathematical_Union.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.public|International_Mathematical_Union.public]] 
 
-### #is_/same_as :: [International_Mathematical_Union.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.internal|International_Mathematical_Union.internal]] 
 
-### #is_/same_as :: [International_Mathematical_Union.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.protect|International_Mathematical_Union.protect]] 
 
-### #is_/same_as :: [International_Mathematical_Union.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.private|International_Mathematical_Union.private]] 
 
-### #is_/same_as :: [International_Mathematical_Union.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.personal|International_Mathematical_Union.personal]] 
 
-### #is_/same_as :: [International_Mathematical_Union.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/International_Mathematical_Union.secret|International_Mathematical_Union.secret]] 
 

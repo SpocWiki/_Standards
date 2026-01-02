@@ -40,17 +40,17 @@ H
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [trigonal_planar_geometry](/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry|trigonal_planar_geometry]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.public](/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.public|trigonal_planar_geometry.public]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.internal](/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.internal|trigonal_planar_geometry.internal]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.protect](/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.protect|trigonal_planar_geometry.protect]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.private](/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.private|trigonal_planar_geometry.private]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.personal](/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.personal|trigonal_planar_geometry.personal]] 
 
-### #is_/same_as :: [trigonal_planar_geometry.secret](/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/trigonal_planar_geometry.secret|trigonal_planar_geometry.secret]] 
 

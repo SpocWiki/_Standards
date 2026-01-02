@@ -650,17 +650,17 @@ Capital :: [[geo/Continent/Europe/Europe~East/Hungary/Counties/Budapest]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hungary](/_Standards/Earth/Continent/Europe/Europe~East/Hungary.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Hungary|Hungary]] 
 
-### #is_/same_as :: [Hungary.public](/_public/Earth/Continent/Europe/Europe~East/Hungary.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Hungary.public|Hungary.public]] 
 
-### #is_/same_as :: [Hungary.internal](/_internal/Earth/Continent/Europe/Europe~East/Hungary.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Hungary.internal|Hungary.internal]] 
 
-### #is_/same_as :: [Hungary.protect](/_protect/Earth/Continent/Europe/Europe~East/Hungary.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Hungary.protect|Hungary.protect]] 
 
-### #is_/same_as :: [Hungary.private](/_private/Earth/Continent/Europe/Europe~East/Hungary.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Hungary.private|Hungary.private]] 
 
-### #is_/same_as :: [Hungary.personal](/_personal/Earth/Continent/Europe/Europe~East/Hungary.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Hungary.personal|Hungary.personal]] 
 
-### #is_/same_as :: [Hungary.secret](/_secret/Earth/Continent/Europe/Europe~East/Hungary.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Hungary.secret|Hungary.secret]] 
 

@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_holding_archive](/_Standards/schema-org/Relation/is/is_holding_archive.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_holding_archive|is_holding_archive]] 
 
-### #is_/same_as :: [is_holding_archive.public](/_public/schema-org/Relation/is/is_holding_archive.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_holding_archive.public|is_holding_archive.public]] 
 
-### #is_/same_as :: [is_holding_archive.internal](/_internal/schema-org/Relation/is/is_holding_archive.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_holding_archive.internal|is_holding_archive.internal]] 
 
-### #is_/same_as :: [is_holding_archive.protect](/_protect/schema-org/Relation/is/is_holding_archive.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_holding_archive.protect|is_holding_archive.protect]] 
 
-### #is_/same_as :: [is_holding_archive.private](/_private/schema-org/Relation/is/is_holding_archive.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_holding_archive.private|is_holding_archive.private]] 
 
-### #is_/same_as :: [is_holding_archive.personal](/_personal/schema-org/Relation/is/is_holding_archive.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_holding_archive.personal|is_holding_archive.personal]] 
 
-### #is_/same_as :: [is_holding_archive.secret](/_secret/schema-org/Relation/is/is_holding_archive.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_holding_archive.secret|is_holding_archive.secret]] 
 

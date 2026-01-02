@@ -42,17 +42,17 @@ TrialDesign:: {"type":"Select","options":{"valuesList":{"DoubleBlindedTrial","In
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalTrial](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial|FileClass~MedicalTrial]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.public|FileClass~MedicalTrial.public]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.internal|FileClass~MedicalTrial.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.protect|FileClass~MedicalTrial.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.private|FileClass~MedicalTrial.private]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.personal|FileClass~MedicalTrial.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalTrial.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy/FileClass~MedicalTrial.secret|FileClass~MedicalTrial.secret]] 
 

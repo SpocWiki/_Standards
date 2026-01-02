@@ -143,17 +143,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/LOREN_SOFIYA.htm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loren,Sophia](/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia|Loren,Sophia]] 
 
-### #is_/same_as :: [Loren,Sophia.public](/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.public|Loren,Sophia.public]] 
 
-### #is_/same_as :: [Loren,Sophia.internal](/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.internal|Loren,Sophia.internal]] 
 
-### #is_/same_as :: [Loren,Sophia.protect](/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.protect|Loren,Sophia.protect]] 
 
-### #is_/same_as :: [Loren,Sophia.private](/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.private|Loren,Sophia.private]] 
 
-### #is_/same_as :: [Loren,Sophia.personal](/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.personal|Loren,Sophia.personal]] 
 
-### #is_/same_as :: [Loren,Sophia.secret](/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Italian_Actor/Loren,Sophia.secret|Loren,Sophia.secret]] 
 

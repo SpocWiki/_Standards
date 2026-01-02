@@ -42,17 +42,17 @@ An in-progress action (e.g., while watching the movie, or driving to a location)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Active_Action_Status](/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status|Active_Action_Status]] 
 
-### #is_/same_as :: [Active_Action_Status.public](/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.public|Active_Action_Status.public]] 
 
-### #is_/same_as :: [Active_Action_Status.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.internal|Active_Action_Status.internal]] 
 
-### #is_/same_as :: [Active_Action_Status.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.protect|Active_Action_Status.protect]] 
 
-### #is_/same_as :: [Active_Action_Status.private](/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.private|Active_Action_Status.private]] 
 
-### #is_/same_as :: [Active_Action_Status.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.personal|Active_Action_Status.personal]] 
 
-### #is_/same_as :: [Active_Action_Status.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Action_Status_Type/Active_Action_Status.secret|Active_Action_Status.secret]] 
 

@@ -48,17 +48,17 @@ Iconclass_notation: 49L72
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Code](/_Standards/Technology/IT/Data/Code.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code|Code]] 
 
-### #is_/same_as :: [Code.public](/_public/Technology/IT/Data/Code.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code.public|Code.public]] 
 
-### #is_/same_as :: [Code.internal](/_internal/Technology/IT/Data/Code.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code.internal|Code.internal]] 
 
-### #is_/same_as :: [Code.protect](/_protect/Technology/IT/Data/Code.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code.protect|Code.protect]] 
 
-### #is_/same_as :: [Code.private](/_private/Technology/IT/Data/Code.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code.private|Code.private]] 
 
-### #is_/same_as :: [Code.personal](/_personal/Technology/IT/Data/Code.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code.personal|Code.personal]] 
 
-### #is_/same_as :: [Code.secret](/_secret/Technology/IT/Data/Code.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code.secret|Code.secret]] 
 

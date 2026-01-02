@@ -30,17 +30,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/MISTERIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mystery_Play](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play|Mystery_Play]] 
 
-### #is_/same_as :: [Mystery_Play.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.public|Mystery_Play.public]] 
 
-### #is_/same_as :: [Mystery_Play.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.internal|Mystery_Play.internal]] 
 
-### #is_/same_as :: [Mystery_Play.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.protect|Mystery_Play.protect]] 
 
-### #is_/same_as :: [Mystery_Play.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.private|Mystery_Play.private]] 
 
-### #is_/same_as :: [Mystery_Play.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.personal|Mystery_Play.personal]] 
 
-### #is_/same_as :: [Mystery_Play.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Mystery_Play.secret|Mystery_Play.secret]] 
 

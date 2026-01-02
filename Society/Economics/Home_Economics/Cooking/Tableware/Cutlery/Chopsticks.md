@@ -75,17 +75,17 @@ Unicode_character: 🥢
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chopsticks](/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks|Chopsticks]] 
 
-### #is_/same_as :: [Chopsticks.public](/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.public|Chopsticks.public]] 
 
-### #is_/same_as :: [Chopsticks.internal](/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.internal|Chopsticks.internal]] 
 
-### #is_/same_as :: [Chopsticks.protect](/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.protect|Chopsticks.protect]] 
 
-### #is_/same_as :: [Chopsticks.private](/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.private|Chopsticks.private]] 
 
-### #is_/same_as :: [Chopsticks.personal](/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.personal|Chopsticks.personal]] 
 
-### #is_/same_as :: [Chopsticks.secret](/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Tableware/Cutlery/Chopsticks.secret|Chopsticks.secret]] 
 

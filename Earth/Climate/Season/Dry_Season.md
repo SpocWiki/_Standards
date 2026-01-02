@@ -25,17 +25,17 @@ Commons_category: Dry season
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dry_Season](/_Standards/Earth/Climate/Season/Dry_Season.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Season/Dry_Season|Dry_Season]] 
 
-### #is_/same_as :: [Dry_Season.public](/_public/Earth/Climate/Season/Dry_Season.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Season/Dry_Season.public|Dry_Season.public]] 
 
-### #is_/same_as :: [Dry_Season.internal](/_internal/Earth/Climate/Season/Dry_Season.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Season/Dry_Season.internal|Dry_Season.internal]] 
 
-### #is_/same_as :: [Dry_Season.protect](/_protect/Earth/Climate/Season/Dry_Season.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Season/Dry_Season.protect|Dry_Season.protect]] 
 
-### #is_/same_as :: [Dry_Season.private](/_private/Earth/Climate/Season/Dry_Season.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Season/Dry_Season.private|Dry_Season.private]] 
 
-### #is_/same_as :: [Dry_Season.personal](/_personal/Earth/Climate/Season/Dry_Season.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Season/Dry_Season.personal|Dry_Season.personal]] 
 
-### #is_/same_as :: [Dry_Season.secret](/_secret/Earth/Climate/Season/Dry_Season.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Season/Dry_Season.secret|Dry_Season.secret]] 
 

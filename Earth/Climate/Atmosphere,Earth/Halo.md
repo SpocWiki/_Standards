@@ -48,17 +48,17 @@ Commons_category: Halo phenomena
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Halo](/_Standards/Earth/Climate/Atmosphere,Earth/Halo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]] 
 
-### #is_/same_as :: [Halo.public](/_public/Earth/Climate/Atmosphere,Earth/Halo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]] 
 
-### #is_/same_as :: [Halo.internal](/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]] 
 
-### #is_/same_as :: [Halo.protect](/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Atmosphere,Earth/Halo.protect|Halo.protect]] 
 
-### #is_/same_as :: [Halo.private](/_private/Earth/Climate/Atmosphere,Earth/Halo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Atmosphere,Earth/Halo.private|Halo.private]] 
 
-### #is_/same_as :: [Halo.personal](/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]] 
 
-### #is_/same_as :: [Halo.secret](/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]] 
 

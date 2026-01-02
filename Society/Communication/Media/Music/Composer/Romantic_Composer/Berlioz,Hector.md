@@ -142,17 +142,17 @@ Europeana_entity: agent/base/147049
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Berlioz,Hector](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector|Berlioz,Hector]] 
 
-### #is_/same_as :: [Berlioz,Hector.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.public|Berlioz,Hector.public]] 
 
-### #is_/same_as :: [Berlioz,Hector.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.internal|Berlioz,Hector.internal]] 
 
-### #is_/same_as :: [Berlioz,Hector.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.protect|Berlioz,Hector.protect]] 
 
-### #is_/same_as :: [Berlioz,Hector.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.private|Berlioz,Hector.private]] 
 
-### #is_/same_as :: [Berlioz,Hector.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.personal|Berlioz,Hector.personal]] 
 
-### #is_/same_as :: [Berlioz,Hector.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Berlioz,Hector.secret|Berlioz,Hector.secret]] 
 

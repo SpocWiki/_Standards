@@ -106,17 +106,17 @@ longitude_of_ascending_node: 80.24963090816965
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ceres(Asteroid)](/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid)|Ceres(Asteroid)]] 
 
-### #is_/same_as :: [Ceres(Asteroid).public](/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).public|Ceres(Asteroid).public]] 
 
-### #is_/same_as :: [Ceres(Asteroid).internal](/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).internal|Ceres(Asteroid).internal]] 
 
-### #is_/same_as :: [Ceres(Asteroid).protect](/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).protect|Ceres(Asteroid).protect]] 
 
-### #is_/same_as :: [Ceres(Asteroid).private](/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).private|Ceres(Asteroid).private]] 
 
-### #is_/same_as :: [Ceres(Asteroid).personal](/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).personal|Ceres(Asteroid).personal]] 
 
-### #is_/same_as :: [Ceres(Asteroid).secret](/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Asteroid_Belt/Ceres(Asteroid).secret|Ceres(Asteroid).secret]] 
 

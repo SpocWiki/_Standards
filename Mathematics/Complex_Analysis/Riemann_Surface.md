@@ -47,17 +47,17 @@ Commons_category: Complex algebraic curves and Riemann surfaces
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Riemann_Surface](/_Standards/Mathematics/Complex_Analysis/Riemann_Surface.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Riemann_Surface|Riemann_Surface]] 
 
-### #is_/same_as :: [Riemann_Surface.public](/_public/Mathematics/Complex_Analysis/Riemann_Surface.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Riemann_Surface.public|Riemann_Surface.public]] 
 
-### #is_/same_as :: [Riemann_Surface.internal](/_internal/Mathematics/Complex_Analysis/Riemann_Surface.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Riemann_Surface.internal|Riemann_Surface.internal]] 
 
-### #is_/same_as :: [Riemann_Surface.protect](/_protect/Mathematics/Complex_Analysis/Riemann_Surface.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Riemann_Surface.protect|Riemann_Surface.protect]] 
 
-### #is_/same_as :: [Riemann_Surface.private](/_private/Mathematics/Complex_Analysis/Riemann_Surface.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Riemann_Surface.private|Riemann_Surface.private]] 
 
-### #is_/same_as :: [Riemann_Surface.personal](/_personal/Mathematics/Complex_Analysis/Riemann_Surface.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Riemann_Surface.personal|Riemann_Surface.personal]] 
 
-### #is_/same_as :: [Riemann_Surface.secret](/_secret/Mathematics/Complex_Analysis/Riemann_Surface.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Riemann_Surface.secret|Riemann_Surface.secret]] 
 

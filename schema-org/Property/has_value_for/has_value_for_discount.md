@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_discount](/_Standards/schema-org/Property/has_value_for/has_value_for_discount.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_discount|has_value_for_discount]] 
 
-### #is_/same_as :: [has_value_for_discount.public](/_public/schema-org/Property/has_value_for/has_value_for_discount.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_discount.public|has_value_for_discount.public]] 
 
-### #is_/same_as :: [has_value_for_discount.internal](/_internal/schema-org/Property/has_value_for/has_value_for_discount.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_discount.internal|has_value_for_discount.internal]] 
 
-### #is_/same_as :: [has_value_for_discount.protect](/_protect/schema-org/Property/has_value_for/has_value_for_discount.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_discount.protect|has_value_for_discount.protect]] 
 
-### #is_/same_as :: [has_value_for_discount.private](/_private/schema-org/Property/has_value_for/has_value_for_discount.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_discount.private|has_value_for_discount.private]] 
 
-### #is_/same_as :: [has_value_for_discount.personal](/_personal/schema-org/Property/has_value_for/has_value_for_discount.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_discount.personal|has_value_for_discount.personal]] 
 
-### #is_/same_as :: [has_value_for_discount.secret](/_secret/schema-org/Property/has_value_for/has_value_for_discount.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_discount.secret|has_value_for_discount.secret]] 
 

@@ -39,17 +39,17 @@ An apartment (in American English) or flat (in British English) is a self-contai
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apartment](/_Standards/Earth/Geography/Place/Accommodation/Apartment.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Accommodation/Apartment|Apartment]] 
 
-### #is_/same_as :: [Apartment.public](/_public/Earth/Geography/Place/Accommodation/Apartment.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Accommodation/Apartment.public|Apartment.public]] 
 
-### #is_/same_as :: [Apartment.internal](/_internal/Earth/Geography/Place/Accommodation/Apartment.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Accommodation/Apartment.internal|Apartment.internal]] 
 
-### #is_/same_as :: [Apartment.protect](/_protect/Earth/Geography/Place/Accommodation/Apartment.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Accommodation/Apartment.protect|Apartment.protect]] 
 
-### #is_/same_as :: [Apartment.private](/_private/Earth/Geography/Place/Accommodation/Apartment.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Accommodation/Apartment.private|Apartment.private]] 
 
-### #is_/same_as :: [Apartment.personal](/_personal/Earth/Geography/Place/Accommodation/Apartment.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Accommodation/Apartment.personal|Apartment.personal]] 
 
-### #is_/same_as :: [Apartment.secret](/_secret/Earth/Geography/Place/Accommodation/Apartment.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Accommodation/Apartment.secret|Apartment.secret]] 
 

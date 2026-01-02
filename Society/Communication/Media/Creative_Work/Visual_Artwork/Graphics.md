@@ -64,17 +64,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/GRAF
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graphics](/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics|Graphics]] 
 
-### #is_/same_as :: [Graphics.public](/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.public|Graphics.public]] 
 
-### #is_/same_as :: [Graphics.internal](/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.internal|Graphics.internal]] 
 
-### #is_/same_as :: [Graphics.protect](/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.protect|Graphics.protect]] 
 
-### #is_/same_as :: [Graphics.private](/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.private|Graphics.private]] 
 
-### #is_/same_as :: [Graphics.personal](/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.personal|Graphics.personal]] 
 
-### #is_/same_as :: [Graphics.secret](/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Visual_Artwork/Graphics.secret|Graphics.secret]] 
 

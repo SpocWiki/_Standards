@@ -55,17 +55,17 @@ Krugosvet_article: muzyka/koncert-muzykalnaya-forma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Concerto](/_Standards/Society/Communication/Media/Music/Music_Genre/Concerto.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Concerto|Concerto]] 
 
-### #is_/same_as :: [Concerto.public](/_public/Society/Communication/Media/Music/Music_Genre/Concerto.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Concerto.public|Concerto.public]] 
 
-### #is_/same_as :: [Concerto.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Concerto.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Concerto.internal|Concerto.internal]] 
 
-### #is_/same_as :: [Concerto.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Concerto.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Concerto.protect|Concerto.protect]] 
 
-### #is_/same_as :: [Concerto.private](/_private/Society/Communication/Media/Music/Music_Genre/Concerto.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Concerto.private|Concerto.private]] 
 
-### #is_/same_as :: [Concerto.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Concerto.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Concerto.personal|Concerto.personal]] 
 
-### #is_/same_as :: [Concerto.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Concerto.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Concerto.secret|Concerto.secret]] 
 

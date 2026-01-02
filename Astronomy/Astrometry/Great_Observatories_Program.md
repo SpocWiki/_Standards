@@ -32,17 +32,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20Observatories.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Great_Observatories_Program](/_Standards/Astronomy/Astrometry/Great_Observatories_Program.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Great_Observatories_Program|Great_Observatories_Program]] 
 
-### #is_/same_as :: [Great_Observatories_Program.public](/_public/Astronomy/Astrometry/Great_Observatories_Program.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Great_Observatories_Program.public|Great_Observatories_Program.public]] 
 
-### #is_/same_as :: [Great_Observatories_Program.internal](/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Great_Observatories_Program.internal|Great_Observatories_Program.internal]] 
 
-### #is_/same_as :: [Great_Observatories_Program.protect](/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Great_Observatories_Program.protect|Great_Observatories_Program.protect]] 
 
-### #is_/same_as :: [Great_Observatories_Program.private](/_private/Astronomy/Astrometry/Great_Observatories_Program.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Great_Observatories_Program.private|Great_Observatories_Program.private]] 
 
-### #is_/same_as :: [Great_Observatories_Program.personal](/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Great_Observatories_Program.personal|Great_Observatories_Program.personal]] 
 
-### #is_/same_as :: [Great_Observatories_Program.secret](/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Great_Observatories_Program.secret|Great_Observatories_Program.secret]] 
 

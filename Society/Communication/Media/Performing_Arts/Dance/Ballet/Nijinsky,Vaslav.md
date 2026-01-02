@@ -88,17 +88,17 @@ work_period_start_: 1908-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nijinsky,Vaslav](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav|Nijinsky,Vaslav]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.public|Nijinsky,Vaslav.public]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.internal|Nijinsky,Vaslav.internal]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.protect|Nijinsky,Vaslav.protect]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.private|Nijinsky,Vaslav.private]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.personal|Nijinsky,Vaslav.personal]] 
 
-### #is_/same_as :: [Nijinsky,Vaslav.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballet/Nijinsky,Vaslav.secret|Nijinsky,Vaslav.secret]] 
 

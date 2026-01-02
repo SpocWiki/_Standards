@@ -42,17 +42,17 @@ Indicates that the item is damaged.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Damaged_Condition](/_Standards/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition|Damaged_Condition]] 
 
-### #is_/same_as :: [Damaged_Condition.public](/_public/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.public|Damaged_Condition.public]] 
 
-### #is_/same_as :: [Damaged_Condition.internal](/_internal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.internal|Damaged_Condition.internal]] 
 
-### #is_/same_as :: [Damaged_Condition.protect](/_protect/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.protect|Damaged_Condition.protect]] 
 
-### #is_/same_as :: [Damaged_Condition.private](/_private/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.private|Damaged_Condition.private]] 
 
-### #is_/same_as :: [Damaged_Condition.personal](/_personal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.personal|Damaged_Condition.personal]] 
 
-### #is_/same_as :: [Damaged_Condition.secret](/_secret/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Offer_Item_Condition/Damaged_Condition.secret|Damaged_Condition.secret]] 
 

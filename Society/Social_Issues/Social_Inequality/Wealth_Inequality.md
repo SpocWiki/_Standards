@@ -30,17 +30,17 @@ Since 1982, [[Forbes_Magazine]] unashamedly publishes the List of the richest Pe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wealth_Inequality](/_Standards/Society/Social_Issues/Social_Inequality/Wealth_Inequality.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Social_Inequality/Wealth_Inequality|Wealth_Inequality]] 
 
-### #is_/same_as :: [Wealth_Inequality.public](/_public/Society/Social_Issues/Social_Inequality/Wealth_Inequality.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Social_Inequality/Wealth_Inequality.public|Wealth_Inequality.public]] 
 
-### #is_/same_as :: [Wealth_Inequality.internal](/_internal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.internal|Wealth_Inequality.internal]] 
 
-### #is_/same_as :: [Wealth_Inequality.protect](/_protect/Society/Social_Issues/Social_Inequality/Wealth_Inequality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Social_Inequality/Wealth_Inequality.protect|Wealth_Inequality.protect]] 
 
-### #is_/same_as :: [Wealth_Inequality.private](/_private/Society/Social_Issues/Social_Inequality/Wealth_Inequality.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Social_Inequality/Wealth_Inequality.private|Wealth_Inequality.private]] 
 
-### #is_/same_as :: [Wealth_Inequality.personal](/_personal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Social_Inequality/Wealth_Inequality.personal|Wealth_Inequality.personal]] 
 
-### #is_/same_as :: [Wealth_Inequality.secret](/_secret/Society/Social_Issues/Social_Inequality/Wealth_Inequality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Social_Inequality/Wealth_Inequality.secret|Wealth_Inequality.secret]] 
 

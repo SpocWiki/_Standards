@@ -88,17 +88,17 @@ Google_Doodle: sputnik-50th-anniversary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sputnik](/_Standards/Earth/Satellite/Sputnik.md) 
+### #is_/same_as :: [[/_Standards/Earth/Satellite/Sputnik|Sputnik]] 
 
-### #is_/same_as :: [Sputnik.public](/_public/Earth/Satellite/Sputnik.public.md) 
+### #is_/same_as :: [[/_public/Earth/Satellite/Sputnik.public|Sputnik.public]] 
 
-### #is_/same_as :: [Sputnik.internal](/_internal/Earth/Satellite/Sputnik.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Satellite/Sputnik.internal|Sputnik.internal]] 
 
-### #is_/same_as :: [Sputnik.protect](/_protect/Earth/Satellite/Sputnik.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Satellite/Sputnik.protect|Sputnik.protect]] 
 
-### #is_/same_as :: [Sputnik.private](/_private/Earth/Satellite/Sputnik.private.md) 
+### #is_/same_as :: [[/_private/Earth/Satellite/Sputnik.private|Sputnik.private]] 
 
-### #is_/same_as :: [Sputnik.personal](/_personal/Earth/Satellite/Sputnik.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Satellite/Sputnik.personal|Sputnik.personal]] 
 
-### #is_/same_as :: [Sputnik.secret](/_secret/Earth/Satellite/Sputnik.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Satellite/Sputnik.secret|Sputnik.secret]] 
 

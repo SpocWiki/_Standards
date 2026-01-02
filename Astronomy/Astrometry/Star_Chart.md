@@ -36,17 +36,17 @@ Iconclass_notation: "49E12"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Chart](/_Standards/Astronomy/Astrometry/Star_Chart.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astrometry/Star_Chart|Star_Chart]] 
 
-### #is_/same_as :: [Star_Chart.public](/_public/Astronomy/Astrometry/Star_Chart.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astrometry/Star_Chart.public|Star_Chart.public]] 
 
-### #is_/same_as :: [Star_Chart.internal](/_internal/Astronomy/Astrometry/Star_Chart.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astrometry/Star_Chart.internal|Star_Chart.internal]] 
 
-### #is_/same_as :: [Star_Chart.protect](/_protect/Astronomy/Astrometry/Star_Chart.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astrometry/Star_Chart.protect|Star_Chart.protect]] 
 
-### #is_/same_as :: [Star_Chart.private](/_private/Astronomy/Astrometry/Star_Chart.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astrometry/Star_Chart.private|Star_Chart.private]] 
 
-### #is_/same_as :: [Star_Chart.personal](/_personal/Astronomy/Astrometry/Star_Chart.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astrometry/Star_Chart.personal|Star_Chart.personal]] 
 
-### #is_/same_as :: [Star_Chart.secret](/_secret/Astronomy/Astrometry/Star_Chart.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astrometry/Star_Chart.secret|Star_Chart.secret]] 
 

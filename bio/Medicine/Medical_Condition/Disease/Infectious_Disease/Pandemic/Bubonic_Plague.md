@@ -92,17 +92,17 @@ UMLS_CUI: C0282312
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bubonic_Plague](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague|Bubonic_Plague]] 
 
-### #is_/same_as :: [Bubonic_Plague.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.public|Bubonic_Plague.public]] 
 
-### #is_/same_as :: [Bubonic_Plague.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.internal|Bubonic_Plague.internal]] 
 
-### #is_/same_as :: [Bubonic_Plague.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.protect|Bubonic_Plague.protect]] 
 
-### #is_/same_as :: [Bubonic_Plague.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.private|Bubonic_Plague.private]] 
 
-### #is_/same_as :: [Bubonic_Plague.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.personal|Bubonic_Plague.personal]] 
 
-### #is_/same_as :: [Bubonic_Plague.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Bubonic_Plague.secret|Bubonic_Plague.secret]] 
 

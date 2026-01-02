@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chloroflexota](/_Standards/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota|Chloroflexota]] 
 
-### #is_/same_as :: [Chloroflexota.public](/_public/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.public|Chloroflexota.public]] 
 
-### #is_/same_as :: [Chloroflexota.internal](/_internal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.internal|Chloroflexota.internal]] 
 
-### #is_/same_as :: [Chloroflexota.protect](/_protect/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.protect|Chloroflexota.protect]] 
 
-### #is_/same_as :: [Chloroflexota.private](/_private/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.private|Chloroflexota.private]] 
 
-### #is_/same_as :: [Chloroflexota.personal](/_personal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.personal|Chloroflexota.personal]] 
 
-### #is_/same_as :: [Chloroflexota.secret](/_secret/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Bacillati/Chloroflexota.secret|Chloroflexota.secret]] 
 

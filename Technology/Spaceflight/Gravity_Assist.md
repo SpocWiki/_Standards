@@ -57,17 +57,17 @@ time_of_earliest_written_record: 1925-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gravity_Assist](/_Standards/Technology/Spaceflight/Gravity_Assist.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Gravity_Assist|Gravity_Assist]] 
 
-### #is_/same_as :: [Gravity_Assist.public](/_public/Technology/Spaceflight/Gravity_Assist.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Gravity_Assist.public|Gravity_Assist.public]] 
 
-### #is_/same_as :: [Gravity_Assist.internal](/_internal/Technology/Spaceflight/Gravity_Assist.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Gravity_Assist.internal|Gravity_Assist.internal]] 
 
-### #is_/same_as :: [Gravity_Assist.protect](/_protect/Technology/Spaceflight/Gravity_Assist.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Gravity_Assist.protect|Gravity_Assist.protect]] 
 
-### #is_/same_as :: [Gravity_Assist.private](/_private/Technology/Spaceflight/Gravity_Assist.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Gravity_Assist.private|Gravity_Assist.private]] 
 
-### #is_/same_as :: [Gravity_Assist.personal](/_personal/Technology/Spaceflight/Gravity_Assist.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Gravity_Assist.personal|Gravity_Assist.personal]] 
 
-### #is_/same_as :: [Gravity_Assist.secret](/_secret/Technology/Spaceflight/Gravity_Assist.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Gravity_Assist.secret|Gravity_Assist.secret]] 
 

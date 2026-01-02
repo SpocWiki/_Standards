@@ -243,17 +243,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lenin,Vladimir](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir|Lenin,Vladimir]] 
 
-### #is_/same_as :: [Lenin,Vladimir.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.public|Lenin,Vladimir.public]] 
 
-### #is_/same_as :: [Lenin,Vladimir.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.internal|Lenin,Vladimir.internal]] 
 
-### #is_/same_as :: [Lenin,Vladimir.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.protect|Lenin,Vladimir.protect]] 
 
-### #is_/same_as :: [Lenin,Vladimir.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.private|Lenin,Vladimir.private]] 
 
-### #is_/same_as :: [Lenin,Vladimir.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.personal|Lenin,Vladimir.personal]] 
 
-### #is_/same_as :: [Lenin,Vladimir.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Lenin,Vladimir.secret|Lenin,Vladimir.secret]] 
 

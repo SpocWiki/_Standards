@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Last_Answer(Asimov)](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov)|Last_Answer(Asimov)]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).public|Last_Answer(Asimov).public]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).internal|Last_Answer(Asimov).internal]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).protect|Last_Answer(Asimov).protect]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).private|Last_Answer(Asimov).private]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).personal|Last_Answer(Asimov).personal]] 
 
-### #is_/same_as :: [Last_Answer(Asimov).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).secret|Last_Answer(Asimov).secret]] 
 

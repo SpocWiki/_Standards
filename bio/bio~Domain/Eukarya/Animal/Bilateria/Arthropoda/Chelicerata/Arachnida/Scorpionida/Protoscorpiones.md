@@ -33,17 +33,17 @@ title: Protoscorpiones
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Protoscorpiones](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones|Protoscorpiones]] 
 
-### #is_/same_as :: [Protoscorpiones.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.public|Protoscorpiones.public]] 
 
-### #is_/same_as :: [Protoscorpiones.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.internal|Protoscorpiones.internal]] 
 
-### #is_/same_as :: [Protoscorpiones.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.protect|Protoscorpiones.protect]] 
 
-### #is_/same_as :: [Protoscorpiones.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.private|Protoscorpiones.private]] 
 
-### #is_/same_as :: [Protoscorpiones.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.personal|Protoscorpiones.personal]] 
 
-### #is_/same_as :: [Protoscorpiones.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Scorpionida/Protoscorpiones.secret|Protoscorpiones.secret]] 
 

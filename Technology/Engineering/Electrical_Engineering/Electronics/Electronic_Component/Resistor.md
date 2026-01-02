@@ -57,17 +57,17 @@ subclass_of: '[[_Standards/WikiData/WD~electronic_component,11653]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Resistor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor|Resistor]] 
 
-### #is_/same_as :: [Resistor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.public|Resistor.public]] 
 
-### #is_/same_as :: [Resistor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.internal|Resistor.internal]] 
 
-### #is_/same_as :: [Resistor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.protect|Resistor.protect]] 
 
-### #is_/same_as :: [Resistor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.private|Resistor.private]] 
 
-### #is_/same_as :: [Resistor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.personal|Resistor.personal]] 
 
-### #is_/same_as :: [Resistor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Resistor.secret|Resistor.secret]] 
 

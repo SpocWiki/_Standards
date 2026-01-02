@@ -48,17 +48,17 @@ Dewey_Decimal_Classification: 597.81392
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tadpole](/_Standards/bio/Metabolism/Larva/Tadpole.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Larva/Tadpole|Tadpole]] 
 
-### #is_/same_as :: [Tadpole.public](/_public/bio/Metabolism/Larva/Tadpole.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Larva/Tadpole.public|Tadpole.public]] 
 
-### #is_/same_as :: [Tadpole.internal](/_internal/bio/Metabolism/Larva/Tadpole.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Larva/Tadpole.internal|Tadpole.internal]] 
 
-### #is_/same_as :: [Tadpole.protect](/_protect/bio/Metabolism/Larva/Tadpole.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Larva/Tadpole.protect|Tadpole.protect]] 
 
-### #is_/same_as :: [Tadpole.private](/_private/bio/Metabolism/Larva/Tadpole.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Larva/Tadpole.private|Tadpole.private]] 
 
-### #is_/same_as :: [Tadpole.personal](/_personal/bio/Metabolism/Larva/Tadpole.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Larva/Tadpole.personal|Tadpole.personal]] 
 
-### #is_/same_as :: [Tadpole.secret](/_secret/bio/Metabolism/Larva/Tadpole.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Larva/Tadpole.secret|Tadpole.secret]] 
 

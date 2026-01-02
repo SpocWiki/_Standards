@@ -43,17 +43,17 @@ A creative work with a visual storytelling format intended to be viewed online, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amp_Story](/_Standards/Society/Communication/Media/Creative_Work/Amp_Story.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Amp_Story|Amp_Story]] 
 
-### #is_/same_as :: [Amp_Story.public](/_public/Society/Communication/Media/Creative_Work/Amp_Story.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Amp_Story.public|Amp_Story.public]] 
 
-### #is_/same_as :: [Amp_Story.internal](/_internal/Society/Communication/Media/Creative_Work/Amp_Story.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Amp_Story.internal|Amp_Story.internal]] 
 
-### #is_/same_as :: [Amp_Story.protect](/_protect/Society/Communication/Media/Creative_Work/Amp_Story.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Amp_Story.protect|Amp_Story.protect]] 
 
-### #is_/same_as :: [Amp_Story.private](/_private/Society/Communication/Media/Creative_Work/Amp_Story.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Amp_Story.private|Amp_Story.private]] 
 
-### #is_/same_as :: [Amp_Story.personal](/_personal/Society/Communication/Media/Creative_Work/Amp_Story.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Amp_Story.personal|Amp_Story.personal]] 
 
-### #is_/same_as :: [Amp_Story.secret](/_secret/Society/Communication/Media/Creative_Work/Amp_Story.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Amp_Story.secret|Amp_Story.secret]] 
 

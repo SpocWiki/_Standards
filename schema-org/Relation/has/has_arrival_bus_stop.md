@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_arrival_bus_stop](/_Standards/schema-org/Relation/has/has_arrival_bus_stop.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_arrival_bus_stop|has_arrival_bus_stop]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.public](/_public/schema-org/Relation/has/has_arrival_bus_stop.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_arrival_bus_stop.public|has_arrival_bus_stop.public]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.internal](/_internal/schema-org/Relation/has/has_arrival_bus_stop.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_arrival_bus_stop.internal|has_arrival_bus_stop.internal]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.protect](/_protect/schema-org/Relation/has/has_arrival_bus_stop.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_arrival_bus_stop.protect|has_arrival_bus_stop.protect]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.private](/_private/schema-org/Relation/has/has_arrival_bus_stop.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_arrival_bus_stop.private|has_arrival_bus_stop.private]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.personal](/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_arrival_bus_stop.personal|has_arrival_bus_stop.personal]] 
 
-### #is_/same_as :: [has_arrival_bus_stop.secret](/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_arrival_bus_stop.secret|has_arrival_bus_stop.secret]] 
 

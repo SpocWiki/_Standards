@@ -57,17 +57,17 @@ GOST_7_75_97_code: афз 069
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic](/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Afro-Asiatic|LangFamily-Afro-Asiatic]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.public](/_public/Language/Language_Family/LangFamily-Afro-Asiatic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Afro-Asiatic.public|LangFamily-Afro-Asiatic.public]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.internal](/_internal/Language/Language_Family/LangFamily-Afro-Asiatic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Afro-Asiatic.internal|LangFamily-Afro-Asiatic.internal]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.protect](/_protect/Language/Language_Family/LangFamily-Afro-Asiatic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Afro-Asiatic.protect|LangFamily-Afro-Asiatic.protect]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.private](/_private/Language/Language_Family/LangFamily-Afro-Asiatic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Afro-Asiatic.private|LangFamily-Afro-Asiatic.private]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.personal](/_personal/Language/Language_Family/LangFamily-Afro-Asiatic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Afro-Asiatic.personal|LangFamily-Afro-Asiatic.personal]] 
 
-### #is_/same_as :: [LangFamily-Afro-Asiatic.secret](/_secret/Language/Language_Family/LangFamily-Afro-Asiatic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Afro-Asiatic.secret|LangFamily-Afro-Asiatic.secret]] 
 

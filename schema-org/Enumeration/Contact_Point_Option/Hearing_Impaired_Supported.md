@@ -42,17 +42,17 @@ Uses devices to support users with hearing impairments.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hearing_Impaired_Supported](/_Standards/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported|Hearing_Impaired_Supported]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.public](/_public/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.public|Hearing_Impaired_Supported.public]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.internal](/_internal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.internal|Hearing_Impaired_Supported.internal]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.protect](/_protect/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.protect|Hearing_Impaired_Supported.protect]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.private](/_private/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.private|Hearing_Impaired_Supported.private]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.personal](/_personal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.personal|Hearing_Impaired_Supported.personal]] 
 
-### #is_/same_as :: [Hearing_Impaired_Supported.secret](/_secret/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Contact_Point_Option/Hearing_Impaired_Supported.secret|Hearing_Impaired_Supported.secret]] 
 

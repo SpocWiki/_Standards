@@ -42,17 +42,17 @@ OrderStatus representing that an order has been returned.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Returned](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned|Order_Returned]] 
 
-### #is_/same_as :: [Order_Returned.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.public|Order_Returned.public]] 
 
-### #is_/same_as :: [Order_Returned.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.internal|Order_Returned.internal]] 
 
-### #is_/same_as :: [Order_Returned.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.protect|Order_Returned.protect]] 
 
-### #is_/same_as :: [Order_Returned.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.private|Order_Returned.private]] 
 
-### #is_/same_as :: [Order_Returned.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.personal|Order_Returned.personal]] 
 
-### #is_/same_as :: [Order_Returned.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Returned.secret|Order_Returned.secret]] 
 

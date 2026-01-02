@@ -35,17 +35,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atmosphere](/_Standards/Astronomy/Planet/Atmosphere.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Atmosphere|Atmosphere]] 
 
-### #is_/same_as :: [Atmosphere.public](/_public/Astronomy/Planet/Atmosphere.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Atmosphere.public|Atmosphere.public]] 
 
-### #is_/same_as :: [Atmosphere.internal](/_internal/Astronomy/Planet/Atmosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Atmosphere.internal|Atmosphere.internal]] 
 
-### #is_/same_as :: [Atmosphere.protect](/_protect/Astronomy/Planet/Atmosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Atmosphere.protect|Atmosphere.protect]] 
 
-### #is_/same_as :: [Atmosphere.private](/_private/Astronomy/Planet/Atmosphere.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Atmosphere.private|Atmosphere.private]] 
 
-### #is_/same_as :: [Atmosphere.personal](/_personal/Astronomy/Planet/Atmosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Atmosphere.personal|Atmosphere.personal]] 
 
-### #is_/same_as :: [Atmosphere.secret](/_secret/Astronomy/Planet/Atmosphere.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Atmosphere.secret|Atmosphere.secret]] 
 

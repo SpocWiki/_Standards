@@ -63,17 +63,17 @@ Commons_category: Sexual reproduction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Reproduction](/_Standards/bio/Reproduction/Sexual_Reproduction.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction|Sexual_Reproduction]] 
 
-### #is_/same_as :: [Sexual_Reproduction.public](/_public/bio/Reproduction/Sexual_Reproduction.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction.public|Sexual_Reproduction.public]] 
 
-### #is_/same_as :: [Sexual_Reproduction.internal](/_internal/bio/Reproduction/Sexual_Reproduction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction.internal|Sexual_Reproduction.internal]] 
 
-### #is_/same_as :: [Sexual_Reproduction.protect](/_protect/bio/Reproduction/Sexual_Reproduction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction.protect|Sexual_Reproduction.protect]] 
 
-### #is_/same_as :: [Sexual_Reproduction.private](/_private/bio/Reproduction/Sexual_Reproduction.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction.private|Sexual_Reproduction.private]] 
 
-### #is_/same_as :: [Sexual_Reproduction.personal](/_personal/bio/Reproduction/Sexual_Reproduction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction.personal|Sexual_Reproduction.personal]] 
 
-### #is_/same_as :: [Sexual_Reproduction.secret](/_secret/bio/Reproduction/Sexual_Reproduction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction.secret|Sexual_Reproduction.secret]] 
 

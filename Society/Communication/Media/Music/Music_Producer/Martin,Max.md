@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Martin,Max](/_Standards/Society/Communication/Media/Music/Music_Producer/Martin,Max.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Producer/Martin,Max|Martin,Max]] 
 
-### #is_/same_as :: [Martin,Max.public](/_public/Society/Communication/Media/Music/Music_Producer/Martin,Max.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Producer/Martin,Max.public|Martin,Max.public]] 
 
-### #is_/same_as :: [Martin,Max.internal](/_internal/Society/Communication/Media/Music/Music_Producer/Martin,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Producer/Martin,Max.internal|Martin,Max.internal]] 
 
-### #is_/same_as :: [Martin,Max.protect](/_protect/Society/Communication/Media/Music/Music_Producer/Martin,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Producer/Martin,Max.protect|Martin,Max.protect]] 
 
-### #is_/same_as :: [Martin,Max.private](/_private/Society/Communication/Media/Music/Music_Producer/Martin,Max.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Producer/Martin,Max.private|Martin,Max.private]] 
 
-### #is_/same_as :: [Martin,Max.personal](/_personal/Society/Communication/Media/Music/Music_Producer/Martin,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Producer/Martin,Max.personal|Martin,Max.personal]] 
 
-### #is_/same_as :: [Martin,Max.secret](/_secret/Society/Communication/Media/Music/Music_Producer/Martin,Max.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Producer/Martin,Max.secret|Martin,Max.secret]] 
 

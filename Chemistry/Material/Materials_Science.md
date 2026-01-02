@@ -51,17 +51,17 @@ IPTC_NewsCode: mediatopic/20000764
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Materials_Science](/_Standards/Chemistry/Material/Materials_Science.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Materials_Science|Materials_Science]] 
 
-### #is_/same_as :: [Materials_Science.public](/_public/Chemistry/Material/Materials_Science.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Materials_Science.public|Materials_Science.public]] 
 
-### #is_/same_as :: [Materials_Science.internal](/_internal/Chemistry/Material/Materials_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Materials_Science.internal|Materials_Science.internal]] 
 
-### #is_/same_as :: [Materials_Science.protect](/_protect/Chemistry/Material/Materials_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Materials_Science.protect|Materials_Science.protect]] 
 
-### #is_/same_as :: [Materials_Science.private](/_private/Chemistry/Material/Materials_Science.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Materials_Science.private|Materials_Science.private]] 
 
-### #is_/same_as :: [Materials_Science.personal](/_personal/Chemistry/Material/Materials_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Materials_Science.personal|Materials_Science.personal]] 
 
-### #is_/same_as :: [Materials_Science.secret](/_secret/Chemistry/Material/Materials_Science.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Materials_Science.secret|Materials_Science.secret]] 
 

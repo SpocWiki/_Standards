@@ -89,17 +89,17 @@ UMLS_CUI: C0039336
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taste](/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste|Taste]] 
 
-### #is_/same_as :: [Taste.public](/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.public|Taste.public]] 
 
-### #is_/same_as :: [Taste.internal](/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.internal|Taste.internal]] 
 
-### #is_/same_as :: [Taste.protect](/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.protect|Taste.protect]] 
 
-### #is_/same_as :: [Taste.private](/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.private|Taste.private]] 
 
-### #is_/same_as :: [Taste.personal](/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.personal|Taste.personal]] 
 
-### #is_/same_as :: [Taste.secret](/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Nervous_System/Sensory_System/Taste.secret|Taste.secret]] 
 

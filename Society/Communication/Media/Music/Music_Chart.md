@@ -49,17 +49,17 @@ logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Music-GClef.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Chart](/_Standards/Society/Communication/Media/Music/Music_Chart.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Chart|Music_Chart]] 
 
-### #is_/same_as :: [Music_Chart.public](/_public/Society/Communication/Media/Music/Music_Chart.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Chart.public|Music_Chart.public]] 
 
-### #is_/same_as :: [Music_Chart.internal](/_internal/Society/Communication/Media/Music/Music_Chart.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Chart.internal|Music_Chart.internal]] 
 
-### #is_/same_as :: [Music_Chart.protect](/_protect/Society/Communication/Media/Music/Music_Chart.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Chart.protect|Music_Chart.protect]] 
 
-### #is_/same_as :: [Music_Chart.private](/_private/Society/Communication/Media/Music/Music_Chart.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Chart.private|Music_Chart.private]] 
 
-### #is_/same_as :: [Music_Chart.personal](/_personal/Society/Communication/Media/Music/Music_Chart.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Chart.personal|Music_Chart.personal]] 
 
-### #is_/same_as :: [Music_Chart.secret](/_secret/Society/Communication/Media/Music/Music_Chart.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Chart.secret|Music_Chart.secret]] 
 

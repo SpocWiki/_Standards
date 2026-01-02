@@ -37,17 +37,17 @@ A taxi stand.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~TaxiStand](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand|FileClass~TaxiStand]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.public|FileClass~TaxiStand.public]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.internal|FileClass~TaxiStand.internal]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.protect|FileClass~TaxiStand.protect]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.private|FileClass~TaxiStand.private]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.personal|FileClass~TaxiStand.personal]] 
 
-### #is_/same_as :: [FileClass~TaxiStand.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~TaxiStand.secret|FileClass~TaxiStand.secret]] 
 

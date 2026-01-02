@@ -49,17 +49,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_legislation_consolidated_from](/_Standards/schema-org/Relation/is/is_legislation_consolidated_from.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_legislation_consolidated_from|is_legislation_consolidated_from]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.public](/_public/schema-org/Relation/is/is_legislation_consolidated_from.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_legislation_consolidated_from.public|is_legislation_consolidated_from.public]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.internal](/_internal/schema-org/Relation/is/is_legislation_consolidated_from.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_legislation_consolidated_from.internal|is_legislation_consolidated_from.internal]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.protect](/_protect/schema-org/Relation/is/is_legislation_consolidated_from.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_legislation_consolidated_from.protect|is_legislation_consolidated_from.protect]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.private](/_private/schema-org/Relation/is/is_legislation_consolidated_from.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_legislation_consolidated_from.private|is_legislation_consolidated_from.private]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.personal](/_personal/schema-org/Relation/is/is_legislation_consolidated_from.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_legislation_consolidated_from.personal|is_legislation_consolidated_from.personal]] 
 
-### #is_/same_as :: [is_legislation_consolidated_from.secret](/_secret/schema-org/Relation/is/is_legislation_consolidated_from.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_legislation_consolidated_from.secret|is_legislation_consolidated_from.secret]] 
 

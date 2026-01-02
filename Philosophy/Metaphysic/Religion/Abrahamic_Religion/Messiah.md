@@ -57,17 +57,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MESSIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Messiah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah|Messiah]] 
 
-### #is_/same_as :: [Messiah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.public|Messiah.public]] 
 
-### #is_/same_as :: [Messiah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.internal|Messiah.internal]] 
 
-### #is_/same_as :: [Messiah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.protect|Messiah.protect]] 
 
-### #is_/same_as :: [Messiah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.private|Messiah.private]] 
 
-### #is_/same_as :: [Messiah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.personal|Messiah.personal]] 
 
-### #is_/same_as :: [Messiah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Messiah.secret|Messiah.secret]] 
 

@@ -40,17 +40,17 @@ Commons_category: Solar corona
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Corona](/_Standards/Astronomy/Solar_System/Sun/Solar_Corona.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Sun/Solar_Corona|Solar_Corona]] 
 
-### #is_/same_as :: [Solar_Corona.public](/_public/Astronomy/Solar_System/Sun/Solar_Corona.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Sun/Solar_Corona.public|Solar_Corona.public]] 
 
-### #is_/same_as :: [Solar_Corona.internal](/_internal/Astronomy/Solar_System/Sun/Solar_Corona.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Sun/Solar_Corona.internal|Solar_Corona.internal]] 
 
-### #is_/same_as :: [Solar_Corona.protect](/_protect/Astronomy/Solar_System/Sun/Solar_Corona.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Sun/Solar_Corona.protect|Solar_Corona.protect]] 
 
-### #is_/same_as :: [Solar_Corona.private](/_private/Astronomy/Solar_System/Sun/Solar_Corona.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Sun/Solar_Corona.private|Solar_Corona.private]] 
 
-### #is_/same_as :: [Solar_Corona.personal](/_personal/Astronomy/Solar_System/Sun/Solar_Corona.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Sun/Solar_Corona.personal|Solar_Corona.personal]] 
 
-### #is_/same_as :: [Solar_Corona.secret](/_secret/Astronomy/Solar_System/Sun/Solar_Corona.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Sun/Solar_Corona.secret|Solar_Corona.secret]] 
 

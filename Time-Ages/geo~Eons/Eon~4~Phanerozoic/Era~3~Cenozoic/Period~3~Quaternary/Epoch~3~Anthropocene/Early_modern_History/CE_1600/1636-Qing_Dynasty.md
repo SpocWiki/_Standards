@@ -139,17 +139,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Qing_dynasty_topics,22
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1636-Qing_Dynasty](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty|1636-Qing_Dynasty]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.public|1636-Qing_Dynasty.public]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.internal|1636-Qing_Dynasty.internal]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.protect|1636-Qing_Dynasty.protect]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.private|1636-Qing_Dynasty.private]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal|1636-Qing_Dynasty.personal]] 
 
-### #is_/same_as :: [1636-Qing_Dynasty.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret|1636-Qing_Dynasty.secret]] 
 

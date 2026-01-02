@@ -41,17 +41,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vascular_Tissue](/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Vascular_Tissue|Vascular_Tissue]] 
 
-### #is_/same_as :: [Vascular_Tissue.public](/_public/bio/Botany/Plant_Anatomy/Vascular_Tissue.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Vascular_Tissue.public|Vascular_Tissue.public]] 
 
-### #is_/same_as :: [Vascular_Tissue.internal](/_internal/bio/Botany/Plant_Anatomy/Vascular_Tissue.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Vascular_Tissue.internal|Vascular_Tissue.internal]] 
 
-### #is_/same_as :: [Vascular_Tissue.protect](/_protect/bio/Botany/Plant_Anatomy/Vascular_Tissue.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Vascular_Tissue.protect|Vascular_Tissue.protect]] 
 
-### #is_/same_as :: [Vascular_Tissue.private](/_private/bio/Botany/Plant_Anatomy/Vascular_Tissue.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Vascular_Tissue.private|Vascular_Tissue.private]] 
 
-### #is_/same_as :: [Vascular_Tissue.personal](/_personal/bio/Botany/Plant_Anatomy/Vascular_Tissue.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Vascular_Tissue.personal|Vascular_Tissue.personal]] 
 
-### #is_/same_as :: [Vascular_Tissue.secret](/_secret/bio/Botany/Plant_Anatomy/Vascular_Tissue.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Vascular_Tissue.secret|Vascular_Tissue.secret]] 
 

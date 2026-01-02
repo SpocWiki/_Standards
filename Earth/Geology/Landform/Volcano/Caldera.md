@@ -29,17 +29,17 @@ OpenStreetMap_tag_or_key: Tag:geological=volcanic_caldera_rim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caldera](/_Standards/Earth/Geology/Landform/Volcano/Caldera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Volcano/Caldera|Caldera]] 
 
-### #is_/same_as :: [Caldera.public](/_public/Earth/Geology/Landform/Volcano/Caldera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Volcano/Caldera.public|Caldera.public]] 
 
-### #is_/same_as :: [Caldera.internal](/_internal/Earth/Geology/Landform/Volcano/Caldera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Volcano/Caldera.internal|Caldera.internal]] 
 
-### #is_/same_as :: [Caldera.protect](/_protect/Earth/Geology/Landform/Volcano/Caldera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Volcano/Caldera.protect|Caldera.protect]] 
 
-### #is_/same_as :: [Caldera.private](/_private/Earth/Geology/Landform/Volcano/Caldera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Volcano/Caldera.private|Caldera.private]] 
 
-### #is_/same_as :: [Caldera.personal](/_personal/Earth/Geology/Landform/Volcano/Caldera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Volcano/Caldera.personal|Caldera.personal]] 
 
-### #is_/same_as :: [Caldera.secret](/_secret/Earth/Geology/Landform/Volcano/Caldera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Volcano/Caldera.secret|Caldera.secret]] 
 

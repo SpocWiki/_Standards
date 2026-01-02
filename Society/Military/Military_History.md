@@ -51,17 +51,17 @@ subreddit: MilitaryHistory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_History](/_Standards/Society/Military/Military_History.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_History|Military_History]] 
 
-### #is_/same_as :: [Military_History.public](/_public/Society/Military/Military_History.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_History.public|Military_History.public]] 
 
-### #is_/same_as :: [Military_History.internal](/_internal/Society/Military/Military_History.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_History.internal|Military_History.internal]] 
 
-### #is_/same_as :: [Military_History.protect](/_protect/Society/Military/Military_History.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_History.protect|Military_History.protect]] 
 
-### #is_/same_as :: [Military_History.private](/_private/Society/Military/Military_History.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_History.private|Military_History.private]] 
 
-### #is_/same_as :: [Military_History.personal](/_personal/Society/Military/Military_History.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_History.personal|Military_History.personal]] 
 
-### #is_/same_as :: [Military_History.secret](/_secret/Society/Military/Military_History.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_History.secret|Military_History.secret]] 
 

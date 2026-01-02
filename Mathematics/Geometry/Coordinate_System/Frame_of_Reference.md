@@ -65,17 +65,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/SISTEMI_OTSCHETA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frame_of_Reference](/_Standards/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Coordinate_System/Frame_of_Reference|Frame_of_Reference]] 
 
-### #is_/same_as :: [Frame_of_Reference.public](/_public/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.public|Frame_of_Reference.public]] 
 
-### #is_/same_as :: [Frame_of_Reference.internal](/_internal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.internal|Frame_of_Reference.internal]] 
 
-### #is_/same_as :: [Frame_of_Reference.protect](/_protect/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.protect|Frame_of_Reference.protect]] 
 
-### #is_/same_as :: [Frame_of_Reference.private](/_private/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.private|Frame_of_Reference.private]] 
 
-### #is_/same_as :: [Frame_of_Reference.personal](/_personal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.personal|Frame_of_Reference.personal]] 
 
-### #is_/same_as :: [Frame_of_Reference.secret](/_secret/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Coordinate_System/Frame_of_Reference.secret|Frame_of_Reference.secret]] 
 

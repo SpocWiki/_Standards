@@ -26,3 +26,22 @@ has_id_wikidata: Q3071551
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pride)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Pride|Pride]] 
+
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Pride.public|Pride.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Pride.internal|Pride.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Pride.protect|Pride.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Pride.private|Pride.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Pride.personal|Pride.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Pride.secret|Pride.secret]] 
+

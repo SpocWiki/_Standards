@@ -161,17 +161,17 @@ as well as Data- and Programming Languages.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Language](/_Standards/Language.md) 
+### #is_/same_as :: [[/_Standards/Language|Language]] 
 
-### #is_/same_as :: [Language.public](/_public/Language.public.md) 
+### #is_/same_as :: [[/_public/Language.public|Language.public]] 
 
-### #is_/same_as :: [Language.internal](/_internal/Language.internal.md) 
+### #is_/same_as :: [[/_internal/Language.internal|Language.internal]] 
 
-### #is_/same_as :: [Language.protect](/_protect/Language.protect.md) 
+### #is_/same_as :: [[/_protect/Language.protect|Language.protect]] 
 
-### #is_/same_as :: [Language.private](/_private/Language.private.md) 
+### #is_/same_as :: [[/_private/Language.private|Language.private]] 
 
-### #is_/same_as :: [Language.personal](/_personal/Language.personal.md) 
+### #is_/same_as :: [[/_personal/Language.personal|Language.personal]] 
 
-### #is_/same_as :: [Language.secret](/_secret/Language.secret.md)
+### #is_/same_as :: [[/_secret/Language.secret|Language.secret]] 
 

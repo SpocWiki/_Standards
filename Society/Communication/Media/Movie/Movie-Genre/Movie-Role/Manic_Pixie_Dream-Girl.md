@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl|Manic_Pixie_Dream-Girl]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.public|Manic_Pixie_Dream-Girl.public]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.internal|Manic_Pixie_Dream-Girl.internal]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.protect|Manic_Pixie_Dream-Girl.protect]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.private|Manic_Pixie_Dream-Girl.private]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.personal|Manic_Pixie_Dream-Girl.personal]] 
 
-### #is_/same_as :: [Manic_Pixie_Dream-Girl.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Movie-Role/Manic_Pixie_Dream-Girl.secret|Manic_Pixie_Dream-Girl.secret]] 
 

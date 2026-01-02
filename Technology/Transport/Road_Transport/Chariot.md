@@ -57,17 +57,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A0%D0%B8%D1%81%D1%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chariot](/_Standards/Technology/Transport/Road_Transport/Chariot.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Chariot|Chariot]] 
 
-### #is_/same_as :: [Chariot.public](/_public/Technology/Transport/Road_Transport/Chariot.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Chariot.public|Chariot.public]] 
 
-### #is_/same_as :: [Chariot.internal](/_internal/Technology/Transport/Road_Transport/Chariot.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Chariot.internal|Chariot.internal]] 
 
-### #is_/same_as :: [Chariot.protect](/_protect/Technology/Transport/Road_Transport/Chariot.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Chariot.protect|Chariot.protect]] 
 
-### #is_/same_as :: [Chariot.private](/_private/Technology/Transport/Road_Transport/Chariot.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Chariot.private|Chariot.private]] 
 
-### #is_/same_as :: [Chariot.personal](/_personal/Technology/Transport/Road_Transport/Chariot.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Chariot.personal|Chariot.personal]] 
 
-### #is_/same_as :: [Chariot.secret](/_secret/Technology/Transport/Road_Transport/Chariot.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Chariot.secret|Chariot.secret]] 
 

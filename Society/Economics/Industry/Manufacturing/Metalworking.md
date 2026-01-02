@@ -56,17 +56,17 @@ UNSPSC_Code: 73121613
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metalworking](/_Standards/Society/Economics/Industry/Manufacturing/Metalworking.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Manufacturing/Metalworking|Metalworking]] 
 
-### #is_/same_as :: [Metalworking.public](/_public/Society/Economics/Industry/Manufacturing/Metalworking.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Manufacturing/Metalworking.public|Metalworking.public]] 
 
-### #is_/same_as :: [Metalworking.internal](/_internal/Society/Economics/Industry/Manufacturing/Metalworking.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Manufacturing/Metalworking.internal|Metalworking.internal]] 
 
-### #is_/same_as :: [Metalworking.protect](/_protect/Society/Economics/Industry/Manufacturing/Metalworking.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Manufacturing/Metalworking.protect|Metalworking.protect]] 
 
-### #is_/same_as :: [Metalworking.private](/_private/Society/Economics/Industry/Manufacturing/Metalworking.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Manufacturing/Metalworking.private|Metalworking.private]] 
 
-### #is_/same_as :: [Metalworking.personal](/_personal/Society/Economics/Industry/Manufacturing/Metalworking.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Manufacturing/Metalworking.personal|Metalworking.personal]] 
 
-### #is_/same_as :: [Metalworking.secret](/_secret/Society/Economics/Industry/Manufacturing/Metalworking.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Manufacturing/Metalworking.secret|Metalworking.secret]] 
 

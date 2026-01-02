@@ -73,17 +73,17 @@ ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="htt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capacitance](/_Standards/Science/Physics/Electricity/Capacitance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Capacitance|Capacitance]] 
 
-### #is_/same_as :: [Capacitance.public](/_public/Science/Physics/Electricity/Capacitance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Capacitance.public|Capacitance.public]] 
 
-### #is_/same_as :: [Capacitance.internal](/_internal/Science/Physics/Electricity/Capacitance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Capacitance.internal|Capacitance.internal]] 
 
-### #is_/same_as :: [Capacitance.protect](/_protect/Science/Physics/Electricity/Capacitance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Capacitance.protect|Capacitance.protect]] 
 
-### #is_/same_as :: [Capacitance.private](/_private/Science/Physics/Electricity/Capacitance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Capacitance.private|Capacitance.private]] 
 
-### #is_/same_as :: [Capacitance.personal](/_personal/Science/Physics/Electricity/Capacitance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Capacitance.personal|Capacitance.personal]] 
 
-### #is_/same_as :: [Capacitance.secret](/_secret/Science/Physics/Electricity/Capacitance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Capacitance.secret|Capacitance.secret]] 
 

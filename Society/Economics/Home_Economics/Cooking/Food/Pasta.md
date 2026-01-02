@@ -102,17 +102,17 @@ Wolfram_Language_entity_code: Entity["FoodType", "Pasta"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pasta](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pasta.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Pasta|Pasta]] 
 
-### #is_/same_as :: [Pasta.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Pasta.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Pasta.public|Pasta.public]] 
 
-### #is_/same_as :: [Pasta.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Pasta.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Pasta.internal|Pasta.internal]] 
 
-### #is_/same_as :: [Pasta.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Pasta.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Pasta.protect|Pasta.protect]] 
 
-### #is_/same_as :: [Pasta.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Pasta.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Pasta.private|Pasta.private]] 
 
-### #is_/same_as :: [Pasta.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Pasta.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Pasta.personal|Pasta.personal]] 
 
-### #is_/same_as :: [Pasta.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Pasta.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Pasta.secret|Pasta.secret]] 
 

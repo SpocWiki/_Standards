@@ -66,17 +66,17 @@ Krugosvet_article: gumanitarnye_nauki/lingvistika/PADEZH.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grammatical_Case](/_Standards/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar/Grammatical_Case|Grammatical_Case]] 
 
-### #is_/same_as :: [Grammatical_Case.public](/_public/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.public|Grammatical_Case.public]] 
 
-### #is_/same_as :: [Grammatical_Case.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.internal|Grammatical_Case.internal]] 
 
-### #is_/same_as :: [Grammatical_Case.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.protect|Grammatical_Case.protect]] 
 
-### #is_/same_as :: [Grammatical_Case.private](/_private/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.private|Grammatical_Case.private]] 
 
-### #is_/same_as :: [Grammatical_Case.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.personal|Grammatical_Case.personal]] 
 
-### #is_/same_as :: [Grammatical_Case.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar/Grammatical_Case.secret|Grammatical_Case.secret]] 
 

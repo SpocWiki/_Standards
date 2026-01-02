@@ -14,17 +14,17 @@ given by its [[Dim~Energy]]:  ___E = h * f_ __
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Energy](/_Standards/Dimension/Derived_Dimension/Dim~Energy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Dim~Energy|Dim~Energy]] 
 
-### #is_/same_as :: [Dim~Energy.public](/_public/Dimension/Derived_Dimension/Dim~Energy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Derived_Dimension/Dim~Energy.public|Dim~Energy.public]] 
 
-### #is_/same_as :: [Dim~Energy.internal](/_internal/Dimension/Derived_Dimension/Dim~Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Derived_Dimension/Dim~Energy.internal|Dim~Energy.internal]] 
 
-### #is_/same_as :: [Dim~Energy.protect](/_protect/Dimension/Derived_Dimension/Dim~Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Derived_Dimension/Dim~Energy.protect|Dim~Energy.protect]] 
 
-### #is_/same_as :: [Dim~Energy.private](/_private/Dimension/Derived_Dimension/Dim~Energy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Derived_Dimension/Dim~Energy.private|Dim~Energy.private]] 
 
-### #is_/same_as :: [Dim~Energy.personal](/_personal/Dimension/Derived_Dimension/Dim~Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Derived_Dimension/Dim~Energy.personal|Dim~Energy.personal]] 
 
-### #is_/same_as :: [Dim~Energy.secret](/_secret/Dimension/Derived_Dimension/Dim~Energy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Derived_Dimension/Dim~Energy.secret|Dim~Energy.secret]] 
 

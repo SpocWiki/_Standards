@@ -42,17 +42,17 @@ said_to_be_the_same_as: '[[_Standards/WikiData/WD~Giza_pyramid_complex,12508]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Giza_Necropolis](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis|Giza_Necropolis]] 
 
-### #is_/same_as :: [Giza_Necropolis.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.public|Giza_Necropolis.public]] 
 
-### #is_/same_as :: [Giza_Necropolis.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.internal|Giza_Necropolis.internal]] 
 
-### #is_/same_as :: [Giza_Necropolis.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.protect|Giza_Necropolis.protect]] 
 
-### #is_/same_as :: [Giza_Necropolis.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.private|Giza_Necropolis.private]] 
 
-### #is_/same_as :: [Giza_Necropolis.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.personal|Giza_Necropolis.personal]] 
 
-### #is_/same_as :: [Giza_Necropolis.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/African_Architecture/Giza_Necropolis.secret|Giza_Necropolis.secret]] 
 

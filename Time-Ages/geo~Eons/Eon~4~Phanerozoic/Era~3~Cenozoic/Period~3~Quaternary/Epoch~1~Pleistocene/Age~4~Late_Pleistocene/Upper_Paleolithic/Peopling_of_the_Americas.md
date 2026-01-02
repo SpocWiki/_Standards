@@ -45,17 +45,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peopling_of_the_Americas](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas|Peopling_of_the_Americas]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.public|Peopling_of_the_Americas.public]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.internal|Peopling_of_the_Americas.internal]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.protect|Peopling_of_the_Americas.protect]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.private|Peopling_of_the_Americas.private]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.personal|Peopling_of_the_Americas.personal]] 
 
-### #is_/same_as :: [Peopling_of_the_Americas.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~1~Pleistocene/Age~4~Late_Pleistocene/Upper_Paleolithic/Peopling_of_the_Americas.secret|Peopling_of_the_Americas.secret]] 
 

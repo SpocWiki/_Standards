@@ -41,17 +41,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supertramp](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp|Supertramp]] 
 
-### #is_/same_as :: [Supertramp.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.public|Supertramp.public]] 
 
-### #is_/same_as :: [Supertramp.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.internal|Supertramp.internal]] 
 
-### #is_/same_as :: [Supertramp.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.protect|Supertramp.protect]] 
 
-### #is_/same_as :: [Supertramp.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.private|Supertramp.private]] 
 
-### #is_/same_as :: [Supertramp.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.personal|Supertramp.personal]] 
 
-### #is_/same_as :: [Supertramp.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Supertramp.secret|Supertramp.secret]] 
 

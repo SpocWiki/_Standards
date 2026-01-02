@@ -51,17 +51,17 @@ Set G  with Identity 𝟙:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monoid](/_Standards/Mathematics/Algebra/Group_Theory/Monoid.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Monoid|Monoid]] 
 
-### #is_/same_as :: [Monoid.public](/_public/Mathematics/Algebra/Group_Theory/Monoid.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Monoid.public|Monoid.public]] 
 
-### #is_/same_as :: [Monoid.internal](/_internal/Mathematics/Algebra/Group_Theory/Monoid.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Monoid.internal|Monoid.internal]] 
 
-### #is_/same_as :: [Monoid.protect](/_protect/Mathematics/Algebra/Group_Theory/Monoid.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Monoid.protect|Monoid.protect]] 
 
-### #is_/same_as :: [Monoid.private](/_private/Mathematics/Algebra/Group_Theory/Monoid.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Monoid.private|Monoid.private]] 
 
-### #is_/same_as :: [Monoid.personal](/_personal/Mathematics/Algebra/Group_Theory/Monoid.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Monoid.personal|Monoid.personal]] 
 
-### #is_/same_as :: [Monoid.secret](/_secret/Mathematics/Algebra/Group_Theory/Monoid.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Monoid.secret|Monoid.secret]] 
 

@@ -227,17 +227,17 @@ Ishmael is the **first son of Abraham**, born through Hagar. He lived **137 year
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abraham](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham|Abraham]] 
 
-### #is_/same_as :: [Abraham.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.public|Abraham.public]] 
 
-### #is_/same_as :: [Abraham.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.internal|Abraham.internal]] 
 
-### #is_/same_as :: [Abraham.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.protect|Abraham.protect]] 
 
-### #is_/same_as :: [Abraham.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.private|Abraham.private]] 
 
-### #is_/same_as :: [Abraham.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.personal|Abraham.personal]] 
 
-### #is_/same_as :: [Abraham.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Abraham.secret|Abraham.secret]] 
 

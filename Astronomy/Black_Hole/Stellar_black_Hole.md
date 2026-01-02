@@ -27,17 +27,17 @@ short_name: SBH
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_black_Hole](/_Standards/Astronomy/Black_Hole/Stellar_black_Hole.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Black_Hole/Stellar_black_Hole|Stellar_black_Hole]] 
 
-### #is_/same_as :: [Stellar_black_Hole.public](/_public/Astronomy/Black_Hole/Stellar_black_Hole.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Black_Hole/Stellar_black_Hole.public|Stellar_black_Hole.public]] 
 
-### #is_/same_as :: [Stellar_black_Hole.internal](/_internal/Astronomy/Black_Hole/Stellar_black_Hole.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Black_Hole/Stellar_black_Hole.internal|Stellar_black_Hole.internal]] 
 
-### #is_/same_as :: [Stellar_black_Hole.protect](/_protect/Astronomy/Black_Hole/Stellar_black_Hole.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Black_Hole/Stellar_black_Hole.protect|Stellar_black_Hole.protect]] 
 
-### #is_/same_as :: [Stellar_black_Hole.private](/_private/Astronomy/Black_Hole/Stellar_black_Hole.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Black_Hole/Stellar_black_Hole.private|Stellar_black_Hole.private]] 
 
-### #is_/same_as :: [Stellar_black_Hole.personal](/_personal/Astronomy/Black_Hole/Stellar_black_Hole.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Black_Hole/Stellar_black_Hole.personal|Stellar_black_Hole.personal]] 
 
-### #is_/same_as :: [Stellar_black_Hole.secret](/_secret/Astronomy/Black_Hole/Stellar_black_Hole.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Black_Hole/Stellar_black_Hole.secret|Stellar_black_Hole.secret]] 
 

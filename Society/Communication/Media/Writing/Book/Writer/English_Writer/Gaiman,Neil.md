@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gaiman,Neil](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil|Gaiman,Neil]] 
 
-### #is_/same_as :: [Gaiman,Neil.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.public|Gaiman,Neil.public]] 
 
-### #is_/same_as :: [Gaiman,Neil.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.internal|Gaiman,Neil.internal]] 
 
-### #is_/same_as :: [Gaiman,Neil.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.protect|Gaiman,Neil.protect]] 
 
-### #is_/same_as :: [Gaiman,Neil.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.private|Gaiman,Neil.private]] 
 
-### #is_/same_as :: [Gaiman,Neil.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.personal|Gaiman,Neil.personal]] 
 
-### #is_/same_as :: [Gaiman,Neil.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Gaiman,Neil.secret|Gaiman,Neil.secret]] 
 

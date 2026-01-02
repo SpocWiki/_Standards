@@ -149,17 +149,17 @@ name_in_native_language: சந்திரசேகர வெங்கட ர�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata](/_Standards/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata|Raman,Chandrasekhara_Venkata]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.public](/_public/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.public|Raman,Chandrasekhara_Venkata.public]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.internal](/_internal/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.internal|Raman,Chandrasekhara_Venkata.internal]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.protect](/_protect/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.protect|Raman,Chandrasekhara_Venkata.protect]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.private](/_private/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.private|Raman,Chandrasekhara_Venkata.private]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.personal](/_personal/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.personal|Raman,Chandrasekhara_Venkata.personal]] 
 
-### #is_/same_as :: [Raman,Chandrasekhara_Venkata.secret](/_secret/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Raman,Chandrasekhara_Venkata.secret|Raman,Chandrasekhara_Venkata.secret]] 
 

@@ -72,17 +72,17 @@ BankAccountType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit|FileClass~BankAccountAndInvestmentOrDeposit]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.public|FileClass~BankAccountAndInvestmentOrDeposit.public]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.internal|FileClass~BankAccountAndInvestmentOrDeposit.internal]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.protect|FileClass~BankAccountAndInvestmentOrDeposit.protect]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.private|FileClass~BankAccountAndInvestmentOrDeposit.private]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.personal|FileClass~BankAccountAndInvestmentOrDeposit.personal]] 
 
-### #is_/same_as :: [FileClass~BankAccountAndInvestmentOrDeposit.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~FinancialProduct/FileClass~InvestmentOrDeposit/FileClass~BankAccountAndInvestmentOrDeposit.secret|FileClass~BankAccountAndInvestmentOrDeposit.secret]] 
 

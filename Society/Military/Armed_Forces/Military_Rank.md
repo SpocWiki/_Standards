@@ -60,17 +60,17 @@ Commons_category: Military ranks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military_Rank](/_Standards/Society/Military/Armed_Forces/Military_Rank.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Military_Rank|Military_Rank]] 
 
-### #is_/same_as :: [Military_Rank.public](/_public/Society/Military/Armed_Forces/Military_Rank.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Military_Rank.public|Military_Rank.public]] 
 
-### #is_/same_as :: [Military_Rank.internal](/_internal/Society/Military/Armed_Forces/Military_Rank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Military_Rank.internal|Military_Rank.internal]] 
 
-### #is_/same_as :: [Military_Rank.protect](/_protect/Society/Military/Armed_Forces/Military_Rank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Military_Rank.protect|Military_Rank.protect]] 
 
-### #is_/same_as :: [Military_Rank.private](/_private/Society/Military/Armed_Forces/Military_Rank.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Military_Rank.private|Military_Rank.private]] 
 
-### #is_/same_as :: [Military_Rank.personal](/_personal/Society/Military/Armed_Forces/Military_Rank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Military_Rank.personal|Military_Rank.personal]] 
 
-### #is_/same_as :: [Military_Rank.secret](/_secret/Society/Military/Armed_Forces/Military_Rank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Military_Rank.secret|Military_Rank.secret]] 
 

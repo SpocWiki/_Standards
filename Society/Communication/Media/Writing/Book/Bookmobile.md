@@ -36,17 +36,17 @@ OpenStreetMap_tag_or_key: Tag:amenity=mobile_library
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bookmobile](/_Standards/Society/Communication/Media/Writing/Book/Bookmobile.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Bookmobile|Bookmobile]] 
 
-### #is_/same_as :: [Bookmobile.public](/_public/Society/Communication/Media/Writing/Book/Bookmobile.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Bookmobile.public|Bookmobile.public]] 
 
-### #is_/same_as :: [Bookmobile.internal](/_internal/Society/Communication/Media/Writing/Book/Bookmobile.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Bookmobile.internal|Bookmobile.internal]] 
 
-### #is_/same_as :: [Bookmobile.protect](/_protect/Society/Communication/Media/Writing/Book/Bookmobile.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Bookmobile.protect|Bookmobile.protect]] 
 
-### #is_/same_as :: [Bookmobile.private](/_private/Society/Communication/Media/Writing/Book/Bookmobile.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Bookmobile.private|Bookmobile.private]] 
 
-### #is_/same_as :: [Bookmobile.personal](/_personal/Society/Communication/Media/Writing/Book/Bookmobile.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Bookmobile.personal|Bookmobile.personal]] 
 
-### #is_/same_as :: [Bookmobile.secret](/_secret/Society/Communication/Media/Writing/Book/Bookmobile.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Bookmobile.secret|Bookmobile.secret]] 
 

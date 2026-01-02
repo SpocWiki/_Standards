@@ -71,17 +71,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/ROMANTIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1800-Romanticism+1850](/_Standards/Society/Communication/Art/Art_History/1800-Romanticism+1850.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/1800-Romanticism+1850|1800-Romanticism+1850]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.public](/_public/Society/Communication/Art/Art_History/1800-Romanticism+1850.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/1800-Romanticism+1850.public|1800-Romanticism+1850.public]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.internal](/_internal/Society/Communication/Art/Art_History/1800-Romanticism+1850.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/1800-Romanticism+1850.internal|1800-Romanticism+1850.internal]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.protect](/_protect/Society/Communication/Art/Art_History/1800-Romanticism+1850.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/1800-Romanticism+1850.protect|1800-Romanticism+1850.protect]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.private](/_private/Society/Communication/Art/Art_History/1800-Romanticism+1850.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/1800-Romanticism+1850.private|1800-Romanticism+1850.private]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.personal](/_personal/Society/Communication/Art/Art_History/1800-Romanticism+1850.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/1800-Romanticism+1850.personal|1800-Romanticism+1850.personal]] 
 
-### #is_/same_as :: [1800-Romanticism+1850.secret](/_secret/Society/Communication/Art/Art_History/1800-Romanticism+1850.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/1800-Romanticism+1850.secret|1800-Romanticism+1850.secret]] 
 

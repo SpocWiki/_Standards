@@ -65,17 +65,17 @@ UMLS_CUI: C0007226
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Circulatory_System](/_Standards/bio/Medicine/Anatomy/Circulatory_System.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System|Circulatory_System]] 
 
-### #is_/same_as :: [Circulatory_System.public](/_public/bio/Medicine/Anatomy/Circulatory_System.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System.public|Circulatory_System.public]] 
 
-### #is_/same_as :: [Circulatory_System.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System.internal|Circulatory_System.internal]] 
 
-### #is_/same_as :: [Circulatory_System.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System.protect|Circulatory_System.protect]] 
 
-### #is_/same_as :: [Circulatory_System.private](/_private/bio/Medicine/Anatomy/Circulatory_System.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System.private|Circulatory_System.private]] 
 
-### #is_/same_as :: [Circulatory_System.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System.personal|Circulatory_System.personal]] 
 
-### #is_/same_as :: [Circulatory_System.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System.secret|Circulatory_System.secret]] 
 

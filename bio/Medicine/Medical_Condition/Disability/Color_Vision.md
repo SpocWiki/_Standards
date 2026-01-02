@@ -51,17 +51,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Color_Vision](/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Vision.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Vision|Color_Vision]] 
 
-### #is_/same_as :: [Color_Vision.public](/_public/bio/Medicine/Medical_Condition/Disability/Color_Vision.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability/Color_Vision.public|Color_Vision.public]] 
 
-### #is_/same_as :: [Color_Vision.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Color_Vision.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability/Color_Vision.internal|Color_Vision.internal]] 
 
-### #is_/same_as :: [Color_Vision.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Color_Vision.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability/Color_Vision.protect|Color_Vision.protect]] 
 
-### #is_/same_as :: [Color_Vision.private](/_private/bio/Medicine/Medical_Condition/Disability/Color_Vision.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability/Color_Vision.private|Color_Vision.private]] 
 
-### #is_/same_as :: [Color_Vision.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Color_Vision.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability/Color_Vision.personal|Color_Vision.personal]] 
 
-### #is_/same_as :: [Color_Vision.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Color_Vision.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability/Color_Vision.secret|Color_Vision.secret]] 
 

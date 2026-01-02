@@ -67,17 +67,17 @@ Stack_Exchange_tag: https://islam.stackexchange.com/tags/allah
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Allah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah|Allah]] 
 
-### #is_/same_as :: [Allah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.public|Allah.public]] 
 
-### #is_/same_as :: [Allah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.internal|Allah.internal]] 
 
-### #is_/same_as :: [Allah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.protect|Allah.protect]] 
 
-### #is_/same_as :: [Allah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.private|Allah.private]] 
 
-### #is_/same_as :: [Allah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.personal|Allah.personal]] 
 
-### #is_/same_as :: [Allah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Allah.secret|Allah.secret]] 
 

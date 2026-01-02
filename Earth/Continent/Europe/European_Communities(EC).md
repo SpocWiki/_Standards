@@ -39,17 +39,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Communities(EC)](/_Standards/Earth/Continent/Europe/European_Communities(EC).md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/European_Communities(EC)|European_Communities(EC)]] 
 
-### #is_/same_as :: [European_Communities(EC).public](/_public/Earth/Continent/Europe/European_Communities(EC).public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/European_Communities(EC).public|European_Communities(EC).public]] 
 
-### #is_/same_as :: [European_Communities(EC).internal](/_internal/Earth/Continent/Europe/European_Communities(EC).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/European_Communities(EC).internal|European_Communities(EC).internal]] 
 
-### #is_/same_as :: [European_Communities(EC).protect](/_protect/Earth/Continent/Europe/European_Communities(EC).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/European_Communities(EC).protect|European_Communities(EC).protect]] 
 
-### #is_/same_as :: [European_Communities(EC).private](/_private/Earth/Continent/Europe/European_Communities(EC).private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/European_Communities(EC).private|European_Communities(EC).private]] 
 
-### #is_/same_as :: [European_Communities(EC).personal](/_personal/Earth/Continent/Europe/European_Communities(EC).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/European_Communities(EC).personal|European_Communities(EC).personal]] 
 
-### #is_/same_as :: [European_Communities(EC).secret](/_secret/Earth/Continent/Europe/European_Communities(EC).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/European_Communities(EC).secret|European_Communities(EC).secret]] 
 

@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Douglas,Michael](/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael|Douglas,Michael]] 
 
-### #is_/same_as :: [Douglas,Michael.public](/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.public|Douglas,Michael.public]] 
 
-### #is_/same_as :: [Douglas,Michael.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.internal|Douglas,Michael.internal]] 
 
-### #is_/same_as :: [Douglas,Michael.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.protect|Douglas,Michael.protect]] 
 
-### #is_/same_as :: [Douglas,Michael.private](/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.private|Douglas,Michael.private]] 
 
-### #is_/same_as :: [Douglas,Michael.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.personal|Douglas,Michael.personal]] 
 
-### #is_/same_as :: [Douglas,Michael.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Michael.secret|Douglas,Michael.secret]] 
 

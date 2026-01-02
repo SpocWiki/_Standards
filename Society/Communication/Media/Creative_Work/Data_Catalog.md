@@ -42,17 +42,17 @@ A collection of datasets.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data_Catalog](/_Standards/Society/Communication/Media/Creative_Work/Data_Catalog.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Data_Catalog|Data_Catalog]] 
 
-### #is_/same_as :: [Data_Catalog.public](/_public/Society/Communication/Media/Creative_Work/Data_Catalog.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Data_Catalog.public|Data_Catalog.public]] 
 
-### #is_/same_as :: [Data_Catalog.internal](/_internal/Society/Communication/Media/Creative_Work/Data_Catalog.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Data_Catalog.internal|Data_Catalog.internal]] 
 
-### #is_/same_as :: [Data_Catalog.protect](/_protect/Society/Communication/Media/Creative_Work/Data_Catalog.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Data_Catalog.protect|Data_Catalog.protect]] 
 
-### #is_/same_as :: [Data_Catalog.private](/_private/Society/Communication/Media/Creative_Work/Data_Catalog.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Data_Catalog.private|Data_Catalog.private]] 
 
-### #is_/same_as :: [Data_Catalog.personal](/_personal/Society/Communication/Media/Creative_Work/Data_Catalog.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Data_Catalog.personal|Data_Catalog.personal]] 
 
-### #is_/same_as :: [Data_Catalog.secret](/_secret/Society/Communication/Media/Creative_Work/Data_Catalog.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Data_Catalog.secret|Data_Catalog.secret]] 
 

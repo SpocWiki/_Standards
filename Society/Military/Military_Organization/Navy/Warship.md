@@ -43,17 +43,17 @@ has_id_wikidata: Q3114762
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Warship](/_Standards/Society/Military/Military_Organization/Navy/Warship.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Warship|Warship]] 
 
-### #is_/same_as :: [Warship.public](/_public/Society/Military/Military_Organization/Navy/Warship.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Warship.public|Warship.public]] 
 
-### #is_/same_as :: [Warship.internal](/_internal/Society/Military/Military_Organization/Navy/Warship.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Warship.internal|Warship.internal]] 
 
-### #is_/same_as :: [Warship.protect](/_protect/Society/Military/Military_Organization/Navy/Warship.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Warship.protect|Warship.protect]] 
 
-### #is_/same_as :: [Warship.private](/_private/Society/Military/Military_Organization/Navy/Warship.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Warship.private|Warship.private]] 
 
-### #is_/same_as :: [Warship.personal](/_personal/Society/Military/Military_Organization/Navy/Warship.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Warship.personal|Warship.personal]] 
 
-### #is_/same_as :: [Warship.secret](/_secret/Society/Military/Military_Organization/Navy/Warship.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Warship.secret|Warship.secret]] 
 

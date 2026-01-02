@@ -51,17 +51,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen|League_of_Extraordinary_Gentlemen]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.public|League_of_Extraordinary_Gentlemen.public]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.internal|League_of_Extraordinary_Gentlemen.internal]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.protect|League_of_Extraordinary_Gentlemen.protect]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.private|League_of_Extraordinary_Gentlemen.private]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.personal|League_of_Extraordinary_Gentlemen.personal]] 
 
-### #is_/same_as :: [League of Extraordinary Gentlemen.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League of Extraordinary Gentlemen.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk/League_of_Extraordinary_Gentlemen.secret|League_of_Extraordinary_Gentlemen.secret]] 
 

@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_evidence_origin](/_Standards/schema-org/Property/Texts/has_evidence_origin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_evidence_origin|has_evidence_origin]] 
 
-### #is_/same_as :: [has_evidence_origin.public](/_public/schema-org/Property/Texts/has_evidence_origin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_evidence_origin.public|has_evidence_origin.public]] 
 
-### #is_/same_as :: [has_evidence_origin.internal](/_internal/schema-org/Property/Texts/has_evidence_origin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_evidence_origin.internal|has_evidence_origin.internal]] 
 
-### #is_/same_as :: [has_evidence_origin.protect](/_protect/schema-org/Property/Texts/has_evidence_origin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_evidence_origin.protect|has_evidence_origin.protect]] 
 
-### #is_/same_as :: [has_evidence_origin.private](/_private/schema-org/Property/Texts/has_evidence_origin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_evidence_origin.private|has_evidence_origin.private]] 
 
-### #is_/same_as :: [has_evidence_origin.personal](/_personal/schema-org/Property/Texts/has_evidence_origin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_evidence_origin.personal|has_evidence_origin.personal]] 
 
-### #is_/same_as :: [has_evidence_origin.secret](/_secret/schema-org/Property/Texts/has_evidence_origin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_evidence_origin.secret|has_evidence_origin.secret]] 
 

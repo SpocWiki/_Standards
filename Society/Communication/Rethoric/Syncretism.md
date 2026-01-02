@@ -30,17 +30,17 @@ without necessarily blending them into a new, cohesive belief system
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syncretism](/_Standards/Society/Communication/Rethoric/Syncretism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Rethoric/Syncretism|Syncretism]] 
 
-### #is_/same_as :: [Syncretism.public](/_public/Society/Communication/Rethoric/Syncretism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Rethoric/Syncretism.public|Syncretism.public]] 
 
-### #is_/same_as :: [Syncretism.internal](/_internal/Society/Communication/Rethoric/Syncretism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Rethoric/Syncretism.internal|Syncretism.internal]] 
 
-### #is_/same_as :: [Syncretism.protect](/_protect/Society/Communication/Rethoric/Syncretism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Rethoric/Syncretism.protect|Syncretism.protect]] 
 
-### #is_/same_as :: [Syncretism.private](/_private/Society/Communication/Rethoric/Syncretism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Rethoric/Syncretism.private|Syncretism.private]] 
 
-### #is_/same_as :: [Syncretism.personal](/_personal/Society/Communication/Rethoric/Syncretism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Rethoric/Syncretism.personal|Syncretism.personal]] 
 
-### #is_/same_as :: [Syncretism.secret](/_secret/Society/Communication/Rethoric/Syncretism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Rethoric/Syncretism.secret|Syncretism.secret]] 
 

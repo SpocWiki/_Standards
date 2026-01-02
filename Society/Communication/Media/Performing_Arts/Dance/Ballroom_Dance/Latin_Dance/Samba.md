@@ -49,17 +49,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Samba,22880924]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samba](/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba|Samba]] 
 
-### #is_/same_as :: [Samba.public](/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.public|Samba.public]] 
 
-### #is_/same_as :: [Samba.internal](/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.internal|Samba.internal]] 
 
-### #is_/same_as :: [Samba.protect](/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.protect|Samba.protect]] 
 
-### #is_/same_as :: [Samba.private](/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.private|Samba.private]] 
 
-### #is_/same_as :: [Samba.personal](/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.personal|Samba.personal]] 
 
-### #is_/same_as :: [Samba.secret](/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Dance/Ballroom_Dance/Latin_Dance/Samba.secret|Samba.secret]] 
 

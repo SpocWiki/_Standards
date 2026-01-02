@@ -81,17 +81,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Māori_People](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People|Māori_People]] 
 
-### #is_/same_as :: [Māori_People.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.public|Māori_People.public]] 
 
-### #is_/same_as :: [Māori_People.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.internal|Māori_People.internal]] 
 
-### #is_/same_as :: [Māori_People.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.protect|Māori_People.protect]] 
 
-### #is_/same_as :: [Māori_People.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.private|Māori_People.private]] 
 
-### #is_/same_as :: [Māori_People.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.personal|Māori_People.personal]] 
 
-### #is_/same_as :: [Māori_People.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Māori_People.secret|Māori_People.secret]] 
 

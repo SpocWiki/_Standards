@@ -69,17 +69,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Migraine](/_Standards/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Headache/Migraine|Migraine]] 
 
-### #is_/same_as :: [Migraine.public](/_public/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.public|Migraine.public]] 
 
-### #is_/same_as :: [Migraine.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.internal|Migraine.internal]] 
 
-### #is_/same_as :: [Migraine.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.protect|Migraine.protect]] 
 
-### #is_/same_as :: [Migraine.private](/_private/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.private|Migraine.private]] 
 
-### #is_/same_as :: [Migraine.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.personal|Migraine.personal]] 
 
-### #is_/same_as :: [Migraine.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Headache/Migraine.secret|Migraine.secret]] 
 

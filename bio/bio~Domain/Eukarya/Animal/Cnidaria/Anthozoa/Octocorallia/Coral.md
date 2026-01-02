@@ -61,17 +61,17 @@ Baidu_Tieba_name: 珊瑚
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coral](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral|Coral]] 
 
-### #is_/same_as :: [Coral.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.public|Coral.public]] 
 
-### #is_/same_as :: [Coral.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.internal|Coral.internal]] 
 
-### #is_/same_as :: [Coral.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.protect|Coral.protect]] 
 
-### #is_/same_as :: [Coral.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.private|Coral.private]] 
 
-### #is_/same_as :: [Coral.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.personal|Coral.personal]] 
 
-### #is_/same_as :: [Coral.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa/Octocorallia/Coral.secret|Coral.secret]] 
 

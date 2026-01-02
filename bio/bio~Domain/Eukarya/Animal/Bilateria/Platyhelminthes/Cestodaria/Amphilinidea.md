@@ -156,17 +156,17 @@ Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amphilinidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea|Amphilinidea]] 
 
-### #is_/same_as :: [Amphilinidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.public|Amphilinidea.public]] 
 
-### #is_/same_as :: [Amphilinidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.internal|Amphilinidea.internal]] 
 
-### #is_/same_as :: [Amphilinidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.protect|Amphilinidea.protect]] 
 
-### #is_/same_as :: [Amphilinidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.private|Amphilinidea.private]] 
 
-### #is_/same_as :: [Amphilinidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.personal|Amphilinidea.personal]] 
 
-### #is_/same_as :: [Amphilinidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Platyhelminthes/Cestodaria/Amphilinidea.secret|Amphilinidea.secret]] 
 

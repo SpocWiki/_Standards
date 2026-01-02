@@ -43,17 +43,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Animation%20of%20Orbit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orbital_Eccentricity](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity|Orbital_Eccentricity]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.public|Orbital_Eccentricity.public]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.internal|Orbital_Eccentricity.internal]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.protect|Orbital_Eccentricity.protect]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.private|Orbital_Eccentricity.private]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.personal|Orbital_Eccentricity.personal]] 
 
-### #is_/same_as :: [Orbital_Eccentricity.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Eccentricity.secret|Orbital_Eccentricity.secret]] 
 

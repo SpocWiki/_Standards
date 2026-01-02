@@ -45,17 +45,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/menstruation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Menstruation](/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation|Menstruation]] 
 
-### #is_/same_as :: [Menstruation.public](/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.public|Menstruation.public]] 
 
-### #is_/same_as :: [Menstruation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.internal|Menstruation.internal]] 
 
-### #is_/same_as :: [Menstruation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.protect|Menstruation.protect]] 
 
-### #is_/same_as :: [Menstruation.private](/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.private|Menstruation.private]] 
 
-### #is_/same_as :: [Menstruation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.personal|Menstruation.personal]] 
 
-### #is_/same_as :: [Menstruation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Female_Organism/Menstruation.secret|Menstruation.secret]] 
 

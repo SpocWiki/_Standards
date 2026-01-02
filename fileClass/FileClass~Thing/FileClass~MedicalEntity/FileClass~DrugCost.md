@@ -93,17 +93,17 @@ DrugUnit:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DrugCost](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost|FileClass~DrugCost]] 
 
-### #is_/same_as :: [FileClass~DrugCost.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.public|FileClass~DrugCost.public]] 
 
-### #is_/same_as :: [FileClass~DrugCost.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.internal|FileClass~DrugCost.internal]] 
 
-### #is_/same_as :: [FileClass~DrugCost.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.protect|FileClass~DrugCost.protect]] 
 
-### #is_/same_as :: [FileClass~DrugCost.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.private|FileClass~DrugCost.private]] 
 
-### #is_/same_as :: [FileClass~DrugCost.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.personal|FileClass~DrugCost.personal]] 
 
-### #is_/same_as :: [FileClass~DrugCost.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~DrugCost.secret|FileClass~DrugCost.secret]] 
 

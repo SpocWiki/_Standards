@@ -221,17 +221,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Steven%20Spielberg%202
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spielberg,Steven](/_Standards/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven|Spielberg,Steven]] 
 
-### #is_/same_as :: [Spielberg,Steven.public](/_public/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.public|Spielberg,Steven.public]] 
 
-### #is_/same_as :: [Spielberg,Steven.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.internal|Spielberg,Steven.internal]] 
 
-### #is_/same_as :: [Spielberg,Steven.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.protect|Spielberg,Steven.protect]] 
 
-### #is_/same_as :: [Spielberg,Steven.private](/_private/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.private|Spielberg,Steven.private]] 
 
-### #is_/same_as :: [Spielberg,Steven.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.personal|Spielberg,Steven.personal]] 
 
-### #is_/same_as :: [Spielberg,Steven.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Spielberg,Steven.secret|Spielberg,Steven.secret]] 
 

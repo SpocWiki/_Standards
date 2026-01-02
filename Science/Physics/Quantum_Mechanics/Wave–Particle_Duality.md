@@ -43,17 +43,17 @@ Commons_category: Wave–particle duality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wave–Particle_Duality](/_Standards/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality|Wave–Particle_Duality]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.public](/_public/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.public|Wave–Particle_Duality.public]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.internal](/_internal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.internal|Wave–Particle_Duality.internal]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.protect](/_protect/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.protect|Wave–Particle_Duality.protect]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.private](/_private/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.private|Wave–Particle_Duality.private]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.personal](/_personal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.personal|Wave–Particle_Duality.personal]] 
 
-### #is_/same_as :: [Wave–Particle_Duality.secret](/_secret/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Wave–Particle_Duality.secret|Wave–Particle_Duality.secret]] 
 

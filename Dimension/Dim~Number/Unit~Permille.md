@@ -62,17 +62,17 @@ unit_symbol: ‰
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Permille](/_Standards/Dimension/Dim~Number/Unit~Permille.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Number/Unit~Permille|Unit~Permille]] 
 
-### #is_/same_as :: [Unit~Permille.public](/_public/Dimension/Dim~Number/Unit~Permille.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Number/Unit~Permille.public|Unit~Permille.public]] 
 
-### #is_/same_as :: [Unit~Permille.internal](/_internal/Dimension/Dim~Number/Unit~Permille.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Number/Unit~Permille.internal|Unit~Permille.internal]] 
 
-### #is_/same_as :: [Unit~Permille.protect](/_protect/Dimension/Dim~Number/Unit~Permille.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Number/Unit~Permille.protect|Unit~Permille.protect]] 
 
-### #is_/same_as :: [Unit~Permille.private](/_private/Dimension/Dim~Number/Unit~Permille.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Number/Unit~Permille.private|Unit~Permille.private]] 
 
-### #is_/same_as :: [Unit~Permille.personal](/_personal/Dimension/Dim~Number/Unit~Permille.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Number/Unit~Permille.personal|Unit~Permille.personal]] 
 
-### #is_/same_as :: [Unit~Permille.secret](/_secret/Dimension/Dim~Number/Unit~Permille.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Number/Unit~Permille.secret|Unit~Permille.secret]] 
 

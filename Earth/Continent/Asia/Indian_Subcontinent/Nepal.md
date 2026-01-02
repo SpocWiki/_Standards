@@ -586,17 +586,17 @@ Capital :: [[Nepal/Counties/Bagmati/City/Kathmandu]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nepal](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Nepal|Nepal]] 
 
-### #is_/same_as :: [Nepal.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Nepal.public|Nepal.public]] 
 
-### #is_/same_as :: [Nepal.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.internal|Nepal.internal]] 
 
-### #is_/same_as :: [Nepal.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Nepal.protect|Nepal.protect]] 
 
-### #is_/same_as :: [Nepal.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Nepal.private|Nepal.private]] 
 
-### #is_/same_as :: [Nepal.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Nepal.personal|Nepal.personal]] 
 
-### #is_/same_as :: [Nepal.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Nepal.secret|Nepal.secret]] 
 

@@ -126,17 +126,17 @@ A map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Map](/_Standards/Society/Communication/Media/Creative_Work/Map.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Map|Map]] 
 
-### #is_/same_as :: [Map.public](/_public/Society/Communication/Media/Creative_Work/Map.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Map.public|Map.public]] 
 
-### #is_/same_as :: [Map.internal](/_internal/Society/Communication/Media/Creative_Work/Map.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Map.internal|Map.internal]] 
 
-### #is_/same_as :: [Map.protect](/_protect/Society/Communication/Media/Creative_Work/Map.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Map.protect|Map.protect]] 
 
-### #is_/same_as :: [Map.private](/_private/Society/Communication/Media/Creative_Work/Map.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Map.private|Map.private]] 
 
-### #is_/same_as :: [Map.personal](/_personal/Society/Communication/Media/Creative_Work/Map.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Map.personal|Map.personal]] 
 
-### #is_/same_as :: [Map.secret](/_secret/Society/Communication/Media/Creative_Work/Map.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Map.secret|Map.secret]] 
 

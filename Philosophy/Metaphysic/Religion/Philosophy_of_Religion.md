@@ -42,17 +42,17 @@ Library_of_Congress_Classification: BL51
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy_of_Religion](/_Standards/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Philosophy_of_Religion|Philosophy_of_Religion]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.public](/_public/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.public|Philosophy_of_Religion.public]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.internal](/_internal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.internal|Philosophy_of_Religion.internal]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.protect](/_protect/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.protect|Philosophy_of_Religion.protect]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.private](/_private/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.private|Philosophy_of_Religion.private]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.personal](/_personal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.personal|Philosophy_of_Religion.personal]] 
 
-### #is_/same_as :: [Philosophy_of_Religion.secret](/_secret/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Philosophy_of_Religion.secret|Philosophy_of_Religion.secret]] 
 

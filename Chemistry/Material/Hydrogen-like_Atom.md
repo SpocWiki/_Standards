@@ -44,17 +44,17 @@ subclass_of: '[[_Standards/WikiData/WD~atom,9121]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrogen-like_Atom](/_Standards/Chemistry/Material/Hydrogen-like_Atom.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Hydrogen-like_Atom|Hydrogen-like_Atom]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.public](/_public/Chemistry/Material/Hydrogen-like_Atom.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Hydrogen-like_Atom.public|Hydrogen-like_Atom.public]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.internal](/_internal/Chemistry/Material/Hydrogen-like_Atom.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Hydrogen-like_Atom.internal|Hydrogen-like_Atom.internal]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.protect](/_protect/Chemistry/Material/Hydrogen-like_Atom.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Hydrogen-like_Atom.protect|Hydrogen-like_Atom.protect]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.private](/_private/Chemistry/Material/Hydrogen-like_Atom.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Hydrogen-like_Atom.private|Hydrogen-like_Atom.private]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.personal](/_personal/Chemistry/Material/Hydrogen-like_Atom.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Hydrogen-like_Atom.personal|Hydrogen-like_Atom.personal]] 
 
-### #is_/same_as :: [Hydrogen-like_Atom.secret](/_secret/Chemistry/Material/Hydrogen-like_Atom.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Hydrogen-like_Atom.secret|Hydrogen-like_Atom.secret]] 
 

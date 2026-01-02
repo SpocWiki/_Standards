@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_identifying_exam](/_Standards/schema-org/Relation/has/has_identifying_exam.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_identifying_exam|has_identifying_exam]] 
 
-### #is_/same_as :: [has_identifying_exam.public](/_public/schema-org/Relation/has/has_identifying_exam.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_identifying_exam.public|has_identifying_exam.public]] 
 
-### #is_/same_as :: [has_identifying_exam.internal](/_internal/schema-org/Relation/has/has_identifying_exam.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_identifying_exam.internal|has_identifying_exam.internal]] 
 
-### #is_/same_as :: [has_identifying_exam.protect](/_protect/schema-org/Relation/has/has_identifying_exam.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_identifying_exam.protect|has_identifying_exam.protect]] 
 
-### #is_/same_as :: [has_identifying_exam.private](/_private/schema-org/Relation/has/has_identifying_exam.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_identifying_exam.private|has_identifying_exam.private]] 
 
-### #is_/same_as :: [has_identifying_exam.personal](/_personal/schema-org/Relation/has/has_identifying_exam.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_identifying_exam.personal|has_identifying_exam.personal]] 
 
-### #is_/same_as :: [has_identifying_exam.secret](/_secret/schema-org/Relation/has/has_identifying_exam.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_identifying_exam.secret|has_identifying_exam.secret]] 
 

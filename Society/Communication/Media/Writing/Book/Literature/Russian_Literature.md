@@ -91,17 +91,17 @@ Commons_category: Literature of Russia
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russian_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Russian_Literature|Russian_Literature]] 
 
-### #is_/same_as :: [Russian_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.public|Russian_Literature.public]] 
 
-### #is_/same_as :: [Russian_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.internal|Russian_Literature.internal]] 
 
-### #is_/same_as :: [Russian_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.protect|Russian_Literature.protect]] 
 
-### #is_/same_as :: [Russian_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.private|Russian_Literature.private]] 
 
-### #is_/same_as :: [Russian_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.personal|Russian_Literature.personal]] 
 
-### #is_/same_as :: [Russian_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Russian_Literature.secret|Russian_Literature.secret]] 
 

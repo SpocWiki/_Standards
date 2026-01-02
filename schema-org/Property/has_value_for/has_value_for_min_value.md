@@ -44,17 +44,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_min_value](/_Standards/schema-org/Property/has_value_for/has_value_for_min_value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_min_value|has_value_for_min_value]] 
 
-### #is_/same_as :: [has_value_for_min_value.public](/_public/schema-org/Property/has_value_for/has_value_for_min_value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_min_value.public|has_value_for_min_value.public]] 
 
-### #is_/same_as :: [has_value_for_min_value.internal](/_internal/schema-org/Property/has_value_for/has_value_for_min_value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_min_value.internal|has_value_for_min_value.internal]] 
 
-### #is_/same_as :: [has_value_for_min_value.protect](/_protect/schema-org/Property/has_value_for/has_value_for_min_value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_min_value.protect|has_value_for_min_value.protect]] 
 
-### #is_/same_as :: [has_value_for_min_value.private](/_private/schema-org/Property/has_value_for/has_value_for_min_value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_min_value.private|has_value_for_min_value.private]] 
 
-### #is_/same_as :: [has_value_for_min_value.personal](/_personal/schema-org/Property/has_value_for/has_value_for_min_value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_min_value.personal|has_value_for_min_value.personal]] 
 
-### #is_/same_as :: [has_value_for_min_value.secret](/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_min_value.secret|has_value_for_min_value.secret]] 
 

@@ -60,17 +60,17 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Juice,25733376]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juice](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice|Juice]] 
 
-### #is_/same_as :: [Juice.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.public|Juice.public]] 
 
-### #is_/same_as :: [Juice.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.internal|Juice.internal]] 
 
-### #is_/same_as :: [Juice.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.protect|Juice.protect]] 
 
-### #is_/same_as :: [Juice.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.private|Juice.private]] 
 
-### #is_/same_as :: [Juice.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.personal|Juice.personal]] 
 
-### #is_/same_as :: [Juice.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Drink/Juice.secret|Juice.secret]] 
 

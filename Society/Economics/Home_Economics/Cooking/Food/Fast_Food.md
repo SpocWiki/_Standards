@@ -53,17 +53,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fast_Food](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fast_Food|Fast_Food]] 
 
-### #is_/same_as :: [Fast_Food.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.public|Fast_Food.public]] 
 
-### #is_/same_as :: [Fast_Food.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.internal|Fast_Food.internal]] 
 
-### #is_/same_as :: [Fast_Food.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.protect|Fast_Food.protect]] 
 
-### #is_/same_as :: [Fast_Food.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.private|Fast_Food.private]] 
 
-### #is_/same_as :: [Fast_Food.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.personal|Fast_Food.personal]] 
 
-### #is_/same_as :: [Fast_Food.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fast_Food.secret|Fast_Food.secret]] 
 

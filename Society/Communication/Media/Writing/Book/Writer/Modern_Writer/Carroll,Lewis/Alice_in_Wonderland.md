@@ -158,17 +158,17 @@ Wolfram_Language_entity_code: Entity["Book", "AlicesAdventuresInWonderland"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alice_in_Wonderland](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland|Alice_in_Wonderland]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.public|Alice_in_Wonderland.public]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.internal|Alice_in_Wonderland.internal]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.protect|Alice_in_Wonderland.protect]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.private|Alice_in_Wonderland.private]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.personal|Alice_in_Wonderland.personal]] 
 
-### #is_/same_as :: [Alice_in_Wonderland.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Carroll,Lewis/Alice_in_Wonderland.secret|Alice_in_Wonderland.secret]] 
 

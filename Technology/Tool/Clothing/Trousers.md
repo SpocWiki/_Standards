@@ -55,17 +55,17 @@ hashtag: pants
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trousers](/_Standards/Technology/Tool/Clothing/Trousers.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Trousers|Trousers]] 
 
-### #is_/same_as :: [Trousers.public](/_public/Technology/Tool/Clothing/Trousers.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Trousers.public|Trousers.public]] 
 
-### #is_/same_as :: [Trousers.internal](/_internal/Technology/Tool/Clothing/Trousers.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Trousers.internal|Trousers.internal]] 
 
-### #is_/same_as :: [Trousers.protect](/_protect/Technology/Tool/Clothing/Trousers.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Trousers.protect|Trousers.protect]] 
 
-### #is_/same_as :: [Trousers.private](/_private/Technology/Tool/Clothing/Trousers.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Trousers.private|Trousers.private]] 
 
-### #is_/same_as :: [Trousers.personal](/_personal/Technology/Tool/Clothing/Trousers.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Trousers.personal|Trousers.personal]] 
 
-### #is_/same_as :: [Trousers.secret](/_secret/Technology/Tool/Clothing/Trousers.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Trousers.secret|Trousers.secret]] 
 

@@ -56,17 +56,17 @@ OpenStreetMap_tag_or_key: Key:carriage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carriage](/_Standards/Technology/Transport/Road_Transport/Carriage.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Carriage|Carriage]] 
 
-### #is_/same_as :: [Carriage.public](/_public/Technology/Transport/Road_Transport/Carriage.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Carriage.public|Carriage.public]] 
 
-### #is_/same_as :: [Carriage.internal](/_internal/Technology/Transport/Road_Transport/Carriage.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Carriage.internal|Carriage.internal]] 
 
-### #is_/same_as :: [Carriage.protect](/_protect/Technology/Transport/Road_Transport/Carriage.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Carriage.protect|Carriage.protect]] 
 
-### #is_/same_as :: [Carriage.private](/_private/Technology/Transport/Road_Transport/Carriage.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Carriage.private|Carriage.private]] 
 
-### #is_/same_as :: [Carriage.personal](/_personal/Technology/Transport/Road_Transport/Carriage.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Carriage.personal|Carriage.personal]] 
 
-### #is_/same_as :: [Carriage.secret](/_secret/Technology/Transport/Road_Transport/Carriage.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Carriage.secret|Carriage.secret]] 
 

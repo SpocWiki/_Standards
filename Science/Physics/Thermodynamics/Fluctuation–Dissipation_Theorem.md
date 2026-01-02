@@ -26,17 +26,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem](/_Standards/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem|Fluctuation–Dissipation_Theorem]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.public](/_public/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.public|Fluctuation–Dissipation_Theorem.public]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.internal](/_internal/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.internal|Fluctuation–Dissipation_Theorem.internal]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.protect](/_protect/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.protect|Fluctuation–Dissipation_Theorem.protect]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.private](/_private/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.private|Fluctuation–Dissipation_Theorem.private]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.personal](/_personal/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.personal|Fluctuation–Dissipation_Theorem.personal]] 
 
-### #is_/same_as :: [Fluctuation–Dissipation_Theorem.secret](/_secret/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Fluctuation–Dissipation_Theorem.secret|Fluctuation–Dissipation_Theorem.secret]] 
 

@@ -168,17 +168,17 @@ X_Twitter_username: OPECSecretariat
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries)](/_Standards/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries)|OPEC(Organization_of_the_Petroleum_Exporting_Countries)]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).public](/_public/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).public|OPEC(Organization_of_the_Petroleum_Exporting_Countries).public]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal|OPEC(Organization_of_the_Petroleum_Exporting_Countries).internal]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect|OPEC(Organization_of_the_Petroleum_Exporting_Countries).protect]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).private](/_private/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).private|OPEC(Organization_of_the_Petroleum_Exporting_Countries).private]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal|OPEC(Organization_of_the_Petroleum_Exporting_Countries).personal]] 
 
-### #is_/same_as :: [OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret|OPEC(Organization_of_the_Petroleum_Exporting_Countries).secret]] 
 

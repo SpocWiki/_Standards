@@ -22,17 +22,17 @@ An [[../../../_Standards/schema-org/Class/is_a_/Agent|Agent]] ist the owner of [
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ownership](/_Standards/Society/Law/Civil_Law/Ownership.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Ownership|Ownership]] 
 
-### #is_/same_as :: [Ownership.public](/_public/Society/Law/Civil_Law/Ownership.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Ownership.public|Ownership.public]] 
 
-### #is_/same_as :: [Ownership.internal](/_internal/Society/Law/Civil_Law/Ownership.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Ownership.internal|Ownership.internal]] 
 
-### #is_/same_as :: [Ownership.protect](/_protect/Society/Law/Civil_Law/Ownership.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Ownership.protect|Ownership.protect]] 
 
-### #is_/same_as :: [Ownership.private](/_private/Society/Law/Civil_Law/Ownership.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Ownership.private|Ownership.private]] 
 
-### #is_/same_as :: [Ownership.personal](/_personal/Society/Law/Civil_Law/Ownership.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Ownership.personal|Ownership.personal]] 
 
-### #is_/same_as :: [Ownership.secret](/_secret/Society/Law/Civil_Law/Ownership.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Ownership.secret|Ownership.secret]] 
 

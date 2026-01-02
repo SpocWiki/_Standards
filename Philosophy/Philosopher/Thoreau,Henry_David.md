@@ -148,17 +148,17 @@ Libris_URI: mkz12s654bq4w57
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thoreau,Henry_David](/_Standards/Philosophy/Philosopher/Thoreau,Henry_David.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Thoreau,Henry_David|Thoreau,Henry_David]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.public](/_public/Philosophy/Philosopher/Thoreau,Henry_David.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Thoreau,Henry_David.public|Thoreau,Henry_David.public]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.internal](/_internal/Philosophy/Philosopher/Thoreau,Henry_David.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Thoreau,Henry_David.internal|Thoreau,Henry_David.internal]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.protect](/_protect/Philosophy/Philosopher/Thoreau,Henry_David.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Thoreau,Henry_David.protect|Thoreau,Henry_David.protect]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.private](/_private/Philosophy/Philosopher/Thoreau,Henry_David.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Thoreau,Henry_David.private|Thoreau,Henry_David.private]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.personal](/_personal/Philosophy/Philosopher/Thoreau,Henry_David.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Thoreau,Henry_David.personal|Thoreau,Henry_David.personal]] 
 
-### #is_/same_as :: [Thoreau,Henry_David.secret](/_secret/Philosophy/Philosopher/Thoreau,Henry_David.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Thoreau,Henry_David.secret|Thoreau,Henry_David.secret]] 
 

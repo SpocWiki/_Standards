@@ -56,17 +56,17 @@ Commons_category: Summer Olympics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Summer_Olympics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics|Summer_Olympics]] 
 
-### #is_/same_as :: [Summer_Olympics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.public|Summer_Olympics.public]] 
 
-### #is_/same_as :: [Summer_Olympics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.internal|Summer_Olympics.internal]] 
 
-### #is_/same_as :: [Summer_Olympics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.protect|Summer_Olympics.protect]] 
 
-### #is_/same_as :: [Summer_Olympics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.private|Summer_Olympics.private]] 
 
-### #is_/same_as :: [Summer_Olympics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.personal|Summer_Olympics.personal]] 
 
-### #is_/same_as :: [Summer_Olympics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Olympic_Games/Summer_Olympics.secret|Summer_Olympics.secret]] 
 

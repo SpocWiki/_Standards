@@ -38,17 +38,17 @@ OmegaWiki_Defined_Meaning: 1085116
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holometabolism](/_Standards/bio/Metabolism/Holometabolism.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Holometabolism|Holometabolism]] 
 
-### #is_/same_as :: [Holometabolism.public](/_public/bio/Metabolism/Holometabolism.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Holometabolism.public|Holometabolism.public]] 
 
-### #is_/same_as :: [Holometabolism.internal](/_internal/bio/Metabolism/Holometabolism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Holometabolism.internal|Holometabolism.internal]] 
 
-### #is_/same_as :: [Holometabolism.protect](/_protect/bio/Metabolism/Holometabolism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Holometabolism.protect|Holometabolism.protect]] 
 
-### #is_/same_as :: [Holometabolism.private](/_private/bio/Metabolism/Holometabolism.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Holometabolism.private|Holometabolism.private]] 
 
-### #is_/same_as :: [Holometabolism.personal](/_personal/bio/Metabolism/Holometabolism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Holometabolism.personal|Holometabolism.personal]] 
 
-### #is_/same_as :: [Holometabolism.secret](/_secret/bio/Metabolism/Holometabolism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Holometabolism.secret|Holometabolism.secret]] 
 

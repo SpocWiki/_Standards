@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_purchase](/_Standards/schema-org/Property/has_Date_Time/has_time_of_purchase.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_purchase|has_time_of_purchase]] 
 
-### #is_/same_as :: [has_time_of_purchase.public](/_public/schema-org/Property/has_Date_Time/has_time_of_purchase.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_purchase.public|has_time_of_purchase.public]] 
 
-### #is_/same_as :: [has_time_of_purchase.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_purchase.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_purchase.internal|has_time_of_purchase.internal]] 
 
-### #is_/same_as :: [has_time_of_purchase.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_purchase.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_purchase.protect|has_time_of_purchase.protect]] 
 
-### #is_/same_as :: [has_time_of_purchase.private](/_private/schema-org/Property/has_Date_Time/has_time_of_purchase.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_purchase.private|has_time_of_purchase.private]] 
 
-### #is_/same_as :: [has_time_of_purchase.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_purchase.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_purchase.personal|has_time_of_purchase.personal]] 
 
-### #is_/same_as :: [has_time_of_purchase.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_purchase.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_purchase.secret|has_time_of_purchase.secret]] 
 

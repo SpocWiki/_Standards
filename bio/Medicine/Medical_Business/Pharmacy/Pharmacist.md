@@ -119,17 +119,17 @@ Commons_category: Pharmacists
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pharmacist](/_Standards/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Pharmacy/Pharmacist|Pharmacist]] 
 
-### #is_/same_as :: [Pharmacist.public](/_public/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.public|Pharmacist.public]] 
 
-### #is_/same_as :: [Pharmacist.internal](/_internal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.internal|Pharmacist.internal]] 
 
-### #is_/same_as :: [Pharmacist.protect](/_protect/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.protect|Pharmacist.protect]] 
 
-### #is_/same_as :: [Pharmacist.private](/_private/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.private|Pharmacist.private]] 
 
-### #is_/same_as :: [Pharmacist.personal](/_personal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.personal|Pharmacist.personal]] 
 
-### #is_/same_as :: [Pharmacist.secret](/_secret/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Pharmacy/Pharmacist.secret|Pharmacist.secret]] 
 

@@ -82,17 +82,17 @@ taxon_name: Brassica oleracea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brassica_oleracea](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea|Brassica_oleracea]] 
 
-### #is_/same_as :: [Brassica_oleracea.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.public|Brassica_oleracea.public]] 
 
-### #is_/same_as :: [Brassica_oleracea.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.internal|Brassica_oleracea.internal]] 
 
-### #is_/same_as :: [Brassica_oleracea.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.protect|Brassica_oleracea.protect]] 
 
-### #is_/same_as :: [Brassica_oleracea.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.private|Brassica_oleracea.private]] 
 
-### #is_/same_as :: [Brassica_oleracea.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.personal|Brassica_oleracea.personal]] 
 
-### #is_/same_as :: [Brassica_oleracea.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Rosids/Brassicales/Brassicaceae/Brassica/Brassica_oleracea.secret|Brassica_oleracea.secret]] 
 

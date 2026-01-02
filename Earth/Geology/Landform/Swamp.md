@@ -61,17 +61,17 @@ OpenStreetMap_tag: wetland=swamp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swamp](/_Standards/Earth/Geology/Landform/Swamp.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/Swamp|Swamp]] 
 
-### #is_/same_as :: [Swamp.public](/_public/Earth/Geology/Landform/Swamp.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/Swamp.public|Swamp.public]] 
 
-### #is_/same_as :: [Swamp.internal](/_internal/Earth/Geology/Landform/Swamp.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/Swamp.internal|Swamp.internal]] 
 
-### #is_/same_as :: [Swamp.protect](/_protect/Earth/Geology/Landform/Swamp.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/Swamp.protect|Swamp.protect]] 
 
-### #is_/same_as :: [Swamp.private](/_private/Earth/Geology/Landform/Swamp.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/Swamp.private|Swamp.private]] 
 
-### #is_/same_as :: [Swamp.personal](/_personal/Earth/Geology/Landform/Swamp.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/Swamp.personal|Swamp.personal]] 
 
-### #is_/same_as :: [Swamp.secret](/_secret/Earth/Geology/Landform/Swamp.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/Swamp.secret|Swamp.secret]] 
 

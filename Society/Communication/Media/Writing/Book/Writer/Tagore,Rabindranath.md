@@ -206,17 +206,17 @@ ISNI: "0000000120999155"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tagore,Rabindranath](/_Standards/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath|Tagore,Rabindranath]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.public](/_public/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.public|Tagore,Rabindranath.public]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.internal|Tagore,Rabindranath.internal]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.protect|Tagore,Rabindranath.protect]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.private](/_private/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.private|Tagore,Rabindranath.private]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.personal|Tagore,Rabindranath.personal]] 
 
-### #is_/same_as :: [Tagore,Rabindranath.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Tagore,Rabindranath.secret|Tagore,Rabindranath.secret]] 
 

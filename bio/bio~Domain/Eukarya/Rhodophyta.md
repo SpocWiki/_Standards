@@ -169,17 +169,17 @@ Gabrielson 1990 \[and references within\], Ragan et al. 1994).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhodophyta](/_Standards/bio/bio~Domain/Eukarya/Rhodophyta.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Rhodophyta|Rhodophyta]] 
 
-### #is_/same_as :: [Rhodophyta.public](/_public/bio/bio~Domain/Eukarya/Rhodophyta.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Rhodophyta.public|Rhodophyta.public]] 
 
-### #is_/same_as :: [Rhodophyta.internal](/_internal/bio/bio~Domain/Eukarya/Rhodophyta.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Rhodophyta.internal|Rhodophyta.internal]] 
 
-### #is_/same_as :: [Rhodophyta.protect](/_protect/bio/bio~Domain/Eukarya/Rhodophyta.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Rhodophyta.protect|Rhodophyta.protect]] 
 
-### #is_/same_as :: [Rhodophyta.private](/_private/bio/bio~Domain/Eukarya/Rhodophyta.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Rhodophyta.private|Rhodophyta.private]] 
 
-### #is_/same_as :: [Rhodophyta.personal](/_personal/bio/bio~Domain/Eukarya/Rhodophyta.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Rhodophyta.personal|Rhodophyta.personal]] 
 
-### #is_/same_as :: [Rhodophyta.secret](/_secret/bio/bio~Domain/Eukarya/Rhodophyta.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Rhodophyta.secret|Rhodophyta.secret]] 
 

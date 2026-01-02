@@ -111,17 +111,17 @@ short_name: Germanisch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Germanic](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic|LangFamily-Germanic]] 
 
-### #is_/same_as :: [LangFamily-Germanic.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.public|LangFamily-Germanic.public]] 
 
-### #is_/same_as :: [LangFamily-Germanic.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.internal|LangFamily-Germanic.internal]] 
 
-### #is_/same_as :: [LangFamily-Germanic.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.protect|LangFamily-Germanic.protect]] 
 
-### #is_/same_as :: [LangFamily-Germanic.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.private|LangFamily-Germanic.private]] 
 
-### #is_/same_as :: [LangFamily-Germanic.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.personal|LangFamily-Germanic.personal]] 
 
-### #is_/same_as :: [LangFamily-Germanic.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Germanic.secret|LangFamily-Germanic.secret]] 
 

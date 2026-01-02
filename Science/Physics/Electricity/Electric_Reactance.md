@@ -52,17 +52,17 @@ IEV_number: 131-12-46
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electric_Reactance](/_Standards/Science/Physics/Electricity/Electric_Reactance.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Reactance|Electric_Reactance]] 
 
-### #is_/same_as :: [Electric_Reactance.public](/_public/Science/Physics/Electricity/Electric_Reactance.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Reactance.public|Electric_Reactance.public]] 
 
-### #is_/same_as :: [Electric_Reactance.internal](/_internal/Science/Physics/Electricity/Electric_Reactance.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Reactance.internal|Electric_Reactance.internal]] 
 
-### #is_/same_as :: [Electric_Reactance.protect](/_protect/Science/Physics/Electricity/Electric_Reactance.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Reactance.protect|Electric_Reactance.protect]] 
 
-### #is_/same_as :: [Electric_Reactance.private](/_private/Science/Physics/Electricity/Electric_Reactance.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Reactance.private|Electric_Reactance.private]] 
 
-### #is_/same_as :: [Electric_Reactance.personal](/_personal/Science/Physics/Electricity/Electric_Reactance.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Reactance.personal|Electric_Reactance.personal]] 
 
-### #is_/same_as :: [Electric_Reactance.secret](/_secret/Science/Physics/Electricity/Electric_Reactance.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Reactance.secret|Electric_Reactance.secret]] 
 

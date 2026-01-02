@@ -44,17 +44,17 @@ inception: 2010-04-18T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pirate_Parties_International](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International|Pirate_Parties_International]] 
 
-### #is_/same_as :: [Pirate_Parties_International.public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.public|Pirate_Parties_International.public]] 
 
-### #is_/same_as :: [Pirate_Parties_International.internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.internal|Pirate_Parties_International.internal]] 
 
-### #is_/same_as :: [Pirate_Parties_International.protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.protect|Pirate_Parties_International.protect]] 
 
-### #is_/same_as :: [Pirate_Parties_International.private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.private|Pirate_Parties_International.private]] 
 
-### #is_/same_as :: [Pirate_Parties_International.personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.personal|Pirate_Parties_International.personal]] 
 
-### #is_/same_as :: [Pirate_Parties_International.secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)/Pirate_Parties_International.secret|Pirate_Parties_International.secret]] 
 

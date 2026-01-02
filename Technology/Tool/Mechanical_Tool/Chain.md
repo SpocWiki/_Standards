@@ -63,17 +63,17 @@ Unicode_character: ⛓
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chain](/_Standards/Technology/Tool/Mechanical_Tool/Chain.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Chain|Chain]] 
 
-### #is_/same_as :: [Chain.public](/_public/Technology/Tool/Mechanical_Tool/Chain.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Chain.public|Chain.public]] 
 
-### #is_/same_as :: [Chain.internal](/_internal/Technology/Tool/Mechanical_Tool/Chain.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Chain.internal|Chain.internal]] 
 
-### #is_/same_as :: [Chain.protect](/_protect/Technology/Tool/Mechanical_Tool/Chain.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Chain.protect|Chain.protect]] 
 
-### #is_/same_as :: [Chain.private](/_private/Technology/Tool/Mechanical_Tool/Chain.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Chain.private|Chain.private]] 
 
-### #is_/same_as :: [Chain.personal](/_personal/Technology/Tool/Mechanical_Tool/Chain.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Chain.personal|Chain.personal]] 
 
-### #is_/same_as :: [Chain.secret](/_secret/Technology/Tool/Mechanical_Tool/Chain.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Chain.secret|Chain.secret]] 
 

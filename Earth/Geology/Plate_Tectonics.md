@@ -49,17 +49,17 @@ Commons_gallery: Tectonic plate
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plate_Tectonics](/_Standards/Earth/Geology/Plate_Tectonics.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Plate_Tectonics|Plate_Tectonics]] 
 
-### #is_/same_as :: [Plate_Tectonics.public](/_public/Earth/Geology/Plate_Tectonics.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Plate_Tectonics.public|Plate_Tectonics.public]] 
 
-### #is_/same_as :: [Plate_Tectonics.internal](/_internal/Earth/Geology/Plate_Tectonics.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Plate_Tectonics.internal|Plate_Tectonics.internal]] 
 
-### #is_/same_as :: [Plate_Tectonics.protect](/_protect/Earth/Geology/Plate_Tectonics.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Plate_Tectonics.protect|Plate_Tectonics.protect]] 
 
-### #is_/same_as :: [Plate_Tectonics.private](/_private/Earth/Geology/Plate_Tectonics.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Plate_Tectonics.private|Plate_Tectonics.private]] 
 
-### #is_/same_as :: [Plate_Tectonics.personal](/_personal/Earth/Geology/Plate_Tectonics.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Plate_Tectonics.personal|Plate_Tectonics.personal]] 
 
-### #is_/same_as :: [Plate_Tectonics.secret](/_secret/Earth/Geology/Plate_Tectonics.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Plate_Tectonics.secret|Plate_Tectonics.secret]] 
 

@@ -50,17 +50,17 @@ IMA_Mineral_Symbol: Fsp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Feldspar](/_Standards/Earth/Geology/Mineral/Feldspar.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Feldspar|Feldspar]] 
 
-### #is_/same_as :: [Feldspar.public](/_public/Earth/Geology/Mineral/Feldspar.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Feldspar.public|Feldspar.public]] 
 
-### #is_/same_as :: [Feldspar.internal](/_internal/Earth/Geology/Mineral/Feldspar.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Feldspar.internal|Feldspar.internal]] 
 
-### #is_/same_as :: [Feldspar.protect](/_protect/Earth/Geology/Mineral/Feldspar.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Feldspar.protect|Feldspar.protect]] 
 
-### #is_/same_as :: [Feldspar.private](/_private/Earth/Geology/Mineral/Feldspar.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Feldspar.private|Feldspar.private]] 
 
-### #is_/same_as :: [Feldspar.personal](/_personal/Earth/Geology/Mineral/Feldspar.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Feldspar.personal|Feldspar.personal]] 
 
-### #is_/same_as :: [Feldspar.secret](/_secret/Earth/Geology/Mineral/Feldspar.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Feldspar.secret|Feldspar.secret]] 
 

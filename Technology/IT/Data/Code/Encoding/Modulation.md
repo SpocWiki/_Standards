@@ -71,17 +71,17 @@ Commons_category: Radio modulation modes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Modulation](/_Standards/Technology/IT/Data/Code/Encoding/Modulation.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Encoding/Modulation|Modulation]] 
 
-### #is_/same_as :: [Modulation.public](/_public/Technology/IT/Data/Code/Encoding/Modulation.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Encoding/Modulation.public|Modulation.public]] 
 
-### #is_/same_as :: [Modulation.internal](/_internal/Technology/IT/Data/Code/Encoding/Modulation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Encoding/Modulation.internal|Modulation.internal]] 
 
-### #is_/same_as :: [Modulation.protect](/_protect/Technology/IT/Data/Code/Encoding/Modulation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Encoding/Modulation.protect|Modulation.protect]] 
 
-### #is_/same_as :: [Modulation.private](/_private/Technology/IT/Data/Code/Encoding/Modulation.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Encoding/Modulation.private|Modulation.private]] 
 
-### #is_/same_as :: [Modulation.personal](/_personal/Technology/IT/Data/Code/Encoding/Modulation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Encoding/Modulation.personal|Modulation.personal]] 
 
-### #is_/same_as :: [Modulation.secret](/_secret/Technology/IT/Data/Code/Encoding/Modulation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Encoding/Modulation.secret|Modulation.secret]] 
 

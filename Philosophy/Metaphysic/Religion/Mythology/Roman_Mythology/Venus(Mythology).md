@@ -107,17 +107,17 @@ Iconclass_notation: 92C4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venus(Mythology)](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology)|Venus(Mythology)]] 
 
-### #is_/same_as :: [Venus(Mythology).public](/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).public|Venus(Mythology).public]] 
 
-### #is_/same_as :: [Venus(Mythology).internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).internal|Venus(Mythology).internal]] 
 
-### #is_/same_as :: [Venus(Mythology).protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).protect|Venus(Mythology).protect]] 
 
-### #is_/same_as :: [Venus(Mythology).private](/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).private|Venus(Mythology).private]] 
 
-### #is_/same_as :: [Venus(Mythology).personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).personal|Venus(Mythology).personal]] 
 
-### #is_/same_as :: [Venus(Mythology).secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Roman_Mythology/Venus(Mythology).secret|Venus(Mythology).secret]] 
 

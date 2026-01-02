@@ -63,17 +63,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/VARIATSIONNOE_ISCHISLENIE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calculus_of_Variations](/_Standards/Mathematics/Calculus/Calculus_of_Variations.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Calculus_of_Variations|Calculus_of_Variations]] 
 
-### #is_/same_as :: [Calculus_of_Variations.public](/_public/Mathematics/Calculus/Calculus_of_Variations.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Calculus_of_Variations.public|Calculus_of_Variations.public]] 
 
-### #is_/same_as :: [Calculus_of_Variations.internal](/_internal/Mathematics/Calculus/Calculus_of_Variations.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Calculus_of_Variations.internal|Calculus_of_Variations.internal]] 
 
-### #is_/same_as :: [Calculus_of_Variations.protect](/_protect/Mathematics/Calculus/Calculus_of_Variations.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Calculus_of_Variations.protect|Calculus_of_Variations.protect]] 
 
-### #is_/same_as :: [Calculus_of_Variations.private](/_private/Mathematics/Calculus/Calculus_of_Variations.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Calculus_of_Variations.private|Calculus_of_Variations.private]] 
 
-### #is_/same_as :: [Calculus_of_Variations.personal](/_personal/Mathematics/Calculus/Calculus_of_Variations.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Calculus_of_Variations.personal|Calculus_of_Variations.personal]] 
 
-### #is_/same_as :: [Calculus_of_Variations.secret](/_secret/Mathematics/Calculus/Calculus_of_Variations.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Calculus_of_Variations.secret|Calculus_of_Variations.secret]] 
 

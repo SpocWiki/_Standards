@@ -93,17 +93,17 @@ Wikidata_property: force
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Force](/_Standards/Science/Physics/Force.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Force|Force]] 
 
-### #is_/same_as :: [Force.public](/_public/Science/Physics/Force.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Force.public|Force.public]] 
 
-### #is_/same_as :: [Force.internal](/_internal/Science/Physics/Force.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Force.internal|Force.internal]] 
 
-### #is_/same_as :: [Force.protect](/_protect/Science/Physics/Force.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Force.protect|Force.protect]] 
 
-### #is_/same_as :: [Force.private](/_private/Science/Physics/Force.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Force.private|Force.private]] 
 
-### #is_/same_as :: [Force.personal](/_personal/Science/Physics/Force.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Force.personal|Force.personal]] 
 
-### #is_/same_as :: [Force.secret](/_secret/Science/Physics/Force.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Force.secret|Force.secret]] 
 

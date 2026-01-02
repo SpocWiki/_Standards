@@ -53,17 +53,17 @@ UMLS_CUI: C0022634
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ketone](/_Standards/Chemistry/Organic_Chemistry/Ketone.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]] 
 
-### #is_/same_as :: [Ketone.public](/_public/Chemistry/Organic_Chemistry/Ketone.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]] 
 
-### #is_/same_as :: [Ketone.internal](/_internal/Chemistry/Organic_Chemistry/Ketone.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]] 
 
-### #is_/same_as :: [Ketone.protect](/_protect/Chemistry/Organic_Chemistry/Ketone.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Ketone.protect|Ketone.protect]] 
 
-### #is_/same_as :: [Ketone.private](/_private/Chemistry/Organic_Chemistry/Ketone.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Ketone.private|Ketone.private]] 
 
-### #is_/same_as :: [Ketone.personal](/_personal/Chemistry/Organic_Chemistry/Ketone.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Ketone.personal|Ketone.personal]] 
 
-### #is_/same_as :: [Ketone.secret](/_secret/Chemistry/Organic_Chemistry/Ketone.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]] 
 

@@ -23,17 +23,17 @@ It was followed by [[Pinocchio,1976]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biene_Maja](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja|Biene_Maja]] 
 
-### #is_/same_as :: [Biene_Maja.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.public|Biene_Maja.public]] 
 
-### #is_/same_as :: [Biene_Maja.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.internal|Biene_Maja.internal]] 
 
-### #is_/same_as :: [Biene_Maja.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.protect|Biene_Maja.protect]] 
 
-### #is_/same_as :: [Biene_Maja.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.private|Biene_Maja.private]] 
 
-### #is_/same_as :: [Biene_Maja.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.personal|Biene_Maja.personal]] 
 
-### #is_/same_as :: [Biene_Maja.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Biene_Maja.secret|Biene_Maja.secret]] 
 

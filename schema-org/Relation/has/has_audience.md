@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_audience](/_Standards/schema-org/Relation/has/has_audience.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_audience|has_audience]] 
 
-### #is_/same_as :: [has_audience.public](/_public/schema-org/Relation/has/has_audience.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_audience.public|has_audience.public]] 
 
-### #is_/same_as :: [has_audience.internal](/_internal/schema-org/Relation/has/has_audience.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_audience.internal|has_audience.internal]] 
 
-### #is_/same_as :: [has_audience.protect](/_protect/schema-org/Relation/has/has_audience.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_audience.protect|has_audience.protect]] 
 
-### #is_/same_as :: [has_audience.private](/_private/schema-org/Relation/has/has_audience.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_audience.private|has_audience.private]] 
 
-### #is_/same_as :: [has_audience.personal](/_personal/schema-org/Relation/has/has_audience.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_audience.personal|has_audience.personal]] 
 
-### #is_/same_as :: [has_audience.secret](/_secret/schema-org/Relation/has/has_audience.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_audience.secret|has_audience.secret]] 
 

@@ -43,17 +43,17 @@ A structured value representing exchange rate.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Exchange_Rate_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification|Exchange_Rate_Specification]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.public|Exchange_Rate_Specification.public]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.internal|Exchange_Rate_Specification.internal]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.protect|Exchange_Rate_Specification.protect]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.private|Exchange_Rate_Specification.private]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.personal|Exchange_Rate_Specification.personal]] 
 
-### #is_/same_as :: [Exchange_Rate_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Exchange_Rate_Specification.secret|Exchange_Rate_Specification.secret]] 
 

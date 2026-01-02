@@ -86,17 +86,17 @@ Dewey_Decimal_Classification: 523.84465
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supernova](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova|Supernova]] 
 
-### #is_/same_as :: [Supernova.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.public|Supernova.public]] 
 
-### #is_/same_as :: [Supernova.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.internal|Supernova.internal]] 
 
-### #is_/same_as :: [Supernova.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.protect|Supernova.protect]] 
 
-### #is_/same_as :: [Supernova.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.private|Supernova.private]] 
 
-### #is_/same_as :: [Supernova.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.personal|Supernova.personal]] 
 
-### #is_/same_as :: [Supernova.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova.secret|Supernova.secret]] 
 

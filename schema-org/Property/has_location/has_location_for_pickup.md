@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_location_for_pickup](/_Standards/schema-org/Property/has_location/has_location_for_pickup.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_location/has_location_for_pickup|has_location_for_pickup]] 
 
-### #is_/same_as :: [has_location_for_pickup.public](/_public/schema-org/Property/has_location/has_location_for_pickup.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_location/has_location_for_pickup.public|has_location_for_pickup.public]] 
 
-### #is_/same_as :: [has_location_for_pickup.internal](/_internal/schema-org/Property/has_location/has_location_for_pickup.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_location/has_location_for_pickup.internal|has_location_for_pickup.internal]] 
 
-### #is_/same_as :: [has_location_for_pickup.protect](/_protect/schema-org/Property/has_location/has_location_for_pickup.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_location/has_location_for_pickup.protect|has_location_for_pickup.protect]] 
 
-### #is_/same_as :: [has_location_for_pickup.private](/_private/schema-org/Property/has_location/has_location_for_pickup.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_location/has_location_for_pickup.private|has_location_for_pickup.private]] 
 
-### #is_/same_as :: [has_location_for_pickup.personal](/_personal/schema-org/Property/has_location/has_location_for_pickup.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_location/has_location_for_pickup.personal|has_location_for_pickup.personal]] 
 
-### #is_/same_as :: [has_location_for_pickup.secret](/_secret/schema-org/Property/has_location/has_location_for_pickup.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_location/has_location_for_pickup.secret|has_location_for_pickup.secret]] 
 

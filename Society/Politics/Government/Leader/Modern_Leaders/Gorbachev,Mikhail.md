@@ -205,17 +205,17 @@ X_Twitter_username: mgorbachev
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gorbachev,Mikhail](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail|Gorbachev,Mikhail]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.public|Gorbachev,Mikhail.public]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.internal|Gorbachev,Mikhail.internal]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.protect|Gorbachev,Mikhail.protect]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.private|Gorbachev,Mikhail.private]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.personal|Gorbachev,Mikhail.personal]] 
 
-### #is_/same_as :: [Gorbachev,Mikhail.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Gorbachev,Mikhail.secret|Gorbachev,Mikhail.secret]] 
 

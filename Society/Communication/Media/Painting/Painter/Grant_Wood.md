@@ -115,17 +115,17 @@ date_of_death:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grant_Wood](/_Standards/Society/Communication/Media/Painting/Painter/Grant_Wood.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Grant_Wood|Grant_Wood]] 
 
-### #is_/same_as :: [Grant_Wood.public](/_public/Society/Communication/Media/Painting/Painter/Grant_Wood.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Grant_Wood.public|Grant_Wood.public]] 
 
-### #is_/same_as :: [Grant_Wood.internal](/_internal/Society/Communication/Media/Painting/Painter/Grant_Wood.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Grant_Wood.internal|Grant_Wood.internal]] 
 
-### #is_/same_as :: [Grant_Wood.protect](/_protect/Society/Communication/Media/Painting/Painter/Grant_Wood.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Grant_Wood.protect|Grant_Wood.protect]] 
 
-### #is_/same_as :: [Grant_Wood.private](/_private/Society/Communication/Media/Painting/Painter/Grant_Wood.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Grant_Wood.private|Grant_Wood.private]] 
 
-### #is_/same_as :: [Grant_Wood.personal](/_personal/Society/Communication/Media/Painting/Painter/Grant_Wood.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Grant_Wood.personal|Grant_Wood.personal]] 
 
-### #is_/same_as :: [Grant_Wood.secret](/_secret/Society/Communication/Media/Painting/Painter/Grant_Wood.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Grant_Wood.secret|Grant_Wood.secret]] 
 

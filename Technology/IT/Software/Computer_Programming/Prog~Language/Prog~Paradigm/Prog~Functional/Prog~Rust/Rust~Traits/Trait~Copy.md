@@ -19,17 +19,17 @@ You can use the `clone()` Method of the [[Trait~Clone]], but that duplicates bot
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trait~Copy](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy|Trait~Copy]] 
 
-### #is_/same_as :: [Trait~Copy.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.public|Trait~Copy.public]] 
 
-### #is_/same_as :: [Trait~Copy.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.internal|Trait~Copy.internal]] 
 
-### #is_/same_as :: [Trait~Copy.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.protect|Trait~Copy.protect]] 
 
-### #is_/same_as :: [Trait~Copy.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.private|Trait~Copy.private]] 
 
-### #is_/same_as :: [Trait~Copy.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.personal|Trait~Copy.personal]] 
 
-### #is_/same_as :: [Trait~Copy.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Functional/Prog~Rust/Rust~Traits/Trait~Copy.secret|Trait~Copy.secret]] 
 

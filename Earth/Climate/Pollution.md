@@ -71,17 +71,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/ZAGRYAZNENIE_OKRUZHAYUSHCHE_
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pollution](/_Standards/Earth/Climate/Pollution.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Pollution|Pollution]] 
 
-### #is_/same_as :: [Pollution.public](/_public/Earth/Climate/Pollution.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Pollution.public|Pollution.public]] 
 
-### #is_/same_as :: [Pollution.internal](/_internal/Earth/Climate/Pollution.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Pollution.internal|Pollution.internal]] 
 
-### #is_/same_as :: [Pollution.protect](/_protect/Earth/Climate/Pollution.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Pollution.protect|Pollution.protect]] 
 
-### #is_/same_as :: [Pollution.private](/_private/Earth/Climate/Pollution.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Pollution.private|Pollution.private]] 
 
-### #is_/same_as :: [Pollution.personal](/_personal/Earth/Climate/Pollution.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Pollution.personal|Pollution.personal]] 
 
-### #is_/same_as :: [Pollution.secret](/_secret/Earth/Climate/Pollution.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Pollution.secret|Pollution.secret]] 
 

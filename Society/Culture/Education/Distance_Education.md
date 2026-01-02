@@ -48,17 +48,17 @@ MeSH_tree_code: I02.195
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Distance_Education](/_Standards/Society/Culture/Education/Distance_Education.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Distance_Education|Distance_Education]] 
 
-### #is_/same_as :: [Distance_Education.public](/_public/Society/Culture/Education/Distance_Education.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Distance_Education.public|Distance_Education.public]] 
 
-### #is_/same_as :: [Distance_Education.internal](/_internal/Society/Culture/Education/Distance_Education.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Distance_Education.internal|Distance_Education.internal]] 
 
-### #is_/same_as :: [Distance_Education.protect](/_protect/Society/Culture/Education/Distance_Education.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Distance_Education.protect|Distance_Education.protect]] 
 
-### #is_/same_as :: [Distance_Education.private](/_private/Society/Culture/Education/Distance_Education.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Distance_Education.private|Distance_Education.private]] 
 
-### #is_/same_as :: [Distance_Education.personal](/_personal/Society/Culture/Education/Distance_Education.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Distance_Education.personal|Distance_Education.personal]] 
 
-### #is_/same_as :: [Distance_Education.secret](/_secret/Society/Culture/Education/Distance_Education.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Distance_Education.secret|Distance_Education.secret]] 
 

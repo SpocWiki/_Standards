@@ -38,17 +38,17 @@ Commons_category: Southwest Indian Ridge
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southwest_Indian_Ridge](/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge|Southwest_Indian_Ridge]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.public](/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.public|Southwest_Indian_Ridge.public]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.internal](/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.internal|Southwest_Indian_Ridge.internal]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.protect](/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.protect|Southwest_Indian_Ridge.protect]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.private](/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.private|Southwest_Indian_Ridge.private]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.personal](/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.personal|Southwest_Indian_Ridge.personal]] 
 
-### #is_/same_as :: [Southwest_Indian_Ridge.secret](/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Antarctic/Antarctic~African/Southwest_Indian_Ridge.secret|Southwest_Indian_Ridge.secret]] 
 

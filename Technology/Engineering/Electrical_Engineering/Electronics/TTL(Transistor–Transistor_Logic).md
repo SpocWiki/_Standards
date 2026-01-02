@@ -37,17 +37,17 @@ TTL is less sensitive to damage from [electrostatic discharge](https://en.wikipe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic)](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic)|TTL(Transistor–Transistor_Logic)]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).public|TTL(Transistor–Transistor_Logic).public]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).internal|TTL(Transistor–Transistor_Logic).internal]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).protect|TTL(Transistor–Transistor_Logic).protect]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).private|TTL(Transistor–Transistor_Logic).private]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).personal|TTL(Transistor–Transistor_Logic).personal]] 
 
-### #is_/same_as :: [TTL(Transistor–Transistor_Logic).secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/TTL(Transistor–Transistor_Logic).secret|TTL(Transistor–Transistor_Logic).secret]] 
 

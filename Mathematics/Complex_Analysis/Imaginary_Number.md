@@ -49,17 +49,17 @@ Commons_category: Imaginary numbers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Imaginary_Number](/_Standards/Mathematics/Complex_Analysis/Imaginary_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Imaginary_Number|Imaginary_Number]] 
 
-### #is_/same_as :: [Imaginary_Number.public](/_public/Mathematics/Complex_Analysis/Imaginary_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Imaginary_Number.public|Imaginary_Number.public]] 
 
-### #is_/same_as :: [Imaginary_Number.internal](/_internal/Mathematics/Complex_Analysis/Imaginary_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Imaginary_Number.internal|Imaginary_Number.internal]] 
 
-### #is_/same_as :: [Imaginary_Number.protect](/_protect/Mathematics/Complex_Analysis/Imaginary_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Imaginary_Number.protect|Imaginary_Number.protect]] 
 
-### #is_/same_as :: [Imaginary_Number.private](/_private/Mathematics/Complex_Analysis/Imaginary_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Imaginary_Number.private|Imaginary_Number.private]] 
 
-### #is_/same_as :: [Imaginary_Number.personal](/_personal/Mathematics/Complex_Analysis/Imaginary_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Imaginary_Number.personal|Imaginary_Number.personal]] 
 
-### #is_/same_as :: [Imaginary_Number.secret](/_secret/Mathematics/Complex_Analysis/Imaginary_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Imaginary_Number.secret|Imaginary_Number.secret]] 
 

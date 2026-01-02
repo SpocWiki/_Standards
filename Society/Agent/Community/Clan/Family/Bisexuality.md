@@ -77,17 +77,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bisexuality](/_Standards/Society/Agent/Community/Clan/Family/Bisexuality.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Bisexuality|Bisexuality]] 
 
-### #is_/same_as :: [Bisexuality.public](/_public/Society/Agent/Community/Clan/Family/Bisexuality.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Bisexuality.public|Bisexuality.public]] 
 
-### #is_/same_as :: [Bisexuality.internal](/_internal/Society/Agent/Community/Clan/Family/Bisexuality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Bisexuality.internal|Bisexuality.internal]] 
 
-### #is_/same_as :: [Bisexuality.protect](/_protect/Society/Agent/Community/Clan/Family/Bisexuality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Bisexuality.protect|Bisexuality.protect]] 
 
-### #is_/same_as :: [Bisexuality.private](/_private/Society/Agent/Community/Clan/Family/Bisexuality.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Bisexuality.private|Bisexuality.private]] 
 
-### #is_/same_as :: [Bisexuality.personal](/_personal/Society/Agent/Community/Clan/Family/Bisexuality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Bisexuality.personal|Bisexuality.personal]] 
 
-### #is_/same_as :: [Bisexuality.secret](/_secret/Society/Agent/Community/Clan/Family/Bisexuality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Bisexuality.secret|Bisexuality.secret]] 
 

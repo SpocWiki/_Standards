@@ -302,17 +302,17 @@ official_website: https://www.fox.com/the-simpsons/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Simpsons](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons|Simpsons]] 
 
-### #is_/same_as :: [Simpsons.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.public|Simpsons.public]] 
 
-### #is_/same_as :: [Simpsons.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.internal|Simpsons.internal]] 
 
-### #is_/same_as :: [Simpsons.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.protect|Simpsons.protect]] 
 
-### #is_/same_as :: [Simpsons.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.private|Simpsons.private]] 
 
-### #is_/same_as :: [Simpsons.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.personal|Simpsons.personal]] 
 
-### #is_/same_as :: [Simpsons.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Simpsons.secret|Simpsons.secret]] 
 

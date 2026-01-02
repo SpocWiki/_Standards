@@ -75,17 +75,17 @@ IPTC_NewsCode: mediatopic/20000344
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economy](/_Standards/Society/Economics/Economy.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economy|Economy]] 
 
-### #is_/same_as :: [Economy.public](/_public/Society/Economics/Economy.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economy.public|Economy.public]] 
 
-### #is_/same_as :: [Economy.internal](/_internal/Society/Economics/Economy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economy.internal|Economy.internal]] 
 
-### #is_/same_as :: [Economy.protect](/_protect/Society/Economics/Economy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economy.protect|Economy.protect]] 
 
-### #is_/same_as :: [Economy.private](/_private/Society/Economics/Economy.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economy.private|Economy.private]] 
 
-### #is_/same_as :: [Economy.personal](/_personal/Society/Economics/Economy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economy.personal|Economy.personal]] 
 
-### #is_/same_as :: [Economy.secret](/_secret/Society/Economics/Economy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economy.secret|Economy.secret]] 
 

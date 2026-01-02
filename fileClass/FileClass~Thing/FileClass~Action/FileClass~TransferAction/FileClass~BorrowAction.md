@@ -52,17 +52,17 @@ Lender:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BorrowAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction|FileClass~BorrowAction]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.public|FileClass~BorrowAction.public]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.internal|FileClass~BorrowAction.internal]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.protect|FileClass~BorrowAction.protect]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.private|FileClass~BorrowAction.private]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.personal|FileClass~BorrowAction.personal]] 
 
-### #is_/same_as :: [FileClass~BorrowAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~TransferAction/FileClass~BorrowAction.secret|FileClass~BorrowAction.secret]] 
 

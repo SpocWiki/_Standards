@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_query](/_Standards/schema-org/Property/Texts/has_query.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_query|has_query]] 
 
-### #is_/same_as :: [has_query.public](/_public/schema-org/Property/Texts/has_query.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_query.public|has_query.public]] 
 
-### #is_/same_as :: [has_query.internal](/_internal/schema-org/Property/Texts/has_query.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_query.internal|has_query.internal]] 
 
-### #is_/same_as :: [has_query.protect](/_protect/schema-org/Property/Texts/has_query.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_query.protect|has_query.protect]] 
 
-### #is_/same_as :: [has_query.private](/_private/schema-org/Property/Texts/has_query.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_query.private|has_query.private]] 
 
-### #is_/same_as :: [has_query.personal](/_personal/schema-org/Property/Texts/has_query.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_query.personal|has_query.personal]] 
 
-### #is_/same_as :: [has_query.secret](/_secret/schema-org/Property/Texts/has_query.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_query.secret|has_query.secret]] 
 

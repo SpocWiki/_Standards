@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_application_suite](/_Standards/schema-org/Property/Texts/has_application_suite.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_application_suite|has_application_suite]] 
 
-### #is_/same_as :: [has_application_suite.public](/_public/schema-org/Property/Texts/has_application_suite.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_application_suite.public|has_application_suite.public]] 
 
-### #is_/same_as :: [has_application_suite.internal](/_internal/schema-org/Property/Texts/has_application_suite.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_application_suite.internal|has_application_suite.internal]] 
 
-### #is_/same_as :: [has_application_suite.protect](/_protect/schema-org/Property/Texts/has_application_suite.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_application_suite.protect|has_application_suite.protect]] 
 
-### #is_/same_as :: [has_application_suite.private](/_private/schema-org/Property/Texts/has_application_suite.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_application_suite.private|has_application_suite.private]] 
 
-### #is_/same_as :: [has_application_suite.personal](/_personal/schema-org/Property/Texts/has_application_suite.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_application_suite.personal|has_application_suite.personal]] 
 
-### #is_/same_as :: [has_application_suite.secret](/_secret/schema-org/Property/Texts/has_application_suite.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_application_suite.secret|has_application_suite.secret]] 
 

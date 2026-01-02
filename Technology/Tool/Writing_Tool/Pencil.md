@@ -86,17 +86,17 @@ Commons_category: Pencils
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pencil](/_Standards/Technology/Tool/Writing_Tool/Pencil.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Writing_Tool/Pencil|Pencil]] 
 
-### #is_/same_as :: [Pencil.public](/_public/Technology/Tool/Writing_Tool/Pencil.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Writing_Tool/Pencil.public|Pencil.public]] 
 
-### #is_/same_as :: [Pencil.internal](/_internal/Technology/Tool/Writing_Tool/Pencil.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Writing_Tool/Pencil.internal|Pencil.internal]] 
 
-### #is_/same_as :: [Pencil.protect](/_protect/Technology/Tool/Writing_Tool/Pencil.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Writing_Tool/Pencil.protect|Pencil.protect]] 
 
-### #is_/same_as :: [Pencil.private](/_private/Technology/Tool/Writing_Tool/Pencil.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Writing_Tool/Pencil.private|Pencil.private]] 
 
-### #is_/same_as :: [Pencil.personal](/_personal/Technology/Tool/Writing_Tool/Pencil.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Writing_Tool/Pencil.personal|Pencil.personal]] 
 
-### #is_/same_as :: [Pencil.secret](/_secret/Technology/Tool/Writing_Tool/Pencil.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Writing_Tool/Pencil.secret|Pencil.secret]] 
 

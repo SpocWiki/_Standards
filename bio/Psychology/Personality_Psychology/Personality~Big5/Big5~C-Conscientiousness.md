@@ -68,17 +68,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~C-Conscientiousness](Big5~C-Conscientiousness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness|Big5~C-Conscientiousness]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.public|Big5~C-Conscientiousness.public]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.internal|Big5~C-Conscientiousness.internal]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.protect|Big5~C-Conscientiousness.protect]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.private|Big5~C-Conscientiousness.private]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.personal|Big5~C-Conscientiousness.personal]] 
 
-### #is_/same_as :: [Big5~Conscientiousness.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Conscientiousness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~C-Conscientiousness.secret|Big5~C-Conscientiousness.secret]] 
 

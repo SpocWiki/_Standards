@@ -36,17 +36,17 @@ Dewey_Decimal_Classification: 338.521
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Supply_and_Demand](/_Standards/Society/Economics/Microeconomics/Supply_and_Demand.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Microeconomics/Supply_and_Demand|Supply_and_Demand]] 
 
-### #is_/same_as :: [Supply_and_Demand.public](/_public/Society/Economics/Microeconomics/Supply_and_Demand.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Microeconomics/Supply_and_Demand.public|Supply_and_Demand.public]] 
 
-### #is_/same_as :: [Supply_and_Demand.internal](/_internal/Society/Economics/Microeconomics/Supply_and_Demand.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Microeconomics/Supply_and_Demand.internal|Supply_and_Demand.internal]] 
 
-### #is_/same_as :: [Supply_and_Demand.protect](/_protect/Society/Economics/Microeconomics/Supply_and_Demand.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Microeconomics/Supply_and_Demand.protect|Supply_and_Demand.protect]] 
 
-### #is_/same_as :: [Supply_and_Demand.private](/_private/Society/Economics/Microeconomics/Supply_and_Demand.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Microeconomics/Supply_and_Demand.private|Supply_and_Demand.private]] 
 
-### #is_/same_as :: [Supply_and_Demand.personal](/_personal/Society/Economics/Microeconomics/Supply_and_Demand.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Microeconomics/Supply_and_Demand.personal|Supply_and_Demand.personal]] 
 
-### #is_/same_as :: [Supply_and_Demand.secret](/_secret/Society/Economics/Microeconomics/Supply_and_Demand.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Microeconomics/Supply_and_Demand.secret|Supply_and_Demand.secret]] 
 

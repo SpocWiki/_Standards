@@ -48,17 +48,17 @@ OpenStreetMap_tag: activity:dating=yes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dating](/_Standards/Society/Agent/Community/Dating.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Dating|Dating]] 
 
-### #is_/same_as :: [Dating.public](/_public/Society/Agent/Community/Dating.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Dating.public|Dating.public]] 
 
-### #is_/same_as :: [Dating.internal](/_internal/Society/Agent/Community/Dating.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Dating.internal|Dating.internal]] 
 
-### #is_/same_as :: [Dating.protect](/_protect/Society/Agent/Community/Dating.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Dating.protect|Dating.protect]] 
 
-### #is_/same_as :: [Dating.private](/_private/Society/Agent/Community/Dating.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Dating.private|Dating.private]] 
 
-### #is_/same_as :: [Dating.personal](/_personal/Society/Agent/Community/Dating.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Dating.personal|Dating.personal]] 
 
-### #is_/same_as :: [Dating.secret](/_secret/Society/Agent/Community/Dating.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Dating.secret|Dating.secret]] 
 

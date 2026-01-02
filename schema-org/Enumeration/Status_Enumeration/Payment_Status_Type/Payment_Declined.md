@@ -42,17 +42,17 @@ The payee received the payment, but it was declined for some reason.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Payment_Declined](/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined|Payment_Declined]] 
 
-### #is_/same_as :: [Payment_Declined.public](/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.public|Payment_Declined.public]] 
 
-### #is_/same_as :: [Payment_Declined.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.internal|Payment_Declined.internal]] 
 
-### #is_/same_as :: [Payment_Declined.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.protect|Payment_Declined.protect]] 
 
-### #is_/same_as :: [Payment_Declined.private](/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.private|Payment_Declined.private]] 
 
-### #is_/same_as :: [Payment_Declined.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.personal|Payment_Declined.personal]] 
 
-### #is_/same_as :: [Payment_Declined.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Payment_Status_Type/Payment_Declined.secret|Payment_Declined.secret]] 
 

@@ -58,17 +58,17 @@ Commons_category: Fertile Crescent
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fertile_Crescent](/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Fertile_Crescent|Fertile_Crescent]] 
 
-### #is_/same_as :: [Fertile_Crescent.public](/_public/Earth/Continent/Asia/Asia~West/Fertile_Crescent.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Fertile_Crescent.public|Fertile_Crescent.public]] 
 
-### #is_/same_as :: [Fertile_Crescent.internal](/_internal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.internal|Fertile_Crescent.internal]] 
 
-### #is_/same_as :: [Fertile_Crescent.protect](/_protect/Earth/Continent/Asia/Asia~West/Fertile_Crescent.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Fertile_Crescent.protect|Fertile_Crescent.protect]] 
 
-### #is_/same_as :: [Fertile_Crescent.private](/_private/Earth/Continent/Asia/Asia~West/Fertile_Crescent.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Fertile_Crescent.private|Fertile_Crescent.private]] 
 
-### #is_/same_as :: [Fertile_Crescent.personal](/_personal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Fertile_Crescent.personal|Fertile_Crescent.personal]] 
 
-### #is_/same_as :: [Fertile_Crescent.secret](/_secret/Earth/Continent/Asia/Asia~West/Fertile_Crescent.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Fertile_Crescent.secret|Fertile_Crescent.secret]] 
 

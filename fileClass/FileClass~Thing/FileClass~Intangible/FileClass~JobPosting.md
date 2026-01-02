@@ -409,17 +409,17 @@ WorkHours:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~JobPosting](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting|FileClass~JobPosting]] 
 
-### #is_/same_as :: [FileClass~JobPosting.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.public|FileClass~JobPosting.public]] 
 
-### #is_/same_as :: [FileClass~JobPosting.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.internal|FileClass~JobPosting.internal]] 
 
-### #is_/same_as :: [FileClass~JobPosting.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.protect|FileClass~JobPosting.protect]] 
 
-### #is_/same_as :: [FileClass~JobPosting.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.private|FileClass~JobPosting.private]] 
 
-### #is_/same_as :: [FileClass~JobPosting.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.personal|FileClass~JobPosting.personal]] 
 
-### #is_/same_as :: [FileClass~JobPosting.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~JobPosting.secret|FileClass~JobPosting.secret]] 
 

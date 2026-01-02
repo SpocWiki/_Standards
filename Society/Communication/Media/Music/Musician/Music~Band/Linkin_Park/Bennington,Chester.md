@@ -46,17 +46,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bennington,Chester](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester|Bennington,Chester]] 
 
-### #is_/same_as :: [Bennington,Chester.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.public|Bennington,Chester.public]] 
 
-### #is_/same_as :: [Bennington,Chester.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.internal|Bennington,Chester.internal]] 
 
-### #is_/same_as :: [Bennington,Chester.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.protect|Bennington,Chester.protect]] 
 
-### #is_/same_as :: [Bennington,Chester.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.private|Bennington,Chester.private]] 
 
-### #is_/same_as :: [Bennington,Chester.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.personal|Bennington,Chester.personal]] 
 
-### #is_/same_as :: [Bennington,Chester.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Linkin_Park/Bennington,Chester.secret|Bennington,Chester.secret]] 
 

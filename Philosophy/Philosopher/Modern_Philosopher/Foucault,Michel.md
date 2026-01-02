@@ -174,17 +174,17 @@ Krugosvet_article_archived_: istoriya/FUKO_MISHEL.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foucault,Michel](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel|Foucault,Michel]] 
 
-### #is_/same_as :: [Foucault,Michel.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.public|Foucault,Michel.public]] 
 
-### #is_/same_as :: [Foucault,Michel.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.internal|Foucault,Michel.internal]] 
 
-### #is_/same_as :: [Foucault,Michel.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.protect|Foucault,Michel.protect]] 
 
-### #is_/same_as :: [Foucault,Michel.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.private|Foucault,Michel.private]] 
 
-### #is_/same_as :: [Foucault,Michel.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.personal|Foucault,Michel.personal]] 
 
-### #is_/same_as :: [Foucault,Michel.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Foucault,Michel.secret|Foucault,Michel.secret]] 
 

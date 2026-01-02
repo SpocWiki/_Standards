@@ -44,17 +44,17 @@ Specifies that the customer must pay a restocking fee when returning a product.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Restocking_Fees](/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees|Restocking_Fees]] 
 
-### #is_/same_as :: [Restocking_Fees.public](/_public/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.public|Restocking_Fees.public]] 
 
-### #is_/same_as :: [Restocking_Fees.internal](/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.internal|Restocking_Fees.internal]] 
 
-### #is_/same_as :: [Restocking_Fees.protect](/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.protect|Restocking_Fees.protect]] 
 
-### #is_/same_as :: [Restocking_Fees.private](/_private/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.private|Restocking_Fees.private]] 
 
-### #is_/same_as :: [Restocking_Fees.personal](/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.personal|Restocking_Fees.personal]] 
 
-### #is_/same_as :: [Restocking_Fees.secret](/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Return_Fees_Enumeration/Restocking_Fees.secret|Restocking_Fees.secret]] 
 

@@ -62,17 +62,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Longitudinal_Study](/_Standards/Mathematics/Statistics/Observational_Study/Longitudinal_Study.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Observational_Study/Longitudinal_Study|Longitudinal_Study]] 
 
-### #is_/same_as :: [Longitudinal_Study.public](/_public/Mathematics/Statistics/Observational_Study/Longitudinal_Study.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Observational_Study/Longitudinal_Study.public|Longitudinal_Study.public]] 
 
-### #is_/same_as :: [Longitudinal_Study.internal](/_internal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.internal|Longitudinal_Study.internal]] 
 
-### #is_/same_as :: [Longitudinal_Study.protect](/_protect/Mathematics/Statistics/Observational_Study/Longitudinal_Study.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Observational_Study/Longitudinal_Study.protect|Longitudinal_Study.protect]] 
 
-### #is_/same_as :: [Longitudinal_Study.private](/_private/Mathematics/Statistics/Observational_Study/Longitudinal_Study.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Observational_Study/Longitudinal_Study.private|Longitudinal_Study.private]] 
 
-### #is_/same_as :: [Longitudinal_Study.personal](/_personal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Observational_Study/Longitudinal_Study.personal|Longitudinal_Study.personal]] 
 
-### #is_/same_as :: [Longitudinal_Study.secret](/_secret/Mathematics/Statistics/Observational_Study/Longitudinal_Study.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Observational_Study/Longitudinal_Study.secret|Longitudinal_Study.secret]] 
 

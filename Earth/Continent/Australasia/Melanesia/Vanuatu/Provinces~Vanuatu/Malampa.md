@@ -40,17 +40,17 @@ markerFolder: ./Malampa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malampa](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa|Malampa]] 
 
-### #is_/same_as :: [Malampa.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.public|Malampa.public]] 
 
-### #is_/same_as :: [Malampa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.internal|Malampa.internal]] 
 
-### #is_/same_as :: [Malampa.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.protect|Malampa.protect]] 
 
-### #is_/same_as :: [Malampa.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.private|Malampa.private]] 
 
-### #is_/same_as :: [Malampa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.personal|Malampa.personal]] 
 
-### #is_/same_as :: [Malampa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Malampa.secret|Malampa.secret]] 
 

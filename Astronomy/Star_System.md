@@ -41,17 +41,17 @@ Dewey_Decimal_Classification: "523.841"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_System](/_Standards/Astronomy/Star_System.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System|Star_System]] 
 
-### #is_/same_as :: [Star_System.public](/_public/Astronomy/Star_System.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System.public|Star_System.public]] 
 
-### #is_/same_as :: [Star_System.internal](/_internal/Astronomy/Star_System.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System.internal|Star_System.internal]] 
 
-### #is_/same_as :: [Star_System.protect](/_protect/Astronomy/Star_System.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System.protect|Star_System.protect]] 
 
-### #is_/same_as :: [Star_System.private](/_private/Astronomy/Star_System.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System.private|Star_System.private]] 
 
-### #is_/same_as :: [Star_System.personal](/_personal/Astronomy/Star_System.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System.personal|Star_System.personal]] 
 
-### #is_/same_as :: [Star_System.secret](/_secret/Astronomy/Star_System.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System.secret|Star_System.secret]] 
 

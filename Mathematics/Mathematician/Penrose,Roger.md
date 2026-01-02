@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Penrose,Roger](/_Standards/Mathematics/Mathematician/Penrose,Roger.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Penrose,Roger|Penrose,Roger]] 
 
-### #is_/same_as :: [Penrose,Roger.public](/_public/Mathematics/Mathematician/Penrose,Roger.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Penrose,Roger.public|Penrose,Roger.public]] 
 
-### #is_/same_as :: [Penrose,Roger.internal](/_internal/Mathematics/Mathematician/Penrose,Roger.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Penrose,Roger.internal|Penrose,Roger.internal]] 
 
-### #is_/same_as :: [Penrose,Roger.protect](/_protect/Mathematics/Mathematician/Penrose,Roger.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Penrose,Roger.protect|Penrose,Roger.protect]] 
 
-### #is_/same_as :: [Penrose,Roger.private](/_private/Mathematics/Mathematician/Penrose,Roger.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Penrose,Roger.private|Penrose,Roger.private]] 
 
-### #is_/same_as :: [Penrose,Roger.personal](/_personal/Mathematics/Mathematician/Penrose,Roger.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Penrose,Roger.personal|Penrose,Roger.personal]] 
 
-### #is_/same_as :: [Penrose,Roger.secret](/_secret/Mathematics/Mathematician/Penrose,Roger.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Penrose,Roger.secret|Penrose,Roger.secret]] 
 

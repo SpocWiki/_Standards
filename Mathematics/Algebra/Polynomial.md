@@ -63,17 +63,17 @@ Commons_category: Polynomials
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Polynomial](/_Standards/Mathematics/Algebra/Polynomial.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Polynomial|Polynomial]] 
 
-### #is_/same_as :: [Polynomial.public](/_public/Mathematics/Algebra/Polynomial.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Polynomial.public|Polynomial.public]] 
 
-### #is_/same_as :: [Polynomial.internal](/_internal/Mathematics/Algebra/Polynomial.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Polynomial.internal|Polynomial.internal]] 
 
-### #is_/same_as :: [Polynomial.protect](/_protect/Mathematics/Algebra/Polynomial.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Polynomial.protect|Polynomial.protect]] 
 
-### #is_/same_as :: [Polynomial.private](/_private/Mathematics/Algebra/Polynomial.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Polynomial.private|Polynomial.private]] 
 
-### #is_/same_as :: [Polynomial.personal](/_personal/Mathematics/Algebra/Polynomial.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Polynomial.personal|Polynomial.personal]] 
 
-### #is_/same_as :: [Polynomial.secret](/_secret/Mathematics/Algebra/Polynomial.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Polynomial.secret|Polynomial.secret]] 
 

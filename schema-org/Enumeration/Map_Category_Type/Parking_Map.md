@@ -42,17 +42,17 @@ A parking map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parking_Map](/_Standards/schema-org/Enumeration/Map_Category_Type/Parking_Map.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type/Parking_Map|Parking_Map]] 
 
-### #is_/same_as :: [Parking_Map.public](/_public/schema-org/Enumeration/Map_Category_Type/Parking_Map.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Map_Category_Type/Parking_Map.public|Parking_Map.public]] 
 
-### #is_/same_as :: [Parking_Map.internal](/_internal/schema-org/Enumeration/Map_Category_Type/Parking_Map.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Map_Category_Type/Parking_Map.internal|Parking_Map.internal]] 
 
-### #is_/same_as :: [Parking_Map.protect](/_protect/schema-org/Enumeration/Map_Category_Type/Parking_Map.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Map_Category_Type/Parking_Map.protect|Parking_Map.protect]] 
 
-### #is_/same_as :: [Parking_Map.private](/_private/schema-org/Enumeration/Map_Category_Type/Parking_Map.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Map_Category_Type/Parking_Map.private|Parking_Map.private]] 
 
-### #is_/same_as :: [Parking_Map.personal](/_personal/schema-org/Enumeration/Map_Category_Type/Parking_Map.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Map_Category_Type/Parking_Map.personal|Parking_Map.personal]] 
 
-### #is_/same_as :: [Parking_Map.secret](/_secret/schema-org/Enumeration/Map_Category_Type/Parking_Map.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Map_Category_Type/Parking_Map.secret|Parking_Map.secret]] 
 

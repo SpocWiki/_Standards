@@ -241,17 +241,17 @@ hashtag: mcdonald's
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [McDonald’s](/_Standards/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/McDonald’s|McDonald’s]] 
 
-### #is_/same_as :: [McDonald’s.public](/_public/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.public|McDonald’s.public]] 
 
-### #is_/same_as :: [McDonald’s.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.internal|McDonald’s.internal]] 
 
-### #is_/same_as :: [McDonald’s.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.protect|McDonald’s.protect]] 
 
-### #is_/same_as :: [McDonald’s.private](/_private/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.private|McDonald’s.private]] 
 
-### #is_/same_as :: [McDonald’s.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.personal|McDonald’s.personal]] 
 
-### #is_/same_as :: [McDonald’s.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/McDonald’s.secret|McDonald’s.secret]] 
 

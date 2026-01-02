@@ -42,17 +42,17 @@ Cool against Inflammation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diclofenac](/_Standards/bio/Medicine/Drug/Medication/Diclofenac.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Medication/Diclofenac|Diclofenac]] 
 
-### #is_/same_as :: [Diclofenac.public](/_public/bio/Medicine/Drug/Medication/Diclofenac.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Medication/Diclofenac.public|Diclofenac.public]] 
 
-### #is_/same_as :: [Diclofenac.internal](/_internal/bio/Medicine/Drug/Medication/Diclofenac.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Medication/Diclofenac.internal|Diclofenac.internal]] 
 
-### #is_/same_as :: [Diclofenac.protect](/_protect/bio/Medicine/Drug/Medication/Diclofenac.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Medication/Diclofenac.protect|Diclofenac.protect]] 
 
-### #is_/same_as :: [Diclofenac.private](/_private/bio/Medicine/Drug/Medication/Diclofenac.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Medication/Diclofenac.private|Diclofenac.private]] 
 
-### #is_/same_as :: [Diclofenac.personal](/_personal/bio/Medicine/Drug/Medication/Diclofenac.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Medication/Diclofenac.personal|Diclofenac.personal]] 
 
-### #is_/same_as :: [Diclofenac.secret](/_secret/bio/Medicine/Drug/Medication/Diclofenac.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Medication/Diclofenac.secret|Diclofenac.secret]] 
 

@@ -44,17 +44,17 @@ Commons_category: Weapons of mass destruction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction](/_Standards/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction|Weapon_of_Mass_Destruction]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.public](/_public/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.public|Weapon_of_Mass_Destruction.public]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.internal](/_internal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.internal|Weapon_of_Mass_Destruction.internal]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.protect](/_protect/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.protect|Weapon_of_Mass_Destruction.protect]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.private](/_private/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.private|Weapon_of_Mass_Destruction.private]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.personal](/_personal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.personal|Weapon_of_Mass_Destruction.personal]] 
 
-### #is_/same_as :: [Weapon_of_Mass_Destruction.secret](/_secret/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Weapon_of_Mass_Destruction.secret|Weapon_of_Mass_Destruction.secret]] 
 

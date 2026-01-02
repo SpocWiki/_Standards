@@ -154,17 +154,17 @@ markerFolder: ./Antarctica/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antarctica](/_Standards/Earth/Continent/Antarctica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Antarctica|Antarctica]] 
 
-### #is_/same_as :: [Antarctica.public](/_public/Earth/Continent/Antarctica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Antarctica.public|Antarctica.public]] 
 
-### #is_/same_as :: [Antarctica.internal](/_internal/Earth/Continent/Antarctica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Antarctica.internal|Antarctica.internal]] 
 
-### #is_/same_as :: [Antarctica.protect](/_protect/Earth/Continent/Antarctica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Antarctica.protect|Antarctica.protect]] 
 
-### #is_/same_as :: [Antarctica.private](/_private/Earth/Continent/Antarctica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Antarctica.private|Antarctica.private]] 
 
-### #is_/same_as :: [Antarctica.personal](/_personal/Earth/Continent/Antarctica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Antarctica.personal|Antarctica.personal]] 
 
-### #is_/same_as :: [Antarctica.secret](/_secret/Earth/Continent/Antarctica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Antarctica.secret|Antarctica.secret]] 
 

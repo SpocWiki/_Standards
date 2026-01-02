@@ -44,17 +44,17 @@ Great Famine of 1315–1317
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1315-Great_Famine-1322](/_Standards/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322|1315-Great_Famine-1322]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.public](/_public/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.public|1315-Great_Famine-1322.public]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.internal](/_internal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.internal|1315-Great_Famine-1322.internal]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.protect](/_protect/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.protect|1315-Great_Famine-1322.protect]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.private](/_private/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.private|1315-Great_Famine-1322.private]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.personal](/_personal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.personal|1315-Great_Famine-1322.personal]] 
 
-### #is_/same_as :: [1315-Great_Famine-1322.secret](/_secret/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/1315-Great_Famine-1322.secret|1315-Great_Famine-1322.secret]] 
 

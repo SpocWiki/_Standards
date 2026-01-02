@@ -37,17 +37,17 @@ A Search and Rescue organization of some kind.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization|FileClass~SearchRescueOrganization]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.public|FileClass~SearchRescueOrganization.public]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.internal|FileClass~SearchRescueOrganization.internal]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.protect|FileClass~SearchRescueOrganization.protect]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.private|FileClass~SearchRescueOrganization.private]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.personal|FileClass~SearchRescueOrganization.personal]] 
 
-### #is_/same_as :: [FileClass~SearchRescueOrganization.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~SearchRescueOrganization.secret|FileClass~SearchRescueOrganization.secret]] 
 

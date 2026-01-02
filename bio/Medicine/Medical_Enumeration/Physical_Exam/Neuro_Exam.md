@@ -42,17 +42,17 @@ Neurological system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neuro_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam|Neuro_Exam]] 
 
-### #is_/same_as :: [Neuro_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.public|Neuro_Exam.public]] 
 
-### #is_/same_as :: [Neuro_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.internal|Neuro_Exam.internal]] 
 
-### #is_/same_as :: [Neuro_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.protect|Neuro_Exam.protect]] 
 
-### #is_/same_as :: [Neuro_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.private|Neuro_Exam.private]] 
 
-### #is_/same_as :: [Neuro_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.personal|Neuro_Exam.personal]] 
 
-### #is_/same_as :: [Neuro_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Neuro_Exam.secret|Neuro_Exam.secret]] 
 

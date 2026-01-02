@@ -26,17 +26,17 @@ subclass_of: "[[_Standards/WikiData/WD~sexual_intercourse,5873]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Casual_Sex](/_Standards/Society/Agent/Community/Clan/Family/Casual_Sex.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Casual_Sex|Casual_Sex]] 
 
-### #is_/same_as :: [Casual_Sex.public](/_public/Society/Agent/Community/Clan/Family/Casual_Sex.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Casual_Sex.public|Casual_Sex.public]] 
 
-### #is_/same_as :: [Casual_Sex.internal](/_internal/Society/Agent/Community/Clan/Family/Casual_Sex.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Casual_Sex.internal|Casual_Sex.internal]] 
 
-### #is_/same_as :: [Casual_Sex.protect](/_protect/Society/Agent/Community/Clan/Family/Casual_Sex.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Casual_Sex.protect|Casual_Sex.protect]] 
 
-### #is_/same_as :: [Casual_Sex.private](/_private/Society/Agent/Community/Clan/Family/Casual_Sex.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Casual_Sex.private|Casual_Sex.private]] 
 
-### #is_/same_as :: [Casual_Sex.personal](/_personal/Society/Agent/Community/Clan/Family/Casual_Sex.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Casual_Sex.personal|Casual_Sex.personal]] 
 
-### #is_/same_as :: [Casual_Sex.secret](/_secret/Society/Agent/Community/Clan/Family/Casual_Sex.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Casual_Sex.secret|Casual_Sex.secret]] 
 

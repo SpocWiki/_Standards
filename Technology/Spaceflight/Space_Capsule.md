@@ -36,17 +36,17 @@ Commons_category: Space capsules
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Space_Capsule](/_Standards/Technology/Spaceflight/Space_Capsule.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Space_Capsule|Space_Capsule]] 
 
-### #is_/same_as :: [Space_Capsule.public](/_public/Technology/Spaceflight/Space_Capsule.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Space_Capsule.public|Space_Capsule.public]] 
 
-### #is_/same_as :: [Space_Capsule.internal](/_internal/Technology/Spaceflight/Space_Capsule.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Space_Capsule.internal|Space_Capsule.internal]] 
 
-### #is_/same_as :: [Space_Capsule.protect](/_protect/Technology/Spaceflight/Space_Capsule.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Space_Capsule.protect|Space_Capsule.protect]] 
 
-### #is_/same_as :: [Space_Capsule.private](/_private/Technology/Spaceflight/Space_Capsule.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Space_Capsule.private|Space_Capsule.private]] 
 
-### #is_/same_as :: [Space_Capsule.personal](/_personal/Technology/Spaceflight/Space_Capsule.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Space_Capsule.personal|Space_Capsule.personal]] 
 
-### #is_/same_as :: [Space_Capsule.secret](/_secret/Technology/Spaceflight/Space_Capsule.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Space_Capsule.secret|Space_Capsule.secret]] 
 

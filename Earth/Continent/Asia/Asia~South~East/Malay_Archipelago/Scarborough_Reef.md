@@ -62,17 +62,17 @@ markerFolder: ./Scarborough_Reef/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scarborough_Reef](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef|Scarborough_Reef]] 
 
-### #is_/same_as :: [Scarborough_Reef.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.public|Scarborough_Reef.public]] 
 
-### #is_/same_as :: [Scarborough_Reef.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.internal|Scarborough_Reef.internal]] 
 
-### #is_/same_as :: [Scarborough_Reef.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.protect|Scarborough_Reef.protect]] 
 
-### #is_/same_as :: [Scarborough_Reef.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.private|Scarborough_Reef.private]] 
 
-### #is_/same_as :: [Scarborough_Reef.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.personal|Scarborough_Reef.personal]] 
 
-### #is_/same_as :: [Scarborough_Reef.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Scarborough_Reef.secret|Scarborough_Reef.secret]] 
 

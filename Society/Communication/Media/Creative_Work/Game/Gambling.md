@@ -72,17 +72,17 @@ U_S_National_Archives_Identifier: 10636709
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gambling](/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Gambling|Gambling]] 
 
-### #is_/same_as :: [Gambling.public](/_public/Society/Communication/Media/Creative_Work/Game/Gambling.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Gambling.public|Gambling.public]] 
 
-### #is_/same_as :: [Gambling.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Gambling.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Gambling.internal|Gambling.internal]] 
 
-### #is_/same_as :: [Gambling.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Gambling.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Gambling.protect|Gambling.protect]] 
 
-### #is_/same_as :: [Gambling.private](/_private/Society/Communication/Media/Creative_Work/Game/Gambling.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Gambling.private|Gambling.private]] 
 
-### #is_/same_as :: [Gambling.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Gambling.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Gambling.personal|Gambling.personal]] 
 
-### #is_/same_as :: [Gambling.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Gambling.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Gambling.secret|Gambling.secret]] 
 

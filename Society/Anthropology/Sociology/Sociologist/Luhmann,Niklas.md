@@ -111,17 +111,17 @@ Wolfram_Language_entity_code: Entity["Person", "NiklasLuhmann::4796k"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Luhmann,Niklas](/_Standards/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas|Luhmann,Niklas]] 
 
-### #is_/same_as :: [Luhmann,Niklas.public](/_public/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.public|Luhmann,Niklas.public]] 
 
-### #is_/same_as :: [Luhmann,Niklas.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.internal|Luhmann,Niklas.internal]] 
 
-### #is_/same_as :: [Luhmann,Niklas.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.protect|Luhmann,Niklas.protect]] 
 
-### #is_/same_as :: [Luhmann,Niklas.private](/_private/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.private|Luhmann,Niklas.private]] 
 
-### #is_/same_as :: [Luhmann,Niklas.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.personal|Luhmann,Niklas.personal]] 
 
-### #is_/same_as :: [Luhmann,Niklas.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Luhmann,Niklas.secret|Luhmann,Niklas.secret]] 
 

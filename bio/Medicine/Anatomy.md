@@ -88,17 +88,17 @@ U_S_National_Archives_Identifier: 10666355
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anatomy](/_Standards/bio/Medicine/Anatomy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy|Anatomy]] 
 
-### #is_/same_as :: [Anatomy.public](/_public/bio/Medicine/Anatomy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy.public|Anatomy.public]] 
 
-### #is_/same_as :: [Anatomy.internal](/_internal/bio/Medicine/Anatomy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy.internal|Anatomy.internal]] 
 
-### #is_/same_as :: [Anatomy.protect](/_protect/bio/Medicine/Anatomy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy.protect|Anatomy.protect]] 
 
-### #is_/same_as :: [Anatomy.private](/_private/bio/Medicine/Anatomy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy.private|Anatomy.private]] 
 
-### #is_/same_as :: [Anatomy.personal](/_personal/bio/Medicine/Anatomy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy.personal|Anatomy.personal]] 
 
-### #is_/same_as :: [Anatomy.secret](/_secret/bio/Medicine/Anatomy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy.secret|Anatomy.secret]] 
 

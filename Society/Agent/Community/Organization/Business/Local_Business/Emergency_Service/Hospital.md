@@ -61,17 +61,17 @@ A hospital.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hospital](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital|Hospital]] 
 
-### #is_/same_as :: [Hospital.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.public|Hospital.public]] 
 
-### #is_/same_as :: [Hospital.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.internal|Hospital.internal]] 
 
-### #is_/same_as :: [Hospital.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.protect|Hospital.protect]] 
 
-### #is_/same_as :: [Hospital.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.private|Hospital.private]] 
 
-### #is_/same_as :: [Hospital.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.personal|Hospital.personal]] 
 
-### #is_/same_as :: [Hospital.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Hospital.secret|Hospital.secret]] 
 

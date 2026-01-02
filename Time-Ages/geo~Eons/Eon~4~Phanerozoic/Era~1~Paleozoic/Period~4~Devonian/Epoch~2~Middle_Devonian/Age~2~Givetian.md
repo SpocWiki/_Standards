@@ -61,17 +61,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~2~Givetian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian|Age~2~Givetian]] 
 
-### #is_/same_as :: [Age~2~Givetian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.public|Age~2~Givetian.public]] 
 
-### #is_/same_as :: [Age~2~Givetian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.internal|Age~2~Givetian.internal]] 
 
-### #is_/same_as :: [Age~2~Givetian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.protect|Age~2~Givetian.protect]] 
 
-### #is_/same_as :: [Age~2~Givetian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.private|Age~2~Givetian.private]] 
 
-### #is_/same_as :: [Age~2~Givetian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.personal|Age~2~Givetian.personal]] 
 
-### #is_/same_as :: [Age~2~Givetian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~2~Middle_Devonian/Age~2~Givetian.secret|Age~2~Givetian.secret]] 
 

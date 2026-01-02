@@ -96,17 +96,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port_Vila](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila|Port_Vila]] 
 
-### #is_/same_as :: [Port_Vila.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.public|Port_Vila.public]] 
 
-### #is_/same_as :: [Port_Vila.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.internal|Port_Vila.internal]] 
 
-### #is_/same_as :: [Port_Vila.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.protect|Port_Vila.protect]] 
 
-### #is_/same_as :: [Port_Vila.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.private|Port_Vila.private]] 
 
-### #is_/same_as :: [Port_Vila.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.personal|Port_Vila.personal]] 
 
-### #is_/same_as :: [Port_Vila.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa/counties~Shefa/North_Efate/Port_Vila.secret|Port_Vila.secret]] 
 

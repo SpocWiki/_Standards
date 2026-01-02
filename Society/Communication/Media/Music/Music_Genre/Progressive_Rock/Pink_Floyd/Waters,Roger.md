@@ -115,17 +115,17 @@ Europeana_entity: agent/base/61660
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Waters,Roger](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger|Waters,Roger]] 
 
-### #is_/same_as :: [Waters,Roger.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.public|Waters,Roger.public]] 
 
-### #is_/same_as :: [Waters,Roger.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.internal|Waters,Roger.internal]] 
 
-### #is_/same_as :: [Waters,Roger.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.protect|Waters,Roger.protect]] 
 
-### #is_/same_as :: [Waters,Roger.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.private|Waters,Roger.private]] 
 
-### #is_/same_as :: [Waters,Roger.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.personal|Waters,Roger.personal]] 
 
-### #is_/same_as :: [Waters,Roger.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Pink_Floyd/Waters,Roger.secret|Waters,Roger.secret]] 
 

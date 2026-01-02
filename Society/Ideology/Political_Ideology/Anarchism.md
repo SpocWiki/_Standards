@@ -78,17 +78,17 @@ Wolfram_Language_entity_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anarchism](/_Standards/Society/Ideology/Political_Ideology/Anarchism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Anarchism|Anarchism]] 
 
-### #is_/same_as :: [Anarchism.public](/_public/Society/Ideology/Political_Ideology/Anarchism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Anarchism.public|Anarchism.public]] 
 
-### #is_/same_as :: [Anarchism.internal](/_internal/Society/Ideology/Political_Ideology/Anarchism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Anarchism.internal|Anarchism.internal]] 
 
-### #is_/same_as :: [Anarchism.protect](/_protect/Society/Ideology/Political_Ideology/Anarchism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Anarchism.protect|Anarchism.protect]] 
 
-### #is_/same_as :: [Anarchism.private](/_private/Society/Ideology/Political_Ideology/Anarchism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Anarchism.private|Anarchism.private]] 
 
-### #is_/same_as :: [Anarchism.personal](/_personal/Society/Ideology/Political_Ideology/Anarchism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Anarchism.personal|Anarchism.personal]] 
 
-### #is_/same_as :: [Anarchism.secret](/_secret/Society/Ideology/Political_Ideology/Anarchism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Anarchism.secret|Anarchism.secret]] 
 

@@ -61,17 +61,17 @@ subreddit: Logarithms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Logarithm](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm|Logarithm]] 
 
-### #is_/same_as :: [Logarithm.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.public|Logarithm.public]] 
 
-### #is_/same_as :: [Logarithm.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.internal|Logarithm.internal]] 
 
-### #is_/same_as :: [Logarithm.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.protect|Logarithm.protect]] 
 
-### #is_/same_as :: [Logarithm.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.private|Logarithm.private]] 
 
-### #is_/same_as :: [Logarithm.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.personal|Logarithm.personal]] 
 
-### #is_/same_as :: [Logarithm.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/Logarithm.secret|Logarithm.secret]] 
 

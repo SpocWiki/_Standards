@@ -39,17 +39,17 @@ An enumeration that describes different types of medical procedures.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Procedure_Type](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type|Medical_Procedure_Type]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.public|Medical_Procedure_Type.public]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.internal|Medical_Procedure_Type.internal]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.protect|Medical_Procedure_Type.protect]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.private|Medical_Procedure_Type.private]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.personal|Medical_Procedure_Type.personal]] 
 
-### #is_/same_as :: [Medical_Procedure_Type.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Procedure_Type.secret|Medical_Procedure_Type.secret]] 
 

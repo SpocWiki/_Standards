@@ -109,17 +109,17 @@ coordinate_location: Point(2.337287873 48.859944681)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venus_de_Milo](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo|Venus_de_Milo]] 
 
-### #is_/same_as :: [Venus_de_Milo.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.public|Venus_de_Milo.public]] 
 
-### #is_/same_as :: [Venus_de_Milo.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.internal|Venus_de_Milo.internal]] 
 
-### #is_/same_as :: [Venus_de_Milo.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.protect|Venus_de_Milo.protect]] 
 
-### #is_/same_as :: [Venus_de_Milo.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.private|Venus_de_Milo.private]] 
 
-### #is_/same_as :: [Venus_de_Milo.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.personal|Venus_de_Milo.personal]] 
 
-### #is_/same_as :: [Venus_de_Milo.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Statue/Venus_de_Milo.secret|Venus_de_Milo.secret]] 
 

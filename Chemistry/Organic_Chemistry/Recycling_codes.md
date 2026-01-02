@@ -84,17 +84,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recycling_codes](/_Standards/Chemistry/Organic_Chemistry/Recycling_codes.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Recycling_codes|Recycling_codes]] 
 
-### #is_/same_as :: [Recycling_codes.public](/_public/Chemistry/Organic_Chemistry/Recycling_codes.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Recycling_codes.public|Recycling_codes.public]] 
 
-### #is_/same_as :: [Recycling_codes.internal](/_internal/Chemistry/Organic_Chemistry/Recycling_codes.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Recycling_codes.internal|Recycling_codes.internal]] 
 
-### #is_/same_as :: [Recycling_codes.protect](/_protect/Chemistry/Organic_Chemistry/Recycling_codes.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Recycling_codes.protect|Recycling_codes.protect]] 
 
-### #is_/same_as :: [Recycling_codes.private](/_private/Chemistry/Organic_Chemistry/Recycling_codes.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Recycling_codes.private|Recycling_codes.private]] 
 
-### #is_/same_as :: [Recycling_codes.personal](/_personal/Chemistry/Organic_Chemistry/Recycling_codes.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Recycling_codes.personal|Recycling_codes.personal]] 
 
-### #is_/same_as :: [Recycling_codes.secret](/_secret/Chemistry/Organic_Chemistry/Recycling_codes.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Recycling_codes.secret|Recycling_codes.secret]] 
 

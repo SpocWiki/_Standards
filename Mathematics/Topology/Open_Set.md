@@ -53,17 +53,17 @@ studied_by: "[[_Standards/WikiData/WD~topology,42989]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Open_Set](/_Standards/Mathematics/Topology/Open_Set.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Open_Set|Open_Set]] 
 
-### #is_/same_as :: [Open_Set.public](/_public/Mathematics/Topology/Open_Set.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Open_Set.public|Open_Set.public]] 
 
-### #is_/same_as :: [Open_Set.internal](/_internal/Mathematics/Topology/Open_Set.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Open_Set.internal|Open_Set.internal]] 
 
-### #is_/same_as :: [Open_Set.protect](/_protect/Mathematics/Topology/Open_Set.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Open_Set.protect|Open_Set.protect]] 
 
-### #is_/same_as :: [Open_Set.private](/_private/Mathematics/Topology/Open_Set.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Open_Set.private|Open_Set.private]] 
 
-### #is_/same_as :: [Open_Set.personal](/_personal/Mathematics/Topology/Open_Set.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Open_Set.personal|Open_Set.personal]] 
 
-### #is_/same_as :: [Open_Set.secret](/_secret/Mathematics/Topology/Open_Set.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Open_Set.secret|Open_Set.secret]] 
 

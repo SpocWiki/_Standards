@@ -172,17 +172,17 @@ motto_text: Save money. Live better.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walmart](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart|Walmart]] 
 
-### #is_/same_as :: [Walmart.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.public|Walmart.public]] 
 
-### #is_/same_as :: [Walmart.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.internal|Walmart.internal]] 
 
-### #is_/same_as :: [Walmart.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.protect|Walmart.protect]] 
 
-### #is_/same_as :: [Walmart.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.private|Walmart.private]] 
 
-### #is_/same_as :: [Walmart.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.personal|Walmart.personal]] 
 
-### #is_/same_as :: [Walmart.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Retail/Walmart.secret|Walmart.secret]] 
 

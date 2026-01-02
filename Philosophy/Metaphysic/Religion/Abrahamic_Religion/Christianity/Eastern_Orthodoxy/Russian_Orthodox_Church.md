@@ -119,17 +119,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RUSSKAYA_PRAVOSLAVNA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russian_Orthodox_Church](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church|Russian_Orthodox_Church]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.public|Russian_Orthodox_Church.public]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.internal|Russian_Orthodox_Church.internal]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.protect|Russian_Orthodox_Church.protect]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.private|Russian_Orthodox_Church.private]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.personal|Russian_Orthodox_Church.personal]] 
 
-### #is_/same_as :: [Russian_Orthodox_Church.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Eastern_Orthodoxy/Russian_Orthodox_Church.secret|Russian_Orthodox_Church.secret]] 
 

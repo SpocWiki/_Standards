@@ -22,17 +22,17 @@ Filme anzuschauen kostet mehr Aufmerksamkeit, aber letztendlich lohnt es sich me
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M|Schmitt,Wolfgang_M]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.public|Schmitt,Wolfgang_M.public]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.internal|Schmitt,Wolfgang_M.internal]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.protect|Schmitt,Wolfgang_M.protect]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.private|Schmitt,Wolfgang_M.private]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.personal|Schmitt,Wolfgang_M.personal]] 
 
-### #is_/same_as :: [Schmitt,Wolfgang_M.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Move-Critic/Schmitt,Wolfgang_M.secret|Schmitt,Wolfgang_M.secret]] 
 

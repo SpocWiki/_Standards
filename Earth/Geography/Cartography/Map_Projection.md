@@ -32,17 +32,17 @@ Commons_category: Map projections
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Map_Projection](/_Standards/Earth/Geography/Cartography/Map_Projection.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Map_Projection|Map_Projection]] 
 
-### #is_/same_as :: [Map_Projection.public](/_public/Earth/Geography/Cartography/Map_Projection.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Map_Projection.public|Map_Projection.public]] 
 
-### #is_/same_as :: [Map_Projection.internal](/_internal/Earth/Geography/Cartography/Map_Projection.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Map_Projection.internal|Map_Projection.internal]] 
 
-### #is_/same_as :: [Map_Projection.protect](/_protect/Earth/Geography/Cartography/Map_Projection.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Map_Projection.protect|Map_Projection.protect]] 
 
-### #is_/same_as :: [Map_Projection.private](/_private/Earth/Geography/Cartography/Map_Projection.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Map_Projection.private|Map_Projection.private]] 
 
-### #is_/same_as :: [Map_Projection.personal](/_personal/Earth/Geography/Cartography/Map_Projection.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Map_Projection.personal|Map_Projection.personal]] 
 
-### #is_/same_as :: [Map_Projection.secret](/_secret/Earth/Geography/Cartography/Map_Projection.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Map_Projection.secret|Map_Projection.secret]] 
 

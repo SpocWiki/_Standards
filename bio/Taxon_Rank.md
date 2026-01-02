@@ -101,17 +101,17 @@ More granular Subdivisions are created by Prefixes to the Rank and differing Suf
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxon_Rank](/_Standards/bio/Taxon_Rank.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank|Taxon_Rank]] 
 
-### #is_/same_as :: [Taxon_Rank.public](/_public/bio/Taxon_Rank.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank.public|Taxon_Rank.public]] 
 
-### #is_/same_as :: [Taxon_Rank.internal](/_internal/bio/Taxon_Rank.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank.internal|Taxon_Rank.internal]] 
 
-### #is_/same_as :: [Taxon_Rank.protect](/_protect/bio/Taxon_Rank.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank.protect|Taxon_Rank.protect]] 
 
-### #is_/same_as :: [Taxon_Rank.private](/_private/bio/Taxon_Rank.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank.private|Taxon_Rank.private]] 
 
-### #is_/same_as :: [Taxon_Rank.personal](/_personal/bio/Taxon_Rank.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank.personal|Taxon_Rank.personal]] 
 
-### #is_/same_as :: [Taxon_Rank.secret](/_secret/bio/Taxon_Rank.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank.secret|Taxon_Rank.secret]] 
 

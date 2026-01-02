@@ -86,17 +86,17 @@ ISNI: 0000000096742658
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isaiah](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah|Isaiah]] 
 
-### #is_/same_as :: [Isaiah.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.public|Isaiah.public]] 
 
-### #is_/same_as :: [Isaiah.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.internal|Isaiah.internal]] 
 
-### #is_/same_as :: [Isaiah.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.protect|Isaiah.protect]] 
 
-### #is_/same_as :: [Isaiah.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.private|Isaiah.private]] 
 
-### #is_/same_as :: [Isaiah.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.personal|Isaiah.personal]] 
 
-### #is_/same_as :: [Isaiah.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Isaiah.secret|Isaiah.secret]] 
 

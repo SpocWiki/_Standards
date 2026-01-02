@@ -86,17 +86,17 @@ StudySubject:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalStudy](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy|FileClass~MedicalStudy]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.public|FileClass~MedicalStudy.public]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.internal|FileClass~MedicalStudy.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.protect|FileClass~MedicalStudy.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.private|FileClass~MedicalStudy.private]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.personal|FileClass~MedicalStudy.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalStudy.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalStudy.secret|FileClass~MedicalStudy.secret]] 
 

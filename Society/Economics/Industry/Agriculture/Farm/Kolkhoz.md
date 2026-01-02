@@ -50,17 +50,17 @@ Commons_category: Kolkhoz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kolkhoz](/_Standards/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Kolkhoz|Kolkhoz]] 
 
-### #is_/same_as :: [Kolkhoz.public](/_public/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.public|Kolkhoz.public]] 
 
-### #is_/same_as :: [Kolkhoz.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.internal|Kolkhoz.internal]] 
 
-### #is_/same_as :: [Kolkhoz.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.protect|Kolkhoz.protect]] 
 
-### #is_/same_as :: [Kolkhoz.private](/_private/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.private|Kolkhoz.private]] 
 
-### #is_/same_as :: [Kolkhoz.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.personal|Kolkhoz.personal]] 
 
-### #is_/same_as :: [Kolkhoz.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Kolkhoz.secret|Kolkhoz.secret]] 
 

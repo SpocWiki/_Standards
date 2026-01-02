@@ -37,17 +37,17 @@ A single season of a podcast. Many podcasts do not break down into separate seas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PodcastSeason](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason|FileClass~PodcastSeason]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.public|FileClass~PodcastSeason.public]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.internal|FileClass~PodcastSeason.internal]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.protect|FileClass~PodcastSeason.protect]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.private|FileClass~PodcastSeason.private]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.personal|FileClass~PodcastSeason.personal]] 
 
-### #is_/same_as :: [FileClass~PodcastSeason.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkSeason/FileClass~PodcastSeason.secret|FileClass~PodcastSeason.secret]] 
 

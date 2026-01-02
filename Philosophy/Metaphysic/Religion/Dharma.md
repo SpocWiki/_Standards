@@ -50,17 +50,17 @@ Krugosvet_article:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dharma](/_Standards/Philosophy/Metaphysic/Religion/Dharma.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dharma|Dharma]] 
 
-### #is_/same_as :: [Dharma.public](/_public/Philosophy/Metaphysic/Religion/Dharma.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dharma.public|Dharma.public]] 
 
-### #is_/same_as :: [Dharma.internal](/_internal/Philosophy/Metaphysic/Religion/Dharma.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dharma.internal|Dharma.internal]] 
 
-### #is_/same_as :: [Dharma.protect](/_protect/Philosophy/Metaphysic/Religion/Dharma.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dharma.protect|Dharma.protect]] 
 
-### #is_/same_as :: [Dharma.private](/_private/Philosophy/Metaphysic/Religion/Dharma.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dharma.private|Dharma.private]] 
 
-### #is_/same_as :: [Dharma.personal](/_personal/Philosophy/Metaphysic/Religion/Dharma.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dharma.personal|Dharma.personal]] 
 
-### #is_/same_as :: [Dharma.secret](/_secret/Philosophy/Metaphysic/Religion/Dharma.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dharma.secret|Dharma.secret]] 
 

@@ -65,17 +65,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hotel](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel|Hotel]] 
 
-### #is_/same_as :: [Hotel.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.public|Hotel.public]] 
 
-### #is_/same_as :: [Hotel.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.internal|Hotel.internal]] 
 
-### #is_/same_as :: [Hotel.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.protect|Hotel.protect]] 
 
-### #is_/same_as :: [Hotel.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.private|Hotel.private]] 
 
-### #is_/same_as :: [Hotel.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.personal|Hotel.personal]] 
 
-### #is_/same_as :: [Hotel.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Hotel.secret|Hotel.secret]] 
 

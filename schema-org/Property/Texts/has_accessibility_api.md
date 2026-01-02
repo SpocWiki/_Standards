@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_accessibility_api](/_Standards/schema-org/Property/Texts/has_accessibility_api.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_accessibility_api|has_accessibility_api]] 
 
-### #is_/same_as :: [has_accessibility_api.public](/_public/schema-org/Property/Texts/has_accessibility_api.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_accessibility_api.public|has_accessibility_api.public]] 
 
-### #is_/same_as :: [has_accessibility_api.internal](/_internal/schema-org/Property/Texts/has_accessibility_api.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_accessibility_api.internal|has_accessibility_api.internal]] 
 
-### #is_/same_as :: [has_accessibility_api.protect](/_protect/schema-org/Property/Texts/has_accessibility_api.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_accessibility_api.protect|has_accessibility_api.protect]] 
 
-### #is_/same_as :: [has_accessibility_api.private](/_private/schema-org/Property/Texts/has_accessibility_api.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_accessibility_api.private|has_accessibility_api.private]] 
 
-### #is_/same_as :: [has_accessibility_api.personal](/_personal/schema-org/Property/Texts/has_accessibility_api.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_accessibility_api.personal|has_accessibility_api.personal]] 
 
-### #is_/same_as :: [has_accessibility_api.secret](/_secret/schema-org/Property/Texts/has_accessibility_api.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_accessibility_api.secret|has_accessibility_api.secret]] 
 

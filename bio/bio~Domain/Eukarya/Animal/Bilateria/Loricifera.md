@@ -71,17 +71,17 @@ Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loricifera](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera|Loricifera]] 
 
-### #is_/same_as :: [Loricifera.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.public|Loricifera.public]] 
 
-### #is_/same_as :: [Loricifera.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.internal|Loricifera.internal]] 
 
-### #is_/same_as :: [Loricifera.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.protect|Loricifera.protect]] 
 
-### #is_/same_as :: [Loricifera.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.private|Loricifera.private]] 
 
-### #is_/same_as :: [Loricifera.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.personal|Loricifera.personal]] 
 
-### #is_/same_as :: [Loricifera.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Loricifera.secret|Loricifera.secret]] 
 

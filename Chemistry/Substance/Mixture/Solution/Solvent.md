@@ -54,17 +54,17 @@ Commons_category: Solvents
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solvent](/_Standards/Chemistry/Substance/Mixture/Solution/Solvent.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Mixture/Solution/Solvent|Solvent]] 
 
-### #is_/same_as :: [Solvent.public](/_public/Chemistry/Substance/Mixture/Solution/Solvent.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Mixture/Solution/Solvent.public|Solvent.public]] 
 
-### #is_/same_as :: [Solvent.internal](/_internal/Chemistry/Substance/Mixture/Solution/Solvent.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Mixture/Solution/Solvent.internal|Solvent.internal]] 
 
-### #is_/same_as :: [Solvent.protect](/_protect/Chemistry/Substance/Mixture/Solution/Solvent.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Mixture/Solution/Solvent.protect|Solvent.protect]] 
 
-### #is_/same_as :: [Solvent.private](/_private/Chemistry/Substance/Mixture/Solution/Solvent.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Mixture/Solution/Solvent.private|Solvent.private]] 
 
-### #is_/same_as :: [Solvent.personal](/_personal/Chemistry/Substance/Mixture/Solution/Solvent.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Mixture/Solution/Solvent.personal|Solvent.personal]] 
 
-### #is_/same_as :: [Solvent.secret](/_secret/Chemistry/Substance/Mixture/Solution/Solvent.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Mixture/Solution/Solvent.secret|Solvent.secret]] 
 

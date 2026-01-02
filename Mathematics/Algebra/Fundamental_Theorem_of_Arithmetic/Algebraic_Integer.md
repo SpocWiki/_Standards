@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Algebraic_Integer](/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer|Algebraic_Integer]] 
 
-### #is_/same_as :: [Algebraic_Integer.public](/_public/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.public|Algebraic_Integer.public]] 
 
-### #is_/same_as :: [Algebraic_Integer.internal](/_internal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.internal|Algebraic_Integer.internal]] 
 
-### #is_/same_as :: [Algebraic_Integer.protect](/_protect/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.protect|Algebraic_Integer.protect]] 
 
-### #is_/same_as :: [Algebraic_Integer.private](/_private/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.private|Algebraic_Integer.private]] 
 
-### #is_/same_as :: [Algebraic_Integer.personal](/_personal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.personal|Algebraic_Integer.personal]] 
 
-### #is_/same_as :: [Algebraic_Integer.secret](/_secret/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Fundamental_Theorem_of_Arithmetic/Algebraic_Integer.secret|Algebraic_Integer.secret]] 
 

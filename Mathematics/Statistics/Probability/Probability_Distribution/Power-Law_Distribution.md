@@ -123,3 +123,22 @@ because a pure power law would allow for arbitrarily large or small values.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Power%20law) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution|Power-Law_Distribution]] 
+
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.public|Power-Law_Distribution.public]] 
+
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.internal|Power-Law_Distribution.internal]] 
+
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.protect|Power-Law_Distribution.protect]] 
+
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.private|Power-Law_Distribution.private]] 
+
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.personal|Power-Law_Distribution.personal]] 
+
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Power-Law_Distribution.secret|Power-Law_Distribution.secret]] 
+

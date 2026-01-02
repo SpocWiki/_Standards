@@ -58,17 +58,17 @@ coordinate_location: Point(79.5 9.833333333)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palk_Strait](/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait|Palk_Strait]] 
 
-### #is_/same_as :: [Palk_Strait.public](/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.public|Palk_Strait.public]] 
 
-### #is_/same_as :: [Palk_Strait.internal](/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.internal|Palk_Strait.internal]] 
 
-### #is_/same_as :: [Palk_Strait.protect](/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.protect|Palk_Strait.protect]] 
 
-### #is_/same_as :: [Palk_Strait.private](/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.private|Palk_Strait.private]] 
 
-### #is_/same_as :: [Palk_Strait.personal](/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.personal|Palk_Strait.personal]] 
 
-### #is_/same_as :: [Palk_Strait.secret](/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Indian/Ocean~Indian~North/Palk_Strait.secret|Palk_Strait.secret]] 
 

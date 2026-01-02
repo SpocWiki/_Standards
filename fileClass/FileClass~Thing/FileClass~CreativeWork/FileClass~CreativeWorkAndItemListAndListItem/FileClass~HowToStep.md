@@ -37,17 +37,17 @@ A step in the instructions for how to achieve a result. It is an ordered list wi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HowToStep](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep|FileClass~HowToStep]] 
 
-### #is_/same_as :: [FileClass~HowToStep.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.public|FileClass~HowToStep.public]] 
 
-### #is_/same_as :: [FileClass~HowToStep.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.internal|FileClass~HowToStep.internal]] 
 
-### #is_/same_as :: [FileClass~HowToStep.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.protect|FileClass~HowToStep.protect]] 
 
-### #is_/same_as :: [FileClass~HowToStep.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.private|FileClass~HowToStep.private]] 
 
-### #is_/same_as :: [FileClass~HowToStep.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.personal|FileClass~HowToStep.personal]] 
 
-### #is_/same_as :: [FileClass~HowToStep.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~CreativeWorkAndItemListAndListItem/FileClass~HowToStep.secret|FileClass~HowToStep.secret]] 
 

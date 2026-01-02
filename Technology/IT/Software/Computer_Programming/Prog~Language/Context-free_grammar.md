@@ -88,17 +88,17 @@ and changes to its implementation.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Context-free_grammar](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar|Context-free_grammar]] 
 
-### #is_/same_as :: [Context-free_grammar.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.public|Context-free_grammar.public]] 
 
-### #is_/same_as :: [Context-free_grammar.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.internal|Context-free_grammar.internal]] 
 
-### #is_/same_as :: [Context-free_grammar.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.protect|Context-free_grammar.protect]] 
 
-### #is_/same_as :: [Context-free_grammar.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.private|Context-free_grammar.private]] 
 
-### #is_/same_as :: [Context-free_grammar.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.personal|Context-free_grammar.personal]] 
 
-### #is_/same_as :: [Context-free_grammar.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Context-free_grammar.secret|Context-free_grammar.secret]] 
 

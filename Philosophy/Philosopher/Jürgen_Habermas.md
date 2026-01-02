@@ -149,17 +149,17 @@ ISNI: 0000000121468372
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jürgen_Habermas](/_Standards/Philosophy/Philosopher/Jürgen_Habermas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Jürgen_Habermas|Jürgen_Habermas]] 
 
-### #is_/same_as :: [Jürgen_Habermas.public](/_public/Philosophy/Philosopher/Jürgen_Habermas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Jürgen_Habermas.public|Jürgen_Habermas.public]] 
 
-### #is_/same_as :: [Jürgen_Habermas.internal](/_internal/Philosophy/Philosopher/Jürgen_Habermas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Jürgen_Habermas.internal|Jürgen_Habermas.internal]] 
 
-### #is_/same_as :: [Jürgen_Habermas.protect](/_protect/Philosophy/Philosopher/Jürgen_Habermas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Jürgen_Habermas.protect|Jürgen_Habermas.protect]] 
 
-### #is_/same_as :: [Jürgen_Habermas.private](/_private/Philosophy/Philosopher/Jürgen_Habermas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Jürgen_Habermas.private|Jürgen_Habermas.private]] 
 
-### #is_/same_as :: [Jürgen_Habermas.personal](/_personal/Philosophy/Philosopher/Jürgen_Habermas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Jürgen_Habermas.personal|Jürgen_Habermas.personal]] 
 
-### #is_/same_as :: [Jürgen_Habermas.secret](/_secret/Philosophy/Philosopher/Jürgen_Habermas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Jürgen_Habermas.secret|Jürgen_Habermas.secret]] 
 

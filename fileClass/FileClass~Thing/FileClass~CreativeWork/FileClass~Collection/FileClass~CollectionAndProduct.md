@@ -261,17 +261,17 @@ version: 2.0
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct|FileClass~CollectionAndProduct]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.public|FileClass~CollectionAndProduct.public]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.internal|FileClass~CollectionAndProduct.internal]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.protect|FileClass~CollectionAndProduct.protect]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.private|FileClass~CollectionAndProduct.private]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.personal|FileClass~CollectionAndProduct.personal]] 
 
-### #is_/same_as :: [FileClass~CollectionAndProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Collection/FileClass~CollectionAndProduct.secret|FileClass~CollectionAndProduct.secret]] 
 

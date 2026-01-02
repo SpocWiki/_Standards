@@ -30,17 +30,17 @@ Commons_category: Vault (gymnastics)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vault(Gymnastics)](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics)|Vault(Gymnastics)]] 
 
-### #is_/same_as :: [Vault(Gymnastics).public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).public|Vault(Gymnastics).public]] 
 
-### #is_/same_as :: [Vault(Gymnastics).internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).internal|Vault(Gymnastics).internal]] 
 
-### #is_/same_as :: [Vault(Gymnastics).protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).protect|Vault(Gymnastics).protect]] 
 
-### #is_/same_as :: [Vault(Gymnastics).private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).private|Vault(Gymnastics).private]] 
 
-### #is_/same_as :: [Vault(Gymnastics).personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).personal|Vault(Gymnastics).personal]] 
 
-### #is_/same_as :: [Vault(Gymnastics).secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Gymnastics/Vault(Gymnastics).secret|Vault(Gymnastics).secret]] 
 

@@ -75,17 +75,17 @@ QED, Quantum Chromodynamics (QCD) and Electroweak Theory are applications of thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory)](/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory)|QFT(Quantum_Field_Theory)]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).public](/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).public|QFT(Quantum_Field_Theory).public]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).internal](/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).internal|QFT(Quantum_Field_Theory).internal]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).protect](/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).protect|QFT(Quantum_Field_Theory).protect]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).private](/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).private|QFT(Quantum_Field_Theory).private]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).personal](/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).personal|QFT(Quantum_Field_Theory).personal]] 
 
-### #is_/same_as :: [QFT(Quantum_Field_Theory).secret](/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/QFT(Quantum_Field_Theory).secret|QFT(Quantum_Field_Theory).secret]] 
 

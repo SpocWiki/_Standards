@@ -83,17 +83,17 @@ Commons_category: Le Penseur
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Thinker](/_Standards/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker|The_Thinker]] 
 
-### #is_/same_as :: [The_Thinker.public](/_public/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.public|The_Thinker.public]] 
 
-### #is_/same_as :: [The_Thinker.internal](/_internal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.internal|The_Thinker.internal]] 
 
-### #is_/same_as :: [The_Thinker.protect](/_protect/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.protect|The_Thinker.protect]] 
 
-### #is_/same_as :: [The_Thinker.private](/_private/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.private|The_Thinker.private]] 
 
-### #is_/same_as :: [The_Thinker.personal](/_personal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.personal|The_Thinker.personal]] 
 
-### #is_/same_as :: [The_Thinker.secret](/_secret/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Sculpture/Rodin,Auguste/The_Thinker.secret|The_Thinker.secret]] 
 

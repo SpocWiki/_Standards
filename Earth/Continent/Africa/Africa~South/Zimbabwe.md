@@ -468,17 +468,17 @@ Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zimbabwe](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe|Zimbabwe]] 
 
-### #is_/same_as :: [Zimbabwe.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public|Zimbabwe.public]] 
 
-### #is_/same_as :: [Zimbabwe.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]] 
 
-### #is_/same_as :: [Zimbabwe.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe.protect|Zimbabwe.protect]] 
 
-### #is_/same_as :: [Zimbabwe.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe.private|Zimbabwe.private]] 
 
-### #is_/same_as :: [Zimbabwe.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]] 
 
-### #is_/same_as :: [Zimbabwe.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]] 
 

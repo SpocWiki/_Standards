@@ -41,17 +41,17 @@ markerFolder: ./Guadalcanal//
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guadalcanal](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal|Guadalcanal]] 
 
-### #is_/same_as :: [Guadalcanal.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.public|Guadalcanal.public]] 
 
-### #is_/same_as :: [Guadalcanal.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.internal|Guadalcanal.internal]] 
 
-### #is_/same_as :: [Guadalcanal.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.protect|Guadalcanal.protect]] 
 
-### #is_/same_as :: [Guadalcanal.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.private|Guadalcanal.private]] 
 
-### #is_/same_as :: [Guadalcanal.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.personal|Guadalcanal.personal]] 
 
-### #is_/same_as :: [Guadalcanal.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Guadalcanal.secret|Guadalcanal.secret]] 
 

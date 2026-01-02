@@ -34,17 +34,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Debicki,Elizabeth](/_Standards/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth|Debicki,Elizabeth]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.public](/_public/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.public|Debicki,Elizabeth.public]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.internal](/_internal/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.internal|Debicki,Elizabeth.internal]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.protect](/_protect/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.protect|Debicki,Elizabeth.protect]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.private](/_private/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.private|Debicki,Elizabeth.private]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.personal](/_personal/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.personal|Debicki,Elizabeth.personal]] 
 
-### #is_/same_as :: [Debicki,Elizabeth.secret](/_secret/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Debicki,Elizabeth.secret|Debicki,Elizabeth.secret]] 
 

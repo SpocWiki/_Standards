@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_demand_for](/_Standards/schema-org/Relation/has/has_demand_for.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_demand_for|has_demand_for]] 
 
-### #is_/same_as :: [has_demand_for.public](/_public/schema-org/Relation/has/has_demand_for.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_demand_for.public|has_demand_for.public]] 
 
-### #is_/same_as :: [has_demand_for.internal](/_internal/schema-org/Relation/has/has_demand_for.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_demand_for.internal|has_demand_for.internal]] 
 
-### #is_/same_as :: [has_demand_for.protect](/_protect/schema-org/Relation/has/has_demand_for.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_demand_for.protect|has_demand_for.protect]] 
 
-### #is_/same_as :: [has_demand_for.private](/_private/schema-org/Relation/has/has_demand_for.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_demand_for.private|has_demand_for.private]] 
 
-### #is_/same_as :: [has_demand_for.personal](/_personal/schema-org/Relation/has/has_demand_for.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_demand_for.personal|has_demand_for.personal]] 
 
-### #is_/same_as :: [has_demand_for.secret](/_secret/schema-org/Relation/has/has_demand_for.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_demand_for.secret|has_demand_for.secret]] 
 

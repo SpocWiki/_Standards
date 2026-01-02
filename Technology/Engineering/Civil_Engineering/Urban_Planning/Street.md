@@ -122,17 +122,17 @@ OpenStreetMap_key: addr:street
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Street](/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Urban_Planning/Street|Street]] 
 
-### #is_/same_as :: [Street.public](/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.public|Street.public]] 
 
-### #is_/same_as :: [Street.internal](/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.internal|Street.internal]] 
 
-### #is_/same_as :: [Street.protect](/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.protect|Street.protect]] 
 
-### #is_/same_as :: [Street.private](/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.private|Street.private]] 
 
-### #is_/same_as :: [Street.personal](/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.personal|Street.personal]] 
 
-### #is_/same_as :: [Street.secret](/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Urban_Planning/Street.secret|Street.secret]] 
 

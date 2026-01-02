@@ -79,17 +79,17 @@ topic_s_main_template:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Engine](/_Standards/Technology/Engineering/Mechanical_Engineering/Engine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Mechanical_Engineering/Engine|Engine]] 
 
-### #is_/same_as :: [Engine.public](/_public/Technology/Engineering/Mechanical_Engineering/Engine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Mechanical_Engineering/Engine.public|Engine.public]] 
 
-### #is_/same_as :: [Engine.internal](/_internal/Technology/Engineering/Mechanical_Engineering/Engine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Mechanical_Engineering/Engine.internal|Engine.internal]] 
 
-### #is_/same_as :: [Engine.protect](/_protect/Technology/Engineering/Mechanical_Engineering/Engine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Mechanical_Engineering/Engine.protect|Engine.protect]] 
 
-### #is_/same_as :: [Engine.private](/_private/Technology/Engineering/Mechanical_Engineering/Engine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Mechanical_Engineering/Engine.private|Engine.private]] 
 
-### #is_/same_as :: [Engine.personal](/_personal/Technology/Engineering/Mechanical_Engineering/Engine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Mechanical_Engineering/Engine.personal|Engine.personal]] 
 
-### #is_/same_as :: [Engine.secret](/_secret/Technology/Engineering/Mechanical_Engineering/Engine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Mechanical_Engineering/Engine.secret|Engine.secret]] 
 

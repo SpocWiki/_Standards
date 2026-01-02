@@ -298,17 +298,17 @@ Kansas Press, Lawrence.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa|Anthozoa]] 
 
-### #is_/same_as :: [Anthozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.public|Anthozoa.public]] 
 
-### #is_/same_as :: [Anthozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.internal|Anthozoa.internal]] 
 
-### #is_/same_as :: [Anthozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.protect|Anthozoa.protect]] 
 
-### #is_/same_as :: [Anthozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.private|Anthozoa.private]] 
 
-### #is_/same_as :: [Anthozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.personal|Anthozoa.personal]] 
 
-### #is_/same_as :: [Anthozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Cnidaria/Anthozoa.secret|Anthozoa.secret]] 
 

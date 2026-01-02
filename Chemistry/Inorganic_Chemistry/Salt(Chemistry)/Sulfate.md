@@ -94,17 +94,17 @@ chemical_formula:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sulfate](/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate|Sulfate]] 
 
-### #is_/same_as :: [Sulfate.public](/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.public|Sulfate.public]] 
 
-### #is_/same_as :: [Sulfate.internal](/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.internal|Sulfate.internal]] 
 
-### #is_/same_as :: [Sulfate.protect](/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.protect|Sulfate.protect]] 
 
-### #is_/same_as :: [Sulfate.private](/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.private|Sulfate.private]] 
 
-### #is_/same_as :: [Sulfate.personal](/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.personal|Sulfate.personal]] 
 
-### #is_/same_as :: [Sulfate.secret](/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Sulfate.secret|Sulfate.secret]] 
 

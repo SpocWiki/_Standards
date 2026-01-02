@@ -137,17 +137,17 @@ ZVG_number: 8340
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palladium](/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-10-Nickel/Palladium|Palladium]] 
 
-### #is_/same_as :: [Palladium.public](/_public/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.public|Palladium.public]] 
 
-### #is_/same_as :: [Palladium.internal](/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.internal|Palladium.internal]] 
 
-### #is_/same_as :: [Palladium.protect](/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.protect|Palladium.protect]] 
 
-### #is_/same_as :: [Palladium.private](/_private/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.private|Palladium.private]] 
 
-### #is_/same_as :: [Palladium.personal](/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.personal|Palladium.personal]] 
 
-### #is_/same_as :: [Palladium.secret](/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.secret|Palladium.secret]] 
 

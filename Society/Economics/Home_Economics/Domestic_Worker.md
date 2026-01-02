@@ -98,17 +98,17 @@ Commons_gallery: Domestic worker
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Domestic_Worker](/_Standards/Society/Economics/Home_Economics/Domestic_Worker.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Domestic_Worker|Domestic_Worker]] 
 
-### #is_/same_as :: [Domestic_Worker.public](/_public/Society/Economics/Home_Economics/Domestic_Worker.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Domestic_Worker.public|Domestic_Worker.public]] 
 
-### #is_/same_as :: [Domestic_Worker.internal](/_internal/Society/Economics/Home_Economics/Domestic_Worker.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Domestic_Worker.internal|Domestic_Worker.internal]] 
 
-### #is_/same_as :: [Domestic_Worker.protect](/_protect/Society/Economics/Home_Economics/Domestic_Worker.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Domestic_Worker.protect|Domestic_Worker.protect]] 
 
-### #is_/same_as :: [Domestic_Worker.private](/_private/Society/Economics/Home_Economics/Domestic_Worker.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Domestic_Worker.private|Domestic_Worker.private]] 
 
-### #is_/same_as :: [Domestic_Worker.personal](/_personal/Society/Economics/Home_Economics/Domestic_Worker.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Domestic_Worker.personal|Domestic_Worker.personal]] 
 
-### #is_/same_as :: [Domestic_Worker.secret](/_secret/Society/Economics/Home_Economics/Domestic_Worker.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Domestic_Worker.secret|Domestic_Worker.secret]] 
 

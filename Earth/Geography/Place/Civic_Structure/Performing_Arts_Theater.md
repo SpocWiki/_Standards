@@ -41,17 +41,17 @@ A theater or other performing art center.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performing_Arts_Theater](/_Standards/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater|Performing_Arts_Theater]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.public](/_public/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.public|Performing_Arts_Theater.public]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.internal](/_internal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.internal|Performing_Arts_Theater.internal]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.protect](/_protect/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.protect|Performing_Arts_Theater.protect]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.private](/_private/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.private|Performing_Arts_Theater.private]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.personal](/_personal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.personal|Performing_Arts_Theater.personal]] 
 
-### #is_/same_as :: [Performing_Arts_Theater.secret](/_secret/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Performing_Arts_Theater.secret|Performing_Arts_Theater.secret]] 
 

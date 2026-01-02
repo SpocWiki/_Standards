@@ -169,17 +169,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Sinitic](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic|LangFamily-Sinitic]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.public|LangFamily-Sinitic.public]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.internal|LangFamily-Sinitic.internal]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.protect|LangFamily-Sinitic.protect]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.private|LangFamily-Sinitic.private]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.personal|LangFamily-Sinitic.personal]] 
 
-### #is_/same_as :: [LangFamily-Sinitic.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic.secret|LangFamily-Sinitic.secret]] 
 

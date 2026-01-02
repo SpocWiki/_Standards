@@ -58,17 +58,17 @@ Commons_category: Metric geometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metric_Space](/_Standards/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Euclidean_Geometry/Metric_Space|Metric_Space]] 
 
-### #is_/same_as :: [Metric_Space.public](/_public/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.public|Metric_Space.public]] 
 
-### #is_/same_as :: [Metric_Space.internal](/_internal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.internal|Metric_Space.internal]] 
 
-### #is_/same_as :: [Metric_Space.protect](/_protect/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.protect|Metric_Space.protect]] 
 
-### #is_/same_as :: [Metric_Space.private](/_private/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.private|Metric_Space.private]] 
 
-### #is_/same_as :: [Metric_Space.personal](/_personal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.personal|Metric_Space.personal]] 
 
-### #is_/same_as :: [Metric_Space.secret](/_secret/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Euclidean_Geometry/Metric_Space.secret|Metric_Space.secret]] 
 

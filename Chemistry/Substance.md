@@ -92,17 +92,17 @@ whose origin may be biological, mineral or chemical.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Substance](/_Standards/Chemistry/Substance.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance|Substance]] 
 
-### #is_/same_as :: [Substance.public](/_public/Chemistry/Substance.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance.public|Substance.public]] 
 
-### #is_/same_as :: [Substance.internal](/_internal/Chemistry/Substance.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance.internal|Substance.internal]] 
 
-### #is_/same_as :: [Substance.protect](/_protect/Chemistry/Substance.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance.protect|Substance.protect]] 
 
-### #is_/same_as :: [Substance.private](/_private/Chemistry/Substance.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance.private|Substance.private]] 
 
-### #is_/same_as :: [Substance.personal](/_personal/Chemistry/Substance.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance.personal|Substance.personal]] 
 
-### #is_/same_as :: [Substance.secret](/_secret/Chemistry/Substance.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance.secret|Substance.secret]] 
 

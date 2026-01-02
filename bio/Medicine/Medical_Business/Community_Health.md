@@ -42,17 +42,17 @@ A field of public health focusing on improving health characteristics of a defin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Community_Health](/_Standards/bio/Medicine/Medical_Business/Community_Health.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Business/Community_Health|Community_Health]] 
 
-### #is_/same_as :: [Community_Health.public](/_public/bio/Medicine/Medical_Business/Community_Health.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Business/Community_Health.public|Community_Health.public]] 
 
-### #is_/same_as :: [Community_Health.internal](/_internal/bio/Medicine/Medical_Business/Community_Health.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Business/Community_Health.internal|Community_Health.internal]] 
 
-### #is_/same_as :: [Community_Health.protect](/_protect/bio/Medicine/Medical_Business/Community_Health.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Business/Community_Health.protect|Community_Health.protect]] 
 
-### #is_/same_as :: [Community_Health.private](/_private/bio/Medicine/Medical_Business/Community_Health.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Business/Community_Health.private|Community_Health.private]] 
 
-### #is_/same_as :: [Community_Health.personal](/_personal/bio/Medicine/Medical_Business/Community_Health.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Business/Community_Health.personal|Community_Health.personal]] 
 
-### #is_/same_as :: [Community_Health.secret](/_secret/bio/Medicine/Medical_Business/Community_Health.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Business/Community_Health.secret|Community_Health.secret]] 
 

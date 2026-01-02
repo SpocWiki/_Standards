@@ -82,17 +82,17 @@ Commons_category: Enthalpy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Enthalpy](/_Standards/Dimension/Energy/Enthalpy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Enthalpy|Enthalpy]] 
 
-### #is_/same_as :: [Enthalpy.public](/_public/Dimension/Energy/Enthalpy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Enthalpy.public|Enthalpy.public]] 
 
-### #is_/same_as :: [Enthalpy.internal](/_internal/Dimension/Energy/Enthalpy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Enthalpy.internal|Enthalpy.internal]] 
 
-### #is_/same_as :: [Enthalpy.protect](/_protect/Dimension/Energy/Enthalpy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Enthalpy.protect|Enthalpy.protect]] 
 
-### #is_/same_as :: [Enthalpy.private](/_private/Dimension/Energy/Enthalpy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Enthalpy.private|Enthalpy.private]] 
 
-### #is_/same_as :: [Enthalpy.personal](/_personal/Dimension/Energy/Enthalpy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Enthalpy.personal|Enthalpy.personal]] 
 
-### #is_/same_as :: [Enthalpy.secret](/_secret/Dimension/Energy/Enthalpy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Enthalpy.secret|Enthalpy.secret]] 
 

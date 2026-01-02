@@ -55,17 +55,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Johnson,Lyndon_B](/_Standards/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B|Johnson,Lyndon_B]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.public](/_public/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.public|Johnson,Lyndon_B.public]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.internal](/_internal/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.internal|Johnson,Lyndon_B.internal]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.protect](/_protect/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.protect|Johnson,Lyndon_B.protect]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.private](/_private/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.private|Johnson,Lyndon_B.private]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.personal](/_personal/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.personal|Johnson,Lyndon_B.personal]] 
 
-### #is_/same_as :: [Johnson,Lyndon_B.secret](/_secret/Earth/Continent/America~North/US~President/Johnson,Lyndon_B.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Johnson,Lyndon_B.secret|Johnson,Lyndon_B.secret]] 
 

@@ -65,17 +65,17 @@ type: private_note
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biotechnology](/_Standards/Technology/Engineering/Biomedical_Engineering/Biotechnology.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Biomedical_Engineering/Biotechnology|Biotechnology]] 
 
-### #is_/same_as :: [Biotechnology.public](/_public/Technology/Engineering/Biomedical_Engineering/Biotechnology.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Biomedical_Engineering/Biotechnology.public|Biotechnology.public]] 
 
-### #is_/same_as :: [Biotechnology.internal](/_internal/Technology/Engineering/Biomedical_Engineering/Biotechnology.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Biomedical_Engineering/Biotechnology.internal|Biotechnology.internal]] 
 
-### #is_/same_as :: [Biotechnology.protect](/_protect/Technology/Engineering/Biomedical_Engineering/Biotechnology.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Biomedical_Engineering/Biotechnology.protect|Biotechnology.protect]] 
 
-### #is_/same_as :: [Biotechnology.private](/_private/Technology/Engineering/Biomedical_Engineering/Biotechnology.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Biomedical_Engineering/Biotechnology.private|Biotechnology.private]] 
 
-### #is_/same_as :: [Biotechnology.personal](/_personal/Technology/Engineering/Biomedical_Engineering/Biotechnology.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Biomedical_Engineering/Biotechnology.personal|Biotechnology.personal]] 
 
-### #is_/same_as :: [Biotechnology.secret](/_secret/Technology/Engineering/Biomedical_Engineering/Biotechnology.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Biomedical_Engineering/Biotechnology.secret|Biotechnology.secret]] 
 

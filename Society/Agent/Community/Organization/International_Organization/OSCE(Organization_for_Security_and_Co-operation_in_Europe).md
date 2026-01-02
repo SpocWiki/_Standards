@@ -146,17 +146,17 @@ dv.view("TableByName", ["OSZE.tsv"]);
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe)](/_Standards/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe)|OSCE(Organization_for_Security_and_Co-operation_in_Europe)]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).public](/_public/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).public|OSCE(Organization_for_Security_and_Co-operation_in_Europe).public]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal](/_internal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal|OSCE(Organization_for_Security_and_Co-operation_in_Europe).internal]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect](/_protect/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect|OSCE(Organization_for_Security_and_Co-operation_in_Europe).protect]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).private](/_private/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).private|OSCE(Organization_for_Security_and_Co-operation_in_Europe).private]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal](/_personal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal|OSCE(Organization_for_Security_and_Co-operation_in_Europe).personal]] 
 
-### #is_/same_as :: [OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret](/_secret/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret|OSCE(Organization_for_Security_and_Co-operation_in_Europe).secret]] 
 

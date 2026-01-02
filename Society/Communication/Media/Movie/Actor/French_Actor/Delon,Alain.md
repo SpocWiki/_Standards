@@ -134,17 +134,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/teatr_i_kino/DELON_ALEN.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Delon,Alain](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain|Delon,Alain]] 
 
-### #is_/same_as :: [Delon,Alain.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.public|Delon,Alain.public]] 
 
-### #is_/same_as :: [Delon,Alain.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.internal|Delon,Alain.internal]] 
 
-### #is_/same_as :: [Delon,Alain.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.protect|Delon,Alain.protect]] 
 
-### #is_/same_as :: [Delon,Alain.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.private|Delon,Alain.private]] 
 
-### #is_/same_as :: [Delon,Alain.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.personal|Delon,Alain.personal]] 
 
-### #is_/same_as :: [Delon,Alain.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Delon,Alain.secret|Delon,Alain.secret]] 
 

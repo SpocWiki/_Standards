@@ -44,17 +44,17 @@ Indicates that parts of the legislation are in force, and parts are not.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Partially_in_Force](/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force|Partially_in_Force]] 
 
-### #is_/same_as :: [Partially_in_Force.public](/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.public|Partially_in_Force.public]] 
 
-### #is_/same_as :: [Partially_in_Force.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.internal|Partially_in_Force.internal]] 
 
-### #is_/same_as :: [Partially_in_Force.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.protect|Partially_in_Force.protect]] 
 
-### #is_/same_as :: [Partially_in_Force.private](/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.private|Partially_in_Force.private]] 
 
-### #is_/same_as :: [Partially_in_Force.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.personal|Partially_in_Force.personal]] 
 
-### #is_/same_as :: [Partially_in_Force.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Legal_Force_Status/Partially_in_Force.secret|Partially_in_Force.secret]] 
 

@@ -42,17 +42,17 @@ Commons_category: Computer science
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computability_Theory](/_Standards/Mathematics/Algorithm/Computability_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algorithm/Computability_Theory|Computability_Theory]] 
 
-### #is_/same_as :: [Computability_Theory.public](/_public/Mathematics/Algorithm/Computability_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algorithm/Computability_Theory.public|Computability_Theory.public]] 
 
-### #is_/same_as :: [Computability_Theory.internal](/_internal/Mathematics/Algorithm/Computability_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algorithm/Computability_Theory.internal|Computability_Theory.internal]] 
 
-### #is_/same_as :: [Computability_Theory.protect](/_protect/Mathematics/Algorithm/Computability_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algorithm/Computability_Theory.protect|Computability_Theory.protect]] 
 
-### #is_/same_as :: [Computability_Theory.private](/_private/Mathematics/Algorithm/Computability_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algorithm/Computability_Theory.private|Computability_Theory.private]] 
 
-### #is_/same_as :: [Computability_Theory.personal](/_personal/Mathematics/Algorithm/Computability_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algorithm/Computability_Theory.personal|Computability_Theory.personal]] 
 
-### #is_/same_as :: [Computability_Theory.secret](/_secret/Mathematics/Algorithm/Computability_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algorithm/Computability_Theory.secret|Computability_Theory.secret]] 
 

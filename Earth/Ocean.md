@@ -130,17 +130,17 @@ long: 10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean](/_Standards/Earth/Ocean.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean|Ocean]] 
 
-### #is_/same_as :: [Ocean.public](/_public/Earth/Ocean.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean.public|Ocean.public]] 
 
-### #is_/same_as :: [Ocean.internal](/_internal/Earth/Ocean.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean.internal|Ocean.internal]] 
 
-### #is_/same_as :: [Ocean.protect](/_protect/Earth/Ocean.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean.protect|Ocean.protect]] 
 
-### #is_/same_as :: [Ocean.private](/_private/Earth/Ocean.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean.private|Ocean.private]] 
 
-### #is_/same_as :: [Ocean.personal](/_personal/Earth/Ocean.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean.personal|Ocean.personal]] 
 
-### #is_/same_as :: [Ocean.secret](/_secret/Earth/Ocean.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean.secret|Ocean.secret]] 
 

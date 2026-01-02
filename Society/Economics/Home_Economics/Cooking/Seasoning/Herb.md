@@ -58,17 +58,17 @@ Commons_category: Herbs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herb](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Herb|Herb]] 
 
-### #is_/same_as :: [Herb.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.public|Herb.public]] 
 
-### #is_/same_as :: [Herb.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.internal|Herb.internal]] 
 
-### #is_/same_as :: [Herb.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.protect|Herb.protect]] 
 
-### #is_/same_as :: [Herb.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.private|Herb.private]] 
 
-### #is_/same_as :: [Herb.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.personal|Herb.personal]] 
 
-### #is_/same_as :: [Herb.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Herb.secret|Herb.secret]] 
 

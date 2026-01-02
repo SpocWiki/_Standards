@@ -80,17 +80,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Recycling](/_Standards/bio/Ecology/Waste_Management/Recycling.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Waste_Management/Recycling|Recycling]] 
 
-### #is_/same_as :: [Recycling.public](/_public/bio/Ecology/Waste_Management/Recycling.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Waste_Management/Recycling.public|Recycling.public]] 
 
-### #is_/same_as :: [Recycling.internal](/_internal/bio/Ecology/Waste_Management/Recycling.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Waste_Management/Recycling.internal|Recycling.internal]] 
 
-### #is_/same_as :: [Recycling.protect](/_protect/bio/Ecology/Waste_Management/Recycling.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Waste_Management/Recycling.protect|Recycling.protect]] 
 
-### #is_/same_as :: [Recycling.private](/_private/bio/Ecology/Waste_Management/Recycling.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Waste_Management/Recycling.private|Recycling.private]] 
 
-### #is_/same_as :: [Recycling.personal](/_personal/bio/Ecology/Waste_Management/Recycling.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Waste_Management/Recycling.personal|Recycling.personal]] 
 
-### #is_/same_as :: [Recycling.secret](/_secret/bio/Ecology/Waste_Management/Recycling.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Waste_Management/Recycling.secret|Recycling.secret]] 
 

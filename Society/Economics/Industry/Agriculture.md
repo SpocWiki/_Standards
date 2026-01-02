@@ -118,17 +118,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_agriculture,7112548]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agriculture](/_Standards/Society/Economics/Industry/Agriculture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture|Agriculture]] 
 
-### #is_/same_as :: [Agriculture.public](/_public/Society/Economics/Industry/Agriculture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture.public|Agriculture.public]] 
 
-### #is_/same_as :: [Agriculture.internal](/_internal/Society/Economics/Industry/Agriculture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture.internal|Agriculture.internal]] 
 
-### #is_/same_as :: [Agriculture.protect](/_protect/Society/Economics/Industry/Agriculture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture.protect|Agriculture.protect]] 
 
-### #is_/same_as :: [Agriculture.private](/_private/Society/Economics/Industry/Agriculture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture.private|Agriculture.private]] 
 
-### #is_/same_as :: [Agriculture.personal](/_personal/Society/Economics/Industry/Agriculture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture.personal|Agriculture.personal]] 
 
-### #is_/same_as :: [Agriculture.secret](/_secret/Society/Economics/Industry/Agriculture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture.secret|Agriculture.secret]] 
 

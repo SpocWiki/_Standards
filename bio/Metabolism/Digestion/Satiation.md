@@ -33,17 +33,17 @@ Linsen, Gemüse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Satiation](/_Standards/bio/Metabolism/Digestion/Satiation.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Digestion/Satiation|Satiation]] 
 
-### #is_/same_as :: [Satiation.public](/_public/bio/Metabolism/Digestion/Satiation.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Digestion/Satiation.public|Satiation.public]] 
 
-### #is_/same_as :: [Satiation.internal](/_internal/bio/Metabolism/Digestion/Satiation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Digestion/Satiation.internal|Satiation.internal]] 
 
-### #is_/same_as :: [Satiation.protect](/_protect/bio/Metabolism/Digestion/Satiation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Digestion/Satiation.protect|Satiation.protect]] 
 
-### #is_/same_as :: [Satiation.private](/_private/bio/Metabolism/Digestion/Satiation.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Digestion/Satiation.private|Satiation.private]] 
 
-### #is_/same_as :: [Satiation.personal](/_personal/bio/Metabolism/Digestion/Satiation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Digestion/Satiation.personal|Satiation.personal]] 
 
-### #is_/same_as :: [Satiation.secret](/_secret/bio/Metabolism/Digestion/Satiation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Digestion/Satiation.secret|Satiation.secret]] 
 

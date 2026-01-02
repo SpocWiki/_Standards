@@ -227,17 +227,17 @@ date_of_birth: 1903-04-25T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andrey_Kolmogorov](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov|Andrey_Kolmogorov]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.public|Andrey_Kolmogorov.public]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.internal|Andrey_Kolmogorov.internal]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.protect|Andrey_Kolmogorov.protect]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.private|Andrey_Kolmogorov.private]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.personal|Andrey_Kolmogorov.personal]] 
 
-### #is_/same_as :: [Andrey_Kolmogorov.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Andrey_Kolmogorov.secret|Andrey_Kolmogorov.secret]] 
 

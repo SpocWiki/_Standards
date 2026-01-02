@@ -41,17 +41,17 @@ A comedy club.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comedy_Club](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club|Comedy_Club]] 
 
-### #is_/same_as :: [Comedy_Club.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.public|Comedy_Club.public]] 
 
-### #is_/same_as :: [Comedy_Club.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.internal|Comedy_Club.internal]] 
 
-### #is_/same_as :: [Comedy_Club.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.protect|Comedy_Club.protect]] 
 
-### #is_/same_as :: [Comedy_Club.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.private|Comedy_Club.private]] 
 
-### #is_/same_as :: [Comedy_Club.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.personal|Comedy_Club.personal]] 
 
-### #is_/same_as :: [Comedy_Club.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Entertainment_Business/Comedy_Club.secret|Comedy_Club.secret]] 
 

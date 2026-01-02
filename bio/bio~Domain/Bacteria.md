@@ -374,17 +374,17 @@ Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/defa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bacteria](/_Standards/bio/bio~Domain/Bacteria.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria|Bacteria]] 
 
-### #is_/same_as :: [Bacteria.public](/_public/bio/bio~Domain/Bacteria.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria.public|Bacteria.public]] 
 
-### #is_/same_as :: [Bacteria.internal](/_internal/bio/bio~Domain/Bacteria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria.internal|Bacteria.internal]] 
 
-### #is_/same_as :: [Bacteria.protect](/_protect/bio/bio~Domain/Bacteria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria.protect|Bacteria.protect]] 
 
-### #is_/same_as :: [Bacteria.private](/_private/bio/bio~Domain/Bacteria.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria.private|Bacteria.private]] 
 
-### #is_/same_as :: [Bacteria.personal](/_personal/bio/bio~Domain/Bacteria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria.personal|Bacteria.personal]] 
 
-### #is_/same_as :: [Bacteria.secret](/_secret/bio/bio~Domain/Bacteria.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria.secret|Bacteria.secret]] 
 

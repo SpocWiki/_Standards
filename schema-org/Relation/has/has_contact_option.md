@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_contact_option](/_Standards/schema-org/Relation/has/has_contact_option.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_contact_option|has_contact_option]] 
 
-### #is_/same_as :: [has_contact_option.public](/_public/schema-org/Relation/has/has_contact_option.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_contact_option.public|has_contact_option.public]] 
 
-### #is_/same_as :: [has_contact_option.internal](/_internal/schema-org/Relation/has/has_contact_option.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_contact_option.internal|has_contact_option.internal]] 
 
-### #is_/same_as :: [has_contact_option.protect](/_protect/schema-org/Relation/has/has_contact_option.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_contact_option.protect|has_contact_option.protect]] 
 
-### #is_/same_as :: [has_contact_option.private](/_private/schema-org/Relation/has/has_contact_option.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_contact_option.private|has_contact_option.private]] 
 
-### #is_/same_as :: [has_contact_option.personal](/_personal/schema-org/Relation/has/has_contact_option.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_contact_option.personal|has_contact_option.personal]] 
 
-### #is_/same_as :: [has_contact_option.secret](/_secret/schema-org/Relation/has/has_contact_option.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_contact_option.secret|has_contact_option.secret]] 
 

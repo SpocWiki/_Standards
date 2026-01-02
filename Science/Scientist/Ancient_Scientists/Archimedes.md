@@ -147,17 +147,17 @@ writing_language: '[[_Standards/WikiData/WD~Ancient_Greek,35497]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Archimedes](/_Standards/Science/Scientist/Ancient_Scientists/Archimedes.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Ancient_Scientists/Archimedes|Archimedes]] 
 
-### #is_/same_as :: [Archimedes.public](/_public/Science/Scientist/Ancient_Scientists/Archimedes.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Ancient_Scientists/Archimedes.public|Archimedes.public]] 
 
-### #is_/same_as :: [Archimedes.internal](/_internal/Science/Scientist/Ancient_Scientists/Archimedes.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Ancient_Scientists/Archimedes.internal|Archimedes.internal]] 
 
-### #is_/same_as :: [Archimedes.protect](/_protect/Science/Scientist/Ancient_Scientists/Archimedes.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Ancient_Scientists/Archimedes.protect|Archimedes.protect]] 
 
-### #is_/same_as :: [Archimedes.private](/_private/Science/Scientist/Ancient_Scientists/Archimedes.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Ancient_Scientists/Archimedes.private|Archimedes.private]] 
 
-### #is_/same_as :: [Archimedes.personal](/_personal/Science/Scientist/Ancient_Scientists/Archimedes.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Ancient_Scientists/Archimedes.personal|Archimedes.personal]] 
 
-### #is_/same_as :: [Archimedes.secret](/_secret/Science/Scientist/Ancient_Scientists/Archimedes.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Ancient_Scientists/Archimedes.secret|Archimedes.secret]] 
 

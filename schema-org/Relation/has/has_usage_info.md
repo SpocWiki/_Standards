@@ -59,17 +59,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_usage_info](/_Standards/schema-org/Relation/has/has_usage_info.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_usage_info|has_usage_info]] 
 
-### #is_/same_as :: [has_usage_info.public](/_public/schema-org/Relation/has/has_usage_info.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_usage_info.public|has_usage_info.public]] 
 
-### #is_/same_as :: [has_usage_info.internal](/_internal/schema-org/Relation/has/has_usage_info.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_usage_info.internal|has_usage_info.internal]] 
 
-### #is_/same_as :: [has_usage_info.protect](/_protect/schema-org/Relation/has/has_usage_info.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_usage_info.protect|has_usage_info.protect]] 
 
-### #is_/same_as :: [has_usage_info.private](/_private/schema-org/Relation/has/has_usage_info.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_usage_info.private|has_usage_info.private]] 
 
-### #is_/same_as :: [has_usage_info.personal](/_personal/schema-org/Relation/has/has_usage_info.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_usage_info.personal|has_usage_info.personal]] 
 
-### #is_/same_as :: [has_usage_info.secret](/_secret/schema-org/Relation/has/has_usage_info.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_usage_info.secret|has_usage_info.secret]] 
 

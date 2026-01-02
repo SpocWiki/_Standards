@@ -54,17 +54,17 @@ name_in_kana: マジェンタ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magenta](/_Standards/Technology/Design/Graphic_Design/Color/Magenta.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Magenta|Magenta]] 
 
-### #is_/same_as :: [Magenta.public](/_public/Technology/Design/Graphic_Design/Color/Magenta.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Magenta.public|Magenta.public]] 
 
-### #is_/same_as :: [Magenta.internal](/_internal/Technology/Design/Graphic_Design/Color/Magenta.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Magenta.internal|Magenta.internal]] 
 
-### #is_/same_as :: [Magenta.protect](/_protect/Technology/Design/Graphic_Design/Color/Magenta.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Magenta.protect|Magenta.protect]] 
 
-### #is_/same_as :: [Magenta.private](/_private/Technology/Design/Graphic_Design/Color/Magenta.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Magenta.private|Magenta.private]] 
 
-### #is_/same_as :: [Magenta.personal](/_personal/Technology/Design/Graphic_Design/Color/Magenta.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Magenta.personal|Magenta.personal]] 
 
-### #is_/same_as :: [Magenta.secret](/_secret/Technology/Design/Graphic_Design/Color/Magenta.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Magenta.secret|Magenta.secret]] 
 

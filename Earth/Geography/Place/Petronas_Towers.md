@@ -83,17 +83,17 @@ street_address: Menara Berkembar Petronas, Pusat Bandaraya Kuala Lumpur, 50088, 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petronas_Towers](/_Standards/Earth/Geography/Place/Petronas_Towers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Petronas_Towers|Petronas_Towers]] 
 
-### #is_/same_as :: [Petronas_Towers.public](/_public/Earth/Geography/Place/Petronas_Towers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Petronas_Towers.public|Petronas_Towers.public]] 
 
-### #is_/same_as :: [Petronas_Towers.internal](/_internal/Earth/Geography/Place/Petronas_Towers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Petronas_Towers.internal|Petronas_Towers.internal]] 
 
-### #is_/same_as :: [Petronas_Towers.protect](/_protect/Earth/Geography/Place/Petronas_Towers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Petronas_Towers.protect|Petronas_Towers.protect]] 
 
-### #is_/same_as :: [Petronas_Towers.private](/_private/Earth/Geography/Place/Petronas_Towers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Petronas_Towers.private|Petronas_Towers.private]] 
 
-### #is_/same_as :: [Petronas_Towers.personal](/_personal/Earth/Geography/Place/Petronas_Towers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Petronas_Towers.personal|Petronas_Towers.personal]] 
 
-### #is_/same_as :: [Petronas_Towers.secret](/_secret/Earth/Geography/Place/Petronas_Towers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Petronas_Towers.secret|Petronas_Towers.secret]] 
 

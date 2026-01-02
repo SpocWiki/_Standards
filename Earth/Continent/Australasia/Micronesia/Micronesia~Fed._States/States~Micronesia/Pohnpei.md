@@ -40,17 +40,17 @@ markerFolder: ./Pohnpei/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pohnpei](/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei|Pohnpei]] 
 
-### #is_/same_as :: [Pohnpei.public](/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.public|Pohnpei.public]] 
 
-### #is_/same_as :: [Pohnpei.internal](/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.internal|Pohnpei.internal]] 
 
-### #is_/same_as :: [Pohnpei.protect](/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.protect|Pohnpei.protect]] 
 
-### #is_/same_as :: [Pohnpei.private](/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.private|Pohnpei.private]] 
 
-### #is_/same_as :: [Pohnpei.personal](/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.personal|Pohnpei.personal]] 
 
-### #is_/same_as :: [Pohnpei.secret](/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Micronesia~Fed._States/States~Micronesia/Pohnpei.secret|Pohnpei.secret]] 
 

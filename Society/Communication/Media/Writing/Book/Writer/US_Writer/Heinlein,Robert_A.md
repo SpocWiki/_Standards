@@ -128,17 +128,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/HANLAN_ROBERT_ENSO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heinlein,Robert_A](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A|Heinlein,Robert_A]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.public|Heinlein,Robert_A.public]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.internal|Heinlein,Robert_A.internal]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.protect|Heinlein,Robert_A.protect]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.private|Heinlein,Robert_A.private]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.personal|Heinlein,Robert_A.personal]] 
 
-### #is_/same_as :: [Heinlein,Robert_A.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Heinlein,Robert_A.secret|Heinlein,Robert_A.secret]] 
 

@@ -36,17 +36,17 @@ Commons_category: Literary theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literary_Theory](/_Standards/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Literary_Theory|Literary_Theory]] 
 
-### #is_/same_as :: [Literary_Theory.public](/_public/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.public|Literary_Theory.public]] 
 
-### #is_/same_as :: [Literary_Theory.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.internal|Literary_Theory.internal]] 
 
-### #is_/same_as :: [Literary_Theory.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.protect|Literary_Theory.protect]] 
 
-### #is_/same_as :: [Literary_Theory.private](/_private/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.private|Literary_Theory.private]] 
 
-### #is_/same_as :: [Literary_Theory.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.personal|Literary_Theory.personal]] 
 
-### #is_/same_as :: [Literary_Theory.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Literary_Theory.secret|Literary_Theory.secret]] 
 

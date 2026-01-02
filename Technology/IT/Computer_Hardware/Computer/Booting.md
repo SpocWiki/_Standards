@@ -68,17 +68,17 @@ Commons_category: Booting
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Booting](/_Standards/Technology/IT/Computer_Hardware/Computer/Booting.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Booting|Booting]] 
 
-### #is_/same_as :: [Booting.public](/_public/Technology/IT/Computer_Hardware/Computer/Booting.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Booting.public|Booting.public]] 
 
-### #is_/same_as :: [Booting.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Booting.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Booting.internal|Booting.internal]] 
 
-### #is_/same_as :: [Booting.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Booting.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Booting.protect|Booting.protect]] 
 
-### #is_/same_as :: [Booting.private](/_private/Technology/IT/Computer_Hardware/Computer/Booting.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Booting.private|Booting.private]] 
 
-### #is_/same_as :: [Booting.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Booting.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Booting.personal|Booting.personal]] 
 
-### #is_/same_as :: [Booting.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Booting.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Booting.secret|Booting.secret]] 
 

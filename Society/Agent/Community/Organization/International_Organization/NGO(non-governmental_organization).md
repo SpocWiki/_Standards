@@ -84,17 +84,17 @@ DPLA_subject_term:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NGO(non-governmental_organization)](/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization)|NGO(non-governmental_organization)]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).public](/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).public|NGO(non-governmental_organization).public]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).internal](/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).internal|NGO(non-governmental_organization).internal]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).protect](/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).protect|NGO(non-governmental_organization).protect]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).private](/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).private|NGO(non-governmental_organization).private]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).personal](/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).personal|NGO(non-governmental_organization).personal]] 
 
-### #is_/same_as :: [NGO(non-governmental_organization).secret](/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/NGO(non-governmental_organization).secret|NGO(non-governmental_organization).secret]] 
 

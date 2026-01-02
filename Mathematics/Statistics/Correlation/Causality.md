@@ -111,17 +111,17 @@ flowchart TD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Causality](/_Standards/Mathematics/Statistics/Correlation/Causality.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Correlation/Causality|Causality]] 
 
-### #is_/same_as :: [Causality.public](/_public/Mathematics/Statistics/Correlation/Causality.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Correlation/Causality.public|Causality.public]] 
 
-### #is_/same_as :: [Causality.internal](/_internal/Mathematics/Statistics/Correlation/Causality.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Correlation/Causality.internal|Causality.internal]] 
 
-### #is_/same_as :: [Causality.protect](/_protect/Mathematics/Statistics/Correlation/Causality.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Correlation/Causality.protect|Causality.protect]] 
 
-### #is_/same_as :: [Causality.private](/_private/Mathematics/Statistics/Correlation/Causality.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Correlation/Causality.private|Causality.private]] 
 
-### #is_/same_as :: [Causality.personal](/_personal/Mathematics/Statistics/Correlation/Causality.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Correlation/Causality.personal|Causality.personal]] 
 
-### #is_/same_as :: [Causality.secret](/_secret/Mathematics/Statistics/Correlation/Causality.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Correlation/Causality.secret|Causality.secret]] 
 

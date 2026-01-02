@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_access_mode](/_Standards/schema-org/Property/Texts/has_access_mode.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_access_mode|has_access_mode]] 
 
-### #is_/same_as :: [has_access_mode.public](/_public/schema-org/Property/Texts/has_access_mode.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_access_mode.public|has_access_mode.public]] 
 
-### #is_/same_as :: [has_access_mode.internal](/_internal/schema-org/Property/Texts/has_access_mode.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_access_mode.internal|has_access_mode.internal]] 
 
-### #is_/same_as :: [has_access_mode.protect](/_protect/schema-org/Property/Texts/has_access_mode.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_access_mode.protect|has_access_mode.protect]] 
 
-### #is_/same_as :: [has_access_mode.private](/_private/schema-org/Property/Texts/has_access_mode.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_access_mode.private|has_access_mode.private]] 
 
-### #is_/same_as :: [has_access_mode.personal](/_personal/schema-org/Property/Texts/has_access_mode.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_access_mode.personal|has_access_mode.personal]] 
 
-### #is_/same_as :: [has_access_mode.secret](/_secret/schema-org/Property/Texts/has_access_mode.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_access_mode.secret|has_access_mode.secret]] 
 

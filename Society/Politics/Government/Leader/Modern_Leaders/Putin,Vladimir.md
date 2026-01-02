@@ -366,17 +366,17 @@ Krugosvet_article_archived_: istoriya/PUTIN_VLADIMIR_VLADIMIROVICH.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Putin,Vladimir](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir|Putin,Vladimir]] 
 
-### #is_/same_as :: [Putin,Vladimir.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.public|Putin,Vladimir.public]] 
 
-### #is_/same_as :: [Putin,Vladimir.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.internal|Putin,Vladimir.internal]] 
 
-### #is_/same_as :: [Putin,Vladimir.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.protect|Putin,Vladimir.protect]] 
 
-### #is_/same_as :: [Putin,Vladimir.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.private|Putin,Vladimir.private]] 
 
-### #is_/same_as :: [Putin,Vladimir.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.personal|Putin,Vladimir.personal]] 
 
-### #is_/same_as :: [Putin,Vladimir.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Putin,Vladimir.secret|Putin,Vladimir.secret]] 
 

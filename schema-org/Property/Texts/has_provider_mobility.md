@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_provider_mobility](/_Standards/schema-org/Property/Texts/has_provider_mobility.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_provider_mobility|has_provider_mobility]] 
 
-### #is_/same_as :: [has_provider_mobility.public](/_public/schema-org/Property/Texts/has_provider_mobility.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_provider_mobility.public|has_provider_mobility.public]] 
 
-### #is_/same_as :: [has_provider_mobility.internal](/_internal/schema-org/Property/Texts/has_provider_mobility.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_provider_mobility.internal|has_provider_mobility.internal]] 
 
-### #is_/same_as :: [has_provider_mobility.protect](/_protect/schema-org/Property/Texts/has_provider_mobility.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_provider_mobility.protect|has_provider_mobility.protect]] 
 
-### #is_/same_as :: [has_provider_mobility.private](/_private/schema-org/Property/Texts/has_provider_mobility.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_provider_mobility.private|has_provider_mobility.private]] 
 
-### #is_/same_as :: [has_provider_mobility.personal](/_personal/schema-org/Property/Texts/has_provider_mobility.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_provider_mobility.personal|has_provider_mobility.personal]] 
 
-### #is_/same_as :: [has_provider_mobility.secret](/_secret/schema-org/Property/Texts/has_provider_mobility.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_provider_mobility.secret|has_provider_mobility.secret]] 
 

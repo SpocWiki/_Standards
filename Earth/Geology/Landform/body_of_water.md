@@ -42,17 +42,17 @@ A body of water, such as a sea, ocean, or lake.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [body_of_water](/_Standards/Earth/Geology/Landform/body_of_water.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water|body_of_water]] 
 
-### #is_/same_as :: [body_of_water.public](/_public/Earth/Geology/Landform/body_of_water.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water.public|body_of_water.public]] 
 
-### #is_/same_as :: [body_of_water.internal](/_internal/Earth/Geology/Landform/body_of_water.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water.internal|body_of_water.internal]] 
 
-### #is_/same_as :: [body_of_water.protect](/_protect/Earth/Geology/Landform/body_of_water.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water.protect|body_of_water.protect]] 
 
-### #is_/same_as :: [body_of_water.private](/_private/Earth/Geology/Landform/body_of_water.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water.private|body_of_water.private]] 
 
-### #is_/same_as :: [body_of_water.personal](/_personal/Earth/Geology/Landform/body_of_water.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water.personal|body_of_water.personal]] 
 
-### #is_/same_as :: [body_of_water.secret](/_secret/Earth/Geology/Landform/body_of_water.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water.secret|body_of_water.secret]] 
 

@@ -69,17 +69,17 @@ official_name: Eridanus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Eridanus](/_Standards/Astronomy/Star~Constellation/Zodiac~Eridanus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Eridanus|Zodiac~Eridanus]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.public](/_public/Astronomy/Star~Constellation/Zodiac~Eridanus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Eridanus.public|Zodiac~Eridanus.public]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Eridanus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Eridanus.internal|Zodiac~Eridanus.internal]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Eridanus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Eridanus.protect|Zodiac~Eridanus.protect]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.private](/_private/Astronomy/Star~Constellation/Zodiac~Eridanus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Eridanus.private|Zodiac~Eridanus.private]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Eridanus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Eridanus.personal|Zodiac~Eridanus.personal]] 
 
-### #is_/same_as :: [Zodiac~Eridanus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Eridanus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Eridanus.secret|Zodiac~Eridanus.secret]] 
 

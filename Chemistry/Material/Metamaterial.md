@@ -47,17 +47,17 @@ Commons_category: Metamaterials
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metamaterial](/_Standards/Chemistry/Material/Metamaterial.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metamaterial|Metamaterial]] 
 
-### #is_/same_as :: [Metamaterial.public](/_public/Chemistry/Material/Metamaterial.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metamaterial.public|Metamaterial.public]] 
 
-### #is_/same_as :: [Metamaterial.internal](/_internal/Chemistry/Material/Metamaterial.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metamaterial.internal|Metamaterial.internal]] 
 
-### #is_/same_as :: [Metamaterial.protect](/_protect/Chemistry/Material/Metamaterial.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metamaterial.protect|Metamaterial.protect]] 
 
-### #is_/same_as :: [Metamaterial.private](/_private/Chemistry/Material/Metamaterial.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metamaterial.private|Metamaterial.private]] 
 
-### #is_/same_as :: [Metamaterial.personal](/_personal/Chemistry/Material/Metamaterial.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metamaterial.personal|Metamaterial.personal]] 
 
-### #is_/same_as :: [Metamaterial.secret](/_secret/Chemistry/Material/Metamaterial.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metamaterial.secret|Metamaterial.secret]] 
 

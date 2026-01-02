@@ -42,17 +42,17 @@ Musculoskeletal system clinical examination.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musculoskeletal_Exam](/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam|Musculoskeletal_Exam]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.public](/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.public|Musculoskeletal_Exam.public]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.internal](/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.internal|Musculoskeletal_Exam.internal]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.protect](/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.protect|Musculoskeletal_Exam.protect]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.private](/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.private|Musculoskeletal_Exam.private]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.personal](/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.personal|Musculoskeletal_Exam.personal]] 
 
-### #is_/same_as :: [Musculoskeletal_Exam.secret](/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Physical_Exam/Musculoskeletal_Exam.secret|Musculoskeletal_Exam.secret]] 
 

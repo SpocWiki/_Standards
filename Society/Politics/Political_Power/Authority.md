@@ -54,17 +54,17 @@ Authority was derived from the [[../Social_Contract]] in which each Participant 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Authority](/_Standards/Society/Politics/Political_Power/Authority.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Authority|Authority]] 
 
-### #is_/same_as :: [Authority.public](/_public/Society/Politics/Political_Power/Authority.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Authority.public|Authority.public]] 
 
-### #is_/same_as :: [Authority.internal](/_internal/Society/Politics/Political_Power/Authority.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Authority.internal|Authority.internal]] 
 
-### #is_/same_as :: [Authority.protect](/_protect/Society/Politics/Political_Power/Authority.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Authority.protect|Authority.protect]] 
 
-### #is_/same_as :: [Authority.private](/_private/Society/Politics/Political_Power/Authority.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Authority.private|Authority.private]] 
 
-### #is_/same_as :: [Authority.personal](/_personal/Society/Politics/Political_Power/Authority.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Authority.personal|Authority.personal]] 
 
-### #is_/same_as :: [Authority.secret](/_secret/Society/Politics/Political_Power/Authority.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Authority.secret|Authority.secret]] 
 

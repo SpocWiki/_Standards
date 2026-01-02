@@ -41,17 +41,17 @@ A general contractor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [General_Contractor](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor|General_Contractor]] 
 
-### #is_/same_as :: [General_Contractor.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.public|General_Contractor.public]] 
 
-### #is_/same_as :: [General_Contractor.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.internal|General_Contractor.internal]] 
 
-### #is_/same_as :: [General_Contractor.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.protect|General_Contractor.protect]] 
 
-### #is_/same_as :: [General_Contractor.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.private|General_Contractor.private]] 
 
-### #is_/same_as :: [General_Contractor.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.personal|General_Contractor.personal]] 
 
-### #is_/same_as :: [General_Contractor.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/General_Contractor.secret|General_Contractor.secret]] 
 

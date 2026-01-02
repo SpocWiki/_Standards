@@ -49,17 +49,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_genre](/_Standards/schema-org/Property/Texts/has_genre.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_genre|has_genre]] 
 
-### #is_/same_as :: [has_genre.public](/_public/schema-org/Property/Texts/has_genre.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_genre.public|has_genre.public]] 
 
-### #is_/same_as :: [has_genre.internal](/_internal/schema-org/Property/Texts/has_genre.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_genre.internal|has_genre.internal]] 
 
-### #is_/same_as :: [has_genre.protect](/_protect/schema-org/Property/Texts/has_genre.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_genre.protect|has_genre.protect]] 
 
-### #is_/same_as :: [has_genre.private](/_private/schema-org/Property/Texts/has_genre.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_genre.private|has_genre.private]] 
 
-### #is_/same_as :: [has_genre.personal](/_personal/schema-org/Property/Texts/has_genre.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_genre.personal|has_genre.personal]] 
 
-### #is_/same_as :: [has_genre.secret](/_secret/schema-org/Property/Texts/has_genre.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_genre.secret|has_genre.secret]] 
 

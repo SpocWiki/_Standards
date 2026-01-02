@@ -408,17 +408,17 @@ ISNI: 000000012126066X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste](/_Standards/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste|Renoir,Pierre-Auguste]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.public](/_public/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.public|Renoir,Pierre-Auguste.public]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.internal](/_internal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.internal|Renoir,Pierre-Auguste.internal]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.protect](/_protect/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.protect|Renoir,Pierre-Auguste.protect]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.private](/_private/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.private|Renoir,Pierre-Auguste.private]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.personal](/_personal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.personal|Renoir,Pierre-Auguste.personal]] 
 
-### #is_/same_as :: [Renoir,Pierre-Auguste.secret](/_secret/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Renoir,Pierre-Auguste.secret|Renoir,Pierre-Auguste.secret]] 
 

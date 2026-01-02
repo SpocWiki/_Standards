@@ -459,17 +459,17 @@ There are ca. 13e3 Properties defined; these are the 100 [most frequent Properti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WikiData](/_Standards/WikiData.md) 
+### #is_/same_as :: [[/_Standards/WikiData|WikiData]] 
 
-### #is_/same_as :: [WikiData.public](/_public/WikiData.public.md) 
+### #is_/same_as :: [[/_public/WikiData.public|WikiData.public]] 
 
-### #is_/same_as :: [WikiData.internal](/_internal/WikiData.internal.md) 
+### #is_/same_as :: [[/_internal/WikiData.internal|WikiData.internal]] 
 
-### #is_/same_as :: [WikiData.protect](/_protect/WikiData.protect.md) 
+### #is_/same_as :: [[/_protect/WikiData.protect|WikiData.protect]] 
 
-### #is_/same_as :: [WikiData.private](/_private/WikiData.private.md) 
+### #is_/same_as :: [[/_private/WikiData.private|WikiData.private]] 
 
-### #is_/same_as :: [WikiData.personal](/_personal/WikiData.personal.md) 
+### #is_/same_as :: [[/_personal/WikiData.personal|WikiData.personal]] 
 
-### #is_/same_as :: [WikiData.secret](/_secret/WikiData.secret.md)
+### #is_/same_as :: [[/_secret/WikiData.secret|WikiData.secret]] 
 

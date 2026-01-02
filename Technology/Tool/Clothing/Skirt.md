@@ -41,17 +41,17 @@ Commons_gallery: Skirt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Skirt](/_Standards/Technology/Tool/Clothing/Skirt.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Skirt|Skirt]] 
 
-### #is_/same_as :: [Skirt.public](/_public/Technology/Tool/Clothing/Skirt.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Skirt.public|Skirt.public]] 
 
-### #is_/same_as :: [Skirt.internal](/_internal/Technology/Tool/Clothing/Skirt.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Skirt.internal|Skirt.internal]] 
 
-### #is_/same_as :: [Skirt.protect](/_protect/Technology/Tool/Clothing/Skirt.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Skirt.protect|Skirt.protect]] 
 
-### #is_/same_as :: [Skirt.private](/_private/Technology/Tool/Clothing/Skirt.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Skirt.private|Skirt.private]] 
 
-### #is_/same_as :: [Skirt.personal](/_personal/Technology/Tool/Clothing/Skirt.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Skirt.personal|Skirt.personal]] 
 
-### #is_/same_as :: [Skirt.secret](/_secret/Technology/Tool/Clothing/Skirt.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Skirt.secret|Skirt.secret]] 
 

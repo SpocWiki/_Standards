@@ -59,17 +59,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Spaces%20Ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Integration](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Integration|European_Integration]] 
 
-### #is_/same_as :: [European_Integration.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Integration.public|European_Integration.public]] 
 
-### #is_/same_as :: [European_Integration.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Integration.internal|European_Integration.internal]] 
 
-### #is_/same_as :: [European_Integration.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Integration.protect|European_Integration.protect]] 
 
-### #is_/same_as :: [European_Integration.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Integration.private|European_Integration.private]] 
 
-### #is_/same_as :: [European_Integration.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Integration.personal|European_Integration.personal]] 
 
-### #is_/same_as :: [European_Integration.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Integration.secret|European_Integration.secret]] 
 

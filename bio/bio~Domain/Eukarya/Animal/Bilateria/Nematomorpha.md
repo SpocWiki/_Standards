@@ -69,17 +69,17 @@ Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nematomorpha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha|Nematomorpha]] 
 
-### #is_/same_as :: [Nematomorpha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.public|Nematomorpha.public]] 
 
-### #is_/same_as :: [Nematomorpha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.internal|Nematomorpha.internal]] 
 
-### #is_/same_as :: [Nematomorpha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.protect|Nematomorpha.protect]] 
 
-### #is_/same_as :: [Nematomorpha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.private|Nematomorpha.private]] 
 
-### #is_/same_as :: [Nematomorpha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.personal|Nematomorpha.personal]] 
 
-### #is_/same_as :: [Nematomorpha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Nematomorpha.secret|Nematomorpha.secret]] 
 

@@ -166,17 +166,17 @@ Europeana_entity: agent/base/146972
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stravinsky,Igor](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor|Stravinsky,Igor]] 
 
-### #is_/same_as :: [Stravinsky,Igor.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.public|Stravinsky,Igor.public]] 
 
-### #is_/same_as :: [Stravinsky,Igor.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.internal|Stravinsky,Igor.internal]] 
 
-### #is_/same_as :: [Stravinsky,Igor.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.protect|Stravinsky,Igor.protect]] 
 
-### #is_/same_as :: [Stravinsky,Igor.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.private|Stravinsky,Igor.private]] 
 
-### #is_/same_as :: [Stravinsky,Igor.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.personal|Stravinsky,Igor.personal]] 
 
-### #is_/same_as :: [Stravinsky,Igor.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stravinsky,Igor.secret|Stravinsky,Igor.secret]] 
 

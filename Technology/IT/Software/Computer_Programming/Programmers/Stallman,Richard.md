@@ -163,17 +163,17 @@ birth_name: Richard Matthew Stallman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stallman,Richard](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard|Stallman,Richard]] 
 
-### #is_/same_as :: [Stallman,Richard.public](/_public/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.public|Stallman,Richard.public]] 
 
-### #is_/same_as :: [Stallman,Richard.internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.internal|Stallman,Richard.internal]] 
 
-### #is_/same_as :: [Stallman,Richard.protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.protect|Stallman,Richard.protect]] 
 
-### #is_/same_as :: [Stallman,Richard.private](/_private/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.private|Stallman,Richard.private]] 
 
-### #is_/same_as :: [Stallman,Richard.personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.personal|Stallman,Richard.personal]] 
 
-### #is_/same_as :: [Stallman,Richard.secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard.secret|Stallman,Richard.secret]] 
 

@@ -46,17 +46,17 @@ MeSH_tree_code: F01.470.653
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jealousy](/_Standards/bio/Psychology/Affect/Emotion/Jealousy.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Jealousy|Jealousy]] 
 
-### #is_/same_as :: [Jealousy.public](/_public/bio/Psychology/Affect/Emotion/Jealousy.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Jealousy.public|Jealousy.public]] 
 
-### #is_/same_as :: [Jealousy.internal](/_internal/bio/Psychology/Affect/Emotion/Jealousy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Jealousy.internal|Jealousy.internal]] 
 
-### #is_/same_as :: [Jealousy.protect](/_protect/bio/Psychology/Affect/Emotion/Jealousy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Jealousy.protect|Jealousy.protect]] 
 
-### #is_/same_as :: [Jealousy.private](/_private/bio/Psychology/Affect/Emotion/Jealousy.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Jealousy.private|Jealousy.private]] 
 
-### #is_/same_as :: [Jealousy.personal](/_personal/bio/Psychology/Affect/Emotion/Jealousy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Jealousy.personal|Jealousy.personal]] 
 
-### #is_/same_as :: [Jealousy.secret](/_secret/bio/Psychology/Affect/Emotion/Jealousy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Jealousy.secret|Jealousy.secret]] 
 

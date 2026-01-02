@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_overdosage](/_Standards/schema-org/Property/Texts/has_overdosage.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_overdosage|has_overdosage]] 
 
-### #is_/same_as :: [has_overdosage.public](/_public/schema-org/Property/Texts/has_overdosage.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_overdosage.public|has_overdosage.public]] 
 
-### #is_/same_as :: [has_overdosage.internal](/_internal/schema-org/Property/Texts/has_overdosage.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_overdosage.internal|has_overdosage.internal]] 
 
-### #is_/same_as :: [has_overdosage.protect](/_protect/schema-org/Property/Texts/has_overdosage.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_overdosage.protect|has_overdosage.protect]] 
 
-### #is_/same_as :: [has_overdosage.private](/_private/schema-org/Property/Texts/has_overdosage.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_overdosage.private|has_overdosage.private]] 
 
-### #is_/same_as :: [has_overdosage.personal](/_personal/schema-org/Property/Texts/has_overdosage.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_overdosage.personal|has_overdosage.personal]] 
 
-### #is_/same_as :: [has_overdosage.secret](/_secret/schema-org/Property/Texts/has_overdosage.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_overdosage.secret|has_overdosage.secret]] 
 

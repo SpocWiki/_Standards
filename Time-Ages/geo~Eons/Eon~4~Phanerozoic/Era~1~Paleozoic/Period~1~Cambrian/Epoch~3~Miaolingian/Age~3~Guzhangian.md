@@ -66,17 +66,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~3~Guzhangian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian|Age~3~Guzhangian]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.public|Age~3~Guzhangian.public]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.internal|Age~3~Guzhangian.internal]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.protect|Age~3~Guzhangian.protect]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.private|Age~3~Guzhangian.private]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.personal|Age~3~Guzhangian.personal]] 
 
-### #is_/same_as :: [Age~3~Guzhangian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~1~Cambrian/Epoch~3~Miaolingian/Age~3~Guzhangian.secret|Age~3~Guzhangian.secret]] 
 

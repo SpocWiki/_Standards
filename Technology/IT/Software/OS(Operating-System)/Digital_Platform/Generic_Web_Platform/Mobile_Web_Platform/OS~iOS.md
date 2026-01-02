@@ -161,17 +161,17 @@ Represents the broad notion of iOS-based operating systems.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OS~iOS](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS|OS~iOS]] 
 
-### #is_/same_as :: [OS~iOS.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.public|OS~iOS.public]] 
 
-### #is_/same_as :: [OS~iOS.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.internal|OS~iOS.internal]] 
 
-### #is_/same_as :: [OS~iOS.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.protect|OS~iOS.protect]] 
 
-### #is_/same_as :: [OS~iOS.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.private|OS~iOS.private]] 
 
-### #is_/same_as :: [OS~iOS.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.personal|OS~iOS.personal]] 
 
-### #is_/same_as :: [OS~iOS.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform/Mobile_Web_Platform/OS~iOS.secret|OS~iOS.secret]] 
 

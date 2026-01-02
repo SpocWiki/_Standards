@@ -43,17 +43,17 @@ Commons_category: Planetary systems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planetary_System](/_Standards/Astronomy/Universe/Planetary_System.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Universe/Planetary_System|Planetary_System]] 
 
-### #is_/same_as :: [Planetary_System.public](/_public/Astronomy/Universe/Planetary_System.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Universe/Planetary_System.public|Planetary_System.public]] 
 
-### #is_/same_as :: [Planetary_System.internal](/_internal/Astronomy/Universe/Planetary_System.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Universe/Planetary_System.internal|Planetary_System.internal]] 
 
-### #is_/same_as :: [Planetary_System.protect](/_protect/Astronomy/Universe/Planetary_System.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Universe/Planetary_System.protect|Planetary_System.protect]] 
 
-### #is_/same_as :: [Planetary_System.private](/_private/Astronomy/Universe/Planetary_System.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Universe/Planetary_System.private|Planetary_System.private]] 
 
-### #is_/same_as :: [Planetary_System.personal](/_personal/Astronomy/Universe/Planetary_System.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Universe/Planetary_System.personal|Planetary_System.personal]] 
 
-### #is_/same_as :: [Planetary_System.secret](/_secret/Astronomy/Universe/Planetary_System.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Universe/Planetary_System.secret|Planetary_System.secret]] 
 

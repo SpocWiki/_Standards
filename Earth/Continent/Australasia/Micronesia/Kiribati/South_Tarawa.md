@@ -40,17 +40,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Tarawa](/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa|South_Tarawa]] 
 
-### #is_/same_as :: [South_Tarawa.public](/_public/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.public|South_Tarawa.public]] 
 
-### #is_/same_as :: [South_Tarawa.internal](/_internal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.internal|South_Tarawa.internal]] 
 
-### #is_/same_as :: [South_Tarawa.protect](/_protect/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.protect|South_Tarawa.protect]] 
 
-### #is_/same_as :: [South_Tarawa.private](/_private/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.private|South_Tarawa.private]] 
 
-### #is_/same_as :: [South_Tarawa.personal](/_personal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.personal|South_Tarawa.personal]] 
 
-### #is_/same_as :: [South_Tarawa.secret](/_secret/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Kiribati/South_Tarawa.secret|South_Tarawa.secret]] 
 

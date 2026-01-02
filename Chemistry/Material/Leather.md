@@ -64,17 +64,17 @@ OpenStreetMap_tag: clothes=leather
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leather](/_Standards/Chemistry/Material/Leather.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Leather|Leather]] 
 
-### #is_/same_as :: [Leather.public](/_public/Chemistry/Material/Leather.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Leather.public|Leather.public]] 
 
-### #is_/same_as :: [Leather.internal](/_internal/Chemistry/Material/Leather.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Leather.internal|Leather.internal]] 
 
-### #is_/same_as :: [Leather.protect](/_protect/Chemistry/Material/Leather.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Leather.protect|Leather.protect]] 
 
-### #is_/same_as :: [Leather.private](/_private/Chemistry/Material/Leather.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Leather.private|Leather.private]] 
 
-### #is_/same_as :: [Leather.personal](/_personal/Chemistry/Material/Leather.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Leather.personal|Leather.personal]] 
 
-### #is_/same_as :: [Leather.secret](/_secret/Chemistry/Material/Leather.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Leather.secret|Leather.secret]] 
 

@@ -43,17 +43,17 @@ An agent controls a device or application.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Control_Action](/_Standards/schema-org/Class/is_a_/Action/Control_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Control_Action|Control_Action]] 
 
-### #is_/same_as :: [Control_Action.public](/_public/schema-org/Class/is_a_/Action/Control_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Control_Action.public|Control_Action.public]] 
 
-### #is_/same_as :: [Control_Action.internal](/_internal/schema-org/Class/is_a_/Action/Control_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Control_Action.internal|Control_Action.internal]] 
 
-### #is_/same_as :: [Control_Action.protect](/_protect/schema-org/Class/is_a_/Action/Control_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Control_Action.protect|Control_Action.protect]] 
 
-### #is_/same_as :: [Control_Action.private](/_private/schema-org/Class/is_a_/Action/Control_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Control_Action.private|Control_Action.private]] 
 
-### #is_/same_as :: [Control_Action.personal](/_personal/schema-org/Class/is_a_/Action/Control_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Control_Action.personal|Control_Action.personal]] 
 
-### #is_/same_as :: [Control_Action.secret](/_secret/schema-org/Class/is_a_/Action/Control_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Control_Action.secret|Control_Action.secret]] 
 

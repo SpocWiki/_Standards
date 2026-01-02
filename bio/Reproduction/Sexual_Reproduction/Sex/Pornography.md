@@ -75,17 +75,17 @@ Archive_of_Our_Own_tag: Porn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pornography](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Pornography|Pornography]] 
 
-### #is_/same_as :: [Pornography.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.public|Pornography.public]] 
 
-### #is_/same_as :: [Pornography.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.internal|Pornography.internal]] 
 
-### #is_/same_as :: [Pornography.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.protect|Pornography.protect]] 
 
-### #is_/same_as :: [Pornography.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.private|Pornography.private]] 
 
-### #is_/same_as :: [Pornography.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.personal|Pornography.personal]] 
 
-### #is_/same_as :: [Pornography.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Pornography.secret|Pornography.secret]] 
 

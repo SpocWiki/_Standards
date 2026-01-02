@@ -89,17 +89,17 @@ NumberOfLoanPayments:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification|FileClass~RepaymentSpecification]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.public|FileClass~RepaymentSpecification.public]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.internal|FileClass~RepaymentSpecification.internal]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.protect|FileClass~RepaymentSpecification.protect]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.private|FileClass~RepaymentSpecification.private]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.personal|FileClass~RepaymentSpecification.personal]] 
 
-### #is_/same_as :: [FileClass~RepaymentSpecification.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~RepaymentSpecification.secret|FileClass~RepaymentSpecification.secret]] 
 

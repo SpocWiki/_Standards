@@ -69,17 +69,17 @@ Commons_gallery: Telescope
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Telescope](/_Standards/Technology/Tool/Instrumentation/Telescope.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Telescope|Telescope]] 
 
-### #is_/same_as :: [Telescope.public](/_public/Technology/Tool/Instrumentation/Telescope.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Telescope.public|Telescope.public]] 
 
-### #is_/same_as :: [Telescope.internal](/_internal/Technology/Tool/Instrumentation/Telescope.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Telescope.internal|Telescope.internal]] 
 
-### #is_/same_as :: [Telescope.protect](/_protect/Technology/Tool/Instrumentation/Telescope.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Telescope.protect|Telescope.protect]] 
 
-### #is_/same_as :: [Telescope.private](/_private/Technology/Tool/Instrumentation/Telescope.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Telescope.private|Telescope.private]] 
 
-### #is_/same_as :: [Telescope.personal](/_personal/Technology/Tool/Instrumentation/Telescope.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Telescope.personal|Telescope.personal]] 
 
-### #is_/same_as :: [Telescope.secret](/_secret/Technology/Tool/Instrumentation/Telescope.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Telescope.secret|Telescope.secret]] 
 

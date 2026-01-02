@@ -46,17 +46,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "DegenerateMatter"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Degenerate_Matter](/_Standards/Science/Physics/State_of_Matter/Degenerate_Matter.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Degenerate_Matter|Degenerate_Matter]] 
 
-### #is_/same_as :: [Degenerate_Matter.public](/_public/Science/Physics/State_of_Matter/Degenerate_Matter.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Degenerate_Matter.public|Degenerate_Matter.public]] 
 
-### #is_/same_as :: [Degenerate_Matter.internal](/_internal/Science/Physics/State_of_Matter/Degenerate_Matter.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Degenerate_Matter.internal|Degenerate_Matter.internal]] 
 
-### #is_/same_as :: [Degenerate_Matter.protect](/_protect/Science/Physics/State_of_Matter/Degenerate_Matter.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Degenerate_Matter.protect|Degenerate_Matter.protect]] 
 
-### #is_/same_as :: [Degenerate_Matter.private](/_private/Science/Physics/State_of_Matter/Degenerate_Matter.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Degenerate_Matter.private|Degenerate_Matter.private]] 
 
-### #is_/same_as :: [Degenerate_Matter.personal](/_personal/Science/Physics/State_of_Matter/Degenerate_Matter.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Degenerate_Matter.personal|Degenerate_Matter.personal]] 
 
-### #is_/same_as :: [Degenerate_Matter.secret](/_secret/Science/Physics/State_of_Matter/Degenerate_Matter.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Degenerate_Matter.secret|Degenerate_Matter.secret]] 
 

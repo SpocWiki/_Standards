@@ -43,17 +43,17 @@ The act of playing a video game.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Play_Game_Action](/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action|Play_Game_Action]] 
 
-### #is_/same_as :: [Play_Game_Action.public](/_public/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.public|Play_Game_Action.public]] 
 
-### #is_/same_as :: [Play_Game_Action.internal](/_internal/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.internal|Play_Game_Action.internal]] 
 
-### #is_/same_as :: [Play_Game_Action.protect](/_protect/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.protect|Play_Game_Action.protect]] 
 
-### #is_/same_as :: [Play_Game_Action.private](/_private/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.private|Play_Game_Action.private]] 
 
-### #is_/same_as :: [Play_Game_Action.personal](/_personal/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.personal|Play_Game_Action.personal]] 
 
-### #is_/same_as :: [Play_Game_Action.secret](/_secret/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Consume_Action/Play_Game_Action.secret|Play_Game_Action.secret]] 
 

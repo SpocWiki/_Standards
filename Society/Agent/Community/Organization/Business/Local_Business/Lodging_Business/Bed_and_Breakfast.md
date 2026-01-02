@@ -43,17 +43,17 @@ See also the <a href="https://schema.org/docs/hotels.html">dedicated document on
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bed_and_Breakfast](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast|Bed_and_Breakfast]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.public|Bed_and_Breakfast.public]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.internal|Bed_and_Breakfast.internal]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.protect|Bed_and_Breakfast.protect]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.private|Bed_and_Breakfast.private]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.personal|Bed_and_Breakfast.personal]] 
 
-### #is_/same_as :: [Bed_and_Breakfast.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Lodging_Business/Bed_and_Breakfast.secret|Bed_and_Breakfast.secret]] 
 

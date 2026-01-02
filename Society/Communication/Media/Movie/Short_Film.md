@@ -32,17 +32,17 @@ Commons_category: Short films
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Short_Film](/_Standards/Society/Communication/Media/Movie/Short_Film.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Short_Film|Short_Film]] 
 
-### #is_/same_as :: [Short_Film.public](/_public/Society/Communication/Media/Movie/Short_Film.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Short_Film.public|Short_Film.public]] 
 
-### #is_/same_as :: [Short_Film.internal](/_internal/Society/Communication/Media/Movie/Short_Film.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Short_Film.internal|Short_Film.internal]] 
 
-### #is_/same_as :: [Short_Film.protect](/_protect/Society/Communication/Media/Movie/Short_Film.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Short_Film.protect|Short_Film.protect]] 
 
-### #is_/same_as :: [Short_Film.private](/_private/Society/Communication/Media/Movie/Short_Film.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Short_Film.private|Short_Film.private]] 
 
-### #is_/same_as :: [Short_Film.personal](/_personal/Society/Communication/Media/Movie/Short_Film.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Short_Film.personal|Short_Film.personal]] 
 
-### #is_/same_as :: [Short_Film.secret](/_secret/Society/Communication/Media/Movie/Short_Film.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Short_Film.secret|Short_Film.secret]] 
 

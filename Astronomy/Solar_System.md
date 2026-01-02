@@ -119,17 +119,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Solar_System,2845514
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_System](/_Standards/Astronomy/Solar_System.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System|Solar_System]] 
 
-### #is_/same_as :: [Solar_System.public](/_public/Astronomy/Solar_System.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System.public|Solar_System.public]] 
 
-### #is_/same_as :: [Solar_System.internal](/_internal/Astronomy/Solar_System.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System.internal|Solar_System.internal]] 
 
-### #is_/same_as :: [Solar_System.protect](/_protect/Astronomy/Solar_System.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System.protect|Solar_System.protect]] 
 
-### #is_/same_as :: [Solar_System.private](/_private/Astronomy/Solar_System.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System.private|Solar_System.private]] 
 
-### #is_/same_as :: [Solar_System.personal](/_personal/Astronomy/Solar_System.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System.personal|Solar_System.personal]] 
 
-### #is_/same_as :: [Solar_System.secret](/_secret/Astronomy/Solar_System.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System.secret|Solar_System.secret]] 
 

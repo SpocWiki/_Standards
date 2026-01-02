@@ -184,17 +184,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Rights](/_Standards/Society/Social_Issues/Human_Rights.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Human_Rights|Human_Rights]] 
 
-### #is_/same_as :: [Human_Rights.public](/_public/Society/Social_Issues/Human_Rights.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Human_Rights.public|Human_Rights.public]] 
 
-### #is_/same_as :: [Human_Rights.internal](/_internal/Society/Social_Issues/Human_Rights.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Human_Rights.internal|Human_Rights.internal]] 
 
-### #is_/same_as :: [Human_Rights.protect](/_protect/Society/Social_Issues/Human_Rights.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Human_Rights.protect|Human_Rights.protect]] 
 
-### #is_/same_as :: [Human_Rights.private](/_private/Society/Social_Issues/Human_Rights.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Human_Rights.private|Human_Rights.private]] 
 
-### #is_/same_as :: [Human_Rights.personal](/_personal/Society/Social_Issues/Human_Rights.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Human_Rights.personal|Human_Rights.personal]] 
 
-### #is_/same_as :: [Human_Rights.secret](/_secret/Society/Social_Issues/Human_Rights.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Human_Rights.secret|Human_Rights.secret]] 
 

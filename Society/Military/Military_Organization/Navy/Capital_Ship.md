@@ -25,17 +25,17 @@ image:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital_Ship](/_Standards/Society/Military/Military_Organization/Navy/Capital_Ship.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy/Capital_Ship|Capital_Ship]] 
 
-### #is_/same_as :: [Capital_Ship.public](/_public/Society/Military/Military_Organization/Navy/Capital_Ship.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy/Capital_Ship.public|Capital_Ship.public]] 
 
-### #is_/same_as :: [Capital_Ship.internal](/_internal/Society/Military/Military_Organization/Navy/Capital_Ship.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy/Capital_Ship.internal|Capital_Ship.internal]] 
 
-### #is_/same_as :: [Capital_Ship.protect](/_protect/Society/Military/Military_Organization/Navy/Capital_Ship.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy/Capital_Ship.protect|Capital_Ship.protect]] 
 
-### #is_/same_as :: [Capital_Ship.private](/_private/Society/Military/Military_Organization/Navy/Capital_Ship.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy/Capital_Ship.private|Capital_Ship.private]] 
 
-### #is_/same_as :: [Capital_Ship.personal](/_personal/Society/Military/Military_Organization/Navy/Capital_Ship.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy/Capital_Ship.personal|Capital_Ship.personal]] 
 
-### #is_/same_as :: [Capital_Ship.secret](/_secret/Society/Military/Military_Organization/Navy/Capital_Ship.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy/Capital_Ship.secret|Capital_Ship.secret]] 
 

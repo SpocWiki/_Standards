@@ -503,17 +503,17 @@ Auwera et al., 1995).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fungi](/_Standards/bio/bio~Domain/Eukarya/Fungi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi|Fungi]] 
 
-### #is_/same_as :: [Fungi.public](/_public/bio/bio~Domain/Eukarya/Fungi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi.public|Fungi.public]] 
 
-### #is_/same_as :: [Fungi.internal](/_internal/bio/bio~Domain/Eukarya/Fungi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi.internal|Fungi.internal]] 
 
-### #is_/same_as :: [Fungi.protect](/_protect/bio/bio~Domain/Eukarya/Fungi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi.protect|Fungi.protect]] 
 
-### #is_/same_as :: [Fungi.private](/_private/bio/bio~Domain/Eukarya/Fungi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi.private|Fungi.private]] 
 
-### #is_/same_as :: [Fungi.personal](/_personal/bio/bio~Domain/Eukarya/Fungi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi.personal|Fungi.personal]] 
 
-### #is_/same_as :: [Fungi.secret](/_secret/bio/bio~Domain/Eukarya/Fungi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi.secret|Fungi.secret]] 
 

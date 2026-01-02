@@ -70,17 +70,17 @@ PhilPapers_topic: utilitarianism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Utilitarianism](/_Standards/Philosophy/Ethics/Utilitarianism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Ethics/Utilitarianism|Utilitarianism]] 
 
-### #is_/same_as :: [Utilitarianism.public](/_public/Philosophy/Ethics/Utilitarianism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Ethics/Utilitarianism.public|Utilitarianism.public]] 
 
-### #is_/same_as :: [Utilitarianism.internal](/_internal/Philosophy/Ethics/Utilitarianism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Ethics/Utilitarianism.internal|Utilitarianism.internal]] 
 
-### #is_/same_as :: [Utilitarianism.protect](/_protect/Philosophy/Ethics/Utilitarianism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Ethics/Utilitarianism.protect|Utilitarianism.protect]] 
 
-### #is_/same_as :: [Utilitarianism.private](/_private/Philosophy/Ethics/Utilitarianism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Ethics/Utilitarianism.private|Utilitarianism.private]] 
 
-### #is_/same_as :: [Utilitarianism.personal](/_personal/Philosophy/Ethics/Utilitarianism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Ethics/Utilitarianism.personal|Utilitarianism.personal]] 
 
-### #is_/same_as :: [Utilitarianism.secret](/_secret/Philosophy/Ethics/Utilitarianism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Ethics/Utilitarianism.secret|Utilitarianism.secret]] 
 

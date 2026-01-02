@@ -60,17 +60,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/ERGONO
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ergonomics](/_Standards/Technology/Ergonomics.md) 
+### #is_/same_as :: [[/_Standards/Technology/Ergonomics|Ergonomics]] 
 
-### #is_/same_as :: [Ergonomics.public](/_public/Technology/Ergonomics.public.md) 
+### #is_/same_as :: [[/_public/Technology/Ergonomics.public|Ergonomics.public]] 
 
-### #is_/same_as :: [Ergonomics.internal](/_internal/Technology/Ergonomics.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Ergonomics.internal|Ergonomics.internal]] 
 
-### #is_/same_as :: [Ergonomics.protect](/_protect/Technology/Ergonomics.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Ergonomics.protect|Ergonomics.protect]] 
 
-### #is_/same_as :: [Ergonomics.private](/_private/Technology/Ergonomics.private.md) 
+### #is_/same_as :: [[/_private/Technology/Ergonomics.private|Ergonomics.private]] 
 
-### #is_/same_as :: [Ergonomics.personal](/_personal/Technology/Ergonomics.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Ergonomics.personal|Ergonomics.personal]] 
 
-### #is_/same_as :: [Ergonomics.secret](/_secret/Technology/Ergonomics.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Ergonomics.secret|Ergonomics.secret]] 
 

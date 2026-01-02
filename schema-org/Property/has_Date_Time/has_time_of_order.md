@@ -43,17 +43,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_order](/_Standards/schema-org/Property/has_Date_Time/has_time_of_order.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_order|has_time_of_order]] 
 
-### #is_/same_as :: [has_time_of_order.public](/_public/schema-org/Property/has_Date_Time/has_time_of_order.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_order.public|has_time_of_order.public]] 
 
-### #is_/same_as :: [has_time_of_order.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_order.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_order.internal|has_time_of_order.internal]] 
 
-### #is_/same_as :: [has_time_of_order.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_order.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_order.protect|has_time_of_order.protect]] 
 
-### #is_/same_as :: [has_time_of_order.private](/_private/schema-org/Property/has_Date_Time/has_time_of_order.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_order.private|has_time_of_order.private]] 
 
-### #is_/same_as :: [has_time_of_order.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_order.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_order.personal|has_time_of_order.personal]] 
 
-### #is_/same_as :: [has_time_of_order.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_order.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_order.secret|has_time_of_order.secret]] 
 

@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ralph_Bakshi](/_Standards/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi|Ralph_Bakshi]] 
 
-### #is_/same_as :: [Ralph_Bakshi.public](/_public/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.public|Ralph_Bakshi.public]] 
 
-### #is_/same_as :: [Ralph_Bakshi.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.internal|Ralph_Bakshi.internal]] 
 
-### #is_/same_as :: [Ralph_Bakshi.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.protect|Ralph_Bakshi.protect]] 
 
-### #is_/same_as :: [Ralph_Bakshi.private](/_private/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.private|Ralph_Bakshi.private]] 
 
-### #is_/same_as :: [Ralph_Bakshi.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.personal|Ralph_Bakshi.personal]] 
 
-### #is_/same_as :: [Ralph_Bakshi.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Ralph_Bakshi.secret|Ralph_Bakshi.secret]] 
 

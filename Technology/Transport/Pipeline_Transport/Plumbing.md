@@ -46,17 +46,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Creativ%20plumbing%20-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plumbing](/_Standards/Technology/Transport/Pipeline_Transport/Plumbing.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Pipeline_Transport/Plumbing|Plumbing]] 
 
-### #is_/same_as :: [Plumbing.public](/_public/Technology/Transport/Pipeline_Transport/Plumbing.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Pipeline_Transport/Plumbing.public|Plumbing.public]] 
 
-### #is_/same_as :: [Plumbing.internal](/_internal/Technology/Transport/Pipeline_Transport/Plumbing.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Pipeline_Transport/Plumbing.internal|Plumbing.internal]] 
 
-### #is_/same_as :: [Plumbing.protect](/_protect/Technology/Transport/Pipeline_Transport/Plumbing.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Pipeline_Transport/Plumbing.protect|Plumbing.protect]] 
 
-### #is_/same_as :: [Plumbing.private](/_private/Technology/Transport/Pipeline_Transport/Plumbing.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Pipeline_Transport/Plumbing.private|Plumbing.private]] 
 
-### #is_/same_as :: [Plumbing.personal](/_personal/Technology/Transport/Pipeline_Transport/Plumbing.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Pipeline_Transport/Plumbing.personal|Plumbing.personal]] 
 
-### #is_/same_as :: [Plumbing.secret](/_secret/Technology/Transport/Pipeline_Transport/Plumbing.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Pipeline_Transport/Plumbing.secret|Plumbing.secret]] 
 

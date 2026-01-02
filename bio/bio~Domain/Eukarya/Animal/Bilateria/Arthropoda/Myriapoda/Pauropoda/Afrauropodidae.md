@@ -36,17 +36,17 @@ title: Afrauropus occiduus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Afrauropodidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae|Afrauropodidae]] 
 
-### #is_/same_as :: [Afrauropodidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.public|Afrauropodidae.public]] 
 
-### #is_/same_as :: [Afrauropodidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.internal|Afrauropodidae.internal]] 
 
-### #is_/same_as :: [Afrauropodidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.protect|Afrauropodidae.protect]] 
 
-### #is_/same_as :: [Afrauropodidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.private|Afrauropodidae.private]] 
 
-### #is_/same_as :: [Afrauropodidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.personal|Afrauropodidae.personal]] 
 
-### #is_/same_as :: [Afrauropodidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Myriapoda/Pauropoda/Afrauropodidae.secret|Afrauropodidae.secret]] 
 

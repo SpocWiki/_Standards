@@ -58,17 +58,17 @@ Commons_category: Operational amplifiers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Operational_Amplifier](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier|Operational_Amplifier]] 
 
-### #is_/same_as :: [Operational_Amplifier.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.public|Operational_Amplifier.public]] 
 
-### #is_/same_as :: [Operational_Amplifier.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.internal|Operational_Amplifier.internal]] 
 
-### #is_/same_as :: [Operational_Amplifier.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.protect|Operational_Amplifier.protect]] 
 
-### #is_/same_as :: [Operational_Amplifier.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.private|Operational_Amplifier.private]] 
 
-### #is_/same_as :: [Operational_Amplifier.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.personal|Operational_Amplifier.personal]] 
 
-### #is_/same_as :: [Operational_Amplifier.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Operational_Amplifier.secret|Operational_Amplifier.secret]] 
 

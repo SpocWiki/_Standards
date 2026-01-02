@@ -103,17 +103,17 @@ RTECS_number: OA5500000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kerosene](/_Standards/Chemistry/Material/Fuel/Kerosene.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene|Kerosene]] 
 
-### #is_/same_as :: [Kerosene.public](/_public/Chemistry/Material/Fuel/Kerosene.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.public|Kerosene.public]] 
 
-### #is_/same_as :: [Kerosene.internal](/_internal/Chemistry/Material/Fuel/Kerosene.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.internal|Kerosene.internal]] 
 
-### #is_/same_as :: [Kerosene.protect](/_protect/Chemistry/Material/Fuel/Kerosene.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.protect|Kerosene.protect]] 
 
-### #is_/same_as :: [Kerosene.private](/_private/Chemistry/Material/Fuel/Kerosene.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.private|Kerosene.private]] 
 
-### #is_/same_as :: [Kerosene.personal](/_personal/Chemistry/Material/Fuel/Kerosene.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.personal|Kerosene.personal]] 
 
-### #is_/same_as :: [Kerosene.secret](/_secret/Chemistry/Material/Fuel/Kerosene.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Kerosene.secret|Kerosene.secret]] 
 

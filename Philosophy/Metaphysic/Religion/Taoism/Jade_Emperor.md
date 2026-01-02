@@ -44,17 +44,17 @@ native_label: 玉皇上帝
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jade_Emperor](/_Standards/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor|Jade_Emperor]] 
 
-### #is_/same_as :: [Jade_Emperor.public](/_public/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.public|Jade_Emperor.public]] 
 
-### #is_/same_as :: [Jade_Emperor.internal](/_internal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.internal|Jade_Emperor.internal]] 
 
-### #is_/same_as :: [Jade_Emperor.protect](/_protect/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.protect|Jade_Emperor.protect]] 
 
-### #is_/same_as :: [Jade_Emperor.private](/_private/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.private|Jade_Emperor.private]] 
 
-### #is_/same_as :: [Jade_Emperor.personal](/_personal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.personal|Jade_Emperor.personal]] 
 
-### #is_/same_as :: [Jade_Emperor.secret](/_secret/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Taoism/Jade_Emperor.secret|Jade_Emperor.secret]] 
 

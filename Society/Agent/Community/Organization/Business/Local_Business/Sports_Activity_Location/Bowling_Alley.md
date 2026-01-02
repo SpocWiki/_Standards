@@ -41,17 +41,17 @@ A bowling alley.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bowling_Alley](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley|Bowling_Alley]] 
 
-### #is_/same_as :: [Bowling_Alley.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.public|Bowling_Alley.public]] 
 
-### #is_/same_as :: [Bowling_Alley.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.internal|Bowling_Alley.internal]] 
 
-### #is_/same_as :: [Bowling_Alley.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.protect|Bowling_Alley.protect]] 
 
-### #is_/same_as :: [Bowling_Alley.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.private|Bowling_Alley.private]] 
 
-### #is_/same_as :: [Bowling_Alley.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.personal|Bowling_Alley.personal]] 
 
-### #is_/same_as :: [Bowling_Alley.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Sports_Activity_Location/Bowling_Alley.secret|Bowling_Alley.secret]] 
 

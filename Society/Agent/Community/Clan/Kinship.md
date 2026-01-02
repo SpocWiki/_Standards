@@ -77,17 +77,17 @@ exact_match: https://w3id.org/italia/onto/CPCO/ParentalRelationshipType
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinship](/_Standards/Society/Agent/Community/Clan/Kinship.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Kinship|Kinship]] 
 
-### #is_/same_as :: [Kinship.public](/_public/Society/Agent/Community/Clan/Kinship.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Kinship.public|Kinship.public]] 
 
-### #is_/same_as :: [Kinship.internal](/_internal/Society/Agent/Community/Clan/Kinship.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Kinship.internal|Kinship.internal]] 
 
-### #is_/same_as :: [Kinship.protect](/_protect/Society/Agent/Community/Clan/Kinship.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Kinship.protect|Kinship.protect]] 
 
-### #is_/same_as :: [Kinship.private](/_private/Society/Agent/Community/Clan/Kinship.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Kinship.private|Kinship.private]] 
 
-### #is_/same_as :: [Kinship.personal](/_personal/Society/Agent/Community/Clan/Kinship.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Kinship.personal|Kinship.personal]] 
 
-### #is_/same_as :: [Kinship.secret](/_secret/Society/Agent/Community/Clan/Kinship.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Kinship.secret|Kinship.secret]] 
 

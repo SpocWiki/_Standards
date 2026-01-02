@@ -557,17 +557,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_ElementDB](/_Standards/Chemistry/Chemical_Element/_ElementDB.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/_ElementDB|_ElementDB]] 
 
-### #is_/same_as :: [_ElementDB.public](/_public/Chemistry/Chemical_Element/_ElementDB.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/_ElementDB.public|_ElementDB.public]] 
 
-### #is_/same_as :: [_ElementDB.internal](/_internal/Chemistry/Chemical_Element/_ElementDB.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/_ElementDB.internal|_ElementDB.internal]] 
 
-### #is_/same_as :: [_ElementDB.protect](/_protect/Chemistry/Chemical_Element/_ElementDB.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/_ElementDB.protect|_ElementDB.protect]] 
 
-### #is_/same_as :: [_ElementDB.private](/_private/Chemistry/Chemical_Element/_ElementDB.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/_ElementDB.private|_ElementDB.private]] 
 
-### #is_/same_as :: [_ElementDB.personal](/_personal/Chemistry/Chemical_Element/_ElementDB.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/_ElementDB.personal|_ElementDB.personal]] 
 
-### #is_/same_as :: [_ElementDB.secret](/_secret/Chemistry/Chemical_Element/_ElementDB.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/_ElementDB.secret|_ElementDB.secret]] 
 

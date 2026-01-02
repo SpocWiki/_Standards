@@ -240,17 +240,17 @@ work_period_end_: 2022-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Collins,Phil](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil|Collins,Phil]] 
 
-### #is_/same_as :: [Collins,Phil.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.public|Collins,Phil.public]] 
 
-### #is_/same_as :: [Collins,Phil.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.internal|Collins,Phil.internal]] 
 
-### #is_/same_as :: [Collins,Phil.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.protect|Collins,Phil.protect]] 
 
-### #is_/same_as :: [Collins,Phil.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.private|Collins,Phil.private]] 
 
-### #is_/same_as :: [Collins,Phil.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.personal|Collins,Phil.personal]] 
 
-### #is_/same_as :: [Collins,Phil.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Collins,Phil.secret|Collins,Phil.secret]] 
 

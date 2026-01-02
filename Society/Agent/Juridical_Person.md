@@ -71,17 +71,17 @@ part_of: '[[_Standards/WikiData/WD~organization,43229]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Juridical_Person](/_Standards/Society/Agent/Juridical_Person.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Juridical_Person|Juridical_Person]] 
 
-### #is_/same_as :: [Juridical_Person.public](/_public/Society/Agent/Juridical_Person.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Juridical_Person.public|Juridical_Person.public]] 
 
-### #is_/same_as :: [Juridical_Person.internal](/_internal/Society/Agent/Juridical_Person.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Juridical_Person.internal|Juridical_Person.internal]] 
 
-### #is_/same_as :: [Juridical_Person.protect](/_protect/Society/Agent/Juridical_Person.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Juridical_Person.protect|Juridical_Person.protect]] 
 
-### #is_/same_as :: [Juridical_Person.private](/_private/Society/Agent/Juridical_Person.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Juridical_Person.private|Juridical_Person.private]] 
 
-### #is_/same_as :: [Juridical_Person.personal](/_personal/Society/Agent/Juridical_Person.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Juridical_Person.personal|Juridical_Person.personal]] 
 
-### #is_/same_as :: [Juridical_Person.secret](/_secret/Society/Agent/Juridical_Person.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Juridical_Person.secret|Juridical_Person.secret]] 
 

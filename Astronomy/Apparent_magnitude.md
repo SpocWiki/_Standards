@@ -51,17 +51,17 @@ IEV_number: 845-21-097
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apparent_magnitude](/_Standards/Astronomy/Apparent_magnitude.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Apparent_magnitude|Apparent_magnitude]] 
 
-### #is_/same_as :: [Apparent_magnitude.public](/_public/Astronomy/Apparent_magnitude.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Apparent_magnitude.public|Apparent_magnitude.public]] 
 
-### #is_/same_as :: [Apparent_magnitude.internal](/_internal/Astronomy/Apparent_magnitude.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Apparent_magnitude.internal|Apparent_magnitude.internal]] 
 
-### #is_/same_as :: [Apparent_magnitude.protect](/_protect/Astronomy/Apparent_magnitude.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Apparent_magnitude.protect|Apparent_magnitude.protect]] 
 
-### #is_/same_as :: [Apparent_magnitude.private](/_private/Astronomy/Apparent_magnitude.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Apparent_magnitude.private|Apparent_magnitude.private]] 
 
-### #is_/same_as :: [Apparent_magnitude.personal](/_personal/Astronomy/Apparent_magnitude.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Apparent_magnitude.personal|Apparent_magnitude.personal]] 
 
-### #is_/same_as :: [Apparent_magnitude.secret](/_secret/Astronomy/Apparent_magnitude.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Apparent_magnitude.secret|Apparent_magnitude.secret]] 
 

@@ -58,17 +58,17 @@ Commons_category: Holy Alliance
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holy_Alliance](/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/History_of_Europe/Holy_Alliance|Holy_Alliance]] 
 
-### #is_/same_as :: [Holy_Alliance.public](/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.public|Holy_Alliance.public]] 
 
-### #is_/same_as :: [Holy_Alliance.internal](/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.internal|Holy_Alliance.internal]] 
 
-### #is_/same_as :: [Holy_Alliance.protect](/_protect/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.protect|Holy_Alliance.protect]] 
 
-### #is_/same_as :: [Holy_Alliance.private](/_private/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.private|Holy_Alliance.private]] 
 
-### #is_/same_as :: [Holy_Alliance.personal](/_personal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.personal|Holy_Alliance.personal]] 
 
-### #is_/same_as :: [Holy_Alliance.secret](/_secret/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/History_of_Europe/Holy_Alliance.secret|Holy_Alliance.secret]] 
 

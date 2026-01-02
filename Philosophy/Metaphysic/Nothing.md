@@ -45,17 +45,17 @@ native_label: Anyen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nothing](/_Standards/Philosophy/Metaphysic/Nothing.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Nothing|Nothing]] 
 
-### #is_/same_as :: [Nothing.public](/_public/Philosophy/Metaphysic/Nothing.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Nothing.public|Nothing.public]] 
 
-### #is_/same_as :: [Nothing.internal](/_internal/Philosophy/Metaphysic/Nothing.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Nothing.internal|Nothing.internal]] 
 
-### #is_/same_as :: [Nothing.protect](/_protect/Philosophy/Metaphysic/Nothing.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Nothing.protect|Nothing.protect]] 
 
-### #is_/same_as :: [Nothing.private](/_private/Philosophy/Metaphysic/Nothing.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Nothing.private|Nothing.private]] 
 
-### #is_/same_as :: [Nothing.personal](/_personal/Philosophy/Metaphysic/Nothing.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Nothing.personal|Nothing.personal]] 
 
-### #is_/same_as :: [Nothing.secret](/_secret/Philosophy/Metaphysic/Nothing.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Nothing.secret|Nothing.secret]] 
 

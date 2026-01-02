@@ -64,17 +64,17 @@ Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/ANTROPONIMIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anthroponymy](/_Standards/Language/Onomastics/Anthroponymy.md) 
+### #is_/same_as :: [[/_Standards/Language/Onomastics/Anthroponymy|Anthroponymy]] 
 
-### #is_/same_as :: [Anthroponymy.public](/_public/Language/Onomastics/Anthroponymy.public.md) 
+### #is_/same_as :: [[/_public/Language/Onomastics/Anthroponymy.public|Anthroponymy.public]] 
 
-### #is_/same_as :: [Anthroponymy.internal](/_internal/Language/Onomastics/Anthroponymy.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Onomastics/Anthroponymy.internal|Anthroponymy.internal]] 
 
-### #is_/same_as :: [Anthroponymy.protect](/_protect/Language/Onomastics/Anthroponymy.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Onomastics/Anthroponymy.protect|Anthroponymy.protect]] 
 
-### #is_/same_as :: [Anthroponymy.private](/_private/Language/Onomastics/Anthroponymy.private.md) 
+### #is_/same_as :: [[/_private/Language/Onomastics/Anthroponymy.private|Anthroponymy.private]] 
 
-### #is_/same_as :: [Anthroponymy.personal](/_personal/Language/Onomastics/Anthroponymy.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Onomastics/Anthroponymy.personal|Anthroponymy.personal]] 
 
-### #is_/same_as :: [Anthroponymy.secret](/_secret/Language/Onomastics/Anthroponymy.secret.md)
+### #is_/same_as :: [[/_secret/Language/Onomastics/Anthroponymy.secret|Anthroponymy.secret]] 
 

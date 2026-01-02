@@ -57,17 +57,17 @@ Library_of_Congress_Classification: QC790.95-QC791.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Fusion](/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion|Nuclear_Fusion]] 
 
-### #is_/same_as :: [Nuclear_Fusion.public](/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.public|Nuclear_Fusion.public]] 
 
-### #is_/same_as :: [Nuclear_Fusion.internal](/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.internal|Nuclear_Fusion.internal]] 
 
-### #is_/same_as :: [Nuclear_Fusion.protect](/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.protect|Nuclear_Fusion.protect]] 
 
-### #is_/same_as :: [Nuclear_Fusion.private](/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.private|Nuclear_Fusion.private]] 
 
-### #is_/same_as :: [Nuclear_Fusion.personal](/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.personal|Nuclear_Fusion.personal]] 
 
-### #is_/same_as :: [Nuclear_Fusion.secret](/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Nuclear_Physics/Nuclear_Fusion.secret|Nuclear_Fusion.secret]] 
 

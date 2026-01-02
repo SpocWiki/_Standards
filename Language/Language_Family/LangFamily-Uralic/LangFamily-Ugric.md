@@ -42,17 +42,17 @@ Linguist_List_code: ugri
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Ugric](/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric|LangFamily-Ugric]] 
 
-### #is_/same_as :: [LangFamily-Ugric.public](/_public/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.public|LangFamily-Ugric.public]] 
 
-### #is_/same_as :: [LangFamily-Ugric.internal](/_internal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.internal|LangFamily-Ugric.internal]] 
 
-### #is_/same_as :: [LangFamily-Ugric.protect](/_protect/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.protect|LangFamily-Ugric.protect]] 
 
-### #is_/same_as :: [LangFamily-Ugric.private](/_private/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.private|LangFamily-Ugric.private]] 
 
-### #is_/same_as :: [LangFamily-Ugric.personal](/_personal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.personal|LangFamily-Ugric.personal]] 
 
-### #is_/same_as :: [LangFamily-Ugric.secret](/_secret/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Uralic/LangFamily-Ugric.secret|LangFamily-Ugric.secret]] 
 

@@ -79,17 +79,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sun_Tzu](/_Standards/Society/Military/Sun_Tzu.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Sun_Tzu|Sun_Tzu]] 
 
-### #is_/same_as :: [Sun_Tzu.public](/_public/Society/Military/Sun_Tzu.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Sun_Tzu.public|Sun_Tzu.public]] 
 
-### #is_/same_as :: [Sun_Tzu.internal](/_internal/Society/Military/Sun_Tzu.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Sun_Tzu.internal|Sun_Tzu.internal]] 
 
-### #is_/same_as :: [Sun_Tzu.protect](/_protect/Society/Military/Sun_Tzu.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Sun_Tzu.protect|Sun_Tzu.protect]] 
 
-### #is_/same_as :: [Sun_Tzu.private](/_private/Society/Military/Sun_Tzu.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Sun_Tzu.private|Sun_Tzu.private]] 
 
-### #is_/same_as :: [Sun_Tzu.personal](/_personal/Society/Military/Sun_Tzu.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Sun_Tzu.personal|Sun_Tzu.personal]] 
 
-### #is_/same_as :: [Sun_Tzu.secret](/_secret/Society/Military/Sun_Tzu.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Sun_Tzu.secret|Sun_Tzu.secret]] 
 

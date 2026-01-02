@@ -48,17 +48,17 @@ Commons_category: Non-Euclidean geometry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Non-Euclidean_Geometry](/_Standards/Mathematics/Geometry/Non-Euclidean_Geometry.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Non-Euclidean_Geometry|Non-Euclidean_Geometry]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.public](/_public/Mathematics/Geometry/Non-Euclidean_Geometry.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Non-Euclidean_Geometry.public|Non-Euclidean_Geometry.public]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.internal](/_internal/Mathematics/Geometry/Non-Euclidean_Geometry.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Non-Euclidean_Geometry.internal|Non-Euclidean_Geometry.internal]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.protect](/_protect/Mathematics/Geometry/Non-Euclidean_Geometry.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Non-Euclidean_Geometry.protect|Non-Euclidean_Geometry.protect]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.private](/_private/Mathematics/Geometry/Non-Euclidean_Geometry.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Non-Euclidean_Geometry.private|Non-Euclidean_Geometry.private]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.personal](/_personal/Mathematics/Geometry/Non-Euclidean_Geometry.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Non-Euclidean_Geometry.personal|Non-Euclidean_Geometry.personal]] 
 
-### #is_/same_as :: [Non-Euclidean_Geometry.secret](/_secret/Mathematics/Geometry/Non-Euclidean_Geometry.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Non-Euclidean_Geometry.secret|Non-Euclidean_Geometry.secret]] 
 

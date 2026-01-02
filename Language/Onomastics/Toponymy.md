@@ -33,17 +33,17 @@ Commons_category: Toponymy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toponymy](/_Standards/Language/Onomastics/Toponymy.md) 
+### #is_/same_as :: [[/_Standards/Language/Onomastics/Toponymy|Toponymy]] 
 
-### #is_/same_as :: [Toponymy.public](/_public/Language/Onomastics/Toponymy.public.md) 
+### #is_/same_as :: [[/_public/Language/Onomastics/Toponymy.public|Toponymy.public]] 
 
-### #is_/same_as :: [Toponymy.internal](/_internal/Language/Onomastics/Toponymy.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Onomastics/Toponymy.internal|Toponymy.internal]] 
 
-### #is_/same_as :: [Toponymy.protect](/_protect/Language/Onomastics/Toponymy.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Onomastics/Toponymy.protect|Toponymy.protect]] 
 
-### #is_/same_as :: [Toponymy.private](/_private/Language/Onomastics/Toponymy.private.md) 
+### #is_/same_as :: [[/_private/Language/Onomastics/Toponymy.private|Toponymy.private]] 
 
-### #is_/same_as :: [Toponymy.personal](/_personal/Language/Onomastics/Toponymy.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Onomastics/Toponymy.personal|Toponymy.personal]] 
 
-### #is_/same_as :: [Toponymy.secret](/_secret/Language/Onomastics/Toponymy.secret.md)
+### #is_/same_as :: [[/_secret/Language/Onomastics/Toponymy.secret|Toponymy.secret]] 
 

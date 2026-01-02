@@ -42,17 +42,17 @@ Commons_category: Computing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computing](/_Standards/Technology/IT/Software/Computing.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computing|Computing]] 
 
-### #is_/same_as :: [Computing.public](/_public/Technology/IT/Software/Computing.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computing.public|Computing.public]] 
 
-### #is_/same_as :: [Computing.internal](/_internal/Technology/IT/Software/Computing.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computing.internal|Computing.internal]] 
 
-### #is_/same_as :: [Computing.protect](/_protect/Technology/IT/Software/Computing.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computing.protect|Computing.protect]] 
 
-### #is_/same_as :: [Computing.private](/_private/Technology/IT/Software/Computing.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computing.private|Computing.private]] 
 
-### #is_/same_as :: [Computing.personal](/_personal/Technology/IT/Software/Computing.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computing.personal|Computing.personal]] 
 
-### #is_/same_as :: [Computing.secret](/_secret/Technology/IT/Software/Computing.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computing.secret|Computing.secret]] 
 

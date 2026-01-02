@@ -47,17 +47,17 @@ Krugosvet_article: nauka_i_tehnika/matematika/FUNKTSI_TEORIYA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Complex_Analysis](/_Standards/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Analysis(Math)/Complex_Analysis|Complex_Analysis]] 
 
-### #is_/same_as :: [Complex_Analysis.public](/_public/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.public|Complex_Analysis.public]] 
 
-### #is_/same_as :: [Complex_Analysis.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.internal|Complex_Analysis.internal]] 
 
-### #is_/same_as :: [Complex_Analysis.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.protect|Complex_Analysis.protect]] 
 
-### #is_/same_as :: [Complex_Analysis.private](/_private/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.private|Complex_Analysis.private]] 
 
-### #is_/same_as :: [Complex_Analysis.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.personal|Complex_Analysis.personal]] 
 
-### #is_/same_as :: [Complex_Analysis.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Analysis(Math)/Complex_Analysis.secret|Complex_Analysis.secret]] 
 

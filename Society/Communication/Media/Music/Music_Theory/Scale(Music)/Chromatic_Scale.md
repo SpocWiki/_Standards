@@ -22,3 +22,22 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Chromatic%20scale) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale|Chromatic_Scale]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.public|Chromatic_Scale.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.internal|Chromatic_Scale.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.protect|Chromatic_Scale.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.private|Chromatic_Scale.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.personal|Chromatic_Scale.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Theory/Scale(Music)/Chromatic_Scale.secret|Chromatic_Scale.secret]] 
+

@@ -42,17 +42,17 @@ VinylFormat.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vinyl_Format](/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format|Vinyl_Format]] 
 
-### #is_/same_as :: [Vinyl_Format.public](/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.public|Vinyl_Format.public]] 
 
-### #is_/same_as :: [Vinyl_Format.internal](/_internal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.internal|Vinyl_Format.internal]] 
 
-### #is_/same_as :: [Vinyl_Format.protect](/_protect/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.protect|Vinyl_Format.protect]] 
 
-### #is_/same_as :: [Vinyl_Format.private](/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.private|Vinyl_Format.private]] 
 
-### #is_/same_as :: [Vinyl_Format.personal](/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.personal|Vinyl_Format.personal]] 
 
-### #is_/same_as :: [Vinyl_Format.secret](/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Release_Format_Type/Vinyl_Format.secret|Vinyl_Format.secret]] 
 

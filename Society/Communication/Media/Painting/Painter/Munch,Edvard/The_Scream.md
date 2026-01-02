@@ -73,17 +73,17 @@ native_label: '"Skrik"'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Scream](/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream|The_Scream]] 
 
-### #is_/same_as :: [The_Scream.public](/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.public|The_Scream.public]] 
 
-### #is_/same_as :: [The_Scream.internal](/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.internal|The_Scream.internal]] 
 
-### #is_/same_as :: [The_Scream.protect](/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.protect|The_Scream.protect]] 
 
-### #is_/same_as :: [The_Scream.private](/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.private|The_Scream.private]] 
 
-### #is_/same_as :: [The_Scream.personal](/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.personal|The_Scream.personal]] 
 
-### #is_/same_as :: [The_Scream.secret](/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Munch,Edvard/The_Scream.secret|The_Scream.secret]] 
 

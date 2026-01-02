@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Le_Figaro](/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Le_Figaro|Le_Figaro]] 
 
-### #is_/same_as :: [Le_Figaro.public](/_public/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.public|Le_Figaro.public]] 
 
-### #is_/same_as :: [Le_Figaro.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.internal|Le_Figaro.internal]] 
 
-### #is_/same_as :: [Le_Figaro.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.protect|Le_Figaro.protect]] 
 
-### #is_/same_as :: [Le_Figaro.private](/_private/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.private|Le_Figaro.private]] 
 
-### #is_/same_as :: [Le_Figaro.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.personal|Le_Figaro.personal]] 
 
-### #is_/same_as :: [Le_Figaro.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Le_Figaro.secret|Le_Figaro.secret]] 
 

@@ -33,17 +33,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melanesia](/_Standards/Earth/Continent/Australasia/Melanesia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia|Melanesia]] 
 
-### #is_/same_as :: [Melanesia.public](/_public/Earth/Continent/Australasia/Melanesia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia.public|Melanesia.public]] 
 
-### #is_/same_as :: [Melanesia.internal](/_internal/Earth/Continent/Australasia/Melanesia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia.internal|Melanesia.internal]] 
 
-### #is_/same_as :: [Melanesia.protect](/_protect/Earth/Continent/Australasia/Melanesia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia.protect|Melanesia.protect]] 
 
-### #is_/same_as :: [Melanesia.private](/_private/Earth/Continent/Australasia/Melanesia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia.private|Melanesia.private]] 
 
-### #is_/same_as :: [Melanesia.personal](/_personal/Earth/Continent/Australasia/Melanesia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia.personal|Melanesia.personal]] 
 
-### #is_/same_as :: [Melanesia.secret](/_secret/Earth/Continent/Australasia/Melanesia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia.secret|Melanesia.secret]] 
 

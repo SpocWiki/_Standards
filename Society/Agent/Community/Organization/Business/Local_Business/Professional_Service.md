@@ -45,17 +45,17 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Professional_Service](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service|Professional_Service]] 
 
-### #is_/same_as :: [Professional_Service.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.public|Professional_Service.public]] 
 
-### #is_/same_as :: [Professional_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.internal|Professional_Service.internal]] 
 
-### #is_/same_as :: [Professional_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.protect|Professional_Service.protect]] 
 
-### #is_/same_as :: [Professional_Service.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.private|Professional_Service.private]] 
 
-### #is_/same_as :: [Professional_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.personal|Professional_Service.personal]] 
 
-### #is_/same_as :: [Professional_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Professional_Service.secret|Professional_Service.secret]] 
 

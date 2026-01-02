@@ -139,17 +139,17 @@ ISNI: 0000000121178631
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Walt_Whitman](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman|Walt_Whitman]] 
 
-### #is_/same_as :: [Walt_Whitman.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.public|Walt_Whitman.public]] 
 
-### #is_/same_as :: [Walt_Whitman.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.internal|Walt_Whitman.internal]] 
 
-### #is_/same_as :: [Walt_Whitman.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.protect|Walt_Whitman.protect]] 
 
-### #is_/same_as :: [Walt_Whitman.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.private|Walt_Whitman.private]] 
 
-### #is_/same_as :: [Walt_Whitman.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.personal|Walt_Whitman.personal]] 
 
-### #is_/same_as :: [Walt_Whitman.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Walt_Whitman.secret|Walt_Whitman.secret]] 
 

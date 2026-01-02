@@ -45,17 +45,17 @@ Commons_category: Reinforced concrete
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reinforced_Concrete](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete|Reinforced_Concrete]] 
 
-### #is_/same_as :: [Reinforced_Concrete.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.public|Reinforced_Concrete.public]] 
 
-### #is_/same_as :: [Reinforced_Concrete.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.internal|Reinforced_Concrete.internal]] 
 
-### #is_/same_as :: [Reinforced_Concrete.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.protect|Reinforced_Concrete.protect]] 
 
-### #is_/same_as :: [Reinforced_Concrete.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.private|Reinforced_Concrete.private]] 
 
-### #is_/same_as :: [Reinforced_Concrete.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.personal|Reinforced_Concrete.personal]] 
 
-### #is_/same_as :: [Reinforced_Concrete.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Building_Material/Concrete/Reinforced_Concrete.secret|Reinforced_Concrete.secret]] 
 

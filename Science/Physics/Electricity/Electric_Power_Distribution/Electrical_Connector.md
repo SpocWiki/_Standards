@@ -77,17 +77,17 @@ Commons_category: Electrical connectors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Connector](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector|Electrical_Connector]] 
 
-### #is_/same_as :: [Electrical_Connector.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.public|Electrical_Connector.public]] 
 
-### #is_/same_as :: [Electrical_Connector.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.internal|Electrical_Connector.internal]] 
 
-### #is_/same_as :: [Electrical_Connector.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.protect|Electrical_Connector.protect]] 
 
-### #is_/same_as :: [Electrical_Connector.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.private|Electrical_Connector.private]] 
 
-### #is_/same_as :: [Electrical_Connector.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.personal|Electrical_Connector.personal]] 
 
-### #is_/same_as :: [Electrical_Connector.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Connector.secret|Electrical_Connector.secret]] 
 

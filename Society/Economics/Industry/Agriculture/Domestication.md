@@ -36,17 +36,17 @@ schematic:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Domestication](/_Standards/Society/Economics/Industry/Agriculture/Domestication.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Domestication|Domestication]] 
 
-### #is_/same_as :: [Domestication.public](/_public/Society/Economics/Industry/Agriculture/Domestication.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Domestication.public|Domestication.public]] 
 
-### #is_/same_as :: [Domestication.internal](/_internal/Society/Economics/Industry/Agriculture/Domestication.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Domestication.internal|Domestication.internal]] 
 
-### #is_/same_as :: [Domestication.protect](/_protect/Society/Economics/Industry/Agriculture/Domestication.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Domestication.protect|Domestication.protect]] 
 
-### #is_/same_as :: [Domestication.private](/_private/Society/Economics/Industry/Agriculture/Domestication.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Domestication.private|Domestication.private]] 
 
-### #is_/same_as :: [Domestication.personal](/_personal/Society/Economics/Industry/Agriculture/Domestication.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Domestication.personal|Domestication.personal]] 
 
-### #is_/same_as :: [Domestication.secret](/_secret/Society/Economics/Industry/Agriculture/Domestication.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Domestication.secret|Domestication.secret]] 
 

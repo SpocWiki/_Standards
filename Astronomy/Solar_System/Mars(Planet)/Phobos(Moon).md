@@ -25,17 +25,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phobos(Moon)](/_Standards/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon)|Phobos(Moon)]] 
 
-### #is_/same_as :: [Phobos(Moon).public](/_public/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).public|Phobos(Moon).public]] 
 
-### #is_/same_as :: [Phobos(Moon).internal](/_internal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).internal|Phobos(Moon).internal]] 
 
-### #is_/same_as :: [Phobos(Moon).protect](/_protect/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).protect|Phobos(Moon).protect]] 
 
-### #is_/same_as :: [Phobos(Moon).private](/_private/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).private|Phobos(Moon).private]] 
 
-### #is_/same_as :: [Phobos(Moon).personal](/_personal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).personal|Phobos(Moon).personal]] 
 
-### #is_/same_as :: [Phobos(Moon).secret](/_secret/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Mars(Planet)/Phobos(Moon).secret|Phobos(Moon).secret]] 
 

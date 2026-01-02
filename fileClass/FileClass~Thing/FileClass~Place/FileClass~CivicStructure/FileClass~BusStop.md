@@ -37,17 +37,17 @@ A bus stop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BusStop](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop|FileClass~BusStop]] 
 
-### #is_/same_as :: [FileClass~BusStop.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.public|FileClass~BusStop.public]] 
 
-### #is_/same_as :: [FileClass~BusStop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.internal|FileClass~BusStop.internal]] 
 
-### #is_/same_as :: [FileClass~BusStop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.protect|FileClass~BusStop.protect]] 
 
-### #is_/same_as :: [FileClass~BusStop.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.private|FileClass~BusStop.private]] 
 
-### #is_/same_as :: [FileClass~BusStop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.personal|FileClass~BusStop.personal]] 
 
-### #is_/same_as :: [FileClass~BusStop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~CivicStructure/FileClass~BusStop.secret|FileClass~BusStop.secret]] 
 

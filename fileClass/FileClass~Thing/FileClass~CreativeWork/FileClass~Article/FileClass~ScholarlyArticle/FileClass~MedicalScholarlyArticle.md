@@ -47,17 +47,17 @@ PublicationType:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle|FileClass~MedicalScholarlyArticle]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.public|FileClass~MedicalScholarlyArticle.public]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.internal|FileClass~MedicalScholarlyArticle.internal]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.protect|FileClass~MedicalScholarlyArticle.protect]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.private|FileClass~MedicalScholarlyArticle.private]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.personal|FileClass~MedicalScholarlyArticle.personal]] 
 
-### #is_/same_as :: [FileClass~MedicalScholarlyArticle.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Article/FileClass~ScholarlyArticle/FileClass~MedicalScholarlyArticle.secret|FileClass~MedicalScholarlyArticle.secret]] 
 

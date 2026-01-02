@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_salary_currency](/_Standards/schema-org/Property/Texts/has_salary_currency.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_salary_currency|has_salary_currency]] 
 
-### #is_/same_as :: [has_salary_currency.public](/_public/schema-org/Property/Texts/has_salary_currency.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_salary_currency.public|has_salary_currency.public]] 
 
-### #is_/same_as :: [has_salary_currency.internal](/_internal/schema-org/Property/Texts/has_salary_currency.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_salary_currency.internal|has_salary_currency.internal]] 
 
-### #is_/same_as :: [has_salary_currency.protect](/_protect/schema-org/Property/Texts/has_salary_currency.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_salary_currency.protect|has_salary_currency.protect]] 
 
-### #is_/same_as :: [has_salary_currency.private](/_private/schema-org/Property/Texts/has_salary_currency.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_salary_currency.private|has_salary_currency.private]] 
 
-### #is_/same_as :: [has_salary_currency.personal](/_personal/schema-org/Property/Texts/has_salary_currency.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_salary_currency.personal|has_salary_currency.personal]] 
 
-### #is_/same_as :: [has_salary_currency.secret](/_secret/schema-org/Property/Texts/has_salary_currency.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_salary_currency.secret|has_salary_currency.secret]] 
 

@@ -42,17 +42,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/izobrazitelnoe_iskusstvo/MOBI
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinetic_Art](/_Standards/Society/Communication/Art/Kinetic_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Kinetic_Art|Kinetic_Art]] 
 
-### #is_/same_as :: [Kinetic_Art.public](/_public/Society/Communication/Art/Kinetic_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Kinetic_Art.public|Kinetic_Art.public]] 
 
-### #is_/same_as :: [Kinetic_Art.internal](/_internal/Society/Communication/Art/Kinetic_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Kinetic_Art.internal|Kinetic_Art.internal]] 
 
-### #is_/same_as :: [Kinetic_Art.protect](/_protect/Society/Communication/Art/Kinetic_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Kinetic_Art.protect|Kinetic_Art.protect]] 
 
-### #is_/same_as :: [Kinetic_Art.private](/_private/Society/Communication/Art/Kinetic_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Kinetic_Art.private|Kinetic_Art.private]] 
 
-### #is_/same_as :: [Kinetic_Art.personal](/_personal/Society/Communication/Art/Kinetic_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Kinetic_Art.personal|Kinetic_Art.personal]] 
 
-### #is_/same_as :: [Kinetic_Art.secret](/_secret/Society/Communication/Art/Kinetic_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Kinetic_Art.secret|Kinetic_Art.secret]] 
 

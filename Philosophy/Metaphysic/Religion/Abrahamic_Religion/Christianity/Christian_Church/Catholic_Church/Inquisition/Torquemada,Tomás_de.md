@@ -79,17 +79,17 @@ Commons_category: Tomás de Torquemada
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torquemada,Tomás_de](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de|Torquemada,Tomás_de]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.public|Torquemada,Tomás_de.public]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.internal|Torquemada,Tomás_de.internal]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.protect|Torquemada,Tomás_de.protect]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.private|Torquemada,Tomás_de.private]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.personal|Torquemada,Tomás_de.personal]] 
 
-### #is_/same_as :: [Torquemada,Tomás_de.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Inquisition/Torquemada,Tomás_de.secret|Torquemada,Tomás_de.secret]] 
 

@@ -14,3 +14,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/Repeatability) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Repeatability|Repeatability]] 
+
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Repeatability.public|Repeatability.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Repeatability.internal|Repeatability.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Repeatability.protect|Repeatability.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Repeatability.private|Repeatability.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Repeatability.personal|Repeatability.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Repeatability.secret|Repeatability.secret]] 
+

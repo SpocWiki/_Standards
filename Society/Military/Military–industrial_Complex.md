@@ -53,17 +53,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Military-industrialComplex::77v
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Military–industrial_Complex](/_Standards/Society/Military/Military–industrial_Complex.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military–industrial_Complex|Military–industrial_Complex]] 
 
-### #is_/same_as :: [Military–industrial_Complex.public](/_public/Society/Military/Military–industrial_Complex.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military–industrial_Complex.public|Military–industrial_Complex.public]] 
 
-### #is_/same_as :: [Military–industrial_Complex.internal](/_internal/Society/Military/Military–industrial_Complex.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military–industrial_Complex.internal|Military–industrial_Complex.internal]] 
 
-### #is_/same_as :: [Military–industrial_Complex.protect](/_protect/Society/Military/Military–industrial_Complex.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military–industrial_Complex.protect|Military–industrial_Complex.protect]] 
 
-### #is_/same_as :: [Military–industrial_Complex.private](/_private/Society/Military/Military–industrial_Complex.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military–industrial_Complex.private|Military–industrial_Complex.private]] 
 
-### #is_/same_as :: [Military–industrial_Complex.personal](/_personal/Society/Military/Military–industrial_Complex.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military–industrial_Complex.personal|Military–industrial_Complex.personal]] 
 
-### #is_/same_as :: [Military–industrial_Complex.secret](/_secret/Society/Military/Military–industrial_Complex.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military–industrial_Complex.secret|Military–industrial_Complex.secret]] 
 

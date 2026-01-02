@@ -23,17 +23,17 @@ and was followed by .
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime)|Wickie_und_die_starken_Männer(Anime)]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).public|Wickie_und_die_starken_Männer(Anime).public]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).internal|Wickie_und_die_starken_Männer(Anime).internal]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).protect|Wickie_und_die_starken_Männer(Anime).protect]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).private|Wickie_und_die_starken_Männer(Anime).private]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).personal|Wickie_und_die_starken_Männer(Anime).personal]] 
 
-### #is_/same_as :: [Wickie_und_die_starken_Männer(Anime).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Wickie_und_die_starken_Männer(Anime).secret|Wickie_und_die_starken_Männer(Anime).secret]] 
 

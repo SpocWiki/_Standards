@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_items_in_collection](/_Standards/schema-org/Property/has_number_of/has_number_of_items_in_collection.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_items_in_collection|has_number_of_items_in_collection]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.public](/_public/schema-org/Property/has_number_of/has_number_of_items_in_collection.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_items_in_collection.public|has_number_of_items_in_collection.public]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.internal](/_internal/schema-org/Property/has_number_of/has_number_of_items_in_collection.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_items_in_collection.internal|has_number_of_items_in_collection.internal]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.protect](/_protect/schema-org/Property/has_number_of/has_number_of_items_in_collection.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_items_in_collection.protect|has_number_of_items_in_collection.protect]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.private](/_private/schema-org/Property/has_number_of/has_number_of_items_in_collection.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_items_in_collection.private|has_number_of_items_in_collection.private]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.personal](/_personal/schema-org/Property/has_number_of/has_number_of_items_in_collection.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_items_in_collection.personal|has_number_of_items_in_collection.personal]] 
 
-### #is_/same_as :: [has_number_of_items_in_collection.secret](/_secret/schema-org/Property/has_number_of/has_number_of_items_in_collection.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_items_in_collection.secret|has_number_of_items_in_collection.secret]] 
 

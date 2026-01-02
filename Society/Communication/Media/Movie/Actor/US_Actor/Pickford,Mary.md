@@ -127,17 +127,17 @@ Google_Doodle: mary-pickfords-125th-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pickford,Mary](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary|Pickford,Mary]] 
 
-### #is_/same_as :: [Pickford,Mary.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.public|Pickford,Mary.public]] 
 
-### #is_/same_as :: [Pickford,Mary.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.internal|Pickford,Mary.internal]] 
 
-### #is_/same_as :: [Pickford,Mary.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.protect|Pickford,Mary.protect]] 
 
-### #is_/same_as :: [Pickford,Mary.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.private|Pickford,Mary.private]] 
 
-### #is_/same_as :: [Pickford,Mary.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.personal|Pickford,Mary.personal]] 
 
-### #is_/same_as :: [Pickford,Mary.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Pickford,Mary.secret|Pickford,Mary.secret]] 
 

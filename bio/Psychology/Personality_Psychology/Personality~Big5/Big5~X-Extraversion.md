@@ -100,17 +100,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~X-Extraversion](Big5~X-Extraversion.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion|Big5~X-Extraversion]] 
 
-### #is_/same_as :: [Big5~Extraversion.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.public|Big5~X-Extraversion.public]] 
 
-### #is_/same_as :: [Big5~Extraversion.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.internal|Big5~X-Extraversion.internal]] 
 
-### #is_/same_as :: [Big5~Extraversion.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.protect|Big5~X-Extraversion.protect]] 
 
-### #is_/same_as :: [Big5~Extraversion.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.private|Big5~X-Extraversion.private]] 
 
-### #is_/same_as :: [Big5~Extraversion.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.personal|Big5~X-Extraversion.personal]] 
 
-### #is_/same_as :: [Big5~Extraversion.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Extraversion.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~X-Extraversion.secret|Big5~X-Extraversion.secret]] 
 

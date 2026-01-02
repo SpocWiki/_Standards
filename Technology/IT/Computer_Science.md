@@ -93,17 +93,17 @@ PhilPapers_topic: computer-science
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Science](/_Standards/Technology/IT/Computer_Science.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science|Computer_Science]] 
 
-### #is_/same_as :: [Computer_Science.public](/_public/Technology/IT/Computer_Science.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science.public|Computer_Science.public]] 
 
-### #is_/same_as :: [Computer_Science.internal](/_internal/Technology/IT/Computer_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science.internal|Computer_Science.internal]] 
 
-### #is_/same_as :: [Computer_Science.protect](/_protect/Technology/IT/Computer_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science.protect|Computer_Science.protect]] 
 
-### #is_/same_as :: [Computer_Science.private](/_private/Technology/IT/Computer_Science.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science.private|Computer_Science.private]] 
 
-### #is_/same_as :: [Computer_Science.personal](/_personal/Technology/IT/Computer_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science.personal|Computer_Science.personal]] 
 
-### #is_/same_as :: [Computer_Science.secret](/_secret/Technology/IT/Computer_Science.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science.secret|Computer_Science.secret]] 
 

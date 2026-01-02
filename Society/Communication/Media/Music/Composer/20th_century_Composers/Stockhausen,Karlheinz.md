@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stockhausen,Karlheinz](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz|Stockhausen,Karlheinz]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.public|Stockhausen,Karlheinz.public]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.internal|Stockhausen,Karlheinz.internal]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.protect|Stockhausen,Karlheinz.protect]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.private|Stockhausen,Karlheinz.private]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.personal|Stockhausen,Karlheinz.personal]] 
 
-### #is_/same_as :: [Stockhausen,Karlheinz.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Stockhausen,Karlheinz.secret|Stockhausen,Karlheinz.secret]] 
 

@@ -110,17 +110,17 @@ Europeana_entity: agent/base/60508
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rodgers,Richard](/_Standards/Society/Communication/Media/Music/Composer/Rodgers,Richard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Rodgers,Richard|Rodgers,Richard]] 
 
-### #is_/same_as :: [Rodgers,Richard.public](/_public/Society/Communication/Media/Music/Composer/Rodgers,Richard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Rodgers,Richard.public|Rodgers,Richard.public]] 
 
-### #is_/same_as :: [Rodgers,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Rodgers,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Rodgers,Richard.internal|Rodgers,Richard.internal]] 
 
-### #is_/same_as :: [Rodgers,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Rodgers,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Rodgers,Richard.protect|Rodgers,Richard.protect]] 
 
-### #is_/same_as :: [Rodgers,Richard.private](/_private/Society/Communication/Media/Music/Composer/Rodgers,Richard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Rodgers,Richard.private|Rodgers,Richard.private]] 
 
-### #is_/same_as :: [Rodgers,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Rodgers,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Rodgers,Richard.personal|Rodgers,Richard.personal]] 
 
-### #is_/same_as :: [Rodgers,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Rodgers,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Rodgers,Richard.secret|Rodgers,Richard.secret]] 
 

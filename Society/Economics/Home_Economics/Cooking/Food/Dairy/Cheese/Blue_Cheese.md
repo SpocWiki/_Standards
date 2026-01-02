@@ -39,17 +39,17 @@ UMLS_CUI: C1440430
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue_Cheese](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese|Blue_Cheese]] 
 
-### #is_/same_as :: [Blue_Cheese.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.public|Blue_Cheese.public]] 
 
-### #is_/same_as :: [Blue_Cheese.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.internal|Blue_Cheese.internal]] 
 
-### #is_/same_as :: [Blue_Cheese.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.protect|Blue_Cheese.protect]] 
 
-### #is_/same_as :: [Blue_Cheese.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.private|Blue_Cheese.private]] 
 
-### #is_/same_as :: [Blue_Cheese.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.personal|Blue_Cheese.personal]] 
 
-### #is_/same_as :: [Blue_Cheese.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Cheese/Blue_Cheese.secret|Blue_Cheese.secret]] 
 

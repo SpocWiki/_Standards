@@ -101,17 +101,17 @@ Wolfram_Language_entity_code: Entity["River", "Amazon::n9532"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Amazon_River](/_Standards/Earth/Continent/America~South/Amazon_River.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Amazon_River|Amazon_River]] 
 
-### #is_/same_as :: [Amazon_River.public](/_public/Earth/Continent/America~South/Amazon_River.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Amazon_River.public|Amazon_River.public]] 
 
-### #is_/same_as :: [Amazon_River.internal](/_internal/Earth/Continent/America~South/Amazon_River.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Amazon_River.internal|Amazon_River.internal]] 
 
-### #is_/same_as :: [Amazon_River.protect](/_protect/Earth/Continent/America~South/Amazon_River.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Amazon_River.protect|Amazon_River.protect]] 
 
-### #is_/same_as :: [Amazon_River.private](/_private/Earth/Continent/America~South/Amazon_River.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Amazon_River.private|Amazon_River.private]] 
 
-### #is_/same_as :: [Amazon_River.personal](/_personal/Earth/Continent/America~South/Amazon_River.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Amazon_River.personal|Amazon_River.personal]] 
 
-### #is_/same_as :: [Amazon_River.secret](/_secret/Earth/Continent/America~South/Amazon_River.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Amazon_River.secret|Amazon_River.secret]] 
 

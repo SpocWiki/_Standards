@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bild-Zeitung](/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung|Bild-Zeitung]] 
 
-### #is_/same_as :: [Bild-Zeitung.public](/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.public|Bild-Zeitung.public]] 
 
-### #is_/same_as :: [Bild-Zeitung.internal](/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.internal|Bild-Zeitung.internal]] 
 
-### #is_/same_as :: [Bild-Zeitung.protect](/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.protect|Bild-Zeitung.protect]] 
 
-### #is_/same_as :: [Bild-Zeitung.private](/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.private|Bild-Zeitung.private]] 
 
-### #is_/same_as :: [Bild-Zeitung.personal](/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.personal|Bild-Zeitung.personal]] 
 
-### #is_/same_as :: [Bild-Zeitung.secret](/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Newspaper/Axel_Springer_Verlag/Bild-Zeitung.secret|Bild-Zeitung.secret]] 
 

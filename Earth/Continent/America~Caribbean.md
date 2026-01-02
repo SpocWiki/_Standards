@@ -21,17 +21,17 @@ markerFolder: ./America~Caribbean/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [America~Caribbean](/_Standards/Earth/Continent/America~Caribbean.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean|America~Caribbean]] 
 
-### #is_/same_as :: [America~Caribbean.public](/_public/Earth/Continent/America~Caribbean.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean.public|America~Caribbean.public]] 
 
-### #is_/same_as :: [America~Caribbean.internal](/_internal/Earth/Continent/America~Caribbean.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean.internal|America~Caribbean.internal]] 
 
-### #is_/same_as :: [America~Caribbean.protect](/_protect/Earth/Continent/America~Caribbean.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean.protect|America~Caribbean.protect]] 
 
-### #is_/same_as :: [America~Caribbean.private](/_private/Earth/Continent/America~Caribbean.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean.private|America~Caribbean.private]] 
 
-### #is_/same_as :: [America~Caribbean.personal](/_personal/Earth/Continent/America~Caribbean.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean.personal|America~Caribbean.personal]] 
 
-### #is_/same_as :: [America~Caribbean.secret](/_secret/Earth/Continent/America~Caribbean.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean.secret|America~Caribbean.secret]] 
 

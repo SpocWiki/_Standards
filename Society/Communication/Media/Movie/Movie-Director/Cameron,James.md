@@ -151,17 +151,17 @@ Instagram_username: jamescameronofficial
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cameron,James](/_Standards/Society/Communication/Media/Movie/Movie-Director/Cameron,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Cameron,James|Cameron,James]] 
 
-### #is_/same_as :: [Cameron,James.public](/_public/Society/Communication/Media/Movie/Movie-Director/Cameron,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Cameron,James.public|Cameron,James.public]] 
 
-### #is_/same_as :: [Cameron,James.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Cameron,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Cameron,James.internal|Cameron,James.internal]] 
 
-### #is_/same_as :: [Cameron,James.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Cameron,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Cameron,James.protect|Cameron,James.protect]] 
 
-### #is_/same_as :: [Cameron,James.private](/_private/Society/Communication/Media/Movie/Movie-Director/Cameron,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Cameron,James.private|Cameron,James.private]] 
 
-### #is_/same_as :: [Cameron,James.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Cameron,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Cameron,James.personal|Cameron,James.personal]] 
 
-### #is_/same_as :: [Cameron,James.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Cameron,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Cameron,James.secret|Cameron,James.secret]] 
 

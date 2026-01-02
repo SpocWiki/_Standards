@@ -43,17 +43,17 @@ Medical researchers.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Researcher](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher|Medical_Researcher]] 
 
-### #is_/same_as :: [Medical_Researcher.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.public|Medical_Researcher.public]] 
 
-### #is_/same_as :: [Medical_Researcher.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.internal|Medical_Researcher.internal]] 
 
-### #is_/same_as :: [Medical_Researcher.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.protect|Medical_Researcher.protect]] 
 
-### #is_/same_as :: [Medical_Researcher.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.private|Medical_Researcher.private]] 
 
-### #is_/same_as :: [Medical_Researcher.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.personal|Medical_Researcher.personal]] 
 
-### #is_/same_as :: [Medical_Researcher.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Audience_Type/Medical_Researcher.secret|Medical_Researcher.secret]] 
 

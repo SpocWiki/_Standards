@@ -21,17 +21,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Threads(Meta)](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta)|Threads(Meta)]] 
 
-### #is_/same_as :: [Threads(Meta).public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).public|Threads(Meta).public]] 
 
-### #is_/same_as :: [Threads(Meta).internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).internal|Threads(Meta).internal]] 
 
-### #is_/same_as :: [Threads(Meta).protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).protect|Threads(Meta).protect]] 
 
-### #is_/same_as :: [Threads(Meta).private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).private|Threads(Meta).private]] 
 
-### #is_/same_as :: [Threads(Meta).personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).personal|Threads(Meta).personal]] 
 
-### #is_/same_as :: [Threads(Meta).secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Threads(Meta).secret|Threads(Meta).secret]] 
 

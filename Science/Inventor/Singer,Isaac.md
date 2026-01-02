@@ -81,17 +81,17 @@ Swedish_Open_Cultural_Heritage_URI: LSH/agents/27389
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singer,Isaac](/_Standards/Science/Inventor/Singer,Isaac.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Singer,Isaac|Singer,Isaac]] 
 
-### #is_/same_as :: [Singer,Isaac.public](/_public/Science/Inventor/Singer,Isaac.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Singer,Isaac.public|Singer,Isaac.public]] 
 
-### #is_/same_as :: [Singer,Isaac.internal](/_internal/Science/Inventor/Singer,Isaac.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Singer,Isaac.internal|Singer,Isaac.internal]] 
 
-### #is_/same_as :: [Singer,Isaac.protect](/_protect/Science/Inventor/Singer,Isaac.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Singer,Isaac.protect|Singer,Isaac.protect]] 
 
-### #is_/same_as :: [Singer,Isaac.private](/_private/Science/Inventor/Singer,Isaac.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Singer,Isaac.private|Singer,Isaac.private]] 
 
-### #is_/same_as :: [Singer,Isaac.personal](/_personal/Science/Inventor/Singer,Isaac.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Singer,Isaac.personal|Singer,Isaac.personal]] 
 
-### #is_/same_as :: [Singer,Isaac.secret](/_secret/Science/Inventor/Singer,Isaac.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Singer,Isaac.secret|Singer,Isaac.secret]] 
 

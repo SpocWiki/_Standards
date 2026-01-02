@@ -42,17 +42,17 @@ Library_of_Congress_Classification: B841.4.A-B841.4.Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Structuralism](/_Standards/Society/Social_Science/Structuralism.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Science/Structuralism|Structuralism]] 
 
-### #is_/same_as :: [Structuralism.public](/_public/Society/Social_Science/Structuralism.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Science/Structuralism.public|Structuralism.public]] 
 
-### #is_/same_as :: [Structuralism.internal](/_internal/Society/Social_Science/Structuralism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Science/Structuralism.internal|Structuralism.internal]] 
 
-### #is_/same_as :: [Structuralism.protect](/_protect/Society/Social_Science/Structuralism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Science/Structuralism.protect|Structuralism.protect]] 
 
-### #is_/same_as :: [Structuralism.private](/_private/Society/Social_Science/Structuralism.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Science/Structuralism.private|Structuralism.private]] 
 
-### #is_/same_as :: [Structuralism.personal](/_personal/Society/Social_Science/Structuralism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Science/Structuralism.personal|Structuralism.personal]] 
 
-### #is_/same_as :: [Structuralism.secret](/_secret/Society/Social_Science/Structuralism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Science/Structuralism.secret|Structuralism.secret]] 
 

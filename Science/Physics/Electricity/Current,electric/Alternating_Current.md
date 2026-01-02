@@ -34,17 +34,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alternating_Current](/_Standards/Science/Physics/Electricity/Current,electric/Alternating_Current.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Current,electric/Alternating_Current|Alternating_Current]] 
 
-### #is_/same_as :: [Alternating_Current.public](/_public/Science/Physics/Electricity/Current,electric/Alternating_Current.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Current,electric/Alternating_Current.public|Alternating_Current.public]] 
 
-### #is_/same_as :: [Alternating_Current.internal](/_internal/Science/Physics/Electricity/Current,electric/Alternating_Current.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Current,electric/Alternating_Current.internal|Alternating_Current.internal]] 
 
-### #is_/same_as :: [Alternating_Current.protect](/_protect/Science/Physics/Electricity/Current,electric/Alternating_Current.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Current,electric/Alternating_Current.protect|Alternating_Current.protect]] 
 
-### #is_/same_as :: [Alternating_Current.private](/_private/Science/Physics/Electricity/Current,electric/Alternating_Current.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Current,electric/Alternating_Current.private|Alternating_Current.private]] 
 
-### #is_/same_as :: [Alternating_Current.personal](/_personal/Science/Physics/Electricity/Current,electric/Alternating_Current.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Current,electric/Alternating_Current.personal|Alternating_Current.personal]] 
 
-### #is_/same_as :: [Alternating_Current.secret](/_secret/Science/Physics/Electricity/Current,electric/Alternating_Current.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Current,electric/Alternating_Current.secret|Alternating_Current.secret]] 
 

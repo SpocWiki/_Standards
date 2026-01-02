@@ -75,17 +75,17 @@ date_of_death: 1946-06-14T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baird,John_Logie](/_Standards/Science/Inventor/Baird,John_Logie.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Baird,John_Logie|Baird,John_Logie]] 
 
-### #is_/same_as :: [Baird,John_Logie.public](/_public/Science/Inventor/Baird,John_Logie.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Baird,John_Logie.public|Baird,John_Logie.public]] 
 
-### #is_/same_as :: [Baird,John_Logie.internal](/_internal/Science/Inventor/Baird,John_Logie.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Baird,John_Logie.internal|Baird,John_Logie.internal]] 
 
-### #is_/same_as :: [Baird,John_Logie.protect](/_protect/Science/Inventor/Baird,John_Logie.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Baird,John_Logie.protect|Baird,John_Logie.protect]] 
 
-### #is_/same_as :: [Baird,John_Logie.private](/_private/Science/Inventor/Baird,John_Logie.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Baird,John_Logie.private|Baird,John_Logie.private]] 
 
-### #is_/same_as :: [Baird,John_Logie.personal](/_personal/Science/Inventor/Baird,John_Logie.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Baird,John_Logie.personal|Baird,John_Logie.personal]] 
 
-### #is_/same_as :: [Baird,John_Logie.secret](/_secret/Science/Inventor/Baird,John_Logie.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Baird,John_Logie.secret|Baird,John_Logie.secret]] 
 

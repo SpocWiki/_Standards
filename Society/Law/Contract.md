@@ -78,17 +78,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contract](/_Standards/Society/Law/Contract.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract|Contract]] 
 
-### #is_/same_as :: [Contract.public](/_public/Society/Law/Contract.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract.public|Contract.public]] 
 
-### #is_/same_as :: [Contract.internal](/_internal/Society/Law/Contract.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract.internal|Contract.internal]] 
 
-### #is_/same_as :: [Contract.protect](/_protect/Society/Law/Contract.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract.protect|Contract.protect]] 
 
-### #is_/same_as :: [Contract.private](/_private/Society/Law/Contract.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract.private|Contract.private]] 
 
-### #is_/same_as :: [Contract.personal](/_personal/Society/Law/Contract.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract.personal|Contract.personal]] 
 
-### #is_/same_as :: [Contract.secret](/_secret/Society/Law/Contract.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract.secret|Contract.secret]] 
 

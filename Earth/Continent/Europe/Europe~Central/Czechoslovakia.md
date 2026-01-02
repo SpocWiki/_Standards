@@ -226,17 +226,17 @@ has_place_continent:: [[Europe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Czechoslovakia](/_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czechoslovakia|Czechoslovakia]] 
 
-### #is_/same_as :: [Czechoslovakia.public](/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czechoslovakia.public|Czechoslovakia.public]] 
 
-### #is_/same_as :: [Czechoslovakia.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.internal|Czechoslovakia.internal]] 
 
-### #is_/same_as :: [Czechoslovakia.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czechoslovakia.protect|Czechoslovakia.protect]] 
 
-### #is_/same_as :: [Czechoslovakia.private](/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czechoslovakia.private|Czechoslovakia.private]] 
 
-### #is_/same_as :: [Czechoslovakia.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czechoslovakia.personal|Czechoslovakia.personal]] 
 
-### #is_/same_as :: [Czechoslovakia.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czechoslovakia.secret|Czechoslovakia.secret]] 
 

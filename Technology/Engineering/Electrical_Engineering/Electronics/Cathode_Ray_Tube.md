@@ -67,17 +67,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cathode_Ray_Tube](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube|Cathode_Ray_Tube]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.public|Cathode_Ray_Tube.public]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.internal|Cathode_Ray_Tube.internal]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.protect|Cathode_Ray_Tube.protect]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.private|Cathode_Ray_Tube.private]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.personal|Cathode_Ray_Tube.personal]] 
 
-### #is_/same_as :: [Cathode_Ray_Tube.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Cathode_Ray_Tube.secret|Cathode_Ray_Tube.secret]] 
 

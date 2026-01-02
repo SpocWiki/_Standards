@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_video](/_Standards/schema-org/Relation/has/has_video.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_video|has_video]] 
 
-### #is_/same_as :: [has_video.public](/_public/schema-org/Relation/has/has_video.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_video.public|has_video.public]] 
 
-### #is_/same_as :: [has_video.internal](/_internal/schema-org/Relation/has/has_video.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_video.internal|has_video.internal]] 
 
-### #is_/same_as :: [has_video.protect](/_protect/schema-org/Relation/has/has_video.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_video.protect|has_video.protect]] 
 
-### #is_/same_as :: [has_video.private](/_private/schema-org/Relation/has/has_video.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_video.private|has_video.private]] 
 
-### #is_/same_as :: [has_video.personal](/_personal/schema-org/Relation/has/has_video.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_video.personal|has_video.personal]] 
 
-### #is_/same_as :: [has_video.secret](/_secret/schema-org/Relation/has/has_video.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_video.secret|has_video.secret]] 
 

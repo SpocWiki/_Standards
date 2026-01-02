@@ -145,17 +145,17 @@ and they have faster switching speed (ideal for digital signals).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Transistor](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor|Transistor]] 
 
-### #is_/same_as :: [Transistor.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.public|Transistor.public]] 
 
-### #is_/same_as :: [Transistor.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.internal|Transistor.internal]] 
 
-### #is_/same_as :: [Transistor.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.protect|Transistor.protect]] 
 
-### #is_/same_as :: [Transistor.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.private|Transistor.private]] 
 
-### #is_/same_as :: [Transistor.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.personal|Transistor.personal]] 
 
-### #is_/same_as :: [Transistor.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor.secret|Transistor.secret]] 
 

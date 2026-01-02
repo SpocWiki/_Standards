@@ -44,17 +44,17 @@ Commons_category: Biomes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biomes](/_Standards/Earth/Climate/Biosphere/Biomes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Biosphere/Biome|Biome]] 
 
-### #is_/same_as :: [Biomes.public](/_public/Earth/Climate/Biosphere/Biomes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Biosphere/Biome.public|Biome.public]] 
 
-### #is_/same_as :: [Biomes.internal](/_internal/Earth/Climate/Biosphere/Biomes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Biosphere/Biome.internal|Biome.internal]] 
 
-### #is_/same_as :: [Biomes.protect](/_protect/Earth/Climate/Biosphere/Biomes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Biosphere/Biome.protect|Biome.protect]] 
 
-### #is_/same_as :: [Biomes.private](/_private/Earth/Climate/Biosphere/Biomes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Biosphere/Biome.private|Biome.private]] 
 
-### #is_/same_as :: [Biomes.personal](/_personal/Earth/Climate/Biosphere/Biomes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Biosphere/Biome.personal|Biome.personal]] 
 
-### #is_/same_as :: [Biomes.secret](/_secret/Earth/Climate/Biosphere/Biomes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Biosphere/Biome.secret|Biome.secret]] 
 

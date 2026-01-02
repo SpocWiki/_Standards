@@ -46,17 +46,17 @@ time_of_discovery_or_invention: 1996-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copernicium](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium|Copernicium]] 
 
-### #is_/same_as :: [Copernicium.public](/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.public|Copernicium.public]] 
 
-### #is_/same_as :: [Copernicium.internal](/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.internal|Copernicium.internal]] 
 
-### #is_/same_as :: [Copernicium.protect](/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.protect|Copernicium.protect]] 
 
-### #is_/same_as :: [Copernicium.private](/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.private|Copernicium.private]] 
 
-### #is_/same_as :: [Copernicium.personal](/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.personal|Copernicium.personal]] 
 
-### #is_/same_as :: [Copernicium.secret](/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Copernicium.secret|Copernicium.secret]] 
 

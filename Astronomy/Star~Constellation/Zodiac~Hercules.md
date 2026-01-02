@@ -82,17 +82,17 @@ short_name: Her
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Hercules](/_Standards/Astronomy/Star~Constellation/Zodiac~Hercules.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Hercules|Zodiac~Hercules]] 
 
-### #is_/same_as :: [Zodiac~Hercules.public](/_public/Astronomy/Star~Constellation/Zodiac~Hercules.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Hercules.public|Zodiac~Hercules.public]] 
 
-### #is_/same_as :: [Zodiac~Hercules.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Hercules.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Hercules.internal|Zodiac~Hercules.internal]] 
 
-### #is_/same_as :: [Zodiac~Hercules.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Hercules.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Hercules.protect|Zodiac~Hercules.protect]] 
 
-### #is_/same_as :: [Zodiac~Hercules.private](/_private/Astronomy/Star~Constellation/Zodiac~Hercules.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Hercules.private|Zodiac~Hercules.private]] 
 
-### #is_/same_as :: [Zodiac~Hercules.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Hercules.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Hercules.personal|Zodiac~Hercules.personal]] 
 
-### #is_/same_as :: [Zodiac~Hercules.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Hercules.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Hercules.secret|Zodiac~Hercules.secret]] 
 

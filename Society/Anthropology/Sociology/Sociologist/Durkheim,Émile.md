@@ -116,17 +116,17 @@ ISNI: 0000000121339861
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Durkheim,Émile](/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile|Durkheim,Émile]] 
 
-### #is_/same_as :: [Durkheim,Émile.public](/_public/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.public|Durkheim,Émile.public]] 
 
-### #is_/same_as :: [Durkheim,Émile.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.internal|Durkheim,Émile.internal]] 
 
-### #is_/same_as :: [Durkheim,Émile.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.protect|Durkheim,Émile.protect]] 
 
-### #is_/same_as :: [Durkheim,Émile.private](/_private/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.private|Durkheim,Émile.private]] 
 
-### #is_/same_as :: [Durkheim,Émile.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.personal|Durkheim,Émile.personal]] 
 
-### #is_/same_as :: [Durkheim,Émile.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Durkheim,Émile.secret|Durkheim,Émile.secret]] 
 

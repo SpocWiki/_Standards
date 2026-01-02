@@ -66,17 +66,17 @@ DFG_Science_Classification: 102-04
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Science](/_Standards/Science/History_of_Science.md) 
+### #is_/same_as :: [[/_Standards/Science/History_of_Science|History_of_Science]] 
 
-### #is_/same_as :: [History_of_Science.public](/_public/Science/History_of_Science.public.md) 
+### #is_/same_as :: [[/_public/Science/History_of_Science.public|History_of_Science.public]] 
 
-### #is_/same_as :: [History_of_Science.internal](/_internal/Science/History_of_Science.internal.md) 
+### #is_/same_as :: [[/_internal/Science/History_of_Science.internal|History_of_Science.internal]] 
 
-### #is_/same_as :: [History_of_Science.protect](/_protect/Science/History_of_Science.protect.md) 
+### #is_/same_as :: [[/_protect/Science/History_of_Science.protect|History_of_Science.protect]] 
 
-### #is_/same_as :: [History_of_Science.private](/_private/Science/History_of_Science.private.md) 
+### #is_/same_as :: [[/_private/Science/History_of_Science.private|History_of_Science.private]] 
 
-### #is_/same_as :: [History_of_Science.personal](/_personal/Science/History_of_Science.personal.md) 
+### #is_/same_as :: [[/_personal/Science/History_of_Science.personal|History_of_Science.personal]] 
 
-### #is_/same_as :: [History_of_Science.secret](/_secret/Science/History_of_Science.secret.md)
+### #is_/same_as :: [[/_secret/Science/History_of_Science.secret|History_of_Science.secret]] 
 

@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_calories](/_Standards/schema-org/Relation/has/has_calories.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_calories|has_calories]] 
 
-### #is_/same_as :: [has_calories.public](/_public/schema-org/Relation/has/has_calories.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_calories.public|has_calories.public]] 
 
-### #is_/same_as :: [has_calories.internal](/_internal/schema-org/Relation/has/has_calories.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_calories.internal|has_calories.internal]] 
 
-### #is_/same_as :: [has_calories.protect](/_protect/schema-org/Relation/has/has_calories.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_calories.protect|has_calories.protect]] 
 
-### #is_/same_as :: [has_calories.private](/_private/schema-org/Relation/has/has_calories.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_calories.private|has_calories.private]] 
 
-### #is_/same_as :: [has_calories.personal](/_personal/schema-org/Relation/has/has_calories.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_calories.personal|has_calories.personal]] 
 
-### #is_/same_as :: [has_calories.secret](/_secret/schema-org/Relation/has/has_calories.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_calories.secret|has_calories.secret]] 
 

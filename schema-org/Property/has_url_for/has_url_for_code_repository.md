@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_code_repository](/_Standards/schema-org/Property/has_url_for/has_url_for_code_repository.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_code_repository|has_url_for_code_repository]] 
 
-### #is_/same_as :: [has_url_for_code_repository.public](/_public/schema-org/Property/has_url_for/has_url_for_code_repository.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_code_repository.public|has_url_for_code_repository.public]] 
 
-### #is_/same_as :: [has_url_for_code_repository.internal](/_internal/schema-org/Property/has_url_for/has_url_for_code_repository.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_code_repository.internal|has_url_for_code_repository.internal]] 
 
-### #is_/same_as :: [has_url_for_code_repository.protect](/_protect/schema-org/Property/has_url_for/has_url_for_code_repository.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_code_repository.protect|has_url_for_code_repository.protect]] 
 
-### #is_/same_as :: [has_url_for_code_repository.private](/_private/schema-org/Property/has_url_for/has_url_for_code_repository.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_code_repository.private|has_url_for_code_repository.private]] 
 
-### #is_/same_as :: [has_url_for_code_repository.personal](/_personal/schema-org/Property/has_url_for/has_url_for_code_repository.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_code_repository.personal|has_url_for_code_repository.personal]] 
 
-### #is_/same_as :: [has_url_for_code_repository.secret](/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_code_repository.secret|has_url_for_code_repository.secret]] 
 

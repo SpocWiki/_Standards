@@ -32,17 +32,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Discord](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord|Discord]] 
 
-### #is_/same_as :: [Discord.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.public|Discord.public]] 
 
-### #is_/same_as :: [Discord.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.internal|Discord.internal]] 
 
-### #is_/same_as :: [Discord.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.protect|Discord.protect]] 
 
-### #is_/same_as :: [Discord.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.private|Discord.private]] 
 
-### #is_/same_as :: [Discord.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.personal|Discord.personal]] 
 
-### #is_/same_as :: [Discord.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Discord.secret|Discord.secret]] 
 

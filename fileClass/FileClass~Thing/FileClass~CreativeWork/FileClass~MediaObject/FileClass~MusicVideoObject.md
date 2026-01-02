@@ -37,17 +37,17 @@ A music video file.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MusicVideoObject](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject|FileClass~MusicVideoObject]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.public|FileClass~MusicVideoObject.public]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.internal|FileClass~MusicVideoObject.internal]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.protect|FileClass~MusicVideoObject.protect]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.private|FileClass~MusicVideoObject.private]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.personal|FileClass~MusicVideoObject.personal]] 
 
-### #is_/same_as :: [FileClass~MusicVideoObject.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~MusicVideoObject.secret|FileClass~MusicVideoObject.secret]] 
 

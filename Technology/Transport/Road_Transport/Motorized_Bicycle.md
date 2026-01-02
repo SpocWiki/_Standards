@@ -43,17 +43,17 @@ A motorized bicycle is a bicycle with an attached motor used to power the vehicl
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motorized_Bicycle](/_Standards/Technology/Transport/Road_Transport/Motorized_Bicycle.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Motorized_Bicycle|Motorized_Bicycle]] 
 
-### #is_/same_as :: [Motorized_Bicycle.public](/_public/Technology/Transport/Road_Transport/Motorized_Bicycle.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Motorized_Bicycle.public|Motorized_Bicycle.public]] 
 
-### #is_/same_as :: [Motorized_Bicycle.internal](/_internal/Technology/Transport/Road_Transport/Motorized_Bicycle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Motorized_Bicycle.internal|Motorized_Bicycle.internal]] 
 
-### #is_/same_as :: [Motorized_Bicycle.protect](/_protect/Technology/Transport/Road_Transport/Motorized_Bicycle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Motorized_Bicycle.protect|Motorized_Bicycle.protect]] 
 
-### #is_/same_as :: [Motorized_Bicycle.private](/_private/Technology/Transport/Road_Transport/Motorized_Bicycle.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Motorized_Bicycle.private|Motorized_Bicycle.private]] 
 
-### #is_/same_as :: [Motorized_Bicycle.personal](/_personal/Technology/Transport/Road_Transport/Motorized_Bicycle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Motorized_Bicycle.personal|Motorized_Bicycle.personal]] 
 
-### #is_/same_as :: [Motorized_Bicycle.secret](/_secret/Technology/Transport/Road_Transport/Motorized_Bicycle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Motorized_Bicycle.secret|Motorized_Bicycle.secret]] 
 

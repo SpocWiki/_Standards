@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/RTG%20radiation%20meas
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuclear_Engineering](/_Standards/Technology/Engineering/Nuclear_Engineering.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Nuclear_Engineering|Nuclear_Engineering]] 
 
-### #is_/same_as :: [Nuclear_Engineering.public](/_public/Technology/Engineering/Nuclear_Engineering.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Nuclear_Engineering.public|Nuclear_Engineering.public]] 
 
-### #is_/same_as :: [Nuclear_Engineering.internal](/_internal/Technology/Engineering/Nuclear_Engineering.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Nuclear_Engineering.internal|Nuclear_Engineering.internal]] 
 
-### #is_/same_as :: [Nuclear_Engineering.protect](/_protect/Technology/Engineering/Nuclear_Engineering.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Nuclear_Engineering.protect|Nuclear_Engineering.protect]] 
 
-### #is_/same_as :: [Nuclear_Engineering.private](/_private/Technology/Engineering/Nuclear_Engineering.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Nuclear_Engineering.private|Nuclear_Engineering.private]] 
 
-### #is_/same_as :: [Nuclear_Engineering.personal](/_personal/Technology/Engineering/Nuclear_Engineering.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Nuclear_Engineering.personal|Nuclear_Engineering.personal]] 
 
-### #is_/same_as :: [Nuclear_Engineering.secret](/_secret/Technology/Engineering/Nuclear_Engineering.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Nuclear_Engineering.secret|Nuclear_Engineering.secret]] 
 

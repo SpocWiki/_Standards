@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: 511.3
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems|Gödel's_Incompleteness_Theorems]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.public|Gödel's_Incompleteness_Theorems.public]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.internal|Gödel's_Incompleteness_Theorems.internal]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.protect|Gödel's_Incompleteness_Theorems.protect]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.private|Gödel's_Incompleteness_Theorems.private]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.personal|Gödel's_Incompleteness_Theorems.personal]] 
 
-### #is_/same_as :: [Gödel's_Incompleteness_Theorems.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Gödel,Kurt/Gödel's_Incompleteness_Theorems.secret|Gödel's_Incompleteness_Theorems.secret]] 
 

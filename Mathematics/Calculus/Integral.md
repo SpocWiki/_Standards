@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Integral](/_Standards/Mathematics/Calculus/Integral.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Integral|Integral]] 
 
-### #is_/same_as :: [Integral.public](/_public/Mathematics/Calculus/Integral.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Integral.public|Integral.public]] 
 
-### #is_/same_as :: [Integral.internal](/_internal/Mathematics/Calculus/Integral.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Integral.internal|Integral.internal]] 
 
-### #is_/same_as :: [Integral.protect](/_protect/Mathematics/Calculus/Integral.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Integral.protect|Integral.protect]] 
 
-### #is_/same_as :: [Integral.private](/_private/Mathematics/Calculus/Integral.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Integral.private|Integral.private]] 
 
-### #is_/same_as :: [Integral.personal](/_personal/Mathematics/Calculus/Integral.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Integral.personal|Integral.personal]] 
 
-### #is_/same_as :: [Integral.secret](/_secret/Mathematics/Calculus/Integral.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Integral.secret|Integral.secret]] 
 

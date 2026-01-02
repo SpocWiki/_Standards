@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_bio_chem_interacting_with](/_Standards/schema-org/Relation/is/is_bio_chem_interacting_with.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_bio_chem_interacting_with|is_bio_chem_interacting_with]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.public](/_public/schema-org/Relation/is/is_bio_chem_interacting_with.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_bio_chem_interacting_with.public|is_bio_chem_interacting_with.public]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.internal](/_internal/schema-org/Relation/is/is_bio_chem_interacting_with.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_bio_chem_interacting_with.internal|is_bio_chem_interacting_with.internal]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.protect](/_protect/schema-org/Relation/is/is_bio_chem_interacting_with.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_bio_chem_interacting_with.protect|is_bio_chem_interacting_with.protect]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.private](/_private/schema-org/Relation/is/is_bio_chem_interacting_with.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_bio_chem_interacting_with.private|is_bio_chem_interacting_with.private]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.personal](/_personal/schema-org/Relation/is/is_bio_chem_interacting_with.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_bio_chem_interacting_with.personal|is_bio_chem_interacting_with.personal]] 
 
-### #is_/same_as :: [is_bio_chem_interacting_with.secret](/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_bio_chem_interacting_with.secret|is_bio_chem_interacting_with.secret]] 
 

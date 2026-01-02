@@ -60,17 +60,17 @@ Commons_category: Human sexuality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Sexuality](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality|Human_Sexuality]] 
 
-### #is_/same_as :: [Human_Sexuality.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.public|Human_Sexuality.public]] 
 
-### #is_/same_as :: [Human_Sexuality.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.internal|Human_Sexuality.internal]] 
 
-### #is_/same_as :: [Human_Sexuality.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.protect|Human_Sexuality.protect]] 
 
-### #is_/same_as :: [Human_Sexuality.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.private|Human_Sexuality.private]] 
 
-### #is_/same_as :: [Human_Sexuality.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.personal|Human_Sexuality.personal]] 
 
-### #is_/same_as :: [Human_Sexuality.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Human_Sexuality.secret|Human_Sexuality.secret]] 
 

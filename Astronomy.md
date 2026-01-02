@@ -97,17 +97,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/astronomy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomy](/_Standards/Astronomy.md) 
+### #is_/same_as :: [[/_Standards/Astronomy|Astronomy]] 
 
-### #is_/same_as :: [Astronomy.public](/_public/Astronomy.public.md) 
+### #is_/same_as :: [[/_public/Astronomy.public|Astronomy.public]] 
 
-### #is_/same_as :: [Astronomy.internal](/_internal/Astronomy.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy.internal|Astronomy.internal]] 
 
-### #is_/same_as :: [Astronomy.protect](/_protect/Astronomy.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy.protect|Astronomy.protect]] 
 
-### #is_/same_as :: [Astronomy.private](/_private/Astronomy.private.md) 
+### #is_/same_as :: [[/_private/Astronomy.private|Astronomy.private]] 
 
-### #is_/same_as :: [Astronomy.personal](/_personal/Astronomy.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy.personal|Astronomy.personal]] 
 
-### #is_/same_as :: [Astronomy.secret](/_secret/Astronomy.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy.secret|Astronomy.secret]] 
 

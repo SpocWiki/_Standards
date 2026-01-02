@@ -42,17 +42,17 @@ The steering position is on the right side of the vehicle (viewed from the main 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Right_Hand_Driving](/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving|Right_Hand_Driving]] 
 
-### #is_/same_as :: [Right_Hand_Driving.public](/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.public|Right_Hand_Driving.public]] 
 
-### #is_/same_as :: [Right_Hand_Driving.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.internal|Right_Hand_Driving.internal]] 
 
-### #is_/same_as :: [Right_Hand_Driving.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.protect|Right_Hand_Driving.protect]] 
 
-### #is_/same_as :: [Right_Hand_Driving.private](/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.private|Right_Hand_Driving.private]] 
 
-### #is_/same_as :: [Right_Hand_Driving.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.personal|Right_Hand_Driving.personal]] 
 
-### #is_/same_as :: [Right_Hand_Driving.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Steering_Position_Value/Right_Hand_Driving.secret|Right_Hand_Driving.secret]] 
 

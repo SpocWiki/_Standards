@@ -36,17 +36,17 @@ Capital :: [[Hanoe]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM](/_Standards/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM|DEMOCRATIC_REPUBLIC_OF_VIETNAM]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.public](/_public/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.public|DEMOCRATIC_REPUBLIC_OF_VIETNAM.public]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal](/_internal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.internal]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect](/_protect/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect|DEMOCRATIC_REPUBLIC_OF_VIETNAM.protect]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.private](/_private/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.private|DEMOCRATIC_REPUBLIC_OF_VIETNAM.private]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal](/_personal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal|DEMOCRATIC_REPUBLIC_OF_VIETNAM.personal]] 
 
-### #is_/same_as :: [DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret](/_secret/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret|DEMOCRATIC_REPUBLIC_OF_VIETNAM.secret]] 
 

@@ -42,17 +42,17 @@ An item used as either a tool or supply when performing the instructions for how
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [how_to_item](/_Standards/schema-org/Collection/list_item/how_to_item.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Collection/list_item/how_to_item|how_to_item]] 
 
-### #is_/same_as :: [how_to_item.public](/_public/schema-org/Collection/list_item/how_to_item.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Collection/list_item/how_to_item.public|how_to_item.public]] 
 
-### #is_/same_as :: [how_to_item.internal](/_internal/schema-org/Collection/list_item/how_to_item.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Collection/list_item/how_to_item.internal|how_to_item.internal]] 
 
-### #is_/same_as :: [how_to_item.protect](/_protect/schema-org/Collection/list_item/how_to_item.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Collection/list_item/how_to_item.protect|how_to_item.protect]] 
 
-### #is_/same_as :: [how_to_item.private](/_private/schema-org/Collection/list_item/how_to_item.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Collection/list_item/how_to_item.private|how_to_item.private]] 
 
-### #is_/same_as :: [how_to_item.personal](/_personal/schema-org/Collection/list_item/how_to_item.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Collection/list_item/how_to_item.personal|how_to_item.personal]] 
 
-### #is_/same_as :: [how_to_item.secret](/_secret/schema-org/Collection/list_item/how_to_item.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Collection/list_item/how_to_item.secret|how_to_item.secret]] 
 

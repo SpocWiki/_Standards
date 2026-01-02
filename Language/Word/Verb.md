@@ -78,17 +78,17 @@ Commons_category: Verbs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Verb](/_Standards/Language/Word/Verb.md) 
+### #is_/same_as :: [[/_Standards/Language/Word/Verb|Verb]] 
 
-### #is_/same_as :: [Verb.public](/_public/Language/Word/Verb.public.md) 
+### #is_/same_as :: [[/_public/Language/Word/Verb.public|Verb.public]] 
 
-### #is_/same_as :: [Verb.internal](/_internal/Language/Word/Verb.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Word/Verb.internal|Verb.internal]] 
 
-### #is_/same_as :: [Verb.protect](/_protect/Language/Word/Verb.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Word/Verb.protect|Verb.protect]] 
 
-### #is_/same_as :: [Verb.private](/_private/Language/Word/Verb.private.md) 
+### #is_/same_as :: [[/_private/Language/Word/Verb.private|Verb.private]] 
 
-### #is_/same_as :: [Verb.personal](/_personal/Language/Word/Verb.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Word/Verb.personal|Verb.personal]] 
 
-### #is_/same_as :: [Verb.secret](/_secret/Language/Word/Verb.secret.md)
+### #is_/same_as :: [[/_secret/Language/Word/Verb.secret|Verb.secret]] 
 

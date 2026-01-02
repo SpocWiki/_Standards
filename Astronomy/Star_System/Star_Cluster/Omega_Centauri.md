@@ -56,17 +56,17 @@ Commons_category: NGC 5139
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Omega_Centauri](/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri|Omega_Centauri]] 
 
-### #is_/same_as :: [Omega_Centauri.public](/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public|Omega_Centauri.public]] 
 
-### #is_/same_as :: [Omega_Centauri.internal](/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal|Omega_Centauri.internal]] 
 
-### #is_/same_as :: [Omega_Centauri.protect](/_protect/Astronomy/Star_System/Star_Cluster/Omega_Centauri.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Star_Cluster/Omega_Centauri.protect|Omega_Centauri.protect]] 
 
-### #is_/same_as :: [Omega_Centauri.private](/_private/Astronomy/Star_System/Star_Cluster/Omega_Centauri.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Star_Cluster/Omega_Centauri.private|Omega_Centauri.private]] 
 
-### #is_/same_as :: [Omega_Centauri.personal](/_personal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.personal|Omega_Centauri.personal]] 
 
-### #is_/same_as :: [Omega_Centauri.secret](/_secret/Astronomy/Star_System/Star_Cluster/Omega_Centauri.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Star_Cluster/Omega_Centauri.secret|Omega_Centauri.secret]] 
 

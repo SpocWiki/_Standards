@@ -57,17 +57,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q25269 p:P2370/psn:P2370 [wikibase:quantity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joule](/_Standards/Dimension/Energy/Joule.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Joule|Joule]] 
 
-### #is_/same_as :: [Joule.public](/_public/Dimension/Energy/Joule.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Joule.public|Joule.public]] 
 
-### #is_/same_as :: [Joule.internal](/_internal/Dimension/Energy/Joule.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Joule.internal|Joule.internal]] 
 
-### #is_/same_as :: [Joule.protect](/_protect/Dimension/Energy/Joule.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Joule.protect|Joule.protect]] 
 
-### #is_/same_as :: [Joule.private](/_private/Dimension/Energy/Joule.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Joule.private|Joule.private]] 
 
-### #is_/same_as :: [Joule.personal](/_personal/Dimension/Energy/Joule.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Joule.personal|Joule.personal]] 
 
-### #is_/same_as :: [Joule.secret](/_secret/Dimension/Energy/Joule.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Joule.secret|Joule.secret]] 
 

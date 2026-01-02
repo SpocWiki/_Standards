@@ -115,17 +115,17 @@ Unit :: #Unit/SI/m
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Meter](/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter|Unit~Meter]] 
 
-### #is_/same_as :: [Unit~Meter.public](/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.public|Unit~Meter.public]] 
 
-### #is_/same_as :: [Unit~Meter.internal](/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.internal|Unit~Meter.internal]] 
 
-### #is_/same_as :: [Unit~Meter.protect](/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.protect|Unit~Meter.protect]] 
 
-### #is_/same_as :: [Unit~Meter.private](/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.private|Unit~Meter.private]] 
 
-### #is_/same_as :: [Unit~Meter.personal](/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.personal|Unit~Meter.personal]] 
 
-### #is_/same_as :: [Unit~Meter.secret](/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/SI-Unit/Unit~Meter.secret|Unit~Meter.secret]] 
 

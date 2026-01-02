@@ -40,17 +40,17 @@ Commons_category: Public law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Law](/_Standards/Society/Law/Public_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Public_Law|Public_Law]] 
 
-### #is_/same_as :: [Public_Law.public](/_public/Society/Law/Public_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Public_Law.public|Public_Law.public]] 
 
-### #is_/same_as :: [Public_Law.internal](/_internal/Society/Law/Public_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Public_Law.internal|Public_Law.internal]] 
 
-### #is_/same_as :: [Public_Law.protect](/_protect/Society/Law/Public_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Public_Law.protect|Public_Law.protect]] 
 
-### #is_/same_as :: [Public_Law.private](/_private/Society/Law/Public_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Public_Law.private|Public_Law.private]] 
 
-### #is_/same_as :: [Public_Law.personal](/_personal/Society/Law/Public_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Public_Law.personal|Public_Law.personal]] 
 
-### #is_/same_as :: [Public_Law.secret](/_secret/Society/Law/Public_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Public_Law.secret|Public_Law.secret]] 
 

@@ -93,17 +93,17 @@ Wikidata_usage_instructions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [President](/_Standards/Society/Politics/Government/Republic/President.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Republic/President|President]] 
 
-### #is_/same_as :: [President.public](/_public/Society/Politics/Government/Republic/President.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Republic/President.public|President.public]] 
 
-### #is_/same_as :: [President.internal](/_internal/Society/Politics/Government/Republic/President.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Republic/President.internal|President.internal]] 
 
-### #is_/same_as :: [President.protect](/_protect/Society/Politics/Government/Republic/President.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Republic/President.protect|President.protect]] 
 
-### #is_/same_as :: [President.private](/_private/Society/Politics/Government/Republic/President.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Republic/President.private|President.private]] 
 
-### #is_/same_as :: [President.personal](/_personal/Society/Politics/Government/Republic/President.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Republic/President.personal|President.personal]] 
 
-### #is_/same_as :: [President.secret](/_secret/Society/Politics/Government/Republic/President.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Republic/President.secret|President.secret]] 
 

@@ -91,17 +91,17 @@ IPTC_NewsCode: mediatopic/20000415
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Student](/_Standards/Society/Culture/Education/Student.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Tertiary_Education/Student|Student]] 
 
-### #is_/same_as :: [Student.public](/_public/Society/Culture/Education/Student.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Tertiary_Education/Student.public|Student.public]] 
 
-### #is_/same_as :: [Student.internal](/_internal/Society/Culture/Education/Student.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Tertiary_Education/Student.internal|Student.internal]] 
 
-### #is_/same_as :: [Student.protect](/_protect/Society/Culture/Education/Student.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Tertiary_Education/Student.protect|Student.protect]] 
 
-### #is_/same_as :: [Student.private](/_private/Society/Culture/Education/Student.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Tertiary_Education/Student.private|Student.private]] 
 
-### #is_/same_as :: [Student.personal](/_personal/Society/Culture/Education/Student.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Tertiary_Education/Student.personal|Student.personal]] 
 
-### #is_/same_as :: [Student.secret](/_secret/Society/Culture/Education/Student.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Tertiary_Education/Student.secret|Student.secret]] 
 

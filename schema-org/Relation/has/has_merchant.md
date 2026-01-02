@@ -39,17 +39,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_merchant](/_Standards/schema-org/Relation/has/has_merchant.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_merchant|has_merchant]] 
 
-### #is_/same_as :: [has_merchant.public](/_public/schema-org/Relation/has/has_merchant.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_merchant.public|has_merchant.public]] 
 
-### #is_/same_as :: [has_merchant.internal](/_internal/schema-org/Relation/has/has_merchant.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_merchant.internal|has_merchant.internal]] 
 
-### #is_/same_as :: [has_merchant.protect](/_protect/schema-org/Relation/has/has_merchant.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_merchant.protect|has_merchant.protect]] 
 
-### #is_/same_as :: [has_merchant.private](/_private/schema-org/Relation/has/has_merchant.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_merchant.private|has_merchant.private]] 
 
-### #is_/same_as :: [has_merchant.personal](/_personal/schema-org/Relation/has/has_merchant.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_merchant.personal|has_merchant.personal]] 
 
-### #is_/same_as :: [has_merchant.secret](/_secret/schema-org/Relation/has/has_merchant.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_merchant.secret|has_merchant.secret]] 
 

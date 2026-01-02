@@ -37,17 +37,17 @@ opposite_of: "[[_Standards/WikiData/WD~applied_mathematics,33521]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pure_Mathematics](/_Standards/Mathematics/Pure_Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Pure_Mathematics|Pure_Mathematics]] 
 
-### #is_/same_as :: [Pure_Mathematics.public](/_public/Mathematics/Pure_Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Pure_Mathematics.public|Pure_Mathematics.public]] 
 
-### #is_/same_as :: [Pure_Mathematics.internal](/_internal/Mathematics/Pure_Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Pure_Mathematics.internal|Pure_Mathematics.internal]] 
 
-### #is_/same_as :: [Pure_Mathematics.protect](/_protect/Mathematics/Pure_Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Pure_Mathematics.protect|Pure_Mathematics.protect]] 
 
-### #is_/same_as :: [Pure_Mathematics.private](/_private/Mathematics/Pure_Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Pure_Mathematics.private|Pure_Mathematics.private]] 
 
-### #is_/same_as :: [Pure_Mathematics.personal](/_personal/Mathematics/Pure_Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Pure_Mathematics.personal|Pure_Mathematics.personal]] 
 
-### #is_/same_as :: [Pure_Mathematics.secret](/_secret/Mathematics/Pure_Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Pure_Mathematics.secret|Pure_Mathematics.secret]] 
 

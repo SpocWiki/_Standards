@@ -111,17 +111,17 @@ official_website: https://www.oclc.org/en/dewey.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dewey_Decimal_Classification](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification|Dewey_Decimal_Classification]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.public|Dewey_Decimal_Classification.public]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.internal|Dewey_Decimal_Classification.internal]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.protect|Dewey_Decimal_Classification.protect]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.private|Dewey_Decimal_Classification.private]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.personal|Dewey_Decimal_Classification.personal]] 
 
-### #is_/same_as :: [Dewey_Decimal_Classification.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Library/Dewey_Decimal_Classification.secret|Dewey_Decimal_Classification.secret]] 
 

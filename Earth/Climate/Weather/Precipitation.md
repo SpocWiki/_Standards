@@ -51,17 +51,17 @@ Commons_category: Precipitation (weather)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Precipitation](/_Standards/Earth/Climate/Weather/Precipitation.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Weather/Precipitation|Precipitation]] 
 
-### #is_/same_as :: [Precipitation.public](/_public/Earth/Climate/Weather/Precipitation.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Weather/Precipitation.public|Precipitation.public]] 
 
-### #is_/same_as :: [Precipitation.internal](/_internal/Earth/Climate/Weather/Precipitation.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Weather/Precipitation.internal|Precipitation.internal]] 
 
-### #is_/same_as :: [Precipitation.protect](/_protect/Earth/Climate/Weather/Precipitation.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Weather/Precipitation.protect|Precipitation.protect]] 
 
-### #is_/same_as :: [Precipitation.private](/_private/Earth/Climate/Weather/Precipitation.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Weather/Precipitation.private|Precipitation.private]] 
 
-### #is_/same_as :: [Precipitation.personal](/_personal/Earth/Climate/Weather/Precipitation.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Weather/Precipitation.personal|Precipitation.personal]] 
 
-### #is_/same_as :: [Precipitation.secret](/_secret/Earth/Climate/Weather/Precipitation.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Weather/Precipitation.secret|Precipitation.secret]] 
 

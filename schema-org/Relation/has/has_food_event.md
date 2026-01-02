@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_food_event](/_Standards/schema-org/Relation/has/has_food_event.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_food_event|has_food_event]] 
 
-### #is_/same_as :: [has_food_event.public](/_public/schema-org/Relation/has/has_food_event.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_food_event.public|has_food_event.public]] 
 
-### #is_/same_as :: [has_food_event.internal](/_internal/schema-org/Relation/has/has_food_event.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_food_event.internal|has_food_event.internal]] 
 
-### #is_/same_as :: [has_food_event.protect](/_protect/schema-org/Relation/has/has_food_event.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_food_event.protect|has_food_event.protect]] 
 
-### #is_/same_as :: [has_food_event.private](/_private/schema-org/Relation/has/has_food_event.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_food_event.private|has_food_event.private]] 
 
-### #is_/same_as :: [has_food_event.personal](/_personal/schema-org/Relation/has/has_food_event.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_food_event.personal|has_food_event.personal]] 
 
-### #is_/same_as :: [has_food_event.secret](/_secret/schema-org/Relation/has/has_food_event.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_food_event.secret|has_food_event.secret]] 
 

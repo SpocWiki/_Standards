@@ -64,17 +64,17 @@ The SI-Unit is [[Torque/Unit~NewtonMeter]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torque](/_Standards/Dimension/Linear_Dimension/Torque.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Torque|Torque]] 
 
-### #is_/same_as :: [Torque.public](/_public/Dimension/Linear_Dimension/Torque.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Torque.public|Torque.public]] 
 
-### #is_/same_as :: [Torque.internal](/_internal/Dimension/Linear_Dimension/Torque.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Torque.internal|Torque.internal]] 
 
-### #is_/same_as :: [Torque.protect](/_protect/Dimension/Linear_Dimension/Torque.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Torque.protect|Torque.protect]] 
 
-### #is_/same_as :: [Torque.private](/_private/Dimension/Linear_Dimension/Torque.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Torque.private|Torque.private]] 
 
-### #is_/same_as :: [Torque.personal](/_personal/Dimension/Linear_Dimension/Torque.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Torque.personal|Torque.personal]] 
 
-### #is_/same_as :: [Torque.secret](/_secret/Dimension/Linear_Dimension/Torque.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Torque.secret|Torque.secret]] 
 

@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_availability](/_Standards/schema-org/Relation/has/has_availability.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_availability|has_availability]] 
 
-### #is_/same_as :: [has_availability.public](/_public/schema-org/Relation/has/has_availability.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_availability.public|has_availability.public]] 
 
-### #is_/same_as :: [has_availability.internal](/_internal/schema-org/Relation/has/has_availability.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_availability.internal|has_availability.internal]] 
 
-### #is_/same_as :: [has_availability.protect](/_protect/schema-org/Relation/has/has_availability.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_availability.protect|has_availability.protect]] 
 
-### #is_/same_as :: [has_availability.private](/_private/schema-org/Relation/has/has_availability.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_availability.private|has_availability.private]] 
 
-### #is_/same_as :: [has_availability.personal](/_personal/schema-org/Relation/has/has_availability.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_availability.personal|has_availability.personal]] 
 
-### #is_/same_as :: [has_availability.secret](/_secret/schema-org/Relation/has/has_availability.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_availability.secret|has_availability.secret]] 
 

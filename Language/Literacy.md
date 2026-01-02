@@ -46,17 +46,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Literacy::6z454"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Literacy](/_Standards/Language/Literacy.md) 
+### #is_/same_as :: [[/_Standards/Language/Literacy|Literacy]] 
 
-### #is_/same_as :: [Literacy.public](/_public/Language/Literacy.public.md) 
+### #is_/same_as :: [[/_public/Language/Literacy.public|Literacy.public]] 
 
-### #is_/same_as :: [Literacy.internal](/_internal/Language/Literacy.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Literacy.internal|Literacy.internal]] 
 
-### #is_/same_as :: [Literacy.protect](/_protect/Language/Literacy.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Literacy.protect|Literacy.protect]] 
 
-### #is_/same_as :: [Literacy.private](/_private/Language/Literacy.private.md) 
+### #is_/same_as :: [[/_private/Language/Literacy.private|Literacy.private]] 
 
-### #is_/same_as :: [Literacy.personal](/_personal/Language/Literacy.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Literacy.personal|Literacy.personal]] 
 
-### #is_/same_as :: [Literacy.secret](/_secret/Language/Literacy.secret.md)
+### #is_/same_as :: [[/_secret/Language/Literacy.secret|Literacy.secret]] 
 

@@ -59,17 +59,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q130964 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Small_Calorie](/_Standards/Dimension/Energy/Small_Calorie.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Small_Calorie|Small_Calorie]] 
 
-### #is_/same_as :: [Small_Calorie.public](/_public/Dimension/Energy/Small_Calorie.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Small_Calorie.public|Small_Calorie.public]] 
 
-### #is_/same_as :: [Small_Calorie.internal](/_internal/Dimension/Energy/Small_Calorie.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Small_Calorie.internal|Small_Calorie.internal]] 
 
-### #is_/same_as :: [Small_Calorie.protect](/_protect/Dimension/Energy/Small_Calorie.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Small_Calorie.protect|Small_Calorie.protect]] 
 
-### #is_/same_as :: [Small_Calorie.private](/_private/Dimension/Energy/Small_Calorie.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Small_Calorie.private|Small_Calorie.private]] 
 
-### #is_/same_as :: [Small_Calorie.personal](/_personal/Dimension/Energy/Small_Calorie.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Small_Calorie.personal|Small_Calorie.personal]] 
 
-### #is_/same_as :: [Small_Calorie.secret](/_secret/Dimension/Energy/Small_Calorie.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Small_Calorie.secret|Small_Calorie.secret]] 
 

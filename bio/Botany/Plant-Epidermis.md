@@ -24,17 +24,17 @@ Commons_category: Plant epidermis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant-Epidermis](/_Standards/bio/Botany/Plant-Epidermis.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant-Epidermis|Plant-Epidermis]] 
 
-### #is_/same_as :: [Plant-Epidermis.public](/_public/bio/Botany/Plant-Epidermis.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant-Epidermis.public|Plant-Epidermis.public]] 
 
-### #is_/same_as :: [Plant-Epidermis.internal](/_internal/bio/Botany/Plant-Epidermis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant-Epidermis.internal|Plant-Epidermis.internal]] 
 
-### #is_/same_as :: [Plant-Epidermis.protect](/_protect/bio/Botany/Plant-Epidermis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant-Epidermis.protect|Plant-Epidermis.protect]] 
 
-### #is_/same_as :: [Plant-Epidermis.private](/_private/bio/Botany/Plant-Epidermis.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant-Epidermis.private|Plant-Epidermis.private]] 
 
-### #is_/same_as :: [Plant-Epidermis.personal](/_personal/bio/Botany/Plant-Epidermis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant-Epidermis.personal|Plant-Epidermis.personal]] 
 
-### #is_/same_as :: [Plant-Epidermis.secret](/_secret/bio/Botany/Plant-Epidermis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant-Epidermis.secret|Plant-Epidermis.secret]] 
 

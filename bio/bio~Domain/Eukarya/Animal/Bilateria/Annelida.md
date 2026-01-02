@@ -320,17 +320,17 @@ Copyright ::         © 1998 [Greg W. Rouse](http://mbrd.ucsd.edu/)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Annelida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida|Annelida]] 
 
-### #is_/same_as :: [Annelida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.public|Annelida.public]] 
 
-### #is_/same_as :: [Annelida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.internal|Annelida.internal]] 
 
-### #is_/same_as :: [Annelida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.protect|Annelida.protect]] 
 
-### #is_/same_as :: [Annelida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.private|Annelida.private]] 
 
-### #is_/same_as :: [Annelida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.personal|Annelida.personal]] 
 
-### #is_/same_as :: [Annelida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Annelida.secret|Annelida.secret]] 
 

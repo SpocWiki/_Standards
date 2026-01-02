@@ -43,3 +43,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/MOYUSH
 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Hygiene/Detergent|Detergent]] 
+
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Hygiene/Detergent.public|Detergent.public]] 
+
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Hygiene/Detergent.internal|Detergent.internal]] 
+
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Hygiene/Detergent.protect|Detergent.protect]] 
+
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Hygiene/Detergent.private|Detergent.private]] 
+
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Hygiene/Detergent.personal|Detergent.personal]] 
+
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Hygiene/Detergent.secret|Detergent.secret]] 
+

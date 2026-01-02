@@ -40,17 +40,17 @@ markerFolder: ./Shefa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shefa](/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa|Shefa]] 
 
-### #is_/same_as :: [Shefa.public](/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.public|Shefa.public]] 
 
-### #is_/same_as :: [Shefa.internal](/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.internal|Shefa.internal]] 
 
-### #is_/same_as :: [Shefa.protect](/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.protect|Shefa.protect]] 
 
-### #is_/same_as :: [Shefa.private](/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.private|Shefa.private]] 
 
-### #is_/same_as :: [Shefa.personal](/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.personal|Shefa.personal]] 
 
-### #is_/same_as :: [Shefa.secret](/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Vanuatu/Provinces~Vanuatu/Shefa.secret|Shefa.secret]] 
 

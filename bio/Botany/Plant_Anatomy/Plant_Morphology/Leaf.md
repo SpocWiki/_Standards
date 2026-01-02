@@ -88,17 +88,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Leaf%20Varieties%20%28
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leaf](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf|Leaf]] 
 
-### #is_/same_as :: [Leaf.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.public|Leaf.public]] 
 
-### #is_/same_as :: [Leaf.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.internal|Leaf.internal]] 
 
-### #is_/same_as :: [Leaf.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.protect|Leaf.protect]] 
 
-### #is_/same_as :: [Leaf.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.private|Leaf.private]] 
 
-### #is_/same_as :: [Leaf.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.personal|Leaf.personal]] 
 
-### #is_/same_as :: [Leaf.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Leaf.secret|Leaf.secret]] 
 

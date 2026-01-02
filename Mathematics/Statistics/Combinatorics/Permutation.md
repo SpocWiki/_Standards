@@ -67,17 +67,17 @@ Commons_category: Permutations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Permutation](/_Standards/Mathematics/Statistics/Combinatorics/Permutation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Combinatorics/Permutation|Permutation]] 
 
-### #is_/same_as :: [Permutation.public](/_public/Mathematics/Statistics/Combinatorics/Permutation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Combinatorics/Permutation.public|Permutation.public]] 
 
-### #is_/same_as :: [Permutation.internal](/_internal/Mathematics/Statistics/Combinatorics/Permutation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Combinatorics/Permutation.internal|Permutation.internal]] 
 
-### #is_/same_as :: [Permutation.protect](/_protect/Mathematics/Statistics/Combinatorics/Permutation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Combinatorics/Permutation.protect|Permutation.protect]] 
 
-### #is_/same_as :: [Permutation.private](/_private/Mathematics/Statistics/Combinatorics/Permutation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Combinatorics/Permutation.private|Permutation.private]] 
 
-### #is_/same_as :: [Permutation.personal](/_personal/Mathematics/Statistics/Combinatorics/Permutation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Combinatorics/Permutation.personal|Permutation.personal]] 
 
-### #is_/same_as :: [Permutation.secret](/_secret/Mathematics/Statistics/Combinatorics/Permutation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Combinatorics/Permutation.secret|Permutation.secret]] 
 

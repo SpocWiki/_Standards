@@ -42,17 +42,17 @@ These countries do not offer direct citizenship but grant it faster than usual i
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [citizenship-by-investment](/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment|citizenship-by-investment]] 
 
-### #is_/same_as :: [citizenship-by-investment.public](/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.public|citizenship-by-investment.public]] 
 
-### #is_/same_as :: [citizenship-by-investment.internal](/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.internal|citizenship-by-investment.internal]] 
 
-### #is_/same_as :: [citizenship-by-investment.protect](/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.protect|citizenship-by-investment.protect]] 
 
-### #is_/same_as :: [citizenship-by-investment.private](/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.private|citizenship-by-investment.private]] 
 
-### #is_/same_as :: [citizenship-by-investment.personal](/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.personal|citizenship-by-investment.personal]] 
 
-### #is_/same_as :: [citizenship-by-investment.secret](/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Power-Abuse/Corruption/citizenship-by-investment.secret|citizenship-by-investment.secret]] 
 

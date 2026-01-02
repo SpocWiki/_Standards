@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_grantee](/_Standards/schema-org/Relation/has/has_grantee.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_grantee|has_grantee]] 
 
-### #is_/same_as :: [has_grantee.public](/_public/schema-org/Relation/has/has_grantee.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_grantee.public|has_grantee.public]] 
 
-### #is_/same_as :: [has_grantee.internal](/_internal/schema-org/Relation/has/has_grantee.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_grantee.internal|has_grantee.internal]] 
 
-### #is_/same_as :: [has_grantee.protect](/_protect/schema-org/Relation/has/has_grantee.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_grantee.protect|has_grantee.protect]] 
 
-### #is_/same_as :: [has_grantee.private](/_private/schema-org/Relation/has/has_grantee.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_grantee.private|has_grantee.private]] 
 
-### #is_/same_as :: [has_grantee.personal](/_personal/schema-org/Relation/has/has_grantee.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_grantee.personal|has_grantee.personal]] 
 
-### #is_/same_as :: [has_grantee.secret](/_secret/schema-org/Relation/has/has_grantee.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_grantee.secret|has_grantee.secret]] 
 

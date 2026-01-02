@@ -34,17 +34,17 @@ OpenStreetMap_tag: building=stable
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stable](/_Standards/Society/Economics/Industry/Agriculture/Farm/Stable.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Stable|Stable]] 
 
-### #is_/same_as :: [Stable.public](/_public/Society/Economics/Industry/Agriculture/Farm/Stable.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Stable.public|Stable.public]] 
 
-### #is_/same_as :: [Stable.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Stable.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Stable.internal|Stable.internal]] 
 
-### #is_/same_as :: [Stable.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Stable.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Stable.protect|Stable.protect]] 
 
-### #is_/same_as :: [Stable.private](/_private/Society/Economics/Industry/Agriculture/Farm/Stable.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Stable.private|Stable.private]] 
 
-### #is_/same_as :: [Stable.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Stable.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Stable.personal|Stable.personal]] 
 
-### #is_/same_as :: [Stable.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Stable.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Stable.secret|Stable.secret]] 
 

@@ -41,17 +41,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/MAGNITNOE_POLE_ZEMLI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Earth_magnetic_Field](/_Standards/Earth/Earth_magnetic_Field.md) 
+### #is_/same_as :: [[/_Standards/Earth/Earth_magnetic_Field|Earth_magnetic_Field]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.public](/_public/Earth/Earth_magnetic_Field.public.md) 
+### #is_/same_as :: [[/_public/Earth/Earth_magnetic_Field.public|Earth_magnetic_Field.public]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.internal](/_internal/Earth/Earth_magnetic_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Earth_magnetic_Field.internal|Earth_magnetic_Field.internal]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.protect](/_protect/Earth/Earth_magnetic_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Earth_magnetic_Field.protect|Earth_magnetic_Field.protect]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.private](/_private/Earth/Earth_magnetic_Field.private.md) 
+### #is_/same_as :: [[/_private/Earth/Earth_magnetic_Field.private|Earth_magnetic_Field.private]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.personal](/_personal/Earth/Earth_magnetic_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Earth_magnetic_Field.personal|Earth_magnetic_Field.personal]] 
 
-### #is_/same_as :: [Earth_magnetic_Field.secret](/_secret/Earth/Earth_magnetic_Field.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Earth_magnetic_Field.secret|Earth_magnetic_Field.secret]] 
 

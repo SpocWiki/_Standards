@@ -159,17 +159,17 @@ P1015: "90210745"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lavoisier,Antoine](/_Standards/Chemistry/Chemist/Lavoisier,Antoine.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Lavoisier,Antoine|Lavoisier,Antoine]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.public](/_public/Chemistry/Chemist/Lavoisier,Antoine.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Lavoisier,Antoine.public|Lavoisier,Antoine.public]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.internal](/_internal/Chemistry/Chemist/Lavoisier,Antoine.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Lavoisier,Antoine.internal|Lavoisier,Antoine.internal]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.protect](/_protect/Chemistry/Chemist/Lavoisier,Antoine.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Lavoisier,Antoine.protect|Lavoisier,Antoine.protect]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.private](/_private/Chemistry/Chemist/Lavoisier,Antoine.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Lavoisier,Antoine.private|Lavoisier,Antoine.private]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.personal](/_personal/Chemistry/Chemist/Lavoisier,Antoine.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Lavoisier,Antoine.personal|Lavoisier,Antoine.personal]] 
 
-### #is_/same_as :: [Lavoisier,Antoine.secret](/_secret/Chemistry/Chemist/Lavoisier,Antoine.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Lavoisier,Antoine.secret|Lavoisier,Antoine.secret]] 
 

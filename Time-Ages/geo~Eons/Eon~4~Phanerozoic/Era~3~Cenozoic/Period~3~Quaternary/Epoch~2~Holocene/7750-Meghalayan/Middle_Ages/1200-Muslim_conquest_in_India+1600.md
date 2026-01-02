@@ -26,17 +26,17 @@ instance_of: "[[_Standards/WikiData/WD~conquest,1361229]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600|1200-Muslim_conquest_in_India+1600]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.public|1200-Muslim_conquest_in_India+1600.public]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.internal|1200-Muslim_conquest_in_India+1600.internal]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.protect|1200-Muslim_conquest_in_India+1600.protect]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.private|1200-Muslim_conquest_in_India+1600.private]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.personal|1200-Muslim_conquest_in_India+1600.personal]] 
 
-### #is_/same_as :: [1200-Muslim_conquest_in_India+1600.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1200-Muslim_conquest_in_India+1600.secret|1200-Muslim_conquest_in_India+1600.secret]] 
 

@@ -152,17 +152,17 @@ ISNI: 0000000110406491
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik](/_Standards/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik|van_der_Waals,Johannes_Diderik]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.public](/_public/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.public|van_der_Waals,Johannes_Diderik.public]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.internal](/_internal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.internal|van_der_Waals,Johannes_Diderik.internal]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.protect](/_protect/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.protect|van_der_Waals,Johannes_Diderik.protect]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.private](/_private/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.private|van_der_Waals,Johannes_Diderik.private]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.personal](/_personal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.personal|van_der_Waals,Johannes_Diderik.personal]] 
 
-### #is_/same_as :: [van_der_Waals,Johannes_Diderik.secret](/_secret/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/van_der_Waals,Johannes_Diderik.secret|van_der_Waals,Johannes_Diderik.secret]] 
 

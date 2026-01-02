@@ -55,17 +55,17 @@ ISNI: 0000000083628880
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meyer,Hannes](/_Standards/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes|Meyer,Hannes]] 
 
-### #is_/same_as :: [Meyer,Hannes.public](/_public/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.public|Meyer,Hannes.public]] 
 
-### #is_/same_as :: [Meyer,Hannes.internal](/_internal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.internal|Meyer,Hannes.internal]] 
 
-### #is_/same_as :: [Meyer,Hannes.protect](/_protect/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.protect|Meyer,Hannes.protect]] 
 
-### #is_/same_as :: [Meyer,Hannes.private](/_private/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.private|Meyer,Hannes.private]] 
 
-### #is_/same_as :: [Meyer,Hannes.personal](/_personal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.personal|Meyer,Hannes.personal]] 
 
-### #is_/same_as :: [Meyer,Hannes.secret](/_secret/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Bauhaus/Meyer,Hannes.secret|Meyer,Hannes.secret]] 
 

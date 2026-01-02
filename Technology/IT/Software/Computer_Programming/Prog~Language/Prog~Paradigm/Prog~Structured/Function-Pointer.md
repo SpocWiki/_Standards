@@ -38,17 +38,17 @@ Only C/C++ has the convention of the Caller cleaning up the Stack.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Function-Pointer](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer|Function-Pointer]] 
 
-### #is_/same_as :: [Function-Pointer.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.public|Function-Pointer.public]] 
 
-### #is_/same_as :: [Function-Pointer.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.internal|Function-Pointer.internal]] 
 
-### #is_/same_as :: [Function-Pointer.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.protect|Function-Pointer.protect]] 
 
-### #is_/same_as :: [Function-Pointer.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.private|Function-Pointer.private]] 
 
-### #is_/same_as :: [Function-Pointer.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.personal|Function-Pointer.personal]] 
 
-### #is_/same_as :: [Function-Pointer.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Structured/Function-Pointer.secret|Function-Pointer.secret]] 
 

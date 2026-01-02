@@ -141,17 +141,17 @@ vocalized_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [John_the_Baptist](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist|John_the_Baptist]] 
 
-### #is_/same_as :: [John_the_Baptist.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.public|John_the_Baptist.public]] 
 
-### #is_/same_as :: [John_the_Baptist.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.internal|John_the_Baptist.internal]] 
 
-### #is_/same_as :: [John_the_Baptist.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.protect|John_the_Baptist.protect]] 
 
-### #is_/same_as :: [John_the_Baptist.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.private|John_the_Baptist.private]] 
 
-### #is_/same_as :: [John_the_Baptist.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.personal|John_the_Baptist.personal]] 
 
-### #is_/same_as :: [John_the_Baptist.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/John_the_Baptist.secret|John_the_Baptist.secret]] 
 

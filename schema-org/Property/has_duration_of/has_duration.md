@@ -50,17 +50,17 @@ Has [sub_properties::loanTerm]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_duration](/_Standards/schema-org/Property/has_duration_of/has_duration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_duration_of/has_duration|has_duration]] 
 
-### #is_/same_as :: [has_duration.public](/_public/schema-org/Property/has_duration_of/has_duration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_duration_of/has_duration.public|has_duration.public]] 
 
-### #is_/same_as :: [has_duration.internal](/_internal/schema-org/Property/has_duration_of/has_duration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_duration_of/has_duration.internal|has_duration.internal]] 
 
-### #is_/same_as :: [has_duration.protect](/_protect/schema-org/Property/has_duration_of/has_duration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_duration_of/has_duration.protect|has_duration.protect]] 
 
-### #is_/same_as :: [has_duration.private](/_private/schema-org/Property/has_duration_of/has_duration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_duration_of/has_duration.private|has_duration.private]] 
 
-### #is_/same_as :: [has_duration.personal](/_personal/schema-org/Property/has_duration_of/has_duration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_duration_of/has_duration.personal|has_duration.personal]] 
 
-### #is_/same_as :: [has_duration.secret](/_secret/schema-org/Property/has_duration_of/has_duration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_duration_of/has_duration.secret|has_duration.secret]] 
 

@@ -66,17 +66,17 @@ Commons_category: Pasteurization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pasteurization](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization|Pasteurization]] 
 
-### #is_/same_as :: [Pasteurization.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.public|Pasteurization.public]] 
 
-### #is_/same_as :: [Pasteurization.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.internal|Pasteurization.internal]] 
 
-### #is_/same_as :: [Pasteurization.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.protect|Pasteurization.protect]] 
 
-### #is_/same_as :: [Pasteurization.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.private|Pasteurization.private]] 
 
-### #is_/same_as :: [Pasteurization.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.personal|Pasteurization.personal]] 
 
-### #is_/same_as :: [Pasteurization.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Bread/Pasteurization.secret|Pasteurization.secret]] 
 

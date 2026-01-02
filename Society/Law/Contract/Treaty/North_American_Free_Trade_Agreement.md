@@ -70,17 +70,17 @@ EU_Corporate_body_code: NAFTA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement](/_Standards/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement|North_American_Free_Trade_Agreement]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.public](/_public/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.public|North_American_Free_Trade_Agreement.public]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.internal](/_internal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.internal|North_American_Free_Trade_Agreement.internal]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.protect](/_protect/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.protect|North_American_Free_Trade_Agreement.protect]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.private](/_private/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.private|North_American_Free_Trade_Agreement.private]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.personal](/_personal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.personal|North_American_Free_Trade_Agreement.personal]] 
 
-### #is_/same_as :: [North_American_Free_Trade_Agreement.secret](/_secret/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Contract/Treaty/North_American_Free_Trade_Agreement.secret|North_American_Free_Trade_Agreement.secret]] 
 

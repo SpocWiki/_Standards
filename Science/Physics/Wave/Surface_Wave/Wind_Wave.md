@@ -71,17 +71,17 @@ Commons_category: Water waves
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wind_Wave](/_Standards/Science/Physics/Wave/Surface_Wave/Wind_Wave.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Surface_Wave/Wind_Wave|Wind_Wave]] 
 
-### #is_/same_as :: [Wind_Wave.public](/_public/Science/Physics/Wave/Surface_Wave/Wind_Wave.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Surface_Wave/Wind_Wave.public|Wind_Wave.public]] 
 
-### #is_/same_as :: [Wind_Wave.internal](/_internal/Science/Physics/Wave/Surface_Wave/Wind_Wave.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Surface_Wave/Wind_Wave.internal|Wind_Wave.internal]] 
 
-### #is_/same_as :: [Wind_Wave.protect](/_protect/Science/Physics/Wave/Surface_Wave/Wind_Wave.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Surface_Wave/Wind_Wave.protect|Wind_Wave.protect]] 
 
-### #is_/same_as :: [Wind_Wave.private](/_private/Science/Physics/Wave/Surface_Wave/Wind_Wave.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Surface_Wave/Wind_Wave.private|Wind_Wave.private]] 
 
-### #is_/same_as :: [Wind_Wave.personal](/_personal/Science/Physics/Wave/Surface_Wave/Wind_Wave.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Surface_Wave/Wind_Wave.personal|Wind_Wave.personal]] 
 
-### #is_/same_as :: [Wind_Wave.secret](/_secret/Science/Physics/Wave/Surface_Wave/Wind_Wave.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Surface_Wave/Wind_Wave.secret|Wind_Wave.secret]] 
 

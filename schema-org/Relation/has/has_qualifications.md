@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_qualifications](/_Standards/schema-org/Relation/has/has_qualifications.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_qualifications|has_qualifications]] 
 
-### #is_/same_as :: [has_qualifications.public](/_public/schema-org/Relation/has/has_qualifications.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_qualifications.public|has_qualifications.public]] 
 
-### #is_/same_as :: [has_qualifications.internal](/_internal/schema-org/Relation/has/has_qualifications.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_qualifications.internal|has_qualifications.internal]] 
 
-### #is_/same_as :: [has_qualifications.protect](/_protect/schema-org/Relation/has/has_qualifications.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_qualifications.protect|has_qualifications.protect]] 
 
-### #is_/same_as :: [has_qualifications.private](/_private/schema-org/Relation/has/has_qualifications.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_qualifications.private|has_qualifications.private]] 
 
-### #is_/same_as :: [has_qualifications.personal](/_personal/schema-org/Relation/has/has_qualifications.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_qualifications.personal|has_qualifications.personal]] 
 
-### #is_/same_as :: [has_qualifications.secret](/_secret/schema-org/Relation/has/has_qualifications.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_qualifications.secret|has_qualifications.secret]] 
 

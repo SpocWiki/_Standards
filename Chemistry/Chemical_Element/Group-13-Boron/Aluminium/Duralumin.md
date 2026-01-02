@@ -37,17 +37,17 @@ Commons_category: Aluminium alloys
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duralumin](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin|Duralumin]] 
 
-### #is_/same_as :: [Duralumin.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.public|Duralumin.public]] 
 
-### #is_/same_as :: [Duralumin.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.internal|Duralumin.internal]] 
 
-### #is_/same_as :: [Duralumin.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.protect|Duralumin.protect]] 
 
-### #is_/same_as :: [Duralumin.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.private|Duralumin.private]] 
 
-### #is_/same_as :: [Duralumin.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.personal|Duralumin.personal]] 
 
-### #is_/same_as :: [Duralumin.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Aluminium/Duralumin.secret|Duralumin.secret]] 
 

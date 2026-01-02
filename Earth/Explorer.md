@@ -19,17 +19,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Explorer](/_Standards/Earth/Explorer.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer|Explorer]] 
 
-### #is_/same_as :: [Explorer.public](/_public/Earth/Explorer.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer.public|Explorer.public]] 
 
-### #is_/same_as :: [Explorer.internal](/_internal/Earth/Explorer.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer.internal|Explorer.internal]] 
 
-### #is_/same_as :: [Explorer.protect](/_protect/Earth/Explorer.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer.protect|Explorer.protect]] 
 
-### #is_/same_as :: [Explorer.private](/_private/Earth/Explorer.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer.private|Explorer.private]] 
 
-### #is_/same_as :: [Explorer.personal](/_personal/Earth/Explorer.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer.personal|Explorer.personal]] 
 
-### #is_/same_as :: [Explorer.secret](/_secret/Earth/Explorer.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer.secret|Explorer.secret]] 
 

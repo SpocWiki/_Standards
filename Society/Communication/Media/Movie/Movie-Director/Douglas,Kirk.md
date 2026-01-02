@@ -70,17 +70,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Douglas,Kirk](/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk|Douglas,Kirk]] 
 
-### #is_/same_as :: [Douglas,Kirk.public](/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.public|Douglas,Kirk.public]] 
 
-### #is_/same_as :: [Douglas,Kirk.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.internal|Douglas,Kirk.internal]] 
 
-### #is_/same_as :: [Douglas,Kirk.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.protect|Douglas,Kirk.protect]] 
 
-### #is_/same_as :: [Douglas,Kirk.private](/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.private|Douglas,Kirk.private]] 
 
-### #is_/same_as :: [Douglas,Kirk.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.personal|Douglas,Kirk.personal]] 
 
-### #is_/same_as :: [Douglas,Kirk.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Douglas,Kirk.secret|Douglas,Kirk.secret]] 
 

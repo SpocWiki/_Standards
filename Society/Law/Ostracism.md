@@ -42,17 +42,17 @@ Krugosvet_article_archived_: istoriya/ostrakizm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ostracism](/_Standards/Society/Law/Ostracism.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Ostracism|Ostracism]] 
 
-### #is_/same_as :: [Ostracism.public](/_public/Society/Law/Ostracism.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Ostracism.public|Ostracism.public]] 
 
-### #is_/same_as :: [Ostracism.internal](/_internal/Society/Law/Ostracism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Ostracism.internal|Ostracism.internal]] 
 
-### #is_/same_as :: [Ostracism.protect](/_protect/Society/Law/Ostracism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Ostracism.protect|Ostracism.protect]] 
 
-### #is_/same_as :: [Ostracism.private](/_private/Society/Law/Ostracism.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Ostracism.private|Ostracism.private]] 
 
-### #is_/same_as :: [Ostracism.personal](/_personal/Society/Law/Ostracism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Ostracism.personal|Ostracism.personal]] 
 
-### #is_/same_as :: [Ostracism.secret](/_secret/Society/Law/Ostracism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Ostracism.secret|Ostracism.secret]] 
 

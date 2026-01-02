@@ -207,17 +207,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shaw,George_Bernard](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard|Shaw,George_Bernard]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.public|Shaw,George_Bernard.public]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.internal|Shaw,George_Bernard.internal]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.protect|Shaw,George_Bernard.protect]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.private|Shaw,George_Bernard.private]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.personal|Shaw,George_Bernard.personal]] 
 
-### #is_/same_as :: [Shaw,George_Bernard.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shaw,George_Bernard.secret|Shaw,George_Bernard.secret]] 
 

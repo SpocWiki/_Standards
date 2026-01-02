@@ -175,17 +175,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Teacher::5wm23"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Teacher](/_Standards/Society/Culture/Education/Teacher.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Teacher|Teacher]] 
 
-### #is_/same_as :: [Teacher.public](/_public/Society/Culture/Education/Teacher.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Teacher.public|Teacher.public]] 
 
-### #is_/same_as :: [Teacher.internal](/_internal/Society/Culture/Education/Teacher.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Teacher.internal|Teacher.internal]] 
 
-### #is_/same_as :: [Teacher.protect](/_protect/Society/Culture/Education/Teacher.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Teacher.protect|Teacher.protect]] 
 
-### #is_/same_as :: [Teacher.private](/_private/Society/Culture/Education/Teacher.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Teacher.private|Teacher.private]] 
 
-### #is_/same_as :: [Teacher.personal](/_personal/Society/Culture/Education/Teacher.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Teacher.personal|Teacher.personal]] 
 
-### #is_/same_as :: [Teacher.secret](/_secret/Society/Culture/Education/Teacher.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Teacher.secret|Teacher.secret]] 
 

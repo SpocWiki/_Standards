@@ -40,17 +40,17 @@ Krugosvet_article_archived_: biologiya/selektsiya
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artificial_Selection](/_Standards/bio/Reproduction/Artificial_Selection.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Artificial_Selection|Artificial_Selection]] 
 
-### #is_/same_as :: [Artificial_Selection.public](/_public/bio/Reproduction/Artificial_Selection.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Artificial_Selection.public|Artificial_Selection.public]] 
 
-### #is_/same_as :: [Artificial_Selection.internal](/_internal/bio/Reproduction/Artificial_Selection.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Artificial_Selection.internal|Artificial_Selection.internal]] 
 
-### #is_/same_as :: [Artificial_Selection.protect](/_protect/bio/Reproduction/Artificial_Selection.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Artificial_Selection.protect|Artificial_Selection.protect]] 
 
-### #is_/same_as :: [Artificial_Selection.private](/_private/bio/Reproduction/Artificial_Selection.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Artificial_Selection.private|Artificial_Selection.private]] 
 
-### #is_/same_as :: [Artificial_Selection.personal](/_personal/bio/Reproduction/Artificial_Selection.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Artificial_Selection.personal|Artificial_Selection.personal]] 
 
-### #is_/same_as :: [Artificial_Selection.secret](/_secret/bio/Reproduction/Artificial_Selection.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Artificial_Selection.secret|Artificial_Selection.secret]] 
 

@@ -44,17 +44,17 @@ Foot length (measured between end of the most prominent toe and the most promine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Foot](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot|Body_Measurement_Foot]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.public|Body_Measurement_Foot.public]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.internal|Body_Measurement_Foot.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.protect|Body_Measurement_Foot.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.private|Body_Measurement_Foot.private]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.personal|Body_Measurement_Foot.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Foot.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Foot.secret|Body_Measurement_Foot.secret]] 
 

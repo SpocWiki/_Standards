@@ -42,17 +42,17 @@ Commons_category: Vaporization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vaporization](/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition/Vaporization|Vaporization]] 
 
-### #is_/same_as :: [Vaporization.public](/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.public|Vaporization.public]] 
 
-### #is_/same_as :: [Vaporization.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.internal|Vaporization.internal]] 
 
-### #is_/same_as :: [Vaporization.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.protect|Vaporization.protect]] 
 
-### #is_/same_as :: [Vaporization.private](/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.private|Vaporization.private]] 
 
-### #is_/same_as :: [Vaporization.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.personal|Vaporization.personal]] 
 
-### #is_/same_as :: [Vaporization.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition/Vaporization.secret|Vaporization.secret]] 
 

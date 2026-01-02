@@ -48,17 +48,17 @@ Dewey_Decimal_Classification: "514.2242"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Knot_Theory](/_Standards/Mathematics/Topology/Knot_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Topology/Knot_Theory|Knot_Theory]] 
 
-### #is_/same_as :: [Knot_Theory.public](/_public/Mathematics/Topology/Knot_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Topology/Knot_Theory.public|Knot_Theory.public]] 
 
-### #is_/same_as :: [Knot_Theory.internal](/_internal/Mathematics/Topology/Knot_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Topology/Knot_Theory.internal|Knot_Theory.internal]] 
 
-### #is_/same_as :: [Knot_Theory.protect](/_protect/Mathematics/Topology/Knot_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Topology/Knot_Theory.protect|Knot_Theory.protect]] 
 
-### #is_/same_as :: [Knot_Theory.private](/_private/Mathematics/Topology/Knot_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Topology/Knot_Theory.private|Knot_Theory.private]] 
 
-### #is_/same_as :: [Knot_Theory.personal](/_personal/Mathematics/Topology/Knot_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Topology/Knot_Theory.personal|Knot_Theory.personal]] 
 
-### #is_/same_as :: [Knot_Theory.secret](/_secret/Mathematics/Topology/Knot_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Topology/Knot_Theory.secret|Knot_Theory.secret]] 
 

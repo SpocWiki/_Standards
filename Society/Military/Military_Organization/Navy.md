@@ -58,17 +58,17 @@ OpenStreetMap_tag_or_key: Tag:military_service=navy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Navy](/_Standards/Society/Military/Military_Organization/Navy.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Navy|Navy]] 
 
-### #is_/same_as :: [Navy.public](/_public/Society/Military/Military_Organization/Navy.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Navy.public|Navy.public]] 
 
-### #is_/same_as :: [Navy.internal](/_internal/Society/Military/Military_Organization/Navy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Navy.internal|Navy.internal]] 
 
-### #is_/same_as :: [Navy.protect](/_protect/Society/Military/Military_Organization/Navy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Navy.protect|Navy.protect]] 
 
-### #is_/same_as :: [Navy.private](/_private/Society/Military/Military_Organization/Navy.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Navy.private|Navy.private]] 
 
-### #is_/same_as :: [Navy.personal](/_personal/Society/Military/Military_Organization/Navy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Navy.personal|Navy.personal]] 
 
-### #is_/same_as :: [Navy.secret](/_secret/Society/Military/Military_Organization/Navy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Navy.secret|Navy.secret]] 
 

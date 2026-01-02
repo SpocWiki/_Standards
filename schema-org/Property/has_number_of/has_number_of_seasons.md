@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_seasons](/_Standards/schema-org/Property/has_number_of/has_number_of_seasons.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_seasons|has_number_of_seasons]] 
 
-### #is_/same_as :: [has_number_of_seasons.public](/_public/schema-org/Property/has_number_of/has_number_of_seasons.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_seasons.public|has_number_of_seasons.public]] 
 
-### #is_/same_as :: [has_number_of_seasons.internal](/_internal/schema-org/Property/has_number_of/has_number_of_seasons.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_seasons.internal|has_number_of_seasons.internal]] 
 
-### #is_/same_as :: [has_number_of_seasons.protect](/_protect/schema-org/Property/has_number_of/has_number_of_seasons.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_seasons.protect|has_number_of_seasons.protect]] 
 
-### #is_/same_as :: [has_number_of_seasons.private](/_private/schema-org/Property/has_number_of/has_number_of_seasons.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_seasons.private|has_number_of_seasons.private]] 
 
-### #is_/same_as :: [has_number_of_seasons.personal](/_personal/schema-org/Property/has_number_of/has_number_of_seasons.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_seasons.personal|has_number_of_seasons.personal]] 
 
-### #is_/same_as :: [has_number_of_seasons.secret](/_secret/schema-org/Property/has_number_of/has_number_of_seasons.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_seasons.secret|has_number_of_seasons.secret]] 
 

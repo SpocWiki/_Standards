@@ -181,17 +181,17 @@ IPI_name_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai|Rimsky-Korsakov,Nikolai]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.public|Rimsky-Korsakov,Nikolai.public]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.internal|Rimsky-Korsakov,Nikolai.internal]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.protect|Rimsky-Korsakov,Nikolai.protect]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.private|Rimsky-Korsakov,Nikolai.private]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.personal|Rimsky-Korsakov,Nikolai.personal]] 
 
-### #is_/same_as :: [Rimsky-Korsakov,Nikolai.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Rimsky-Korsakov,Nikolai.secret|Rimsky-Korsakov,Nikolai.secret]] 
 

@@ -135,17 +135,17 @@ ISNI: 0000000110201162
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mifune,Toshirō](/_Standards/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Mifune,Toshirō|Mifune,Toshirō]] 
 
-### #is_/same_as :: [Mifune,Toshirō.public](/_public/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.public|Mifune,Toshirō.public]] 
 
-### #is_/same_as :: [Mifune,Toshirō.internal](/_internal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.internal|Mifune,Toshirō.internal]] 
 
-### #is_/same_as :: [Mifune,Toshirō.protect](/_protect/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.protect|Mifune,Toshirō.protect]] 
 
-### #is_/same_as :: [Mifune,Toshirō.private](/_private/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.private|Mifune,Toshirō.private]] 
 
-### #is_/same_as :: [Mifune,Toshirō.personal](/_personal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.personal|Mifune,Toshirō.personal]] 
 
-### #is_/same_as :: [Mifune,Toshirō.secret](/_secret/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.secret|Mifune,Toshirō.secret]] 
 

@@ -41,17 +41,17 @@ A house painting service.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [House_Painter](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter|House_Painter]] 
 
-### #is_/same_as :: [House_Painter.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.public|House_Painter.public]] 
 
-### #is_/same_as :: [House_Painter.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.internal|House_Painter.internal]] 
 
-### #is_/same_as :: [House_Painter.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.protect|House_Painter.protect]] 
 
-### #is_/same_as :: [House_Painter.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.private|House_Painter.private]] 
 
-### #is_/same_as :: [House_Painter.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.personal|House_Painter.personal]] 
 
-### #is_/same_as :: [House_Painter.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Home_and_Construction_Business/House_Painter.secret|House_Painter.secret]] 
 

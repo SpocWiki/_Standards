@@ -100,17 +100,17 @@ N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsY
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Big5~E-Emotional_Stability](Big5~E-Emotional_Stability.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability|Big5~E-Emotional_Stability]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.public](/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.public|Big5~E-Emotional_Stability.public]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.internal](/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.internal|Big5~E-Emotional_Stability.internal]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.protect](/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.protect|Big5~E-Emotional_Stability.protect]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.private](/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.private|Big5~E-Emotional_Stability.private]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.personal](/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.personal|Big5~E-Emotional_Stability.personal]] 
 
-### #is_/same_as :: [Big5~Emotional_Stability.secret](/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~Emotional_Stability.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Personality_Psychology/Personality~Big5/Big5~E-Emotional_Stability.secret|Big5~E-Emotional_Stability.secret]] 
 

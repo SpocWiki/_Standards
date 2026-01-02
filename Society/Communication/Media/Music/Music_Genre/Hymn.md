@@ -59,17 +59,17 @@ IMDb_keyword: hymn
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hymn](/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Hymn|Hymn]] 
 
-### #is_/same_as :: [Hymn.public](/_public/Society/Communication/Media/Music/Music_Genre/Hymn.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Hymn.public|Hymn.public]] 
 
-### #is_/same_as :: [Hymn.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Hymn.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Hymn.internal|Hymn.internal]] 
 
-### #is_/same_as :: [Hymn.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Hymn.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Hymn.protect|Hymn.protect]] 
 
-### #is_/same_as :: [Hymn.private](/_private/Society/Communication/Media/Music/Music_Genre/Hymn.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Hymn.private|Hymn.private]] 
 
-### #is_/same_as :: [Hymn.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Hymn.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Hymn.personal|Hymn.personal]] 
 
-### #is_/same_as :: [Hymn.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Hymn.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Hymn.secret|Hymn.secret]] 
 

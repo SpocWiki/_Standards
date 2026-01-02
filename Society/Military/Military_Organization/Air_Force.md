@@ -45,17 +45,17 @@ U_S_National_Archives_Identifier: 10636847
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Air_Force](/_Standards/Society/Military/Military_Organization/Air_Force.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Organization/Air_Force|Air_Force]] 
 
-### #is_/same_as :: [Air_Force.public](/_public/Society/Military/Military_Organization/Air_Force.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Organization/Air_Force.public|Air_Force.public]] 
 
-### #is_/same_as :: [Air_Force.internal](/_internal/Society/Military/Military_Organization/Air_Force.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Organization/Air_Force.internal|Air_Force.internal]] 
 
-### #is_/same_as :: [Air_Force.protect](/_protect/Society/Military/Military_Organization/Air_Force.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Organization/Air_Force.protect|Air_Force.protect]] 
 
-### #is_/same_as :: [Air_Force.private](/_private/Society/Military/Military_Organization/Air_Force.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Organization/Air_Force.private|Air_Force.private]] 
 
-### #is_/same_as :: [Air_Force.personal](/_personal/Society/Military/Military_Organization/Air_Force.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Organization/Air_Force.personal|Air_Force.personal]] 
 
-### #is_/same_as :: [Air_Force.secret](/_secret/Society/Military/Military_Organization/Air_Force.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Organization/Air_Force.secret|Air_Force.secret]] 
 

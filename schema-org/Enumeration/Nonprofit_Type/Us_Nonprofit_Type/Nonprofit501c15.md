@@ -42,17 +42,17 @@ Nonprofit501c15: Non-profit type referring to Mutual Insurance Companies or Asso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c15](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15|Nonprofit501c15]] 
 
-### #is_/same_as :: [Nonprofit501c15.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.public|Nonprofit501c15.public]] 
 
-### #is_/same_as :: [Nonprofit501c15.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.internal|Nonprofit501c15.internal]] 
 
-### #is_/same_as :: [Nonprofit501c15.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.protect|Nonprofit501c15.protect]] 
 
-### #is_/same_as :: [Nonprofit501c15.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.private|Nonprofit501c15.private]] 
 
-### #is_/same_as :: [Nonprofit501c15.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.personal|Nonprofit501c15.personal]] 
 
-### #is_/same_as :: [Nonprofit501c15.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c15.secret|Nonprofit501c15.secret]] 
 

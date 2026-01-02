@@ -151,3 +151,22 @@ Dreadnought_Project_page: President_of_the_United_States
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/President%20of%20the%20United%20States)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President|US_President]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President.public|US_President.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President.internal|US_President.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President.protect|US_President.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President.private|US_President.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President.personal|US_President.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President.secret|US_President.secret]] 
+

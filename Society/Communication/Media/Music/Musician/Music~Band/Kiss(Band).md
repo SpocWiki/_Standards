@@ -83,17 +83,17 @@ has_member: ''
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kiss(Band)](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band)|Kiss(Band)]] 
 
-### #is_/same_as :: [Kiss(Band).public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).public|Kiss(Band).public]] 
 
-### #is_/same_as :: [Kiss(Band).internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).internal|Kiss(Band).internal]] 
 
-### #is_/same_as :: [Kiss(Band).protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).protect|Kiss(Band).protect]] 
 
-### #is_/same_as :: [Kiss(Band).private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).private|Kiss(Band).private]] 
 
-### #is_/same_as :: [Kiss(Band).personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).personal|Kiss(Band).personal]] 
 
-### #is_/same_as :: [Kiss(Band).secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Kiss(Band).secret|Kiss(Band).secret]] 
 

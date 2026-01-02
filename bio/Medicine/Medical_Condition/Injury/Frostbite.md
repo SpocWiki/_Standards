@@ -66,17 +66,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Frostbite](/_Standards/bio/Medicine/Medical_Condition/Injury/Frostbite.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Injury/Frostbite|Frostbite]] 
 
-### #is_/same_as :: [Frostbite.public](/_public/bio/Medicine/Medical_Condition/Injury/Frostbite.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Injury/Frostbite.public|Frostbite.public]] 
 
-### #is_/same_as :: [Frostbite.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Frostbite.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Injury/Frostbite.internal|Frostbite.internal]] 
 
-### #is_/same_as :: [Frostbite.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Frostbite.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Injury/Frostbite.protect|Frostbite.protect]] 
 
-### #is_/same_as :: [Frostbite.private](/_private/bio/Medicine/Medical_Condition/Injury/Frostbite.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Injury/Frostbite.private|Frostbite.private]] 
 
-### #is_/same_as :: [Frostbite.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Frostbite.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Injury/Frostbite.personal|Frostbite.personal]] 
 
-### #is_/same_as :: [Frostbite.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Frostbite.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Injury/Frostbite.secret|Frostbite.secret]] 
 

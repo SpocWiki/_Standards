@@ -80,17 +80,17 @@ width: 650
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rocky_Mountains](/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains|Rocky_Mountains]] 
 
-### #is_/same_as :: [Rocky_Mountains.public](/_public/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.public|Rocky_Mountains.public]] 
 
-### #is_/same_as :: [Rocky_Mountains.internal](/_internal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.internal|Rocky_Mountains.internal]] 
 
-### #is_/same_as :: [Rocky_Mountains.protect](/_protect/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.protect|Rocky_Mountains.protect]] 
 
-### #is_/same_as :: [Rocky_Mountains.private](/_private/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.private|Rocky_Mountains.private]] 
 
-### #is_/same_as :: [Rocky_Mountains.personal](/_personal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.personal|Rocky_Mountains.personal]] 
 
-### #is_/same_as :: [Rocky_Mountains.secret](/_secret/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Range_mtn-North_America/Rocky_Mountains.secret|Rocky_Mountains.secret]] 
 

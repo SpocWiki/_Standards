@@ -45,17 +45,17 @@ More specific codes include [[MobileWebPlatform]] and [[DesktopWebPlatform]], as
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Generic_Web_Platform](/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform|Generic_Web_Platform]] 
 
-### #is_/same_as :: [Generic_Web_Platform.public](/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.public|Generic_Web_Platform.public]] 
 
-### #is_/same_as :: [Generic_Web_Platform.internal](/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.internal|Generic_Web_Platform.internal]] 
 
-### #is_/same_as :: [Generic_Web_Platform.protect](/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.protect|Generic_Web_Platform.protect]] 
 
-### #is_/same_as :: [Generic_Web_Platform.private](/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.private|Generic_Web_Platform.private]] 
 
-### #is_/same_as :: [Generic_Web_Platform.personal](/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.personal|Generic_Web_Platform.personal]] 
 
-### #is_/same_as :: [Generic_Web_Platform.secret](/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/Digital_Platform/Generic_Web_Platform.secret|Generic_Web_Platform.secret]] 
 

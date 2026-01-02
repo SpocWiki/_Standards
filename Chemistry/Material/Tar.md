@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tar](/_Standards/Chemistry/Material/Tar.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Tar|Tar]] 
 
-### #is_/same_as :: [Tar.public](/_public/Chemistry/Material/Tar.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Tar.public|Tar.public]] 
 
-### #is_/same_as :: [Tar.internal](/_internal/Chemistry/Material/Tar.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Tar.internal|Tar.internal]] 
 
-### #is_/same_as :: [Tar.protect](/_protect/Chemistry/Material/Tar.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Tar.protect|Tar.protect]] 
 
-### #is_/same_as :: [Tar.private](/_private/Chemistry/Material/Tar.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Tar.private|Tar.private]] 
 
-### #is_/same_as :: [Tar.personal](/_personal/Chemistry/Material/Tar.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Tar.personal|Tar.personal]] 
 
-### #is_/same_as :: [Tar.secret](/_secret/Chemistry/Material/Tar.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Tar.secret|Tar.secret]] 
 

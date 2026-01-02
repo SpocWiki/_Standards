@@ -64,17 +64,17 @@ Dewey_Decimal_Classification: "621.45"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wind_Turbine](/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.md) 
+### #is_/same_as :: [[/_Standards/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine|Wind_Turbine]] 
 
-### #is_/same_as :: [Wind_Turbine.public](/_public/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.public.md) 
+### #is_/same_as :: [[/_public/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.public|Wind_Turbine.public]] 
 
-### #is_/same_as :: [Wind_Turbine.internal](/_internal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.internal|Wind_Turbine.internal]] 
 
-### #is_/same_as :: [Wind_Turbine.protect](/_protect/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.protect|Wind_Turbine.protect]] 
 
-### #is_/same_as :: [Wind_Turbine.private](/_private/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.private.md) 
+### #is_/same_as :: [[/_private/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.private|Wind_Turbine.private]] 
 
-### #is_/same_as :: [Wind_Turbine.personal](/_personal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.personal|Wind_Turbine.personal]] 
 
-### #is_/same_as :: [Wind_Turbine.secret](/_secret/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Energy-Technology/Renewable_Energy/Wind_Power/Wind_Turbine.secret|Wind_Turbine.secret]] 
 

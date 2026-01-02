@@ -80,17 +80,17 @@ Sport:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~SportsEvent](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent|FileClass~SportsEvent]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.public|FileClass~SportsEvent.public]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.internal|FileClass~SportsEvent.internal]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.protect|FileClass~SportsEvent.protect]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.private|FileClass~SportsEvent.private]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.personal|FileClass~SportsEvent.personal]] 
 
-### #is_/same_as :: [FileClass~SportsEvent.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~SportsEvent.secret|FileClass~SportsEvent.secret]] 
 

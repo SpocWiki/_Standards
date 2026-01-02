@@ -38,3 +38,22 @@ Krugosvet_article_archived_: voennoe-delo/radiatsiya
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radiation) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Heat_Transfer/Radiation|Radiation]] 
+
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.public|Radiation.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.internal|Radiation.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.protect|Radiation.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.private|Radiation.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.personal|Radiation.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Heat_Transfer/Radiation.secret|Radiation.secret]] 
+

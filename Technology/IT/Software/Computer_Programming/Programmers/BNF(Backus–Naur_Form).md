@@ -56,17 +56,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form)](/_Standards/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form)|BNF(Backus–Naur_Form)]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).public](/_public/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).public|BNF(Backus–Naur_Form).public]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).internal](/_internal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).internal|BNF(Backus–Naur_Form).internal]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).protect](/_protect/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).protect|BNF(Backus–Naur_Form).protect]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).private](/_private/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).private|BNF(Backus–Naur_Form).private]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).personal](/_personal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).personal|BNF(Backus–Naur_Form).personal]] 
 
-### #is_/same_as :: [BNF(Backus–Naur_Form).secret](/_secret/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Programmers/BNF(Backus–Naur_Form).secret|BNF(Backus–Naur_Form).secret]] 
 

@@ -210,17 +210,17 @@ writing_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich|Gauss,Carl_Friedrich]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.public|Gauss,Carl_Friedrich.public]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.internal|Gauss,Carl_Friedrich.internal]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.protect|Gauss,Carl_Friedrich.protect]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.private|Gauss,Carl_Friedrich.private]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.personal|Gauss,Carl_Friedrich.personal]] 
 
-### #is_/same_as :: [Gauss,Carl_Friedrich.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Gauss,Carl_Friedrich.secret|Gauss,Carl_Friedrich.secret]] 
 

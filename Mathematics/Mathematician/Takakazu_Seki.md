@@ -76,17 +76,17 @@ date_of_birth: 1642-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Takakazu_Seki](/_Standards/Mathematics/Mathematician/Takakazu_Seki.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Takakazu_Seki|Takakazu_Seki]] 
 
-### #is_/same_as :: [Takakazu_Seki.public](/_public/Mathematics/Mathematician/Takakazu_Seki.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Takakazu_Seki.public|Takakazu_Seki.public]] 
 
-### #is_/same_as :: [Takakazu_Seki.internal](/_internal/Mathematics/Mathematician/Takakazu_Seki.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Takakazu_Seki.internal|Takakazu_Seki.internal]] 
 
-### #is_/same_as :: [Takakazu_Seki.protect](/_protect/Mathematics/Mathematician/Takakazu_Seki.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Takakazu_Seki.protect|Takakazu_Seki.protect]] 
 
-### #is_/same_as :: [Takakazu_Seki.private](/_private/Mathematics/Mathematician/Takakazu_Seki.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Takakazu_Seki.private|Takakazu_Seki.private]] 
 
-### #is_/same_as :: [Takakazu_Seki.personal](/_personal/Mathematics/Mathematician/Takakazu_Seki.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Takakazu_Seki.personal|Takakazu_Seki.personal]] 
 
-### #is_/same_as :: [Takakazu_Seki.secret](/_secret/Mathematics/Mathematician/Takakazu_Seki.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Takakazu_Seki.secret|Takakazu_Seki.secret]] 
 

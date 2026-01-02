@@ -282,17 +282,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/APOLLON_I_ARTEMIDA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apollo](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo|Apollo]] 
 
-### #is_/same_as :: [Apollo.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.public|Apollo.public]] 
 
-### #is_/same_as :: [Apollo.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.internal|Apollo.internal]] 
 
-### #is_/same_as :: [Apollo.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.protect|Apollo.protect]] 
 
-### #is_/same_as :: [Apollo.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.private|Apollo.private]] 
 
-### #is_/same_as :: [Apollo.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.personal|Apollo.personal]] 
 
-### #is_/same_as :: [Apollo.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Apollo.secret|Apollo.secret]] 
 

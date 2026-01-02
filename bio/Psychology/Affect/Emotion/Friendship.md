@@ -30,17 +30,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friendship](/_Standards/bio/Psychology/Affect/Emotion/Friendship.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Friendship|Friendship]] 
 
-### #is_/same_as :: [Friendship.public](/_public/bio/Psychology/Affect/Emotion/Friendship.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Friendship.public|Friendship.public]] 
 
-### #is_/same_as :: [Friendship.internal](/_internal/bio/Psychology/Affect/Emotion/Friendship.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Friendship.internal|Friendship.internal]] 
 
-### #is_/same_as :: [Friendship.protect](/_protect/bio/Psychology/Affect/Emotion/Friendship.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Friendship.protect|Friendship.protect]] 
 
-### #is_/same_as :: [Friendship.private](/_private/bio/Psychology/Affect/Emotion/Friendship.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Friendship.private|Friendship.private]] 
 
-### #is_/same_as :: [Friendship.personal](/_personal/bio/Psychology/Affect/Emotion/Friendship.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Friendship.personal|Friendship.personal]] 
 
-### #is_/same_as :: [Friendship.secret](/_secret/bio/Psychology/Affect/Emotion/Friendship.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Friendship.secret|Friendship.secret]] 
 

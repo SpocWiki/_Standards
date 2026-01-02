@@ -143,17 +143,17 @@ VideoFormat:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~BroadcastService](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService|FileClass~BroadcastService]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.public|FileClass~BroadcastService.public]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.internal|FileClass~BroadcastService.internal]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.protect|FileClass~BroadcastService.protect]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.private|FileClass~BroadcastService.private]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.personal|FileClass~BroadcastService.personal]] 
 
-### #is_/same_as :: [FileClass~BroadcastService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~BroadcastService.secret|FileClass~BroadcastService.secret]] 
 

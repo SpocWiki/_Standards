@@ -130,17 +130,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/SHOINKA_VOLE.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soyinka,Wole](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole|Soyinka,Wole]] 
 
-### #is_/same_as :: [Soyinka,Wole.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.public|Soyinka,Wole.public]] 
 
-### #is_/same_as :: [Soyinka,Wole.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.internal|Soyinka,Wole.internal]] 
 
-### #is_/same_as :: [Soyinka,Wole.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.protect|Soyinka,Wole.protect]] 
 
-### #is_/same_as :: [Soyinka,Wole.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.private|Soyinka,Wole.private]] 
 
-### #is_/same_as :: [Soyinka,Wole.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.personal|Soyinka,Wole.personal]] 
 
-### #is_/same_as :: [Soyinka,Wole.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Soyinka,Wole.secret|Soyinka,Wole.secret]] 
 

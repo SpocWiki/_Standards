@@ -44,17 +44,17 @@ title: Eosentomidae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eosentomidae](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae|Eosentomidae]] 
 
-### #is_/same_as :: [Eosentomidae.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.public|Eosentomidae.public]] 
 
-### #is_/same_as :: [Eosentomidae.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.internal|Eosentomidae.internal]] 
 
-### #is_/same_as :: [Eosentomidae.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.protect|Eosentomidae.protect]] 
 
-### #is_/same_as :: [Eosentomidae.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.private|Eosentomidae.private]] 
 
-### #is_/same_as :: [Eosentomidae.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.personal|Eosentomidae.personal]] 
 
-### #is_/same_as :: [Eosentomidae.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Eosentomidae.secret|Eosentomidae.secret]] 
 

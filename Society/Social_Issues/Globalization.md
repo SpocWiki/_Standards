@@ -87,17 +87,17 @@ Wolfram_Language_entity_code: Entity["Concept", "Globalisation::zbks4"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Globalization](/_Standards/Society/Social_Issues/Globalization.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Globalization|Globalization]] 
 
-### #is_/same_as :: [Globalization.public](/_public/Society/Social_Issues/Globalization.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Globalization.public|Globalization.public]] 
 
-### #is_/same_as :: [Globalization.internal](/_internal/Society/Social_Issues/Globalization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Globalization.internal|Globalization.internal]] 
 
-### #is_/same_as :: [Globalization.protect](/_protect/Society/Social_Issues/Globalization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Globalization.protect|Globalization.protect]] 
 
-### #is_/same_as :: [Globalization.private](/_private/Society/Social_Issues/Globalization.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Globalization.private|Globalization.private]] 
 
-### #is_/same_as :: [Globalization.personal](/_personal/Society/Social_Issues/Globalization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Globalization.personal|Globalization.personal]] 
 
-### #is_/same_as :: [Globalization.secret](/_secret/Society/Social_Issues/Globalization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Globalization.secret|Globalization.secret]] 
 

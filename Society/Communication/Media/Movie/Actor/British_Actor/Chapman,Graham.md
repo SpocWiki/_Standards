@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chapman,Graham](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham|Chapman,Graham]] 
 
-### #is_/same_as :: [Chapman,Graham.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.public|Chapman,Graham.public]] 
 
-### #is_/same_as :: [Chapman,Graham.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.internal|Chapman,Graham.internal]] 
 
-### #is_/same_as :: [Chapman,Graham.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.protect|Chapman,Graham.protect]] 
 
-### #is_/same_as :: [Chapman,Graham.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.private|Chapman,Graham.private]] 
 
-### #is_/same_as :: [Chapman,Graham.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.personal|Chapman,Graham.personal]] 
 
-### #is_/same_as :: [Chapman,Graham.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Chapman,Graham.secret|Chapman,Graham.secret]] 
 

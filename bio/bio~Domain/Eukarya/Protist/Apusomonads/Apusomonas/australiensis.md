@@ -85,17 +85,17 @@ cultivated garden soil in Australia. Archiv für Protistenkunde
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [australiensis](/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis|australiensis]] 
 
-### #is_/same_as :: [australiensis.public](/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.public|australiensis.public]] 
 
-### #is_/same_as :: [australiensis.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.internal|australiensis.internal]] 
 
-### #is_/same_as :: [australiensis.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.protect|australiensis.protect]] 
 
-### #is_/same_as :: [australiensis.private](/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.private|australiensis.private]] 
 
-### #is_/same_as :: [australiensis.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.personal|australiensis.personal]] 
 
-### #is_/same_as :: [australiensis.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Apusomonads/Apusomonas/australiensis.secret|australiensis.secret]] 
 

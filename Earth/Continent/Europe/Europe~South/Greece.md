@@ -625,17 +625,17 @@ with numbers as of 2023-06
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greece](/_Standards/Earth/Continent/Europe/Europe~South/Greece.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Greece|Greece]] 
 
-### #is_/same_as :: [Greece.public](/_public/Earth/Continent/Europe/Europe~South/Greece.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Greece.public|Greece.public]] 
 
-### #is_/same_as :: [Greece.internal](/_internal/Earth/Continent/Europe/Europe~South/Greece.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Greece.internal|Greece.internal]] 
 
-### #is_/same_as :: [Greece.protect](/_protect/Earth/Continent/Europe/Europe~South/Greece.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Greece.protect|Greece.protect]] 
 
-### #is_/same_as :: [Greece.private](/_private/Earth/Continent/Europe/Europe~South/Greece.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Greece.private|Greece.private]] 
 
-### #is_/same_as :: [Greece.personal](/_personal/Earth/Continent/Europe/Europe~South/Greece.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Greece.personal|Greece.personal]] 
 
-### #is_/same_as :: [Greece.secret](/_secret/Earth/Continent/Europe/Europe~South/Greece.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Greece.secret|Greece.secret]] 
 

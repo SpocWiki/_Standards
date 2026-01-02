@@ -46,17 +46,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_main_entity](/_Standards/schema-org/Relation/has/has_main_entity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_main_entity|has_main_entity]] 
 
-### #is_/same_as :: [has_main_entity.public](/_public/schema-org/Relation/has/has_main_entity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_main_entity.public|has_main_entity.public]] 
 
-### #is_/same_as :: [has_main_entity.internal](/_internal/schema-org/Relation/has/has_main_entity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_main_entity.internal|has_main_entity.internal]] 
 
-### #is_/same_as :: [has_main_entity.protect](/_protect/schema-org/Relation/has/has_main_entity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_main_entity.protect|has_main_entity.protect]] 
 
-### #is_/same_as :: [has_main_entity.private](/_private/schema-org/Relation/has/has_main_entity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_main_entity.private|has_main_entity.private]] 
 
-### #is_/same_as :: [has_main_entity.personal](/_personal/schema-org/Relation/has/has_main_entity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_main_entity.personal|has_main_entity.personal]] 
 
-### #is_/same_as :: [has_main_entity.secret](/_secret/schema-org/Relation/has/has_main_entity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_main_entity.secret|has_main_entity.secret]] 
 

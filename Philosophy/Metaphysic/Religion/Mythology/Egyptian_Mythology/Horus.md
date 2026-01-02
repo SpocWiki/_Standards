@@ -73,17 +73,17 @@ Hederich_encyclopedia_article: Horvs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Horus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus|Horus]] 
 
-### #is_/same_as :: [Horus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.public|Horus.public]] 
 
-### #is_/same_as :: [Horus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.internal|Horus.internal]] 
 
-### #is_/same_as :: [Horus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.protect|Horus.protect]] 
 
-### #is_/same_as :: [Horus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.private|Horus.private]] 
 
-### #is_/same_as :: [Horus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.personal|Horus.personal]] 
 
-### #is_/same_as :: [Horus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Horus.secret|Horus.secret]] 
 

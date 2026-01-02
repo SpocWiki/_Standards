@@ -18,17 +18,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNECA](/_Standards/UN(United_Nations)/ECOSOC/UNECA.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ECOSOC/UNECA|UNECA]] 
 
-### #is_/same_as :: [UNECA.public](/_public/UN(United_Nations)/ECOSOC/UNECA.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ECOSOC/UNECA.public|UNECA.public]] 
 
-### #is_/same_as :: [UNECA.internal](/_internal/UN(United_Nations)/ECOSOC/UNECA.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ECOSOC/UNECA.internal|UNECA.internal]] 
 
-### #is_/same_as :: [UNECA.protect](/_protect/UN(United_Nations)/ECOSOC/UNECA.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ECOSOC/UNECA.protect|UNECA.protect]] 
 
-### #is_/same_as :: [UNECA.private](/_private/UN(United_Nations)/ECOSOC/UNECA.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ECOSOC/UNECA.private|UNECA.private]] 
 
-### #is_/same_as :: [UNECA.personal](/_personal/UN(United_Nations)/ECOSOC/UNECA.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ECOSOC/UNECA.personal|UNECA.personal]] 
 
-### #is_/same_as :: [UNECA.secret](/_secret/UN(United_Nations)/ECOSOC/UNECA.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ECOSOC/UNECA.secret|UNECA.secret]] 
 

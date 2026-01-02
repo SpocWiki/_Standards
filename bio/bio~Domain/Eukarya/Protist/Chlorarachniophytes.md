@@ -424,17 +424,17 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chlorarachniophytes](/_Standards/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes|Chlorarachniophytes]] 
 
-### #is_/same_as :: [Chlorarachniophytes.public](/_public/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.public|Chlorarachniophytes.public]] 
 
-### #is_/same_as :: [Chlorarachniophytes.internal](/_internal/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.internal|Chlorarachniophytes.internal]] 
 
-### #is_/same_as :: [Chlorarachniophytes.protect](/_protect/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.protect|Chlorarachniophytes.protect]] 
 
-### #is_/same_as :: [Chlorarachniophytes.private](/_private/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.private|Chlorarachniophytes.private]] 
 
-### #is_/same_as :: [Chlorarachniophytes.personal](/_personal/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.personal|Chlorarachniophytes.personal]] 
 
-### #is_/same_as :: [Chlorarachniophytes.secret](/_secret/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Protist/Chlorarachniophytes.secret|Chlorarachniophytes.secret]] 
 

@@ -83,17 +83,17 @@ Commons_category: Primary colors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Primary_Color](/_Standards/Technology/Design/Graphic_Design/Color/Primary_Color.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Primary_Color|Primary_Color]] 
 
-### #is_/same_as :: [Primary_Color.public](/_public/Technology/Design/Graphic_Design/Color/Primary_Color.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Primary_Color.public|Primary_Color.public]] 
 
-### #is_/same_as :: [Primary_Color.internal](/_internal/Technology/Design/Graphic_Design/Color/Primary_Color.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Primary_Color.internal|Primary_Color.internal]] 
 
-### #is_/same_as :: [Primary_Color.protect](/_protect/Technology/Design/Graphic_Design/Color/Primary_Color.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Primary_Color.protect|Primary_Color.protect]] 
 
-### #is_/same_as :: [Primary_Color.private](/_private/Technology/Design/Graphic_Design/Color/Primary_Color.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Primary_Color.private|Primary_Color.private]] 
 
-### #is_/same_as :: [Primary_Color.personal](/_personal/Technology/Design/Graphic_Design/Color/Primary_Color.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Primary_Color.personal|Primary_Color.personal]] 
 
-### #is_/same_as :: [Primary_Color.secret](/_secret/Technology/Design/Graphic_Design/Color/Primary_Color.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Primary_Color.secret|Primary_Color.secret]] 
 

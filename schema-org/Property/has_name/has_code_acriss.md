@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_code_acriss](/_Standards/schema-org/Property/has_name/has_code_acriss.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_code_acriss|has_code_acriss]] 
 
-### #is_/same_as :: [has_code_acriss.public](/_public/schema-org/Property/has_name/has_code_acriss.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_code_acriss.public|has_code_acriss.public]] 
 
-### #is_/same_as :: [has_code_acriss.internal](/_internal/schema-org/Property/has_name/has_code_acriss.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_code_acriss.internal|has_code_acriss.internal]] 
 
-### #is_/same_as :: [has_code_acriss.protect](/_protect/schema-org/Property/has_name/has_code_acriss.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_code_acriss.protect|has_code_acriss.protect]] 
 
-### #is_/same_as :: [has_code_acriss.private](/_private/schema-org/Property/has_name/has_code_acriss.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_code_acriss.private|has_code_acriss.private]] 
 
-### #is_/same_as :: [has_code_acriss.personal](/_personal/schema-org/Property/has_name/has_code_acriss.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_code_acriss.personal|has_code_acriss.personal]] 
 
-### #is_/same_as :: [has_code_acriss.secret](/_secret/schema-org/Property/has_name/has_code_acriss.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_code_acriss.secret|has_code_acriss.secret]] 
 

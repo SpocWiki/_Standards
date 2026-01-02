@@ -43,17 +43,17 @@ A single episode of a podcast series.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Podcast_Episode](/_Standards/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode|Podcast_Episode]] 
 
-### #is_/same_as :: [Podcast_Episode.public](/_public/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.public|Podcast_Episode.public]] 
 
-### #is_/same_as :: [Podcast_Episode.internal](/_internal/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.internal|Podcast_Episode.internal]] 
 
-### #is_/same_as :: [Podcast_Episode.protect](/_protect/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.protect|Podcast_Episode.protect]] 
 
-### #is_/same_as :: [Podcast_Episode.private](/_private/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.private|Podcast_Episode.private]] 
 
-### #is_/same_as :: [Podcast_Episode.personal](/_personal/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.personal|Podcast_Episode.personal]] 
 
-### #is_/same_as :: [Podcast_Episode.secret](/_secret/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Episode/Podcast_Episode.secret|Podcast_Episode.secret]] 
 

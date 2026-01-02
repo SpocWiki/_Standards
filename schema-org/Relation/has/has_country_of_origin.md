@@ -54,17 +54,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_country_of_origin](/_Standards/schema-org/Relation/has/has_country_of_origin.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_country_of_origin|has_country_of_origin]] 
 
-### #is_/same_as :: [has_country_of_origin.public](/_public/schema-org/Relation/has/has_country_of_origin.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_country_of_origin.public|has_country_of_origin.public]] 
 
-### #is_/same_as :: [has_country_of_origin.internal](/_internal/schema-org/Relation/has/has_country_of_origin.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_country_of_origin.internal|has_country_of_origin.internal]] 
 
-### #is_/same_as :: [has_country_of_origin.protect](/_protect/schema-org/Relation/has/has_country_of_origin.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_country_of_origin.protect|has_country_of_origin.protect]] 
 
-### #is_/same_as :: [has_country_of_origin.private](/_private/schema-org/Relation/has/has_country_of_origin.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_country_of_origin.private|has_country_of_origin.private]] 
 
-### #is_/same_as :: [has_country_of_origin.personal](/_personal/schema-org/Relation/has/has_country_of_origin.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_country_of_origin.personal|has_country_of_origin.personal]] 
 
-### #is_/same_as :: [has_country_of_origin.secret](/_secret/schema-org/Relation/has/has_country_of_origin.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_country_of_origin.secret|has_country_of_origin.secret]] 
 

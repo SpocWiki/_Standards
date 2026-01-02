@@ -51,17 +51,17 @@ Commons_category: Prime meridian
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prime_Meridian](/_Standards/Earth/Geography/Cartography/Meridian/Prime_Meridian.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Cartography/Meridian/Prime_Meridian|Prime_Meridian]] 
 
-### #is_/same_as :: [Prime_Meridian.public](/_public/Earth/Geography/Cartography/Meridian/Prime_Meridian.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Cartography/Meridian/Prime_Meridian.public|Prime_Meridian.public]] 
 
-### #is_/same_as :: [Prime_Meridian.internal](/_internal/Earth/Geography/Cartography/Meridian/Prime_Meridian.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Cartography/Meridian/Prime_Meridian.internal|Prime_Meridian.internal]] 
 
-### #is_/same_as :: [Prime_Meridian.protect](/_protect/Earth/Geography/Cartography/Meridian/Prime_Meridian.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Cartography/Meridian/Prime_Meridian.protect|Prime_Meridian.protect]] 
 
-### #is_/same_as :: [Prime_Meridian.private](/_private/Earth/Geography/Cartography/Meridian/Prime_Meridian.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Cartography/Meridian/Prime_Meridian.private|Prime_Meridian.private]] 
 
-### #is_/same_as :: [Prime_Meridian.personal](/_personal/Earth/Geography/Cartography/Meridian/Prime_Meridian.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Cartography/Meridian/Prime_Meridian.personal|Prime_Meridian.personal]] 
 
-### #is_/same_as :: [Prime_Meridian.secret](/_secret/Earth/Geography/Cartography/Meridian/Prime_Meridian.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Cartography/Meridian/Prime_Meridian.secret|Prime_Meridian.secret]] 
 

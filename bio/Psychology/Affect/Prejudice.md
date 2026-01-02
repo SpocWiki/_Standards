@@ -43,17 +43,17 @@ Gujarati_Vishwakosh_entry: પૂર્વગ્રહ-prejudice
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prejudice](/_Standards/bio/Psychology/Affect/Prejudice.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Prejudice|Prejudice]] 
 
-### #is_/same_as :: [Prejudice.public](/_public/bio/Psychology/Affect/Prejudice.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Prejudice.public|Prejudice.public]] 
 
-### #is_/same_as :: [Prejudice.internal](/_internal/bio/Psychology/Affect/Prejudice.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Prejudice.internal|Prejudice.internal]] 
 
-### #is_/same_as :: [Prejudice.protect](/_protect/bio/Psychology/Affect/Prejudice.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Prejudice.protect|Prejudice.protect]] 
 
-### #is_/same_as :: [Prejudice.private](/_private/bio/Psychology/Affect/Prejudice.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Prejudice.private|Prejudice.private]] 
 
-### #is_/same_as :: [Prejudice.personal](/_personal/bio/Psychology/Affect/Prejudice.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Prejudice.personal|Prejudice.personal]] 
 
-### #is_/same_as :: [Prejudice.secret](/_secret/bio/Psychology/Affect/Prejudice.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Prejudice.secret|Prejudice.secret]] 
 

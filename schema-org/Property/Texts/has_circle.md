@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_circle](/_Standards/schema-org/Property/Texts/has_circle.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_circle|has_circle]] 
 
-### #is_/same_as :: [has_circle.public](/_public/schema-org/Property/Texts/has_circle.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_circle.public|has_circle.public]] 
 
-### #is_/same_as :: [has_circle.internal](/_internal/schema-org/Property/Texts/has_circle.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_circle.internal|has_circle.internal]] 
 
-### #is_/same_as :: [has_circle.protect](/_protect/schema-org/Property/Texts/has_circle.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_circle.protect|has_circle.protect]] 
 
-### #is_/same_as :: [has_circle.private](/_private/schema-org/Property/Texts/has_circle.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_circle.private|has_circle.private]] 
 
-### #is_/same_as :: [has_circle.personal](/_personal/schema-org/Property/Texts/has_circle.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_circle.personal|has_circle.personal]] 
 
-### #is_/same_as :: [has_circle.secret](/_secret/schema-org/Property/Texts/has_circle.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_circle.secret|has_circle.secret]] 
 

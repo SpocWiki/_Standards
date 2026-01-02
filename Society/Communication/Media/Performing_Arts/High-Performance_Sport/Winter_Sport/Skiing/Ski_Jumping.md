@@ -54,17 +54,17 @@ OpenStreetMap_tag: sport=ski_jumping
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ski_Jumping](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping|Ski_Jumping]] 
 
-### #is_/same_as :: [Ski_Jumping.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.public|Ski_Jumping.public]] 
 
-### #is_/same_as :: [Ski_Jumping.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.internal|Ski_Jumping.internal]] 
 
-### #is_/same_as :: [Ski_Jumping.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.protect|Ski_Jumping.protect]] 
 
-### #is_/same_as :: [Ski_Jumping.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.private|Ski_Jumping.private]] 
 
-### #is_/same_as :: [Ski_Jumping.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.personal|Ski_Jumping.personal]] 
 
-### #is_/same_as :: [Ski_Jumping.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport/Skiing/Ski_Jumping.secret|Ski_Jumping.secret]] 
 

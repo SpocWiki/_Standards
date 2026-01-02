@@ -39,17 +39,17 @@ Commons_category: Scenography
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scenography](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Scenography.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Scenography|Scenography]] 
 
-### #is_/same_as :: [Scenography.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Scenography.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Scenography.public|Scenography.public]] 
 
-### #is_/same_as :: [Scenography.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Scenography.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Scenography.internal|Scenography.internal]] 
 
-### #is_/same_as :: [Scenography.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Scenography.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Scenography.protect|Scenography.protect]] 
 
-### #is_/same_as :: [Scenography.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Scenography.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Scenography.private|Scenography.private]] 
 
-### #is_/same_as :: [Scenography.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Scenography.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Scenography.personal|Scenography.personal]] 
 
-### #is_/same_as :: [Scenography.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Scenography.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Scenography.secret|Scenography.secret]] 
 

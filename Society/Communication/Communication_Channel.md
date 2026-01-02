@@ -51,17 +51,17 @@ IEV_number: 701-02-01
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Communication_Channel](/_Standards/Society/Communication/Communication_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Channel|Communication_Channel]] 
 
-### #is_/same_as :: [Communication_Channel.public](/_public/Society/Communication/Communication_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Channel.public|Communication_Channel.public]] 
 
-### #is_/same_as :: [Communication_Channel.internal](/_internal/Society/Communication/Communication_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Channel.internal|Communication_Channel.internal]] 
 
-### #is_/same_as :: [Communication_Channel.protect](/_protect/Society/Communication/Communication_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Channel.protect|Communication_Channel.protect]] 
 
-### #is_/same_as :: [Communication_Channel.private](/_private/Society/Communication/Communication_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Channel.private|Communication_Channel.private]] 
 
-### #is_/same_as :: [Communication_Channel.personal](/_personal/Society/Communication/Communication_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Channel.personal|Communication_Channel.personal]] 
 
-### #is_/same_as :: [Communication_Channel.secret](/_secret/Society/Communication/Communication_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Channel.secret|Communication_Channel.secret]] 
 

@@ -57,17 +57,17 @@ Commons_category: Southern Cone
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southern_Cone](/_Standards/Earth/Continent/America~South/Southern_Cone.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone|Southern_Cone]] 
 
-### #is_/same_as :: [Southern_Cone.public](/_public/Earth/Continent/America~South/Southern_Cone.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone.public|Southern_Cone.public]] 
 
-### #is_/same_as :: [Southern_Cone.internal](/_internal/Earth/Continent/America~South/Southern_Cone.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone.internal|Southern_Cone.internal]] 
 
-### #is_/same_as :: [Southern_Cone.protect](/_protect/Earth/Continent/America~South/Southern_Cone.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone.protect|Southern_Cone.protect]] 
 
-### #is_/same_as :: [Southern_Cone.private](/_private/Earth/Continent/America~South/Southern_Cone.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone.private|Southern_Cone.private]] 
 
-### #is_/same_as :: [Southern_Cone.personal](/_personal/Earth/Continent/America~South/Southern_Cone.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone.personal|Southern_Cone.personal]] 
 
-### #is_/same_as :: [Southern_Cone.secret](/_secret/Earth/Continent/America~South/Southern_Cone.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone.secret|Southern_Cone.secret]] 
 

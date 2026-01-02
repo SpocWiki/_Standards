@@ -40,17 +40,17 @@ title: Antelientomon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antelientomon](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon|Antelientomon]] 
 
-### #is_/same_as :: [Antelientomon.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.public|Antelientomon.public]] 
 
-### #is_/same_as :: [Antelientomon.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.internal|Antelientomon.internal]] 
 
-### #is_/same_as :: [Antelientomon.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.protect|Antelientomon.protect]] 
 
-### #is_/same_as :: [Antelientomon.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.private|Antelientomon.private]] 
 
-### #is_/same_as :: [Antelientomon.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.personal|Antelientomon.personal]] 
 
-### #is_/same_as :: [Antelientomon.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Protura/Eosentomata/Antelientomon.secret|Antelientomon.secret]] 
 

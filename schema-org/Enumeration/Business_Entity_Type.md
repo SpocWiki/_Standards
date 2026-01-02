@@ -55,17 +55,17 @@ Businesses are also distinguished by Ownership::
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Entity_Type](/_Standards/schema-org/Enumeration/Business_Entity_Type.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Business_Entity_Type|Business_Entity_Type]] 
 
-### #is_/same_as :: [Business_Entity_Type.public](/_public/schema-org/Enumeration/Business_Entity_Type.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Business_Entity_Type.public|Business_Entity_Type.public]] 
 
-### #is_/same_as :: [Business_Entity_Type.internal](/_internal/schema-org/Enumeration/Business_Entity_Type.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Business_Entity_Type.internal|Business_Entity_Type.internal]] 
 
-### #is_/same_as :: [Business_Entity_Type.protect](/_protect/schema-org/Enumeration/Business_Entity_Type.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Business_Entity_Type.protect|Business_Entity_Type.protect]] 
 
-### #is_/same_as :: [Business_Entity_Type.private](/_private/schema-org/Enumeration/Business_Entity_Type.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Business_Entity_Type.private|Business_Entity_Type.private]] 
 
-### #is_/same_as :: [Business_Entity_Type.personal](/_personal/schema-org/Enumeration/Business_Entity_Type.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Business_Entity_Type.personal|Business_Entity_Type.personal]] 
 
-### #is_/same_as :: [Business_Entity_Type.secret](/_secret/schema-org/Enumeration/Business_Entity_Type.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Business_Entity_Type.secret|Business_Entity_Type.secret]] 
 

@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table)](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table)|VMT(Virtual_Method_Table)]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).public|VMT(Virtual_Method_Table).public]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).internal|VMT(Virtual_Method_Table).internal]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).protect|VMT(Virtual_Method_Table).protect]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).private|VMT(Virtual_Method_Table).private]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).personal|VMT(Virtual_Method_Table).personal]] 
 
-### #is_/same_as :: [VMT(Virtual_Method_Table).secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/VMT(Virtual_Method_Table).secret|VMT(Virtual_Method_Table).secret]] 
 

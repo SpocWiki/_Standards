@@ -123,17 +123,17 @@ Wolfram_Language_entity_code: Entity["Person", "TerryGilliam::s59y7"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gilliam,Terry](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry|Gilliam,Terry]] 
 
-### #is_/same_as :: [Gilliam,Terry.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.public|Gilliam,Terry.public]] 
 
-### #is_/same_as :: [Gilliam,Terry.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.internal|Gilliam,Terry.internal]] 
 
-### #is_/same_as :: [Gilliam,Terry.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.protect|Gilliam,Terry.protect]] 
 
-### #is_/same_as :: [Gilliam,Terry.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.private|Gilliam,Terry.private]] 
 
-### #is_/same_as :: [Gilliam,Terry.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.personal|Gilliam,Terry.personal]] 
 
-### #is_/same_as :: [Gilliam,Terry.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.secret|Gilliam,Terry.secret]] 
 

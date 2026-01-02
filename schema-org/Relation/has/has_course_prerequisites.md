@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_course_prerequisites](/_Standards/schema-org/Relation/has/has_course_prerequisites.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_course_prerequisites|has_course_prerequisites]] 
 
-### #is_/same_as :: [has_course_prerequisites.public](/_public/schema-org/Relation/has/has_course_prerequisites.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_course_prerequisites.public|has_course_prerequisites.public]] 
 
-### #is_/same_as :: [has_course_prerequisites.internal](/_internal/schema-org/Relation/has/has_course_prerequisites.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_course_prerequisites.internal|has_course_prerequisites.internal]] 
 
-### #is_/same_as :: [has_course_prerequisites.protect](/_protect/schema-org/Relation/has/has_course_prerequisites.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_course_prerequisites.protect|has_course_prerequisites.protect]] 
 
-### #is_/same_as :: [has_course_prerequisites.private](/_private/schema-org/Relation/has/has_course_prerequisites.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_course_prerequisites.private|has_course_prerequisites.private]] 
 
-### #is_/same_as :: [has_course_prerequisites.personal](/_personal/schema-org/Relation/has/has_course_prerequisites.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_course_prerequisites.personal|has_course_prerequisites.personal]] 
 
-### #is_/same_as :: [has_course_prerequisites.secret](/_secret/schema-org/Relation/has/has_course_prerequisites.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_course_prerequisites.secret|has_course_prerequisites.secret]] 
 

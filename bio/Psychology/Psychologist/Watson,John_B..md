@@ -85,17 +85,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/John%20Broadus%20Watso
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Watson,John_B.](/_Standards/bio/Psychology/Psychologist/Watson,John_B..md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychologist/Watson,John_B.|Watson,John_B.]] 
 
-### #is_/same_as :: [Watson,John_B..public](/_public/bio/Psychology/Psychologist/Watson,John_B..public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychologist/Watson,John_B..public|Watson,John_B..public]] 
 
-### #is_/same_as :: [Watson,John_B..internal](/_internal/bio/Psychology/Psychologist/Watson,John_B..internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychologist/Watson,John_B..internal|Watson,John_B..internal]] 
 
-### #is_/same_as :: [Watson,John_B..protect](/_protect/bio/Psychology/Psychologist/Watson,John_B..protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychologist/Watson,John_B..protect|Watson,John_B..protect]] 
 
-### #is_/same_as :: [Watson,John_B..private](/_private/bio/Psychology/Psychologist/Watson,John_B..private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychologist/Watson,John_B..private|Watson,John_B..private]] 
 
-### #is_/same_as :: [Watson,John_B..personal](/_personal/bio/Psychology/Psychologist/Watson,John_B..personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychologist/Watson,John_B..personal|Watson,John_B..personal]] 
 
-### #is_/same_as :: [Watson,John_B..secret](/_secret/bio/Psychology/Psychologist/Watson,John_B..secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychologist/Watson,John_B..secret|Watson,John_B..secret]] 
 

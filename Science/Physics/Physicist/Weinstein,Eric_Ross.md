@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weinstein,Eric_Ross](/_Standards/Science/Physics/Physicist/Weinstein,Eric_Ross.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Weinstein,Eric_Ross|Weinstein,Eric_Ross]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.public](/_public/Science/Physics/Physicist/Weinstein,Eric_Ross.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Weinstein,Eric_Ross.public|Weinstein,Eric_Ross.public]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.internal](/_internal/Science/Physics/Physicist/Weinstein,Eric_Ross.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Weinstein,Eric_Ross.internal|Weinstein,Eric_Ross.internal]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.protect](/_protect/Science/Physics/Physicist/Weinstein,Eric_Ross.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Weinstein,Eric_Ross.protect|Weinstein,Eric_Ross.protect]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.private](/_private/Science/Physics/Physicist/Weinstein,Eric_Ross.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Weinstein,Eric_Ross.private|Weinstein,Eric_Ross.private]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.personal](/_personal/Science/Physics/Physicist/Weinstein,Eric_Ross.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Weinstein,Eric_Ross.personal|Weinstein,Eric_Ross.personal]] 
 
-### #is_/same_as :: [Weinstein,Eric_Ross.secret](/_secret/Science/Physics/Physicist/Weinstein,Eric_Ross.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Weinstein,Eric_Ross.secret|Weinstein,Eric_Ross.secret]] 
 

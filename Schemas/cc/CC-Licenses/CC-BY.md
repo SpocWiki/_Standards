@@ -40,17 +40,17 @@ This has a dual Benefit:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CC-BY](/_Standards/Schemas/cc/CC-Licenses/CC-BY.md) 
+### #is_/same_as :: [[/_Standards/Schemas/cc/CC-Licenses/CC-BY|CC-BY]] 
 
-### #is_/same_as :: [CC-BY.public](/_public/Schemas/cc/CC-Licenses/CC-BY.public.md) 
+### #is_/same_as :: [[/_public/Schemas/cc/CC-Licenses/CC-BY.public|CC-BY.public]] 
 
-### #is_/same_as :: [CC-BY.internal](/_internal/Schemas/cc/CC-Licenses/CC-BY.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/cc/CC-Licenses/CC-BY.internal|CC-BY.internal]] 
 
-### #is_/same_as :: [CC-BY.protect](/_protect/Schemas/cc/CC-Licenses/CC-BY.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/cc/CC-Licenses/CC-BY.protect|CC-BY.protect]] 
 
-### #is_/same_as :: [CC-BY.private](/_private/Schemas/cc/CC-Licenses/CC-BY.private.md) 
+### #is_/same_as :: [[/_private/Schemas/cc/CC-Licenses/CC-BY.private|CC-BY.private]] 
 
-### #is_/same_as :: [CC-BY.personal](/_personal/Schemas/cc/CC-Licenses/CC-BY.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/cc/CC-Licenses/CC-BY.personal|CC-BY.personal]] 
 
-### #is_/same_as :: [CC-BY.secret](/_secret/Schemas/cc/CC-Licenses/CC-BY.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/cc/CC-Licenses/CC-BY.secret|CC-BY.secret]] 
 

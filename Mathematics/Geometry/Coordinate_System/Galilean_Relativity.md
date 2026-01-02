@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Galilean_Relativity](/_Standards/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Coordinate_System/Galilean_Relativity|Galilean_Relativity]] 
 
-### #is_/same_as :: [Galilean_Relativity.public](/_public/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.public|Galilean_Relativity.public]] 
 
-### #is_/same_as :: [Galilean_Relativity.internal](/_internal/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.internal|Galilean_Relativity.internal]] 
 
-### #is_/same_as :: [Galilean_Relativity.protect](/_protect/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.protect|Galilean_Relativity.protect]] 
 
-### #is_/same_as :: [Galilean_Relativity.private](/_private/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.private|Galilean_Relativity.private]] 
 
-### #is_/same_as :: [Galilean_Relativity.personal](/_personal/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.personal|Galilean_Relativity.personal]] 
 
-### #is_/same_as :: [Galilean_Relativity.secret](/_secret/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Coordinate_System/Galilean_Relativity.secret|Galilean_Relativity.secret]] 
 

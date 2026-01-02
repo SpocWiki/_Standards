@@ -64,17 +64,17 @@ Copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cephalopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda|Cephalopoda]] 
 
-### #is_/same_as :: [Cephalopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.public|Cephalopoda.public]] 
 
-### #is_/same_as :: [Cephalopoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.internal|Cephalopoda.internal]] 
 
-### #is_/same_as :: [Cephalopoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.protect|Cephalopoda.protect]] 
 
-### #is_/same_as :: [Cephalopoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.private|Cephalopoda.private]] 
 
-### #is_/same_as :: [Cephalopoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.personal|Cephalopoda.personal]] 
 
-### #is_/same_as :: [Cephalopoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca/Cephalopoda.secret|Cephalopoda.secret]] 
 

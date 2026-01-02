@@ -263,17 +263,17 @@ Europeana_entity: agent/base/60307
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blake,William](/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William|Blake,William]] 
 
-### #is_/same_as :: [Blake,William.public](/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.public|Blake,William.public]] 
 
-### #is_/same_as :: [Blake,William.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.internal|Blake,William.internal]] 
 
-### #is_/same_as :: [Blake,William.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.protect|Blake,William.protect]] 
 
-### #is_/same_as :: [Blake,William.private](/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.private|Blake,William.private]] 
 
-### #is_/same_as :: [Blake,William.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.personal|Blake,William.personal]] 
 
-### #is_/same_as :: [Blake,William.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry/Poet/Blake,William.secret|Blake,William.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_label_details](/_Standards/schema-org/Property/has_url_for/has_url_for_label_details.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_label_details|has_url_for_label_details]] 
 
-### #is_/same_as :: [has_url_for_label_details.public](/_public/schema-org/Property/has_url_for/has_url_for_label_details.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_label_details.public|has_url_for_label_details.public]] 
 
-### #is_/same_as :: [has_url_for_label_details.internal](/_internal/schema-org/Property/has_url_for/has_url_for_label_details.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_label_details.internal|has_url_for_label_details.internal]] 
 
-### #is_/same_as :: [has_url_for_label_details.protect](/_protect/schema-org/Property/has_url_for/has_url_for_label_details.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_label_details.protect|has_url_for_label_details.protect]] 
 
-### #is_/same_as :: [has_url_for_label_details.private](/_private/schema-org/Property/has_url_for/has_url_for_label_details.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_label_details.private|has_url_for_label_details.private]] 
 
-### #is_/same_as :: [has_url_for_label_details.personal](/_personal/schema-org/Property/has_url_for/has_url_for_label_details.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_label_details.personal|has_url_for_label_details.personal]] 
 
-### #is_/same_as :: [has_url_for_label_details.secret](/_secret/schema-org/Property/has_url_for/has_url_for_label_details.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_label_details.secret|has_url_for_label_details.secret]] 
 

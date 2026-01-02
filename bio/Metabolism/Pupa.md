@@ -54,17 +54,17 @@ Commons_category: Pupae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pupa](/_Standards/bio/Metabolism/Pupa.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Pupa|Pupa]] 
 
-### #is_/same_as :: [Pupa.public](/_public/bio/Metabolism/Pupa.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Pupa.public|Pupa.public]] 
 
-### #is_/same_as :: [Pupa.internal](/_internal/bio/Metabolism/Pupa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Pupa.internal|Pupa.internal]] 
 
-### #is_/same_as :: [Pupa.protect](/_protect/bio/Metabolism/Pupa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Pupa.protect|Pupa.protect]] 
 
-### #is_/same_as :: [Pupa.private](/_private/bio/Metabolism/Pupa.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Pupa.private|Pupa.private]] 
 
-### #is_/same_as :: [Pupa.personal](/_personal/bio/Metabolism/Pupa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Pupa.personal|Pupa.personal]] 
 
-### #is_/same_as :: [Pupa.secret](/_secret/bio/Metabolism/Pupa.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Pupa.secret|Pupa.secret]] 
 

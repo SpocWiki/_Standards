@@ -79,17 +79,17 @@ a^(b ^ c)  !=  (a ^ b) ^ c = a^(b * c)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [associative](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/associative|associative]] 
 
-### #is_/same_as :: [associative.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.public|associative.public]] 
 
-### #is_/same_as :: [associative.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.internal|associative.internal]] 
 
-### #is_/same_as :: [associative.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.protect|associative.protect]] 
 
-### #is_/same_as :: [associative.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.private|associative.private]] 
 
-### #is_/same_as :: [associative.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.personal|associative.personal]] 
 
-### #is_/same_as :: [associative.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/associative.secret|associative.secret]] 
 

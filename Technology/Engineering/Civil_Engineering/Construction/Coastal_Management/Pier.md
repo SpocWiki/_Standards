@@ -75,17 +75,17 @@ OpenStreetMap_tag: man_made=pier
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pier](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier|Pier]] 
 
-### #is_/same_as :: [Pier.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.public|Pier.public]] 
 
-### #is_/same_as :: [Pier.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.internal|Pier.internal]] 
 
-### #is_/same_as :: [Pier.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.protect|Pier.protect]] 
 
-### #is_/same_as :: [Pier.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.private|Pier.private]] 
 
-### #is_/same_as :: [Pier.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.personal|Pier.personal]] 
 
-### #is_/same_as :: [Pier.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Coastal_Management/Pier.secret|Pier.secret]] 
 

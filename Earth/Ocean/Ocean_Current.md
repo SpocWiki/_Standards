@@ -55,17 +55,17 @@ Colon_Classification: U2562
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ocean_Current](/_Standards/Earth/Ocean/Ocean_Current.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean_Current|Ocean_Current]] 
 
-### #is_/same_as :: [Ocean_Current.public](/_public/Earth/Ocean/Ocean_Current.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean_Current.public|Ocean_Current.public]] 
 
-### #is_/same_as :: [Ocean_Current.internal](/_internal/Earth/Ocean/Ocean_Current.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean_Current.internal|Ocean_Current.internal]] 
 
-### #is_/same_as :: [Ocean_Current.protect](/_protect/Earth/Ocean/Ocean_Current.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean_Current.protect|Ocean_Current.protect]] 
 
-### #is_/same_as :: [Ocean_Current.private](/_private/Earth/Ocean/Ocean_Current.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean_Current.private|Ocean_Current.private]] 
 
-### #is_/same_as :: [Ocean_Current.personal](/_personal/Earth/Ocean/Ocean_Current.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean_Current.personal|Ocean_Current.personal]] 
 
-### #is_/same_as :: [Ocean_Current.secret](/_secret/Earth/Ocean/Ocean_Current.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean_Current.secret|Ocean_Current.secret]] 
 

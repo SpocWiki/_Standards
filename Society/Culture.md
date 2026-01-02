@@ -83,17 +83,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_culture,4773237]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Culture](/_Standards/Society/Culture.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture|Culture]] 
 
-### #is_/same_as :: [Culture.public](/_public/Society/Culture.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture.public|Culture.public]] 
 
-### #is_/same_as :: [Culture.internal](/_internal/Society/Culture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture.internal|Culture.internal]] 
 
-### #is_/same_as :: [Culture.protect](/_protect/Society/Culture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture.protect|Culture.protect]] 
 
-### #is_/same_as :: [Culture.private](/_private/Society/Culture.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture.private|Culture.private]] 
 
-### #is_/same_as :: [Culture.personal](/_personal/Society/Culture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture.personal|Culture.personal]] 
 
-### #is_/same_as :: [Culture.secret](/_secret/Society/Culture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture.secret|Culture.secret]] 
 

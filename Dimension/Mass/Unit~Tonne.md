@@ -77,17 +77,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q191118 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Tonne](/_Standards/Dimension/Mass/Unit~Tonne.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Mass/Unit~Tonne|Unit~Tonne]] 
 
-### #is_/same_as :: [Unit~Tonne.public](/_public/Dimension/Mass/Unit~Tonne.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Mass/Unit~Tonne.public|Unit~Tonne.public]] 
 
-### #is_/same_as :: [Unit~Tonne.internal](/_internal/Dimension/Mass/Unit~Tonne.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Mass/Unit~Tonne.internal|Unit~Tonne.internal]] 
 
-### #is_/same_as :: [Unit~Tonne.protect](/_protect/Dimension/Mass/Unit~Tonne.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Mass/Unit~Tonne.protect|Unit~Tonne.protect]] 
 
-### #is_/same_as :: [Unit~Tonne.private](/_private/Dimension/Mass/Unit~Tonne.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Mass/Unit~Tonne.private|Unit~Tonne.private]] 
 
-### #is_/same_as :: [Unit~Tonne.personal](/_personal/Dimension/Mass/Unit~Tonne.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Mass/Unit~Tonne.personal|Unit~Tonne.personal]] 
 
-### #is_/same_as :: [Unit~Tonne.secret](/_secret/Dimension/Mass/Unit~Tonne.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Mass/Unit~Tonne.secret|Unit~Tonne.secret]] 
 

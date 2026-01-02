@@ -55,17 +55,17 @@ Amazon_com_browse_node: "16319741"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stew](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew|Stew]] 
 
-### #is_/same_as :: [Stew.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.public|Stew.public]] 
 
-### #is_/same_as :: [Stew.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.internal|Stew.internal]] 
 
-### #is_/same_as :: [Stew.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.protect|Stew.protect]] 
 
-### #is_/same_as :: [Stew.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.private|Stew.private]] 
 
-### #is_/same_as :: [Stew.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.personal|Stew.personal]] 
 
-### #is_/same_as :: [Stew.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Stew.secret|Stew.secret]] 
 

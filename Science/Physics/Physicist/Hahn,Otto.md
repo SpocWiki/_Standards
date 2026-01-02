@@ -209,17 +209,17 @@ ISNI: 000000010902412X
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hahn,Otto](/_Standards/Science/Physics/Physicist/Hahn,Otto.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Hahn,Otto|Hahn,Otto]] 
 
-### #is_/same_as :: [Hahn,Otto.public](/_public/Science/Physics/Physicist/Hahn,Otto.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Hahn,Otto.public|Hahn,Otto.public]] 
 
-### #is_/same_as :: [Hahn,Otto.internal](/_internal/Science/Physics/Physicist/Hahn,Otto.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Hahn,Otto.internal|Hahn,Otto.internal]] 
 
-### #is_/same_as :: [Hahn,Otto.protect](/_protect/Science/Physics/Physicist/Hahn,Otto.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Hahn,Otto.protect|Hahn,Otto.protect]] 
 
-### #is_/same_as :: [Hahn,Otto.private](/_private/Science/Physics/Physicist/Hahn,Otto.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Hahn,Otto.private|Hahn,Otto.private]] 
 
-### #is_/same_as :: [Hahn,Otto.personal](/_personal/Science/Physics/Physicist/Hahn,Otto.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Hahn,Otto.personal|Hahn,Otto.personal]] 
 
-### #is_/same_as :: [Hahn,Otto.secret](/_secret/Science/Physics/Physicist/Hahn,Otto.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Hahn,Otto.secret|Hahn,Otto.secret]] 
 

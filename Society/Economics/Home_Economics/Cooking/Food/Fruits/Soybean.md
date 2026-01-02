@@ -218,17 +218,17 @@ sequenced_genome_URL: https://plants.ensembl.org/Glycine_max
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soybean](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean|Soybean]] 
 
-### #is_/same_as :: [Soybean.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.public|Soybean.public]] 
 
-### #is_/same_as :: [Soybean.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.internal|Soybean.internal]] 
 
-### #is_/same_as :: [Soybean.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.protect|Soybean.protect]] 
 
-### #is_/same_as :: [Soybean.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.private|Soybean.private]] 
 
-### #is_/same_as :: [Soybean.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.personal|Soybean.personal]] 
 
-### #is_/same_as :: [Soybean.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Soybean.secret|Soybean.secret]] 
 

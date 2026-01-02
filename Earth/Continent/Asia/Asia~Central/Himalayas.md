@@ -84,17 +84,17 @@ width: 250
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Himalayas](/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Himalayas|Himalayas]] 
 
-### #is_/same_as :: [Himalayas.public](/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Himalayas.public|Himalayas.public]] 
 
-### #is_/same_as :: [Himalayas.internal](/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Himalayas.internal|Himalayas.internal]] 
 
-### #is_/same_as :: [Himalayas.protect](/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Himalayas.protect|Himalayas.protect]] 
 
-### #is_/same_as :: [Himalayas.private](/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Himalayas.private|Himalayas.private]] 
 
-### #is_/same_as :: [Himalayas.personal](/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Himalayas.personal|Himalayas.personal]] 
 
-### #is_/same_as :: [Himalayas.secret](/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Himalayas.secret|Himalayas.secret]] 
 

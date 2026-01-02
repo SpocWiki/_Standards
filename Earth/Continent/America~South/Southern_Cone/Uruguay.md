@@ -616,17 +616,17 @@ With such a diversified profile, Uruguay exports electricity to Brazil and Argen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Uruguay](/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Southern_Cone/Uruguay|Uruguay]] 
 
-### #is_/same_as :: [Uruguay.public](/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Southern_Cone/Uruguay.public|Uruguay.public]] 
 
-### #is_/same_as :: [Uruguay.internal](/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Southern_Cone/Uruguay.internal|Uruguay.internal]] 
 
-### #is_/same_as :: [Uruguay.protect](/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Southern_Cone/Uruguay.protect|Uruguay.protect]] 
 
-### #is_/same_as :: [Uruguay.private](/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]] 
 
-### #is_/same_as :: [Uruguay.personal](/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]] 
 
-### #is_/same_as :: [Uruguay.secret](/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]] 
 

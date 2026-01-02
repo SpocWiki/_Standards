@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_report_number](/_Standards/schema-org/Property/Texts/has_report_number.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_report_number|has_report_number]] 
 
-### #is_/same_as :: [has_report_number.public](/_public/schema-org/Property/Texts/has_report_number.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_report_number.public|has_report_number.public]] 
 
-### #is_/same_as :: [has_report_number.internal](/_internal/schema-org/Property/Texts/has_report_number.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_report_number.internal|has_report_number.internal]] 
 
-### #is_/same_as :: [has_report_number.protect](/_protect/schema-org/Property/Texts/has_report_number.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_report_number.protect|has_report_number.protect]] 
 
-### #is_/same_as :: [has_report_number.private](/_private/schema-org/Property/Texts/has_report_number.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_report_number.private|has_report_number.private]] 
 
-### #is_/same_as :: [has_report_number.personal](/_personal/schema-org/Property/Texts/has_report_number.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_report_number.personal|has_report_number.personal]] 
 
-### #is_/same_as :: [has_report_number.secret](/_secret/schema-org/Property/Texts/has_report_number.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_report_number.secret|has_report_number.secret]] 
 

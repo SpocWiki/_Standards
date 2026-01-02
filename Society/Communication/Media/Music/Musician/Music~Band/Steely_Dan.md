@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steely_Dan](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan|Steely_Dan]] 
 
-### #is_/same_as :: [Steely_Dan.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.public|Steely_Dan.public]] 
 
-### #is_/same_as :: [Steely_Dan.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.internal|Steely_Dan.internal]] 
 
-### #is_/same_as :: [Steely_Dan.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.protect|Steely_Dan.protect]] 
 
-### #is_/same_as :: [Steely_Dan.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.private|Steely_Dan.private]] 
 
-### #is_/same_as :: [Steely_Dan.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.personal|Steely_Dan.personal]] 
 
-### #is_/same_as :: [Steely_Dan.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Steely_Dan.secret|Steely_Dan.secret]] 
 

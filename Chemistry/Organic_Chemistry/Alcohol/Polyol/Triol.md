@@ -24,17 +24,17 @@ Commons_category: Triols
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Triol](/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol|Triol]] 
 
-### #is_/same_as :: [Triol.public](/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.public|Triol.public]] 
 
-### #is_/same_as :: [Triol.internal](/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.internal|Triol.internal]] 
 
-### #is_/same_as :: [Triol.protect](/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.protect|Triol.protect]] 
 
-### #is_/same_as :: [Triol.private](/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.private|Triol.private]] 
 
-### #is_/same_as :: [Triol.personal](/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.personal|Triol.personal]] 
 
-### #is_/same_as :: [Triol.secret](/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Alcohol/Polyol/Triol.secret|Triol.secret]] 
 

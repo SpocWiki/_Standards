@@ -24,17 +24,17 @@ The SI-Unit is [[../Unit_of_Measurement/SI-Unit/derived_Unit/Unit~Newton|Unit~Ne
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Force](/_Standards/Dimension/Linear_Dimension/Force.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Force|Force]] 
 
-### #is_/same_as :: [Force.public](/_public/Dimension/Linear_Dimension/Force.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Force.public|Force.public]] 
 
-### #is_/same_as :: [Force.internal](/_internal/Dimension/Linear_Dimension/Force.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Force.internal|Force.internal]] 
 
-### #is_/same_as :: [Force.protect](/_protect/Dimension/Linear_Dimension/Force.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Force.protect|Force.protect]] 
 
-### #is_/same_as :: [Force.private](/_private/Dimension/Linear_Dimension/Force.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Force.private|Force.private]] 
 
-### #is_/same_as :: [Force.personal](/_personal/Dimension/Linear_Dimension/Force.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Force.personal|Force.personal]] 
 
-### #is_/same_as :: [Force.secret](/_secret/Dimension/Linear_Dimension/Force.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Force.secret|Force.secret]] 
 

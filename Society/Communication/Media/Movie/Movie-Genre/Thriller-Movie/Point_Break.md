@@ -35,17 +35,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Point_Break](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break|Point_Break]] 
 
-### #is_/same_as :: [Point_Break.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.public|Point_Break.public]] 
 
-### #is_/same_as :: [Point_Break.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.internal|Point_Break.internal]] 
 
-### #is_/same_as :: [Point_Break.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.protect|Point_Break.protect]] 
 
-### #is_/same_as :: [Point_Break.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.private|Point_Break.private]] 
 
-### #is_/same_as :: [Point_Break.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.personal|Point_Break.personal]] 
 
-### #is_/same_as :: [Point_Break.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Point_Break.secret|Point_Break.secret]] 
 

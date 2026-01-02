@@ -48,17 +48,17 @@ TocEntry:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thin
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HyperToc](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc|FileClass~HyperToc]] 
 
-### #is_/same_as :: [FileClass~HyperToc.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.public|FileClass~HyperToc.public]] 
 
-### #is_/same_as :: [FileClass~HyperToc.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.internal|FileClass~HyperToc.internal]] 
 
-### #is_/same_as :: [FileClass~HyperToc.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.protect|FileClass~HyperToc.protect]] 
 
-### #is_/same_as :: [FileClass~HyperToc.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.private|FileClass~HyperToc.private]] 
 
-### #is_/same_as :: [FileClass~HyperToc.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.personal|FileClass~HyperToc.personal]] 
 
-### #is_/same_as :: [FileClass~HyperToc.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~HyperToc.secret|FileClass~HyperToc.secret]] 
 

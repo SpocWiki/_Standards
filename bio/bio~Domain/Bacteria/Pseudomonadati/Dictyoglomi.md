@@ -66,17 +66,17 @@ title: Dictyoglomi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dictyoglomi](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi|Dictyoglomi]] 
 
-### #is_/same_as :: [Dictyoglomi.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.public|Dictyoglomi.public]] 
 
-### #is_/same_as :: [Dictyoglomi.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.internal|Dictyoglomi.internal]] 
 
-### #is_/same_as :: [Dictyoglomi.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.protect|Dictyoglomi.protect]] 
 
-### #is_/same_as :: [Dictyoglomi.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.private|Dictyoglomi.private]] 
 
-### #is_/same_as :: [Dictyoglomi.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.personal|Dictyoglomi.personal]] 
 
-### #is_/same_as :: [Dictyoglomi.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Dictyoglomi.secret|Dictyoglomi.secret]] 
 

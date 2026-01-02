@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_amenity_feature](/_Standards/schema-org/Relation/has/has_amenity_feature.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_amenity_feature|has_amenity_feature]] 
 
-### #is_/same_as :: [has_amenity_feature.public](/_public/schema-org/Relation/has/has_amenity_feature.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_amenity_feature.public|has_amenity_feature.public]] 
 
-### #is_/same_as :: [has_amenity_feature.internal](/_internal/schema-org/Relation/has/has_amenity_feature.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_amenity_feature.internal|has_amenity_feature.internal]] 
 
-### #is_/same_as :: [has_amenity_feature.protect](/_protect/schema-org/Relation/has/has_amenity_feature.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_amenity_feature.protect|has_amenity_feature.protect]] 
 
-### #is_/same_as :: [has_amenity_feature.private](/_private/schema-org/Relation/has/has_amenity_feature.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_amenity_feature.private|has_amenity_feature.private]] 
 
-### #is_/same_as :: [has_amenity_feature.personal](/_personal/schema-org/Relation/has/has_amenity_feature.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_amenity_feature.personal|has_amenity_feature.personal]] 
 
-### #is_/same_as :: [has_amenity_feature.secret](/_secret/schema-org/Relation/has/has_amenity_feature.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_amenity_feature.secret|has_amenity_feature.secret]] 
 

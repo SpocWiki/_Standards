@@ -61,17 +61,17 @@ Commons_category: Zithers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zither](/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither|Zither]] 
 
-### #is_/same_as :: [Zither.public](/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.public|Zither.public]] 
 
-### #is_/same_as :: [Zither.internal](/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.internal|Zither.internal]] 
 
-### #is_/same_as :: [Zither.protect](/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.protect|Zither.protect]] 
 
-### #is_/same_as :: [Zither.private](/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.private|Zither.private]] 
 
-### #is_/same_as :: [Zither.personal](/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.personal|Zither.personal]] 
 
-### #is_/same_as :: [Zither.secret](/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musical_Instrument/String_Instrument/Zither.secret|Zither.secret]] 
 

@@ -80,17 +80,17 @@ coordinate_location: Point(-8.170555555 76.668888888)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greenland_Sea](/_Standards/Earth/Ocean/Ocean~Arctic/Greenland_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Arctic/Greenland_Sea|Greenland_Sea]] 
 
-### #is_/same_as :: [Greenland_Sea.public](/_public/Earth/Ocean/Ocean~Arctic/Greenland_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Arctic/Greenland_Sea.public|Greenland_Sea.public]] 
 
-### #is_/same_as :: [Greenland_Sea.internal](/_internal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.internal|Greenland_Sea.internal]] 
 
-### #is_/same_as :: [Greenland_Sea.protect](/_protect/Earth/Ocean/Ocean~Arctic/Greenland_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Arctic/Greenland_Sea.protect|Greenland_Sea.protect]] 
 
-### #is_/same_as :: [Greenland_Sea.private](/_private/Earth/Ocean/Ocean~Arctic/Greenland_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Arctic/Greenland_Sea.private|Greenland_Sea.private]] 
 
-### #is_/same_as :: [Greenland_Sea.personal](/_personal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Arctic/Greenland_Sea.personal|Greenland_Sea.personal]] 
 
-### #is_/same_as :: [Greenland_Sea.secret](/_secret/Earth/Ocean/Ocean~Arctic/Greenland_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Arctic/Greenland_Sea.secret|Greenland_Sea.secret]] 
 

@@ -37,17 +37,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sutherland,Donald](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald|Sutherland,Donald]] 
 
-### #is_/same_as :: [Sutherland,Donald.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.public|Sutherland,Donald.public]] 
 
-### #is_/same_as :: [Sutherland,Donald.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.internal|Sutherland,Donald.internal]] 
 
-### #is_/same_as :: [Sutherland,Donald.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.protect|Sutherland,Donald.protect]] 
 
-### #is_/same_as :: [Sutherland,Donald.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.private|Sutherland,Donald.private]] 
 
-### #is_/same_as :: [Sutherland,Donald.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.personal|Sutherland,Donald.personal]] 
 
-### #is_/same_as :: [Sutherland,Donald.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Sutherland,Donald.secret|Sutherland,Donald.secret]] 
 

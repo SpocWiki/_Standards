@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_arrival_gate](/_Standards/schema-org/Property/Texts/has_arrival_gate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_arrival_gate|has_arrival_gate]] 
 
-### #is_/same_as :: [has_arrival_gate.public](/_public/schema-org/Property/Texts/has_arrival_gate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_arrival_gate.public|has_arrival_gate.public]] 
 
-### #is_/same_as :: [has_arrival_gate.internal](/_internal/schema-org/Property/Texts/has_arrival_gate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_arrival_gate.internal|has_arrival_gate.internal]] 
 
-### #is_/same_as :: [has_arrival_gate.protect](/_protect/schema-org/Property/Texts/has_arrival_gate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_arrival_gate.protect|has_arrival_gate.protect]] 
 
-### #is_/same_as :: [has_arrival_gate.private](/_private/schema-org/Property/Texts/has_arrival_gate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_arrival_gate.private|has_arrival_gate.private]] 
 
-### #is_/same_as :: [has_arrival_gate.personal](/_personal/schema-org/Property/Texts/has_arrival_gate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_arrival_gate.personal|has_arrival_gate.personal]] 
 
-### #is_/same_as :: [has_arrival_gate.secret](/_secret/schema-org/Property/Texts/has_arrival_gate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_arrival_gate.secret|has_arrival_gate.secret]] 
 

@@ -43,17 +43,17 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dust_Bowl](/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl|Dust_Bowl]] 
 
-### #is_/same_as :: [Dust_Bowl.public](/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.public|Dust_Bowl.public]] 
 
-### #is_/same_as :: [Dust_Bowl.internal](/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.internal|Dust_Bowl.internal]] 
 
-### #is_/same_as :: [Dust_Bowl.protect](/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.protect|Dust_Bowl.protect]] 
 
-### #is_/same_as :: [Dust_Bowl.private](/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.private|Dust_Bowl.private]] 
 
-### #is_/same_as :: [Dust_Bowl.personal](/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.personal|Dust_Bowl.personal]] 
 
-### #is_/same_as :: [Dust_Bowl.secret](/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/Plain-North_America/Great_Plains/Dust_Bowl.secret|Dust_Bowl.secret]] 
 

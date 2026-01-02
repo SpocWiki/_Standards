@@ -111,17 +111,17 @@ Commons_category: Sagrada Família
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sagrada_Família](/_Standards/Earth/Geography/Place/Sagrada_Família.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Sagrada_Família|Sagrada_Família]] 
 
-### #is_/same_as :: [Sagrada_Família.public](/_public/Earth/Geography/Place/Sagrada_Família.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Sagrada_Família.public|Sagrada_Família.public]] 
 
-### #is_/same_as :: [Sagrada_Família.internal](/_internal/Earth/Geography/Place/Sagrada_Família.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Sagrada_Família.internal|Sagrada_Família.internal]] 
 
-### #is_/same_as :: [Sagrada_Família.protect](/_protect/Earth/Geography/Place/Sagrada_Família.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Sagrada_Família.protect|Sagrada_Família.protect]] 
 
-### #is_/same_as :: [Sagrada_Família.private](/_private/Earth/Geography/Place/Sagrada_Família.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Sagrada_Família.private|Sagrada_Família.private]] 
 
-### #is_/same_as :: [Sagrada_Família.personal](/_personal/Earth/Geography/Place/Sagrada_Família.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Sagrada_Família.personal|Sagrada_Família.personal]] 
 
-### #is_/same_as :: [Sagrada_Família.secret](/_secret/Earth/Geography/Place/Sagrada_Família.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Sagrada_Família.secret|Sagrada_Família.secret]] 
 

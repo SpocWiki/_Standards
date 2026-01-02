@@ -128,17 +128,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Mahabharata,5754633]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mahabharata](/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata|Mahabharata]] 
 
-### #is_/same_as :: [Mahabharata.public](/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.public|Mahabharata.public]] 
 
-### #is_/same_as :: [Mahabharata.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.internal|Mahabharata.internal]] 
 
-### #is_/same_as :: [Mahabharata.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.protect|Mahabharata.protect]] 
 
-### #is_/same_as :: [Mahabharata.private](/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.private|Mahabharata.private]] 
 
-### #is_/same_as :: [Mahabharata.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.personal|Mahabharata.personal]] 
 
-### #is_/same_as :: [Mahabharata.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Legend/Mahabharata.secret|Mahabharata.secret]] 
 

@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_country_of_assembly](/_Standards/schema-org/Property/Texts/has_country_of_assembly.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_country_of_assembly|has_country_of_assembly]] 
 
-### #is_/same_as :: [has_country_of_assembly.public](/_public/schema-org/Property/Texts/has_country_of_assembly.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_country_of_assembly.public|has_country_of_assembly.public]] 
 
-### #is_/same_as :: [has_country_of_assembly.internal](/_internal/schema-org/Property/Texts/has_country_of_assembly.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_country_of_assembly.internal|has_country_of_assembly.internal]] 
 
-### #is_/same_as :: [has_country_of_assembly.protect](/_protect/schema-org/Property/Texts/has_country_of_assembly.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_country_of_assembly.protect|has_country_of_assembly.protect]] 
 
-### #is_/same_as :: [has_country_of_assembly.private](/_private/schema-org/Property/Texts/has_country_of_assembly.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_country_of_assembly.private|has_country_of_assembly.private]] 
 
-### #is_/same_as :: [has_country_of_assembly.personal](/_personal/schema-org/Property/Texts/has_country_of_assembly.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_country_of_assembly.personal|has_country_of_assembly.personal]] 
 
-### #is_/same_as :: [has_country_of_assembly.secret](/_secret/schema-org/Property/Texts/has_country_of_assembly.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_country_of_assembly.secret|has_country_of_assembly.secret]] 
 

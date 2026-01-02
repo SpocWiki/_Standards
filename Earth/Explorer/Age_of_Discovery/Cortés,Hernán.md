@@ -122,17 +122,17 @@ work_period_start_: 1504
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cortés,Hernán](/_Standards/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/Cortés,Hernán|Cortés,Hernán]] 
 
-### #is_/same_as :: [Cortés,Hernán.public](/_public/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.public|Cortés,Hernán.public]] 
 
-### #is_/same_as :: [Cortés,Hernán.internal](/_internal/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.internal|Cortés,Hernán.internal]] 
 
-### #is_/same_as :: [Cortés,Hernán.protect](/_protect/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.protect|Cortés,Hernán.protect]] 
 
-### #is_/same_as :: [Cortés,Hernán.private](/_private/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.private|Cortés,Hernán.private]] 
 
-### #is_/same_as :: [Cortés,Hernán.personal](/_personal/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.personal|Cortés,Hernán.personal]] 
 
-### #is_/same_as :: [Cortés,Hernán.secret](/_secret/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.secret|Cortés,Hernán.secret]] 
 

@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_game_item](/_Standards/schema-org/Relation/has/has_game_item.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_game_item|has_game_item]] 
 
-### #is_/same_as :: [has_game_item.public](/_public/schema-org/Relation/has/has_game_item.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_game_item.public|has_game_item.public]] 
 
-### #is_/same_as :: [has_game_item.internal](/_internal/schema-org/Relation/has/has_game_item.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_game_item.internal|has_game_item.internal]] 
 
-### #is_/same_as :: [has_game_item.protect](/_protect/schema-org/Relation/has/has_game_item.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_game_item.protect|has_game_item.protect]] 
 
-### #is_/same_as :: [has_game_item.private](/_private/schema-org/Relation/has/has_game_item.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_game_item.private|has_game_item.private]] 
 
-### #is_/same_as :: [has_game_item.personal](/_personal/schema-org/Relation/has/has_game_item.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_game_item.personal|has_game_item.personal]] 
 
-### #is_/same_as :: [has_game_item.secret](/_secret/schema-org/Relation/has/has_game_item.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_game_item.secret|has_game_item.secret]] 
 

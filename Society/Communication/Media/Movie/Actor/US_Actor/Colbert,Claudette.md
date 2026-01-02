@@ -89,17 +89,17 @@ U_S_National_Archives_Identifier: 17366220
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Colbert,Claudette](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette|Colbert,Claudette]] 
 
-### #is_/same_as :: [Colbert,Claudette.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.public|Colbert,Claudette.public]] 
 
-### #is_/same_as :: [Colbert,Claudette.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.internal|Colbert,Claudette.internal]] 
 
-### #is_/same_as :: [Colbert,Claudette.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.protect|Colbert,Claudette.protect]] 
 
-### #is_/same_as :: [Colbert,Claudette.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.private|Colbert,Claudette.private]] 
 
-### #is_/same_as :: [Colbert,Claudette.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.personal|Colbert,Claudette.personal]] 
 
-### #is_/same_as :: [Colbert,Claudette.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Colbert,Claudette.secret|Colbert,Claudette.secret]] 
 

@@ -100,17 +100,17 @@ date_of_birth: 1914-07-31T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Funès,Louis_de](/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de|Funès,Louis_de]] 
 
-### #is_/same_as :: [Funès,Louis_de.public](/_public/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.public|Funès,Louis_de.public]] 
 
-### #is_/same_as :: [Funès,Louis_de.internal](/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.internal|Funès,Louis_de.internal]] 
 
-### #is_/same_as :: [Funès,Louis_de.protect](/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.protect|Funès,Louis_de.protect]] 
 
-### #is_/same_as :: [Funès,Louis_de.private](/_private/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.private|Funès,Louis_de.private]] 
 
-### #is_/same_as :: [Funès,Louis_de.personal](/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.personal|Funès,Louis_de.personal]] 
 
-### #is_/same_as :: [Funès,Louis_de.secret](/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/French_Actor/Funès,Louis_de.secret|Funès,Louis_de.secret]] 
 

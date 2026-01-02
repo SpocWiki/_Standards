@@ -122,17 +122,17 @@ X_Twitter_username: FaithHill
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hill,Faith](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith|Hill,Faith]] 
 
-### #is_/same_as :: [Hill,Faith.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.public|Hill,Faith.public]] 
 
-### #is_/same_as :: [Hill,Faith.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.internal|Hill,Faith.internal]] 
 
-### #is_/same_as :: [Hill,Faith.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.protect|Hill,Faith.protect]] 
 
-### #is_/same_as :: [Hill,Faith.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.private|Hill,Faith.private]] 
 
-### #is_/same_as :: [Hill,Faith.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.personal|Hill,Faith.personal]] 
 
-### #is_/same_as :: [Hill,Faith.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Hill,Faith.secret|Hill,Faith.secret]] 
 

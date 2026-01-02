@@ -47,17 +47,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tangerine_Dream](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream|Tangerine_Dream]] 
 
-### #is_/same_as :: [Tangerine_Dream.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.public|Tangerine_Dream.public]] 
 
-### #is_/same_as :: [Tangerine_Dream.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.internal|Tangerine_Dream.internal]] 
 
-### #is_/same_as :: [Tangerine_Dream.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.protect|Tangerine_Dream.protect]] 
 
-### #is_/same_as :: [Tangerine_Dream.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.private|Tangerine_Dream.private]] 
 
-### #is_/same_as :: [Tangerine_Dream.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.personal|Tangerine_Dream.personal]] 
 
-### #is_/same_as :: [Tangerine_Dream.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Tangerine_Dream.secret|Tangerine_Dream.secret]] 
 

@@ -48,17 +48,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_recipe_ingredient](/_Standards/schema-org/Property/Texts/has_recipe_ingredient.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_recipe_ingredient|has_recipe_ingredient]] 
 
-### #is_/same_as :: [has_recipe_ingredient.public](/_public/schema-org/Property/Texts/has_recipe_ingredient.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_recipe_ingredient.public|has_recipe_ingredient.public]] 
 
-### #is_/same_as :: [has_recipe_ingredient.internal](/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_recipe_ingredient.internal|has_recipe_ingredient.internal]] 
 
-### #is_/same_as :: [has_recipe_ingredient.protect](/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_recipe_ingredient.protect|has_recipe_ingredient.protect]] 
 
-### #is_/same_as :: [has_recipe_ingredient.private](/_private/schema-org/Property/Texts/has_recipe_ingredient.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_recipe_ingredient.private|has_recipe_ingredient.private]] 
 
-### #is_/same_as :: [has_recipe_ingredient.personal](/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_recipe_ingredient.personal|has_recipe_ingredient.personal]] 
 
-### #is_/same_as :: [has_recipe_ingredient.secret](/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_recipe_ingredient.secret|has_recipe_ingredient.secret]] 
 

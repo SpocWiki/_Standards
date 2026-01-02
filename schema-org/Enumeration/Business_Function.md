@@ -52,17 +52,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Business_Function](/_Standards/schema-org/Enumeration/Business_Function.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Business_Function|Business_Function]] 
 
-### #is_/same_as :: [Business_Function.public](/_public/schema-org/Enumeration/Business_Function.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Business_Function.public|Business_Function.public]] 
 
-### #is_/same_as :: [Business_Function.internal](/_internal/schema-org/Enumeration/Business_Function.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Business_Function.internal|Business_Function.internal]] 
 
-### #is_/same_as :: [Business_Function.protect](/_protect/schema-org/Enumeration/Business_Function.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Business_Function.protect|Business_Function.protect]] 
 
-### #is_/same_as :: [Business_Function.private](/_private/schema-org/Enumeration/Business_Function.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Business_Function.private|Business_Function.private]] 
 
-### #is_/same_as :: [Business_Function.personal](/_personal/schema-org/Enumeration/Business_Function.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Business_Function.personal|Business_Function.personal]] 
 
-### #is_/same_as :: [Business_Function.secret](/_secret/schema-org/Enumeration/Business_Function.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Business_Function.secret|Business_Function.secret]] 
 

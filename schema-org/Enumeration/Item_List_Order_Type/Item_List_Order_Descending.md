@@ -42,17 +42,17 @@ An ItemList ordered with higher values listed first.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Item_List_Order_Descending](/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending|Item_List_Order_Descending]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.public](/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.public|Item_List_Order_Descending.public]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.internal](/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.internal|Item_List_Order_Descending.internal]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.protect](/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.protect|Item_List_Order_Descending.protect]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.private](/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.private|Item_List_Order_Descending.private]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.personal](/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.personal|Item_List_Order_Descending.personal]] 
 
-### #is_/same_as :: [Item_List_Order_Descending.secret](/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Item_List_Order_Type/Item_List_Order_Descending.secret|Item_List_Order_Descending.secret]] 
 

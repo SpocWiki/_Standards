@@ -64,17 +64,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mandelbrot_Set](/_Standards/Mathematics/Geometry/Fractal/Mandelbrot_Set.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Fractal/Mandelbrot_Set|Mandelbrot_Set]] 
 
-### #is_/same_as :: [Mandelbrot_Set.public](/_public/Mathematics/Geometry/Fractal/Mandelbrot_Set.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Fractal/Mandelbrot_Set.public|Mandelbrot_Set.public]] 
 
-### #is_/same_as :: [Mandelbrot_Set.internal](/_internal/Mathematics/Geometry/Fractal/Mandelbrot_Set.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Fractal/Mandelbrot_Set.internal|Mandelbrot_Set.internal]] 
 
-### #is_/same_as :: [Mandelbrot_Set.protect](/_protect/Mathematics/Geometry/Fractal/Mandelbrot_Set.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Fractal/Mandelbrot_Set.protect|Mandelbrot_Set.protect]] 
 
-### #is_/same_as :: [Mandelbrot_Set.private](/_private/Mathematics/Geometry/Fractal/Mandelbrot_Set.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Fractal/Mandelbrot_Set.private|Mandelbrot_Set.private]] 
 
-### #is_/same_as :: [Mandelbrot_Set.personal](/_personal/Mathematics/Geometry/Fractal/Mandelbrot_Set.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Fractal/Mandelbrot_Set.personal|Mandelbrot_Set.personal]] 
 
-### #is_/same_as :: [Mandelbrot_Set.secret](/_secret/Mathematics/Geometry/Fractal/Mandelbrot_Set.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Fractal/Mandelbrot_Set.secret|Mandelbrot_Set.secret]] 
 

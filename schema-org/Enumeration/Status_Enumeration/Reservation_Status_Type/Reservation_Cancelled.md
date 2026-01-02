@@ -42,17 +42,17 @@ The status for a previously confirmed reservation that is now cancelled.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reservation_Cancelled](/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled|Reservation_Cancelled]] 
 
-### #is_/same_as :: [Reservation_Cancelled.public](/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.public|Reservation_Cancelled.public]] 
 
-### #is_/same_as :: [Reservation_Cancelled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.internal|Reservation_Cancelled.internal]] 
 
-### #is_/same_as :: [Reservation_Cancelled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.protect|Reservation_Cancelled.protect]] 
 
-### #is_/same_as :: [Reservation_Cancelled.private](/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.private|Reservation_Cancelled.private]] 
 
-### #is_/same_as :: [Reservation_Cancelled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.personal|Reservation_Cancelled.personal]] 
 
-### #is_/same_as :: [Reservation_Cancelled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Reservation_Status_Type/Reservation_Cancelled.secret|Reservation_Cancelled.secret]] 
 

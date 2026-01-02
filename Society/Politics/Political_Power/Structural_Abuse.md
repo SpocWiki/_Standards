@@ -43,17 +43,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Structural_Abuse](/_Standards/Society/Politics/Political_Power/Structural_Abuse.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Political_Power/Structural_Abuse|Structural_Abuse]] 
 
-### #is_/same_as :: [Structural_Abuse.public](/_public/Society/Politics/Political_Power/Structural_Abuse.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Political_Power/Structural_Abuse.public|Structural_Abuse.public]] 
 
-### #is_/same_as :: [Structural_Abuse.internal](/_internal/Society/Politics/Political_Power/Structural_Abuse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Political_Power/Structural_Abuse.internal|Structural_Abuse.internal]] 
 
-### #is_/same_as :: [Structural_Abuse.protect](/_protect/Society/Politics/Political_Power/Structural_Abuse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Political_Power/Structural_Abuse.protect|Structural_Abuse.protect]] 
 
-### #is_/same_as :: [Structural_Abuse.private](/_private/Society/Politics/Political_Power/Structural_Abuse.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Political_Power/Structural_Abuse.private|Structural_Abuse.private]] 
 
-### #is_/same_as :: [Structural_Abuse.personal](/_personal/Society/Politics/Political_Power/Structural_Abuse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Political_Power/Structural_Abuse.personal|Structural_Abuse.personal]] 
 
-### #is_/same_as :: [Structural_Abuse.secret](/_secret/Society/Politics/Political_Power/Structural_Abuse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Political_Power/Structural_Abuse.secret|Structural_Abuse.secret]] 
 

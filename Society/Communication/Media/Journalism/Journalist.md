@@ -109,17 +109,17 @@ P8189: 987007536275305171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Journalist](/_Standards/Society/Communication/Media/Journalism/Journalist.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Journalist|Journalist]] 
 
-### #is_/same_as :: [Journalist.public](/_public/Society/Communication/Media/Journalism/Journalist.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Journalist.public|Journalist.public]] 
 
-### #is_/same_as :: [Journalist.internal](/_internal/Society/Communication/Media/Journalism/Journalist.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Journalist.internal|Journalist.internal]] 
 
-### #is_/same_as :: [Journalist.protect](/_protect/Society/Communication/Media/Journalism/Journalist.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Journalist.protect|Journalist.protect]] 
 
-### #is_/same_as :: [Journalist.private](/_private/Society/Communication/Media/Journalism/Journalist.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Journalist.private|Journalist.private]] 
 
-### #is_/same_as :: [Journalist.personal](/_personal/Society/Communication/Media/Journalism/Journalist.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Journalist.personal|Journalist.personal]] 
 
-### #is_/same_as :: [Journalist.secret](/_secret/Society/Communication/Media/Journalism/Journalist.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Journalist.secret|Journalist.secret]] 
 

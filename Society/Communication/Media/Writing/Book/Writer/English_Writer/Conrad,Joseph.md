@@ -141,17 +141,17 @@ plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/JOSEPH%20CONRAD
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conrad,Joseph](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph|Conrad,Joseph]] 
 
-### #is_/same_as :: [Conrad,Joseph.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.public|Conrad,Joseph.public]] 
 
-### #is_/same_as :: [Conrad,Joseph.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.internal|Conrad,Joseph.internal]] 
 
-### #is_/same_as :: [Conrad,Joseph.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.protect|Conrad,Joseph.protect]] 
 
-### #is_/same_as :: [Conrad,Joseph.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.private|Conrad,Joseph.private]] 
 
-### #is_/same_as :: [Conrad,Joseph.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.personal|Conrad,Joseph.personal]] 
 
-### #is_/same_as :: [Conrad,Joseph.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Conrad,Joseph.secret|Conrad,Joseph.secret]] 
 

@@ -167,17 +167,17 @@ Width:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thing/I
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VisualArtwork](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork|FileClass~VisualArtwork]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.public|FileClass~VisualArtwork.public]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.internal|FileClass~VisualArtwork.internal]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.protect|FileClass~VisualArtwork.protect]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.private|FileClass~VisualArtwork.private]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.personal|FileClass~VisualArtwork.personal]] 
 
-### #is_/same_as :: [FileClass~VisualArtwork.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~VisualArtwork.secret|FileClass~VisualArtwork.secret]] 
 

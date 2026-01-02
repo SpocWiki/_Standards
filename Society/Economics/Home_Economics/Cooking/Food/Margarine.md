@@ -105,17 +105,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Margarine](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Margarine.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Margarine|Margarine]] 
 
-### #is_/same_as :: [Margarine.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Margarine.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Margarine.public|Margarine.public]] 
 
-### #is_/same_as :: [Margarine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Margarine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Margarine.internal|Margarine.internal]] 
 
-### #is_/same_as :: [Margarine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Margarine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Margarine.protect|Margarine.protect]] 
 
-### #is_/same_as :: [Margarine.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Margarine.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Margarine.private|Margarine.private]] 
 
-### #is_/same_as :: [Margarine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Margarine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Margarine.personal|Margarine.personal]] 
 
-### #is_/same_as :: [Margarine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Margarine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Margarine.secret|Margarine.secret]] 
 

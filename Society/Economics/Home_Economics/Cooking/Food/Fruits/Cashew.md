@@ -171,17 +171,17 @@ EPPO_Code: ANAOC
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cashew](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew|Cashew]] 
 
-### #is_/same_as :: [Cashew.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.public|Cashew.public]] 
 
-### #is_/same_as :: [Cashew.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.internal|Cashew.internal]] 
 
-### #is_/same_as :: [Cashew.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.protect|Cashew.protect]] 
 
-### #is_/same_as :: [Cashew.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.private|Cashew.private]] 
 
-### #is_/same_as :: [Cashew.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.personal|Cashew.personal]] 
 
-### #is_/same_as :: [Cashew.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Cashew.secret|Cashew.secret]] 
 

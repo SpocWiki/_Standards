@@ -55,17 +55,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Demeter](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter|Demeter]] 
 
-### #is_/same_as :: [Demeter.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.public|Demeter.public]] 
 
-### #is_/same_as :: [Demeter.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.internal|Demeter.internal]] 
 
-### #is_/same_as :: [Demeter.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.protect|Demeter.protect]] 
 
-### #is_/same_as :: [Demeter.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.private|Demeter.private]] 
 
-### #is_/same_as :: [Demeter.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.personal|Demeter.personal]] 
 
-### #is_/same_as :: [Demeter.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Demeter.secret|Demeter.secret]] 
 

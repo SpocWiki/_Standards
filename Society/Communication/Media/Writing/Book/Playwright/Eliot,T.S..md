@@ -201,17 +201,17 @@ Dewey_Decimal_Classification: 821.912
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eliot,T.S.](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S.|Eliot,T.S.]] 
 
-### #is_/same_as :: [Eliot,T.S..public](/_public/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..public|Eliot,T.S..public]] 
 
-### #is_/same_as :: [Eliot,T.S..internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..internal|Eliot,T.S..internal]] 
 
-### #is_/same_as :: [Eliot,T.S..protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..protect|Eliot,T.S..protect]] 
 
-### #is_/same_as :: [Eliot,T.S..private](/_private/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..private|Eliot,T.S..private]] 
 
-### #is_/same_as :: [Eliot,T.S..personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..personal|Eliot,T.S..personal]] 
 
-### #is_/same_as :: [Eliot,T.S..secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Eliot,T.S..secret|Eliot,T.S..secret]] 
 

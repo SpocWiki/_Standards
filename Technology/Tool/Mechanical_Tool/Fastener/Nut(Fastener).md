@@ -22,17 +22,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nut(Fastener)](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener)|Nut(Fastener)]] 
 
-### #is_/same_as :: [Nut(Fastener).public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).public|Nut(Fastener).public]] 
 
-### #is_/same_as :: [Nut(Fastener).internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).internal|Nut(Fastener).internal]] 
 
-### #is_/same_as :: [Nut(Fastener).protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).protect|Nut(Fastener).protect]] 
 
-### #is_/same_as :: [Nut(Fastener).private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).private|Nut(Fastener).private]] 
 
-### #is_/same_as :: [Nut(Fastener).personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).personal|Nut(Fastener).personal]] 
 
-### #is_/same_as :: [Nut(Fastener).secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Nut(Fastener).secret|Nut(Fastener).secret]] 
 

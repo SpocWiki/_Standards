@@ -47,17 +47,17 @@ Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/DIZAN_INTEREROV.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Interior_Design](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design|Interior_Design]] 
 
-### #is_/same_as :: [Interior_Design.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.public|Interior_Design.public]] 
 
-### #is_/same_as :: [Interior_Design.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.internal|Interior_Design.internal]] 
 
-### #is_/same_as :: [Interior_Design.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.protect|Interior_Design.protect]] 
 
-### #is_/same_as :: [Interior_Design.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.private|Interior_Design.private]] 
 
-### #is_/same_as :: [Interior_Design.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.personal|Interior_Design.personal]] 
 
-### #is_/same_as :: [Interior_Design.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Style/Interior_Design.secret|Interior_Design.secret]] 
 

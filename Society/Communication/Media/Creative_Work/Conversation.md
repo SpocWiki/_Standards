@@ -39,17 +39,17 @@ One or more messages between organizations or people on a particular topic. Indi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conversation](/_Standards/Society/Communication/Media/Creative_Work/Conversation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Conversation|Conversation]] 
 
-### #is_/same_as :: [Conversation.public](/_public/Society/Communication/Media/Creative_Work/Conversation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Conversation.public|Conversation.public]] 
 
-### #is_/same_as :: [Conversation.internal](/_internal/Society/Communication/Media/Creative_Work/Conversation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Conversation.internal|Conversation.internal]] 
 
-### #is_/same_as :: [Conversation.protect](/_protect/Society/Communication/Media/Creative_Work/Conversation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Conversation.protect|Conversation.protect]] 
 
-### #is_/same_as :: [Conversation.private](/_private/Society/Communication/Media/Creative_Work/Conversation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Conversation.private|Conversation.private]] 
 
-### #is_/same_as :: [Conversation.personal](/_personal/Society/Communication/Media/Creative_Work/Conversation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Conversation.personal|Conversation.personal]] 
 
-### #is_/same_as :: [Conversation.secret](/_secret/Society/Communication/Media/Creative_Work/Conversation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Conversation.secret|Conversation.secret]] 
 

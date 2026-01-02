@@ -77,17 +77,17 @@ GitHub_topic: number-theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Number_Theory](/_Standards/Mathematics/Number_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Number_Theory|Number_Theory]] 
 
-### #is_/same_as :: [Number_Theory.public](/_public/Mathematics/Number_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Number_Theory.public|Number_Theory.public]] 
 
-### #is_/same_as :: [Number_Theory.internal](/_internal/Mathematics/Number_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Number_Theory.internal|Number_Theory.internal]] 
 
-### #is_/same_as :: [Number_Theory.protect](/_protect/Mathematics/Number_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Number_Theory.protect|Number_Theory.protect]] 
 
-### #is_/same_as :: [Number_Theory.private](/_private/Mathematics/Number_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Number_Theory.private|Number_Theory.private]] 
 
-### #is_/same_as :: [Number_Theory.personal](/_personal/Mathematics/Number_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Number_Theory.personal|Number_Theory.personal]] 
 
-### #is_/same_as :: [Number_Theory.secret](/_secret/Mathematics/Number_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Number_Theory.secret|Number_Theory.secret]] 
 

@@ -43,17 +43,17 @@ Commons_category: Hypothesis testing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statistical_Test](/_Standards/Mathematics/Statistics/Statistical_Test.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Statistical_Test|Statistical_Test]] 
 
-### #is_/same_as :: [Statistical_Test.public](/_public/Mathematics/Statistics/Statistical_Test.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Statistical_Test.public|Statistical_Test.public]] 
 
-### #is_/same_as :: [Statistical_Test.internal](/_internal/Mathematics/Statistics/Statistical_Test.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Statistical_Test.internal|Statistical_Test.internal]] 
 
-### #is_/same_as :: [Statistical_Test.protect](/_protect/Mathematics/Statistics/Statistical_Test.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Statistical_Test.protect|Statistical_Test.protect]] 
 
-### #is_/same_as :: [Statistical_Test.private](/_private/Mathematics/Statistics/Statistical_Test.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Statistical_Test.private|Statistical_Test.private]] 
 
-### #is_/same_as :: [Statistical_Test.personal](/_personal/Mathematics/Statistics/Statistical_Test.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Statistical_Test.personal|Statistical_Test.personal]] 
 
-### #is_/same_as :: [Statistical_Test.secret](/_secret/Mathematics/Statistics/Statistical_Test.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Statistical_Test.secret|Statistical_Test.secret]] 
 

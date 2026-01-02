@@ -73,17 +73,17 @@ U_S_National_Archives_Identifier: 10638012
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital_Punishment](/_Standards/Society/Law/Capital_Punishment.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Capital_Punishment|Capital_Punishment]] 
 
-### #is_/same_as :: [Capital_Punishment.public](/_public/Society/Law/Capital_Punishment.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Capital_Punishment.public|Capital_Punishment.public]] 
 
-### #is_/same_as :: [Capital_Punishment.internal](/_internal/Society/Law/Capital_Punishment.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Capital_Punishment.internal|Capital_Punishment.internal]] 
 
-### #is_/same_as :: [Capital_Punishment.protect](/_protect/Society/Law/Capital_Punishment.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Capital_Punishment.protect|Capital_Punishment.protect]] 
 
-### #is_/same_as :: [Capital_Punishment.private](/_private/Society/Law/Capital_Punishment.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Capital_Punishment.private|Capital_Punishment.private]] 
 
-### #is_/same_as :: [Capital_Punishment.personal](/_personal/Society/Law/Capital_Punishment.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Capital_Punishment.personal|Capital_Punishment.personal]] 
 
-### #is_/same_as :: [Capital_Punishment.secret](/_secret/Society/Law/Capital_Punishment.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Capital_Punishment.secret|Capital_Punishment.secret]] 
 

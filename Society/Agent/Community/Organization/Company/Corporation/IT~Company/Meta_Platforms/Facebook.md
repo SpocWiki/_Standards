@@ -167,17 +167,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Facebook](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook|Facebook]] 
 
-### #is_/same_as :: [Facebook.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.public|Facebook.public]] 
 
-### #is_/same_as :: [Facebook.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.internal|Facebook.internal]] 
 
-### #is_/same_as :: [Facebook.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.protect|Facebook.protect]] 
 
-### #is_/same_as :: [Facebook.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.private|Facebook.private]] 
 
-### #is_/same_as :: [Facebook.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.personal|Facebook.personal]] 
 
-### #is_/same_as :: [Facebook.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Meta_Platforms/Facebook.secret|Facebook.secret]] 
 

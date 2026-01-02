@@ -44,17 +44,17 @@ Commons_category: Liturgy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Liturgy](/_Standards/Philosophy/Metaphysic/Religion/Liturgy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Liturgy|Liturgy]] 
 
-### #is_/same_as :: [Liturgy.public](/_public/Philosophy/Metaphysic/Religion/Liturgy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Liturgy.public|Liturgy.public]] 
 
-### #is_/same_as :: [Liturgy.internal](/_internal/Philosophy/Metaphysic/Religion/Liturgy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Liturgy.internal|Liturgy.internal]] 
 
-### #is_/same_as :: [Liturgy.protect](/_protect/Philosophy/Metaphysic/Religion/Liturgy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Liturgy.protect|Liturgy.protect]] 
 
-### #is_/same_as :: [Liturgy.private](/_private/Philosophy/Metaphysic/Religion/Liturgy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Liturgy.private|Liturgy.private]] 
 
-### #is_/same_as :: [Liturgy.personal](/_personal/Philosophy/Metaphysic/Religion/Liturgy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Liturgy.personal|Liturgy.personal]] 
 
-### #is_/same_as :: [Liturgy.secret](/_secret/Philosophy/Metaphysic/Religion/Liturgy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Liturgy.secret|Liturgy.secret]] 
 

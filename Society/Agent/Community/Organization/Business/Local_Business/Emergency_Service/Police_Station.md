@@ -41,17 +41,17 @@ A police station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Police_Station](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station|Police_Station]] 
 
-### #is_/same_as :: [Police_Station.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.public|Police_Station.public]] 
 
-### #is_/same_as :: [Police_Station.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.internal|Police_Station.internal]] 
 
-### #is_/same_as :: [Police_Station.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.protect|Police_Station.protect]] 
 
-### #is_/same_as :: [Police_Station.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.private|Police_Station.private]] 
 
-### #is_/same_as :: [Police_Station.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.personal|Police_Station.personal]] 
 
-### #is_/same_as :: [Police_Station.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Emergency_Service/Police_Station.secret|Police_Station.secret]] 
 

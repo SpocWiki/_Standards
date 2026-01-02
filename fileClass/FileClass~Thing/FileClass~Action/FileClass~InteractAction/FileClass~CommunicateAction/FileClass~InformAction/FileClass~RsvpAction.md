@@ -63,17 +63,17 @@ RsvpResponse:: {"type":"Select","options":{"valuesList":{"RsvpResponseMaybe","Rs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~RsvpAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction|FileClass~RsvpAction]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.public|FileClass~RsvpAction.public]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.internal|FileClass~RsvpAction.internal]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.protect|FileClass~RsvpAction.protect]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.private|FileClass~RsvpAction.private]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.personal|FileClass~RsvpAction.personal]] 
 
-### #is_/same_as :: [FileClass~RsvpAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~CommunicateAction/FileClass~InformAction/FileClass~RsvpAction.secret|FileClass~RsvpAction.secret]] 
 

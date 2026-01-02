@@ -68,17 +68,17 @@ Dewey_Decimal_Classification: "303.484"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Movement](/_Standards/Society/Social_Relation/Group_Dynamics/Social_Movement.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Group_Dynamics/Social_Movement|Social_Movement]] 
 
-### #is_/same_as :: [Social_Movement.public](/_public/Society/Social_Relation/Group_Dynamics/Social_Movement.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Group_Dynamics/Social_Movement.public|Social_Movement.public]] 
 
-### #is_/same_as :: [Social_Movement.internal](/_internal/Society/Social_Relation/Group_Dynamics/Social_Movement.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Group_Dynamics/Social_Movement.internal|Social_Movement.internal]] 
 
-### #is_/same_as :: [Social_Movement.protect](/_protect/Society/Social_Relation/Group_Dynamics/Social_Movement.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Group_Dynamics/Social_Movement.protect|Social_Movement.protect]] 
 
-### #is_/same_as :: [Social_Movement.private](/_private/Society/Social_Relation/Group_Dynamics/Social_Movement.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Group_Dynamics/Social_Movement.private|Social_Movement.private]] 
 
-### #is_/same_as :: [Social_Movement.personal](/_personal/Society/Social_Relation/Group_Dynamics/Social_Movement.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Group_Dynamics/Social_Movement.personal|Social_Movement.personal]] 
 
-### #is_/same_as :: [Social_Movement.secret](/_secret/Society/Social_Relation/Group_Dynamics/Social_Movement.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Group_Dynamics/Social_Movement.secret|Social_Movement.secret]] 
 

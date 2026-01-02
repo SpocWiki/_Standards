@@ -47,17 +47,17 @@ MeSH_tree_code: I01.076.368
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biological_Anthropology](/_Standards/Society/Anthropology/Biological_Anthropology.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Biological_Anthropology|Biological_Anthropology]] 
 
-### #is_/same_as :: [Biological_Anthropology.public](/_public/Society/Anthropology/Biological_Anthropology.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Biological_Anthropology.public|Biological_Anthropology.public]] 
 
-### #is_/same_as :: [Biological_Anthropology.internal](/_internal/Society/Anthropology/Biological_Anthropology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Biological_Anthropology.internal|Biological_Anthropology.internal]] 
 
-### #is_/same_as :: [Biological_Anthropology.protect](/_protect/Society/Anthropology/Biological_Anthropology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Biological_Anthropology.protect|Biological_Anthropology.protect]] 
 
-### #is_/same_as :: [Biological_Anthropology.private](/_private/Society/Anthropology/Biological_Anthropology.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Biological_Anthropology.private|Biological_Anthropology.private]] 
 
-### #is_/same_as :: [Biological_Anthropology.personal](/_personal/Society/Anthropology/Biological_Anthropology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Biological_Anthropology.personal|Biological_Anthropology.personal]] 
 
-### #is_/same_as :: [Biological_Anthropology.secret](/_secret/Society/Anthropology/Biological_Anthropology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Biological_Anthropology.secret|Biological_Anthropology.secret]] 
 

@@ -37,17 +37,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation](/_Standards/Mathematics/Statistics/Maximum_Likelihood_Estimation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Maximum_Likelihood_Estimation|Maximum_Likelihood_Estimation]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.public](/_public/Mathematics/Statistics/Maximum_Likelihood_Estimation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Maximum_Likelihood_Estimation.public|Maximum_Likelihood_Estimation.public]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.internal](/_internal/Mathematics/Statistics/Maximum_Likelihood_Estimation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Maximum_Likelihood_Estimation.internal|Maximum_Likelihood_Estimation.internal]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.protect](/_protect/Mathematics/Statistics/Maximum_Likelihood_Estimation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Maximum_Likelihood_Estimation.protect|Maximum_Likelihood_Estimation.protect]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.private](/_private/Mathematics/Statistics/Maximum_Likelihood_Estimation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Maximum_Likelihood_Estimation.private|Maximum_Likelihood_Estimation.private]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.personal](/_personal/Mathematics/Statistics/Maximum_Likelihood_Estimation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Maximum_Likelihood_Estimation.personal|Maximum_Likelihood_Estimation.personal]] 
 
-### #is_/same_as :: [Maximum_Likelihood_Estimation.secret](/_secret/Mathematics/Statistics/Maximum_Likelihood_Estimation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Maximum_Likelihood_Estimation.secret|Maximum_Likelihood_Estimation.secret]] 
 

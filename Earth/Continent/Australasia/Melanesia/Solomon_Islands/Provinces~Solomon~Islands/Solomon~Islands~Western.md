@@ -40,17 +40,17 @@ markerFolder: ./Solomon~Islands~Western/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solomon~Islands~Western](/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western|Solomon~Islands~Western]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.public](/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.public|Solomon~Islands~Western.public]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.internal](/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.internal|Solomon~Islands~Western.internal]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.protect](/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.protect|Solomon~Islands~Western.protect]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.private](/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.private|Solomon~Islands~Western.private]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.personal](/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.personal|Solomon~Islands~Western.personal]] 
 
-### #is_/same_as :: [Solomon~Islands~Western.secret](/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Melanesia/Solomon_Islands/Provinces~Solomon~Islands/Solomon~Islands~Western.secret|Solomon~Islands~Western.secret]] 
 

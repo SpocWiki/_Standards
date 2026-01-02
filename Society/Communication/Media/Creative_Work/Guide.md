@@ -41,17 +41,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Guide](/_Standards/Society/Communication/Media/Creative_Work/Guide.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Guide|Guide]] 
 
-### #is_/same_as :: [Guide.public](/_public/Society/Communication/Media/Creative_Work/Guide.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Guide.public|Guide.public]] 
 
-### #is_/same_as :: [Guide.internal](/_internal/Society/Communication/Media/Creative_Work/Guide.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Guide.internal|Guide.internal]] 
 
-### #is_/same_as :: [Guide.protect](/_protect/Society/Communication/Media/Creative_Work/Guide.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Guide.protect|Guide.protect]] 
 
-### #is_/same_as :: [Guide.private](/_private/Society/Communication/Media/Creative_Work/Guide.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Guide.private|Guide.private]] 
 
-### #is_/same_as :: [Guide.personal](/_personal/Society/Communication/Media/Creative_Work/Guide.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Guide.personal|Guide.personal]] 
 
-### #is_/same_as :: [Guide.secret](/_secret/Society/Communication/Media/Creative_Work/Guide.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Guide.secret|Guide.secret]] 
 

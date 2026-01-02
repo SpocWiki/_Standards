@@ -62,17 +62,17 @@ Wikidata_property: measures
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Measurement](/_Standards/Science/Physics/Measurement.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement|Measurement]] 
 
-### #is_/same_as :: [Measurement.public](/_public/Science/Physics/Measurement.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Measurement.public|Measurement.public]] 
 
-### #is_/same_as :: [Measurement.internal](/_internal/Science/Physics/Measurement.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement.internal|Measurement.internal]] 
 
-### #is_/same_as :: [Measurement.protect](/_protect/Science/Physics/Measurement.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement.protect|Measurement.protect]] 
 
-### #is_/same_as :: [Measurement.private](/_private/Science/Physics/Measurement.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Measurement.private|Measurement.private]] 
 
-### #is_/same_as :: [Measurement.personal](/_personal/Science/Physics/Measurement.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement.personal|Measurement.personal]] 
 
-### #is_/same_as :: [Measurement.secret](/_secret/Science/Physics/Measurement.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement.secret|Measurement.secret]] 
 

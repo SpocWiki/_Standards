@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Torpedo](/_Standards/Society/Military/Military_Engineering/Weapon/Torpedo.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Torpedo|Torpedo]] 
 
-### #is_/same_as :: [Torpedo.public](/_public/Society/Military/Military_Engineering/Weapon/Torpedo.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Torpedo.public|Torpedo.public]] 
 
-### #is_/same_as :: [Torpedo.internal](/_internal/Society/Military/Military_Engineering/Weapon/Torpedo.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Torpedo.internal|Torpedo.internal]] 
 
-### #is_/same_as :: [Torpedo.protect](/_protect/Society/Military/Military_Engineering/Weapon/Torpedo.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Torpedo.protect|Torpedo.protect]] 
 
-### #is_/same_as :: [Torpedo.private](/_private/Society/Military/Military_Engineering/Weapon/Torpedo.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Torpedo.private|Torpedo.private]] 
 
-### #is_/same_as :: [Torpedo.personal](/_personal/Society/Military/Military_Engineering/Weapon/Torpedo.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Torpedo.personal|Torpedo.personal]] 
 
-### #is_/same_as :: [Torpedo.secret](/_secret/Society/Military/Military_Engineering/Weapon/Torpedo.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Torpedo.secret|Torpedo.secret]] 
 

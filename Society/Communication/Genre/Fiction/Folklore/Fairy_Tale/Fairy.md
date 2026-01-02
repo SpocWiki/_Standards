@@ -94,17 +94,17 @@ Unicode_character:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fairy](/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy|Fairy]] 
 
-### #is_/same_as :: [Fairy.public](/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.public|Fairy.public]] 
 
-### #is_/same_as :: [Fairy.internal](/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.internal|Fairy.internal]] 
 
-### #is_/same_as :: [Fairy.protect](/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.protect|Fairy.protect]] 
 
-### #is_/same_as :: [Fairy.private](/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.private|Fairy.private]] 
 
-### #is_/same_as :: [Fairy.personal](/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.personal|Fairy.personal]] 
 
-### #is_/same_as :: [Fairy.secret](/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Folklore/Fairy_Tale/Fairy.secret|Fairy.secret]] 
 

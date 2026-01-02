@@ -75,17 +75,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shithead.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Card_Game](/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Card_Game|Card_Game]] 
 
-### #is_/same_as :: [Card_Game.public](/_public/Society/Communication/Media/Creative_Work/Game/Card_Game.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Card_Game.public|Card_Game.public]] 
 
-### #is_/same_as :: [Card_Game.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Card_Game.internal|Card_Game.internal]] 
 
-### #is_/same_as :: [Card_Game.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Card_Game.protect|Card_Game.protect]] 
 
-### #is_/same_as :: [Card_Game.private](/_private/Society/Communication/Media/Creative_Work/Game/Card_Game.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Card_Game.private|Card_Game.private]] 
 
-### #is_/same_as :: [Card_Game.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Card_Game.personal|Card_Game.personal]] 
 
-### #is_/same_as :: [Card_Game.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Card_Game.secret|Card_Game.secret]] 
 

@@ -48,17 +48,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Apple II](/_Standards/Technology/IT/Computer_Hardware/Computer/Apple II.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Computer/Apple II|Apple II]] 
 
-### #is_/same_as :: [Apple II.public](/_public/Technology/IT/Computer_Hardware/Computer/Apple II.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Computer/Apple II.public|Apple II.public]] 
 
-### #is_/same_as :: [Apple II.internal](/_internal/Technology/IT/Computer_Hardware/Computer/Apple II.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Computer/Apple II.internal|Apple II.internal]] 
 
-### #is_/same_as :: [Apple II.protect](/_protect/Technology/IT/Computer_Hardware/Computer/Apple II.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Computer/Apple II.protect|Apple II.protect]] 
 
-### #is_/same_as :: [Apple II.private](/_private/Technology/IT/Computer_Hardware/Computer/Apple II.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Computer/Apple II.private|Apple II.private]] 
 
-### #is_/same_as :: [Apple II.personal](/_personal/Technology/IT/Computer_Hardware/Computer/Apple II.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Computer/Apple II.personal|Apple II.personal]] 
 
-### #is_/same_as :: [Apple II.secret](/_secret/Technology/IT/Computer_Hardware/Computer/Apple II.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Computer/Apple II.secret|Apple II.secret]] 
 

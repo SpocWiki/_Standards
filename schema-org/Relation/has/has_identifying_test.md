@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_identifying_test](/_Standards/schema-org/Relation/has/has_identifying_test.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_identifying_test|has_identifying_test]] 
 
-### #is_/same_as :: [has_identifying_test.public](/_public/schema-org/Relation/has/has_identifying_test.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_identifying_test.public|has_identifying_test.public]] 
 
-### #is_/same_as :: [has_identifying_test.internal](/_internal/schema-org/Relation/has/has_identifying_test.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_identifying_test.internal|has_identifying_test.internal]] 
 
-### #is_/same_as :: [has_identifying_test.protect](/_protect/schema-org/Relation/has/has_identifying_test.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_identifying_test.protect|has_identifying_test.protect]] 
 
-### #is_/same_as :: [has_identifying_test.private](/_private/schema-org/Relation/has/has_identifying_test.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_identifying_test.private|has_identifying_test.private]] 
 
-### #is_/same_as :: [has_identifying_test.personal](/_personal/schema-org/Relation/has/has_identifying_test.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_identifying_test.personal|has_identifying_test.personal]] 
 
-### #is_/same_as :: [has_identifying_test.secret](/_secret/schema-org/Relation/has/has_identifying_test.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_identifying_test.secret|has_identifying_test.secret]] 
 

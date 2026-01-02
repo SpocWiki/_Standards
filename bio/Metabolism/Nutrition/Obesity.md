@@ -453,17 +453,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/obesity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Obesity](/_Standards/bio/Metabolism/Nutrition/Obesity.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Obesity|Obesity]] 
 
-### #is_/same_as :: [Obesity.public](/_public/bio/Metabolism/Nutrition/Obesity.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Obesity.public|Obesity.public]] 
 
-### #is_/same_as :: [Obesity.internal](/_internal/bio/Metabolism/Nutrition/Obesity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Obesity.internal|Obesity.internal]] 
 
-### #is_/same_as :: [Obesity.protect](/_protect/bio/Metabolism/Nutrition/Obesity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Obesity.protect|Obesity.protect]] 
 
-### #is_/same_as :: [Obesity.private](/_private/bio/Metabolism/Nutrition/Obesity.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Obesity.private|Obesity.private]] 
 
-### #is_/same_as :: [Obesity.personal](/_personal/bio/Metabolism/Nutrition/Obesity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Obesity.personal|Obesity.personal]] 
 
-### #is_/same_as :: [Obesity.secret](/_secret/bio/Metabolism/Nutrition/Obesity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Obesity.secret|Obesity.secret]] 
 

@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_interaction_statistic](/_Standards/schema-org/Relation/has/has_interaction_statistic.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_interaction_statistic|has_interaction_statistic]] 
 
-### #is_/same_as :: [has_interaction_statistic.public](/_public/schema-org/Relation/has/has_interaction_statistic.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_interaction_statistic.public|has_interaction_statistic.public]] 
 
-### #is_/same_as :: [has_interaction_statistic.internal](/_internal/schema-org/Relation/has/has_interaction_statistic.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_interaction_statistic.internal|has_interaction_statistic.internal]] 
 
-### #is_/same_as :: [has_interaction_statistic.protect](/_protect/schema-org/Relation/has/has_interaction_statistic.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_interaction_statistic.protect|has_interaction_statistic.protect]] 
 
-### #is_/same_as :: [has_interaction_statistic.private](/_private/schema-org/Relation/has/has_interaction_statistic.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_interaction_statistic.private|has_interaction_statistic.private]] 
 
-### #is_/same_as :: [has_interaction_statistic.personal](/_personal/schema-org/Relation/has/has_interaction_statistic.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_interaction_statistic.personal|has_interaction_statistic.personal]] 
 
-### #is_/same_as :: [has_interaction_statistic.secret](/_secret/schema-org/Relation/has/has_interaction_statistic.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_interaction_statistic.secret|has_interaction_statistic.secret]] 
 

@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_broadcast_signal_modulation](/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_broadcast_signal_modulation|has_broadcast_signal_modulation]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.public](/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_broadcast_signal_modulation.public|has_broadcast_signal_modulation.public]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.internal](/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_broadcast_signal_modulation.internal|has_broadcast_signal_modulation.internal]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.protect](/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_broadcast_signal_modulation.protect|has_broadcast_signal_modulation.protect]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.private](/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_broadcast_signal_modulation.private|has_broadcast_signal_modulation.private]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.personal](/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_broadcast_signal_modulation.personal|has_broadcast_signal_modulation.personal]] 
 
-### #is_/same_as :: [has_broadcast_signal_modulation.secret](/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_broadcast_signal_modulation.secret|has_broadcast_signal_modulation.secret]] 
 

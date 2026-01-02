@@ -41,17 +41,17 @@ The general [[ProfessionalService]] type for local businesses was deprecated due
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ProfessionalService](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService|FileClass~ProfessionalService]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.public|FileClass~ProfessionalService.public]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.internal|FileClass~ProfessionalService.internal]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.protect|FileClass~ProfessionalService.protect]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.private|FileClass~ProfessionalService.private]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.personal|FileClass~ProfessionalService.personal]] 
 
-### #is_/same_as :: [FileClass~ProfessionalService.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~ProfessionalService.secret|FileClass~ProfessionalService.secret]] 
 

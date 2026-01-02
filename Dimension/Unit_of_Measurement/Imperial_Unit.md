@@ -54,17 +54,17 @@ Commons_category: British Imperial units
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Imperial_Unit](/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Imperial_Unit|Imperial_Unit]] 
 
-### #is_/same_as :: [Imperial_Unit.public](/_public/Dimension/Unit_of_Measurement/Imperial_Unit.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Imperial_Unit.public|Imperial_Unit.public]] 
 
-### #is_/same_as :: [Imperial_Unit.internal](/_internal/Dimension/Unit_of_Measurement/Imperial_Unit.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Imperial_Unit.internal|Imperial_Unit.internal]] 
 
-### #is_/same_as :: [Imperial_Unit.protect](/_protect/Dimension/Unit_of_Measurement/Imperial_Unit.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Imperial_Unit.protect|Imperial_Unit.protect]] 
 
-### #is_/same_as :: [Imperial_Unit.private](/_private/Dimension/Unit_of_Measurement/Imperial_Unit.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Imperial_Unit.private|Imperial_Unit.private]] 
 
-### #is_/same_as :: [Imperial_Unit.personal](/_personal/Dimension/Unit_of_Measurement/Imperial_Unit.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Imperial_Unit.personal|Imperial_Unit.personal]] 
 
-### #is_/same_as :: [Imperial_Unit.secret](/_secret/Dimension/Unit_of_Measurement/Imperial_Unit.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Imperial_Unit.secret|Imperial_Unit.secret]] 
 

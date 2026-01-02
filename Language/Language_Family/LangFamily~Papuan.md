@@ -62,17 +62,17 @@ GOST_7_75_97_code: паа 532
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily~Papuan](/_Standards/Language/Language_Family/LangFamily~Papuan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily~Papuan|LangFamily~Papuan]] 
 
-### #is_/same_as :: [LangFamily~Papuan.public](/_public/Language/Language_Family/LangFamily~Papuan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily~Papuan.public|LangFamily~Papuan.public]] 
 
-### #is_/same_as :: [LangFamily~Papuan.internal](/_internal/Language/Language_Family/LangFamily~Papuan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily~Papuan.internal|LangFamily~Papuan.internal]] 
 
-### #is_/same_as :: [LangFamily~Papuan.protect](/_protect/Language/Language_Family/LangFamily~Papuan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily~Papuan.protect|LangFamily~Papuan.protect]] 
 
-### #is_/same_as :: [LangFamily~Papuan.private](/_private/Language/Language_Family/LangFamily~Papuan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily~Papuan.private|LangFamily~Papuan.private]] 
 
-### #is_/same_as :: [LangFamily~Papuan.personal](/_personal/Language/Language_Family/LangFamily~Papuan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily~Papuan.personal|LangFamily~Papuan.personal]] 
 
-### #is_/same_as :: [LangFamily~Papuan.secret](/_secret/Language/Language_Family/LangFamily~Papuan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily~Papuan.secret|LangFamily~Papuan.secret]] 
 

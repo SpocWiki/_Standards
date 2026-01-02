@@ -64,17 +64,17 @@ The Pan American Highway is a Project by the OAS(Organization_of_American_States
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Darién_Gap](/_Standards/Earth/Continent/America~Central/Darién_Gap.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Darién_Gap|Darién_Gap]] 
 
-### #is_/same_as :: [Darién_Gap.public](/_public/Earth/Continent/America~Central/Darién_Gap.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Darién_Gap.public|Darién_Gap.public]] 
 
-### #is_/same_as :: [Darién_Gap.internal](/_internal/Earth/Continent/America~Central/Darién_Gap.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Darién_Gap.internal|Darién_Gap.internal]] 
 
-### #is_/same_as :: [Darién_Gap.protect](/_protect/Earth/Continent/America~Central/Darién_Gap.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Darién_Gap.protect|Darién_Gap.protect]] 
 
-### #is_/same_as :: [Darién_Gap.private](/_private/Earth/Continent/America~Central/Darién_Gap.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Darién_Gap.private|Darién_Gap.private]] 
 
-### #is_/same_as :: [Darién_Gap.personal](/_personal/Earth/Continent/America~Central/Darién_Gap.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Darién_Gap.personal|Darién_Gap.personal]] 
 
-### #is_/same_as :: [Darién_Gap.secret](/_secret/Earth/Continent/America~Central/Darién_Gap.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Darién_Gap.secret|Darién_Gap.secret]] 
 

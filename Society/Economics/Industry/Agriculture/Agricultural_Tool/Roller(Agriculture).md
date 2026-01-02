@@ -42,17 +42,17 @@ Commons_category: Agricultural rollers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roller(Agriculture)](/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture)|Roller(Agriculture)]] 
 
-### #is_/same_as :: [Roller(Agriculture).public](/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).public|Roller(Agriculture).public]] 
 
-### #is_/same_as :: [Roller(Agriculture).internal](/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).internal|Roller(Agriculture).internal]] 
 
-### #is_/same_as :: [Roller(Agriculture).protect](/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).protect|Roller(Agriculture).protect]] 
 
-### #is_/same_as :: [Roller(Agriculture).private](/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).private|Roller(Agriculture).private]] 
 
-### #is_/same_as :: [Roller(Agriculture).personal](/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).personal|Roller(Agriculture).personal]] 
 
-### #is_/same_as :: [Roller(Agriculture).secret](/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Agricultural_Tool/Roller(Agriculture).secret|Roller(Agriculture).secret]] 
 

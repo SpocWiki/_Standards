@@ -68,17 +68,17 @@ start_time: 1995-03-16T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wiki](/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Wiki|Wiki]] 
 
-### #is_/same_as :: [Wiki.public](/_public/Society/Communication/Media/Creative_Work/Web_Site/Wiki.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Site/Wiki.public|Wiki.public]] 
 
-### #is_/same_as :: [Wiki.internal](/_internal/Society/Communication/Media/Creative_Work/Web_Site/Wiki.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Site/Wiki.internal|Wiki.internal]] 
 
-### #is_/same_as :: [Wiki.protect](/_protect/Society/Communication/Media/Creative_Work/Web_Site/Wiki.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Site/Wiki.protect|Wiki.protect]] 
 
-### #is_/same_as :: [Wiki.private](/_private/Society/Communication/Media/Creative_Work/Web_Site/Wiki.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Site/Wiki.private|Wiki.private]] 
 
-### #is_/same_as :: [Wiki.personal](/_personal/Society/Communication/Media/Creative_Work/Web_Site/Wiki.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Site/Wiki.personal|Wiki.personal]] 
 
-### #is_/same_as :: [Wiki.secret](/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/Wiki.secret|Wiki.secret]] 
 

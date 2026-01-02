@@ -44,17 +44,17 @@ PhilPapers_topic: history-of-physics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Physics](/_Standards/Science/Physics/History_of_Physics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/History_of_Physics|History_of_Physics]] 
 
-### #is_/same_as :: [History_of_Physics.public](/_public/Science/Physics/History_of_Physics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/History_of_Physics.public|History_of_Physics.public]] 
 
-### #is_/same_as :: [History_of_Physics.internal](/_internal/Science/Physics/History_of_Physics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/History_of_Physics.internal|History_of_Physics.internal]] 
 
-### #is_/same_as :: [History_of_Physics.protect](/_protect/Science/Physics/History_of_Physics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/History_of_Physics.protect|History_of_Physics.protect]] 
 
-### #is_/same_as :: [History_of_Physics.private](/_private/Science/Physics/History_of_Physics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/History_of_Physics.private|History_of_Physics.private]] 
 
-### #is_/same_as :: [History_of_Physics.personal](/_personal/Science/Physics/History_of_Physics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/History_of_Physics.personal|History_of_Physics.personal]] 
 
-### #is_/same_as :: [History_of_Physics.secret](/_secret/Science/Physics/History_of_Physics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/History_of_Physics.secret|History_of_Physics.secret]] 
 

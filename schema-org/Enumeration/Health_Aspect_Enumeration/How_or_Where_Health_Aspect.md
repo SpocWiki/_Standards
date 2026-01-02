@@ -44,17 +44,17 @@ Information about how or where to find a topic. Also may contain location data t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect](/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect|How_or_Where_Health_Aspect]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.public](/_public/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.public|How_or_Where_Health_Aspect.public]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.internal](/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.internal|How_or_Where_Health_Aspect.internal]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.protect](/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.protect|How_or_Where_Health_Aspect.protect]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.private](/_private/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.private|How_or_Where_Health_Aspect.private]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.personal](/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.personal|How_or_Where_Health_Aspect.personal]] 
 
-### #is_/same_as :: [How_or_Where_Health_Aspect.secret](/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Health_Aspect_Enumeration/How_or_Where_Health_Aspect.secret|How_or_Where_Health_Aspect.secret]] 
 

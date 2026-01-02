@@ -48,17 +48,17 @@ late nineteenth-century art movement of French, Russian and Belgian origin.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Symbolism](/_Standards/Society/Communication/Art/Art_History/Symbolism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Symbolism|Symbolism]] 
 
-### #is_/same_as :: [Symbolism.public](/_public/Society/Communication/Art/Art_History/Symbolism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Symbolism.public|Symbolism.public]] 
 
-### #is_/same_as :: [Symbolism.internal](/_internal/Society/Communication/Art/Art_History/Symbolism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Symbolism.internal|Symbolism.internal]] 
 
-### #is_/same_as :: [Symbolism.protect](/_protect/Society/Communication/Art/Art_History/Symbolism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Symbolism.protect|Symbolism.protect]] 
 
-### #is_/same_as :: [Symbolism.private](/_private/Society/Communication/Art/Art_History/Symbolism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Symbolism.private|Symbolism.private]] 
 
-### #is_/same_as :: [Symbolism.personal](/_personal/Society/Communication/Art/Art_History/Symbolism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Symbolism.personal|Symbolism.personal]] 
 
-### #is_/same_as :: [Symbolism.secret](/_secret/Society/Communication/Art/Art_History/Symbolism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Symbolism.secret|Symbolism.secret]] 
 

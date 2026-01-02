@@ -48,17 +48,17 @@ Commons_category: Industrial agriculture
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Intensive_Farming](/_Standards/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming|Intensive_Farming]] 
 
-### #is_/same_as :: [Intensive_Farming.public](/_public/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.public|Intensive_Farming.public]] 
 
-### #is_/same_as :: [Intensive_Farming.internal](/_internal/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.internal|Intensive_Farming.internal]] 
 
-### #is_/same_as :: [Intensive_Farming.protect](/_protect/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.protect|Intensive_Farming.protect]] 
 
-### #is_/same_as :: [Intensive_Farming.private](/_private/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.private|Intensive_Farming.private]] 
 
-### #is_/same_as :: [Intensive_Farming.personal](/_personal/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.personal|Intensive_Farming.personal]] 
 
-### #is_/same_as :: [Intensive_Farming.secret](/_secret/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Farm/Intensive_Farming.secret|Intensive_Farming.secret]] 
 

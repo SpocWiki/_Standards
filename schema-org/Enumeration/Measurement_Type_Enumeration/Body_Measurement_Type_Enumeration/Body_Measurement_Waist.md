@@ -44,17 +44,17 @@ Girth of natural waistline (between hip bones and lower ribs). Used, for example
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Waist](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist|Body_Measurement_Waist]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.public|Body_Measurement_Waist.public]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.internal|Body_Measurement_Waist.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.protect|Body_Measurement_Waist.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.private|Body_Measurement_Waist.private]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.personal|Body_Measurement_Waist.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Waist.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Waist.secret|Body_Measurement_Waist.secret]] 
 

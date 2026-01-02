@@ -100,17 +100,17 @@ Krugosvet_article: kultura_i_obrazovanie/religiya/BONHEFFER_DITRIH.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich|Bonhoeffer,Dietrich]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.public|Bonhoeffer,Dietrich.public]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.internal|Bonhoeffer,Dietrich.internal]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.protect|Bonhoeffer,Dietrich.protect]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.private|Bonhoeffer,Dietrich.private]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.personal|Bonhoeffer,Dietrich.personal]] 
 
-### #is_/same_as :: [Bonhoeffer,Dietrich.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Bonhoeffer,Dietrich.secret|Bonhoeffer,Dietrich.secret]] 
 

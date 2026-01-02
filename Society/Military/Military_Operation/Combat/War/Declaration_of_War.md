@@ -37,17 +37,17 @@ Commons_category: Declarations of war
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Declaration_of_War](/_Standards/Society/Military/Military_Operation/Combat/War/Declaration_of_War.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/Declaration_of_War|Declaration_of_War]] 
 
-### #is_/same_as :: [Declaration_of_War.public](/_public/Society/Military/Military_Operation/Combat/War/Declaration_of_War.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/Declaration_of_War.public|Declaration_of_War.public]] 
 
-### #is_/same_as :: [Declaration_of_War.internal](/_internal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.internal|Declaration_of_War.internal]] 
 
-### #is_/same_as :: [Declaration_of_War.protect](/_protect/Society/Military/Military_Operation/Combat/War/Declaration_of_War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/Declaration_of_War.protect|Declaration_of_War.protect]] 
 
-### #is_/same_as :: [Declaration_of_War.private](/_private/Society/Military/Military_Operation/Combat/War/Declaration_of_War.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/Declaration_of_War.private|Declaration_of_War.private]] 
 
-### #is_/same_as :: [Declaration_of_War.personal](/_personal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/Declaration_of_War.personal|Declaration_of_War.personal]] 
 
-### #is_/same_as :: [Declaration_of_War.secret](/_secret/Society/Military/Military_Operation/Combat/War/Declaration_of_War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/Declaration_of_War.secret|Declaration_of_War.secret]] 
 

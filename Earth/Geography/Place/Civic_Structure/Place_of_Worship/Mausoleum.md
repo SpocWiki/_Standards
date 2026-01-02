@@ -39,17 +39,17 @@ OpenStreetMap_tag_or_key: Tag:tomb=mausoleum
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mausoleum](/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum|Mausoleum]] 
 
-### #is_/same_as :: [Mausoleum.public](/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.public|Mausoleum.public]] 
 
-### #is_/same_as :: [Mausoleum.internal](/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.internal|Mausoleum.internal]] 
 
-### #is_/same_as :: [Mausoleum.protect](/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.protect|Mausoleum.protect]] 
 
-### #is_/same_as :: [Mausoleum.private](/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.private|Mausoleum.private]] 
 
-### #is_/same_as :: [Mausoleum.personal](/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.personal|Mausoleum.personal]] 
 
-### #is_/same_as :: [Mausoleum.secret](/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mausoleum.secret|Mausoleum.secret]] 
 

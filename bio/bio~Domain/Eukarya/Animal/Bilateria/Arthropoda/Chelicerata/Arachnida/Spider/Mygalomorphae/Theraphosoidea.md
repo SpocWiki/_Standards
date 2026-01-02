@@ -28,17 +28,17 @@ taxon_name: Theraphosoidea
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theraphosoidea](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea|Theraphosoidea]] 
 
-### #is_/same_as :: [Theraphosoidea.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.public|Theraphosoidea.public]] 
 
-### #is_/same_as :: [Theraphosoidea.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.internal|Theraphosoidea.internal]] 
 
-### #is_/same_as :: [Theraphosoidea.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.protect|Theraphosoidea.protect]] 
 
-### #is_/same_as :: [Theraphosoidea.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.private|Theraphosoidea.private]] 
 
-### #is_/same_as :: [Theraphosoidea.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.personal|Theraphosoidea.personal]] 
 
-### #is_/same_as :: [Theraphosoidea.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea.secret|Theraphosoidea.secret]] 
 

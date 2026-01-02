@@ -37,17 +37,17 @@ Structured values are used when the value of a property has a more complex struc
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~StructuredValue](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue|FileClass~StructuredValue]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.public|FileClass~StructuredValue.public]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.internal|FileClass~StructuredValue.internal]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.protect|FileClass~StructuredValue.protect]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.private|FileClass~StructuredValue.private]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.personal|FileClass~StructuredValue.personal]] 
 
-### #is_/same_as :: [FileClass~StructuredValue.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue.secret|FileClass~StructuredValue.secret]] 
 

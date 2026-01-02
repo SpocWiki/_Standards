@@ -71,17 +71,17 @@ Commons_category: Orgasms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Orgasm](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm|Orgasm]] 
 
-### #is_/same_as :: [Orgasm.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.public|Orgasm.public]] 
 
-### #is_/same_as :: [Orgasm.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.internal|Orgasm.internal]] 
 
-### #is_/same_as :: [Orgasm.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.protect|Orgasm.protect]] 
 
-### #is_/same_as :: [Orgasm.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.private|Orgasm.private]] 
 
-### #is_/same_as :: [Orgasm.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.personal|Orgasm.personal]] 
 
-### #is_/same_as :: [Orgasm.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Orgasm.secret|Orgasm.secret]] 
 

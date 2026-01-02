@@ -48,17 +48,17 @@ MeSH_tree_code: D26.355
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Essential_Medicine](/_Standards/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine|Essential_Medicine]] 
 
-### #is_/same_as :: [Essential_Medicine.public](/_public/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.public|Essential_Medicine.public]] 
 
-### #is_/same_as :: [Essential_Medicine.internal](/_internal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.internal|Essential_Medicine.internal]] 
 
-### #is_/same_as :: [Essential_Medicine.protect](/_protect/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.protect|Essential_Medicine.protect]] 
 
-### #is_/same_as :: [Essential_Medicine.private](/_private/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.private|Essential_Medicine.private]] 
 
-### #is_/same_as :: [Essential_Medicine.personal](/_personal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.personal|Essential_Medicine.personal]] 
 
-### #is_/same_as :: [Essential_Medicine.secret](/_secret/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/WHO(World_Health_Organization)/Essential_Medicine.secret|Essential_Medicine.secret]] 
 

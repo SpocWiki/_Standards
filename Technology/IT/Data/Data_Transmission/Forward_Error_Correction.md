@@ -46,17 +46,17 @@ uses: "[[_Standards/WikiData/WD~error_correction_code,55611017]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Forward_Error_Correction](/_Standards/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Data_Transmission/Forward_Error_Correction|Forward_Error_Correction]] 
 
-### #is_/same_as :: [Forward_Error_Correction.public](/_public/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.public|Forward_Error_Correction.public]] 
 
-### #is_/same_as :: [Forward_Error_Correction.internal](/_internal/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.internal|Forward_Error_Correction.internal]] 
 
-### #is_/same_as :: [Forward_Error_Correction.protect](/_protect/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.protect|Forward_Error_Correction.protect]] 
 
-### #is_/same_as :: [Forward_Error_Correction.private](/_private/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.private|Forward_Error_Correction.private]] 
 
-### #is_/same_as :: [Forward_Error_Correction.personal](/_personal/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.personal|Forward_Error_Correction.personal]] 
 
-### #is_/same_as :: [Forward_Error_Correction.secret](/_secret/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Data_Transmission/Forward_Error_Correction.secret|Forward_Error_Correction.secret]] 
 

@@ -115,17 +115,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Yakov%20Zeldovich%2C%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zeldovich,Yakov](/_Standards/Science/Physics/Physicist/Zeldovich,Yakov.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Zeldovich,Yakov|Zeldovich,Yakov]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.public](/_public/Science/Physics/Physicist/Zeldovich,Yakov.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Zeldovich,Yakov.public|Zeldovich,Yakov.public]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.internal](/_internal/Science/Physics/Physicist/Zeldovich,Yakov.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Zeldovich,Yakov.internal|Zeldovich,Yakov.internal]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.protect](/_protect/Science/Physics/Physicist/Zeldovich,Yakov.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Zeldovich,Yakov.protect|Zeldovich,Yakov.protect]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.private](/_private/Science/Physics/Physicist/Zeldovich,Yakov.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Zeldovich,Yakov.private|Zeldovich,Yakov.private]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.personal](/_personal/Science/Physics/Physicist/Zeldovich,Yakov.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Zeldovich,Yakov.personal|Zeldovich,Yakov.personal]] 
 
-### #is_/same_as :: [Zeldovich,Yakov.secret](/_secret/Science/Physics/Physicist/Zeldovich,Yakov.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Zeldovich,Yakov.secret|Zeldovich,Yakov.secret]] 
 

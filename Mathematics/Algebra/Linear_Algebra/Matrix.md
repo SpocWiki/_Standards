@@ -87,17 +87,17 @@ Commons_category: Matrices
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matrix](/_Standards/Mathematics/Algebra/Linear_Algebra/Matrix.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Matrix|Matrix]] 
 
-### #is_/same_as :: [Matrix.public](/_public/Mathematics/Algebra/Linear_Algebra/Matrix.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Matrix.public|Matrix.public]] 
 
-### #is_/same_as :: [Matrix.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Matrix.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Matrix.internal|Matrix.internal]] 
 
-### #is_/same_as :: [Matrix.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Matrix.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Matrix.protect|Matrix.protect]] 
 
-### #is_/same_as :: [Matrix.private](/_private/Mathematics/Algebra/Linear_Algebra/Matrix.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Matrix.private|Matrix.private]] 
 
-### #is_/same_as :: [Matrix.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Matrix.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Matrix.personal|Matrix.personal]] 
 
-### #is_/same_as :: [Matrix.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Matrix.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Matrix.secret|Matrix.secret]] 
 

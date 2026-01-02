@@ -87,17 +87,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Biodiversity](/_Standards/bio/Ecology/Biodiversity.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Biodiversity|Biodiversity]] 
 
-### #is_/same_as :: [Biodiversity.public](/_public/bio/Ecology/Biodiversity.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Biodiversity.public|Biodiversity.public]] 
 
-### #is_/same_as :: [Biodiversity.internal](/_internal/bio/Ecology/Biodiversity.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Biodiversity.internal|Biodiversity.internal]] 
 
-### #is_/same_as :: [Biodiversity.protect](/_protect/bio/Ecology/Biodiversity.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Biodiversity.protect|Biodiversity.protect]] 
 
-### #is_/same_as :: [Biodiversity.private](/_private/bio/Ecology/Biodiversity.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Biodiversity.private|Biodiversity.private]] 
 
-### #is_/same_as :: [Biodiversity.personal](/_personal/bio/Ecology/Biodiversity.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Biodiversity.personal|Biodiversity.personal]] 
 
-### #is_/same_as :: [Biodiversity.secret](/_secret/bio/Ecology/Biodiversity.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Biodiversity.secret|Biodiversity.secret]] 
 

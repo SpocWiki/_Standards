@@ -121,17 +121,17 @@ Baidu_Tieba_name: 舒马赫
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schumacher,Michael](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael|Schumacher,Michael]] 
 
-### #is_/same_as :: [Schumacher,Michael.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.public|Schumacher,Michael.public]] 
 
-### #is_/same_as :: [Schumacher,Michael.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.internal|Schumacher,Michael.internal]] 
 
-### #is_/same_as :: [Schumacher,Michael.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.protect|Schumacher,Michael.protect]] 
 
-### #is_/same_as :: [Schumacher,Michael.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.private|Schumacher,Michael.private]] 
 
-### #is_/same_as :: [Schumacher,Michael.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.personal|Schumacher,Michael.personal]] 
 
-### #is_/same_as :: [Schumacher,Michael.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Auto_Racing/Schumacher,Michael.secret|Schumacher,Michael.secret]] 
 

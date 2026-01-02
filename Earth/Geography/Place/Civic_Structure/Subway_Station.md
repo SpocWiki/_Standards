@@ -41,17 +41,17 @@ A subway station.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Subway_Station](/_Standards/Earth/Geography/Place/Civic_Structure/Subway_Station.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Subway_Station|Subway_Station]] 
 
-### #is_/same_as :: [Subway_Station.public](/_public/Earth/Geography/Place/Civic_Structure/Subway_Station.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Subway_Station.public|Subway_Station.public]] 
 
-### #is_/same_as :: [Subway_Station.internal](/_internal/Earth/Geography/Place/Civic_Structure/Subway_Station.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Subway_Station.internal|Subway_Station.internal]] 
 
-### #is_/same_as :: [Subway_Station.protect](/_protect/Earth/Geography/Place/Civic_Structure/Subway_Station.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Subway_Station.protect|Subway_Station.protect]] 
 
-### #is_/same_as :: [Subway_Station.private](/_private/Earth/Geography/Place/Civic_Structure/Subway_Station.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Subway_Station.private|Subway_Station.private]] 
 
-### #is_/same_as :: [Subway_Station.personal](/_personal/Earth/Geography/Place/Civic_Structure/Subway_Station.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Subway_Station.personal|Subway_Station.personal]] 
 
-### #is_/same_as :: [Subway_Station.secret](/_secret/Earth/Geography/Place/Civic_Structure/Subway_Station.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Subway_Station.secret|Subway_Station.secret]] 
 

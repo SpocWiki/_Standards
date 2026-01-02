@@ -77,17 +77,17 @@ Commons_category: Yogurt
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yogurt](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt|Yogurt]] 
 
-### #is_/same_as :: [Yogurt.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.public|Yogurt.public]] 
 
-### #is_/same_as :: [Yogurt.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.internal|Yogurt.internal]] 
 
-### #is_/same_as :: [Yogurt.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.protect|Yogurt.protect]] 
 
-### #is_/same_as :: [Yogurt.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.private|Yogurt.private]] 
 
-### #is_/same_as :: [Yogurt.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.personal|Yogurt.personal]] 
 
-### #is_/same_as :: [Yogurt.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dairy/Yogurt.secret|Yogurt.secret]] 
 

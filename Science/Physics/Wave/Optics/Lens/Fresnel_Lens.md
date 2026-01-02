@@ -48,17 +48,17 @@ Commons_category: Fresnel lenses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fresnel_Lens](/_Standards/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Lens/Fresnel_Lens|Fresnel_Lens]] 
 
-### #is_/same_as :: [Fresnel_Lens.public](/_public/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.public|Fresnel_Lens.public]] 
 
-### #is_/same_as :: [Fresnel_Lens.internal](/_internal/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.internal|Fresnel_Lens.internal]] 
 
-### #is_/same_as :: [Fresnel_Lens.protect](/_protect/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.protect|Fresnel_Lens.protect]] 
 
-### #is_/same_as :: [Fresnel_Lens.private](/_private/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.private|Fresnel_Lens.private]] 
 
-### #is_/same_as :: [Fresnel_Lens.personal](/_personal/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.personal|Fresnel_Lens.personal]] 
 
-### #is_/same_as :: [Fresnel_Lens.secret](/_secret/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Lens/Fresnel_Lens.secret|Fresnel_Lens.secret]] 
 

@@ -58,17 +58,17 @@ OpenStreetMap_tag: Tag:amenity=baking_oven
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oven](/_Standards/Society/Economics/Home_Economics/Cooking/Stove/Oven.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Stove/Oven|Oven]] 
 
-### #is_/same_as :: [Oven.public](/_public/Society/Economics/Home_Economics/Cooking/Stove/Oven.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Stove/Oven.public|Oven.public]] 
 
-### #is_/same_as :: [Oven.internal](/_internal/Society/Economics/Home_Economics/Cooking/Stove/Oven.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Stove/Oven.internal|Oven.internal]] 
 
-### #is_/same_as :: [Oven.protect](/_protect/Society/Economics/Home_Economics/Cooking/Stove/Oven.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Stove/Oven.protect|Oven.protect]] 
 
-### #is_/same_as :: [Oven.private](/_private/Society/Economics/Home_Economics/Cooking/Stove/Oven.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Stove/Oven.private|Oven.private]] 
 
-### #is_/same_as :: [Oven.personal](/_personal/Society/Economics/Home_Economics/Cooking/Stove/Oven.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Stove/Oven.personal|Oven.personal]] 
 
-### #is_/same_as :: [Oven.secret](/_secret/Society/Economics/Home_Economics/Cooking/Stove/Oven.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Stove/Oven.secret|Oven.secret]] 
 

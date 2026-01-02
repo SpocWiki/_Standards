@@ -48,17 +48,17 @@ time_of_discovery_or_invention: 900
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gunpowder](/_Standards/Society/Military/Military_Engineering/Gunpowder.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Gunpowder|Gunpowder]] 
 
-### #is_/same_as :: [Gunpowder.public](/_public/Society/Military/Military_Engineering/Gunpowder.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Gunpowder.public|Gunpowder.public]] 
 
-### #is_/same_as :: [Gunpowder.internal](/_internal/Society/Military/Military_Engineering/Gunpowder.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Gunpowder.internal|Gunpowder.internal]] 
 
-### #is_/same_as :: [Gunpowder.protect](/_protect/Society/Military/Military_Engineering/Gunpowder.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Gunpowder.protect|Gunpowder.protect]] 
 
-### #is_/same_as :: [Gunpowder.private](/_private/Society/Military/Military_Engineering/Gunpowder.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Gunpowder.private|Gunpowder.private]] 
 
-### #is_/same_as :: [Gunpowder.personal](/_personal/Society/Military/Military_Engineering/Gunpowder.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Gunpowder.personal|Gunpowder.personal]] 
 
-### #is_/same_as :: [Gunpowder.secret](/_secret/Society/Military/Military_Engineering/Gunpowder.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Gunpowder.secret|Gunpowder.secret]] 
 

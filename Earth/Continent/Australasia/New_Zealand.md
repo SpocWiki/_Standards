@@ -507,17 +507,17 @@ Capital :: [[Wellington]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [New_Zealand](/_Standards/Earth/Continent/Australasia/New_Zealand.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/New_Zealand|New_Zealand]] 
 
-### #is_/same_as :: [New_Zealand.public](/_public/Earth/Continent/Australasia/New_Zealand.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/New_Zealand.public|New_Zealand.public]] 
 
-### #is_/same_as :: [New_Zealand.internal](/_internal/Earth/Continent/Australasia/New_Zealand.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/New_Zealand.internal|New_Zealand.internal]] 
 
-### #is_/same_as :: [New_Zealand.protect](/_protect/Earth/Continent/Australasia/New_Zealand.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/New_Zealand.protect|New_Zealand.protect]] 
 
-### #is_/same_as :: [New_Zealand.private](/_private/Earth/Continent/Australasia/New_Zealand.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/New_Zealand.private|New_Zealand.private]] 
 
-### #is_/same_as :: [New_Zealand.personal](/_personal/Earth/Continent/Australasia/New_Zealand.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/New_Zealand.personal|New_Zealand.personal]] 
 
-### #is_/same_as :: [New_Zealand.secret](/_secret/Earth/Continent/Australasia/New_Zealand.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/New_Zealand.secret|New_Zealand.secret]] 
 

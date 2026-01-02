@@ -106,17 +106,17 @@ time_period: '[[_Standards/WikiData/WD~Timurid_Empire,484195]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Timur](/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur|Timur]] 
 
-### #is_/same_as :: [Timur.public](/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.public|Timur.public]] 
 
-### #is_/same_as :: [Timur.internal](/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.internal|Timur.internal]] 
 
-### #is_/same_as :: [Timur.protect](/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.protect|Timur.protect]] 
 
-### #is_/same_as :: [Timur.private](/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.private|Timur.private]] 
 
-### #is_/same_as :: [Timur.personal](/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.personal|Timur.personal]] 
 
-### #is_/same_as :: [Timur.secret](/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Middle_Age_Leaders/Timur.secret|Timur.secret]] 
 

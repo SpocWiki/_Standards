@@ -42,17 +42,17 @@ GameAvailabilityType:: {"type":"Select","options":{"valuesList":{"DemoGameAvaila
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PlayGameAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction|FileClass~PlayGameAction]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.public|FileClass~PlayGameAction.public]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.internal|FileClass~PlayGameAction.internal]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.protect|FileClass~PlayGameAction.protect]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.private|FileClass~PlayGameAction.private]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.personal|FileClass~PlayGameAction.personal]] 
 
-### #is_/same_as :: [FileClass~PlayGameAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~ConsumeAction/FileClass~PlayGameAction.secret|FileClass~PlayGameAction.secret]] 
 

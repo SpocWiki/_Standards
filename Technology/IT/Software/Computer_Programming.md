@@ -73,17 +73,17 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/computer_programming
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Programming](/_Standards/Technology/IT/Software/Computer_Programming.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming|Computer_Programming]] 
 
-### #is_/same_as :: [Computer_Programming.public](/_public/Technology/IT/Software/Computer_Programming.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming.public|Computer_Programming.public]] 
 
-### #is_/same_as :: [Computer_Programming.internal](/_internal/Technology/IT/Software/Computer_Programming.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming.internal|Computer_Programming.internal]] 
 
-### #is_/same_as :: [Computer_Programming.protect](/_protect/Technology/IT/Software/Computer_Programming.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming.protect|Computer_Programming.protect]] 
 
-### #is_/same_as :: [Computer_Programming.private](/_private/Technology/IT/Software/Computer_Programming.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming.private|Computer_Programming.private]] 
 
-### #is_/same_as :: [Computer_Programming.personal](/_personal/Technology/IT/Software/Computer_Programming.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming.personal|Computer_Programming.personal]] 
 
-### #is_/same_as :: [Computer_Programming.secret](/_secret/Technology/IT/Software/Computer_Programming.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming.secret|Computer_Programming.secret]] 
 

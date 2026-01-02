@@ -92,17 +92,17 @@ start_time: -1199-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Phoenician](/_Standards/Language/Writing_System/Script~Phoenician.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Phoenician|Script~Phoenician]] 
 
-### #is_/same_as :: [Script~Phoenician.public](/_public/Language/Writing_System/Script~Phoenician.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Phoenician.public|Script~Phoenician.public]] 
 
-### #is_/same_as :: [Script~Phoenician.internal](/_internal/Language/Writing_System/Script~Phoenician.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Phoenician.internal|Script~Phoenician.internal]] 
 
-### #is_/same_as :: [Script~Phoenician.protect](/_protect/Language/Writing_System/Script~Phoenician.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Phoenician.protect|Script~Phoenician.protect]] 
 
-### #is_/same_as :: [Script~Phoenician.private](/_private/Language/Writing_System/Script~Phoenician.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Phoenician.private|Script~Phoenician.private]] 
 
-### #is_/same_as :: [Script~Phoenician.personal](/_personal/Language/Writing_System/Script~Phoenician.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Phoenician.personal|Script~Phoenician.personal]] 
 
-### #is_/same_as :: [Script~Phoenician.secret](/_secret/Language/Writing_System/Script~Phoenician.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Phoenician.secret|Script~Phoenician.secret]] 
 

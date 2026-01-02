@@ -124,17 +124,17 @@ ZVG_number: 7750
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhenium](/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium|Rhenium]] 
 
-### #is_/same_as :: [Rhenium.public](/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.public|Rhenium.public]] 
 
-### #is_/same_as :: [Rhenium.internal](/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.internal|Rhenium.internal]] 
 
-### #is_/same_as :: [Rhenium.protect](/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.protect|Rhenium.protect]] 
 
-### #is_/same_as :: [Rhenium.private](/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.private|Rhenium.private]] 
 
-### #is_/same_as :: [Rhenium.personal](/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.personal|Rhenium.personal]] 
 
-### #is_/same_as :: [Rhenium.secret](/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Rhenium.secret|Rhenium.secret]] 
 

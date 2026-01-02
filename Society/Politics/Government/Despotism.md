@@ -44,17 +44,17 @@ Provenio_UUID: c5d81c18-7514-4a50-8115-dd232c60c154
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Despotism](/_Standards/Society/Politics/Government/Despotism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Despotism|Despotism]] 
 
-### #is_/same_as :: [Despotism.public](/_public/Society/Politics/Government/Despotism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Despotism.public|Despotism.public]] 
 
-### #is_/same_as :: [Despotism.internal](/_internal/Society/Politics/Government/Despotism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Despotism.internal|Despotism.internal]] 
 
-### #is_/same_as :: [Despotism.protect](/_protect/Society/Politics/Government/Despotism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Despotism.protect|Despotism.protect]] 
 
-### #is_/same_as :: [Despotism.private](/_private/Society/Politics/Government/Despotism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Despotism.private|Despotism.private]] 
 
-### #is_/same_as :: [Despotism.personal](/_personal/Society/Politics/Government/Despotism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Despotism.personal|Despotism.personal]] 
 
-### #is_/same_as :: [Despotism.secret](/_secret/Society/Politics/Government/Despotism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Despotism.secret|Despotism.secret]] 
 

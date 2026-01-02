@@ -47,17 +47,17 @@ Dewey_Decimal_Classification: "294.391"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theravāda](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda|Theravāda]] 
 
-### #is_/same_as :: [Theravāda.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.public|Theravāda.public]] 
 
-### #is_/same_as :: [Theravāda.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.internal|Theravāda.internal]] 
 
-### #is_/same_as :: [Theravāda.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.protect|Theravāda.protect]] 
 
-### #is_/same_as :: [Theravāda.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.private|Theravāda.private]] 
 
-### #is_/same_as :: [Theravāda.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.personal|Theravāda.personal]] 
 
-### #is_/same_as :: [Theravāda.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/Theravāda.secret|Theravāda.secret]] 
 

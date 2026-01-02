@@ -76,17 +76,17 @@ IPTC_NewsCode: mediatopic/20001179
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sequence](/_Standards/Mathematics/Function(Math)/Sequence.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Sequence|Sequence]] 
 
-### #is_/same_as :: [Sequence.public](/_public/Mathematics/Function(Math)/Sequence.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Sequence.public|Sequence.public]] 
 
-### #is_/same_as :: [Sequence.internal](/_internal/Mathematics/Function(Math)/Sequence.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Sequence.internal|Sequence.internal]] 
 
-### #is_/same_as :: [Sequence.protect](/_protect/Mathematics/Function(Math)/Sequence.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Sequence.protect|Sequence.protect]] 
 
-### #is_/same_as :: [Sequence.private](/_private/Mathematics/Function(Math)/Sequence.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Sequence.private|Sequence.private]] 
 
-### #is_/same_as :: [Sequence.personal](/_personal/Mathematics/Function(Math)/Sequence.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Sequence.personal|Sequence.personal]] 
 
-### #is_/same_as :: [Sequence.secret](/_secret/Mathematics/Function(Math)/Sequence.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Sequence.secret|Sequence.secret]] 
 

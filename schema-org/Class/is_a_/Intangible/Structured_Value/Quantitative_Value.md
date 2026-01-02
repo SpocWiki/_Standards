@@ -41,17 +41,17 @@ A point value or interval for product characteristics and other purposes.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quantitative_Value](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]] 
 
-### #is_/same_as :: [Quantitative_Value.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.public|Quantitative_Value.public]] 
 
-### #is_/same_as :: [Quantitative_Value.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.internal|Quantitative_Value.internal]] 
 
-### #is_/same_as :: [Quantitative_Value.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.protect|Quantitative_Value.protect]] 
 
-### #is_/same_as :: [Quantitative_Value.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.private|Quantitative_Value.private]] 
 
-### #is_/same_as :: [Quantitative_Value.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.personal|Quantitative_Value.personal]] 
 
-### #is_/same_as :: [Quantitative_Value.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Quantitative_Value.secret|Quantitative_Value.secret]] 
 

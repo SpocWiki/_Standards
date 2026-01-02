@@ -39,17 +39,17 @@ Commons_category: History of Islam
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam|History_of_Islam]] 
 
-### #is_/same_as :: [History_of_Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.public|History_of_Islam.public]] 
 
-### #is_/same_as :: [History_of_Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.internal|History_of_Islam.internal]] 
 
-### #is_/same_as :: [History_of_Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.protect|History_of_Islam.protect]] 
 
-### #is_/same_as :: [History_of_Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.private|History_of_Islam.private]] 
 
-### #is_/same_as :: [History_of_Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.personal|History_of_Islam.personal]] 
 
-### #is_/same_as :: [History_of_Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/History_of_Islam.secret|History_of_Islam.secret]] 
 

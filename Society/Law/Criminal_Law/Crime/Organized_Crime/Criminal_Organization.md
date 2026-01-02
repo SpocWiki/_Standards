@@ -59,17 +59,17 @@ IMDb_keyword: criminal-organization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Criminal_Organization](/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization|Criminal_Organization]] 
 
-### #is_/same_as :: [Criminal_Organization.public](/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.public|Criminal_Organization.public]] 
 
-### #is_/same_as :: [Criminal_Organization.internal](/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.internal|Criminal_Organization.internal]] 
 
-### #is_/same_as :: [Criminal_Organization.protect](/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.protect|Criminal_Organization.protect]] 
 
-### #is_/same_as :: [Criminal_Organization.private](/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.private|Criminal_Organization.private]] 
 
-### #is_/same_as :: [Criminal_Organization.personal](/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.personal|Criminal_Organization.personal]] 
 
-### #is_/same_as :: [Criminal_Organization.secret](/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Criminal_Law/Crime/Organized_Crime/Criminal_Organization.secret|Criminal_Organization.secret]] 
 

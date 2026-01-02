@@ -42,17 +42,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Genre](/_Standards/Society/Communication/Genre.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre|Genre]] 
 
-### #is_/same_as :: [Genre.public](/_public/Society/Communication/Genre.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre.public|Genre.public]] 
 
-### #is_/same_as :: [Genre.internal](/_internal/Society/Communication/Genre.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre.internal|Genre.internal]] 
 
-### #is_/same_as :: [Genre.protect](/_protect/Society/Communication/Genre.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre.protect|Genre.protect]] 
 
-### #is_/same_as :: [Genre.private](/_private/Society/Communication/Genre.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre.private|Genre.private]] 
 
-### #is_/same_as :: [Genre.personal](/_personal/Society/Communication/Genre.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre.personal|Genre.personal]] 
 
-### #is_/same_as :: [Genre.secret](/_secret/Society/Communication/Genre.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre.secret|Genre.secret]] 
 

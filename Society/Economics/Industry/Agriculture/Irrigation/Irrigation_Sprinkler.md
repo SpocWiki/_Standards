@@ -36,17 +36,17 @@ Commons_gallery: Irrigation sprinkler
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Irrigation_Sprinkler](/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler|Irrigation_Sprinkler]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.public](/_public/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.public|Irrigation_Sprinkler.public]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.internal](/_internal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.internal|Irrigation_Sprinkler.internal]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.protect](/_protect/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.protect|Irrigation_Sprinkler.protect]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.private](/_private/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.private|Irrigation_Sprinkler.private]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.personal](/_personal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.personal|Irrigation_Sprinkler.personal]] 
 
-### #is_/same_as :: [Irrigation_Sprinkler.secret](/_secret/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Irrigation/Irrigation_Sprinkler.secret|Irrigation_Sprinkler.secret]] 
 

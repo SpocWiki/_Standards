@@ -71,17 +71,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_socialism,39087403]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Socialism](/_Standards/Society/Ideology/Political_Ideology/Socialism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Socialism|Socialism]] 
 
-### #is_/same_as :: [Socialism.public](/_public/Society/Ideology/Political_Ideology/Socialism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Socialism.public|Socialism.public]] 
 
-### #is_/same_as :: [Socialism.internal](/_internal/Society/Ideology/Political_Ideology/Socialism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Socialism.internal|Socialism.internal]] 
 
-### #is_/same_as :: [Socialism.protect](/_protect/Society/Ideology/Political_Ideology/Socialism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Socialism.protect|Socialism.protect]] 
 
-### #is_/same_as :: [Socialism.private](/_private/Society/Ideology/Political_Ideology/Socialism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Socialism.private|Socialism.private]] 
 
-### #is_/same_as :: [Socialism.personal](/_personal/Society/Ideology/Political_Ideology/Socialism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Socialism.personal|Socialism.personal]] 
 
-### #is_/same_as :: [Socialism.secret](/_secret/Society/Ideology/Political_Ideology/Socialism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Socialism.secret|Socialism.secret]] 
 

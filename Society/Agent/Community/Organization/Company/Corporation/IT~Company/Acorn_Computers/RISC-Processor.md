@@ -44,17 +44,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RISC-Processor](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor|RISC-Processor]] 
 
-### #is_/same_as :: [RISC-Processor.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.public|RISC-Processor.public]] 
 
-### #is_/same_as :: [RISC-Processor.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.internal|RISC-Processor.internal]] 
 
-### #is_/same_as :: [RISC-Processor.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.protect|RISC-Processor.protect]] 
 
-### #is_/same_as :: [RISC-Processor.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.private|RISC-Processor.private]] 
 
-### #is_/same_as :: [RISC-Processor.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.personal|RISC-Processor.personal]] 
 
-### #is_/same_as :: [RISC-Processor.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Acorn_Computers/RISC-Processor.secret|RISC-Processor.secret]] 
 

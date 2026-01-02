@@ -290,17 +290,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bach,Johann_Sebastian](/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian|Bach,Johann_Sebastian]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.public](/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.public|Bach,Johann_Sebastian.public]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.internal](/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.internal|Bach,Johann_Sebastian.internal]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.protect](/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.protect|Bach,Johann_Sebastian.protect]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.private](/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.private|Bach,Johann_Sebastian.private]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.personal](/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.personal|Bach,Johann_Sebastian.personal]] 
 
-### #is_/same_as :: [Bach,Johann_Sebastian.secret](/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Baroque_Composers/Bach,Johann_Sebastian.secret|Bach,Johann_Sebastian.secret]] 
 

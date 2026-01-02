@@ -63,17 +63,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_2011_Tōhoku_earthqu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami](/_Standards/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami|2011-Tōhoku_earthquake_and_tsunami]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.public](/_public/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.public|2011-Tōhoku_earthquake_and_tsunami.public]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.internal](/_internal/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.internal|2011-Tōhoku_earthquake_and_tsunami.internal]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.protect](/_protect/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.protect|2011-Tōhoku_earthquake_and_tsunami.protect]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.private](/_private/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.private|2011-Tōhoku_earthquake_and_tsunami.private]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.personal](/_personal/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.personal|2011-Tōhoku_earthquake_and_tsunami.personal]] 
 
-### #is_/same_as :: [2011-Tōhoku_earthquake_and_tsunami.secret](/_secret/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Tsunami/2011-Tōhoku_earthquake_and_tsunami.secret|2011-Tōhoku_earthquake_and_tsunami.secret]] 
 

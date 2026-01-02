@@ -42,17 +42,17 @@ A service for a vehicle for hire with a driver for local travel. Fares are usual
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taxi_Service](/_Standards/Society/Agent/Community/Organization/Business/Service/Taxi_Service.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Taxi_Service|Taxi_Service]] 
 
-### #is_/same_as :: [Taxi_Service.public](/_public/Society/Agent/Community/Organization/Business/Service/Taxi_Service.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Taxi_Service.public|Taxi_Service.public]] 
 
-### #is_/same_as :: [Taxi_Service.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Taxi_Service.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Taxi_Service.internal|Taxi_Service.internal]] 
 
-### #is_/same_as :: [Taxi_Service.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Taxi_Service.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Taxi_Service.protect|Taxi_Service.protect]] 
 
-### #is_/same_as :: [Taxi_Service.private](/_private/Society/Agent/Community/Organization/Business/Service/Taxi_Service.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Taxi_Service.private|Taxi_Service.private]] 
 
-### #is_/same_as :: [Taxi_Service.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Taxi_Service.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Taxi_Service.personal|Taxi_Service.personal]] 
 
-### #is_/same_as :: [Taxi_Service.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Taxi_Service.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Taxi_Service.secret|Taxi_Service.secret]] 
 

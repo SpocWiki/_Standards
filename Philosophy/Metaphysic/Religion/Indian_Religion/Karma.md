@@ -59,17 +59,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/KARMA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karma](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Karma|Karma]] 
 
-### #is_/same_as :: [Karma.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.public|Karma.public]] 
 
-### #is_/same_as :: [Karma.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.internal|Karma.internal]] 
 
-### #is_/same_as :: [Karma.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.protect|Karma.protect]] 
 
-### #is_/same_as :: [Karma.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.private|Karma.private]] 
 
-### #is_/same_as :: [Karma.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.personal|Karma.personal]] 
 
-### #is_/same_as :: [Karma.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Karma.secret|Karma.secret]] 
 

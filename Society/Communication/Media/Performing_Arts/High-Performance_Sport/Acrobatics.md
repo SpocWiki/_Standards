@@ -36,17 +36,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Acrobatics](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics|Acrobatics]] 
 
-### #is_/same_as :: [Acrobatics.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.public|Acrobatics.public]] 
 
-### #is_/same_as :: [Acrobatics.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.internal|Acrobatics.internal]] 
 
-### #is_/same_as :: [Acrobatics.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.protect|Acrobatics.protect]] 
 
-### #is_/same_as :: [Acrobatics.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.private|Acrobatics.private]] 
 
-### #is_/same_as :: [Acrobatics.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.personal|Acrobatics.personal]] 
 
-### #is_/same_as :: [Acrobatics.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Acrobatics.secret|Acrobatics.secret]] 
 

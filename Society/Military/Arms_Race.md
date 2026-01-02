@@ -37,17 +37,17 @@ P8189: 987007294806605171
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arms_Race](/_Standards/Society/Military/Arms_Race.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Arms_Race|Arms_Race]] 
 
-### #is_/same_as :: [Arms_Race.public](/_public/Society/Military/Arms_Race.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Arms_Race.public|Arms_Race.public]] 
 
-### #is_/same_as :: [Arms_Race.internal](/_internal/Society/Military/Arms_Race.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Arms_Race.internal|Arms_Race.internal]] 
 
-### #is_/same_as :: [Arms_Race.protect](/_protect/Society/Military/Arms_Race.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Arms_Race.protect|Arms_Race.protect]] 
 
-### #is_/same_as :: [Arms_Race.private](/_private/Society/Military/Arms_Race.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Arms_Race.private|Arms_Race.private]] 
 
-### #is_/same_as :: [Arms_Race.personal](/_personal/Society/Military/Arms_Race.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Arms_Race.personal|Arms_Race.personal]] 
 
-### #is_/same_as :: [Arms_Race.secret](/_secret/Society/Military/Arms_Race.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Arms_Race.secret|Arms_Race.secret]] 
 

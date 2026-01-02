@@ -41,17 +41,17 @@ Auto body shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Auto_Body_Shop](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop|Auto_Body_Shop]] 
 
-### #is_/same_as :: [Auto_Body_Shop.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.public|Auto_Body_Shop.public]] 
 
-### #is_/same_as :: [Auto_Body_Shop.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.internal|Auto_Body_Shop.internal]] 
 
-### #is_/same_as :: [Auto_Body_Shop.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.protect|Auto_Body_Shop.protect]] 
 
-### #is_/same_as :: [Auto_Body_Shop.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.private|Auto_Body_Shop.private]] 
 
-### #is_/same_as :: [Auto_Body_Shop.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.personal|Auto_Body_Shop.personal]] 
 
-### #is_/same_as :: [Auto_Body_Shop.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Auto_Body_Shop.secret|Auto_Body_Shop.secret]] 
 

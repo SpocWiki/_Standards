@@ -124,17 +124,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Typhoid_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever|Typhoid_Fever]] 
 
-### #is_/same_as :: [Typhoid_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.public|Typhoid_Fever.public]] 
 
-### #is_/same_as :: [Typhoid_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.internal|Typhoid_Fever.internal]] 
 
-### #is_/same_as :: [Typhoid_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.protect|Typhoid_Fever.protect]] 
 
-### #is_/same_as :: [Typhoid_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.private|Typhoid_Fever.private]] 
 
-### #is_/same_as :: [Typhoid_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.personal|Typhoid_Fever.personal]] 
 
-### #is_/same_as :: [Typhoid_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Typhoid_Fever.secret|Typhoid_Fever.secret]] 
 

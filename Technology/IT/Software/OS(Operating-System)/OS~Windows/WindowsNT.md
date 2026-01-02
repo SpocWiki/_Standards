@@ -38,17 +38,17 @@ cost 86M€
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [WindowsNT](/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT|WindowsNT]] 
 
-### #is_/same_as :: [WindowsNT.public](/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.public|WindowsNT.public]] 
 
-### #is_/same_as :: [WindowsNT.internal](/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.internal|WindowsNT.internal]] 
 
-### #is_/same_as :: [WindowsNT.protect](/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.protect|WindowsNT.protect]] 
 
-### #is_/same_as :: [WindowsNT.private](/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.private|WindowsNT.private]] 
 
-### #is_/same_as :: [WindowsNT.personal](/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.personal|WindowsNT.personal]] 
 
-### #is_/same_as :: [WindowsNT.secret](/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/OS(Operating-System)/OS~Windows/WindowsNT.secret|WindowsNT.secret]] 
 

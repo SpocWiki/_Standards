@@ -51,17 +51,17 @@ Wolfram_Language_entity_code: Entity["Concept", "LinearEquation::zvx7y"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linear_Equation](/_Standards/Mathematics/Algebra/Linear_Algebra/Linear_Equation.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/Linear_Equation|Linear_Equation]] 
 
-### #is_/same_as :: [Linear_Equation.public](/_public/Mathematics/Algebra/Linear_Algebra/Linear_Equation.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/Linear_Equation.public|Linear_Equation.public]] 
 
-### #is_/same_as :: [Linear_Equation.internal](/_internal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.internal|Linear_Equation.internal]] 
 
-### #is_/same_as :: [Linear_Equation.protect](/_protect/Mathematics/Algebra/Linear_Algebra/Linear_Equation.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/Linear_Equation.protect|Linear_Equation.protect]] 
 
-### #is_/same_as :: [Linear_Equation.private](/_private/Mathematics/Algebra/Linear_Algebra/Linear_Equation.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/Linear_Equation.private|Linear_Equation.private]] 
 
-### #is_/same_as :: [Linear_Equation.personal](/_personal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/Linear_Equation.personal|Linear_Equation.personal]] 
 
-### #is_/same_as :: [Linear_Equation.secret](/_secret/Mathematics/Algebra/Linear_Algebra/Linear_Equation.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/Linear_Equation.secret|Linear_Equation.secret]] 
 

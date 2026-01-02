@@ -98,17 +98,17 @@ When you link contacts on an iPhone, they are not permanently merged. Instead, t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [iPhone](/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Apple_Inc/iPhone|iPhone]] 
 
-### #is_/same_as :: [iPhone.public](/_public/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.public|iPhone.public]] 
 
-### #is_/same_as :: [iPhone.internal](/_internal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.internal|iPhone.internal]] 
 
-### #is_/same_as :: [iPhone.protect](/_protect/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.protect|iPhone.protect]] 
 
-### #is_/same_as :: [iPhone.private](/_private/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.private|iPhone.private]] 
 
-### #is_/same_as :: [iPhone.personal](/_personal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.personal|iPhone.personal]] 
 
-### #is_/same_as :: [iPhone.secret](/_secret/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Apple_Inc/iPhone.secret|iPhone.secret]] 
 

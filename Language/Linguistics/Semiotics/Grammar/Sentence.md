@@ -54,17 +54,17 @@ Gujarati_Vishwakosh_entry: વાક્ય
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sentence](/_Standards/Language/Linguistics/Semiotics/Grammar/Sentence.md) 
+### #is_/same_as :: [[/_Standards/Language/Linguistics/Semiotics/Grammar/Sentence|Sentence]] 
 
-### #is_/same_as :: [Sentence.public](/_public/Language/Linguistics/Semiotics/Grammar/Sentence.public.md) 
+### #is_/same_as :: [[/_public/Language/Linguistics/Semiotics/Grammar/Sentence.public|Sentence.public]] 
 
-### #is_/same_as :: [Sentence.internal](/_internal/Language/Linguistics/Semiotics/Grammar/Sentence.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Linguistics/Semiotics/Grammar/Sentence.internal|Sentence.internal]] 
 
-### #is_/same_as :: [Sentence.protect](/_protect/Language/Linguistics/Semiotics/Grammar/Sentence.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Linguistics/Semiotics/Grammar/Sentence.protect|Sentence.protect]] 
 
-### #is_/same_as :: [Sentence.private](/_private/Language/Linguistics/Semiotics/Grammar/Sentence.private.md) 
+### #is_/same_as :: [[/_private/Language/Linguistics/Semiotics/Grammar/Sentence.private|Sentence.private]] 
 
-### #is_/same_as :: [Sentence.personal](/_personal/Language/Linguistics/Semiotics/Grammar/Sentence.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Linguistics/Semiotics/Grammar/Sentence.personal|Sentence.personal]] 
 
-### #is_/same_as :: [Sentence.secret](/_secret/Language/Linguistics/Semiotics/Grammar/Sentence.secret.md)
+### #is_/same_as :: [[/_secret/Language/Linguistics/Semiotics/Grammar/Sentence.secret|Sentence.secret]] 
 

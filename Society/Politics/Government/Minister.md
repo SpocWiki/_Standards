@@ -104,17 +104,17 @@ Dewey_Decimal_Classification: 352.293
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Minister](/_Standards/Society/Politics/Government/Minister.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Minister|Minister]] 
 
-### #is_/same_as :: [Minister.public](/_public/Society/Politics/Government/Minister.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Minister.public|Minister.public]] 
 
-### #is_/same_as :: [Minister.internal](/_internal/Society/Politics/Government/Minister.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Minister.internal|Minister.internal]] 
 
-### #is_/same_as :: [Minister.protect](/_protect/Society/Politics/Government/Minister.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Minister.protect|Minister.protect]] 
 
-### #is_/same_as :: [Minister.private](/_private/Society/Politics/Government/Minister.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Minister.private|Minister.private]] 
 
-### #is_/same_as :: [Minister.personal](/_personal/Society/Politics/Government/Minister.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Minister.personal|Minister.personal]] 
 
-### #is_/same_as :: [Minister.secret](/_secret/Society/Politics/Government/Minister.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Minister.secret|Minister.secret]] 
 

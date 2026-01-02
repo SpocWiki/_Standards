@@ -56,17 +56,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Word](/_Standards/Language/Word.md) 
+### #is_/same_as :: [[/_Standards/Language/Word|Word]] 
 
-### #is_/same_as :: [Word.public](/_public/Language/Word.public.md) 
+### #is_/same_as :: [[/_public/Language/Word.public|Word.public]] 
 
-### #is_/same_as :: [Word.internal](/_internal/Language/Word.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Word.internal|Word.internal]] 
 
-### #is_/same_as :: [Word.protect](/_protect/Language/Word.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Word.protect|Word.protect]] 
 
-### #is_/same_as :: [Word.private](/_private/Language/Word.private.md) 
+### #is_/same_as :: [[/_private/Language/Word.private|Word.private]] 
 
-### #is_/same_as :: [Word.personal](/_personal/Language/Word.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Word.personal|Word.personal]] 
 
-### #is_/same_as :: [Word.secret](/_secret/Language/Word.secret.md)
+### #is_/same_as :: [[/_secret/Language/Word.secret|Word.secret]] 
 

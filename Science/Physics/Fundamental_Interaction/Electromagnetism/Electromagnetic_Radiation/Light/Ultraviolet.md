@@ -103,17 +103,17 @@ Commons_category: Ultraviolet light
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ultraviolet](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet|Ultraviolet]] 
 
-### #is_/same_as :: [Ultraviolet.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.public|Ultraviolet.public]] 
 
-### #is_/same_as :: [Ultraviolet.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.internal|Ultraviolet.internal]] 
 
-### #is_/same_as :: [Ultraviolet.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.protect|Ultraviolet.protect]] 
 
-### #is_/same_as :: [Ultraviolet.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.private|Ultraviolet.private]] 
 
-### #is_/same_as :: [Ultraviolet.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.personal|Ultraviolet.personal]] 
 
-### #is_/same_as :: [Ultraviolet.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Radiation/Light/Ultraviolet.secret|Ultraviolet.secret]] 
 

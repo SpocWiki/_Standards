@@ -53,17 +53,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bush,Kate](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate|Bush,Kate]] 
 
-### #is_/same_as :: [Bush,Kate.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.public|Bush,Kate.public]] 
 
-### #is_/same_as :: [Bush,Kate.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.internal|Bush,Kate.internal]] 
 
-### #is_/same_as :: [Bush,Kate.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.protect|Bush,Kate.protect]] 
 
-### #is_/same_as :: [Bush,Kate.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.private|Bush,Kate.private]] 
 
-### #is_/same_as :: [Bush,Kate.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.personal|Bush,Kate.personal]] 
 
-### #is_/same_as :: [Bush,Kate.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Bush,Kate.secret|Bush,Kate.secret]] 
 

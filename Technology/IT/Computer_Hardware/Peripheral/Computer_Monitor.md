@@ -58,17 +58,17 @@ subreddit: Monitors
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Monitor](/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor|Computer_Monitor]] 
 
-### #is_/same_as :: [Computer_Monitor.public](/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.public|Computer_Monitor.public]] 
 
-### #is_/same_as :: [Computer_Monitor.internal](/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.internal|Computer_Monitor.internal]] 
 
-### #is_/same_as :: [Computer_Monitor.protect](/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.protect|Computer_Monitor.protect]] 
 
-### #is_/same_as :: [Computer_Monitor.private](/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.private|Computer_Monitor.private]] 
 
-### #is_/same_as :: [Computer_Monitor.personal](/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.personal|Computer_Monitor.personal]] 
 
-### #is_/same_as :: [Computer_Monitor.secret](/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware/Peripheral/Computer_Monitor.secret|Computer_Monitor.secret]] 
 

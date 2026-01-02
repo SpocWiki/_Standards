@@ -37,17 +37,17 @@ Commons_category: Economic models
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economic_Model](/_Standards/Society/Economics/Economic_Model.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Model|Economic_Model]] 
 
-### #is_/same_as :: [Economic_Model.public](/_public/Society/Economics/Economic_Model.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Model.public|Economic_Model.public]] 
 
-### #is_/same_as :: [Economic_Model.internal](/_internal/Society/Economics/Economic_Model.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Model.internal|Economic_Model.internal]] 
 
-### #is_/same_as :: [Economic_Model.protect](/_protect/Society/Economics/Economic_Model.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Model.protect|Economic_Model.protect]] 
 
-### #is_/same_as :: [Economic_Model.private](/_private/Society/Economics/Economic_Model.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Model.private|Economic_Model.private]] 
 
-### #is_/same_as :: [Economic_Model.personal](/_personal/Society/Economics/Economic_Model.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Model.personal|Economic_Model.personal]] 
 
-### #is_/same_as :: [Economic_Model.secret](/_secret/Society/Economics/Economic_Model.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Model.secret|Economic_Model.secret]] 
 

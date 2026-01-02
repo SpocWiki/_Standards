@@ -60,17 +60,17 @@ Dewey_Decimal_Classification: 336.271
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tariff](/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff|Tariff]] 
 
-### #is_/same_as :: [Tariff.public](/_public/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.public|Tariff.public]] 
 
-### #is_/same_as :: [Tariff.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.internal|Tariff.internal]] 
 
-### #is_/same_as :: [Tariff.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.protect|Tariff.protect]] 
 
-### #is_/same_as :: [Tariff.private](/_private/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.private|Tariff.private]] 
 
-### #is_/same_as :: [Tariff.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.personal|Tariff.personal]] 
 
-### #is_/same_as :: [Tariff.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Trade_War/Tariff.secret|Tariff.secret]] 
 

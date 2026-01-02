@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_schedule_timezone](/_Standards/schema-org/Property/Texts/has_schedule_timezone.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_schedule_timezone|has_schedule_timezone]] 
 
-### #is_/same_as :: [has_schedule_timezone.public](/_public/schema-org/Property/Texts/has_schedule_timezone.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_schedule_timezone.public|has_schedule_timezone.public]] 
 
-### #is_/same_as :: [has_schedule_timezone.internal](/_internal/schema-org/Property/Texts/has_schedule_timezone.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_schedule_timezone.internal|has_schedule_timezone.internal]] 
 
-### #is_/same_as :: [has_schedule_timezone.protect](/_protect/schema-org/Property/Texts/has_schedule_timezone.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_schedule_timezone.protect|has_schedule_timezone.protect]] 
 
-### #is_/same_as :: [has_schedule_timezone.private](/_private/schema-org/Property/Texts/has_schedule_timezone.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_schedule_timezone.private|has_schedule_timezone.private]] 
 
-### #is_/same_as :: [has_schedule_timezone.personal](/_personal/schema-org/Property/Texts/has_schedule_timezone.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_schedule_timezone.personal|has_schedule_timezone.personal]] 
 
-### #is_/same_as :: [has_schedule_timezone.secret](/_secret/schema-org/Property/Texts/has_schedule_timezone.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_schedule_timezone.secret|has_schedule_timezone.secret]] 
 

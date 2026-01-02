@@ -63,17 +63,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thor](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor|Thor]] 
 
-### #is_/same_as :: [Thor.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.public|Thor.public]] 
 
-### #is_/same_as :: [Thor.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.internal|Thor.internal]] 
 
-### #is_/same_as :: [Thor.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.protect|Thor.protect]] 
 
-### #is_/same_as :: [Thor.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.private|Thor.private]] 
 
-### #is_/same_as :: [Thor.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.personal|Thor.personal]] 
 
-### #is_/same_as :: [Thor.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Norse_Mythology/Thor.secret|Thor.secret]] 
 

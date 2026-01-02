@@ -66,17 +66,17 @@ Colon_Classification: Q:4192
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ritual](/_Standards/Society/Culture/Tradition/Ritual.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Tradition/Ritual|Ritual]] 
 
-### #is_/same_as :: [Ritual.public](/_public/Society/Culture/Tradition/Ritual.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Tradition/Ritual.public|Ritual.public]] 
 
-### #is_/same_as :: [Ritual.internal](/_internal/Society/Culture/Tradition/Ritual.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Tradition/Ritual.internal|Ritual.internal]] 
 
-### #is_/same_as :: [Ritual.protect](/_protect/Society/Culture/Tradition/Ritual.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Tradition/Ritual.protect|Ritual.protect]] 
 
-### #is_/same_as :: [Ritual.private](/_private/Society/Culture/Tradition/Ritual.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Tradition/Ritual.private|Ritual.private]] 
 
-### #is_/same_as :: [Ritual.personal](/_personal/Society/Culture/Tradition/Ritual.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Tradition/Ritual.personal|Ritual.personal]] 
 
-### #is_/same_as :: [Ritual.secret](/_secret/Society/Culture/Tradition/Ritual.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Tradition/Ritual.secret|Ritual.secret]] 
 

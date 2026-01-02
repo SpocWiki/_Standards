@@ -41,17 +41,17 @@ Commons_category: Theory of computation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theory_of_Computation](/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation|Theory_of_Computation]] 
 
-### #is_/same_as :: [Theory_of_Computation.public](/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.public|Theory_of_Computation.public]] 
 
-### #is_/same_as :: [Theory_of_Computation.internal](/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.internal|Theory_of_Computation.internal]] 
 
-### #is_/same_as :: [Theory_of_Computation.protect](/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.protect|Theory_of_Computation.protect]] 
 
-### #is_/same_as :: [Theory_of_Computation.private](/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.private|Theory_of_Computation.private]] 
 
-### #is_/same_as :: [Theory_of_Computation.personal](/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.personal|Theory_of_Computation.personal]] 
 
-### #is_/same_as :: [Theory_of_Computation.secret](/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Theoretical_Computer_Science/Theory_of_Computation.secret|Theory_of_Computation.secret]] 
 

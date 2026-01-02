@@ -67,17 +67,17 @@ IMDb_keyword: water-clock
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Water_Clock](/_Standards/Technology/Tool/Instrumentation/Water_Clock.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Instrumentation/Water_Clock|Water_Clock]] 
 
-### #is_/same_as :: [Water_Clock.public](/_public/Technology/Tool/Instrumentation/Water_Clock.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Instrumentation/Water_Clock.public|Water_Clock.public]] 
 
-### #is_/same_as :: [Water_Clock.internal](/_internal/Technology/Tool/Instrumentation/Water_Clock.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Instrumentation/Water_Clock.internal|Water_Clock.internal]] 
 
-### #is_/same_as :: [Water_Clock.protect](/_protect/Technology/Tool/Instrumentation/Water_Clock.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Instrumentation/Water_Clock.protect|Water_Clock.protect]] 
 
-### #is_/same_as :: [Water_Clock.private](/_private/Technology/Tool/Instrumentation/Water_Clock.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Instrumentation/Water_Clock.private|Water_Clock.private]] 
 
-### #is_/same_as :: [Water_Clock.personal](/_personal/Technology/Tool/Instrumentation/Water_Clock.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Instrumentation/Water_Clock.personal|Water_Clock.personal]] 
 
-### #is_/same_as :: [Water_Clock.secret](/_secret/Technology/Tool/Instrumentation/Water_Clock.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Instrumentation/Water_Clock.secret|Water_Clock.secret]] 
 

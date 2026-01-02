@@ -95,17 +95,17 @@ OpenStreetMap_tag: cuisine=sandwich
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sandwich(Dish)](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish)|Sandwich(Dish)]] 
 
-### #is_/same_as :: [Sandwich(Dish).public](/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).public|Sandwich(Dish).public]] 
 
-### #is_/same_as :: [Sandwich(Dish).internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).internal|Sandwich(Dish).internal]] 
 
-### #is_/same_as :: [Sandwich(Dish).protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).protect|Sandwich(Dish).protect]] 
 
-### #is_/same_as :: [Sandwich(Dish).private](/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).private|Sandwich(Dish).private]] 
 
-### #is_/same_as :: [Sandwich(Dish).personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).personal|Sandwich(Dish).personal]] 
 
-### #is_/same_as :: [Sandwich(Dish).secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Dish/Sandwich(Dish).secret|Sandwich(Dish).secret]] 
 

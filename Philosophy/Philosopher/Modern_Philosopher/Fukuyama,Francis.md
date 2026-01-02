@@ -29,17 +29,17 @@ every Country tries to find its own Narrative (India, China, Russia, ...)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fukuyama,Francis](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis|Fukuyama,Francis]] 
 
-### #is_/same_as :: [Fukuyama,Francis.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.public|Fukuyama,Francis.public]] 
 
-### #is_/same_as :: [Fukuyama,Francis.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.internal|Fukuyama,Francis.internal]] 
 
-### #is_/same_as :: [Fukuyama,Francis.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.protect|Fukuyama,Francis.protect]] 
 
-### #is_/same_as :: [Fukuyama,Francis.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.private|Fukuyama,Francis.private]] 
 
-### #is_/same_as :: [Fukuyama,Francis.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.personal|Fukuyama,Francis.personal]] 
 
-### #is_/same_as :: [Fukuyama,Francis.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Fukuyama,Francis.secret|Fukuyama,Francis.secret]] 
 

@@ -211,17 +211,17 @@ motto_text: Helping kids grow smarter, stronger, and kinder.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sesame_Street](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street|Sesame_Street]] 
 
-### #is_/same_as :: [Sesame_Street.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.public|Sesame_Street.public]] 
 
-### #is_/same_as :: [Sesame_Street.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.internal|Sesame_Street.internal]] 
 
-### #is_/same_as :: [Sesame_Street.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.protect|Sesame_Street.protect]] 
 
-### #is_/same_as :: [Sesame_Street.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.private|Sesame_Street.private]] 
 
-### #is_/same_as :: [Sesame_Street.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.personal|Sesame_Street.personal]] 
 
-### #is_/same_as :: [Sesame_Street.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sesame_Street.secret|Sesame_Street.secret]] 
 

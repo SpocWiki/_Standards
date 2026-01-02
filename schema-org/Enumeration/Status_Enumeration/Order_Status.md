@@ -39,17 +39,17 @@ Enumerated status values for Order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Status](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status|Order_Status]] 
 
-### #is_/same_as :: [Order_Status.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status.public|Order_Status.public]] 
 
-### #is_/same_as :: [Order_Status.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status.internal|Order_Status.internal]] 
 
-### #is_/same_as :: [Order_Status.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status.protect|Order_Status.protect]] 
 
-### #is_/same_as :: [Order_Status.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status.private|Order_Status.private]] 
 
-### #is_/same_as :: [Order_Status.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status.personal|Order_Status.personal]] 
 
-### #is_/same_as :: [Order_Status.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status.secret|Order_Status.secret]] 
 

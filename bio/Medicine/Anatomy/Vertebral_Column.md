@@ -62,17 +62,17 @@ Commons_category: Vertebral column
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vertebral_Column](/_Standards/bio/Medicine/Anatomy/Vertebral_Column.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Vertebral_Column|Vertebral_Column]] 
 
-### #is_/same_as :: [Vertebral_Column.public](/_public/bio/Medicine/Anatomy/Vertebral_Column.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Vertebral_Column.public|Vertebral_Column.public]] 
 
-### #is_/same_as :: [Vertebral_Column.internal](/_internal/bio/Medicine/Anatomy/Vertebral_Column.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Vertebral_Column.internal|Vertebral_Column.internal]] 
 
-### #is_/same_as :: [Vertebral_Column.protect](/_protect/bio/Medicine/Anatomy/Vertebral_Column.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Vertebral_Column.protect|Vertebral_Column.protect]] 
 
-### #is_/same_as :: [Vertebral_Column.private](/_private/bio/Medicine/Anatomy/Vertebral_Column.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Vertebral_Column.private|Vertebral_Column.private]] 
 
-### #is_/same_as :: [Vertebral_Column.personal](/_personal/bio/Medicine/Anatomy/Vertebral_Column.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Vertebral_Column.personal|Vertebral_Column.personal]] 
 
-### #is_/same_as :: [Vertebral_Column.secret](/_secret/bio/Medicine/Anatomy/Vertebral_Column.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Vertebral_Column.secret|Vertebral_Column.secret]] 
 

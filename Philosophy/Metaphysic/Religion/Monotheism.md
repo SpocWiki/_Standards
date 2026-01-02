@@ -56,17 +56,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monotheism](/_Standards/Philosophy/Metaphysic/Religion/Monotheism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Monotheism|Monotheism]] 
 
-### #is_/same_as :: [Monotheism.public](/_public/Philosophy/Metaphysic/Religion/Monotheism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Monotheism.public|Monotheism.public]] 
 
-### #is_/same_as :: [Monotheism.internal](/_internal/Philosophy/Metaphysic/Religion/Monotheism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Monotheism.internal|Monotheism.internal]] 
 
-### #is_/same_as :: [Monotheism.protect](/_protect/Philosophy/Metaphysic/Religion/Monotheism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Monotheism.protect|Monotheism.protect]] 
 
-### #is_/same_as :: [Monotheism.private](/_private/Philosophy/Metaphysic/Religion/Monotheism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Monotheism.private|Monotheism.private]] 
 
-### #is_/same_as :: [Monotheism.personal](/_personal/Philosophy/Metaphysic/Religion/Monotheism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Monotheism.personal|Monotheism.personal]] 
 
-### #is_/same_as :: [Monotheism.secret](/_secret/Philosophy/Metaphysic/Religion/Monotheism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Monotheism.secret|Monotheism.secret]] 
 

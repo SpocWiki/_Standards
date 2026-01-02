@@ -49,17 +49,17 @@ Library_of_Congress_Classification: JC329
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Patriotism](/_Standards/Society/Politics/Patriotism.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Patriotism|Patriotism]] 
 
-### #is_/same_as :: [Patriotism.public](/_public/Society/Politics/Patriotism.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Patriotism.public|Patriotism.public]] 
 
-### #is_/same_as :: [Patriotism.internal](/_internal/Society/Politics/Patriotism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Patriotism.internal|Patriotism.internal]] 
 
-### #is_/same_as :: [Patriotism.protect](/_protect/Society/Politics/Patriotism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Patriotism.protect|Patriotism.protect]] 
 
-### #is_/same_as :: [Patriotism.private](/_private/Society/Politics/Patriotism.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Patriotism.private|Patriotism.private]] 
 
-### #is_/same_as :: [Patriotism.personal](/_personal/Society/Politics/Patriotism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Patriotism.personal|Patriotism.personal]] 
 
-### #is_/same_as :: [Patriotism.secret](/_secret/Society/Politics/Patriotism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Patriotism.secret|Patriotism.secret]] 
 

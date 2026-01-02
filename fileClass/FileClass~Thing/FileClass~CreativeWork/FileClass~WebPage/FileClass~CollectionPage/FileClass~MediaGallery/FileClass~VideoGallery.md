@@ -37,17 +37,17 @@ Web page type: Video gallery page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~VideoGallery](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery|FileClass~VideoGallery]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.public|FileClass~VideoGallery.public]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.internal|FileClass~VideoGallery.internal]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.protect|FileClass~VideoGallery.protect]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.private|FileClass~VideoGallery.private]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.personal|FileClass~VideoGallery.personal]] 
 
-### #is_/same_as :: [FileClass~VideoGallery.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~CollectionPage/FileClass~MediaGallery/FileClass~VideoGallery.secret|FileClass~VideoGallery.secret]] 
 

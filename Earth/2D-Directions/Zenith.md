@@ -38,17 +38,17 @@ Commons_category: Zenith (topography)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zenith](/_Standards/Earth/2D-Directions/Zenith.md) 
+### #is_/same_as :: [[/_Standards/Earth/2D-Directions/Zenith|Zenith]] 
 
-### #is_/same_as :: [Zenith.public](/_public/Earth/2D-Directions/Zenith.public.md) 
+### #is_/same_as :: [[/_public/Earth/2D-Directions/Zenith.public|Zenith.public]] 
 
-### #is_/same_as :: [Zenith.internal](/_internal/Earth/2D-Directions/Zenith.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/2D-Directions/Zenith.internal|Zenith.internal]] 
 
-### #is_/same_as :: [Zenith.protect](/_protect/Earth/2D-Directions/Zenith.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/2D-Directions/Zenith.protect|Zenith.protect]] 
 
-### #is_/same_as :: [Zenith.private](/_private/Earth/2D-Directions/Zenith.private.md) 
+### #is_/same_as :: [[/_private/Earth/2D-Directions/Zenith.private|Zenith.private]] 
 
-### #is_/same_as :: [Zenith.personal](/_personal/Earth/2D-Directions/Zenith.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/2D-Directions/Zenith.personal|Zenith.personal]] 
 
-### #is_/same_as :: [Zenith.secret](/_secret/Earth/2D-Directions/Zenith.secret.md)
+### #is_/same_as :: [[/_secret/Earth/2D-Directions/Zenith.secret|Zenith.secret]] 
 

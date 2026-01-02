@@ -126,17 +126,17 @@ name_in_native_language: Élie Cartan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Élie_Cartan](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie|Cartan,Élie]] 
 
-### #is_/same_as :: [Élie_Cartan.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.public|Cartan,Élie.public]] 
 
-### #is_/same_as :: [Élie_Cartan.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.internal|Cartan,Élie.internal]] 
 
-### #is_/same_as :: [Élie_Cartan.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.protect|Cartan,Élie.protect]] 
 
-### #is_/same_as :: [Élie_Cartan.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.private|Cartan,Élie.private]] 
 
-### #is_/same_as :: [Élie_Cartan.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.personal|Cartan,Élie.personal]] 
 
-### #is_/same_as :: [Élie_Cartan.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Élie_Cartan.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Cartan,Élie.secret|Cartan,Élie.secret]] 
 

@@ -100,17 +100,17 @@ Copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemaki
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brachiopoda](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda|Brachiopoda]] 
 
-### #is_/same_as :: [Brachiopoda.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.public|Brachiopoda.public]] 
 
-### #is_/same_as :: [Brachiopoda.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.internal|Brachiopoda.internal]] 
 
-### #is_/same_as :: [Brachiopoda.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.protect|Brachiopoda.protect]] 
 
-### #is_/same_as :: [Brachiopoda.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.private|Brachiopoda.private]] 
 
-### #is_/same_as :: [Brachiopoda.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.personal|Brachiopoda.personal]] 
 
-### #is_/same_as :: [Brachiopoda.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Brachiopoda.secret|Brachiopoda.secret]] 
 

@@ -62,17 +62,17 @@ subreddit: CombatFootage
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Battle](/_Standards/Society/Military/Military_Engineering/Battle.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Battle|Battle]] 
 
-### #is_/same_as :: [Battle.public](/_public/Society/Military/Military_Engineering/Battle.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Battle.public|Battle.public]] 
 
-### #is_/same_as :: [Battle.internal](/_internal/Society/Military/Military_Engineering/Battle.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Battle.internal|Battle.internal]] 
 
-### #is_/same_as :: [Battle.protect](/_protect/Society/Military/Military_Engineering/Battle.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Battle.protect|Battle.protect]] 
 
-### #is_/same_as :: [Battle.private](/_private/Society/Military/Military_Engineering/Battle.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Battle.private|Battle.private]] 
 
-### #is_/same_as :: [Battle.personal](/_personal/Society/Military/Military_Engineering/Battle.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Battle.personal|Battle.personal]] 
 
-### #is_/same_as :: [Battle.secret](/_secret/Society/Military/Military_Engineering/Battle.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Battle.secret|Battle.secret]] 
 

@@ -166,17 +166,17 @@ student_of: '[[_Standards/WikiData/WD~Friedrich_Hasenöhrl,78849]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Schrödinger,Erwin](/_Standards/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Modern_Scientists/Schrödinger,Erwin|Schrödinger,Erwin]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.public](/_public/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.public|Schrödinger,Erwin.public]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.internal](/_internal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.internal|Schrödinger,Erwin.internal]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.protect](/_protect/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.protect|Schrödinger,Erwin.protect]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.private](/_private/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.private|Schrödinger,Erwin.private]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.personal](/_personal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.personal|Schrödinger,Erwin.personal]] 
 
-### #is_/same_as :: [Schrödinger,Erwin.secret](/_secret/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Modern_Scientists/Schrödinger,Erwin.secret|Schrödinger,Erwin.secret]] 
 

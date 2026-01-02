@@ -64,17 +64,17 @@ IEV_number: 845-24-109
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Refractive_Index](/_Standards/Science/Physics/Wave/Refractive_Index.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Refractive_Index|Refractive_Index]] 
 
-### #is_/same_as :: [Refractive_Index.public](/_public/Science/Physics/Wave/Refractive_Index.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Refractive_Index.public|Refractive_Index.public]] 
 
-### #is_/same_as :: [Refractive_Index.internal](/_internal/Science/Physics/Wave/Refractive_Index.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Refractive_Index.internal|Refractive_Index.internal]] 
 
-### #is_/same_as :: [Refractive_Index.protect](/_protect/Science/Physics/Wave/Refractive_Index.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Refractive_Index.protect|Refractive_Index.protect]] 
 
-### #is_/same_as :: [Refractive_Index.private](/_private/Science/Physics/Wave/Refractive_Index.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Refractive_Index.private|Refractive_Index.private]] 
 
-### #is_/same_as :: [Refractive_Index.personal](/_personal/Science/Physics/Wave/Refractive_Index.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Refractive_Index.personal|Refractive_Index.personal]] 
 
-### #is_/same_as :: [Refractive_Index.secret](/_secret/Science/Physics/Wave/Refractive_Index.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Refractive_Index.secret|Refractive_Index.secret]] 
 

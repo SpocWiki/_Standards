@@ -34,17 +34,17 @@ Commons_category: Euclidean algorithm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euclidean_Algorithm](/_Standards/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm|Euclidean_Algorithm]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.public](/_public/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.public|Euclidean_Algorithm.public]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.internal](/_internal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.internal|Euclidean_Algorithm.internal]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.protect](/_protect/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.protect|Euclidean_Algorithm.protect]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.private](/_private/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.private|Euclidean_Algorithm.private]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.personal](/_personal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.personal|Euclidean_Algorithm.personal]] 
 
-### #is_/same_as :: [Euclidean_Algorithm.secret](/_secret/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Elementary_Algebra/Euclidean_Algorithm.secret|Euclidean_Algorithm.secret]] 
 

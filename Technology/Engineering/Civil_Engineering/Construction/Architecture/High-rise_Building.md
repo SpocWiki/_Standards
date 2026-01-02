@@ -77,17 +77,17 @@ Commons_category: High-rises
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [High-rise_Building](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building|High-rise_Building]] 
 
-### #is_/same_as :: [High-rise_Building.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.public|High-rise_Building.public]] 
 
-### #is_/same_as :: [High-rise_Building.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.internal|High-rise_Building.internal]] 
 
-### #is_/same_as :: [High-rise_Building.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.protect|High-rise_Building.protect]] 
 
-### #is_/same_as :: [High-rise_Building.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.private|High-rise_Building.private]] 
 
-### #is_/same_as :: [High-rise_Building.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.personal|High-rise_Building.personal]] 
 
-### #is_/same_as :: [High-rise_Building.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building.secret|High-rise_Building.secret]] 
 

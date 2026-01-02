@@ -240,17 +240,17 @@ Plex_person_key: 5d776824961905001eb90984
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [De_Niro,Robert](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert|De_Niro,Robert]] 
 
-### #is_/same_as :: [De_Niro,Robert.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.public|De_Niro,Robert.public]] 
 
-### #is_/same_as :: [De_Niro,Robert.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.internal|De_Niro,Robert.internal]] 
 
-### #is_/same_as :: [De_Niro,Robert.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.protect|De_Niro,Robert.protect]] 
 
-### #is_/same_as :: [De_Niro,Robert.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.private|De_Niro,Robert.private]] 
 
-### #is_/same_as :: [De_Niro,Robert.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.personal|De_Niro,Robert.personal]] 
 
-### #is_/same_as :: [De_Niro,Robert.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/De_Niro,Robert.secret|De_Niro,Robert.secret]] 
 

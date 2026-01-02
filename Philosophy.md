@@ -153,17 +153,17 @@ type: folder_brief_live
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Philosophy](/_Standards/Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy|Philosophy]] 
 
-### #is_/same_as :: [Philosophy.public](/_public/Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy.public|Philosophy.public]] 
 
-### #is_/same_as :: [Philosophy.internal](/_internal/Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy.internal|Philosophy.internal]] 
 
-### #is_/same_as :: [Philosophy.protect](/_protect/Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy.protect|Philosophy.protect]] 
 
-### #is_/same_as :: [Philosophy.private](/_private/Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy.private|Philosophy.private]] 
 
-### #is_/same_as :: [Philosophy.personal](/_personal/Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy.personal|Philosophy.personal]] 
 
-### #is_/same_as :: [Philosophy.secret](/_secret/Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy.secret|Philosophy.secret]] 
 

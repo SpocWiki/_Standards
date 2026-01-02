@@ -75,17 +75,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schal
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speed_of_Sound](/_Standards/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound|Speed_of_Sound]] 
 
-### #is_/same_as :: [Speed_of_Sound.public](/_public/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.public|Speed_of_Sound.public]] 
 
-### #is_/same_as :: [Speed_of_Sound.internal](/_internal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.internal|Speed_of_Sound.internal]] 
 
-### #is_/same_as :: [Speed_of_Sound.protect](/_protect/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.protect|Speed_of_Sound.protect]] 
 
-### #is_/same_as :: [Speed_of_Sound.private](/_private/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.private|Speed_of_Sound.private]] 
 
-### #is_/same_as :: [Speed_of_Sound.personal](/_personal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.personal|Speed_of_Sound.personal]] 
 
-### #is_/same_as :: [Speed_of_Sound.secret](/_secret/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Acoustics/Sound/Speed_of_Sound.secret|Speed_of_Sound.secret]] 
 

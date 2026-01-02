@@ -90,17 +90,17 @@ X_Twitter_username: commonwealthsec
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commonwealth_of_Nations](/_Standards/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations|Commonwealth_of_Nations]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.public](/_public/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.public|Commonwealth_of_Nations.public]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.internal](/_internal/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.internal|Commonwealth_of_Nations.internal]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.protect](/_protect/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.protect|Commonwealth_of_Nations.protect]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.private](/_private/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.private|Commonwealth_of_Nations.private]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.personal](/_personal/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.personal|Commonwealth_of_Nations.personal]] 
 
-### #is_/same_as :: [Commonwealth_of_Nations.secret](/_secret/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/Commonwealth_of_Nations.secret|Commonwealth_of_Nations.secret]] 
 

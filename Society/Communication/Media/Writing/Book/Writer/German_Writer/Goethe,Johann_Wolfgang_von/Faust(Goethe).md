@@ -91,17 +91,17 @@ inception: 1774-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Faust(Goethe)](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe)|Faust(Goethe)]] 
 
-### #is_/same_as :: [Faust(Goethe).public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).public|Faust(Goethe).public]] 
 
-### #is_/same_as :: [Faust(Goethe).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).internal|Faust(Goethe).internal]] 
 
-### #is_/same_as :: [Faust(Goethe).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).protect|Faust(Goethe).protect]] 
 
-### #is_/same_as :: [Faust(Goethe).private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).private|Faust(Goethe).private]] 
 
-### #is_/same_as :: [Faust(Goethe).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).personal|Faust(Goethe).personal]] 
 
-### #is_/same_as :: [Faust(Goethe).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Goethe,Johann_Wolfgang_von/Faust(Goethe).secret|Faust(Goethe).secret]] 
 

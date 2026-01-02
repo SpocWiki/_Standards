@@ -74,17 +74,17 @@ uses:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Photosynthesis](/_Standards/bio/Botany/Photosynthesis.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Photosynthesis|Photosynthesis]] 
 
-### #is_/same_as :: [Photosynthesis.public](/_public/bio/Botany/Photosynthesis.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Photosynthesis.public|Photosynthesis.public]] 
 
-### #is_/same_as :: [Photosynthesis.internal](/_internal/bio/Botany/Photosynthesis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Photosynthesis.internal|Photosynthesis.internal]] 
 
-### #is_/same_as :: [Photosynthesis.protect](/_protect/bio/Botany/Photosynthesis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Photosynthesis.protect|Photosynthesis.protect]] 
 
-### #is_/same_as :: [Photosynthesis.private](/_private/bio/Botany/Photosynthesis.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Photosynthesis.private|Photosynthesis.private]] 
 
-### #is_/same_as :: [Photosynthesis.personal](/_personal/bio/Botany/Photosynthesis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Photosynthesis.personal|Photosynthesis.personal]] 
 
-### #is_/same_as :: [Photosynthesis.secret](/_secret/bio/Botany/Photosynthesis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Photosynthesis.secret|Photosynthesis.secret]] 
 

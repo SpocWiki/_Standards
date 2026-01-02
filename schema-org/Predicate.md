@@ -75,17 +75,17 @@ Derived from [Schema.org](https://schema.org/docs/developers.html)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Predicate](/_Standards/schema-org/Predicate.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Predicate|Predicate]] 
 
-### #is_/same_as :: [Predicate.public](/_public/schema-org/Predicate.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Predicate.public|Predicate.public]] 
 
-### #is_/same_as :: [Predicate.internal](/_internal/schema-org/Predicate.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Predicate.internal|Predicate.internal]] 
 
-### #is_/same_as :: [Predicate.protect](/_protect/schema-org/Predicate.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Predicate.protect|Predicate.protect]] 
 
-### #is_/same_as :: [Predicate.private](/_private/schema-org/Predicate.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Predicate.private|Predicate.private]] 
 
-### #is_/same_as :: [Predicate.personal](/_personal/schema-org/Predicate.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Predicate.personal|Predicate.personal]] 
 
-### #is_/same_as :: [Predicate.secret](/_secret/schema-org/Predicate.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Predicate.secret|Predicate.secret]] 
 

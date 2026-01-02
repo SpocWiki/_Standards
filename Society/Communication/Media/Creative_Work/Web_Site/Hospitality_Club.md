@@ -26,3 +26,22 @@ domain_name: hospitalityclub.org
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hospitality%20Club) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club|Hospitality_Club]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.public|Hospitality_Club.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.internal|Hospitality_Club.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.protect|Hospitality_Club.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.private|Hospitality_Club.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.personal|Hospitality_Club.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/Hospitality_Club.secret|Hospitality_Club.secret]] 
+

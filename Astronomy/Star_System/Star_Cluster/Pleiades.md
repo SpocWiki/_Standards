@@ -91,17 +91,17 @@ Commons_category: Pleiades (star cluster)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pleiades](/_Standards/Astronomy/Star_System/Star_Cluster/Pleiades.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Star_Cluster/Pleiades|Pleiades]] 
 
-### #is_/same_as :: [Pleiades.public](/_public/Astronomy/Star_System/Star_Cluster/Pleiades.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Star_Cluster/Pleiades.public|Pleiades.public]] 
 
-### #is_/same_as :: [Pleiades.internal](/_internal/Astronomy/Star_System/Star_Cluster/Pleiades.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Star_Cluster/Pleiades.internal|Pleiades.internal]] 
 
-### #is_/same_as :: [Pleiades.protect](/_protect/Astronomy/Star_System/Star_Cluster/Pleiades.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Star_Cluster/Pleiades.protect|Pleiades.protect]] 
 
-### #is_/same_as :: [Pleiades.private](/_private/Astronomy/Star_System/Star_Cluster/Pleiades.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Star_Cluster/Pleiades.private|Pleiades.private]] 
 
-### #is_/same_as :: [Pleiades.personal](/_personal/Astronomy/Star_System/Star_Cluster/Pleiades.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Star_Cluster/Pleiades.personal|Pleiades.personal]] 
 
-### #is_/same_as :: [Pleiades.secret](/_secret/Astronomy/Star_System/Star_Cluster/Pleiades.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Star_Cluster/Pleiades.secret|Pleiades.secret]] 
 

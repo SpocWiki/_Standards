@@ -44,17 +44,17 @@ Commons_category: Blue Skies (song)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue_Skies(Film)](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film)|Blue_Skies(Film)]] 
 
-### #is_/same_as :: [Blue_Skies(Film).public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).public|Blue_Skies(Film).public]] 
 
-### #is_/same_as :: [Blue_Skies(Film).internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).internal|Blue_Skies(Film).internal]] 
 
-### #is_/same_as :: [Blue_Skies(Film).protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).protect|Blue_Skies(Film).protect]] 
 
-### #is_/same_as :: [Blue_Skies(Film).private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).private|Blue_Skies(Film).private]] 
 
-### #is_/same_as :: [Blue_Skies(Film).personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).personal|Blue_Skies(Film).personal]] 
 
-### #is_/same_as :: [Blue_Skies(Film).secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Berlin,Irving/Blue_Skies(Film).secret|Blue_Skies(Film).secret]] 
 

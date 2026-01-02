@@ -41,17 +41,17 @@ A medical laboratory that offers on-site or off-site diagnostic services.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Diagnostic_Lab](/_Standards/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab|Diagnostic_Lab]] 
 
-### #is_/same_as :: [Diagnostic_Lab.public](/_public/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.public|Diagnostic_Lab.public]] 
 
-### #is_/same_as :: [Diagnostic_Lab.internal](/_internal/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.internal|Diagnostic_Lab.internal]] 
 
-### #is_/same_as :: [Diagnostic_Lab.protect](/_protect/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.protect|Diagnostic_Lab.protect]] 
 
-### #is_/same_as :: [Diagnostic_Lab.private](/_private/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.private|Diagnostic_Lab.private]] 
 
-### #is_/same_as :: [Diagnostic_Lab.personal](/_personal/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.personal|Diagnostic_Lab.personal]] 
 
-### #is_/same_as :: [Diagnostic_Lab.secret](/_secret/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Medical_Organization/Diagnostic_Lab.secret|Diagnostic_Lab.secret]] 
 

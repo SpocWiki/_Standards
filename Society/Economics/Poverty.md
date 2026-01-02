@@ -81,17 +81,17 @@ IPTC_NewsCode: mediatopic/20000801
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poverty](/_Standards/Society/Economics/Poverty.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Poverty|Poverty]] 
 
-### #is_/same_as :: [Poverty.public](/_public/Society/Economics/Poverty.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Poverty.public|Poverty.public]] 
 
-### #is_/same_as :: [Poverty.internal](/_internal/Society/Economics/Poverty.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Poverty.internal|Poverty.internal]] 
 
-### #is_/same_as :: [Poverty.protect](/_protect/Society/Economics/Poverty.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Poverty.protect|Poverty.protect]] 
 
-### #is_/same_as :: [Poverty.private](/_private/Society/Economics/Poverty.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Poverty.private|Poverty.private]] 
 
-### #is_/same_as :: [Poverty.personal](/_personal/Society/Economics/Poverty.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Poverty.personal|Poverty.personal]] 
 
-### #is_/same_as :: [Poverty.secret](/_secret/Society/Economics/Poverty.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Poverty.secret|Poverty.secret]] 
 

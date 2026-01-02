@@ -536,17 +536,17 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Glomeromycota](/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Fungi/Glomeromycota|Glomeromycota]] 
 
-### #is_/same_as :: [Glomeromycota.public](/_public/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.public|Glomeromycota.public]] 
 
-### #is_/same_as :: [Glomeromycota.internal](/_internal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.internal|Glomeromycota.internal]] 
 
-### #is_/same_as :: [Glomeromycota.protect](/_protect/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.protect|Glomeromycota.protect]] 
 
-### #is_/same_as :: [Glomeromycota.private](/_private/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.private|Glomeromycota.private]] 
 
-### #is_/same_as :: [Glomeromycota.personal](/_personal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.personal|Glomeromycota.personal]] 
 
-### #is_/same_as :: [Glomeromycota.secret](/_secret/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Fungi/Glomeromycota.secret|Glomeromycota.secret]] 
 

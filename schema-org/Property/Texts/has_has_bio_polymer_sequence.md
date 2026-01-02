@@ -51,17 +51,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence](/_Standards/schema-org/Property/Texts/has_has_bio_polymer_sequence.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_has_bio_polymer_sequence|has_has_bio_polymer_sequence]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.public](/_public/schema-org/Property/Texts/has_has_bio_polymer_sequence.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_has_bio_polymer_sequence.public|has_has_bio_polymer_sequence.public]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.internal](/_internal/schema-org/Property/Texts/has_has_bio_polymer_sequence.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_has_bio_polymer_sequence.internal|has_has_bio_polymer_sequence.internal]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.protect](/_protect/schema-org/Property/Texts/has_has_bio_polymer_sequence.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_has_bio_polymer_sequence.protect|has_has_bio_polymer_sequence.protect]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.private](/_private/schema-org/Property/Texts/has_has_bio_polymer_sequence.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_has_bio_polymer_sequence.private|has_has_bio_polymer_sequence.private]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.personal](/_personal/schema-org/Property/Texts/has_has_bio_polymer_sequence.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_has_bio_polymer_sequence.personal|has_has_bio_polymer_sequence.personal]] 
 
-### #is_/same_as :: [has_has_bio_polymer_sequence.secret](/_secret/schema-org/Property/Texts/has_has_bio_polymer_sequence.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_has_bio_polymer_sequence.secret|has_has_bio_polymer_sequence.secret]] 
 

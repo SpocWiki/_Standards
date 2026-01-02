@@ -58,17 +58,17 @@ Commons_category: Brown dwarfs
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brown_Dwarf](/_Standards/Astronomy/Star/Star~Class/Brown_Dwarf.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Brown_Dwarf|Brown_Dwarf]] 
 
-### #is_/same_as :: [Brown_Dwarf.public](/_public/Astronomy/Star/Star~Class/Brown_Dwarf.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Brown_Dwarf.public|Brown_Dwarf.public]] 
 
-### #is_/same_as :: [Brown_Dwarf.internal](/_internal/Astronomy/Star/Star~Class/Brown_Dwarf.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Brown_Dwarf.internal|Brown_Dwarf.internal]] 
 
-### #is_/same_as :: [Brown_Dwarf.protect](/_protect/Astronomy/Star/Star~Class/Brown_Dwarf.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Brown_Dwarf.protect|Brown_Dwarf.protect]] 
 
-### #is_/same_as :: [Brown_Dwarf.private](/_private/Astronomy/Star/Star~Class/Brown_Dwarf.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Brown_Dwarf.private|Brown_Dwarf.private]] 
 
-### #is_/same_as :: [Brown_Dwarf.personal](/_personal/Astronomy/Star/Star~Class/Brown_Dwarf.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Brown_Dwarf.personal|Brown_Dwarf.personal]] 
 
-### #is_/same_as :: [Brown_Dwarf.secret](/_secret/Astronomy/Star/Star~Class/Brown_Dwarf.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Brown_Dwarf.secret|Brown_Dwarf.secret]] 
 

@@ -33,17 +33,17 @@ Commons_category: Property law
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Property_Law](/_Standards/Society/Law/Civil_Law/Property_Law.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Property_Law|Property_Law]] 
 
-### #is_/same_as :: [Property_Law.public](/_public/Society/Law/Civil_Law/Property_Law.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Property_Law.public|Property_Law.public]] 
 
-### #is_/same_as :: [Property_Law.internal](/_internal/Society/Law/Civil_Law/Property_Law.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Property_Law.internal|Property_Law.internal]] 
 
-### #is_/same_as :: [Property_Law.protect](/_protect/Society/Law/Civil_Law/Property_Law.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Property_Law.protect|Property_Law.protect]] 
 
-### #is_/same_as :: [Property_Law.private](/_private/Society/Law/Civil_Law/Property_Law.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Property_Law.private|Property_Law.private]] 
 
-### #is_/same_as :: [Property_Law.personal](/_personal/Society/Law/Civil_Law/Property_Law.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Property_Law.personal|Property_Law.personal]] 
 
-### #is_/same_as :: [Property_Law.secret](/_secret/Society/Law/Civil_Law/Property_Law.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Property_Law.secret|Property_Law.secret]] 
 

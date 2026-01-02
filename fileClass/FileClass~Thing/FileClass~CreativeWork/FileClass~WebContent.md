@@ -37,17 +37,17 @@ WebContent is a type representing all [[WebPage]], [[WebSite]] and [[WebPageElem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WebContent](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent|FileClass~WebContent]] 
 
-### #is_/same_as :: [FileClass~WebContent.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.public|FileClass~WebContent.public]] 
 
-### #is_/same_as :: [FileClass~WebContent.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.internal|FileClass~WebContent.internal]] 
 
-### #is_/same_as :: [FileClass~WebContent.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.protect|FileClass~WebContent.protect]] 
 
-### #is_/same_as :: [FileClass~WebContent.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.private|FileClass~WebContent.private]] 
 
-### #is_/same_as :: [FileClass~WebContent.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.personal|FileClass~WebContent.personal]] 
 
-### #is_/same_as :: [FileClass~WebContent.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebContent.secret|FileClass~WebContent.secret]] 
 

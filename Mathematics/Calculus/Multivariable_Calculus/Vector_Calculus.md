@@ -36,17 +36,17 @@ Commons_category: Vector calculus
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vector_Calculus](/_Standards/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus|Vector_Calculus]] 
 
-### #is_/same_as :: [Vector_Calculus.public](/_public/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.public|Vector_Calculus.public]] 
 
-### #is_/same_as :: [Vector_Calculus.internal](/_internal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.internal|Vector_Calculus.internal]] 
 
-### #is_/same_as :: [Vector_Calculus.protect](/_protect/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.protect|Vector_Calculus.protect]] 
 
-### #is_/same_as :: [Vector_Calculus.private](/_private/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.private|Vector_Calculus.private]] 
 
-### #is_/same_as :: [Vector_Calculus.personal](/_personal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.personal|Vector_Calculus.personal]] 
 
-### #is_/same_as :: [Vector_Calculus.secret](/_secret/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Multivariable_Calculus/Vector_Calculus.secret|Vector_Calculus.secret]] 
 

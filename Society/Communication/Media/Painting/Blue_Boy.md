@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blue_Boy](/_Standards/Society/Communication/Media/Painting/Blue_Boy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Blue_Boy|Blue_Boy]] 
 
-### #is_/same_as :: [Blue_Boy.public](/_public/Society/Communication/Media/Painting/Blue_Boy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Blue_Boy.public|Blue_Boy.public]] 
 
-### #is_/same_as :: [Blue_Boy.internal](/_internal/Society/Communication/Media/Painting/Blue_Boy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Blue_Boy.internal|Blue_Boy.internal]] 
 
-### #is_/same_as :: [Blue_Boy.protect](/_protect/Society/Communication/Media/Painting/Blue_Boy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Blue_Boy.protect|Blue_Boy.protect]] 
 
-### #is_/same_as :: [Blue_Boy.private](/_private/Society/Communication/Media/Painting/Blue_Boy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Blue_Boy.private|Blue_Boy.private]] 
 
-### #is_/same_as :: [Blue_Boy.personal](/_personal/Society/Communication/Media/Painting/Blue_Boy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Blue_Boy.personal|Blue_Boy.personal]] 
 
-### #is_/same_as :: [Blue_Boy.secret](/_secret/Society/Communication/Media/Painting/Blue_Boy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Blue_Boy.secret|Blue_Boy.secret]] 
 

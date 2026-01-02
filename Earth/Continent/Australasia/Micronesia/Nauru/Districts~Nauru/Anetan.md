@@ -40,17 +40,17 @@ markerFolder: ./Anetan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anetan](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan|Anetan]] 
 
-### #is_/same_as :: [Anetan.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.public|Anetan.public]] 
 
-### #is_/same_as :: [Anetan.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.internal|Anetan.internal]] 
 
-### #is_/same_as :: [Anetan.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.protect|Anetan.protect]] 
 
-### #is_/same_as :: [Anetan.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.private|Anetan.private]] 
 
-### #is_/same_as :: [Anetan.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.personal|Anetan.personal]] 
 
-### #is_/same_as :: [Anetan.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Anetan.secret|Anetan.secret]] 
 

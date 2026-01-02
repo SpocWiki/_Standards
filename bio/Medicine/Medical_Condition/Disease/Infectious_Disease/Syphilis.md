@@ -95,17 +95,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syphilis](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis|Syphilis]] 
 
-### #is_/same_as :: [Syphilis.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.public|Syphilis.public]] 
 
-### #is_/same_as :: [Syphilis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.internal|Syphilis.internal]] 
 
-### #is_/same_as :: [Syphilis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.protect|Syphilis.protect]] 
 
-### #is_/same_as :: [Syphilis.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.private|Syphilis.private]] 
 
-### #is_/same_as :: [Syphilis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.personal|Syphilis.personal]] 
 
-### #is_/same_as :: [Syphilis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Syphilis.secret|Syphilis.secret]] 
 

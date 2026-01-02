@@ -27,17 +27,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-14-Carbon](/_Standards/Chemistry/Chemical_Element/Group-14-Carbon.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon|Group-14-Carbon]] 
 
-### #is_/same_as :: [Group-14-Carbon.public](/_public/Chemistry/Chemical_Element/Group-14-Carbon.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-14-Carbon.public|Group-14-Carbon.public]] 
 
-### #is_/same_as :: [Group-14-Carbon.internal](/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal|Group-14-Carbon.internal]] 
 
-### #is_/same_as :: [Group-14-Carbon.protect](/_protect/Chemistry/Chemical_Element/Group-14-Carbon.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-14-Carbon.protect|Group-14-Carbon.protect]] 
 
-### #is_/same_as :: [Group-14-Carbon.private](/_private/Chemistry/Chemical_Element/Group-14-Carbon.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-14-Carbon.private|Group-14-Carbon.private]] 
 
-### #is_/same_as :: [Group-14-Carbon.personal](/_personal/Chemistry/Chemical_Element/Group-14-Carbon.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-14-Carbon.personal|Group-14-Carbon.personal]] 
 
-### #is_/same_as :: [Group-14-Carbon.secret](/_secret/Chemistry/Chemical_Element/Group-14-Carbon.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-14-Carbon.secret|Group-14-Carbon.secret]] 
 

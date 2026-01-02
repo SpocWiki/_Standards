@@ -103,17 +103,17 @@ native_label: 唐朝
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907|0618-Tang_Dynasty+0907]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.public|0618-Tang_Dynasty+0907.public]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.internal|0618-Tang_Dynasty+0907.internal]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.protect|0618-Tang_Dynasty+0907.protect]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.private|0618-Tang_Dynasty+0907.private]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.personal|0618-Tang_Dynasty+0907.personal]] 
 
-### #is_/same_as :: [0618-Tang_Dynasty+0907.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0600/0618-Tang_Dynasty+0907.secret|0618-Tang_Dynasty+0907.secret]] 
 

@@ -219,17 +219,17 @@ ISNI: 0000000120993749
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hogarth,William](/_Standards/Society/Communication/Media/Painting/Painter/Hogarth,William.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Hogarth,William|Hogarth,William]] 
 
-### #is_/same_as :: [Hogarth,William.public](/_public/Society/Communication/Media/Painting/Painter/Hogarth,William.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Hogarth,William.public|Hogarth,William.public]] 
 
-### #is_/same_as :: [Hogarth,William.internal](/_internal/Society/Communication/Media/Painting/Painter/Hogarth,William.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Hogarth,William.internal|Hogarth,William.internal]] 
 
-### #is_/same_as :: [Hogarth,William.protect](/_protect/Society/Communication/Media/Painting/Painter/Hogarth,William.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Hogarth,William.protect|Hogarth,William.protect]] 
 
-### #is_/same_as :: [Hogarth,William.private](/_private/Society/Communication/Media/Painting/Painter/Hogarth,William.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Hogarth,William.private|Hogarth,William.private]] 
 
-### #is_/same_as :: [Hogarth,William.personal](/_personal/Society/Communication/Media/Painting/Painter/Hogarth,William.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Hogarth,William.personal|Hogarth,William.personal]] 
 
-### #is_/same_as :: [Hogarth,William.secret](/_secret/Society/Communication/Media/Painting/Painter/Hogarth,William.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Hogarth,William.secret|Hogarth,William.secret]] 
 

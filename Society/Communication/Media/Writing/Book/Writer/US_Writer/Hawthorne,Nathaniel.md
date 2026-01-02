@@ -147,17 +147,17 @@ Colon_Classification: O111,3M04
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hawthorne,Nathaniel](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel|Hawthorne,Nathaniel]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.public|Hawthorne,Nathaniel.public]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.internal|Hawthorne,Nathaniel.internal]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.protect|Hawthorne,Nathaniel.protect]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.private|Hawthorne,Nathaniel.private]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.personal|Hawthorne,Nathaniel.personal]] 
 
-### #is_/same_as :: [Hawthorne,Nathaniel.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Hawthorne,Nathaniel.secret|Hawthorne,Nathaniel.secret]] 
 

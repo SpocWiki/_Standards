@@ -84,17 +84,17 @@ UMLS_CUI: C0334726
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Astronomer](/_Standards/Astronomy/Astronomer.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Astronomer|Astronomer]] 
 
-### #is_/same_as :: [Astronomer.public](/_public/Astronomy/Astronomer.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Astronomer.public|Astronomer.public]] 
 
-### #is_/same_as :: [Astronomer.internal](/_internal/Astronomy/Astronomer.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Astronomer.internal|Astronomer.internal]] 
 
-### #is_/same_as :: [Astronomer.protect](/_protect/Astronomy/Astronomer.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Astronomer.protect|Astronomer.protect]] 
 
-### #is_/same_as :: [Astronomer.private](/_private/Astronomy/Astronomer.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Astronomer.private|Astronomer.private]] 
 
-### #is_/same_as :: [Astronomer.personal](/_personal/Astronomy/Astronomer.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Astronomer.personal|Astronomer.personal]] 
 
-### #is_/same_as :: [Astronomer.secret](/_secret/Astronomy/Astronomer.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Astronomer.secret|Astronomer.secret]] 
 

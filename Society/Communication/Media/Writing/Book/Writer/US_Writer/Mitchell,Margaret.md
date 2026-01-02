@@ -92,17 +92,17 @@ work_period_start_: 1936-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mitchell,Margaret](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret|Mitchell,Margaret]] 
 
-### #is_/same_as :: [Mitchell,Margaret.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.public|Mitchell,Margaret.public]] 
 
-### #is_/same_as :: [Mitchell,Margaret.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.internal|Mitchell,Margaret.internal]] 
 
-### #is_/same_as :: [Mitchell,Margaret.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.protect|Mitchell,Margaret.protect]] 
 
-### #is_/same_as :: [Mitchell,Margaret.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.private|Mitchell,Margaret.private]] 
 
-### #is_/same_as :: [Mitchell,Margaret.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.personal|Mitchell,Margaret.personal]] 
 
-### #is_/same_as :: [Mitchell,Margaret.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Mitchell,Margaret.secret|Mitchell,Margaret.secret]] 
 

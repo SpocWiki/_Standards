@@ -22,17 +22,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_examples](/_Standards/schema-org/Relation/has/has_examples.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_examples|has_examples]] 
 
-### #is_/same_as :: [has_examples.public](/_public/schema-org/Relation/has/has_examples.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_examples.public|has_examples.public]] 
 
-### #is_/same_as :: [has_examples.internal](/_internal/schema-org/Relation/has/has_examples.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_examples.internal|has_examples.internal]] 
 
-### #is_/same_as :: [has_examples.protect](/_protect/schema-org/Relation/has/has_examples.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_examples.protect|has_examples.protect]] 
 
-### #is_/same_as :: [has_examples.private](/_private/schema-org/Relation/has/has_examples.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_examples.private|has_examples.private]] 
 
-### #is_/same_as :: [has_examples.personal](/_personal/schema-org/Relation/has/has_examples.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_examples.personal|has_examples.personal]] 
 
-### #is_/same_as :: [has_examples.secret](/_secret/schema-org/Relation/has/has_examples.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_examples.secret|has_examples.secret]] 
 

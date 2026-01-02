@@ -153,17 +153,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20Ban
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_China_Sea](/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea|South_China_Sea]] 
 
-### #is_/same_as :: [South_China_Sea.public](/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.public|South_China_Sea.public]] 
 
-### #is_/same_as :: [South_China_Sea.internal](/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.internal|South_China_Sea.internal]] 
 
-### #is_/same_as :: [South_China_Sea.protect](/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.protect|South_China_Sea.protect]] 
 
-### #is_/same_as :: [South_China_Sea.private](/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.private|South_China_Sea.private]] 
 
-### #is_/same_as :: [South_China_Sea.personal](/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.personal|South_China_Sea.personal]] 
 
-### #is_/same_as :: [South_China_Sea.secret](/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West/South_China_Sea.secret|South_China_Sea.secret]] 
 

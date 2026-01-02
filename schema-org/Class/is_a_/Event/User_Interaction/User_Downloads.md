@@ -43,17 +43,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [User_Downloads](/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads|User_Downloads]] 
 
-### #is_/same_as :: [User_Downloads.public](/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.public|User_Downloads.public]] 
 
-### #is_/same_as :: [User_Downloads.internal](/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.internal|User_Downloads.internal]] 
 
-### #is_/same_as :: [User_Downloads.protect](/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.protect|User_Downloads.protect]] 
 
-### #is_/same_as :: [User_Downloads.private](/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.private|User_Downloads.private]] 
 
-### #is_/same_as :: [User_Downloads.personal](/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.personal|User_Downloads.personal]] 
 
-### #is_/same_as :: [User_Downloads.secret](/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Event/User_Interaction/User_Downloads.secret|User_Downloads.secret]] 
 

@@ -188,17 +188,17 @@ ISNI: 0000000122758822
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Laplace,Pierre-Simon](/_Standards/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon|Laplace,Pierre-Simon]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.public](/_public/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.public|Laplace,Pierre-Simon.public]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.internal](/_internal/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.internal|Laplace,Pierre-Simon.internal]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.protect](/_protect/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.protect|Laplace,Pierre-Simon.protect]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.private](/_private/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.private|Laplace,Pierre-Simon.private]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.personal](/_personal/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.personal|Laplace,Pierre-Simon.personal]] 
 
-### #is_/same_as :: [Laplace,Pierre-Simon.secret](/_secret/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Classical_Mathematician/Laplace,Pierre-Simon.secret|Laplace,Pierre-Simon.secret]] 
 

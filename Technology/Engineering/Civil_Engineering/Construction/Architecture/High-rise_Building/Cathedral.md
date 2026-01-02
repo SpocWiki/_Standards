@@ -59,17 +59,17 @@ OpenStreetMap_tag_or_key: Tag:building=cathedral
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cathedral](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral|Cathedral]] 
 
-### #is_/same_as :: [Cathedral.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.public|Cathedral.public]] 
 
-### #is_/same_as :: [Cathedral.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.internal|Cathedral.internal]] 
 
-### #is_/same_as :: [Cathedral.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.protect|Cathedral.protect]] 
 
-### #is_/same_as :: [Cathedral.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.private|Cathedral.private]] 
 
-### #is_/same_as :: [Cathedral.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.personal|Cathedral.personal]] 
 
-### #is_/same_as :: [Cathedral.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/High-rise_Building/Cathedral.secret|Cathedral.secret]] 
 

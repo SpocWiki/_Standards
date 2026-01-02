@@ -56,17 +56,17 @@ Commons_category: Power grids
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electrical_Grid](/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid|Electrical_Grid]] 
 
-### #is_/same_as :: [Electrical_Grid.public](/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.public|Electrical_Grid.public]] 
 
-### #is_/same_as :: [Electrical_Grid.internal](/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.internal|Electrical_Grid.internal]] 
 
-### #is_/same_as :: [Electrical_Grid.protect](/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.protect|Electrical_Grid.protect]] 
 
-### #is_/same_as :: [Electrical_Grid.private](/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.private|Electrical_Grid.private]] 
 
-### #is_/same_as :: [Electrical_Grid.personal](/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.personal|Electrical_Grid.personal]] 
 
-### #is_/same_as :: [Electrical_Grid.secret](/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Electricity/Electric_Power_Distribution/Electrical_Grid.secret|Electrical_Grid.secret]] 
 

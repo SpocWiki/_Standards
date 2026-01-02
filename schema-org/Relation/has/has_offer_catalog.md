@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_offer_catalog](/_Standards/schema-org/Relation/has/has_offer_catalog.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_offer_catalog|has_offer_catalog]] 
 
-### #is_/same_as :: [has_offer_catalog.public](/_public/schema-org/Relation/has/has_offer_catalog.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_offer_catalog.public|has_offer_catalog.public]] 
 
-### #is_/same_as :: [has_offer_catalog.internal](/_internal/schema-org/Relation/has/has_offer_catalog.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_offer_catalog.internal|has_offer_catalog.internal]] 
 
-### #is_/same_as :: [has_offer_catalog.protect](/_protect/schema-org/Relation/has/has_offer_catalog.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_offer_catalog.protect|has_offer_catalog.protect]] 
 
-### #is_/same_as :: [has_offer_catalog.private](/_private/schema-org/Relation/has/has_offer_catalog.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_offer_catalog.private|has_offer_catalog.private]] 
 
-### #is_/same_as :: [has_offer_catalog.personal](/_personal/schema-org/Relation/has/has_offer_catalog.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_offer_catalog.personal|has_offer_catalog.personal]] 
 
-### #is_/same_as :: [has_offer_catalog.secret](/_secret/schema-org/Relation/has/has_offer_catalog.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_offer_catalog.secret|has_offer_catalog.secret]] 
 

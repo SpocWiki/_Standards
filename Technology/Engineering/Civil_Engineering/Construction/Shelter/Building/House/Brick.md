@@ -79,17 +79,17 @@ Unicode_character: 🧱
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brick](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick|Brick]] 
 
-### #is_/same_as :: [Brick.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.public|Brick.public]] 
 
-### #is_/same_as :: [Brick.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.internal|Brick.internal]] 
 
-### #is_/same_as :: [Brick.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.protect|Brick.protect]] 
 
-### #is_/same_as :: [Brick.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.private|Brick.private]] 
 
-### #is_/same_as :: [Brick.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.personal|Brick.personal]] 
 
-### #is_/same_as :: [Brick.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/House/Brick.secret|Brick.secret]] 
 

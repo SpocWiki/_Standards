@@ -67,17 +67,17 @@ Unicode_character: 🛣
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Controlled-Access_Highway](/_Standards/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway|Controlled-Access_Highway]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.public](/_public/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.public|Controlled-Access_Highway.public]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.internal](/_internal/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.internal|Controlled-Access_Highway.internal]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.protect](/_protect/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.protect|Controlled-Access_Highway.protect]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.private](/_private/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.private|Controlled-Access_Highway.private]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.personal](/_personal/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.personal|Controlled-Access_Highway.personal]] 
 
-### #is_/same_as :: [Controlled-Access_Highway.secret](/_secret/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Road_Transport/Traffic/Controlled-Access_Highway.secret|Controlled-Access_Highway.secret]] 
 

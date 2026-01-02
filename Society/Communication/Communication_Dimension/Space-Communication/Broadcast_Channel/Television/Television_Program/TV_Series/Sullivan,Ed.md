@@ -78,17 +78,17 @@ Plex_person_key: 5d77684f54c0f0001f306318
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sullivan,Ed](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed|Sullivan,Ed]] 
 
-### #is_/same_as :: [Sullivan,Ed.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.public|Sullivan,Ed.public]] 
 
-### #is_/same_as :: [Sullivan,Ed.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.internal|Sullivan,Ed.internal]] 
 
-### #is_/same_as :: [Sullivan,Ed.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.protect|Sullivan,Ed.protect]] 
 
-### #is_/same_as :: [Sullivan,Ed.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.private|Sullivan,Ed.private]] 
 
-### #is_/same_as :: [Sullivan,Ed.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.personal|Sullivan,Ed.personal]] 
 
-### #is_/same_as :: [Sullivan,Ed.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Sullivan,Ed.secret|Sullivan,Ed.secret]] 
 

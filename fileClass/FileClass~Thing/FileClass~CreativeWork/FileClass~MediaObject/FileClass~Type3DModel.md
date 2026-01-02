@@ -48,17 +48,17 @@ IsResizable:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Type3DModel](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel|FileClass~Type3DModel]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.public|FileClass~Type3DModel.public]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.internal|FileClass~Type3DModel.internal]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.protect|FileClass~Type3DModel.protect]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.private|FileClass~Type3DModel.private]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.personal|FileClass~Type3DModel.personal]] 
 
-### #is_/same_as :: [FileClass~Type3DModel.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~MediaObject/FileClass~Type3DModel.secret|FileClass~Type3DModel.secret]] 
 

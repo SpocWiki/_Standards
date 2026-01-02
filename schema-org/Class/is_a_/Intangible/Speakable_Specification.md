@@ -41,17 +41,17 @@ A SpeakableSpecification indicates (typically via [[xpath]] or [[cssSelector]]) 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Speakable_Specification](/_Standards/schema-org/Class/is_a_/Intangible/Speakable_Specification.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Speakable_Specification|Speakable_Specification]] 
 
-### #is_/same_as :: [Speakable_Specification.public](/_public/schema-org/Class/is_a_/Intangible/Speakable_Specification.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Speakable_Specification.public|Speakable_Specification.public]] 
 
-### #is_/same_as :: [Speakable_Specification.internal](/_internal/schema-org/Class/is_a_/Intangible/Speakable_Specification.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Speakable_Specification.internal|Speakable_Specification.internal]] 
 
-### #is_/same_as :: [Speakable_Specification.protect](/_protect/schema-org/Class/is_a_/Intangible/Speakable_Specification.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Speakable_Specification.protect|Speakable_Specification.protect]] 
 
-### #is_/same_as :: [Speakable_Specification.private](/_private/schema-org/Class/is_a_/Intangible/Speakable_Specification.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Speakable_Specification.private|Speakable_Specification.private]] 
 
-### #is_/same_as :: [Speakable_Specification.personal](/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Speakable_Specification.personal|Speakable_Specification.personal]] 
 
-### #is_/same_as :: [Speakable_Specification.secret](/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Speakable_Specification.secret|Speakable_Specification.secret]] 
 

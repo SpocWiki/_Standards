@@ -55,17 +55,17 @@ Region = state, canton, prefecture, autonomous community...
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Defined_Region](/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region|Defined_Region]] 
 
-### #is_/same_as :: [Defined_Region.public](/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.public|Defined_Region.public]] 
 
-### #is_/same_as :: [Defined_Region.internal](/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.internal|Defined_Region.internal]] 
 
-### #is_/same_as :: [Defined_Region.protect](/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.protect|Defined_Region.protect]] 
 
-### #is_/same_as :: [Defined_Region.private](/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.private|Defined_Region.private]] 
 
-### #is_/same_as :: [Defined_Region.personal](/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.personal|Defined_Region.personal]] 
 
-### #is_/same_as :: [Defined_Region.secret](/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Structured_Value/Defined_Region.secret|Defined_Region.secret]] 
 

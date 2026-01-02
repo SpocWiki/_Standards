@@ -80,3 +80,22 @@ birth_name: Nancy Lamoureaux Wilson
 > [Wikipedia](https://en.wikipedia.org/wiki/Nancy%20Wilson%20(rock%20musician)) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy|Wilson,Nancy]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.public|Wilson,Nancy.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.internal|Wilson,Nancy.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.protect|Wilson,Nancy.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.private|Wilson,Nancy.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.personal|Wilson,Nancy.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Heart(Band)/Wilson,Nancy.secret|Wilson,Nancy.secret]] 
+

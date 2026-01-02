@@ -89,17 +89,17 @@ Krugosvet_article: medicina/DAUNA_SINDROM.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Down_Syndrome](/_Standards/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability/Down_Syndrome|Down_Syndrome]] 
 
-### #is_/same_as :: [Down_Syndrome.public](/_public/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.public|Down_Syndrome.public]] 
 
-### #is_/same_as :: [Down_Syndrome.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.internal|Down_Syndrome.internal]] 
 
-### #is_/same_as :: [Down_Syndrome.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.protect|Down_Syndrome.protect]] 
 
-### #is_/same_as :: [Down_Syndrome.private](/_private/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.private|Down_Syndrome.private]] 
 
-### #is_/same_as :: [Down_Syndrome.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.personal|Down_Syndrome.personal]] 
 
-### #is_/same_as :: [Down_Syndrome.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability/Down_Syndrome.secret|Down_Syndrome.secret]] 
 

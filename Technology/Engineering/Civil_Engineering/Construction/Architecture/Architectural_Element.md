@@ -30,17 +30,17 @@ This terminology **does _not_ include**:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Architectural_Element](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element|Architectural_Element]] 
 
-### #is_/same_as :: [Architectural_Element.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.public|Architectural_Element.public]] 
 
-### #is_/same_as :: [Architectural_Element.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.internal|Architectural_Element.internal]] 
 
-### #is_/same_as :: [Architectural_Element.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.protect|Architectural_Element.protect]] 
 
-### #is_/same_as :: [Architectural_Element.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.private|Architectural_Element.private]] 
 
-### #is_/same_as :: [Architectural_Element.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.personal|Architectural_Element.personal]] 
 
-### #is_/same_as :: [Architectural_Element.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element.secret|Architectural_Element.secret]] 
 

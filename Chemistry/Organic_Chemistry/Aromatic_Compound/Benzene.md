@@ -230,17 +230,17 @@ H-C()C-H
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Benzene](/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene|Benzene]] 
 
-### #is_/same_as :: [Benzene.public](/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.public|Benzene.public]] 
 
-### #is_/same_as :: [Benzene.internal](/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.internal|Benzene.internal]] 
 
-### #is_/same_as :: [Benzene.protect](/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.protect|Benzene.protect]] 
 
-### #is_/same_as :: [Benzene.private](/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.private|Benzene.private]] 
 
-### #is_/same_as :: [Benzene.personal](/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.personal|Benzene.personal]] 
 
-### #is_/same_as :: [Benzene.secret](/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.secret|Benzene.secret]] 
 

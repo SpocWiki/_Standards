@@ -54,17 +54,17 @@ Wolfram_Language_entity_code: Entity["Book", "ArtOfWar"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Art_of_War](/_Standards/Society/Military/The_Art_of_War.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/The_Art_of_War|The_Art_of_War]] 
 
-### #is_/same_as :: [The_Art_of_War.public](/_public/Society/Military/The_Art_of_War.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/The_Art_of_War.public|The_Art_of_War.public]] 
 
-### #is_/same_as :: [The_Art_of_War.internal](/_internal/Society/Military/The_Art_of_War.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/The_Art_of_War.internal|The_Art_of_War.internal]] 
 
-### #is_/same_as :: [The_Art_of_War.protect](/_protect/Society/Military/The_Art_of_War.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/The_Art_of_War.protect|The_Art_of_War.protect]] 
 
-### #is_/same_as :: [The_Art_of_War.private](/_private/Society/Military/The_Art_of_War.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/The_Art_of_War.private|The_Art_of_War.private]] 
 
-### #is_/same_as :: [The_Art_of_War.personal](/_personal/Society/Military/The_Art_of_War.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/The_Art_of_War.personal|The_Art_of_War.personal]] 
 
-### #is_/same_as :: [The_Art_of_War.secret](/_secret/Society/Military/The_Art_of_War.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/The_Art_of_War.secret|The_Art_of_War.secret]] 
 

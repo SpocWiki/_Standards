@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_issued](/_Standards/schema-org/Property/has_Date_Time/has_time_issued.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_issued|has_time_issued]] 
 
-### #is_/same_as :: [has_time_issued.public](/_public/schema-org/Property/has_Date_Time/has_time_issued.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_issued.public|has_time_issued.public]] 
 
-### #is_/same_as :: [has_time_issued.internal](/_internal/schema-org/Property/has_Date_Time/has_time_issued.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_issued.internal|has_time_issued.internal]] 
 
-### #is_/same_as :: [has_time_issued.protect](/_protect/schema-org/Property/has_Date_Time/has_time_issued.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_issued.protect|has_time_issued.protect]] 
 
-### #is_/same_as :: [has_time_issued.private](/_private/schema-org/Property/has_Date_Time/has_time_issued.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_issued.private|has_time_issued.private]] 
 
-### #is_/same_as :: [has_time_issued.personal](/_personal/schema-org/Property/has_Date_Time/has_time_issued.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_issued.personal|has_time_issued.personal]] 
 
-### #is_/same_as :: [has_time_issued.secret](/_secret/schema-org/Property/has_Date_Time/has_time_issued.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_issued.secret|has_time_issued.secret]] 
 

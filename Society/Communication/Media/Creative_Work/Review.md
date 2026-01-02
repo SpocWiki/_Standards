@@ -41,17 +41,17 @@ A review of an item - for example, of a restaurant, movie, or store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Review](/_Standards/Society/Communication/Media/Creative_Work/Review.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Review|Review]] 
 
-### #is_/same_as :: [Review.public](/_public/Society/Communication/Media/Creative_Work/Review.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Review.public|Review.public]] 
 
-### #is_/same_as :: [Review.internal](/_internal/Society/Communication/Media/Creative_Work/Review.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Review.internal|Review.internal]] 
 
-### #is_/same_as :: [Review.protect](/_protect/Society/Communication/Media/Creative_Work/Review.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Review.protect|Review.protect]] 
 
-### #is_/same_as :: [Review.private](/_private/Society/Communication/Media/Creative_Work/Review.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Review.private|Review.private]] 
 
-### #is_/same_as :: [Review.personal](/_personal/Society/Communication/Media/Creative_Work/Review.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Review.personal|Review.personal]] 
 
-### #is_/same_as :: [Review.secret](/_secret/Society/Communication/Media/Creative_Work/Review.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Review.secret|Review.secret]] 
 

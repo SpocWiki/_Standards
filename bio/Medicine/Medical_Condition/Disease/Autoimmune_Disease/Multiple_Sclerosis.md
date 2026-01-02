@@ -187,17 +187,17 @@ subreddit: MultipleSclerosis
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiple_Sclerosis](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis|Multiple_Sclerosis]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.public|Multiple_Sclerosis.public]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.internal|Multiple_Sclerosis.internal]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.protect|Multiple_Sclerosis.protect]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.private|Multiple_Sclerosis.private]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.personal|Multiple_Sclerosis.personal]] 
 
-### #is_/same_as :: [Multiple_Sclerosis.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Multiple_Sclerosis.secret|Multiple_Sclerosis.secret]] 
 

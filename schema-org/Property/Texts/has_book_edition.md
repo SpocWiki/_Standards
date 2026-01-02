@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_book_edition](/_Standards/schema-org/Property/Texts/has_book_edition.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_book_edition|has_book_edition]] 
 
-### #is_/same_as :: [has_book_edition.public](/_public/schema-org/Property/Texts/has_book_edition.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_book_edition.public|has_book_edition.public]] 
 
-### #is_/same_as :: [has_book_edition.internal](/_internal/schema-org/Property/Texts/has_book_edition.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_book_edition.internal|has_book_edition.internal]] 
 
-### #is_/same_as :: [has_book_edition.protect](/_protect/schema-org/Property/Texts/has_book_edition.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_book_edition.protect|has_book_edition.protect]] 
 
-### #is_/same_as :: [has_book_edition.private](/_private/schema-org/Property/Texts/has_book_edition.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_book_edition.private|has_book_edition.private]] 
 
-### #is_/same_as :: [has_book_edition.personal](/_personal/schema-org/Property/Texts/has_book_edition.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_book_edition.personal|has_book_edition.personal]] 
 
-### #is_/same_as :: [has_book_edition.secret](/_secret/schema-org/Property/Texts/has_book_edition.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_book_edition.secret|has_book_edition.secret]] 
 

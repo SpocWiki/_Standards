@@ -42,17 +42,17 @@ A seating map.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seating_Map](/_Standards/schema-org/Enumeration/Map_Category_Type/Seating_Map.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type/Seating_Map|Seating_Map]] 
 
-### #is_/same_as :: [Seating_Map.public](/_public/schema-org/Enumeration/Map_Category_Type/Seating_Map.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Map_Category_Type/Seating_Map.public|Seating_Map.public]] 
 
-### #is_/same_as :: [Seating_Map.internal](/_internal/schema-org/Enumeration/Map_Category_Type/Seating_Map.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Map_Category_Type/Seating_Map.internal|Seating_Map.internal]] 
 
-### #is_/same_as :: [Seating_Map.protect](/_protect/schema-org/Enumeration/Map_Category_Type/Seating_Map.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Map_Category_Type/Seating_Map.protect|Seating_Map.protect]] 
 
-### #is_/same_as :: [Seating_Map.private](/_private/schema-org/Enumeration/Map_Category_Type/Seating_Map.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Map_Category_Type/Seating_Map.private|Seating_Map.private]] 
 
-### #is_/same_as :: [Seating_Map.personal](/_personal/schema-org/Enumeration/Map_Category_Type/Seating_Map.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Map_Category_Type/Seating_Map.personal|Seating_Map.personal]] 
 
-### #is_/same_as :: [Seating_Map.secret](/_secret/schema-org/Enumeration/Map_Category_Type/Seating_Map.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Map_Category_Type/Seating_Map.secret|Seating_Map.secret]] 
 

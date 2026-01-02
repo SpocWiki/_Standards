@@ -80,17 +80,17 @@ defining_formula: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conic_Section](/_Standards/Mathematics/Geometry/Conic_Section.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Conic_Section|Conic_Section]] 
 
-### #is_/same_as :: [Conic_Section.public](/_public/Mathematics/Geometry/Conic_Section.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Conic_Section.public|Conic_Section.public]] 
 
-### #is_/same_as :: [Conic_Section.internal](/_internal/Mathematics/Geometry/Conic_Section.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Conic_Section.internal|Conic_Section.internal]] 
 
-### #is_/same_as :: [Conic_Section.protect](/_protect/Mathematics/Geometry/Conic_Section.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Conic_Section.protect|Conic_Section.protect]] 
 
-### #is_/same_as :: [Conic_Section.private](/_private/Mathematics/Geometry/Conic_Section.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Conic_Section.private|Conic_Section.private]] 
 
-### #is_/same_as :: [Conic_Section.personal](/_personal/Mathematics/Geometry/Conic_Section.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Conic_Section.personal|Conic_Section.personal]] 
 
-### #is_/same_as :: [Conic_Section.secret](/_secret/Mathematics/Geometry/Conic_Section.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Conic_Section.secret|Conic_Section.secret]] 
 

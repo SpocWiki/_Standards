@@ -36,17 +36,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kundera,Milan](/_Standards/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan|Kundera,Milan]] 
 
-### #is_/same_as :: [Kundera,Milan.public](/_public/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.public|Kundera,Milan.public]] 
 
-### #is_/same_as :: [Kundera,Milan.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.internal|Kundera,Milan.internal]] 
 
-### #is_/same_as :: [Kundera,Milan.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.protect|Kundera,Milan.protect]] 
 
-### #is_/same_as :: [Kundera,Milan.private](/_private/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.private|Kundera,Milan.private]] 
 
-### #is_/same_as :: [Kundera,Milan.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.personal|Kundera,Milan.personal]] 
 
-### #is_/same_as :: [Kundera,Milan.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Kundera,Milan.secret|Kundera,Milan.secret]] 
 

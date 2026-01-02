@@ -42,17 +42,17 @@ Commons_category: Compilers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Compiler](/_Standards/Technology/IT/Software/Compiler.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Compiler|Compiler]] 
 
-### #is_/same_as :: [Compiler.public](/_public/Technology/IT/Software/Compiler.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Compiler.public|Compiler.public]] 
 
-### #is_/same_as :: [Compiler.internal](/_internal/Technology/IT/Software/Compiler.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Compiler.internal|Compiler.internal]] 
 
-### #is_/same_as :: [Compiler.protect](/_protect/Technology/IT/Software/Compiler.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Compiler.protect|Compiler.protect]] 
 
-### #is_/same_as :: [Compiler.private](/_private/Technology/IT/Software/Compiler.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Compiler.private|Compiler.private]] 
 
-### #is_/same_as :: [Compiler.personal](/_personal/Technology/IT/Software/Compiler.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Compiler.personal|Compiler.personal]] 
 
-### #is_/same_as :: [Compiler.secret](/_secret/Technology/IT/Software/Compiler.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Compiler.secret|Compiler.secret]] 
 

@@ -21,3 +21,22 @@ aliases:
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Protocols%20of%20the%20Elders%20of%20Zion) 
 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion|Protocols_of_the_Elders_of_Zion]] 
+
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.public|Protocols_of_the_Elders_of_Zion.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.internal|Protocols_of_the_Elders_of_Zion.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.protect|Protocols_of_the_Elders_of_Zion.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.private|Protocols_of_the_Elders_of_Zion.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.personal|Protocols_of_the_Elders_of_Zion.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism/Protocols_of_the_Elders_of_Zion.secret|Protocols_of_the_Elders_of_Zion.secret]] 
+

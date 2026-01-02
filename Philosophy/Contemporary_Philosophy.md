@@ -21,17 +21,17 @@ Commons_category: Contemporary philosophy
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Contemporary_Philosophy](/_Standards/Philosophy/Contemporary_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Contemporary_Philosophy|Contemporary_Philosophy]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.public](/_public/Philosophy/Contemporary_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Contemporary_Philosophy.public|Contemporary_Philosophy.public]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.internal](/_internal/Philosophy/Contemporary_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Contemporary_Philosophy.internal|Contemporary_Philosophy.internal]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.protect](/_protect/Philosophy/Contemporary_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Contemporary_Philosophy.protect|Contemporary_Philosophy.protect]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.private](/_private/Philosophy/Contemporary_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Contemporary_Philosophy.private|Contemporary_Philosophy.private]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.personal](/_personal/Philosophy/Contemporary_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Contemporary_Philosophy.personal|Contemporary_Philosophy.personal]] 
 
-### #is_/same_as :: [Contemporary_Philosophy.secret](/_secret/Philosophy/Contemporary_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Contemporary_Philosophy.secret|Contemporary_Philosophy.secret]] 
 

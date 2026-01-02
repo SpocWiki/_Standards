@@ -37,17 +37,17 @@ A wholesale store.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WholesaleStore](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore|FileClass~WholesaleStore]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.public|FileClass~WholesaleStore.public]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.internal|FileClass~WholesaleStore.internal]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.protect|FileClass~WholesaleStore.protect]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.private|FileClass~WholesaleStore.private]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.personal|FileClass~WholesaleStore.personal]] 
 
-### #is_/same_as :: [FileClass~WholesaleStore.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~Store/FileClass~WholesaleStore.secret|FileClass~WholesaleStore.secret]] 
 

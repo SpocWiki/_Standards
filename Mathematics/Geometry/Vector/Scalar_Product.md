@@ -68,17 +68,17 @@ Commons_category: Scalar product
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scalar_Product](/_Standards/Mathematics/Geometry/Vector/Scalar_Product.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Vector/Scalar_Product|Scalar_Product]] 
 
-### #is_/same_as :: [Scalar_Product.public](/_public/Mathematics/Geometry/Vector/Scalar_Product.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Vector/Scalar_Product.public|Scalar_Product.public]] 
 
-### #is_/same_as :: [Scalar_Product.internal](/_internal/Mathematics/Geometry/Vector/Scalar_Product.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Vector/Scalar_Product.internal|Scalar_Product.internal]] 
 
-### #is_/same_as :: [Scalar_Product.protect](/_protect/Mathematics/Geometry/Vector/Scalar_Product.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Vector/Scalar_Product.protect|Scalar_Product.protect]] 
 
-### #is_/same_as :: [Scalar_Product.private](/_private/Mathematics/Geometry/Vector/Scalar_Product.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Vector/Scalar_Product.private|Scalar_Product.private]] 
 
-### #is_/same_as :: [Scalar_Product.personal](/_personal/Mathematics/Geometry/Vector/Scalar_Product.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Vector/Scalar_Product.personal|Scalar_Product.personal]] 
 
-### #is_/same_as :: [Scalar_Product.secret](/_secret/Mathematics/Geometry/Vector/Scalar_Product.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Vector/Scalar_Product.secret|Scalar_Product.secret]] 
 

@@ -41,17 +41,17 @@ A tattoo parlor.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tattoo_Parlor](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor|Tattoo_Parlor]] 
 
-### #is_/same_as :: [Tattoo_Parlor.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.public|Tattoo_Parlor.public]] 
 
-### #is_/same_as :: [Tattoo_Parlor.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.internal|Tattoo_Parlor.internal]] 
 
-### #is_/same_as :: [Tattoo_Parlor.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.protect|Tattoo_Parlor.protect]] 
 
-### #is_/same_as :: [Tattoo_Parlor.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.private|Tattoo_Parlor.private]] 
 
-### #is_/same_as :: [Tattoo_Parlor.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.personal|Tattoo_Parlor.personal]] 
 
-### #is_/same_as :: [Tattoo_Parlor.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Tattoo_Parlor.secret|Tattoo_Parlor.secret]] 
 

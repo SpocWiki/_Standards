@@ -34,17 +34,17 @@ short_name: EWWU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union](/_Standards/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union|Economic_and_Monetary_Union_of_the_European_Union]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.public](/_public/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.public|Economic_and_Monetary_Union_of_the_European_Union.public]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.internal|Economic_and_Monetary_Union_of_the_European_Union.internal]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.protect|Economic_and_Monetary_Union_of_the_European_Union.protect]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.private](/_private/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.private|Economic_and_Monetary_Union_of_the_European_Union.private]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.personal|Economic_and_Monetary_Union_of_the_European_Union.personal]] 
 
-### #is_/same_as :: [Economic_and_Monetary_Union_of_the_European_Union.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/Economic_and_Monetary_Union_of_the_European_Union.secret|Economic_and_Monetary_Union_of_the_European_Union.secret]] 
 

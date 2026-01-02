@@ -69,17 +69,17 @@ Commons_category: Palaeography
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Palaeography](/_Standards/Language/Writing_System/Palaeography.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Palaeography|Palaeography]] 
 
-### #is_/same_as :: [Palaeography.public](/_public/Language/Writing_System/Palaeography.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Palaeography.public|Palaeography.public]] 
 
-### #is_/same_as :: [Palaeography.internal](/_internal/Language/Writing_System/Palaeography.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Palaeography.internal|Palaeography.internal]] 
 
-### #is_/same_as :: [Palaeography.protect](/_protect/Language/Writing_System/Palaeography.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Palaeography.protect|Palaeography.protect]] 
 
-### #is_/same_as :: [Palaeography.private](/_private/Language/Writing_System/Palaeography.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Palaeography.private|Palaeography.private]] 
 
-### #is_/same_as :: [Palaeography.personal](/_personal/Language/Writing_System/Palaeography.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Palaeography.personal|Palaeography.personal]] 
 
-### #is_/same_as :: [Palaeography.secret](/_secret/Language/Writing_System/Palaeography.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Palaeography.secret|Palaeography.secret]] 
 

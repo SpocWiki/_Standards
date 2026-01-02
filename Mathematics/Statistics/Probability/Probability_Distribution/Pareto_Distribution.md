@@ -49,20 +49,19 @@ Commons_category: Pareto distribution
 > [Wikipedia](https://en.wikipedia.org/wiki/Pareto%20distribution)
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pareto_Distribution](/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution|Pareto_Distribution]] 
 
-### #is_/same_as :: [Pareto_Distribution.public](/_public/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.public|Pareto_Distribution.public]] 
 
-### #is_/same_as :: [Pareto_Distribution.internal](/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.internal|Pareto_Distribution.internal]] 
 
-### #is_/same_as :: [Pareto_Distribution.protect](/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.protect|Pareto_Distribution.protect]] 
 
-### #is_/same_as :: [Pareto_Distribution.private](/_private/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.private|Pareto_Distribution.private]] 
 
-### #is_/same_as :: [Pareto_Distribution.personal](/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.personal|Pareto_Distribution.personal]] 
 
-### #is_/same_as :: [Pareto_Distribution.secret](/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Probability/Probability_Distribution/Pareto_Distribution.secret|Pareto_Distribution.secret]] 
 

@@ -115,17 +115,17 @@ Krugosvet_article_archived_: medicina/SKARLATINA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scarlet_Fever](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever|Scarlet_Fever]] 
 
-### #is_/same_as :: [Scarlet_Fever.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.public|Scarlet_Fever.public]] 
 
-### #is_/same_as :: [Scarlet_Fever.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.internal|Scarlet_Fever.internal]] 
 
-### #is_/same_as :: [Scarlet_Fever.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.protect|Scarlet_Fever.protect]] 
 
-### #is_/same_as :: [Scarlet_Fever.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.private|Scarlet_Fever.private]] 
 
-### #is_/same_as :: [Scarlet_Fever.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.personal|Scarlet_Fever.personal]] 
 
-### #is_/same_as :: [Scarlet_Fever.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Scarlet_Fever.secret|Scarlet_Fever.secret]] 
 

@@ -35,17 +35,17 @@ Commons_category: Planetary nebulae
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planetary_Nebula](/_Standards/Astronomy/Planet/Planetary_Nebula.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]] 
 
-### #is_/same_as :: [Planetary_Nebula.public](/_public/Astronomy/Planet/Planetary_Nebula.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]] 
 
-### #is_/same_as :: [Planetary_Nebula.internal](/_internal/Astronomy/Planet/Planetary_Nebula.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]] 
 
-### #is_/same_as :: [Planetary_Nebula.protect](/_protect/Astronomy/Planet/Planetary_Nebula.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Planetary_Nebula.protect|Planetary_Nebula.protect]] 
 
-### #is_/same_as :: [Planetary_Nebula.private](/_private/Astronomy/Planet/Planetary_Nebula.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Planetary_Nebula.private|Planetary_Nebula.private]] 
 
-### #is_/same_as :: [Planetary_Nebula.personal](/_personal/Astronomy/Planet/Planetary_Nebula.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]] 
 
-### #is_/same_as :: [Planetary_Nebula.secret](/_secret/Astronomy/Planet/Planetary_Nebula.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]] 
 

@@ -355,17 +355,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Europe-CityDB](/_Standards/Earth/Continent/Europe/_Europe-CityDB.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/_Europe-CityDB|_Europe-CityDB]] 
 
-### #is_/same_as :: [_Europe-CityDB.public](/_public/Earth/Continent/Europe/_Europe-CityDB.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/_Europe-CityDB.public|_Europe-CityDB.public]] 
 
-### #is_/same_as :: [_Europe-CityDB.internal](/_internal/Earth/Continent/Europe/_Europe-CityDB.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/_Europe-CityDB.internal|_Europe-CityDB.internal]] 
 
-### #is_/same_as :: [_Europe-CityDB.protect](/_protect/Earth/Continent/Europe/_Europe-CityDB.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/_Europe-CityDB.protect|_Europe-CityDB.protect]] 
 
-### #is_/same_as :: [_Europe-CityDB.private](/_private/Earth/Continent/Europe/_Europe-CityDB.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/_Europe-CityDB.private|_Europe-CityDB.private]] 
 
-### #is_/same_as :: [_Europe-CityDB.personal](/_personal/Earth/Continent/Europe/_Europe-CityDB.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/_Europe-CityDB.personal|_Europe-CityDB.personal]] 
 
-### #is_/same_as :: [_Europe-CityDB.secret](/_secret/Earth/Continent/Europe/_Europe-CityDB.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/_Europe-CityDB.secret|_Europe-CityDB.secret]] 
 

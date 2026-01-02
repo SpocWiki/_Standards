@@ -93,17 +93,17 @@ inception:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company)|NBC(National_Broadcasting_Company)]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).public|NBC(National_Broadcasting_Company).public]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).internal|NBC(National_Broadcasting_Company).internal]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).protect|NBC(National_Broadcasting_Company).protect]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).private|NBC(National_Broadcasting_Company).private]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).personal|NBC(National_Broadcasting_Company).personal]] 
 
-### #is_/same_as :: [NBC(National_Broadcasting_Company).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/NBC(National_Broadcasting_Company).secret|NBC(National_Broadcasting_Company).secret]] 
 

@@ -10,17 +10,17 @@ This can mean different Things like
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [skos~narrower](/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.md) 
+### #is_/same_as :: [[/_Standards/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower|skos~narrower]] 
 
-### #is_/same_as :: [skos~narrower.public](/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.public.md) 
+### #is_/same_as :: [[/_public/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.public|skos~narrower.public]] 
 
-### #is_/same_as :: [skos~narrower.internal](/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.internal.md) 
+### #is_/same_as :: [[/_internal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.internal|skos~narrower.internal]] 
 
-### #is_/same_as :: [skos~narrower.protect](/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.protect.md) 
+### #is_/same_as :: [[/_protect/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.protect|skos~narrower.protect]] 
 
-### #is_/same_as :: [skos~narrower.private](/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.private.md) 
+### #is_/same_as :: [[/_private/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.private|skos~narrower.private]] 
 
-### #is_/same_as :: [skos~narrower.personal](/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.personal.md) 
+### #is_/same_as :: [[/_personal/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.personal|skos~narrower.personal]] 
 
-### #is_/same_as :: [skos~narrower.secret](/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.secret.md)
+### #is_/same_as :: [[/_secret/W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/skos/skos~narrower.secret|skos~narrower.secret]] 
 

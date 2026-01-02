@@ -108,17 +108,17 @@ work_period_start_: 1924
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eisenstein,Sergei](/_Standards/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei|Eisenstein,Sergei]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.public](/_public/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.public|Eisenstein,Sergei.public]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.internal|Eisenstein,Sergei.internal]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.protect|Eisenstein,Sergei.protect]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.private](/_private/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.private|Eisenstein,Sergei.private]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.personal|Eisenstein,Sergei.personal]] 
 
-### #is_/same_as :: [Eisenstein,Sergei.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Eisenstein,Sergei.secret|Eisenstein,Sergei.secret]] 
 

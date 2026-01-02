@@ -79,17 +79,17 @@ Instructor:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~CourseInstance](/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance|FileClass~CourseInstance]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.public](/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.public|FileClass~CourseInstance.public]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.internal](/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.internal|FileClass~CourseInstance.internal]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.protect](/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.protect|FileClass~CourseInstance.protect]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.private](/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.private|FileClass~CourseInstance.private]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.personal](/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.personal|FileClass~CourseInstance.personal]] 
 
-### #is_/same_as :: [FileClass~CourseInstance.secret](/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Event/FileClass~CourseInstance.secret|FileClass~CourseInstance.secret]] 
 

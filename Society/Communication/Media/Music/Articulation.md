@@ -26,17 +26,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Artik
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Articulation](/_Standards/Society/Communication/Media/Music/Articulation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Articulation|Articulation]] 
 
-### #is_/same_as :: [Articulation.public](/_public/Society/Communication/Media/Music/Articulation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Articulation.public|Articulation.public]] 
 
-### #is_/same_as :: [Articulation.internal](/_internal/Society/Communication/Media/Music/Articulation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Articulation.internal|Articulation.internal]] 
 
-### #is_/same_as :: [Articulation.protect](/_protect/Society/Communication/Media/Music/Articulation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Articulation.protect|Articulation.protect]] 
 
-### #is_/same_as :: [Articulation.private](/_private/Society/Communication/Media/Music/Articulation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Articulation.private|Articulation.private]] 
 
-### #is_/same_as :: [Articulation.personal](/_personal/Society/Communication/Media/Music/Articulation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Articulation.personal|Articulation.personal]] 
 
-### #is_/same_as :: [Articulation.secret](/_secret/Society/Communication/Media/Music/Articulation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Articulation.secret|Articulation.secret]] 
 

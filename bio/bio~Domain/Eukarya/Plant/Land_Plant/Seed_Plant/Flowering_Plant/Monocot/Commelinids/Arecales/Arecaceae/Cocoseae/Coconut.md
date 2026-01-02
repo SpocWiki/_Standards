@@ -228,17 +228,17 @@ NBN_System_Key: NHMSYS0021195907
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Coconut](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut|Coconut]] 
 
-### #is_/same_as :: [Coconut.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.public|Coconut.public]] 
 
-### #is_/same_as :: [Coconut.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.internal|Coconut.internal]] 
 
-### #is_/same_as :: [Coconut.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.protect|Coconut.protect]] 
 
-### #is_/same_as :: [Coconut.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.private|Coconut.private]] 
 
-### #is_/same_as :: [Coconut.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.personal|Coconut.personal]] 
 
-### #is_/same_as :: [Coconut.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Commelinids/Arecales/Arecaceae/Cocoseae/Coconut.secret|Coconut.secret]] 
 

@@ -15,17 +15,17 @@ Devanagari Script is used to write [[../Language_Family/LangFamily-Indo-European
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Script~Deva](/_Standards/Language/Writing_System/Script~Deva.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Script~Deva|Script~Deva]] 
 
-### #is_/same_as :: [Script~Deva.public](/_public/Language/Writing_System/Script~Deva.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Script~Deva.public|Script~Deva.public]] 
 
-### #is_/same_as :: [Script~Deva.internal](/_internal/Language/Writing_System/Script~Deva.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Script~Deva.internal|Script~Deva.internal]] 
 
-### #is_/same_as :: [Script~Deva.protect](/_protect/Language/Writing_System/Script~Deva.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Script~Deva.protect|Script~Deva.protect]] 
 
-### #is_/same_as :: [Script~Deva.private](/_private/Language/Writing_System/Script~Deva.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Script~Deva.private|Script~Deva.private]] 
 
-### #is_/same_as :: [Script~Deva.personal](/_personal/Language/Writing_System/Script~Deva.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Script~Deva.personal|Script~Deva.personal]] 
 
-### #is_/same_as :: [Script~Deva.secret](/_secret/Language/Writing_System/Script~Deva.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Script~Deva.secret|Script~Deva.secret]] 
 

@@ -37,17 +37,17 @@ A reservoir of water, typically an artificially created lake, like the Lake Kari
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Reservoir](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir|FileClass~Reservoir]] 
 
-### #is_/same_as :: [FileClass~Reservoir.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.public|FileClass~Reservoir.public]] 
 
-### #is_/same_as :: [FileClass~Reservoir.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.internal|FileClass~Reservoir.internal]] 
 
-### #is_/same_as :: [FileClass~Reservoir.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.protect|FileClass~Reservoir.protect]] 
 
-### #is_/same_as :: [FileClass~Reservoir.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.private|FileClass~Reservoir.private]] 
 
-### #is_/same_as :: [FileClass~Reservoir.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.personal|FileClass~Reservoir.personal]] 
 
-### #is_/same_as :: [FileClass~Reservoir.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Landform/FileClass~BodyOfWater/FileClass~Reservoir.secret|FileClass~Reservoir.secret]] 
 

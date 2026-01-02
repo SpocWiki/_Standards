@@ -99,17 +99,17 @@ work_location:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mimar_Sinan](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan|Mimar_Sinan]] 
 
-### #is_/same_as :: [Mimar_Sinan.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.public|Mimar_Sinan.public]] 
 
-### #is_/same_as :: [Mimar_Sinan.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.internal|Mimar_Sinan.internal]] 
 
-### #is_/same_as :: [Mimar_Sinan.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.protect|Mimar_Sinan.protect]] 
 
-### #is_/same_as :: [Mimar_Sinan.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.private|Mimar_Sinan.private]] 
 
-### #is_/same_as :: [Mimar_Sinan.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.personal|Mimar_Sinan.personal]] 
 
-### #is_/same_as :: [Mimar_Sinan.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Mimar_Sinan.secret|Mimar_Sinan.secret]] 
 

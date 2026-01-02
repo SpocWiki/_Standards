@@ -72,17 +72,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Schmu
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jewelry](/_Standards/Technology/Tool/Clothing/Fashion/Jewelry.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Clothing/Fashion/Jewelry|Jewelry]] 
 
-### #is_/same_as :: [Jewelry.public](/_public/Technology/Tool/Clothing/Fashion/Jewelry.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Clothing/Fashion/Jewelry.public|Jewelry.public]] 
 
-### #is_/same_as :: [Jewelry.internal](/_internal/Technology/Tool/Clothing/Fashion/Jewelry.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Clothing/Fashion/Jewelry.internal|Jewelry.internal]] 
 
-### #is_/same_as :: [Jewelry.protect](/_protect/Technology/Tool/Clothing/Fashion/Jewelry.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Clothing/Fashion/Jewelry.protect|Jewelry.protect]] 
 
-### #is_/same_as :: [Jewelry.private](/_private/Technology/Tool/Clothing/Fashion/Jewelry.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Clothing/Fashion/Jewelry.private|Jewelry.private]] 
 
-### #is_/same_as :: [Jewelry.personal](/_personal/Technology/Tool/Clothing/Fashion/Jewelry.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Clothing/Fashion/Jewelry.personal|Jewelry.personal]] 
 
-### #is_/same_as :: [Jewelry.secret](/_secret/Technology/Tool/Clothing/Fashion/Jewelry.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Clothing/Fashion/Jewelry.secret|Jewelry.secret]] 
 

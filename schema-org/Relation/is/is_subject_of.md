@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_subject_of](/_Standards/schema-org/Relation/is/is_subject_of.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_subject_of|is_subject_of]] 
 
-### #is_/same_as :: [is_subject_of.public](/_public/schema-org/Relation/is/is_subject_of.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_subject_of.public|is_subject_of.public]] 
 
-### #is_/same_as :: [is_subject_of.internal](/_internal/schema-org/Relation/is/is_subject_of.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_subject_of.internal|is_subject_of.internal]] 
 
-### #is_/same_as :: [is_subject_of.protect](/_protect/schema-org/Relation/is/is_subject_of.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_subject_of.protect|is_subject_of.protect]] 
 
-### #is_/same_as :: [is_subject_of.private](/_private/schema-org/Relation/is/is_subject_of.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_subject_of.private|is_subject_of.private]] 
 
-### #is_/same_as :: [is_subject_of.personal](/_personal/schema-org/Relation/is/is_subject_of.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_subject_of.personal|is_subject_of.personal]] 
 
-### #is_/same_as :: [is_subject_of.secret](/_secret/schema-org/Relation/is/is_subject_of.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_subject_of.secret|is_subject_of.secret]] 
 

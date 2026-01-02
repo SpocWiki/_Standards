@@ -46,17 +46,17 @@ Commons_category: Winter sports
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Winter_Sport](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport|Winter_Sport]] 
 
-### #is_/same_as :: [Winter_Sport.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.public|Winter_Sport.public]] 
 
-### #is_/same_as :: [Winter_Sport.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.internal|Winter_Sport.internal]] 
 
-### #is_/same_as :: [Winter_Sport.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.protect|Winter_Sport.protect]] 
 
-### #is_/same_as :: [Winter_Sport.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.private|Winter_Sport.private]] 
 
-### #is_/same_as :: [Winter_Sport.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.personal|Winter_Sport.personal]] 
 
-### #is_/same_as :: [Winter_Sport.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Winter_Sport.secret|Winter_Sport.secret]] 
 

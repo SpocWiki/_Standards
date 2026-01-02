@@ -39,17 +39,17 @@ Krugosvet_article: nauka_i_tehnika/fizika/DINAMIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dynamics](/_Standards/Science/Physics/Classical_Mechanics/Dynamics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Dynamics|Dynamics]] 
 
-### #is_/same_as :: [Dynamics.public](/_public/Science/Physics/Classical_Mechanics/Dynamics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Dynamics.public|Dynamics.public]] 
 
-### #is_/same_as :: [Dynamics.internal](/_internal/Science/Physics/Classical_Mechanics/Dynamics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Dynamics.internal|Dynamics.internal]] 
 
-### #is_/same_as :: [Dynamics.protect](/_protect/Science/Physics/Classical_Mechanics/Dynamics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Dynamics.protect|Dynamics.protect]] 
 
-### #is_/same_as :: [Dynamics.private](/_private/Science/Physics/Classical_Mechanics/Dynamics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Dynamics.private|Dynamics.private]] 
 
-### #is_/same_as :: [Dynamics.personal](/_personal/Science/Physics/Classical_Mechanics/Dynamics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Dynamics.personal|Dynamics.personal]] 
 
-### #is_/same_as :: [Dynamics.secret](/_secret/Science/Physics/Classical_Mechanics/Dynamics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Dynamics.secret|Dynamics.secret]] 
 

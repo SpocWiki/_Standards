@@ -590,17 +590,17 @@ Capital :: [[N'Djamena]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chad](/_Standards/Earth/Continent/Africa/Africa~Central/Chad.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Chad|Chad]] 
 
-### #is_/same_as :: [Chad.public](/_public/Earth/Continent/Africa/Africa~Central/Chad.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Chad.public|Chad.public]] 
 
-### #is_/same_as :: [Chad.internal](/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Chad.internal|Chad.internal]] 
 
-### #is_/same_as :: [Chad.protect](/_protect/Earth/Continent/Africa/Africa~Central/Chad.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Chad.protect|Chad.protect]] 
 
-### #is_/same_as :: [Chad.private](/_private/Earth/Continent/Africa/Africa~Central/Chad.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Chad.private|Chad.private]] 
 
-### #is_/same_as :: [Chad.personal](/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Chad.personal|Chad.personal]] 
 
-### #is_/same_as :: [Chad.secret](/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Chad.secret|Chad.secret]] 
 

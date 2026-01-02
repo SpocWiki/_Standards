@@ -55,17 +55,17 @@ short_name: Euratom
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Atomic_Energy_Community](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community|European_Atomic_Energy_Community]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.public|European_Atomic_Energy_Community.public]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.internal|European_Atomic_Energy_Community.internal]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.protect|European_Atomic_Energy_Community.protect]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.private|European_Atomic_Energy_Community.private]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.personal|European_Atomic_Energy_Community.personal]] 
 
-### #is_/same_as :: [European_Atomic_Energy_Community.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Atomic_Energy_Community.secret|European_Atomic_Energy_Community.secret]] 
 

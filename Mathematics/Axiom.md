@@ -48,17 +48,17 @@ Stack_Exchange_tag: https://proofassistants.stackexchange.com/tags/axioms
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Axiom](/_Standards/Mathematics/Axiom.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Axiom|Axiom]] 
 
-### #is_/same_as :: [Axiom.public](/_public/Mathematics/Axiom.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Axiom.public|Axiom.public]] 
 
-### #is_/same_as :: [Axiom.internal](/_internal/Mathematics/Axiom.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Axiom.internal|Axiom.internal]] 
 
-### #is_/same_as :: [Axiom.protect](/_protect/Mathematics/Axiom.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Axiom.protect|Axiom.protect]] 
 
-### #is_/same_as :: [Axiom.private](/_private/Mathematics/Axiom.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Axiom.private|Axiom.private]] 
 
-### #is_/same_as :: [Axiom.personal](/_personal/Mathematics/Axiom.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Axiom.personal|Axiom.personal]] 
 
-### #is_/same_as :: [Axiom.secret](/_secret/Mathematics/Axiom.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Axiom.secret|Axiom.secret]] 
 

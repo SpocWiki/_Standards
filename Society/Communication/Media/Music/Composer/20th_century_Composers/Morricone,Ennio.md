@@ -157,17 +157,17 @@ work_period_end_: 2020-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morricone,Ennio](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio|Morricone,Ennio]] 
 
-### #is_/same_as :: [Morricone,Ennio.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.public|Morricone,Ennio.public]] 
 
-### #is_/same_as :: [Morricone,Ennio.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.internal|Morricone,Ennio.internal]] 
 
-### #is_/same_as :: [Morricone,Ennio.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.protect|Morricone,Ennio.protect]] 
 
-### #is_/same_as :: [Morricone,Ennio.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.private|Morricone,Ennio.private]] 
 
-### #is_/same_as :: [Morricone,Ennio.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.personal|Morricone,Ennio.personal]] 
 
-### #is_/same_as :: [Morricone,Ennio.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Morricone,Ennio.secret|Morricone,Ennio.secret]] 
 

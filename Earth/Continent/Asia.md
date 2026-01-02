@@ -207,17 +207,17 @@ markerFile: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Asia](/_Standards/Earth/Continent/Asia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia|Asia]] 
 
-### #is_/same_as :: [Asia.public](/_public/Earth/Continent/Asia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia.public|Asia.public]] 
 
-### #is_/same_as :: [Asia.internal](/_internal/Earth/Continent/Asia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia.internal|Asia.internal]] 
 
-### #is_/same_as :: [Asia.protect](/_protect/Earth/Continent/Asia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia.protect|Asia.protect]] 
 
-### #is_/same_as :: [Asia.private](/_private/Earth/Continent/Asia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia.private|Asia.private]] 
 
-### #is_/same_as :: [Asia.personal](/_personal/Earth/Continent/Asia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia.personal|Asia.personal]] 
 
-### #is_/same_as :: [Asia.secret](/_secret/Earth/Continent/Asia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia.secret|Asia.secret]] 
 

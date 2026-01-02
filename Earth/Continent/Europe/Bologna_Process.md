@@ -39,17 +39,17 @@ Commons_category: Bologna process
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bologna_Process](/_Standards/Earth/Continent/Europe/Bologna_Process.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Bologna_Process|Bologna_Process]] 
 
-### #is_/same_as :: [Bologna_Process.public](/_public/Earth/Continent/Europe/Bologna_Process.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Bologna_Process.public|Bologna_Process.public]] 
 
-### #is_/same_as :: [Bologna_Process.internal](/_internal/Earth/Continent/Europe/Bologna_Process.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Bologna_Process.internal|Bologna_Process.internal]] 
 
-### #is_/same_as :: [Bologna_Process.protect](/_protect/Earth/Continent/Europe/Bologna_Process.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Bologna_Process.protect|Bologna_Process.protect]] 
 
-### #is_/same_as :: [Bologna_Process.private](/_private/Earth/Continent/Europe/Bologna_Process.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Bologna_Process.private|Bologna_Process.private]] 
 
-### #is_/same_as :: [Bologna_Process.personal](/_personal/Earth/Continent/Europe/Bologna_Process.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Bologna_Process.personal|Bologna_Process.personal]] 
 
-### #is_/same_as :: [Bologna_Process.secret](/_secret/Earth/Continent/Europe/Bologna_Process.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]] 
 

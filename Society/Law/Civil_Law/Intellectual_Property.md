@@ -86,17 +86,17 @@ GitHub_topic: intellectual-property
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Intellectual_Property](/_Standards/Society/Law/Civil_Law/Intellectual_Property.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Intellectual_Property|Intellectual_Property]] 
 
-### #is_/same_as :: [Intellectual_Property.public](/_public/Society/Law/Civil_Law/Intellectual_Property.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Intellectual_Property.public|Intellectual_Property.public]] 
 
-### #is_/same_as :: [Intellectual_Property.internal](/_internal/Society/Law/Civil_Law/Intellectual_Property.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Intellectual_Property.internal|Intellectual_Property.internal]] 
 
-### #is_/same_as :: [Intellectual_Property.protect](/_protect/Society/Law/Civil_Law/Intellectual_Property.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Intellectual_Property.protect|Intellectual_Property.protect]] 
 
-### #is_/same_as :: [Intellectual_Property.private](/_private/Society/Law/Civil_Law/Intellectual_Property.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Intellectual_Property.private|Intellectual_Property.private]] 
 
-### #is_/same_as :: [Intellectual_Property.personal](/_personal/Society/Law/Civil_Law/Intellectual_Property.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Intellectual_Property.personal|Intellectual_Property.personal]] 
 
-### #is_/same_as :: [Intellectual_Property.secret](/_secret/Society/Law/Civil_Law/Intellectual_Property.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Intellectual_Property.secret|Intellectual_Property.secret]] 
 

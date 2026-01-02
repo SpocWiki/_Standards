@@ -40,17 +40,17 @@ Organization: Non-governmental Organization.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [NGO(Non-Government-Org)](/_Standards/Society/Agent/Community/Organization/NGO(Non-Government-Org).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/NGO(Non-Government-Org)|NGO(Non-Government-Org)]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).public](/_public/Society/Agent/Community/Organization/NGO(Non-Government-Org).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/NGO(Non-Government-Org).public|NGO(Non-Government-Org).public]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).internal](/_internal/Society/Agent/Community/Organization/NGO(Non-Government-Org).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/NGO(Non-Government-Org).internal|NGO(Non-Government-Org).internal]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).protect](/_protect/Society/Agent/Community/Organization/NGO(Non-Government-Org).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/NGO(Non-Government-Org).protect|NGO(Non-Government-Org).protect]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).private](/_private/Society/Agent/Community/Organization/NGO(Non-Government-Org).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/NGO(Non-Government-Org).private|NGO(Non-Government-Org).private]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).personal](/_personal/Society/Agent/Community/Organization/NGO(Non-Government-Org).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/NGO(Non-Government-Org).personal|NGO(Non-Government-Org).personal]] 
 
-### #is_/same_as :: [NGO(Non-Government-Org).secret](/_secret/Society/Agent/Community/Organization/NGO(Non-Government-Org).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/NGO(Non-Government-Org).secret|NGO(Non-Government-Org).secret]] 
 

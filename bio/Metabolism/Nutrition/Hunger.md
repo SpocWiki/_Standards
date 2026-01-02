@@ -48,17 +48,17 @@ Iconclass_notation: 41C119
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hunger](/_Standards/bio/Metabolism/Nutrition/Hunger.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunger|Hunger]] 
 
-### #is_/same_as :: [Hunger.public](/_public/bio/Metabolism/Nutrition/Hunger.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Hunger.public|Hunger.public]] 
 
-### #is_/same_as :: [Hunger.internal](/_internal/bio/Metabolism/Nutrition/Hunger.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Hunger.internal|Hunger.internal]] 
 
-### #is_/same_as :: [Hunger.protect](/_protect/bio/Metabolism/Nutrition/Hunger.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Hunger.protect|Hunger.protect]] 
 
-### #is_/same_as :: [Hunger.private](/_private/bio/Metabolism/Nutrition/Hunger.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Hunger.private|Hunger.private]] 
 
-### #is_/same_as :: [Hunger.personal](/_personal/bio/Metabolism/Nutrition/Hunger.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Hunger.personal|Hunger.personal]] 
 
-### #is_/same_as :: [Hunger.secret](/_secret/bio/Metabolism/Nutrition/Hunger.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Hunger.secret|Hunger.secret]] 
 

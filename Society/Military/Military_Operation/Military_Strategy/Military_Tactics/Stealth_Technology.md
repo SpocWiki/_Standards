@@ -26,17 +26,17 @@ Commons_category: Stealth technology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stealth_Technology](/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology|Stealth_Technology]] 
 
-### #is_/same_as :: [Stealth_Technology.public](/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.public|Stealth_Technology.public]] 
 
-### #is_/same_as :: [Stealth_Technology.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.internal|Stealth_Technology.internal]] 
 
-### #is_/same_as :: [Stealth_Technology.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.protect|Stealth_Technology.protect]] 
 
-### #is_/same_as :: [Stealth_Technology.private](/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.private|Stealth_Technology.private]] 
 
-### #is_/same_as :: [Stealth_Technology.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.personal|Stealth_Technology.personal]] 
 
-### #is_/same_as :: [Stealth_Technology.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Military_Tactics/Stealth_Technology.secret|Stealth_Technology.secret]] 
 

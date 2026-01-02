@@ -56,17 +56,17 @@ ICD_10_CM: S00.T98
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Injury](/_Standards/bio/Medicine/Medical_Condition/Injury.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Injury|Injury]] 
 
-### #is_/same_as :: [Injury.public](/_public/bio/Medicine/Medical_Condition/Injury.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Injury.public|Injury.public]] 
 
-### #is_/same_as :: [Injury.internal](/_internal/bio/Medicine/Medical_Condition/Injury.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Injury.internal|Injury.internal]] 
 
-### #is_/same_as :: [Injury.protect](/_protect/bio/Medicine/Medical_Condition/Injury.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Injury.protect|Injury.protect]] 
 
-### #is_/same_as :: [Injury.private](/_private/bio/Medicine/Medical_Condition/Injury.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Injury.private|Injury.private]] 
 
-### #is_/same_as :: [Injury.personal](/_personal/bio/Medicine/Medical_Condition/Injury.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Injury.personal|Injury.personal]] 
 
-### #is_/same_as :: [Injury.secret](/_secret/bio/Medicine/Medical_Condition/Injury.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Injury.secret|Injury.secret]] 
 

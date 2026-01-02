@@ -42,17 +42,17 @@ Also known as a panel study. A cohort study is a form of longitudinal study used
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cohort_Study](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study|Cohort_Study]] 
 
-### #is_/same_as :: [Cohort_Study.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.public|Cohort_Study.public]] 
 
-### #is_/same_as :: [Cohort_Study.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.internal|Cohort_Study.internal]] 
 
-### #is_/same_as :: [Cohort_Study.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.protect|Cohort_Study.protect]] 
 
-### #is_/same_as :: [Cohort_Study.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.private|Cohort_Study.private]] 
 
-### #is_/same_as :: [Cohort_Study.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.personal|Cohort_Study.personal]] 
 
-### #is_/same_as :: [Cohort_Study.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Observational_Study_Design/Cohort_Study.secret|Cohort_Study.secret]] 
 

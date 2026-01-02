@@ -40,17 +40,17 @@ markerFolder: ./Baiti/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baiti](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti|Baiti]] 
 
-### #is_/same_as :: [Baiti.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.public|Baiti.public]] 
 
-### #is_/same_as :: [Baiti.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.internal|Baiti.internal]] 
 
-### #is_/same_as :: [Baiti.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.protect|Baiti.protect]] 
 
-### #is_/same_as :: [Baiti.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.private|Baiti.private]] 
 
-### #is_/same_as :: [Baiti.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.personal|Baiti.personal]] 
 
-### #is_/same_as :: [Baiti.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Baiti.secret|Baiti.secret]] 
 

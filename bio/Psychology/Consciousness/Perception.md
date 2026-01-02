@@ -80,17 +80,17 @@ MeSH_tree_code: F02.463.593
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Perception](/_Standards/bio/Psychology/Consciousness/Perception.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Consciousness/Perception|Perception]] 
 
-### #is_/same_as :: [Perception.public](/_public/bio/Psychology/Consciousness/Perception.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Consciousness/Perception.public|Perception.public]] 
 
-### #is_/same_as :: [Perception.internal](/_internal/bio/Psychology/Consciousness/Perception.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Consciousness/Perception.internal|Perception.internal]] 
 
-### #is_/same_as :: [Perception.protect](/_protect/bio/Psychology/Consciousness/Perception.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Consciousness/Perception.protect|Perception.protect]] 
 
-### #is_/same_as :: [Perception.private](/_private/bio/Psychology/Consciousness/Perception.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Consciousness/Perception.private|Perception.private]] 
 
-### #is_/same_as :: [Perception.personal](/_personal/bio/Psychology/Consciousness/Perception.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Consciousness/Perception.personal|Perception.personal]] 
 
-### #is_/same_as :: [Perception.secret](/_secret/bio/Psychology/Consciousness/Perception.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Consciousness/Perception.secret|Perception.secret]] 
 

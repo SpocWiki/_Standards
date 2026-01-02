@@ -42,17 +42,17 @@ Book format: Audiobook. This is an enumerated value for use with the bookFormat 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audiobook_Format](/_Standards/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Book_Format_Type/Audiobook_Format|Audiobook_Format]] 
 
-### #is_/same_as :: [Audiobook_Format.public](/_public/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.public|Audiobook_Format.public]] 
 
-### #is_/same_as :: [Audiobook_Format.internal](/_internal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.internal|Audiobook_Format.internal]] 
 
-### #is_/same_as :: [Audiobook_Format.protect](/_protect/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.protect|Audiobook_Format.protect]] 
 
-### #is_/same_as :: [Audiobook_Format.private](/_private/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.private|Audiobook_Format.private]] 
 
-### #is_/same_as :: [Audiobook_Format.personal](/_personal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.personal|Audiobook_Format.personal]] 
 
-### #is_/same_as :: [Audiobook_Format.secret](/_secret/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Book_Format_Type/Audiobook_Format.secret|Audiobook_Format.secret]] 
 

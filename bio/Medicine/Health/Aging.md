@@ -71,17 +71,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aging](/_Standards/bio/Medicine/Health/Aging.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Aging|Aging]] 
 
-### #is_/same_as :: [Aging.public](/_public/bio/Medicine/Health/Aging.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Aging.public|Aging.public]] 
 
-### #is_/same_as :: [Aging.internal](/_internal/bio/Medicine/Health/Aging.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Aging.internal|Aging.internal]] 
 
-### #is_/same_as :: [Aging.protect](/_protect/bio/Medicine/Health/Aging.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Aging.protect|Aging.protect]] 
 
-### #is_/same_as :: [Aging.private](/_private/bio/Medicine/Health/Aging.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Aging.private|Aging.private]] 
 
-### #is_/same_as :: [Aging.personal](/_personal/bio/Medicine/Health/Aging.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Aging.personal|Aging.personal]] 
 
-### #is_/same_as :: [Aging.secret](/_secret/bio/Medicine/Health/Aging.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Aging.secret|Aging.secret]] 
 

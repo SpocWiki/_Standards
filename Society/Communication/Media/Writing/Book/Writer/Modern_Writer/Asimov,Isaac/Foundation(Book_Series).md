@@ -55,17 +55,17 @@ Actors:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Foundation(Book_Series)](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series)|Foundation(Book_Series)]] 
 
-### #is_/same_as :: [Foundation(Book_Series).public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).public|Foundation(Book_Series).public]] 
 
-### #is_/same_as :: [Foundation(Book_Series).internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).internal|Foundation(Book_Series).internal]] 
 
-### #is_/same_as :: [Foundation(Book_Series).protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).protect|Foundation(Book_Series).protect]] 
 
-### #is_/same_as :: [Foundation(Book_Series).private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).private|Foundation(Book_Series).private]] 
 
-### #is_/same_as :: [Foundation(Book_Series).personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).personal|Foundation(Book_Series).personal]] 
 
-### #is_/same_as :: [Foundation(Book_Series).secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).secret|Foundation(Book_Series).secret]] 
 

@@ -11,17 +11,17 @@ of the [[../../Mathematics/Geometry/Geometry-2D/Triangle/Angle]] by [[../Dim~Tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Angular_Acceleration](/_Standards/Dimension/Angular_Dimension/Angular_Acceleration.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Angular_Dimension/Angular_Acceleration|Angular_Acceleration]] 
 
-### #is_/same_as :: [Angular_Acceleration.public](/_public/Dimension/Angular_Dimension/Angular_Acceleration.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Angular_Dimension/Angular_Acceleration.public|Angular_Acceleration.public]] 
 
-### #is_/same_as :: [Angular_Acceleration.internal](/_internal/Dimension/Angular_Dimension/Angular_Acceleration.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Angular_Dimension/Angular_Acceleration.internal|Angular_Acceleration.internal]] 
 
-### #is_/same_as :: [Angular_Acceleration.protect](/_protect/Dimension/Angular_Dimension/Angular_Acceleration.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Angular_Dimension/Angular_Acceleration.protect|Angular_Acceleration.protect]] 
 
-### #is_/same_as :: [Angular_Acceleration.private](/_private/Dimension/Angular_Dimension/Angular_Acceleration.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Angular_Dimension/Angular_Acceleration.private|Angular_Acceleration.private]] 
 
-### #is_/same_as :: [Angular_Acceleration.personal](/_personal/Dimension/Angular_Dimension/Angular_Acceleration.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Angular_Dimension/Angular_Acceleration.personal|Angular_Acceleration.personal]] 
 
-### #is_/same_as :: [Angular_Acceleration.secret](/_secret/Dimension/Angular_Dimension/Angular_Acceleration.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Angular_Dimension/Angular_Acceleration.secret|Angular_Acceleration.secret]] 
 

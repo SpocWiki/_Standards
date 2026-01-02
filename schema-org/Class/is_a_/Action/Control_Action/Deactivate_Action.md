@@ -41,17 +41,17 @@ The act of stopping or deactivating a device or application (e.g. stopping a tim
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deactivate_Action](/_Standards/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action|Deactivate_Action]] 
 
-### #is_/same_as :: [Deactivate_Action.public](/_public/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.public|Deactivate_Action.public]] 
 
-### #is_/same_as :: [Deactivate_Action.internal](/_internal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.internal|Deactivate_Action.internal]] 
 
-### #is_/same_as :: [Deactivate_Action.protect](/_protect/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.protect|Deactivate_Action.protect]] 
 
-### #is_/same_as :: [Deactivate_Action.private](/_private/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.private|Deactivate_Action.private]] 
 
-### #is_/same_as :: [Deactivate_Action.personal](/_personal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.personal|Deactivate_Action.personal]] 
 
-### #is_/same_as :: [Deactivate_Action.secret](/_secret/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Control_Action/Deactivate_Action.secret|Deactivate_Action.secret]] 
 

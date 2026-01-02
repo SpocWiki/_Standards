@@ -76,17 +76,17 @@ Krugosvet_article_archived_: sport/kikboksing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kickboxing](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing|Kickboxing]] 
 
-### #is_/same_as :: [Kickboxing.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.public|Kickboxing.public]] 
 
-### #is_/same_as :: [Kickboxing.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.internal|Kickboxing.internal]] 
 
-### #is_/same_as :: [Kickboxing.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.protect|Kickboxing.protect]] 
 
-### #is_/same_as :: [Kickboxing.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.private|Kickboxing.private]] 
 
-### #is_/same_as :: [Kickboxing.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.personal|Kickboxing.personal]] 
 
-### #is_/same_as :: [Kickboxing.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Combat_Sport/Kickboxing.secret|Kickboxing.secret]] 
 

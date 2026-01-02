@@ -72,17 +72,17 @@ Dewey_Decimal_Classification: "983.0616"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879|1884-War_of_the_Pacific+1879]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.public|1884-War_of_the_Pacific+1879.public]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.internal|1884-War_of_the_Pacific+1879.internal]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.protect|1884-War_of_the_Pacific+1879.protect]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.private|1884-War_of_the_Pacific+1879.private]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.personal|1884-War_of_the_Pacific+1879.personal]] 
 
-### #is_/same_as :: [1884-War_of_the_Pacific+1879.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1800/1884-War_of_the_Pacific+1879.secret|1884-War_of_the_Pacific+1879.secret]] 
 

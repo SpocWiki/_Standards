@@ -63,17 +63,17 @@ MeSH_tree_code: V02.070
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Public_Speaking](/_Standards/Society/Politics/Public_Speaking.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Public_Speaking|Public_Speaking]] 
 
-### #is_/same_as :: [Public_Speaking.public](/_public/Society/Politics/Public_Speaking.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Public_Speaking.public|Public_Speaking.public]] 
 
-### #is_/same_as :: [Public_Speaking.internal](/_internal/Society/Politics/Public_Speaking.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Public_Speaking.internal|Public_Speaking.internal]] 
 
-### #is_/same_as :: [Public_Speaking.protect](/_protect/Society/Politics/Public_Speaking.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Public_Speaking.protect|Public_Speaking.protect]] 
 
-### #is_/same_as :: [Public_Speaking.private](/_private/Society/Politics/Public_Speaking.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Public_Speaking.private|Public_Speaking.private]] 
 
-### #is_/same_as :: [Public_Speaking.personal](/_personal/Society/Politics/Public_Speaking.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Public_Speaking.personal|Public_Speaking.personal]] 
 
-### #is_/same_as :: [Public_Speaking.secret](/_secret/Society/Politics/Public_Speaking.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Public_Speaking.secret|Public_Speaking.secret]] 
 

@@ -534,17 +534,17 @@ Capital :: [[Praha]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Czech_Republic](/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~Central/Czech_Republic|Czech_Republic]] 
 
-### #is_/same_as :: [Czech_Republic.public](/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~Central/Czech_Republic.public|Czech_Republic.public]] 
 
-### #is_/same_as :: [Czech_Republic.internal](/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~Central/Czech_Republic.internal|Czech_Republic.internal]] 
 
-### #is_/same_as :: [Czech_Republic.protect](/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~Central/Czech_Republic.protect|Czech_Republic.protect]] 
 
-### #is_/same_as :: [Czech_Republic.private](/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~Central/Czech_Republic.private|Czech_Republic.private]] 
 
-### #is_/same_as :: [Czech_Republic.personal](/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~Central/Czech_Republic.personal|Czech_Republic.personal]] 
 
-### #is_/same_as :: [Czech_Republic.secret](/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~Central/Czech_Republic.secret|Czech_Republic.secret]] 
 

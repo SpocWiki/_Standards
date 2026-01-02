@@ -198,17 +198,17 @@ work_period_start_: 1893
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wright,Frank_Lloyd](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd|Wright,Frank_Lloyd]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.public|Wright,Frank_Lloyd.public]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.internal|Wright,Frank_Lloyd.internal]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.protect|Wright,Frank_Lloyd.protect]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.private|Wright,Frank_Lloyd.private]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.personal|Wright,Frank_Lloyd.personal]] 
 
-### #is_/same_as :: [Wright,Frank_Lloyd.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Wright,Frank_Lloyd.secret|Wright,Frank_Lloyd.secret]] 
 

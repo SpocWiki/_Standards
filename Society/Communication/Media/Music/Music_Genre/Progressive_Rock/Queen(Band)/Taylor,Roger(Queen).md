@@ -115,17 +115,17 @@ Plex_person_key: 5d776844880197001ec962f7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Taylor,Roger(Queen)](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen)|Taylor,Roger(Queen)]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).public|Taylor,Roger(Queen).public]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).internal|Taylor,Roger(Queen).internal]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).protect|Taylor,Roger(Queen).protect]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).private|Taylor,Roger(Queen).private]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).personal|Taylor,Roger(Queen).personal]] 
 
-### #is_/same_as :: [Taylor,Roger(Queen).secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Queen(Band)/Taylor,Roger(Queen).secret|Taylor,Roger(Queen).secret]] 
 

@@ -96,17 +96,17 @@ date_of_birth: 1925-02-20T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Altman,Robert](/_Standards/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Altman,Robert|Altman,Robert]] 
 
-### #is_/same_as :: [Altman,Robert.public](/_public/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.public|Altman,Robert.public]] 
 
-### #is_/same_as :: [Altman,Robert.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.internal|Altman,Robert.internal]] 
 
-### #is_/same_as :: [Altman,Robert.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.protect|Altman,Robert.protect]] 
 
-### #is_/same_as :: [Altman,Robert.private](/_private/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.private|Altman,Robert.private]] 
 
-### #is_/same_as :: [Altman,Robert.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.personal|Altman,Robert.personal]] 
 
-### #is_/same_as :: [Altman,Robert.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Altman,Robert.secret|Altman,Robert.secret]] 
 

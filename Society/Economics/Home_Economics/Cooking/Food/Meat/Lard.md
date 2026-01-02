@@ -56,17 +56,17 @@ UNII: SI6O3IW77Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lard](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard|Lard]] 
 
-### #is_/same_as :: [Lard.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.public|Lard.public]] 
 
-### #is_/same_as :: [Lard.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.internal|Lard.internal]] 
 
-### #is_/same_as :: [Lard.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.protect|Lard.protect]] 
 
-### #is_/same_as :: [Lard.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.private|Lard.private]] 
 
-### #is_/same_as :: [Lard.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.personal|Lard.personal]] 
 
-### #is_/same_as :: [Lard.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Meat/Lard.secret|Lard.secret]] 
 

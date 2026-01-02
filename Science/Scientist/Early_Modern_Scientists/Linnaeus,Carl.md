@@ -248,17 +248,17 @@ work_period_start_: 1722
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linnaeus,Carl](/_Standards/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl|Linnaeus,Carl]] 
 
-### #is_/same_as :: [Linnaeus,Carl.public](/_public/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.public|Linnaeus,Carl.public]] 
 
-### #is_/same_as :: [Linnaeus,Carl.internal](/_internal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.internal|Linnaeus,Carl.internal]] 
 
-### #is_/same_as :: [Linnaeus,Carl.protect](/_protect/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.protect|Linnaeus,Carl.protect]] 
 
-### #is_/same_as :: [Linnaeus,Carl.private](/_private/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.private|Linnaeus,Carl.private]] 
 
-### #is_/same_as :: [Linnaeus,Carl.personal](/_personal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.personal|Linnaeus,Carl.personal]] 
 
-### #is_/same_as :: [Linnaeus,Carl.secret](/_secret/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Early_Modern_Scientists/Linnaeus,Carl.secret|Linnaeus,Carl.secret]] 
 

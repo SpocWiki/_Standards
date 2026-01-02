@@ -191,17 +191,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shelley,Mary](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary|Shelley,Mary]] 
 
-### #is_/same_as :: [Shelley,Mary.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.public|Shelley,Mary.public]] 
 
-### #is_/same_as :: [Shelley,Mary.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.internal|Shelley,Mary.internal]] 
 
-### #is_/same_as :: [Shelley,Mary.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.protect|Shelley,Mary.protect]] 
 
-### #is_/same_as :: [Shelley,Mary.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.private|Shelley,Mary.private]] 
 
-### #is_/same_as :: [Shelley,Mary.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.personal|Shelley,Mary.personal]] 
 
-### #is_/same_as :: [Shelley,Mary.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Shelley,Mary.secret|Shelley,Mary.secret]] 
 

@@ -43,17 +43,17 @@ Commons_category: Rhombi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rhombus](/_Standards/Mathematics/Geometry/Geometry-2D/Rhombus.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-2D/Rhombus|Rhombus]] 
 
-### #is_/same_as :: [Rhombus.public](/_public/Mathematics/Geometry/Geometry-2D/Rhombus.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-2D/Rhombus.public|Rhombus.public]] 
 
-### #is_/same_as :: [Rhombus.internal](/_internal/Mathematics/Geometry/Geometry-2D/Rhombus.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-2D/Rhombus.internal|Rhombus.internal]] 
 
-### #is_/same_as :: [Rhombus.protect](/_protect/Mathematics/Geometry/Geometry-2D/Rhombus.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-2D/Rhombus.protect|Rhombus.protect]] 
 
-### #is_/same_as :: [Rhombus.private](/_private/Mathematics/Geometry/Geometry-2D/Rhombus.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-2D/Rhombus.private|Rhombus.private]] 
 
-### #is_/same_as :: [Rhombus.personal](/_personal/Mathematics/Geometry/Geometry-2D/Rhombus.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-2D/Rhombus.personal|Rhombus.personal]] 
 
-### #is_/same_as :: [Rhombus.secret](/_secret/Mathematics/Geometry/Geometry-2D/Rhombus.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-2D/Rhombus.secret|Rhombus.secret]] 
 

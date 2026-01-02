@@ -69,17 +69,17 @@ dv_is_opposite_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wholesale](/_Standards/Society/Agent/Community/Organization/Company/Corporation/Wholesale.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/Wholesale|Wholesale]] 
 
-### #is_/same_as :: [Wholesale.public](/_public/Society/Agent/Community/Organization/Company/Corporation/Wholesale.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/Wholesale.public|Wholesale.public]] 
 
-### #is_/same_as :: [Wholesale.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/Wholesale.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/Wholesale.internal|Wholesale.internal]] 
 
-### #is_/same_as :: [Wholesale.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/Wholesale.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/Wholesale.protect|Wholesale.protect]] 
 
-### #is_/same_as :: [Wholesale.private](/_private/Society/Agent/Community/Organization/Company/Corporation/Wholesale.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/Wholesale.private|Wholesale.private]] 
 
-### #is_/same_as :: [Wholesale.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/Wholesale.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/Wholesale.personal|Wholesale.personal]] 
 
-### #is_/same_as :: [Wholesale.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/Wholesale.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/Wholesale.secret|Wholesale.secret]] 
 

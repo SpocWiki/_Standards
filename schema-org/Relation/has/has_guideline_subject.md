@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_guideline_subject](/_Standards/schema-org/Relation/has/has_guideline_subject.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_guideline_subject|has_guideline_subject]] 
 
-### #is_/same_as :: [has_guideline_subject.public](/_public/schema-org/Relation/has/has_guideline_subject.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_guideline_subject.public|has_guideline_subject.public]] 
 
-### #is_/same_as :: [has_guideline_subject.internal](/_internal/schema-org/Relation/has/has_guideline_subject.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_guideline_subject.internal|has_guideline_subject.internal]] 
 
-### #is_/same_as :: [has_guideline_subject.protect](/_protect/schema-org/Relation/has/has_guideline_subject.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_guideline_subject.protect|has_guideline_subject.protect]] 
 
-### #is_/same_as :: [has_guideline_subject.private](/_private/schema-org/Relation/has/has_guideline_subject.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_guideline_subject.private|has_guideline_subject.private]] 
 
-### #is_/same_as :: [has_guideline_subject.personal](/_personal/schema-org/Relation/has/has_guideline_subject.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_guideline_subject.personal|has_guideline_subject.personal]] 
 
-### #is_/same_as :: [has_guideline_subject.secret](/_secret/schema-org/Relation/has/has_guideline_subject.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_guideline_subject.secret|has_guideline_subject.secret]] 
 

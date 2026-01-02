@@ -114,17 +114,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Super-Eon~Precambrian](/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Super-Eon~Precambrian|Super-Eon~Precambrian]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.public](/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Super-Eon~Precambrian.public|Super-Eon~Precambrian.public]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.internal](/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Super-Eon~Precambrian.internal|Super-Eon~Precambrian.internal]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.protect](/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Super-Eon~Precambrian.protect|Super-Eon~Precambrian.protect]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.private](/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Super-Eon~Precambrian.private|Super-Eon~Precambrian.private]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.personal](/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Super-Eon~Precambrian.personal|Super-Eon~Precambrian.personal]] 
 
-### #is_/same_as :: [Super-Eon~Precambrian.secret](/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Super-Eon~Precambrian.secret|Super-Eon~Precambrian.secret]] 
 

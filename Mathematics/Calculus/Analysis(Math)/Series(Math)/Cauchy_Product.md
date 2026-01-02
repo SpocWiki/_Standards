@@ -18,17 +18,17 @@ with ${c_{k}=\sum _{l=0}^{k}a_{l}b_{k-l}}$ .
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cauchy_Product](/_Standards/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product|Cauchy_Product]] 
 
-### #is_/same_as :: [Cauchy_Product.public](/_public/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.public|Cauchy_Product.public]] 
 
-### #is_/same_as :: [Cauchy_Product.internal](/_internal/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.internal|Cauchy_Product.internal]] 
 
-### #is_/same_as :: [Cauchy_Product.protect](/_protect/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.protect|Cauchy_Product.protect]] 
 
-### #is_/same_as :: [Cauchy_Product.private](/_private/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.private|Cauchy_Product.private]] 
 
-### #is_/same_as :: [Cauchy_Product.personal](/_personal/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.personal|Cauchy_Product.personal]] 
 
-### #is_/same_as :: [Cauchy_Product.secret](/_secret/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Calculus/Analysis(Math)/Series(Math)/Cauchy_Product.secret|Cauchy_Product.secret]] 
 

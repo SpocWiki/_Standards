@@ -48,17 +48,17 @@ taxon_name: Zingiber
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zingiber](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber|Zingiber]] 
 
-### #is_/same_as :: [Zingiber.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.public|Zingiber.public]] 
 
-### #is_/same_as :: [Zingiber.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.internal|Zingiber.internal]] 
 
-### #is_/same_as :: [Zingiber.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.protect|Zingiber.protect]] 
 
-### #is_/same_as :: [Zingiber.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.private|Zingiber.private]] 
 
-### #is_/same_as :: [Zingiber.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.personal|Zingiber.personal]] 
 
-### #is_/same_as :: [Zingiber.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Monocot/Zingiberales/Zingiberaceae/Zingiber.secret|Zingiber.secret]] 
 

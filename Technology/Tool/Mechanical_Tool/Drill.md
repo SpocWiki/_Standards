@@ -42,17 +42,17 @@ Iconclass_notation: 47D8(DRILL)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drill](/_Standards/Technology/Tool/Mechanical_Tool/Drill.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Drill|Drill]] 
 
-### #is_/same_as :: [Drill.public](/_public/Technology/Tool/Mechanical_Tool/Drill.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Drill.public|Drill.public]] 
 
-### #is_/same_as :: [Drill.internal](/_internal/Technology/Tool/Mechanical_Tool/Drill.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Drill.internal|Drill.internal]] 
 
-### #is_/same_as :: [Drill.protect](/_protect/Technology/Tool/Mechanical_Tool/Drill.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Drill.protect|Drill.protect]] 
 
-### #is_/same_as :: [Drill.private](/_private/Technology/Tool/Mechanical_Tool/Drill.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Drill.private|Drill.private]] 
 
-### #is_/same_as :: [Drill.personal](/_personal/Technology/Tool/Mechanical_Tool/Drill.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Drill.personal|Drill.personal]] 
 
-### #is_/same_as :: [Drill.secret](/_secret/Technology/Tool/Mechanical_Tool/Drill.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Drill.secret|Drill.secret]] 
 

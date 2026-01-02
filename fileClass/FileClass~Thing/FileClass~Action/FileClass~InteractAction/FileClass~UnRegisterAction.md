@@ -42,17 +42,17 @@ Related actions:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~UnRegisterAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction|FileClass~UnRegisterAction]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.public|FileClass~UnRegisterAction.public]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.internal|FileClass~UnRegisterAction.internal]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.protect|FileClass~UnRegisterAction.protect]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.private|FileClass~UnRegisterAction.private]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.personal|FileClass~UnRegisterAction.personal]] 
 
-### #is_/same_as :: [FileClass~UnRegisterAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~InteractAction/FileClass~UnRegisterAction.secret|FileClass~UnRegisterAction.secret]] 
 

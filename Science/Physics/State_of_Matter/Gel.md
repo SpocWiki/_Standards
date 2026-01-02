@@ -32,17 +32,17 @@ Commons_category: Gels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gel](/_Standards/Science/Physics/State_of_Matter/Gel.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Gel|Gel]] 
 
-### #is_/same_as :: [Gel.public](/_public/Science/Physics/State_of_Matter/Gel.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Gel.public|Gel.public]] 
 
-### #is_/same_as :: [Gel.internal](/_internal/Science/Physics/State_of_Matter/Gel.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Gel.internal|Gel.internal]] 
 
-### #is_/same_as :: [Gel.protect](/_protect/Science/Physics/State_of_Matter/Gel.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Gel.protect|Gel.protect]] 
 
-### #is_/same_as :: [Gel.private](/_private/Science/Physics/State_of_Matter/Gel.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Gel.private|Gel.private]] 
 
-### #is_/same_as :: [Gel.personal](/_personal/Science/Physics/State_of_Matter/Gel.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Gel.personal|Gel.personal]] 
 
-### #is_/same_as :: [Gel.secret](/_secret/Science/Physics/State_of_Matter/Gel.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Gel.secret|Gel.secret]] 
 

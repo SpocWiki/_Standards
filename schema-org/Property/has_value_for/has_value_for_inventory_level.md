@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_inventory_level](/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_inventory_level|has_value_for_inventory_level]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.public](/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_inventory_level.public|has_value_for_inventory_level.public]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.internal](/_internal/schema-org/Property/has_value_for/has_value_for_inventory_level.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_inventory_level.internal|has_value_for_inventory_level.internal]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.protect](/_protect/schema-org/Property/has_value_for/has_value_for_inventory_level.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_inventory_level.protect|has_value_for_inventory_level.protect]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.private](/_private/schema-org/Property/has_value_for/has_value_for_inventory_level.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_inventory_level.private|has_value_for_inventory_level.private]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.personal](/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_inventory_level.personal|has_value_for_inventory_level.personal]] 
 
-### #is_/same_as :: [has_value_for_inventory_level.secret](/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_inventory_level.secret|has_value_for_inventory_level.secret]] 
 

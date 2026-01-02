@@ -43,17 +43,17 @@ For a given health insurance plan, the specification for costs and coverage of p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Health_Plan_Formulary](/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary|Health_Plan_Formulary]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.public](/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.public|Health_Plan_Formulary.public]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.internal](/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.internal|Health_Plan_Formulary.internal]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.protect](/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.protect|Health_Plan_Formulary.protect]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.private](/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.private|Health_Plan_Formulary.private]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.personal](/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.personal|Health_Plan_Formulary.personal]] 
 
-### #is_/same_as :: [Health_Plan_Formulary.secret](/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Health_Plan_Formulary.secret|Health_Plan_Formulary.secret]] 
 

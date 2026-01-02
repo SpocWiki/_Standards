@@ -17,17 +17,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Caliphate](/_Standards/Society/Politics/Government/Caliphate.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Caliphate|Caliphate]] 
 
-### #is_/same_as :: [Caliphate.public](/_public/Society/Politics/Government/Caliphate.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Caliphate.public|Caliphate.public]] 
 
-### #is_/same_as :: [Caliphate.internal](/_internal/Society/Politics/Government/Caliphate.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Caliphate.internal|Caliphate.internal]] 
 
-### #is_/same_as :: [Caliphate.protect](/_protect/Society/Politics/Government/Caliphate.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Caliphate.protect|Caliphate.protect]] 
 
-### #is_/same_as :: [Caliphate.private](/_private/Society/Politics/Government/Caliphate.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Caliphate.private|Caliphate.private]] 
 
-### #is_/same_as :: [Caliphate.personal](/_personal/Society/Politics/Government/Caliphate.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Caliphate.personal|Caliphate.personal]] 
 
-### #is_/same_as :: [Caliphate.secret](/_secret/Society/Politics/Government/Caliphate.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Caliphate.secret|Caliphate.secret]] 
 

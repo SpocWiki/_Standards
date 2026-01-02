@@ -72,17 +72,17 @@ mass_excess: 13135.72176
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deuterium](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|Deuterium]] 
 
-### #is_/same_as :: [Deuterium.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.public|Deuterium.public]] 
 
-### #is_/same_as :: [Deuterium.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.internal|Deuterium.internal]] 
 
-### #is_/same_as :: [Deuterium.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.protect|Deuterium.protect]] 
 
-### #is_/same_as :: [Deuterium.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.private|Deuterium.private]] 
 
-### #is_/same_as :: [Deuterium.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.personal|Deuterium.personal]] 
 
-### #is_/same_as :: [Deuterium.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.secret|Deuterium.secret]] 
 

@@ -66,17 +66,17 @@ writing_system: '[[_Standards/WikiData/WD~Brahmic_scripts,467037]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [LangFamily-Dravidian](/_Standards/Language/Language_Family/LangFamily-Dravidian.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Dravidian|LangFamily-Dravidian]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.public](/_public/Language/Language_Family/LangFamily-Dravidian.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Dravidian.public|LangFamily-Dravidian.public]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.internal](/_internal/Language/Language_Family/LangFamily-Dravidian.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Dravidian.internal|LangFamily-Dravidian.internal]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.protect](/_protect/Language/Language_Family/LangFamily-Dravidian.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Dravidian.protect|LangFamily-Dravidian.protect]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.private](/_private/Language/Language_Family/LangFamily-Dravidian.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Dravidian.private|LangFamily-Dravidian.private]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.personal](/_personal/Language/Language_Family/LangFamily-Dravidian.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Dravidian.personal|LangFamily-Dravidian.personal]] 
 
-### #is_/same_as :: [LangFamily-Dravidian.secret](/_secret/Language/Language_Family/LangFamily-Dravidian.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Dravidian.secret|LangFamily-Dravidian.secret]] 
 

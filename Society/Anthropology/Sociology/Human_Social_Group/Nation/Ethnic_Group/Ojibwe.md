@@ -92,17 +92,17 @@ Library_of_Congress_Classification: E99.C6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ojibwe](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe|Ojibwe]] 
 
-### #is_/same_as :: [Ojibwe.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.public|Ojibwe.public]] 
 
-### #is_/same_as :: [Ojibwe.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.internal|Ojibwe.internal]] 
 
-### #is_/same_as :: [Ojibwe.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.protect|Ojibwe.protect]] 
 
-### #is_/same_as :: [Ojibwe.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.private|Ojibwe.private]] 
 
-### #is_/same_as :: [Ojibwe.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.personal|Ojibwe.personal]] 
 
-### #is_/same_as :: [Ojibwe.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group/Ojibwe.secret|Ojibwe.secret]] 
 

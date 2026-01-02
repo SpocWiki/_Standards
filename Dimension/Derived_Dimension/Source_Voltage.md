@@ -75,3 +75,22 @@ short_name:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Electromotive%20force) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Source_Voltage|Source_Voltage]] 
+
+### #is_/same_as :: [[/_public/Dimension/Derived_Dimension/Source_Voltage.public|Source_Voltage.public]] 
+
+### #is_/same_as :: [[/_internal/Dimension/Derived_Dimension/Source_Voltage.internal|Source_Voltage.internal]] 
+
+### #is_/same_as :: [[/_protect/Dimension/Derived_Dimension/Source_Voltage.protect|Source_Voltage.protect]] 
+
+### #is_/same_as :: [[/_private/Dimension/Derived_Dimension/Source_Voltage.private|Source_Voltage.private]] 
+
+### #is_/same_as :: [[/_personal/Dimension/Derived_Dimension/Source_Voltage.personal|Source_Voltage.personal]] 
+
+### #is_/same_as :: [[/_secret/Dimension/Derived_Dimension/Source_Voltage.secret|Source_Voltage.secret]] 
+

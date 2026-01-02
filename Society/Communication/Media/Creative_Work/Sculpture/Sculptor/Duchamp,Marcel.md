@@ -201,17 +201,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Duchamp,Marcel](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel|Duchamp,Marcel]] 
 
-### #is_/same_as :: [Duchamp,Marcel.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.public|Duchamp,Marcel.public]] 
 
-### #is_/same_as :: [Duchamp,Marcel.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.internal|Duchamp,Marcel.internal]] 
 
-### #is_/same_as :: [Duchamp,Marcel.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.protect|Duchamp,Marcel.protect]] 
 
-### #is_/same_as :: [Duchamp,Marcel.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.private|Duchamp,Marcel.private]] 
 
-### #is_/same_as :: [Duchamp,Marcel.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.personal|Duchamp,Marcel.personal]] 
 
-### #is_/same_as :: [Duchamp,Marcel.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Duchamp,Marcel.secret|Duchamp,Marcel.secret]] 
 

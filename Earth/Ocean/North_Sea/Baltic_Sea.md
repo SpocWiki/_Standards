@@ -140,17 +140,17 @@ Libris_URI: wt798cbf4zqg1qp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baltic_Sea](/_Standards/Earth/Ocean/North_Sea/Baltic_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/North_Sea/Baltic_Sea|Baltic_Sea]] 
 
-### #is_/same_as :: [Baltic_Sea.public](/_public/Earth/Ocean/North_Sea/Baltic_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/North_Sea/Baltic_Sea.public|Baltic_Sea.public]] 
 
-### #is_/same_as :: [Baltic_Sea.internal](/_internal/Earth/Ocean/North_Sea/Baltic_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/North_Sea/Baltic_Sea.internal|Baltic_Sea.internal]] 
 
-### #is_/same_as :: [Baltic_Sea.protect](/_protect/Earth/Ocean/North_Sea/Baltic_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/North_Sea/Baltic_Sea.protect|Baltic_Sea.protect]] 
 
-### #is_/same_as :: [Baltic_Sea.private](/_private/Earth/Ocean/North_Sea/Baltic_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/North_Sea/Baltic_Sea.private|Baltic_Sea.private]] 
 
-### #is_/same_as :: [Baltic_Sea.personal](/_personal/Earth/Ocean/North_Sea/Baltic_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/North_Sea/Baltic_Sea.personal|Baltic_Sea.personal]] 
 
-### #is_/same_as :: [Baltic_Sea.secret](/_secret/Earth/Ocean/North_Sea/Baltic_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/North_Sea/Baltic_Sea.secret|Baltic_Sea.secret]] 
 

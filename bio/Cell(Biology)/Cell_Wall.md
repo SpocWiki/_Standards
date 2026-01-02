@@ -29,17 +29,17 @@ Commons_category: Cell wall
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cell_Wall](/_Standards/bio/Cell(Biology)/Cell_Wall.md) 
+### #is_/same_as :: [[/_Standards/bio/Cell(Biology)/Cell_Wall|Cell_Wall]] 
 
-### #is_/same_as :: [Cell_Wall.public](/_public/bio/Cell(Biology)/Cell_Wall.public.md) 
+### #is_/same_as :: [[/_public/bio/Cell(Biology)/Cell_Wall.public|Cell_Wall.public]] 
 
-### #is_/same_as :: [Cell_Wall.internal](/_internal/bio/Cell(Biology)/Cell_Wall.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Cell(Biology)/Cell_Wall.internal|Cell_Wall.internal]] 
 
-### #is_/same_as :: [Cell_Wall.protect](/_protect/bio/Cell(Biology)/Cell_Wall.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Cell(Biology)/Cell_Wall.protect|Cell_Wall.protect]] 
 
-### #is_/same_as :: [Cell_Wall.private](/_private/bio/Cell(Biology)/Cell_Wall.private.md) 
+### #is_/same_as :: [[/_private/bio/Cell(Biology)/Cell_Wall.private|Cell_Wall.private]] 
 
-### #is_/same_as :: [Cell_Wall.personal](/_personal/bio/Cell(Biology)/Cell_Wall.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Cell(Biology)/Cell_Wall.personal|Cell_Wall.personal]] 
 
-### #is_/same_as :: [Cell_Wall.secret](/_secret/bio/Cell(Biology)/Cell_Wall.secret.md)
+### #is_/same_as :: [[/_secret/bio/Cell(Biology)/Cell_Wall.secret|Cell_Wall.secret]] 
 

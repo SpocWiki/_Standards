@@ -67,17 +67,17 @@ Dewey_Decimal_Classification: "532.0533"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Viscosity](/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity|Viscosity]] 
 
-### #is_/same_as :: [Viscosity.public](/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.public|Viscosity.public]] 
 
-### #is_/same_as :: [Viscosity.internal](/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.internal|Viscosity.internal]] 
 
-### #is_/same_as :: [Viscosity.protect](/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.protect|Viscosity.protect]] 
 
-### #is_/same_as :: [Viscosity.private](/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.private|Viscosity.private]] 
 
-### #is_/same_as :: [Viscosity.personal](/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.personal|Viscosity.personal]] 
 
-### #is_/same_as :: [Viscosity.secret](/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics/Fluid_Dynamics/Viscosity.secret|Viscosity.secret]] 
 

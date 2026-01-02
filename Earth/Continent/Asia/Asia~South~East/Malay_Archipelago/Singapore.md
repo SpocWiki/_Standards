@@ -533,17 +533,17 @@ Capital :: [[Singapore=Singapur]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Singapore](/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore|Singapore]] 
 
-### #is_/same_as :: [Singapore.public](/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.public|Singapore.public]] 
 
-### #is_/same_as :: [Singapore.internal](/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.internal|Singapore.internal]] 
 
-### #is_/same_as :: [Singapore.protect](/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.protect|Singapore.protect]] 
 
-### #is_/same_as :: [Singapore.private](/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.private|Singapore.private]] 
 
-### #is_/same_as :: [Singapore.personal](/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.personal|Singapore.personal]] 
 
-### #is_/same_as :: [Singapore.secret](/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Singapore.secret|Singapore.secret]] 
 

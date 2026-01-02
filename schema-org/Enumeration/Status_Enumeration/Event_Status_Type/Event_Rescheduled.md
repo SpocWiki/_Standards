@@ -42,17 +42,17 @@ The event has been rescheduled. The event's previousStartDate should be set to t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Event_Rescheduled](/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled|Event_Rescheduled]] 
 
-### #is_/same_as :: [Event_Rescheduled.public](/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.public|Event_Rescheduled.public]] 
 
-### #is_/same_as :: [Event_Rescheduled.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.internal|Event_Rescheduled.internal]] 
 
-### #is_/same_as :: [Event_Rescheduled.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.protect|Event_Rescheduled.protect]] 
 
-### #is_/same_as :: [Event_Rescheduled.private](/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.private|Event_Rescheduled.private]] 
 
-### #is_/same_as :: [Event_Rescheduled.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.personal|Event_Rescheduled.personal]] 
 
-### #is_/same_as :: [Event_Rescheduled.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Event_Status_Type/Event_Rescheduled.secret|Event_Rescheduled.secret]] 
 

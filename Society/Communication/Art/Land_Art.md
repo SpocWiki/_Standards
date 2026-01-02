@@ -39,17 +39,17 @@ OpenStreetMap_tag: artwork_type=landart
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Land_Art](/_Standards/Society/Communication/Art/Land_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Land_Art|Land_Art]] 
 
-### #is_/same_as :: [Land_Art.public](/_public/Society/Communication/Art/Land_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Land_Art.public|Land_Art.public]] 
 
-### #is_/same_as :: [Land_Art.internal](/_internal/Society/Communication/Art/Land_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Land_Art.internal|Land_Art.internal]] 
 
-### #is_/same_as :: [Land_Art.protect](/_protect/Society/Communication/Art/Land_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Land_Art.protect|Land_Art.protect]] 
 
-### #is_/same_as :: [Land_Art.private](/_private/Society/Communication/Art/Land_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Land_Art.private|Land_Art.private]] 
 
-### #is_/same_as :: [Land_Art.personal](/_personal/Society/Communication/Art/Land_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Land_Art.personal|Land_Art.personal]] 
 
-### #is_/same_as :: [Land_Art.secret](/_secret/Society/Communication/Art/Land_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Land_Art.secret|Land_Art.secret]] 
 

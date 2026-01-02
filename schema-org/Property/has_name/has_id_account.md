@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_id_account](/_Standards/schema-org/Property/has_name/has_id_account.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_id_account|has_id_account]] 
 
-### #is_/same_as :: [has_id_account.public](/_public/schema-org/Property/has_name/has_id_account.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_id_account.public|has_id_account.public]] 
 
-### #is_/same_as :: [has_id_account.internal](/_internal/schema-org/Property/has_name/has_id_account.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_id_account.internal|has_id_account.internal]] 
 
-### #is_/same_as :: [has_id_account.protect](/_protect/schema-org/Property/has_name/has_id_account.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_id_account.protect|has_id_account.protect]] 
 
-### #is_/same_as :: [has_id_account.private](/_private/schema-org/Property/has_name/has_id_account.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_id_account.private|has_id_account.private]] 
 
-### #is_/same_as :: [has_id_account.personal](/_personal/schema-org/Property/has_name/has_id_account.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_id_account.personal|has_id_account.personal]] 
 
-### #is_/same_as :: [has_id_account.secret](/_secret/schema-org/Property/has_name/has_id_account.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_id_account.secret|has_id_account.secret]] 
 

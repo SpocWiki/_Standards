@@ -41,17 +41,17 @@ A medical test performed by a laboratory that typically involves examination of 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pathology_Test](/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test|Pathology_Test]] 
 
-### #is_/same_as :: [Pathology_Test.public](/_public/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.public|Pathology_Test.public]] 
 
-### #is_/same_as :: [Pathology_Test.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.internal|Pathology_Test.internal]] 
 
-### #is_/same_as :: [Pathology_Test.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.protect|Pathology_Test.protect]] 
 
-### #is_/same_as :: [Pathology_Test.private](/_private/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.private|Pathology_Test.private]] 
 
-### #is_/same_as :: [Pathology_Test.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.personal|Pathology_Test.personal]] 
 
-### #is_/same_as :: [Pathology_Test.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Test/Pathology_Test.secret|Pathology_Test.secret]] 
 

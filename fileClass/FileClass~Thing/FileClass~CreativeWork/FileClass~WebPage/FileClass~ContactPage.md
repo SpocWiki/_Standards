@@ -37,17 +37,17 @@ Web page type: Contact page.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~ContactPage](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage|FileClass~ContactPage]] 
 
-### #is_/same_as :: [FileClass~ContactPage.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.public|FileClass~ContactPage.public]] 
 
-### #is_/same_as :: [FileClass~ContactPage.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.internal|FileClass~ContactPage.internal]] 
 
-### #is_/same_as :: [FileClass~ContactPage.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.protect|FileClass~ContactPage.protect]] 
 
-### #is_/same_as :: [FileClass~ContactPage.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.private|FileClass~ContactPage.private]] 
 
-### #is_/same_as :: [FileClass~ContactPage.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.personal|FileClass~ContactPage.personal]] 
 
-### #is_/same_as :: [FileClass~ContactPage.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~WebPage/FileClass~ContactPage.secret|FileClass~ContactPage.secret]] 
 

@@ -115,17 +115,17 @@ NBN_System_Key: NHMSYS0020152403
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Potato_Beetle](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle|Potato_Beetle]] 
 
-### #is_/same_as :: [Potato_Beetle.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.public|Potato_Beetle.public]] 
 
-### #is_/same_as :: [Potato_Beetle.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.internal|Potato_Beetle.internal]] 
 
-### #is_/same_as :: [Potato_Beetle.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.protect|Potato_Beetle.protect]] 
 
-### #is_/same_as :: [Potato_Beetle.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.private|Potato_Beetle.private]] 
 
-### #is_/same_as :: [Potato_Beetle.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.personal|Potato_Beetle.personal]] 
 
-### #is_/same_as :: [Potato_Beetle.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Hexapoda/Insect/Coleoptera/Polyphaga/Chrysomelidae/Leptinotarsa/Potato_Beetle.secret|Potato_Beetle.secret]] 
 

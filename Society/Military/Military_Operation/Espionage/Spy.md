@@ -52,17 +52,17 @@ A **[secret agent](https://en.wikipedia.org/wiki/Secret_agent "Secret agent")**
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spy](/_Standards/Society/Military/Military_Operation/Espionage/Spy.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Espionage/Spy|Spy]] 
 
-### #is_/same_as :: [Spy.public](/_public/Society/Military/Military_Operation/Espionage/Spy.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Espionage/Spy.public|Spy.public]] 
 
-### #is_/same_as :: [Spy.internal](/_internal/Society/Military/Military_Operation/Espionage/Spy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Espionage/Spy.internal|Spy.internal]] 
 
-### #is_/same_as :: [Spy.protect](/_protect/Society/Military/Military_Operation/Espionage/Spy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Espionage/Spy.protect|Spy.protect]] 
 
-### #is_/same_as :: [Spy.private](/_private/Society/Military/Military_Operation/Espionage/Spy.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Espionage/Spy.private|Spy.private]] 
 
-### #is_/same_as :: [Spy.personal](/_personal/Society/Military/Military_Operation/Espionage/Spy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Espionage/Spy.personal|Spy.personal]] 
 
-### #is_/same_as :: [Spy.secret](/_secret/Society/Military/Military_Operation/Espionage/Spy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Espionage/Spy.secret|Spy.secret]] 
 

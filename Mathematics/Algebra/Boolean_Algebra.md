@@ -54,17 +54,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/LogicGates.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boolean_Algebra](/_Standards/Mathematics/Algebra/Boolean_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Boolean_Algebra|Boolean_Algebra]] 
 
-### #is_/same_as :: [Boolean_Algebra.public](/_public/Mathematics/Algebra/Boolean_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Boolean_Algebra.public|Boolean_Algebra.public]] 
 
-### #is_/same_as :: [Boolean_Algebra.internal](/_internal/Mathematics/Algebra/Boolean_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Boolean_Algebra.internal|Boolean_Algebra.internal]] 
 
-### #is_/same_as :: [Boolean_Algebra.protect](/_protect/Mathematics/Algebra/Boolean_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Boolean_Algebra.protect|Boolean_Algebra.protect]] 
 
-### #is_/same_as :: [Boolean_Algebra.private](/_private/Mathematics/Algebra/Boolean_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Boolean_Algebra.private|Boolean_Algebra.private]] 
 
-### #is_/same_as :: [Boolean_Algebra.personal](/_personal/Mathematics/Algebra/Boolean_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Boolean_Algebra.personal|Boolean_Algebra.personal]] 
 
-### #is_/same_as :: [Boolean_Algebra.secret](/_secret/Mathematics/Algebra/Boolean_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Boolean_Algebra.secret|Boolean_Algebra.secret]] 
 

@@ -23,17 +23,17 @@ Commons_category: History of Buddhism
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Buddhism](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism|History_of_Buddhism]] 
 
-### #is_/same_as :: [History_of_Buddhism.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.public|History_of_Buddhism.public]] 
 
-### #is_/same_as :: [History_of_Buddhism.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.internal|History_of_Buddhism.internal]] 
 
-### #is_/same_as :: [History_of_Buddhism.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.protect|History_of_Buddhism.protect]] 
 
-### #is_/same_as :: [History_of_Buddhism.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.private|History_of_Buddhism.private]] 
 
-### #is_/same_as :: [History_of_Buddhism.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.personal|History_of_Buddhism.personal]] 
 
-### #is_/same_as :: [History_of_Buddhism.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Buddhism/History_of_Buddhism.secret|History_of_Buddhism.secret]] 
 

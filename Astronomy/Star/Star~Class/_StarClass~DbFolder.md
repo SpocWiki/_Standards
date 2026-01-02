@@ -226,17 +226,17 @@ Nothing of this is shown!
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_StarClass~DbFolder](/_Standards/Astronomy/Star/Star~Class/_StarClass~DbFolder.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/_StarClass~DbFolder|_StarClass~DbFolder]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.public](/_public/Astronomy/Star/Star~Class/_StarClass~DbFolder.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/_StarClass~DbFolder.public|_StarClass~DbFolder.public]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.internal](/_internal/Astronomy/Star/Star~Class/_StarClass~DbFolder.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/_StarClass~DbFolder.internal|_StarClass~DbFolder.internal]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.protect](/_protect/Astronomy/Star/Star~Class/_StarClass~DbFolder.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/_StarClass~DbFolder.protect|_StarClass~DbFolder.protect]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.private](/_private/Astronomy/Star/Star~Class/_StarClass~DbFolder.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/_StarClass~DbFolder.private|_StarClass~DbFolder.private]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.personal](/_personal/Astronomy/Star/Star~Class/_StarClass~DbFolder.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/_StarClass~DbFolder.personal|_StarClass~DbFolder.personal]] 
 
-### #is_/same_as :: [_StarClass~DbFolder.secret](/_secret/Astronomy/Star/Star~Class/_StarClass~DbFolder.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/_StarClass~DbFolder.secret|_StarClass~DbFolder.secret]] 
 

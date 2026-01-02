@@ -40,17 +40,17 @@ markerFolder: ./Ngeremlengui/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ngeremlengui](/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui|Ngeremlengui]] 
 
-### #is_/same_as :: [Ngeremlengui.public](/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.public|Ngeremlengui.public]] 
 
-### #is_/same_as :: [Ngeremlengui.internal](/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.internal|Ngeremlengui.internal]] 
 
-### #is_/same_as :: [Ngeremlengui.protect](/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.protect|Ngeremlengui.protect]] 
 
-### #is_/same_as :: [Ngeremlengui.private](/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.private|Ngeremlengui.private]] 
 
-### #is_/same_as :: [Ngeremlengui.personal](/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.personal|Ngeremlengui.personal]] 
 
-### #is_/same_as :: [Ngeremlengui.secret](/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Palau/States~Palau/Ngeremlengui.secret|Ngeremlengui.secret]] 
 

@@ -44,17 +44,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Flintl%C3%A5sstudsare%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Musket](/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Musket.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Firearm/Musket|Musket]] 
 
-### #is_/same_as :: [Musket.public](/_public/Society/Military/Military_Engineering/Weapon/Firearm/Musket.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Firearm/Musket.public|Musket.public]] 
 
-### #is_/same_as :: [Musket.internal](/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.internal|Musket.internal]] 
 
-### #is_/same_as :: [Musket.protect](/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Musket.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Firearm/Musket.protect|Musket.protect]] 
 
-### #is_/same_as :: [Musket.private](/_private/Society/Military/Military_Engineering/Weapon/Firearm/Musket.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Firearm/Musket.private|Musket.private]] 
 
-### #is_/same_as :: [Musket.personal](/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Firearm/Musket.personal|Musket.personal]] 
 
-### #is_/same_as :: [Musket.secret](/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Musket.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Firearm/Musket.secret|Musket.secret]] 
 

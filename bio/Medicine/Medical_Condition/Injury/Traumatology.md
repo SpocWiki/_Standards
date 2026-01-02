@@ -39,17 +39,17 @@ Commons_category: Traumatology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Traumatology](/_Standards/bio/Medicine/Medical_Condition/Injury/Traumatology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Injury/Traumatology|Traumatology]] 
 
-### #is_/same_as :: [Traumatology.public](/_public/bio/Medicine/Medical_Condition/Injury/Traumatology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Injury/Traumatology.public|Traumatology.public]] 
 
-### #is_/same_as :: [Traumatology.internal](/_internal/bio/Medicine/Medical_Condition/Injury/Traumatology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Injury/Traumatology.internal|Traumatology.internal]] 
 
-### #is_/same_as :: [Traumatology.protect](/_protect/bio/Medicine/Medical_Condition/Injury/Traumatology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Injury/Traumatology.protect|Traumatology.protect]] 
 
-### #is_/same_as :: [Traumatology.private](/_private/bio/Medicine/Medical_Condition/Injury/Traumatology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Injury/Traumatology.private|Traumatology.private]] 
 
-### #is_/same_as :: [Traumatology.personal](/_personal/bio/Medicine/Medical_Condition/Injury/Traumatology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Injury/Traumatology.personal|Traumatology.personal]] 
 
-### #is_/same_as :: [Traumatology.secret](/_secret/bio/Medicine/Medical_Condition/Injury/Traumatology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Injury/Traumatology.secret|Traumatology.secret]] 
 

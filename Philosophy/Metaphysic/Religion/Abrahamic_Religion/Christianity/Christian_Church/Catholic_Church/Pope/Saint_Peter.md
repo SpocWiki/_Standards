@@ -137,17 +137,17 @@ name_in_native_language: 𐡔𐡌𐡏𐡅𐡍 𐡁𐡓 𐡉𐡅𐡍𐡄
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Peter](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter|Saint_Peter]] 
 
-### #is_/same_as :: [Saint_Peter.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.public|Saint_Peter.public]] 
 
-### #is_/same_as :: [Saint_Peter.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.internal|Saint_Peter.internal]] 
 
-### #is_/same_as :: [Saint_Peter.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.protect|Saint_Peter.protect]] 
 
-### #is_/same_as :: [Saint_Peter.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.private|Saint_Peter.private]] 
 
-### #is_/same_as :: [Saint_Peter.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.personal|Saint_Peter.personal]] 
 
-### #is_/same_as :: [Saint_Peter.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Pope/Saint_Peter.secret|Saint_Peter.secret]] 
 

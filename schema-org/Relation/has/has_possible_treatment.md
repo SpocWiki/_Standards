@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_possible_treatment](/_Standards/schema-org/Relation/has/has_possible_treatment.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_possible_treatment|has_possible_treatment]] 
 
-### #is_/same_as :: [has_possible_treatment.public](/_public/schema-org/Relation/has/has_possible_treatment.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_possible_treatment.public|has_possible_treatment.public]] 
 
-### #is_/same_as :: [has_possible_treatment.internal](/_internal/schema-org/Relation/has/has_possible_treatment.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_possible_treatment.internal|has_possible_treatment.internal]] 
 
-### #is_/same_as :: [has_possible_treatment.protect](/_protect/schema-org/Relation/has/has_possible_treatment.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_possible_treatment.protect|has_possible_treatment.protect]] 
 
-### #is_/same_as :: [has_possible_treatment.private](/_private/schema-org/Relation/has/has_possible_treatment.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_possible_treatment.private|has_possible_treatment.private]] 
 
-### #is_/same_as :: [has_possible_treatment.personal](/_personal/schema-org/Relation/has/has_possible_treatment.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_possible_treatment.personal|has_possible_treatment.personal]] 
 
-### #is_/same_as :: [has_possible_treatment.secret](/_secret/schema-org/Relation/has/has_possible_treatment.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_possible_treatment.secret|has_possible_treatment.secret]] 
 

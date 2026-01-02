@@ -151,17 +151,17 @@ Libris_URI: c9prrslw4c5cjq8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fisher,Ronald](/_Standards/Science/Polymath/Fisher,Ronald.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Fisher,Ronald|Fisher,Ronald]] 
 
-### #is_/same_as :: [Fisher,Ronald.public](/_public/Science/Polymath/Fisher,Ronald.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Fisher,Ronald.public|Fisher,Ronald.public]] 
 
-### #is_/same_as :: [Fisher,Ronald.internal](/_internal/Science/Polymath/Fisher,Ronald.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Fisher,Ronald.internal|Fisher,Ronald.internal]] 
 
-### #is_/same_as :: [Fisher,Ronald.protect](/_protect/Science/Polymath/Fisher,Ronald.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Fisher,Ronald.protect|Fisher,Ronald.protect]] 
 
-### #is_/same_as :: [Fisher,Ronald.private](/_private/Science/Polymath/Fisher,Ronald.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Fisher,Ronald.private|Fisher,Ronald.private]] 
 
-### #is_/same_as :: [Fisher,Ronald.personal](/_personal/Science/Polymath/Fisher,Ronald.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Fisher,Ronald.personal|Fisher,Ronald.personal]] 
 
-### #is_/same_as :: [Fisher,Ronald.secret](/_secret/Science/Polymath/Fisher,Ronald.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Fisher,Ronald.secret|Fisher,Ronald.secret]] 
 

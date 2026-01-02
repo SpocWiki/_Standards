@@ -68,17 +68,17 @@ OpenStreetMap_tag_or_key: Tag:sport=volleyball
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Volleyball](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball|Volleyball]] 
 
-### #is_/same_as :: [Volleyball.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.public|Volleyball.public]] 
 
-### #is_/same_as :: [Volleyball.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.internal|Volleyball.internal]] 
 
-### #is_/same_as :: [Volleyball.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.protect|Volleyball.protect]] 
 
-### #is_/same_as :: [Volleyball.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.private|Volleyball.private]] 
 
-### #is_/same_as :: [Volleyball.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.personal|Volleyball.personal]] 
 
-### #is_/same_as :: [Volleyball.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Team_Sport/Volleyball.secret|Volleyball.secret]] 
 

@@ -77,17 +77,17 @@ name_in_native_language:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hestia](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia|Hestia]] 
 
-### #is_/same_as :: [Hestia.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.public|Hestia.public]] 
 
-### #is_/same_as :: [Hestia.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.internal|Hestia.internal]] 
 
-### #is_/same_as :: [Hestia.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.protect|Hestia.protect]] 
 
-### #is_/same_as :: [Hestia.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.private|Hestia.private]] 
 
-### #is_/same_as :: [Hestia.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.personal|Hestia.personal]] 
 
-### #is_/same_as :: [Hestia.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hestia.secret|Hestia.secret]] 
 

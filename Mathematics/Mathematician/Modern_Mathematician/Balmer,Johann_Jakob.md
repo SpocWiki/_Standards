@@ -55,17 +55,17 @@ name_in_native_language: Johann Jakob Balmer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Balmer,Johann_Jakob](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob|Balmer,Johann_Jakob]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.public|Balmer,Johann_Jakob.public]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.internal|Balmer,Johann_Jakob.internal]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.protect|Balmer,Johann_Jakob.protect]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.private|Balmer,Johann_Jakob.private]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.personal|Balmer,Johann_Jakob.personal]] 
 
-### #is_/same_as :: [Balmer,Johann_Jakob.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Balmer,Johann_Jakob.secret|Balmer,Johann_Jakob.secret]] 
 

@@ -44,17 +44,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_sd_published](/_Standards/schema-org/Property/has_Date_Time/has_time_of_sd_published.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_sd_published|has_time_of_sd_published]] 
 
-### #is_/same_as :: [has_time_of_sd_published.public](/_public/schema-org/Property/has_Date_Time/has_time_of_sd_published.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_sd_published.public|has_time_of_sd_published.public]] 
 
-### #is_/same_as :: [has_time_of_sd_published.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_sd_published.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_sd_published.internal|has_time_of_sd_published.internal]] 
 
-### #is_/same_as :: [has_time_of_sd_published.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_sd_published.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_sd_published.protect|has_time_of_sd_published.protect]] 
 
-### #is_/same_as :: [has_time_of_sd_published.private](/_private/schema-org/Property/has_Date_Time/has_time_of_sd_published.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_sd_published.private|has_time_of_sd_published.private]] 
 
-### #is_/same_as :: [has_time_of_sd_published.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_sd_published.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_sd_published.personal|has_time_of_sd_published.personal]] 
 
-### #is_/same_as :: [has_time_of_sd_published.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_sd_published.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_sd_published.secret|has_time_of_sd_published.secret]] 
 

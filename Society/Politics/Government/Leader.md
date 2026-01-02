@@ -26,17 +26,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leader](/_Standards/Society/Politics/Government/Leader.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader|Leader]] 
 
-### #is_/same_as :: [Leader.public](/_public/Society/Politics/Government/Leader.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader.public|Leader.public]] 
 
-### #is_/same_as :: [Leader.internal](/_internal/Society/Politics/Government/Leader.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader.internal|Leader.internal]] 
 
-### #is_/same_as :: [Leader.protect](/_protect/Society/Politics/Government/Leader.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader.protect|Leader.protect]] 
 
-### #is_/same_as :: [Leader.private](/_private/Society/Politics/Government/Leader.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader.private|Leader.private]] 
 
-### #is_/same_as :: [Leader.personal](/_personal/Society/Politics/Government/Leader.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader.personal|Leader.personal]] 
 
-### #is_/same_as :: [Leader.secret](/_secret/Society/Politics/Government/Leader.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader.secret|Leader.secret]] 
 

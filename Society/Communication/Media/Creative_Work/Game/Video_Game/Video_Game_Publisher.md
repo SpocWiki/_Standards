@@ -43,17 +43,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Game_Publisher](/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher|Video_Game_Publisher]] 
 
-### #is_/same_as :: [Video_Game_Publisher.public](/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.public|Video_Game_Publisher.public]] 
 
-### #is_/same_as :: [Video_Game_Publisher.internal](/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.internal|Video_Game_Publisher.internal]] 
 
-### #is_/same_as :: [Video_Game_Publisher.protect](/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.protect|Video_Game_Publisher.protect]] 
 
-### #is_/same_as :: [Video_Game_Publisher.private](/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.private|Video_Game_Publisher.private]] 
 
-### #is_/same_as :: [Video_Game_Publisher.personal](/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.personal|Video_Game_Publisher.personal]] 
 
-### #is_/same_as :: [Video_Game_Publisher.secret](/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Game/Video_Game/Video_Game_Publisher.secret|Video_Game_Publisher.secret]] 
 

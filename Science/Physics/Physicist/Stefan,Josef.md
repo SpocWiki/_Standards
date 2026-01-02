@@ -71,17 +71,17 @@ name_in_native_language: Joseph Stefan
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stefan,Josef](/_Standards/Science/Physics/Physicist/Stefan,Josef.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Stefan,Josef|Stefan,Josef]] 
 
-### #is_/same_as :: [Stefan,Josef.public](/_public/Science/Physics/Physicist/Stefan,Josef.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Stefan,Josef.public|Stefan,Josef.public]] 
 
-### #is_/same_as :: [Stefan,Josef.internal](/_internal/Science/Physics/Physicist/Stefan,Josef.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Stefan,Josef.internal|Stefan,Josef.internal]] 
 
-### #is_/same_as :: [Stefan,Josef.protect](/_protect/Science/Physics/Physicist/Stefan,Josef.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Stefan,Josef.protect|Stefan,Josef.protect]] 
 
-### #is_/same_as :: [Stefan,Josef.private](/_private/Science/Physics/Physicist/Stefan,Josef.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Stefan,Josef.private|Stefan,Josef.private]] 
 
-### #is_/same_as :: [Stefan,Josef.personal](/_personal/Science/Physics/Physicist/Stefan,Josef.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Stefan,Josef.personal|Stefan,Josef.personal]] 
 
-### #is_/same_as :: [Stefan,Josef.secret](/_secret/Science/Physics/Physicist/Stefan,Josef.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Stefan,Josef.secret|Stefan,Josef.secret]] 
 

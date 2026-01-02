@@ -46,17 +46,17 @@ U_S_National_Archives_Identifier: 10642225
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Negotiation](/_Standards/Society/Communication/Negotiation.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Negotiation|Negotiation]] 
 
-### #is_/same_as :: [Negotiation.public](/_public/Society/Communication/Negotiation.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Negotiation.public|Negotiation.public]] 
 
-### #is_/same_as :: [Negotiation.internal](/_internal/Society/Communication/Negotiation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Negotiation.internal|Negotiation.internal]] 
 
-### #is_/same_as :: [Negotiation.protect](/_protect/Society/Communication/Negotiation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Negotiation.protect|Negotiation.protect]] 
 
-### #is_/same_as :: [Negotiation.private](/_private/Society/Communication/Negotiation.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Negotiation.private|Negotiation.private]] 
 
-### #is_/same_as :: [Negotiation.personal](/_personal/Society/Communication/Negotiation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Negotiation.personal|Negotiation.personal]] 
 
-### #is_/same_as :: [Negotiation.secret](/_secret/Society/Communication/Negotiation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Negotiation.secret|Negotiation.secret]] 
 

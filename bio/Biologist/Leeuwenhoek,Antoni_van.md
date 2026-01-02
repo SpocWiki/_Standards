@@ -127,17 +127,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van](/_Standards/bio/Biologist/Leeuwenhoek,Antoni_van.md) 
+### #is_/same_as :: [[/_Standards/bio/Biologist/Leeuwenhoek,Antoni_van|Leeuwenhoek,Antoni_van]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.public](/_public/bio/Biologist/Leeuwenhoek,Antoni_van.public.md) 
+### #is_/same_as :: [[/_public/bio/Biologist/Leeuwenhoek,Antoni_van.public|Leeuwenhoek,Antoni_van.public]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.internal](/_internal/bio/Biologist/Leeuwenhoek,Antoni_van.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Biologist/Leeuwenhoek,Antoni_van.internal|Leeuwenhoek,Antoni_van.internal]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.protect](/_protect/bio/Biologist/Leeuwenhoek,Antoni_van.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Biologist/Leeuwenhoek,Antoni_van.protect|Leeuwenhoek,Antoni_van.protect]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.private](/_private/bio/Biologist/Leeuwenhoek,Antoni_van.private.md) 
+### #is_/same_as :: [[/_private/bio/Biologist/Leeuwenhoek,Antoni_van.private|Leeuwenhoek,Antoni_van.private]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.personal](/_personal/bio/Biologist/Leeuwenhoek,Antoni_van.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Biologist/Leeuwenhoek,Antoni_van.personal|Leeuwenhoek,Antoni_van.personal]] 
 
-### #is_/same_as :: [Leeuwenhoek,Antoni_van.secret](/_secret/bio/Biologist/Leeuwenhoek,Antoni_van.secret.md)
+### #is_/same_as :: [[/_secret/bio/Biologist/Leeuwenhoek,Antoni_van.secret|Leeuwenhoek,Antoni_van.secret]] 
 

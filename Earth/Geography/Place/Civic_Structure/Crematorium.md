@@ -52,17 +52,17 @@ Tag Instances like this:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Crematorium](/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Crematorium|Crematorium]] 
 
-### #is_/same_as :: [Crematorium.public](/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Crematorium.public|Crematorium.public]] 
 
-### #is_/same_as :: [Crematorium.internal](/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Crematorium.internal|Crematorium.internal]] 
 
-### #is_/same_as :: [Crematorium.protect](/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Crematorium.protect|Crematorium.protect]] 
 
-### #is_/same_as :: [Crematorium.private](/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Crematorium.private|Crematorium.private]] 
 
-### #is_/same_as :: [Crematorium.personal](/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]] 
 
-### #is_/same_as :: [Crematorium.secret](/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]] 
 

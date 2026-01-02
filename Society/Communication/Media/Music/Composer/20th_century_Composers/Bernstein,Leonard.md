@@ -169,17 +169,17 @@ X_Twitter_username:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bernstein,Leonard](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard|Bernstein,Leonard]] 
 
-### #is_/same_as :: [Bernstein,Leonard.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.public|Bernstein,Leonard.public]] 
 
-### #is_/same_as :: [Bernstein,Leonard.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.internal|Bernstein,Leonard.internal]] 
 
-### #is_/same_as :: [Bernstein,Leonard.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.protect|Bernstein,Leonard.protect]] 
 
-### #is_/same_as :: [Bernstein,Leonard.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.private|Bernstein,Leonard.private]] 
 
-### #is_/same_as :: [Bernstein,Leonard.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.personal|Bernstein,Leonard.personal]] 
 
-### #is_/same_as :: [Bernstein,Leonard.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Bernstein,Leonard.secret|Bernstein,Leonard.secret]] 
 

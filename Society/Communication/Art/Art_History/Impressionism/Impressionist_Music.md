@@ -29,17 +29,17 @@ subclass_of: "[[_Standards/WikiData/WD~modern_classical_music,65937946]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Impressionist_Music](/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music|Impressionist_Music]] 
 
-### #is_/same_as :: [Impressionist_Music.public](/_public/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.public|Impressionist_Music.public]] 
 
-### #is_/same_as :: [Impressionist_Music.internal](/_internal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.internal|Impressionist_Music.internal]] 
 
-### #is_/same_as :: [Impressionist_Music.protect](/_protect/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.protect|Impressionist_Music.protect]] 
 
-### #is_/same_as :: [Impressionist_Music.private](/_private/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.private|Impressionist_Music.private]] 
 
-### #is_/same_as :: [Impressionist_Music.personal](/_personal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.personal|Impressionist_Music.personal]] 
 
-### #is_/same_as :: [Impressionist_Music.secret](/_secret/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Impressionism/Impressionist_Music.secret|Impressionist_Music.secret]] 
 

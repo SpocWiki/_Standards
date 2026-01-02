@@ -151,17 +151,17 @@ Libris_URI: 20dghbml28rpnlw
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haeckel,Ernst](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst|Haeckel,Ernst]] 
 
-### #is_/same_as :: [Haeckel,Ernst.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.public|Haeckel,Ernst.public]] 
 
-### #is_/same_as :: [Haeckel,Ernst.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.internal|Haeckel,Ernst.internal]] 
 
-### #is_/same_as :: [Haeckel,Ernst.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.protect|Haeckel,Ernst.protect]] 
 
-### #is_/same_as :: [Haeckel,Ernst.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.private|Haeckel,Ernst.private]] 
 
-### #is_/same_as :: [Haeckel,Ernst.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.personal|Haeckel,Ernst.personal]] 
 
-### #is_/same_as :: [Haeckel,Ernst.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Haeckel,Ernst.secret|Haeckel,Ernst.secret]] 
 

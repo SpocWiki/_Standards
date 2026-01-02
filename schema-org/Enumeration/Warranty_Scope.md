@@ -47,17 +47,17 @@ Commonly used values:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Warranty_Scope](/_Standards/schema-org/Enumeration/Warranty_Scope.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Warranty_Scope|Warranty_Scope]] 
 
-### #is_/same_as :: [Warranty_Scope.public](/_public/schema-org/Enumeration/Warranty_Scope.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Warranty_Scope.public|Warranty_Scope.public]] 
 
-### #is_/same_as :: [Warranty_Scope.internal](/_internal/schema-org/Enumeration/Warranty_Scope.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Warranty_Scope.internal|Warranty_Scope.internal]] 
 
-### #is_/same_as :: [Warranty_Scope.protect](/_protect/schema-org/Enumeration/Warranty_Scope.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Warranty_Scope.protect|Warranty_Scope.protect]] 
 
-### #is_/same_as :: [Warranty_Scope.private](/_private/schema-org/Enumeration/Warranty_Scope.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Warranty_Scope.private|Warranty_Scope.private]] 
 
-### #is_/same_as :: [Warranty_Scope.personal](/_personal/schema-org/Enumeration/Warranty_Scope.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Warranty_Scope.personal|Warranty_Scope.personal]] 
 
-### #is_/same_as :: [Warranty_Scope.secret](/_secret/schema-org/Enumeration/Warranty_Scope.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Warranty_Scope.secret|Warranty_Scope.secret]] 
 

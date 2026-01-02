@@ -62,17 +62,17 @@ IEV_number: 102-04-02
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Straight_Line](/_Standards/Mathematics/Geometry/Straight_Line.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Straight_Line|Straight_Line]] 
 
-### #is_/same_as :: [Straight_Line.public](/_public/Mathematics/Geometry/Straight_Line.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Straight_Line.public|Straight_Line.public]] 
 
-### #is_/same_as :: [Straight_Line.internal](/_internal/Mathematics/Geometry/Straight_Line.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Straight_Line.internal|Straight_Line.internal]] 
 
-### #is_/same_as :: [Straight_Line.protect](/_protect/Mathematics/Geometry/Straight_Line.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Straight_Line.protect|Straight_Line.protect]] 
 
-### #is_/same_as :: [Straight_Line.private](/_private/Mathematics/Geometry/Straight_Line.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Straight_Line.private|Straight_Line.private]] 
 
-### #is_/same_as :: [Straight_Line.personal](/_personal/Mathematics/Geometry/Straight_Line.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Straight_Line.personal|Straight_Line.personal]] 
 
-### #is_/same_as :: [Straight_Line.secret](/_secret/Mathematics/Geometry/Straight_Line.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Straight_Line.secret|Straight_Line.secret]] 
 

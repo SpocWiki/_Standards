@@ -204,17 +204,17 @@ ISNI: 0000000110316592
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Neumann,John_von](/_Standards/Mathematics/Mathematician/Neumann,John_von.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Neumann,John_von|Neumann,John_von]] 
 
-### #is_/same_as :: [Neumann,John_von.public](/_public/Mathematics/Mathematician/Neumann,John_von.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Neumann,John_von.public|Neumann,John_von.public]] 
 
-### #is_/same_as :: [Neumann,John_von.internal](/_internal/Mathematics/Mathematician/Neumann,John_von.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Neumann,John_von.internal|Neumann,John_von.internal]] 
 
-### #is_/same_as :: [Neumann,John_von.protect](/_protect/Mathematics/Mathematician/Neumann,John_von.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Neumann,John_von.protect|Neumann,John_von.protect]] 
 
-### #is_/same_as :: [Neumann,John_von.private](/_private/Mathematics/Mathematician/Neumann,John_von.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Neumann,John_von.private|Neumann,John_von.private]] 
 
-### #is_/same_as :: [Neumann,John_von.personal](/_personal/Mathematics/Mathematician/Neumann,John_von.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Neumann,John_von.personal|Neumann,John_von.personal]] 
 
-### #is_/same_as :: [Neumann,John_von.secret](/_secret/Mathematics/Mathematician/Neumann,John_von.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Neumann,John_von.secret|Neumann,John_von.secret]] 
 

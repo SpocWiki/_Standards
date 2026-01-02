@@ -57,17 +57,17 @@ USDA_NDB_number:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blackberry](/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry|Blackberry]] 
 
-### #is_/same_as :: [Blackberry.public](/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.public|Blackberry.public]] 
 
-### #is_/same_as :: [Blackberry.internal](/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.internal|Blackberry.internal]] 
 
-### #is_/same_as :: [Blackberry.protect](/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.protect|Blackberry.protect]] 
 
-### #is_/same_as :: [Blackberry.private](/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.private|Blackberry.private]] 
 
-### #is_/same_as :: [Blackberry.personal](/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.personal|Blackberry.personal]] 
 
-### #is_/same_as :: [Blackberry.secret](/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Food/Fruits/Blackberry.secret|Blackberry.secret]] 
 

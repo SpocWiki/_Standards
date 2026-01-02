@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ginkgo](/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo|Ginkgo]] 
 
-### #is_/same_as :: [Ginkgo.public](/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.public|Ginkgo.public]] 
 
-### #is_/same_as :: [Ginkgo.internal](/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.internal|Ginkgo.internal]] 
 
-### #is_/same_as :: [Ginkgo.protect](/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.protect|Ginkgo.protect]] 
 
-### #is_/same_as :: [Ginkgo.private](/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.private|Ginkgo.private]] 
 
-### #is_/same_as :: [Ginkgo.personal](/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.personal|Ginkgo.personal]] 
 
-### #is_/same_as :: [Ginkgo.secret](/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Ginkgo.secret|Ginkgo.secret]] 
 

@@ -54,17 +54,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aladdin%20in%20the%20M
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aladdin](/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin|Aladdin]] 
 
-### #is_/same_as :: [Aladdin.public](/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.public|Aladdin.public]] 
 
-### #is_/same_as :: [Aladdin.internal](/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.internal|Aladdin.internal]] 
 
-### #is_/same_as :: [Aladdin.protect](/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.protect|Aladdin.protect]] 
 
-### #is_/same_as :: [Aladdin.private](/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.private|Aladdin.private]] 
 
-### #is_/same_as :: [Aladdin.personal](/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.personal|Aladdin.personal]] 
 
-### #is_/same_as :: [Aladdin.secret](/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Genre/Fiction/Fictional_Characters/Aladdin.secret|Aladdin.secret]] 
 

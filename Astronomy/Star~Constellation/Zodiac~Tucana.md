@@ -47,17 +47,17 @@ official_name: Tucana
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Tucana](/_Standards/Astronomy/Star~Constellation/Zodiac~Tucana.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Tucana|Zodiac~Tucana]] 
 
-### #is_/same_as :: [Zodiac~Tucana.public](/_public/Astronomy/Star~Constellation/Zodiac~Tucana.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Tucana.public|Zodiac~Tucana.public]] 
 
-### #is_/same_as :: [Zodiac~Tucana.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Tucana.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Tucana.internal|Zodiac~Tucana.internal]] 
 
-### #is_/same_as :: [Zodiac~Tucana.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Tucana.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Tucana.protect|Zodiac~Tucana.protect]] 
 
-### #is_/same_as :: [Zodiac~Tucana.private](/_private/Astronomy/Star~Constellation/Zodiac~Tucana.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Tucana.private|Zodiac~Tucana.private]] 
 
-### #is_/same_as :: [Zodiac~Tucana.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Tucana.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Tucana.personal|Zodiac~Tucana.personal]] 
 
-### #is_/same_as :: [Zodiac~Tucana.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Tucana.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Tucana.secret|Zodiac~Tucana.secret]] 
 

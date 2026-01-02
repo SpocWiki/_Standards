@@ -454,17 +454,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mediterranean_Sea](/_Standards/Earth/Ocean/Mediterranean_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Mediterranean_Sea|Mediterranean_Sea]] 
 
-### #is_/same_as :: [Mediterranean_Sea.public](/_public/Earth/Ocean/Mediterranean_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Mediterranean_Sea.public|Mediterranean_Sea.public]] 
 
-### #is_/same_as :: [Mediterranean_Sea.internal](/_internal/Earth/Ocean/Mediterranean_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Mediterranean_Sea.internal|Mediterranean_Sea.internal]] 
 
-### #is_/same_as :: [Mediterranean_Sea.protect](/_protect/Earth/Ocean/Mediterranean_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Mediterranean_Sea.protect|Mediterranean_Sea.protect]] 
 
-### #is_/same_as :: [Mediterranean_Sea.private](/_private/Earth/Ocean/Mediterranean_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Mediterranean_Sea.private|Mediterranean_Sea.private]] 
 
-### #is_/same_as :: [Mediterranean_Sea.personal](/_personal/Earth/Ocean/Mediterranean_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Mediterranean_Sea.personal|Mediterranean_Sea.personal]] 
 
-### #is_/same_as :: [Mediterranean_Sea.secret](/_secret/Earth/Ocean/Mediterranean_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Mediterranean_Sea.secret|Mediterranean_Sea.secret]] 
 

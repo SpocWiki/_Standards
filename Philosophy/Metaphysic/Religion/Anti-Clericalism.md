@@ -30,17 +30,17 @@ Library_of_Congress_Classification: BR1625
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anti-Clericalism](/_Standards/Philosophy/Metaphysic/Religion/Anti-Clericalism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Anti-Clericalism|Anti-Clericalism]] 
 
-### #is_/same_as :: [Anti-Clericalism.public](/_public/Philosophy/Metaphysic/Religion/Anti-Clericalism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Anti-Clericalism.public|Anti-Clericalism.public]] 
 
-### #is_/same_as :: [Anti-Clericalism.internal](/_internal/Philosophy/Metaphysic/Religion/Anti-Clericalism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Anti-Clericalism.internal|Anti-Clericalism.internal]] 
 
-### #is_/same_as :: [Anti-Clericalism.protect](/_protect/Philosophy/Metaphysic/Religion/Anti-Clericalism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Anti-Clericalism.protect|Anti-Clericalism.protect]] 
 
-### #is_/same_as :: [Anti-Clericalism.private](/_private/Philosophy/Metaphysic/Religion/Anti-Clericalism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Anti-Clericalism.private|Anti-Clericalism.private]] 
 
-### #is_/same_as :: [Anti-Clericalism.personal](/_personal/Philosophy/Metaphysic/Religion/Anti-Clericalism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Anti-Clericalism.personal|Anti-Clericalism.personal]] 
 
-### #is_/same_as :: [Anti-Clericalism.secret](/_secret/Philosophy/Metaphysic/Religion/Anti-Clericalism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Anti-Clericalism.secret|Anti-Clericalism.secret]] 
 

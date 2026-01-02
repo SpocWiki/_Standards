@@ -108,17 +108,17 @@ It takes hundreds of years for soil to regain its biological properties.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soil](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil|Soil]] 
 
-### #is_/same_as :: [Soil.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.public|Soil.public]] 
 
-### #is_/same_as :: [Soil.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.internal|Soil.internal]] 
 
-### #is_/same_as :: [Soil.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.protect|Soil.protect]] 
 
-### #is_/same_as :: [Soil.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.private|Soil.private]] 
 
-### #is_/same_as :: [Soil.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.personal|Soil.personal]] 
 
-### #is_/same_as :: [Soil.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil.secret|Soil.secret]] 
 

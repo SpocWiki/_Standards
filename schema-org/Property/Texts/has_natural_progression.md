@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_natural_progression](/_Standards/schema-org/Property/Texts/has_natural_progression.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_natural_progression|has_natural_progression]] 
 
-### #is_/same_as :: [has_natural_progression.public](/_public/schema-org/Property/Texts/has_natural_progression.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_natural_progression.public|has_natural_progression.public]] 
 
-### #is_/same_as :: [has_natural_progression.internal](/_internal/schema-org/Property/Texts/has_natural_progression.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_natural_progression.internal|has_natural_progression.internal]] 
 
-### #is_/same_as :: [has_natural_progression.protect](/_protect/schema-org/Property/Texts/has_natural_progression.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_natural_progression.protect|has_natural_progression.protect]] 
 
-### #is_/same_as :: [has_natural_progression.private](/_private/schema-org/Property/Texts/has_natural_progression.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_natural_progression.private|has_natural_progression.private]] 
 
-### #is_/same_as :: [has_natural_progression.personal](/_personal/schema-org/Property/Texts/has_natural_progression.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_natural_progression.personal|has_natural_progression.personal]] 
 
-### #is_/same_as :: [has_natural_progression.secret](/_secret/schema-org/Property/Texts/has_natural_progression.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_natural_progression.secret|has_natural_progression.secret]] 
 

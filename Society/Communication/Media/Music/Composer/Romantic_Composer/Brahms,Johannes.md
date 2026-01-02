@@ -147,17 +147,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahms,Johannes](/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes|Brahms,Johannes]] 
 
-### #is_/same_as :: [Brahms,Johannes.public](/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.public|Brahms,Johannes.public]] 
 
-### #is_/same_as :: [Brahms,Johannes.internal](/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.internal|Brahms,Johannes.internal]] 
 
-### #is_/same_as :: [Brahms,Johannes.protect](/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.protect|Brahms,Johannes.protect]] 
 
-### #is_/same_as :: [Brahms,Johannes.private](/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.private|Brahms,Johannes.private]] 
 
-### #is_/same_as :: [Brahms,Johannes.personal](/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.personal|Brahms,Johannes.personal]] 
 
-### #is_/same_as :: [Brahms,Johannes.secret](/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Romantic_Composer/Brahms,Johannes.secret|Brahms,Johannes.secret]] 
 

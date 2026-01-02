@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grave](/_Standards/bio/Metabolism/Death/Funeral/Burial/Grave.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Death/Funeral/Burial/Grave|Grave]] 
 
-### #is_/same_as :: [Grave.public](/_public/bio/Metabolism/Death/Funeral/Burial/Grave.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Death/Funeral/Burial/Grave.public|Grave.public]] 
 
-### #is_/same_as :: [Grave.internal](/_internal/bio/Metabolism/Death/Funeral/Burial/Grave.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Death/Funeral/Burial/Grave.internal|Grave.internal]] 
 
-### #is_/same_as :: [Grave.protect](/_protect/bio/Metabolism/Death/Funeral/Burial/Grave.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Death/Funeral/Burial/Grave.protect|Grave.protect]] 
 
-### #is_/same_as :: [Grave.private](/_private/bio/Metabolism/Death/Funeral/Burial/Grave.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Death/Funeral/Burial/Grave.private|Grave.private]] 
 
-### #is_/same_as :: [Grave.personal](/_personal/bio/Metabolism/Death/Funeral/Burial/Grave.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Death/Funeral/Burial/Grave.personal|Grave.personal]] 
 
-### #is_/same_as :: [Grave.secret](/_secret/bio/Metabolism/Death/Funeral/Burial/Grave.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Death/Funeral/Burial/Grave.secret|Grave.secret]] 
 

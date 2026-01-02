@@ -41,17 +41,17 @@ A nail salon.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nail_Salon](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon|Nail_Salon]] 
 
-### #is_/same_as :: [Nail_Salon.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.public|Nail_Salon.public]] 
 
-### #is_/same_as :: [Nail_Salon.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.internal|Nail_Salon.internal]] 
 
-### #is_/same_as :: [Nail_Salon.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.protect|Nail_Salon.protect]] 
 
-### #is_/same_as :: [Nail_Salon.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.private|Nail_Salon.private]] 
 
-### #is_/same_as :: [Nail_Salon.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.personal|Nail_Salon.personal]] 
 
-### #is_/same_as :: [Nail_Salon.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Health_and_Beauty_Business/Nail_Salon.secret|Nail_Salon.secret]] 
 

@@ -80,17 +80,17 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ISKOPAEMIE_OSTATKI.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fossil](/_Standards/bio/Paleontology/Fossil.md) 
+### #is_/same_as :: [[/_Standards/bio/Paleontology/Fossil|Fossil]] 
 
-### #is_/same_as :: [Fossil.public](/_public/bio/Paleontology/Fossil.public.md) 
+### #is_/same_as :: [[/_public/bio/Paleontology/Fossil.public|Fossil.public]] 
 
-### #is_/same_as :: [Fossil.internal](/_internal/bio/Paleontology/Fossil.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Paleontology/Fossil.internal|Fossil.internal]] 
 
-### #is_/same_as :: [Fossil.protect](/_protect/bio/Paleontology/Fossil.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Paleontology/Fossil.protect|Fossil.protect]] 
 
-### #is_/same_as :: [Fossil.private](/_private/bio/Paleontology/Fossil.private.md) 
+### #is_/same_as :: [[/_private/bio/Paleontology/Fossil.private|Fossil.private]] 
 
-### #is_/same_as :: [Fossil.personal](/_personal/bio/Paleontology/Fossil.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Paleontology/Fossil.personal|Fossil.personal]] 
 
-### #is_/same_as :: [Fossil.secret](/_secret/bio/Paleontology/Fossil.secret.md)
+### #is_/same_as :: [[/_secret/bio/Paleontology/Fossil.secret|Fossil.secret]] 
 

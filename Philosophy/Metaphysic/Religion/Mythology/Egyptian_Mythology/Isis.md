@@ -75,17 +75,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/ISIDA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Isis](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis|Isis]] 
 
-### #is_/same_as :: [Isis.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.public|Isis.public]] 
 
-### #is_/same_as :: [Isis.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.internal|Isis.internal]] 
 
-### #is_/same_as :: [Isis.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.protect|Isis.protect]] 
 
-### #is_/same_as :: [Isis.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.private|Isis.private]] 
 
-### #is_/same_as :: [Isis.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.personal|Isis.personal]] 
 
-### #is_/same_as :: [Isis.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Egyptian_Mythology/Isis.secret|Isis.secret]] 
 

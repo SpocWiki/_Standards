@@ -61,17 +61,17 @@ OpenStreetMap_tag: sport=ice_skating
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ice_Skating](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating|Ice_Skating]] 
 
-### #is_/same_as :: [Ice_Skating.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.public|Ice_Skating.public]] 
 
-### #is_/same_as :: [Ice_Skating.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.internal|Ice_Skating.internal]] 
 
-### #is_/same_as :: [Ice_Skating.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.protect|Ice_Skating.protect]] 
 
-### #is_/same_as :: [Ice_Skating.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.private|Ice_Skating.private]] 
 
-### #is_/same_as :: [Ice_Skating.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.personal|Ice_Skating.personal]] 
 
-### #is_/same_as :: [Ice_Skating.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Racing/Ice_Skating.secret|Ice_Skating.secret]] 
 

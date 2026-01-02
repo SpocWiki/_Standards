@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_value_for_base_salary](/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_value_for/has_value_for_base_salary|has_value_for_base_salary]] 
 
-### #is_/same_as :: [has_value_for_base_salary.public](/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_value_for/has_value_for_base_salary.public|has_value_for_base_salary.public]] 
 
-### #is_/same_as :: [has_value_for_base_salary.internal](/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_value_for/has_value_for_base_salary.internal|has_value_for_base_salary.internal]] 
 
-### #is_/same_as :: [has_value_for_base_salary.protect](/_protect/schema-org/Property/has_value_for/has_value_for_base_salary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_value_for/has_value_for_base_salary.protect|has_value_for_base_salary.protect]] 
 
-### #is_/same_as :: [has_value_for_base_salary.private](/_private/schema-org/Property/has_value_for/has_value_for_base_salary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_value_for/has_value_for_base_salary.private|has_value_for_base_salary.private]] 
 
-### #is_/same_as :: [has_value_for_base_salary.personal](/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_value_for/has_value_for_base_salary.personal|has_value_for_base_salary.personal]] 
 
-### #is_/same_as :: [has_value_for_base_salary.secret](/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_value_for/has_value_for_base_salary.secret|has_value_for_base_salary.secret]] 
 

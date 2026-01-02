@@ -91,17 +91,17 @@ ISNI: 0000000110197343
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sorokin,Pitirim](/_Standards/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim|Sorokin,Pitirim]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.public](/_public/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.public|Sorokin,Pitirim.public]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.internal|Sorokin,Pitirim.internal]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.protect|Sorokin,Pitirim.protect]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.private](/_private/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.private|Sorokin,Pitirim.private]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.personal|Sorokin,Pitirim.personal]] 
 
-### #is_/same_as :: [Sorokin,Pitirim.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Sorokin,Pitirim.secret|Sorokin,Pitirim.secret]] 
 

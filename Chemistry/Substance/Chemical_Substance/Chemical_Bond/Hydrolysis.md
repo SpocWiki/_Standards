@@ -24,17 +24,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrolysis](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis|Hydrolysis]] 
 
-### #is_/same_as :: [Hydrolysis.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.public|Hydrolysis.public]] 
 
-### #is_/same_as :: [Hydrolysis.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.internal|Hydrolysis.internal]] 
 
-### #is_/same_as :: [Hydrolysis.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.protect|Hydrolysis.protect]] 
 
-### #is_/same_as :: [Hydrolysis.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.private|Hydrolysis.private]] 
 
-### #is_/same_as :: [Hydrolysis.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.personal|Hydrolysis.personal]] 
 
-### #is_/same_as :: [Hydrolysis.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrolysis.secret|Hydrolysis.secret]] 
 

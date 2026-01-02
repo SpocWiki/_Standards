@@ -136,17 +136,17 @@ has_place_continent:: [[Africa]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory](/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory|British_Indian_Ocean_Territory]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.public](/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.public|British_Indian_Ocean_Territory.public]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.internal](/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.internal|British_Indian_Ocean_Territory.internal]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.protect](/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.protect|British_Indian_Ocean_Territory.protect]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.private](/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.private|British_Indian_Ocean_Territory.private]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.personal](/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.personal|British_Indian_Ocean_Territory.personal]] 
 
-### #is_/same_as :: [British_Indian_Ocean_Territory.secret](/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~East/British_Indian_Ocean_Territory.secret|British_Indian_Ocean_Territory.secret]] 
 

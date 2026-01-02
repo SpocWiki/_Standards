@@ -157,17 +157,17 @@ UnsaturatedFatContent:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~NutritionInformation](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation|FileClass~NutritionInformation]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.public|FileClass~NutritionInformation.public]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.internal|FileClass~NutritionInformation.internal]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.protect|FileClass~NutritionInformation.protect]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.private|FileClass~NutritionInformation.private]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.personal|FileClass~NutritionInformation.personal]] 
 
-### #is_/same_as :: [FileClass~NutritionInformation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~StructuredValue/FileClass~NutritionInformation.secret|FileClass~NutritionInformation.secret]] 
 

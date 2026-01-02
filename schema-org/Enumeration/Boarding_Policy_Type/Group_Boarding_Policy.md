@@ -42,17 +42,17 @@ The airline boards by groups based on check-in time, priority, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group_Boarding_Policy](/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy|Group_Boarding_Policy]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.public](/_public/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.public|Group_Boarding_Policy.public]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.internal](/_internal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.internal|Group_Boarding_Policy.internal]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.protect](/_protect/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.protect|Group_Boarding_Policy.protect]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.private](/_private/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.private|Group_Boarding_Policy.private]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.personal](/_personal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.personal|Group_Boarding_Policy.personal]] 
 
-### #is_/same_as :: [Group_Boarding_Policy.secret](/_secret/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Boarding_Policy_Type/Group_Boarding_Policy.secret|Group_Boarding_Policy.secret]] 
 

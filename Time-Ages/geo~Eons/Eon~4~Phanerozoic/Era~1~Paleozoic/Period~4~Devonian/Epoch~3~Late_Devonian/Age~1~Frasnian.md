@@ -79,17 +79,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Age~1~Frasnian](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian|Age~1~Frasnian]] 
 
-### #is_/same_as :: [Age~1~Frasnian.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.public|Age~1~Frasnian.public]] 
 
-### #is_/same_as :: [Age~1~Frasnian.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.internal|Age~1~Frasnian.internal]] 
 
-### #is_/same_as :: [Age~1~Frasnian.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.protect|Age~1~Frasnian.protect]] 
 
-### #is_/same_as :: [Age~1~Frasnian.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.private|Age~1~Frasnian.private]] 
 
-### #is_/same_as :: [Age~1~Frasnian.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.personal|Age~1~Frasnian.personal]] 
 
-### #is_/same_as :: [Age~1~Frasnian.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~4~Devonian/Epoch~3~Late_Devonian/Age~1~Frasnian.secret|Age~1~Frasnian.secret]] 
 

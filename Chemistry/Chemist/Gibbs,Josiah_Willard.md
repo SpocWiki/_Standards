@@ -114,17 +114,17 @@ signature: http://commons.wikimedia.org/wiki/Special:FilePath/JWgibbs-signature.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard](/_Standards/Chemistry/Chemist/Gibbs,Josiah_Willard.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Gibbs,Josiah_Willard|Gibbs,Josiah_Willard]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.public](/_public/Chemistry/Chemist/Gibbs,Josiah_Willard.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Gibbs,Josiah_Willard.public|Gibbs,Josiah_Willard.public]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.internal](/_internal/Chemistry/Chemist/Gibbs,Josiah_Willard.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Gibbs,Josiah_Willard.internal|Gibbs,Josiah_Willard.internal]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.protect](/_protect/Chemistry/Chemist/Gibbs,Josiah_Willard.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Gibbs,Josiah_Willard.protect|Gibbs,Josiah_Willard.protect]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.private](/_private/Chemistry/Chemist/Gibbs,Josiah_Willard.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Gibbs,Josiah_Willard.private|Gibbs,Josiah_Willard.private]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.personal](/_personal/Chemistry/Chemist/Gibbs,Josiah_Willard.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Gibbs,Josiah_Willard.personal|Gibbs,Josiah_Willard.personal]] 
 
-### #is_/same_as :: [Gibbs,Josiah_Willard.secret](/_secret/Chemistry/Chemist/Gibbs,Josiah_Willard.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Gibbs,Josiah_Willard.secret|Gibbs,Josiah_Willard.secret]] 
 

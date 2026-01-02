@@ -57,17 +57,17 @@ OpenStreetMap_tag: denomination=mormon
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mormonism](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism|Mormonism]] 
 
-### #is_/same_as :: [Mormonism.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.public|Mormonism.public]] 
 
-### #is_/same_as :: [Mormonism.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.internal|Mormonism.internal]] 
 
-### #is_/same_as :: [Mormonism.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.protect|Mormonism.protect]] 
 
-### #is_/same_as :: [Mormonism.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.private|Mormonism.private]] 
 
-### #is_/same_as :: [Mormonism.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.personal|Mormonism.personal]] 
 
-### #is_/same_as :: [Mormonism.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Mormonism.secret|Mormonism.secret]] 
 

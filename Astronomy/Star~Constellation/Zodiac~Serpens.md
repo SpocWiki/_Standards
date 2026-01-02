@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/SerpensCaudaCC.jpg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Serpens](/_Standards/Astronomy/Star~Constellation/Zodiac~Serpens.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Serpens|Zodiac~Serpens]] 
 
-### #is_/same_as :: [Zodiac~Serpens.public](/_public/Astronomy/Star~Constellation/Zodiac~Serpens.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Serpens.public|Zodiac~Serpens.public]] 
 
-### #is_/same_as :: [Zodiac~Serpens.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Serpens.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Serpens.internal|Zodiac~Serpens.internal]] 
 
-### #is_/same_as :: [Zodiac~Serpens.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Serpens.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Serpens.protect|Zodiac~Serpens.protect]] 
 
-### #is_/same_as :: [Zodiac~Serpens.private](/_private/Astronomy/Star~Constellation/Zodiac~Serpens.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Serpens.private|Zodiac~Serpens.private]] 
 
-### #is_/same_as :: [Zodiac~Serpens.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Serpens.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Serpens.personal|Zodiac~Serpens.personal]] 
 
-### #is_/same_as :: [Zodiac~Serpens.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Serpens.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Serpens.secret|Zodiac~Serpens.secret]] 
 

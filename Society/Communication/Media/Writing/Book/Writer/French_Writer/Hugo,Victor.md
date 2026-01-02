@@ -236,17 +236,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hugo,Victor](/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor|Hugo,Victor]] 
 
-### #is_/same_as :: [Hugo,Victor.public](/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.public|Hugo,Victor.public]] 
 
-### #is_/same_as :: [Hugo,Victor.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.internal|Hugo,Victor.internal]] 
 
-### #is_/same_as :: [Hugo,Victor.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.protect|Hugo,Victor.protect]] 
 
-### #is_/same_as :: [Hugo,Victor.private](/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.private|Hugo,Victor.private]] 
 
-### #is_/same_as :: [Hugo,Victor.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.personal|Hugo,Victor.personal]] 
 
-### #is_/same_as :: [Hugo,Victor.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/French_Writer/Hugo,Victor.secret|Hugo,Victor.secret]] 
 

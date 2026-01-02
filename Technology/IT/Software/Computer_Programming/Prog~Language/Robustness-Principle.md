@@ -33,17 +33,17 @@ and lead to the proliferation of accidental functionality.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Robustness-Principle](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle|Robustness-Principle]] 
 
-### #is_/same_as :: [Robustness-Principle.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.public|Robustness-Principle.public]] 
 
-### #is_/same_as :: [Robustness-Principle.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.internal|Robustness-Principle.internal]] 
 
-### #is_/same_as :: [Robustness-Principle.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.protect|Robustness-Principle.protect]] 
 
-### #is_/same_as :: [Robustness-Principle.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.private|Robustness-Principle.private]] 
 
-### #is_/same_as :: [Robustness-Principle.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.personal|Robustness-Principle.personal]] 
 
-### #is_/same_as :: [Robustness-Principle.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Robustness-Principle.secret|Robustness-Principle.secret]] 
 

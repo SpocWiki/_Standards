@@ -53,17 +53,17 @@ Dewey_Decimal_Classification: "531.381"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mechanical_Stress](/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress|Mechanical_Stress]] 
 
-### #is_/same_as :: [Mechanical_Stress.public](/_public/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.public|Mechanical_Stress.public]] 
 
-### #is_/same_as :: [Mechanical_Stress.internal](/_internal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.internal|Mechanical_Stress.internal]] 
 
-### #is_/same_as :: [Mechanical_Stress.protect](/_protect/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.protect|Mechanical_Stress.protect]] 
 
-### #is_/same_as :: [Mechanical_Stress.private](/_private/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.private|Mechanical_Stress.private]] 
 
-### #is_/same_as :: [Mechanical_Stress.personal](/_personal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.personal|Mechanical_Stress.personal]] 
 
-### #is_/same_as :: [Mechanical_Stress.secret](/_secret/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Elasticity/Mechanical_Stress.secret|Mechanical_Stress.secret]] 
 

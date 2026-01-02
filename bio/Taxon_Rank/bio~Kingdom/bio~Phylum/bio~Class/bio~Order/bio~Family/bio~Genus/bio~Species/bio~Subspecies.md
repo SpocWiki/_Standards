@@ -76,17 +76,17 @@ OmegaWiki_Defined_Meaning: 960607
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Subspecies](bio~Subspecies.md) 
+### #is_/same_as :: [[/_Standards/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies|bio~Subspecies]] 
 
-### #is_/same_as :: [Subspecies.public](/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.public.md) 
+### #is_/same_as :: [[/_public/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.public|bio~Subspecies.public]] 
 
-### #is_/same_as :: [Subspecies.internal](/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.internal|bio~Subspecies.internal]] 
 
-### #is_/same_as :: [Subspecies.protect](/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.protect|bio~Subspecies.protect]] 
 
-### #is_/same_as :: [Subspecies.private](/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.private.md) 
+### #is_/same_as :: [[/_private/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.private|bio~Subspecies.private]] 
 
-### #is_/same_as :: [Subspecies.personal](/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.personal|bio~Subspecies.personal]] 
 
-### #is_/same_as :: [Subspecies.secret](/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio-Genus/bio-Species/Subspecies.secret.md)
+### #is_/same_as :: [[/_secret/bio/Taxon_Rank/bio~Kingdom/bio~Phylum/bio~Class/bio~Order/bio~Family/bio~Genus/bio~Species/bio~Subspecies.secret|bio~Subspecies.secret]] 
 

@@ -126,17 +126,17 @@ A lake (for example, Lake Pontrachain).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lake](/_Standards/Earth/Geology/Landform/body_of_water/Lake.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Landform/body_of_water/Lake|Lake]] 
 
-### #is_/same_as :: [Lake.public](/_public/Earth/Geology/Landform/body_of_water/Lake.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Landform/body_of_water/Lake.public|Lake.public]] 
 
-### #is_/same_as :: [Lake.internal](/_internal/Earth/Geology/Landform/body_of_water/Lake.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Landform/body_of_water/Lake.internal|Lake.internal]] 
 
-### #is_/same_as :: [Lake.protect](/_protect/Earth/Geology/Landform/body_of_water/Lake.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Landform/body_of_water/Lake.protect|Lake.protect]] 
 
-### #is_/same_as :: [Lake.private](/_private/Earth/Geology/Landform/body_of_water/Lake.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Landform/body_of_water/Lake.private|Lake.private]] 
 
-### #is_/same_as :: [Lake.personal](/_personal/Earth/Geology/Landform/body_of_water/Lake.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Landform/body_of_water/Lake.personal|Lake.personal]] 
 
-### #is_/same_as :: [Lake.secret](/_secret/Earth/Geology/Landform/body_of_water/Lake.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Landform/body_of_water/Lake.secret|Lake.secret]] 
 

@@ -24,17 +24,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyclostomi](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi|Cyclostomi]] 
 
-### #is_/same_as :: [Cyclostomi.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.public|Cyclostomi.public]] 
 
-### #is_/same_as :: [Cyclostomi.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.internal|Cyclostomi.internal]] 
 
-### #is_/same_as :: [Cyclostomi.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.protect|Cyclostomi.protect]] 
 
-### #is_/same_as :: [Cyclostomi.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.private|Cyclostomi.private]] 
 
-### #is_/same_as :: [Cyclostomi.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.personal|Cyclostomi.personal]] 
 
-### #is_/same_as :: [Cyclostomi.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha/Cyclostomi.secret|Cyclostomi.secret]] 
 

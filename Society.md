@@ -112,17 +112,17 @@ This Folder also covers all types of social Sciences:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Society](/_Standards/Society.md) 
+### #is_/same_as :: [[/_Standards/Society|Society]] 
 
-### #is_/same_as :: [Society.public](/_public/Society.public.md) 
+### #is_/same_as :: [[/_public/Society.public|Society.public]] 
 
-### #is_/same_as :: [Society.internal](/_internal/Society.internal.md) 
+### #is_/same_as :: [[/_internal/Society.internal|Society.internal]] 
 
-### #is_/same_as :: [Society.protect](/_protect/Society.protect.md) 
+### #is_/same_as :: [[/_protect/Society.protect|Society.protect]] 
 
-### #is_/same_as :: [Society.private](/_private/Society.private.md) 
+### #is_/same_as :: [[/_private/Society.private|Society.private]] 
 
-### #is_/same_as :: [Society.personal](/_personal/Society.personal.md) 
+### #is_/same_as :: [[/_personal/Society.personal|Society.personal]] 
 
-### #is_/same_as :: [Society.secret](/_secret/Society.secret.md)
+### #is_/same_as :: [[/_secret/Society.secret|Society.secret]] 
 

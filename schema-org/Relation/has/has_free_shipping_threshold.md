@@ -45,17 +45,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_free_shipping_threshold](/_Standards/schema-org/Relation/has/has_free_shipping_threshold.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_free_shipping_threshold|has_free_shipping_threshold]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.public](/_public/schema-org/Relation/has/has_free_shipping_threshold.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_free_shipping_threshold.public|has_free_shipping_threshold.public]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.internal](/_internal/schema-org/Relation/has/has_free_shipping_threshold.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_free_shipping_threshold.internal|has_free_shipping_threshold.internal]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.protect](/_protect/schema-org/Relation/has/has_free_shipping_threshold.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_free_shipping_threshold.protect|has_free_shipping_threshold.protect]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.private](/_private/schema-org/Relation/has/has_free_shipping_threshold.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_free_shipping_threshold.private|has_free_shipping_threshold.private]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.personal](/_personal/schema-org/Relation/has/has_free_shipping_threshold.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_free_shipping_threshold.personal|has_free_shipping_threshold.personal]] 
 
-### #is_/same_as :: [has_free_shipping_threshold.secret](/_secret/schema-org/Relation/has/has_free_shipping_threshold.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_free_shipping_threshold.secret|has_free_shipping_threshold.secret]] 
 

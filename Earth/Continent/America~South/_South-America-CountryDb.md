@@ -448,17 +448,17 @@ filters:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_South-America-CountryDb](/_Standards/Earth/Continent/America~South/_South-America-CountryDb.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/_South-America-CountryDb|_South-America-CountryDb]] 
 
-### #is_/same_as :: [_South-America-CountryDb.public](/_public/Earth/Continent/America~South/_South-America-CountryDb.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/_South-America-CountryDb.public|_South-America-CountryDb.public]] 
 
-### #is_/same_as :: [_South-America-CountryDb.internal](/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/_South-America-CountryDb.internal|_South-America-CountryDb.internal]] 
 
-### #is_/same_as :: [_South-America-CountryDb.protect](/_protect/Earth/Continent/America~South/_South-America-CountryDb.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/_South-America-CountryDb.protect|_South-America-CountryDb.protect]] 
 
-### #is_/same_as :: [_South-America-CountryDb.private](/_private/Earth/Continent/America~South/_South-America-CountryDb.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/_South-America-CountryDb.private|_South-America-CountryDb.private]] 
 
-### #is_/same_as :: [_South-America-CountryDb.personal](/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/_South-America-CountryDb.personal|_South-America-CountryDb.personal]] 
 
-### #is_/same_as :: [_South-America-CountryDb.secret](/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/_South-America-CountryDb.secret|_South-America-CountryDb.secret]] 
 

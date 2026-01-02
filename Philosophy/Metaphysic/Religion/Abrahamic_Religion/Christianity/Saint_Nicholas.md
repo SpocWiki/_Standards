@@ -126,17 +126,17 @@ Libris_URI: sq4670fb25bjlcg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Nicholas](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas|Saint_Nicholas]] 
 
-### #is_/same_as :: [Saint_Nicholas.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.public|Saint_Nicholas.public]] 
 
-### #is_/same_as :: [Saint_Nicholas.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.internal|Saint_Nicholas.internal]] 
 
-### #is_/same_as :: [Saint_Nicholas.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.protect|Saint_Nicholas.protect]] 
 
-### #is_/same_as :: [Saint_Nicholas.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.private|Saint_Nicholas.private]] 
 
-### #is_/same_as :: [Saint_Nicholas.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.personal|Saint_Nicholas.personal]] 
 
-### #is_/same_as :: [Saint_Nicholas.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Saint_Nicholas.secret|Saint_Nicholas.secret]] 
 

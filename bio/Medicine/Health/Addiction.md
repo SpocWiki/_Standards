@@ -51,17 +51,17 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Addiction,8094302]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Addiction](/_Standards/bio/Medicine/Health/Addiction.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Health/Addiction|Addiction]] 
 
-### #is_/same_as :: [Addiction.public](/_public/bio/Medicine/Health/Addiction.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Health/Addiction.public|Addiction.public]] 
 
-### #is_/same_as :: [Addiction.internal](/_internal/bio/Medicine/Health/Addiction.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Health/Addiction.internal|Addiction.internal]] 
 
-### #is_/same_as :: [Addiction.protect](/_protect/bio/Medicine/Health/Addiction.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Health/Addiction.protect|Addiction.protect]] 
 
-### #is_/same_as :: [Addiction.private](/_private/bio/Medicine/Health/Addiction.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Health/Addiction.private|Addiction.private]] 
 
-### #is_/same_as :: [Addiction.personal](/_personal/bio/Medicine/Health/Addiction.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Health/Addiction.personal|Addiction.personal]] 
 
-### #is_/same_as :: [Addiction.secret](/_secret/bio/Medicine/Health/Addiction.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Health/Addiction.secret|Addiction.secret]] 
 

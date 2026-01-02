@@ -137,17 +137,17 @@ ISNI: 0000000084029206
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lindgren,Astrid](/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid|Lindgren,Astrid]] 
 
-### #is_/same_as :: [Lindgren,Astrid.public](/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.public|Lindgren,Astrid.public]] 
 
-### #is_/same_as :: [Lindgren,Astrid.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.internal|Lindgren,Astrid.internal]] 
 
-### #is_/same_as :: [Lindgren,Astrid.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.protect|Lindgren,Astrid.protect]] 
 
-### #is_/same_as :: [Lindgren,Astrid.private](/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.private|Lindgren,Astrid.private]] 
 
-### #is_/same_as :: [Lindgren,Astrid.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.personal|Lindgren,Astrid.personal]] 
 
-### #is_/same_as :: [Lindgren,Astrid.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Lindgren,Astrid.secret|Lindgren,Astrid.secret]] 
 

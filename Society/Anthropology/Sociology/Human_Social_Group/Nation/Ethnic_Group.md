@@ -84,17 +84,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ethnic_Group](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group|Ethnic_Group]] 
 
-### #is_/same_as :: [Ethnic_Group.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.public|Ethnic_Group.public]] 
 
-### #is_/same_as :: [Ethnic_Group.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.internal|Ethnic_Group.internal]] 
 
-### #is_/same_as :: [Ethnic_Group.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.protect|Ethnic_Group.protect]] 
 
-### #is_/same_as :: [Ethnic_Group.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.private|Ethnic_Group.private]] 
 
-### #is_/same_as :: [Ethnic_Group.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.personal|Ethnic_Group.personal]] 
 
-### #is_/same_as :: [Ethnic_Group.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Nation/Ethnic_Group.secret|Ethnic_Group.secret]] 
 

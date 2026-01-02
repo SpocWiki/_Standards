@@ -47,17 +47,17 @@ Commons_category: History of aviation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [History_of_Aviation](/_Standards/Technology/Aviation/History_of_Aviation.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/History_of_Aviation|History_of_Aviation]] 
 
-### #is_/same_as :: [History_of_Aviation.public](/_public/Technology/Aviation/History_of_Aviation.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/History_of_Aviation.public|History_of_Aviation.public]] 
 
-### #is_/same_as :: [History_of_Aviation.internal](/_internal/Technology/Aviation/History_of_Aviation.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/History_of_Aviation.internal|History_of_Aviation.internal]] 
 
-### #is_/same_as :: [History_of_Aviation.protect](/_protect/Technology/Aviation/History_of_Aviation.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/History_of_Aviation.protect|History_of_Aviation.protect]] 
 
-### #is_/same_as :: [History_of_Aviation.private](/_private/Technology/Aviation/History_of_Aviation.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/History_of_Aviation.private|History_of_Aviation.private]] 
 
-### #is_/same_as :: [History_of_Aviation.personal](/_personal/Technology/Aviation/History_of_Aviation.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/History_of_Aviation.personal|History_of_Aviation.personal]] 
 
-### #is_/same_as :: [History_of_Aviation.secret](/_secret/Technology/Aviation/History_of_Aviation.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/History_of_Aviation.secret|History_of_Aviation.secret]] 
 

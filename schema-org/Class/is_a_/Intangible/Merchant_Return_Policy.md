@@ -47,17 +47,17 @@ A MerchantReturnPolicy provides information about product return policies associ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Merchant_Return_Policy](/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy|Merchant_Return_Policy]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.public](/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.public|Merchant_Return_Policy.public]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.internal](/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.internal|Merchant_Return_Policy.internal]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.protect](/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.protect|Merchant_Return_Policy.protect]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.private](/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.private|Merchant_Return_Policy.private]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.personal](/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.personal|Merchant_Return_Policy.personal]] 
 
-### #is_/same_as :: [Merchant_Return_Policy.secret](/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Merchant_Return_Policy.secret|Merchant_Return_Policy.secret]] 
 

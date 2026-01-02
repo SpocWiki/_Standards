@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scurvy](Scurvy.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy|Scurvy]] 
 
-### #is_/same_as :: [Scurvy.public](/_public/bio/Metabolism/Nutrition/Vitamin/Scurvy.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.public|Scurvy.public]] 
 
-### #is_/same_as :: [Scurvy.internal](/_internal/bio/Metabolism/Nutrition/Vitamin/Scurvy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.internal|Scurvy.internal]] 
 
-### #is_/same_as :: [Scurvy.protect](/_protect/bio/Metabolism/Nutrition/Vitamin/Scurvy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.protect|Scurvy.protect]] 
 
-### #is_/same_as :: [Scurvy.private](/_private/bio/Metabolism/Nutrition/Vitamin/Scurvy.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.private|Scurvy.private]] 
 
-### #is_/same_as :: [Scurvy.personal](/_personal/bio/Metabolism/Nutrition/Vitamin/Scurvy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.personal|Scurvy.personal]] 
 
-### #is_/same_as :: [Scurvy.secret](/_secret/bio/Metabolism/Nutrition/Vitamin/Scurvy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin/Vitamin_C/Scurvy.secret|Scurvy.secret]] 
 

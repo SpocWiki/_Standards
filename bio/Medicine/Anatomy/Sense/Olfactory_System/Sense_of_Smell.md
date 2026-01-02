@@ -76,17 +76,17 @@ Commons_category: Smell
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sense_of_Smell](/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell|Sense_of_Smell]] 
 
-### #is_/same_as :: [Sense_of_Smell.public](/_public/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.public|Sense_of_Smell.public]] 
 
-### #is_/same_as :: [Sense_of_Smell.internal](/_internal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.internal|Sense_of_Smell.internal]] 
 
-### #is_/same_as :: [Sense_of_Smell.protect](/_protect/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.protect|Sense_of_Smell.protect]] 
 
-### #is_/same_as :: [Sense_of_Smell.private](/_private/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.private|Sense_of_Smell.private]] 
 
-### #is_/same_as :: [Sense_of_Smell.personal](/_personal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.personal|Sense_of_Smell.personal]] 
 
-### #is_/same_as :: [Sense_of_Smell.secret](/_secret/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Sense/Olfactory_System/Sense_of_Smell.secret|Sense_of_Smell.secret]] 
 

@@ -54,17 +54,17 @@ Dewey_Decimal_Classification: 551.7
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stratigraphy](/_Standards/Earth/Geology/Stratigraphy.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Stratigraphy|Stratigraphy]] 
 
-### #is_/same_as :: [Stratigraphy.public](/_public/Earth/Geology/Stratigraphy.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Stratigraphy.public|Stratigraphy.public]] 
 
-### #is_/same_as :: [Stratigraphy.internal](/_internal/Earth/Geology/Stratigraphy.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Stratigraphy.internal|Stratigraphy.internal]] 
 
-### #is_/same_as :: [Stratigraphy.protect](/_protect/Earth/Geology/Stratigraphy.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Stratigraphy.protect|Stratigraphy.protect]] 
 
-### #is_/same_as :: [Stratigraphy.private](/_private/Earth/Geology/Stratigraphy.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Stratigraphy.private|Stratigraphy.private]] 
 
-### #is_/same_as :: [Stratigraphy.personal](/_personal/Earth/Geology/Stratigraphy.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Stratigraphy.personal|Stratigraphy.personal]] 
 
-### #is_/same_as :: [Stratigraphy.secret](/_secret/Earth/Geology/Stratigraphy.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Stratigraphy.secret|Stratigraphy.secret]] 
 

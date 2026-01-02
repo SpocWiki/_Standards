@@ -115,17 +115,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/SVYASHCHENNIK.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Priest](/_Standards/Philosophy/Metaphysic/Religion/Priest.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Priest|Priest]] 
 
-### #is_/same_as :: [Priest.public](/_public/Philosophy/Metaphysic/Religion/Priest.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Priest.public|Priest.public]] 
 
-### #is_/same_as :: [Priest.internal](/_internal/Philosophy/Metaphysic/Religion/Priest.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Priest.internal|Priest.internal]] 
 
-### #is_/same_as :: [Priest.protect](/_protect/Philosophy/Metaphysic/Religion/Priest.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Priest.protect|Priest.protect]] 
 
-### #is_/same_as :: [Priest.private](/_private/Philosophy/Metaphysic/Religion/Priest.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Priest.private|Priest.private]] 
 
-### #is_/same_as :: [Priest.personal](/_personal/Philosophy/Metaphysic/Religion/Priest.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Priest.personal|Priest.personal]] 
 
-### #is_/same_as :: [Priest.secret](/_secret/Philosophy/Metaphysic/Religion/Priest.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Priest.secret|Priest.secret]] 
 

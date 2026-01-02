@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_toc_continuation](/_Standards/schema-org/Relation/has/has_toc_continuation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_toc_continuation|has_toc_continuation]] 
 
-### #is_/same_as :: [has_toc_continuation.public](/_public/schema-org/Relation/has/has_toc_continuation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_toc_continuation.public|has_toc_continuation.public]] 
 
-### #is_/same_as :: [has_toc_continuation.internal](/_internal/schema-org/Relation/has/has_toc_continuation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_toc_continuation.internal|has_toc_continuation.internal]] 
 
-### #is_/same_as :: [has_toc_continuation.protect](/_protect/schema-org/Relation/has/has_toc_continuation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_toc_continuation.protect|has_toc_continuation.protect]] 
 
-### #is_/same_as :: [has_toc_continuation.private](/_private/schema-org/Relation/has/has_toc_continuation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_toc_continuation.private|has_toc_continuation.private]] 
 
-### #is_/same_as :: [has_toc_continuation.personal](/_personal/schema-org/Relation/has/has_toc_continuation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_toc_continuation.personal|has_toc_continuation.personal]] 
 
-### #is_/same_as :: [has_toc_continuation.secret](/_secret/schema-org/Relation/has/has_toc_continuation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_toc_continuation.secret|has_toc_continuation.secret]] 
 

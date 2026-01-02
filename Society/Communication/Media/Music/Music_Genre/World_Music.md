@@ -44,17 +44,17 @@ subreddit: WorldMusic
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [World_Music](/_Standards/Society/Communication/Media/Music/Music_Genre/World_Music.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/World_Music|World_Music]] 
 
-### #is_/same_as :: [World_Music.public](/_public/Society/Communication/Media/Music/Music_Genre/World_Music.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/World_Music.public|World_Music.public]] 
 
-### #is_/same_as :: [World_Music.internal](/_internal/Society/Communication/Media/Music/Music_Genre/World_Music.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/World_Music.internal|World_Music.internal]] 
 
-### #is_/same_as :: [World_Music.protect](/_protect/Society/Communication/Media/Music/Music_Genre/World_Music.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/World_Music.protect|World_Music.protect]] 
 
-### #is_/same_as :: [World_Music.private](/_private/Society/Communication/Media/Music/Music_Genre/World_Music.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/World_Music.private|World_Music.private]] 
 
-### #is_/same_as :: [World_Music.personal](/_personal/Society/Communication/Media/Music/Music_Genre/World_Music.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/World_Music.personal|World_Music.personal]] 
 
-### #is_/same_as :: [World_Music.secret](/_secret/Society/Communication/Media/Music/Music_Genre/World_Music.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/World_Music.secret|World_Music.secret]] 
 

@@ -69,17 +69,17 @@ Commons_category: Metronomes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metronome](/_Standards/Society/Communication/Media/Music/Metronome.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Metronome|Metronome]] 
 
-### #is_/same_as :: [Metronome.public](/_public/Society/Communication/Media/Music/Metronome.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Metronome.public|Metronome.public]] 
 
-### #is_/same_as :: [Metronome.internal](/_internal/Society/Communication/Media/Music/Metronome.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Metronome.internal|Metronome.internal]] 
 
-### #is_/same_as :: [Metronome.protect](/_protect/Society/Communication/Media/Music/Metronome.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Metronome.protect|Metronome.protect]] 
 
-### #is_/same_as :: [Metronome.private](/_private/Society/Communication/Media/Music/Metronome.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Metronome.private|Metronome.private]] 
 
-### #is_/same_as :: [Metronome.personal](/_personal/Society/Communication/Media/Music/Metronome.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Metronome.personal|Metronome.personal]] 
 
-### #is_/same_as :: [Metronome.secret](/_secret/Society/Communication/Media/Music/Metronome.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Metronome.secret|Metronome.secret]] 
 

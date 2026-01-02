@@ -392,17 +392,17 @@ Capital ::  [[Congo~Rep/City/Brazzaville]] ]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Congo~Brazzaville](/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville|Congo~Brazzaville]] 
 
-### #is_/same_as :: [Congo~Brazzaville.public](/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.public|Congo~Brazzaville.public]] 
 
-### #is_/same_as :: [Congo~Brazzaville.internal](/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.internal|Congo~Brazzaville.internal]] 
 
-### #is_/same_as :: [Congo~Brazzaville.protect](/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.protect|Congo~Brazzaville.protect]] 
 
-### #is_/same_as :: [Congo~Brazzaville.private](/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.private|Congo~Brazzaville.private]] 
 
-### #is_/same_as :: [Congo~Brazzaville.personal](/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.personal|Congo~Brazzaville.personal]] 
 
-### #is_/same_as :: [Congo~Brazzaville.secret](/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Brazzaville.secret|Congo~Brazzaville.secret]] 
 

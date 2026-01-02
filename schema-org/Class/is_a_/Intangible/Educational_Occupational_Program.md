@@ -45,17 +45,17 @@ A program offered by an institution which determines the learning progress to ac
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Educational_Occupational_Program](/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program|Educational_Occupational_Program]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.public](/_public/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.public|Educational_Occupational_Program.public]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.internal](/_internal/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.internal|Educational_Occupational_Program.internal]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.protect](/_protect/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.protect|Educational_Occupational_Program.protect]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.private](/_private/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.private|Educational_Occupational_Program.private]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.personal](/_personal/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.personal|Educational_Occupational_Program.personal]] 
 
-### #is_/same_as :: [Educational_Occupational_Program.secret](/_secret/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Intangible/Educational_Occupational_Program.secret|Educational_Occupational_Program.secret]] 
 

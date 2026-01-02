@@ -30,17 +30,17 @@ _namelast: A
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star-Class~A](/_Standards/Astronomy/Star/Star~Class/Star-Class~A.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Star-Class~A|Star-Class~A]] 
 
-### #is_/same_as :: [Star-Class~A.public](/_public/Astronomy/Star/Star~Class/Star-Class~A.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Star-Class~A.public|Star-Class~A.public]] 
 
-### #is_/same_as :: [Star-Class~A.internal](/_internal/Astronomy/Star/Star~Class/Star-Class~A.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Star-Class~A.internal|Star-Class~A.internal]] 
 
-### #is_/same_as :: [Star-Class~A.protect](/_protect/Astronomy/Star/Star~Class/Star-Class~A.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Star-Class~A.protect|Star-Class~A.protect]] 
 
-### #is_/same_as :: [Star-Class~A.private](/_private/Astronomy/Star/Star~Class/Star-Class~A.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Star-Class~A.private|Star-Class~A.private]] 
 
-### #is_/same_as :: [Star-Class~A.personal](/_personal/Astronomy/Star/Star~Class/Star-Class~A.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Star-Class~A.personal|Star-Class~A.personal]] 
 
-### #is_/same_as :: [Star-Class~A.secret](/_secret/Astronomy/Star/Star~Class/Star-Class~A.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Star-Class~A.secret|Star-Class~A.secret]] 
 

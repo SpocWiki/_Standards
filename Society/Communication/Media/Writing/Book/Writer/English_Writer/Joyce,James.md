@@ -210,17 +210,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Joyce,James](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James|Joyce,James]] 
 
-### #is_/same_as :: [Joyce,James.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.public|Joyce,James.public]] 
 
-### #is_/same_as :: [Joyce,James.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.internal|Joyce,James.internal]] 
 
-### #is_/same_as :: [Joyce,James.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.protect|Joyce,James.protect]] 
 
-### #is_/same_as :: [Joyce,James.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.private|Joyce,James.private]] 
 
-### #is_/same_as :: [Joyce,James.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.personal|Joyce,James.personal]] 
 
-### #is_/same_as :: [Joyce,James.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Joyce,James.secret|Joyce,James.secret]] 
 

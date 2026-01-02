@@ -39,17 +39,17 @@ Any medical imaging modality typically used for diagnostic purposes. Enumerated 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Imaging_Technique](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique|Medical_Imaging_Technique]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.public|Medical_Imaging_Technique.public]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.internal|Medical_Imaging_Technique.internal]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.protect|Medical_Imaging_Technique.protect]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.private|Medical_Imaging_Technique.private]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.personal|Medical_Imaging_Technique.personal]] 
 
-### #is_/same_as :: [Medical_Imaging_Technique.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Imaging_Technique.secret|Medical_Imaging_Technique.secret]] 
 

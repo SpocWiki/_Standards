@@ -109,17 +109,17 @@ birth_name: Ruby Catherine Stevens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stanwyck,Barbara](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara|Stanwyck,Barbara]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.public|Stanwyck,Barbara.public]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.internal|Stanwyck,Barbara.internal]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.protect|Stanwyck,Barbara.protect]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.private|Stanwyck,Barbara.private]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.personal|Stanwyck,Barbara.personal]] 
 
-### #is_/same_as :: [Stanwyck,Barbara.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Stanwyck,Barbara.secret|Stanwyck,Barbara.secret]] 
 

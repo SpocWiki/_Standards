@@ -64,17 +64,17 @@ OpenStreetMap_tag: clothing=swimwear
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Swimsuit](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit|Swimsuit]] 
 
-### #is_/same_as :: [Swimsuit.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.public|Swimsuit.public]] 
 
-### #is_/same_as :: [Swimsuit.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.internal|Swimsuit.internal]] 
 
-### #is_/same_as :: [Swimsuit.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.protect|Swimsuit.protect]] 
 
-### #is_/same_as :: [Swimsuit.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.private|Swimsuit.private]] 
 
-### #is_/same_as :: [Swimsuit.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.personal|Swimsuit.personal]] 
 
-### #is_/same_as :: [Swimsuit.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Water_Sport/Swimming/Swimsuit.secret|Swimsuit.secret]] 
 

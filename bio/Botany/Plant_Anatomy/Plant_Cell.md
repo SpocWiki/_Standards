@@ -42,17 +42,17 @@ Commons_category: Plant cells
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Cell](/_Standards/bio/Botany/Plant_Anatomy/Plant_Cell.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Cell|Plant_Cell]] 
 
-### #is_/same_as :: [Plant_Cell.public](/_public/bio/Botany/Plant_Anatomy/Plant_Cell.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Cell.public|Plant_Cell.public]] 
 
-### #is_/same_as :: [Plant_Cell.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Cell.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Cell.internal|Plant_Cell.internal]] 
 
-### #is_/same_as :: [Plant_Cell.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Cell.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Cell.protect|Plant_Cell.protect]] 
 
-### #is_/same_as :: [Plant_Cell.private](/_private/bio/Botany/Plant_Anatomy/Plant_Cell.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Cell.private|Plant_Cell.private]] 
 
-### #is_/same_as :: [Plant_Cell.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Cell.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Cell.personal|Plant_Cell.personal]] 
 
-### #is_/same_as :: [Plant_Cell.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Cell.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Cell.secret|Plant_Cell.secret]] 
 

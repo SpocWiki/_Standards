@@ -33,17 +33,17 @@ subclass_of: '[[_Standards/WikiData/WD~circle_of_a_sphere,91345714]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spherical_Circle](/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle|Spherical_Circle]] 
 
-### #is_/same_as :: [Spherical_Circle.public](/_public/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.public|Spherical_Circle.public]] 
 
-### #is_/same_as :: [Spherical_Circle.internal](/_internal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.internal|Spherical_Circle.internal]] 
 
-### #is_/same_as :: [Spherical_Circle.protect](/_protect/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.protect|Spherical_Circle.protect]] 
 
-### #is_/same_as :: [Spherical_Circle.private](/_private/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.private|Spherical_Circle.private]] 
 
-### #is_/same_as :: [Spherical_Circle.personal](/_personal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.personal|Spherical_Circle.personal]] 
 
-### #is_/same_as :: [Spherical_Circle.secret](/_secret/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-3D/Sphere/Spherical_Circle.secret|Spherical_Circle.secret]] 
 

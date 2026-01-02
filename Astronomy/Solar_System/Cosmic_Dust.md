@@ -59,17 +59,17 @@ Commons_category: Interstellar dust
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cosmic_Dust](/_Standards/Astronomy/Solar_System/Cosmic_Dust.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Cosmic_Dust|Cosmic_Dust]] 
 
-### #is_/same_as :: [Cosmic_Dust.public](/_public/Astronomy/Solar_System/Cosmic_Dust.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Cosmic_Dust.public|Cosmic_Dust.public]] 
 
-### #is_/same_as :: [Cosmic_Dust.internal](/_internal/Astronomy/Solar_System/Cosmic_Dust.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Cosmic_Dust.internal|Cosmic_Dust.internal]] 
 
-### #is_/same_as :: [Cosmic_Dust.protect](/_protect/Astronomy/Solar_System/Cosmic_Dust.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Cosmic_Dust.protect|Cosmic_Dust.protect]] 
 
-### #is_/same_as :: [Cosmic_Dust.private](/_private/Astronomy/Solar_System/Cosmic_Dust.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Cosmic_Dust.private|Cosmic_Dust.private]] 
 
-### #is_/same_as :: [Cosmic_Dust.personal](/_personal/Astronomy/Solar_System/Cosmic_Dust.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Cosmic_Dust.personal|Cosmic_Dust.personal]] 
 
-### #is_/same_as :: [Cosmic_Dust.secret](/_secret/Astronomy/Solar_System/Cosmic_Dust.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Cosmic_Dust.secret|Cosmic_Dust.secret]] 
 

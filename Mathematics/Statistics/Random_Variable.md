@@ -78,17 +78,17 @@ Commons_category: Random variable
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Random_Variable](/_Standards/Mathematics/Statistics/Random_Variable.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Random_Variable|Random_Variable]] 
 
-### #is_/same_as :: [Random_Variable.public](/_public/Mathematics/Statistics/Random_Variable.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Random_Variable.public|Random_Variable.public]] 
 
-### #is_/same_as :: [Random_Variable.internal](/_internal/Mathematics/Statistics/Random_Variable.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Random_Variable.internal|Random_Variable.internal]] 
 
-### #is_/same_as :: [Random_Variable.protect](/_protect/Mathematics/Statistics/Random_Variable.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Random_Variable.protect|Random_Variable.protect]] 
 
-### #is_/same_as :: [Random_Variable.private](/_private/Mathematics/Statistics/Random_Variable.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Random_Variable.private|Random_Variable.private]] 
 
-### #is_/same_as :: [Random_Variable.personal](/_personal/Mathematics/Statistics/Random_Variable.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Random_Variable.personal|Random_Variable.personal]] 
 
-### #is_/same_as :: [Random_Variable.secret](/_secret/Mathematics/Statistics/Random_Variable.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Random_Variable.secret|Random_Variable.secret]] 
 

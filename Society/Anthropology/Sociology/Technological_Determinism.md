@@ -29,17 +29,17 @@ Commons_category: Technology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Technological_Determinism](/_Standards/Society/Anthropology/Sociology/Technological_Determinism.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Technological_Determinism|Technological_Determinism]] 
 
-### #is_/same_as :: [Technological_Determinism.public](/_public/Society/Anthropology/Sociology/Technological_Determinism.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Technological_Determinism.public|Technological_Determinism.public]] 
 
-### #is_/same_as :: [Technological_Determinism.internal](/_internal/Society/Anthropology/Sociology/Technological_Determinism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Technological_Determinism.internal|Technological_Determinism.internal]] 
 
-### #is_/same_as :: [Technological_Determinism.protect](/_protect/Society/Anthropology/Sociology/Technological_Determinism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Technological_Determinism.protect|Technological_Determinism.protect]] 
 
-### #is_/same_as :: [Technological_Determinism.private](/_private/Society/Anthropology/Sociology/Technological_Determinism.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Technological_Determinism.private|Technological_Determinism.private]] 
 
-### #is_/same_as :: [Technological_Determinism.personal](/_personal/Society/Anthropology/Sociology/Technological_Determinism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Technological_Determinism.personal|Technological_Determinism.personal]] 
 
-### #is_/same_as :: [Technological_Determinism.secret](/_secret/Society/Anthropology/Sociology/Technological_Determinism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Technological_Determinism.secret|Technological_Determinism.secret]] 
 

@@ -103,17 +103,17 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9129
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hephaestus](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus|Hephaestus]] 
 
-### #is_/same_as :: [Hephaestus.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.public|Hephaestus.public]] 
 
-### #is_/same_as :: [Hephaestus.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.internal|Hephaestus.internal]] 
 
-### #is_/same_as :: [Hephaestus.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.protect|Hephaestus.protect]] 
 
-### #is_/same_as :: [Hephaestus.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.private|Hephaestus.private]] 
 
-### #is_/same_as :: [Hephaestus.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.personal|Hephaestus.personal]] 
 
-### #is_/same_as :: [Hephaestus.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Hephaestus.secret|Hephaestus.secret]] 
 

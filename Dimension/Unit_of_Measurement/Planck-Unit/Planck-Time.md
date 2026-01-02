@@ -9,17 +9,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Planck-Time](/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time|Planck-Time]] 
 
-### #is_/same_as :: [Planck-Time.public](/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.public|Planck-Time.public]] 
 
-### #is_/same_as :: [Planck-Time.internal](/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.internal|Planck-Time.internal]] 
 
-### #is_/same_as :: [Planck-Time.protect](/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.protect|Planck-Time.protect]] 
 
-### #is_/same_as :: [Planck-Time.private](/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.private|Planck-Time.private]] 
 
-### #is_/same_as :: [Planck-Time.personal](/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.personal|Planck-Time.personal]] 
 
-### #is_/same_as :: [Planck-Time.secret](/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Unit_of_Measurement/Planck-Unit/Planck-Time.secret|Planck-Time.secret]] 
 

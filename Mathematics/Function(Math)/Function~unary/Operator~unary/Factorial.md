@@ -65,17 +65,17 @@ Commons_category: Factorial (function)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Factorial](Factorial.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial|Factorial]] 
 
-### #is_/same_as :: [Factorial.public](/_public/Mathematics/Function(Math)/Function~unary/Factorial.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.public|Factorial.public]] 
 
-### #is_/same_as :: [Factorial.internal](/_internal/Mathematics/Function(Math)/Function~unary/Factorial.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.internal|Factorial.internal]] 
 
-### #is_/same_as :: [Factorial.protect](/_protect/Mathematics/Function(Math)/Function~unary/Factorial.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.protect|Factorial.protect]] 
 
-### #is_/same_as :: [Factorial.private](/_private/Mathematics/Function(Math)/Function~unary/Factorial.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.private|Factorial.private]] 
 
-### #is_/same_as :: [Factorial.personal](/_personal/Mathematics/Function(Math)/Function~unary/Factorial.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.personal|Factorial.personal]] 
 
-### #is_/same_as :: [Factorial.secret](/_secret/Mathematics/Function(Math)/Function~unary/Factorial.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~unary/Operator~unary/Factorial.secret|Factorial.secret]] 
 

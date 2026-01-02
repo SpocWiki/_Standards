@@ -48,17 +48,17 @@ Commons_category: Young adult fiction
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Young_Adult_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature|Young_Adult_Literature]] 
 
-### #is_/same_as :: [Young_Adult_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.public|Young_Adult_Literature.public]] 
 
-### #is_/same_as :: [Young_Adult_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.internal|Young_Adult_Literature.internal]] 
 
-### #is_/same_as :: [Young_Adult_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.protect|Young_Adult_Literature.protect]] 
 
-### #is_/same_as :: [Young_Adult_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.private|Young_Adult_Literature.private]] 
 
-### #is_/same_as :: [Young_Adult_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.personal|Young_Adult_Literature.personal]] 
 
-### #is_/same_as :: [Young_Adult_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literary_Genre/Young_Adult_Literature.secret|Young_Adult_Literature.secret]] 
 

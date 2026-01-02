@@ -37,17 +37,17 @@ An ice cream shop.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~IceCreamShop](/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop|FileClass~IceCreamShop]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.public](/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.public|FileClass~IceCreamShop.public]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.internal](/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.internal|FileClass~IceCreamShop.internal]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.protect](/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.protect|FileClass~IceCreamShop.protect]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.private](/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.private|FileClass~IceCreamShop.private]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.personal](/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.personal|FileClass~IceCreamShop.personal]] 
 
-### #is_/same_as :: [FileClass~IceCreamShop.secret](/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Organization/FileClass~OrganizationAndPlace/FileClass~FoodEstablishment/FileClass~IceCreamShop.secret|FileClass~IceCreamShop.secret]] 
 

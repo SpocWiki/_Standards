@@ -45,17 +45,17 @@ Dewey_Decimal_Classification: "530.141"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Electromagnetic_Field](/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field|Electromagnetic_Field]] 
 
-### #is_/same_as :: [Electromagnetic_Field.public](/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.public|Electromagnetic_Field.public]] 
 
-### #is_/same_as :: [Electromagnetic_Field.internal](/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.internal|Electromagnetic_Field.internal]] 
 
-### #is_/same_as :: [Electromagnetic_Field.protect](/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.protect|Electromagnetic_Field.protect]] 
 
-### #is_/same_as :: [Electromagnetic_Field.private](/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.private|Electromagnetic_Field.private]] 
 
-### #is_/same_as :: [Electromagnetic_Field.personal](/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.personal|Electromagnetic_Field.personal]] 
 
-### #is_/same_as :: [Electromagnetic_Field.secret](/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fundamental_Interaction/Electromagnetism/Electromagnetic_Field.secret|Electromagnetic_Field.secret]] 
 

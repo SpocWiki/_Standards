@@ -191,17 +191,17 @@ writing_system:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-por](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por|Lang-por]] 
 
-### #is_/same_as :: [Lang-por.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.public|Lang-por.public]] 
 
-### #is_/same_as :: [Lang-por.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.internal|Lang-por.internal]] 
 
-### #is_/same_as :: [Lang-por.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.protect|Lang-por.protect]] 
 
-### #is_/same_as :: [Lang-por.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.private|Lang-por.private]] 
 
-### #is_/same_as :: [Lang-por.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.personal|Lang-por.personal]] 
 
-### #is_/same_as :: [Lang-por.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Italic/LangFamily-Romance/Lang-por.secret|Lang-por.secret]] 
 

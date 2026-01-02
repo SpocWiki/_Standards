@@ -185,17 +185,17 @@ ZVG_number: 8240
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Copper](/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Copper.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-11-Copper/Copper|Copper]] 
 
-### #is_/same_as :: [Copper.public](/_public/Chemistry/Chemical_Element/Group-11-Copper/Copper.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-11-Copper/Copper.public|Copper.public]] 
 
-### #is_/same_as :: [Copper.internal](/_internal/Chemistry/Chemical_Element/Group-11-Copper/Copper.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-11-Copper/Copper.internal|Copper.internal]] 
 
-### #is_/same_as :: [Copper.protect](/_protect/Chemistry/Chemical_Element/Group-11-Copper/Copper.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-11-Copper/Copper.protect|Copper.protect]] 
 
-### #is_/same_as :: [Copper.private](/_private/Chemistry/Chemical_Element/Group-11-Copper/Copper.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-11-Copper/Copper.private|Copper.private]] 
 
-### #is_/same_as :: [Copper.personal](/_personal/Chemistry/Chemical_Element/Group-11-Copper/Copper.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-11-Copper/Copper.personal|Copper.personal]] 
 
-### #is_/same_as :: [Copper.secret](/_secret/Chemistry/Chemical_Element/Group-11-Copper/Copper.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Copper.secret|Copper.secret]] 
 

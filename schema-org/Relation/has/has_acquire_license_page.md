@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_acquire_license_page](/_Standards/schema-org/Relation/has/has_acquire_license_page.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_acquire_license_page|has_acquire_license_page]] 
 
-### #is_/same_as :: [has_acquire_license_page.public](/_public/schema-org/Relation/has/has_acquire_license_page.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_acquire_license_page.public|has_acquire_license_page.public]] 
 
-### #is_/same_as :: [has_acquire_license_page.internal](/_internal/schema-org/Relation/has/has_acquire_license_page.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_acquire_license_page.internal|has_acquire_license_page.internal]] 
 
-### #is_/same_as :: [has_acquire_license_page.protect](/_protect/schema-org/Relation/has/has_acquire_license_page.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_acquire_license_page.protect|has_acquire_license_page.protect]] 
 
-### #is_/same_as :: [has_acquire_license_page.private](/_private/schema-org/Relation/has/has_acquire_license_page.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_acquire_license_page.private|has_acquire_license_page.private]] 
 
-### #is_/same_as :: [has_acquire_license_page.personal](/_personal/schema-org/Relation/has/has_acquire_license_page.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_acquire_license_page.personal|has_acquire_license_page.personal]] 
 
-### #is_/same_as :: [has_acquire_license_page.secret](/_secret/schema-org/Relation/has/has_acquire_license_page.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_acquire_license_page.secret|has_acquire_license_page.secret]] 
 

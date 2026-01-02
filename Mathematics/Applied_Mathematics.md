@@ -63,17 +63,17 @@ Commons_category: Applied mathematics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Applied_Mathematics](/_Standards/Mathematics/Applied_Mathematics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Applied_Mathematics|Applied_Mathematics]] 
 
-### #is_/same_as :: [Applied_Mathematics.public](/_public/Mathematics/Applied_Mathematics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Applied_Mathematics.public|Applied_Mathematics.public]] 
 
-### #is_/same_as :: [Applied_Mathematics.internal](/_internal/Mathematics/Applied_Mathematics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Applied_Mathematics.internal|Applied_Mathematics.internal]] 
 
-### #is_/same_as :: [Applied_Mathematics.protect](/_protect/Mathematics/Applied_Mathematics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Applied_Mathematics.protect|Applied_Mathematics.protect]] 
 
-### #is_/same_as :: [Applied_Mathematics.private](/_private/Mathematics/Applied_Mathematics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Applied_Mathematics.private|Applied_Mathematics.private]] 
 
-### #is_/same_as :: [Applied_Mathematics.personal](/_personal/Mathematics/Applied_Mathematics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Applied_Mathematics.personal|Applied_Mathematics.personal]] 
 
-### #is_/same_as :: [Applied_Mathematics.secret](/_secret/Mathematics/Applied_Mathematics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Applied_Mathematics.secret|Applied_Mathematics.secret]] 
 

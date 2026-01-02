@@ -47,17 +47,17 @@ Dewey_Decimal_Classification: 595.44
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tarantula](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula|Tarantula]] 
 
-### #is_/same_as :: [Tarantula.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.public|Tarantula.public]] 
 
-### #is_/same_as :: [Tarantula.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.internal|Tarantula.internal]] 
 
-### #is_/same_as :: [Tarantula.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.protect|Tarantula.protect]] 
 
-### #is_/same_as :: [Tarantula.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.private|Tarantula.private]] 
 
-### #is_/same_as :: [Tarantula.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.personal|Tarantula.personal]] 
 
-### #is_/same_as :: [Tarantula.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Chelicerata/Arachnida/Spider/Mygalomorphae/Theraphosoidea/Tarantula.secret|Tarantula.secret]] 
 

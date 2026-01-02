@@ -43,17 +43,17 @@ A utility class that serves as the umbrella for a number of 'intangible' things 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Medical_Intangible](/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Entity/Medical_Intangible|Medical_Intangible]] 
 
-### #is_/same_as :: [Medical_Intangible.public](/_public/bio/Medicine/Medical_Entity/Medical_Intangible.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Entity/Medical_Intangible.public|Medical_Intangible.public]] 
 
-### #is_/same_as :: [Medical_Intangible.internal](/_internal/bio/Medicine/Medical_Entity/Medical_Intangible.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Entity/Medical_Intangible.internal|Medical_Intangible.internal]] 
 
-### #is_/same_as :: [Medical_Intangible.protect](/_protect/bio/Medicine/Medical_Entity/Medical_Intangible.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Entity/Medical_Intangible.protect|Medical_Intangible.protect]] 
 
-### #is_/same_as :: [Medical_Intangible.private](/_private/bio/Medicine/Medical_Entity/Medical_Intangible.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Entity/Medical_Intangible.private|Medical_Intangible.private]] 
 
-### #is_/same_as :: [Medical_Intangible.personal](/_personal/bio/Medicine/Medical_Entity/Medical_Intangible.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Entity/Medical_Intangible.personal|Medical_Intangible.personal]] 
 
-### #is_/same_as :: [Medical_Intangible.secret](/_secret/bio/Medicine/Medical_Entity/Medical_Intangible.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Entity/Medical_Intangible.secret|Medical_Intangible.secret]] 
 

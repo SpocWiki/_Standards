@@ -67,17 +67,17 @@ OffersPrescriptionByMail:: {"type":"Boolean","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary|FileClass~HealthPlanFormulary]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.public|FileClass~HealthPlanFormulary.public]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.internal|FileClass~HealthPlanFormulary.internal]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.protect|FileClass~HealthPlanFormulary.protect]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.private|FileClass~HealthPlanFormulary.private]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.personal|FileClass~HealthPlanFormulary.personal]] 
 
-### #is_/same_as :: [FileClass~HealthPlanFormulary.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~HealthPlanFormulary.secret|FileClass~HealthPlanFormulary.secret]] 
 

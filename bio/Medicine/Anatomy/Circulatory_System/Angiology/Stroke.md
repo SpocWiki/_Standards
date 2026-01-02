@@ -146,17 +146,17 @@ WordLift_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stroke](/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke|Stroke]] 
 
-### #is_/same_as :: [Stroke.public](/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.public|Stroke.public]] 
 
-### #is_/same_as :: [Stroke.internal](/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.internal|Stroke.internal]] 
 
-### #is_/same_as :: [Stroke.protect](/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.protect|Stroke.protect]] 
 
-### #is_/same_as :: [Stroke.private](/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.private|Stroke.private]] 
 
-### #is_/same_as :: [Stroke.personal](/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.personal|Stroke.personal]] 
 
-### #is_/same_as :: [Stroke.secret](/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Circulatory_System/Angiology/Stroke.secret|Stroke.secret]] 
 

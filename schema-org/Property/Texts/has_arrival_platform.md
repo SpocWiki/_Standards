@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_arrival_platform](/_Standards/schema-org/Property/Texts/has_arrival_platform.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_arrival_platform|has_arrival_platform]] 
 
-### #is_/same_as :: [has_arrival_platform.public](/_public/schema-org/Property/Texts/has_arrival_platform.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_arrival_platform.public|has_arrival_platform.public]] 
 
-### #is_/same_as :: [has_arrival_platform.internal](/_internal/schema-org/Property/Texts/has_arrival_platform.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_arrival_platform.internal|has_arrival_platform.internal]] 
 
-### #is_/same_as :: [has_arrival_platform.protect](/_protect/schema-org/Property/Texts/has_arrival_platform.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_arrival_platform.protect|has_arrival_platform.protect]] 
 
-### #is_/same_as :: [has_arrival_platform.private](/_private/schema-org/Property/Texts/has_arrival_platform.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_arrival_platform.private|has_arrival_platform.private]] 
 
-### #is_/same_as :: [has_arrival_platform.personal](/_personal/schema-org/Property/Texts/has_arrival_platform.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_arrival_platform.personal|has_arrival_platform.personal]] 
 
-### #is_/same_as :: [has_arrival_platform.secret](/_secret/schema-org/Property/Texts/has_arrival_platform.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_arrival_platform.secret|has_arrival_platform.secret]] 
 

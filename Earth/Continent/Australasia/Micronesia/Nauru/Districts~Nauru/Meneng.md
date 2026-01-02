@@ -40,17 +40,17 @@ markerFolder: ./Meneng/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Meneng](/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng|Meneng]] 
 
-### #is_/same_as :: [Meneng.public](/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.public|Meneng.public]] 
 
-### #is_/same_as :: [Meneng.internal](/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.internal|Meneng.internal]] 
 
-### #is_/same_as :: [Meneng.protect](/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.protect|Meneng.protect]] 
 
-### #is_/same_as :: [Meneng.private](/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.private|Meneng.private]] 
 
-### #is_/same_as :: [Meneng.personal](/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.personal|Meneng.personal]] 
 
-### #is_/same_as :: [Meneng.secret](/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Australasia/Micronesia/Nauru/Districts~Nauru/Meneng.secret|Meneng.secret]] 
 

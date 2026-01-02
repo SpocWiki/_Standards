@@ -16,17 +16,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Deposition](/_Standards/Science/Physics/State_of_Matter/Solid/Deposition.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Solid/Deposition|Deposition]] 
 
-### #is_/same_as :: [Deposition.public](/_public/Science/Physics/State_of_Matter/Solid/Deposition.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Solid/Deposition.public|Deposition.public]] 
 
-### #is_/same_as :: [Deposition.internal](/_internal/Science/Physics/State_of_Matter/Solid/Deposition.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Solid/Deposition.internal|Deposition.internal]] 
 
-### #is_/same_as :: [Deposition.protect](/_protect/Science/Physics/State_of_Matter/Solid/Deposition.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Solid/Deposition.protect|Deposition.protect]] 
 
-### #is_/same_as :: [Deposition.private](/_private/Science/Physics/State_of_Matter/Solid/Deposition.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Solid/Deposition.private|Deposition.private]] 
 
-### #is_/same_as :: [Deposition.personal](/_personal/Science/Physics/State_of_Matter/Solid/Deposition.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Solid/Deposition.personal|Deposition.personal]] 
 
-### #is_/same_as :: [Deposition.secret](/_secret/Science/Physics/State_of_Matter/Solid/Deposition.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Solid/Deposition.secret|Deposition.secret]] 
 

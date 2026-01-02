@@ -139,17 +139,17 @@ Facebook_username: EuropeanSpaceAgency
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Space_Agency](/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency|European_Space_Agency]] 
 
-### #is_/same_as :: [European_Space_Agency.public](/_public/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.public|European_Space_Agency.public]] 
 
-### #is_/same_as :: [European_Space_Agency.internal](/_internal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.internal|European_Space_Agency.internal]] 
 
-### #is_/same_as :: [European_Space_Agency.protect](/_protect/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.protect|European_Space_Agency.protect]] 
 
-### #is_/same_as :: [European_Space_Agency.private](/_private/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.private|European_Space_Agency.private]] 
 
-### #is_/same_as :: [European_Space_Agency.personal](/_personal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.personal|European_Space_Agency.personal]] 
 
-### #is_/same_as :: [European_Space_Agency.secret](/_secret/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/EU(European_Union)/European_Space_Agency.secret|European_Space_Agency.secret]] 
 

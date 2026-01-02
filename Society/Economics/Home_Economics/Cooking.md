@@ -79,17 +79,17 @@ U_S_National_Archives_Identifier: 10675369
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cooking](/_Standards/Society/Economics/Home_Economics/Cooking.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking|Cooking]] 
 
-### #is_/same_as :: [Cooking.public](/_public/Society/Economics/Home_Economics/Cooking.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking.public|Cooking.public]] 
 
-### #is_/same_as :: [Cooking.internal](/_internal/Society/Economics/Home_Economics/Cooking.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking.internal|Cooking.internal]] 
 
-### #is_/same_as :: [Cooking.protect](/_protect/Society/Economics/Home_Economics/Cooking.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking.protect|Cooking.protect]] 
 
-### #is_/same_as :: [Cooking.private](/_private/Society/Economics/Home_Economics/Cooking.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking.private|Cooking.private]] 
 
-### #is_/same_as :: [Cooking.personal](/_personal/Society/Economics/Home_Economics/Cooking.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking.personal|Cooking.personal]] 
 
-### #is_/same_as :: [Cooking.secret](/_secret/Society/Economics/Home_Economics/Cooking.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking.secret|Cooking.secret]] 
 

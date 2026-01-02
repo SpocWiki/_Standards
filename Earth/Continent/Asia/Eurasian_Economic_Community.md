@@ -53,17 +53,17 @@ dissolved_abolished_or_demolished_date: 2015-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Eurasian_Economic_Community](/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Eurasian_Economic_Community|Eurasian_Economic_Community]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.public](/_public/Earth/Continent/Asia/Eurasian_Economic_Community.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Eurasian_Economic_Community.public|Eurasian_Economic_Community.public]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.internal](/_internal/Earth/Continent/Asia/Eurasian_Economic_Community.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Eurasian_Economic_Community.internal|Eurasian_Economic_Community.internal]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.protect](/_protect/Earth/Continent/Asia/Eurasian_Economic_Community.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Eurasian_Economic_Community.protect|Eurasian_Economic_Community.protect]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.private](/_private/Earth/Continent/Asia/Eurasian_Economic_Community.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Eurasian_Economic_Community.private|Eurasian_Economic_Community.private]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.personal](/_personal/Earth/Continent/Asia/Eurasian_Economic_Community.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Eurasian_Economic_Community.personal|Eurasian_Economic_Community.personal]] 
 
-### #is_/same_as :: [Eurasian_Economic_Community.secret](/_secret/Earth/Continent/Asia/Eurasian_Economic_Community.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Eurasian_Economic_Community.secret|Eurasian_Economic_Community.secret]] 
 

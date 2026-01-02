@@ -83,17 +83,17 @@ name_in_native_language: Wallace Hume Carothers
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carothers,Wallace](/_Standards/Chemistry/Chemist/Carothers,Wallace.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemist/Carothers,Wallace|Carothers,Wallace]] 
 
-### #is_/same_as :: [Carothers,Wallace.public](/_public/Chemistry/Chemist/Carothers,Wallace.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemist/Carothers,Wallace.public|Carothers,Wallace.public]] 
 
-### #is_/same_as :: [Carothers,Wallace.internal](/_internal/Chemistry/Chemist/Carothers,Wallace.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemist/Carothers,Wallace.internal|Carothers,Wallace.internal]] 
 
-### #is_/same_as :: [Carothers,Wallace.protect](/_protect/Chemistry/Chemist/Carothers,Wallace.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemist/Carothers,Wallace.protect|Carothers,Wallace.protect]] 
 
-### #is_/same_as :: [Carothers,Wallace.private](/_private/Chemistry/Chemist/Carothers,Wallace.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemist/Carothers,Wallace.private|Carothers,Wallace.private]] 
 
-### #is_/same_as :: [Carothers,Wallace.personal](/_personal/Chemistry/Chemist/Carothers,Wallace.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemist/Carothers,Wallace.personal|Carothers,Wallace.personal]] 
 
-### #is_/same_as :: [Carothers,Wallace.secret](/_secret/Chemistry/Chemist/Carothers,Wallace.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemist/Carothers,Wallace.secret|Carothers,Wallace.secret]] 
 

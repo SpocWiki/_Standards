@@ -22,17 +22,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lime(Material)](/_Standards/Earth/Geology/Mineral/Lime(Material).md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Lime(Material)|Lime(Material)]] 
 
-### #is_/same_as :: [Lime(Material).public](/_public/Earth/Geology/Mineral/Lime(Material).public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Lime(Material).public|Lime(Material).public]] 
 
-### #is_/same_as :: [Lime(Material).internal](/_internal/Earth/Geology/Mineral/Lime(Material).internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Lime(Material).internal|Lime(Material).internal]] 
 
-### #is_/same_as :: [Lime(Material).protect](/_protect/Earth/Geology/Mineral/Lime(Material).protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Lime(Material).protect|Lime(Material).protect]] 
 
-### #is_/same_as :: [Lime(Material).private](/_private/Earth/Geology/Mineral/Lime(Material).private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Lime(Material).private|Lime(Material).private]] 
 
-### #is_/same_as :: [Lime(Material).personal](/_personal/Earth/Geology/Mineral/Lime(Material).personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Lime(Material).personal|Lime(Material).personal]] 
 
-### #is_/same_as :: [Lime(Material).secret](/_secret/Earth/Geology/Mineral/Lime(Material).secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Lime(Material).secret|Lime(Material).secret]] 
 

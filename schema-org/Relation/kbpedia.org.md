@@ -19,17 +19,17 @@ _type: Thing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [kbpedia.org](/_Standards/schema-org/Relation/kbpedia.org.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/kbpedia.org|kbpedia.org]] 
 
-### #is_/same_as :: [kbpedia.org.public](/_public/schema-org/Relation/kbpedia.org.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/kbpedia.org.public|kbpedia.org.public]] 
 
-### #is_/same_as :: [kbpedia.org.internal](/_internal/schema-org/Relation/kbpedia.org.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/kbpedia.org.internal|kbpedia.org.internal]] 
 
-### #is_/same_as :: [kbpedia.org.protect](/_protect/schema-org/Relation/kbpedia.org.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/kbpedia.org.protect|kbpedia.org.protect]] 
 
-### #is_/same_as :: [kbpedia.org.private](/_private/schema-org/Relation/kbpedia.org.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/kbpedia.org.private|kbpedia.org.private]] 
 
-### #is_/same_as :: [kbpedia.org.personal](/_personal/schema-org/Relation/kbpedia.org.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/kbpedia.org.personal|kbpedia.org.personal]] 
 
-### #is_/same_as :: [kbpedia.org.secret](/_secret/schema-org/Relation/kbpedia.org.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/kbpedia.org.secret|kbpedia.org.secret]] 
 

@@ -86,17 +86,17 @@ ISNI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cyd_Charisse](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse|Cyd_Charisse]] 
 
-### #is_/same_as :: [Cyd_Charisse.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.public|Cyd_Charisse.public]] 
 
-### #is_/same_as :: [Cyd_Charisse.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.internal|Cyd_Charisse.internal]] 
 
-### #is_/same_as :: [Cyd_Charisse.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.protect|Cyd_Charisse.protect]] 
 
-### #is_/same_as :: [Cyd_Charisse.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.private|Cyd_Charisse.private]] 
 
-### #is_/same_as :: [Cyd_Charisse.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.personal|Cyd_Charisse.personal]] 
 
-### #is_/same_as :: [Cyd_Charisse.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cyd_Charisse.secret|Cyd_Charisse.secret]] 
 

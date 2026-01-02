@@ -52,17 +52,17 @@ Commons_category: Senses
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sense](/_Standards/bio/Medicine/Anatomy/Sense.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Sense|Sense]] 
 
-### #is_/same_as :: [Sense.public](/_public/bio/Medicine/Anatomy/Sense.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Sense.public|Sense.public]] 
 
-### #is_/same_as :: [Sense.internal](/_internal/bio/Medicine/Anatomy/Sense.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Sense.internal|Sense.internal]] 
 
-### #is_/same_as :: [Sense.protect](/_protect/bio/Medicine/Anatomy/Sense.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Sense.protect|Sense.protect]] 
 
-### #is_/same_as :: [Sense.private](/_private/bio/Medicine/Anatomy/Sense.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Sense.private|Sense.private]] 
 
-### #is_/same_as :: [Sense.personal](/_personal/bio/Medicine/Anatomy/Sense.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Sense.personal|Sense.personal]] 
 
-### #is_/same_as :: [Sense.secret](/_secret/bio/Medicine/Anatomy/Sense.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Sense.secret|Sense.secret]] 
 

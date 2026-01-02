@@ -157,17 +157,17 @@ U_S_National_Archives_Identifier: 10641540
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sugar](/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate/Sugar|Sugar]] 
 
-### #is_/same_as :: [Sugar.public](/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate/Sugar.public|Sugar.public]] 
 
-### #is_/same_as :: [Sugar.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.internal|Sugar.internal]] 
 
-### #is_/same_as :: [Sugar.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate/Sugar.protect|Sugar.protect]] 
 
-### #is_/same_as :: [Sugar.private](/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate/Sugar.private|Sugar.private]] 
 
-### #is_/same_as :: [Sugar.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate/Sugar.personal|Sugar.personal]] 
 
-### #is_/same_as :: [Sugar.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate/Sugar.secret|Sugar.secret]] 
 

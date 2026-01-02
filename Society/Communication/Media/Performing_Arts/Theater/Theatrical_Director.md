@@ -111,17 +111,17 @@ IMDb_keyword: theater-director
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Theatrical_Director](/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director|Theatrical_Director]] 
 
-### #is_/same_as :: [Theatrical_Director.public](/_public/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.public|Theatrical_Director.public]] 
 
-### #is_/same_as :: [Theatrical_Director.internal](/_internal/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.internal|Theatrical_Director.internal]] 
 
-### #is_/same_as :: [Theatrical_Director.protect](/_protect/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.protect|Theatrical_Director.protect]] 
 
-### #is_/same_as :: [Theatrical_Director.private](/_private/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.private|Theatrical_Director.private]] 
 
-### #is_/same_as :: [Theatrical_Director.personal](/_personal/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.personal|Theatrical_Director.personal]] 
 
-### #is_/same_as :: [Theatrical_Director.secret](/_secret/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/Theater/Theatrical_Director.secret|Theatrical_Director.secret]] 
 

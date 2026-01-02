@@ -72,17 +72,17 @@ Plex_media_key: 5d9c081a0aaccd001f8ed7a4
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus|Monty_Python's_Flying_Circus]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.public|Monty_Python's_Flying_Circus.public]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.internal|Monty_Python's_Flying_Circus.internal]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.protect|Monty_Python's_Flying_Circus.protect]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.private|Monty_Python's_Flying_Circus.private]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.personal|Monty_Python's_Flying_Circus.personal]] 
 
-### #is_/same_as :: [Monty_Python's_Flying_Circus.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Monty_Python's_Flying_Circus.secret|Monty_Python's_Flying_Circus.secret]] 
 

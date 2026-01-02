@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_target_population](/_Standards/schema-org/Property/Texts/has_target_population.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_target_population|has_target_population]] 
 
-### #is_/same_as :: [has_target_population.public](/_public/schema-org/Property/Texts/has_target_population.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_target_population.public|has_target_population.public]] 
 
-### #is_/same_as :: [has_target_population.internal](/_internal/schema-org/Property/Texts/has_target_population.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_target_population.internal|has_target_population.internal]] 
 
-### #is_/same_as :: [has_target_population.protect](/_protect/schema-org/Property/Texts/has_target_population.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_target_population.protect|has_target_population.protect]] 
 
-### #is_/same_as :: [has_target_population.private](/_private/schema-org/Property/Texts/has_target_population.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_target_population.private|has_target_population.private]] 
 
-### #is_/same_as :: [has_target_population.personal](/_personal/schema-org/Property/Texts/has_target_population.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_target_population.personal|has_target_population.personal]] 
 
-### #is_/same_as :: [has_target_population.secret](/_secret/schema-org/Property/Texts/has_target_population.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_target_population.secret|has_target_population.secret]] 
 

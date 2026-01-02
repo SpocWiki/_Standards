@@ -59,17 +59,17 @@ Gujarati_Vishwakosh_entry: ઈડિપસ-ગ્રંથિ-અને-ઇલ�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oedipus_Complex](/_Standards/bio/Psychology/Psychoanalysis/Oedipus_Complex.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Psychoanalysis/Oedipus_Complex|Oedipus_Complex]] 
 
-### #is_/same_as :: [Oedipus_Complex.public](/_public/bio/Psychology/Psychoanalysis/Oedipus_Complex.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Psychoanalysis/Oedipus_Complex.public|Oedipus_Complex.public]] 
 
-### #is_/same_as :: [Oedipus_Complex.internal](/_internal/bio/Psychology/Psychoanalysis/Oedipus_Complex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Psychoanalysis/Oedipus_Complex.internal|Oedipus_Complex.internal]] 
 
-### #is_/same_as :: [Oedipus_Complex.protect](/_protect/bio/Psychology/Psychoanalysis/Oedipus_Complex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Psychoanalysis/Oedipus_Complex.protect|Oedipus_Complex.protect]] 
 
-### #is_/same_as :: [Oedipus_Complex.private](/_private/bio/Psychology/Psychoanalysis/Oedipus_Complex.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Psychoanalysis/Oedipus_Complex.private|Oedipus_Complex.private]] 
 
-### #is_/same_as :: [Oedipus_Complex.personal](/_personal/bio/Psychology/Psychoanalysis/Oedipus_Complex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Psychoanalysis/Oedipus_Complex.personal|Oedipus_Complex.personal]] 
 
-### #is_/same_as :: [Oedipus_Complex.secret](/_secret/bio/Psychology/Psychoanalysis/Oedipus_Complex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Psychoanalysis/Oedipus_Complex.secret|Oedipus_Complex.secret]] 
 

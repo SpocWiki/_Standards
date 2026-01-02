@@ -16,17 +16,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vasopressin](/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin|Vasopressin]] 
 
-### #is_/same_as :: [Vasopressin.public](/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.public|Vasopressin.public]] 
 
-### #is_/same_as :: [Vasopressin.internal](/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.internal|Vasopressin.internal]] 
 
-### #is_/same_as :: [Vasopressin.protect](/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.protect|Vasopressin.protect]] 
 
-### #is_/same_as :: [Vasopressin.private](/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.private|Vasopressin.private]] 
 
-### #is_/same_as :: [Vasopressin.personal](/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.personal|Vasopressin.personal]] 
 
-### #is_/same_as :: [Vasopressin.secret](/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Organic_Chemistry/Biochemistry/Hormone/Vasopressin.secret|Vasopressin.secret]] 
 

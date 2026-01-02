@@ -94,17 +94,17 @@ Dewey_Decimal_Classification: "936.231"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stonehenge](/_Standards/Earth/Geography/Place/Stonehenge.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Stonehenge|Stonehenge]] 
 
-### #is_/same_as :: [Stonehenge.public](/_public/Earth/Geography/Place/Stonehenge.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Stonehenge.public|Stonehenge.public]] 
 
-### #is_/same_as :: [Stonehenge.internal](/_internal/Earth/Geography/Place/Stonehenge.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Stonehenge.internal|Stonehenge.internal]] 
 
-### #is_/same_as :: [Stonehenge.protect](/_protect/Earth/Geography/Place/Stonehenge.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Stonehenge.protect|Stonehenge.protect]] 
 
-### #is_/same_as :: [Stonehenge.private](/_private/Earth/Geography/Place/Stonehenge.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Stonehenge.private|Stonehenge.private]] 
 
-### #is_/same_as :: [Stonehenge.personal](/_personal/Earth/Geography/Place/Stonehenge.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Stonehenge.personal|Stonehenge.personal]] 
 
-### #is_/same_as :: [Stonehenge.secret](/_secret/Earth/Geography/Place/Stonehenge.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Stonehenge.secret|Stonehenge.secret]] 
 

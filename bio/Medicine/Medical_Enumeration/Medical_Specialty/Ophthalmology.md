@@ -74,17 +74,17 @@ OpenStreetMap_tag: healthcare:speciality=ophthalmology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ophthalmology](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology|Ophthalmology]] 
 
-### #is_/same_as :: [Ophthalmology.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.public|Ophthalmology.public]] 
 
-### #is_/same_as :: [Ophthalmology.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.internal|Ophthalmology.internal]] 
 
-### #is_/same_as :: [Ophthalmology.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.protect|Ophthalmology.protect]] 
 
-### #is_/same_as :: [Ophthalmology.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.private|Ophthalmology.private]] 
 
-### #is_/same_as :: [Ophthalmology.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.personal|Ophthalmology.personal]] 
 
-### #is_/same_as :: [Ophthalmology.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Specialty/Ophthalmology.secret|Ophthalmology.secret]] 
 

@@ -43,17 +43,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_players_online](/_Standards/schema-org/Property/has_number_of/has_number_of_players_online.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_players_online|has_number_of_players_online]] 
 
-### #is_/same_as :: [has_number_of_players_online.public](/_public/schema-org/Property/has_number_of/has_number_of_players_online.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_players_online.public|has_number_of_players_online.public]] 
 
-### #is_/same_as :: [has_number_of_players_online.internal](/_internal/schema-org/Property/has_number_of/has_number_of_players_online.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_players_online.internal|has_number_of_players_online.internal]] 
 
-### #is_/same_as :: [has_number_of_players_online.protect](/_protect/schema-org/Property/has_number_of/has_number_of_players_online.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_players_online.protect|has_number_of_players_online.protect]] 
 
-### #is_/same_as :: [has_number_of_players_online.private](/_private/schema-org/Property/has_number_of/has_number_of_players_online.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_players_online.private|has_number_of_players_online.private]] 
 
-### #is_/same_as :: [has_number_of_players_online.personal](/_personal/schema-org/Property/has_number_of/has_number_of_players_online.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_players_online.personal|has_number_of_players_online.personal]] 
 
-### #is_/same_as :: [has_number_of_players_online.secret](/_secret/schema-org/Property/has_number_of/has_number_of_players_online.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_players_online.secret|has_number_of_players_online.secret]] 
 

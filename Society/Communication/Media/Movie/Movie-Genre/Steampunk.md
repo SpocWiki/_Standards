@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steampunk](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Steampunk|Steampunk]] 
 
-### #is_/same_as :: [Steampunk.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Steampunk.public|Steampunk.public]] 
 
-### #is_/same_as :: [Steampunk.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Steampunk.internal|Steampunk.internal]] 
 
-### #is_/same_as :: [Steampunk.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Steampunk.protect|Steampunk.protect]] 
 
-### #is_/same_as :: [Steampunk.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Steampunk.private|Steampunk.private]] 
 
-### #is_/same_as :: [Steampunk.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Steampunk.personal|Steampunk.personal]] 
 
-### #is_/same_as :: [Steampunk.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Steampunk.secret|Steampunk.secret]] 
 

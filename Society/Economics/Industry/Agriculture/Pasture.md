@@ -41,17 +41,17 @@ GeoNames_feature_code: L.GRAZ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pasture](/_Standards/Society/Economics/Industry/Agriculture/Pasture.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Pasture|Pasture]] 
 
-### #is_/same_as :: [Pasture.public](/_public/Society/Economics/Industry/Agriculture/Pasture.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Pasture.public|Pasture.public]] 
 
-### #is_/same_as :: [Pasture.internal](/_internal/Society/Economics/Industry/Agriculture/Pasture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Pasture.internal|Pasture.internal]] 
 
-### #is_/same_as :: [Pasture.protect](/_protect/Society/Economics/Industry/Agriculture/Pasture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Pasture.protect|Pasture.protect]] 
 
-### #is_/same_as :: [Pasture.private](/_private/Society/Economics/Industry/Agriculture/Pasture.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Pasture.private|Pasture.private]] 
 
-### #is_/same_as :: [Pasture.personal](/_personal/Society/Economics/Industry/Agriculture/Pasture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Pasture.personal|Pasture.personal]] 
 
-### #is_/same_as :: [Pasture.secret](/_secret/Society/Economics/Industry/Agriculture/Pasture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Pasture.secret|Pasture.secret]] 
 

@@ -38,17 +38,17 @@ Commons_category: Pipeline transport
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pipeline_Transport](/_Standards/Technology/Transport/Pipeline_Transport.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Pipeline_Transport|Pipeline_Transport]] 
 
-### #is_/same_as :: [Pipeline_Transport.public](/_public/Technology/Transport/Pipeline_Transport.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Pipeline_Transport.public|Pipeline_Transport.public]] 
 
-### #is_/same_as :: [Pipeline_Transport.internal](/_internal/Technology/Transport/Pipeline_Transport.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Pipeline_Transport.internal|Pipeline_Transport.internal]] 
 
-### #is_/same_as :: [Pipeline_Transport.protect](/_protect/Technology/Transport/Pipeline_Transport.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Pipeline_Transport.protect|Pipeline_Transport.protect]] 
 
-### #is_/same_as :: [Pipeline_Transport.private](/_private/Technology/Transport/Pipeline_Transport.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Pipeline_Transport.private|Pipeline_Transport.private]] 
 
-### #is_/same_as :: [Pipeline_Transport.personal](/_personal/Technology/Transport/Pipeline_Transport.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Pipeline_Transport.personal|Pipeline_Transport.personal]] 
 
-### #is_/same_as :: [Pipeline_Transport.secret](/_secret/Technology/Transport/Pipeline_Transport.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Pipeline_Transport.secret|Pipeline_Transport.secret]] 
 

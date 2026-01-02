@@ -97,17 +97,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Richtungsschild%20auf%
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greek_Alphabet](/_Standards/Language/Writing_System/Greek_Alphabet.md) 
+### #is_/same_as :: [[/_Standards/Language/Writing_System/Greek_Alphabet|Greek_Alphabet]] 
 
-### #is_/same_as :: [Greek_Alphabet.public](/_public/Language/Writing_System/Greek_Alphabet.public.md) 
+### #is_/same_as :: [[/_public/Language/Writing_System/Greek_Alphabet.public|Greek_Alphabet.public]] 
 
-### #is_/same_as :: [Greek_Alphabet.internal](/_internal/Language/Writing_System/Greek_Alphabet.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Writing_System/Greek_Alphabet.internal|Greek_Alphabet.internal]] 
 
-### #is_/same_as :: [Greek_Alphabet.protect](/_protect/Language/Writing_System/Greek_Alphabet.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Writing_System/Greek_Alphabet.protect|Greek_Alphabet.protect]] 
 
-### #is_/same_as :: [Greek_Alphabet.private](/_private/Language/Writing_System/Greek_Alphabet.private.md) 
+### #is_/same_as :: [[/_private/Language/Writing_System/Greek_Alphabet.private|Greek_Alphabet.private]] 
 
-### #is_/same_as :: [Greek_Alphabet.personal](/_personal/Language/Writing_System/Greek_Alphabet.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Writing_System/Greek_Alphabet.personal|Greek_Alphabet.personal]] 
 
-### #is_/same_as :: [Greek_Alphabet.secret](/_secret/Language/Writing_System/Greek_Alphabet.secret.md)
+### #is_/same_as :: [[/_secret/Language/Writing_System/Greek_Alphabet.secret|Greek_Alphabet.secret]] 
 

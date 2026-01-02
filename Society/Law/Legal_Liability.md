@@ -38,17 +38,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Legal_Liability](/_Standards/Society/Law/Legal_Liability.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Legal_Liability|Legal_Liability]] 
 
-### #is_/same_as :: [Legal_Liability.public](/_public/Society/Law/Legal_Liability.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Legal_Liability.public|Legal_Liability.public]] 
 
-### #is_/same_as :: [Legal_Liability.internal](/_internal/Society/Law/Legal_Liability.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Legal_Liability.internal|Legal_Liability.internal]] 
 
-### #is_/same_as :: [Legal_Liability.protect](/_protect/Society/Law/Legal_Liability.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Legal_Liability.protect|Legal_Liability.protect]] 
 
-### #is_/same_as :: [Legal_Liability.private](/_private/Society/Law/Legal_Liability.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Legal_Liability.private|Legal_Liability.private]] 
 
-### #is_/same_as :: [Legal_Liability.personal](/_personal/Society/Law/Legal_Liability.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Legal_Liability.personal|Legal_Liability.personal]] 
 
-### #is_/same_as :: [Legal_Liability.secret](/_secret/Society/Law/Legal_Liability.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Legal_Liability.secret|Legal_Liability.secret]] 
 

@@ -247,17 +247,17 @@ Hierarchical Idea-Theory with the "Good" as 'highest' Idea.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plato](/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Ancient_Philosopher/Plato|Plato]] 
 
-### #is_/same_as :: [Plato.public](/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Ancient_Philosopher/Plato.public|Plato.public]] 
 
-### #is_/same_as :: [Plato.internal](/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Ancient_Philosopher/Plato.internal|Plato.internal]] 
 
-### #is_/same_as :: [Plato.protect](/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Ancient_Philosopher/Plato.protect|Plato.protect]] 
 
-### #is_/same_as :: [Plato.private](/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Ancient_Philosopher/Plato.private|Plato.private]] 
 
-### #is_/same_as :: [Plato.personal](/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Ancient_Philosopher/Plato.personal|Plato.personal]] 
 
-### #is_/same_as :: [Plato.secret](/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Ancient_Philosopher/Plato.secret|Plato.secret]] 
 

@@ -92,17 +92,17 @@ UMLS_CUI: C0020157
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Humanities](/_Standards/Society/Anthropology/Humanities.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Humanities|Humanities]] 
 
-### #is_/same_as :: [Humanities.public](/_public/Society/Anthropology/Humanities.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Humanities.public|Humanities.public]] 
 
-### #is_/same_as :: [Humanities.internal](/_internal/Society/Anthropology/Humanities.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Humanities.internal|Humanities.internal]] 
 
-### #is_/same_as :: [Humanities.protect](/_protect/Society/Anthropology/Humanities.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Humanities.protect|Humanities.protect]] 
 
-### #is_/same_as :: [Humanities.private](/_private/Society/Anthropology/Humanities.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Humanities.private|Humanities.private]] 
 
-### #is_/same_as :: [Humanities.personal](/_personal/Society/Anthropology/Humanities.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Humanities.personal|Humanities.personal]] 
 
-### #is_/same_as :: [Humanities.secret](/_secret/Society/Anthropology/Humanities.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Humanities.secret|Humanities.secret]] 
 

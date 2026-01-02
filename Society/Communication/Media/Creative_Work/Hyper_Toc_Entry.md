@@ -43,17 +43,17 @@ A HyperToEntry is an item within a [[HyperToc]], which represents a hypertext ta
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hyper_Toc_Entry](/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry|Hyper_Toc_Entry]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.public](/_public/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.public|Hyper_Toc_Entry.public]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.internal](/_internal/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.internal|Hyper_Toc_Entry.internal]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.protect](/_protect/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.protect|Hyper_Toc_Entry.protect]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.private](/_private/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.private|Hyper_Toc_Entry.private]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.personal](/_personal/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.personal|Hyper_Toc_Entry.personal]] 
 
-### #is_/same_as :: [Hyper_Toc_Entry.secret](/_secret/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Hyper_Toc_Entry.secret|Hyper_Toc_Entry.secret]] 
 

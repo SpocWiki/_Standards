@@ -43,17 +43,17 @@ Commons_category: Seismology
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Seismology](/_Standards/Society/Disaster/Natural_Disaster/Earthquake/Seismology.md) 
+### #is_/same_as :: [[/_Standards/Society/Disaster/Natural_Disaster/Earthquake/Seismology|Seismology]] 
 
-### #is_/same_as :: [Seismology.public](/_public/Society/Disaster/Natural_Disaster/Earthquake/Seismology.public.md) 
+### #is_/same_as :: [[/_public/Society/Disaster/Natural_Disaster/Earthquake/Seismology.public|Seismology.public]] 
 
-### #is_/same_as :: [Seismology.internal](/_internal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.internal|Seismology.internal]] 
 
-### #is_/same_as :: [Seismology.protect](/_protect/Society/Disaster/Natural_Disaster/Earthquake/Seismology.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Disaster/Natural_Disaster/Earthquake/Seismology.protect|Seismology.protect]] 
 
-### #is_/same_as :: [Seismology.private](/_private/Society/Disaster/Natural_Disaster/Earthquake/Seismology.private.md) 
+### #is_/same_as :: [[/_private/Society/Disaster/Natural_Disaster/Earthquake/Seismology.private|Seismology.private]] 
 
-### #is_/same_as :: [Seismology.personal](/_personal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Disaster/Natural_Disaster/Earthquake/Seismology.personal|Seismology.personal]] 
 
-### #is_/same_as :: [Seismology.secret](/_secret/Society/Disaster/Natural_Disaster/Earthquake/Seismology.secret.md)
+### #is_/same_as :: [[/_secret/Society/Disaster/Natural_Disaster/Earthquake/Seismology.secret|Seismology.secret]] 
 

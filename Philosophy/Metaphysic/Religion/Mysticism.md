@@ -48,17 +48,17 @@ MeSH_tree_code: K01.844.799.430
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mysticism](/_Standards/Philosophy/Metaphysic/Religion/Mysticism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mysticism|Mysticism]] 
 
-### #is_/same_as :: [Mysticism.public](/_public/Philosophy/Metaphysic/Religion/Mysticism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mysticism.public|Mysticism.public]] 
 
-### #is_/same_as :: [Mysticism.internal](/_internal/Philosophy/Metaphysic/Religion/Mysticism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mysticism.internal|Mysticism.internal]] 
 
-### #is_/same_as :: [Mysticism.protect](/_protect/Philosophy/Metaphysic/Religion/Mysticism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mysticism.protect|Mysticism.protect]] 
 
-### #is_/same_as :: [Mysticism.private](/_private/Philosophy/Metaphysic/Religion/Mysticism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mysticism.private|Mysticism.private]] 
 
-### #is_/same_as :: [Mysticism.personal](/_personal/Philosophy/Metaphysic/Religion/Mysticism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mysticism.personal|Mysticism.personal]] 
 
-### #is_/same_as :: [Mysticism.secret](/_secret/Philosophy/Metaphysic/Religion/Mysticism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mysticism.secret|Mysticism.secret]] 
 

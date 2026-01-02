@@ -44,17 +44,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_risks](/_Standards/schema-org/Property/Texts/has_risks.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_risks|has_risks]] 
 
-### #is_/same_as :: [has_risks.public](/_public/schema-org/Property/Texts/has_risks.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_risks.public|has_risks.public]] 
 
-### #is_/same_as :: [has_risks.internal](/_internal/schema-org/Property/Texts/has_risks.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_risks.internal|has_risks.internal]] 
 
-### #is_/same_as :: [has_risks.protect](/_protect/schema-org/Property/Texts/has_risks.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_risks.protect|has_risks.protect]] 
 
-### #is_/same_as :: [has_risks.private](/_private/schema-org/Property/Texts/has_risks.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_risks.private|has_risks.private]] 
 
-### #is_/same_as :: [has_risks.personal](/_personal/schema-org/Property/Texts/has_risks.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_risks.personal|has_risks.personal]] 
 
-### #is_/same_as :: [has_risks.secret](/_secret/schema-org/Property/Texts/has_risks.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_risks.secret|has_risks.secret]] 
 

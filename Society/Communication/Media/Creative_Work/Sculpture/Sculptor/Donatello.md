@@ -186,17 +186,17 @@ ISNI: "0000000121236619"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Donatello](/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello|Donatello]] 
 
-### #is_/same_as :: [Donatello.public](/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.public|Donatello.public]] 
 
-### #is_/same_as :: [Donatello.internal](/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.internal|Donatello.internal]] 
 
-### #is_/same_as :: [Donatello.protect](/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.protect|Donatello.protect]] 
 
-### #is_/same_as :: [Donatello.private](/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.private|Donatello.private]] 
 
-### #is_/same_as :: [Donatello.personal](/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.personal|Donatello.personal]] 
 
-### #is_/same_as :: [Donatello.secret](/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Sculpture/Sculptor/Donatello.secret|Donatello.secret]] 
 

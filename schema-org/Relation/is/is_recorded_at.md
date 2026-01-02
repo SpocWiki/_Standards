@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_recorded_at](/_Standards/schema-org/Relation/is/is_recorded_at.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_recorded_at|is_recorded_at]] 
 
-### #is_/same_as :: [is_recorded_at.public](/_public/schema-org/Relation/is/is_recorded_at.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_recorded_at.public|is_recorded_at.public]] 
 
-### #is_/same_as :: [is_recorded_at.internal](/_internal/schema-org/Relation/is/is_recorded_at.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_recorded_at.internal|is_recorded_at.internal]] 
 
-### #is_/same_as :: [is_recorded_at.protect](/_protect/schema-org/Relation/is/is_recorded_at.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_recorded_at.protect|is_recorded_at.protect]] 
 
-### #is_/same_as :: [is_recorded_at.private](/_private/schema-org/Relation/is/is_recorded_at.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_recorded_at.private|is_recorded_at.private]] 
 
-### #is_/same_as :: [is_recorded_at.personal](/_personal/schema-org/Relation/is/is_recorded_at.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_recorded_at.personal|is_recorded_at.personal]] 
 
-### #is_/same_as :: [is_recorded_at.secret](/_secret/schema-org/Relation/is/is_recorded_at.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_recorded_at.secret|is_recorded_at.secret]] 
 

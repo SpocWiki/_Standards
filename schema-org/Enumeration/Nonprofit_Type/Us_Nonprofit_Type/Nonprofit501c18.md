@@ -42,17 +42,17 @@ Nonprofit501c18: Non-profit type referring to Employee Funded Pension Trust (cre
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c18](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18|Nonprofit501c18]] 
 
-### #is_/same_as :: [Nonprofit501c18.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.public|Nonprofit501c18.public]] 
 
-### #is_/same_as :: [Nonprofit501c18.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.internal|Nonprofit501c18.internal]] 
 
-### #is_/same_as :: [Nonprofit501c18.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.protect|Nonprofit501c18.protect]] 
 
-### #is_/same_as :: [Nonprofit501c18.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.private|Nonprofit501c18.private]] 
 
-### #is_/same_as :: [Nonprofit501c18.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.personal|Nonprofit501c18.personal]] 
 
-### #is_/same_as :: [Nonprofit501c18.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c18.secret|Nonprofit501c18.secret]] 
 

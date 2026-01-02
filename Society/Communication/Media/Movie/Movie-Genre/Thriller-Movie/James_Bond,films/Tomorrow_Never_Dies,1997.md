@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997|Tomorrow_Never_Dies,1997]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.public|Tomorrow_Never_Dies,1997.public]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.internal|Tomorrow_Never_Dies,1997.internal]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.protect|Tomorrow_Never_Dies,1997.protect]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.private|Tomorrow_Never_Dies,1997.private]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.personal|Tomorrow_Never_Dies,1997.personal]] 
 
-### #is_/same_as :: [Tomorrow_Never_Dies,1997.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/Tomorrow_Never_Dies,1997.secret|Tomorrow_Never_Dies,1997.secret]] 
 

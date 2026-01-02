@@ -88,17 +88,17 @@ IPTC_NewsCode: mediatopic/20000692
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Easter](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter|Easter]] 
 
-### #is_/same_as :: [Easter.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.public|Easter.public]] 
 
-### #is_/same_as :: [Easter.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.internal|Easter.internal]] 
 
-### #is_/same_as :: [Easter.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.protect|Easter.protect]] 
 
-### #is_/same_as :: [Easter.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.private|Easter.private]] 
 
-### #is_/same_as :: [Easter.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.personal|Easter.personal]] 
 
-### #is_/same_as :: [Easter.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Holiday/Easter.secret|Easter.secret]] 
 

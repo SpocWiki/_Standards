@@ -65,17 +65,17 @@ OpenStreetMap_tag:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kindergarten](/_Standards/Society/Culture/Education/Kindergarten.md) 
+### #is_/same_as :: [[/_Standards/Society/Culture/Education/Pedagogy/Kindergarten|Kindergarten]] 
 
-### #is_/same_as :: [Kindergarten.public](/_public/Society/Culture/Education/Kindergarten.public.md) 
+### #is_/same_as :: [[/_public/Society/Culture/Education/Pedagogy/Kindergarten.public|Kindergarten.public]] 
 
-### #is_/same_as :: [Kindergarten.internal](/_internal/Society/Culture/Education/Kindergarten.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Culture/Education/Pedagogy/Kindergarten.internal|Kindergarten.internal]] 
 
-### #is_/same_as :: [Kindergarten.protect](/_protect/Society/Culture/Education/Kindergarten.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Culture/Education/Pedagogy/Kindergarten.protect|Kindergarten.protect]] 
 
-### #is_/same_as :: [Kindergarten.private](/_private/Society/Culture/Education/Kindergarten.private.md) 
+### #is_/same_as :: [[/_private/Society/Culture/Education/Pedagogy/Kindergarten.private|Kindergarten.private]] 
 
-### #is_/same_as :: [Kindergarten.personal](/_personal/Society/Culture/Education/Kindergarten.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Culture/Education/Pedagogy/Kindergarten.personal|Kindergarten.personal]] 
 
-### #is_/same_as :: [Kindergarten.secret](/_secret/Society/Culture/Education/Kindergarten.secret.md)
+### #is_/same_as :: [[/_secret/Society/Culture/Education/Pedagogy/Kindergarten.secret|Kindergarten.secret]] 
 

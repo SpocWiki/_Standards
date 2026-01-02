@@ -188,17 +188,17 @@ Huizhou: czh
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-zh-cmn](/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn|Lang-zh-cmn]] 
 
-### #is_/same_as :: [Lang-zh-cmn.public](/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.public|Lang-zh-cmn.public]] 
 
-### #is_/same_as :: [Lang-zh-cmn.internal](/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.internal|Lang-zh-cmn.internal]] 
 
-### #is_/same_as :: [Lang-zh-cmn.protect](/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.protect|Lang-zh-cmn.protect]] 
 
-### #is_/same_as :: [Lang-zh-cmn.private](/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.private|Lang-zh-cmn.private]] 
 
-### #is_/same_as :: [Lang-zh-cmn.personal](/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.personal|Lang-zh-cmn.personal]] 
 
-### #is_/same_as :: [Lang-zh-cmn.secret](/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Sino-Tibetan/LangFamily-Sinitic/Lang-zh-cmn.secret|Lang-zh-cmn.secret]] 
 

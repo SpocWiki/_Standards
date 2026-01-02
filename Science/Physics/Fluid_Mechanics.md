@@ -61,17 +61,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/GIDROAEROMEHANIKA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fluid_Mechanics](/_Standards/Science/Physics/Fluid_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Fluid_Mechanics|Fluid_Mechanics]] 
 
-### #is_/same_as :: [Fluid_Mechanics.public](/_public/Science/Physics/Fluid_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Fluid_Mechanics.public|Fluid_Mechanics.public]] 
 
-### #is_/same_as :: [Fluid_Mechanics.internal](/_internal/Science/Physics/Fluid_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Fluid_Mechanics.internal|Fluid_Mechanics.internal]] 
 
-### #is_/same_as :: [Fluid_Mechanics.protect](/_protect/Science/Physics/Fluid_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Fluid_Mechanics.protect|Fluid_Mechanics.protect]] 
 
-### #is_/same_as :: [Fluid_Mechanics.private](/_private/Science/Physics/Fluid_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Fluid_Mechanics.private|Fluid_Mechanics.private]] 
 
-### #is_/same_as :: [Fluid_Mechanics.personal](/_personal/Science/Physics/Fluid_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Fluid_Mechanics.personal|Fluid_Mechanics.personal]] 
 
-### #is_/same_as :: [Fluid_Mechanics.secret](/_secret/Science/Physics/Fluid_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Fluid_Mechanics.secret|Fluid_Mechanics.secret]] 
 

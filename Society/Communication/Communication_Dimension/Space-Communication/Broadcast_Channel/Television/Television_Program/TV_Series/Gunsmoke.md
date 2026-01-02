@@ -99,17 +99,17 @@ Archive_of_Our_Own_tag: Gunsmoke (TV *a* Movies 1955)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gunsmoke](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke|Gunsmoke]] 
 
-### #is_/same_as :: [Gunsmoke.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.public|Gunsmoke.public]] 
 
-### #is_/same_as :: [Gunsmoke.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.internal|Gunsmoke.internal]] 
 
-### #is_/same_as :: [Gunsmoke.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.protect|Gunsmoke.protect]] 
 
-### #is_/same_as :: [Gunsmoke.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.private|Gunsmoke.private]] 
 
-### #is_/same_as :: [Gunsmoke.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.personal|Gunsmoke.personal]] 
 
-### #is_/same_as :: [Gunsmoke.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Program/TV_Series/Gunsmoke.secret|Gunsmoke.secret]] 
 

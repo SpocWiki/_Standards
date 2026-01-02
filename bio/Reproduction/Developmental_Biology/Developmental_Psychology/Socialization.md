@@ -62,17 +62,17 @@ Gujarati_Vishwakosh_entry: સામાજિકીકરણ-socialization
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Socialization](/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization|Socialization]] 
 
-### #is_/same_as :: [Socialization.public](/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.public|Socialization.public]] 
 
-### #is_/same_as :: [Socialization.internal](/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.internal|Socialization.internal]] 
 
-### #is_/same_as :: [Socialization.protect](/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.protect|Socialization.protect]] 
 
-### #is_/same_as :: [Socialization.private](/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.private|Socialization.private]] 
 
-### #is_/same_as :: [Socialization.personal](/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.personal|Socialization.personal]] 
 
-### #is_/same_as :: [Socialization.secret](/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Developmental_Biology/Developmental_Psychology/Socialization.secret|Socialization.secret]] 
 

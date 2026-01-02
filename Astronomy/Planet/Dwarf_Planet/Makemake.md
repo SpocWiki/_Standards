@@ -70,17 +70,17 @@ Baidu_Tieba_name: 鸟神星
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Makemake](/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake|Makemake]] 
 
-### #is_/same_as :: [Makemake.public](/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public|Makemake.public]] 
 
-### #is_/same_as :: [Makemake.internal](/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal|Makemake.internal]] 
 
-### #is_/same_as :: [Makemake.protect](/_protect/Astronomy/Planet/Dwarf_Planet/Makemake.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Planet/Dwarf_Planet/Makemake.protect|Makemake.protect]] 
 
-### #is_/same_as :: [Makemake.private](/_private/Astronomy/Planet/Dwarf_Planet/Makemake.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Planet/Dwarf_Planet/Makemake.private|Makemake.private]] 
 
-### #is_/same_as :: [Makemake.personal](/_personal/Astronomy/Planet/Dwarf_Planet/Makemake.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Planet/Dwarf_Planet/Makemake.personal|Makemake.personal]] 
 
-### #is_/same_as :: [Makemake.secret](/_secret/Astronomy/Planet/Dwarf_Planet/Makemake.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Planet/Dwarf_Planet/Makemake.secret|Makemake.secret]] 
 

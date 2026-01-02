@@ -74,17 +74,17 @@ name_in_native_language: Ἰάσων
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jason](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason|Jason]] 
 
-### #is_/same_as :: [Jason.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.public|Jason.public]] 
 
-### #is_/same_as :: [Jason.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.internal|Jason.internal]] 
 
-### #is_/same_as :: [Jason.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.protect|Jason.protect]] 
 
-### #is_/same_as :: [Jason.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.private|Jason.private]] 
 
-### #is_/same_as :: [Jason.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.personal|Jason.personal]] 
 
-### #is_/same_as :: [Jason.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Jason.secret|Jason.secret]] 
 

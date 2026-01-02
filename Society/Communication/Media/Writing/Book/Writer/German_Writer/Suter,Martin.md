@@ -76,17 +76,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Suter,Martin](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin|Suter,Martin]] 
 
-### #is_/same_as :: [Suter,Martin.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.public|Suter,Martin.public]] 
 
-### #is_/same_as :: [Suter,Martin.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.internal|Suter,Martin.internal]] 
 
-### #is_/same_as :: [Suter,Martin.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.protect|Suter,Martin.protect]] 
 
-### #is_/same_as :: [Suter,Martin.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.private|Suter,Martin.private]] 
 
-### #is_/same_as :: [Suter,Martin.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.personal|Suter,Martin.personal]] 
 
-### #is_/same_as :: [Suter,Martin.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Suter,Martin.secret|Suter,Martin.secret]] 
 

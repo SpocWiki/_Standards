@@ -200,17 +200,17 @@ described_at_URL:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weyl,Hermann](/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann|Weyl,Hermann]] 
 
-### #is_/same_as :: [Weyl,Hermann.public](/_public/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.public|Weyl,Hermann.public]] 
 
-### #is_/same_as :: [Weyl,Hermann.internal](/_internal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.internal|Weyl,Hermann.internal]] 
 
-### #is_/same_as :: [Weyl,Hermann.protect](/_protect/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.protect|Weyl,Hermann.protect]] 
 
-### #is_/same_as :: [Weyl,Hermann.private](/_private/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.private|Weyl,Hermann.private]] 
 
-### #is_/same_as :: [Weyl,Hermann.personal](/_personal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.personal|Weyl,Hermann.personal]] 
 
-### #is_/same_as :: [Weyl,Hermann.secret](/_secret/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Modern_Mathematician/Weyl,Hermann.secret|Weyl,Hermann.secret]] 
 

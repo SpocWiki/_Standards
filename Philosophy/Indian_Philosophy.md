@@ -48,17 +48,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/INDISKAYA_FILOSOFIYA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Indian_Philosophy](/_Standards/Indian_Philosophy.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Indian_Philosophy|Indian_Philosophy]] 
 
-### #is_/same_as :: [Indian_Philosophy.public](/_public/Indian_Philosophy.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Indian_Philosophy.public|Indian_Philosophy.public]] 
 
-### #is_/same_as :: [Indian_Philosophy.internal](/_internal/Indian_Philosophy.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Indian_Philosophy.internal|Indian_Philosophy.internal]] 
 
-### #is_/same_as :: [Indian_Philosophy.protect](/_protect/Indian_Philosophy.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Indian_Philosophy.protect|Indian_Philosophy.protect]] 
 
-### #is_/same_as :: [Indian_Philosophy.private](/_private/Indian_Philosophy.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Indian_Philosophy.private|Indian_Philosophy.private]] 
 
-### #is_/same_as :: [Indian_Philosophy.personal](/_personal/Indian_Philosophy.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Indian_Philosophy.personal|Indian_Philosophy.personal]] 
 
-### #is_/same_as :: [Indian_Philosophy.secret](/_secret/Indian_Philosophy.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Indian_Philosophy.secret|Indian_Philosophy.secret]] 
 

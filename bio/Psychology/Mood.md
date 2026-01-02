@@ -43,17 +43,17 @@ described_at_URL: https://leanlogic.online/glossary/spirit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mood](/_Standards/bio/Psychology/Mood.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Mood|Mood]] 
 
-### #is_/same_as :: [Mood.public](/_public/bio/Psychology/Mood.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Mood.public|Mood.public]] 
 
-### #is_/same_as :: [Mood.internal](/_internal/bio/Psychology/Mood.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Mood.internal|Mood.internal]] 
 
-### #is_/same_as :: [Mood.protect](/_protect/bio/Psychology/Mood.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Mood.protect|Mood.protect]] 
 
-### #is_/same_as :: [Mood.private](/_private/bio/Psychology/Mood.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Mood.private|Mood.private]] 
 
-### #is_/same_as :: [Mood.personal](/_personal/bio/Psychology/Mood.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Mood.personal|Mood.personal]] 
 
-### #is_/same_as :: [Mood.secret](/_secret/bio/Psychology/Mood.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Mood.secret|Mood.secret]] 
 

@@ -123,17 +123,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Prostitution%20-%20a%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Prostitution](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution|Prostitution]] 
 
-### #is_/same_as :: [Prostitution.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.public|Prostitution.public]] 
 
-### #is_/same_as :: [Prostitution.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.internal|Prostitution.internal]] 
 
-### #is_/same_as :: [Prostitution.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.protect|Prostitution.protect]] 
 
-### #is_/same_as :: [Prostitution.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.private|Prostitution.private]] 
 
-### #is_/same_as :: [Prostitution.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.personal|Prostitution.personal]] 
 
-### #is_/same_as :: [Prostitution.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Prostitution.secret|Prostitution.secret]] 
 

@@ -115,17 +115,17 @@ but the SI-Unit is the [[Unit_of_Measurement/SI-Unit/Unit~Second|Unit~Second]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dim~Time](/_Standards/Dimension/Dim~Time.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Dim~Time|Dim~Time]] 
 
-### #is_/same_as :: [Dim~Time.public](/_public/Dimension/Dim~Time.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Dim~Time.public|Dim~Time.public]] 
 
-### #is_/same_as :: [Dim~Time.internal](/_internal/Dimension/Dim~Time.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Dim~Time.internal|Dim~Time.internal]] 
 
-### #is_/same_as :: [Dim~Time.protect](/_protect/Dimension/Dim~Time.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Dim~Time.protect|Dim~Time.protect]] 
 
-### #is_/same_as :: [Dim~Time.private](/_private/Dimension/Dim~Time.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Dim~Time.private|Dim~Time.private]] 
 
-### #is_/same_as :: [Dim~Time.personal](/_personal/Dimension/Dim~Time.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Dim~Time.personal|Dim~Time.personal]] 
 
-### #is_/same_as :: [Dim~Time.secret](/_secret/Dimension/Dim~Time.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Dim~Time.secret|Dim~Time.secret]] 
 

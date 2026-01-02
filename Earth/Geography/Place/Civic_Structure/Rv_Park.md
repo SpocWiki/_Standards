@@ -41,17 +41,17 @@ A place offering space for "Recreational Vehicles", Caravans, mobile homes and t
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rv_Park](/_Standards/Earth/Geography/Place/Civic_Structure/Rv_Park.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Rv_Park|Rv_Park]] 
 
-### #is_/same_as :: [Rv_Park.public](/_public/Earth/Geography/Place/Civic_Structure/Rv_Park.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Rv_Park.public|Rv_Park.public]] 
 
-### #is_/same_as :: [Rv_Park.internal](/_internal/Earth/Geography/Place/Civic_Structure/Rv_Park.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Rv_Park.internal|Rv_Park.internal]] 
 
-### #is_/same_as :: [Rv_Park.protect](/_protect/Earth/Geography/Place/Civic_Structure/Rv_Park.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Rv_Park.protect|Rv_Park.protect]] 
 
-### #is_/same_as :: [Rv_Park.private](/_private/Earth/Geography/Place/Civic_Structure/Rv_Park.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Rv_Park.private|Rv_Park.private]] 
 
-### #is_/same_as :: [Rv_Park.personal](/_personal/Earth/Geography/Place/Civic_Structure/Rv_Park.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Rv_Park.personal|Rv_Park.personal]] 
 
-### #is_/same_as :: [Rv_Park.secret](/_secret/Earth/Geography/Place/Civic_Structure/Rv_Park.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Rv_Park.secret|Rv_Park.secret]] 
 

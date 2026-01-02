@@ -44,17 +44,17 @@ ROTAS
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tenet](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet|Tenet]] 
 
-### #is_/same_as :: [Tenet.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.public|Tenet.public]] 
 
-### #is_/same_as :: [Tenet.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.internal|Tenet.internal]] 
 
-### #is_/same_as :: [Tenet.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.protect|Tenet.protect]] 
 
-### #is_/same_as :: [Tenet.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.private|Tenet.private]] 
 
-### #is_/same_as :: [Tenet.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.personal|Tenet.personal]] 
 
-### #is_/same_as :: [Tenet.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Tenet.secret|Tenet.secret]] 
 

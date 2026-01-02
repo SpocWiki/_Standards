@@ -141,17 +141,17 @@ Maulwürfe und Spitzmäuse bauen Knochen, Muskeln und Gehirn im Winterschlaf ab,
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carbohydrate](/_Standards/bio/Metabolism/Nutrition/Carbohydrate.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Carbohydrate|Carbohydrate]] 
 
-### #is_/same_as :: [Carbohydrate.public](/_public/bio/Metabolism/Nutrition/Carbohydrate.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Carbohydrate.public|Carbohydrate.public]] 
 
-### #is_/same_as :: [Carbohydrate.internal](/_internal/bio/Metabolism/Nutrition/Carbohydrate.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Carbohydrate.internal|Carbohydrate.internal]] 
 
-### #is_/same_as :: [Carbohydrate.protect](/_protect/bio/Metabolism/Nutrition/Carbohydrate.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Carbohydrate.protect|Carbohydrate.protect]] 
 
-### #is_/same_as :: [Carbohydrate.private](/_private/bio/Metabolism/Nutrition/Carbohydrate.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Carbohydrate.private|Carbohydrate.private]] 
 
-### #is_/same_as :: [Carbohydrate.personal](/_personal/bio/Metabolism/Nutrition/Carbohydrate.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Carbohydrate.personal|Carbohydrate.personal]] 
 
-### #is_/same_as :: [Carbohydrate.secret](/_secret/bio/Metabolism/Nutrition/Carbohydrate.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Carbohydrate.secret|Carbohydrate.secret]] 
 

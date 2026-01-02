@@ -62,17 +62,17 @@ described_at_URL: https://neal.fun/earth-reviews/pens
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pen](/_Standards/Technology/Tool/Writing_Tool/Pen.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Writing_Tool/Pen|Pen]] 
 
-### #is_/same_as :: [Pen.public](/_public/Technology/Tool/Writing_Tool/Pen.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Writing_Tool/Pen.public|Pen.public]] 
 
-### #is_/same_as :: [Pen.internal](/_internal/Technology/Tool/Writing_Tool/Pen.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Writing_Tool/Pen.internal|Pen.internal]] 
 
-### #is_/same_as :: [Pen.protect](/_protect/Technology/Tool/Writing_Tool/Pen.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Writing_Tool/Pen.protect|Pen.protect]] 
 
-### #is_/same_as :: [Pen.private](/_private/Technology/Tool/Writing_Tool/Pen.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Writing_Tool/Pen.private|Pen.private]] 
 
-### #is_/same_as :: [Pen.personal](/_personal/Technology/Tool/Writing_Tool/Pen.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Writing_Tool/Pen.personal|Pen.personal]] 
 
-### #is_/same_as :: [Pen.secret](/_secret/Technology/Tool/Writing_Tool/Pen.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Writing_Tool/Pen.secret|Pen.secret]] 
 

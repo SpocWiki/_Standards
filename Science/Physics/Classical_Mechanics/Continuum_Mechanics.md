@@ -36,17 +36,17 @@ Commons_category: Continuum mechanics
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Continuum_Mechanics](/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Continuum_Mechanics|Continuum_Mechanics]] 
 
-### #is_/same_as :: [Continuum_Mechanics.public](/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Continuum_Mechanics.public|Continuum_Mechanics.public]] 
 
-### #is_/same_as :: [Continuum_Mechanics.internal](/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.internal|Continuum_Mechanics.internal]] 
 
-### #is_/same_as :: [Continuum_Mechanics.protect](/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Continuum_Mechanics.protect|Continuum_Mechanics.protect]] 
 
-### #is_/same_as :: [Continuum_Mechanics.private](/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Continuum_Mechanics.private|Continuum_Mechanics.private]] 
 
-### #is_/same_as :: [Continuum_Mechanics.personal](/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Continuum_Mechanics.personal|Continuum_Mechanics.personal]] 
 
-### #is_/same_as :: [Continuum_Mechanics.secret](/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Continuum_Mechanics.secret|Continuum_Mechanics.secret]] 
 

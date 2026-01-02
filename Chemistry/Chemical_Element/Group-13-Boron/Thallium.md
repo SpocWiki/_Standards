@@ -114,17 +114,17 @@ ZVG_number: 7810
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thallium](/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]] 
 
-### #is_/same_as :: [Thallium.public](/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]] 
 
-### #is_/same_as :: [Thallium.internal](/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]] 
 
-### #is_/same_as :: [Thallium.protect](/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-13-Boron/Thallium.protect|Thallium.protect]] 
 
-### #is_/same_as :: [Thallium.private](/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-13-Boron/Thallium.private|Thallium.private]] 
 
-### #is_/same_as :: [Thallium.personal](/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]] 
 
-### #is_/same_as :: [Thallium.secret](/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]] 
 

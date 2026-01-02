@@ -25,17 +25,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Alan_Parsons_Project](/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project|Alan_Parsons_Project]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.public](/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.public|Alan_Parsons_Project.public]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.internal|Alan_Parsons_Project.internal]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.protect|Alan_Parsons_Project.protect]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.private](/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.private|Alan_Parsons_Project.private]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.personal|Alan_Parsons_Project.personal]] 
 
-### #is_/same_as :: [Alan_Parsons_Project.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Progressive_Rock/Alan_Parsons_Project.secret|Alan_Parsons_Project.secret]] 
 

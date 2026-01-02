@@ -145,3 +145,22 @@ Universal_Decimal_Classification: 323.12(=411.16)
 - Poisoning of Wells during the Plague 
 - 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism|Antisemitism]] 
+
+### #is_/same_as :: [[/_public/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.public|Antisemitism.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.internal|Antisemitism.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.protect|Antisemitism.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.private|Antisemitism.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.personal|Antisemitism.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Scientific_Method/Theory/Pseudoscience/Conspiracy_Theory/Antisemitism.secret|Antisemitism.secret]] 
+

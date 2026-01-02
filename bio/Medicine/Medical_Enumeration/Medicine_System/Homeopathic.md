@@ -142,17 +142,17 @@ A system of medicine based on the principle that a disease can be cured by a sub
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Homeopathic](/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic|Homeopathic]] 
 
-### #is_/same_as :: [Homeopathic.public](/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.public|Homeopathic.public]] 
 
-### #is_/same_as :: [Homeopathic.internal](/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.internal|Homeopathic.internal]] 
 
-### #is_/same_as :: [Homeopathic.protect](/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.protect|Homeopathic.protect]] 
 
-### #is_/same_as :: [Homeopathic.private](/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.private|Homeopathic.private]] 
 
-### #is_/same_as :: [Homeopathic.personal](/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.personal|Homeopathic.personal]] 
 
-### #is_/same_as :: [Homeopathic.secret](/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medicine_System/Homeopathic.secret|Homeopathic.secret]] 
 

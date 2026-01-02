@@ -45,17 +45,17 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/literatura/EVRESKAYA_LITERATU
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hebrew_Literature](/_Standards/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature|Hebrew_Literature]] 
 
-### #is_/same_as :: [Hebrew_Literature.public](/_public/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.public|Hebrew_Literature.public]] 
 
-### #is_/same_as :: [Hebrew_Literature.internal](/_internal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.internal|Hebrew_Literature.internal]] 
 
-### #is_/same_as :: [Hebrew_Literature.protect](/_protect/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.protect|Hebrew_Literature.protect]] 
 
-### #is_/same_as :: [Hebrew_Literature.private](/_private/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.private|Hebrew_Literature.private]] 
 
-### #is_/same_as :: [Hebrew_Literature.personal](/_personal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.personal|Hebrew_Literature.personal]] 
 
-### #is_/same_as :: [Hebrew_Literature.secret](/_secret/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Literature/Hebrew_Literature.secret|Hebrew_Literature.secret]] 
 

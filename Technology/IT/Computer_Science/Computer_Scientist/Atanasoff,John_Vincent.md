@@ -79,17 +79,17 @@ date_of_birth: 1903-10-04T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atanasoff,John_Vincent](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent|Atanasoff,John_Vincent]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.public|Atanasoff,John_Vincent.public]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.internal|Atanasoff,John_Vincent.internal]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.protect|Atanasoff,John_Vincent.protect]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.private|Atanasoff,John_Vincent.private]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.personal|Atanasoff,John_Vincent.personal]] 
 
-### #is_/same_as :: [Atanasoff,John_Vincent.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Atanasoff,John_Vincent.secret|Atanasoff,John_Vincent.secret]] 
 

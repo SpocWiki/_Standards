@@ -119,17 +119,17 @@ CAS_Registry_Number: 7697-37-2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nitric_acid](/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid|Nitric_acid]] 
 
-### #is_/same_as :: [Nitric_acid.public](/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.public|Nitric_acid.public]] 
 
-### #is_/same_as :: [Nitric_acid.internal](/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.internal|Nitric_acid.internal]] 
 
-### #is_/same_as :: [Nitric_acid.protect](/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.protect|Nitric_acid.protect]] 
 
-### #is_/same_as :: [Nitric_acid.private](/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.private|Nitric_acid.private]] 
 
-### #is_/same_as :: [Nitric_acid.personal](/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.personal|Nitric_acid.personal]] 
 
-### #is_/same_as :: [Nitric_acid.secret](/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Inorganic_Chemistry/Acid/Nitric_acid.secret|Nitric_acid.secret]] 
 

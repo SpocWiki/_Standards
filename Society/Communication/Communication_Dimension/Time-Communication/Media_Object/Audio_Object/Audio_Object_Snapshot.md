@@ -43,17 +43,17 @@ A specific and exact (byte-for-byte) version of an [[AudioObject]]. Two byte-for
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Audio_Object_Snapshot](/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot|Audio_Object_Snapshot]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.public](/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.public|Audio_Object_Snapshot.public]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.internal](/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.internal|Audio_Object_Snapshot.internal]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.protect](/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.protect|Audio_Object_Snapshot.protect]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.private](/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.private|Audio_Object_Snapshot.private]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.personal](/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.personal|Audio_Object_Snapshot.personal]] 
 
-### #is_/same_as :: [Audio_Object_Snapshot.secret](/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Time-Communication/Media_Object/Audio_Object/Audio_Object_Snapshot.secret|Audio_Object_Snapshot.secret]] 
 

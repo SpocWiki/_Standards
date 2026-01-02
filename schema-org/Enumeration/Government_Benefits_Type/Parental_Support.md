@@ -44,17 +44,17 @@ ParentalSupport: this is a benefit for parental support.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Parental_Support](/_Standards/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Government_Benefits_Type/Parental_Support|Parental_Support]] 
 
-### #is_/same_as :: [Parental_Support.public](/_public/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.public|Parental_Support.public]] 
 
-### #is_/same_as :: [Parental_Support.internal](/_internal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.internal|Parental_Support.internal]] 
 
-### #is_/same_as :: [Parental_Support.protect](/_protect/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.protect|Parental_Support.protect]] 
 
-### #is_/same_as :: [Parental_Support.private](/_private/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.private|Parental_Support.private]] 
 
-### #is_/same_as :: [Parental_Support.personal](/_personal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.personal|Parental_Support.personal]] 
 
-### #is_/same_as :: [Parental_Support.secret](/_secret/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Government_Benefits_Type/Parental_Support.secret|Parental_Support.secret]] 
 

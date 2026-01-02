@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_credited_to](/_Standards/schema-org/Relation/is/is_credited_to.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_credited_to|is_credited_to]] 
 
-### #is_/same_as :: [is_credited_to.public](/_public/schema-org/Relation/is/is_credited_to.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_credited_to.public|is_credited_to.public]] 
 
-### #is_/same_as :: [is_credited_to.internal](/_internal/schema-org/Relation/is/is_credited_to.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_credited_to.internal|is_credited_to.internal]] 
 
-### #is_/same_as :: [is_credited_to.protect](/_protect/schema-org/Relation/is/is_credited_to.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_credited_to.protect|is_credited_to.protect]] 
 
-### #is_/same_as :: [is_credited_to.private](/_private/schema-org/Relation/is/is_credited_to.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_credited_to.private|is_credited_to.private]] 
 
-### #is_/same_as :: [is_credited_to.personal](/_personal/schema-org/Relation/is/is_credited_to.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_credited_to.personal|is_credited_to.personal]] 
 
-### #is_/same_as :: [is_credited_to.secret](/_secret/schema-org/Relation/is/is_credited_to.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_credited_to.secret|is_credited_to.secret]] 
 

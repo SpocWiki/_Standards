@@ -154,17 +154,17 @@ YouTube_handle: SerenaWilliams
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Williams,Serena](/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena|Williams,Serena]] 
 
-### #is_/same_as :: [Williams,Serena.public](/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.public|Williams,Serena.public]] 
 
-### #is_/same_as :: [Williams,Serena.internal](/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.internal|Williams,Serena.internal]] 
 
-### #is_/same_as :: [Williams,Serena.protect](/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.protect|Williams,Serena.protect]] 
 
-### #is_/same_as :: [Williams,Serena.private](/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.private|Williams,Serena.private]] 
 
-### #is_/same_as :: [Williams,Serena.personal](/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.personal|Williams,Serena.personal]] 
 
-### #is_/same_as :: [Williams,Serena.secret](/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts/High-Performance_Sport/Individual_Sport/Tennis/Williams,Serena.secret|Williams,Serena.secret]] 
 

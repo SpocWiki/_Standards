@@ -47,17 +47,17 @@ for background on the underlying concepts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Offer_for_Purchase](/_Standards/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase|Offer_for_Purchase]] 
 
-### #is_/same_as :: [Offer_for_Purchase.public](/_public/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.public|Offer_for_Purchase.public]] 
 
-### #is_/same_as :: [Offer_for_Purchase.internal](/_internal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.internal|Offer_for_Purchase.internal]] 
 
-### #is_/same_as :: [Offer_for_Purchase.protect](/_protect/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.protect|Offer_for_Purchase.protect]] 
 
-### #is_/same_as :: [Offer_for_Purchase.private](/_private/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.private|Offer_for_Purchase.private]] 
 
-### #is_/same_as :: [Offer_for_Purchase.personal](/_personal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.personal|Offer_for_Purchase.personal]] 
 
-### #is_/same_as :: [Offer_for_Purchase.secret](/_secret/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Offer/Offer_for_Purchase.secret|Offer_for_Purchase.secret]] 
 

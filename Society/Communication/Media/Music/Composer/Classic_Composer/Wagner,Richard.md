@@ -177,17 +177,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wagner,Richard](/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard|Wagner,Richard]] 
 
-### #is_/same_as :: [Wagner,Richard.public](/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.public|Wagner,Richard.public]] 
 
-### #is_/same_as :: [Wagner,Richard.internal](/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.internal|Wagner,Richard.internal]] 
 
-### #is_/same_as :: [Wagner,Richard.protect](/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.protect|Wagner,Richard.protect]] 
 
-### #is_/same_as :: [Wagner,Richard.private](/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.private|Wagner,Richard.private]] 
 
-### #is_/same_as :: [Wagner,Richard.personal](/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.personal|Wagner,Richard.personal]] 
 
-### #is_/same_as :: [Wagner,Richard.secret](/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/Classic_Composer/Wagner,Richard.secret|Wagner,Richard.secret]] 
 

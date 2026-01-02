@@ -27,17 +27,17 @@ geojson: ARABIAN_PENINSULA-Pen_cape.geojson
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arabian_Peninsula](/_Standards/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Arabian_Peninsula|Arabian_Peninsula]] 
 
-### #is_/same_as :: [Arabian_Peninsula.public](/_public/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.public|Arabian_Peninsula.public]] 
 
-### #is_/same_as :: [Arabian_Peninsula.internal](/_internal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.internal|Arabian_Peninsula.internal]] 
 
-### #is_/same_as :: [Arabian_Peninsula.protect](/_protect/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.protect|Arabian_Peninsula.protect]] 
 
-### #is_/same_as :: [Arabian_Peninsula.private](/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.private|Arabian_Peninsula.private]] 
 
-### #is_/same_as :: [Arabian_Peninsula.personal](/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.personal|Arabian_Peninsula.personal]] 
 
-### #is_/same_as :: [Arabian_Peninsula.secret](/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Arabian_Peninsula.secret|Arabian_Peninsula.secret]] 
 

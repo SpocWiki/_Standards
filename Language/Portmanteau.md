@@ -31,17 +31,17 @@ Commons_category: Portmanteau
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Portmanteau](/_Standards/Language/Portmanteau.md) 
+### #is_/same_as :: [[/_Standards/Language/Portmanteau|Portmanteau]] 
 
-### #is_/same_as :: [Portmanteau.public](/_public/Language/Portmanteau.public.md) 
+### #is_/same_as :: [[/_public/Language/Portmanteau.public|Portmanteau.public]] 
 
-### #is_/same_as :: [Portmanteau.internal](/_internal/Language/Portmanteau.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Portmanteau.internal|Portmanteau.internal]] 
 
-### #is_/same_as :: [Portmanteau.protect](/_protect/Language/Portmanteau.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Portmanteau.protect|Portmanteau.protect]] 
 
-### #is_/same_as :: [Portmanteau.private](/_private/Language/Portmanteau.private.md) 
+### #is_/same_as :: [[/_private/Language/Portmanteau.private|Portmanteau.private]] 
 
-### #is_/same_as :: [Portmanteau.personal](/_personal/Language/Portmanteau.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Portmanteau.personal|Portmanteau.personal]] 
 
-### #is_/same_as :: [Portmanteau.secret](/_secret/Language/Portmanteau.secret.md)
+### #is_/same_as :: [[/_secret/Language/Portmanteau.secret|Portmanteau.secret]] 
 

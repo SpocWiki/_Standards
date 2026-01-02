@@ -223,17 +223,17 @@ writing_language: '[[_Standards/WikiData/WD~English,1860]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Russell,Bertrand](/_Standards/Mathematics/Mathematician/Russell,Bertrand.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Russell,Bertrand|Russell,Bertrand]] 
 
-### #is_/same_as :: [Russell,Bertrand.public](/_public/Mathematics/Mathematician/Russell,Bertrand.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Russell,Bertrand.public|Russell,Bertrand.public]] 
 
-### #is_/same_as :: [Russell,Bertrand.internal](/_internal/Mathematics/Mathematician/Russell,Bertrand.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Russell,Bertrand.internal|Russell,Bertrand.internal]] 
 
-### #is_/same_as :: [Russell,Bertrand.protect](/_protect/Mathematics/Mathematician/Russell,Bertrand.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Russell,Bertrand.protect|Russell,Bertrand.protect]] 
 
-### #is_/same_as :: [Russell,Bertrand.private](/_private/Mathematics/Mathematician/Russell,Bertrand.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Russell,Bertrand.private|Russell,Bertrand.private]] 
 
-### #is_/same_as :: [Russell,Bertrand.personal](/_personal/Mathematics/Mathematician/Russell,Bertrand.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Russell,Bertrand.personal|Russell,Bertrand.personal]] 
 
-### #is_/same_as :: [Russell,Bertrand.secret](/_secret/Mathematics/Mathematician/Russell,Bertrand.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Russell,Bertrand.secret|Russell,Bertrand.secret]] 
 

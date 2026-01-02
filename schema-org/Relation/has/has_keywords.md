@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_keywords](/_Standards/schema-org/Relation/has/has_keywords.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_keywords|has_keywords]] 
 
-### #is_/same_as :: [has_keywords.public](/_public/schema-org/Relation/has/has_keywords.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_keywords.public|has_keywords.public]] 
 
-### #is_/same_as :: [has_keywords.internal](/_internal/schema-org/Relation/has/has_keywords.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_keywords.internal|has_keywords.internal]] 
 
-### #is_/same_as :: [has_keywords.protect](/_protect/schema-org/Relation/has/has_keywords.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_keywords.protect|has_keywords.protect]] 
 
-### #is_/same_as :: [has_keywords.private](/_private/schema-org/Relation/has/has_keywords.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_keywords.private|has_keywords.private]] 
 
-### #is_/same_as :: [has_keywords.personal](/_personal/schema-org/Relation/has/has_keywords.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_keywords.personal|has_keywords.personal]] 
 
-### #is_/same_as :: [has_keywords.secret](/_secret/schema-org/Relation/has/has_keywords.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_keywords.secret|has_keywords.secret]] 
 

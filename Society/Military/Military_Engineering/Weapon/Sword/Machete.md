@@ -38,17 +38,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Machete%20knife%20blad
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Machete](/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Machete.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Weapon/Sword/Machete|Machete]] 
 
-### #is_/same_as :: [Machete.public](/_public/Society/Military/Military_Engineering/Weapon/Sword/Machete.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Weapon/Sword/Machete.public|Machete.public]] 
 
-### #is_/same_as :: [Machete.internal](/_internal/Society/Military/Military_Engineering/Weapon/Sword/Machete.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Weapon/Sword/Machete.internal|Machete.internal]] 
 
-### #is_/same_as :: [Machete.protect](/_protect/Society/Military/Military_Engineering/Weapon/Sword/Machete.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Weapon/Sword/Machete.protect|Machete.protect]] 
 
-### #is_/same_as :: [Machete.private](/_private/Society/Military/Military_Engineering/Weapon/Sword/Machete.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Weapon/Sword/Machete.private|Machete.private]] 
 
-### #is_/same_as :: [Machete.personal](/_personal/Society/Military/Military_Engineering/Weapon/Sword/Machete.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Weapon/Sword/Machete.personal|Machete.personal]] 
 
-### #is_/same_as :: [Machete.secret](/_secret/Society/Military/Military_Engineering/Weapon/Sword/Machete.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Weapon/Sword/Machete.secret|Machete.secret]] 
 

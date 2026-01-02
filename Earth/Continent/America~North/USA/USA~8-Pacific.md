@@ -24,17 +24,17 @@ markerFile: [[USA~8-Pacific]]
 
 ## Confidential Links & Embeds: 
 
-### [USA~Pacific](/_Standards/Earth/Continent/America~North/USA/USA~Pacific.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/USA~8-Pacific|USA~8-Pacific]] 
 
-### [USA~Pacific.public](/_public/Earth/Continent/America~North/USA/USA~Pacific.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/USA~8-Pacific.public|USA~8-Pacific.public]] 
 
-### [USA~Pacific.internal](/_internal/Earth/Continent/America~North/USA/USA~Pacific.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/USA~8-Pacific.internal|USA~8-Pacific.internal]] 
 
-### [USA~Pacific.protect](/_protect/Earth/Continent/America~North/USA/USA~Pacific.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/USA~8-Pacific.protect|USA~8-Pacific.protect]] 
 
-### [USA~Pacific.private](/_private/Earth/Continent/America~North/USA/USA~Pacific.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/USA~8-Pacific.private|USA~8-Pacific.private]] 
 
-### [USA~Pacific.personal](/_personal/Earth/Continent/America~North/USA/USA~Pacific.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/USA~8-Pacific.personal|USA~8-Pacific.personal]] 
 
-### [USA~Pacific.secret](/_secret/Earth/Continent/America~North/USA/USA~Pacific.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/USA~8-Pacific.secret|USA~8-Pacific.secret]] 
 

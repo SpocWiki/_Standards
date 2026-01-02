@@ -44,17 +44,17 @@ Specifies that the customer receives a store credit as refund when returning a p
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Store_Credit_Refund](/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund|Store_Credit_Refund]] 
 
-### #is_/same_as :: [Store_Credit_Refund.public](/_public/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.public|Store_Credit_Refund.public]] 
 
-### #is_/same_as :: [Store_Credit_Refund.internal](/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.internal|Store_Credit_Refund.internal]] 
 
-### #is_/same_as :: [Store_Credit_Refund.protect](/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.protect|Store_Credit_Refund.protect]] 
 
-### #is_/same_as :: [Store_Credit_Refund.private](/_private/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.private|Store_Credit_Refund.private]] 
 
-### #is_/same_as :: [Store_Credit_Refund.personal](/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.personal|Store_Credit_Refund.personal]] 
 
-### #is_/same_as :: [Store_Credit_Refund.secret](/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Refund_Type_Enumeration/Store_Credit_Refund.secret|Store_Credit_Refund.secret]] 
 

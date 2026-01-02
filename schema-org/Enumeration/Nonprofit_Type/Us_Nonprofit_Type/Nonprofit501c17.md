@@ -42,17 +42,17 @@ Nonprofit501c17: Non-profit type referring to Supplemental Unemployment Benefit 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nonprofit501c17](/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17|Nonprofit501c17]] 
 
-### #is_/same_as :: [Nonprofit501c17.public](/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.public|Nonprofit501c17.public]] 
 
-### #is_/same_as :: [Nonprofit501c17.internal](/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.internal|Nonprofit501c17.internal]] 
 
-### #is_/same_as :: [Nonprofit501c17.protect](/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.protect|Nonprofit501c17.protect]] 
 
-### #is_/same_as :: [Nonprofit501c17.private](/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.private|Nonprofit501c17.private]] 
 
-### #is_/same_as :: [Nonprofit501c17.personal](/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.personal|Nonprofit501c17.personal]] 
 
-### #is_/same_as :: [Nonprofit501c17.secret](/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Nonprofit_Type/Us_Nonprofit_Type/Nonprofit501c17.secret|Nonprofit501c17.secret]] 
 

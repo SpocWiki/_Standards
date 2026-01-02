@@ -43,17 +43,17 @@ A blog post.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Blog_Posting](/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting|Blog_Posting]] 
 
-### #is_/same_as :: [Blog_Posting.public](/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.public|Blog_Posting.public]] 
 
-### #is_/same_as :: [Blog_Posting.internal](/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.internal|Blog_Posting.internal]] 
 
-### #is_/same_as :: [Blog_Posting.protect](/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.protect|Blog_Posting.protect]] 
 
-### #is_/same_as :: [Blog_Posting.private](/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.private|Blog_Posting.private]] 
 
-### #is_/same_as :: [Blog_Posting.personal](/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.personal|Blog_Posting.personal]] 
 
-### #is_/same_as :: [Blog_Posting.secret](/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Article/Social_Media_Posting/Blog_Posting.secret|Blog_Posting.secret]] 
 

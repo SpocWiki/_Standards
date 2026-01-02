@@ -134,17 +134,17 @@ writing_language: '[[_Standards/WikiData/WD~Latin,397]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Constantine_the_Great](/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great|Constantine_the_Great]] 
 
-### #is_/same_as :: [Constantine_the_Great.public](/_public/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.public|Constantine_the_Great.public]] 
 
-### #is_/same_as :: [Constantine_the_Great.internal](/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.internal|Constantine_the_Great.internal]] 
 
-### #is_/same_as :: [Constantine_the_Great.protect](/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.protect|Constantine_the_Great.protect]] 
 
-### #is_/same_as :: [Constantine_the_Great.private](/_private/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.private|Constantine_the_Great.private]] 
 
-### #is_/same_as :: [Constantine_the_Great.personal](/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.personal|Constantine_the_Great.personal]] 
 
-### #is_/same_as :: [Constantine_the_Great.secret](/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Ancient_Leaders/Constantine_the_Great.secret|Constantine_the_Great.secret]] 
 

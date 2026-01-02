@@ -53,17 +53,17 @@ exact_match: https://ontology.londisizwe.org/mola#Dialect
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dialect](/_Standards/Language/Dialect.md) 
+### #is_/same_as :: [[/_Standards/Language/Dialect|Dialect]] 
 
-### #is_/same_as :: [Dialect.public](/_public/Language/Dialect.public.md) 
+### #is_/same_as :: [[/_public/Language/Dialect.public|Dialect.public]] 
 
-### #is_/same_as :: [Dialect.internal](/_internal/Language/Dialect.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Dialect.internal|Dialect.internal]] 
 
-### #is_/same_as :: [Dialect.protect](/_protect/Language/Dialect.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Dialect.protect|Dialect.protect]] 
 
-### #is_/same_as :: [Dialect.private](/_private/Language/Dialect.private.md) 
+### #is_/same_as :: [[/_private/Language/Dialect.private|Dialect.private]] 
 
-### #is_/same_as :: [Dialect.personal](/_personal/Language/Dialect.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Dialect.personal|Dialect.personal]] 
 
-### #is_/same_as :: [Dialect.secret](/_secret/Language/Dialect.secret.md)
+### #is_/same_as :: [[/_secret/Language/Dialect.secret|Dialect.secret]] 
 

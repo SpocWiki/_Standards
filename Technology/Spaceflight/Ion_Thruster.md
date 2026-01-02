@@ -47,17 +47,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Ion%20Engine%20Test%20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ion_Thruster](/_Standards/Technology/Spaceflight/Ion_Thruster.md) 
+### #is_/same_as :: [[/_Standards/Technology/Spaceflight/Ion_Thruster|Ion_Thruster]] 
 
-### #is_/same_as :: [Ion_Thruster.public](/_public/Technology/Spaceflight/Ion_Thruster.public.md) 
+### #is_/same_as :: [[/_public/Technology/Spaceflight/Ion_Thruster.public|Ion_Thruster.public]] 
 
-### #is_/same_as :: [Ion_Thruster.internal](/_internal/Technology/Spaceflight/Ion_Thruster.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Spaceflight/Ion_Thruster.internal|Ion_Thruster.internal]] 
 
-### #is_/same_as :: [Ion_Thruster.protect](/_protect/Technology/Spaceflight/Ion_Thruster.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Spaceflight/Ion_Thruster.protect|Ion_Thruster.protect]] 
 
-### #is_/same_as :: [Ion_Thruster.private](/_private/Technology/Spaceflight/Ion_Thruster.private.md) 
+### #is_/same_as :: [[/_private/Technology/Spaceflight/Ion_Thruster.private|Ion_Thruster.private]] 
 
-### #is_/same_as :: [Ion_Thruster.personal](/_personal/Technology/Spaceflight/Ion_Thruster.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Spaceflight/Ion_Thruster.personal|Ion_Thruster.personal]] 
 
-### #is_/same_as :: [Ion_Thruster.secret](/_secret/Technology/Spaceflight/Ion_Thruster.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Spaceflight/Ion_Thruster.secret|Ion_Thruster.secret]] 
 

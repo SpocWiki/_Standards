@@ -111,17 +111,17 @@ Wolfram_Language_entity_code: Entity["Book", "AnnaKarenina"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Anna_Karenina](/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina|Anna_Karenina]] 
 
-### #is_/same_as :: [Anna_Karenina.public](/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.public|Anna_Karenina.public]] 
 
-### #is_/same_as :: [Anna_Karenina.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.internal|Anna_Karenina.internal]] 
 
-### #is_/same_as :: [Anna_Karenina.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.protect|Anna_Karenina.protect]] 
 
-### #is_/same_as :: [Anna_Karenina.private](/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.private|Anna_Karenina.private]] 
 
-### #is_/same_as :: [Anna_Karenina.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.personal|Anna_Karenina.personal]] 
 
-### #is_/same_as :: [Anna_Karenina.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Russian_Writer/Tolstoy,Leo/Anna_Karenina.secret|Anna_Karenina.secret]] 
 

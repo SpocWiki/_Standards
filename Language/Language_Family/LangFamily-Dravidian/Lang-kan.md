@@ -71,17 +71,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Shukla%20Kannada.svg
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-kan](/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-kan.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Dravidian/Lang-kan|Lang-kan]] 
 
-### #is_/same_as :: [Lang-kan.public](/_public/Language/Language_Family/LangFamily-Dravidian/Lang-kan.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Dravidian/Lang-kan.public|Lang-kan.public]] 
 
-### #is_/same_as :: [Lang-kan.internal](/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.internal|Lang-kan.internal]] 
 
-### #is_/same_as :: [Lang-kan.protect](/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-kan.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Dravidian/Lang-kan.protect|Lang-kan.protect]] 
 
-### #is_/same_as :: [Lang-kan.private](/_private/Language/Language_Family/LangFamily-Dravidian/Lang-kan.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Dravidian/Lang-kan.private|Lang-kan.private]] 
 
-### #is_/same_as :: [Lang-kan.personal](/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Dravidian/Lang-kan.personal|Lang-kan.personal]] 
 
-### #is_/same_as :: [Lang-kan.secret](/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-kan.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Dravidian/Lang-kan.secret|Lang-kan.secret]] 
 

@@ -33,17 +33,17 @@ instance_of: '[[_Standards/WikiData/WD~political_ideology,12909644]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Statism](/_Standards/Society/Anthropology/Sociology/Political_Science/Statism.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Political_Science/Statism|Statism]] 
 
-### #is_/same_as :: [Statism.public](/_public/Society/Anthropology/Sociology/Political_Science/Statism.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Political_Science/Statism.public|Statism.public]] 
 
-### #is_/same_as :: [Statism.internal](/_internal/Society/Anthropology/Sociology/Political_Science/Statism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Political_Science/Statism.internal|Statism.internal]] 
 
-### #is_/same_as :: [Statism.protect](/_protect/Society/Anthropology/Sociology/Political_Science/Statism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Political_Science/Statism.protect|Statism.protect]] 
 
-### #is_/same_as :: [Statism.private](/_private/Society/Anthropology/Sociology/Political_Science/Statism.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Political_Science/Statism.private|Statism.private]] 
 
-### #is_/same_as :: [Statism.personal](/_personal/Society/Anthropology/Sociology/Political_Science/Statism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Political_Science/Statism.personal|Statism.personal]] 
 
-### #is_/same_as :: [Statism.secret](/_secret/Society/Anthropology/Sociology/Political_Science/Statism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Political_Science/Statism.secret|Statism.secret]] 
 

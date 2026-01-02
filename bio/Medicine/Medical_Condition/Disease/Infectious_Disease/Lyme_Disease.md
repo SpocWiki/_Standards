@@ -112,17 +112,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lyme_Disease](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease|Lyme_Disease]] 
 
-### #is_/same_as :: [Lyme_Disease.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.public|Lyme_Disease.public]] 
 
-### #is_/same_as :: [Lyme_Disease.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.internal|Lyme_Disease.internal]] 
 
-### #is_/same_as :: [Lyme_Disease.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.protect|Lyme_Disease.protect]] 
 
-### #is_/same_as :: [Lyme_Disease.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.private|Lyme_Disease.private]] 
 
-### #is_/same_as :: [Lyme_Disease.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.personal|Lyme_Disease.personal]] 
 
-### #is_/same_as :: [Lyme_Disease.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Lyme_Disease.secret|Lyme_Disease.secret]] 
 

@@ -35,3 +35,22 @@ WordLift_URL: http://data.thenextweb.com/tnw/entity/sound_recording
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sound%20recording%20and%20reproduction) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process|Sound_Recording_Process]] 
+
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.public|Sound_Recording_Process.public]] 
+
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.internal|Sound_Recording_Process.internal]] 
+
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.protect|Sound_Recording_Process.protect]] 
+
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.private|Sound_Recording_Process.private]] 
+
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.personal|Sound_Recording_Process.personal]] 
+
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Acoustics/Sound/Sound_Recording_Process.secret|Sound_Recording_Process.secret]] 
+

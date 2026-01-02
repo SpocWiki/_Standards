@@ -35,17 +35,17 @@ has_part_s_of_the_class: "[[_Standards/WikiData/WD~star,523]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stellar_Association](/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star_System/Star_Cluster/Stellar_Association|Stellar_Association]] 
 
-### #is_/same_as :: [Stellar_Association.public](/_public/Astronomy/Star_System/Star_Cluster/Stellar_Association.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star_System/Star_Cluster/Stellar_Association.public|Stellar_Association.public]] 
 
-### #is_/same_as :: [Stellar_Association.internal](/_internal/Astronomy/Star_System/Star_Cluster/Stellar_Association.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star_System/Star_Cluster/Stellar_Association.internal|Stellar_Association.internal]] 
 
-### #is_/same_as :: [Stellar_Association.protect](/_protect/Astronomy/Star_System/Star_Cluster/Stellar_Association.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star_System/Star_Cluster/Stellar_Association.protect|Stellar_Association.protect]] 
 
-### #is_/same_as :: [Stellar_Association.private](/_private/Astronomy/Star_System/Star_Cluster/Stellar_Association.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star_System/Star_Cluster/Stellar_Association.private|Stellar_Association.private]] 
 
-### #is_/same_as :: [Stellar_Association.personal](/_personal/Astronomy/Star_System/Star_Cluster/Stellar_Association.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star_System/Star_Cluster/Stellar_Association.personal|Stellar_Association.personal]] 
 
-### #is_/same_as :: [Stellar_Association.secret](/_secret/Astronomy/Star_System/Star_Cluster/Stellar_Association.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star_System/Star_Cluster/Stellar_Association.secret|Stellar_Association.secret]] 
 

@@ -119,17 +119,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Midsommer%20nights%20d
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Midsummer_Night's_Dream](/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream|Midsummer_Night's_Dream]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.public](/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.public|Midsummer_Night's_Dream.public]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.internal|Midsummer_Night's_Dream.internal]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.protect|Midsummer_Night's_Dream.protect]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.private](/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.private|Midsummer_Night's_Dream.private]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.personal|Midsummer_Night's_Dream.personal]] 
 
-### #is_/same_as :: [Midsummer_Night's_Dream.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Renaissance_Writer/Shakespeare,William/Midsummer_Night's_Dream.secret|Midsummer_Night's_Dream.secret]] 
 

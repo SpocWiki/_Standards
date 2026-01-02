@@ -66,17 +66,17 @@ This allows faster searching and Comparison!
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [commutative](/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative|commutative]] 
 
-### #is_/same_as :: [commutative.public](/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.public|commutative.public]] 
 
-### #is_/same_as :: [commutative.internal](/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.internal|commutative.internal]] 
 
-### #is_/same_as :: [commutative.protect](/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.protect|commutative.protect]] 
 
-### #is_/same_as :: [commutative.private](/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.private|commutative.private]] 
 
-### #is_/same_as :: [commutative.personal](/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.personal|commutative.personal]] 
 
-### #is_/same_as :: [commutative.secret](/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Function(Math)/Function~binary/Operator~binary/commutative.secret|commutative.secret]] 
 

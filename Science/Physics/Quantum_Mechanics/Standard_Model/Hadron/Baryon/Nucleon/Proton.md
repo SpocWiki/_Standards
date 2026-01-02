@@ -200,17 +200,17 @@ time_of_discovery_or_invention: 1920-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Proton](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton|Proton]] 
 
-### #is_/same_as :: [Proton.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.public|Proton.public]] 
 
-### #is_/same_as :: [Proton.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.internal|Proton.internal]] 
 
-### #is_/same_as :: [Proton.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.protect|Proton.protect]] 
 
-### #is_/same_as :: [Proton.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.private|Proton.private]] 
 
-### #is_/same_as :: [Proton.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.personal|Proton.personal]] 
 
-### #is_/same_as :: [Proton.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Hadron/Baryon/Nucleon/Proton.secret|Proton.secret]] 
 

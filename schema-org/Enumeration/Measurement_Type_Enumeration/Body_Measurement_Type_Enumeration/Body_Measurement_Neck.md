@@ -44,17 +44,17 @@ Girth of neck. Used, for example, to fit shirts.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Neck](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck|Body_Measurement_Neck]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.public|Body_Measurement_Neck.public]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.internal|Body_Measurement_Neck.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.protect|Body_Measurement_Neck.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.private|Body_Measurement_Neck.private]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.personal|Body_Measurement_Neck.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Neck.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Neck.secret|Body_Measurement_Neck.secret]] 
 

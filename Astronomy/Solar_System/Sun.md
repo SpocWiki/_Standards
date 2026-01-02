@@ -650,17 +650,17 @@ volume_as_quantity: 1412000000000000000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sun](/_Standards/Astronomy/Solar_System/Sun.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Sun|Sun]] 
 
-### #is_/same_as :: [Sun.public](/_public/Astronomy/Solar_System/Sun.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Sun.public|Sun.public]] 
 
-### #is_/same_as :: [Sun.internal](/_internal/Astronomy/Solar_System/Sun.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Sun.internal|Sun.internal]] 
 
-### #is_/same_as :: [Sun.protect](/_protect/Astronomy/Solar_System/Sun.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Sun.protect|Sun.protect]] 
 
-### #is_/same_as :: [Sun.private](/_private/Astronomy/Solar_System/Sun.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Sun.private|Sun.private]] 
 
-### #is_/same_as :: [Sun.personal](/_personal/Astronomy/Solar_System/Sun.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Sun.personal|Sun.personal]] 
 
-### #is_/same_as :: [Sun.secret](/_secret/Astronomy/Solar_System/Sun.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Sun.secret|Sun.secret]] 
 

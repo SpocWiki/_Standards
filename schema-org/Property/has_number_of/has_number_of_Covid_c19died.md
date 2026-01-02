@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_Covid_c19died](/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_Covid_c19died|has_number_of_Covid_c19died]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.public](/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_Covid_c19died.public|has_number_of_Covid_c19died.public]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.internal](/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.internal|has_number_of_Covid_c19died.internal]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.protect](/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_Covid_c19died.protect|has_number_of_Covid_c19died.protect]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.private](/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_Covid_c19died.private|has_number_of_Covid_c19died.private]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.personal](/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_Covid_c19died.personal|has_number_of_Covid_c19died.personal]] 
 
-### #is_/same_as :: [has_number_of_Covid_c19died.secret](/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_Covid_c19died.secret|has_number_of_Covid_c19died.secret]] 
 

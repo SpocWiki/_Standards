@@ -79,17 +79,17 @@ official_name: Boötes
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Bootes](/_Standards/Astronomy/Star~Constellation/Zodiac~Bootes.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Bootes|Zodiac~Bootes]] 
 
-### #is_/same_as :: [Zodiac~Bootes.public](/_public/Astronomy/Star~Constellation/Zodiac~Bootes.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Bootes.public|Zodiac~Bootes.public]] 
 
-### #is_/same_as :: [Zodiac~Bootes.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Bootes.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Bootes.internal|Zodiac~Bootes.internal]] 
 
-### #is_/same_as :: [Zodiac~Bootes.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Bootes.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Bootes.protect|Zodiac~Bootes.protect]] 
 
-### #is_/same_as :: [Zodiac~Bootes.private](/_private/Astronomy/Star~Constellation/Zodiac~Bootes.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Bootes.private|Zodiac~Bootes.private]] 
 
-### #is_/same_as :: [Zodiac~Bootes.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Bootes.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Bootes.personal|Zodiac~Bootes.personal]] 
 
-### #is_/same_as :: [Zodiac~Bootes.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Bootes.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Bootes.secret|Zodiac~Bootes.secret]] 
 

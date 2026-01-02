@@ -52,17 +52,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicon_Valley](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley|Silicon_Valley]] 
 
-### #is_/same_as :: [Silicon_Valley.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.public|Silicon_Valley.public]] 
 
-### #is_/same_as :: [Silicon_Valley.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.internal|Silicon_Valley.internal]] 
 
-### #is_/same_as :: [Silicon_Valley.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.protect|Silicon_Valley.protect]] 
 
-### #is_/same_as :: [Silicon_Valley.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.private|Silicon_Valley.private]] 
 
-### #is_/same_as :: [Silicon_Valley.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.personal|Silicon_Valley.personal]] 
 
-### #is_/same_as :: [Silicon_Valley.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Semiconductor-Industry/Silicon_Valley.secret|Silicon_Valley.secret]] 
 

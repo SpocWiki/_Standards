@@ -104,17 +104,17 @@ NBN_System_Key: NHMSYS0021053288
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Agnatha](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha|Agnatha]] 
 
-### #is_/same_as :: [Agnatha.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.public|Agnatha.public]] 
 
-### #is_/same_as :: [Agnatha.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.internal|Agnatha.internal]] 
 
-### #is_/same_as :: [Agnatha.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.protect|Agnatha.protect]] 
 
-### #is_/same_as :: [Agnatha.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.private|Agnatha.private]] 
 
-### #is_/same_as :: [Agnatha.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.personal|Agnatha.personal]] 
 
-### #is_/same_as :: [Agnatha.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Agnatha.secret|Agnatha.secret]] 
 

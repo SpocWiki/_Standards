@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_less_than](/_Standards/schema-org/Relation/is/is_less_than.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_less_than|is_less_than]] 
 
-### #is_/same_as :: [is_less_than.public](/_public/schema-org/Relation/is/is_less_than.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_less_than.public|is_less_than.public]] 
 
-### #is_/same_as :: [is_less_than.internal](/_internal/schema-org/Relation/is/is_less_than.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_less_than.internal|is_less_than.internal]] 
 
-### #is_/same_as :: [is_less_than.protect](/_protect/schema-org/Relation/is/is_less_than.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_less_than.protect|is_less_than.protect]] 
 
-### #is_/same_as :: [is_less_than.private](/_private/schema-org/Relation/is/is_less_than.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_less_than.private|is_less_than.private]] 
 
-### #is_/same_as :: [is_less_than.personal](/_personal/schema-org/Relation/is/is_less_than.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_less_than.personal|is_less_than.personal]] 
 
-### #is_/same_as :: [is_less_than.secret](/_secret/schema-org/Relation/is/is_less_than.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_less_than.secret|is_less_than.secret]] 
 

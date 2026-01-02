@@ -45,17 +45,17 @@ subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fundamentalism](/_Standards/Philosophy/Metaphysic/Religion/Fundamentalism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Fundamentalism|Fundamentalism]] 
 
-### #is_/same_as :: [Fundamentalism.public](/_public/Philosophy/Metaphysic/Religion/Fundamentalism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Fundamentalism.public|Fundamentalism.public]] 
 
-### #is_/same_as :: [Fundamentalism.internal](/_internal/Philosophy/Metaphysic/Religion/Fundamentalism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Fundamentalism.internal|Fundamentalism.internal]] 
 
-### #is_/same_as :: [Fundamentalism.protect](/_protect/Philosophy/Metaphysic/Religion/Fundamentalism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Fundamentalism.protect|Fundamentalism.protect]] 
 
-### #is_/same_as :: [Fundamentalism.private](/_private/Philosophy/Metaphysic/Religion/Fundamentalism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Fundamentalism.private|Fundamentalism.private]] 
 
-### #is_/same_as :: [Fundamentalism.personal](/_personal/Philosophy/Metaphysic/Religion/Fundamentalism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Fundamentalism.personal|Fundamentalism.personal]] 
 
-### #is_/same_as :: [Fundamentalism.secret](/_secret/Philosophy/Metaphysic/Religion/Fundamentalism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Fundamentalism.secret|Fundamentalism.secret]] 
 

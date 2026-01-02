@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuel_Cell](/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell|Fuel_Cell]] 
 
-### #is_/same_as :: [Fuel_Cell.public](/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.public|Fuel_Cell.public]] 
 
-### #is_/same_as :: [Fuel_Cell.internal](/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.internal|Fuel_Cell.internal]] 
 
-### #is_/same_as :: [Fuel_Cell.protect](/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.protect|Fuel_Cell.protect]] 
 
-### #is_/same_as :: [Fuel_Cell.private](/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.private|Fuel_Cell.private]] 
 
-### #is_/same_as :: [Fuel_Cell.personal](/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.personal|Fuel_Cell.personal]] 
 
-### #is_/same_as :: [Fuel_Cell.secret](/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Fuel_Cell.secret|Fuel_Cell.secret]] 
 

@@ -148,17 +148,17 @@ Library_of_Congress_Classification: RC147.H6
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Herpes_Simplex](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex|Herpes_Simplex]] 
 
-### #is_/same_as :: [Herpes_Simplex.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.public|Herpes_Simplex.public]] 
 
-### #is_/same_as :: [Herpes_Simplex.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.internal|Herpes_Simplex.internal]] 
 
-### #is_/same_as :: [Herpes_Simplex.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.protect|Herpes_Simplex.protect]] 
 
-### #is_/same_as :: [Herpes_Simplex.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.private|Herpes_Simplex.private]] 
 
-### #is_/same_as :: [Herpes_Simplex.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.personal|Herpes_Simplex.personal]] 
 
-### #is_/same_as :: [Herpes_Simplex.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Herpes_Simplex.secret|Herpes_Simplex.secret]] 
 

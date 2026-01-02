@@ -30,17 +30,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magnificent_Seven(2016)](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016)|Magnificent_Seven(2016)]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).public|Magnificent_Seven(2016).public]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).internal|Magnificent_Seven(2016).internal]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).protect|Magnificent_Seven(2016).protect]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).private|Magnificent_Seven(2016).private]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).personal|Magnificent_Seven(2016).personal]] 
 
-### #is_/same_as :: [Magnificent_Seven(2016).secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Magnificent_Seven(2016).secret|Magnificent_Seven(2016).secret]] 
 

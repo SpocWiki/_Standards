@@ -75,17 +75,17 @@ Europeana_entity: agent/base/148536
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jaron_Lanier](/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier|Jaron_Lanier]] 
 
-### #is_/same_as :: [Jaron_Lanier.public](/_public/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.public|Jaron_Lanier.public]] 
 
-### #is_/same_as :: [Jaron_Lanier.internal](/_internal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.internal|Jaron_Lanier.internal]] 
 
-### #is_/same_as :: [Jaron_Lanier.protect](/_protect/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.protect|Jaron_Lanier.protect]] 
 
-### #is_/same_as :: [Jaron_Lanier.private](/_private/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.private|Jaron_Lanier.private]] 
 
-### #is_/same_as :: [Jaron_Lanier.personal](/_personal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.personal|Jaron_Lanier.personal]] 
 
-### #is_/same_as :: [Jaron_Lanier.secret](/_secret/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Science/Computer_Scientist/Jaron_Lanier.secret|Jaron_Lanier.secret]] 
 

@@ -42,17 +42,17 @@ OpenStreetMap_tag: landuse=quarry
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Quarry](/_Standards/Society/Economics/Industry/Mining/Quarry.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Mining/Quarry|Quarry]] 
 
-### #is_/same_as :: [Quarry.public](/_public/Society/Economics/Industry/Mining/Quarry.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Mining/Quarry.public|Quarry.public]] 
 
-### #is_/same_as :: [Quarry.internal](/_internal/Society/Economics/Industry/Mining/Quarry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Mining/Quarry.internal|Quarry.internal]] 
 
-### #is_/same_as :: [Quarry.protect](/_protect/Society/Economics/Industry/Mining/Quarry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Mining/Quarry.protect|Quarry.protect]] 
 
-### #is_/same_as :: [Quarry.private](/_private/Society/Economics/Industry/Mining/Quarry.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Mining/Quarry.private|Quarry.private]] 
 
-### #is_/same_as :: [Quarry.personal](/_personal/Society/Economics/Industry/Mining/Quarry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Mining/Quarry.personal|Quarry.personal]] 
 
-### #is_/same_as :: [Quarry.secret](/_secret/Society/Economics/Industry/Mining/Quarry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Mining/Quarry.secret|Quarry.secret]] 
 

@@ -149,17 +149,17 @@ Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mollusca](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca|Mollusca]] 
 
-### #is_/same_as :: [Mollusca.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.public|Mollusca.public]] 
 
-### #is_/same_as :: [Mollusca.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.internal|Mollusca.internal]] 
 
-### #is_/same_as :: [Mollusca.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.protect|Mollusca.protect]] 
 
-### #is_/same_as :: [Mollusca.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.private|Mollusca.private]] 
 
-### #is_/same_as :: [Mollusca.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.personal|Mollusca.personal]] 
 
-### #is_/same_as :: [Mollusca.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mollusca.secret|Mollusca.secret]] 
 

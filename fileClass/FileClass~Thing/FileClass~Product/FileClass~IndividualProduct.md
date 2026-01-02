@@ -47,17 +47,17 @@ SerialNumber:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~IndividualProduct](/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct|FileClass~IndividualProduct]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.public](/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.public|FileClass~IndividualProduct.public]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.internal](/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.internal|FileClass~IndividualProduct.internal]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.protect](/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.protect|FileClass~IndividualProduct.protect]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.private](/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.private|FileClass~IndividualProduct.private]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.personal](/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.personal|FileClass~IndividualProduct.personal]] 
 
-### #is_/same_as :: [FileClass~IndividualProduct.secret](/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Product/FileClass~IndividualProduct.secret|FileClass~IndividualProduct.secret]] 
 

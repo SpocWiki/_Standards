@@ -64,17 +64,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/French%20language%20ma
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trans-Saharan_Trade](/_Standards/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade|Trans-Saharan_Trade]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.public](/_public/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.public|Trans-Saharan_Trade.public]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.internal](/_internal/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.internal|Trans-Saharan_Trade.internal]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.protect](/_protect/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.protect|Trans-Saharan_Trade.protect]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.private](/_private/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.private|Trans-Saharan_Trade.private]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.personal](/_personal/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.personal|Trans-Saharan_Trade.personal]] 
 
-### #is_/same_as :: [Trans-Saharan_Trade.secret](/_secret/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Trans-Saharan_Trade.secret|Trans-Saharan_Trade.secret]] 
 

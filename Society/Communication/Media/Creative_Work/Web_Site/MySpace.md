@@ -58,3 +58,22 @@ Commons_category: Myspace
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Myspace) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Web_Site/MySpace|MySpace]] 
+
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Web_Site/MySpace.public|MySpace.public]] 
+
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Web_Site/MySpace.internal|MySpace.internal]] 
+
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Web_Site/MySpace.protect|MySpace.protect]] 
+
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Web_Site/MySpace.private|MySpace.private]] 
+
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Web_Site/MySpace.personal|MySpace.personal]] 
+
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Web_Site/MySpace.secret|MySpace.secret]] 
+

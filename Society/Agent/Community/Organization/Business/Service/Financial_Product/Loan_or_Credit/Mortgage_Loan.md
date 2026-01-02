@@ -43,17 +43,17 @@ A loan in which property or real estate is used as collateral. (A loan securitiz
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mortgage_Loan](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan|Mortgage_Loan]] 
 
-### #is_/same_as :: [Mortgage_Loan.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.public|Mortgage_Loan.public]] 
 
-### #is_/same_as :: [Mortgage_Loan.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.internal|Mortgage_Loan.internal]] 
 
-### #is_/same_as :: [Mortgage_Loan.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.protect|Mortgage_Loan.protect]] 
 
-### #is_/same_as :: [Mortgage_Loan.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.private|Mortgage_Loan.private]] 
 
-### #is_/same_as :: [Mortgage_Loan.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.personal|Mortgage_Loan.personal]] 
 
-### #is_/same_as :: [Mortgage_Loan.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit/Mortgage_Loan.secret|Mortgage_Loan.secret]] 
 

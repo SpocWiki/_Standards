@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_course](/_Standards/schema-org/Relation/has/has_course.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_course|has_course]] 
 
-### #is_/same_as :: [has_course.public](/_public/schema-org/Relation/has/has_course.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_course.public|has_course.public]] 
 
-### #is_/same_as :: [has_course.internal](/_internal/schema-org/Relation/has/has_course.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_course.internal|has_course.internal]] 
 
-### #is_/same_as :: [has_course.protect](/_protect/schema-org/Relation/has/has_course.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_course.protect|has_course.protect]] 
 
-### #is_/same_as :: [has_course.private](/_private/schema-org/Relation/has/has_course.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_course.private|has_course.private]] 
 
-### #is_/same_as :: [has_course.personal](/_personal/schema-org/Relation/has/has_course.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_course.personal|has_course.personal]] 
 
-### #is_/same_as :: [has_course.secret](/_secret/schema-org/Relation/has/has_course.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_course.secret|has_course.secret]] 
 

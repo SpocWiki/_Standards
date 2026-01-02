@@ -54,17 +54,17 @@ Gujarati_Vishwakosh_entry: આક્રમણ-આંતરરાષ્ટ્ર�
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Invasion](/_Standards/Society/Military/Military_Operation/Military_Strategy/Invasion.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Invasion|Invasion]] 
 
-### #is_/same_as :: [Invasion.public](/_public/Society/Military/Military_Operation/Military_Strategy/Invasion.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Invasion.public|Invasion.public]] 
 
-### #is_/same_as :: [Invasion.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Invasion.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Invasion.internal|Invasion.internal]] 
 
-### #is_/same_as :: [Invasion.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Invasion.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Invasion.protect|Invasion.protect]] 
 
-### #is_/same_as :: [Invasion.private](/_private/Society/Military/Military_Operation/Military_Strategy/Invasion.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Invasion.private|Invasion.private]] 
 
-### #is_/same_as :: [Invasion.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Invasion.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Invasion.personal|Invasion.personal]] 
 
-### #is_/same_as :: [Invasion.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Invasion.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Invasion.secret|Invasion.secret]] 
 

@@ -175,17 +175,17 @@ ISNI: "0000000121449542"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Chiang_Kai-shek](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek|Chiang_Kai-shek]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.public|Chiang_Kai-shek.public]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.internal|Chiang_Kai-shek.internal]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.protect|Chiang_Kai-shek.protect]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.private|Chiang_Kai-shek.private]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.personal|Chiang_Kai-shek.personal]] 
 
-### #is_/same_as :: [Chiang_Kai-shek.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Chiang_Kai-shek.secret|Chiang_Kai-shek.secret]] 
 

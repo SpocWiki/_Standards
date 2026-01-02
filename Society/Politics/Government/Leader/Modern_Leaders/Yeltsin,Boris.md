@@ -178,17 +178,17 @@ ISNI: "0000000122785409"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Yeltsin,Boris](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris|Yeltsin,Boris]] 
 
-### #is_/same_as :: [Yeltsin,Boris.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.public|Yeltsin,Boris.public]] 
 
-### #is_/same_as :: [Yeltsin,Boris.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.internal|Yeltsin,Boris.internal]] 
 
-### #is_/same_as :: [Yeltsin,Boris.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.protect|Yeltsin,Boris.protect]] 
 
-### #is_/same_as :: [Yeltsin,Boris.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.private|Yeltsin,Boris.private]] 
 
-### #is_/same_as :: [Yeltsin,Boris.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.personal|Yeltsin,Boris.personal]] 
 
-### #is_/same_as :: [Yeltsin,Boris.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Yeltsin,Boris.secret|Yeltsin,Boris.secret]] 
 

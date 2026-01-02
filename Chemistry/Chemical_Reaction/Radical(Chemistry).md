@@ -71,3 +71,22 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/SVOBODNIE_RADIKALI.html
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Radical%20(chemistry)) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Reaction/Radical(Chemistry)|Radical(Chemistry)]] 
+
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Reaction/Radical(Chemistry).public|Radical(Chemistry).public]] 
+
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Reaction/Radical(Chemistry).internal|Radical(Chemistry).internal]] 
+
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Reaction/Radical(Chemistry).protect|Radical(Chemistry).protect]] 
+
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Reaction/Radical(Chemistry).private|Radical(Chemistry).private]] 
+
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Reaction/Radical(Chemistry).personal|Radical(Chemistry).personal]] 
+
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Reaction/Radical(Chemistry).secret|Radical(Chemistry).secret]] 
+

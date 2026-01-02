@@ -59,17 +59,17 @@ UMLS_CUI:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Metabolism](/_Standards/bio/Metabolism.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism|Metabolism]] 
 
-### #is_/same_as :: [Metabolism.public](/_public/bio/Metabolism.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism.public|Metabolism.public]] 
 
-### #is_/same_as :: [Metabolism.internal](/_internal/bio/Metabolism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism.internal|Metabolism.internal]] 
 
-### #is_/same_as :: [Metabolism.protect](/_protect/bio/Metabolism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism.protect|Metabolism.protect]] 
 
-### #is_/same_as :: [Metabolism.private](/_private/bio/Metabolism.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism.private|Metabolism.private]] 
 
-### #is_/same_as :: [Metabolism.personal](/_personal/bio/Metabolism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism.personal|Metabolism.personal]] 
 
-### #is_/same_as :: [Metabolism.secret](/_secret/bio/Metabolism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism.secret|Metabolism.secret]] 
 

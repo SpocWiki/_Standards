@@ -44,17 +44,17 @@ candidature for an academic degree or professional qualification.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thesis](/_Standards/Society/Communication/Media/Creative_Work/Thesis.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Thesis|Thesis]] 
 
-### #is_/same_as :: [Thesis.public](/_public/Society/Communication/Media/Creative_Work/Thesis.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Thesis.public|Thesis.public]] 
 
-### #is_/same_as :: [Thesis.internal](/_internal/Society/Communication/Media/Creative_Work/Thesis.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Thesis.internal|Thesis.internal]] 
 
-### #is_/same_as :: [Thesis.protect](/_protect/Society/Communication/Media/Creative_Work/Thesis.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Thesis.protect|Thesis.protect]] 
 
-### #is_/same_as :: [Thesis.private](/_private/Society/Communication/Media/Creative_Work/Thesis.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Thesis.private|Thesis.private]] 
 
-### #is_/same_as :: [Thesis.personal](/_personal/Society/Communication/Media/Creative_Work/Thesis.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Thesis.personal|Thesis.personal]] 
 
-### #is_/same_as :: [Thesis.secret](/_secret/Society/Communication/Media/Creative_Work/Thesis.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Thesis.secret|Thesis.secret]] 
 

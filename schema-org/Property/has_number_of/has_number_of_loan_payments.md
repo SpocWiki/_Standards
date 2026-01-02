@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_loan_payments](/_Standards/schema-org/Property/has_number_of/has_number_of_loan_payments.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_loan_payments|has_number_of_loan_payments]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.public](/_public/schema-org/Property/has_number_of/has_number_of_loan_payments.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_loan_payments.public|has_number_of_loan_payments.public]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.internal](/_internal/schema-org/Property/has_number_of/has_number_of_loan_payments.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_loan_payments.internal|has_number_of_loan_payments.internal]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.protect](/_protect/schema-org/Property/has_number_of/has_number_of_loan_payments.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_loan_payments.protect|has_number_of_loan_payments.protect]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.private](/_private/schema-org/Property/has_number_of/has_number_of_loan_payments.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_loan_payments.private|has_number_of_loan_payments.private]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.personal](/_personal/schema-org/Property/has_number_of/has_number_of_loan_payments.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_loan_payments.personal|has_number_of_loan_payments.personal]] 
 
-### #is_/same_as :: [has_number_of_loan_payments.secret](/_secret/schema-org/Property/has_number_of/has_number_of_loan_payments.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_loan_payments.secret|has_number_of_loan_payments.secret]] 
 

@@ -15,17 +15,17 @@ Partition of Work and [[Exploitation]] without Attribution can lead to [[Dehuman
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dehumanization](/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization|Dehumanization]] 
 
-### #is_/same_as :: [Dehumanization.public](/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.public|Dehumanization.public]] 
 
-### #is_/same_as :: [Dehumanization.internal](/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.internal|Dehumanization.internal]] 
 
-### #is_/same_as :: [Dehumanization.protect](/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.protect|Dehumanization.protect]] 
 
-### #is_/same_as :: [Dehumanization.private](/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.private|Dehumanization.private]] 
 
-### #is_/same_as :: [Dehumanization.personal](/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.personal|Dehumanization.personal]] 
 
-### #is_/same_as :: [Dehumanization.secret](/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Dehumanization.secret|Dehumanization.secret]] 
 

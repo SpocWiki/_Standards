@@ -74,17 +74,17 @@ inception: 1513-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Prince](/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince|The_Prince]] 
 
-### #is_/same_as :: [The_Prince.public](/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.public|The_Prince.public]] 
 
-### #is_/same_as :: [The_Prince.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.internal|The_Prince.internal]] 
 
-### #is_/same_as :: [The_Prince.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.protect|The_Prince.protect]] 
 
-### #is_/same_as :: [The_Prince.private](/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.private|The_Prince.private]] 
 
-### #is_/same_as :: [The_Prince.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.personal|The_Prince.personal]] 
 
-### #is_/same_as :: [The_Prince.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Political_Writer/Machiavelli,Niccolò/The_Prince.secret|The_Prince.secret]] 
 

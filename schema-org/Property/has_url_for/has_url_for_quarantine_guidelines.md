@@ -45,17 +45,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines](/_Standards/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines|has_url_for_quarantine_guidelines]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.public](/_public/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.public|has_url_for_quarantine_guidelines.public]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.internal](/_internal/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.internal|has_url_for_quarantine_guidelines.internal]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.protect](/_protect/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.protect|has_url_for_quarantine_guidelines.protect]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.private](/_private/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.private|has_url_for_quarantine_guidelines.private]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.personal](/_personal/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.personal|has_url_for_quarantine_guidelines.personal]] 
 
-### #is_/same_as :: [has_url_for_quarantine_guidelines.secret](/_secret/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for/has_url_for_quarantine_guidelines.secret|has_url_for_quarantine_guidelines.secret]] 
 

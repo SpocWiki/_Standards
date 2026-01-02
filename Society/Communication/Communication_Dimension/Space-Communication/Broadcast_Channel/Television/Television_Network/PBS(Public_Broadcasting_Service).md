@@ -129,17 +129,17 @@ Bluesky_handle: pbs.org
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service)](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service)|PBS(Public_Broadcasting_Service)]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).public|PBS(Public_Broadcasting_Service).public]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).internal|PBS(Public_Broadcasting_Service).internal]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).protect|PBS(Public_Broadcasting_Service).protect]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).private|PBS(Public_Broadcasting_Service).private]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).personal|PBS(Public_Broadcasting_Service).personal]] 
 
-### #is_/same_as :: [PBS(Public_Broadcasting_Service).secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/PBS(Public_Broadcasting_Service).secret|PBS(Public_Broadcasting_Service).secret]] 
 

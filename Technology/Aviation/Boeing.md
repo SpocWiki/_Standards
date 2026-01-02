@@ -213,17 +213,17 @@ Boeing produces the [[Boeing/Boeing_Starliner]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boeing](/_Standards/Technology/Aviation/Boeing.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/Boeing|Boeing]] 
 
-### #is_/same_as :: [Boeing.public](/_public/Technology/Aviation/Boeing.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/Boeing.public|Boeing.public]] 
 
-### #is_/same_as :: [Boeing.internal](/_internal/Technology/Aviation/Boeing.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/Boeing.internal|Boeing.internal]] 
 
-### #is_/same_as :: [Boeing.protect](/_protect/Technology/Aviation/Boeing.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/Boeing.protect|Boeing.protect]] 
 
-### #is_/same_as :: [Boeing.private](/_private/Technology/Aviation/Boeing.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/Boeing.private|Boeing.private]] 
 
-### #is_/same_as :: [Boeing.personal](/_personal/Technology/Aviation/Boeing.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/Boeing.personal|Boeing.personal]] 
 
-### #is_/same_as :: [Boeing.secret](/_secret/Technology/Aviation/Boeing.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/Boeing.secret|Boeing.secret]] 
 

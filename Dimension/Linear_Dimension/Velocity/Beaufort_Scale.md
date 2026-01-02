@@ -33,17 +33,17 @@ Commons_category: Beaufort Scale
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beaufort_Scale](/_Standards/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension/Velocity/Beaufort_Scale|Beaufort_Scale]] 
 
-### #is_/same_as :: [Beaufort_Scale.public](/_public/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.public|Beaufort_Scale.public]] 
 
-### #is_/same_as :: [Beaufort_Scale.internal](/_internal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.internal|Beaufort_Scale.internal]] 
 
-### #is_/same_as :: [Beaufort_Scale.protect](/_protect/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.protect|Beaufort_Scale.protect]] 
 
-### #is_/same_as :: [Beaufort_Scale.private](/_private/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.private|Beaufort_Scale.private]] 
 
-### #is_/same_as :: [Beaufort_Scale.personal](/_personal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.personal|Beaufort_Scale.personal]] 
 
-### #is_/same_as :: [Beaufort_Scale.secret](/_secret/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension/Velocity/Beaufort_Scale.secret|Beaufort_Scale.secret]] 
 

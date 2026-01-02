@@ -91,17 +91,17 @@ sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brahmagupta](/_Standards/Science/Scientist/Middle_Age_Scientists/Brahmagupta.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Middle_Age_Scientists/Brahmagupta|Brahmagupta]] 
 
-### #is_/same_as :: [Brahmagupta.public](/_public/Science/Scientist/Middle_Age_Scientists/Brahmagupta.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Middle_Age_Scientists/Brahmagupta.public|Brahmagupta.public]] 
 
-### #is_/same_as :: [Brahmagupta.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.internal|Brahmagupta.internal]] 
 
-### #is_/same_as :: [Brahmagupta.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Brahmagupta.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Middle_Age_Scientists/Brahmagupta.protect|Brahmagupta.protect]] 
 
-### #is_/same_as :: [Brahmagupta.private](/_private/Science/Scientist/Middle_Age_Scientists/Brahmagupta.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Middle_Age_Scientists/Brahmagupta.private|Brahmagupta.private]] 
 
-### #is_/same_as :: [Brahmagupta.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Middle_Age_Scientists/Brahmagupta.personal|Brahmagupta.personal]] 
 
-### #is_/same_as :: [Brahmagupta.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Brahmagupta.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Middle_Age_Scientists/Brahmagupta.secret|Brahmagupta.secret]] 
 

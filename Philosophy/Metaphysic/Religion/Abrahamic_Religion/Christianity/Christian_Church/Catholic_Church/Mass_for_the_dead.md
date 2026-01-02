@@ -55,17 +55,17 @@ Commons_category: Requiem Mass
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mass_for_the_dead](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead|Mass_for_the_dead]] 
 
-### #is_/same_as :: [Mass_for_the_dead.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.public|Mass_for_the_dead.public]] 
 
-### #is_/same_as :: [Mass_for_the_dead.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.internal|Mass_for_the_dead.internal]] 
 
-### #is_/same_as :: [Mass_for_the_dead.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.protect|Mass_for_the_dead.protect]] 
 
-### #is_/same_as :: [Mass_for_the_dead.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.private|Mass_for_the_dead.private]] 
 
-### #is_/same_as :: [Mass_for_the_dead.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.personal|Mass_for_the_dead.personal]] 
 
-### #is_/same_as :: [Mass_for_the_dead.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Mass_for_the_dead.secret|Mass_for_the_dead.secret]] 
 

@@ -183,17 +183,17 @@ Wolfram_Language_entity_code: Entity["Person", "LudwigWittgenstein::4kv26"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wittgenstein,Ludwig](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig|Wittgenstein,Ludwig]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.public|Wittgenstein,Ludwig.public]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.internal|Wittgenstein,Ludwig.internal]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.protect|Wittgenstein,Ludwig.protect]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.private|Wittgenstein,Ludwig.private]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.personal|Wittgenstein,Ludwig.personal]] 
 
-### #is_/same_as :: [Wittgenstein,Ludwig.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Wittgenstein,Ludwig.secret|Wittgenstein,Ludwig.secret]] 
 

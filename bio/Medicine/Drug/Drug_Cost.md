@@ -41,17 +41,17 @@ The cost per unit of a medical drug. Note that this type is not meant to represe
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Drug_Cost](/_Standards/bio/Medicine/Drug/Drug_Cost.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Drug/Drug_Cost|Drug_Cost]] 
 
-### #is_/same_as :: [Drug_Cost.public](/_public/bio/Medicine/Drug/Drug_Cost.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Drug/Drug_Cost.public|Drug_Cost.public]] 
 
-### #is_/same_as :: [Drug_Cost.internal](/_internal/bio/Medicine/Drug/Drug_Cost.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Drug/Drug_Cost.internal|Drug_Cost.internal]] 
 
-### #is_/same_as :: [Drug_Cost.protect](/_protect/bio/Medicine/Drug/Drug_Cost.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Drug/Drug_Cost.protect|Drug_Cost.protect]] 
 
-### #is_/same_as :: [Drug_Cost.private](/_private/bio/Medicine/Drug/Drug_Cost.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Drug/Drug_Cost.private|Drug_Cost.private]] 
 
-### #is_/same_as :: [Drug_Cost.personal](/_personal/bio/Medicine/Drug/Drug_Cost.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Drug/Drug_Cost.personal|Drug_Cost.personal]] 
 
-### #is_/same_as :: [Drug_Cost.secret](/_secret/bio/Medicine/Drug/Drug_Cost.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Drug/Drug_Cost.secret|Drug_Cost.secret]] 
 

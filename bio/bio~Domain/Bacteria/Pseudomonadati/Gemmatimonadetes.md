@@ -54,17 +54,17 @@ title: Gemmatimonas aurantiaca
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gemmatimonadetes](/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes|Gemmatimonadetes]] 
 
-### #is_/same_as :: [Gemmatimonadetes.public](/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.public|Gemmatimonadetes.public]] 
 
-### #is_/same_as :: [Gemmatimonadetes.internal](/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.internal|Gemmatimonadetes.internal]] 
 
-### #is_/same_as :: [Gemmatimonadetes.protect](/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.protect|Gemmatimonadetes.protect]] 
 
-### #is_/same_as :: [Gemmatimonadetes.private](/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.private|Gemmatimonadetes.private]] 
 
-### #is_/same_as :: [Gemmatimonadetes.personal](/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.personal|Gemmatimonadetes.personal]] 
 
-### #is_/same_as :: [Gemmatimonadetes.secret](/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Bacteria/Pseudomonadati/Gemmatimonadetes.secret|Gemmatimonadetes.secret]] 
 

@@ -57,17 +57,17 @@ Unicode_character: 🐉
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Azure_Dragon](/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon|Azure_Dragon]] 
 
-### #is_/same_as :: [Azure_Dragon.public](/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.public|Azure_Dragon.public]] 
 
-### #is_/same_as :: [Azure_Dragon.internal](/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.internal|Azure_Dragon.internal]] 
 
-### #is_/same_as :: [Azure_Dragon.protect](/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.protect|Azure_Dragon.protect]] 
 
-### #is_/same_as :: [Azure_Dragon.private](/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.private|Azure_Dragon.private]] 
 
-### #is_/same_as :: [Azure_Dragon.personal](/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.personal|Azure_Dragon.personal]] 
 
-### #is_/same_as :: [Azure_Dragon.secret](/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Mythology/Chinese_Mythology/Azure_Dragon.secret|Azure_Dragon.secret]] 
 

@@ -53,17 +53,17 @@ Commons_category: Human teeth
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Human_Tooth](/_Standards/bio/Medicine/Anatomy/Human_Tooth.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Anatomy/Human_Tooth|Human_Tooth]] 
 
-### #is_/same_as :: [Human_Tooth.public](/_public/bio/Medicine/Anatomy/Human_Tooth.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Anatomy/Human_Tooth.public|Human_Tooth.public]] 
 
-### #is_/same_as :: [Human_Tooth.internal](/_internal/bio/Medicine/Anatomy/Human_Tooth.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Anatomy/Human_Tooth.internal|Human_Tooth.internal]] 
 
-### #is_/same_as :: [Human_Tooth.protect](/_protect/bio/Medicine/Anatomy/Human_Tooth.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Anatomy/Human_Tooth.protect|Human_Tooth.protect]] 
 
-### #is_/same_as :: [Human_Tooth.private](/_private/bio/Medicine/Anatomy/Human_Tooth.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Anatomy/Human_Tooth.private|Human_Tooth.private]] 
 
-### #is_/same_as :: [Human_Tooth.personal](/_personal/bio/Medicine/Anatomy/Human_Tooth.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Anatomy/Human_Tooth.personal|Human_Tooth.personal]] 
 
-### #is_/same_as :: [Human_Tooth.secret](/_secret/bio/Medicine/Anatomy/Human_Tooth.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Anatomy/Human_Tooth.secret|Human_Tooth.secret]] 
 

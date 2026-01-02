@@ -498,17 +498,17 @@ Capital :: [[Dakar]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Senegal](/_Standards/Earth/Continent/Africa/Africa~West/Senegal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Senegal|Senegal]] 
 
-### #is_/same_as :: [Senegal.public](/_public/Earth/Continent/Africa/Africa~West/Senegal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Senegal.public|Senegal.public]] 
 
-### #is_/same_as :: [Senegal.internal](/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Senegal.internal|Senegal.internal]] 
 
-### #is_/same_as :: [Senegal.protect](/_protect/Earth/Continent/Africa/Africa~West/Senegal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Senegal.protect|Senegal.protect]] 
 
-### #is_/same_as :: [Senegal.private](/_private/Earth/Continent/Africa/Africa~West/Senegal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Senegal.private|Senegal.private]] 
 
-### #is_/same_as :: [Senegal.personal](/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]] 
 
-### #is_/same_as :: [Senegal.secret](/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]] 
 

@@ -187,17 +187,17 @@ Europeana_entity: agent/base/59981
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sinatra,Frank](/_Standards/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank|Sinatra,Frank]] 
 
-### #is_/same_as :: [Sinatra,Frank.public](/_public/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.public|Sinatra,Frank.public]] 
 
-### #is_/same_as :: [Sinatra,Frank.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.internal|Sinatra,Frank.internal]] 
 
-### #is_/same_as :: [Sinatra,Frank.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.protect|Sinatra,Frank.protect]] 
 
-### #is_/same_as :: [Sinatra,Frank.private](/_private/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.private|Sinatra,Frank.private]] 
 
-### #is_/same_as :: [Sinatra,Frank.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.personal|Sinatra,Frank.personal]] 
 
-### #is_/same_as :: [Sinatra,Frank.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Sinatra,Frank.secret|Sinatra,Frank.secret]] 
 

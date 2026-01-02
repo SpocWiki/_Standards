@@ -45,17 +45,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Rustning%2C%20Gustav%2
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plate_Armor](/_Standards/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor|Plate_Armor]] 
 
-### #is_/same_as :: [Plate_Armor.public](/_public/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.public|Plate_Armor.public]] 
 
-### #is_/same_as :: [Plate_Armor.internal](/_internal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.internal|Plate_Armor.internal]] 
 
-### #is_/same_as :: [Plate_Armor.protect](/_protect/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.protect|Plate_Armor.protect]] 
 
-### #is_/same_as :: [Plate_Armor.private](/_private/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.private|Plate_Armor.private]] 
 
-### #is_/same_as :: [Plate_Armor.personal](/_personal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.personal|Plate_Armor.personal]] 
 
-### #is_/same_as :: [Plate_Armor.secret](/_secret/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Engineering/Defense/Armor/Plate_Armor.secret|Plate_Armor.secret]] 
 

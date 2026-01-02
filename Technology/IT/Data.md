@@ -81,17 +81,17 @@ Commons_category: Computer data
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Data](/_Standards/Technology/IT/Data.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data|Data]] 
 
-### #is_/same_as :: [Data.public](/_public/Technology/IT/Data.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data.public|Data.public]] 
 
-### #is_/same_as :: [Data.internal](/_internal/Technology/IT/Data.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data.internal|Data.internal]] 
 
-### #is_/same_as :: [Data.protect](/_protect/Technology/IT/Data.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data.protect|Data.protect]] 
 
-### #is_/same_as :: [Data.private](/_private/Technology/IT/Data.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data.private|Data.private]] 
 
-### #is_/same_as :: [Data.personal](/_personal/Technology/IT/Data.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data.personal|Data.personal]] 
 
-### #is_/same_as :: [Data.secret](/_secret/Technology/IT/Data.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data.secret|Data.secret]] 
 

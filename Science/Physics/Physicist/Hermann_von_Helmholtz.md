@@ -248,17 +248,17 @@ Libris_URI: 86lnr28s2htm865
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hermann_von_Helmholtz](/_Standards/Science/Physics/Physicist/Hermann_von_Helmholtz.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Hermann_von_Helmholtz|Hermann_von_Helmholtz]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.public](/_public/Science/Physics/Physicist/Hermann_von_Helmholtz.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Hermann_von_Helmholtz.public|Hermann_von_Helmholtz.public]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.internal](/_internal/Science/Physics/Physicist/Hermann_von_Helmholtz.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Hermann_von_Helmholtz.internal|Hermann_von_Helmholtz.internal]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.protect](/_protect/Science/Physics/Physicist/Hermann_von_Helmholtz.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Hermann_von_Helmholtz.protect|Hermann_von_Helmholtz.protect]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.private](/_private/Science/Physics/Physicist/Hermann_von_Helmholtz.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Hermann_von_Helmholtz.private|Hermann_von_Helmholtz.private]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.personal](/_personal/Science/Physics/Physicist/Hermann_von_Helmholtz.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Hermann_von_Helmholtz.personal|Hermann_von_Helmholtz.personal]] 
 
-### #is_/same_as :: [Hermann_von_Helmholtz.secret](/_secret/Science/Physics/Physicist/Hermann_von_Helmholtz.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Hermann_von_Helmholtz.secret|Hermann_von_Helmholtz.secret]] 
 

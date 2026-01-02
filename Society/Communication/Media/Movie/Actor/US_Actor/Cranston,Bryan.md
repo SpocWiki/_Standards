@@ -31,17 +31,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cranston,Bryan](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan|Cranston,Bryan]] 
 
-### #is_/same_as :: [Cranston,Bryan.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.public|Cranston,Bryan.public]] 
 
-### #is_/same_as :: [Cranston,Bryan.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.internal|Cranston,Bryan.internal]] 
 
-### #is_/same_as :: [Cranston,Bryan.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.protect|Cranston,Bryan.protect]] 
 
-### #is_/same_as :: [Cranston,Bryan.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.private|Cranston,Bryan.private]] 
 
-### #is_/same_as :: [Cranston,Bryan.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.personal|Cranston,Bryan.personal]] 
 
-### #is_/same_as :: [Cranston,Bryan.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Cranston,Bryan.secret|Cranston,Bryan.secret]] 
 

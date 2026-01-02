@@ -90,17 +90,17 @@ hashtag: stainedglass
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stained_Glass](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass|Stained_Glass]] 
 
-### #is_/same_as :: [Stained_Glass.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.public|Stained_Glass.public]] 
 
-### #is_/same_as :: [Stained_Glass.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.internal|Stained_Glass.internal]] 
 
-### #is_/same_as :: [Stained_Glass.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.protect|Stained_Glass.protect]] 
 
-### #is_/same_as :: [Stained_Glass.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.private|Stained_Glass.private]] 
 
-### #is_/same_as :: [Stained_Glass.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.personal|Stained_Glass.personal]] 
 
-### #is_/same_as :: [Stained_Glass.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architectural_Element/Window/Stained_Glass.secret|Stained_Glass.secret]] 
 

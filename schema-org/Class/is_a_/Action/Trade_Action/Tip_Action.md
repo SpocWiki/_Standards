@@ -41,17 +41,17 @@ The act of giving money voluntarily to a beneficiary in recognition of services 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tip_Action](/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action|Tip_Action]] 
 
-### #is_/same_as :: [Tip_Action.public](/_public/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.public|Tip_Action.public]] 
 
-### #is_/same_as :: [Tip_Action.internal](/_internal/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.internal|Tip_Action.internal]] 
 
-### #is_/same_as :: [Tip_Action.protect](/_protect/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.protect|Tip_Action.protect]] 
 
-### #is_/same_as :: [Tip_Action.private](/_private/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.private|Tip_Action.private]] 
 
-### #is_/same_as :: [Tip_Action.personal](/_personal/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.personal|Tip_Action.personal]] 
 
-### #is_/same_as :: [Tip_Action.secret](/_secret/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Action/Trade_Action/Tip_Action.secret|Tip_Action.secret]] 
 

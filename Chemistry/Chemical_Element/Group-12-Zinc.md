@@ -24,17 +24,17 @@ type: ElementGroup
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group-12-Zinc](/_Standards/Chemistry/Chemical_Element/Group-12-Zinc.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc|Group-12-Zinc]] 
 
-### #is_/same_as :: [Group-12-Zinc.public](/_public/Chemistry/Chemical_Element/Group-12-Zinc.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Chemical_Element/Group-12-Zinc.public|Group-12-Zinc.public]] 
 
-### #is_/same_as :: [Group-12-Zinc.internal](/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal|Group-12-Zinc.internal]] 
 
-### #is_/same_as :: [Group-12-Zinc.protect](/_protect/Chemistry/Chemical_Element/Group-12-Zinc.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Chemical_Element/Group-12-Zinc.protect|Group-12-Zinc.protect]] 
 
-### #is_/same_as :: [Group-12-Zinc.private](/_private/Chemistry/Chemical_Element/Group-12-Zinc.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Chemical_Element/Group-12-Zinc.private|Group-12-Zinc.private]] 
 
-### #is_/same_as :: [Group-12-Zinc.personal](/_personal/Chemistry/Chemical_Element/Group-12-Zinc.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Chemical_Element/Group-12-Zinc.personal|Group-12-Zinc.personal]] 
 
-### #is_/same_as :: [Group-12-Zinc.secret](/_secret/Chemistry/Chemical_Element/Group-12-Zinc.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Chemical_Element/Group-12-Zinc.secret|Group-12-Zinc.secret]] 
 

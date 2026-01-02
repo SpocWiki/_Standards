@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_eligible_transaction_volume](/_Standards/schema-org/Relation/has/has_eligible_transaction_volume.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_eligible_transaction_volume|has_eligible_transaction_volume]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.public](/_public/schema-org/Relation/has/has_eligible_transaction_volume.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_eligible_transaction_volume.public|has_eligible_transaction_volume.public]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.internal](/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_eligible_transaction_volume.internal|has_eligible_transaction_volume.internal]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.protect](/_protect/schema-org/Relation/has/has_eligible_transaction_volume.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_eligible_transaction_volume.protect|has_eligible_transaction_volume.protect]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.private](/_private/schema-org/Relation/has/has_eligible_transaction_volume.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_eligible_transaction_volume.private|has_eligible_transaction_volume.private]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.personal](/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_eligible_transaction_volume.personal|has_eligible_transaction_volume.personal]] 
 
-### #is_/same_as :: [has_eligible_transaction_volume.secret](/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_eligible_transaction_volume.secret|has_eligible_transaction_volume.secret]] 
 

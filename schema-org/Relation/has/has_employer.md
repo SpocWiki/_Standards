@@ -17,17 +17,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_employer](/_Standards/schema-org/Relation/has/has_employer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_employer|has_employer]] 
 
-### #is_/same_as :: [has_employer.public](/_public/schema-org/Relation/has/has_employer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_employer.public|has_employer.public]] 
 
-### #is_/same_as :: [has_employer.internal](/_internal/schema-org/Relation/has/has_employer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_employer.internal|has_employer.internal]] 
 
-### #is_/same_as :: [has_employer.protect](/_protect/schema-org/Relation/has/has_employer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_employer.protect|has_employer.protect]] 
 
-### #is_/same_as :: [has_employer.private](/_private/schema-org/Relation/has/has_employer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_employer.private|has_employer.private]] 
 
-### #is_/same_as :: [has_employer.personal](/_personal/schema-org/Relation/has/has_employer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_employer.personal|has_employer.personal]] 
 
-### #is_/same_as :: [has_employer.secret](/_secret/schema-org/Relation/has/has_employer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_employer.secret|has_employer.secret]] 
 

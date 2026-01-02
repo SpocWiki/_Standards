@@ -5,17 +5,17 @@ so AES with sufficient large Bit-Size stays safe.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [AES_Encryption](/_Standards/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption|AES_Encryption]] 
 
-### #is_/same_as :: [AES_Encryption.public](/_public/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.public|AES_Encryption.public]] 
 
-### #is_/same_as :: [AES_Encryption.internal](/_internal/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.internal|AES_Encryption.internal]] 
 
-### #is_/same_as :: [AES_Encryption.protect](/_protect/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.protect|AES_Encryption.protect]] 
 
-### #is_/same_as :: [AES_Encryption.private](/_private/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.private|AES_Encryption.private]] 
 
-### #is_/same_as :: [AES_Encryption.personal](/_personal/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.personal|AES_Encryption.personal]] 
 
-### #is_/same_as :: [AES_Encryption.secret](/_secret/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Encoding/Encryption/AES_Encryption.secret|AES_Encryption.secret]] 
 

@@ -64,17 +64,17 @@ Krugosvet_article_archived_: istoriya/SAMURA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samurai](/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai|Samurai]] 
 
-### #is_/same_as :: [Samurai.public](/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.public|Samurai.public]] 
 
-### #is_/same_as :: [Samurai.internal](/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.internal|Samurai.internal]] 
 
-### #is_/same_as :: [Samurai.protect](/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.protect|Samurai.protect]] 
 
-### #is_/same_as :: [Samurai.private](/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.private|Samurai.private]] 
 
-### #is_/same_as :: [Samurai.personal](/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.personal|Samurai.personal]] 
 
-### #is_/same_as :: [Samurai.secret](/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Armed_Forces/Soldier/Mercenary/Samurai.secret|Samurai.secret]] 
 

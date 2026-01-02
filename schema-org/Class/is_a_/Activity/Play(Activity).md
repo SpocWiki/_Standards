@@ -48,17 +48,17 @@ IMDb_keyword: playing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Play(Activity)](/_Standards/schema-org/Class/is_a_/Activity/Play(Activity).md) 
+### #is_/same_as :: [[/_Standards/schema-org/Class/is_a_/Activity/Play(Activity)|Play(Activity)]] 
 
-### #is_/same_as :: [Play(Activity).public](/_public/schema-org/Class/is_a_/Activity/Play(Activity).public.md) 
+### #is_/same_as :: [[/_public/schema-org/Class/is_a_/Activity/Play(Activity).public|Play(Activity).public]] 
 
-### #is_/same_as :: [Play(Activity).internal](/_internal/schema-org/Class/is_a_/Activity/Play(Activity).internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Class/is_a_/Activity/Play(Activity).internal|Play(Activity).internal]] 
 
-### #is_/same_as :: [Play(Activity).protect](/_protect/schema-org/Class/is_a_/Activity/Play(Activity).protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Class/is_a_/Activity/Play(Activity).protect|Play(Activity).protect]] 
 
-### #is_/same_as :: [Play(Activity).private](/_private/schema-org/Class/is_a_/Activity/Play(Activity).private.md) 
+### #is_/same_as :: [[/_private/schema-org/Class/is_a_/Activity/Play(Activity).private|Play(Activity).private]] 
 
-### #is_/same_as :: [Play(Activity).personal](/_personal/schema-org/Class/is_a_/Activity/Play(Activity).personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Class/is_a_/Activity/Play(Activity).personal|Play(Activity).personal]] 
 
-### #is_/same_as :: [Play(Activity).secret](/_secret/schema-org/Class/is_a_/Activity/Play(Activity).secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Class/is_a_/Activity/Play(Activity).secret|Play(Activity).secret]] 
 

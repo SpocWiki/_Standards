@@ -110,17 +110,17 @@ MeSH_tree_code:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Melanoma](/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma|Melanoma]] 
 
-### #is_/same_as :: [Melanoma.public](/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.public|Melanoma.public]] 
 
-### #is_/same_as :: [Melanoma.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.internal|Melanoma.internal]] 
 
-### #is_/same_as :: [Melanoma.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.protect|Melanoma.protect]] 
 
-### #is_/same_as :: [Melanoma.private](/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.private|Melanoma.private]] 
 
-### #is_/same_as :: [Melanoma.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.personal|Melanoma.personal]] 
 
-### #is_/same_as :: [Melanoma.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Autoimmune_Disease/Cancer/Melanoma.secret|Melanoma.secret]] 
 

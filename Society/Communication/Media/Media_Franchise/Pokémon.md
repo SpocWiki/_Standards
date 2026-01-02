@@ -114,17 +114,17 @@ Bilibili_UID: "1038290200"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pokémon](/_Standards/Society/Communication/Media/Media_Franchise/Pokémon.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Media_Franchise/Pokémon|Pokémon]] 
 
-### #is_/same_as :: [Pokémon.public](/_public/Society/Communication/Media/Media_Franchise/Pokémon.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Media_Franchise/Pokémon.public|Pokémon.public]] 
 
-### #is_/same_as :: [Pokémon.internal](/_internal/Society/Communication/Media/Media_Franchise/Pokémon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Media_Franchise/Pokémon.internal|Pokémon.internal]] 
 
-### #is_/same_as :: [Pokémon.protect](/_protect/Society/Communication/Media/Media_Franchise/Pokémon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Media_Franchise/Pokémon.protect|Pokémon.protect]] 
 
-### #is_/same_as :: [Pokémon.private](/_private/Society/Communication/Media/Media_Franchise/Pokémon.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Media_Franchise/Pokémon.private|Pokémon.private]] 
 
-### #is_/same_as :: [Pokémon.personal](/_personal/Society/Communication/Media/Media_Franchise/Pokémon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Media_Franchise/Pokémon.personal|Pokémon.personal]] 
 
-### #is_/same_as :: [Pokémon.secret](/_secret/Society/Communication/Media/Media_Franchise/Pokémon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Media_Franchise/Pokémon.secret|Pokémon.secret]] 
 

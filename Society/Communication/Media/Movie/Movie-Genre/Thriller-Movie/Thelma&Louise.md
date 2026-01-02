@@ -27,17 +27,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thelma&Louise](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise|Thelma&Louise]] 
 
-### #is_/same_as :: [Thelma&Louise.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.public|Thelma&Louise.public]] 
 
-### #is_/same_as :: [Thelma&Louise.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.internal|Thelma&Louise.internal]] 
 
-### #is_/same_as :: [Thelma&Louise.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.protect|Thelma&Louise.protect]] 
 
-### #is_/same_as :: [Thelma&Louise.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.private|Thelma&Louise.private]] 
 
-### #is_/same_as :: [Thelma&Louise.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.personal|Thelma&Louise.personal]] 
 
-### #is_/same_as :: [Thelma&Louise.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/Thelma&Louise.secret|Thelma&Louise.secret]] 
 

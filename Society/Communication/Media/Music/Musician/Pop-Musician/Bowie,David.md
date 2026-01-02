@@ -223,17 +223,17 @@ Archive_of_Our_Own_tag: David Bowie (Musician)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bowie,David](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David|Bowie,David]] 
 
-### #is_/same_as :: [Bowie,David.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.public|Bowie,David.public]] 
 
-### #is_/same_as :: [Bowie,David.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.internal|Bowie,David.internal]] 
 
-### #is_/same_as :: [Bowie,David.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.protect|Bowie,David.protect]] 
 
-### #is_/same_as :: [Bowie,David.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.private|Bowie,David.private]] 
 
-### #is_/same_as :: [Bowie,David.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.personal|Bowie,David.personal]] 
 
-### #is_/same_as :: [Bowie,David.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Bowie,David.secret|Bowie,David.secret]] 
 

@@ -50,17 +50,17 @@ He may have been the Model for [[Harry Lime]] in The [[Third Man(1949)]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kim Philby](/_Standards/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim|Philby,Kim]] 
 
-### #is_/same_as :: [Kim Philby.public](/_public/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.public|Philby,Kim.public]] 
 
-### #is_/same_as :: [Kim Philby.internal](/_internal/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.internal|Philby,Kim.internal]] 
 
-### #is_/same_as :: [Kim Philby.protect](/_protect/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.protect|Philby,Kim.protect]] 
 
-### #is_/same_as :: [Kim Philby.private](/_private/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.private|Philby,Kim.private]] 
 
-### #is_/same_as :: [Kim Philby.personal](/_personal/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.personal|Philby,Kim.personal]] 
 
-### #is_/same_as :: [Kim Philby.secret](/_secret/Society/Military/Military_Operation/Espionage/Spy/Kim Philby.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Espionage/Spy/Philby,Kim.secret|Philby,Kim.secret]] 
 

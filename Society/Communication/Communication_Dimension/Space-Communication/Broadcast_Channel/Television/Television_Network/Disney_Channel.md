@@ -51,17 +51,17 @@ catchphrase: The Best Place to Be
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Disney_Channel](/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel|Disney_Channel]] 
 
-### #is_/same_as :: [Disney_Channel.public](/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.public|Disney_Channel.public]] 
 
-### #is_/same_as :: [Disney_Channel.internal](/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.internal|Disney_Channel.internal]] 
 
-### #is_/same_as :: [Disney_Channel.protect](/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.protect|Disney_Channel.protect]] 
 
-### #is_/same_as :: [Disney_Channel.private](/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.private|Disney_Channel.private]] 
 
-### #is_/same_as :: [Disney_Channel.personal](/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.personal|Disney_Channel.personal]] 
 
-### #is_/same_as :: [Disney_Channel.secret](/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Communication_Dimension/Space-Communication/Broadcast_Channel/Television/Television_Network/Disney_Channel.secret|Disney_Channel.secret]] 
 

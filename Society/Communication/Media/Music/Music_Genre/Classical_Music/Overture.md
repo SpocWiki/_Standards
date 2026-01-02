@@ -52,17 +52,17 @@ Commons_category: Overtures (music)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Overture](/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture|Overture]] 
 
-### #is_/same_as :: [Overture.public](/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.public|Overture.public]] 
 
-### #is_/same_as :: [Overture.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.internal|Overture.internal]] 
 
-### #is_/same_as :: [Overture.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.protect|Overture.protect]] 
 
-### #is_/same_as :: [Overture.private](/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.private|Overture.private]] 
 
-### #is_/same_as :: [Overture.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.personal|Overture.personal]] 
 
-### #is_/same_as :: [Overture.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Classical_Music/Overture.secret|Overture.secret]] 
 

@@ -42,17 +42,17 @@ A randomized trial design.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Randomized_Trial](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial|Randomized_Trial]] 
 
-### #is_/same_as :: [Randomized_Trial.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.public|Randomized_Trial.public]] 
 
-### #is_/same_as :: [Randomized_Trial.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.internal|Randomized_Trial.internal]] 
 
-### #is_/same_as :: [Randomized_Trial.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.protect|Randomized_Trial.protect]] 
 
-### #is_/same_as :: [Randomized_Trial.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.private|Randomized_Trial.private]] 
 
-### #is_/same_as :: [Randomized_Trial.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.personal|Randomized_Trial.personal]] 
 
-### #is_/same_as :: [Randomized_Trial.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Trial_Design/Randomized_Trial.secret|Randomized_Trial.secret]] 
 

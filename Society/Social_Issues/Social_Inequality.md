@@ -43,17 +43,17 @@ Commons_category: Social inequality
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Inequality](/_Standards/Society/Social_Issues/Social_Inequality.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Issues/Social_Inequality|Social_Inequality]] 
 
-### #is_/same_as :: [Social_Inequality.public](/_public/Society/Social_Issues/Social_Inequality.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Issues/Social_Inequality.public|Social_Inequality.public]] 
 
-### #is_/same_as :: [Social_Inequality.internal](/_internal/Society/Social_Issues/Social_Inequality.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Issues/Social_Inequality.internal|Social_Inequality.internal]] 
 
-### #is_/same_as :: [Social_Inequality.protect](/_protect/Society/Social_Issues/Social_Inequality.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Issues/Social_Inequality.protect|Social_Inequality.protect]] 
 
-### #is_/same_as :: [Social_Inequality.private](/_private/Society/Social_Issues/Social_Inequality.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Issues/Social_Inequality.private|Social_Inequality.private]] 
 
-### #is_/same_as :: [Social_Inequality.personal](/_personal/Society/Social_Issues/Social_Inequality.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Issues/Social_Inequality.personal|Social_Inequality.personal]] 
 
-### #is_/same_as :: [Social_Inequality.secret](/_secret/Society/Social_Issues/Social_Inequality.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Issues/Social_Inequality.secret|Social_Inequality.secret]] 
 

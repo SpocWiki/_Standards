@@ -74,17 +74,17 @@ IPTC_NewsCode: mediatopic/20000783
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Divorce](/_Standards/Society/Agent/Community/Clan/Family/Marriage/Divorce.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Clan/Family/Marriage/Divorce|Divorce]] 
 
-### #is_/same_as :: [Divorce.public](/_public/Society/Agent/Community/Clan/Family/Marriage/Divorce.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Clan/Family/Marriage/Divorce.public|Divorce.public]] 
 
-### #is_/same_as :: [Divorce.internal](/_internal/Society/Agent/Community/Clan/Family/Marriage/Divorce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Clan/Family/Marriage/Divorce.internal|Divorce.internal]] 
 
-### #is_/same_as :: [Divorce.protect](/_protect/Society/Agent/Community/Clan/Family/Marriage/Divorce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Clan/Family/Marriage/Divorce.protect|Divorce.protect]] 
 
-### #is_/same_as :: [Divorce.private](/_private/Society/Agent/Community/Clan/Family/Marriage/Divorce.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Clan/Family/Marriage/Divorce.private|Divorce.private]] 
 
-### #is_/same_as :: [Divorce.personal](/_personal/Society/Agent/Community/Clan/Family/Marriage/Divorce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Clan/Family/Marriage/Divorce.personal|Divorce.personal]] 
 
-### #is_/same_as :: [Divorce.secret](/_secret/Society/Agent/Community/Clan/Family/Marriage/Divorce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Clan/Family/Marriage/Divorce.secret|Divorce.secret]] 
 

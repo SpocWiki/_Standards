@@ -74,17 +74,17 @@ Krugosvet_article: matematika/chislo-e
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Euler's_Number](/_Standards/Mathematics/Complex_Analysis/Euler's_Number.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Complex_Analysis/Euler's_Number|Euler's_Number]] 
 
-### #is_/same_as :: [Euler's_Number.public](/_public/Mathematics/Complex_Analysis/Euler's_Number.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Complex_Analysis/Euler's_Number.public|Euler's_Number.public]] 
 
-### #is_/same_as :: [Euler's_Number.internal](/_internal/Mathematics/Complex_Analysis/Euler's_Number.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Complex_Analysis/Euler's_Number.internal|Euler's_Number.internal]] 
 
-### #is_/same_as :: [Euler's_Number.protect](/_protect/Mathematics/Complex_Analysis/Euler's_Number.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Complex_Analysis/Euler's_Number.protect|Euler's_Number.protect]] 
 
-### #is_/same_as :: [Euler's_Number.private](/_private/Mathematics/Complex_Analysis/Euler's_Number.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Complex_Analysis/Euler's_Number.private|Euler's_Number.private]] 
 
-### #is_/same_as :: [Euler's_Number.personal](/_personal/Mathematics/Complex_Analysis/Euler's_Number.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Complex_Analysis/Euler's_Number.personal|Euler's_Number.personal]] 
 
-### #is_/same_as :: [Euler's_Number.secret](/_secret/Mathematics/Complex_Analysis/Euler's_Number.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Complex_Analysis/Euler's_Number.secret|Euler's_Number.secret]] 
 

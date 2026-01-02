@@ -55,17 +55,17 @@ Commons_category: Atomic orbitals
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Orbital](/_Standards/Science/Physics/Atom/Atomic_Orbital.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Orbital|Atomic_Orbital]] 
 
-### #is_/same_as :: [Atomic_Orbital.public](/_public/Science/Physics/Atom/Atomic_Orbital.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Orbital.public|Atomic_Orbital.public]] 
 
-### #is_/same_as :: [Atomic_Orbital.internal](/_internal/Science/Physics/Atom/Atomic_Orbital.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Orbital.internal|Atomic_Orbital.internal]] 
 
-### #is_/same_as :: [Atomic_Orbital.protect](/_protect/Science/Physics/Atom/Atomic_Orbital.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Orbital.protect|Atomic_Orbital.protect]] 
 
-### #is_/same_as :: [Atomic_Orbital.private](/_private/Science/Physics/Atom/Atomic_Orbital.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Orbital.private|Atomic_Orbital.private]] 
 
-### #is_/same_as :: [Atomic_Orbital.personal](/_personal/Science/Physics/Atom/Atomic_Orbital.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Orbital.personal|Atomic_Orbital.personal]] 
 
-### #is_/same_as :: [Atomic_Orbital.secret](/_secret/Science/Physics/Atom/Atomic_Orbital.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Orbital.secret|Atomic_Orbital.secret]] 
 

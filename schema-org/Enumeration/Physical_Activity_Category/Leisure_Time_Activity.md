@@ -42,17 +42,17 @@ Any physical activity engaged in for recreational purposes. Examples may include
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Leisure_Time_Activity](/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity|Leisure_Time_Activity]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.public](/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.public|Leisure_Time_Activity.public]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.internal](/_internal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.internal|Leisure_Time_Activity.internal]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.protect](/_protect/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.protect|Leisure_Time_Activity.protect]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.private](/_private/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.private|Leisure_Time_Activity.private]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.personal](/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.personal|Leisure_Time_Activity.personal]] 
 
-### #is_/same_as :: [Leisure_Time_Activity.secret](/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Physical_Activity_Category/Leisure_Time_Activity.secret|Leisure_Time_Activity.secret]] 
 

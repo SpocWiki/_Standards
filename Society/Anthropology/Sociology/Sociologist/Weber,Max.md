@@ -158,17 +158,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weber,Max](/_Standards/Society/Anthropology/Sociology/Sociologist/Weber,Max.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Sociologist/Weber,Max|Weber,Max]] 
 
-### #is_/same_as :: [Weber,Max.public](/_public/Society/Anthropology/Sociology/Sociologist/Weber,Max.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Sociologist/Weber,Max.public|Weber,Max.public]] 
 
-### #is_/same_as :: [Weber,Max.internal](/_internal/Society/Anthropology/Sociology/Sociologist/Weber,Max.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Sociologist/Weber,Max.internal|Weber,Max.internal]] 
 
-### #is_/same_as :: [Weber,Max.protect](/_protect/Society/Anthropology/Sociology/Sociologist/Weber,Max.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Sociologist/Weber,Max.protect|Weber,Max.protect]] 
 
-### #is_/same_as :: [Weber,Max.private](/_private/Society/Anthropology/Sociology/Sociologist/Weber,Max.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Sociologist/Weber,Max.private|Weber,Max.private]] 
 
-### #is_/same_as :: [Weber,Max.personal](/_personal/Society/Anthropology/Sociology/Sociologist/Weber,Max.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Sociologist/Weber,Max.personal|Weber,Max.personal]] 
 
-### #is_/same_as :: [Weber,Max.secret](/_secret/Society/Anthropology/Sociology/Sociologist/Weber,Max.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Sociologist/Weber,Max.secret|Weber,Max.secret]] 
 

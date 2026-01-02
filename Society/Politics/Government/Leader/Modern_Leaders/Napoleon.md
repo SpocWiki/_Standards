@@ -291,17 +291,17 @@ writing_language: '[[_Standards/WikiData/WD~French,150]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Napoleon](/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Leader/Modern_Leaders/Napoleon|Napoleon]] 
 
-### #is_/same_as :: [Napoleon.public](/_public/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.public|Napoleon.public]] 
 
-### #is_/same_as :: [Napoleon.internal](/_internal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.internal|Napoleon.internal]] 
 
-### #is_/same_as :: [Napoleon.protect](/_protect/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.protect|Napoleon.protect]] 
 
-### #is_/same_as :: [Napoleon.private](/_private/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.private|Napoleon.private]] 
 
-### #is_/same_as :: [Napoleon.personal](/_personal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.personal|Napoleon.personal]] 
 
-### #is_/same_as :: [Napoleon.secret](/_secret/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Leader/Modern_Leaders/Napoleon.secret|Napoleon.secret]] 
 

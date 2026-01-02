@@ -79,17 +79,17 @@ UMLS_CUI: C0031264
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Petroleum](/_Standards/Chemistry/Material/Fuel/Petroleum.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum|Petroleum]] 
 
-### #is_/same_as :: [Petroleum.public](/_public/Chemistry/Material/Fuel/Petroleum.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.public|Petroleum.public]] 
 
-### #is_/same_as :: [Petroleum.internal](/_internal/Chemistry/Material/Fuel/Petroleum.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.internal|Petroleum.internal]] 
 
-### #is_/same_as :: [Petroleum.protect](/_protect/Chemistry/Material/Fuel/Petroleum.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.protect|Petroleum.protect]] 
 
-### #is_/same_as :: [Petroleum.private](/_private/Chemistry/Material/Fuel/Petroleum.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.private|Petroleum.private]] 
 
-### #is_/same_as :: [Petroleum.personal](/_personal/Chemistry/Material/Fuel/Petroleum.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.personal|Petroleum.personal]] 
 
-### #is_/same_as :: [Petroleum.secret](/_secret/Chemistry/Material/Fuel/Petroleum.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Petroleum.secret|Petroleum.secret]] 
 

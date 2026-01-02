@@ -71,17 +71,17 @@ subclass_of: '[[_Standards/WikiData/WD~-ism,158646]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Individualism](/_Standards/Society/Ideology/Economic_Ideology/Individualism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Individualism|Individualism]] 
 
-### #is_/same_as :: [Individualism.public](/_public/Society/Ideology/Economic_Ideology/Individualism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Individualism.public|Individualism.public]] 
 
-### #is_/same_as :: [Individualism.internal](/_internal/Society/Ideology/Economic_Ideology/Individualism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Individualism.internal|Individualism.internal]] 
 
-### #is_/same_as :: [Individualism.protect](/_protect/Society/Ideology/Economic_Ideology/Individualism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Individualism.protect|Individualism.protect]] 
 
-### #is_/same_as :: [Individualism.private](/_private/Society/Ideology/Economic_Ideology/Individualism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Individualism.private|Individualism.private]] 
 
-### #is_/same_as :: [Individualism.personal](/_personal/Society/Ideology/Economic_Ideology/Individualism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Individualism.personal|Individualism.personal]] 
 
-### #is_/same_as :: [Individualism.secret](/_secret/Society/Ideology/Economic_Ideology/Individualism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Individualism.secret|Individualism.secret]] 
 

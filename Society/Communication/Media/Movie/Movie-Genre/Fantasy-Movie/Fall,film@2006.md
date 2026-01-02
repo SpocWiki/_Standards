@@ -14,17 +14,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fall,film@2006](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006|Fall,film@2006]] 
 
-### #is_/same_as :: [Fall,film@2006.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.public|Fall,film@2006.public]] 
 
-### #is_/same_as :: [Fall,film@2006.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.internal|Fall,film@2006.internal]] 
 
-### #is_/same_as :: [Fall,film@2006.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.protect|Fall,film@2006.protect]] 
 
-### #is_/same_as :: [Fall,film@2006.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.private|Fall,film@2006.private]] 
 
-### #is_/same_as :: [Fall,film@2006.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.personal|Fall,film@2006.personal]] 
 
-### #is_/same_as :: [Fall,film@2006.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Fantasy-Movie/Fall,film@2006.secret|Fall,film@2006.secret]] 
 

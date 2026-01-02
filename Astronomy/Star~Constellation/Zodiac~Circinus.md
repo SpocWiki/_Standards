@@ -80,17 +80,17 @@ short_name: Cir
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Circinus](/_Standards/Astronomy/Star~Constellation/Zodiac~Circinus.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Circinus|Zodiac~Circinus]] 
 
-### #is_/same_as :: [Zodiac~Circinus.public](/_public/Astronomy/Star~Constellation/Zodiac~Circinus.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Circinus.public|Zodiac~Circinus.public]] 
 
-### #is_/same_as :: [Zodiac~Circinus.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Circinus.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Circinus.internal|Zodiac~Circinus.internal]] 
 
-### #is_/same_as :: [Zodiac~Circinus.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Circinus.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Circinus.protect|Zodiac~Circinus.protect]] 
 
-### #is_/same_as :: [Zodiac~Circinus.private](/_private/Astronomy/Star~Constellation/Zodiac~Circinus.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Circinus.private|Zodiac~Circinus.private]] 
 
-### #is_/same_as :: [Zodiac~Circinus.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Circinus.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Circinus.personal|Zodiac~Circinus.personal]] 
 
-### #is_/same_as :: [Zodiac~Circinus.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Circinus.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Circinus.secret|Zodiac~Circinus.secret]] 
 

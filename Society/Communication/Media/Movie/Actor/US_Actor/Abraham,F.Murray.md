@@ -38,17 +38,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Abraham,F.Murray](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray|Abraham,F.Murray]] 
 
-### #is_/same_as :: [Abraham,F.Murray.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.public|Abraham,F.Murray.public]] 
 
-### #is_/same_as :: [Abraham,F.Murray.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.internal|Abraham,F.Murray.internal]] 
 
-### #is_/same_as :: [Abraham,F.Murray.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.protect|Abraham,F.Murray.protect]] 
 
-### #is_/same_as :: [Abraham,F.Murray.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.private|Abraham,F.Murray.private]] 
 
-### #is_/same_as :: [Abraham,F.Murray.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.personal|Abraham,F.Murray.personal]] 
 
-### #is_/same_as :: [Abraham,F.Murray.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Abraham,F.Murray.secret|Abraham,F.Murray.secret]] 
 

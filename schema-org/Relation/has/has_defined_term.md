@@ -47,17 +47,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_defined_term](/_Standards/schema-org/Relation/has/has_defined_term.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_defined_term|has_defined_term]] 
 
-### #is_/same_as :: [has_defined_term.public](/_public/schema-org/Relation/has/has_defined_term.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_defined_term.public|has_defined_term.public]] 
 
-### #is_/same_as :: [has_defined_term.internal](/_internal/schema-org/Relation/has/has_defined_term.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_defined_term.internal|has_defined_term.internal]] 
 
-### #is_/same_as :: [has_defined_term.protect](/_protect/schema-org/Relation/has/has_defined_term.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_defined_term.protect|has_defined_term.protect]] 
 
-### #is_/same_as :: [has_defined_term.private](/_private/schema-org/Relation/has/has_defined_term.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_defined_term.private|has_defined_term.private]] 
 
-### #is_/same_as :: [has_defined_term.personal](/_personal/schema-org/Relation/has/has_defined_term.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_defined_term.personal|has_defined_term.personal]] 
 
-### #is_/same_as :: [has_defined_term.secret](/_secret/schema-org/Relation/has/has_defined_term.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_defined_term.secret|has_defined_term.secret]] 
 

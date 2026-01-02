@@ -81,17 +81,17 @@ TaxonRank:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class/Thi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Taxon](/_Standards/fileClass/FileClass~Thing/FileClass~Taxon.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Taxon|FileClass~Taxon]] 
 
-### #is_/same_as :: [FileClass~Taxon.public](/_public/fileClass/FileClass~Thing/FileClass~Taxon.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Taxon.public|FileClass~Taxon.public]] 
 
-### #is_/same_as :: [FileClass~Taxon.internal](/_internal/fileClass/FileClass~Thing/FileClass~Taxon.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Taxon.internal|FileClass~Taxon.internal]] 
 
-### #is_/same_as :: [FileClass~Taxon.protect](/_protect/fileClass/FileClass~Thing/FileClass~Taxon.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Taxon.protect|FileClass~Taxon.protect]] 
 
-### #is_/same_as :: [FileClass~Taxon.private](/_private/fileClass/FileClass~Thing/FileClass~Taxon.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Taxon.private|FileClass~Taxon.private]] 
 
-### #is_/same_as :: [FileClass~Taxon.personal](/_personal/fileClass/FileClass~Thing/FileClass~Taxon.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Taxon.personal|FileClass~Taxon.personal]] 
 
-### #is_/same_as :: [FileClass~Taxon.secret](/_secret/fileClass/FileClass~Thing/FileClass~Taxon.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Taxon.secret|FileClass~Taxon.secret]] 
 

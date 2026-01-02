@@ -49,17 +49,17 @@ subclass_of:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Syllable](/_Standards/Language/Speech/Syllable.md) 
+### #is_/same_as :: [[/_Standards/Language/Speech/Syllable|Syllable]] 
 
-### #is_/same_as :: [Syllable.public](/_public/Language/Speech/Syllable.public.md) 
+### #is_/same_as :: [[/_public/Language/Speech/Syllable.public|Syllable.public]] 
 
-### #is_/same_as :: [Syllable.internal](/_internal/Language/Speech/Syllable.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Speech/Syllable.internal|Syllable.internal]] 
 
-### #is_/same_as :: [Syllable.protect](/_protect/Language/Speech/Syllable.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Speech/Syllable.protect|Syllable.protect]] 
 
-### #is_/same_as :: [Syllable.private](/_private/Language/Speech/Syllable.private.md) 
+### #is_/same_as :: [[/_private/Language/Speech/Syllable.private|Syllable.private]] 
 
-### #is_/same_as :: [Syllable.personal](/_personal/Language/Speech/Syllable.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Speech/Syllable.personal|Syllable.personal]] 
 
-### #is_/same_as :: [Syllable.secret](/_secret/Language/Speech/Syllable.secret.md)
+### #is_/same_as :: [[/_secret/Language/Speech/Syllable.secret|Syllable.secret]] 
 

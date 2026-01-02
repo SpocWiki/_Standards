@@ -150,17 +150,17 @@ Capital :: [[Falkland~Islands/City/Stanley]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Falkland~Islands](/_Standards/Earth/Continent/America~South/Falkland~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Falkland~Islands|Falkland~Islands]] 
 
-### #is_/same_as :: [Falkland~Islands.public](/_public/Earth/Continent/America~South/Falkland~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Falkland~Islands.public|Falkland~Islands.public]] 
 
-### #is_/same_as :: [Falkland~Islands.internal](/_internal/Earth/Continent/America~South/Falkland~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Falkland~Islands.internal|Falkland~Islands.internal]] 
 
-### #is_/same_as :: [Falkland~Islands.protect](/_protect/Earth/Continent/America~South/Falkland~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Falkland~Islands.protect|Falkland~Islands.protect]] 
 
-### #is_/same_as :: [Falkland~Islands.private](/_private/Earth/Continent/America~South/Falkland~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Falkland~Islands.private|Falkland~Islands.private]] 
 
-### #is_/same_as :: [Falkland~Islands.personal](/_personal/Earth/Continent/America~South/Falkland~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Falkland~Islands.personal|Falkland~Islands.personal]] 
 
-### #is_/same_as :: [Falkland~Islands.secret](/_secret/Earth/Continent/America~South/Falkland~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Falkland~Islands.secret|Falkland~Islands.secret]] 
 

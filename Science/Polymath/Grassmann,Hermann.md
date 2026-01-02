@@ -107,17 +107,17 @@ Similar to [[../../Mathematics/Mathematician/Frege,Gottlob|Frege,Gottlob]].
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grassmann,Hermann](/_Standards/Science/Polymath/Grassmann,Hermann.md) 
+### #is_/same_as :: [[/_Standards/Science/Polymath/Grassmann,Hermann|Grassmann,Hermann]] 
 
-### #is_/same_as :: [Grassmann,Hermann.public](/_public/Science/Polymath/Grassmann,Hermann.public.md) 
+### #is_/same_as :: [[/_public/Science/Polymath/Grassmann,Hermann.public|Grassmann,Hermann.public]] 
 
-### #is_/same_as :: [Grassmann,Hermann.internal](/_internal/Science/Polymath/Grassmann,Hermann.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Polymath/Grassmann,Hermann.internal|Grassmann,Hermann.internal]] 
 
-### #is_/same_as :: [Grassmann,Hermann.protect](/_protect/Science/Polymath/Grassmann,Hermann.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Polymath/Grassmann,Hermann.protect|Grassmann,Hermann.protect]] 
 
-### #is_/same_as :: [Grassmann,Hermann.private](/_private/Science/Polymath/Grassmann,Hermann.private.md) 
+### #is_/same_as :: [[/_private/Science/Polymath/Grassmann,Hermann.private|Grassmann,Hermann.private]] 
 
-### #is_/same_as :: [Grassmann,Hermann.personal](/_personal/Science/Polymath/Grassmann,Hermann.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Polymath/Grassmann,Hermann.personal|Grassmann,Hermann.personal]] 
 
-### #is_/same_as :: [Grassmann,Hermann.secret](/_secret/Science/Polymath/Grassmann,Hermann.secret.md)
+### #is_/same_as :: [[/_secret/Science/Polymath/Grassmann,Hermann.secret|Grassmann,Hermann.secret]] 
 

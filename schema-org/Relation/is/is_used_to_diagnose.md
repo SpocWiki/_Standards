@@ -43,17 +43,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_used_to_diagnose](/_Standards/schema-org/Relation/is/is_used_to_diagnose.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_used_to_diagnose|is_used_to_diagnose]] 
 
-### #is_/same_as :: [is_used_to_diagnose.public](/_public/schema-org/Relation/is/is_used_to_diagnose.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_used_to_diagnose.public|is_used_to_diagnose.public]] 
 
-### #is_/same_as :: [is_used_to_diagnose.internal](/_internal/schema-org/Relation/is/is_used_to_diagnose.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_used_to_diagnose.internal|is_used_to_diagnose.internal]] 
 
-### #is_/same_as :: [is_used_to_diagnose.protect](/_protect/schema-org/Relation/is/is_used_to_diagnose.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_used_to_diagnose.protect|is_used_to_diagnose.protect]] 
 
-### #is_/same_as :: [is_used_to_diagnose.private](/_private/schema-org/Relation/is/is_used_to_diagnose.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_used_to_diagnose.private|is_used_to_diagnose.private]] 
 
-### #is_/same_as :: [is_used_to_diagnose.personal](/_personal/schema-org/Relation/is/is_used_to_diagnose.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_used_to_diagnose.personal|is_used_to_diagnose.personal]] 
 
-### #is_/same_as :: [is_used_to_diagnose.secret](/_secret/schema-org/Relation/is/is_used_to_diagnose.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_used_to_diagnose.secret|is_used_to_diagnose.secret]] 
 

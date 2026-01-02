@@ -83,17 +83,17 @@ Copyright ::   © 1998 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mesozoa](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa|Mesozoa]] 
 
-### #is_/same_as :: [Mesozoa.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.public|Mesozoa.public]] 
 
-### #is_/same_as :: [Mesozoa.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.internal|Mesozoa.internal]] 
 
-### #is_/same_as :: [Mesozoa.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.protect|Mesozoa.protect]] 
 
-### #is_/same_as :: [Mesozoa.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.private|Mesozoa.private]] 
 
-### #is_/same_as :: [Mesozoa.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.personal|Mesozoa.personal]] 
 
-### #is_/same_as :: [Mesozoa.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Mesozoa.secret|Mesozoa.secret]] 
 

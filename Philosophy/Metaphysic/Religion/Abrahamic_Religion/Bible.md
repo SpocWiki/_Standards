@@ -267,17 +267,17 @@ U_S_National_Archives_Identifier: 10638269
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bible](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible|Bible]] 
 
-### #is_/same_as :: [Bible.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.public|Bible.public]] 
 
-### #is_/same_as :: [Bible.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.internal|Bible.internal]] 
 
-### #is_/same_as :: [Bible.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.protect|Bible.protect]] 
 
-### #is_/same_as :: [Bible.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.private|Bible.private]] 
 
-### #is_/same_as :: [Bible.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.personal|Bible.personal]] 
 
-### #is_/same_as :: [Bible.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Bible.secret|Bible.secret]] 
 

@@ -91,17 +91,17 @@ Iconclass_notation: 46B33
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Weight](/_Standards/Dimension/Mass/Weight.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Mass/Weight|Weight]] 
 
-### #is_/same_as :: [Weight.public](/_public/Dimension/Mass/Weight.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Mass/Weight.public|Weight.public]] 
 
-### #is_/same_as :: [Weight.internal](/_internal/Dimension/Mass/Weight.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Mass/Weight.internal|Weight.internal]] 
 
-### #is_/same_as :: [Weight.protect](/_protect/Dimension/Mass/Weight.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Mass/Weight.protect|Weight.protect]] 
 
-### #is_/same_as :: [Weight.private](/_private/Dimension/Mass/Weight.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Mass/Weight.private|Weight.private]] 
 
-### #is_/same_as :: [Weight.personal](/_personal/Dimension/Mass/Weight.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Mass/Weight.personal|Weight.personal]] 
 
-### #is_/same_as :: [Weight.secret](/_secret/Dimension/Mass/Weight.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Mass/Weight.secret|Weight.secret]] 
 

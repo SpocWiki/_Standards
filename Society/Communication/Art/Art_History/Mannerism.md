@@ -57,17 +57,17 @@ start_time: 1520-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mannerism](/_Standards/Society/Communication/Art/Art_History/Mannerism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Art_History/Mannerism|Mannerism]] 
 
-### #is_/same_as :: [Mannerism.public](/_public/Society/Communication/Art/Art_History/Mannerism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Art_History/Mannerism.public|Mannerism.public]] 
 
-### #is_/same_as :: [Mannerism.internal](/_internal/Society/Communication/Art/Art_History/Mannerism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Art_History/Mannerism.internal|Mannerism.internal]] 
 
-### #is_/same_as :: [Mannerism.protect](/_protect/Society/Communication/Art/Art_History/Mannerism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Art_History/Mannerism.protect|Mannerism.protect]] 
 
-### #is_/same_as :: [Mannerism.private](/_private/Society/Communication/Art/Art_History/Mannerism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Art_History/Mannerism.private|Mannerism.private]] 
 
-### #is_/same_as :: [Mannerism.personal](/_personal/Society/Communication/Art/Art_History/Mannerism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Art_History/Mannerism.personal|Mannerism.personal]] 
 
-### #is_/same_as :: [Mannerism.secret](/_secret/Society/Communication/Art/Art_History/Mannerism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Art_History/Mannerism.secret|Mannerism.secret]] 
 

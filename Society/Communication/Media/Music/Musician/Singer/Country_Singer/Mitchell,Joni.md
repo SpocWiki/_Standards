@@ -174,17 +174,17 @@ Europeana_entity: agent/base/60101
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mitchell,Joni](/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni|Mitchell,Joni]] 
 
-### #is_/same_as :: [Mitchell,Joni.public](/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.public|Mitchell,Joni.public]] 
 
-### #is_/same_as :: [Mitchell,Joni.internal](/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.internal|Mitchell,Joni.internal]] 
 
-### #is_/same_as :: [Mitchell,Joni.protect](/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.protect|Mitchell,Joni.protect]] 
 
-### #is_/same_as :: [Mitchell,Joni.private](/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.private|Mitchell,Joni.private]] 
 
-### #is_/same_as :: [Mitchell,Joni.personal](/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.personal|Mitchell,Joni.personal]] 
 
-### #is_/same_as :: [Mitchell,Joni.secret](/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Singer/Country_Singer/Mitchell,Joni.secret|Mitchell,Joni.secret]] 
 

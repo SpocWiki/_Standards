@@ -40,17 +40,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_penciler](/_Standards/schema-org/Relation/has/has_penciler.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_penciler|has_penciler]] 
 
-### #is_/same_as :: [has_penciler.public](/_public/schema-org/Relation/has/has_penciler.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_penciler.public|has_penciler.public]] 
 
-### #is_/same_as :: [has_penciler.internal](/_internal/schema-org/Relation/has/has_penciler.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_penciler.internal|has_penciler.internal]] 
 
-### #is_/same_as :: [has_penciler.protect](/_protect/schema-org/Relation/has/has_penciler.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_penciler.protect|has_penciler.protect]] 
 
-### #is_/same_as :: [has_penciler.private](/_private/schema-org/Relation/has/has_penciler.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_penciler.private|has_penciler.private]] 
 
-### #is_/same_as :: [has_penciler.personal](/_personal/schema-org/Relation/has/has_penciler.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_penciler.personal|has_penciler.personal]] 
 
-### #is_/same_as :: [has_penciler.secret](/_secret/schema-org/Relation/has/has_penciler.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_penciler.secret|has_penciler.secret]] 
 

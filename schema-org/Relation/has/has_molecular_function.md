@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_molecular_function](/_Standards/schema-org/Relation/has/has_molecular_function.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_molecular_function|has_molecular_function]] 
 
-### #is_/same_as :: [has_molecular_function.public](/_public/schema-org/Relation/has/has_molecular_function.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_molecular_function.public|has_molecular_function.public]] 
 
-### #is_/same_as :: [has_molecular_function.internal](/_internal/schema-org/Relation/has/has_molecular_function.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_molecular_function.internal|has_molecular_function.internal]] 
 
-### #is_/same_as :: [has_molecular_function.protect](/_protect/schema-org/Relation/has/has_molecular_function.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_molecular_function.protect|has_molecular_function.protect]] 
 
-### #is_/same_as :: [has_molecular_function.private](/_private/schema-org/Relation/has/has_molecular_function.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_molecular_function.private|has_molecular_function.private]] 
 
-### #is_/same_as :: [has_molecular_function.personal](/_personal/schema-org/Relation/has/has_molecular_function.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_molecular_function.personal|has_molecular_function.personal]] 
 
-### #is_/same_as :: [has_molecular_function.secret](/_secret/schema-org/Relation/has/has_molecular_function.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_molecular_function.secret|has_molecular_function.secret]] 
 

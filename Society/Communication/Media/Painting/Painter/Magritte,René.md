@@ -219,17 +219,17 @@ AGORHA_UUID: 64824f4a-47c3-4e08-9f58-60a1e021f61f
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Magritte,René](/_Standards/Society/Communication/Media/Painting/Painter/Magritte,René.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Magritte,René|Magritte,René]] 
 
-### #is_/same_as :: [Magritte,René.public](/_public/Society/Communication/Media/Painting/Painter/Magritte,René.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Magritte,René.public|Magritte,René.public]] 
 
-### #is_/same_as :: [Magritte,René.internal](/_internal/Society/Communication/Media/Painting/Painter/Magritte,René.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Magritte,René.internal|Magritte,René.internal]] 
 
-### #is_/same_as :: [Magritte,René.protect](/_protect/Society/Communication/Media/Painting/Painter/Magritte,René.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Magritte,René.protect|Magritte,René.protect]] 
 
-### #is_/same_as :: [Magritte,René.private](/_private/Society/Communication/Media/Painting/Painter/Magritte,René.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Magritte,René.private|Magritte,René.private]] 
 
-### #is_/same_as :: [Magritte,René.personal](/_personal/Society/Communication/Media/Painting/Painter/Magritte,René.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Magritte,René.personal|Magritte,René.personal]] 
 
-### #is_/same_as :: [Magritte,René.secret](/_secret/Society/Communication/Media/Painting/Painter/Magritte,René.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Magritte,René.secret|Magritte,René.secret]] 
 

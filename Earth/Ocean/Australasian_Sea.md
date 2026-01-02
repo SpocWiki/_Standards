@@ -37,17 +37,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Australasian_Sea](/_Standards/Earth/Ocean/Australasian_Sea.md) 
+### #is_/same_as :: [[/_Standards/Earth/Ocean/Australasian_Sea|Australasian_Sea]] 
 
-### #is_/same_as :: [Australasian_Sea.public](/_public/Earth/Ocean/Australasian_Sea.public.md) 
+### #is_/same_as :: [[/_public/Earth/Ocean/Australasian_Sea.public|Australasian_Sea.public]] 
 
-### #is_/same_as :: [Australasian_Sea.internal](/_internal/Earth/Ocean/Australasian_Sea.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Ocean/Australasian_Sea.internal|Australasian_Sea.internal]] 
 
-### #is_/same_as :: [Australasian_Sea.protect](/_protect/Earth/Ocean/Australasian_Sea.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Ocean/Australasian_Sea.protect|Australasian_Sea.protect]] 
 
-### #is_/same_as :: [Australasian_Sea.private](/_private/Earth/Ocean/Australasian_Sea.private.md) 
+### #is_/same_as :: [[/_private/Earth/Ocean/Australasian_Sea.private|Australasian_Sea.private]] 
 
-### #is_/same_as :: [Australasian_Sea.personal](/_personal/Earth/Ocean/Australasian_Sea.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Ocean/Australasian_Sea.personal|Australasian_Sea.personal]] 
 
-### #is_/same_as :: [Australasian_Sea.secret](/_secret/Earth/Ocean/Australasian_Sea.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Ocean/Australasian_Sea.secret|Australasian_Sea.secret]] 
 

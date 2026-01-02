@@ -44,17 +44,17 @@ pronunciation_audio:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuisine](/_Standards/Society/Economics/Home_Economics/Cooking/Cuisine.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Cuisine|Cuisine]] 
 
-### #is_/same_as :: [Cuisine.public](/_public/Society/Economics/Home_Economics/Cooking/Cuisine.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Cuisine.public|Cuisine.public]] 
 
-### #is_/same_as :: [Cuisine.internal](/_internal/Society/Economics/Home_Economics/Cooking/Cuisine.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Cuisine.internal|Cuisine.internal]] 
 
-### #is_/same_as :: [Cuisine.protect](/_protect/Society/Economics/Home_Economics/Cooking/Cuisine.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Cuisine.protect|Cuisine.protect]] 
 
-### #is_/same_as :: [Cuisine.private](/_private/Society/Economics/Home_Economics/Cooking/Cuisine.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Cuisine.private|Cuisine.private]] 
 
-### #is_/same_as :: [Cuisine.personal](/_personal/Society/Economics/Home_Economics/Cooking/Cuisine.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Cuisine.personal|Cuisine.personal]] 
 
-### #is_/same_as :: [Cuisine.secret](/_secret/Society/Economics/Home_Economics/Cooking/Cuisine.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Cuisine.secret|Cuisine.secret]] 
 

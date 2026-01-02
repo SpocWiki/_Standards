@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_antagonist](/_Standards/schema-org/Relation/has/has_antagonist.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_antagonist|has_antagonist]] 
 
-### #is_/same_as :: [has_antagonist.public](/_public/schema-org/Relation/has/has_antagonist.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_antagonist.public|has_antagonist.public]] 
 
-### #is_/same_as :: [has_antagonist.internal](/_internal/schema-org/Relation/has/has_antagonist.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_antagonist.internal|has_antagonist.internal]] 
 
-### #is_/same_as :: [has_antagonist.protect](/_protect/schema-org/Relation/has/has_antagonist.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_antagonist.protect|has_antagonist.protect]] 
 
-### #is_/same_as :: [has_antagonist.private](/_private/schema-org/Relation/has/has_antagonist.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_antagonist.private|has_antagonist.private]] 
 
-### #is_/same_as :: [has_antagonist.personal](/_personal/schema-org/Relation/has/has_antagonist.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_antagonist.personal|has_antagonist.personal]] 
 
-### #is_/same_as :: [has_antagonist.secret](/_secret/schema-org/Relation/has/has_antagonist.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_antagonist.secret|has_antagonist.secret]] 
 

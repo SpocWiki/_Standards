@@ -37,17 +37,17 @@ The act of expressing a negative sentiment about the object. An agent dislikes a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DislikeAction](/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction|FileClass~DislikeAction]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.public](/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.public|FileClass~DislikeAction.public]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.internal](/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.internal|FileClass~DislikeAction.internal]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.protect](/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.protect|FileClass~DislikeAction.protect]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.private](/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.private|FileClass~DislikeAction.private]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.personal](/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.personal|FileClass~DislikeAction.personal]] 
 
-### #is_/same_as :: [FileClass~DislikeAction.secret](/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Action/FileClass~AssessAction/FileClass~ReactAction/FileClass~DislikeAction.secret|FileClass~DislikeAction.secret]] 
 

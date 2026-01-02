@@ -138,17 +138,17 @@ NLC_authorities: 000244550
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Steinbeck,John](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John|Steinbeck,John]] 
 
-### #is_/same_as :: [Steinbeck,John.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.public|Steinbeck,John.public]] 
 
-### #is_/same_as :: [Steinbeck,John.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.internal|Steinbeck,John.internal]] 
 
-### #is_/same_as :: [Steinbeck,John.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.protect|Steinbeck,John.protect]] 
 
-### #is_/same_as :: [Steinbeck,John.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.private|Steinbeck,John.private]] 
 
-### #is_/same_as :: [Steinbeck,John.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.personal|Steinbeck,John.personal]] 
 
-### #is_/same_as :: [Steinbeck,John.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Steinbeck,John.secret|Steinbeck,John.secret]] 
 

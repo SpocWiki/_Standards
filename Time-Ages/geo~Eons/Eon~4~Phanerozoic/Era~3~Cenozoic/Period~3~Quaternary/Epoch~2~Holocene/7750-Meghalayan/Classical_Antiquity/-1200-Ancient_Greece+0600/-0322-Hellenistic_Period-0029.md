@@ -61,17 +61,17 @@ Krugosvet_article_archived_: istoriya/ellinizm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029|-0322-Hellenistic_Period-0029]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.public|-0322-Hellenistic_Period-0029.public]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.internal|-0322-Hellenistic_Period-0029.internal]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.protect|-0322-Hellenistic_Period-0029.protect]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.private|-0322-Hellenistic_Period-0029.private]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.personal|-0322-Hellenistic_Period-0029.personal]] 
 
-### #is_/same_as :: [-0322-Hellenistic_Period-0029.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1200-Ancient_Greece+0600/-0322-Hellenistic_Period-0029.secret|-0322-Hellenistic_Period-0029.secret]] 
 

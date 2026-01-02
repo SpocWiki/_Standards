@@ -175,17 +175,17 @@ A musical composition.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Music_Composition](/_Standards/Society/Communication/Media/Creative_Work/Music_Composition.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Music_Composition|Music_Composition]] 
 
-### #is_/same_as :: [Music_Composition.public](/_public/Society/Communication/Media/Creative_Work/Music_Composition.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Music_Composition.public|Music_Composition.public]] 
 
-### #is_/same_as :: [Music_Composition.internal](/_internal/Society/Communication/Media/Creative_Work/Music_Composition.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Music_Composition.internal|Music_Composition.internal]] 
 
-### #is_/same_as :: [Music_Composition.protect](/_protect/Society/Communication/Media/Creative_Work/Music_Composition.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Music_Composition.protect|Music_Composition.protect]] 
 
-### #is_/same_as :: [Music_Composition.private](/_private/Society/Communication/Media/Creative_Work/Music_Composition.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Music_Composition.private|Music_Composition.private]] 
 
-### #is_/same_as :: [Music_Composition.personal](/_personal/Society/Communication/Media/Creative_Work/Music_Composition.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Music_Composition.personal|Music_Composition.personal]] 
 
-### #is_/same_as :: [Music_Composition.secret](/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Music_Composition.secret|Music_Composition.secret]] 
 

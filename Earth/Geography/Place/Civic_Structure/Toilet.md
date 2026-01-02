@@ -113,17 +113,17 @@ which is available for use by the general public, or by customers or employees o
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Toilet](/_Standards/Earth/Geography/Place/Civic_Structure/Toilet.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Toilet|Toilet]] 
 
-### #is_/same_as :: [Toilet.public](/_public/Earth/Geography/Place/Civic_Structure/Toilet.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Toilet.public|Toilet.public]] 
 
-### #is_/same_as :: [Toilet.internal](/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Toilet.internal|Toilet.internal]] 
 
-### #is_/same_as :: [Toilet.protect](/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Toilet.protect|Toilet.protect]] 
 
-### #is_/same_as :: [Toilet.private](/_private/Earth/Geography/Place/Civic_Structure/Toilet.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Toilet.private|Toilet.private]] 
 
-### #is_/same_as :: [Toilet.personal](/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Toilet.personal|Toilet.personal]] 
 
-### #is_/same_as :: [Toilet.secret](/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Toilet.secret|Toilet.secret]] 
 

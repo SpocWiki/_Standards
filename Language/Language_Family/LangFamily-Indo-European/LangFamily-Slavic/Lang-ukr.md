@@ -166,17 +166,17 @@ Dewey_Decimal_Classification: "491.79"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-ukr](/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr|Lang-ukr]] 
 
-### #is_/same_as :: [Lang-ukr.public](/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.public|Lang-ukr.public]] 
 
-### #is_/same_as :: [Lang-ukr.internal](/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.internal|Lang-ukr.internal]] 
 
-### #is_/same_as :: [Lang-ukr.protect](/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.protect|Lang-ukr.protect]] 
 
-### #is_/same_as :: [Lang-ukr.private](/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.private|Lang-ukr.private]] 
 
-### #is_/same_as :: [Lang-ukr.personal](/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.personal|Lang-ukr.personal]] 
 
-### #is_/same_as :: [Lang-ukr.secret](/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Indo-European/LangFamily-Slavic/Lang-ukr.secret|Lang-ukr.secret]] 
 

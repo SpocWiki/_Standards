@@ -72,17 +72,17 @@ For an in-depth understanding, please refer to the official documentation:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Razor-Web-Pages](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages|Razor-Web-Pages]] 
 
-### #is_/same_as :: [Razor-Web-Pages.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.public|Razor-Web-Pages.public]] 
 
-### #is_/same_as :: [Razor-Web-Pages.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.internal|Razor-Web-Pages.internal]] 
 
-### #is_/same_as :: [Razor-Web-Pages.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.protect|Razor-Web-Pages.protect]] 
 
-### #is_/same_as :: [Razor-Web-Pages.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.private|Razor-Web-Pages.private]] 
 
-### #is_/same_as :: [Razor-Web-Pages.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.personal|Razor-Web-Pages.personal]] 
 
-### #is_/same_as :: [Razor-Web-Pages.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~Multi-Paradigm/CSharp/Razor-Web-Pages.secret|Razor-Web-Pages.secret]] 
 

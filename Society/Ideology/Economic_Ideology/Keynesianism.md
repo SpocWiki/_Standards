@@ -32,17 +32,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Keynesianism](/_Standards/Society/Ideology/Economic_Ideology/Keynesianism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Economic_Ideology/Keynesianism|Keynesianism]] 
 
-### #is_/same_as :: [Keynesianism.public](/_public/Society/Ideology/Economic_Ideology/Keynesianism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Economic_Ideology/Keynesianism.public|Keynesianism.public]] 
 
-### #is_/same_as :: [Keynesianism.internal](/_internal/Society/Ideology/Economic_Ideology/Keynesianism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Economic_Ideology/Keynesianism.internal|Keynesianism.internal]] 
 
-### #is_/same_as :: [Keynesianism.protect](/_protect/Society/Ideology/Economic_Ideology/Keynesianism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Economic_Ideology/Keynesianism.protect|Keynesianism.protect]] 
 
-### #is_/same_as :: [Keynesianism.private](/_private/Society/Ideology/Economic_Ideology/Keynesianism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Economic_Ideology/Keynesianism.private|Keynesianism.private]] 
 
-### #is_/same_as :: [Keynesianism.personal](/_personal/Society/Ideology/Economic_Ideology/Keynesianism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Economic_Ideology/Keynesianism.personal|Keynesianism.personal]] 
 
-### #is_/same_as :: [Keynesianism.secret](/_secret/Society/Ideology/Economic_Ideology/Keynesianism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Economic_Ideology/Keynesianism.secret|Keynesianism.secret]] 
 

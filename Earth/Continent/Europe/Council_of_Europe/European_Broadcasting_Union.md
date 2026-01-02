@@ -91,17 +91,17 @@ Facebook_username: EBU.HQ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [European_Broadcasting_Union](/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union|European_Broadcasting_Union]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.public](/_public/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.public|European_Broadcasting_Union.public]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.internal](/_internal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.internal|European_Broadcasting_Union.internal]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.protect](/_protect/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.protect|European_Broadcasting_Union.protect]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.private](/_private/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.private|European_Broadcasting_Union.private]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.personal](/_personal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.personal|European_Broadcasting_Union.personal]] 
 
-### #is_/same_as :: [European_Broadcasting_Union.secret](/_secret/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Council_of_Europe/European_Broadcasting_Union.secret|European_Broadcasting_Union.secret]] 
 

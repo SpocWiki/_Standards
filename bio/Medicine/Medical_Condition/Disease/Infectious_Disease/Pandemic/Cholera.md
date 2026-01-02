@@ -110,17 +110,17 @@ exact_match:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cholera](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera|Cholera]] 
 
-### #is_/same_as :: [Cholera.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.public|Cholera.public]] 
 
-### #is_/same_as :: [Cholera.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.internal|Cholera.internal]] 
 
-### #is_/same_as :: [Cholera.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.protect|Cholera.protect]] 
 
-### #is_/same_as :: [Cholera.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.private|Cholera.private]] 
 
-### #is_/same_as :: [Cholera.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.personal|Cholera.personal]] 
 
-### #is_/same_as :: [Cholera.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Pandemic/Cholera.secret|Cholera.secret]] 
 

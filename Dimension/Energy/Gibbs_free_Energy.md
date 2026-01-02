@@ -38,17 +38,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gibbs_free_Energy](/_Standards/Dimension/Energy/Gibbs_free_Energy.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Energy/Gibbs_free_Energy|Gibbs_free_Energy]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.public](/_public/Dimension/Energy/Gibbs_free_Energy.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Energy/Gibbs_free_Energy.public|Gibbs_free_Energy.public]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.internal](/_internal/Dimension/Energy/Gibbs_free_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Energy/Gibbs_free_Energy.internal|Gibbs_free_Energy.internal]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.protect](/_protect/Dimension/Energy/Gibbs_free_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Energy/Gibbs_free_Energy.protect|Gibbs_free_Energy.protect]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.private](/_private/Dimension/Energy/Gibbs_free_Energy.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Energy/Gibbs_free_Energy.private|Gibbs_free_Energy.private]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.personal](/_personal/Dimension/Energy/Gibbs_free_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Energy/Gibbs_free_Energy.personal|Gibbs_free_Energy.personal]] 
 
-### #is_/same_as :: [Gibbs_free_Energy.secret](/_secret/Dimension/Energy/Gibbs_free_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Energy/Gibbs_free_Energy.secret|Gibbs_free_Energy.secret]] 
 

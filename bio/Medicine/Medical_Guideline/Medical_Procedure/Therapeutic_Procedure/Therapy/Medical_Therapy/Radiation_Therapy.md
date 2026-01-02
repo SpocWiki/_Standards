@@ -57,17 +57,17 @@ A process of care using radiation aimed at improving a health condition.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Radiation_Therapy](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy|Radiation_Therapy]] 
 
-### #is_/same_as :: [Radiation_Therapy.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.public|Radiation_Therapy.public]] 
 
-### #is_/same_as :: [Radiation_Therapy.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.internal|Radiation_Therapy.internal]] 
 
-### #is_/same_as :: [Radiation_Therapy.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.protect|Radiation_Therapy.protect]] 
 
-### #is_/same_as :: [Radiation_Therapy.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.private|Radiation_Therapy.private]] 
 
-### #is_/same_as :: [Radiation_Therapy.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.personal|Radiation_Therapy.personal]] 
 
-### #is_/same_as :: [Radiation_Therapy.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Therapeutic_Procedure/Therapy/Medical_Therapy/Radiation_Therapy.secret|Radiation_Therapy.secret]] 
 

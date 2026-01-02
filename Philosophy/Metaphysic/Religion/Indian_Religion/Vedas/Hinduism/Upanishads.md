@@ -54,17 +54,17 @@ native_label: उपनिषद्
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Upanishads](/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads|Upanishads]] 
 
-### #is_/same_as :: [Upanishads.public](/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.public|Upanishads.public]] 
 
-### #is_/same_as :: [Upanishads.internal](/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.internal|Upanishads.internal]] 
 
-### #is_/same_as :: [Upanishads.protect](/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.protect|Upanishads.protect]] 
 
-### #is_/same_as :: [Upanishads.private](/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.private|Upanishads.private]] 
 
-### #is_/same_as :: [Upanishads.personal](/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.personal|Upanishads.personal]] 
 
-### #is_/same_as :: [Upanishads.secret](/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Indian_Religion/Vedas/Hinduism/Upanishads.secret|Upanishads.secret]] 
 

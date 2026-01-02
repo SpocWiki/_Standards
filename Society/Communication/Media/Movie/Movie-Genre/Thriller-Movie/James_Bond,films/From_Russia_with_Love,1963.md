@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [From_Russia_with_Love,1963](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963|From_Russia_with_Love,1963]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.public|From_Russia_with_Love,1963.public]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.internal|From_Russia_with_Love,1963.internal]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.protect|From_Russia_with_Love,1963.protect]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.private|From_Russia_with_Love,1963.private]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.personal|From_Russia_with_Love,1963.personal]] 
 
-### #is_/same_as :: [From_Russia_with_Love,1963.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Thriller-Movie/James_Bond,films/From_Russia_with_Love,1963.secret|From_Russia_with_Love,1963.secret]] 
 

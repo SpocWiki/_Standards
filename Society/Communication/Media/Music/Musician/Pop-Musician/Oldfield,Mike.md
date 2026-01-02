@@ -49,17 +49,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Oldfield,Mike](/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike|Oldfield,Mike]] 
 
-### #is_/same_as :: [Oldfield,Mike.public](/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.public|Oldfield,Mike.public]] 
 
-### #is_/same_as :: [Oldfield,Mike.internal](/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.internal|Oldfield,Mike.internal]] 
 
-### #is_/same_as :: [Oldfield,Mike.protect](/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.protect|Oldfield,Mike.protect]] 
 
-### #is_/same_as :: [Oldfield,Mike.private](/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.private|Oldfield,Mike.private]] 
 
-### #is_/same_as :: [Oldfield,Mike.personal](/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.personal|Oldfield,Mike.personal]] 
 
-### #is_/same_as :: [Oldfield,Mike.secret](/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Pop-Musician/Oldfield,Mike.secret|Oldfield,Mike.secret]] 
 

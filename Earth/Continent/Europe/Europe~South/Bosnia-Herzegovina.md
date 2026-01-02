@@ -424,17 +424,17 @@ Capital :: [[geo/Continent/Europe/Europe~South/Bosnia-Herzegovina/Counties/Saraj
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bosnia-Herzegovina](/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina|Bosnia-Herzegovina]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.public](/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.public|Bosnia-Herzegovina.public]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.internal](/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.internal|Bosnia-Herzegovina.internal]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.protect](/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.protect|Bosnia-Herzegovina.protect]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.private](/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.private|Bosnia-Herzegovina.private]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.personal](/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.personal|Bosnia-Herzegovina.personal]] 
 
-### #is_/same_as :: [Bosnia-Herzegovina.secret](/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Bosnia-Herzegovina.secret|Bosnia-Herzegovina.secret]] 
 

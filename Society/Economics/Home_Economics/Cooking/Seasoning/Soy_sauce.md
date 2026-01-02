@@ -47,17 +47,17 @@ native_label: 酱油
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soy_sauce](/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce|Soy_sauce]] 
 
-### #is_/same_as :: [Soy_sauce.public](/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.public|Soy_sauce.public]] 
 
-### #is_/same_as :: [Soy_sauce.internal](/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.internal|Soy_sauce.internal]] 
 
-### #is_/same_as :: [Soy_sauce.protect](/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.protect|Soy_sauce.protect]] 
 
-### #is_/same_as :: [Soy_sauce.private](/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.private|Soy_sauce.private]] 
 
-### #is_/same_as :: [Soy_sauce.personal](/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.personal|Soy_sauce.personal]] 
 
-### #is_/same_as :: [Soy_sauce.secret](/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Home_Economics/Cooking/Seasoning/Soy_sauce.secret|Soy_sauce.secret]] 
 

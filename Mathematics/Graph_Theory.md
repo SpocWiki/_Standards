@@ -63,17 +63,17 @@ Commons_category: Graph theory
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Graph_Theory](/_Standards/Mathematics/Graph_Theory.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Graph_Theory|Graph_Theory]] 
 
-### #is_/same_as :: [Graph_Theory.public](/_public/Mathematics/Graph_Theory.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Graph_Theory.public|Graph_Theory.public]] 
 
-### #is_/same_as :: [Graph_Theory.internal](/_internal/Mathematics/Graph_Theory.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Graph_Theory.internal|Graph_Theory.internal]] 
 
-### #is_/same_as :: [Graph_Theory.protect](/_protect/Mathematics/Graph_Theory.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Graph_Theory.protect|Graph_Theory.protect]] 
 
-### #is_/same_as :: [Graph_Theory.private](/_private/Mathematics/Graph_Theory.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Graph_Theory.private|Graph_Theory.private]] 
 
-### #is_/same_as :: [Graph_Theory.personal](/_personal/Mathematics/Graph_Theory.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Graph_Theory.personal|Graph_Theory.personal]] 
 
-### #is_/same_as :: [Graph_Theory.secret](/_secret/Mathematics/Graph_Theory.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Graph_Theory.secret|Graph_Theory.secret]] 
 

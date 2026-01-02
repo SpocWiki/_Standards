@@ -47,17 +47,17 @@ Commons_category: Remote sensing
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Remote_Sensing](/_Standards/Science/Physics/Measurement/Remote_Sensing.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Measurement/Remote_Sensing|Remote_Sensing]] 
 
-### #is_/same_as :: [Remote_Sensing.public](/_public/Science/Physics/Measurement/Remote_Sensing.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Measurement/Remote_Sensing.public|Remote_Sensing.public]] 
 
-### #is_/same_as :: [Remote_Sensing.internal](/_internal/Science/Physics/Measurement/Remote_Sensing.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Measurement/Remote_Sensing.internal|Remote_Sensing.internal]] 
 
-### #is_/same_as :: [Remote_Sensing.protect](/_protect/Science/Physics/Measurement/Remote_Sensing.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Measurement/Remote_Sensing.protect|Remote_Sensing.protect]] 
 
-### #is_/same_as :: [Remote_Sensing.private](/_private/Science/Physics/Measurement/Remote_Sensing.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Measurement/Remote_Sensing.private|Remote_Sensing.private]] 
 
-### #is_/same_as :: [Remote_Sensing.personal](/_personal/Science/Physics/Measurement/Remote_Sensing.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Measurement/Remote_Sensing.personal|Remote_Sensing.personal]] 
 
-### #is_/same_as :: [Remote_Sensing.secret](/_secret/Science/Physics/Measurement/Remote_Sensing.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Measurement/Remote_Sensing.secret|Remote_Sensing.secret]] 
 

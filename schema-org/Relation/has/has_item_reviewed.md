@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_item_reviewed](/_Standards/schema-org/Relation/has/has_item_reviewed.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_item_reviewed|has_item_reviewed]] 
 
-### #is_/same_as :: [has_item_reviewed.public](/_public/schema-org/Relation/has/has_item_reviewed.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_item_reviewed.public|has_item_reviewed.public]] 
 
-### #is_/same_as :: [has_item_reviewed.internal](/_internal/schema-org/Relation/has/has_item_reviewed.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_item_reviewed.internal|has_item_reviewed.internal]] 
 
-### #is_/same_as :: [has_item_reviewed.protect](/_protect/schema-org/Relation/has/has_item_reviewed.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_item_reviewed.protect|has_item_reviewed.protect]] 
 
-### #is_/same_as :: [has_item_reviewed.private](/_private/schema-org/Relation/has/has_item_reviewed.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_item_reviewed.private|has_item_reviewed.private]] 
 
-### #is_/same_as :: [has_item_reviewed.personal](/_personal/schema-org/Relation/has/has_item_reviewed.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_item_reviewed.personal|has_item_reviewed.personal]] 
 
-### #is_/same_as :: [has_item_reviewed.secret](/_secret/schema-org/Relation/has/has_item_reviewed.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_item_reviewed.secret|has_item_reviewed.secret]] 
 

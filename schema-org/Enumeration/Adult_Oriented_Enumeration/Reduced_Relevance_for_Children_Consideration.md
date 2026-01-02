@@ -44,17 +44,17 @@ A general code for cases where relevance to children is reduced, e.g. adult educ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration|Reduced_Relevance_for_Children_Consideration]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.public|Reduced_Relevance_for_Children_Consideration.public]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.internal|Reduced_Relevance_for_Children_Consideration.internal]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.protect|Reduced_Relevance_for_Children_Consideration.protect]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.private|Reduced_Relevance_for_Children_Consideration.private]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.personal|Reduced_Relevance_for_Children_Consideration.personal]] 
 
-### #is_/same_as :: [Reduced_Relevance_for_Children_Consideration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration/Reduced_Relevance_for_Children_Consideration.secret|Reduced_Relevance_for_Children_Consideration.secret]] 
 

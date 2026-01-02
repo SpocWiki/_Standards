@@ -41,17 +41,17 @@ A single message from a sender to one or more organizations or people.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Message](/_Standards/Society/Communication/Media/Creative_Work/Message.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Message|Message]] 
 
-### #is_/same_as :: [Message.public](/_public/Society/Communication/Media/Creative_Work/Message.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Message.public|Message.public]] 
 
-### #is_/same_as :: [Message.internal](/_internal/Society/Communication/Media/Creative_Work/Message.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Message.internal|Message.internal]] 
 
-### #is_/same_as :: [Message.protect](/_protect/Society/Communication/Media/Creative_Work/Message.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Message.protect|Message.protect]] 
 
-### #is_/same_as :: [Message.private](/_private/Society/Communication/Media/Creative_Work/Message.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Message.private|Message.private]] 
 
-### #is_/same_as :: [Message.personal](/_personal/Society/Communication/Media/Creative_Work/Message.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Message.personal|Message.personal]] 
 
-### #is_/same_as :: [Message.secret](/_secret/Society/Communication/Media/Creative_Work/Message.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Message.secret|Message.secret]] 
 

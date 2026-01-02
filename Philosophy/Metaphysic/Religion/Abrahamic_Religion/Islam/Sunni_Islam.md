@@ -58,17 +58,17 @@ OpenStreetMap_tag: denomination=sunni
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sunni_Islam](/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam|Sunni_Islam]] 
 
-### #is_/same_as :: [Sunni_Islam.public](/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.public|Sunni_Islam.public]] 
 
-### #is_/same_as :: [Sunni_Islam.internal](/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.internal|Sunni_Islam.internal]] 
 
-### #is_/same_as :: [Sunni_Islam.protect](/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.protect|Sunni_Islam.protect]] 
 
-### #is_/same_as :: [Sunni_Islam.private](/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.private|Sunni_Islam.private]] 
 
-### #is_/same_as :: [Sunni_Islam.personal](/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.personal|Sunni_Islam.personal]] 
 
-### #is_/same_as :: [Sunni_Islam.secret](/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/Sunni_Islam.secret|Sunni_Islam.secret]] 
 

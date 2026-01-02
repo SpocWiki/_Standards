@@ -49,17 +49,17 @@ Dewey_Decimal_Classification: 687.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zipper](/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Zipper.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Fastener/Zipper|Zipper]] 
 
-### #is_/same_as :: [Zipper.public](/_public/Technology/Tool/Mechanical_Tool/Fastener/Zipper.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Fastener/Zipper.public|Zipper.public]] 
 
-### #is_/same_as :: [Zipper.internal](/_internal/Technology/Tool/Mechanical_Tool/Fastener/Zipper.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Fastener/Zipper.internal|Zipper.internal]] 
 
-### #is_/same_as :: [Zipper.protect](/_protect/Technology/Tool/Mechanical_Tool/Fastener/Zipper.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Fastener/Zipper.protect|Zipper.protect]] 
 
-### #is_/same_as :: [Zipper.private](/_private/Technology/Tool/Mechanical_Tool/Fastener/Zipper.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Fastener/Zipper.private|Zipper.private]] 
 
-### #is_/same_as :: [Zipper.personal](/_personal/Technology/Tool/Mechanical_Tool/Fastener/Zipper.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Fastener/Zipper.personal|Zipper.personal]] 
 
-### #is_/same_as :: [Zipper.secret](/_secret/Technology/Tool/Mechanical_Tool/Fastener/Zipper.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Fastener/Zipper.secret|Zipper.secret]] 
 

@@ -41,17 +41,17 @@ Enumeration of considerations that make a product relevant or potentially restri
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration](/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Adult_Oriented_Enumeration|Adult_Oriented_Enumeration]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.public](/_public/schema-org/Enumeration/Adult_Oriented_Enumeration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Adult_Oriented_Enumeration.public|Adult_Oriented_Enumeration.public]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.internal](/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Adult_Oriented_Enumeration.internal|Adult_Oriented_Enumeration.internal]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.protect](/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Adult_Oriented_Enumeration.protect|Adult_Oriented_Enumeration.protect]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.private](/_private/schema-org/Enumeration/Adult_Oriented_Enumeration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Adult_Oriented_Enumeration.private|Adult_Oriented_Enumeration.private]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.personal](/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Adult_Oriented_Enumeration.personal|Adult_Oriented_Enumeration.personal]] 
 
-### #is_/same_as :: [Adult_Oriented_Enumeration.secret](/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Adult_Oriented_Enumeration.secret|Adult_Oriented_Enumeration.secret]] 
 

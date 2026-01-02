@@ -78,17 +78,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Propositional_Logic](/_Standards/Philosophy/Logic/Logic(Math)/Propositional_Logic.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Logic/Logic(Math)/Propositional_Logic|Propositional_Logic]] 
 
-### #is_/same_as :: [Propositional_Logic.public](/_public/Philosophy/Logic/Logic(Math)/Propositional_Logic.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Logic/Logic(Math)/Propositional_Logic.public|Propositional_Logic.public]] 
 
-### #is_/same_as :: [Propositional_Logic.internal](/_internal/Philosophy/Logic/Logic(Math)/Propositional_Logic.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Logic/Logic(Math)/Propositional_Logic.internal|Propositional_Logic.internal]] 
 
-### #is_/same_as :: [Propositional_Logic.protect](/_protect/Philosophy/Logic/Logic(Math)/Propositional_Logic.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Logic/Logic(Math)/Propositional_Logic.protect|Propositional_Logic.protect]] 
 
-### #is_/same_as :: [Propositional_Logic.private](/_private/Philosophy/Logic/Logic(Math)/Propositional_Logic.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Logic/Logic(Math)/Propositional_Logic.private|Propositional_Logic.private]] 
 
-### #is_/same_as :: [Propositional_Logic.personal](/_personal/Philosophy/Logic/Logic(Math)/Propositional_Logic.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Logic/Logic(Math)/Propositional_Logic.personal|Propositional_Logic.personal]] 
 
-### #is_/same_as :: [Propositional_Logic.secret](/_secret/Philosophy/Logic/Logic(Math)/Propositional_Logic.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Logic/Logic(Math)/Propositional_Logic.secret|Propositional_Logic.secret]] 
 

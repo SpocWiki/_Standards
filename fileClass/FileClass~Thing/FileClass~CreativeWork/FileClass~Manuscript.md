@@ -37,17 +37,17 @@ A book, document, or piece of music written by hand rather than typed or printed
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Manuscript](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript|FileClass~Manuscript]] 
 
-### #is_/same_as :: [FileClass~Manuscript.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.public|FileClass~Manuscript.public]] 
 
-### #is_/same_as :: [FileClass~Manuscript.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.internal|FileClass~Manuscript.internal]] 
 
-### #is_/same_as :: [FileClass~Manuscript.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.protect|FileClass~Manuscript.protect]] 
 
-### #is_/same_as :: [FileClass~Manuscript.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.private|FileClass~Manuscript.private]] 
 
-### #is_/same_as :: [FileClass~Manuscript.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.personal|FileClass~Manuscript.personal]] 
 
-### #is_/same_as :: [FileClass~Manuscript.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Manuscript.secret|FileClass~Manuscript.secret]] 
 

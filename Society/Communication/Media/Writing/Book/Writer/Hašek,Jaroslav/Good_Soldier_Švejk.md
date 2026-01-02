@@ -66,17 +66,17 @@ inception: 1921-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Good_Soldier_Švejk](/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk|Good_Soldier_Švejk]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.public](/_public/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.public|Good_Soldier_Švejk.public]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.internal|Good_Soldier_Švejk.internal]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.protect|Good_Soldier_Švejk.protect]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.private](/_private/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.private|Good_Soldier_Švejk.private]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.personal|Good_Soldier_Švejk.personal]] 
 
-### #is_/same_as :: [Good_Soldier_Švejk.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Hašek,Jaroslav/Good_Soldier_Švejk.secret|Good_Soldier_Švejk.secret]] 
 

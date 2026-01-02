@@ -15,17 +15,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thoughtcrime](/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime|Thoughtcrime]] 
 
-### #is_/same_as :: [Thoughtcrime.public](/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.public|Thoughtcrime.public]] 
 
-### #is_/same_as :: [Thoughtcrime.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.internal|Thoughtcrime.internal]] 
 
-### #is_/same_as :: [Thoughtcrime.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.protect|Thoughtcrime.protect]] 
 
-### #is_/same_as :: [Thoughtcrime.private](/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.private|Thoughtcrime.private]] 
 
-### #is_/same_as :: [Thoughtcrime.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.personal|Thoughtcrime.personal]] 
 
-### #is_/same_as :: [Thoughtcrime.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/English_Writer/Orwell,George/Thoughtcrime.secret|Thoughtcrime.secret]] 
 

@@ -307,17 +307,17 @@ used_metre: '[[_Standards/WikiData/WD~Terza_rima,968679]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Divine_Comedy](/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy|Divine_Comedy]] 
 
-### #is_/same_as :: [Divine_Comedy.public](/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.public|Divine_Comedy.public]] 
 
-### #is_/same_as :: [Divine_Comedy.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.internal|Divine_Comedy.internal]] 
 
-### #is_/same_as :: [Divine_Comedy.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.protect|Divine_Comedy.protect]] 
 
-### #is_/same_as :: [Divine_Comedy.private](/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.private|Divine_Comedy.private]] 
 
-### #is_/same_as :: [Divine_Comedy.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.personal|Divine_Comedy.personal]] 
 
-### #is_/same_as :: [Divine_Comedy.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/Middle_Age_Writer/Alighieri,Dante/Divine_Comedy.secret|Divine_Comedy.secret]] 
 

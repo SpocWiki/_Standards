@@ -158,17 +158,17 @@ Europeana_entity: agent/base/61033
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heine,Heinrich](/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich|Heine,Heinrich]] 
 
-### #is_/same_as :: [Heine,Heinrich.public](/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.public|Heine,Heinrich.public]] 
 
-### #is_/same_as :: [Heine,Heinrich.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.internal|Heine,Heinrich.internal]] 
 
-### #is_/same_as :: [Heine,Heinrich.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.protect|Heine,Heinrich.protect]] 
 
-### #is_/same_as :: [Heine,Heinrich.private](/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.private|Heine,Heinrich.private]] 
 
-### #is_/same_as :: [Heine,Heinrich.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.personal|Heine,Heinrich.personal]] 
 
-### #is_/same_as :: [Heine,Heinrich.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/German_Writer/Heine,Heinrich.secret|Heine,Heinrich.secret]] 
 

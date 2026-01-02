@@ -58,17 +58,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_url_for](/_Standards/schema-org/Property/has_url_for.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_url_for|has_url_for]] 
 
-### #is_/same_as :: [has_url_for.public](/_public/schema-org/Property/has_url_for.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_url_for.public|has_url_for.public]] 
 
-### #is_/same_as :: [has_url_for.internal](/_internal/schema-org/Property/has_url_for.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_url_for.internal|has_url_for.internal]] 
 
-### #is_/same_as :: [has_url_for.protect](/_protect/schema-org/Property/has_url_for.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_url_for.protect|has_url_for.protect]] 
 
-### #is_/same_as :: [has_url_for.private](/_private/schema-org/Property/has_url_for.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_url_for.private|has_url_for.private]] 
 
-### #is_/same_as :: [has_url_for.personal](/_personal/schema-org/Property/has_url_for.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_url_for.personal|has_url_for.personal]] 
 
-### #is_/same_as :: [has_url_for.secret](/_secret/schema-org/Property/has_url_for.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_url_for.secret|has_url_for.secret]] 
 

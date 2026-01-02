@@ -101,17 +101,17 @@ Krugosvet_article: voennoe-delo/klauzevic-karl-filipp-gotlib
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clausewitz,Carl_von](/_Standards/Society/Military/Military_History/Clausewitz,Carl_von.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_History/Clausewitz,Carl_von|Clausewitz,Carl_von]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.public](/_public/Society/Military/Military_History/Clausewitz,Carl_von.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_History/Clausewitz,Carl_von.public|Clausewitz,Carl_von.public]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.internal](/_internal/Society/Military/Military_History/Clausewitz,Carl_von.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_History/Clausewitz,Carl_von.internal|Clausewitz,Carl_von.internal]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.protect](/_protect/Society/Military/Military_History/Clausewitz,Carl_von.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_History/Clausewitz,Carl_von.protect|Clausewitz,Carl_von.protect]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.private](/_private/Society/Military/Military_History/Clausewitz,Carl_von.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_History/Clausewitz,Carl_von.private|Clausewitz,Carl_von.private]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.personal](/_personal/Society/Military/Military_History/Clausewitz,Carl_von.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_History/Clausewitz,Carl_von.personal|Clausewitz,Carl_von.personal]] 
 
-### #is_/same_as :: [Clausewitz,Carl_von.secret](/_secret/Society/Military/Military_History/Clausewitz,Carl_von.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_History/Clausewitz,Carl_von.secret|Clausewitz,Carl_von.secret]] 
 

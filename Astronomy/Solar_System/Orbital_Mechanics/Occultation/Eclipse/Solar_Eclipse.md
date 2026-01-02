@@ -68,17 +68,17 @@ Wolfram_Language_entity_type: SolarEclipse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solar_Eclipse](/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse|Solar_Eclipse]] 
 
-### #is_/same_as :: [Solar_Eclipse.public](/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.public|Solar_Eclipse.public]] 
 
-### #is_/same_as :: [Solar_Eclipse.internal](/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.internal|Solar_Eclipse.internal]] 
 
-### #is_/same_as :: [Solar_Eclipse.protect](/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.protect|Solar_Eclipse.protect]] 
 
-### #is_/same_as :: [Solar_Eclipse.private](/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.private|Solar_Eclipse.private]] 
 
-### #is_/same_as :: [Solar_Eclipse.personal](/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.personal|Solar_Eclipse.personal]] 
 
-### #is_/same_as :: [Solar_Eclipse.secret](/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Occultation/Eclipse/Solar_Eclipse.secret|Solar_Eclipse.secret]] 
 

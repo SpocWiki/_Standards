@@ -68,17 +68,17 @@ coordinate_location: Point(26.0 42.0)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Thrace](/_Standards/Earth/Continent/Europe/Europe~South/Thrace.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~South/Thrace|Thrace]] 
 
-### #is_/same_as :: [Thrace.public](/_public/Earth/Continent/Europe/Europe~South/Thrace.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~South/Thrace.public|Thrace.public]] 
 
-### #is_/same_as :: [Thrace.internal](/_internal/Earth/Continent/Europe/Europe~South/Thrace.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~South/Thrace.internal|Thrace.internal]] 
 
-### #is_/same_as :: [Thrace.protect](/_protect/Earth/Continent/Europe/Europe~South/Thrace.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~South/Thrace.protect|Thrace.protect]] 
 
-### #is_/same_as :: [Thrace.private](/_private/Earth/Continent/Europe/Europe~South/Thrace.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~South/Thrace.private|Thrace.private]] 
 
-### #is_/same_as :: [Thrace.personal](/_personal/Earth/Continent/Europe/Europe~South/Thrace.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~South/Thrace.personal|Thrace.personal]] 
 
-### #is_/same_as :: [Thrace.secret](/_secret/Earth/Continent/Europe/Europe~South/Thrace.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~South/Thrace.secret|Thrace.secret]] 
 

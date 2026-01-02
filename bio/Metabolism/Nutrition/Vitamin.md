@@ -163,17 +163,17 @@ NRV = Nährstoffbezugswerte für die tägliche Zufuhr gemäß Lebensmittelinform
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vitamin](/_Standards/bio/Metabolism/Nutrition/Vitamin.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vitamin|Vitamin]] 
 
-### #is_/same_as :: [Vitamin.public](/_public/bio/Metabolism/Nutrition/Vitamin.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vitamin.public|Vitamin.public]] 
 
-### #is_/same_as :: [Vitamin.internal](/_internal/bio/Metabolism/Nutrition/Vitamin.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vitamin.internal|Vitamin.internal]] 
 
-### #is_/same_as :: [Vitamin.protect](/_protect/bio/Metabolism/Nutrition/Vitamin.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vitamin.protect|Vitamin.protect]] 
 
-### #is_/same_as :: [Vitamin.private](/_private/bio/Metabolism/Nutrition/Vitamin.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vitamin.private|Vitamin.private]] 
 
-### #is_/same_as :: [Vitamin.personal](/_personal/bio/Metabolism/Nutrition/Vitamin.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vitamin.personal|Vitamin.personal]] 
 
-### #is_/same_as :: [Vitamin.secret](/_secret/bio/Metabolism/Nutrition/Vitamin.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vitamin.secret|Vitamin.secret]] 
 

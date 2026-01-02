@@ -196,17 +196,17 @@ Google_Doodle: johannes-keplers-442nd-birthday
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kepler,Johannes](/_Standards/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.md) 
+### #is_/same_as :: [[/_Standards/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes|Kepler,Johannes]] 
 
-### #is_/same_as :: [Kepler,Johannes.public](/_public/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.public.md) 
+### #is_/same_as :: [[/_public/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.public|Kepler,Johannes.public]] 
 
-### #is_/same_as :: [Kepler,Johannes.internal](/_internal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.internal|Kepler,Johannes.internal]] 
 
-### #is_/same_as :: [Kepler,Johannes.protect](/_protect/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.protect|Kepler,Johannes.protect]] 
 
-### #is_/same_as :: [Kepler,Johannes.private](/_private/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.private.md) 
+### #is_/same_as :: [[/_private/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.private|Kepler,Johannes.private]] 
 
-### #is_/same_as :: [Kepler,Johannes.personal](/_personal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.personal|Kepler,Johannes.personal]] 
 
-### #is_/same_as :: [Kepler,Johannes.secret](/_secret/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.secret.md)
+### #is_/same_as :: [[/_secret/Science/Scientist/Middle_Age_Scientists/Kepler,Johannes.secret|Kepler,Johannes.secret]] 
 

@@ -82,17 +82,17 @@ Commons_category: Playboy magazine
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Playboy(Magazine)](/_Standards/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine)|Playboy(Magazine)]] 
 
-### #is_/same_as :: [Playboy(Magazine).public](/_public/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).public|Playboy(Magazine).public]] 
 
-### #is_/same_as :: [Playboy(Magazine).internal](/_internal/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).internal|Playboy(Magazine).internal]] 
 
-### #is_/same_as :: [Playboy(Magazine).protect](/_protect/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).protect|Playboy(Magazine).protect]] 
 
-### #is_/same_as :: [Playboy(Magazine).private](/_private/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).private|Playboy(Magazine).private]] 
 
-### #is_/same_as :: [Playboy(Magazine).personal](/_personal/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).personal|Playboy(Magazine).personal]] 
 
-### #is_/same_as :: [Playboy(Magazine).secret](/_secret/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Journalism/Magazine/Playboy(Magazine).secret|Playboy(Magazine).secret]] 
 

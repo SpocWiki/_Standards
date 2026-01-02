@@ -93,17 +93,17 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Beauty%20of%20th
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hunting](/_Standards/bio/Metabolism/Nutrition/Hunting.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunting|Hunting]] 
 
-### #is_/same_as :: [Hunting.public](/_public/bio/Metabolism/Nutrition/Hunting.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Hunting.public|Hunting.public]] 
 
-### #is_/same_as :: [Hunting.internal](/_internal/bio/Metabolism/Nutrition/Hunting.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Hunting.internal|Hunting.internal]] 
 
-### #is_/same_as :: [Hunting.protect](/_protect/bio/Metabolism/Nutrition/Hunting.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Hunting.protect|Hunting.protect]] 
 
-### #is_/same_as :: [Hunting.private](/_private/bio/Metabolism/Nutrition/Hunting.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Hunting.private|Hunting.private]] 
 
-### #is_/same_as :: [Hunting.personal](/_personal/bio/Metabolism/Nutrition/Hunting.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Hunting.personal|Hunting.personal]] 
 
-### #is_/same_as :: [Hunting.secret](/_secret/bio/Metabolism/Nutrition/Hunting.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Hunting.secret|Hunting.secret]] 
 

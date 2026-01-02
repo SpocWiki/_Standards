@@ -47,17 +47,17 @@ Colon_Classification: Q:364
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Paradise](/_Standards/Philosophy/Metaphysic/Religion/Paradise.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Paradise|Paradise]] 
 
-### #is_/same_as :: [Paradise.public](/_public/Philosophy/Metaphysic/Religion/Paradise.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Paradise.public|Paradise.public]] 
 
-### #is_/same_as :: [Paradise.internal](/_internal/Philosophy/Metaphysic/Religion/Paradise.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Paradise.internal|Paradise.internal]] 
 
-### #is_/same_as :: [Paradise.protect](/_protect/Philosophy/Metaphysic/Religion/Paradise.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Paradise.protect|Paradise.protect]] 
 
-### #is_/same_as :: [Paradise.private](/_private/Philosophy/Metaphysic/Religion/Paradise.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Paradise.private|Paradise.private]] 
 
-### #is_/same_as :: [Paradise.personal](/_personal/Philosophy/Metaphysic/Religion/Paradise.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Paradise.personal|Paradise.personal]] 
 
-### #is_/same_as :: [Paradise.secret](/_secret/Philosophy/Metaphysic/Religion/Paradise.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Paradise.secret|Paradise.secret]] 
 

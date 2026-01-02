@@ -67,17 +67,17 @@ Facebook_username: peterpaulandmary
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peter,Paul_and_Mary](/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary|Peter,Paul_and_Mary]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.public](/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.public|Peter,Paul_and_Mary.public]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.internal](/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.internal|Peter,Paul_and_Mary.internal]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.protect](/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.protect|Peter,Paul_and_Mary.protect]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.private](/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.private|Peter,Paul_and_Mary.private]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.personal](/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.personal|Peter,Paul_and_Mary.personal]] 
 
-### #is_/same_as :: [Peter,Paul_and_Mary.secret](/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Folk-Musician/Peter,Paul_and_Mary.secret|Peter,Paul_and_Mary.secret]] 
 

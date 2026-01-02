@@ -31,17 +31,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Positivism](/_Standards/Philosophy/Positivism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Positivism|Positivism]] 
 
-### #is_/same_as :: [Positivism.public](/_public/Philosophy/Positivism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Positivism.public|Positivism.public]] 
 
-### #is_/same_as :: [Positivism.internal](/_internal/Philosophy/Positivism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Positivism.internal|Positivism.internal]] 
 
-### #is_/same_as :: [Positivism.protect](/_protect/Philosophy/Positivism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Positivism.protect|Positivism.protect]] 
 
-### #is_/same_as :: [Positivism.private](/_private/Philosophy/Positivism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Positivism.private|Positivism.private]] 
 
-### #is_/same_as :: [Positivism.personal](/_personal/Philosophy/Positivism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Positivism.personal|Positivism.personal]] 
 
-### #is_/same_as :: [Positivism.secret](/_secret/Philosophy/Positivism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Positivism.secret|Positivism.secret]] 
 

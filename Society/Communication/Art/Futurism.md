@@ -61,17 +61,17 @@ inception: 1909-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Futurism](/_Standards/Society/Communication/Art/Futurism.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Futurism|Futurism]] 
 
-### #is_/same_as :: [Futurism.public](/_public/Society/Communication/Art/Futurism.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Futurism.public|Futurism.public]] 
 
-### #is_/same_as :: [Futurism.internal](/_internal/Society/Communication/Art/Futurism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Futurism.internal|Futurism.internal]] 
 
-### #is_/same_as :: [Futurism.protect](/_protect/Society/Communication/Art/Futurism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Futurism.protect|Futurism.protect]] 
 
-### #is_/same_as :: [Futurism.private](/_private/Society/Communication/Art/Futurism.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Futurism.private|Futurism.private]] 
 
-### #is_/same_as :: [Futurism.personal](/_personal/Society/Communication/Art/Futurism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Futurism.personal|Futurism.personal]] 
 
-### #is_/same_as :: [Futurism.secret](/_secret/Society/Communication/Art/Futurism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Futurism.secret|Futurism.secret]] 
 

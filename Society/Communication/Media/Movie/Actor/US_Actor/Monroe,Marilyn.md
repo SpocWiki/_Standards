@@ -146,17 +146,17 @@ writing_language: '[[_Standards/WikiData/WD~American_English,7976]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Monroe,Marilyn](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn|Monroe,Marilyn]] 
 
-### #is_/same_as :: [Monroe,Marilyn.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.public|Monroe,Marilyn.public]] 
 
-### #is_/same_as :: [Monroe,Marilyn.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.internal|Monroe,Marilyn.internal]] 
 
-### #is_/same_as :: [Monroe,Marilyn.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.protect|Monroe,Marilyn.protect]] 
 
-### #is_/same_as :: [Monroe,Marilyn.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.private|Monroe,Marilyn.private]] 
 
-### #is_/same_as :: [Monroe,Marilyn.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.personal|Monroe,Marilyn.personal]] 
 
-### #is_/same_as :: [Monroe,Marilyn.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Monroe,Marilyn.secret|Monroe,Marilyn.secret]] 
 

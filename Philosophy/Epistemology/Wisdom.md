@@ -71,17 +71,17 @@ Wisdom is the ability to apply knowledge, experience, and good judgment **to act
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wisdom](/_Standards/Philosophy/Epistemology/Wisdom.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Epistemology/Wisdom|Wisdom]] 
 
-### #is_/same_as :: [Wisdom.public](/_public/Philosophy/Epistemology/Wisdom.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Epistemology/Wisdom.public|Wisdom.public]] 
 
-### #is_/same_as :: [Wisdom.internal](/_internal/Philosophy/Epistemology/Wisdom.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Epistemology/Wisdom.internal|Wisdom.internal]] 
 
-### #is_/same_as :: [Wisdom.protect](/_protect/Philosophy/Epistemology/Wisdom.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Epistemology/Wisdom.protect|Wisdom.protect]] 
 
-### #is_/same_as :: [Wisdom.private](/_private/Philosophy/Epistemology/Wisdom.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Epistemology/Wisdom.private|Wisdom.private]] 
 
-### #is_/same_as :: [Wisdom.personal](/_personal/Philosophy/Epistemology/Wisdom.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Epistemology/Wisdom.personal|Wisdom.personal]] 
 
-### #is_/same_as :: [Wisdom.secret](/_secret/Philosophy/Epistemology/Wisdom.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Epistemology/Wisdom.secret|Wisdom.secret]] 
 

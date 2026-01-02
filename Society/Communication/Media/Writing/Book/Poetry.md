@@ -85,17 +85,17 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_poetry,7112700]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poetry](/_Standards/Society/Communication/Media/Writing/Book/Poetry.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Poetry|Poetry]] 
 
-### #is_/same_as :: [Poetry.public](/_public/Society/Communication/Media/Writing/Book/Poetry.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Poetry.public|Poetry.public]] 
 
-### #is_/same_as :: [Poetry.internal](/_internal/Society/Communication/Media/Writing/Book/Poetry.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Poetry.internal|Poetry.internal]] 
 
-### #is_/same_as :: [Poetry.protect](/_protect/Society/Communication/Media/Writing/Book/Poetry.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Poetry.protect|Poetry.protect]] 
 
-### #is_/same_as :: [Poetry.private](/_private/Society/Communication/Media/Writing/Book/Poetry.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Poetry.private|Poetry.private]] 
 
-### #is_/same_as :: [Poetry.personal](/_personal/Society/Communication/Media/Writing/Book/Poetry.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Poetry.personal|Poetry.personal]] 
 
-### #is_/same_as :: [Poetry.secret](/_secret/Society/Communication/Media/Writing/Book/Poetry.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Poetry.secret|Poetry.secret]] 
 

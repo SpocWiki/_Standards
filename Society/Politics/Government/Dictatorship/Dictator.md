@@ -34,17 +34,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dictator](/_Standards/Society/Politics/Government/Dictatorship/Dictator.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Dictatorship/Dictator|Dictator]] 
 
-### #is_/same_as :: [Dictator.public](/_public/Society/Politics/Government/Dictatorship/Dictator.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Dictatorship/Dictator.public|Dictator.public]] 
 
-### #is_/same_as :: [Dictator.internal](/_internal/Society/Politics/Government/Dictatorship/Dictator.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Dictatorship/Dictator.internal|Dictator.internal]] 
 
-### #is_/same_as :: [Dictator.protect](/_protect/Society/Politics/Government/Dictatorship/Dictator.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Dictatorship/Dictator.protect|Dictator.protect]] 
 
-### #is_/same_as :: [Dictator.private](/_private/Society/Politics/Government/Dictatorship/Dictator.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Dictatorship/Dictator.private|Dictator.private]] 
 
-### #is_/same_as :: [Dictator.personal](/_personal/Society/Politics/Government/Dictatorship/Dictator.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Dictatorship/Dictator.personal|Dictator.personal]] 
 
-### #is_/same_as :: [Dictator.secret](/_secret/Society/Politics/Government/Dictatorship/Dictator.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Dictatorship/Dictator.secret|Dictator.secret]] 
 

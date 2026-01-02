@@ -150,17 +150,17 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/malaria
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Malaria](/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria|Malaria]] 
 
-### #is_/same_as :: [Malaria.public](/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.public|Malaria.public]] 
 
-### #is_/same_as :: [Malaria.internal](/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.internal|Malaria.internal]] 
 
-### #is_/same_as :: [Malaria.protect](/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.protect|Malaria.protect]] 
 
-### #is_/same_as :: [Malaria.private](/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.private|Malaria.private]] 
 
-### #is_/same_as :: [Malaria.personal](/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.personal|Malaria.personal]] 
 
-### #is_/same_as :: [Malaria.secret](/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disease/Infectious_Disease/Malaria.secret|Malaria.secret]] 
 

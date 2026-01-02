@@ -197,17 +197,17 @@ date_of_death: 1906-05-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ibsen,Henrik](/_Standards/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik|Ibsen,Henrik]] 
 
-### #is_/same_as :: [Ibsen,Henrik.public](/_public/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.public|Ibsen,Henrik.public]] 
 
-### #is_/same_as :: [Ibsen,Henrik.internal](/_internal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.internal|Ibsen,Henrik.internal]] 
 
-### #is_/same_as :: [Ibsen,Henrik.protect](/_protect/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.protect|Ibsen,Henrik.protect]] 
 
-### #is_/same_as :: [Ibsen,Henrik.private](/_private/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.private|Ibsen,Henrik.private]] 
 
-### #is_/same_as :: [Ibsen,Henrik.personal](/_personal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.personal|Ibsen,Henrik.personal]] 
 
-### #is_/same_as :: [Ibsen,Henrik.secret](/_secret/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Playwright/Ibsen,Henrik.secret|Ibsen,Henrik.secret]] 
 

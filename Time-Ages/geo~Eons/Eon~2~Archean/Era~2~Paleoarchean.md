@@ -76,17 +76,17 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Era~2~Paleoarchean](/_Standards/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean|Era~2~Paleoarchean]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.public](/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.public|Era~2~Paleoarchean.public]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.internal](/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.internal|Era~2~Paleoarchean.internal]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.protect](/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.protect|Era~2~Paleoarchean.protect]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.private](/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.private|Era~2~Paleoarchean.private]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.personal](/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.personal|Era~2~Paleoarchean.personal]] 
 
-### #is_/same_as :: [Era~2~Paleoarchean.secret](/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~2~Paleoarchean.secret|Era~2~Paleoarchean.secret]] 
 

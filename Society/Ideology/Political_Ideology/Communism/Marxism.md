@@ -63,17 +63,17 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Marxism,60647992
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Marxism](/_Standards/Society/Ideology/Political_Ideology/Communism/Marxism.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Communism/Marxism|Marxism]] 
 
-### #is_/same_as :: [Marxism.public](/_public/Society/Ideology/Political_Ideology/Communism/Marxism.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Communism/Marxism.public|Marxism.public]] 
 
-### #is_/same_as :: [Marxism.internal](/_internal/Society/Ideology/Political_Ideology/Communism/Marxism.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Communism/Marxism.internal|Marxism.internal]] 
 
-### #is_/same_as :: [Marxism.protect](/_protect/Society/Ideology/Political_Ideology/Communism/Marxism.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Communism/Marxism.protect|Marxism.protect]] 
 
-### #is_/same_as :: [Marxism.private](/_private/Society/Ideology/Political_Ideology/Communism/Marxism.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Communism/Marxism.private|Marxism.private]] 
 
-### #is_/same_as :: [Marxism.personal](/_personal/Society/Ideology/Political_Ideology/Communism/Marxism.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Communism/Marxism.personal|Marxism.personal]] 
 
-### #is_/same_as :: [Marxism.secret](/_secret/Society/Ideology/Political_Ideology/Communism/Marxism.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Communism/Marxism.secret|Marxism.secret]] 
 

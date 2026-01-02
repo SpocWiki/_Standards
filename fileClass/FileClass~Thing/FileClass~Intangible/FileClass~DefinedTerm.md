@@ -58,17 +58,17 @@ TermCode:: {"type":"Input","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~DefinedTerm](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm|FileClass~DefinedTerm]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.public|FileClass~DefinedTerm.public]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.internal|FileClass~DefinedTerm.internal]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.protect|FileClass~DefinedTerm.protect]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.private|FileClass~DefinedTerm.private]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.personal|FileClass~DefinedTerm.personal]] 
 
-### #is_/same_as :: [FileClass~DefinedTerm.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~DefinedTerm.secret|FileClass~DefinedTerm.secret]] 
 

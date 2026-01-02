@@ -41,17 +41,17 @@ A motorcycle dealer.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Motorcycle_Dealer](/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer|Motorcycle_Dealer]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.public](/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.public|Motorcycle_Dealer.public]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.internal](/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.internal|Motorcycle_Dealer.internal]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.protect](/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.protect|Motorcycle_Dealer.protect]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.private](/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.private|Motorcycle_Dealer.private]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.personal](/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.personal|Motorcycle_Dealer.personal]] 
 
-### #is_/same_as :: [Motorcycle_Dealer.secret](/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Local_Business/Automotive_Business/Motorcycle_Dealer.secret|Motorcycle_Dealer.secret]] 
 

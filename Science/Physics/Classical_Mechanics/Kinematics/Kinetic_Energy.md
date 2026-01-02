@@ -58,17 +58,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kinetic_Energy](/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy|Kinetic_Energy]] 
 
-### #is_/same_as :: [Kinetic_Energy.public](/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.public|Kinetic_Energy.public]] 
 
-### #is_/same_as :: [Kinetic_Energy.internal](/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.internal|Kinetic_Energy.internal]] 
 
-### #is_/same_as :: [Kinetic_Energy.protect](/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.protect|Kinetic_Energy.protect]] 
 
-### #is_/same_as :: [Kinetic_Energy.private](/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.private|Kinetic_Energy.private]] 
 
-### #is_/same_as :: [Kinetic_Energy.personal](/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.personal|Kinetic_Energy.personal]] 
 
-### #is_/same_as :: [Kinetic_Energy.secret](/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Classical_Mechanics/Kinematics/Kinetic_Energy.secret|Kinetic_Energy.secret]] 
 

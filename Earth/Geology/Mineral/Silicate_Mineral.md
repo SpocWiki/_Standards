@@ -36,17 +36,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Silicate_Mineral](/_Standards/Earth/Geology/Mineral/Silicate_Mineral.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geology/Mineral/Silicate_Mineral|Silicate_Mineral]] 
 
-### #is_/same_as :: [Silicate_Mineral.public](/_public/Earth/Geology/Mineral/Silicate_Mineral.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geology/Mineral/Silicate_Mineral.public|Silicate_Mineral.public]] 
 
-### #is_/same_as :: [Silicate_Mineral.internal](/_internal/Earth/Geology/Mineral/Silicate_Mineral.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geology/Mineral/Silicate_Mineral.internal|Silicate_Mineral.internal]] 
 
-### #is_/same_as :: [Silicate_Mineral.protect](/_protect/Earth/Geology/Mineral/Silicate_Mineral.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geology/Mineral/Silicate_Mineral.protect|Silicate_Mineral.protect]] 
 
-### #is_/same_as :: [Silicate_Mineral.private](/_private/Earth/Geology/Mineral/Silicate_Mineral.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geology/Mineral/Silicate_Mineral.private|Silicate_Mineral.private]] 
 
-### #is_/same_as :: [Silicate_Mineral.personal](/_personal/Earth/Geology/Mineral/Silicate_Mineral.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geology/Mineral/Silicate_Mineral.personal|Silicate_Mineral.personal]] 
 
-### #is_/same_as :: [Silicate_Mineral.secret](/_secret/Earth/Geology/Mineral/Silicate_Mineral.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geology/Mineral/Silicate_Mineral.secret|Silicate_Mineral.secret]] 
 

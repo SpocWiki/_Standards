@@ -48,17 +48,17 @@ Commons_category: Rowboats
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Rowing_Boat](/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.md) 
+### #is_/same_as :: [[/_Standards/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat|Rowing_Boat]] 
 
-### #is_/same_as :: [Rowing_Boat.public](/_public/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.public.md) 
+### #is_/same_as :: [[/_public/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.public|Rowing_Boat.public]] 
 
-### #is_/same_as :: [Rowing_Boat.internal](/_internal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.internal|Rowing_Boat.internal]] 
 
-### #is_/same_as :: [Rowing_Boat.protect](/_protect/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.protect|Rowing_Boat.protect]] 
 
-### #is_/same_as :: [Rowing_Boat.private](/_private/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.private.md) 
+### #is_/same_as :: [[/_private/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.private|Rowing_Boat.private]] 
 
-### #is_/same_as :: [Rowing_Boat.personal](/_personal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.personal|Rowing_Boat.personal]] 
 
-### #is_/same_as :: [Rowing_Boat.secret](/_secret/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Transport/Water_Transport/Watercraft/Boat/Rowing_Boat.secret|Rowing_Boat.secret]] 
 

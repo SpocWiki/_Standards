@@ -68,17 +68,17 @@ Commons_category: Plant stems
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Plant_Stem](/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.md) 
+### #is_/same_as :: [[/_Standards/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem|Plant_Stem]] 
 
-### #is_/same_as :: [Plant_Stem.public](/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.public.md) 
+### #is_/same_as :: [[/_public/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.public|Plant_Stem.public]] 
 
-### #is_/same_as :: [Plant_Stem.internal](/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.internal|Plant_Stem.internal]] 
 
-### #is_/same_as :: [Plant_Stem.protect](/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.protect|Plant_Stem.protect]] 
 
-### #is_/same_as :: [Plant_Stem.private](/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.private.md) 
+### #is_/same_as :: [[/_private/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.private|Plant_Stem.private]] 
 
-### #is_/same_as :: [Plant_Stem.personal](/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.personal|Plant_Stem.personal]] 
 
-### #is_/same_as :: [Plant_Stem.secret](/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.secret.md)
+### #is_/same_as :: [[/_secret/bio/Botany/Plant_Anatomy/Plant_Morphology/Plant_Stem.secret|Plant_Stem.secret]] 
 

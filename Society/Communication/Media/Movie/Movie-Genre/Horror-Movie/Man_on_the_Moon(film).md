@@ -37,17 +37,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Man_on_the_Moon(film)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film)|Man_on_the_Moon(film)]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).public|Man_on_the_Moon(film).public]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).internal|Man_on_the_Moon(film).internal]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).protect|Man_on_the_Moon(film).protect]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).private|Man_on_the_Moon(film).private]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).personal|Man_on_the_Moon(film).personal]] 
 
-### #is_/same_as :: [Man_on_the_Moon(film).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Man_on_the_Moon(film).secret|Man_on_the_Moon(film).secret]] 
 

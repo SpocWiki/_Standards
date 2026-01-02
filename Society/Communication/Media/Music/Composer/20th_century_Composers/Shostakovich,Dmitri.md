@@ -179,17 +179,17 @@ Stadtwiki_Dresden_article: Dmitri_Schostakowitsch
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Shostakovich,Dmitri](/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri|Shostakovich,Dmitri]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.public](/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.public|Shostakovich,Dmitri.public]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.internal](/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.internal|Shostakovich,Dmitri.internal]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.protect](/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.protect|Shostakovich,Dmitri.protect]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.private](/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.private|Shostakovich,Dmitri.private]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.personal](/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.personal|Shostakovich,Dmitri.personal]] 
 
-### #is_/same_as :: [Shostakovich,Dmitri.secret](/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Composer/20th_century_Composers/Shostakovich,Dmitri.secret|Shostakovich,Dmitri.secret]] 
 

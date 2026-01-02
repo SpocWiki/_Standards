@@ -60,17 +60,17 @@ IEV_number: 171-08-10
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Decryption](/_Standards/Technology/IT/Data/Code/Decoding/Decryption.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Data/Code/Decoding/Decryption|Decryption]] 
 
-### #is_/same_as :: [Decryption.public](/_public/Technology/IT/Data/Code/Decoding/Decryption.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Data/Code/Decoding/Decryption.public|Decryption.public]] 
 
-### #is_/same_as :: [Decryption.internal](/_internal/Technology/IT/Data/Code/Decoding/Decryption.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Data/Code/Decoding/Decryption.internal|Decryption.internal]] 
 
-### #is_/same_as :: [Decryption.protect](/_protect/Technology/IT/Data/Code/Decoding/Decryption.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Data/Code/Decoding/Decryption.protect|Decryption.protect]] 
 
-### #is_/same_as :: [Decryption.private](/_private/Technology/IT/Data/Code/Decoding/Decryption.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Data/Code/Decoding/Decryption.private|Decryption.private]] 
 
-### #is_/same_as :: [Decryption.personal](/_personal/Technology/IT/Data/Code/Decoding/Decryption.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Data/Code/Decoding/Decryption.personal|Decryption.personal]] 
 
-### #is_/same_as :: [Decryption.secret](/_secret/Technology/IT/Data/Code/Decoding/Decryption.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Data/Code/Decoding/Decryption.secret|Decryption.secret]] 
 

@@ -144,17 +144,17 @@ Plex_person_key: 5d776824103a2d001f563a8c
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Almodóvar,Pedro](/_Standards/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro|Almodóvar,Pedro]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.public](/_public/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.public|Almodóvar,Pedro.public]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.internal|Almodóvar,Pedro.internal]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.protect|Almodóvar,Pedro.protect]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.private](/_private/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.private|Almodóvar,Pedro.private]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.personal|Almodóvar,Pedro.personal]] 
 
-### #is_/same_as :: [Almodóvar,Pedro.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Almodóvar,Pedro.secret|Almodóvar,Pedro.secret]] 
 

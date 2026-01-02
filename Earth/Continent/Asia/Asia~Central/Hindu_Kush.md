@@ -65,17 +65,17 @@ Commons_category: Hindu Kush
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hindu_Kush](/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~Central/Hindu_Kush|Hindu_Kush]] 
 
-### #is_/same_as :: [Hindu_Kush.public](/_public/Earth/Continent/Asia/Asia~Central/Hindu_Kush.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~Central/Hindu_Kush.public|Hindu_Kush.public]] 
 
-### #is_/same_as :: [Hindu_Kush.internal](/_internal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.internal|Hindu_Kush.internal]] 
 
-### #is_/same_as :: [Hindu_Kush.protect](/_protect/Earth/Continent/Asia/Asia~Central/Hindu_Kush.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~Central/Hindu_Kush.protect|Hindu_Kush.protect]] 
 
-### #is_/same_as :: [Hindu_Kush.private](/_private/Earth/Continent/Asia/Asia~Central/Hindu_Kush.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~Central/Hindu_Kush.private|Hindu_Kush.private]] 
 
-### #is_/same_as :: [Hindu_Kush.personal](/_personal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~Central/Hindu_Kush.personal|Hindu_Kush.personal]] 
 
-### #is_/same_as :: [Hindu_Kush.secret](/_secret/Earth/Continent/Asia/Asia~Central/Hindu_Kush.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~Central/Hindu_Kush.secret|Hindu_Kush.secret]] 
 

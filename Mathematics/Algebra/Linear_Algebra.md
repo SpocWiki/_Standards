@@ -61,17 +61,17 @@ Wolfram_Language_entity_code: Entity["Concept", "LinearAlgebra::f2mkf"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linear_Algebra](/_Standards/Mathematics/Algebra/Linear_Algebra.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra|Linear_Algebra]] 
 
-### #is_/same_as :: [Linear_Algebra.public](/_public/Mathematics/Algebra/Linear_Algebra.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra.public|Linear_Algebra.public]] 
 
-### #is_/same_as :: [Linear_Algebra.internal](/_internal/Mathematics/Algebra/Linear_Algebra.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra.internal|Linear_Algebra.internal]] 
 
-### #is_/same_as :: [Linear_Algebra.protect](/_protect/Mathematics/Algebra/Linear_Algebra.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra.protect|Linear_Algebra.protect]] 
 
-### #is_/same_as :: [Linear_Algebra.private](/_private/Mathematics/Algebra/Linear_Algebra.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra.private|Linear_Algebra.private]] 
 
-### #is_/same_as :: [Linear_Algebra.personal](/_personal/Mathematics/Algebra/Linear_Algebra.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra.personal|Linear_Algebra.personal]] 
 
-### #is_/same_as :: [Linear_Algebra.secret](/_secret/Mathematics/Algebra/Linear_Algebra.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra.secret|Linear_Algebra.secret]] 
 

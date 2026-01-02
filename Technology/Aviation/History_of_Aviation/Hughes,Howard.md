@@ -130,17 +130,17 @@ date_of_birth: 1905-12-24T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hughes,Howard](/_Standards/Technology/Aviation/History_of_Aviation/Hughes,Howard.md) 
+### #is_/same_as :: [[/_Standards/Technology/Aviation/History_of_Aviation/Hughes,Howard|Hughes,Howard]] 
 
-### #is_/same_as :: [Hughes,Howard.public](/_public/Technology/Aviation/History_of_Aviation/Hughes,Howard.public.md) 
+### #is_/same_as :: [[/_public/Technology/Aviation/History_of_Aviation/Hughes,Howard.public|Hughes,Howard.public]] 
 
-### #is_/same_as :: [Hughes,Howard.internal](/_internal/Technology/Aviation/History_of_Aviation/Hughes,Howard.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Aviation/History_of_Aviation/Hughes,Howard.internal|Hughes,Howard.internal]] 
 
-### #is_/same_as :: [Hughes,Howard.protect](/_protect/Technology/Aviation/History_of_Aviation/Hughes,Howard.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Aviation/History_of_Aviation/Hughes,Howard.protect|Hughes,Howard.protect]] 
 
-### #is_/same_as :: [Hughes,Howard.private](/_private/Technology/Aviation/History_of_Aviation/Hughes,Howard.private.md) 
+### #is_/same_as :: [[/_private/Technology/Aviation/History_of_Aviation/Hughes,Howard.private|Hughes,Howard.private]] 
 
-### #is_/same_as :: [Hughes,Howard.personal](/_personal/Technology/Aviation/History_of_Aviation/Hughes,Howard.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Aviation/History_of_Aviation/Hughes,Howard.personal|Hughes,Howard.personal]] 
 
-### #is_/same_as :: [Hughes,Howard.secret](/_secret/Technology/Aviation/History_of_Aviation/Hughes,Howard.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Aviation/History_of_Aviation/Hughes,Howard.secret|Hughes,Howard.secret]] 
 

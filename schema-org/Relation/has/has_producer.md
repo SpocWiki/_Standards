@@ -38,17 +38,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_producer](/_Standards/schema-org/Relation/has/has_producer.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_producer|has_producer]] 
 
-### #is_/same_as :: [has_producer.public](/_public/schema-org/Relation/has/has_producer.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_producer.public|has_producer.public]] 
 
-### #is_/same_as :: [has_producer.internal](/_internal/schema-org/Relation/has/has_producer.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_producer.internal|has_producer.internal]] 
 
-### #is_/same_as :: [has_producer.protect](/_protect/schema-org/Relation/has/has_producer.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_producer.protect|has_producer.protect]] 
 
-### #is_/same_as :: [has_producer.private](/_private/schema-org/Relation/has/has_producer.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_producer.private|has_producer.private]] 
 
-### #is_/same_as :: [has_producer.personal](/_personal/schema-org/Relation/has/has_producer.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_producer.personal|has_producer.personal]] 
 
-### #is_/same_as :: [has_producer.secret](/_secret/schema-org/Relation/has/has_producer.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_producer.secret|has_producer.secret]] 
 

@@ -42,17 +42,17 @@ Formal Predicate:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_time_of_arrival](/_Standards/schema-org/Property/has_Date_Time/has_time_of_arrival.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_Date_Time/has_time_of_arrival|has_time_of_arrival]] 
 
-### #is_/same_as :: [has_time_of_arrival.public](/_public/schema-org/Property/has_Date_Time/has_time_of_arrival.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_Date_Time/has_time_of_arrival.public|has_time_of_arrival.public]] 
 
-### #is_/same_as :: [has_time_of_arrival.internal](/_internal/schema-org/Property/has_Date_Time/has_time_of_arrival.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_Date_Time/has_time_of_arrival.internal|has_time_of_arrival.internal]] 
 
-### #is_/same_as :: [has_time_of_arrival.protect](/_protect/schema-org/Property/has_Date_Time/has_time_of_arrival.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_Date_Time/has_time_of_arrival.protect|has_time_of_arrival.protect]] 
 
-### #is_/same_as :: [has_time_of_arrival.private](/_private/schema-org/Property/has_Date_Time/has_time_of_arrival.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_Date_Time/has_time_of_arrival.private|has_time_of_arrival.private]] 
 
-### #is_/same_as :: [has_time_of_arrival.personal](/_personal/schema-org/Property/has_Date_Time/has_time_of_arrival.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_Date_Time/has_time_of_arrival.personal|has_time_of_arrival.personal]] 
 
-### #is_/same_as :: [has_time_of_arrival.secret](/_secret/schema-org/Property/has_Date_Time/has_time_of_arrival.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_Date_Time/has_time_of_arrival.secret|has_time_of_arrival.secret]] 
 

@@ -48,17 +48,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [System_of_linear_Equations](/_Standards/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations|System_of_linear_Equations]] 
 
-### #is_/same_as :: [System_of_linear_Equations.public](/_public/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.public|System_of_linear_Equations.public]] 
 
-### #is_/same_as :: [System_of_linear_Equations.internal](/_internal/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.internal|System_of_linear_Equations.internal]] 
 
-### #is_/same_as :: [System_of_linear_Equations.protect](/_protect/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.protect|System_of_linear_Equations.protect]] 
 
-### #is_/same_as :: [System_of_linear_Equations.private](/_private/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.private|System_of_linear_Equations.private]] 
 
-### #is_/same_as :: [System_of_linear_Equations.personal](/_personal/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.personal|System_of_linear_Equations.personal]] 
 
-### #is_/same_as :: [System_of_linear_Equations.secret](/_secret/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Linear_Algebra/System_of_linear_Equations.secret|System_of_linear_Equations.secret]] 
 

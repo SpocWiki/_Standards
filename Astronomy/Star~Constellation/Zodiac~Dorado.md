@@ -50,17 +50,17 @@ short_name: Dor
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Dorado](/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]] 
 
-### #is_/same_as :: [Zodiac~Dorado.public](/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]] 
 
-### #is_/same_as :: [Zodiac~Dorado.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]] 
 
-### #is_/same_as :: [Zodiac~Dorado.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Dorado.protect|Zodiac~Dorado.protect]] 
 
-### #is_/same_as :: [Zodiac~Dorado.private](/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Dorado.private|Zodiac~Dorado.private]] 
 
-### #is_/same_as :: [Zodiac~Dorado.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Dorado.personal|Zodiac~Dorado.personal]] 
 
-### #is_/same_as :: [Zodiac~Dorado.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Dorado.secret|Zodiac~Dorado.secret]] 
 

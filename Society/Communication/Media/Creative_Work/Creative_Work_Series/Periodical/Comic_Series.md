@@ -45,17 +45,17 @@ A sequential publication of comic stories under a
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Comic_Series](/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series|Comic_Series]] 
 
-### #is_/same_as :: [Comic_Series.public](/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.public|Comic_Series.public]] 
 
-### #is_/same_as :: [Comic_Series.internal](/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.internal|Comic_Series.internal]] 
 
-### #is_/same_as :: [Comic_Series.protect](/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.protect|Comic_Series.protect]] 
 
-### #is_/same_as :: [Comic_Series.private](/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.private|Comic_Series.private]] 
 
-### #is_/same_as :: [Comic_Series.personal](/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.personal|Comic_Series.personal]] 
 
-### #is_/same_as :: [Comic_Series.secret](/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Creative_Work_Series/Periodical/Comic_Series.secret|Comic_Series.secret]] 
 

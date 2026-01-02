@@ -40,17 +40,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/VODORODNAYA_SVYAZ.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hydrogen_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond|Hydrogen_Bond]] 
 
-### #is_/same_as :: [Hydrogen_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.public|Hydrogen_Bond.public]] 
 
-### #is_/same_as :: [Hydrogen_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.internal|Hydrogen_Bond.internal]] 
 
-### #is_/same_as :: [Hydrogen_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.protect|Hydrogen_Bond.protect]] 
 
-### #is_/same_as :: [Hydrogen_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.private|Hydrogen_Bond.private]] 
 
-### #is_/same_as :: [Hydrogen_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.personal|Hydrogen_Bond.personal]] 
 
-### #is_/same_as :: [Hydrogen_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Hydrogen_Bond.secret|Hydrogen_Bond.secret]] 
 

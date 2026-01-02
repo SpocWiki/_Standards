@@ -49,17 +49,17 @@ Dewey_Decimal_Classification: "511.6"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Combinatorics](/_Standards/Mathematics/Statistics/Combinatorics.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Combinatorics|Combinatorics]] 
 
-### #is_/same_as :: [Combinatorics.public](/_public/Mathematics/Statistics/Combinatorics.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Combinatorics.public|Combinatorics.public]] 
 
-### #is_/same_as :: [Combinatorics.internal](/_internal/Mathematics/Statistics/Combinatorics.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Combinatorics.internal|Combinatorics.internal]] 
 
-### #is_/same_as :: [Combinatorics.protect](/_protect/Mathematics/Statistics/Combinatorics.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Combinatorics.protect|Combinatorics.protect]] 
 
-### #is_/same_as :: [Combinatorics.private](/_private/Mathematics/Statistics/Combinatorics.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Combinatorics.private|Combinatorics.private]] 
 
-### #is_/same_as :: [Combinatorics.personal](/_personal/Mathematics/Statistics/Combinatorics.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Combinatorics.personal|Combinatorics.personal]] 
 
-### #is_/same_as :: [Combinatorics.secret](/_secret/Mathematics/Statistics/Combinatorics.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Combinatorics.secret|Combinatorics.secret]] 
 

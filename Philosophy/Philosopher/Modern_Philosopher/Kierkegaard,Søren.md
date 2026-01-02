@@ -179,17 +179,17 @@ writing_language: '[[_Standards/WikiData/WD~German,188]]'
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kierkegaard,Søren](/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren|Kierkegaard,Søren]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.public](/_public/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.public|Kierkegaard,Søren.public]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.internal](/_internal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.internal|Kierkegaard,Søren.internal]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.protect](/_protect/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.protect|Kierkegaard,Søren.protect]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.private](/_private/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.private|Kierkegaard,Søren.private]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.personal](/_personal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.personal|Kierkegaard,Søren.personal]] 
 
-### #is_/same_as :: [Kierkegaard,Søren.secret](/_secret/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Philosopher/Modern_Philosopher/Kierkegaard,Søren.secret|Kierkegaard,Søren.secret]] 
 

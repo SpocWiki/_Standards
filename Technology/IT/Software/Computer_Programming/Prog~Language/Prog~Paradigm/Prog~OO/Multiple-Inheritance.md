@@ -35,17 +35,17 @@ depending on the Interface you use to access the Method.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Multiple-Inheritance](/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance|Multiple-Inheritance]] 
 
-### #is_/same_as :: [Multiple-Inheritance.public](/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.public|Multiple-Inheritance.public]] 
 
-### #is_/same_as :: [Multiple-Inheritance.internal](/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.internal|Multiple-Inheritance.internal]] 
 
-### #is_/same_as :: [Multiple-Inheritance.protect](/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.protect|Multiple-Inheritance.protect]] 
 
-### #is_/same_as :: [Multiple-Inheritance.private](/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.private|Multiple-Inheritance.private]] 
 
-### #is_/same_as :: [Multiple-Inheritance.personal](/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.personal|Multiple-Inheritance.personal]] 
 
-### #is_/same_as :: [Multiple-Inheritance.secret](/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Software/Computer_Programming/Prog~Language/Prog~Paradigm/Prog~OO/Multiple-Inheritance.secret|Multiple-Inheritance.secret]] 
 

@@ -74,17 +74,17 @@ Baidu_Tieba_name: 色盲
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Color_Blindness](/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Blindness.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Condition/Disability/Color_Blindness|Color_Blindness]] 
 
-### #is_/same_as :: [Color_Blindness.public](/_public/bio/Medicine/Medical_Condition/Disability/Color_Blindness.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Condition/Disability/Color_Blindness.public|Color_Blindness.public]] 
 
-### #is_/same_as :: [Color_Blindness.internal](/_internal/bio/Medicine/Medical_Condition/Disability/Color_Blindness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Condition/Disability/Color_Blindness.internal|Color_Blindness.internal]] 
 
-### #is_/same_as :: [Color_Blindness.protect](/_protect/bio/Medicine/Medical_Condition/Disability/Color_Blindness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Condition/Disability/Color_Blindness.protect|Color_Blindness.protect]] 
 
-### #is_/same_as :: [Color_Blindness.private](/_private/bio/Medicine/Medical_Condition/Disability/Color_Blindness.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Condition/Disability/Color_Blindness.private|Color_Blindness.private]] 
 
-### #is_/same_as :: [Color_Blindness.personal](/_personal/bio/Medicine/Medical_Condition/Disability/Color_Blindness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Condition/Disability/Color_Blindness.personal|Color_Blindness.personal]] 
 
-### #is_/same_as :: [Color_Blindness.secret](/_secret/bio/Medicine/Medical_Condition/Disability/Color_Blindness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Condition/Disability/Color_Blindness.secret|Color_Blindness.secret]] 
 

@@ -73,17 +73,17 @@ coordinate_location: Point(2.405083333 48.821194444)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites)](/_Standards/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites)|ICOMOS(International_Council_on_Monuments_and_Sites)]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).public](/_public/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).public|ICOMOS(International_Council_on_Monuments_and_Sites).public]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).internal](/_internal/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).internal|ICOMOS(International_Council_on_Monuments_and_Sites).internal]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).protect](/_protect/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).protect|ICOMOS(International_Council_on_Monuments_and_Sites).protect]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).private](/_private/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).private|ICOMOS(International_Council_on_Monuments_and_Sites).private]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).personal](/_personal/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).personal|ICOMOS(International_Council_on_Monuments_and_Sites).personal]] 
 
-### #is_/same_as :: [ICOMOS(International_Council_on_Monuments_and_Sites).secret](/_secret/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/International_Organization/ICOMOS(International_Council_on_Monuments_and_Sites).secret|ICOMOS(International_Council_on_Monuments_and_Sites).secret]] 
 

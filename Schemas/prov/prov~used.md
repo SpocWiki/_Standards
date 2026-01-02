@@ -5,17 +5,17 @@ This is less specific than the [is_using](../schema.org/Relation/is_using.md) Re
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [prov~used](/_Standards/Schemas/prov/prov~used.md) 
+### #is_/same_as :: [[/_Standards/Schemas/prov/prov~used|prov~used]] 
 
-### #is_/same_as :: [prov~used.public](/_public/Schemas/prov/prov~used.public.md) 
+### #is_/same_as :: [[/_public/Schemas/prov/prov~used.public|prov~used.public]] 
 
-### #is_/same_as :: [prov~used.internal](/_internal/Schemas/prov/prov~used.internal.md) 
+### #is_/same_as :: [[/_internal/Schemas/prov/prov~used.internal|prov~used.internal]] 
 
-### #is_/same_as :: [prov~used.protect](/_protect/Schemas/prov/prov~used.protect.md) 
+### #is_/same_as :: [[/_protect/Schemas/prov/prov~used.protect|prov~used.protect]] 
 
-### #is_/same_as :: [prov~used.private](/_private/Schemas/prov/prov~used.private.md) 
+### #is_/same_as :: [[/_private/Schemas/prov/prov~used.private|prov~used.private]] 
 
-### #is_/same_as :: [prov~used.personal](/_personal/Schemas/prov/prov~used.personal.md) 
+### #is_/same_as :: [[/_personal/Schemas/prov/prov~used.personal|prov~used.personal]] 
 
-### #is_/same_as :: [prov~used.secret](/_secret/Schemas/prov/prov~used.secret.md)
+### #is_/same_as :: [[/_secret/Schemas/prov/prov~used.secret|prov~used.secret]] 
 

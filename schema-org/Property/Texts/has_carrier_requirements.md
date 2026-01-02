@@ -45,17 +45,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_carrier_requirements](/_Standards/schema-org/Property/Texts/has_carrier_requirements.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_carrier_requirements|has_carrier_requirements]] 
 
-### #is_/same_as :: [has_carrier_requirements.public](/_public/schema-org/Property/Texts/has_carrier_requirements.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_carrier_requirements.public|has_carrier_requirements.public]] 
 
-### #is_/same_as :: [has_carrier_requirements.internal](/_internal/schema-org/Property/Texts/has_carrier_requirements.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_carrier_requirements.internal|has_carrier_requirements.internal]] 
 
-### #is_/same_as :: [has_carrier_requirements.protect](/_protect/schema-org/Property/Texts/has_carrier_requirements.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_carrier_requirements.protect|has_carrier_requirements.protect]] 
 
-### #is_/same_as :: [has_carrier_requirements.private](/_private/schema-org/Property/Texts/has_carrier_requirements.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_carrier_requirements.private|has_carrier_requirements.private]] 
 
-### #is_/same_as :: [has_carrier_requirements.personal](/_personal/schema-org/Property/Texts/has_carrier_requirements.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_carrier_requirements.personal|has_carrier_requirements.personal]] 
 
-### #is_/same_as :: [has_carrier_requirements.secret](/_secret/schema-org/Property/Texts/has_carrier_requirements.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_carrier_requirements.secret|has_carrier_requirements.secret]] 
 

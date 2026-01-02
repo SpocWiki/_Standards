@@ -24,17 +24,17 @@ named_after: "[[_Standards/WikiData/WD~Nuremberg,2090]]"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nuremberg_Principles](/_Standards/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles|Nuremberg_Principles]] 
 
-### #is_/same_as :: [Nuremberg_Principles.public](/_public/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.public|Nuremberg_Principles.public]] 
 
-### #is_/same_as :: [Nuremberg_Principles.internal](/_internal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.internal|Nuremberg_Principles.internal]] 
 
-### #is_/same_as :: [Nuremberg_Principles.protect](/_protect/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.protect|Nuremberg_Principles.protect]] 
 
-### #is_/same_as :: [Nuremberg_Principles.private](/_private/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.private|Nuremberg_Principles.private]] 
 
-### #is_/same_as :: [Nuremberg_Principles.personal](/_personal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.personal|Nuremberg_Principles.personal]] 
 
-### #is_/same_as :: [Nuremberg_Principles.secret](/_secret/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Combat/War/War_Crime/Nuremberg_Principles.secret|Nuremberg_Principles.secret]] 
 

@@ -28,17 +28,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Happiness](/_Standards/bio/Psychology/Affect/Emotion/Happiness.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Affect/Emotion/Happiness|Happiness]] 
 
-### #is_/same_as :: [Happiness.public](/_public/bio/Psychology/Affect/Emotion/Happiness.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Affect/Emotion/Happiness.public|Happiness.public]] 
 
-### #is_/same_as :: [Happiness.internal](/_internal/bio/Psychology/Affect/Emotion/Happiness.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Affect/Emotion/Happiness.internal|Happiness.internal]] 
 
-### #is_/same_as :: [Happiness.protect](/_protect/bio/Psychology/Affect/Emotion/Happiness.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Affect/Emotion/Happiness.protect|Happiness.protect]] 
 
-### #is_/same_as :: [Happiness.private](/_private/bio/Psychology/Affect/Emotion/Happiness.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Affect/Emotion/Happiness.private|Happiness.private]] 
 
-### #is_/same_as :: [Happiness.personal](/_personal/bio/Psychology/Affect/Emotion/Happiness.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Affect/Emotion/Happiness.personal|Happiness.personal]] 
 
-### #is_/same_as :: [Happiness.secret](/_secret/bio/Psychology/Affect/Emotion/Happiness.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Affect/Emotion/Happiness.secret|Happiness.secret]] 
 

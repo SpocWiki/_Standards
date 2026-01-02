@@ -90,17 +90,17 @@ Krugosvet_article: zhivopis-i-grafika/konceptualizm
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Conceptual_Art](/_Standards/Society/Communication/Art/Conceptual_Art.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Art/Conceptual_Art|Conceptual_Art]] 
 
-### #is_/same_as :: [Conceptual_Art.public](/_public/Society/Communication/Art/Conceptual_Art.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Art/Conceptual_Art.public|Conceptual_Art.public]] 
 
-### #is_/same_as :: [Conceptual_Art.internal](/_internal/Society/Communication/Art/Conceptual_Art.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Art/Conceptual_Art.internal|Conceptual_Art.internal]] 
 
-### #is_/same_as :: [Conceptual_Art.protect](/_protect/Society/Communication/Art/Conceptual_Art.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Art/Conceptual_Art.protect|Conceptual_Art.protect]] 
 
-### #is_/same_as :: [Conceptual_Art.private](/_private/Society/Communication/Art/Conceptual_Art.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Art/Conceptual_Art.private|Conceptual_Art.private]] 
 
-### #is_/same_as :: [Conceptual_Art.personal](/_personal/Society/Communication/Art/Conceptual_Art.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Art/Conceptual_Art.personal|Conceptual_Art.personal]] 
 
-### #is_/same_as :: [Conceptual_Art.secret](/_secret/Society/Communication/Art/Conceptual_Art.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Art/Conceptual_Art.secret|Conceptual_Art.secret]] 
 

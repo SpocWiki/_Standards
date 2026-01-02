@@ -55,17 +55,17 @@ Dewey_Decimal_Classification: "384.558"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Video_Recording](/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Wave/Optics/Camera/Video_Recording|Video_Recording]] 
 
-### #is_/same_as :: [Video_Recording.public](/_public/Science/Physics/Wave/Optics/Camera/Video_Recording.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Wave/Optics/Camera/Video_Recording.public|Video_Recording.public]] 
 
-### #is_/same_as :: [Video_Recording.internal](/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Wave/Optics/Camera/Video_Recording.internal|Video_Recording.internal]] 
 
-### #is_/same_as :: [Video_Recording.protect](/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Wave/Optics/Camera/Video_Recording.protect|Video_Recording.protect]] 
 
-### #is_/same_as :: [Video_Recording.private](/_private/Science/Physics/Wave/Optics/Camera/Video_Recording.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Wave/Optics/Camera/Video_Recording.private|Video_Recording.private]] 
 
-### #is_/same_as :: [Video_Recording.personal](/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Wave/Optics/Camera/Video_Recording.personal|Video_Recording.personal]] 
 
-### #is_/same_as :: [Video_Recording.secret](/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Wave/Optics/Camera/Video_Recording.secret|Video_Recording.secret]] 
 

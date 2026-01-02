@@ -90,17 +90,17 @@ IPTC_NewsCode: mediatopic/09000000
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Work](/_Standards/Society/Economics/Economic_Activity/Work.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Work|Work]] 
 
-### #is_/same_as :: [Work.public](/_public/Society/Economics/Economic_Activity/Work.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Work.public|Work.public]] 
 
-### #is_/same_as :: [Work.internal](/_internal/Society/Economics/Economic_Activity/Work.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Work.internal|Work.internal]] 
 
-### #is_/same_as :: [Work.protect](/_protect/Society/Economics/Economic_Activity/Work.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Work.protect|Work.protect]] 
 
-### #is_/same_as :: [Work.private](/_private/Society/Economics/Economic_Activity/Work.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Work.private|Work.private]] 
 
-### #is_/same_as :: [Work.personal](/_personal/Society/Economics/Economic_Activity/Work.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Work.personal|Work.personal]] 
 
-### #is_/same_as :: [Work.secret](/_secret/Society/Economics/Economic_Activity/Work.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Work.secret|Work.secret]] 
 

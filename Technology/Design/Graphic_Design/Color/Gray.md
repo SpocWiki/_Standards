@@ -60,17 +60,17 @@ OpenStreetMap_tag_or_key: Tag:colour=gray
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gray](/_Standards/Technology/Design/Graphic_Design/Color/Gray.md) 
+### #is_/same_as :: [[/_Standards/Technology/Design/Graphic_Design/Color/Gray|Gray]] 
 
-### #is_/same_as :: [Gray.public](/_public/Technology/Design/Graphic_Design/Color/Gray.public.md) 
+### #is_/same_as :: [[/_public/Technology/Design/Graphic_Design/Color/Gray.public|Gray.public]] 
 
-### #is_/same_as :: [Gray.internal](/_internal/Technology/Design/Graphic_Design/Color/Gray.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Design/Graphic_Design/Color/Gray.internal|Gray.internal]] 
 
-### #is_/same_as :: [Gray.protect](/_protect/Technology/Design/Graphic_Design/Color/Gray.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Design/Graphic_Design/Color/Gray.protect|Gray.protect]] 
 
-### #is_/same_as :: [Gray.private](/_private/Technology/Design/Graphic_Design/Color/Gray.private.md) 
+### #is_/same_as :: [[/_private/Technology/Design/Graphic_Design/Color/Gray.private|Gray.private]] 
 
-### #is_/same_as :: [Gray.personal](/_personal/Technology/Design/Graphic_Design/Color/Gray.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Design/Graphic_Design/Color/Gray.personal|Gray.personal]] 
 
-### #is_/same_as :: [Gray.secret](/_secret/Technology/Design/Graphic_Design/Color/Gray.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Design/Graphic_Design/Color/Gray.secret|Gray.secret]] 
 

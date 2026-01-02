@@ -114,17 +114,17 @@ ISNI: 0000000081223476
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi](/_Standards/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi|Carnot,Nicolas_Léonard_Sadi]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.public](/_public/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.public|Carnot,Nicolas_Léonard_Sadi.public]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.internal](/_internal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.internal|Carnot,Nicolas_Léonard_Sadi.internal]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.protect](/_protect/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.protect|Carnot,Nicolas_Léonard_Sadi.protect]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.private](/_private/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.private|Carnot,Nicolas_Léonard_Sadi.private]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.personal](/_personal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.personal|Carnot,Nicolas_Léonard_Sadi.personal]] 
 
-### #is_/same_as :: [Carnot,Nicolas_Léonard_Sadi.secret](/_secret/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Carnot,Nicolas_Léonard_Sadi.secret|Carnot,Nicolas_Léonard_Sadi.secret]] 
 

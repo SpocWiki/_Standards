@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash|Korn~Freak_on_a_Leash]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.public|Korn~Freak_on_a_Leash.public]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.internal|Korn~Freak_on_a_Leash.internal]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.protect|Korn~Freak_on_a_Leash.protect]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.private|Korn~Freak_on_a_Leash.private]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.personal|Korn~Freak_on_a_Leash.personal]] 
 
-### #is_/same_as :: [Korn~Freak_on_a_Leash.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Korn(Band)/Korn~Freak_on_a_Leash.secret|Korn~Freak_on_a_Leash.secret]] 
 

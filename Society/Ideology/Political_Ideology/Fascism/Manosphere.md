@@ -43,17 +43,17 @@ It is used to exploit insecure young men into
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manosphere](/_Standards/Society/Ideology/Political_Ideology/Fascism/Manosphere.md) 
+### #is_/same_as :: [[/_Standards/Society/Ideology/Political_Ideology/Fascism/Manosphere|Manosphere]] 
 
-### #is_/same_as :: [Manosphere.public](/_public/Society/Ideology/Political_Ideology/Fascism/Manosphere.public.md) 
+### #is_/same_as :: [[/_public/Society/Ideology/Political_Ideology/Fascism/Manosphere.public|Manosphere.public]] 
 
-### #is_/same_as :: [Manosphere.internal](/_internal/Society/Ideology/Political_Ideology/Fascism/Manosphere.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Ideology/Political_Ideology/Fascism/Manosphere.internal|Manosphere.internal]] 
 
-### #is_/same_as :: [Manosphere.protect](/_protect/Society/Ideology/Political_Ideology/Fascism/Manosphere.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Ideology/Political_Ideology/Fascism/Manosphere.protect|Manosphere.protect]] 
 
-### #is_/same_as :: [Manosphere.private](/_private/Society/Ideology/Political_Ideology/Fascism/Manosphere.private.md) 
+### #is_/same_as :: [[/_private/Society/Ideology/Political_Ideology/Fascism/Manosphere.private|Manosphere.private]] 
 
-### #is_/same_as :: [Manosphere.personal](/_personal/Society/Ideology/Political_Ideology/Fascism/Manosphere.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Ideology/Political_Ideology/Fascism/Manosphere.personal|Manosphere.personal]] 
 
-### #is_/same_as :: [Manosphere.secret](/_secret/Society/Ideology/Political_Ideology/Fascism/Manosphere.secret.md)
+### #is_/same_as :: [[/_secret/Society/Ideology/Political_Ideology/Fascism/Manosphere.secret|Manosphere.secret]] 
 

@@ -71,17 +71,17 @@ point_in_time: 1923-07-24T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne](/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.md) 
+### #is_/same_as :: [[/_Standards/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne|1923-Treaty_of_Lausanne]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.public](/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.public.md) 
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.public|1923-Treaty_of_Lausanne.public]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.internal](/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.internal.md) 
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.internal|1923-Treaty_of_Lausanne.internal]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.protect](/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.protect.md) 
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.protect|1923-Treaty_of_Lausanne.protect]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.private](/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.private.md) 
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.private|1923-Treaty_of_Lausanne.private]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.personal](/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.personal.md) 
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.personal|1923-Treaty_of_Lausanne.personal]] 
 
-### #is_/same_as :: [1923-Treaty_of_Lausanne.secret](/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.secret.md)
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I/1923-Treaty_of_Lausanne.secret|1923-Treaty_of_Lausanne.secret]] 
 

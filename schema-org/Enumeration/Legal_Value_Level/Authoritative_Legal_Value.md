@@ -44,17 +44,17 @@ Indicates that the publisher gives some special status to the publication of the
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Authoritative_Legal_Value](/_Standards/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value|Authoritative_Legal_Value]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.public](/_public/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.public|Authoritative_Legal_Value.public]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.internal](/_internal/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.internal|Authoritative_Legal_Value.internal]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.protect](/_protect/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.protect|Authoritative_Legal_Value.protect]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.private](/_private/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.private|Authoritative_Legal_Value.private]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.personal](/_personal/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.personal|Authoritative_Legal_Value.personal]] 
 
-### #is_/same_as :: [Authoritative_Legal_Value.secret](/_secret/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Legal_Value_Level/Authoritative_Legal_Value.secret|Authoritative_Legal_Value.secret]] 
 

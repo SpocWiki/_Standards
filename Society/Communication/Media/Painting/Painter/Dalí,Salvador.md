@@ -276,17 +276,17 @@ work_period_start_: 1922
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dalí,Salvador](/_Standards/Society/Communication/Media/Painting/Painter/Dalí,Salvador.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Painting/Painter/Dalí,Salvador|Dalí,Salvador]] 
 
-### #is_/same_as :: [Dalí,Salvador.public](/_public/Society/Communication/Media/Painting/Painter/Dalí,Salvador.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Painting/Painter/Dalí,Salvador.public|Dalí,Salvador.public]] 
 
-### #is_/same_as :: [Dalí,Salvador.internal](/_internal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.internal|Dalí,Salvador.internal]] 
 
-### #is_/same_as :: [Dalí,Salvador.protect](/_protect/Society/Communication/Media/Painting/Painter/Dalí,Salvador.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Painting/Painter/Dalí,Salvador.protect|Dalí,Salvador.protect]] 
 
-### #is_/same_as :: [Dalí,Salvador.private](/_private/Society/Communication/Media/Painting/Painter/Dalí,Salvador.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Painting/Painter/Dalí,Salvador.private|Dalí,Salvador.private]] 
 
-### #is_/same_as :: [Dalí,Salvador.personal](/_personal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Painting/Painter/Dalí,Salvador.personal|Dalí,Salvador.personal]] 
 
-### #is_/same_as :: [Dalí,Salvador.secret](/_secret/Society/Communication/Media/Painting/Painter/Dalí,Salvador.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Painting/Painter/Dalí,Salvador.secret|Dalí,Salvador.secret]] 
 

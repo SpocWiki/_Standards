@@ -42,17 +42,17 @@ Images are copyrighted by their respective owners as indicated for each picture 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [bio~Tree](/_Standards/bio/bio~Tree.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Tree|bio~Tree]] 
 
-### #is_/same_as :: [bio~Tree.public](/_public/bio/bio~Tree.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Tree.public|bio~Tree.public]] 
 
-### #is_/same_as :: [bio~Tree.internal](/_internal/bio/bio~Tree.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Tree.internal|bio~Tree.internal]] 
 
-### #is_/same_as :: [bio~Tree.protect](/_protect/bio/bio~Tree.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Tree.protect|bio~Tree.protect]] 
 
-### #is_/same_as :: [bio~Tree.private](/_private/bio/bio~Tree.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Tree.private|bio~Tree.private]] 
 
-### #is_/same_as :: [bio~Tree.personal](/_personal/bio/bio~Tree.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Tree.personal|bio~Tree.personal]] 
 
-### #is_/same_as :: [bio~Tree.secret](/_secret/bio/bio~Tree.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Tree.secret|bio~Tree.secret]] 
 

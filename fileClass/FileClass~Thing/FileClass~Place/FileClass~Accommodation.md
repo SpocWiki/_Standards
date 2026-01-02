@@ -201,17 +201,17 @@ YearBuilt:: {"type":"Number","options":{}}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~Accommodation](/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation|FileClass~Accommodation]] 
 
-### #is_/same_as :: [FileClass~Accommodation.public](/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.public|FileClass~Accommodation.public]] 
 
-### #is_/same_as :: [FileClass~Accommodation.internal](/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.internal|FileClass~Accommodation.internal]] 
 
-### #is_/same_as :: [FileClass~Accommodation.protect](/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.protect|FileClass~Accommodation.protect]] 
 
-### #is_/same_as :: [FileClass~Accommodation.private](/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.private|FileClass~Accommodation.private]] 
 
-### #is_/same_as :: [FileClass~Accommodation.personal](/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.personal|FileClass~Accommodation.personal]] 
 
-### #is_/same_as :: [FileClass~Accommodation.secret](/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Place/FileClass~Accommodation.secret|FileClass~Accommodation.secret]] 
 

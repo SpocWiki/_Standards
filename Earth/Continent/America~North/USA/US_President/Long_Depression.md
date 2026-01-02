@@ -58,17 +58,17 @@ Commons_category: Long Depression
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Long_Depression](/_Standards/Earth/Continent/America~North/US~President/Long_Depression.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~North/USA/US_President/Long_Depression|Long_Depression]] 
 
-### #is_/same_as :: [Long_Depression.public](/_public/Earth/Continent/America~North/US~President/Long_Depression.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~North/USA/US_President/Long_Depression.public|Long_Depression.public]] 
 
-### #is_/same_as :: [Long_Depression.internal](/_internal/Earth/Continent/America~North/US~President/Long_Depression.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~North/USA/US_President/Long_Depression.internal|Long_Depression.internal]] 
 
-### #is_/same_as :: [Long_Depression.protect](/_protect/Earth/Continent/America~North/US~President/Long_Depression.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~North/USA/US_President/Long_Depression.protect|Long_Depression.protect]] 
 
-### #is_/same_as :: [Long_Depression.private](/_private/Earth/Continent/America~North/US~President/Long_Depression.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~North/USA/US_President/Long_Depression.private|Long_Depression.private]] 
 
-### #is_/same_as :: [Long_Depression.personal](/_personal/Earth/Continent/America~North/US~President/Long_Depression.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~North/USA/US_President/Long_Depression.personal|Long_Depression.personal]] 
 
-### #is_/same_as :: [Long_Depression.secret](/_secret/Earth/Continent/America~North/US~President/Long_Depression.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~North/USA/US_President/Long_Depression.secret|Long_Depression.secret]] 
 

@@ -52,17 +52,17 @@ OpenStreetMap_tag: amenity=stock_exchange
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stock_Exchange](/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange|Stock_Exchange]] 
 
-### #is_/same_as :: [Stock_Exchange.public](/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.public|Stock_Exchange.public]] 
 
-### #is_/same_as :: [Stock_Exchange.internal](/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.internal|Stock_Exchange.internal]] 
 
-### #is_/same_as :: [Stock_Exchange.protect](/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.protect|Stock_Exchange.protect]] 
 
-### #is_/same_as :: [Stock_Exchange.private](/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.private|Stock_Exchange.private]] 
 
-### #is_/same_as :: [Stock_Exchange.personal](/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.personal|Stock_Exchange.personal]] 
 
-### #is_/same_as :: [Stock_Exchange.secret](/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Economic_Activity/Trade/Market/Stock_Market/Stock_Exchange.secret|Stock_Exchange.secret]] 
 

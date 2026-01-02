@@ -164,17 +164,17 @@ ISNI: 0000000109165301
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Behrens,Peter](/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter|Behrens,Peter]] 
 
-### #is_/same_as :: [Behrens,Peter.public](/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.public|Behrens,Peter.public]] 
 
-### #is_/same_as :: [Behrens,Peter.internal](/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.internal|Behrens,Peter.internal]] 
 
-### #is_/same_as :: [Behrens,Peter.protect](/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.protect|Behrens,Peter.protect]] 
 
-### #is_/same_as :: [Behrens,Peter.private](/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.private|Behrens,Peter.private]] 
 
-### #is_/same_as :: [Behrens,Peter.personal](/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.personal|Behrens,Peter.personal]] 
 
-### #is_/same_as :: [Behrens,Peter.secret](/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Civil_Engineering/Construction/Architecture/Architect/Behrens,Peter.secret|Behrens,Peter.secret]] 
 

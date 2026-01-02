@@ -54,17 +54,17 @@ quantity_symbol_LaTeX_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boltzmann_Constant](/_Standards/Science/Physics/Thermodynamics/Boltzmann_Constant.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Thermodynamics/Boltzmann_Constant|Boltzmann_Constant]] 
 
-### #is_/same_as :: [Boltzmann_Constant.public](/_public/Science/Physics/Thermodynamics/Boltzmann_Constant.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Thermodynamics/Boltzmann_Constant.public|Boltzmann_Constant.public]] 
 
-### #is_/same_as :: [Boltzmann_Constant.internal](/_internal/Science/Physics/Thermodynamics/Boltzmann_Constant.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Thermodynamics/Boltzmann_Constant.internal|Boltzmann_Constant.internal]] 
 
-### #is_/same_as :: [Boltzmann_Constant.protect](/_protect/Science/Physics/Thermodynamics/Boltzmann_Constant.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Thermodynamics/Boltzmann_Constant.protect|Boltzmann_Constant.protect]] 
 
-### #is_/same_as :: [Boltzmann_Constant.private](/_private/Science/Physics/Thermodynamics/Boltzmann_Constant.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Thermodynamics/Boltzmann_Constant.private|Boltzmann_Constant.private]] 
 
-### #is_/same_as :: [Boltzmann_Constant.personal](/_personal/Science/Physics/Thermodynamics/Boltzmann_Constant.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Thermodynamics/Boltzmann_Constant.personal|Boltzmann_Constant.personal]] 
 
-### #is_/same_as :: [Boltzmann_Constant.secret](/_secret/Science/Physics/Thermodynamics/Boltzmann_Constant.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Thermodynamics/Boltzmann_Constant.secret|Boltzmann_Constant.secret]] 
 

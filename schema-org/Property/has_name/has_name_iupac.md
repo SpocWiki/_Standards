@@ -46,17 +46,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_name_iupac](/_Standards/schema-org/Property/has_name/has_name_iupac.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_name/has_name_iupac|has_name_iupac]] 
 
-### #is_/same_as :: [has_name_iupac.public](/_public/schema-org/Property/has_name/has_name_iupac.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_name/has_name_iupac.public|has_name_iupac.public]] 
 
-### #is_/same_as :: [has_name_iupac.internal](/_internal/schema-org/Property/has_name/has_name_iupac.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_name/has_name_iupac.internal|has_name_iupac.internal]] 
 
-### #is_/same_as :: [has_name_iupac.protect](/_protect/schema-org/Property/has_name/has_name_iupac.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_name/has_name_iupac.protect|has_name_iupac.protect]] 
 
-### #is_/same_as :: [has_name_iupac.private](/_private/schema-org/Property/has_name/has_name_iupac.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_name/has_name_iupac.private|has_name_iupac.private]] 
 
-### #is_/same_as :: [has_name_iupac.personal](/_personal/schema-org/Property/has_name/has_name_iupac.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_name/has_name_iupac.personal|has_name_iupac.personal]] 
 
-### #is_/same_as :: [has_name_iupac.secret](/_secret/schema-org/Property/has_name/has_name_iupac.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_name/has_name_iupac.secret|has_name_iupac.secret]] 
 

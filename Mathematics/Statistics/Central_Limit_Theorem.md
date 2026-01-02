@@ -56,17 +56,17 @@ Commons_category: Central limit theorem
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Central_Limit_Theorem](/_Standards/Mathematics/Statistics/Central_Limit_Theorem.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Central_Limit_Theorem|Central_Limit_Theorem]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.public](/_public/Mathematics/Statistics/Central_Limit_Theorem.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Central_Limit_Theorem.public|Central_Limit_Theorem.public]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.internal](/_internal/Mathematics/Statistics/Central_Limit_Theorem.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Central_Limit_Theorem.internal|Central_Limit_Theorem.internal]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.protect](/_protect/Mathematics/Statistics/Central_Limit_Theorem.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Central_Limit_Theorem.protect|Central_Limit_Theorem.protect]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.private](/_private/Mathematics/Statistics/Central_Limit_Theorem.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Central_Limit_Theorem.private|Central_Limit_Theorem.private]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.personal](/_personal/Mathematics/Statistics/Central_Limit_Theorem.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Central_Limit_Theorem.personal|Central_Limit_Theorem.personal]] 
 
-### #is_/same_as :: [Central_Limit_Theorem.secret](/_secret/Mathematics/Statistics/Central_Limit_Theorem.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Central_Limit_Theorem.secret|Central_Limit_Theorem.secret]] 
 

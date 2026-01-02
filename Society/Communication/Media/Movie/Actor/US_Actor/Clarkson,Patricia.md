@@ -56,17 +56,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clarkson,Patricia](/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia|Clarkson,Patricia]] 
 
-### #is_/same_as :: [Clarkson,Patricia.public](/_public/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.public|Clarkson,Patricia.public]] 
 
-### #is_/same_as :: [Clarkson,Patricia.internal](/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.internal|Clarkson,Patricia.internal]] 
 
-### #is_/same_as :: [Clarkson,Patricia.protect](/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.protect|Clarkson,Patricia.protect]] 
 
-### #is_/same_as :: [Clarkson,Patricia.private](/_private/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.private|Clarkson,Patricia.private]] 
 
-### #is_/same_as :: [Clarkson,Patricia.personal](/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.personal|Clarkson,Patricia.personal]] 
 
-### #is_/same_as :: [Clarkson,Patricia.secret](/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/US_Actor/Clarkson,Patricia.secret|Clarkson,Patricia.secret]] 
 

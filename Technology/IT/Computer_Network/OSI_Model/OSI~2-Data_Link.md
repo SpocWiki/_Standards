@@ -36,17 +36,17 @@ Commons_category: Data link layer
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [OSI~2-Data_Link](/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link|OSI~2-Data_Link]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.public](/_public/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.public|OSI~2-Data_Link.public]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.internal](/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.internal|OSI~2-Data_Link.internal]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.protect](/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.protect|OSI~2-Data_Link.protect]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.private](/_private/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.private|OSI~2-Data_Link.private]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.personal](/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.personal|OSI~2-Data_Link.personal]] 
 
-### #is_/same_as :: [OSI~2-Data_Link.secret](/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Network/OSI_Model/OSI~2-Data_Link.secret|OSI~2-Data_Link.secret]] 
 

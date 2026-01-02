@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_following](/_Standards/schema-org/Relation/is/is_following.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_following|is_following]] 
 
-### #is_/same_as :: [is_following.public](/_public/schema-org/Relation/is/is_following.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_following.public|is_following.public]] 
 
-### #is_/same_as :: [is_following.internal](/_internal/schema-org/Relation/is/is_following.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_following.internal|is_following.internal]] 
 
-### #is_/same_as :: [is_following.protect](/_protect/schema-org/Relation/is/is_following.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_following.protect|is_following.protect]] 
 
-### #is_/same_as :: [is_following.private](/_private/schema-org/Relation/is/is_following.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_following.private|is_following.private]] 
 
-### #is_/same_as :: [is_following.personal](/_personal/schema-org/Relation/is/is_following.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_following.personal|is_following.personal]] 
 
-### #is_/same_as :: [is_following.secret](/_secret/schema-org/Relation/is/is_following.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_following.secret|is_following.secret]] 
 

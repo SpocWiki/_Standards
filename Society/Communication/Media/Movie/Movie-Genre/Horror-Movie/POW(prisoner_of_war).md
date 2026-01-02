@@ -23,17 +23,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [POW(prisoner_of_war)](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war)|POW(prisoner_of_war)]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).public](/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).public|POW(prisoner_of_war).public]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).internal|POW(prisoner_of_war).internal]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).protect|POW(prisoner_of_war).protect]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).private](/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).private|POW(prisoner_of_war).private]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).personal|POW(prisoner_of_war).personal]] 
 
-### #is_/same_as :: [POW(prisoner_of_war).secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/POW(prisoner_of_war).secret|POW(prisoner_of_war).secret]] 
 

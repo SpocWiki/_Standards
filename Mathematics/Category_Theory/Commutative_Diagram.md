@@ -24,17 +24,17 @@ Commons_category: Commutative diagrams
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Commutative_Diagram](/_Standards/Mathematics/Category_Theory/Commutative_Diagram.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Category_Theory/Commutative_Diagram|Commutative_Diagram]] 
 
-### #is_/same_as :: [Commutative_Diagram.public](/_public/Mathematics/Category_Theory/Commutative_Diagram.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Category_Theory/Commutative_Diagram.public|Commutative_Diagram.public]] 
 
-### #is_/same_as :: [Commutative_Diagram.internal](/_internal/Mathematics/Category_Theory/Commutative_Diagram.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Category_Theory/Commutative_Diagram.internal|Commutative_Diagram.internal]] 
 
-### #is_/same_as :: [Commutative_Diagram.protect](/_protect/Mathematics/Category_Theory/Commutative_Diagram.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Category_Theory/Commutative_Diagram.protect|Commutative_Diagram.protect]] 
 
-### #is_/same_as :: [Commutative_Diagram.private](/_private/Mathematics/Category_Theory/Commutative_Diagram.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Category_Theory/Commutative_Diagram.private|Commutative_Diagram.private]] 
 
-### #is_/same_as :: [Commutative_Diagram.personal](/_personal/Mathematics/Category_Theory/Commutative_Diagram.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Category_Theory/Commutative_Diagram.personal|Commutative_Diagram.personal]] 
 
-### #is_/same_as :: [Commutative_Diagram.secret](/_secret/Mathematics/Category_Theory/Commutative_Diagram.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Category_Theory/Commutative_Diagram.secret|Commutative_Diagram.secret]] 
 

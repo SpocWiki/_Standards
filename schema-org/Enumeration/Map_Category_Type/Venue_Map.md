@@ -42,17 +42,17 @@ A venue map (e.g. for malls, auditoriums, museums, etc.).
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venue_Map](/_Standards/schema-org/Enumeration/Map_Category_Type/Venue_Map.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Map_Category_Type/Venue_Map|Venue_Map]] 
 
-### #is_/same_as :: [Venue_Map.public](/_public/schema-org/Enumeration/Map_Category_Type/Venue_Map.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Map_Category_Type/Venue_Map.public|Venue_Map.public]] 
 
-### #is_/same_as :: [Venue_Map.internal](/_internal/schema-org/Enumeration/Map_Category_Type/Venue_Map.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Map_Category_Type/Venue_Map.internal|Venue_Map.internal]] 
 
-### #is_/same_as :: [Venue_Map.protect](/_protect/schema-org/Enumeration/Map_Category_Type/Venue_Map.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Map_Category_Type/Venue_Map.protect|Venue_Map.protect]] 
 
-### #is_/same_as :: [Venue_Map.private](/_private/schema-org/Enumeration/Map_Category_Type/Venue_Map.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Map_Category_Type/Venue_Map.private|Venue_Map.private]] 
 
-### #is_/same_as :: [Venue_Map.personal](/_personal/schema-org/Enumeration/Map_Category_Type/Venue_Map.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Map_Category_Type/Venue_Map.personal|Venue_Map.personal]] 
 
-### #is_/same_as :: [Venue_Map.secret](/_secret/schema-org/Enumeration/Map_Category_Type/Venue_Map.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Map_Category_Type/Venue_Map.secret|Venue_Map.secret]] 
 

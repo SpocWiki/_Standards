@@ -53,17 +53,17 @@ inception: 1949-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Emmy_Award](/_Standards/Society/Communication/Media/Movie/Emmy_Award.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Emmy_Award|Emmy_Award]] 
 
-### #is_/same_as :: [Emmy_Award.public](/_public/Society/Communication/Media/Movie/Emmy_Award.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Emmy_Award.public|Emmy_Award.public]] 
 
-### #is_/same_as :: [Emmy_Award.internal](/_internal/Society/Communication/Media/Movie/Emmy_Award.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Emmy_Award.internal|Emmy_Award.internal]] 
 
-### #is_/same_as :: [Emmy_Award.protect](/_protect/Society/Communication/Media/Movie/Emmy_Award.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Emmy_Award.protect|Emmy_Award.protect]] 
 
-### #is_/same_as :: [Emmy_Award.private](/_private/Society/Communication/Media/Movie/Emmy_Award.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Emmy_Award.private|Emmy_Award.private]] 
 
-### #is_/same_as :: [Emmy_Award.personal](/_personal/Society/Communication/Media/Movie/Emmy_Award.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Emmy_Award.personal|Emmy_Award.personal]] 
 
-### #is_/same_as :: [Emmy_Award.secret](/_secret/Society/Communication/Media/Movie/Emmy_Award.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Emmy_Award.secret|Emmy_Award.secret]] 
 

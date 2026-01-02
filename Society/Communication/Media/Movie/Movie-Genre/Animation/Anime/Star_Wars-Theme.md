@@ -47,17 +47,17 @@ Vader, erzähle uns von dir.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Star_Wars-Theme](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme|Star_Wars-Theme]] 
 
-### #is_/same_as :: [Star_Wars-Theme.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.public|Star_Wars-Theme.public]] 
 
-### #is_/same_as :: [Star_Wars-Theme.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.internal|Star_Wars-Theme.internal]] 
 
-### #is_/same_as :: [Star_Wars-Theme.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.protect|Star_Wars-Theme.protect]] 
 
-### #is_/same_as :: [Star_Wars-Theme.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.private|Star_Wars-Theme.private]] 
 
-### #is_/same_as :: [Star_Wars-Theme.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.personal|Star_Wars-Theme.personal]] 
 
-### #is_/same_as :: [Star_Wars-Theme.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Animation/Anime/Star_Wars-Theme.secret|Star_Wars-Theme.secret]] 
 

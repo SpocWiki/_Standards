@@ -63,17 +63,17 @@ Dewey_Decimal_Classification: 621.453
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Windmill](/_Standards/Earth/Geography/Place/Civic_Structure/Windmill.md) 
+### #is_/same_as :: [[/_Standards/Earth/Geography/Place/Civic_Structure/Windmill|Windmill]] 
 
-### #is_/same_as :: [Windmill.public](/_public/Earth/Geography/Place/Civic_Structure/Windmill.public.md) 
+### #is_/same_as :: [[/_public/Earth/Geography/Place/Civic_Structure/Windmill.public|Windmill.public]] 
 
-### #is_/same_as :: [Windmill.internal](/_internal/Earth/Geography/Place/Civic_Structure/Windmill.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Geography/Place/Civic_Structure/Windmill.internal|Windmill.internal]] 
 
-### #is_/same_as :: [Windmill.protect](/_protect/Earth/Geography/Place/Civic_Structure/Windmill.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Geography/Place/Civic_Structure/Windmill.protect|Windmill.protect]] 
 
-### #is_/same_as :: [Windmill.private](/_private/Earth/Geography/Place/Civic_Structure/Windmill.private.md) 
+### #is_/same_as :: [[/_private/Earth/Geography/Place/Civic_Structure/Windmill.private|Windmill.private]] 
 
-### #is_/same_as :: [Windmill.personal](/_personal/Earth/Geography/Place/Civic_Structure/Windmill.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Geography/Place/Civic_Structure/Windmill.personal|Windmill.personal]] 
 
-### #is_/same_as :: [Windmill.secret](/_secret/Earth/Geography/Place/Civic_Structure/Windmill.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Geography/Place/Civic_Structure/Windmill.secret|Windmill.secret]] 
 

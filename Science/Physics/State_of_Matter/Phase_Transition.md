@@ -65,17 +65,17 @@ flowchart LR
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Phase_Transition](/_Standards/Science/Physics/State_of_Matter/Phase_Transition.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/State_of_Matter/Phase_Transition|Phase_Transition]] 
 
-### #is_/same_as :: [Phase_Transition.public](/_public/Science/Physics/State_of_Matter/Phase_Transition.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/State_of_Matter/Phase_Transition.public|Phase_Transition.public]] 
 
-### #is_/same_as :: [Phase_Transition.internal](/_internal/Science/Physics/State_of_Matter/Phase_Transition.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/State_of_Matter/Phase_Transition.internal|Phase_Transition.internal]] 
 
-### #is_/same_as :: [Phase_Transition.protect](/_protect/Science/Physics/State_of_Matter/Phase_Transition.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/State_of_Matter/Phase_Transition.protect|Phase_Transition.protect]] 
 
-### #is_/same_as :: [Phase_Transition.private](/_private/Science/Physics/State_of_Matter/Phase_Transition.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/State_of_Matter/Phase_Transition.private|Phase_Transition.private]] 
 
-### #is_/same_as :: [Phase_Transition.personal](/_personal/Science/Physics/State_of_Matter/Phase_Transition.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/State_of_Matter/Phase_Transition.personal|Phase_Transition.personal]] 
 
-### #is_/same_as :: [Phase_Transition.secret](/_secret/Science/Physics/State_of_Matter/Phase_Transition.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/State_of_Matter/Phase_Transition.secret|Phase_Transition.secret]] 
 

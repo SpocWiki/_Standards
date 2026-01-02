@@ -63,17 +63,17 @@ Wikidata_property:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Computer_Hardware](/_Standards/Technology/IT/Computer_Hardware.md) 
+### #is_/same_as :: [[/_Standards/Technology/IT/Computer_Hardware|Computer_Hardware]] 
 
-### #is_/same_as :: [Computer_Hardware.public](/_public/Technology/IT/Computer_Hardware.public.md) 
+### #is_/same_as :: [[/_public/Technology/IT/Computer_Hardware.public|Computer_Hardware.public]] 
 
-### #is_/same_as :: [Computer_Hardware.internal](/_internal/Technology/IT/Computer_Hardware.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/IT/Computer_Hardware.internal|Computer_Hardware.internal]] 
 
-### #is_/same_as :: [Computer_Hardware.protect](/_protect/Technology/IT/Computer_Hardware.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/IT/Computer_Hardware.protect|Computer_Hardware.protect]] 
 
-### #is_/same_as :: [Computer_Hardware.private](/_private/Technology/IT/Computer_Hardware.private.md) 
+### #is_/same_as :: [[/_private/Technology/IT/Computer_Hardware.private|Computer_Hardware.private]] 
 
-### #is_/same_as :: [Computer_Hardware.personal](/_personal/Technology/IT/Computer_Hardware.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/IT/Computer_Hardware.personal|Computer_Hardware.personal]] 
 
-### #is_/same_as :: [Computer_Hardware.secret](/_secret/Technology/IT/Computer_Hardware.secret.md)
+### #is_/same_as :: [[/_secret/Technology/IT/Computer_Hardware.secret|Computer_Hardware.secret]] 
 

@@ -152,17 +152,17 @@ Plex_person_key: 5d77682a6f4521001ea99e20
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Stevie_Wonder](/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder|Stevie_Wonder]] 
 
-### #is_/same_as :: [Stevie_Wonder.public](/_public/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.public|Stevie_Wonder.public]] 
 
-### #is_/same_as :: [Stevie_Wonder.internal](/_internal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.internal|Stevie_Wonder.internal]] 
 
-### #is_/same_as :: [Stevie_Wonder.protect](/_protect/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.protect|Stevie_Wonder.protect]] 
 
-### #is_/same_as :: [Stevie_Wonder.private](/_private/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.private|Stevie_Wonder.private]] 
 
-### #is_/same_as :: [Stevie_Wonder.personal](/_personal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.personal|Stevie_Wonder.personal]] 
 
-### #is_/same_as :: [Stevie_Wonder.secret](/_secret/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Music_Genre/Rhythm_and_Blues/Stevie_Wonder.secret|Stevie_Wonder.secret]] 
 

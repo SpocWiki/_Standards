@@ -558,17 +558,17 @@ Capital :: [[Venezuela/Counties/Distrito_Capital/City/Caracas]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Venezuela](/_Standards/Earth/Continent/America~South/Andes/Venezuela.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~South/Andes/Venezuela|Venezuela]] 
 
-### #is_/same_as :: [Venezuela.public](/_public/Earth/Continent/America~South/Andes/Venezuela.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~South/Andes/Venezuela.public|Venezuela.public]] 
 
-### #is_/same_as :: [Venezuela.internal](/_internal/Earth/Continent/America~South/Andes/Venezuela.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~South/Andes/Venezuela.internal|Venezuela.internal]] 
 
-### #is_/same_as :: [Venezuela.protect](/_protect/Earth/Continent/America~South/Andes/Venezuela.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~South/Andes/Venezuela.protect|Venezuela.protect]] 
 
-### #is_/same_as :: [Venezuela.private](/_private/Earth/Continent/America~South/Andes/Venezuela.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~South/Andes/Venezuela.private|Venezuela.private]] 
 
-### #is_/same_as :: [Venezuela.personal](/_personal/Earth/Continent/America~South/Andes/Venezuela.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~South/Andes/Venezuela.personal|Venezuela.personal]] 
 
-### #is_/same_as :: [Venezuela.secret](/_secret/Earth/Continent/America~South/Andes/Venezuela.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~South/Andes/Venezuela.secret|Venezuela.secret]] 
 

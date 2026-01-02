@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_representation](/_Standards/schema-org/Relation/has/has_representation.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_representation|has_representation]] 
 
-### #is_/same_as :: [has_representation.public](/_public/schema-org/Relation/has/has_representation.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_representation.public|has_representation.public]] 
 
-### #is_/same_as :: [has_representation.internal](/_internal/schema-org/Relation/has/has_representation.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_representation.internal|has_representation.internal]] 
 
-### #is_/same_as :: [has_representation.protect](/_protect/schema-org/Relation/has/has_representation.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_representation.protect|has_representation.protect]] 
 
-### #is_/same_as :: [has_representation.private](/_private/schema-org/Relation/has/has_representation.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_representation.private|has_representation.private]] 
 
-### #is_/same_as :: [has_representation.personal](/_personal/schema-org/Relation/has/has_representation.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_representation.personal|has_representation.personal]] 
 
-### #is_/same_as :: [has_representation.secret](/_secret/schema-org/Relation/has/has_representation.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_representation.secret|has_representation.secret]] 
 

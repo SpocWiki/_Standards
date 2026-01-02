@@ -42,17 +42,17 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Abramowski-braterstwo-
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Solidarity](/_Standards/Society/Social_Relation/Solidarity.md) 
+### #is_/same_as :: [[/_Standards/Society/Social_Relation/Solidarity|Solidarity]] 
 
-### #is_/same_as :: [Solidarity.public](/_public/Society/Social_Relation/Solidarity.public.md) 
+### #is_/same_as :: [[/_public/Society/Social_Relation/Solidarity.public|Solidarity.public]] 
 
-### #is_/same_as :: [Solidarity.internal](/_internal/Society/Social_Relation/Solidarity.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Social_Relation/Solidarity.internal|Solidarity.internal]] 
 
-### #is_/same_as :: [Solidarity.protect](/_protect/Society/Social_Relation/Solidarity.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Social_Relation/Solidarity.protect|Solidarity.protect]] 
 
-### #is_/same_as :: [Solidarity.private](/_private/Society/Social_Relation/Solidarity.private.md) 
+### #is_/same_as :: [[/_private/Society/Social_Relation/Solidarity.private|Solidarity.private]] 
 
-### #is_/same_as :: [Solidarity.personal](/_personal/Society/Social_Relation/Solidarity.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Social_Relation/Solidarity.personal|Solidarity.personal]] 
 
-### #is_/same_as :: [Solidarity.secret](/_secret/Society/Social_Relation/Solidarity.secret.md)
+### #is_/same_as :: [[/_secret/Society/Social_Relation/Solidarity.secret|Solidarity.secret]] 
 

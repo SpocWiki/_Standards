@@ -66,17 +66,17 @@ Scientific Name ::     Babesia microti
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Piroplasmorida](/_Standards/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida|Piroplasmorida]] 
 
-### #is_/same_as :: [Piroplasmorida.public](/_public/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.public|Piroplasmorida.public]] 
 
-### #is_/same_as :: [Piroplasmorida.internal](/_internal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.internal|Piroplasmorida.internal]] 
 
-### #is_/same_as :: [Piroplasmorida.protect](/_protect/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.protect|Piroplasmorida.protect]] 
 
-### #is_/same_as :: [Piroplasmorida.private](/_private/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.private|Piroplasmorida.private]] 
 
-### #is_/same_as :: [Piroplasmorida.personal](/_personal/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.personal|Piroplasmorida.personal]] 
 
-### #is_/same_as :: [Piroplasmorida.secret](/_secret/bio/bio~Domain/Eukarya/Alveolates/Euapicomplexa/Piroplasmorida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Alveolate/Apicomplexa/Piroplasmorida.secret|Piroplasmorida.secret]] 
 

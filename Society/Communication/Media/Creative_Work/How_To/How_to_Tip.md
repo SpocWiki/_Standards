@@ -41,17 +41,17 @@ An explanation in the instructions for how to achieve a result. It provides supp
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [How_to_Tip](/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/How_To/How_to_Tip|How_to_Tip]] 
 
-### #is_/same_as :: [How_to_Tip.public](/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.public|How_to_Tip.public]] 
 
-### #is_/same_as :: [How_to_Tip.internal](/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.internal|How_to_Tip.internal]] 
 
-### #is_/same_as :: [How_to_Tip.protect](/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.protect|How_to_Tip.protect]] 
 
-### #is_/same_as :: [How_to_Tip.private](/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.private|How_to_Tip.private]] 
 
-### #is_/same_as :: [How_to_Tip.personal](/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.personal|How_to_Tip.personal]] 
 
-### #is_/same_as :: [How_to_Tip.secret](/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/How_To/How_to_Tip.secret|How_to_Tip.secret]] 
 

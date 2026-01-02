@@ -69,17 +69,17 @@ OpenStreetMap_tag_or_key: Tag:building=greenhouse
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Greenhouse](/_Standards/Society/Economics/Industry/Agriculture/Greenhouse.md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Industry/Agriculture/Greenhouse|Greenhouse]] 
 
-### #is_/same_as :: [Greenhouse.public](/_public/Society/Economics/Industry/Agriculture/Greenhouse.public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Industry/Agriculture/Greenhouse.public|Greenhouse.public]] 
 
-### #is_/same_as :: [Greenhouse.internal](/_internal/Society/Economics/Industry/Agriculture/Greenhouse.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Industry/Agriculture/Greenhouse.internal|Greenhouse.internal]] 
 
-### #is_/same_as :: [Greenhouse.protect](/_protect/Society/Economics/Industry/Agriculture/Greenhouse.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Industry/Agriculture/Greenhouse.protect|Greenhouse.protect]] 
 
-### #is_/same_as :: [Greenhouse.private](/_private/Society/Economics/Industry/Agriculture/Greenhouse.private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Industry/Agriculture/Greenhouse.private|Greenhouse.private]] 
 
-### #is_/same_as :: [Greenhouse.personal](/_personal/Society/Economics/Industry/Agriculture/Greenhouse.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Industry/Agriculture/Greenhouse.personal|Greenhouse.personal]] 
 
-### #is_/same_as :: [Greenhouse.secret](/_secret/Society/Economics/Industry/Agriculture/Greenhouse.secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Industry/Agriculture/Greenhouse.secret|Greenhouse.secret]] 
 

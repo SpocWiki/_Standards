@@ -59,17 +59,17 @@ Archive_of_Our_Own_tag: Sexual Orientation
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sexual_Orientation](/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.md) 
+### #is_/same_as :: [[/_Standards/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation|Sexual_Orientation]] 
 
-### #is_/same_as :: [Sexual_Orientation.public](/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.public.md) 
+### #is_/same_as :: [[/_public/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.public|Sexual_Orientation.public]] 
 
-### #is_/same_as :: [Sexual_Orientation.internal](/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.internal|Sexual_Orientation.internal]] 
 
-### #is_/same_as :: [Sexual_Orientation.protect](/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.protect|Sexual_Orientation.protect]] 
 
-### #is_/same_as :: [Sexual_Orientation.private](/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.private.md) 
+### #is_/same_as :: [[/_private/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.private|Sexual_Orientation.private]] 
 
-### #is_/same_as :: [Sexual_Orientation.personal](/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.personal|Sexual_Orientation.personal]] 
 
-### #is_/same_as :: [Sexual_Orientation.secret](/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Reproduction/Sexual_Reproduction/Sex/Sexual_Attraction/Sexual_Orientation.secret|Sexual_Orientation.secret]] 
 

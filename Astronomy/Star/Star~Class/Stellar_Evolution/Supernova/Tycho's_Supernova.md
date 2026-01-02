@@ -27,17 +27,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tycho's_Supernova](/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova|Tycho's_Supernova]] 
 
-### #is_/same_as :: [Tycho's_Supernova.public](/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.public|Tycho's_Supernova.public]] 
 
-### #is_/same_as :: [Tycho's_Supernova.internal](/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.internal|Tycho's_Supernova.internal]] 
 
-### #is_/same_as :: [Tycho's_Supernova.protect](/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.protect|Tycho's_Supernova.protect]] 
 
-### #is_/same_as :: [Tycho's_Supernova.private](/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.private|Tycho's_Supernova.private]] 
 
-### #is_/same_as :: [Tycho's_Supernova.personal](/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.personal|Tycho's_Supernova.personal]] 
 
-### #is_/same_as :: [Tycho's_Supernova.secret](/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Tycho's_Supernova.secret|Tycho's_Supernova.secret]] 
 

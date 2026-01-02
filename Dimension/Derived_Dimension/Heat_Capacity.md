@@ -55,17 +55,17 @@ Commons_category: Heat capacity
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Heat_Capacity](/_Standards/Dimension/Derived_Dimension/Heat_Capacity.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Derived_Dimension/Heat_Capacity|Heat_Capacity]] 
 
-### #is_/same_as :: [Heat_Capacity.public](/_public/Dimension/Derived_Dimension/Heat_Capacity.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Derived_Dimension/Heat_Capacity.public|Heat_Capacity.public]] 
 
-### #is_/same_as :: [Heat_Capacity.internal](/_internal/Dimension/Derived_Dimension/Heat_Capacity.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Derived_Dimension/Heat_Capacity.internal|Heat_Capacity.internal]] 
 
-### #is_/same_as :: [Heat_Capacity.protect](/_protect/Dimension/Derived_Dimension/Heat_Capacity.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Derived_Dimension/Heat_Capacity.protect|Heat_Capacity.protect]] 
 
-### #is_/same_as :: [Heat_Capacity.private](/_private/Dimension/Derived_Dimension/Heat_Capacity.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Derived_Dimension/Heat_Capacity.private|Heat_Capacity.private]] 
 
-### #is_/same_as :: [Heat_Capacity.personal](/_personal/Dimension/Derived_Dimension/Heat_Capacity.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Derived_Dimension/Heat_Capacity.personal|Heat_Capacity.personal]] 
 
-### #is_/same_as :: [Heat_Capacity.secret](/_secret/Dimension/Derived_Dimension/Heat_Capacity.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Derived_Dimension/Heat_Capacity.secret|Heat_Capacity.secret]] 
 

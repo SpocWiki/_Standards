@@ -112,17 +112,17 @@ courtesy of [Kurt Stüber\'s online library of historic and classical biology bo
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Poecilostomatoida](/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.md) 
+### #is_/same_as :: [[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida|Poecilostomatoida]] 
 
-### #is_/same_as :: [Poecilostomatoida.public](/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.public.md) 
+### #is_/same_as :: [[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.public|Poecilostomatoida.public]] 
 
-### #is_/same_as :: [Poecilostomatoida.internal](/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.internal.md) 
+### #is_/same_as :: [[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.internal|Poecilostomatoida.internal]] 
 
-### #is_/same_as :: [Poecilostomatoida.protect](/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.protect.md) 
+### #is_/same_as :: [[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.protect|Poecilostomatoida.protect]] 
 
-### #is_/same_as :: [Poecilostomatoida.private](/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.private.md) 
+### #is_/same_as :: [[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.private|Poecilostomatoida.private]] 
 
-### #is_/same_as :: [Poecilostomatoida.personal](/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.personal.md) 
+### #is_/same_as :: [[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.personal|Poecilostomatoida.personal]] 
 
-### #is_/same_as :: [Poecilostomatoida.secret](/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.secret.md)
+### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Arthropoda/Crustacea/Copepoda/Poecilostomatoida.secret|Poecilostomatoida.secret]] 
 

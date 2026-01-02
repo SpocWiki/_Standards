@@ -87,17 +87,17 @@ Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/VIRTUALNAYA_REALN
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Virtual_Reality](/_Standards/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality|Virtual_Reality]] 
 
-### #is_/same_as :: [Virtual_Reality.public](/_public/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.public|Virtual_Reality.public]] 
 
-### #is_/same_as :: [Virtual_Reality.internal](/_internal/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.internal|Virtual_Reality.internal]] 
 
-### #is_/same_as :: [Virtual_Reality.protect](/_protect/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.protect|Virtual_Reality.protect]] 
 
-### #is_/same_as :: [Virtual_Reality.private](/_private/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.private|Virtual_Reality.private]] 
 
-### #is_/same_as :: [Virtual_Reality.personal](/_personal/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.personal|Virtual_Reality.personal]] 
 
-### #is_/same_as :: [Virtual_Reality.secret](/_secret/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Statistics/Experiment/Simulation/Virtual_Reality.secret|Virtual_Reality.secret]] 
 

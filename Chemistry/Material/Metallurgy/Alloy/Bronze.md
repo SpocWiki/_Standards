@@ -58,17 +58,17 @@ Dewey_Decimal_Classification:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bronze](/_Standards/Chemistry/Material/Metallurgy/Alloy/Bronze.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Metallurgy/Alloy/Bronze|Bronze]] 
 
-### #is_/same_as :: [Bronze.public](/_public/Chemistry/Material/Metallurgy/Alloy/Bronze.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Metallurgy/Alloy/Bronze.public|Bronze.public]] 
 
-### #is_/same_as :: [Bronze.internal](/_internal/Chemistry/Material/Metallurgy/Alloy/Bronze.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Metallurgy/Alloy/Bronze.internal|Bronze.internal]] 
 
-### #is_/same_as :: [Bronze.protect](/_protect/Chemistry/Material/Metallurgy/Alloy/Bronze.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Metallurgy/Alloy/Bronze.protect|Bronze.protect]] 
 
-### #is_/same_as :: [Bronze.private](/_private/Chemistry/Material/Metallurgy/Alloy/Bronze.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Metallurgy/Alloy/Bronze.private|Bronze.private]] 
 
-### #is_/same_as :: [Bronze.personal](/_personal/Chemistry/Material/Metallurgy/Alloy/Bronze.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Metallurgy/Alloy/Bronze.personal|Bronze.personal]] 
 
-### #is_/same_as :: [Bronze.secret](/_secret/Chemistry/Material/Metallurgy/Alloy/Bronze.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Metallurgy/Alloy/Bronze.secret|Bronze.secret]] 
 

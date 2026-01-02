@@ -43,17 +43,17 @@ A financial product for the loaning of an amount of money, or line of credit, un
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Loan_or_Credit](/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit|Loan_or_Credit]] 
 
-### #is_/same_as :: [Loan_or_Credit.public](/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.public|Loan_or_Credit.public]] 
 
-### #is_/same_as :: [Loan_or_Credit.internal](/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.internal|Loan_or_Credit.internal]] 
 
-### #is_/same_as :: [Loan_or_Credit.protect](/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.protect|Loan_or_Credit.protect]] 
 
-### #is_/same_as :: [Loan_or_Credit.private](/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.private|Loan_or_Credit.private]] 
 
-### #is_/same_as :: [Loan_or_Credit.personal](/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.personal|Loan_or_Credit.personal]] 
 
-### #is_/same_as :: [Loan_or_Credit.secret](/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Business/Service/Financial_Product/Loan_or_Credit.secret|Loan_or_Credit.secret]] 
 

@@ -42,17 +42,17 @@ MeSH_tree_code: L01.143.910
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Social_Network](/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.md) 
+### #is_/same_as :: [[/_Standards/Society/Anthropology/Sociology/Human_Social_Group/Social_Network|Social_Network]] 
 
-### #is_/same_as :: [Social_Network.public](/_public/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.public.md) 
+### #is_/same_as :: [[/_public/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.public|Social_Network.public]] 
 
-### #is_/same_as :: [Social_Network.internal](/_internal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.internal|Social_Network.internal]] 
 
-### #is_/same_as :: [Social_Network.protect](/_protect/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.protect|Social_Network.protect]] 
 
-### #is_/same_as :: [Social_Network.private](/_private/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.private.md) 
+### #is_/same_as :: [[/_private/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.private|Social_Network.private]] 
 
-### #is_/same_as :: [Social_Network.personal](/_personal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.personal|Social_Network.personal]] 
 
-### #is_/same_as :: [Social_Network.secret](/_secret/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.secret.md)
+### #is_/same_as :: [[/_secret/Society/Anthropology/Sociology/Human_Social_Group/Social_Network.secret|Social_Network.secret]] 
 

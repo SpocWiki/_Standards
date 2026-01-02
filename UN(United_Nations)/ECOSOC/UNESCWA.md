@@ -20,17 +20,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [UNESCWA](/_Standards/UN(United_Nations)/ECOSOC/UNESCWA.md) 
+### #is_/same_as :: [[/_Standards/UN(United_Nations)/ECOSOC/UNESCWA|UNESCWA]] 
 
-### #is_/same_as :: [UNESCWA.public](/_public/UN(United_Nations)/ECOSOC/UNESCWA.public.md) 
+### #is_/same_as :: [[/_public/UN(United_Nations)/ECOSOC/UNESCWA.public|UNESCWA.public]] 
 
-### #is_/same_as :: [UNESCWA.internal](/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal.md) 
+### #is_/same_as :: [[/_internal/UN(United_Nations)/ECOSOC/UNESCWA.internal|UNESCWA.internal]] 
 
-### #is_/same_as :: [UNESCWA.protect](/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect.md) 
+### #is_/same_as :: [[/_protect/UN(United_Nations)/ECOSOC/UNESCWA.protect|UNESCWA.protect]] 
 
-### #is_/same_as :: [UNESCWA.private](/_private/UN(United_Nations)/ECOSOC/UNESCWA.private.md) 
+### #is_/same_as :: [[/_private/UN(United_Nations)/ECOSOC/UNESCWA.private|UNESCWA.private]] 
 
-### #is_/same_as :: [UNESCWA.personal](/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal.md) 
+### #is_/same_as :: [[/_personal/UN(United_Nations)/ECOSOC/UNESCWA.personal|UNESCWA.personal]] 
 
-### #is_/same_as :: [UNESCWA.secret](/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret.md)
+### #is_/same_as :: [[/_secret/UN(United_Nations)/ECOSOC/UNESCWA.secret|UNESCWA.secret]] 
 

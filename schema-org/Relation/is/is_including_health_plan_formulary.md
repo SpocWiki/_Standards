@@ -42,17 +42,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [is_including_health_plan_formulary](/_Standards/schema-org/Relation/is/is_including_health_plan_formulary.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/is/is_including_health_plan_formulary|is_including_health_plan_formulary]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.public](/_public/schema-org/Relation/is/is_including_health_plan_formulary.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/is/is_including_health_plan_formulary.public|is_including_health_plan_formulary.public]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.internal](/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/is/is_including_health_plan_formulary.internal|is_including_health_plan_formulary.internal]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.protect](/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/is/is_including_health_plan_formulary.protect|is_including_health_plan_formulary.protect]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.private](/_private/schema-org/Relation/is/is_including_health_plan_formulary.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/is/is_including_health_plan_formulary.private|is_including_health_plan_formulary.private]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.personal](/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/is/is_including_health_plan_formulary.personal|is_including_health_plan_formulary.personal]] 
 
-### #is_/same_as :: [is_including_health_plan_formulary.secret](/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/is/is_including_health_plan_formulary.secret|is_including_health_plan_formulary.secret]] 
 

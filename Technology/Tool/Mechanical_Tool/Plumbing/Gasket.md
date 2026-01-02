@@ -41,17 +41,17 @@ Commons_category: Gaskets
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gasket](/_Standards/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.md) 
+### #is_/same_as :: [[/_Standards/Technology/Tool/Mechanical_Tool/Plumbing/Gasket|Gasket]] 
 
-### #is_/same_as :: [Gasket.public](/_public/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.public.md) 
+### #is_/same_as :: [[/_public/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.public|Gasket.public]] 
 
-### #is_/same_as :: [Gasket.internal](/_internal/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.internal|Gasket.internal]] 
 
-### #is_/same_as :: [Gasket.protect](/_protect/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.protect|Gasket.protect]] 
 
-### #is_/same_as :: [Gasket.private](/_private/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.private.md) 
+### #is_/same_as :: [[/_private/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.private|Gasket.private]] 
 
-### #is_/same_as :: [Gasket.personal](/_personal/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.personal|Gasket.personal]] 
 
-### #is_/same_as :: [Gasket.secret](/_secret/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Tool/Mechanical_Tool/Plumbing/Gasket.secret|Gasket.secret]] 
 

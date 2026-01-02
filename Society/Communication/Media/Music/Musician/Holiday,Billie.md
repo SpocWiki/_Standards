@@ -50,17 +50,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Holiday,Billie](/_Standards/Society/Communication/Media/Music/Musician/Holiday,Billie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Holiday,Billie|Holiday,Billie]] 
 
-### #is_/same_as :: [Holiday,Billie.public](/_public/Society/Communication/Media/Music/Musician/Holiday,Billie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Holiday,Billie.public|Holiday,Billie.public]] 
 
-### #is_/same_as :: [Holiday,Billie.internal](/_internal/Society/Communication/Media/Music/Musician/Holiday,Billie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Holiday,Billie.internal|Holiday,Billie.internal]] 
 
-### #is_/same_as :: [Holiday,Billie.protect](/_protect/Society/Communication/Media/Music/Musician/Holiday,Billie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Holiday,Billie.protect|Holiday,Billie.protect]] 
 
-### #is_/same_as :: [Holiday,Billie.private](/_private/Society/Communication/Media/Music/Musician/Holiday,Billie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Holiday,Billie.private|Holiday,Billie.private]] 
 
-### #is_/same_as :: [Holiday,Billie.personal](/_personal/Society/Communication/Media/Music/Musician/Holiday,Billie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Holiday,Billie.personal|Holiday,Billie.personal]] 
 
-### #is_/same_as :: [Holiday,Billie.secret](/_secret/Society/Communication/Media/Music/Musician/Holiday,Billie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Holiday,Billie.secret|Holiday,Billie.secret]] 
 

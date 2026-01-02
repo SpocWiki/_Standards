@@ -87,17 +87,17 @@ Biology_Online_Biology_Dictionary_entry: ribonucleic-acid
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid)](/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).md) 
+### #is_/same_as :: [[/_Standards/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid)|RNA(Ribo-Nucleic_Acid)]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).public](/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).public.md) 
+### #is_/same_as :: [[/_public/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).public|RNA(Ribo-Nucleic_Acid).public]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).internal](/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).internal.md) 
+### #is_/same_as :: [[/_internal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).internal|RNA(Ribo-Nucleic_Acid).internal]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).protect](/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).protect.md) 
+### #is_/same_as :: [[/_protect/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).protect|RNA(Ribo-Nucleic_Acid).protect]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).private](/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).private.md) 
+### #is_/same_as :: [[/_private/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).private|RNA(Ribo-Nucleic_Acid).private]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).personal](/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).personal.md) 
+### #is_/same_as :: [[/_personal/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).personal|RNA(Ribo-Nucleic_Acid).personal]] 
 
-### #is_/same_as :: [RNA(Ribo-Nucleic_Acid).secret](/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).secret.md)
+### #is_/same_as :: [[/_secret/bio/Genetics/Nucleic_Acid/RNA(Ribo-Nucleic_Acid).secret|RNA(Ribo-Nucleic_Acid).secret]] 
 

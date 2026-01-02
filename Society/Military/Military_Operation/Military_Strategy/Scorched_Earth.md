@@ -41,17 +41,17 @@ Commons_category: Scorched earth (military)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Scorched_Earth](/_Standards/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.md) 
+### #is_/same_as :: [[/_Standards/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth|Scorched_Earth]] 
 
-### #is_/same_as :: [Scorched_Earth.public](/_public/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.public.md) 
+### #is_/same_as :: [[/_public/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.public|Scorched_Earth.public]] 
 
-### #is_/same_as :: [Scorched_Earth.internal](/_internal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.internal|Scorched_Earth.internal]] 
 
-### #is_/same_as :: [Scorched_Earth.protect](/_protect/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.protect|Scorched_Earth.protect]] 
 
-### #is_/same_as :: [Scorched_Earth.private](/_private/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.private.md) 
+### #is_/same_as :: [[/_private/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.private|Scorched_Earth.private]] 
 
-### #is_/same_as :: [Scorched_Earth.personal](/_personal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.personal|Scorched_Earth.personal]] 
 
-### #is_/same_as :: [Scorched_Earth.secret](/_secret/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.secret.md)
+### #is_/same_as :: [[/_secret/Society/Military/Military_Operation/Military_Strategy/Scorched_Earth.secret|Scorched_Earth.secret]] 
 

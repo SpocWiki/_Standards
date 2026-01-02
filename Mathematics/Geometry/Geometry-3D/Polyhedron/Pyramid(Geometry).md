@@ -51,17 +51,17 @@ Schläfli_symbol: ()∨{n}
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pyramid(Geometry)](/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry)|Pyramid(Geometry)]] 
 
-### #is_/same_as :: [Pyramid(Geometry).public](/_public/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).public|Pyramid(Geometry).public]] 
 
-### #is_/same_as :: [Pyramid(Geometry).internal](/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).internal|Pyramid(Geometry).internal]] 
 
-### #is_/same_as :: [Pyramid(Geometry).protect](/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).protect|Pyramid(Geometry).protect]] 
 
-### #is_/same_as :: [Pyramid(Geometry).private](/_private/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).private|Pyramid(Geometry).private]] 
 
-### #is_/same_as :: [Pyramid(Geometry).personal](/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).personal|Pyramid(Geometry).personal]] 
 
-### #is_/same_as :: [Pyramid(Geometry).secret](/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry).secret|Pyramid(Geometry).secret]] 
 

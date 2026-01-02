@@ -75,17 +75,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Andrews,Julie](/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie|Andrews,Julie]] 
 
-### #is_/same_as :: [Andrews,Julie.public](/_public/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.public|Andrews,Julie.public]] 
 
-### #is_/same_as :: [Andrews,Julie.internal](/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.internal|Andrews,Julie.internal]] 
 
-### #is_/same_as :: [Andrews,Julie.protect](/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.protect|Andrews,Julie.protect]] 
 
-### #is_/same_as :: [Andrews,Julie.private](/_private/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.private|Andrews,Julie.private]] 
 
-### #is_/same_as :: [Andrews,Julie.personal](/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.personal|Andrews,Julie.personal]] 
 
-### #is_/same_as :: [Andrews,Julie.secret](/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/British_Actor/Andrews,Julie.secret|Andrews,Julie.secret]] 
 

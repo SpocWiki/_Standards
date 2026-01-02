@@ -98,17 +98,17 @@ coordinate_location: Point(-9.13333333 38.71666667)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999](/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.md) 
+### #is_/same_as :: [[/_Standards/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999|1415-Portuguese_Empire-1999]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.public](/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public.md) 
+### #is_/same_as :: [[/_public/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.public|1415-Portuguese_Empire-1999.public]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.internal](/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.internal|1415-Portuguese_Empire-1999.internal]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.protect](/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.protect|1415-Portuguese_Empire-1999.protect]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.private](/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private.md) 
+### #is_/same_as :: [[/_private/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.private|1415-Portuguese_Empire-1999.private]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.personal](/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.personal|1415-Portuguese_Empire-1999.personal]] 
 
-### #is_/same_as :: [1415-Portuguese_Empire-1999.secret](/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Explorer/Age_of_Discovery/1415-Portuguese_Empire-1999.secret|1415-Portuguese_Empire-1999.secret]] 
 

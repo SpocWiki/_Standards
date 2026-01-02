@@ -20,17 +20,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Europa(Moon)](/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon)|Europa(Moon)]] 
 
-### #is_/same_as :: [Europa(Moon).public](/_public/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).public|Europa(Moon).public]] 
 
-### #is_/same_as :: [Europa(Moon).internal](/_internal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).internal|Europa(Moon).internal]] 
 
-### #is_/same_as :: [Europa(Moon).protect](/_protect/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).protect|Europa(Moon).protect]] 
 
-### #is_/same_as :: [Europa(Moon).private](/_private/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).private|Europa(Moon).private]] 
 
-### #is_/same_as :: [Europa(Moon).personal](/_personal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).personal|Europa(Moon).personal]] 
 
-### #is_/same_as :: [Europa(Moon).secret](/_secret/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Jupiter(Planet)/Europa(Moon).secret|Europa(Moon).secret]] 
 

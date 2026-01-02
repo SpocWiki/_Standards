@@ -36,17 +36,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Friends](/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends|Friends]] 
 
-### #is_/same_as :: [Friends.public](/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.public|Friends.public]] 
 
-### #is_/same_as :: [Friends.internal](/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.internal|Friends.internal]] 
 
-### #is_/same_as :: [Friends.protect](/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.protect|Friends.protect]] 
 
-### #is_/same_as :: [Friends.private](/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.private|Friends.private]] 
 
-### #is_/same_as :: [Friends.personal](/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.personal|Friends.personal]] 
 
-### #is_/same_as :: [Friends.secret](/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Genre/Comedy/Sitcom/Friends.secret|Friends.secret]] 
 

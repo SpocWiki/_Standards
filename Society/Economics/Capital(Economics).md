@@ -50,17 +50,17 @@ U_S_National_Archives_Identifier: 10637733
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Capital(Economics)](/_Standards/Society/Economics/Capital(Economics).md) 
+### #is_/same_as :: [[/_Standards/Society/Economics/Capital(Economics)|Capital(Economics)]] 
 
-### #is_/same_as :: [Capital(Economics).public](/_public/Society/Economics/Capital(Economics).public.md) 
+### #is_/same_as :: [[/_public/Society/Economics/Capital(Economics).public|Capital(Economics).public]] 
 
-### #is_/same_as :: [Capital(Economics).internal](/_internal/Society/Economics/Capital(Economics).internal.md) 
+### #is_/same_as :: [[/_internal/Society/Economics/Capital(Economics).internal|Capital(Economics).internal]] 
 
-### #is_/same_as :: [Capital(Economics).protect](/_protect/Society/Economics/Capital(Economics).protect.md) 
+### #is_/same_as :: [[/_protect/Society/Economics/Capital(Economics).protect|Capital(Economics).protect]] 
 
-### #is_/same_as :: [Capital(Economics).private](/_private/Society/Economics/Capital(Economics).private.md) 
+### #is_/same_as :: [[/_private/Society/Economics/Capital(Economics).private|Capital(Economics).private]] 
 
-### #is_/same_as :: [Capital(Economics).personal](/_personal/Society/Economics/Capital(Economics).personal.md) 
+### #is_/same_as :: [[/_personal/Society/Economics/Capital(Economics).personal|Capital(Economics).personal]] 
 
-### #is_/same_as :: [Capital(Economics).secret](/_secret/Society/Economics/Capital(Economics).secret.md)
+### #is_/same_as :: [[/_secret/Society/Economics/Capital(Economics).secret|Capital(Economics).secret]] 
 

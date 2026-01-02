@@ -18,17 +18,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dream](/_Standards/bio/Psychology/Consciousness/Dream.md) 
+### #is_/same_as :: [[/_Standards/bio/Psychology/Consciousness/Dream|Dream]] 
 
-### #is_/same_as :: [Dream.public](/_public/bio/Psychology/Consciousness/Dream.public.md) 
+### #is_/same_as :: [[/_public/bio/Psychology/Consciousness/Dream.public|Dream.public]] 
 
-### #is_/same_as :: [Dream.internal](/_internal/bio/Psychology/Consciousness/Dream.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Psychology/Consciousness/Dream.internal|Dream.internal]] 
 
-### #is_/same_as :: [Dream.protect](/_protect/bio/Psychology/Consciousness/Dream.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Psychology/Consciousness/Dream.protect|Dream.protect]] 
 
-### #is_/same_as :: [Dream.private](/_private/bio/Psychology/Consciousness/Dream.private.md) 
+### #is_/same_as :: [[/_private/bio/Psychology/Consciousness/Dream.private|Dream.private]] 
 
-### #is_/same_as :: [Dream.personal](/_personal/bio/Psychology/Consciousness/Dream.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Psychology/Consciousness/Dream.personal|Dream.personal]] 
 
-### #is_/same_as :: [Dream.secret](/_secret/bio/Psychology/Consciousness/Dream.secret.md)
+### #is_/same_as :: [[/_secret/bio/Psychology/Consciousness/Dream.secret|Dream.secret]] 
 

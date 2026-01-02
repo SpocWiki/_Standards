@@ -41,17 +41,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_action_accessibility_requirement](/_Standards/schema-org/Relation/has/has_action_accessibility_requirement.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_action_accessibility_requirement|has_action_accessibility_requirement]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.public](/_public/schema-org/Relation/has/has_action_accessibility_requirement.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_action_accessibility_requirement.public|has_action_accessibility_requirement.public]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.internal](/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_action_accessibility_requirement.internal|has_action_accessibility_requirement.internal]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.protect](/_protect/schema-org/Relation/has/has_action_accessibility_requirement.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_action_accessibility_requirement.protect|has_action_accessibility_requirement.protect]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.private](/_private/schema-org/Relation/has/has_action_accessibility_requirement.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_action_accessibility_requirement.private|has_action_accessibility_requirement.private]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.personal](/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_action_accessibility_requirement.personal|has_action_accessibility_requirement.personal]] 
 
-### #is_/same_as :: [has_action_accessibility_requirement.secret](/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_action_accessibility_requirement.secret|has_action_accessibility_requirement.secret]] 
 

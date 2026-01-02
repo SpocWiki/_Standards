@@ -48,17 +48,17 @@ as well as to [Akiva Eger](https://en.wikipedia.org/wiki/Akiva_Eger "Akiva Eger
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Wiener,Norbert](/_Standards/Mathematics/Mathematician/Wiener,Norbert.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Mathematician/Wiener,Norbert|Wiener,Norbert]] 
 
-### #is_/same_as :: [Wiener,Norbert.public](/_public/Mathematics/Mathematician/Wiener,Norbert.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Mathematician/Wiener,Norbert.public|Wiener,Norbert.public]] 
 
-### #is_/same_as :: [Wiener,Norbert.internal](/_internal/Mathematics/Mathematician/Wiener,Norbert.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Mathematician/Wiener,Norbert.internal|Wiener,Norbert.internal]] 
 
-### #is_/same_as :: [Wiener,Norbert.protect](/_protect/Mathematics/Mathematician/Wiener,Norbert.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Mathematician/Wiener,Norbert.protect|Wiener,Norbert.protect]] 
 
-### #is_/same_as :: [Wiener,Norbert.private](/_private/Mathematics/Mathematician/Wiener,Norbert.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Mathematician/Wiener,Norbert.private|Wiener,Norbert.private]] 
 
-### #is_/same_as :: [Wiener,Norbert.personal](/_personal/Mathematics/Mathematician/Wiener,Norbert.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Mathematician/Wiener,Norbert.personal|Wiener,Norbert.personal]] 
 
-### #is_/same_as :: [Wiener,Norbert.secret](/_secret/Mathematics/Mathematician/Wiener,Norbert.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Mathematician/Wiener,Norbert.secret|Wiener,Norbert.secret]] 
 

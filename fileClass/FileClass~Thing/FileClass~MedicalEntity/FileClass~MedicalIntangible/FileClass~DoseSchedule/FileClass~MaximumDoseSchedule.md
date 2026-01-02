@@ -37,17 +37,17 @@ The maximum dosing schedule considered safe for a drug or supplement as recommen
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule|FileClass~MaximumDoseSchedule]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.public|FileClass~MaximumDoseSchedule.public]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.internal|FileClass~MaximumDoseSchedule.internal]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.protect|FileClass~MaximumDoseSchedule.protect]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.private|FileClass~MaximumDoseSchedule.private]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.personal|FileClass~MaximumDoseSchedule.personal]] 
 
-### #is_/same_as :: [FileClass~MaximumDoseSchedule.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIntangible/FileClass~DoseSchedule/FileClass~MaximumDoseSchedule.secret|FileClass~MaximumDoseSchedule.secret]] 
 

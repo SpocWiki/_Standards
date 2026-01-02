@@ -56,17 +56,17 @@ Krugosvet_article: Earth_sciences/geologiya/BAZALT.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Basalt](/_Standards/Chemistry/Material/Basalt.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Basalt|Basalt]] 
 
-### #is_/same_as :: [Basalt.public](/_public/Chemistry/Material/Basalt.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Basalt.public|Basalt.public]] 
 
-### #is_/same_as :: [Basalt.internal](/_internal/Chemistry/Material/Basalt.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Basalt.internal|Basalt.internal]] 
 
-### #is_/same_as :: [Basalt.protect](/_protect/Chemistry/Material/Basalt.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Basalt.protect|Basalt.protect]] 
 
-### #is_/same_as :: [Basalt.private](/_private/Chemistry/Material/Basalt.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Basalt.private|Basalt.private]] 
 
-### #is_/same_as :: [Basalt.personal](/_personal/Chemistry/Material/Basalt.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Basalt.personal|Basalt.personal]] 
 
-### #is_/same_as :: [Basalt.secret](/_secret/Chemistry/Material/Basalt.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Basalt.secret|Basalt.secret]] 
 

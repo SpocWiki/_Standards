@@ -145,17 +145,17 @@ short_name:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lang-kor](/_Standards/Language/Language_Family/LangFamily-Koreanic/Lang-kor.md) 
+### #is_/same_as :: [[/_Standards/Language/Language_Family/LangFamily-Koreanic/Lang-kor|Lang-kor]] 
 
-### #is_/same_as :: [Lang-kor.public](/_public/Language/Language_Family/LangFamily-Koreanic/Lang-kor.public.md) 
+### #is_/same_as :: [[/_public/Language/Language_Family/LangFamily-Koreanic/Lang-kor.public|Lang-kor.public]] 
 
-### #is_/same_as :: [Lang-kor.internal](/_internal/Language/Language_Family/LangFamily-Koreanic/Lang-kor.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Language_Family/LangFamily-Koreanic/Lang-kor.internal|Lang-kor.internal]] 
 
-### #is_/same_as :: [Lang-kor.protect](/_protect/Language/Language_Family/LangFamily-Koreanic/Lang-kor.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Language_Family/LangFamily-Koreanic/Lang-kor.protect|Lang-kor.protect]] 
 
-### #is_/same_as :: [Lang-kor.private](/_private/Language/Language_Family/LangFamily-Koreanic/Lang-kor.private.md) 
+### #is_/same_as :: [[/_private/Language/Language_Family/LangFamily-Koreanic/Lang-kor.private|Lang-kor.private]] 
 
-### #is_/same_as :: [Lang-kor.personal](/_personal/Language/Language_Family/LangFamily-Koreanic/Lang-kor.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Language_Family/LangFamily-Koreanic/Lang-kor.personal|Lang-kor.personal]] 
 
-### #is_/same_as :: [Lang-kor.secret](/_secret/Language/Language_Family/LangFamily-Koreanic/Lang-kor.secret.md)
+### #is_/same_as :: [[/_secret/Language/Language_Family/LangFamily-Koreanic/Lang-kor.secret|Lang-kor.secret]] 
 

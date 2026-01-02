@@ -39,17 +39,17 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Gosling,Ryan](/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan|Gosling,Ryan]] 
 
-### #is_/same_as :: [Gosling,Ryan.public](/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.public|Gosling,Ryan.public]] 
 
-### #is_/same_as :: [Gosling,Ryan.internal](/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.internal|Gosling,Ryan.internal]] 
 
-### #is_/same_as :: [Gosling,Ryan.protect](/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.protect|Gosling,Ryan.protect]] 
 
-### #is_/same_as :: [Gosling,Ryan.private](/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.private|Gosling,Ryan.private]] 
 
-### #is_/same_as :: [Gosling,Ryan.personal](/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.personal|Gosling,Ryan.personal]] 
 
-### #is_/same_as :: [Gosling,Ryan.secret](/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Actor/Canadian_Actor/Gosling,Ryan.secret|Gosling,Ryan.secret]] 
 

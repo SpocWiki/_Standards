@@ -52,17 +52,17 @@ Commons_category: Ionic bond
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ionic_Bond](/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond|Ionic_Bond]] 
 
-### #is_/same_as :: [Ionic_Bond.public](/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.public|Ionic_Bond.public]] 
 
-### #is_/same_as :: [Ionic_Bond.internal](/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.internal|Ionic_Bond.internal]] 
 
-### #is_/same_as :: [Ionic_Bond.protect](/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.protect|Ionic_Bond.protect]] 
 
-### #is_/same_as :: [Ionic_Bond.private](/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.private|Ionic_Bond.private]] 
 
-### #is_/same_as :: [Ionic_Bond.personal](/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.personal|Ionic_Bond.personal]] 
 
-### #is_/same_as :: [Ionic_Bond.secret](/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond.secret|Ionic_Bond.secret]] 
 

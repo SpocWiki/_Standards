@@ -78,17 +78,17 @@ short_name: PsA
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis](/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Star~Constellation/Zodiac~Piscis_Australis|Zodiac~Piscis_Australis]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.public](/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.public|Zodiac~Piscis_Australis.public]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.internal](/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.internal|Zodiac~Piscis_Australis.internal]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.protect](/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.protect|Zodiac~Piscis_Australis.protect]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.private](/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.private|Zodiac~Piscis_Australis.private]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.personal](/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.personal|Zodiac~Piscis_Australis.personal]] 
 
-### #is_/same_as :: [Zodiac~Piscis_Australis.secret](/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Star~Constellation/Zodiac~Piscis_Australis.secret|Zodiac~Piscis_Australis.secret]] 
 

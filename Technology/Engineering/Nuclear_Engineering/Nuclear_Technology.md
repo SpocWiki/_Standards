@@ -26,3 +26,22 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nuclear%20technology) 
 
+
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology|Nuclear_Technology]] 
+
+### #is_/same_as :: [[/_public/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.public|Nuclear_Technology.public]] 
+
+### #is_/same_as :: [[/_internal/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.internal|Nuclear_Technology.internal]] 
+
+### #is_/same_as :: [[/_protect/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.protect|Nuclear_Technology.protect]] 
+
+### #is_/same_as :: [[/_private/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.private|Nuclear_Technology.private]] 
+
+### #is_/same_as :: [[/_personal/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.personal|Nuclear_Technology.personal]] 
+
+### #is_/same_as :: [[/_secret/Technology/Engineering/Nuclear_Engineering/Nuclear_Technology.secret|Nuclear_Technology.secret]] 
+

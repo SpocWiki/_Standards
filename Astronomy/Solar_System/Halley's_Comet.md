@@ -133,17 +133,17 @@ orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Halley%27s%20C
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Halley's_Comet](/_Standards/Astronomy/Solar_System/Halley's_Comet.md) 
+### #is_/same_as :: [[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]] 
 
-### #is_/same_as :: [Halley's_Comet.public](/_public/Astronomy/Solar_System/Halley's_Comet.public.md) 
+### #is_/same_as :: [[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]] 
 
-### #is_/same_as :: [Halley's_Comet.internal](/_internal/Astronomy/Solar_System/Halley's_Comet.internal.md) 
+### #is_/same_as :: [[/_internal/Astronomy/Solar_System/Halley's_Comet.internal|Halley's_Comet.internal]] 
 
-### #is_/same_as :: [Halley's_Comet.protect](/_protect/Astronomy/Solar_System/Halley's_Comet.protect.md) 
+### #is_/same_as :: [[/_protect/Astronomy/Solar_System/Halley's_Comet.protect|Halley's_Comet.protect]] 
 
-### #is_/same_as :: [Halley's_Comet.private](/_private/Astronomy/Solar_System/Halley's_Comet.private.md) 
+### #is_/same_as :: [[/_private/Astronomy/Solar_System/Halley's_Comet.private|Halley's_Comet.private]] 
 
-### #is_/same_as :: [Halley's_Comet.personal](/_personal/Astronomy/Solar_System/Halley's_Comet.personal.md) 
+### #is_/same_as :: [[/_personal/Astronomy/Solar_System/Halley's_Comet.personal|Halley's_Comet.personal]] 
 
-### #is_/same_as :: [Halley's_Comet.secret](/_secret/Astronomy/Solar_System/Halley's_Comet.secret.md)
+### #is_/same_as :: [[/_secret/Astronomy/Solar_System/Halley's_Comet.secret|Halley's_Comet.secret]] 
 

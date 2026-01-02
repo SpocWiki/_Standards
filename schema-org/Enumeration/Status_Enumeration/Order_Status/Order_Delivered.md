@@ -42,17 +42,17 @@ OrderStatus representing successful delivery of an order.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Order_Delivered](/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered|Order_Delivered]] 
 
-### #is_/same_as :: [Order_Delivered.public](/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.public|Order_Delivered.public]] 
 
-### #is_/same_as :: [Order_Delivered.internal](/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.internal|Order_Delivered.internal]] 
 
-### #is_/same_as :: [Order_Delivered.protect](/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.protect|Order_Delivered.protect]] 
 
-### #is_/same_as :: [Order_Delivered.private](/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.private|Order_Delivered.private]] 
 
-### #is_/same_as :: [Order_Delivered.personal](/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.personal|Order_Delivered.personal]] 
 
-### #is_/same_as :: [Order_Delivered.secret](/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Status_Enumeration/Order_Status/Order_Delivered.secret|Order_Delivered.secret]] 
 

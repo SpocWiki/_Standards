@@ -60,17 +60,17 @@ but Consumption rises with Clock Speed.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [CMOS](/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.md) 
+### #is_/same_as :: [[/_Standards/Technology/Engineering/Electrical_Engineering/Electronics/CMOS|CMOS]] 
 
-### #is_/same_as :: [CMOS.public](/_public/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.public.md) 
+### #is_/same_as :: [[/_public/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.public|CMOS.public]] 
 
-### #is_/same_as :: [CMOS.internal](/_internal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.internal.md) 
+### #is_/same_as :: [[/_internal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.internal|CMOS.internal]] 
 
-### #is_/same_as :: [CMOS.protect](/_protect/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.protect.md) 
+### #is_/same_as :: [[/_protect/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.protect|CMOS.protect]] 
 
-### #is_/same_as :: [CMOS.private](/_private/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.private.md) 
+### #is_/same_as :: [[/_private/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.private|CMOS.private]] 
 
-### #is_/same_as :: [CMOS.personal](/_personal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.personal.md) 
+### #is_/same_as :: [[/_personal/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.personal|CMOS.personal]] 
 
-### #is_/same_as :: [CMOS.secret](/_secret/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.secret.md)
+### #is_/same_as :: [[/_secret/Technology/Engineering/Electrical_Engineering/Electronics/CMOS.secret|CMOS.secret]] 
 

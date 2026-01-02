@@ -119,17 +119,17 @@ name_in_native_language: Sydney Pollack
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pollack,Sydney](/_Standards/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney|Pollack,Sydney]] 
 
-### #is_/same_as :: [Pollack,Sydney.public](/_public/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.public|Pollack,Sydney.public]] 
 
-### #is_/same_as :: [Pollack,Sydney.internal](/_internal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.internal|Pollack,Sydney.internal]] 
 
-### #is_/same_as :: [Pollack,Sydney.protect](/_protect/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.protect|Pollack,Sydney.protect]] 
 
-### #is_/same_as :: [Pollack,Sydney.private](/_private/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.private|Pollack,Sydney.private]] 
 
-### #is_/same_as :: [Pollack,Sydney.personal](/_personal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.personal|Pollack,Sydney.personal]] 
 
-### #is_/same_as :: [Pollack,Sydney.secret](/_secret/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Pollack,Sydney.secret|Pollack,Sydney.secret]] 
 

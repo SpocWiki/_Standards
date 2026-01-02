@@ -42,17 +42,17 @@ SoundtrackAlbum.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Soundtrack_Album](/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album|Soundtrack_Album]] 
 
-### #is_/same_as :: [Soundtrack_Album.public](/_public/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.public|Soundtrack_Album.public]] 
 
-### #is_/same_as :: [Soundtrack_Album.internal](/_internal/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.internal|Soundtrack_Album.internal]] 
 
-### #is_/same_as :: [Soundtrack_Album.protect](/_protect/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.protect|Soundtrack_Album.protect]] 
 
-### #is_/same_as :: [Soundtrack_Album.private](/_private/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.private|Soundtrack_Album.private]] 
 
-### #is_/same_as :: [Soundtrack_Album.personal](/_personal/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.personal|Soundtrack_Album.personal]] 
 
-### #is_/same_as :: [Soundtrack_Album.secret](/_secret/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Music_Album_Production_Type/Soundtrack_Album.secret|Soundtrack_Album.secret]] 
 

@@ -34,17 +34,17 @@ Commons_category: Igneous rocks
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Igneous_Rock](/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.md) 
+### #is_/same_as :: [[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock|Igneous_Rock]] 
 
-### #is_/same_as :: [Igneous_Rock.public](/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.public.md) 
+### #is_/same_as :: [[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.public|Igneous_Rock.public]] 
 
-### #is_/same_as :: [Igneous_Rock.internal](/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.internal|Igneous_Rock.internal]] 
 
-### #is_/same_as :: [Igneous_Rock.protect](/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.protect|Igneous_Rock.protect]] 
 
-### #is_/same_as :: [Igneous_Rock.private](/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.private.md) 
+### #is_/same_as :: [[/_private/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.private|Igneous_Rock.private]] 
 
-### #is_/same_as :: [Igneous_Rock.personal](/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.personal|Igneous_Rock.personal]] 
 
-### #is_/same_as :: [Igneous_Rock.secret](/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Rock(geology)/Igneous_Rock.secret|Igneous_Rock.secret]] 
 

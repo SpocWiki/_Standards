@@ -48,17 +48,17 @@ Documentation:: {"type":"MultiFile","options":{"dvQueryString":"dv.pages('#class
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~WebAPI](/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI|FileClass~WebAPI]] 
 
-### #is_/same_as :: [FileClass~WebAPI.public](/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.public|FileClass~WebAPI.public]] 
 
-### #is_/same_as :: [FileClass~WebAPI.internal](/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.internal|FileClass~WebAPI.internal]] 
 
-### #is_/same_as :: [FileClass~WebAPI.protect](/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.protect|FileClass~WebAPI.protect]] 
 
-### #is_/same_as :: [FileClass~WebAPI.private](/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.private|FileClass~WebAPI.private]] 
 
-### #is_/same_as :: [FileClass~WebAPI.personal](/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.personal|FileClass~WebAPI.personal]] 
 
-### #is_/same_as :: [FileClass~WebAPI.secret](/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~Intangible/FileClass~Service/FileClass~WebAPI.secret|FileClass~WebAPI.secret]] 
 

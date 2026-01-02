@@ -65,17 +65,17 @@ Wikidata_SPARQL_query_equivalent: wd:Q483261 p:P2370/psn:P2370 [wikibase:quantit
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Unit~Dalton](/_Standards/Dimension/Mass/Unit~Dalton.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Mass/Unit~Dalton|Unit~Dalton]] 
 
-### #is_/same_as :: [Unit~Dalton.public](/_public/Dimension/Mass/Unit~Dalton.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Mass/Unit~Dalton.public|Unit~Dalton.public]] 
 
-### #is_/same_as :: [Unit~Dalton.internal](/_internal/Dimension/Mass/Unit~Dalton.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Mass/Unit~Dalton.internal|Unit~Dalton.internal]] 
 
-### #is_/same_as :: [Unit~Dalton.protect](/_protect/Dimension/Mass/Unit~Dalton.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Mass/Unit~Dalton.protect|Unit~Dalton.protect]] 
 
-### #is_/same_as :: [Unit~Dalton.private](/_private/Dimension/Mass/Unit~Dalton.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Mass/Unit~Dalton.private|Unit~Dalton.private]] 
 
-### #is_/same_as :: [Unit~Dalton.personal](/_personal/Dimension/Mass/Unit~Dalton.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Mass/Unit~Dalton.personal|Unit~Dalton.personal]] 
 
-### #is_/same_as :: [Unit~Dalton.secret](/_secret/Dimension/Mass/Unit~Dalton.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Mass/Unit~Dalton.secret|Unit~Dalton.secret]] 
 

@@ -138,17 +138,17 @@ date_of_birth: 1908-05-23T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bardeen,John](/_Standards/Science/Physics/Physicist/Bardeen,John.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Physicist/Bardeen,John|Bardeen,John]] 
 
-### #is_/same_as :: [Bardeen,John.public](/_public/Science/Physics/Physicist/Bardeen,John.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Physicist/Bardeen,John.public|Bardeen,John.public]] 
 
-### #is_/same_as :: [Bardeen,John.internal](/_internal/Science/Physics/Physicist/Bardeen,John.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Physicist/Bardeen,John.internal|Bardeen,John.internal]] 
 
-### #is_/same_as :: [Bardeen,John.protect](/_protect/Science/Physics/Physicist/Bardeen,John.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Physicist/Bardeen,John.protect|Bardeen,John.protect]] 
 
-### #is_/same_as :: [Bardeen,John.private](/_private/Science/Physics/Physicist/Bardeen,John.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Physicist/Bardeen,John.private|Bardeen,John.private]] 
 
-### #is_/same_as :: [Bardeen,John.personal](/_personal/Science/Physics/Physicist/Bardeen,John.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Physicist/Bardeen,John.personal|Bardeen,John.personal]] 
 
-### #is_/same_as :: [Bardeen,John.secret](/_secret/Science/Physics/Physicist/Bardeen,John.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Physicist/Bardeen,John.secret|Bardeen,John.secret]] 
 

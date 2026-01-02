@@ -88,17 +88,17 @@ Wolfram_Language_entity_code: Entity["HistoricalEvent", "CodeHammurabi"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Code_of_Hammurabi](/_Standards/Society/Law/Civil_Law/Code_of_Hammurabi.md) 
+### #is_/same_as :: [[/_Standards/Society/Law/Civil_Law/Code_of_Hammurabi|Code_of_Hammurabi]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.public](/_public/Society/Law/Civil_Law/Code_of_Hammurabi.public.md) 
+### #is_/same_as :: [[/_public/Society/Law/Civil_Law/Code_of_Hammurabi.public|Code_of_Hammurabi.public]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.internal](/_internal/Society/Law/Civil_Law/Code_of_Hammurabi.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Law/Civil_Law/Code_of_Hammurabi.internal|Code_of_Hammurabi.internal]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.protect](/_protect/Society/Law/Civil_Law/Code_of_Hammurabi.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Law/Civil_Law/Code_of_Hammurabi.protect|Code_of_Hammurabi.protect]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.private](/_private/Society/Law/Civil_Law/Code_of_Hammurabi.private.md) 
+### #is_/same_as :: [[/_private/Society/Law/Civil_Law/Code_of_Hammurabi.private|Code_of_Hammurabi.private]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.personal](/_personal/Society/Law/Civil_Law/Code_of_Hammurabi.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Law/Civil_Law/Code_of_Hammurabi.personal|Code_of_Hammurabi.personal]] 
 
-### #is_/same_as :: [Code_of_Hammurabi.secret](/_secret/Society/Law/Civil_Law/Code_of_Hammurabi.secret.md)
+### #is_/same_as :: [[/_secret/Society/Law/Civil_Law/Code_of_Hammurabi.secret|Code_of_Hammurabi.secret]] 
 

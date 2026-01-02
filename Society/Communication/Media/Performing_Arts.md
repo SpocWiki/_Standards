@@ -23,17 +23,17 @@
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Performing_Arts](/_Standards/Society/Communication/Media/Performing_Arts.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Performing_Arts|Performing_Arts]] 
 
-### #is_/same_as :: [Performing_Arts.public](/_public/Society/Communication/Media/Performing_Arts.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Performing_Arts.public|Performing_Arts.public]] 
 
-### #is_/same_as :: [Performing_Arts.internal](/_internal/Society/Communication/Media/Performing_Arts.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Performing_Arts.internal|Performing_Arts.internal]] 
 
-### #is_/same_as :: [Performing_Arts.protect](/_protect/Society/Communication/Media/Performing_Arts.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Performing_Arts.protect|Performing_Arts.protect]] 
 
-### #is_/same_as :: [Performing_Arts.private](/_private/Society/Communication/Media/Performing_Arts.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Performing_Arts.private|Performing_Arts.private]] 
 
-### #is_/same_as :: [Performing_Arts.personal](/_personal/Society/Communication/Media/Performing_Arts.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Performing_Arts.personal|Performing_Arts.personal]] 
 
-### #is_/same_as :: [Performing_Arts.secret](/_secret/Society/Communication/Media/Performing_Arts.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Performing_Arts.secret|Performing_Arts.secret]] 
 

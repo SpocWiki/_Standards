@@ -44,17 +44,17 @@ Inside leg (measured between crotch and soles of feet). Used, for example, to fi
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg](/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg|Body_Measurement_Inside_Leg]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.public](/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.public|Body_Measurement_Inside_Leg.public]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.internal](/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.internal|Body_Measurement_Inside_Leg.internal]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.protect](/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.protect|Body_Measurement_Inside_Leg.protect]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.private](/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.private|Body_Measurement_Inside_Leg.private]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.personal](/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.personal|Body_Measurement_Inside_Leg.personal]] 
 
-### #is_/same_as :: [Body_Measurement_Inside_Leg.secret](/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Measurement_Type_Enumeration/Body_Measurement_Type_Enumeration/Body_Measurement_Inside_Leg.secret|Body_Measurement_Inside_Leg.secret]] 
 

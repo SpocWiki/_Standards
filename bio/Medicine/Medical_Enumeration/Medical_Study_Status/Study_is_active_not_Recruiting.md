@@ -42,17 +42,17 @@ Active, but not recruiting new participants.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting](/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting|Study_is_active_not_Recruiting]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.public](/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.public|Study_is_active_not_Recruiting.public]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.internal](/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.internal|Study_is_active_not_Recruiting.internal]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.protect](/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.protect|Study_is_active_not_Recruiting.protect]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.private](/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.private|Study_is_active_not_Recruiting.private]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.personal](/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.personal|Study_is_active_not_Recruiting.personal]] 
 
-### #is_/same_as :: [Study_is_active_not_Recruiting.secret](/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Enumeration/Medical_Study_Status/Study_is_active_not_Recruiting.secret|Study_is_active_not_Recruiting.secret]] 
 

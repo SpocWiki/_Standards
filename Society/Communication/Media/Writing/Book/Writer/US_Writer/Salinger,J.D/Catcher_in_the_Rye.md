@@ -68,17 +68,17 @@ last_line: It’s funny. Don’t ever tell anybody anything. If you do, you star
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Catcher_in_the_Rye](/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye|Catcher_in_the_Rye]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.public](/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.public|Catcher_in_the_Rye.public]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.internal](/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.internal|Catcher_in_the_Rye.internal]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.protect](/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.protect|Catcher_in_the_Rye.protect]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.private](/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.private|Catcher_in_the_Rye.private]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.personal](/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.personal|Catcher_in_the_Rye.personal]] 
 
-### #is_/same_as :: [Catcher_in_the_Rye.secret](/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Writing/Book/Writer/US_Writer/Salinger,J.D/Catcher_in_the_Rye.secret|Catcher_in_the_Rye.secret]] 
 

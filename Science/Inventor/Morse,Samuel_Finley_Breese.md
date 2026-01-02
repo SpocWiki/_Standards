@@ -175,17 +175,17 @@ while painting a picture of the Marquis de Lafayette when she died.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese](/_Standards/Science/Inventor/Morse,Samuel_Finley_Breese.md) 
+### #is_/same_as :: [[/_Standards/Science/Inventor/Morse,Samuel_Finley_Breese|Morse,Samuel_Finley_Breese]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.public](/_public/Science/Inventor/Morse,Samuel_Finley_Breese.public.md) 
+### #is_/same_as :: [[/_public/Science/Inventor/Morse,Samuel_Finley_Breese.public|Morse,Samuel_Finley_Breese.public]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.internal](/_internal/Science/Inventor/Morse,Samuel_Finley_Breese.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Inventor/Morse,Samuel_Finley_Breese.internal|Morse,Samuel_Finley_Breese.internal]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.protect](/_protect/Science/Inventor/Morse,Samuel_Finley_Breese.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Inventor/Morse,Samuel_Finley_Breese.protect|Morse,Samuel_Finley_Breese.protect]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.private](/_private/Science/Inventor/Morse,Samuel_Finley_Breese.private.md) 
+### #is_/same_as :: [[/_private/Science/Inventor/Morse,Samuel_Finley_Breese.private|Morse,Samuel_Finley_Breese.private]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.personal](/_personal/Science/Inventor/Morse,Samuel_Finley_Breese.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Inventor/Morse,Samuel_Finley_Breese.personal|Morse,Samuel_Finley_Breese.personal]] 
 
-### #is_/same_as :: [Morse,Samuel_Finley_Breese.secret](/_secret/Science/Inventor/Morse,Samuel_Finley_Breese.secret.md)
+### #is_/same_as :: [[/_secret/Science/Inventor/Morse,Samuel_Finley_Breese.secret|Morse,Samuel_Finley_Breese.secret]] 
 

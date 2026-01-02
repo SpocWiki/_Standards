@@ -18,17 +18,17 @@ so the Equations retain their Shape when switching Dimensions.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Linear_Dimension](/_Standards/Dimension/Linear_Dimension.md) 
+### #is_/same_as :: [[/_Standards/Dimension/Linear_Dimension|Linear_Dimension]] 
 
-### #is_/same_as :: [Linear_Dimension.public](/_public/Dimension/Linear_Dimension.public.md) 
+### #is_/same_as :: [[/_public/Dimension/Linear_Dimension.public|Linear_Dimension.public]] 
 
-### #is_/same_as :: [Linear_Dimension.internal](/_internal/Dimension/Linear_Dimension.internal.md) 
+### #is_/same_as :: [[/_internal/Dimension/Linear_Dimension.internal|Linear_Dimension.internal]] 
 
-### #is_/same_as :: [Linear_Dimension.protect](/_protect/Dimension/Linear_Dimension.protect.md) 
+### #is_/same_as :: [[/_protect/Dimension/Linear_Dimension.protect|Linear_Dimension.protect]] 
 
-### #is_/same_as :: [Linear_Dimension.private](/_private/Dimension/Linear_Dimension.private.md) 
+### #is_/same_as :: [[/_private/Dimension/Linear_Dimension.private|Linear_Dimension.private]] 
 
-### #is_/same_as :: [Linear_Dimension.personal](/_personal/Dimension/Linear_Dimension.personal.md) 
+### #is_/same_as :: [[/_personal/Dimension/Linear_Dimension.personal|Linear_Dimension.personal]] 
 
-### #is_/same_as :: [Linear_Dimension.secret](/_secret/Dimension/Linear_Dimension.secret.md)
+### #is_/same_as :: [[/_secret/Dimension/Linear_Dimension.secret|Linear_Dimension.secret]] 
 

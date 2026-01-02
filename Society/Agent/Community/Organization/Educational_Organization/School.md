@@ -69,17 +69,17 @@ A school.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [School](/_Standards/Society/Agent/Community/Organization/Educational_Organization/School.md) 
+### #is_/same_as :: [[/_Standards/Society/Agent/Community/Organization/Educational_Organization/School|School]] 
 
-### #is_/same_as :: [School.public](/_public/Society/Agent/Community/Organization/Educational_Organization/School.public.md) 
+### #is_/same_as :: [[/_public/Society/Agent/Community/Organization/Educational_Organization/School.public|School.public]] 
 
-### #is_/same_as :: [School.internal](/_internal/Society/Agent/Community/Organization/Educational_Organization/School.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Agent/Community/Organization/Educational_Organization/School.internal|School.internal]] 
 
-### #is_/same_as :: [School.protect](/_protect/Society/Agent/Community/Organization/Educational_Organization/School.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Agent/Community/Organization/Educational_Organization/School.protect|School.protect]] 
 
-### #is_/same_as :: [School.private](/_private/Society/Agent/Community/Organization/Educational_Organization/School.private.md) 
+### #is_/same_as :: [[/_private/Society/Agent/Community/Organization/Educational_Organization/School.private|School.private]] 
 
-### #is_/same_as :: [School.personal](/_personal/Society/Agent/Community/Organization/Educational_Organization/School.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Agent/Community/Organization/Educational_Organization/School.personal|School.personal]] 
 
-### #is_/same_as :: [School.secret](/_secret/Society/Agent/Community/Organization/Educational_Organization/School.secret.md)
+### #is_/same_as :: [[/_secret/Society/Agent/Community/Organization/Educational_Organization/School.secret|School.secret]] 
 

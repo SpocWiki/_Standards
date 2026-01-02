@@ -66,17 +66,17 @@ native_label: ᐃᓄᐃᑦ
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Inuit](/_Standards/Earth/Continent/Arctica/Inuit.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Arctica/Inuit|Inuit]] 
 
-### #is_/same_as :: [Inuit.public](/_public/Earth/Continent/Arctica/Inuit.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Arctica/Inuit.public|Inuit.public]] 
 
-### #is_/same_as :: [Inuit.internal](/_internal/Earth/Continent/Arctica/Inuit.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Arctica/Inuit.internal|Inuit.internal]] 
 
-### #is_/same_as :: [Inuit.protect](/_protect/Earth/Continent/Arctica/Inuit.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Arctica/Inuit.protect|Inuit.protect]] 
 
-### #is_/same_as :: [Inuit.private](/_private/Earth/Continent/Arctica/Inuit.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Arctica/Inuit.private|Inuit.private]] 
 
-### #is_/same_as :: [Inuit.personal](/_personal/Earth/Continent/Arctica/Inuit.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Arctica/Inuit.personal|Inuit.personal]] 
 
-### #is_/same_as :: [Inuit.secret](/_secret/Earth/Continent/Arctica/Inuit.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Arctica/Inuit.secret|Inuit.secret]] 
 

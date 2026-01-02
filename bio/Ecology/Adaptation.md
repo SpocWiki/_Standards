@@ -52,17 +52,17 @@ Dewey_Decimal_Classification: "578.47"
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Adaptation](/_Standards/bio/Ecology/Adaptation.md) 
+### #is_/same_as :: [[/_Standards/bio/Ecology/Adaptation|Adaptation]] 
 
-### #is_/same_as :: [Adaptation.public](/_public/bio/Ecology/Adaptation.public.md) 
+### #is_/same_as :: [[/_public/bio/Ecology/Adaptation.public|Adaptation.public]] 
 
-### #is_/same_as :: [Adaptation.internal](/_internal/bio/Ecology/Adaptation.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Ecology/Adaptation.internal|Adaptation.internal]] 
 
-### #is_/same_as :: [Adaptation.protect](/_protect/bio/Ecology/Adaptation.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Ecology/Adaptation.protect|Adaptation.protect]] 
 
-### #is_/same_as :: [Adaptation.private](/_private/bio/Ecology/Adaptation.private.md) 
+### #is_/same_as :: [[/_private/bio/Ecology/Adaptation.private|Adaptation.private]] 
 
-### #is_/same_as :: [Adaptation.personal](/_personal/bio/Ecology/Adaptation.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Ecology/Adaptation.personal|Adaptation.personal]] 
 
-### #is_/same_as :: [Adaptation.secret](/_secret/bio/Ecology/Adaptation.secret.md)
+### #is_/same_as :: [[/_secret/bio/Ecology/Adaptation.secret|Adaptation.secret]] 
 

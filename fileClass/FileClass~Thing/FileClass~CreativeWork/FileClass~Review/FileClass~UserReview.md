@@ -37,17 +37,17 @@ A review created by an end-user (e.g. consumer, purchaser, attendee etc.), in co
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~UserReview](/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview|FileClass~UserReview]] 
 
-### #is_/same_as :: [FileClass~UserReview.public](/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.public|FileClass~UserReview.public]] 
 
-### #is_/same_as :: [FileClass~UserReview.internal](/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.internal|FileClass~UserReview.internal]] 
 
-### #is_/same_as :: [FileClass~UserReview.protect](/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.protect|FileClass~UserReview.protect]] 
 
-### #is_/same_as :: [FileClass~UserReview.private](/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.private|FileClass~UserReview.private]] 
 
-### #is_/same_as :: [FileClass~UserReview.personal](/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.personal|FileClass~UserReview.personal]] 
 
-### #is_/same_as :: [FileClass~UserReview.secret](/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~CreativeWork/FileClass~Review/FileClass~UserReview.secret|FileClass~UserReview.secret]] 
 

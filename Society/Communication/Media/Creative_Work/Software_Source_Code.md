@@ -42,17 +42,17 @@ Computer programming source code. Example: Full (compile ready) solutions, code 
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Software_Source_Code](/_Standards/Society/Communication/Media/Creative_Work/Software_Source_Code.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Creative_Work/Software_Source_Code|Software_Source_Code]] 
 
-### #is_/same_as :: [Software_Source_Code.public](/_public/Society/Communication/Media/Creative_Work/Software_Source_Code.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Creative_Work/Software_Source_Code.public|Software_Source_Code.public]] 
 
-### #is_/same_as :: [Software_Source_Code.internal](/_internal/Society/Communication/Media/Creative_Work/Software_Source_Code.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Creative_Work/Software_Source_Code.internal|Software_Source_Code.internal]] 
 
-### #is_/same_as :: [Software_Source_Code.protect](/_protect/Society/Communication/Media/Creative_Work/Software_Source_Code.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Creative_Work/Software_Source_Code.protect|Software_Source_Code.protect]] 
 
-### #is_/same_as :: [Software_Source_Code.private](/_private/Society/Communication/Media/Creative_Work/Software_Source_Code.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Creative_Work/Software_Source_Code.private|Software_Source_Code.private]] 
 
-### #is_/same_as :: [Software_Source_Code.personal](/_personal/Society/Communication/Media/Creative_Work/Software_Source_Code.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Creative_Work/Software_Source_Code.personal|Software_Source_Code.personal]] 
 
-### #is_/same_as :: [Software_Source_Code.secret](/_secret/Society/Communication/Media/Creative_Work/Software_Source_Code.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Creative_Work/Software_Source_Code.secret|Software_Source_Code.secret]] 
 

@@ -99,17 +99,17 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Group](/_Standards/Mathematics/Algebra/Group_Theory/Group.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Algebra/Group_Theory/Group|Group]] 
 
-### #is_/same_as :: [Group.public](/_public/Mathematics/Algebra/Group_Theory/Group.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Algebra/Group_Theory/Group.public|Group.public]] 
 
-### #is_/same_as :: [Group.internal](/_internal/Mathematics/Algebra/Group_Theory/Group.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Algebra/Group_Theory/Group.internal|Group.internal]] 
 
-### #is_/same_as :: [Group.protect](/_protect/Mathematics/Algebra/Group_Theory/Group.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Algebra/Group_Theory/Group.protect|Group.protect]] 
 
-### #is_/same_as :: [Group.private](/_private/Mathematics/Algebra/Group_Theory/Group.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Algebra/Group_Theory/Group.private|Group.private]] 
 
-### #is_/same_as :: [Group.personal](/_personal/Mathematics/Algebra/Group_Theory/Group.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Algebra/Group_Theory/Group.personal|Group.personal]] 
 
-### #is_/same_as :: [Group.secret](/_secret/Mathematics/Algebra/Group_Theory/Group.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Algebra/Group_Theory/Group.secret|Group.secret]] 
 

@@ -55,17 +55,17 @@ U_S_National_Archives_Identifier: 10639468
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Fuel](/_Standards/Chemistry/Material/Fuel.md) 
+### #is_/same_as :: [[/_Standards/Chemistry/Material/Fuel|Fuel]] 
 
-### #is_/same_as :: [Fuel.public](/_public/Chemistry/Material/Fuel.public.md) 
+### #is_/same_as :: [[/_public/Chemistry/Material/Fuel.public|Fuel.public]] 
 
-### #is_/same_as :: [Fuel.internal](/_internal/Chemistry/Material/Fuel.internal.md) 
+### #is_/same_as :: [[/_internal/Chemistry/Material/Fuel.internal|Fuel.internal]] 
 
-### #is_/same_as :: [Fuel.protect](/_protect/Chemistry/Material/Fuel.protect.md) 
+### #is_/same_as :: [[/_protect/Chemistry/Material/Fuel.protect|Fuel.protect]] 
 
-### #is_/same_as :: [Fuel.private](/_private/Chemistry/Material/Fuel.private.md) 
+### #is_/same_as :: [[/_private/Chemistry/Material/Fuel.private|Fuel.private]] 
 
-### #is_/same_as :: [Fuel.personal](/_personal/Chemistry/Material/Fuel.personal.md) 
+### #is_/same_as :: [[/_personal/Chemistry/Material/Fuel.personal|Fuel.personal]] 
 
-### #is_/same_as :: [Fuel.secret](/_secret/Chemistry/Material/Fuel.secret.md)
+### #is_/same_as :: [[/_secret/Chemistry/Material/Fuel.secret|Fuel.secret]] 
 

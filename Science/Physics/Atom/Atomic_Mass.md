@@ -50,17 +50,17 @@ Krugosvet_article: nauka_i_tehnika/himiya/ATOMNAYA_MASSA.html
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Atomic_Mass](/_Standards/Science/Physics/Atom/Atomic_Mass.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Atom/Atomic_Mass|Atomic_Mass]] 
 
-### #is_/same_as :: [Atomic_Mass.public](/_public/Science/Physics/Atom/Atomic_Mass.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Atom/Atomic_Mass.public|Atomic_Mass.public]] 
 
-### #is_/same_as :: [Atomic_Mass.internal](/_internal/Science/Physics/Atom/Atomic_Mass.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Atom/Atomic_Mass.internal|Atomic_Mass.internal]] 
 
-### #is_/same_as :: [Atomic_Mass.protect](/_protect/Science/Physics/Atom/Atomic_Mass.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Atom/Atomic_Mass.protect|Atomic_Mass.protect]] 
 
-### #is_/same_as :: [Atomic_Mass.private](/_private/Science/Physics/Atom/Atomic_Mass.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Atom/Atomic_Mass.private|Atomic_Mass.private]] 
 
-### #is_/same_as :: [Atomic_Mass.personal](/_personal/Science/Physics/Atom/Atomic_Mass.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Atom/Atomic_Mass.personal|Atomic_Mass.personal]] 
 
-### #is_/same_as :: [Atomic_Mass.secret](/_secret/Science/Physics/Atom/Atomic_Mass.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Atom/Atomic_Mass.secret|Atomic_Mass.secret]] 
 

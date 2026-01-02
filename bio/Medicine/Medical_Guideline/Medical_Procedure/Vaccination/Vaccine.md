@@ -82,17 +82,17 @@ Dewey_Decimal_Classification: 636.0895372
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vaccine](/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine|Vaccine]] 
 
-### #is_/same_as :: [Vaccine.public](/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.public|Vaccine.public]] 
 
-### #is_/same_as :: [Vaccine.internal](/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.internal|Vaccine.internal]] 
 
-### #is_/same_as :: [Vaccine.protect](/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.protect|Vaccine.protect]] 
 
-### #is_/same_as :: [Vaccine.private](/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.private|Vaccine.private]] 
 
-### #is_/same_as :: [Vaccine.personal](/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.personal|Vaccine.personal]] 
 
-### #is_/same_as :: [Vaccine.secret](/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Medical_Guideline/Medical_Procedure/Vaccination/Vaccine.secret|Vaccine.secret]] 
 

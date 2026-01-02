@@ -36,17 +36,17 @@ has_place_continent:: [[Asia]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA](/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA|FRENCH_INDO-CHINA]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.public](/_public/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.public|FRENCH_INDO-CHINA.public]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.internal](/_internal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.internal|FRENCH_INDO-CHINA.internal]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.protect](/_protect/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.protect|FRENCH_INDO-CHINA.protect]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.private](/_private/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.private|FRENCH_INDO-CHINA.private]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.personal](/_personal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.personal|FRENCH_INDO-CHINA.personal]] 
 
-### #is_/same_as :: [FRENCH_INDO-CHINA.secret](/_secret/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~South~East/FRENCH_INDO-CHINA.secret|FRENCH_INDO-CHINA.secret]] 
 

@@ -64,17 +64,17 @@ U_S_National_Archives_Identifier: 10642247
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Pharmacology](/_Standards/bio/Medicine/Pharmacology.md) 
+### #is_/same_as :: [[/_Standards/bio/Medicine/Pharmacology|Pharmacology]] 
 
-### #is_/same_as :: [Pharmacology.public](/_public/bio/Medicine/Pharmacology.public.md) 
+### #is_/same_as :: [[/_public/bio/Medicine/Pharmacology.public|Pharmacology.public]] 
 
-### #is_/same_as :: [Pharmacology.internal](/_internal/bio/Medicine/Pharmacology.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Medicine/Pharmacology.internal|Pharmacology.internal]] 
 
-### #is_/same_as :: [Pharmacology.protect](/_protect/bio/Medicine/Pharmacology.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Medicine/Pharmacology.protect|Pharmacology.protect]] 
 
-### #is_/same_as :: [Pharmacology.private](/_private/bio/Medicine/Pharmacology.private.md) 
+### #is_/same_as :: [[/_private/bio/Medicine/Pharmacology.private|Pharmacology.private]] 
 
-### #is_/same_as :: [Pharmacology.personal](/_personal/bio/Medicine/Pharmacology.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Medicine/Pharmacology.personal|Pharmacology.personal]] 
 
-### #is_/same_as :: [Pharmacology.secret](/_secret/bio/Medicine/Pharmacology.secret.md)
+### #is_/same_as :: [[/_secret/bio/Medicine/Pharmacology.secret|Pharmacology.secret]] 
 

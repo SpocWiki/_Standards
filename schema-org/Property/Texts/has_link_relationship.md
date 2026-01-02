@@ -47,17 +47,17 @@ Predicated describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_link_relationship](/_Standards/schema-org/Property/Texts/has_link_relationship.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/Texts/has_link_relationship|has_link_relationship]] 
 
-### #is_/same_as :: [has_link_relationship.public](/_public/schema-org/Property/Texts/has_link_relationship.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/Texts/has_link_relationship.public|has_link_relationship.public]] 
 
-### #is_/same_as :: [has_link_relationship.internal](/_internal/schema-org/Property/Texts/has_link_relationship.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/Texts/has_link_relationship.internal|has_link_relationship.internal]] 
 
-### #is_/same_as :: [has_link_relationship.protect](/_protect/schema-org/Property/Texts/has_link_relationship.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/Texts/has_link_relationship.protect|has_link_relationship.protect]] 
 
-### #is_/same_as :: [has_link_relationship.private](/_private/schema-org/Property/Texts/has_link_relationship.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/Texts/has_link_relationship.private|has_link_relationship.private]] 
 
-### #is_/same_as :: [has_link_relationship.personal](/_personal/schema-org/Property/Texts/has_link_relationship.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/Texts/has_link_relationship.personal|has_link_relationship.personal]] 
 
-### #is_/same_as :: [has_link_relationship.secret](/_secret/schema-org/Property/Texts/has_link_relationship.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/Texts/has_link_relationship.secret|has_link_relationship.secret]] 
 

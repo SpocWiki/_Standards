@@ -72,17 +72,17 @@ Wolfram_Language_entity_code: Entity["PhysicalEffect", "BoseEinsteinCondensate"]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bose–Einstein_Condensate](/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.md) 
+### #is_/same_as :: [[/_Standards/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate|Bose–Einstein_Condensate]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.public](/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.public.md) 
+### #is_/same_as :: [[/_public/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.public|Bose–Einstein_Condensate.public]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.internal](/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.internal.md) 
+### #is_/same_as :: [[/_internal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.internal|Bose–Einstein_Condensate.internal]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.protect](/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.protect.md) 
+### #is_/same_as :: [[/_protect/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.protect|Bose–Einstein_Condensate.protect]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.private](/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.private.md) 
+### #is_/same_as :: [[/_private/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.private|Bose–Einstein_Condensate.private]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.personal](/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.personal.md) 
+### #is_/same_as :: [[/_personal/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.personal|Bose–Einstein_Condensate.personal]] 
 
-### #is_/same_as :: [Bose–Einstein_Condensate.secret](/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.secret.md)
+### #is_/same_as :: [[/_secret/Science/Physics/Quantum_Mechanics/Standard_Model/Bose–Einstein_Condensate.secret|Bose–Einstein_Condensate.secret]] 
 

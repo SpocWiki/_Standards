@@ -47,17 +47,17 @@ Predicate describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_number_of_rooms](/_Standards/schema-org/Property/has_number_of/has_number_of_rooms.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Property/has_number_of/has_number_of_rooms|has_number_of_rooms]] 
 
-### #is_/same_as :: [has_number_of_rooms.public](/_public/schema-org/Property/has_number_of/has_number_of_rooms.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Property/has_number_of/has_number_of_rooms.public|has_number_of_rooms.public]] 
 
-### #is_/same_as :: [has_number_of_rooms.internal](/_internal/schema-org/Property/has_number_of/has_number_of_rooms.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Property/has_number_of/has_number_of_rooms.internal|has_number_of_rooms.internal]] 
 
-### #is_/same_as :: [has_number_of_rooms.protect](/_protect/schema-org/Property/has_number_of/has_number_of_rooms.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Property/has_number_of/has_number_of_rooms.protect|has_number_of_rooms.protect]] 
 
-### #is_/same_as :: [has_number_of_rooms.private](/_private/schema-org/Property/has_number_of/has_number_of_rooms.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Property/has_number_of/has_number_of_rooms.private|has_number_of_rooms.private]] 
 
-### #is_/same_as :: [has_number_of_rooms.personal](/_personal/schema-org/Property/has_number_of/has_number_of_rooms.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Property/has_number_of/has_number_of_rooms.personal|has_number_of_rooms.personal]] 
 
-### #is_/same_as :: [has_number_of_rooms.secret](/_secret/schema-org/Property/has_number_of/has_number_of_rooms.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Property/has_number_of/has_number_of_rooms.secret|has_number_of_rooms.secret]] 
 

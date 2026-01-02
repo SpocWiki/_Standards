@@ -42,17 +42,17 @@ All-wheel Drive is a transmission layout where the engine drives all four wheels
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration](/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration|All_Wheel_Drive_Configuration]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.public](/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.public|All_Wheel_Drive_Configuration.public]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.internal](/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.internal|All_Wheel_Drive_Configuration.internal]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.protect](/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.protect|All_Wheel_Drive_Configuration.protect]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.private](/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.private|All_Wheel_Drive_Configuration.private]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.personal](/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.personal|All_Wheel_Drive_Configuration.personal]] 
 
-### #is_/same_as :: [All_Wheel_Drive_Configuration.secret](/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Enumeration/Qualitative_Value/Drive_Wheel_Configuration_Value/All_Wheel_Drive_Configuration.secret|All_Wheel_Drive_Configuration.secret]] 
 

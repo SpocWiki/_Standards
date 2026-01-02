@@ -37,17 +37,17 @@ An indication for preventing an underlying condition, symptom, etc.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [FileClass~PreventionIndication](/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.md) 
+### #is_/same_as :: [[/_Standards/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication|FileClass~PreventionIndication]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.public](/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.public.md) 
+### #is_/same_as :: [[/_public/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.public|FileClass~PreventionIndication.public]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.internal](/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.internal.md) 
+### #is_/same_as :: [[/_internal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.internal|FileClass~PreventionIndication.internal]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.protect](/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.protect.md) 
+### #is_/same_as :: [[/_protect/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.protect|FileClass~PreventionIndication.protect]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.private](/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.private.md) 
+### #is_/same_as :: [[/_private/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.private|FileClass~PreventionIndication.private]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.personal](/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.personal.md) 
+### #is_/same_as :: [[/_personal/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.personal|FileClass~PreventionIndication.personal]] 
 
-### #is_/same_as :: [FileClass~PreventionIndication.secret](/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret.md)
+### #is_/same_as :: [[/_secret/fileClass/FileClass~Thing/FileClass~MedicalEntity/FileClass~MedicalIndication/FileClass~PreventionIndication.secret|FileClass~PreventionIndication.secret]] 
 

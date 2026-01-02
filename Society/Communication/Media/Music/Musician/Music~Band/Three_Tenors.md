@@ -24,17 +24,17 @@ Again 4 years later during the Soccer WM 1998 they appeared.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Three_Tenors](/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.md) 
+### #is_/same_as :: [[/_Standards/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors|Three_Tenors]] 
 
-### #is_/same_as :: [Three_Tenors.public](/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.public.md) 
+### #is_/same_as :: [[/_public/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.public|Three_Tenors.public]] 
 
-### #is_/same_as :: [Three_Tenors.internal](/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.internal|Three_Tenors.internal]] 
 
-### #is_/same_as :: [Three_Tenors.protect](/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.protect|Three_Tenors.protect]] 
 
-### #is_/same_as :: [Three_Tenors.private](/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.private.md) 
+### #is_/same_as :: [[/_private/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.private|Three_Tenors.private]] 
 
-### #is_/same_as :: [Three_Tenors.personal](/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.personal|Three_Tenors.personal]] 
 
-### #is_/same_as :: [Three_Tenors.secret](/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.secret.md)
+### #is_/same_as :: [[/_secret/Society/Communication/Media/Music/Musician/Music~Band/Three_Tenors.secret|Three_Tenors.secret]] 
 

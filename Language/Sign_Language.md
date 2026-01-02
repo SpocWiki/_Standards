@@ -104,17 +104,17 @@ The most common one is ASL (American Sign Language)
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sign_Language](/_Standards/Language/Sign_Language.md) 
+### #is_/same_as :: [[/_Standards/Language/Sign_Language|Sign_Language]] 
 
-### #is_/same_as :: [Sign_Language.public](/_public/Language/Sign_Language.public.md) 
+### #is_/same_as :: [[/_public/Language/Sign_Language.public|Sign_Language.public]] 
 
-### #is_/same_as :: [Sign_Language.internal](/_internal/Language/Sign_Language.internal.md) 
+### #is_/same_as :: [[/_internal/Language/Sign_Language.internal|Sign_Language.internal]] 
 
-### #is_/same_as :: [Sign_Language.protect](/_protect/Language/Sign_Language.protect.md) 
+### #is_/same_as :: [[/_protect/Language/Sign_Language.protect|Sign_Language.protect]] 
 
-### #is_/same_as :: [Sign_Language.private](/_private/Language/Sign_Language.private.md) 
+### #is_/same_as :: [[/_private/Language/Sign_Language.private|Sign_Language.private]] 
 
-### #is_/same_as :: [Sign_Language.personal](/_personal/Language/Sign_Language.personal.md) 
+### #is_/same_as :: [[/_personal/Language/Sign_Language.personal|Sign_Language.personal]] 
 
-### #is_/same_as :: [Sign_Language.secret](/_secret/Language/Sign_Language.secret.md)
+### #is_/same_as :: [[/_secret/Language/Sign_Language.secret|Sign_Language.secret]] 
 

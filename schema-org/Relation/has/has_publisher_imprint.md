@@ -44,17 +44,17 @@ Relation describes that:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [has_publisher_imprint](/_Standards/schema-org/Relation/has/has_publisher_imprint.md) 
+### #is_/same_as :: [[/_Standards/schema-org/Relation/has/has_publisher_imprint|has_publisher_imprint]] 
 
-### #is_/same_as :: [has_publisher_imprint.public](/_public/schema-org/Relation/has/has_publisher_imprint.public.md) 
+### #is_/same_as :: [[/_public/schema-org/Relation/has/has_publisher_imprint.public|has_publisher_imprint.public]] 
 
-### #is_/same_as :: [has_publisher_imprint.internal](/_internal/schema-org/Relation/has/has_publisher_imprint.internal.md) 
+### #is_/same_as :: [[/_internal/schema-org/Relation/has/has_publisher_imprint.internal|has_publisher_imprint.internal]] 
 
-### #is_/same_as :: [has_publisher_imprint.protect](/_protect/schema-org/Relation/has/has_publisher_imprint.protect.md) 
+### #is_/same_as :: [[/_protect/schema-org/Relation/has/has_publisher_imprint.protect|has_publisher_imprint.protect]] 
 
-### #is_/same_as :: [has_publisher_imprint.private](/_private/schema-org/Relation/has/has_publisher_imprint.private.md) 
+### #is_/same_as :: [[/_private/schema-org/Relation/has/has_publisher_imprint.private|has_publisher_imprint.private]] 
 
-### #is_/same_as :: [has_publisher_imprint.personal](/_personal/schema-org/Relation/has/has_publisher_imprint.personal.md) 
+### #is_/same_as :: [[/_personal/schema-org/Relation/has/has_publisher_imprint.personal|has_publisher_imprint.personal]] 
 
-### #is_/same_as :: [has_publisher_imprint.secret](/_secret/schema-org/Relation/has/has_publisher_imprint.secret.md)
+### #is_/same_as :: [[/_secret/schema-org/Relation/has/has_publisher_imprint.secret|has_publisher_imprint.secret]] 
 

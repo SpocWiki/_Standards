@@ -47,17 +47,17 @@ Commons_category: Confederations
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Confederation](/_Standards/Society/Politics/Government/Confederation.md) 
+### #is_/same_as :: [[/_Standards/Society/Politics/Government/Confederation|Confederation]] 
 
-### #is_/same_as :: [Confederation.public](/_public/Society/Politics/Government/Confederation.public.md) 
+### #is_/same_as :: [[/_public/Society/Politics/Government/Confederation.public|Confederation.public]] 
 
-### #is_/same_as :: [Confederation.internal](/_internal/Society/Politics/Government/Confederation.internal.md) 
+### #is_/same_as :: [[/_internal/Society/Politics/Government/Confederation.internal|Confederation.internal]] 
 
-### #is_/same_as :: [Confederation.protect](/_protect/Society/Politics/Government/Confederation.protect.md) 
+### #is_/same_as :: [[/_protect/Society/Politics/Government/Confederation.protect|Confederation.protect]] 
 
-### #is_/same_as :: [Confederation.private](/_private/Society/Politics/Government/Confederation.private.md) 
+### #is_/same_as :: [[/_private/Society/Politics/Government/Confederation.private|Confederation.private]] 
 
-### #is_/same_as :: [Confederation.personal](/_personal/Society/Politics/Government/Confederation.personal.md) 
+### #is_/same_as :: [[/_personal/Society/Politics/Government/Confederation.personal|Confederation.personal]] 
 
-### #is_/same_as :: [Confederation.secret](/_secret/Society/Politics/Government/Confederation.secret.md)
+### #is_/same_as :: [[/_secret/Society/Politics/Government/Confederation.secret|Confederation.secret]] 
 

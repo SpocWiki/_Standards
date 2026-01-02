@@ -89,17 +89,17 @@ Unicode_character: 🖩
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Calculator](/_Standards/Mathematics/Arithmetic/Calculator.md) 
+### #is_/same_as :: [[/_Standards/Mathematics/Arithmetic/Calculator|Calculator]] 
 
-### #is_/same_as :: [Calculator.public](/_public/Mathematics/Arithmetic/Calculator.public.md) 
+### #is_/same_as :: [[/_public/Mathematics/Arithmetic/Calculator.public|Calculator.public]] 
 
-### #is_/same_as :: [Calculator.internal](/_internal/Mathematics/Arithmetic/Calculator.internal.md) 
+### #is_/same_as :: [[/_internal/Mathematics/Arithmetic/Calculator.internal|Calculator.internal]] 
 
-### #is_/same_as :: [Calculator.protect](/_protect/Mathematics/Arithmetic/Calculator.protect.md) 
+### #is_/same_as :: [[/_protect/Mathematics/Arithmetic/Calculator.protect|Calculator.protect]] 
 
-### #is_/same_as :: [Calculator.private](/_private/Mathematics/Arithmetic/Calculator.private.md) 
+### #is_/same_as :: [[/_private/Mathematics/Arithmetic/Calculator.private|Calculator.private]] 
 
-### #is_/same_as :: [Calculator.personal](/_personal/Mathematics/Arithmetic/Calculator.personal.md) 
+### #is_/same_as :: [[/_personal/Mathematics/Arithmetic/Calculator.personal|Calculator.personal]] 
 
-### #is_/same_as :: [Calculator.secret](/_secret/Mathematics/Arithmetic/Calculator.secret.md)
+### #is_/same_as :: [[/_secret/Mathematics/Arithmetic/Calculator.secret|Calculator.secret]] 
 

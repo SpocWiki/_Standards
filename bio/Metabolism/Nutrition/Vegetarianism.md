@@ -61,17 +61,17 @@ Library_of_Congress_Classification: TX392-TX392.8
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Vegetarianism](/_Standards/bio/Metabolism/Nutrition/Vegetarianism.md) 
+### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Vegetarianism|Vegetarianism]] 
 
-### #is_/same_as :: [Vegetarianism.public](/_public/bio/Metabolism/Nutrition/Vegetarianism.public.md) 
+### #is_/same_as :: [[/_public/bio/Metabolism/Nutrition/Vegetarianism.public|Vegetarianism.public]] 
 
-### #is_/same_as :: [Vegetarianism.internal](/_internal/bio/Metabolism/Nutrition/Vegetarianism.internal.md) 
+### #is_/same_as :: [[/_internal/bio/Metabolism/Nutrition/Vegetarianism.internal|Vegetarianism.internal]] 
 
-### #is_/same_as :: [Vegetarianism.protect](/_protect/bio/Metabolism/Nutrition/Vegetarianism.protect.md) 
+### #is_/same_as :: [[/_protect/bio/Metabolism/Nutrition/Vegetarianism.protect|Vegetarianism.protect]] 
 
-### #is_/same_as :: [Vegetarianism.private](/_private/bio/Metabolism/Nutrition/Vegetarianism.private.md) 
+### #is_/same_as :: [[/_private/bio/Metabolism/Nutrition/Vegetarianism.private|Vegetarianism.private]] 
 
-### #is_/same_as :: [Vegetarianism.personal](/_personal/bio/Metabolism/Nutrition/Vegetarianism.personal.md) 
+### #is_/same_as :: [[/_personal/bio/Metabolism/Nutrition/Vegetarianism.personal|Vegetarianism.personal]] 
 
-### #is_/same_as :: [Vegetarianism.secret](/_secret/bio/Metabolism/Nutrition/Vegetarianism.secret.md)
+### #is_/same_as :: [[/_secret/bio/Metabolism/Nutrition/Vegetarianism.secret|Vegetarianism.secret]] 
 

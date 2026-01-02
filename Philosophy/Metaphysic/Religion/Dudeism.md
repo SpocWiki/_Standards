@@ -40,17 +40,17 @@ inception: 2005-01-01T00:00:00Z
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dudeism](/_Standards/Philosophy/Metaphysic/Religion/Dudeism.md) 
+### #is_/same_as :: [[/_Standards/Philosophy/Metaphysic/Religion/Dudeism|Dudeism]] 
 
-### #is_/same_as :: [Dudeism.public](/_public/Philosophy/Metaphysic/Religion/Dudeism.public.md) 
+### #is_/same_as :: [[/_public/Philosophy/Metaphysic/Religion/Dudeism.public|Dudeism.public]] 
 
-### #is_/same_as :: [Dudeism.internal](/_internal/Philosophy/Metaphysic/Religion/Dudeism.internal.md) 
+### #is_/same_as :: [[/_internal/Philosophy/Metaphysic/Religion/Dudeism.internal|Dudeism.internal]] 
 
-### #is_/same_as :: [Dudeism.protect](/_protect/Philosophy/Metaphysic/Religion/Dudeism.protect.md) 
+### #is_/same_as :: [[/_protect/Philosophy/Metaphysic/Religion/Dudeism.protect|Dudeism.protect]] 
 
-### #is_/same_as :: [Dudeism.private](/_private/Philosophy/Metaphysic/Religion/Dudeism.private.md) 
+### #is_/same_as :: [[/_private/Philosophy/Metaphysic/Religion/Dudeism.private|Dudeism.private]] 
 
-### #is_/same_as :: [Dudeism.personal](/_personal/Philosophy/Metaphysic/Religion/Dudeism.personal.md) 
+### #is_/same_as :: [[/_personal/Philosophy/Metaphysic/Religion/Dudeism.personal|Dudeism.personal]] 
 
-### #is_/same_as :: [Dudeism.secret](/_secret/Philosophy/Metaphysic/Religion/Dudeism.secret.md)
+### #is_/same_as :: [[/_secret/Philosophy/Metaphysic/Religion/Dudeism.secret|Dudeism.secret]] 
 
