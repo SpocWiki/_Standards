@@ -28,6 +28,8 @@ OpenStreetMap_tag_or_key: Tag:religion=animist
 
 # [[Animism]] 
 
+#is_/different_from :: [[Theism]] 
+#is_/different_from :: [[Atheism]] 
 #is_/same_as :: [[../../../WikiData/WD~Animism,43004|WD~Animism,43004]] 
 
 ## #has_/text_of_/abstract 

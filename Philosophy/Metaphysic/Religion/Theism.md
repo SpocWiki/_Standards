@@ -2,6 +2,7 @@
 # [[Theism]] 
 
 #is_/opposite_of :: [[Atheism|Atheism]] 
+#is_/different_from :: [[Animism]] 
 #is_/same_as :: [[../../../WikiData/WD~Theism,620805|WD~Theism,620805]]  
 
 ## #has_/text_of_/abstract 
