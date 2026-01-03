@@ -48,12 +48,12 @@ Chitons
 
 ------------------------------------------------------------------------------
 ![Tonicella lokii](Chitons/Tonicella_lineata.jpg)
-Scientific Name ::     Tonicella lokii
-Location ::           North America
+scientific_name ::     Tonicella lokii
+location ::           North America
 Creator              Photograph by E. Eugenia Patten
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

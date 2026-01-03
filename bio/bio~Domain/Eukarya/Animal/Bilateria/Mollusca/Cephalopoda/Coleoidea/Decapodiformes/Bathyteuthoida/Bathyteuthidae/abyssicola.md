@@ -143,12 +143,12 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 ![](abyssicola/Bathyteuthis2.jpg) 
 
   ---------
-  Copyright ::   © 1998 C. F. E. Roper
+  copyright ::   © 1998 C. F. E. Roper
   ---------
 ![](abyssicola/BabyssicolaDraw.jpg) 
 
   ---------
-  Copyright ::   © 1998 C. F. E. Roper
+  copyright ::   © 1998 C. F. E. Roper
   ---------
 
 

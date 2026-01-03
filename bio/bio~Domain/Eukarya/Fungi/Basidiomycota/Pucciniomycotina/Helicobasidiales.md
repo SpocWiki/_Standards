@@ -65,39 +65,39 @@ rDNA ITS regions. Mycological Research 106: 156-163.
 ![](HpMLutz.jpg)
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
-  Location ::           Germany, Baden-Württemberg, Tübingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
+  location ::           Germany, Baden-Württemberg, Tübingen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     fruitbody of the phytoparasitic teleomorph
   Collection           TUB 012601
   Collector            M. Lutz
-  Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Helicobasidiales/rr.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
-  Location ::           Germany, Baden-Württemberg, Stuttgart
+  scientific_name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
+  location ::           Germany, Baden-Württemberg, Stuttgart
   Comments             on roots and basal parts of stems of Aster sp. cult.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2000
-  Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Helicobasidiales/tpp.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Tranzschelia pruni-spinosae (Pers.) Dietel/Anemone ranunculoides L.
-  Location ::           Germany, Baden-Württemberg, Nürtingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina persicina (Ditmar) Sacc. on Tranzschelia pruni-spinosae (Pers.) Dietel/Anemone ranunculoides L.
+  location ::           Germany, Baden-Württemberg, Nürtingen
+  specimen_condition ::  Live Specimen
   Identified By        R. Bauer
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium purpureum Pat.
   Collection           1999
-  Copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+  copyright ::            © 1999 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
 

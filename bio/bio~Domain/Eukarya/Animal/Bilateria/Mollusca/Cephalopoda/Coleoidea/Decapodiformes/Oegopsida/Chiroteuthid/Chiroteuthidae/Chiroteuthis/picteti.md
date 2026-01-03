@@ -173,15 +173,15 @@ waters. Bull. Mar. Sci., 49: 162-185.
 ![](picteti/Cpicteti1.jpg) 
 
   -----------
-  Scientific Name ::   Chiroteuthis picteti
-  Location ::         Hawaii
+  scientific_name ::   Chiroteuthis picteti
+  location ::         Hawaii
   Life Cycle Stage ::   young subadult
   -----------
 ![](picteti/Cpicteti.jpg) 
 
   ----------
-  Scientific Name ::  Chiroteuthis picteti
-  Location ::        Eltanin???
+  scientific_name ::  Chiroteuthis picteti
+  location ::        Eltanin???
   Creator           J. Schroeder
   ----------
 

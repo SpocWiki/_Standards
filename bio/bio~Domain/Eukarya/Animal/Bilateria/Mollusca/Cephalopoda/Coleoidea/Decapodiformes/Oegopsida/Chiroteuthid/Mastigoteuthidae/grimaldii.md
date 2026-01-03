@@ -112,7 +112,7 @@ son yacht par Albert I Prince souverain de Monaco, 9:1-63.
 ![](grimaldii/MastGrimald.jpg) 
 
   -----------------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis grimaldii
+  scientific_name ::  Mastigoteuthis grimaldii
   Reference         Joubin, L. 1895. Contribution a l\'étude des Céphalopodes de l\'Atlantique Nord. Résultats des Campagnes scientifiques accomplies sur son yacht par Albert I Prince souverain de Monaco, 9:1-63.
   Size              ca. 38 mm ML
   Type              Holotype

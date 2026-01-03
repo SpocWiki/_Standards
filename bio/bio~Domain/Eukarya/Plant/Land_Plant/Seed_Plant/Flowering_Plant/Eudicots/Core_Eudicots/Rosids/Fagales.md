@@ -56,30 +56,30 @@ title: Fagales
 
 ---------------------------- 
 ![Red Alder, Alnus rubra](Fagales/Alnus_rubra.jpg) 
-Scientific Name ::     Alnus rubra (Betulaceae)
-Location ::           Wildcat Canyon Park, East Bay Hills (Contra Costa County, California, USA)
+scientific_name ::     Alnus rubra (Betulaceae)
+location ::           Wildcat Canyon Park, East Bay Hills (Contra Costa County, California, USA)
 Comments             Red Alder
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2002 [Tony Morosco](mailto:tony-morosco@calflora.org)
+copyright ::            © 2002 [Tony Morosco](mailto:tony-morosco@calflora.org)
 
 ------------------------------------------------------------------------------ 
 ![Blue oak, Quercus douglasii](Fagales/Quercus_Douglasii.jpg) 
-Scientific Name ::     Quercus douglasii
-Location ::           Red Bluff (Tehama County, California, USA)
+scientific_name ::     Quercus douglasii
+location ::           Red Bluff (Tehama County, California, USA)
 Comments             Blue oak (Fagaceae)
 Creator              Photograph by Jed and Bonnie McClellan
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
 ![Black walnut, Juglans regia](Fagales/Juglans_regia.jpg) 
-Scientific Name ::   Juglans regia
-Location ::         Allschwil, Basel, Switzerland.
+scientific_name ::   Juglans regia
+location ::         Allschwil, Basel, Switzerland.
 Comments           Black walnut (Juglandaceae), in winter condition.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

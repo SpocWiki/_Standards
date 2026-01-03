@@ -96,10 +96,10 @@ title: Camelidae
 
 -----------------------
 ![](../Camelus_bactrianus.jpg)
-Scientific Name ::     Camelus bactrianus
+scientific_name ::     Camelus bactrianus
 Creator              Photograph by Gary M. Stolz
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

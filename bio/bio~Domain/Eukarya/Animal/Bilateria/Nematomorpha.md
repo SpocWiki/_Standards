@@ -64,7 +64,7 @@ Drawings by Stritch. Copyright © 2001
 
 --------------------------------------------------------------------------
 ![](Nematomorpha/Nematomorpha.gif)
-Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

@@ -54,12 +54,12 @@ Mantis shrimps
 
 ------------------------------------------------------------------------------ 
 ![Mantis shrimp, Hemisquilla californiensis](Stomatopoda/Odontodactylus_scyllarus.jpg) 
-Scientific Name ::     Hemisquilla californiensis (Gonodactylidae)
+scientific_name ::     Hemisquilla californiensis (Gonodactylidae)
 Comments             Mantis shrimp
 Creator              Photograph by Alden M. Johnson
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

@@ -52,21 +52,21 @@ title: Oreotragus oreotragus
 
 -------------------------------------------------------------
 ![Klipspringer](Klipspringer/Klipspringer-Side.jpg) 
-Scientific Name ::     Oreotragus oreotragus
-Location ::           Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Oreotragus oreotragus
+location ::           Africa
+specimen_condition ::  Live Specimen
 Source               [Klipspringer](http://flickr.com/photos/by-ken/198457969/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Ken Clifton](http://flickr.com/people/47662556@N00/)
+copyright ::            © 2005 [Ken Clifton](http://flickr.com/people/47662556@N00/)
 
 -------------------------------------------------------------
 ![Klipspringer](Klipspringer/Klipspringer-Front.jpg) 
-Scientific Name ::     Oreotragus oreotragus
-Location ::           captive at Brookfield Zoo, Chicago, USA
+scientific_name ::     Oreotragus oreotragus
+location ::           captive at Brookfield Zoo, Chicago, USA
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons license](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Ben Seese](http://flickr.com/people/benseese/)
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Ben Seese](http://flickr.com/people/benseese/)
 
 
 ## Confidential Links & Embeds: 

@@ -413,13 +413,13 @@ Zimmer C. Meet the relatives. Discover, 1991, 56-57.
 ![](Synapsida/tetraceratops.gif) 
 
   ---------------------------------------------------------------------
-  Scientific Name ::     Tetraceratops
-  Location ::           Texas
+  scientific_name ::     Tetraceratops
+  location ::           Texas
   Comments             Tetraceratops, the oldest known therapsid. This strange synapsid, found in Texas in the last century, has recently been reinterpreted as the only known Lower Permian therapsid (Laurin and Reisz, 1990).
   Reference            Zimmer C. 1991. Meet the relatives. Discover, 1991, 56-57
   Creator              Drawing by Steve Kirk
-  Specimen Condition   Fossil \-- Period: Lower Permian
-  Copyright ::            © 1991 Discover Magazine
+  specimen_condition ::  Fossil \-- Period: Lower Permian
+  copyright ::            © 1991 Discover Magazine
   ---------------------------------------------------------------------
 
 

@@ -120,8 +120,8 @@ Beaufortia, 47: 91-108.
 ![](Mastigoteuthis_danae/MDanaeAll.jpg) 
 
   ---------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis danae
-  Location ::        34°40\'N, 33°16\'W
+  scientific_name ::  Mastigoteuthis danae
+  location ::        34°40\'N, 33°16\'W
   Reference         Joubin, L. 1933. Notes préliminaires sur les Céphalopodes des croisières du Dana (1921-1922). 4e Partie. Annales de l\'Institut Océanographique, new series, 13: 1-49.
   View              Ventral and dorsal.
   Type              Type series.

@@ -105,8 +105,8 @@ megophryids has not been questioned.
 
 ------------------------------------------------------------------------- 
 ![](Megophryidae/megophrys.jpg) 
-Scientific Name ::  Megophrys montana
-Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::  Megophrys montana
+copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

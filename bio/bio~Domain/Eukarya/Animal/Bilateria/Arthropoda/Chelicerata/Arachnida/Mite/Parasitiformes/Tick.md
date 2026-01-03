@@ -160,16 +160,16 @@ al., 1983), and they have not been available for molecular applications.
 
 ------------------------------------------------------------------------
 ![Amblyomma hebraeum male and female](Tick/Amblyomma_hebraeum.jpg) 
-Scientific Name ::  Amblyomma hebraeum
+scientific_name ::  Amblyomma hebraeum
 Comments          Ixodidae
 Sex ::             male and female
-Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au) 
+copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au) 
 
 ------------------------------------------------------------------------
 ![Otobius megnini](Tick/Otobius_megnini.jpg) 
-Scientific Name ::  Otobius megnini
+scientific_name ::  Otobius megnini
 Comments          Argasidae
-Copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au) 
+copyright ::         © 2001 [Steve Barker](mailto:S.Barker@imb.uq.edu.au) 
 
 
 ## Confidential Links & Embeds: 

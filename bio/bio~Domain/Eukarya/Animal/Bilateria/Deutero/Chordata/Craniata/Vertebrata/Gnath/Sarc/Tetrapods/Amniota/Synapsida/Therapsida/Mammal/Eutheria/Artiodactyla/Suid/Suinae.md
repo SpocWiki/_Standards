@@ -69,14 +69,14 @@ title: Suinae
 
 -------------------------------------------------------------------------
 ![Bushpig (Potamochoerus porcus), Tanzania](../bushpig.jpg) 
-Scientific Name ::     Potamochoerus porcus
-Location ::           Arusha, Tanzania
+scientific_name ::     Potamochoerus porcus
+location ::           Arusha, Tanzania
 Comments             Young captive specimen probably from the Mt Meru population.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Young adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

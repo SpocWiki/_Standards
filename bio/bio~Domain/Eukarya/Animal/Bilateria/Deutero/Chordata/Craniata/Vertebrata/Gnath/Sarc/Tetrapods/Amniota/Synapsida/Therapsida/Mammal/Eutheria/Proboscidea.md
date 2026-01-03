@@ -122,19 +122,19 @@ taxon_common_name:
 ![](Proboscidea/Mastodon_americanus.jpg) 
 
 -----------------------------
-Scientific Name ::     Mastodon americanus
+scientific_name ::     Mastodon americanus
 Comments             American mastodon
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skeleton
 -----------------------------
 ![](Proboscidea/13040elephant1.jpg) 
 
 ----------------------------------------------------------------------------
-Scientific Name ::  Loxodonta africana
-Location ::        Southern Serengeti
+scientific_name ::  Loxodonta africana
+location ::        Southern Serengeti
 Body Part         Face
-Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 ----------------------------------------------------------------------------
 
 

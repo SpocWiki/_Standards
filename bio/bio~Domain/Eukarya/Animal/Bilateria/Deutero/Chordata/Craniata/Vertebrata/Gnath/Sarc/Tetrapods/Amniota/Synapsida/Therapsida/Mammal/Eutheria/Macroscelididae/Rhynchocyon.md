@@ -64,19 +64,19 @@ title: Rhynchocyon
 
 ------------
 ![](../Scandentia/Tupaia_tana.jpg)
-Scientific Name ::  Rhynchocyon chrysopygus
+scientific_name ::  Rhynchocyon chrysopygus
 Creator           Joseph Smit (1836--1929)
 
 ----------------------------- 
 ![](Rhynchocyon/210618830_bd29523f8b_o.jpg) 
-Scientific Name ::                    Rhynchocyon petersi
-Location ::                          Philadelphia Zoo
+scientific_name ::                    Rhynchocyon petersi
+location ::                          Philadelphia Zoo
 Acknowledgements                    This image is licensed under the
 							  [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-sa/2.0/).\
 							  source: [flickr: elephant                                       shrew](http://flickr.com/photos/zeandroid/210618830/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2006 [zeandroid](http://flickr.com/people/zeandroid/)
+copyright ::                           © 2006 [zeandroid](http://flickr.com/people/zeandroid/)
 
 
 ## Confidential Links & Embeds: 

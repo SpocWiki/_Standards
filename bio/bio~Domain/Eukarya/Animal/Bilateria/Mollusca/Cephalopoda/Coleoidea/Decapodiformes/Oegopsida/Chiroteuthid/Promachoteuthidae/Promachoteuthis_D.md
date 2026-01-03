@@ -105,35 +105,35 @@ from the WALTHER HERWIG at 1550 m depth.
 ![](D/PromachSpDdraw.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sp. D
+  scientific_name ::     Promachoteuthis sp. D
   Comments             Bar = 5 mm
   Creator              Keiko Hiratsuka Moore
   Acknowledgements     National Marine Fisheries Service
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Sex ::                Female
   View                 Dorsal and ventral
   Type                 Holotype
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 ![](D/PromachSpDdors.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sp. D
+  scientific_name ::     Promachoteuthis sp. D
   Comments             Holotype
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   View                 Dorsal
-  Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 ![](D/PromachSpDvent.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sp. D
+  scientific_name ::     Promachoteuthis sp. D
   Comments             Holotype
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   View                 Ventral
-  Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 

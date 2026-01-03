@@ -76,15 +76,15 @@ title: Suidae
 
 ------------------------------------------------------------------------- 
 ![Warthog (Phacochoerus aethiopicus) grazing, Matopos, Zimbabwe](Suid/whoggraze.jpg) 
-Scientific Name ::   Phacochoerus aethiopicus
-Location ::         Matopos National Park, Zimbabwe
+scientific_name ::   Phacochoerus aethiopicus
+location ::         Matopos National Park, Zimbabwe
 Comments           Warthogs typically \"kneel\" to graze.
 Identified By      David Bygott
 Behavior           Grazing
 Sex ::              Male
 Life Cycle Stage ::   Young
 View               Lateral
-Copyright ::          © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::          © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

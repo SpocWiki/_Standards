@@ -83,21 +83,21 @@ Moss Animals, Sea Mats, Ectoprocts
 
 -------------------------------------------- 
 ![flustra](Bryozoa/flustra.jpg) 
-Scientific Name ::    Flustra
+scientific_name ::    Flustra
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Skeleton of a colony
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
 ![Lophophus crystallinus](Bryozoa/lophophus.jpg) 
-Scientific Name ::    Lophophus crystallinus
+scientific_name ::    Lophophus crystallinus
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Body Part           Young colony consisting of five zooids.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
 
 -------------------------------------------- 
 ![Cristatella mucedo](Bryozoa/cristatella.jpg) 
-Scientific Name ::    Cristatella mucedo
+scientific_name ::    Cristatella mucedo
 Comments            Colonies of this species can creep through the water.
 Reference           Ernst Haeckel\'\'s Kunstformen der Natur published 1899-1904 by Verlag des Bibliographischen Instituts, Leipzig and Vienna.
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)

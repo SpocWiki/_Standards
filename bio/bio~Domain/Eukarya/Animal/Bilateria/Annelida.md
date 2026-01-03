@@ -291,31 +291,31 @@ Figure 5.
 
 ----------------------------------------------------------------------
 ![Autolytus pachycerus habitus](autolytus.jpg)
-Scientific Name ::  Autolytus pachycerus
-Location ::        Bondi, Australia
+scientific_name ::  Autolytus pachycerus
+location ::        Bondi, Australia
 Comments          Syllidae
-Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
+copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
 ![Acrocirrus validus habitus](Annelida/Acrocirrus_validus.jpg) 
-Scientific Name ::  Acrocirrus validus
-Location ::        Misaki, Japan
+scientific_name ::  Acrocirrus validus
+location ::        Misaki, Japan
 Comments          Acrocirridae
-Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
+copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
 ![Chloeia habitus](Annelida/chloeia.jpg) 
-Scientific Name ::  Chloeia
-Location ::        Misaki, Japan
+scientific_name ::  Chloeia
+location ::        Misaki, Japan
 Comments          Amphinomidae
-Copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
+copyright ::         © 1999 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ---------------------------------------------------------------------- 
 ![unidentified leech](Annelida/leech.jpg) 
-Scientific Name ::  Hirudinea
-Location ::        Sydney, Australia
+scientific_name ::  Hirudinea
+location ::        Sydney, Australia
 Comments          unidentified leech
-Copyright ::         © 1998 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
+copyright ::         © 1998 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 
 ## Confidential Links & Embeds: 

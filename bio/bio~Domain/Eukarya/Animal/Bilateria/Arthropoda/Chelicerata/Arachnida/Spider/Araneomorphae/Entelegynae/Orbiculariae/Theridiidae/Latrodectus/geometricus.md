@@ -43,35 +43,35 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](geometricus/dsc_0039.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus geometricus
-  Location ::           Geogap Nature Reserve, Northern Cape, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus geometricus
+  location ::           Geogap Nature Reserve, Northern Cape, South Africa
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](geometricus/dsc_0060.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus geometricus
-  Location ::           Parque National Chaco, Chaco Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus geometricus
+  location ::           Parque National Chaco, Chaco Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](geometricus/latrogeometricuseggcaseusa_al_ms02_0_71x9f.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus geometricus
-  Location ::           Alabama, USA
-  Specimen Condition   Egg case
+  scientific_name ::     Latrodectus geometricus
+  location ::           Alabama, USA
+  specimen_condition ::  Egg case
   Identified By        Jeremy Miller
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

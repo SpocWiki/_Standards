@@ -99,20 +99,20 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 ![](Cirrothauma/murrayi/Cirrothauma.jpg)
 
   ---------
-  Scientific Name ::  Cirrothauma murrayi
-  Location ::        Antarctic waters
+  scientific_name ::  Cirrothauma murrayi
+  location ::        Antarctic waters
   Creator           E. McSweeny
-  Copyright ::         © 1996 E. McSweeny
+  copyright ::         © 1996 E. McSweeny
   ---------
 ![](Cirrothauma/CirrothMagnaDraw.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::   Cirrothauma magna
+  scientific_name ::   Cirrothauma magna
   Reference          Guerra, R., R. Villanueva, K. N. Nesis and J. Bedoya. 1998. Redescription of the deep-sea cirrate octopod Cirroteuthis magna Hoyle, 1885, and considerations on the genus Cirroteuthis (Mollusca: Cephalopoda). Bull. Mar. Sci., 63: 51-81.
   Acknowledgements   Printed with permission from the Bulletin of Marine Science.
   Sex ::              Male
   Size               220 mm ML
-  Copyright ::          © 1998 Bulletin of Marine Science
+  copyright ::          © 1998 Bulletin of Marine Science
   -------------------------------------------------------------------------------
 
 

@@ -179,25 +179,25 @@ evidence, with additional references, see Kristensen (1991).
 
 ------------------------------------------------------------------------ 
 ![](Hexapoda/Monobella_grassei.jpg) 
-Scientific Name ::     Monobella grassei
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Monobella grassei
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ---------------------------------------------------------------------------
 ![compodeid dipluran](Hexapoda/campodeid.jpg)
-Scientific Name ::     Campodeid (Diplura)
-Location ::           San Francisco, California, USA.
-Specimen Condition   Live Specimen
-Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Campodeid (Diplura)
+location ::           San Francisco, California, USA.
+specimen_condition ::  Live Specimen
+copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
 
 ------------------------------------------------------------------------------ 
 ![Mantis_religiosa](Hexapoda/Mantis_religiosa250.jpg) 
-Scientific Name ::     Mantis religiosa
+scientific_name ::     Mantis religiosa
 Comments             Praying mantis
 Creator              Photograph by Robert Potts
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ## Phylogeny 
 

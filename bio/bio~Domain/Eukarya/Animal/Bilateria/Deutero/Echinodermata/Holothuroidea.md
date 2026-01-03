@@ -311,24 +311,24 @@ palaeontological information is available from Mike Reich\'s [Fossil Holothuroid
 
 ---------------------------- 
 ![Synaptula](Holothuroidea/synaptula.jpg) 
-Scientific Name ::     Synaptula (Apodida)
-Location ::           coral reef on the Eastern Coast of Thailand
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
+scientific_name ::     Synaptula (Apodida)
+location ::           coral reef on the Eastern Coast of Thailand
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
 
 ---------------------------- 
 ![Holothuria (Halodeima) atra](Holothuroidea/holatra.jpg) 
-Scientific Name ::     Holothuria (Halodeima) atra (Aspidochirotida)
-Location ::           coral reef on the Eastern Coast of Thailand
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
+scientific_name ::     Holothuria (Halodeima) atra (Aspidochirotida)
+location ::           coral reef on the Eastern Coast of Thailand
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Sumaitt Putchakarn](http://www.nrm.se/ev/dok/thaiechinod.html.en)
 
 ---------------------------- 
 ![Cucumaria](Holothuroidea/inv076.jpg) 
-Scientific Name ::     Cucumaria (Dendrochirotida)
-Location ::           Ross Sea, Antarctica
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
+scientific_name ::     Cucumaria (Dendrochirotida)
+location ::           Ross Sea, Antarctica
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Norbert Wu](http://www.norbertwu.com/)
 
 
 ## Confidential Links & Embeds: 

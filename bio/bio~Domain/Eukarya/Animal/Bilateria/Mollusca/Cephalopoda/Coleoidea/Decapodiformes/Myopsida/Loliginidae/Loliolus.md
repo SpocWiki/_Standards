@@ -161,12 +161,12 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Loliolus/LolioHardwickei.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Loliolus hardwickei
-  Location ::           off Madras, India
-  Specimen Condition   Preserved
+  scientific_name ::     Loliolus hardwickei
+  location ::           off Madras, India
+  specimen_condition ::  Preserved
   Sex ::                Male
   View                 Ventral
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

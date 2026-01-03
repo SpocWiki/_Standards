@@ -166,22 +166,22 @@ tropical and subtropical latitudes throughout the world\'s oceans.
 
 -------------------------- 
 ![](Joubiniteuthidae/Joubiniteuthis028.jpg) 
-Scientific Name ::     Joubiniteuthis portieri
-Location ::           Off Northwestern Hawaiian Islands, 1100 m depth.
+scientific_name ::     Joubiniteuthis portieri
+location ::           Off Northwestern Hawaiian Islands, 1100 m depth.
 Comments             Photograph from Hawaii Undersea Research Laboratory Video-archive
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        R.E.Y.
 View                 Side
 Size                 30-40 cm total length
-Copyright ::            © Frank Parrish
+copyright ::            © Frank Parrish
 
 -------------------------- 
 ![](Joubiniteuthidae/JoubiniteuthisDraw1.gif) 
-Scientific Name ::     Joubiniteuthis portieri
+scientific_name ::     Joubiniteuthis portieri
 Reference            Young, R. E. and C. F. E. Roper. 1969. A monograph of the Cephalopoda of the North Atlantic: The family Joubiniteuthidae. Smithson. Contr. Zool. No. 15: 1-10.
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 View                 Ventral
-Copyright ::            © 1969 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::            © 1969 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

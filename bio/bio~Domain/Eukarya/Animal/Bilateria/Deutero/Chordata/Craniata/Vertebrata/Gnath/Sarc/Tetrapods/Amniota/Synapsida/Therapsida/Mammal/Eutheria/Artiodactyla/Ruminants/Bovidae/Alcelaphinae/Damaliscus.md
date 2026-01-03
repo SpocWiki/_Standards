@@ -58,12 +58,12 @@ title: Damaliscus lunatus
 
 ------------------------------
 ![](Damaliscus_lunatus0009163.jpg)
-Scientific Name ::     Damaliscus lunatus
-Location ::           Masai Mara Reserve, Kenya
+scientific_name ::     Damaliscus lunatus
+location ::           Masai Mara Reserve, Kenya
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0009163)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Chuck Bargeron, The University of Georgia
+copyright ::            © Chuck Bargeron, The University of Georgia
 
 
 ## Confidential Links & Embeds: 

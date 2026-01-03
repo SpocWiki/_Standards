@@ -62,10 +62,10 @@ the sister group of Fabaceae.
 
 -----------------------
 ![](Polygalaceae/Polygala_dalmaisiana.jpg)
-Scientific Name ::     Polygala dalmaisiana
-Location ::           Sea World, San Diego, CA
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/)
+scientific_name ::     Polygala dalmaisiana
+location ::           Sea World, San Diego, CA
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Kevin C. Nixon](http://www.plantsystematics.org/)
 
 
 ## Confidential Links & Embeds: 

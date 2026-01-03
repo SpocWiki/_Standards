@@ -122,19 +122,19 @@ UNSPSC_Code: 10101517
 
 ---------------------------------------------------------------
 ![](Pliauchenia_merriami_jaws.jpg)
-Scientific Name ::     Pliauchenia merriami
-Location ::           Eden beds, California, USA
+scientific_name ::     Pliauchenia merriami
+location ::           Eden beds, California, USA
 Reference            Frick, C. 1921. Extinct vertebrate faunas of the badlands of Bautista Creek and San Timoteo Canon, Southern California. University of California Publications in Geology 12(5):277-424.
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            Anterior portion of upper and lower jaws
 View                 lateral
 
 ---------------------------------------------------------------
 ![](Camel/Alticamelus_alexandrae.jpg)
-Scientific Name ::     Aepycamelus alexandrae
-Location ::           Barstow, San Bernardino County, California, USA
+scientific_name ::     Aepycamelus alexandrae
+location ::           Barstow, San Bernardino County, California, USA
 Reference            Davidson, P. 1923. Alticamelus alexandrae, a new camel from the Barstow Upper Miocene of the Mohave Desert. University of California Publications in Geological Science 14(12):397-408.
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skull
 View                 ventral, lateral
 

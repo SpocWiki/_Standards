@@ -262,9 +262,9 @@ African Jour. Mar. Sci., 20: 393-420.
 ![](Chiroteuthidae/Chiro.jpg) 
 
   ----------
-  Scientific Name ::  Chiroteuthis veranyi
-  Location ::        Antarctic waters
-  Copyright ::         © 1996 E. McSweeny
+  scientific_name ::  Chiroteuthis veranyi
+  location ::        Antarctic waters
+  copyright ::         © 1996 E. McSweeny
   ----------
 
 

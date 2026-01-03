@@ -57,10 +57,10 @@ title: Piroplasmorida
 
   ----------------------------
 ![Babesia microti](Piroplasmorida/Babesia_microti.jpg) 
-Scientific Name ::     Babesia microti
+scientific_name ::     Babesia microti
   Comments             Blood smear showing larger trophic stage of Babesia microti in erythrocyte.
   Creator              Dr. George Healy (Center for Disease Control)
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

@@ -126,9 +126,9 @@ Vie Milieu, 35: 203-209.
 ![](Brachioteuthidae/Brachioteuthis.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Brachioteuthis sp.
+  scientific_name ::  Brachioteuthis sp.
   View              Ventral
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

@@ -399,25 +399,25 @@ variation in 18S rRNA. J. Mol. Evol. 45:619-630.
 ![coccoid cells of Gymnochlora stellata](Chlorarachniophytes/Gste.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Gymnochlora stellata
+  scientific_name ::  Gymnochlora stellata
   Comments          coccoid cells
-  Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+  copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
   -----------------------------------------------------------------------------
 ![Coccoid cells of Lotharella globosa](Chlorarachniophytes/Lglo.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Lotharella globosa
+  scientific_name ::  Lotharella globosa
   Comments          Coccoid cells
-  Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+  copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
   -----------------------------------------------------------------------------
 ![](Chlorarachniophytes/Gste2.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Gymnochlora stellata
+  scientific_name ::  Gymnochlora stellata
   Comments          Fluorescent micrograph of a cell stained with DAPI, showing chloroplasts (red autofluorescences), a nuclear DNA (a big blue-white sphare) and probable nucleomorph DNAs (small blue-white dots).
-  Copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
+  copyright ::         © 2001 [Ken-ichiro Ishida](mailto:ishdak@kenroku.kanazawa-u.ac.jp) 
  
   -----------------------------------------------------------------------------
 

@@ -110,34 +110,34 @@ speciation.
 
 ------------------ 
 ![](Pareledone/PARELED1.JPG) 
-Scientific Name ::  Pareledone
-Copyright ::         © 1998 J. Gilbert / British Antarctic Survey
+scientific_name ::  Pareledone
+copyright ::         © 1998 J. Gilbert / British Antarctic Survey
 
 -------------------------------------------------------------------------- 
 ![Pareledone framensis](Pareledone/PARELED3.JPG) 
-Scientific Name ::  Pareledone framensis
-Location ::        Eastern Antarctica
+scientific_name ::  Pareledone framensis
+location ::        Eastern Antarctica
 View              dorsal
-Copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
 
 ------------------------------------------------------------------------ 
 ![Pareledone turqueti](Pareledone/PARELED2.JPG) 
-Scientific Name ::  Pareledone turqueti
-Location ::        Antarctic Peninsula
-Copyright ::         © 1998 [Louise Allcock](mailto:l.allcock@qub.ac.uk) 
+scientific_name ::  Pareledone turqueti
+location ::        Antarctic Peninsula
+copyright ::         © 1998 [Louise Allcock](mailto:l.allcock@qub.ac.uk) 
 
 ------------------------------------------------------------------------
 ![](Pareledone/Pareledone_charcoti.jpg)
-Scientific Name ::  Pareledone charcoti
-Location ::        Antarctic Peninsula
-Copyright ::         © 1998 [Louise Allcock](mailto:l.allcock@qub.ac.uk) 
+scientific_name ::  Pareledone charcoti
+location ::        Antarctic Peninsula
+copyright ::         © 1998 [Louise Allcock](mailto:l.allcock@qub.ac.uk) 
 
 --------------------------------------------------------------------------
 ![Pareledone framensis](Pareledone/Pareledone_framensis.jpg)
-Scientific Name ::  Pareledone framensis
-Location ::        Eastern Antarctica
+scientific_name ::  Pareledone framensis
+location ::        Eastern Antarctica
 View              lateral
-Copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+copyright ::         © 1998 [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
 
 
 ## Confidential Links & Embeds: 

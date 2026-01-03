@@ -47,15 +47,15 @@ Containing group: [Springtail](../Springtail.md)
 
 ------------------------------------------------------------------------
 ![Folsomia candida](Isotomidae/Folsomia_candida.jpg) 
-Scientific Name ::     Folsomia candida
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Folsomia candida
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ------------------------------------------------------------------------
 ![Isotoma viridis](Isotomidae/Isotoma_viridis.jpg) 
-Scientific Name ::     Isotoma viridis
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Isotoma viridis
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
 ## Confidential Links & Embeds: 

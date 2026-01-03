@@ -89,12 +89,12 @@ Sciences157(6, Suppl.): S40-S49.
 ![](Gnetum_gnemon.jpg)
 
   ----------------------------------------------------------------------
-  Scientific Name ::     Gnetum gnemon
-  Location ::           cultivated at the Botanical Garden Basel, Switzerland
+  scientific_name ::     Gnetum gnemon
+  location ::           cultivated at the Botanical Garden Basel, Switzerland
   Acknowledgements     courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Body Part            new and old leaves
-  Copyright ::            © University of Basel, Basel, Switzerland 
+  copyright ::            © University of Basel, Basel, Switzerland 
   ----------------------------------------------------------------------
 
 

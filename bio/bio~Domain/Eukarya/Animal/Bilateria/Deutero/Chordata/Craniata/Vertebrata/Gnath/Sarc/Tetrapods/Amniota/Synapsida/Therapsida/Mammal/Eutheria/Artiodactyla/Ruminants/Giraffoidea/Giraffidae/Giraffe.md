@@ -69,10 +69,10 @@ Giraffes
 
 ------------------------------------------------------------------------------
 ![](0703giraffes1.jpg)
-Scientific Name ::     Giraffa camelopardalis
-Location ::           Masai Mara, Kenya
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+scientific_name ::     Giraffa camelopardalis
+location ::           Masai Mara, Kenya
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

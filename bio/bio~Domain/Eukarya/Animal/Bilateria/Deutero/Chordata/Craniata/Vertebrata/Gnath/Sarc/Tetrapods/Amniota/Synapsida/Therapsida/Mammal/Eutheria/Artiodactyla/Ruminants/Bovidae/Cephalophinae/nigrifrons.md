@@ -44,14 +44,14 @@ Containing group: [Cephalophinae](../Cephalophinae.md)
 ![Black-fronted Duiker (Cephalophus nigrifrons), Kenya ](nigrifrons/BFduiker.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Cephalophus nigrifrons
-  Location ::           Mt Kenya Safari Club, Kenya
+  scientific_name ::     Cephalophus nigrifrons
+  location ::           Mt Kenya Safari Club, Kenya
   Comments             Captive specimen, probably from Mt Kenya vicinity
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        David Bygott
   Life Cycle Stage ::     Immature
   View                 Lateral
-  Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+  copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
  
   -------------------------------------------------------------------------
 

@@ -67,11 +67,11 @@ title: Babyrousa babyrussa
 
 -----------------------------------------------------------
 ![](168982839_3aeef92626_b.jpg)
-Scientific Name ::     Babyrousa babyrussa
-Location ::           captive
+scientific_name ::     Babyrousa babyrussa
+location ::           captive
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Sazali M](http://flickr.com/people/inque666/)
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Sazali M](http://flickr.com/people/inque666/)
 
 
 ## Confidential Links & Embeds: 

@@ -224,25 +224,25 @@ title: Thomisidae
 ![](Crab_Spider/Xisticus_bifasciatus_2-8001.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Arachnida:Spider:Thomisidae: Xisticus bifasciatus
-  Location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
-  Specimen Condition   Live Specimen
+  scientific_name ::     Arachnida:Spider:Thomisidae: Xisticus bifasciatus
+  location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
+  specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+  copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
 ![Crab spider eating fly, Arizona](Crab_Spider/whitecrabspider.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Thomisidae
-  Location ::           Ruby, AZ, USA
+  scientific_name ::     Thomisidae
+  location ::           Ruby, AZ, USA
   Comments             This crab spider had just caught the fly while perched in an oleander flower
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Behavior             Predation
   Sex ::                Female
   View                 Dorsolateral
   Size                 c.8mm
-  Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+  copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
   
   -------------------------------------------------------------------------
 

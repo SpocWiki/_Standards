@@ -53,24 +53,24 @@ title: Lemuridae
 
 --------------------------------------------------------------------------------- 
 ![](Lemuridae/Sportive_lemur_Lepilemur.jpg) 
-Scientific Name ::     Lepilemur
-Location ::           Ankarafantsika nature reserve, Madagascar
+scientific_name ::     Lepilemur
+location ::           Ankarafantsika nature reserve, Madagascar
 Comments             Sportive lemur
 Creator              Jean-Francois Dallaire
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Jean-Francois Dallaire with the help of a guide
-Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
+copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
 
 --------------------------------------------------------------------------------- 
 ![](Lemuridae/CROWNE~2.JPG) 
-Scientific Name ::     Eulemur coronatus
-Location ::           Ankarana special reserve, Madagascar
+scientific_name ::     Eulemur coronatus
+location ::           Ankarana special reserve, Madagascar
 Comments             Crowned lemur
 Creator              Jean-Fran?ois Dallaire
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Jean-Fran?ois Dallaire with the help of a guide
 Sex ::                Female
-Copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
+copyright ::            © 2006 [Jean-François Dallaire](mailto:jeanfrancois_dallaire@hotmail.com) 
 
 
 ## Confidential Links & Embeds: 

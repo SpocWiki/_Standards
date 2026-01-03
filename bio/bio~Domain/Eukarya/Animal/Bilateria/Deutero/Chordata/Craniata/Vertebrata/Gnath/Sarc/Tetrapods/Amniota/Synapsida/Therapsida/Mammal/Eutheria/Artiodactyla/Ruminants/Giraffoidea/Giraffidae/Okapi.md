@@ -59,12 +59,12 @@ title: Okapia johnstoni
 
 ------------------------------------------------------------------
 ![ ](Okapi/Okapi.jpg) 
-Scientific Name ::     Okapia johnstoni
-Location ::           captive at Berlin Zoo, Germany
+scientific_name ::     Okapia johnstoni
+location ::           captive at Berlin Zoo, Germany
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2004 [Phil](http://flickr.com/people/philbull11/)
+copyright ::            © 2004 [Phil](http://flickr.com/people/philbull11/)
 
 
 ## Confidential Links & Embeds: 

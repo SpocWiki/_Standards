@@ -45,35 +45,35 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](indistinctus/dsc_0180.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus indistinctus
-  Location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus indistinctus
+  location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](indistinctus/dsc_0185.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus indistinctus
-  Location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus indistinctus
+  location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](indistinctus/dsc_0083.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus indistinctus
-  Location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus indistinctus
+  location ::           Mamre, 49 km N Cape Town, Western Cape, South Africa
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     Egg case
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

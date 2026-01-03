@@ -44,19 +44,19 @@ Containing group: [Virus](../Virus.md)
 
 ![](Double-stranded_DNA_Virus/PHIL_3274_lores.jpg)
 
-  Scientific Name ::     Orthopoxvirus
+  scientific_name ::     Orthopoxvirus
   Comments             This photograph reveals smallpox virus pocks on the chorioallantoic membrane of a developing embryonic chick. Poxviruses are very easy to isolate, and will grow in a variety of cell cultures, producing characteristic hemorrhagic pocks on the embryonic chicken chorioallantoic membrane (CAM).
   Creator              CDC/John Noble
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
   
   ------------------------------------------------------------------------------------------------
 ![](Double-stranded_DNA_Virus/PHIL_1877_lores.jpg)
 
-  Scientific Name ::     Orthopoxvirus
+  scientific_name ::     Orthopoxvirus
   Comments             Electron micrograph of a Vaccinia Virus. Vaccinia virus is normally confined to cattle, but is conveyed to humans through vaccination, thereby, imparting immunity to the smallpox virus.
   Creator              CDC/Dr. Fred Murphy/Sylvia Whitfield
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
   

@@ -243,12 +243,12 @@ yellow squares represent the capture locations of ***S. gilchristi**.*
 
 ------------------------------------ 
 ![](Stauroteuthidae/stauroSyrtensis.jpg) 
-Scientific Name ::     Stauroteuthis syrtensis
-Location ::           2560ft depth in Oceanographer canyon, off Gulf of Maine USA
+scientific_name ::     Stauroteuthis syrtensis
+location ::           2560ft depth in Oceanographer canyon, off Gulf of Maine USA
 Comments             Collected by the manned submersible \"Johnson-Sea-Link-II and photographed in a shipboard aquarium.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 View                 Side
-Copyright ::            © 2005 [Per R. Flood](mailto:per.r.flood@bathybiologica.no)
+copyright ::            © 2005 [Per R. Flood](mailto:per.r.flood@bathybiologica.no)
 
 
 ## Confidential Links & Embeds: 

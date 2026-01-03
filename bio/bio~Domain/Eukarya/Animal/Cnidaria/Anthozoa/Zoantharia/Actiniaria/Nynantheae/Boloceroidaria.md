@@ -55,7 +55,7 @@ Photo copyright © 2000, Ron Ates.
 ![](Boloceroidaria/boloceroididae.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

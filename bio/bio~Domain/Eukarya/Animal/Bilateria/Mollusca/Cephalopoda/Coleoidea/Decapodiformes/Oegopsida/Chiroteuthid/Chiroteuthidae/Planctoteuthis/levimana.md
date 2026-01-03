@@ -124,15 +124,15 @@ from 0-2400 m.
 
 ------------------------------------------------------------------------------ 
 ![](levimana/MLevimanaVent.jpg) 
-Scientific Name ::     Planctoteuthis levimana
-Location ::           41°31\'N, 29°55\'W
-Specimen Condition   Fresh
+scientific_name ::     Planctoteuthis levimana
+location ::           41°31\'N, 29°55\'W
+specimen_condition ::  Fresh
 Sex ::                Female
 View                 Ventral
 Size                 60 mm ML
 Collection           Bergen Museum, cat. no. ZMBN 77635
 Type                 Neotype
-Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

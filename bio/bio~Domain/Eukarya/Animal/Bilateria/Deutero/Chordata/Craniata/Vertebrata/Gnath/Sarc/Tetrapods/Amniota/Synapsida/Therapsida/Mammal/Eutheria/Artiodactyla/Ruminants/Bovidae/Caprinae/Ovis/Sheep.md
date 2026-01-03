@@ -151,12 +151,12 @@ Areas. Molecular Biology and Evolution 23(9):1776-1783.
 ![](Sheep/Sheep.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Ovis aries
-  Location ::           South Island, New Zealand
+  scientific_name ::     Ovis aries
+  location ::           South Island, New Zealand
   Comments             Romney sheep
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Body Part            head
-  Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   -----------------------------------------------------------------------------
 

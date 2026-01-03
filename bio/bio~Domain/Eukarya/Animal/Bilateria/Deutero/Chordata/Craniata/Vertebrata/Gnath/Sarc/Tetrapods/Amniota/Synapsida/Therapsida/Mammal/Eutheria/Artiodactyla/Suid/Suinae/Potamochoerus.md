@@ -63,24 +63,24 @@ Survey and Conservation Action Plan.
 
 ------------------------------------------------------------- 
 ![](Potamochoerus/126136127_3fa04e5125_o.jpg) 
-Scientific Name ::     Potamochoerus larvatus
-Location ::           captive, Uganda
-Specimen Condition   Live Specimen
+scientific_name ::     Potamochoerus larvatus
+location ::           captive, Uganda
+specimen_condition ::  Live Specimen
 Source               [A captive bushpig](http://flickr.com/photos/ogcodes/126136127/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/)
+copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/)
 
 -------------------------------------------------------------
 ![Bushpig (Potamochoerus porcus), Tanzania](../../bushpig.jpg)
-Scientific Name ::     Potamochoerus porcus
-Location ::           Arusha, Tanzania
+scientific_name ::     Potamochoerus porcus
+location ::           Arusha, Tanzania
 Comments             Young captive specimen probably from the Mt Meru population.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Young adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

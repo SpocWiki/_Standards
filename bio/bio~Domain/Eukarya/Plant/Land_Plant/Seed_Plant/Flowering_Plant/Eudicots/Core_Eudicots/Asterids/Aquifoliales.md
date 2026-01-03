@@ -46,12 +46,12 @@ title: Aquifoliales
 
 ------------------------- 
 ![Holly, Ilex aquifolium](Aquifoliales/Ilex_aquifolium.jpg) 
-Scientific Name ::     Ilex aquifolium
-Location ::           Davis (Yolo County, California, USA)
+scientific_name ::     Ilex aquifolium
+location ::           Davis (Yolo County, California, USA)
 Comments             Holly (Aquifoliaceae)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucdavis.edu)
+copyright ::            © 1986 [Joseph M. DiTomaso](mailto:ditomaso@vegmail.ucdavis.edu)
 
 
 ## Confidential Links & Embeds: 

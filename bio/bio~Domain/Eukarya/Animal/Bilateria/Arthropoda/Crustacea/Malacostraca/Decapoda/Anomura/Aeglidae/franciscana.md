@@ -112,11 +112,11 @@ Brazil.
 
 -----------------
 ![](franciscana/Aegla_franciscana.jpg)
-Scientific Name ::  Aegla franciscana
+scientific_name ::  Aegla franciscana
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

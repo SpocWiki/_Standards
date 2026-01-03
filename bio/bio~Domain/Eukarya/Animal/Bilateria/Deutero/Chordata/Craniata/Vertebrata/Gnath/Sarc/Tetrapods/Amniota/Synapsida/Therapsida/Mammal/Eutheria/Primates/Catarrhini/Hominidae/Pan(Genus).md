@@ -107,28 +107,28 @@ U_S_National_Archives_Identifier: 10647859
 
 ------------------------------------------------------------------------- 
 ![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/Chimp_hugh.jpg) 
-Scientific Name ::     Pan troglodytes schweinfurthii
-Location ::           Gombe National Park, Tanzania
+scientific_name ::     Pan troglodytes schweinfurthii
+location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 Body Part            Head
 View                 Frontal
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
 ![Chimpanzees (Pan troglodytes) adult male](Pan(Genus)/Chimpanzee/Chimp_mike.jpg) 
-Scientific Name ::     Pan troglodytes schweinfurthii
-Location ::           Gombe National Park, Tanzania
+scientific_name ::     Pan troglodytes schweinfurthii
+location ::           Gombe National Park, Tanzania
 Comments             Portrait of a prime high-ranking wild adult male
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 Body Part            Head
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

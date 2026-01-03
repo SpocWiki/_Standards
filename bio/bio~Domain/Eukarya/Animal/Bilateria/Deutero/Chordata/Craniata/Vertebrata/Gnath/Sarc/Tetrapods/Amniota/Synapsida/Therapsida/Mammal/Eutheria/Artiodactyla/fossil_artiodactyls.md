@@ -64,11 +64,11 @@ Containing group:[Artiodactyla](../Artiodactyla.md)
 ![Anoplotherium_commune](fossil_artiodactyls/Anoplotherium_commune.jpg) 
 
 ----------------------------------
-Scientific Name ::     Anoplotherium commune
-Location ::           France
+scientific_name ::     Anoplotherium commune
+location ::           France
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.
 Acknowledgements     after Cuvier
-Specimen Condition   Fossil \-- Period: Eocene
+specimen_condition ::  Fossil \-- Period: Eocene
 
 
 ## Confidential Links & Embeds: 

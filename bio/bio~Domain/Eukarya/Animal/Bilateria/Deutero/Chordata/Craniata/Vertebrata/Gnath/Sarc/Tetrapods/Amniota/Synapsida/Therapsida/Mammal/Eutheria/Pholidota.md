@@ -74,27 +74,27 @@ title: Pholidota
 
 ------------------------------------------------------------------------- 
 ![Cape pangolin](Pholidota/Pangolin01.jpg) 
-Scientific Name ::     Manis temmincki
-Location ::           Serengeti NP, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Manis temmincki
+location ::           Serengeti NP, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Behavior             Walking
 Life Cycle Stage ::     adult
 Body Part            whole
 View                 side
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
 ![Cape pangolin](Pholidota/Pangolin02.jpg) 
-Scientific Name ::     Manis temmincki
-Location ::           Serengeti NP, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Manis temmincki
+location ::           Serengeti NP, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Behavior             Defensive, rolled in ball
 Life Cycle Stage ::     adult
 Body Part            whole
 View                 side
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

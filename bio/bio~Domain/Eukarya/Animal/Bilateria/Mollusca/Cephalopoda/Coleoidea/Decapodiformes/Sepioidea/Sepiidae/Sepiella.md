@@ -90,21 +90,21 @@ Africa. Annals of the South African Museum, 59(10):193-313.
 ![](Sepiella/SepiellaNorman.jpg) 
 
   ----------
-  Scientific Name ::     Sepiella inermis
-  Location ::           Singapore
-  Specimen Condition   Live Specimen
+  scientific_name ::     Sepiella inermis
+  location ::           Singapore
+  specimen_condition ::  Live Specimen
   View                 Dorsal
   Size                 130 mm ML
-  Copyright ::            © 2004 Mark Norman
+  copyright ::            © 2004 Mark Norman
   ----------
 ![](Sepiella/Sepiella.jpg) 
 
   ---------------------------------------------
-  Scientific Name ::  Sepiella sp.
-  Location ::        South African waters
+  scientific_name ::  Sepiella sp.
+  location ::        South African waters
   Reference         Roeleveld, M.A. 1972. A Review of the Sepiidae (Cephalopoda) of Southern Africa. Annals of the South African Museum, 59(10):193-313.
   View              Ventral
-  Copyright ::         © 2004 Martina Roeleveld
+  copyright ::         © 2004 Martina Roeleveld
   ---------------------------------------------
 
 

@@ -81,55 +81,55 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 ![](Theridiosomatidae/chthonos_2916.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Chthonos sp.
-  Location ::           French Guiana. Commune Regina. Les Nouragues Field Station
-  Specimen Condition   Live Specimen
+  scientific_name ::     Chthonos sp.
+  location ::           French Guiana. Commune Regina. Les Nouragues Field Station
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Eggsacs of Chthonos are small and cubical\--one of the few cubical constructions in the animal kingdo
   Sex ::                Female
   Life Cycle Stage ::     eggsac
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/ogulnius03.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Ogulnius sp.
-  Location ::           Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ogulnius sp.
+  location ::           Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Ogulnius webs lack frames and apparent radii are actually remnants of exploration behavior, not ster
   Life Cycle Stage ::     adult
   Size                 10cm
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/theridiosoma_gemmosum03.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Theridiosoma gemmosum
-  Location ::           North Carolina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Theridiosoma gemmosum
+  location ::           North Carolina
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Most theridiosomatid genera make a \"temporary circle\" (derived) rather than the plesiomorphic tempor
   Sex ::                Female
   Life Cycle Stage ::     adult
   Size                 ca 20 cm high
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Theridiosomatidae/theridiosoma_gemmosumweb03.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Theridiosoma gemmosum
-  Location ::           North Carolina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Theridiosoma gemmosum
+  location ::           North Carolina
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Several theridiosomatid genera actively distort the planar orb into a cone by reeling in a silk line
   Sex ::                Female
   Life Cycle Stage ::     ad
   Size                 ca. 20 cm high
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

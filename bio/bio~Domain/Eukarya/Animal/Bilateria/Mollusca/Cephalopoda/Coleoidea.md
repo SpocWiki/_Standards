@@ -224,27 +224,27 @@ it equivocal support (Bonnaud *et al.*, 1997).
 
 -------------------------------------------------------------------------------- 
 ![](Coleoidea/Sthenoteuthis.jpg) 
-Scientific Name ::     Sthenoteuthis oualaniensis
-Location ::           Hawaiian waters
-Specimen Condition   Live Specimen
+scientific_name ::     Sthenoteuthis oualaniensis
+location ::           Hawaiian waters
+specimen_condition ::  Live Specimen
 View                 Side
 Size                 Estimate of 18-20 cm ML
-Copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 ![Octopus2](Coleoidea/Octopus2.jpg) 
-Scientific Name ::     Coleoidea
-Location ::           Hawaiian waters
+scientific_name ::     Coleoidea
+location ::           Hawaiian waters
 Comments             Unidentified octopus
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 Roger Hanlon
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 Roger Hanlon
 
 --------------
 ![](Coleoidea/Vampyroteuthis.jpg)
-Scientific Name ::     Vampyroteuthis infernalis
-Location ::           Californian waters
+scientific_name ::     Vampyroteuthis infernalis
+location ::           Californian waters
 Comments             Photographed from submersible
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 View                 Side
-Copyright ::            © 1999 Brad Seibel
+copyright ::            © 1999 Brad Seibel
 
 
 ## Confidential Links & Embeds: 

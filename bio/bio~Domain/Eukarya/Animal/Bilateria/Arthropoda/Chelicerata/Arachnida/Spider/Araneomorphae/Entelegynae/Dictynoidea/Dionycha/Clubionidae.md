@@ -60,12 +60,12 @@ Containing group:[Dionycha](../Dionycha.md)
 
 ----------------------------------------------------------------------------
 ![](Clubionidae/Chiracanthium_sp_face.jpg)
-Scientific Name ::     Arachnida:Spider:Clubionidae: Chiracanthium sp (face)
-Location ::           Midland Meanders, Kwazulu-Natal, South Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Arachnida:Spider:Clubionidae: Chiracanthium sp (face)
+location ::           Midland Meanders, Kwazulu-Natal, South Africa
+specimen_condition ::  Live Specimen
 Body Part            face
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
 ## Confidential Links & Embeds: 

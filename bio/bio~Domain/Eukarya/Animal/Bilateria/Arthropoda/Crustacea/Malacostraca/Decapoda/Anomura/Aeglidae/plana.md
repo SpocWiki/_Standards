@@ -119,11 +119,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -----------------
 ![](plana/Aegla_plana.jpg)
-Scientific Name ::  Aegla plana
+scientific_name ::  Aegla plana
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

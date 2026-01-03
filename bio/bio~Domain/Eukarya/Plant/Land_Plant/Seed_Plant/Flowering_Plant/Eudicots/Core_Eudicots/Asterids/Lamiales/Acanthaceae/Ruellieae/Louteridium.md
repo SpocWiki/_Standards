@@ -80,9 +80,9 @@ is known about reproductive biology of the species.
 ![](Louteridiumcostaricense.jpg)
 
   ---------------------------------------
-  Scientific Name ::     Louteridium costaricense Radlk. & Donn.Sm.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [www.sagan-gea.org](http://www.sagan-gea.org/hojared_biodiversidad/paginas/hoja2_flora_amenazada.html)
+  scientific_name ::     Louteridium costaricense Radlk. & Donn.Sm.
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2006 [www.sagan-gea.org](http://www.sagan-gea.org/hojared_biodiversidad/paginas/hoja2_flora_amenazada.html)
   ---------------------------------------
 
 

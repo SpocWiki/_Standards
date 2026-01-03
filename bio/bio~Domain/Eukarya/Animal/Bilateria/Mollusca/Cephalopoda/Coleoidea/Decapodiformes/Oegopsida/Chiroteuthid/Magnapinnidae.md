@@ -225,12 +225,12 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 ![](Magnapinnidae/LongArmSquid1.jpg) 
 
   ------------------------------------
-  Scientific Name ::     Magnapinna sp.
-  Location ::           Gulf of Mexico, 27°45\'N, 88°31\'W, at 1940 m depth
-  Specimen Condition   Live Specimen
+  scientific_name ::     Magnapinna sp.
+  location ::           Gulf of Mexico, 27°45\'N, 88°31\'W, at 1940 m depth
+  specimen_condition ::  Live Specimen
   View                 Side
   Size                 ca. 7 m
-  Copyright ::            © NOAA Undersea Research Program, Minerals Management Service and National Energy Technology Lab.
+  copyright ::            © NOAA Undersea Research Program, Minerals Management Service and National Energy Technology Lab.
   ------------------------------------
 
 

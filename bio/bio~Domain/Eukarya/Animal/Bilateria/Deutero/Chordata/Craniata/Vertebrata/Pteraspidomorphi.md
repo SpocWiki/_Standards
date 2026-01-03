@@ -125,7 +125,7 @@ by their dermal head armor having large, median, ventral and dorsal
 plates or \"shields\" (red). (after Janvier 1996)
 ![](Pteraspidomorphi/pteraspidomorphi.gif) 
 
-  Copyright ::   © 1997 Philippe Janvier
+  copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

@@ -74,27 +74,27 @@ taxon_common_name: 杜鹃花目
 
 --------------------------------------------------------------------- 
 ![Cornish heath, Erica vagans](Ericales/Erica_vagans.jpg) 
-Scientific Name ::  Erica vagans
+scientific_name ::  Erica vagans
 Comments          Cornish heath (Ericaceae)
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 -------------------------------------------------------------------------
 ![Primula patens](Ericales/Primulaceae/Primula_patens.jpg)
-Scientific Name ::     Primula patens
-Location ::           Kiparisovo village near Vladivostok, Primorsky Territory
+scientific_name ::     Primula patens
+location ::           Kiparisovo village near Vladivostok, Primorsky Territory
 Comments             grown in a garden
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 --------------------- 
 ![Pitcher plant, Sarracenia alabamensis](Ericales/Sarracenia_alabamensis.jpg) 
-Scientific Name ::     Sarracenia alabamensis
-Location ::           Near Selma (Alabama, USA)
+scientific_name ::     Sarracenia alabamensis
+location ::           Near Selma (Alabama, USA)
 Comments             Pitcher plant (Sarraceniaceae)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [Barry Meyers-Rice](mailto:bamrice@ucdavis.edu)
+copyright ::            © 2001 [Barry Meyers-Rice](mailto:bamrice@ucdavis.edu)
 
 
 ## Confidential Links & Embeds: 

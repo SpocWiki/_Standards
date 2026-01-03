@@ -59,11 +59,11 @@ Lower Cretaceous of Brazil. Palaeontology 44:489-495.
 ![](Notostigmophora/Scutigera_coleoptrata-800.jpg) 
 
   ----------------------------------------------------------------------------
-  Scientific Name ::     Chilopoda Scutigeromorpha:Scutigeridae: Scutigera coleoptrata
-  Location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
-  Specimen Condition   Live Specimen
+  scientific_name ::     Chilopoda Scutigeromorpha:Scutigeridae: Scutigera coleoptrata
+  location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
+  specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+  copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
 

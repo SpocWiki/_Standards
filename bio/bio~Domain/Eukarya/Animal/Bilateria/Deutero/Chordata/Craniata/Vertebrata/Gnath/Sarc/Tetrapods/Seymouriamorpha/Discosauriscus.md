@@ -178,11 +178,11 @@ Forschungshefte, Reihe C 400: 117-139.
 ![](Discosauriscus/Disco.gif) 
 
   ----------------------
-  Scientific Name ::  Discosauriscus austriacus
+  scientific_name ::  Discosauriscus austriacus
   Comments          metamorphic specimen
   Body Part         skull
   View              dorsal
-  Copyright ::         © 1996 L. Osvald (Faculty of Natural Sciences, Bratislava)
+  copyright ::         © 1996 L. Osvald (Faculty of Natural Sciences, Bratislava)
   ----------------------
 
 

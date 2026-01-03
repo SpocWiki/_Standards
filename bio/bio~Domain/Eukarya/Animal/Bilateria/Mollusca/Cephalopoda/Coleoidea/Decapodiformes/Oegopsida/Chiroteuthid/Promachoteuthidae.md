@@ -162,7 +162,7 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 ![](Promachoteuthidae/PromachOkutani.jpg) 
 
   --------------------------------------------------------------
-  Scientific Name ::   Promachoteuthis megaptera
+  scientific_name ::   Promachoteuthis megaptera
   Comments           Arrow points to the unusual pigment band at the base of the tentacle.
   Reference          Okutani, T. 1983. Rare and interesting squid from Japan. VIII. Rediscovery of Promachoteuthis megaptera Hoyle, 1885 (Oegopsida: Promachoteuthidae). Venus 42:241-247. with permission.
   Sex ::              Female

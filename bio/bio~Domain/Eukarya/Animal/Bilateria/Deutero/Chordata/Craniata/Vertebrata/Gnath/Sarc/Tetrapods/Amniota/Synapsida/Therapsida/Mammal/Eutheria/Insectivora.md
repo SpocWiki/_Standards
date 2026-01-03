@@ -94,27 +94,27 @@ title: Insectivora
 
 ----------------------------------------------------------------------- 
 ![](Insectivora/99051987_7328b57217_o.jpg) 
-Scientific Name ::     Blarina carolinensis
-Location ::           Durham, North Carolina, USA
+scientific_name ::     Blarina carolinensis
+location ::           Durham, North Carolina, USA
 Comments             Found while raking leaves\--captured briefly, posed, and released. Identified as Blarina carolinesis based on Webster et al., Mammals of the Carolinas, Virginia, and Maryland.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Patrick Coin
 Source               [Southern Short-tailed Shrew](http://flickr.com/photos/pcoin/99051987)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.5/).
-Copyright ::            © 2004 [Patrick Coin](http://cotinis.com/) 
+copyright ::            © 2004 [Patrick Coin](http://cotinis.com/) 
 
 -----------------------------------------------------------------------
 ![African hedgehog](Hedgehog3jpg)
-Scientific Name ::     Atelerix albiventris
-Location ::           Serengeti NP, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Atelerix albiventris
+location ::           Serengeti NP, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Behavior             walking
 Life Cycle Stage ::     adult
 Body Part            whole
 View                 ventral
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

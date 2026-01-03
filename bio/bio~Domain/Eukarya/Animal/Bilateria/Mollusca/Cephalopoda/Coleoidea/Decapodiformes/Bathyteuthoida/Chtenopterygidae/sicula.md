@@ -180,8 +180,8 @@ type repositories of Recent Cephalopoda. Smithson. Contr. Zool., No. 586
 ![](sicula/ChtenSicula.jpg) 
 
   -------------------------------------
-  Scientific Name ::  Chtenopteryx sicula
-  Location ::        off Naples
+  scientific_name ::  Chtenopteryx sicula
+  location ::        off Naples
   Reference         modified from Naef, A. 1921-23b. Cephalopoda. Fauna e Flora de Golfo di Napoli. Monograph, no. 35, 863 pp.
   View              Dorsal and ventral
   -------------------------------------

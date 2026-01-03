@@ -61,17 +61,17 @@ London.
 ![](sigmoides/fancyrosig.gif) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::  Ancyromonas sigmoides
-  Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::  Ancyromonas sigmoides
+  copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
 ![](sigmoides/pancyrosc.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Ancyromonas sigmoides
+  scientific_name ::     Ancyromonas sigmoides
   Comments             Phase contrast micrograph of living cell
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 

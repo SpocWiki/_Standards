@@ -113,11 +113,11 @@ Eastern and northeastern parts of Rio Grande do Sul, Brazil.
 
 ----------------- 
 ![](inconspicua/inconspicua1.jpg) 
-Scientific Name ::  Aegla inconspicua
+scientific_name ::  Aegla inconspicua
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

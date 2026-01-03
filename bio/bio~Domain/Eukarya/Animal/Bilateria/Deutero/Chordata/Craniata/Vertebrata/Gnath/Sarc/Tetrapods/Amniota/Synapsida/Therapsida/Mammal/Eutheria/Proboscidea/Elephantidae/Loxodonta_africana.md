@@ -55,10 +55,10 @@ title: Loxodonta africana
 
 ------------------------------------------------------------------------------ 
 ![](Loxodonta_africana/0706elephants.jpg) 
-Scientific Name ::  Loxodonta africana
-Location ::        Khwai, Okavango Delta, Botswana
+scientific_name ::  Loxodonta africana
+location ::        Khwai, Okavango Delta, Botswana
 Comments          elephant breeding herd
-Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

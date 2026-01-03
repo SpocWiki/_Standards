@@ -145,29 +145,29 @@ Ellison et al., 2006).
 
 ------------------------------ 
 ![Medicago sativa](Inverted_Repeat-lacking/Medicago_sativa.jpg) 
-Scientific Name ::     Medicago sativa L.
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [International Legume Research Institute](http://www.tropicalforages.info/)
+scientific_name ::     Medicago sativa L.
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [International Legume Research Institute](http://www.tropicalforages.info/)
 
 --------------------- 
 ![Astragalus purshii](Inverted_Repeat-lacking/Astragalus_purshii.jpg) 
-Scientific Name ::     Astragalus purshii Dougl. ex G.Don
-Location ::           California, USA
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Jay Sullivan](http://www.timetotrack.com/jay/)
+scientific_name ::     Astragalus purshii Dougl. ex G.Don
+location ::           California, USA
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Jay Sullivan](http://www.timetotrack.com/jay/)
 
 ---------------------
 ![Pisum sativum](Pisum_sativum.jpg)
-Scientific Name ::     Pisum sativum L.
-Location ::           Island of Mallorca, Spain
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Jardin Mundani](http://jardin-mundani.info/)
+scientific_name ::     Pisum sativum L.
+location ::           Island of Mallorca, Spain
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Jardin Mundani](http://jardin-mundani.info/)
 
 ------------------------- 
 ![Wisteria sinensis](Inverted_Repeat-lacking/Wisteria_sinensis.jpg) 
-Scientific Name ::     Wisteria sinensis (Sims) Sweet
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/)
+scientific_name ::     Wisteria sinensis (Sims) Sweet
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Annette Höggemeier](http://www.boga.ruhr-uni-bochum.de/)
 
 
 ## Confidential Links & Embeds: 

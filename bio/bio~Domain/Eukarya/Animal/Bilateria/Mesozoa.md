@@ -74,11 +74,11 @@ title: Mesozoa
 Drawings by by Ivy Livingstone. Copyright © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm)
 
 ![](Mesozoa/Mesozoa.gif)
-Copyright ::   © 1999 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 1999 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 --------------------------------------------------------------------------
 ![](Mesozoa/Mesozoa2.gif)
-Copyright ::   © 1998 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 1998 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

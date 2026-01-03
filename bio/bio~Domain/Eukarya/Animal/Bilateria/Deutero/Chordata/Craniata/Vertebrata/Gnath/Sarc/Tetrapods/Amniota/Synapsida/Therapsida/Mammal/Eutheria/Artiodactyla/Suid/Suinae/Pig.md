@@ -184,13 +184,13 @@ IPA_transcription: sʌs
 ![](Pig/Wild_Boar/Wild_Boar.jpg)
 
 ----------------------------------------------------------------
-Scientific Name ::     Sus scrofa
-Location ::           India
-Specimen Condition   Live Specimen
+scientific_name ::     Sus scrofa
+location ::           India
+specimen_condition ::  Live Specimen
 Source               [Wild Boar](http://flickr.com/photos/jayanthsharma/54607385/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Copyright ::            © 2005 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/)
+copyright ::            © 2005 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/)
 
 
 ## Confidential Links & Embeds: 

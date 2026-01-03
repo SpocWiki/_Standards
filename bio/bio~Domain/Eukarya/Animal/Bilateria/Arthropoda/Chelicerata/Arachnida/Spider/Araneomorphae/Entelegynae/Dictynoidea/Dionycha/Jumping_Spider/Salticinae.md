@@ -164,10 +164,10 @@ tegulum that would unite Salticus with some or all of these groups.
 
 ------------------------------------------------------------------------------
 ![](Salticinae/salticus.gif)
-Scientific Name ::     Salticus palpalis
-Specimen Condition   Live Specimen
+scientific_name ::     Salticus palpalis
+specimen_condition ::  Live Specimen
 Sex ::                Female
-Copyright ::            © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::            © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 ------------------------------------------------------------------------------
 
 

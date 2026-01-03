@@ -84,7 +84,7 @@ Figure 1. **Chinchillula sahamae**, copyright © O. Pearson.
 ![Chinchilla mouse](chinch.jpg)
 
   --------
-  Copyright ::   © 1997 O. Pearson
+  copyright ::   © 1997 O. Pearson
   --------
 
 

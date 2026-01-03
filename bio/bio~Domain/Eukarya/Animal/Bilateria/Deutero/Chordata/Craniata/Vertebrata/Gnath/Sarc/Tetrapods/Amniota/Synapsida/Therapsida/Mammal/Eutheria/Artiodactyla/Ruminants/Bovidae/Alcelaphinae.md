@@ -123,16 +123,16 @@ title: Alcelaphinae
 ![White-bearded Gnu or Wildebeest](Gnu042.jpg) 
 
 -------------------------------------------------------------------------
-Scientific Name ::     Connochaetes taurinus
-Location ::           Ngorongoro Crater, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Connochaetes taurinus
+location ::           Ngorongoro Crater, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Behavior             walking
 Sex ::                Male
 Life Cycle Stage ::     adult
 Body Part            whole
 View                 side
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 -------------------------------------------------------------------------
 
 

@@ -149,7 +149,7 @@ waters. Ann. South African Mus., 50: 61-88.
 ![](mega/Cmega.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Chiroteuthis mega, Chiroteuthis mega (2), Chiroteuthis mega (3)
+  scientific_name ::  Chiroteuthis mega, Chiroteuthis mega (2), Chiroteuthis mega (3)
   Comments          Type illustration of Chiropsis mega, Illustration of the holotype of Bigelowia atlanticus (2), Type illustration of Chiroteuthis capensis (3)
   Reference         From Joubin, L. 1933. Notes préliminaires sur les céphalopodes des croisières du DANA. Ann. Instit. Océanogr. 13:1-49., from Voss, G. L. 1967. Some bathypelagic cephalopods from South African waters. Ann. South African Mus. 50:61-88. (3)
   Creator           J. R. Schroeder (2)

@@ -115,11 +115,11 @@ Eastern Rio Grande do Sul, Brazil.
 
 ----------------- 
 ![](itacolomiensis/itacolomiensis1.jpg) 
-Scientific Name ::  Aegla itacolomiensis
+scientific_name ::  Aegla itacolomiensis
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

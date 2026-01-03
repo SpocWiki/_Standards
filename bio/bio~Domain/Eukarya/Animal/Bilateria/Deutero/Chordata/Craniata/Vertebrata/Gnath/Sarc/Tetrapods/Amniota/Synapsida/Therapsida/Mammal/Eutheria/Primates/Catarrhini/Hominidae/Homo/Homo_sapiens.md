@@ -77,8 +77,8 @@ title: Homo sapiens
 ![Charles Darwin at age 72 on the veranda at Down](Homo_sapiens/darwin.jpg) 
 
   ------------------------------------------
-  Scientific Name ::   Homo sapiens
-  Location ::         England
+  scientific_name ::   Homo sapiens
+  location ::         England
   Comments           A European male. Charles Darwin at age 72 on the veranda at Down.
   Creator            Photograph by J. Kirschner
   Acknowledgements   Courtesy Department of Library Services [American Museum of Natural History](http://www.amnh.org/) (Neg. No. 105168).
@@ -86,20 +86,20 @@ title: Homo sapiens
 ![Children of the Dai minority in a schoolyard](Homo_sapiens/daikids.jpg) 
 
   --------------------------
-  Scientific Name ::   Homo sapiens
-  Location ::         Xishuangbana, Yunnan Province, China
+  scientific_name ::   Homo sapiens
+  location ::         Xishuangbana, Yunnan Province, China
   Comments           Children of the Dai minority in a schoolyard
   Sex ::              Female
   Life Cycle Stage ::   children
-  Copyright ::          © 1993 [Ethan Michelson](http://www.indiana.edu/%7Eemsoc/index.html)
+  copyright ::          © 1993 [Ethan Michelson](http://www.indiana.edu/%7Eemsoc/index.html)
   --------------------------
 ![Woman of the !Kung bushmen](Homo_sapiens/kung.jpg) 
 
   ----------------------
-  Scientific Name ::  Homo sapiens
-  Location ::        Botswana
+  scientific_name ::  Homo sapiens
+  location ::        Botswana
   Comments          Woman of the !Kung bushmen
-  Copyright ::         © 1997 [Rodney Barnett](http://www.arts-net.com/barnett/)
+  copyright ::         © 1997 [Rodney Barnett](http://www.arts-net.com/barnett/)
   ----------------------
 
 

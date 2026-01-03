@@ -135,12 +135,12 @@ Mar. Sci. 20: 421-428.
 ![](antarctica/CirroctoAntarcticaWhole.jpg) 
 
   ------------
-  Scientific Name ::  Cirroctopus antarcticus
+  scientific_name ::  Cirroctopus antarcticus
   ------------
 ![](antarctica/CirroctoAntarcticaOral.jpg) 
 
   -----------
-  Scientific Name ::  Cirroctopus antarctica
+  scientific_name ::  Cirroctopus antarctica
   -----------
 
 

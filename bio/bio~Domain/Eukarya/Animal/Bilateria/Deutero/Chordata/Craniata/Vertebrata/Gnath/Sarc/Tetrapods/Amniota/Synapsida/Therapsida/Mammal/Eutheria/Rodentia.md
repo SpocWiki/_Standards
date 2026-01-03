@@ -204,24 +204,24 @@ U_S_National_Archives_Identifier:
 
 ------------------------------------------------------------------------- 
 ![Crested Porcupine ( Hystrix cristata ) family, Serengeti](Rodentia/porcufam.jpg) 
-Scientific Name ::     Hystrix cristata
-Location ::           Serengeti National Park
+scientific_name ::     Hystrix cristata
+location ::           Serengeti National Park
 Comments             This was an unusual sighting, not only of a pair with young, but in open country at mid-day. Crested porcupines are mainly nocturnal.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Behavior             Parental
 Sex ::                Presumed pair
 Life Cycle Stage ::     Adults and young
 View                 Frontal/lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
 ![](Rodentia/Spermophilus-parryii.jpg) 
-Scientific Name ::     Spermophilus parryii
+scientific_name ::     Spermophilus parryii
 Comments             Arctic ground squirrel
 Creator              Jim McCarthy
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

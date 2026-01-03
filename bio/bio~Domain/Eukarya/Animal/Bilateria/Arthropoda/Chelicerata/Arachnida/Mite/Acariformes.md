@@ -132,7 +132,7 @@ Venter of acariform mite (Sarcoptiformes: Oribatida, Lohmanniidae:
 ![](Acariformes/venter.gif) 
 
   --------
-  Copyright ::   © 1998 D. Walter
+  copyright ::   © 1998 D. Walter
   --------
 
 

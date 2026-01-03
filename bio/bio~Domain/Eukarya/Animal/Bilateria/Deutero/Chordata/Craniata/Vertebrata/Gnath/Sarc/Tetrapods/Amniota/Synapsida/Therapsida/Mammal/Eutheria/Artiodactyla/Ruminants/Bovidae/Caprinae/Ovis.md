@@ -96,12 +96,12 @@ Mitochondrial control region sequence variation within argali wild sheep
 ![](Ovis_canadensis1374192.jpg)
 
   ------------------------------
-  Scientific Name ::     Ovis canadensis
+  scientific_name ::     Ovis canadensis
   Comments             bighorn sheep
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1374192)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © Terry Spivey, USDA Forest Service
+  copyright ::            © Terry Spivey, USDA Forest Service
   ------------------------------
 
 

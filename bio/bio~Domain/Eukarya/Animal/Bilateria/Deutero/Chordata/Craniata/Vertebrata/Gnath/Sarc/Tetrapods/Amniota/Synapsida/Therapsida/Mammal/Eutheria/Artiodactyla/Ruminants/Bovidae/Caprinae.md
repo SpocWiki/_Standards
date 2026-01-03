@@ -129,35 +129,35 @@ IUCN, Switzerland and Cambridge, Gland, 390 p.
 ![](Caprinae/Ovis/Ovis_canadensis.jpg) 
 
   ------------------------------
-  Scientific Name ::     Ovis canadensis
+  scientific_name ::     Ovis canadensis
   Comments             bighorn sheep
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1374216)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © Terry Spivey, USDA Forest Service
+  copyright ::            © Terry Spivey, USDA Forest Service
   ------------------------------
 
 ![](Oreamnos_americanus1929018.jpg)
 
   ------------------------------
-  Scientific Name ::     Oreamnos americanus
-  Location ::           Glacier National Park, Montana, USA
+  scientific_name ::     Oreamnos americanus
+  location ::           Glacier National Park, Montana, USA
   Comments             mountain goat
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1929018)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © G. Keith Douce, The University of Georgia
+  copyright ::            © G. Keith Douce, The University of Georgia
   ------------------------------
 ![](Caprinae/92395489_51a1aa5336_o.jpg) 
 
   --------------------------------------------------------
-  Scientific Name ::     Budorcas taxicolor
-  Location ::           captive
-  Specimen Condition   Live Specimen
+  scientific_name ::     Budorcas taxicolor
+  location ::           captive
+  specimen_condition ::  Live Specimen
   Source               [It is dissatisfied](http://flickr.com/photos/suneko/92395489/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-  Copyright ::            © 2006 [su neko](http://flickr.com/people/suneko/)
+  copyright ::            © 2006 [su neko](http://flickr.com/people/suneko/)
   --------------------------------------------------------
 
 

@@ -117,13 +117,13 @@ Zool., 97: 1-159.
 ![](pyrodes/MastigoPyrodes.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::   *Mastigoteuthis pyrodes*
+  scientific_name ::   *Mastigoteuthis pyrodes*
   Comments           Holotype
   Sex ::              Male
   Life Cycle Stage ::   Immature
   View               Ventral
   Size               110 mm ML
-  Copyright ::          © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::          © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 

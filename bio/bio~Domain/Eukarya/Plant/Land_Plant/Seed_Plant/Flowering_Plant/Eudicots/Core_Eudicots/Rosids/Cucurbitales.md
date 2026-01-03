@@ -71,24 +71,24 @@ title: Cucurbitales
 
 ------------------------------------------------------------------------ 
 ![Begonia froebelii](Cucurbitales/Begonia_froebelii.jpg) 
-Scientific Name ::   Begonia froebelii
+scientific_name ::   Begonia froebelii
 Comments           Begoniaceae. Male flower of a plant cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Sex ::              Male
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------------------------------------- 
 ![Cucumber plant, Cucumis sativus](Cucurbitales/Cucurbitaceae/Benincaseae/Cucumis/Cucumber/Cucumis_sativus.jpg) 
-Scientific Name ::  Cucumis sativus
+scientific_name ::  Cucumis sativus
 Comments          Cucumber plant (Cucurbitaceae)
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------ 
 ![Datisca cannabina](Cucurbitales/Datisca_cannabina.jpg) 
-Scientific Name ::   Datisca cannabina
+scientific_name ::   Datisca cannabina
 Comments           Datiscaceae. Young plant cultivated at the Botanical Garden Basel, Switzerland
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

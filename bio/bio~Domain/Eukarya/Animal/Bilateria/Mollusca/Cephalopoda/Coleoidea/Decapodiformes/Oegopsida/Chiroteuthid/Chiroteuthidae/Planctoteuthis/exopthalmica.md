@@ -91,13 +91,13 @@ The lectotype is from the temperate South Indian Ocean at 43°13'S, 80°30'E.
 
 ---------------------------------------------------
 ![](levimana/P.jpg)
-Scientific Name ::  Planctoteuthis exopthalmica
+scientific_name ::  Planctoteuthis exopthalmica
 Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
 Size              9.5 mm ML
 
 --------------------------------------------------- 
 ![](exopthalmica/PExopthalmicaDors.jpg) 
-Scientific Name ::   Planctoteuthis exopthalmica
+scientific_name ::   Planctoteuthis exopthalmica
 Reference          Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
 Life Cycle Stage ::   Paralarva
 View               Dorsal

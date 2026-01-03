@@ -48,20 +48,20 @@ title: Santalales
 ![Osyris alba](Santalales/Osyris_alba3996.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::   Osyris alba
-  Location ::         Samos, Greece
+  scientific_name ::   Osyris alba
+  location ::         Samos, Greece
   Comments           Santalaceae
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+  copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
 ![Mistletoe growing on the trunk of a whitebeam](Santalales/Viscum_album2019.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::   Viscum album, Sorbus aria
-  Location ::         Arlesheim, Switzerland
+  scientific_name ::   Viscum album, Sorbus aria
+  location ::         Arlesheim, Switzerland
   Comments           Mistletoe, Viscum album (Loranthaceae), growing on the trunk of a whitebeam, Sorbus aria (Rosaceae)
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+  copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
 
 

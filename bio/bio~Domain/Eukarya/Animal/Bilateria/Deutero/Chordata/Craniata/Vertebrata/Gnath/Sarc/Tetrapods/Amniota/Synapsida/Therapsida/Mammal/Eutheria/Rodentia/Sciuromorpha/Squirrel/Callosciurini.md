@@ -64,24 +64,24 @@ title: Callosciurini
 ![](Callosciurini/267759125_91ed2069f2_o.jpg)
 
   --------------------------------------------------------
-  Scientific Name ::     Callosciurus notatus
-  Location ::           Lower Peirce Reservoir, Singapore
-  Specimen Condition   Live Specimen
+  scientific_name ::     Callosciurus notatus
+  location ::           Lower Peirce Reservoir, Singapore
+  specimen_condition ::  Live Specimen
   Source               [Plantain Squirrel](http://www.flickr.com/photos/64684201@N00/267759125/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-  Copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
+  copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
   --------------------------------------------------------
 
 ![](Callosciurini/510893344_eaeeb95650_o.jpg)
 
   ------------------------------------------------------------------
-  Scientific Name ::     Sundasciurus tenuis
-  Specimen Condition   Live Specimen
+  scientific_name ::     Sundasciurus tenuis
+  specimen_condition ::  Live Specimen
   Source               [slender squirrel (Sundasciurus tenuis)](http://www.flickr.com/photos/budak/510893344/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-  Copyright ::            © 2007 [budak](http://flickr.com/people/77246694@N00)
+  copyright ::            © 2007 [budak](http://flickr.com/people/77246694@N00)
   ------------------------------------------------------------------
 
 

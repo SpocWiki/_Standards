@@ -80,30 +80,30 @@ title: Antilocapridae
 
 ----------------------------------------------------------------------------
 ![](Capromeryx_mexicana_skull.jpg)
-Scientific Name ::     Capromeryx mexicana
-Location ::           near Tequixquiac, Mexico
+scientific_name ::     Capromeryx mexicana
+location ::           near Tequixquiac, Mexico
 Reference            Furlong, E. L. 1925. Notes on the occurrence of mammalian remains in the Pleistocene of Mexico, with a description of a new species Capromeryx mexicana. University of California Publications in Geological Science 15(5):137-152.
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skull
 View                 lateral
 Type                 holotype
 
 ---------------------------------------------------------------------------- 
 ![](Antilocapridae/Merycodus_necatus_skull.jpg) 
-Scientific Name ::     Merycodus necatus
-Location ::           Barstow, San Bernardino County, California, USA
+scientific_name ::     Merycodus necatus
+location ::           Barstow, San Bernardino County, California, USA
 Reference            Furlong, E. L. 1927. The occurrence and phylogenetic status of Merycodus from the Mohave Desert Tertiary. University of California Publications. Bulletin of the Department of Geological Sciences 17(4):145-186.
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skull
 View                 lateral
 
 -----------------------------------------------------------------------
 ![male pronghorn](Antilocapridae/pronghorn.jpg) 
-Scientific Name ::     Antilocapra americana
+scientific_name ::     Antilocapra americana
 Comments             pronghorn
 Creator              Photograph by James C. Leupold
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Male
 
 

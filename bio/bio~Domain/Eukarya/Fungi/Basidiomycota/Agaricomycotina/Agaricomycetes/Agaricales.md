@@ -437,32 +437,32 @@ of conidiogenesis modes in the gilled Agaricales. Mycol. Res. 109:
 ![](Agaricales/gymnopilus_spectabilis.jpg) 
 
   -----------------
-  Scientific Name ::     Gymnopilus spectabilis
+  scientific_name ::     Gymnopilus spectabilis
   Comments             agaricoid clade, Gymnopileae
   Acknowledgements     Image used with permission
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [MykoWeb](http://www.mykoweb.com/)
-  Copyright ::            © [Mike Wood](http://www.mykoweb.com/)
+  copyright ::            © [Mike Wood](http://www.mykoweb.com/)
   -----------------
 ![](Agaricales/lycoperdon_perlatum1.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Lycoperdon perlatum
+  scientific_name ::     Lycoperdon perlatum
   Comments             puffball; agaricoid clade, Agaricaceae
   Acknowledgements     Image used with permission
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [MykoWeb](http://www.mykoweb.com/)
-  Copyright ::            © [Taylor F. Lockwood](http://www.fungiphoto.com/) 
+  copyright ::            © [Taylor F. Lockwood](http://www.fungiphoto.com/) 
  
   -------------------------------------------------------------------------
 ![](Agaricales/squamanita_paradoxa.jpg) 
 
   -----------------------------------------------
-  Scientific Name ::     Squamanita paradoxa
+  scientific_name ::     Squamanita paradoxa
   Comments             Squamanita paradoxa, a mycoparasite of Cystoderma amianthinum.
   Acknowledgements     Image courtesy of Juan Santos
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Juan Santos](http://www.nrm.se/researchandcollections/botany/cryptogamicbotany/staff/juansantos.4.5fdc727f10d795b1c6e80005951.html)
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Juan Santos](http://www.nrm.se/researchandcollections/botany/cryptogamicbotany/staff/juansantos.4.5fdc727f10d795b1c6e80005951.html)
   -----------------------------------------------
 
 

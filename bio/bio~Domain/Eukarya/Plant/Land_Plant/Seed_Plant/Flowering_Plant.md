@@ -433,28 +433,28 @@ needed to compensate for this bias.
 
 ------------------------------------------------------------------------------
 ![Nymphaea water lilies](Flowering_Plant/Nymphaea_water_lilies.jpg) 
-Scientific Name ::  Nymphaea
-Location ::        Okavango Delta, Botswana
+scientific_name ::  Nymphaea
+location ::        Okavango Delta, Botswana
 Comments          Nymphaea water lilies (Nymphaeales) in a lagoon
-Copyright ::         © 1990 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1990 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ![](sunflowersk5751-1.jpg)
 
 ----------------------------------------------------------------------------------------------
 ![Cultivated sunflowers](Flowering_Plant/Helianthus_annuus,Field.jpg) 
-Scientific Name ::  Helianthus annuus
-Location ::        Fargo, North Dakota
+scientific_name ::  Helianthus annuus
+location ::        Fargo, North Dakota
 Comments          Cultivated sunflowers (Euangiosperms, Asteraceae)
 Creator           Photograph by Bruce Fritz
-Copyright ::         © [USDA Agricultural Research Service USDA Agricultural Research Service](http://www.ars.usda.gov/is/graphics/photos/) 
+copyright ::         © [USDA Agricultural Research Service USDA Agricultural Research Service](http://www.ars.usda.gov/is/graphics/photos/) 
 
 
 ----------------------------------------------------------------------------
 ![Acacia tortilis,southern Serengeti near Ndutu, Tanzania](Flowering_Plant/Acacia_tortilis,Ndutu,Tanzania.jpg) 
-Scientific Name ::  Acacia tortilis
-Location ::        southern Serengeti near Ndutu, Tanzania
+scientific_name ::  Acacia tortilis
+location ::        southern Serengeti near Ndutu, Tanzania
 Comments          (Euangiosperms, Fabaceae)
-Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

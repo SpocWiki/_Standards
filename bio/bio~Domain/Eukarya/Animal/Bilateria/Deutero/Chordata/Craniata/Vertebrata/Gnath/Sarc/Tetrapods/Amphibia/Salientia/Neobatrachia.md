@@ -290,19 +290,19 @@ Leptodactylidae, an arrangement that agrees with Lynch (1971).
 
 ------------------------------ 
 ![cane toad](Neobatrachia/Bufo_marinus1354003.jpg) 
-Scientific Name ::     Bufo marinus
+scientific_name ::     Bufo marinus
 Comments             cane toad
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1354003)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Kevin Enge, Florida Fish and Wildlife Conservation Commission
+copyright ::            © Kevin Enge, Florida Fish and Wildlife Conservation Commission
 
 ------------------------------ 
 ![](Neobatrachia/1109hyla.jpg) 
-Scientific Name ::     Hyla punctata
-Location ::           lowland Amazon rain forest, Peru
-Specimen Condition   Live Specimen
-Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+scientific_name ::     Hyla punctata
+location ::           lowland Amazon rain forest, Peru
+specimen_condition ::  Live Specimen
+copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

@@ -284,26 +284,26 @@ free existence as juveniles and adults.
 
 -------------------------------------------------------------------------------- 
 ![Onychocrinus exsculptus fossil](Crinoidea/onychocrinus.jpg) 
-Scientific Name ::     Onychocrinus exsculptus
-Location ::           Indiana
+scientific_name ::     Onychocrinus exsculptus
+location ::           Indiana
 Comments             Cladida
-Specimen Condition   Fossil \-- Period: Lower Mississippian
-Copyright ::            © 1997 [William I. Ausich](http://www.geology.ohio-state.edu/%7Eausich/) 
+specimen_condition ::  Fossil \-- Period: Lower Mississippian
+copyright ::            © 1997 [William I. Ausich](http://www.geology.ohio-state.edu/%7Eausich/) 
 
 -------------------------------------------------------------------------------- 
 ![Neocrinus decorus](Crinoidea/neocrinus.jpg) 
-Scientific Name ::  Neocrinus decorus
-Location ::        Grand Bahama Island, 420m
+scientific_name ::  Neocrinus decorus
+location ::        Grand Bahama Island, 420m
 Comments          Isocrinidae
-Copyright ::         © 1997 [Charles G. Messing](http://www.nova.edu/ocean/messing/index.html) 
+copyright ::         © 1997 [Charles G. Messing](http://www.nova.edu/ocean/messing/index.html) 
 
 -------------------------------------------------------------------------------
 ![Lamprometra palmata](Crinoidea/Lamprometra_palmata.jpg)
-Scientific Name ::     Lamprometra palmata
-Location ::           Mabul Island, Sabah, Malaysia
+scientific_name ::     Lamprometra palmata
+location ::           Mabul Island, Sabah, Malaysia
 Comments             Mariametridae
-Specimen Condition   Live Specimen
-Copyright ::            © 1997 [Charles G. Messing](http://www.nova.edu/ocean/messing/index.html) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1997 [Charles G. Messing](http://www.nova.edu/ocean/messing/index.html) 
 
 
 ## Confidential Links & Embeds: 

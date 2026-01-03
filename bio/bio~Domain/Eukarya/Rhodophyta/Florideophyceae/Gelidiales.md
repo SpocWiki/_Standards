@@ -167,19 +167,19 @@ press).
 ![Gelidiella acerosa](Gelidiales/gacer.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::  Gelidiella acerosa
-  Location ::        collected at Cahuita on the Caribbean coast of Costa Rica
+  scientific_name ::  Gelidiella acerosa
+  location ::        collected at Cahuita on the Caribbean coast of Costa Rica
   Comments          5 Colones coin = 2 cm
-  Copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+  copyright ::         © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
  
   ---------------------------------------------------------------------------
 ![Gelidium arbuscula](Gelidiales/grancanar.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::   Gelidium arbuscula
-  Location ::         collected on the north coast of Gran Canaria, Canary Islands
+  scientific_name ::   Gelidium arbuscula
+  location ::         collected on the north coast of Gran Canaria, Canary Islands
   Acknowledgements   Hand model courtesy of Jose Rico
-  Copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+  copyright ::          © 2002 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
  
   ---------------------------------------------------------------------------
 

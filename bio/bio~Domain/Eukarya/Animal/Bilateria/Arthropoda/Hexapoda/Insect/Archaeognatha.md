@@ -113,10 +113,10 @@ Styli may be remnants of ancestral limbs.
 
 --------------------------------------------------------------------------- 
 ![Archaeognatha](Archaeognatha/Archaeognatha.jpg) 
-Scientific Name ::     Archaeognatha
-Location ::           USA: North Carolina: Durham
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Archaeognatha
+location ::           USA: North Carolina: Durham
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

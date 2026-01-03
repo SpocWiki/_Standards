@@ -97,38 +97,38 @@ urediniomycetous yeasts.
 ![](Pucciniomycotina/Eo-MIN864444.jpg) 
 
   ------------------------
-  Scientific Name ::     Eocronartium muscicola
-  Specimen Condition   Live Specimen
+  scientific_name ::     Eocronartium muscicola
+  specimen_condition ::  Live Specimen
   Identified By        D.J. McLaughlin
   Life Cycle Stage ::     fruitbodies on moss host
   Collection           MIN 864444
   Collector            David J. McLaughlin
-  Copyright ::            © 2001 [Bell Museum of Natural History](http://fungi.umn.edu/)
+  copyright ::            © 2001 [Bell Museum of Natural History](http://fungi.umn.edu/)
   ------------------------
 ![](Pucciniomycotina/CoffeeRust21.jpg) 
 
   ------------------------------------------------------------------------------------
-  Scientific Name ::     Hemileia vastatrix, Coffee Rust
-  Location ::           Las Cruces, Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Hemileia vastatrix, Coffee Rust
+  location ::           Las Cruces, Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        D. J. McLaughlin
   Behavior             on leaves of Coffea
   Life Cycle Stage ::     uredinial stage
   Collection           MIN862012
-  Copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
+  copyright ::            © 1995 [Elizabeth M. Frieders](http://www.uwplatt.edu/biology/staff/frieders.html) 
  
   ------------------------------------------------------------------------------------
 ![](Pucciniomycotina/HpMLutz.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
-  Location ::           Germany, Baden-Württemberg, Tübingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Helicobasidium purpureum on Picea abies (L.) Karst.
+  location ::           Germany, Baden-Württemberg, Tübingen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     fruitbody of the phytoparasitic teleomorph
   Collection           TUB 012601
   Collector            M. Lutz
-  Copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2005 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 

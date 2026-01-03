@@ -102,37 +102,37 @@ advanced of the two subgenera.\
 
 --------------------------------------------------------------------------- 
 ![Blepharis prostrata](Blepharis/Blepharis_prostrata.jpg) 
-Scientific Name ::     Blepharis sinuata (Nees) C.B Clarke, McDade & Dold
-Location ::           South Africa
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Blepharis sinuata (Nees) C.B Clarke, McDade & Dold
+location ::           South Africa
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![blepharis3copy](Blepharis/blepharis_copy.jpg) 
-Scientific Name ::     Blepharis natalensis Oberm.
-Location ::           Kwazulu-Natal, near Weenen, South Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Blepharis natalensis Oberm.
+location ::           Kwazulu-Natal, near Weenen, South Africa
+specimen_condition ::  Live Specimen
 Identified By        K. Balkwill
 Collection           J
 Collector            K. Balkwill et al.
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
 ![Blepharis Juss](Blepharis_Juss.jpg) 
-Scientific Name ::     Blepharis Juss.
-Location ::           Davenham, South Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Blepharis Juss.
+location ::           Davenham, South Africa
+specimen_condition ::  Live Specimen
 Collection           J
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
 ![Blepharis longispica](Blepharis/Blepharis_longispica.jpg) 
-Scientific Name ::     Blepharis longispica C.B. Clarke
-Location ::           Kwazulu-Natal, Green Fram, South Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Blepharis longispica C.B. Clarke
+location ::           Kwazulu-Natal, Green Fram, South Africa
+specimen_condition ::  Live Specimen
 Collection           J
 Collector            K. Balkwill et al
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

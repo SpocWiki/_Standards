@@ -81,7 +81,7 @@ Texel, Netherlands) is gratefully acknowledged.
 ![](Haloclavidae/haloclavidae.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

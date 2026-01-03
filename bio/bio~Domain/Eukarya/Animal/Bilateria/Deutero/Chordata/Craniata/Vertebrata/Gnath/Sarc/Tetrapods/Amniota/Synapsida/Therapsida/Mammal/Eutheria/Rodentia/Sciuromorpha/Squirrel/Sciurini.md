@@ -59,13 +59,13 @@ Containing group: [Squirrel](../Squirrel.md)
 ![Eurasian red squirrel](Sciurini/Sciurus_vulgaris1261031.jpg)
 
   ------------------------------
-  Scientific Name ::     Sciurus vulgaris
-  Location ::           Poland
+  scientific_name ::     Sciurus vulgaris
+  location ::           Poland
   Comments             Eurasian red squirrel
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1261031)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © Gil Wojciech, Polish Forest Research Institute
+  copyright ::            © Gil Wojciech, Polish Forest Research Institute
   ------------------------------
 
 

@@ -88,7 +88,7 @@ Sud-ouest Pacifique (cephalopodes). Cah. O.R.S.T.O.M., ser. Oceanogr.,
 ![](sepioloides/ChtenSep.jpg) 
 
   ------------------------------------------------------
-  Scientific Name ::  Chtenopteryx sepioloides
+  scientific_name ::  Chtenopteryx sepioloides
   Reference         from Rancurel, P. 1970. Les contenus stomacuax d\'\'Alepisaurus ferox dans le Sud-ouest Pacifique (cephalopodes). Cah. O.R.S.T.O.M., ser. Oceanogr., 8:3-87.
   Sex ::             Female
   Size              19 mm ML

@@ -49,7 +49,7 @@ title: Pacifastacus
 
 ------------------------------------------------------------------------------
 Pacifastacus leniusculus klamathensis.![](p.jpg))
-Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Confidential Links & Embeds: 

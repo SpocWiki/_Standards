@@ -101,15 +101,15 @@ Morphological synapomorphies for the clade include
 ![Heliconia](Zingiberales/Heliconia2.jpg) 
 
   ----------------
-  Scientific Name ::  Heliconia
-  Copyright ::         © 1997 W. John Kress and William J. Hahn
+  scientific_name ::  Heliconia
+  copyright ::         © 1997 W. John Kress and William J. Hahn
   ----------------
 ![Ginger](Zingiberales/Zingiberaceae/Zingiber/Ginger/Ginger.jpg) 
 
   ----------------
-  Scientific Name ::  Zingiberaceae
+  scientific_name ::  Zingiberaceae
   Comments          ginger
-  Copyright ::         © 1997 W. John Kress and William J. Hahn
+  copyright ::         © 1997 W. John Kress and William J. Hahn
   ----------------
 
 

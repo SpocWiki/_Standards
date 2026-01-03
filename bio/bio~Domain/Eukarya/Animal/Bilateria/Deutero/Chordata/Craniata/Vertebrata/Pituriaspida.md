@@ -73,7 +73,7 @@ sides of the headshield. The only diagnostic feature of pituriaspids is
 an enigmatic pit adjacent to the eyes. (Based on Young 1991.)
 ![](Pituriaspida/pituriaspida.gif) 
 
-  Copyright ::   © 1997 Philippe Janvier
+  copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

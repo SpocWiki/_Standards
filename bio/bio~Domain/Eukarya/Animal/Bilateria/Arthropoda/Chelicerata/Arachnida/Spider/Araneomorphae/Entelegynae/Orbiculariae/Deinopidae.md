@@ -88,24 +88,24 @@ Amer. Midland Nat. 85:85-96.
 ![](Deinopidae/deinopis_spinosus_eyes.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Deinopis spinosus
-  Location ::           Gainesville, Florida
-  Specimen Condition   Live Specimen
+  scientific_name ::     Deinopis spinosus
+  location ::           Gainesville, Florida
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Sex ::                Female
   Life Cycle Stage ::     adult
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Deinopidae/deinopis_spinosus05.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Deinopidae
-  Location ::           Gainesville, Florida
-  Specimen Condition   Live Specimen
+  scientific_name ::     Deinopidae
+  location ::           Gainesville, Florida
+  specimen_condition ::  Live Specimen
   Sex ::                Female
   Life Cycle Stage ::     adult
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

@@ -172,9 +172,9 @@ taxon sampling is needed (Carroll and Bradley, 2005).
 ![The hispid cotton rat](Sigmodon/Sigmodon1.jpg) 
 
 -----------
-Scientific Name ::  Sigmodon hispidus
+scientific_name ::  Sigmodon hispidus
 Comments          The hispid cotton rat
-Copyright ::         © 1996 R. H. Baker
+copyright ::         © 1996 R. H. Baker
 -----------
 
 

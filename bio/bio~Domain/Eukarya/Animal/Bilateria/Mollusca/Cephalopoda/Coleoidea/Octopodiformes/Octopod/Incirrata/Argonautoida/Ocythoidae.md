@@ -181,23 +181,23 @@ Zool., 97: 1-159.
 ![](Ocythoidae/Ocythoe.jpg) 
 
   ----------------
-  Scientific Name ::  Ocythoe tuberculata
-  Location ::        Catalina Island off California, U.S.A.
+  scientific_name ::  Ocythoe tuberculata
+  location ::        Catalina Island off California, U.S.A.
   Comments          Washed ashore.
   Sex ::             Female
   View              Lateral.
-  Copyright ::         © 1996 Dorothy Petersen
+  copyright ::         © 1996 Dorothy Petersen
   ----------------
 ![](Ocythoidae/OcythoeDrawFem.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::   Ocythoe tuberculata
+  scientific_name ::   Ocythoe tuberculata
   Reference          From Young, 1972
   Sex ::              Female
   Life Cycle Stage ::   immature
   View               Ventral
   Size               80 mm ML
-  Copyright ::          © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::          © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

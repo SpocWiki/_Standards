@@ -34,23 +34,23 @@ title: Larix
 
 --------------------
 ![ ](Larch/Larix_decidua1218012.jpg)
-Scientific Name ::     Larix decidua
-Location ::           Michigan, USA
+scientific_name ::     Larix decidua
+location ::           Michigan, USA
 Comments             European larch
 Acknowledgements     Photograph courtesy InsectImages.org (#1218012)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Bill Cook, Michigan State University
+copyright ::            © Bill Cook, Michigan State University
 
 --------------------
 ![](Larch/Larix_laricina1218018.jpg)
-Scientific Name ::     Larix laricina
-Location ::           Michigan, USA
+scientific_name ::     Larix laricina
+location ::           Michigan, USA
 Comments             tamarack
 Acknowledgements     Photograph courtesy InsectImages.org (#1218018)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Bill Cook, Michigan State University
+copyright ::            © Bill Cook, Michigan State University
 
 
 ## Confidential Links & Embeds: 

@@ -239,25 +239,25 @@ rapid.
 
 ---------------------------------------------------------------------
 ![Fothergilla major](Saxifragales/Fothergilla_major.jpg)  
-Scientific Name ::  Fothergilla major
+scientific_name ::  Fothergilla major
 Comments          Hamamelidaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ------------------------------------------------------------------------
 ![Sempervivum_montanum](Saxifragales/Sempervivum_montanum.jpg)  
-Scientific Name ::   Sempervivum montanum
-Location ::         San Bernardino, Mesocco, Ticino, Switzerland, 2100 m
+scientific_name ::   Sempervivum montanum
+location ::         San Bernardino, Mesocco, Ticino, Switzerland, 2100 m
 Comments           Crassulaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ---------------------------------------------------------------------
 ![Saxifraga_cochlearis](Saxifragales/Saxifraga_cochlearis.jpg) 
-Scientific Name ::  Saxifraga cochlearis
+scientific_name ::  Saxifraga cochlearis
 Comments          Saxifragaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ## Confidential Links & Embeds: 

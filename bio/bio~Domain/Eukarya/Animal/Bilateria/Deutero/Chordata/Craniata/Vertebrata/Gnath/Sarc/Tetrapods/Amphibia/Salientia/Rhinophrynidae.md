@@ -136,8 +136,8 @@ by Cannatella (1985) and Hay et al. (1995).
 
 ------------ 
 ![Rhinophrynus dorsalis](Rhinophrynidae/rhinophrynus.jpg) 
-Scientific Name ::  Rhinophrynus dorsalis
-Copyright ::         © 1995 E. D. Brodie, Jr.
+scientific_name ::  Rhinophrynus dorsalis
+copyright ::         © 1995 E. D. Brodie, Jr.
 
 
 ## Confidential Links & Embeds: 

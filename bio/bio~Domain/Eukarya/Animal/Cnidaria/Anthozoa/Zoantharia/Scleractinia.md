@@ -110,17 +110,17 @@ Williams, G. C. 1986. What are Corals? Sagittarius, 1(2): 11-15.
 ![](Scleractinia/Tubastraea_micrantha.jpg) 
 
   ------
-  Copyright ::   © D. Faulkner
+  copyright ::   © D. Faulkner
   ------
 ![](Scleractinia/Letepsammia_formosissima.jpg) 
 
   --------------------
-  Copyright ::   © 1986 Gary C. Williams, California Academy of Sciences
+  copyright ::   © 1986 Gary C. Williams, California Academy of Sciences
   --------------------
 ![](Scleractinia/Euphyllia_ancora.jpg) 
 
   ------
-  Copyright ::   © D. Faulkner
+  copyright ::   © D. Faulkner
   ------
 
 

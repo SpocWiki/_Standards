@@ -303,11 +303,11 @@ available data.
 
 --------------- 
 ![](Ambystomatidae/opacum.jpg) 
-Scientific Name ::     Ambystomatidae
-Location ::           Eastern United States
+scientific_name ::     Ambystomatidae
+location ::           Eastern United States
 Comments             The marbled salamander with eggs
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 Sorin Damian
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 Sorin Damian
 
 
 ## Confidential Links & Embeds: 

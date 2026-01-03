@@ -78,10 +78,10 @@ Water Bears
 
 --------------------------------------------------------------------------- 
 ![Diagram of the main external features of a tardigrade](Tardigrade/Tardigrade.gif) 
-Scientific Name ::  Tardigrada
+scientific_name ::  Tardigrada
 Comments          Diagram of the main external features of a tardigrade
 Creator           Ivy Livingstone
-Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

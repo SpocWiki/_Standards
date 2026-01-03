@@ -445,25 +445,25 @@ asteroid clade.
 
 ----------------------------------------------------------------------------
 ![Crossaster papposus](Asteroidea/Crossaster_papposus.jpg) 
-Scientific Name ::     Crossaster papposus (Velatida)
-Location ::           Stord - Hordaland, Norway, 6 meters
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
+scientific_name ::     Crossaster papposus (Velatida)
+location ::           Stord - Hordaland, Norway, 6 meters
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
 
 ---------------------------------------------------------------------------- 
 ![Linckia laevigata (Valvatida)](Asteroidea/Linckia_laevigata1.jpg) 
-Scientific Name ::     Linckia laevigata (Valvatida)
-Location ::           Indo-Pacific
-Specimen Condition   Live Specimen
+scientific_name ::     Linckia laevigata (Valvatida)
+location ::           Indo-Pacific
+specimen_condition ::  Live Specimen
 Size                 Diameter 30 cm
-Copyright ::            © 2003 [Massimo Boyer](http://www.edge-of-reef.com/) 
+copyright ::            © 2003 [Massimo Boyer](http://www.edge-of-reef.com/) 
 
 ------------------------------------------------------------------------- 
 ![](Asteroidea/Astropecten_irregularis1.jpg) 
-Scientific Name ::     Astropecten irregularis (Paxillosida)
-Location ::           Lauvsnes - North Trøndelag, Norway, 12 meters
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
+scientific_name ::     Astropecten irregularis (Paxillosida)
+location ::           Lauvsnes - North Trøndelag, Norway, 12 meters
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [Kåre Telnes](http://www.seawater.no/fauna/index.htm) 
 
 
 ## Confidential Links & Embeds: 

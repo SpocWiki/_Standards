@@ -73,7 +73,7 @@ Drawing by Stritch. Copyright © 2001
 
 -------------------------------------------------------------------------- 
 ![](Entoprocta/ento003b.gif) 
-Copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 2001 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

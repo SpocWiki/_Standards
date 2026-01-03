@@ -380,15 +380,15 @@ Chordates include familiar vertebrates like fishes and dinosaurs,
 as well as less familiar marine organisms like tunicates (*Ciona*).
 
 ![](Chordata/ciona.gif)
-Scientific Name ::   Ciona, Roeboides
+scientific_name ::   Ciona, Roeboides
 Acknowledgements   Gray Museum Slide Collection (Ciona), © fish Antonio Machado.
-Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 ----------
 ![](Chordata/dein.gif)
-Scientific Name ::     Deinonychus
-Specimen Condition   Fossil
-Copyright ::            © 1995 Chris Brochu
+scientific_name ::     Deinonychus
+specimen_condition ::  Fossil
+copyright ::            © 1995 Chris Brochu
 
 
 ## Confidential Links & Embeds: 

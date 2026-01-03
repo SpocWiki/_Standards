@@ -254,20 +254,20 @@ UMLS_CUI: C0037913
 
 ------------------------------------------------------------------------------
 ![Latrodectus mactans](Spider/Latrodectus_mactans.jpg)
-Scientific Name ::     Latrodectus mactans
+scientific_name ::     Latrodectus mactans
 Comments             Black widow spider with egg sack.
 Creator              Photograph by George W. Robinson
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------- 
 ![Theraphosa_blondi](Spider/Theraphosa_blondi.jpg) 
-Scientific Name ::     Theraphosa blondi
+scientific_name ::     Theraphosa blondi
 Comments             Goliath birdeating tarantula
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [John White](mailto:reptiles@erols.com)
+copyright ::            © 2000 [John White](mailto:reptiles@erols.com)
 
 
 ## Confidential Links & Embeds: 

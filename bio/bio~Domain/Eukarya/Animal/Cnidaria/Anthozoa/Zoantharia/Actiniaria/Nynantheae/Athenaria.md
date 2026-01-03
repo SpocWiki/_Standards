@@ -86,12 +86,12 @@ Photographs copyright © 2000, Ron Ates.
 ![](../edwardsiidaesm.jpg)
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 ![](haloclavidaesm.jpg)
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

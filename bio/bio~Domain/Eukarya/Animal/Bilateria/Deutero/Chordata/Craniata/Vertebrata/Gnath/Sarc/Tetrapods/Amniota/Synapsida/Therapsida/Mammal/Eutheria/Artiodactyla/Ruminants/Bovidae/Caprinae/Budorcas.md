@@ -72,13 +72,13 @@ mitochondrial DNA sequences. Canadian Journal of Zoology 81:462-468.
 ![](151119357_a4da788c64_b.jpg)
 
   --------------------------------------------------------
-  Scientific Name ::     Budorcas taxicolor
-  Location ::           Captive at jardin des plantes, Paris, France
-  Specimen Condition   Live Specimen
+  scientific_name ::     Budorcas taxicolor
+  location ::           Captive at jardin des plantes, Paris, France
+  specimen_condition ::  Live Specimen
   Source               [takin](http://flickr.com/photos/frank-wouters/151119357/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-  Copyright ::            © 2006 [Frank Wouters](http://flickr.com/people/frank-wouters/)
+  copyright ::            © 2006 [Frank Wouters](http://flickr.com/people/frank-wouters/)
   --------------------------------------------------------
 
 

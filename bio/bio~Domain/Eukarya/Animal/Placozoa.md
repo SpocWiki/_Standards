@@ -64,10 +64,10 @@ title: Placozoa
 
 ---------------------------------------------------------------------------
 ![Placazoan](Placozoa/placazoan.gif)
-Scientific Name ::  Placozoa
+scientific_name ::  Placozoa
 Comments          Diagram of the external features of a placazoan.
 Creator           Ivy Livingstone
-Copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

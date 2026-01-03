@@ -266,41 +266,41 @@ Morotopithecus. Journal of Human Evolution
 ![](Catarrhini/Semnopithecus_entellus12.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Presbytis (Semnopithecus) entellus
-  Location ::           Khana (India)
+  scientific_name ::     Presbytis (Semnopithecus) entellus
+  location ::           Khana (India)
   Comments             Hanuman langur
   Creator              Robert Thomas and Margaret Orr
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 ![Adult male olive baboon (Papio anubis) eating meat](Catarrhini/babmeat.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Papio anubis
-  Location ::           Maasai Mara National Reserve, Kenya
+  scientific_name ::     Papio anubis
+  location ::           Maasai Mara National Reserve, Kenya
   Comments             Baboons occasionally kill and eat mammalian prey. In this case the source of the meat was unknown.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        David Bygott
   Behavior             Predation or scavenging
   Sex ::                Male
   Life Cycle Stage ::     Adult
   View                 Fronto-lateral
-  Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+  copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
  
   -------------------------------------------------------------------------
 
 ![Lowland gorilla](Catarrhini/Hominidae/Gorilla/Lowland_Gorilla.jpg)
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Gorilla gorilla gorilla
-  Location ::           San Francisco Zoo, San Francisco, California (US)
+  scientific_name ::     Gorilla gorilla gorilla
+  location ::           San Francisco Zoo, San Francisco, California (US)
   Comments             Lowland gorilla
   Creator              Photograph by Gerald and Buff Corsi
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 

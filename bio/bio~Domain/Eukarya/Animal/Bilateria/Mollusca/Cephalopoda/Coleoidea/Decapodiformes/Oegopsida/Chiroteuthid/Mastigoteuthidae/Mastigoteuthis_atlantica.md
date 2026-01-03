@@ -107,7 +107,7 @@ new series, 13: 1-49.
 ![](Mastigoteuthis_atlantica/MastAtlantica.jpg) 
 
   ---------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis atlantica
+  scientific_name ::  Mastigoteuthis atlantica
   Reference         Joubin, L. 1933. Notes préliminaires sur les Céphalopodes des croisières du Dana (1921-1922). 4e Partie. Annales de l\'Institut Océanographique, new series, 13: 1-49.
   View              Ventral
   Size              112 mm ML

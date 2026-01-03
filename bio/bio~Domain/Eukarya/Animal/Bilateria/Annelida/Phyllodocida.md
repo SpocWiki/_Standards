@@ -291,23 +291,23 @@ dorsal view, copyright © 2004 Fredrik Pleijel.
 
 ---------------------------------------------------------------------- 
 ![Nereimyra punctata habitus](Phyllodocida/Nereimyra_punctata.jpg) 
-Scientific Name ::  Nereimyra punctata
-Location ::        south-western Iceland
+scientific_name ::  Nereimyra punctata
+location ::        south-western Iceland
 Comments          Hesionidae
-Copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
+copyright ::         © 2001 [Greg W. Rouse](http://mbrd.ucsd.edu/) 
 
 ------------------------------------------------------------------------ 
 ![Syllidae](Phyllodocida/Syllidae.jpg) 
-Scientific Name ::  Syllidae
-Location ::        Massachusetts, USA
-Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
+scientific_name ::  Syllidae
+location ::        Massachusetts, USA
+copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 ------------------------------------------------------------------------ 
 ![Notophyllum foliosum](Phyllodocida/Notophyllum_foliosum.jpg) 
-Scientific Name ::  Notophyllum foliosum
-Location ::        Trondheim, Norway
+scientific_name ::  Notophyllum foliosum
+location ::        Trondheim, Norway
 Comments          Phyllodocidae
-Copyright ::         © 2002 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
+copyright ::         © 2002 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 
 ## Confidential Links & Embeds: 

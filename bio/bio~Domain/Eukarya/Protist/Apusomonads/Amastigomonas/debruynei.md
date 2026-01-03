@@ -93,26 +93,26 @@ Natural History 34: 483-562.
 ![](debruynei/famastigod.gif) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::  Amastigomonas debruynei
-  Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::  Amastigomonas debruynei
+  copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
 ![](debruynei/pamastigod.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Amastigomonas debruynei
+  scientific_name ::     Amastigomonas debruynei
   Comments             phase contrast light micrographs of living cells
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 ![](debruynei/pamastigod2.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Amastigomonas debruynei
+  scientific_name ::     Amastigomonas debruynei
   Comments             phase contrast light micrographs of living cell
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 

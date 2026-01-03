@@ -171,9 +171,9 @@ Hochberg, et al., 1992.
 
 -------------------------------------------------------------------------------
 ![](Japetella_diaphana/Japetella_diaphana.jpg)
-Scientific Name ::  Japetella diaphana
-Location ::        off Hawaii
-Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+scientific_name ::  Japetella diaphana
+location ::        off Hawaii
+copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

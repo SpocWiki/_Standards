@@ -91,30 +91,30 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 
 ----------------------------------------------------------------------- 
 ![Ruellia_nudiflora](Euruellia/Ruellia_nudiflora.jpg) 
-Scientific Name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
-Location ::           Tabasco, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia nudiflora (Engelm. & A. Gray) Urban
+location ::           Tabasco, Mexico
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp & Dexter
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia malacosperma](Euruellia/Ruellia_malacosperma.jpg) 
-Scientific Name ::     Ruellia malacosperma Greenm.
-Location ::           Oaxaca, Mexico
+scientific_name ::     Ruellia malacosperma Greenm.
+location ::           Oaxaca, Mexico
 Comments             plants cultivated outside a restaurant
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia_lactea](Euruellia/Ruellia_lactea.jpg)) 
-Scientific Name ::     Ruellia lactea Cav.
-Location ::           Puebla, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia lactea Cav.
+location ::           Puebla, Mexico
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp & Acosta
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

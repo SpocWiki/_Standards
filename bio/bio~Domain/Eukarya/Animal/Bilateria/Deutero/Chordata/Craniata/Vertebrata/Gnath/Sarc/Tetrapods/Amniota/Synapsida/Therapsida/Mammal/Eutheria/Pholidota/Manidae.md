@@ -71,13 +71,13 @@ title: Manidae
 
 ----------------------------------------------------------------
 ![](Manidae/Manis.jpg)
-Scientific Name ::     Manis (Smutsia) temminckii
-Location ::           captive at Johannesburg Zoo, South Africa
+scientific_name ::     Manis (Smutsia) temminckii
+location ::           captive at Johannesburg Zoo, South Africa
 Comments             A sad story with a great end. This guy was rescued from the illegal animal trade. The shangomas use the parts of these animal to preare muti - \"healing\" medicine. One of its scales can sell for as much as R20. Luckily this sub-adult was rescued and send to Johannesburg zoo where he recuperated fully. This picture was taken while he still had pneumonia - note the froth on his nose. This was the first and only time in my life I was privileged to see the \"rare\" creature. We have never seen one in the wild. They can walk on their hindlegs, using the tail as balancing mechanism. Their only defence is to roll into a tight ball. If picked up, they flick the tail and the scales can inflict lacerations. He was released back into the wild.
 Acknowledgements     source: [flickr: Pangolin - Manis temminckii](http://flickr.com/photos/wildimages/197302432/)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [Flickr](http://flickr.com/)
-Copyright ::            © 2006 [Callie de Wet](http://flickr.com/people/wildimages/) 
+copyright ::            © 2006 [Callie de Wet](http://flickr.com/people/wildimages/) 
 
 
 ## Confidential Links & Embeds: 

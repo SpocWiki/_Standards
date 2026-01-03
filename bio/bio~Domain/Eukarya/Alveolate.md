@@ -69,17 +69,17 @@ abutting sacs or alveoli - or derived from such organisms.
 
 -----------------------
 ![Ceratium dinoflagellate](Alveolate/ceratium_Dinoflagellates.jpg)  
-Scientific Name ::   Ceratium (Dinoflagellates)
+scientific_name ::   Ceratium (Dinoflagellates)
 Acknowledgements   Image courtesy [BIODIDAC](http://biodidac.bio.uottawa.ca/)
-Copyright ::          © J. M. Cavanihac
+copyright ::          © J. M. Cavanihac
 
 
 ---------------------------------------------------------------------------
 [Stylonychia(Ciliates)](Alveolate/Ciliates~Stylonychia.jpg) 
-Scientific Name ::     Stylonychia (Ciliates)
+scientific_name ::     Stylonychia (Ciliates)
 Comments             Scanning electron micrograph
-Specimen Condition   Dead Specimen
-Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+specimen_condition ::  Dead Specimen
+copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

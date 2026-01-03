@@ -57,13 +57,13 @@ rainforest of the Cuyabeno Reserve, Ecuador.
 ![](Hyetussa/hyetussa_004.gif)
 
   ---------------------------------------------------------------------------
-  Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+  copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
  
   ---------------------------------------------------------------------------
 ![](Hyetussa/hyetussa_003.gif)
 
   ---------------------------------------------------------------------------
-  Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+  copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
  
   ---------------------------------------------------------------------------
 

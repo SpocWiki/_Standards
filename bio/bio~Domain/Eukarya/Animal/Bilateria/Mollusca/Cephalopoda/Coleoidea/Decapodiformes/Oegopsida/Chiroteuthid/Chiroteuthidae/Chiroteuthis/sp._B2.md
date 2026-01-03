@@ -104,8 +104,8 @@ Temperate South Atlantic. Some variation in sucker dentition is apparent
 ![](sp._B2/ChiroB2.jpg) 
 
   -----------
-  Scientific Name ::   Chiroteuthis sp. B2
-  Location ::         South Atlantic Ocean
+  scientific_name ::   Chiroteuthis sp. B2
+  location ::         South Atlantic Ocean
   Creator            J. R. Schroeder
   Sex ::              Female
   Life Cycle Stage ::   immature

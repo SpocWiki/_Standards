@@ -139,30 +139,30 @@ Zool., No. 586: 55-68.
 ![](Thysanoteuthidae/Thysanoteuthis.JPG) 
 
   ------------
-  Scientific Name ::     Thysanoteuthis rhombus
-  Location ::           off Philippines
-  Specimen Condition   Live Specimen
+  scientific_name ::     Thysanoteuthis rhombus
+  location ::           off Philippines
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     young
   View                 Dorsal
-  Copyright ::            © 1996 John Arnold
+  copyright ::            © 1996 John Arnold
   ------------
 ![](Thysanoteuthidae/ThysanoLarge.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::   Thysanoteuthis rhombus
-  Location ::         Hawaiian waters
+  scientific_name ::   Thysanoteuthis rhombus
+  location ::         Hawaiian waters
   Comments           M. Parry holding
   Sex ::              Female
   Life Cycle Stage ::   immature
   View               Side
-  Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 ![](Thysanoteuthidae/ThysanotNaef.jpg) 
 
   ----------------------------------
-  Scientific Name ::  Thysanoteuthis rhombus
-  Location ::        Mediterranean
+  scientific_name ::  Thysanoteuthis rhombus
+  location ::        Mediterranean
   Reference         from Naef, A. 1921-23. Cephalopoda. Fauna e Flora de Golfo di Napoli. Monograph, no. 35, 863 pp.
   View              dorsal
   ----------------------------------

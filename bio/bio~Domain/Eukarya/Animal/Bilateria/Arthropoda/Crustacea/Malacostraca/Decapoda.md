@@ -83,26 +83,26 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Decapoda,112034186]]'
 
 ------------------------------------------------------------------------------ 
 ![Bay ghost shrimp ](Decapoda/Callianassa_californiensis.jpg) 
-Scientific Name ::    Neotrypaea californiensis
+scientific_name ::    Neotrypaea californiensis
 Comments            Bay ghost shrimp (Anomura)
 Creator             Gerald and Buff Corsi
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------- 
 ![Caribbean spiny lobster](Decapoda/Panulirus_argus1075.jpg) 
-Scientific Name ::    Panulirus argus
+scientific_name ::    Panulirus argus
 Comments            Caribbean spiny lobster (Palinura)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2002 [John White](mailto:reptiles@erols.com)
+copyright ::           © 2002 [John White](mailto:reptiles@erols.com)
 
 ------------------------------------------------------------------------------ 
 ![Purple shore crab](Decapoda/Hemigrapsus_nudus0008.jpg) 
-Scientific Name ::    Hemigrapsus nudus
+scientific_name ::    Hemigrapsus nudus
 Comments            Purple shore crab (Brachyura)
 Creator             Gerald and Buff Corsi
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

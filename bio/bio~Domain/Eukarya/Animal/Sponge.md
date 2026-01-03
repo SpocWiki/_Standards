@@ -66,16 +66,16 @@ Sponges
 
 -------------------------------------------------------------------------------
 ![Haliclona](Sponge/haliclona.gif) 
-Scientific Name ::  Haliclona
+scientific_name ::  Haliclona
 Creator           David Remsen
-Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 -------------------------------------------------------------------------------
 ![Microciona](Sponge/microciona.gif) 
-Scientific Name ::  Microciona
+scientific_name ::  Microciona
 Creator           David Remsen
-Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 -------------------------------------------------------------------------------
 
 

@@ -301,11 +301,11 @@ Journal of the Linnean Society, 88, 1-57.
 
 ------------------------------------------------------------------------------
 ![Hippopotamus with mouth wide open](Gnath/Hippopotamus.jpg)
-Scientific Name ::  Hippopotamus amphibius
-Location ::        Okavango Delta of Botswana
+scientific_name ::  Hippopotamus amphibius
+location ::        Okavango Delta of Botswana
 Sex ::             Male
 Body Part         head
-Copyright ::         © 1997 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1997 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

@@ -87,13 +87,13 @@ short_name: L. guanicoe
 
 ------------------------------------------------------------
 ![](Guanaco/153179~2.JPG)
-Scientific Name ::     Lama guanicoe
-Location ::           Torres del Paine National Park, Chile
-Specimen Condition   Live Specimen
+scientific_name ::     Lama guanicoe
+location ::           Torres del Paine National Park, Chile
+specimen_condition ::  Live Specimen
 Source               [Guanaco](http://flickr.com/photos/merula/153179602/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/).
-Copyright ::            © 2005 [Alastair Rae](http://flickr.com/people/merula/)
+copyright ::            © 2005 [Alastair Rae](http://flickr.com/people/merula/)
 
 
 ## Confidential Links & Embeds: 

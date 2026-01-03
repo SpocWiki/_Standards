@@ -78,11 +78,11 @@ title: Geraniales
 
 ------------------------------------------------------------------------ 
 ![Erodium cicutarium](Geraniales/Erodium_cicutarium.jpg) 
-Scientific Name ::   Erodium cicutarium
-Location ::         Westhalten, Strangenberg, Dép. Haut-Rhin, France
+scientific_name ::   Erodium cicutarium
+location ::         Westhalten, Strangenberg, Dép. Haut-Rhin, France
 Comments           Geraniaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

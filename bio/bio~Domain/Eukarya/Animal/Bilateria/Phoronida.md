@@ -35,7 +35,7 @@ Drawing by Ivy Livingstone. Copyright © 1994
 
 --------------------------------------------------------------------------
 ![](Phoronida/Phoronida.gif)
-Copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 1994 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 ## Phylogeny 
 

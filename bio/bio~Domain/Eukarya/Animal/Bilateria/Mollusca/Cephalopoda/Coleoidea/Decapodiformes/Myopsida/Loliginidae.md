@@ -316,10 +316,10 @@ Phuket Mar. Biol. Center. Res. Bull. 66:23-36
 ![](Loliginidae/EGGMASS.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Loliginidae
+  scientific_name ::     Loliginidae
   Comments             Loliginid swimming near egg mass
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   ---------------------------------------------------------------------------
 

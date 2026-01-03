@@ -91,23 +91,23 @@ taxon_name: Embryophytes
 
 -------------------------------------------------------------
 ![Rosa canina](Land_Plant/Rosa_canina.jpg) 
-Scientific Name ::     Rosa canina
-Location ::           Reed\'s Beach, Cape May County, New Jersey, USA
-Specimen Condition   Live Specimen
+scientific_name ::     Rosa canina
+location ::           Reed\'s Beach, Cape May County, New Jersey, USA
+specimen_condition ::  Live Specimen
 Source               [Dog Rose, P6070047](http://www.flickr.com/photos/anitagould/18619347/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Anita Gould](http://flickr.com/people/61897811@N00)
+copyright ::            © 2005 [Anita Gould](http://flickr.com/people/61897811@N00)
 
 ------------------------------------------------------------
 ![Asplenium australasicum](Land_Plant/Asplenium_australasicum.jpg) 
-Scientific Name ::     Asplenium australasicum
-Location ::           Cebu, the Philippines
-Specimen Condition   Live Specimen
+scientific_name ::     Asplenium australasicum
+location ::           Cebu, the Philippines
+specimen_condition ::  Live Specimen
 Source               [manao](http://www.flickr.com/photos/colloidfarl/47048529/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
-Copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
+copyright ::            © 2005 [Farl](http://flickr.com/people/89972557@N00)
 
 
 ## Confidential Links & Embeds: 

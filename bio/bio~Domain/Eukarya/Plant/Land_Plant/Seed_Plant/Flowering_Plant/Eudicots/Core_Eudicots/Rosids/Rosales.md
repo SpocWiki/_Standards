@@ -82,28 +82,28 @@ taxon_common_name:
 
 ------------------------------------------------------------------------
 ![Stinging nettle, Urtica dioica](Rosales/Urtica_dioica.jpg) 
-Scientific Name ::   Urtica dioica
-Location ::         Allschwil, Basel, Switzerland
+scientific_name ::   Urtica dioica
+location ::         Allschwil, Basel, Switzerland
 Comments           Stinging nettle (Urticaceae). Flowering.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
 Sex ::              Female
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ------------------------------------------------------------------------- 
 ![Daurian rose, Rosa davurica](Rosales/Rosa_davurica.jpg) 
-Scientific Name ::    Rosa davurica
-Location ::          Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
+scientific_name ::    Rosa davurica
+location ::          Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
 Comments            Daurian rose (Rosaceae)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::           © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------
 ![Cannabis_sativa](Rosales/Cannabaceae/Cannabis/Cannabis_sativa.jpg) 
-Scientific Name ::   Cannabis sativa
+scientific_name ::   Cannabis sativa
 Comments           Marijuana plant (Cannabaceae), cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

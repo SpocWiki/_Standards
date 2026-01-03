@@ -370,28 +370,28 @@ Lamiales: euasterids I; photo © Paul Corogin), and the flowers of
 ## Title Illustrations
 
 ------------------------------------------------------------------------------
-![Echinocactus_acanthodes](Core_Eudicots/Echinocactus_acanthodes.jpg)  Scientific Name ::     Echinocactus acanthodes
-Location ::           Palm Springs, Chino Canyon (Riverside County, California, USA)
+![Echinocactus_acanthodes](Core_Eudicots/Echinocactus_acanthodes.jpg)  scientific_name ::     Echinocactus acanthodes
+location ::           Palm Springs, Chino Canyon (Riverside County, California, USA)
 Comments             Caryophyllales, Cactaceae
 Creator              Photograph by Marguerite Gregory
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------
 ![Catananche_caerulea](Core_Eudicots/Catananche_caerulea.jpg)  
-Scientific Name ::   Catananche caerulea
+scientific_name ::   Catananche caerulea
 Comments           Asterids, Asteraceae. Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 ------------------------------------------------------------------------------
 ![Populus_tremuloides](Core_Eudicots/Populus_tremuloides.jpg) 
-Scientific Name ::    Populus tremuloides
+scientific_name ::    Populus tremuloides
 Comments            Rosids, Salicaceae
 Creator             Photograph by Jo-Ann Ordano
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

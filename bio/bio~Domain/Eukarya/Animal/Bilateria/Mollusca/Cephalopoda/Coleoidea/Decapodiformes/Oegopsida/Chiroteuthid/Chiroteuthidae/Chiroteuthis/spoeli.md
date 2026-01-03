@@ -161,17 +161,17 @@ waters. Bull. Mar. Sci., 49: 162-185.
 ![](spoeli/CspB1.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::  Chiroteuthis spoeli
+  scientific_name ::  Chiroteuthis spoeli
   Creator           J. R. Schroeder
   View              Ventral
-  Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -------------------------------------------------------------------------
 ![](spoeli/CspoeliLive.jpg) 
 
   ------------
-  Scientific Name ::  Chiroteuthis spoeli
-  Location ::        off N.E. coast of U.S.A.
+  scientific_name ::  Chiroteuthis spoeli
+  location ::        off N.E. coast of U.S.A.
   Creator           M. Vecchione
   ------------
 

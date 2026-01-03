@@ -143,7 +143,7 @@ relationships suggested by Hobbs (1988;1991).
 *Euastacus armatus* (von Martens) 
 Photo copyright © 1998 Keith A. Crandall
 ![](Parastacoidea/Euastacus_armatus.jpg)
-Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Confidential Links & Embeds: 

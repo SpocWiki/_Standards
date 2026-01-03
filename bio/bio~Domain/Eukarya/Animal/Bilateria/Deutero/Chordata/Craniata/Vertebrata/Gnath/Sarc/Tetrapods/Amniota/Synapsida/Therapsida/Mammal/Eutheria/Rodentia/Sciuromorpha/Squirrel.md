@@ -249,20 +249,20 @@ fossil" (Thorington and Emry 1984).
 
 -------------------------------------------------------------------------
 ![Unstriped ground squirrel (Xerus rutilus), Tarangire NP](Squirrel/gndsqu.jpg)
-Scientific Name ::     Xerus rutilus
-Location ::           Tarangire National Park, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Xerus rutilus
+location ::           Tarangire National Park, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![](Squirrel/Marmot.jpg)
-Scientific Name ::     Marmota
+scientific_name ::     Marmota
 Creator              Bill Hickey
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

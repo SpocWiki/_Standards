@@ -91,22 +91,22 @@ Africa, Australia, and Eurasia.
 
 -------------------------------------------------------------- 
 ![](Murinae/327896667_150f8c707e_o.jpg) 
-Scientific Name ::     Zyzomys pedunculatus
-Specimen Condition   Live Specimen
+scientific_name ::     Zyzomys pedunculatus
+specimen_condition ::  Live Specimen
 Source               [The extremely rare rodent, the Central Rock-rat (Zyzomys pedunculatus) found only in a few location around Ormiston Gorge.](http://www.flickr.com/photos/centralaustralia/327896667/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/).
-Copyright ::            © 2006 [Michael & Karen](http://flickr.com/people/44489466@N00)
+copyright ::            © 2006 [Michael & Karen](http://flickr.com/people/44489466@N00)
 
 -------------------------------------------------------------- 
 ![](Murinae/277642366_884c30cb87_o.jpg) 
-Scientific Name ::     Lemniscomys striatus
-Location ::           captive, Zoo München Hellabrunn
-Specimen Condition   Live Specimen
+scientific_name ::     Lemniscomys striatus
+location ::           captive, Zoo München Hellabrunn
+specimen_condition ::  Live Specimen
 Source               [DSC_8191-Mehrstreifen-Grasmaus](http://www.flickr.com/photos/64706470@N00/277642366/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Copyright ::            © 2006 [Ulrike](http://flickr.com/people/64706470@N00)
+copyright ::            © 2006 [Ulrike](http://flickr.com/people/64706470@N00)
 
 
 ## Confidential Links & Embeds: 

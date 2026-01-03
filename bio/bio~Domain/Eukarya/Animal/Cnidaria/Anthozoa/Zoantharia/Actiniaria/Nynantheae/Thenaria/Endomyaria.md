@@ -76,12 +76,12 @@ Photographs copyright © 2000, Ron Ates.
 ![](Endomyaria/thalassianthidae.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 ![](Endomyaria/actiniidaesm.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

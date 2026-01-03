@@ -193,20 +193,20 @@ geographically-structured genetic diversity.
 
 ------------------------------------------------------------------
 ![](Spelerpinae/Pseudotriton_ruber_nitidus.jpg)
-Scientific Name ::     Pseudotriton ruber nitidus
-Specimen Condition   Live Specimen
+scientific_name ::     Pseudotriton ruber nitidus
+specimen_condition ::  Live Specimen
 Source               [Blue Ridge Red Salamander](http://flickr.com/photos/the_horned_jew_lizard/41503888/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 ------------------------------------------------------------------ 
 ![](Spelerpinae/112339021_ccfa125dfa_o.jpg) 
-Scientific Name ::     Eurycea cirrigera
+scientific_name ::     Eurycea cirrigera
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+copyright ::            © 2004 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 
 ## Confidential Links & Embeds: 

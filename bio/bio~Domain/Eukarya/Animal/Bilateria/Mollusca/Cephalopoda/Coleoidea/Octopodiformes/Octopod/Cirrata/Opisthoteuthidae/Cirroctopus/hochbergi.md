@@ -94,13 +94,13 @@ Mar. Sci. 20: 421-428.\'
 ![](hochbergi/CirroctHochbergi.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::  Cirroctopus hochbergi
+  scientific_name ::  Cirroctopus hochbergi
   Reference         O\'Shea, Steve. 1999. The Marine Fauna of New Zealand: Octopoda (Mollusca: Cephalopoda). NIWA Biodiversity Memoir 112: 280pp.
   Sex ::             Male
   View              Dorsa, ventral
   Size              90 mm ML
   Type              Holotype
-  Copyright ::         © [Steve O\'Shea](mailto:steve.oshea@aut.ac.nz) 
+  copyright ::         © [Steve O\'Shea](mailto:steve.oshea@aut.ac.nz) 
  
   ------------------------------------------------------------------------
 

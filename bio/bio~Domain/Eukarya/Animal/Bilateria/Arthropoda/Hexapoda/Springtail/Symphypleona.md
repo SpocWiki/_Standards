@@ -62,15 +62,15 @@ title: Symphypleona
 
 ------------------------------------------------------------------------
 ![](Symphypleona/Dicyrtoma_fusca.jpg)
-Scientific Name ::     Dicyrtoma fusca
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Dicyrtoma fusca
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ------------------------------------------------------------------------
 ![](Symphypleona/Sminthurides_aquaticus.jpg)
-Scientific Name ::     Sminthurides aquaticus
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Sminthurides aquaticus
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
 ## Confidential Links & Embeds: 

@@ -236,29 +236,29 @@ morphology. The Bryologist 103:187-211.
 
 --------------------------------------------------------------------------------
 ![moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Bryopsida/Bryum,Bryales.jpg)  
-Scientific Name ::     Bryum, Bryales
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Bryum, Bryales
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             a moss growing on soil
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 --------------------------------------------------------------------------------
 ![epiphyte moss from the cloud forest near Xalapa, Veracruz, Mexico](Bryopsida/Pterobryon,Hypnales.jpg) 
 
-Scientific Name ::     Pterobryon, Hypnales
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Pterobryon, Hypnales
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             an epiphyte moss
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 
 --------------------------------------------------------------------------------
 ![moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Bryopsida/Hypnum,Hypnales.jpg) 
-Scientific Name ::     Hypnum, Hypnales
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Hypnum, Hypnales
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             a moss growing on soil
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 
 ## Confidential Links & Embeds: 

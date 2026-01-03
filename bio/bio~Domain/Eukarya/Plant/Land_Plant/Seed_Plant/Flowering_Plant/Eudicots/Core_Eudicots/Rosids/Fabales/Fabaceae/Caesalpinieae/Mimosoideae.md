@@ -134,22 +134,22 @@ Luckow et al., 2005).
 
 ------------------------------------ 
 ![Albizia julibrissin](Mimosoideae/mimosa-flower.jpg) 
-Scientific Name ::     Albizia julibrissin Durazz.
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Mike Hogan, Todd Langston](http://www.forestry.auburn.edu/samuelson/dendrology/index.html)
+scientific_name ::     Albizia julibrissin Durazz.
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Mike Hogan, Todd Langston](http://www.forestry.auburn.edu/samuelson/dendrology/index.html)
 
 ----------------------------------------------------------------------------- 
 ![Acacia tortilis](Mimosoideae/Acacia_tortilis.jpg) 
-Scientific Name ::     Acacia tortilis
-Location ::           Southern Serengeti near Ndutu, Tanzania
-Specimen Condition   Live Specimen
-Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+scientific_name ::     Acacia tortilis
+location ::           Southern Serengeti near Ndutu, Tanzania
+specimen_condition ::  Live Specimen
+copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------ 
 ![](Mimosoideae/67.jpg) 
-Scientific Name ::     Mimosa pudica Mill.
-Specimen Condition   Live Specimen
-Copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
+scientific_name ::     Mimosa pudica Mill.
+specimen_condition ::  Live Specimen
+copyright ::            © [Loison Bernard](http://www.mytho-fleurs.com/images/jardins_botaniques/serre%20mabundu/mimosa%20pudica-sensitive.jpg)
 
 
 ## Confidential Links & Embeds: 

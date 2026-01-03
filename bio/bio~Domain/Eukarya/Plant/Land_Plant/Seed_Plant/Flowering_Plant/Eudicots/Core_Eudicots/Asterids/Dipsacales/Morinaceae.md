@@ -132,9 +132,9 @@ monophyly.
 
 --------------------------------------------------------------------- 
 ![Morinaceae](Morinaceae/Morina_longifolia.jpg) 
-Scientific Name ::     Morina longifolia
-Specimen Condition   Live Specimen
-Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
+scientific_name ::     Morina longifolia
+specimen_condition ::  Live Specimen
+copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ## Confidential Links & Embeds: 

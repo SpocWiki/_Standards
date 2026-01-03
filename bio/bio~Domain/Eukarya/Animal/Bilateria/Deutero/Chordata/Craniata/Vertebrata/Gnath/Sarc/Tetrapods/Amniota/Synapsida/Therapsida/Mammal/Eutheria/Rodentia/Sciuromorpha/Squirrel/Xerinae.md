@@ -66,10 +66,10 @@ UMLS_CUI: C1648590
 
 ---------------------
 ![](Xerinae/xerusinauris4.jpg)
-Scientific Name ::     Xerus inauris
-Location ::           Kgalagadi Transfrontier Park, Kalahari, South Africa
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Nigel Dennis](http://www.nigeldennis.com/)
+scientific_name ::     Xerus inauris
+location ::           Kgalagadi Transfrontier Park, Kalahari, South Africa
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Nigel Dennis](http://www.nigeldennis.com/)
 
 
 ## Confidential Links & Embeds: 

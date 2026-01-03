@@ -91,13 +91,13 @@ A pterotracheid with:
 
 -------------- 
 ![Firoloida desmaresti](Firoloida/Firoloida_desmaresti.jpg) 
-Scientific Name ::     Firoloida desmaresti
-Location ::           off Monterey Bay, California
-Specimen Condition   Live Specimen
+scientific_name ::     Firoloida desmaresti
+location ::           off Monterey Bay, California
+specimen_condition ::  Live Specimen
 Sex ::                Female
 Life Cycle Stage ::     adult
 View                 left side
-Copyright ::            © 1998 David Wrobel
+copyright ::            © 1998 David Wrobel
 
 
 ## Confidential Links & Embeds: 

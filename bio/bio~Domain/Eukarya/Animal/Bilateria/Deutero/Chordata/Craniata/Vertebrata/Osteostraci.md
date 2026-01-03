@@ -242,7 +242,7 @@ exemplified by the benneviaspidids Hoelaspis (top right) and Tauraspis
 lost the paired fins, possibly as a consequence of an adaptation to
 burrowing habits. (based on Janvier 1985a,b; Mark-Kurik & Janvier 1995)
 ![](Osteostraci/osteostraci.gif) 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

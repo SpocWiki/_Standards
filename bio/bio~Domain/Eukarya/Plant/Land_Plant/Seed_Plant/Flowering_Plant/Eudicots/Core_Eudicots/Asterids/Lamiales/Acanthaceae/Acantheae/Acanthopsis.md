@@ -69,10 +69,10 @@ the former two genera than is supported by our results.
 
 -------------------------------------------------------------------------- 
 ![](Acanthopsis/acanthopsis-2-1.jpg) 
-Scientific Name ::     Acanthopsis sp. Harv.
-Location ::           South Africa
-Specimen Condition   Live Specimen
-Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Acanthopsis sp. Harv.
+location ::           South Africa
+specimen_condition ::  Live Specimen
+copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

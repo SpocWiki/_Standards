@@ -190,14 +190,14 @@ Current. *Veliger* **36**: 389-398.
 ![](../../../../../../../bio~Domain/Eukarya/Plants/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Asterids/Lamiales/Acanthaceae/Acantheae/Acanthus/A.jpg)
 
   --------------------
-  Scientific Name ::     Atlanta californiensis
-  Location ::           Monterey Bay, California
-  Specimen Condition   Live Specimen
+  scientific_name ::     Atlanta californiensis
+  location ::           Monterey Bay, California
+  specimen_condition ::  Live Specimen
   Sex ::                Female
   Life Cycle Stage ::     adult
   View                 right side
   Size                 maximal shell diameter about 1.3 mm
-  Copyright ::            © 1998 [David Wrobel](mailto:wrobel2@verizon.et)
+  copyright ::            © 1998 [David Wrobel](mailto:wrobel2@verizon.et)
   --------------------
 
 

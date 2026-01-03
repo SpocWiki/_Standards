@@ -99,10 +99,10 @@ Soil. Archiv für Protistenkunde 116:254-269.
 ![](Apusomonas/papusprobs.jpg) 
 
   --------------------
-  Scientific Name ::     Apusomonas proboscidea, Apusomonas australiensis
+  scientific_name ::     Apusomonas proboscidea, Apusomonas australiensis
   Comments             Phase contrast micrograph of living cells
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 Flemming Ekelund
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 Flemming Ekelund
   --------------------
 
 

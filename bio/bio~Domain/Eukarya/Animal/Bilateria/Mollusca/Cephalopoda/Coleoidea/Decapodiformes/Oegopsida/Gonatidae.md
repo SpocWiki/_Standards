@@ -277,23 +277,23 @@ Zool., 97: 1-159.
 ![](Gonatidae/GSteenstrSideMarEco.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Gonatus steenstrupi
-  Location ::           Central North Atlantic
+  scientific_name ::     Gonatus steenstrupi
+  location ::           Central North Atlantic
   Comments             Photographed in shipboard aquarium aboard the R/V G. O. SARS, MarEco cruise.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   View                 Side
-  Copyright ::            © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -------------------------------------------------------------------------
 ![](Gonatidae/Gberryi1.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Gonatus berryi
-  Location ::        Off California, eastern Pacific Ocean
+  scientific_name ::  Gonatus berryi
+  location ::        Off California, eastern Pacific Ocean
   Reference         Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
   View              Ventral
   Size              119 mm PL
-  Copyright ::         © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1972 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

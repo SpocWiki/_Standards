@@ -48,34 +48,34 @@ Pine trees and relatives
 
 --------------------
 ![ ](Pine/Tsuga_heterophylla1171008.jpg)
-Scientific Name ::     Tsuga heterophylla
-Location ::           Idaho, USA
+scientific_name ::     Tsuga heterophylla
+location ::           Idaho, USA
 Comments             western hemlock
 Acknowledgements     Photograph courtesy InsectImages.org (#1171008)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Chris Schnepf, University of Idaho
+copyright ::            © Chris Schnepf, University of Idaho
 
 
 -----------------------------
 ![](Pine/Pinus_ponderosa1207094.jpg) 
-Scientific Name ::     Pinus ponderosa
-Location ::           South Platte Ranger District, Colorado, USA
+scientific_name ::     Pinus ponderosa
+location ::           South Platte Ranger District, Colorado, USA
 Comments             ponderosa pine trees covered with rime (an icy or frosty coating on foliage)
 Acknowledgements     Photograph courtesy InsectImages.org (#1207094)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Dave Powell, USDA Forest Service
+copyright ::            © Dave Powell, USDA Forest Service
 
 
 ------------------------
 ![](Pine/Abies_concolor1210012.jpg) 
-Scientific Name ::     Abies concolor
+scientific_name ::     Abies concolor
 Comments             white fir, old tree showing characteristic mature-tree form
 Acknowledgements     Photograph courtesy InsectImages.org (#1210012)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Dave Powell, USDA Forest Service
+copyright ::            © Dave Powell, USDA Forest Service
 
 
 ## Confidential Links & Embeds: 

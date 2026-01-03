@@ -189,32 +189,32 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 ![](famelica/MastigoFamelicaVent.jpg) 
 
   ------------
-  Scientific Name ::  *Mastigoteuthis famelica*
+  scientific_name ::  *Mastigoteuthis famelica*
   Comments          Neotype
   Sex ::             Female
   View              Ventral
   Size              241 mm ML
-  Copyright ::         © 2004 Richard E. Young
+  copyright ::         © 2004 Richard E. Young
   ------------
 ![](famelica/MastigoFamelicaDors.jpg) 
 
   ------------
-  Scientific Name ::  *Mastigoteuthis famelica*
+  scientific_name ::  *Mastigoteuthis famelica*
   Comments          Neotype
   Sex ::             Female
   View              Dorsal
   Size              241 mm ML
-  Copyright ::         © 2004 Richard E. Young
+  copyright ::         © 2004 Richard E. Young
   ------------
 ![](famelica/MFamelicaDraw.jpg) 
 
   ------------
-  Scientific Name ::  *Mastigoteuthis famelica*
+  scientific_name ::  *Mastigoteuthis famelica*
   Comments          Drawing of neotype.
   Sex ::             Female
   View              Dorsal and ventral
   Size              241 mm ML
-  Copyright ::         © 2004 Richard E. Young
+  copyright ::         © 2004 Richard E. Young
   ------------
 
 

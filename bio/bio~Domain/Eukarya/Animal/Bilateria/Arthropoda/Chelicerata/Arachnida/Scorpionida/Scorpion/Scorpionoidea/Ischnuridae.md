@@ -54,7 +54,7 @@ title: Ischnuridae
 ----------
 Opisthacanthus lepturus.
 Photograph copyright © 1985, Scott A. Stockwell.![Opisthacanthus lepturus](Ischnuridae/ischnuridae.jpg))
-Copyright ::   © 1985 Scott A. Stockwell
+copyright ::   © 1985 Scott A. Stockwell
 
 
 ## Confidential Links & Embeds: 

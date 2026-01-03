@@ -87,15 +87,15 @@ several small, segregate genera of Strobilanthinae (sensu Bremekamp
 
 ------------------------------------- 
 ![](Hemigraphis/Hemigraphisalternata.jpg) 
-Scientific Name ::     Hemigraphis alternata T.Anders.
-Specimen Condition   Live Specimen
-Copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
+scientific_name ::     Hemigraphis alternata T.Anders.
+specimen_condition ::  Live Specimen
+copyright ::            © [Missouri Botanical Garden (MO)](http://www.mobot.org/gardeninghelp/plantfinder/Plant.asp?Code=A514)
 
 ------------------------- 
 ![Hemigraphis_repanda](Hemigraphis/Hemigraphis_repanda.jpg) 
-Scientific Name ::     Hemigraphis repanda Lindau
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
+scientific_name ::     Hemigraphis repanda Lindau
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [www.akva.sk](http://www.shop.akva.sk/index.php?cPath=32)
 
 
 ## Confidential Links & Embeds: 

@@ -37,17 +37,17 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 ![](Onychiuridae/KAbur_ONY_1.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Kalaphorura burmeisteri
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Kalaphorura burmeisteri
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 ![](Onychiuridae/TPbie_ONY_3-1.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Tetrodontophora bielanensis
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Tetrodontophora bielanensis
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 

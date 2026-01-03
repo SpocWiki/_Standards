@@ -304,12 +304,12 @@ acetabulum, and reduction of the pubis to a small rectangular block.
 
 ---------------------------------------------------------------- 
 ![Two Edmontonia males in a shoving contest of strength](Ankylosauria/edmontonia.jpg) 
-Scientific Name ::     Edmontonia
-Location ::           North America
+scientific_name ::     Edmontonia
+location ::           North America
 Comments             Life restoration. Two males are shown in a shoving contest of strength.
-Specimen Condition   Fossil \-- Period: Late Cretaceous
+specimen_condition ::  Fossil \-- Period: Late Cretaceous
 Sex ::                Male
-Copyright ::            © 1983 Brian Franczak 
+copyright ::            © 1983 Brian Franczak 
 
 
 ## Confidential Links & Embeds: 

@@ -7,7 +7,7 @@ title: Cambarellinae
 # [[Cambarellinae]] 
 
 ![cambarellus_shufeldti](Cambarellinae/cambarellus_shufeldti.jpg) 
-Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Phylogeny 

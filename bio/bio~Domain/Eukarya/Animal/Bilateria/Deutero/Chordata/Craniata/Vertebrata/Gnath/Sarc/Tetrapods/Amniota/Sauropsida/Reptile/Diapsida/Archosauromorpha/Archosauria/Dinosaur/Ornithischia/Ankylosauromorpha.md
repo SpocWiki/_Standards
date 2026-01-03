@@ -185,12 +185,12 @@ relationship, the *Ankylosauromorpha* consists of *Scelidosaurus* +
 
 ------------------------------------------------ 
 ![Skeletal reconstruction of Scelidosaurus harrisoni](Scelidosaurus_harrisoni.jpg)) 
-  Scientific Name ::     Scelidosaurus harrisoni
-  Location ::           England
+  scientific_name ::     Scelidosaurus harrisoni
+  location ::           England
   Comments             Skeletal reconstruction. The most characteristic feature of all ankylosauromorphs is extensive development of bone armor (tinted grey).
-  Specimen Condition   Fossil \-- Period: Early Jurassic
+  specimen_condition ::  Fossil \-- Period: Early Jurassic
   Body Part            skeleton
-  Copyright ::            © 1987 Gregory Paul
+  copyright ::            © 1987 Gregory Paul
 
 
 ## Confidential Links & Embeds: 

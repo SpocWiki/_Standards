@@ -379,12 +379,12 @@ Biotechnology Adv. 22(1-2):161-187.
 ![](Hymenochaetales/Aurificaria_luteoumbrina.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Aurificaria luteoumbrina (Romell) D.A. Reid
-  Location ::           Brazil, Bahia, Cachoeira
-  Specimen Condition   Live Specimen
+  scientific_name ::     Aurificaria luteoumbrina (Romell) D.A. Reid
+  location ::           Brazil, Bahia, Cachoeira
+  specimen_condition ::  Live Specimen
   Identified By        Aristóteles Góes-Neto
   Body Part            basidiomata
-  Copyright ::            © [Aristóteles Góes-Neto](http://www.uefs.br/lapem) 
+  copyright ::            © [Aristóteles Góes-Neto](http://www.uefs.br/lapem) 
  
   -------------------------------------------------------------------------
 

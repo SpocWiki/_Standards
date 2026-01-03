@@ -249,25 +249,25 @@ African Journal of Marine Science, 20: 429-437.
 ![](Magnapinna_pacifica/Magnapinna.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Magnapinna pacifica
+  scientific_name ::     Magnapinna pacifica
   Reference            Vecchione, M. and R. E. Young. 1998. The Magnapinnidae, a newly discovered family of oceanic squids (Cephalopoda; Oegopsida). South African Journal of Marine Science, 20: 429-437.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   View                 Ventral and dorsal
   Size                 51 mm ML
   Type                 Holotype
-  Copyright ::            © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -------------------------------------------------------------------------
 ![](Magnapinna_pacifica/MagnapinnaDraw.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::  Magnapinna pacifica
+  scientific_name ::  Magnapinna pacifica
   Reference         Vecchione, M. and R. E. Young. 1998. The Magnapinnidae, a newly discovered family of oceanic squids (Cephalopoda; Oegopsida). South African Journal of Marine Science, 20: 429-437.
   Creator           K. Hiratsuka Moore
   View              Ventral and dorsal
   Size              51 mm ML
   Type              Holotype
-  Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
 

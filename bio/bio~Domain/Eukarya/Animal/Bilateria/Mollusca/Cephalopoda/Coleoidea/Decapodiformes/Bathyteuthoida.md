@@ -138,19 +138,19 @@ the United States National Museum, 291:1-210.
 ![](Bathyteuthoida/Bathyteuthis.JPG) 
 
   ----------------
-  Scientific Name ::  Bathyteuthis abyssicola
-  Location ::        Antarctic waters
+  scientific_name ::  Bathyteuthis abyssicola
+  location ::        Antarctic waters
   Comments          Photographed in a shipboard aquarium.
-  Copyright ::         © 1996 Edward McSweeny
+  copyright ::         © 1996 Edward McSweeny
   ----------------
 ![](Bathyteuthoida/Chtenopterygidae/Chtenopteryx.jpg)
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Chtenopteryx sp.
-  Location ::        Off Hawaii
+  scientific_name ::  Chtenopteryx sp.
+  location ::        Off Hawaii
   Comments          The visceral and ocular photophore are visible through the transparent mantle and head muscles.
   View              ventral
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

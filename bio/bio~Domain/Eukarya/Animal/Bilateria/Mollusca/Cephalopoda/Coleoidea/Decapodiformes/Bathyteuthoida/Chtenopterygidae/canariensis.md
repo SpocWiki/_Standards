@@ -84,7 +84,7 @@ cephalopods from the Atlantic Ocean. Mitt. Hamb. Zool. Mus. Inst., 97:
 ![](canariensis/ChtenCanariensis.jpg) 
 
   ------------------------------------------------
-  Scientific Name ::   Chtenopteryx canariensis
+  scientific_name ::   Chtenopteryx canariensis
   Reference          Salcedo-Vargas, M. A. and J. Guerrero-Kommritz. 2000. Three new cephalopods from the Atlantic Ocean. Mitt. Hamb. Zool. Mus. Inst. 97:31-44.
   Sex ::              Male
   Life Cycle Stage ::   mature

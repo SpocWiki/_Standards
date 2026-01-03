@@ -74,31 +74,31 @@ taxon_common_name: 桃金娘目
 
 ------------------------------------------------------------------------------ 
 ![Koster\'s curse, Clidemia hirta](Myrtales/Clidemia_hirta.jpg) 
-Scientific Name ::    Clidemia hirta
-Location ::          Native to tropical America, specimen photographed at Ranomafana National Park (Madagascar).
+scientific_name ::    Clidemia hirta
+location ::          Native to tropical America, specimen photographed at Ranomafana National Park (Madagascar).
 Comments            Koster\'s curse (Melastomataceae)
 Creator             Photograph by Gerald and Buff Corsi
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![California evening-primrose, Oenothera californica](Myrtales/Oenothera_californica.jpg) 
-Scientific Name ::     Oenothera californica
-Location ::           Mojave Desert (San Bernardino County, California, USA)
+scientific_name ::     Oenothera californica
+location ::           Mojave Desert (San Bernardino County, California, USA)
 Comments             California evening-primrose (Onagraceae)
 Creator              Photograph by Jo-Ann Ordano
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![Manna gum, Eucalyptus viminalis](Myrtales/Myrtaceae/Eucalyptus/Eucalyptus_viminalis.jpg) 
-Scientific Name ::    Eucalyptus viminalis (Myrtaceae)
-Location ::          Native to Australia, specimen photographed in Sunol (Alameda County, California, USA)
+scientific_name ::    Eucalyptus viminalis (Myrtaceae)
+location ::          Native to Australia, specimen photographed in Sunol (Alameda County, California, USA)
 Comments            Manna gum
 Creator             Photograph by Charles Webber
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

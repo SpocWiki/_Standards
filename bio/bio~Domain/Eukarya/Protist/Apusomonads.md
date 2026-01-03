@@ -103,16 +103,16 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 ![](Apusomonads/pamasdeb.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Amastigomonas debruynei
-  Specimen Condition   Dead Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::     Amastigomonas debruynei
+  specimen_condition ::  Dead Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 ![](Apusomonads/papuprob.jpg) 
 
   ------------
-  Scientific Name ::  Apusomonas proboscidea
-  Copyright ::         © 2000 Flemming Ekelund
+  scientific_name ::  Apusomonas proboscidea
+  copyright ::         © 2000 Flemming Ekelund
   ------------
 
 

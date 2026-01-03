@@ -206,24 +206,24 @@ waters. Bull. Mar. Sci. 49: 162-185.
 ![](Grimalditeuthis/Grimalditeuthis.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::  Grimalditeuthis bonplandi
-  Location ::        Off Southern California
+  scientific_name ::  Grimalditeuthis bonplandi
+  location ::        Off Southern California
   Reference         modified from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool. 97:1-159.
   Sex ::             Female
   View              Ventral
   Size              89 mm ML
-  Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 ![](Grimalditeuthis/GrimaldiFins.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::  Grimalditeuthis bonplandi
-  Location ::        Hawaiian waters
+  scientific_name ::  Grimalditeuthis bonplandi
+  location ::        Hawaiian waters
   Comments          The photograph shows the delicate, translucent nature of the fin and its light pigmentation. A human finger can be seen behind the fin.
   Body Part         Fins
   View              Ventral
-  Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

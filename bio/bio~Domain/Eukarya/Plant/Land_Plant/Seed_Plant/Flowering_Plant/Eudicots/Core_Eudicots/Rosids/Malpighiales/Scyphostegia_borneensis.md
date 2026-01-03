@@ -88,12 +88,12 @@ arillate; embryos straight, cotyledons foliaceous.
 
 --------------
 ![Scyphostegia borneensis](Scyphostegia_borneensis/Scyphostegia_borneensis.jpg)
-Scientific Name ::     Scyphostegia borneensis
-Location ::           Malaysia: Sabah: Mt. Kinabalu
-Specimen Condition   Live Specimen
+scientific_name ::     Scyphostegia borneensis
+location ::           Malaysia: Sabah: Mt. Kinabalu
+specimen_condition ::  Live Specimen
 Identified By        Read S. Beaman
 Sex ::                Male
-Copyright ::            © 2004 Read S. Beaman
+copyright ::            © 2004 Read S. Beaman
 
 
 ## Confidential Links & Embeds: 

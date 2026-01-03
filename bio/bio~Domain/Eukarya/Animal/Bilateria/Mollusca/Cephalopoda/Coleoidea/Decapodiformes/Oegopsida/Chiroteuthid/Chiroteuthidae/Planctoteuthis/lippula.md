@@ -179,20 +179,20 @@ der Plankton-Expedition der Humboldt-Stiftung. 2: 1-815.
 ![](lippula/PlanctoteuthisHaw1.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Planctoteuthis lippula
-  Location ::           Hawaiian waters
-  Specimen Condition   Fresh
+  scientific_name ::     Planctoteuthis lippula
+  location ::           Hawaiian waters
+  specimen_condition ::  Fresh
   View                 Side
   Size                 35 mm ML
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 ![](levimana/P.jpg) 
 
   ------------
-  Scientific Name ::     Planctoteuthis lippula
-  Location ::           Tropical Atlantic
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Planctoteuthis lippula
+  location ::           Tropical Atlantic
+  specimen_condition ::  Dead Specimen
   Life Cycle Stage ::     Paralarva
   View                 Ventral/dorsal
   Size                 16 mm ML

@@ -90,12 +90,12 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 ![](Magnapinna_B/MagnaPinMEtitle.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Magnapinna sp. B
-  Specimen Condition   Preserved
+  scientific_name ::     Magnapinna sp. B
+  specimen_condition ::  Preserved
   Sex ::                Male
   View                 Ventral
   Size                 95 mm ML
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

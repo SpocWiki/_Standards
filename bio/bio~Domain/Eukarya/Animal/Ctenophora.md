@@ -63,9 +63,9 @@ Comb Jellies
 ## Title Illustrations
   --------------------------------------------------------------------------------
 ![Mnemiopsis](Ctenophora/mnemiopsis.gif)
-Scientific Name ::   Mnemiopsis
+scientific_name ::   Mnemiopsis
 Acknowledgements   Photograph from Gray Museum Slide Collection
-Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 

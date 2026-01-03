@@ -172,10 +172,10 @@ Neptune City, NJ, 351pp.
 ![](Sepiolidae/Heteroteuthis.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::     Heteroteuthis hawaiiensis
-  Location ::           off Hawaii
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  scientific_name ::     Heteroteuthis hawaiiensis
+  location ::           off Hawaii
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 

@@ -272,10 +272,10 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 ![](talismani/ctalismani1.jpg) 
 
   ------------------------------------------
-  Scientific Name ::     Magnapinna talismani
-  Location ::           North Atlantic Ocean
+  scientific_name ::     Magnapinna talismani
+  location ::           North Atlantic Ocean
   Reference            Fischer, H. and L. Joubin (1907). Expéditions scientifiques du TRAVAILLEUR et du TALISMAN. Céphalopodes, 8: 313-353.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   View                 Ventral/dorsal
   Size                 61 mm ML
   Type                 Holotype

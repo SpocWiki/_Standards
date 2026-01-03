@@ -331,14 +331,14 @@ of tetrapods and lungfish. Nature 418:767-770.
 ![](Sarc/Latimeria35531239_a870f7a78.jpg)
 
   ----------------------------------------------------------------
-  Scientific Name ::     Latimeria chalumnae
-  Location ::           Vancouver Aquarium
+  scientific_name ::     Latimeria chalumnae
+  location ::           Vancouver Aquarium
   Comments             Preserved coelacanth
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source               [coelacanth](http://flickr.com/photos/matana/35531239/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Copyright ::            © 2005 [Matana_and_Jes](http://flickr.com/people/matana/)
+  copyright ::            © 2005 [Matana_and_Jes](http://flickr.com/people/matana/)
   ----------------------------------------------------------------
 
 

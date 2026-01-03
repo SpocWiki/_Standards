@@ -160,8 +160,8 @@ are considered to be apomorphic (newly derived) characters are
 ![](Sepioidea/SepioidFams2.jpg) 
 
 ---------------------
-Scientific Name ::  Sepioloidea lineolata, Sepia apama, Iridoteuthis iris
-Copyright ::         © 2004 Mark Norman, Thomas burch
+scientific_name ::  Sepioloidea lineolata, Sepia apama, Iridoteuthis iris
+copyright ::         © 2004 Mark Norman, Thomas burch
 ---------------------
 
 

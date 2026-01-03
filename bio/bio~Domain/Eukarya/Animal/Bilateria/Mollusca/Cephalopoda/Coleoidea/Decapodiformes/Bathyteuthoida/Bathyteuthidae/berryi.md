@@ -101,7 +101,7 @@ Contributions to Zoology, No. 97: 1-159
 ![](berryi/BathyBerryi.jpg) 
 
   ---------
-  Copyright ::   © 1998 C. F. E. Roper
+  copyright ::   © 1998 C. F. E. Roper
   ---------
 
 

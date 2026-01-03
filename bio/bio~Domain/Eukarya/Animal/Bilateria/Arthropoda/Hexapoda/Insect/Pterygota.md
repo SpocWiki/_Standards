@@ -185,32 +185,32 @@ in support of monophyly of Odonata + Neoptera:
 
 ------------------------------------------------------------------------------
 ![Habitus of a mayfly](mayfly.jpg)
-Scientific Name ::     Ephemeroptera
-Location ::           McKinleyville (Humboldt County, California, USA).
+scientific_name ::     Ephemeroptera
+location ::           McKinleyville (Humboldt County, California, USA).
 Comments             A mayfly (Ephemeroptera)
 Creator              Photograph by T. W. Davies
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------
 ![A pair of damselflies](damselflies.jpg)
-Scientific Name ::     Zygoptera
-Location ::           Pepperwood (Sonoma County, California, USA)
+scientific_name ::     Zygoptera
+location ::           Pepperwood (Sonoma County, California, USA)
 Comments             A pair of damselflies
 Creator              Photograph by Jo-Ann Ordano
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------
 ![](Pterygota/Plusiotis_beyeri.jpg)
-Scientific Name ::     Plusiotis beyeri
+scientific_name ::     Plusiotis beyeri
 Comments             Beyer\'s scarab beetle
 Creator              Photograph by Robert Potts
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

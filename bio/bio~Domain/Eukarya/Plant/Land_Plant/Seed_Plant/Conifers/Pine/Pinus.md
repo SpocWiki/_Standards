@@ -291,27 +291,27 @@ indicate that *P. krempfii* should be considered a member of subgenus *Strobus*.
 
 ---------------------------------------------------------------------------
 ![Pinus canariensis](Pinus/Pinus_canariensis.jpg)
-Scientific Name ::  Pinus canariensis
-Location ::        Tenerife, Spain
-Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+scientific_name ::  Pinus canariensis
+location ::        Tenerife, Spain
+copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
 
 ---------------------------------------------------------------------------
 ![ovulate cone of Pinus monticola](Pinus/Strobus/Pinus_monticola.jpg) 
-Scientific Name ::  Pinus monticola
+scientific_name ::  Pinus monticola
 Body Part         ovulate cone
-Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
 
 ---------------------------------------------------------------------------
 ![Pinus contorta, ovulating Cone](Pinus/Pinus_contorta.jpg)
-Scientific Name ::  Pinus contorta
+scientific_name ::  Pinus contorta
 Body Part         ovulate cone
-Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
 
 ---------------------------------------------------------------------------
 ![Pinus krempfii](Pinus/Pinus_krempfii(Needles).jpg) 
-Scientific Name ::  Pinus krempfii
+scientific_name ::  Pinus krempfii
 Body Part         flattened leaves
-Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
 
 
 ## Confidential Links & Embeds: 

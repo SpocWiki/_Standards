@@ -94,17 +94,17 @@ taxon_common_name: ground squirrel
 
 -------------------
 ![](Ground_Squirrel/Prairie_Dog.jpg)
-Scientific Name ::     Cynomys
+scientific_name ::     Cynomys
 Creator              Claire Dobert
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 -------------------
 ![](Ground_Squirrel/Ground_Squirrel.jpg)
-Scientific Name ::     Spermophilus
+scientific_name ::     Spermophilus
 Creator              Joe Martin
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

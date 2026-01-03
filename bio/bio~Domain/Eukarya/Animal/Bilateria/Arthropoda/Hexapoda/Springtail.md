@@ -153,23 +153,23 @@ Other characteristics include:
 
 ---------------------------------------------------------------------------
 ![Collembola1](Springtail/Collembola-1.jpg) 
-Scientific Name ::     Collembola
-Location ::           USA: Arizona: Tucson
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Collembola
+location ::           USA: Arizona: Tucson
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 ---------------------------------------------------------------------------
 ![](Springtail/DSCN0061.jpg)
-Scientific Name ::     Symphypleona
-Location ::           USA: California: Cold Creek
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Symphypleona
+location ::           USA: California: Cold Creek
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 ![Collembola](Springtail/Collembola.jpg)
-Scientific Name ::     Collembola
-Location ::           USA: Arizona: Iron Springs
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Collembola
+location ::           USA: Arizona: Iron Springs
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

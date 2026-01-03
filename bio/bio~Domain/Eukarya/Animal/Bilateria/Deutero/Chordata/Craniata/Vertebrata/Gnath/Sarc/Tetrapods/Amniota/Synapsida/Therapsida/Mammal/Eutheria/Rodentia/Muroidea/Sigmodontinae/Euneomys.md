@@ -98,8 +98,8 @@ the appropriate view below.
 ![Euneomys chinchilloides](Euneomys/euneomys.jpg) 
 
   ------------
-  Scientific Name ::  Euneomys chinchilloides
-  Copyright ::         © 1996 O. Pearson
+  scientific_name ::  Euneomys chinchilloides
+  copyright ::         © 1996 O. Pearson
   ------------
 
 

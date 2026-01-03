@@ -92,31 +92,31 @@ and sore throats.
 
 ------------------------------------------------------------------------------
 ![Dombeya](Core_Malvales/Dombeya.jpg)
-Scientific Name ::     Dombeya
-Location ::           Ranomafana National Park (Madagascar)
+scientific_name ::     Dombeya
+location ::           Ranomafana National Park (Madagascar)
 Comments             /Dombeyoideae
 Creator              Photograph by Gerald and Buff Corsi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ---------------------------------------------------------------------
 ![](Core_Malvales/Adansonia_grandidieri.jpg)
-Scientific Name ::     Adansonia gibbosa, Agrius convolvuli
+scientific_name ::     Adansonia gibbosa, Agrius convolvuli
 Comments             Adansonia gibbosa (/Bombacoideae) flower visited by the hawkmoth Agrius convolvuli.
 Reference            From Baum, D. A. 1995. The comparative pollination and floral biology of baobabs (Adansonia- Bombacaceae). Annals of the Missouri Botanical Garden 82(2):322-348.
 Creator              Photograph by David Baum
-Specimen Condition   Live Specimen
-Copyright ::            © 1995 Missouri Botanical Garden Press 
+specimen_condition ::  Live Specimen
+copyright ::            © 1995 Missouri Botanical Garden Press 
 
 ---------------------------------
 ![Pine Hill Fremontia](Core_Malvales/Fremontodendroncalifornicum.jpg)
-Scientific Name ::    Fremontodendron californicum ssp. decumbens
-Location ::          Pine Hill (El Dorado County, California, USA)
+scientific_name ::    Fremontodendron californicum ssp. decumbens
+location ::          Pine Hill (El Dorado County, California, USA)
 Comments            Pine Hill Fremontia (/Malvoideae)
 Creator             Photograph by G. F. Hrusa
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)
+copyright ::           © 2001 [California Dept. of Food & Agriculture, Botany Laboratory](mailto:FHrusa@ca.gov)
 
 
 ## Confidential Links & Embeds: 

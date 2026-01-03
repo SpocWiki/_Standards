@@ -207,25 +207,25 @@ Clark (1969).
 
 ------------------------------------------------------------------------ 
 ![](Spirulida/Spirula.JPG) 
-Scientific Name ::  Spirula spirula
+scientific_name ::  Spirula spirula
 Sex ::             Male
 View              lateral
-Copyright ::         © 1998 Martina A. Compagno Roeleveld (ca. 1946-2006) 
+copyright ::         © 1998 Martina A. Compagno Roeleveld (ca. 1946-2006) 
 
 ---------
 ![](SpirulaDraw.gif)
-Scientific Name ::  Spirula spirula
+scientific_name ::  Spirula spirula
 Reference         from Chun, 1910
 Sex ::             Female
 View              dorsal
 
 ------------------------------------------------------------------------ 
 ![](Spirulida/SpirulaMV.jpg) 
-Scientific Name ::  Spirula spirula
-Location ::        western North Atlantic
+scientific_name ::  Spirula spirula
+location ::        western North Atlantic
 View              Side
 Size              23 mm ML
-Copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
+copyright ::         © 2004 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
 
 ## Confidential Links & Embeds: 

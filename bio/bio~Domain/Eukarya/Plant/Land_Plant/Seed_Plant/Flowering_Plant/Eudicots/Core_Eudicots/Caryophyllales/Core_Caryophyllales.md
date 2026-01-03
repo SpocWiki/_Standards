@@ -132,28 +132,28 @@ as sister to larger clades.
 
 -------------------------------------------------------------------------
 ![Lychnis fulgens](Core_Caryophyllales/Lychnis_fulgens.jpg) 
-Scientific Name ::     Lychnis fulgens
-Location ::           Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
+scientific_name ::     Lychnis fulgens
+location ::           Kedrovaja Pad Natural Reserve, Khasansky distr., Primorsky Territory (Russian Federation)
 Comments             Brilliant campion (Caryophyllaceae)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------------
 ![Organ pipe cactus](Core_Caryophyllales/Stenocerus,Organ_pipe_cactus.jpg) 
-Scientific Name ::    Stenocerus
-Location ::          Organ Pipe Cactus National Monument (Arizona, US)
+scientific_name ::    Stenocerus
+location ::          Organ Pipe Cactus National Monument (Arizona, US)
 Comments            Organ pipe cactus (Cactaceae)
 Creator             Photograph by G. Dallas and Margaret Hanna
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------
 ![Delosperma_lineare](Core_Caryophyllales/Delosperma_lineare.jpg) 
-Scientific Name ::   Delosperma lineare
+scientific_name ::   Delosperma lineare
 Comments           Aizoaceae. Cultivated at the Botanical Garden Basel, Switzerland
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

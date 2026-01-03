@@ -107,23 +107,23 @@ been resolved by recent, comprehensive molecular phylogenetic analyses
 
 ------------------------------------------------------------------------- 
 ![Robinia pseudoacacia](Robinioid/Robinia_pseudoacacia.jpg) 
-Scientific Name ::     Robinia pseudoacacia L.
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+scientific_name ::     Robinia pseudoacacia L.
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 --------------------------- 
 ![Lotus australis](Robinioid/Lotus_australis.jpg) 
-Scientific Name ::     Lotus australis Andrews
-Location ::           Land\'s End restoration area, Australia
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Jeff Reid](http://homepages.picknowl.com.au/jreid)
+scientific_name ::     Lotus australis Andrews
+location ::           Land\'s End restoration area, Australia
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Jeff Reid](http://homepages.picknowl.com.au/jreid)
 
 ---------------------- 
 ![Sesbania punicea](Robinioid/Sesbania_punicea.jpg) 
-Scientific Name ::     Sesbania punicea Benth.
-Location ::           Florida, USA
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Frank Farrugia](mailto:Frank.Farruggia@asu.edu)
+scientific_name ::     Sesbania punicea Benth.
+location ::           Florida, USA
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Frank Farrugia](mailto:Frank.Farruggia@asu.edu)
 
 
 ## Confidential Links & Embeds: 

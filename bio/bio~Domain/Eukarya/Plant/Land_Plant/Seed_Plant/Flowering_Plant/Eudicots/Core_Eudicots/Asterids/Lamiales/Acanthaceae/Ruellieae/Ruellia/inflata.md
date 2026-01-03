@@ -66,17 +66,17 @@ which is an unusual habit in *Ruellia*.
 
 --------------------------------------------------------------------- 
 ![Ruellia elegans](inflata/Ruellia_elegans.jpg) 
-Scientific Name ::     Ruellia elegans
-Specimen Condition   Live Specimen
-Copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
+scientific_name ::     Ruellia elegans
+specimen_condition ::  Live Specimen
+copyright ::            © [Kurt Stüber](http://www.biolib.de/) 
 
 ----------- 
 ![Ruellia inflata](inflata/Ruellia_inflata.jpg)) 
-Scientific Name ::     Ruellia inflata
-Location ::           Bolivia
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia inflata
+location ::           Bolivia
+specimen_condition ::  Live Specimen
 Collector            John L. Clark
-Copyright ::            © 2002 John L. Clark
+copyright ::            © 2002 John L. Clark
 
 
 ## Confidential Links & Embeds: 

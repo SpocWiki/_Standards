@@ -129,7 +129,7 @@ waters. Ann. South African Mus., 50: 61-88.
 ![](joubini/Cjoubini.jpg) 
 
   ----------
-  Scientific Name ::  Chiroteuthis joubini
+  scientific_name ::  Chiroteuthis joubini
   Creator           A. D. Hart
   ----------
 

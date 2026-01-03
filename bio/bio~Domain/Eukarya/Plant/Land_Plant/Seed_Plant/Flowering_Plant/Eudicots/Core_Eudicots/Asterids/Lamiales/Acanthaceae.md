@@ -174,32 +174,32 @@ of relationships within the other lineages.     
 
 --------------------------
 ![Carlowrightiahintonii](Acanthaceae/Carlowrightia_hintonii.jpg) 
-Scientific Name ::     Carlowrightia hintonii T.F.Daniel (Justicieae: Tetramerium Lineage)
-Specimen Condition   Live Specimen
-Copyright ::            © Thomas F. Daniel
+scientific_name ::     Carlowrightia hintonii T.F.Daniel (Justicieae: Tetramerium Lineage)
+specimen_condition ::  Live Specimen
+copyright ::            © Thomas F. Daniel
 
 ------------------------------------------------------------------------
 ![Brillantasia_nyanzarum](Acanthaceae/Ruellieae/Brillantaisia/Brillantasia_nyanzarum.jpg) 
-Scientific Name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
-Location ::           Greenhouse, Duke University
-Specimen Condition   Live Specimen
+scientific_name ::     Brillantaisia nyanzarum Burkill (Ruellieae)
+location ::           Greenhouse, Duke University
+specimen_condition ::  Live Specimen
 Identified By        E. A. Tripp
-Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 -----------------
 ![Aphelandra](Acanthaceae/Acantheae/Aphelandra.jpg)
-Scientific Name ::     Aphelandra impressa Lindau (Acantheae)
-Location ::           Venezuela
-Specimen Condition   Live Specimen
+scientific_name ::     Aphelandra impressa Lindau (Acantheae)
+location ::           Venezuela
+specimen_condition ::  Live Specimen
 Identified By        L. A. McDade
-Copyright ::            © 2006 Mark Skinner
+copyright ::            © 2006 Mark Skinner
 
 --------------------------------------------------------------------------- 
 ![Thunbergia redyellow](Acanthaceae/Thunbergia_redyellow.jpg) 
-Scientific Name ::     Thunbergia mysorensis T.Anders. ex Bedd. (Thunbergioideae)
-Location ::           Oribi Gorge, Tourist Lodge, South Africa
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Thunbergia mysorensis T.Anders. ex Bedd. (Thunbergioideae)
+location ::           Oribi Gorge, Tourist Lodge, South Africa
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

@@ -64,30 +64,30 @@ region of hyaline tissue between calyx lobes, a trait also found in some
 
 ----------------------------------------------------------------------- 
 ![Dyschoriste_Tehuantepec](Dyschoriste/Dyschoriste_Tehuantepec.jpg) 
-Scientific Name ::     Dyschoriste hirsutissima (Nees) Kuntze
-Location ::           Oaxaca, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Dyschoriste hirsutissima (Nees) Kuntze
+location ::           Oaxaca, Mexico
+specimen_condition ::  Live Specimen
 Collector            E. Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------- 
 ![Dyschoristelinearis](Dyschoriste/Dyschoriste_linearis.jpg) 
-Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
-Location ::           Taylor County, Texas
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
+scientific_name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
+location ::           Taylor County, Texas
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Catnapin](http://www.catnapin.com/WildWeeds/Flowers-B/PurpleBlueBilateralAcanthus.htm)
 
 -------------------------- 
 ![dyschoriste](Dyschoriste/dyschoriste.jpg) 
-Scientific Name ::     Dyschoriste oblongifolia Kuntze
-Specimen Condition   Live Specimen
-Copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
+scientific_name ::     Dyschoriste oblongifolia Kuntze
+specimen_condition ::  Live Specimen
+copyright ::            © [Peter G. May](http://www.stetson.edu/%7Epmay/stock%20flora.htm)
 
 ---------------------------------- 
 ![](Dyschoriste/Dyschoriste_linearis-B.jpg) 
-Scientific Name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
-Specimen Condition   Live Specimen
-Copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
+scientific_name ::     Dyschoriste linearis (Torr. & A.Gray) Kuntze
+specimen_condition ::  Live Specimen
+copyright ::            © 2003 [Texas Tech University](http://www.depts.ttu.edu/hillcountry/research/wildflowers.htm)
 
 
 ## Confidential Links & Embeds: 

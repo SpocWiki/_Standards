@@ -110,11 +110,11 @@ Cephalopoda: Cirroctopoda) from the South China Sea. Zoological Studies,
 ![](Luteuthis/LuteuthisShuishiSide.jpg) 
 
   -----------------------------------------------------
-  Scientific Name ::  Luteuthis shuichi
+  scientific_name ::  Luteuthis shuichi
   Reference         O\'Shea, S. and C. C. Lu. 2002. A New Species of Luteuthis (Mollusca: Cephalopoda: Cirroctopoda) from the South China Sea. Zoological Studies, 41: 119-126.
   View              Side
   Type              Holotype
-  Copyright ::         © 2002 S. O\'Shea and C.C. Lu
+  copyright ::         © 2002 S. O\'Shea and C.C. Lu
   -----------------------------------------------------
 
 

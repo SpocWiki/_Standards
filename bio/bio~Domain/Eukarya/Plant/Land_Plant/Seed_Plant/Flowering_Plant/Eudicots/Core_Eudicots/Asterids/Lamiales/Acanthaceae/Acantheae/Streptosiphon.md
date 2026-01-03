@@ -73,27 +73,27 @@ times in Acantheae.
 
 ---------------------------------------------------------------------------
 ![](Streptosiphon/Strepto_003.jpg)
-Scientific Name ::     Streptosiphon hirsutus Mildbr.
-Location ::           Tanzania
-Specimen Condition   Dead Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Streptosiphon hirsutus Mildbr.
+location ::           Tanzania
+specimen_condition ::  Dead Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
 ![](Streptosiphon/Strepto_004.jpg)
-Scientific Name ::     Streptosiphon hirsutus Mildbr.
-Location ::           Tanzania
+scientific_name ::     Streptosiphon hirsutus Mildbr.
+location ::           Tanzania
 Reference            Copenhagen Herbarum (C)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           \(C\)
 Collector            Mwasumbi & Clarke
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![](Streptosiphon/Streptosiphon.jpg) 
-Scientific Name ::     Streptosiphon hirsutus Mildbr.
-Location ::           Tanzania
-Specimen Condition   Dead Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Streptosiphon hirsutus Mildbr.
+location ::           Tanzania
+specimen_condition ::  Dead Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

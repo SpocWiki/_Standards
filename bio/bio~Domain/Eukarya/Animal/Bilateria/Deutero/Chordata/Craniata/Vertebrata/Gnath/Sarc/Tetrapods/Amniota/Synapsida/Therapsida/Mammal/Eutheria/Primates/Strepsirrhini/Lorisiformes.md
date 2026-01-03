@@ -58,17 +58,17 @@ title: Lorisiformes
 
 ---------------------------------
 ![](Lorisiformes/ell.jpg)
-Scientific Name ::  Galago demidoff
+scientific_name ::  Galago demidoff
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 
 --------------------------------- 
 ![](Lorisiformes/pzs.jpg) 
-Scientific Name ::  Nycticebus pygmaeus
+scientific_name ::  Nycticebus pygmaeus
 Creator           H. Goodchile (1907)
 
 --------- 
 ![](Lorisiformes/ell_004.jpg) 
-Scientific Name ::  Euoticus elegantulus
+scientific_name ::  Euoticus elegantulus
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 
 

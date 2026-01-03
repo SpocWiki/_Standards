@@ -111,8 +111,8 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Heterololigo/HBleekeri2.jpg) 
 
   ------------------------------------------------------------------
-  Scientific Name ::   Heterololigo bleekeri
-  Location ::         Sagami Bay, Japan
+  scientific_name ::   Heterololigo bleekeri
+  location ::         Sagami Bay, Japan
   Reference          Sasaki, M. 1929. A Monograph of the Dibranchiate Cephalopods of the Japanese and Adjacent Waters. Journal of the College of Agriculture, Hokkaido Imperial University, 20(supplement):357 pages.
   Sex ::              Male
   Life Cycle Stage ::   Mature

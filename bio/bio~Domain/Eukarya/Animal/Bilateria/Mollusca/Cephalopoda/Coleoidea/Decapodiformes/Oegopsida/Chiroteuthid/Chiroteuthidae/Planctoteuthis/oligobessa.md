@@ -166,18 +166,18 @@ waters. Bull. Mar. Sci., 49: 162-185.
 ![](oligobessa/P.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Planctoteuthis oligobessa, Planctoteuthis oligobessa (2)
-  Location ::           Pacific Ocean off California
+  scientific_name ::     Planctoteuthis oligobessa, Planctoteuthis oligobessa (2)
+  location ::           Pacific Ocean off California
   Comments             note the long arms IV and the strong ventral protrusion of the eyes from the head (1)
   Reference            Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off southern California. Smithson. Contr. Zool., No. 97: 159pp
   Creator              C. McSweeny
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Sex ::                f (2)
   Life Cycle Stage ::     subadult, mature (2)
   View                 Ventral
   Size                 23 mm ML, 76 mm ML (2)
   Type                 holotype (2)
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

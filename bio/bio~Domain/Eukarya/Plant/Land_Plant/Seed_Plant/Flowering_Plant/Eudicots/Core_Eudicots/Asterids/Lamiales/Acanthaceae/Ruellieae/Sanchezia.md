@@ -66,39 +66,39 @@ horticultural industry.
 
 --------------------- 
 ![](Sanchezia/sancheziaweb.jpg) 
-Scientific Name ::  Sanchezia sp. Leonard
-Copyright ::         © [Alexander Schmidt-LeBuhn](mailto:schmidtleb@yahoo.de)
+scientific_name ::  Sanchezia sp. Leonard
+copyright ::         © [Alexander Schmidt-LeBuhn](mailto:schmidtleb@yahoo.de)
 
 ---------------------------
 ![](Sanchezia/sanchezia_004.jpg)
-Scientific Name ::     Sanchezia speciosa Leonard
-Specimen Condition   Live Specimen
-Copyright ::            © [Gerald D. Carr](http://www.botany.hawaii.edu/faculty/carr/acanth.htm)
+scientific_name ::     Sanchezia speciosa Leonard
+specimen_condition ::  Live Specimen
+copyright ::            © [Gerald D. Carr](http://www.botany.hawaii.edu/faculty/carr/acanth.htm)
 
 ------------------------------------------------------------------------ 
 ![](Sanchezia/sanchezia.jpg) 
-Scientific Name ::     Sanchezia parvibracteata Sprague & Hutch.
-Location ::           Limón Province, Costa Rica
-Specimen Condition   Live Specimen
+scientific_name ::     Sanchezia parvibracteata Sprague & Hutch.
+location ::           Limón Province, Costa Rica
+specimen_condition ::  Live Specimen
 Collector            E. Tripp
-Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------------------------------------------------
 ![](Sanchezia/san_004.jpg)
-Scientific Name ::     Sanchezia parviflora Leonard
-Location ::           Pastaza, Ecuador
-Specimen Condition   Live Specimen
+scientific_name ::     Sanchezia parviflora Leonard
+location ::           Pastaza, Ecuador
+specimen_condition ::  Live Specimen
 Collection           DUKE
 Collector            L. A. McDade
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![](Sanchezia/san.jpg) 
 
-Scientific Name ::     Sanchezia oblonga Ruiz & Pav.
-Location ::           Las Cruces Botanical Garden, Costa Rica, cultivated
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Sanchezia oblonga Ruiz & Pav.
+location ::           Las Cruces Botanical Garden, Costa Rica, cultivated
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

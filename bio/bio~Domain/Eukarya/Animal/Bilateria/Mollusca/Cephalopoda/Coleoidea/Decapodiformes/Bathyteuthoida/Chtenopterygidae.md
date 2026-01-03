@@ -213,18 +213,18 @@ dem Naturhistorischen Museum in Hamburg. 17:145-198.
 ![](Chtenopteryx.JPG)
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Chtenopteryx sp.
-  Location ::        Off Hawaii
+  scientific_name ::  Chtenopteryx sp.
+  location ::        Off Hawaii
   Comments          The visceral and ocular photophore are visible through the transparent mantle and head muscles.
   View              ventral
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 ![](Chtenopterygidae/ChtenFins.jpg) 
 
   -------------------------------------------------------------------
-  Scientific Name ::  Chtenopteryx sp.
-  Location ::        eastern Tropical Pacific
+  scientific_name ::  Chtenopteryx sp.
+  location ::        eastern Tropical Pacific
   Reference         modified from Okutani, T. 1974. Epipelagic decapod cephalopods collected by micronekton tows during the EASTROPAC expeditions, 1967-1968 (systematic part). Bull. Tokai Reg. Fish. Res. Lab. 80:29-118.
   View              lateral
   -------------------------------------------------------------------

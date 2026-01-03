@@ -238,19 +238,19 @@ Dunlop (1996).
 
 ---------------------------------------------------------------
 ![](Mite/NeotrDendrol.jpg)
-Scientific Name ::                    Neotrichozetes (top), Dendrolaelaspis (bottom)
-Location ::                          Neotrichozetes from South America, Dendrolaelaspis from Australia
+scientific_name ::                    Neotrichozetes (top), Dendrolaelaspis (bottom)
+location ::                          Neotrichozetes from South America, Dendrolaelaspis from Australia
 Comments                            Top: Scanning electron micrograph of microbe grazing oribatid mite.\
 								  Bottom: SEM of a predatory mesostigmatic mite
 Acknowledgements                    upper image © 1996 Jason Hurdis
-Copyright ::                           © 1996 [David Evans Walter](http://www.uq.oz.au/entomology/david.evans.walter.html)
+copyright ::                           © 1996 [David Evans Walter](http://www.uq.oz.au/entomology/david.evans.walter.html)
 
 ---------------
 ![](Mite/Limnesia.jpg)
-Scientific Name ::  Limnesia
-Location ::        Canada
+scientific_name ::  Limnesia
+location ::        Canada
 Comments          Photograph of a predatory water mite
-Copyright ::         © 1996 C. Podemski
+copyright ::         © 1996 C. Podemski
 
 
 ## Confidential Links & Embeds: 

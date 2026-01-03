@@ -68,12 +68,12 @@ Araneoidea). Zoologica Scripta 32:129-151.
 ![](Symphytognathidae/anapistula03.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Anapistula sp.
-  Location ::           Puerto Rico
-  Specimen Condition   Live Specimen
+  scientific_name ::     Anapistula sp.
+  location ::           Puerto Rico
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             web size ca. 4 cm. Note large number of radii that do not all reach hub.
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

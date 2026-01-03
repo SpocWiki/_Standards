@@ -64,7 +64,7 @@ title: Cambaridae
 ------------------------------------------------------------------------------
 *Procambarus nigrocinctus*
 Photo copyright © Keith A. Crandall![](Cambaridae/Procambarus_nigrocinctus.jpg))
-Copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+copyright ::   © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Confidential Links & Embeds: 

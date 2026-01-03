@@ -145,10 +145,10 @@ taxon_name: Strepsirrhini
 ![Lesser bushbaby](Strepsirrhini/galago.jpg) 
 
 ------------------------------------------------------------------------------
-Scientific Name ::  Galago senegalensis
-Location ::        Okavango Delta (Machaba), Botswana
+scientific_name ::  Galago senegalensis
+location ::        Okavango Delta (Machaba), Botswana
 Comments          Lesser bushbaby
-Copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 ------------------------------------------------------------------------------
 
 

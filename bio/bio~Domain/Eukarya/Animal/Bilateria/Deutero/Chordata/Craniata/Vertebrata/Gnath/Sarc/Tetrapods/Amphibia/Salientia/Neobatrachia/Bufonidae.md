@@ -159,17 +159,17 @@ of the bufonid genera.
 
 -------------------------------------------------------------------------
 1. Atelopus varius, Costa Rica; photo © 1995 David Cannatella ![Atelopus varius](Bufonidae/atelopus.jpg))
-Scientific Name ::  Atelopus varius
-Location ::        Costa Rica
+scientific_name ::  Atelopus varius
+location ::        Costa Rica
 
 -------------------------------------------------------------------------
 2. Bufo valliceps; photo © 1995 David Cannatella ![Bufo valliceps](Bufonidae/bufo.jpg))
-Scientific Name ::  Bufo valliceps
+scientific_name ::  Bufo valliceps
 
 -------------------------------------------------------------------------
 3. Leptophryne sp; photo © 1995 David Cannatella![Leptophryne](Bufonidae/leptophryne.jpg))
-Scientific Name ::     Leptophryne
-Specimen Condition   Live Specimen
+scientific_name ::     Leptophryne
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

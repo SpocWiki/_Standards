@@ -169,17 +169,17 @@ appropriate.
 
 -------------------------------
 ![](Octopodiformes/VampSeibel.jpg)
-Scientific Name ::  Vampyroteuthis infernalis
-Location ::        San Clemente Basin off Southern California
+scientific_name ::  Vampyroteuthis infernalis
+location ::        San Clemente Basin off Southern California
 Comments          Photographed in plankton kreisel aboard the R/V NEW HORIZON. Captured at 700 m depth.
 Size              25 cm total length
-Copyright ::         © 1999 Brad Seibel
+copyright ::         © 1999 Brad Seibel
 
 ------------- 
 ![](Octopodiformes/Ocyanea.jpg) 
-Scientific Name ::  Octopus cyanea
-Location ::        Great Barrier Reef, Australia
-Copyright ::         © 1999 Mark Norman
+scientific_name ::  Octopus cyanea
+location ::        Great Barrier Reef, Australia
+copyright ::         © 1999 Mark Norman
 
 
 ## Confidential Links & Embeds: 

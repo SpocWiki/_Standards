@@ -46,52 +46,52 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](diaguita/diaguitahabitus03.gif) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus diaguita
-  Location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
+  scientific_name ::     Latrodectus diaguita
+  location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
   Comments             Photograph of specimen in alcohol. Note that red coloration fades in alcohol. See live photographs for true color. Scale bar = 1.0 mm.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Identified By        Jeremy Miller
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](diaguita/diaguitapalp.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus diaguita
-  Location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
+  scientific_name ::     Latrodectus diaguita
+  location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
   Comments             Scale bar = 0.1 mm.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Identified By        Jeremy Miller
   Sex ::                Male
   Life Cycle Stage ::     Adult
   Body Part            Male palp
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](diaguita/latrodectusdiaguitadsc_0031.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus diaguita
-  Location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus diaguita
+  location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Behavior             Wrapping prey
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](diaguita/latrodiaguita.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus diaguita
-  Location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus diaguita
+  location ::           Ruta 4, Km 9, Catamarca Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

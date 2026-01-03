@@ -82,11 +82,11 @@ Antrodiaetidae). Journal of Arachnology 24:201-213.
 ![](Mygalomorphae/01082tarantula1.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Theraphosidae and Dendrobatidae
-  Location ::           La Selva, Costa Rica
+  scientific_name ::     Theraphosidae and Dendrobatidae
+  location ::           La Selva, Costa Rica
   Comments             Tarantula and poison-dart frog on tree trunk
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   -----------------------------------------------------------------------------
 

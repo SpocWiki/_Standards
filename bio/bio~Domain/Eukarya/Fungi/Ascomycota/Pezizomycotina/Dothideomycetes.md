@@ -232,36 +232,36 @@ loci. 2006. Mycologia 98:1043-1054
 ![](Dothideomycetes/hysteropatellaprostiihb7715b-2crehydr.jpg) 
 
   ----------------------------
-  Scientific Name ::     Hysteropatella prostii
-  Location ::           Germany, Baden-Württemberg, Tübingen, Pfrondorf
+  scientific_name ::     Hysteropatella prostii
+  location ::           Germany, Baden-Württemberg, Tübingen, Pfrondorf
   Comments             Hysterothecia of Hysteropatella prostii on living trunk of Malus domestica
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        H.-O. Baral
   Life Cycle Stage ::     Teleomorph
   Body Part            Ascoma
-  Copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
+  copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
   ----------------------------
 ![](Dothideomycetes/cucurbitarialaburni30.jpg) 
 
   ---------------------------
-  Scientific Name ::     Cucurbitaria laburni
-  Location ::           Austria, Wien 12, Schömbrunn, \"Gloriette, Weg zur Hohenbergstraße\"
+  scientific_name ::     Cucurbitaria laburni
+  location ::           Austria, Wien 12, Schömbrunn, \"Gloriette, Weg zur Hohenbergstraße\"
   Comments             Pseudothecia of Cucurbitaria laburni on branch of Laburnum anagyroides
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        Walter Jaklitsch
   Life Cycle Stage ::     Teleomorph
   Body Part            Ascoma
-  Copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
+  copyright ::            © [H.-O. Baral](mailto:zotto@t-online.de)
   ---------------------------
 ![](Dothideomycetes/21.jpg) 
 
   ---------------------
-  Scientific Name ::     Stylodothis puccinioides
+  scientific_name ::     Stylodothis puccinioides
   Comments             Multiascus locules
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        Robert Shoemaker
   Sex ::                Teleomorph
-  Copyright ::            © [Robert Shoemaker](mailto:SHOEMAKERB@AGR.GC.CA)
+  copyright ::            © [Robert Shoemaker](mailto:SHOEMAKERB@AGR.GC.CA)
   ---------------------
 
 

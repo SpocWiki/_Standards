@@ -244,16 +244,16 @@ robusta* (Verrill, 1881). Bull. Mar. Sci. 49:137-147.
 ![](Onychoteuthidae/Onychoteuthis.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Onychoteuthis
-  Location ::        off Hawaii
+  scientific_name ::  Onychoteuthis
+  location ::        off Hawaii
   View              side view
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 ![](Onychoteuthidae/OnychoDraw.jpg) 
 
   ------------
-  Scientific Name ::  Onychoteuthis
+  scientific_name ::  Onychoteuthis
   Reference         Drawing from Pfeffer, 1912.
   View              dorsal view
   ------------

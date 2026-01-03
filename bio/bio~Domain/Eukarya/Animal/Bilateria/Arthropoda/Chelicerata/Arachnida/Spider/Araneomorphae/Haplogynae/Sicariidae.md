@@ -45,32 +45,32 @@ and the six eyes, grouped in pairs.\
 
 --------------------------------------------------------------------------------- 
 ![](Sicariidae/loxosceles_laeta_1875.jpg) 
-Scientific Name ::     Loxosceles laeta
-Location ::           ex Instituto Butanan, Sao Paulo, Brazil
-Specimen Condition   Live Specimen
+scientific_name ::     Loxosceles laeta
+location ::           ex Instituto Butanan, Sao Paulo, Brazil
+specimen_condition ::  Live Specimen
 Identified By        Jonathan Coddington
 Sex ::                Female
 Life Cycle Stage ::     adult
-Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 --------------------------------------------------------------------------------- 
 ![](Sicariidae/loxosceles_laeta_1888.jpg) 
-Scientific Name ::     Loxoscleles laeta
-Location ::           ex Instituto Butanan, Sao Paulo, Brazil
-Specimen Condition   Live Specimen
+scientific_name ::     Loxoscleles laeta
+location ::           ex Instituto Butanan, Sao Paulo, Brazil
+specimen_condition ::  Live Specimen
 Identified By        Jonathan Coddington
 Sex ::                Female
 Life Cycle Stage ::     adult
-Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 --------------------------------------------------------------------------------- 
 ![](Sicariidae/loxosceles_laetamm_1898.jpg) 
-Scientific Name ::   Loxosceles laeta
-Location ::         ex Instituto Butanan, Sao Paulo Brazil
+scientific_name ::   Loxosceles laeta
+location ::         ex Instituto Butanan, Sao Paulo Brazil
 Identified By      Jonathan Coddington
 Sex ::              Male
 Life Cycle Stage ::   adult
-Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 
 ## Confidential Links & Embeds: 

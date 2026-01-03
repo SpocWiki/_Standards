@@ -160,14 +160,14 @@ GenBank_assembly_accession_number: GCA_006408695.1
 
 -----------------------------
 ![](Impala/impala.jpg)
-Scientific Name ::                    Aepyceros melampus
-Location ::                          South Africa
+scientific_name ::                    Aepyceros melampus
+location ::                          South Africa
 Acknowledgements                    The copyright owner has released this image under the
 								  [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons                                       license](http://creativecommons.org/licenses/by-nc-nd/2.0/).\
 								  source: [flickr:                                       Impala](http://flickr.com/photos/der_aufzynd/255914488/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2006 [der_aufzynd](http://flickr.com/people/der_aufzynd/)
+copyright ::                           © 2006 [der_aufzynd](http://flickr.com/people/der_aufzynd/)
 
 
 ## Confidential Links & Embeds: 

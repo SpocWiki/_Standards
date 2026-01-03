@@ -52,17 +52,17 @@ title: Haplogynae
 
 ---------------------------------------------------------------------- 
 ![](Haplogynae/Loxosceles_reclusa.jpg) 
-Scientific Name ::  Loxosceles reclusa
+scientific_name ::  Loxosceles reclusa
 Comments          Brown recluse spider
-Copyright ::         © [Jim Kalisch](http://entomology.unl.edu/) 
+copyright ::         © [Jim Kalisch](http://entomology.unl.edu/) 
 
 ----------------------------------------------------------------------------
 ![](Haplogynae/Dysdera_erythrina.jpg)
-Scientific Name ::     Arachnida:Spider:Dysderidae: Dysdera erythrina
-Location ::           "Corno alle Scale" Park, Bologna Province, Emilia Romagna, Italy
-Specimen Condition   Live Specimen
+scientific_name ::     Arachnida:Spider:Dysderidae: Dysdera erythrina
+location ::           "Corno alle Scale" Park, Bologna Province, Emilia Romagna, Italy
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
 ## Confidential Links & Embeds: 

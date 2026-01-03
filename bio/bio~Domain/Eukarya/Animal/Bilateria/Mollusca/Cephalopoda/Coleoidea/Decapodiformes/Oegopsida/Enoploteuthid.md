@@ -149,10 +149,10 @@ families.\" Smithson. Contr. Zool., No. 586: 257-270.
 ![](Enoploteuthid/EnoploFams.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  *Ancistrocheirus lesueurii, Abralia trigonura, Selenoteuthis scintillans, Pyroteuthis addolux*
+  scientific_name ::  *Ancistrocheirus lesueurii, Abralia trigonura, Selenoteuthis scintillans, Pyroteuthis addolux*
   Comments          *Ancistrocheirus lesueurii*, drawing modified from Okutani, 1974. *Selenoteuthis scintillans* photograph by M. Vecchione. *Abralia trigonura* and *Pyroteuthis addolux* photographs by R. Young
   Reference         Ancistrocheirus lesueurii, drawing modified from Okutani, 1974.
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

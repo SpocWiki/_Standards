@@ -155,17 +155,17 @@ Contr. Zool., No. 586:373-384..
 ![](Ommastrephidae/Nototodarus.JPG) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Nototodarus hawaiiensis
-  Location ::        off Hawaii
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  scientific_name ::  Nototodarus hawaiiensis
+  location ::        off Hawaii
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 ![](Ommastrephidae/eucleoteuthis.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::  Eucleoteuthis luminosa
-  Location ::        off Hawaii
-  Copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  scientific_name ::  Eucleoteuthis luminosa
+  location ::        off Hawaii
+  copyright ::         © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
 

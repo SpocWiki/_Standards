@@ -339,27 +339,27 @@ hoc evolutionary scenarios.
 
 --------------------------------------------------------------------------------
 ![An epiphyte Barbella,Hypnales moss hanging on a tree branch from the cloud forest near Xalapa, Veracruz, Mexico](Moss/Barbella,Hypnales.jpg)
-Scientific Name ::     Barbella, Hypnales
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Barbella, Hypnales
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             an epiphyte moss hanging on a tree branch
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 --------------------------------------------------------------------------------
 ![Pogonatum, Polytrichopsida moss growing on soil from the cloud forest near Xalapa, Veracruz, Mexico](Moss/pogonatum.jpg)
-Scientific Name ::     Pogonatum, Polytrichopsida
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Pogonatum, Polytrichopsida
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             a moss growing on soil
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 --------------------------------------------------------------------------------
 ![Pyrrhobryum, Rhizogoniales in cloud forest near Xalapa, Veracruz, Mexico](Moss/pyrrhobryum.jpg)
-Scientific Name ::     Pyrrhobryum, Rhizogoniales
-Location ::           cloud forest near Xalapa, Veracruz, Mexico
+scientific_name ::     Pyrrhobryum, Rhizogoniales
+location ::           cloud forest near Xalapa, Veracruz, Mexico
 Comments             an epiphyte moss
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Efrain De Luna](http://www.ecologia.edu.mx/academicos/deluna.htm) 
 
 
 ## Confidential Links & Embeds: 

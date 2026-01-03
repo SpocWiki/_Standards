@@ -67,26 +67,26 @@ title: Cercopithecidae
 
 ------------------------------------------------------------------------------ 
 ![Vervet monkey](Cercopithecidae/cercopithecus.jpg) 
-Scientific Name ::  Cercopithecus aethiops
-Location ::        Tanzania
+scientific_name ::  Cercopithecus aethiops
+location ::        Tanzania
 Comments          Vervet monkey
-Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
 ![Colobus monkey in yellow fever tree](Cercopithecidae/colobus.jpg) 
-Scientific Name ::  Colobus
-Location ::        Lake Naivasha, Kenya
+scientific_name ::  Colobus
+location ::        Lake Naivasha, Kenya
 Comments          in yellow fever tree
-Copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1999 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
 ![Patas monkey, red guenon](Cercopithecidae/Erythrocebus_patas0050.jpg) 
-Scientific Name ::     Erythrocebus patas
+scientific_name ::     Erythrocebus patas
 Comments             Patas monkey, red guenon
 Creator              H. Vannoy Davis
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

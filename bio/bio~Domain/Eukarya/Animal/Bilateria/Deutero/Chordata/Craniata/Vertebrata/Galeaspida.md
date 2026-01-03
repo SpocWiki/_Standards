@@ -173,7 +173,7 @@ such as Eugaleaspis (bottom left) have a horseshoe-shaped headshield and
 a slit-shaped median dorsal opening, which mimates the aspect of the
 headshield of osteostracans. (Based on Liu 1975 and Pan 1992.)
 ![](Galeaspida/galeaspida.gif) 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

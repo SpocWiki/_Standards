@@ -112,35 +112,35 @@ by the formation of pericentral cells in an alternating fashion.
 
 ---------------------------------------------------------------------------
 ![Chondria dasyphylla](Rhodomelaceae/Chondria_dasyphylla.jpg) 
-Scientific Name ::     Chondria dasyphylla (Woodward) C. Agardh
-Location ::           Onslow Bay, North Carolina 27m depth
-Specimen Condition   Dead Specimen
+scientific_name ::     Chondria dasyphylla (Woodward) C. Agardh
+location ::           Onslow Bay, North Carolina 27m depth
+specimen_condition ::  Dead Specimen
 Identified By        D. Wilson Freshwater
 Behavior             Rather beautiful swaying
 Collection           WNC2004-065
 Collector            D. Wilson Freshwater & Ken Johns
-Copyright ::            © 2006 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+copyright ::            © 2006 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 --------------------------------------------------------------------------
 ![Melanamansia fimbrifolia](Rhodomelaceae/Melanamansia_fimbrifolia.jpg) 
-Scientific Name ::     Melanamansia fimbrifolia R.E. Norris
-Location ::           Grant\'s Reef, Sodwana Bay, KwaZulu-Natal, South Africa 52-55m depth
-Specimen Condition   Dead Specimen
+scientific_name ::     Melanamansia fimbrifolia R.E. Norris
+location ::           Grant\'s Reef, Sodwana Bay, KwaZulu-Natal, South Africa 52-55m depth
+specimen_condition ::  Dead Specimen
 Identified By        D. Wilson Freshwater
 Behavior             Growing on sediment covered deep reef
 Collection           WNC2006-036
 Collector            D. Wilson Freshwater & Kerry Sink
-Copyright ::            © [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+copyright ::            © [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 -------------------------------------------------------------------------
 ![Lenormandiopsis nozawae](Rhodomelaceae/Lenormandiopsis_nozawae.jpg) 
-Scientific Name ::  Lenormandiopsis nozawae R.E. Norris
-Location ::        Grant\'s Reef, Sodwana Bay, KwaZulu-Natal, South Africa 52-55m depth
+scientific_name ::  Lenormandiopsis nozawae R.E. Norris
+location ::        Grant\'s Reef, Sodwana Bay, KwaZulu-Natal, South Africa 52-55m depth
 Identified By     D. Wilson Freshwater
 Behavior          Growing on sediment covered reef.
 Collection        Herbarium specimen WNC2006-031
 Collector         D. Wilson Freshwater & Ken Johns
-Copyright ::         © [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+copyright ::         © [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 
 ## Confidential Links & Embeds: 

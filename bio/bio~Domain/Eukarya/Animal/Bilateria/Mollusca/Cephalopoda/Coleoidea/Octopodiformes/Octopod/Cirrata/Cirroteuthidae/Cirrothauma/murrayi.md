@@ -149,25 +149,25 @@ Neptune City, NJ, 351pp.
 ![](murrayi/Cirrothauma.jpg)
 
   ---------
-  Scientific Name ::  Cirrothauma murrayi
-  Location ::        Antarctic waters
+  scientific_name ::  Cirrothauma murrayi
+  location ::        Antarctic waters
   Creator           E. McSweeny
-  Copyright ::         © 1996 E. McSweeny
+  copyright ::         © 1996 E. McSweeny
   ---------
 ![](murrayi/CirrothaumaMurDraw.jpg) 
 
   ---------------------------------------------
-  Scientific Name ::  Cirrothauma murrayi
-  Location ::        North Atlantic
+  scientific_name ::  Cirrothauma murrayi
+  location ::        North Atlantic
   Reference         Aldred, R. G., M. Nixon and J. Z. Young. 1983. Cirrothauma murrayi Chun, a finned octopod. Phil. Trans. Roy. Soc. Lond., 301: 1-54.
   Sex ::             Male
   Size              155 mm ML
-  Copyright ::         © 1983 R.G. Aldred et al.
+  copyright ::         © 1983 R.G. Aldred et al.
   ---------------------------------------------
 ![](murrayi/CirrothaumaMurDraw2.jpg) 
 
   ---------------------------------------------------
-  Scientific Name ::  Cirrothauma murrayi
+  scientific_name ::  Cirrothauma murrayi
   Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18: 1-522 + Atlas.
   Size              37 mm ML
   ---------------------------------------------------

@@ -127,7 +127,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 ![](glaukopis/MastGlaukop.jpg) 
 
   ------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis glaukopis
+  scientific_name ::  Mastigoteuthis glaukopis
   Comments          Side (top) and ventral views.
   Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899, 18(1):1-401.
   View              Dorsal and ventral
@@ -137,12 +137,12 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 ![](glaukopis/MGlaukopHolo798.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Mastigoteuthis glaukopis
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Mastigoteuthis glaukopis
+  specimen_condition ::  Dead Specimen
   View                 Ventral
   Size                 37 mm ML
   Type                 Holotype
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

@@ -185,24 +185,24 @@ of the trematodes, has not been resolved (see discussion in Rohde 2001).
 
 --------------------------------------------------------------------------- 
 ![Micrograph of Rugogaster hyrdolagi](Aspidogastrea/Rugogaster_hyrdolagi.gif) 
-Scientific Name ::     Rugogaster hyrdolagi
+scientific_name ::     Rugogaster hyrdolagi
 Creator              Shirley Dawson
-Specimen Condition   Dead Specimen
-Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
+specimen_condition ::  Dead Specimen
+copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 ---------------------------------------------------------------------------
 ![Micrographs of Multicalyx](Aspidogastrea/Multicalyx.gif) 
-Scientific Name ::     Multicalyx
+scientific_name ::     Multicalyx
 Creator              Shirley Dawson
-Specimen Condition   Dead Specimen
-Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
+specimen_condition ::  Dead Specimen
+copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 ---------------------------------------------------------------------------
 ![Micrograph of Multicalyx](Aspidogastrea/Multicalyx_elegans.gif) 
-Scientific Name ::     Multicalyx elegans (top), Multicalyx sp. (bottom))
+scientific_name ::     Multicalyx elegans (top), Multicalyx sp. (bottom))
 Creator              Shirley Dawson
-Specimen Condition   Dead Specimen
-Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
+specimen_condition ::  Dead Specimen
+copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 
 ## Confidential Links & Embeds: 

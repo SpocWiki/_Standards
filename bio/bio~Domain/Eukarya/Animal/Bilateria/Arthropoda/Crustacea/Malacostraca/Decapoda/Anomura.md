@@ -45,22 +45,22 @@ title: Anomura
 
 -----------------------------
 ![](Anomura/Porcellanidae.jpg)
-Scientific Name ::                    Porcellanidae
-Location ::                          Sipadan, Malaysia
+scientific_name ::                    Porcellanidae
+location ::                          Sipadan, Malaysia
 Acknowledgements                    The copyright owner has released this image under the
 								  [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons                                       license](http://creativecommons.org/licenses/by-nc-nd/2.0/).\
 								  source: [flickr: Cangrejo de                                       Porcelana](http://flickr.com/photos/festeban/9201191/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2004 [Felix Esteban](http://flickr.com/people/festeban/)
+copyright ::                           © 2004 [Felix Esteban](http://flickr.com/people/festeban/)
 
 -----------------------------------------------------------------------------
 ![](Anomura/hermit_crab.jpg)
-Scientific Name ::     Petrochirus diogenes
-Location ::           from Gulf of Mexico, captive at Texas State Aquarium
+scientific_name ::     Petrochirus diogenes
+location ::           from Gulf of Mexico, captive at Texas State Aquarium
 Comments             giant red hermit crab
-Specimen Condition   Live Specimen
-Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

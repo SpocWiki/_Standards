@@ -48,37 +48,37 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 ![](Mysmenidae/mysmenaclosed.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Mysmena sp.
-  Location ::           Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Mysmena sp.
+  location ::           Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Note completely 3D web with spherical symmetry and sticky spirals arranged on circumference
   Sex ::                Female
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Mysmenidae/mysmenaopen.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Mysmena sp.
-  Location ::           Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Mysmena sp.
+  location ::           Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             The outer envelope of sticky spirals has been torn to reveal spherical symmetry of radii
   Sex ::                Female
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Mysmenidae/maymena.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Maymena sp.
-  Location ::           Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Maymena sp.
+  location ::           Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Note pendant, out of plane sticky lines, that not all radii reach the hub, and eggsacs grouped at hu
   Sex ::                Female
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

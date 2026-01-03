@@ -49,13 +49,13 @@ Neelidae
 
 ---------------------------------------
 ![](Neelipleona/Megalothorax_minimus_dorsal.jpg)
-Scientific Name ::  Megalothorax minimus
+scientific_name ::  Megalothorax minimus
 Reference         Drawing from C. Börner. 1906. Collembola. Symphypleona. Fam. Neelidae. Genera Insectorum de P. Wytsman 45:1-5.
 View              dorsal
 
 ---------------------------------------
 ![](Neelipleona/Megalothorax_minimus_lateral.jpg)
-Scientific Name ::  Megalothorax minimus
+scientific_name ::  Megalothorax minimus
 Reference         Drawing from C. Börner. 1906. Collembola. Symphypleona. Fam. Neelidae. Genera Insectorum de P. Wytsman 45:1-5.
 View              lateral
 

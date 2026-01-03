@@ -33,13 +33,13 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 ![](Helicobasidium_mompa/hm.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium mompa Tanaka on the roots of Picea abies (L.) Karst.
-  Location ::           Infection experiment, Botanical Institute, Universität Tübingen, Germany
-  Specimen Condition   Live Specimen
+  scientific_name ::     Helicobasidium mompa Tanaka on the roots of Picea abies (L.) Karst.
+  location ::           Infection experiment, Botanical Institute, Universität Tübingen, Germany
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2002
-  Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 

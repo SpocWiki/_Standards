@@ -99,28 +99,28 @@ al*. 2000).
 
 ---------------------------------------------------------------------- 
 ![](Polygonales/Polygonum_bistorta01001.jpg) 
-Scientific Name ::  Polygonum bistorta
-Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
+scientific_name ::  Polygonum bistorta
+copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------ 
 ![](Polygonales/Drosera_intermedia-1241028.jpg) 
-Scientific Name ::     Drosera intermedia
-Location ::           coastal Mississippi, USA
+scientific_name ::     Drosera intermedia
+location ::           coastal Mississippi, USA
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241028)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © James Henderson, Gulf South Research Corporation
+copyright ::            © James Henderson, Gulf South Research Corporation
 
 ------------------------------------------------------------------------- 
 ![](Polygonales/cld06073142.jpg) 
-Scientific Name ::     Nepenthes rajah
-Location ::           Sabah, Malaysia
-Specimen Condition   Live Specimen
+scientific_name ::     Nepenthes rajah
+location ::           Sabah, Malaysia
+specimen_condition ::  Live Specimen
 Identified By        Ch\'ien Lee
 Life Cycle Stage ::     Mature plant
 Body Part            Lower pitcher
 Size                 c\. 20 cm long
-Copyright ::            © 2006 [Chien Lee](http://www.wildborneo.com.my/) 
+copyright ::            © 2006 [Chien Lee](http://www.wildborneo.com.my/) 
 
 
 ## Confidential Links & Embeds: 

@@ -95,10 +95,10 @@ et al. 1990 using DNA restriction fragments and by Gernandt and Liston
 
 -------------------------------------------------------------------------------------------
 ![Pseudotsuga_Hidalgo](Pseudotsuga/PseudotsugaHidalgo.jpg)
-Scientific Name ::     Pseudotsuga menziesii var. glauca
-Location ::           El Chico, Hidalgo
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
+scientific_name ::     Pseudotsuga menziesii var. glauca
+location ::           El Chico, Hidalgo
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
 ## Confidential Links & Embeds: 

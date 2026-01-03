@@ -115,11 +115,11 @@ following characters:
 
 ------------------------------------------------------------------------
 ![Pterotrachea coronata](PterotracheaAjpg)
-Scientific Name ::     Pterotrachea coronata
-Location ::           Hawaiian Islands
-Specimen Condition   Live Specimen
+scientific_name ::     Pterotrachea coronata
+location ::           Hawaiian Islands
+specimen_condition ::  Live Specimen
 View                 left side
-Copyright ::            © [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
+copyright ::            © [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
 ## Confidential Links & Embeds: 

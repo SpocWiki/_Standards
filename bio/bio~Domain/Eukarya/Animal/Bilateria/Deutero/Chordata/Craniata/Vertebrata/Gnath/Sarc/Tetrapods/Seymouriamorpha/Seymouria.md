@@ -155,12 +155,12 @@ of the Museum of Comparative Zoology 85: 325-409.
 ![](Seymouria/Seymouria.gif) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::  Seymouria baylorensis
-  Location ::        Texas
+  scientific_name ::  Seymouria baylorensis
+  location ::        Texas
   Comments          Cranial reconstruction in dorsal (A), palatal (B), left lateral (C), and occipital (D) views. S. baylorensis is represented by several specimens from Texas.
   Reference         Modified from Laurin M. 1996. A redescription of the cranial anatomy of Seymouria baylorensis, the best known seymouriamorph (Vertebrata: Seymouriamorpha). PaleoBios 17:1-16.
   View              dorsal, palatal, left palatal, occipital
-  Copyright ::         © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
+  copyright ::         © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
   ---------------------------------------------------------------------------------
 

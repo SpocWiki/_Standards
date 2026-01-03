@@ -146,17 +146,17 @@ of its descendants. Taxa considered to be fossil \"pipids\"
 
 --------------------------------------------------------------------------
 ![](Pipid/Pipa-Eggs.jpg)
-Scientific Name ::     Pipa pipa
+scientific_name ::     Pipa pipa
 Comments             with newly laid eggs partially embedded in the back
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Female
 View                 head-on
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 --------------------------------------------------------------------------
 ![Pipa](Pipid/Pipa.jpg)
-Scientific Name ::  Pipa pipa
-Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::  Pipa pipa
+copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

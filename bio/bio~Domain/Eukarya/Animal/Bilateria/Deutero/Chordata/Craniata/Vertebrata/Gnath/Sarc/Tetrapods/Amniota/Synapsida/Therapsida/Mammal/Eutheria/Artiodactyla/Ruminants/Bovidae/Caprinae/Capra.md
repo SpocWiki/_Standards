@@ -131,10 +131,10 @@ and Evolution 40(3):739-749.
 ![](Capra/Goat/Goat.jpg) 
 
   ---------------------------
-  Scientific Name ::     Capra hircus
+  scientific_name ::     Capra hircus
   Creator              Photograph by Scott Bauer
   Acknowledgements     courtesy [USDA Agricultural Research Service](http://www.ars.usda.gov/)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   ---------------------------
 
 

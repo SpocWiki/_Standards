@@ -108,22 +108,22 @@ NBN_System_Key: NHMSYS0000376679
 
 ------------------------------
 ![](Gazella_granti1428052.jpg)
-Scientific Name ::     Gazella granti
-Location ::           Ngorongoro Crater, Tanzania
+scientific_name ::     Gazella granti
+location ::           Ngorongoro Crater, Tanzania
 Comments             Grant\'s gazelle
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1428052)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © William M. Ciesla, Forest Health Management International
+copyright ::            © William M. Ciesla, Forest Health Management International
 
 ------------------------------
 ![Gazella_thomsonii](Gazelle/ThomGazelle.jpg)
-Scientific Name ::     Gazella thomsonii
-Location ::           at Mount Kenya, Kenya
+scientific_name ::     Gazella thomsonii
+location ::           at Mount Kenya, Kenya
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#4320041)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Kenneth M. Gale
+copyright ::            © Kenneth M. Gale
 
 
 ## Confidential Links & Embeds: 

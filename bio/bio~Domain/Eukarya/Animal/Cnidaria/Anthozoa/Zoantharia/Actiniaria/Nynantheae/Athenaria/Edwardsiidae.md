@@ -87,7 +87,7 @@ Lab, University of California is gratefully acknowledged.
 ![](Edwardsiidae/edwardsiidae.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

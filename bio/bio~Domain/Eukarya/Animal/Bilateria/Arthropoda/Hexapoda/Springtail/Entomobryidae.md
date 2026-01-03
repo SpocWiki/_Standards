@@ -40,15 +40,15 @@ title: Entomobryidae
 
 ------------------------------------------------------------------------
 ![Entomobrya nicoleti](Entomobryidae/Entomobrya_nicoleti.jpg) 
-Scientific Name ::     Entomobrya nicoleti
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Entomobrya nicoleti
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ------------------------------------------------------------------------
 ![Orchesella alticola](Entomobryidae/Orchesella_alticola.jpg)
-Scientific Name ::     Orchesella alticola
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Orchesella alticola
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
 ## Confidential Links & Embeds: 

@@ -136,13 +136,13 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Alloteuthis/AlloteuMedia.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Alloteuthis media
-  Location ::           Gulf of Tunis, Mediterranear Sea
-  Specimen Condition   Preserved
+  scientific_name ::     Alloteuthis media
+  location ::           Gulf of Tunis, Mediterranear Sea
+  specimen_condition ::  Preserved
   Sex ::                Female
   View                 Ventral
   Size                 62 mm ML
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

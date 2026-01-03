@@ -359,25 +359,25 @@ Trans. Connecticut Acad. Sciences, 5: 23: 177-257.
 ![](Architeuthidae/Architeuthis.JPG) 
 
   -----------------------
-  Scientific Name ::  Architeuthis
-  Location ::        New Zealand
+  scientific_name ::  Architeuthis
+  location ::        New Zealand
   Comments          Steve O\'Shea holding the tentacle of an **Architeuthis** sp.
-  Copyright ::         © 1996 Martin Hunter, New Zealand Herald
+  copyright ::         © 1996 Martin Hunter, New Zealand Herald
   -----------------------
 ![](Architeuthidae/Archite1.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Architeuthis
-  Location ::        off south Australia
+  scientific_name ::  Architeuthis
+  location ::        off south Australia
   Sex ::             Female
   Size              12m long (total length)
-  Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+  copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   --------------------------------------------------------------------------
 ![](Architeuthidae/ArchiteuthisDraw1.jpg) 
 
   ------------------------------------------------------------------------------------
-  Scientific Name ::  Architeuthis \"princeps\"
+  scientific_name ::  Architeuthis \"princeps\"
   Comments          Modified from Verrill, 1879.
   Reference         Verrill, A. E. 1879. The cephalopods of the north-eastern coast of America. Part I. The gigantic squids (Architeuthis) and their allies; with observations on similar large species from foreign localities. Trans. Connecticut Acad. Sciences 5:23:177-257.
   ------------------------------------------------------------------------------------

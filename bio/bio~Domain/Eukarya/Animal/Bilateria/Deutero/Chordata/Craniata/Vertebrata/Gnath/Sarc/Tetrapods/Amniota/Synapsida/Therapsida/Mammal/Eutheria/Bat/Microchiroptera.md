@@ -288,13 +288,13 @@ Pteronotus parnellii (Noctilionoidea) and Uroderma bilobatum(Noctilionoidea)
 
 ---------- 
 ![](Microchiroptera/pteronotus_parnellii.gif) 
-Scientific Name ::  Pteronotus parnellii
-Copyright ::         © 1997 Nancy Simmons
+scientific_name ::  Pteronotus parnellii
+copyright ::         © 1997 Nancy Simmons
 
 ---------- 
 ![](Microchiroptera/uroderma1.gif) 
-Scientific Name ::  Uroderma bilobatum
-Copyright ::         © 1997 Nancy Simmons
+scientific_name ::  Uroderma bilobatum
+copyright ::         © 1997 Nancy Simmons
 
 
 ## Confidential Links & Embeds: 

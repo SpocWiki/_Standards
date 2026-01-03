@@ -45,36 +45,36 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](quartus/dsc_0023.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus quartis
-  Location ::           Picun Luefu, hills near reservoir, Neuquen Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus quartis
+  location ::           Picun Luefu, hills near reservoir, Neuquen Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](quartus/dsc_0006.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus quartis
-  Location ::           Paso de las Carretas, San Luis Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus quartis
+  location ::           Paso de las Carretas, San Luis Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](quartus/dsc_0014.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus quartis
-  Location ::           Picun Luefu, Neuquen Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus quartis
+  location ::           Picun Luefu, Neuquen Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Life Cycle Stage ::     Egg case
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

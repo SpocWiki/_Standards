@@ -115,10 +115,10 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci., 47:
 ![](Cirroteuthidae/Cirro2.JPG) 
 
   -----------------------
-  Scientific Name ::     Cirroteuthis magna
-  Location ::           off Hawaii
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 Alex Malahoff, Hawaii Undersea Research Laboratory
+  scientific_name ::     Cirroteuthis magna
+  location ::           off Hawaii
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 Alex Malahoff, Hawaii Undersea Research Laboratory
   -----------------------
 
 

@@ -87,32 +87,32 @@ morphologically diverse lineage.
 
 --------------------------------------------------- 
 ![](Ruellieae/Eremomastaxpolysperma.jpg) 
-Scientific Name ::     Eremomastax polysperma (Benth.) Dandy
-Location ::           Jardin Botanique de Lyon
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Gaïa du Rivau](http://www.jardin-botanique-lyon.com/jbot/sections/fr/les_plantes_du_jardi/le_coin_des_artistes/zoom/photos_de_gaia_du_ri/)
+scientific_name ::     Eremomastax polysperma (Benth.) Dandy
+location ::           Jardin Botanique de Lyon
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Gaïa du Rivau](http://www.jardin-botanique-lyon.com/jbot/sections/fr/les_plantes_du_jardi/le_coin_des_artistes/zoom/photos_de_gaia_du_ri/)
 
 -----------
 ![](Ruellieae/Ruellia/ruel.jpg)
-Scientific Name ::     Ruellia inflata
-Location ::           Bolivia
-Specimen Condition   Live Specimen
-Copyright ::            © 2002 John L. Clark
+scientific_name ::     Ruellia inflata
+location ::           Bolivia
+specimen_condition ::  Live Specimen
+copyright ::            © 2002 John L. Clark
 
 ----------------------------------------------------------------------- 
 ![Blechum_pyramidatum](Ruellieae/Blechum_pyramidatum.jpg) 
-Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
-Location ::           Tabasco, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Blechum pyramidatum (Lam.) Urb.
+location ::           Tabasco, Mexico
+specimen_condition ::  Live Specimen
 Collector            E. Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 -----------------------------------------------------------------------
 ![](Ruellieae/Bravaisia/Bravasia_integerrima.jpg)
-Scientific Name ::     Bravaisia integerrima Standl.
-Location ::           La Selva, Costa Rica
-Specimen Condition   Live Specimen
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+scientific_name ::     Bravaisia integerrima Standl.
+location ::           La Selva, Costa Rica
+specimen_condition ::  Live Specimen
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

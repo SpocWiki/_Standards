@@ -129,22 +129,22 @@ Snails, clams, mussels, squids, octopi, chitons, and tusk shells
 
 -------------------------------------------------------------------------------- 
 ![](Mollusca/lunatia.gif) 
-Scientific Name ::   Lunatia
+scientific_name ::   Lunatia
 Acknowledgements   Gray Museum Slide Collection
-Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 ------------------------------------------------------------------------------ 
 ![](Mollusca/scallop.gif) 
-Scientific Name ::   Placopecten magellanicus (top), Polyplacophora (bottom)
+scientific_name ::   Placopecten magellanicus (top), Polyplacophora (bottom)
 Acknowledgements   Gray Museum Slide Collection
-Copyright ::          © [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 -------------------------------------------------------------------------------- 
 ![ Loligo pealei](Mollusca/loligo.gif) 
-Scientific Name ::   Loligo pealei
+scientific_name ::   Loligo pealei
 Creator            Photograph by David Remsen
 Acknowledgements   Gray Museum Slide Collection
-Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 

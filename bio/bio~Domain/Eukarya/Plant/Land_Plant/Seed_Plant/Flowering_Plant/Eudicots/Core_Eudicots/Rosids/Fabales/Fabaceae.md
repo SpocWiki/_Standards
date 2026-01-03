@@ -465,22 +465,22 @@ making them a recommended food for diabetics (Gepts et al., 2005).
 
 ---------------------- 
 ![Bauhinia_blakeana](Fabaceae/Bauhinia_blakeana.jpg) 
-Scientific Name ::  Bauhinia x blakeana Dunn
+scientific_name ::  Bauhinia x blakeana Dunn
 Body Part         flower
-Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr/)
+copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr/)
 
 ------------------------ 
 ![Lablab_purpureus](Fabaceae/Lablab_purpureus.jpg) 
-Scientific Name ::     Lablab purpureus Sweet
-Location ::           Bronx Co. Home Gardening Center, New York Botanical, New York
+scientific_name ::     Lablab purpureus Sweet
+location ::           Bronx Co. Home Gardening Center, New York Botanical, New York
 Comments             Subf. Papilionoideae
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Dennis Stevenson](http://www.plantsystematics.org/)
 
 -------------------------- 
 ![Prosopis pallida](Fabaceae/Prosopis_pallida.jpg) 
-Scientific Name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
-Copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
+scientific_name ::  Prosopis pallida (Humb. & Bonpl. ex Willd.) Kunth
+copyright ::         © [G. D. Carr](http://www.botany.hawaii.edu/faculty/carr)
 
 
 ## Confidential Links & Embeds: 

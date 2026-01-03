@@ -99,11 +99,11 @@ Vertebrate Paleontology 16 (4): 653-665.
 ![](Ariekanerpeton_sigalovi/Ariekanerpeton.gif) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Ariekanerpeton sigalovi
-  Location ::           Tadzhikistan
+  scientific_name ::     Ariekanerpeton sigalovi
+  location ::           Tadzhikistan
   Comments             Skeleton of a small postmetamorphic specimen
-  Specimen Condition   Fossil
-  Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
+  specimen_condition ::  Fossil
+  copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
   ---------------------------------------------------------------------------------
 

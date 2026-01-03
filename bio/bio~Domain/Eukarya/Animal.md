@@ -239,31 +239,31 @@ of animals and their sibling groups within the broader context of eukaryotic div
 
 ----------------------------------------------------------------------------------------
 ![A colorful grasshopper, Dactylotum variegatum](Animal/grasshopper.gif)
-  Scientific Name ::  Dactylotum variegatum 
-  Location ::        Arizona
+  scientific_name ::  Dactylotum variegatum 
+  location ::        Arizona
   Comments          A colorful grasshopper (Bilateria)
-  Copyright ::         © 1995 [Joseph L. Spencer](http://www.inhs.uiuc.edu/staff/index.php?action=list&user_name=spencer1) 
+  copyright ::         © 1995 [Joseph L. Spencer](http://www.inhs.uiuc.edu/staff/index.php?action=list&user_name=spencer1) 
 
 ----------------------------------------------------------------------------------------
 ![A comb jelly (Ctenophora) from the Texas State Aquarium](Animal/1618ctenophore.jpg)
-  Scientific Name ::  Ctenophora
+  scientific_name ::  Ctenophora
   Comments          A comb jelly from the Texas State Aquarium
-  Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ----------------------------------------------------------------------------
 ![A sponge, Haliclona](Animal/haliclona.jpg)
-  Scientific Name ::  Haliclona
+  scientific_name ::  Haliclona
   Comments          A sponge (Porifera)
   Creator           Photograph by David Remsen
-  Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+  copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 -------------------------------------------------------------------------------
 ![A sea anemone, Haliplanella luciae](Animal/haliplanella.gif)
-  Scientific Name ::     Haliplanella luciae
+  scientific_name ::     Haliplanella luciae
   Comments             A sea anemone (Cnidaria)
   Acknowledgements     Photograph from Gray Museum Slide Collection
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 

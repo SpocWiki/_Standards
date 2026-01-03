@@ -79,30 +79,30 @@ the genus.
 
 --------------------------------------------------------------------------- 
 ![Crossandrella](Crossandrella/Crossandrella.jpg) 
-Scientific Name ::     Crossandrella dusenii (Lindau) S. Moore
-Location ::           Uganda
+scientific_name ::     Crossandrella dusenii (Lindau) S. Moore
+location ::           Uganda
 Reference            KEW (K)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           \(K\)
 Collector            Poulsen et al. 912
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
 ![Crossandrella dusenii](Crossandrella/Crossandrella_dusenii.jpg) 
-Scientific Name ::     Crossandrella dusenii (Lindau) S. Moore
-Location ::           Uganda
-Specimen Condition   Dead Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Crossandrella dusenii (Lindau) S. Moore
+location ::           Uganda
+specimen_condition ::  Dead Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![Crossandrella dusenii](Crossandrella/Crosndrla.jpg)) 
-Scientific Name ::     Crossandrella dusenii (Lindau) S. Moore
-Location ::           Republic of Cameroon
+scientific_name ::     Crossandrella dusenii (Lindau) S. Moore
+location ::           Republic of Cameroon
 Reference            KEW
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           KEW
 Collector            Letzy 8179
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

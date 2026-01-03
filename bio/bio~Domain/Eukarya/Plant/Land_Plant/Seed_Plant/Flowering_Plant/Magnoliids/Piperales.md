@@ -69,7 +69,7 @@ taxon_common_name:
 
 ------------------------------------- 
 ![Birthwort, Aristolochia clematitis ](Piperales/Aristolochia_clematitis.jpg) 
-Scientific Name ::    Aristolochia clematitis
+scientific_name ::    Aristolochia clematitis
 Comments            Birthwort, Aristolochiaceae
 Reference           Gotthilf Heinrich von Schubert\'s Naturgeschichte des Pflanzenreichs nach dem Linné\'schen System (1887)
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)
@@ -77,7 +77,7 @@ Source Collection   [BioLib Online Library of Biological Books](http://www.bioli
 
 -------------------------------------
 ![Black pepper, Piper nigrum](Piperales/Piperaceae/Black_Pepper/Piper_nigrum,Black_Pepper.jpg)
-Scientific Name ::    Piper nigrum
+scientific_name ::    Piper nigrum
 Comments            Black pepper, Piperaceae
 Reference           Gotthilf Heinrich von Schubert\'s Naturgeschichte des Pflanzenreichs nach dem Linné\'schen System (1887)
 Source Collection   [BioLib Online Library of Biological Books](http://www.biolib.de/)

@@ -53,29 +53,29 @@ title: Crossosomatales
 
 ------------------------------------------------------------------------------ 
 ![California rockflower, Crossosoma californicum](Crossosomatales/Crossosoma_californicum.jpg) 
-Scientific Name ::     Crossosoma californicum
-Location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
+scientific_name ::     Crossosoma californicum
+location ::           Forrestal Quarry, Rancho Palos Verdes, \~560\' elev. (Los Angeles County, California, USA)
 Comments             California rockflower (Crossosomataceae)
 Creator              Photograph by Angelika Brinkman-Busi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
+copyright ::            © 1990 [California Native Plant Society](mailto:dtibor@CNPS.org) 
 
 --------------------------------------------------------------------- 
 ![Stachyurus chinensis](Crossosomatales/Stachyurus_chinensis.jpg) 
-Scientific Name ::  Stachyurus chinensis
+scientific_name ::  Stachyurus chinensis
 Comments          Stachyuraceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 --------------------------------------------------------------------------------- 
 ![Bladdernut, Staphylea bolanderi ](Crossosomatales/Staphylea_bolanderi.jpg) 
-Scientific Name ::     Staphylea bolanderi
-Location ::           California, USA
+scientific_name ::     Staphylea bolanderi
+location ::           California, USA
 Comments             Bladdernut (Staphyleaceae)
 Creator              Photograph by Brother Alfred Brousseau
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
+copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
 
 
 ## Confidential Links & Embeds: 

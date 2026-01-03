@@ -201,11 +201,11 @@ grouping is somewhat tentative.
 
 -------------- 
 ![](Cryptobranchidae/cryptobranchus.jpg) 
-Scientific Name ::     Cryptobranchus alleghaniensis
-Location ::           Missouri
+scientific_name ::     Cryptobranchus alleghaniensis
+location ::           Missouri
 Comments             The hellbender
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 Dr. Eric J. Routman
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 Dr. Eric J. Routman
 
 
 ## Confidential Links & Embeds: 

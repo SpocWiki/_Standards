@@ -212,28 +212,28 @@ a representative of Winteraceae.
 
 ---------------------
 ![asimina](Magnoliids/asimina.jpg)
-Scientific Name ::     Asimina
-Specimen Condition   Live Specimen
+scientific_name ::     Asimina
+specimen_condition ::  Live Specimen
 Identified By        Sangtae Kim
-Copyright ::            © 2005 [Sangtae Kim](mailto:sangtae@botany.ufl.edu)
+copyright ::            © 2005 [Sangtae Kim](mailto:sangtae@botany.ufl.edu)
 
 ---------------------
 [Aristolochia trilobata](Magnoliids/Aristolochia_trilobata_Blanco.jpg) 
-Scientific Name ::     Aristolochia trilobata
-Specimen Condition   Live Specimen
+scientific_name ::     Aristolochia trilobata
+specimen_condition ::  Live Specimen
 Identified By        Mario Blanco
 Body Part            Flower
 View                 profile
-Copyright ::            © 2005 [Mario Blanco](mailto:mblanco@fllmnh.ufl.edu)
+copyright ::            © 2005 [Mario Blanco](mailto:mblanco@fllmnh.ufl.edu)
 
 -----------------------------
 ![Tasmannia stipitata](Magnoliids/Tasmannia_stipitata.jpg) 
-Scientific Name ::     Tasmannia stipitata
-Specimen Condition   Live Specimen
+scientific_name ::     Tasmannia stipitata
+specimen_condition ::  Live Specimen
 Identified By        Matyas Buzgo
 Sex ::                Female
 Body Part            Flowers
-Copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mbuzgo/MyPage/mbuzgo.htm)
+copyright ::            © 2005 [Matyas Buzgo](ftp://ftp.flmnh.ufl.edu/Public/mbuzgo/MyPage/mbuzgo.htm)
 
 
 ## Confidential Links & Embeds: 

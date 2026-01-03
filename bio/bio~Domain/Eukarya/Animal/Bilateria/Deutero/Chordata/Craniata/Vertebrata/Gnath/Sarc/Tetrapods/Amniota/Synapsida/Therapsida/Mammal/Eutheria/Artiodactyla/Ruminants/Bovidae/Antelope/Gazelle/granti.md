@@ -57,14 +57,14 @@ title: Gazella granti
 
 -----------------------------
 ![](215861752_a7cb39d98d_b.jpg)
-Scientific Name ::                    Gazella granti
-Location ::                          Serengeti National Park, Tanzania
+scientific_name ::                    Gazella granti
+location ::                          Serengeti National Park, Tanzania
 Acknowledgements                    The copyright owner has released this image under the
 								  [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-nd/2.0/).\
 								  source: [flickr: Grant\'s Gazelle\... Serengeti National                                       Park](http://flickr.com/photos/kumasawa/215861752/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2006 [Darren Kumasawa](http://flickr.com/people/kumasawa/)
+copyright ::                           © 2006 [Darren Kumasawa](http://flickr.com/people/kumasawa/)
 
 
 ## Confidential Links & Embeds: 

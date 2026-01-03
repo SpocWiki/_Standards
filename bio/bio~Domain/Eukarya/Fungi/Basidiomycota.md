@@ -422,7 +422,7 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 ![Spore producing structures of the cedar-apple rust fungus on an apple leaf](Basidiomycota/Gymnosporangium.jpg) 
 
   -----------------------------
-  Scientific Name ::                    Gymnosporangium juniperi-virginianae
+  scientific_name ::                    Gymnosporangium juniperi-virginianae
 
   Comments                            Spore producing structures of the cedar-apple rust fungus
                                       (Pucciniomycotina) on an apple leaf.\
@@ -432,24 +432,24 @@ rubinellus II. Late spore development. Mycologia 78: 185-197.
 
   Body Part                           Spore producing structures (Spermogonia-left, and aecia-right)
 
-  Copyright ::                           © APS Press
+  copyright ::                           © APS Press
   -----------------------------
 ![Teliospores of Tilletia controversa, the dwarf bunt fungus](Basidiomycota/Tilletia_controversa.jpg) 
 
   -----------------------------------------
-  Scientific Name ::   Tilletia controversa
+  scientific_name ::   Tilletia controversa
   Comments           Teliospores of the dwarf bunt fungus (Ustilaginomycotina)
   Acknowledgements   Photo courtesy B. Goates, from [APSnet Image of the Week](http://www.apsnet.org/online/archive/1998/barley81.htm)
   Life Cycle Stage ::   teliospores
-  Copyright ::          © APS Press
+  copyright ::          © APS Press
   -----------------------------------------
 ![Fruiting structures of the mushroom Amanita rubrovaginata](Basidiomycota/Amanita_rubrovaginata.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Amanita rubrovaginata
+  scientific_name ::  Amanita rubrovaginata
   Comments          Fruiting structures of the mushroom Amanita rubrovaginata (Agaricomycotina)
   Body Part         Fruiting structures
-  Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+  copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
   -----------------------------------------------------------------------------
 

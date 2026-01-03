@@ -142,11 +142,11 @@ of the sphenethmoid.
 ------------------------------------------------------------------------ 
 ![](Rhacophoridae/rhacophorus.jpg) 
 1\. Polypedates sp.; Thailand; photo © 1995 David Cannatella\
-Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 ------------------------------------------------------------------------ 
 ![](Rhacophoridae/buergeria.jpg))2. Buergeria japanicus, Taiwan; photo © 1995 David Cannatella
-Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

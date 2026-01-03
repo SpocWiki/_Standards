@@ -204,17 +204,17 @@ including relationships among members of the *D. ochrophaeus* complex
 
 ------------------------
 ![](Desmognathus/Desmognathus_fuscus.jpg)
-Scientific Name ::     Desmognathus fuscus
-Location ::           New York
+scientific_name ::     Desmognathus fuscus
+location ::           New York
 Comments             with eggs
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
 
 -----------------------
 ![](Desmognathus/Phaeognathus_hubrichti.jpg)
-Scientific Name ::  Phaeognathus hubrichti
-Location ::        Alabama
-Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
+scientific_name ::  Phaeognathus hubrichti
+location ::        Alabama
+copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
 
 
 ## Confidential Links & Embeds: 

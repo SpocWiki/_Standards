@@ -200,22 +200,22 @@ Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_birds,6210059]]"
 
 ---------------------------
 ![[Bird/fossil_Hesperornis-Reconstruction.jpg]]
-Scientific Name ::  Hesperornis
+scientific_name ::  Hesperornis
 Comments          Reconstruction of the fossil Hesperornis
 Reference         From Heilmann, G. 1926. The Origin of Birds. H. F. & G. Witherby, London.
 
 ---------------------------
 ![[Bird/Tropicbird,Phaethon.jpg]]
-Scientific Name ::     Phaethon
+scientific_name ::     Phaethon
 Comments             Tropicbird
 Creator              Dale Coggshall
 Acknowledgements     Courtesy of U.S. Fish and Wildlife Service.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Behavior             flying
 
 ---------------------------
 ![[Bird/Archaeopteryx.jpg]] 
-  Scientific Name ::  Archaeopteryx
+  scientific_name ::  Archaeopteryx
   Comments          Reconstruction of the fossil Archaeopteryx
   Reference         From Heilmann, G. 1926. The Origin of Birds. H. F. & G. Witherby, London.
   Sex ::             Male and Female

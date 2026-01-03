@@ -135,19 +135,19 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 ![](magna/CirrothaumaMagna.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::   Cirrothauma magna
+  scientific_name ::   Cirrothauma magna
   Reference          Guerra, R., R. Villanueva, K. N. Nesis and J. Bedoya. 1998. Redescription of the deep-sea cirrate octopod Cirroteuthis magna Hoyle, 1885, and considerations on the genus Cirroteuthis (Mollusca: Cephalopoda). Bull. Mar. Sci., 63: 51-81.
   Acknowledgements   Printed with permission from the Bulletin of Marine Science.
   Sex ::              Male
   Life Cycle Stage ::   Mature
   View               Ventral (top) and dorsal (bottom)
   Size               220 mm ML
-  Copyright ::          © 1998 Bulletin of Marine Science
+  copyright ::          © 1998 Bulletin of Marine Science
   -------------------------------------------------------------------------------
 ![](magna/CirrothaumaMagnaType.jpg) 
 
   --------------------------------
-  Scientific Name ::  Cirrothauma magna
+  scientific_name ::  Cirrothauma magna
   Reference         Hoyle, W. E. 1886. Report on the Cephalopoda. Rept. Sci. Res. Challenger. 16 (44): 246 pp.
   View              Side
   Type              Holotype

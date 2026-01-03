@@ -76,26 +76,26 @@ title: eudicots
 
 ---------------------------------------------------------------------
 ![Banksia serrata](Eudicots/Banksia_serrata.jpg) 
-Scientific Name ::  Banksia serrata
+scientific_name ::  Banksia serrata
 Comments          Proteales, Proteaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ---------------------
 ![Dendromecon rigida, Tree Poppy](Eudicots/Dendromecon_rigida.jpg)
-Scientific Name ::     Dendromecon rigida
-Location ::           Placer County, California, US
+scientific_name ::     Dendromecon rigida
+location ::           Placer County, California, US
 Comments             Tree Poppy, Ranunculales, Papaveraceae
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [Russell Towle](mailto:rtowle@neworld.net)
+copyright ::            © 2001 [Russell Towle](mailto:rtowle@neworld.net)
 
 ------------------------------------------------------------------------
 ![Arbutus_andrachne](Eudicots/Arbutus_andrachne.jpg) 
-Scientific Name ::   Arbutus andrachne
-Location ::         Samos, Greece.
+scientific_name ::   Arbutus andrachne
+location ::         Samos, Greece.
 Comments           Core Eudicots, Ericaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

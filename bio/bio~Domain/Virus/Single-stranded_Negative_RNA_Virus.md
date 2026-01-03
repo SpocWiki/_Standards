@@ -34,18 +34,18 @@ Containing group: [Virus](../Virus.md)
 
   ---------------------------
 ![](Single-stranded_Negative_RNA_Virus/Ebola.jpg)
-  Scientific Name ::     Ebolavirus
+  scientific_name ::     Ebolavirus
   Comments             Transmission electron micrograph of the ebola virus, hemorrhagic fever.
   Creator              C. Goldsmith (Center for Disease Control)
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 ---------------------------
 ![](Single-stranded_Negative_RNA_Virus/PHIL_2174_lores.jpg)
-  Scientific Name ::     Tacaribe complex (New world arenaviruses)
+  scientific_name ::     Tacaribe complex (New world arenaviruses)
   Comments             Electron micrograph. Arenaviridae are RNA viruses whose particles are spherical and have an average diameter of 110-130 nanometers. Arenaviridae members are zoonotic, which means that in nature they are found in reservoir animal hosts.
   Creator              Center for Disease Control
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

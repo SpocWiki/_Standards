@@ -332,11 +332,11 @@ Amer. Malac. Union., 12: 91-112.
 ![](Cirrata/Cirrot1.jpg) 
 
   ---------------------
-  Scientific Name ::     Cirroteuthidae
-  Location ::           off Hawaii
+  scientific_name ::     Cirroteuthidae
+  location ::           off Hawaii
   Comments             photographed from submersible
-  Specimen Condition   Live Specimen
-  Copyright ::            © A. Malahoff, Hawaii Undersea Research Laboratory
+  specimen_condition ::  Live Specimen
+  copyright ::            © A. Malahoff, Hawaii Undersea Research Laboratory
   ---------------------
 
 

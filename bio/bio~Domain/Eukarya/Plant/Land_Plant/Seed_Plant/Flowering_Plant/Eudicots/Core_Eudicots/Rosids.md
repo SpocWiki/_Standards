@@ -65,30 +65,30 @@ title: Rosids
 
 --------------------------------------------------------------------------
 ![Euphorbia_coerulescens](Rosids/Euphorbia_coerulescens.jpg) 
-Scientific Name ::     Euphorbia coerulescens
-Location ::           Botanical Garden, Valencia, Spain
-Specimen Condition   Live Specimen
+scientific_name ::     Euphorbia coerulescens
+location ::           Botanical Garden, Valencia, Spain
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
-Copyright ::            © 2005 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+copyright ::            © 2005 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 -------------------------------------------------------------------------
 ![Rosa rugosa](Rosids/Rosa_rugosa.jpg) 
-Scientific Name ::     Rosa rugosa
-Location ::           Seashore, Tomakomai, Hokkaido (Japan)
+scientific_name ::     Rosa rugosa
+location ::           Seashore, Tomakomai, Hokkaido (Japan)
 Comments             Rosales, Rosaceae
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1998 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::            © 1998 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 -----------------------------
 ![Acer buergerianum](Rosids/Acer_buergerianum.jpg) 
-Scientific Name ::                    Acer buergerianum
-Location ::                          Japan
+scientific_name ::                    Acer buergerianum
+location ::                          Japan
 Acknowledgements                    The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons license](http://creativecommons.org/licenses/by-nc-nd/2.0/).
 source: [flickr: trident maple](http://flickr.com/photos/amehare/211807844/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2006 [Amehare](http://flickr.com/people/amehare/) 
+copyright ::                           © 2006 [Amehare](http://flickr.com/people/amehare/) 
 
 
 ## Confidential Links & Embeds: 

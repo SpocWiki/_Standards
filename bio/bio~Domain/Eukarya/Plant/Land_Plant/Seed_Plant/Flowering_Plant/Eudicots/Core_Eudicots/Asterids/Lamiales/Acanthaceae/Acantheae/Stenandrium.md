@@ -80,28 +80,28 @@ pollinators although empirical studies are few.
 
 -------------------------------------------------------------------------- 
 ![Salpixantha coccinea](Stenandrium/Salpix.jpg) 
-Scientific Name ::     Salpixantha coccinea Hook.
+scientific_name ::     Salpixantha coccinea Hook.
 Reference            British Museum (BM)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           BM
 Collector            George R. Procter 11046
-Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------
 ![Holographis argyrea](Holographis_argyrea.jpg)
-Scientific Name ::     Holographis argyrea (Leonard) T.F. Daniel
-Specimen Condition   Live Specimen
-Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Holographis argyrea (Leonard) T.F. Daniel
+specimen_condition ::  Live Specimen
+copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![Holographis ehrenbergiana](Stenandrium/holographis.jpg) 
-Scientific Name ::     Holographis ehrenbergiana Nees
-Location ::           Mexico
+scientific_name ::     Holographis ehrenbergiana Nees
+location ::           Mexico
 Reference            Kew Botanical Gardens (KEW)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           K
 Collector            C. A. Purpose
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

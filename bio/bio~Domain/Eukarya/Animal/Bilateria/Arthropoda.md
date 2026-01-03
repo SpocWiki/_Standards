@@ -217,22 +217,22 @@ union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 
 ------------------------------------------------------------------------------ 
 ![Eumorpha achemon moth](Arthropoda/Eumorpha_achemon.jpg) 
-Scientific Name ::     Eumorpha achemon
+scientific_name ::     Eumorpha achemon
 Creator              Photograph by George W. Robinson
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 --------------------------------------------------------------------------- 
 ![Habronattus jumping spider and schizomid](Arthropoda/jumping_spider.gif) 
-Scientific Name ::  Habronattus, schizomid
-Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+scientific_name ::  Habronattus, schizomid
+copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 -------------------------------------------------------------------------------- 
 ![Crangon septemspinosa](Arthropoda/Crangon_septemspinosa.gif) 
-Scientific Name ::   Crangon septemspinosa
+scientific_name ::   Crangon septemspinosa
 Acknowledgements   from the Gray Museum Slide Collection
-Copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::          © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 

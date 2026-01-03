@@ -118,25 +118,25 @@ UMLS_CUI: C0324735
 
 ------------------------------------------------------------------------------ 
 ![](Macroscelididae/elephantulus.jpg) 
-Scientific Name ::     Elephantulus
-Location ::           Nairobi (Kenya)
+scientific_name ::     Elephantulus
+location ::           Nairobi (Kenya)
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![](Macroscelididae/138405085_592f80cc48_o.jpg) 
-Scientific Name ::                    Macroscelides proboscideus
-Location ::                          Grzimekhaus in Frankfurt Zoo
+scientific_name ::                    Macroscelides proboscideus
+location ::                          Grzimekhaus in Frankfurt Zoo
 Acknowledgements                    This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0                                       Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).\
 								  source: [flickr:                                       Kurzohrrüsselspringer](http://flickr.com/photos/joachim_s_mueller/138405085/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
 Image Use ::                   ![creative commons](CCsomerights.gif) This image is licensed under the
 								  [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 
-Copyright ::                           © 2006 [Joachim S. Müller](http://flickr.com/people/joachim_s_mueller/)
+copyright ::                           © 2006 [Joachim S. Müller](http://flickr.com/people/joachim_s_mueller/)
 
 
 ## Confidential Links & Embeds: 

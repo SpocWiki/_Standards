@@ -158,21 +158,21 @@ Zool., 97: 1-159.
 ![](Neoteuthidae/NEO.JPG) 
 
   ------------
-  Scientific Name ::   Neoteuthis
-  Location ::         Bahamas
+  scientific_name ::   Neoteuthis
+  location ::         Bahamas
   Comments           collected by submersible
   Life Cycle Stage ::   juvenile
-  Copyright ::          © 1996 Ron Gilmer
+  copyright ::          © 1996 Ron Gilmer
   ------------
 ![](Neoteuthidae/NeoDraw.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::  Neoteuthis thielei
-  Location ::        off California, USA
+  scientific_name ::  Neoteuthis thielei
+  location ::        off California, USA
   Reference         Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
   View              dorsal
   Size              83 mm ML
-  Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

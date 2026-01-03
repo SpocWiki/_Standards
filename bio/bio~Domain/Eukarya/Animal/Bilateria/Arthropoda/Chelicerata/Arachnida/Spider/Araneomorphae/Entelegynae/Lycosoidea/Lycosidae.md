@@ -167,16 +167,16 @@ spider genera (Spider, Lycosidae). J. Arachnol. 30:227--237.
 ![Wolf spider (Lycosa sp.) face, Arizona](Lycosidae/wolfspider_face.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Lycosa
-  Location ::           Tucson, AZ, USA
+  scientific_name ::     Lycosa
+  location ::           Tucson, AZ, USA
   Comments             Found in house, Sonoran desert habitat
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Sex ::                Female
   Life Cycle Stage ::     Adult
   Body Part            Cephalothorax
   View                 Frontal
   Size                 ca. 15mm
-  Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+  copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
  
   -------------------------------------------------------------------------
 

@@ -164,10 +164,10 @@ African Jour. Mar. Sci. (in press).
 ![](Amphitretidae/AmphitretusMBARI.jpg) 
 
   --------------------------------
-  Scientific Name ::     Amphitretus pelagicus
-  Location ::           Central North Pacific
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2001 [Monterey Bay Aquarium Research Institution](http://www.mbari.org/rd/midwater)
+  scientific_name ::     Amphitretus pelagicus
+  location ::           Central North Pacific
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2001 [Monterey Bay Aquarium Research Institution](http://www.mbari.org/rd/midwater)
   --------------------------------
 
 

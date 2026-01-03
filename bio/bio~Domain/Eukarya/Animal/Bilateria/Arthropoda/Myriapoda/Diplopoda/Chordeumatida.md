@@ -108,11 +108,11 @@ title: Chordeumatida
 
 ----------------------------------------------------------------------------
 ![Polymicrodon_polydesmoides](Chordeumatida/Polymicrodon_polydesmoides.jpg) 
-Scientific Name ::     Diplopoda:Nematophora: Polymicrodon polydesmoides
-Location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
-Specimen Condition   Live Specimen
+scientific_name ::     Diplopoda:Nematophora: Polymicrodon polydesmoides
+location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
 ## Confidential Links & Embeds: 

@@ -68,32 +68,32 @@ title: Conifers
 
 ---------------------------------------------------------------
 ![Pinus resinosa](Conifers/Pinus_resinosa1301047.jpg)
-Scientific Name ::     Pinus resinosa
+scientific_name ::     Pinus resinosa
 Comments             Open grown 150-year-old Pinus resinosa.
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1301047)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Joseph O\'Brien 
+copyright ::            © Joseph O\'Brien 
 
 
 --------------------------------------------------------------------------
 ![Podocarpus](Conifers/Podocarpus4342.jpg) 
-Scientific Name ::     Podocarpus
-Location ::           Botanical Garden, Valencia, Spain
-Specimen Condition   Live Specimen
+scientific_name ::     Podocarpus
+location ::           Botanical Garden, Valencia, Spain
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
-Copyright ::            © 2005 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+copyright ::            © 2005 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 
 ------------------------------------------------------------------------------
 ![California Incense Cedar](Conifers/Libocedrus_decurrens0069.jpg)
-Scientific Name ::     Calocedrus decurrens
-Location ::           Yosemite National Park, valley (Mariposa County, California, USA)
+scientific_name ::     Calocedrus decurrens
+location ::           Yosemite National Park, valley (Mariposa County, California, USA)
 Comments             California Incense Cedar
 Creator              Photograph by Neva Snell
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

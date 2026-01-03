@@ -50,29 +50,29 @@ title: Adoxaceae
 
 ---------------------------------------------------------------------------
 ![Tetradoxa omeiensis](Adoxaceae/Tetradoxa_omeiensis.jpg) 
-Scientific Name ::     Tetradoxa omeiensis
-Specimen Condition   Live Specimen
+scientific_name ::     Tetradoxa omeiensis
+specimen_condition ::  Live Specimen
 Identified By        Michael J. Donoghue
-Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
+copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
 
 ---------------------------------------------------------------------------
 ![Viburnumopulus](Adoxaceae/Viburnum_opulus.jpg) 
-Scientific Name ::     Viburnum opulus
-Location ::           Romania
+scientific_name ::     Viburnum opulus
+location ::           Romania
 Comments             Opened flowers on the edges represent sterile flowers. Central, fertila flowers open little later. V. opulus is a shrub growing in shaddy or semi-sunny places
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Ilisoi Gabriel
 Body Part            Inflorescence
-Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 -------------------- 
 ![Sambucus_nigra](Adoxaceae/Sambucus_nigra.jpg) 
-Scientific Name ::     Sambucus nigra cerulea
+scientific_name ::     Sambucus nigra cerulea
 Comments             blue elderberry, one shrub in typical habitat
 Acknowledgements     Photograph courtesy InsectImages.org (#1208060)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Dave Powell, USDA Forest Service
+copyright ::            © Dave Powell, USDA Forest Service
 
 
 ## Confidential Links & Embeds: 

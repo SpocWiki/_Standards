@@ -92,10 +92,10 @@ to the families of the order Teuthoidea. Smiths. contr. zool., 13:1-32.
 ![](Histioteuthid/HistioPsychro.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Histioteuthis hoylei, Psychroteuthis glacialis (2)
-  Location ::        Hawaii, Antarctic waters (2)
+  scientific_name ::  Histioteuthis hoylei, Psychroteuthis glacialis (2)
+  location ::        Hawaii, Antarctic waters (2)
   Reference         drawing from rom Roper, et al., 1969 (2)
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

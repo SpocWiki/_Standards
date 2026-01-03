@@ -83,22 +83,22 @@ reference to the current resolution and knowledge.
 
 ------------------------------------------------------------------------ 
 ![habitus of a capricornia male](capricornia/capricornia.jpg) 
-Scientific Name ::     capricornia
-Location ::           Great Barrier Reef
+scientific_name ::     capricornia
+location ::           Great Barrier Reef
 Comments             Note paired penes on segment 9
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Sex ::                Male
 View                 ventral
-Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
+copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 ------------------------------------------------------------------------
 ![capricornia anterior end showing median antenna and nuchal organs](capricornia/capricornia-Tail.jpg)
-Scientific Name ::     capricornia
-Location ::           Great Barrier Reef
-Specimen Condition   Dead Specimen
+scientific_name ::     capricornia
+location ::           Great Barrier Reef
+specimen_condition ::  Dead Specimen
 Body Part            anterior end showing median antenna and nuchal organs
 View                 dorsal
-Copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
+copyright ::            © 2000 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 
 ## Confidential Links & Embeds: 

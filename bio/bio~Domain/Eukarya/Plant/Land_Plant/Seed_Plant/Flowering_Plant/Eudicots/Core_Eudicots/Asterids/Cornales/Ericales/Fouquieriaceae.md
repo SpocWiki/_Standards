@@ -44,24 +44,24 @@ title: Fouquieria
 
 ------------------------------------------------------------- 
 ![Fouquieria_splendens](Fouquieriaceae/Fouquieria_splendens.jpg) 
-Scientific Name ::     Fouquieria splendens
-Location ::           Anza-Borrego Desert State Park, California, USA
-Specimen Condition   Live Specimen
+scientific_name ::     Fouquieria splendens
+location ::           Anza-Borrego Desert State Park, California, USA
+specimen_condition ::  Live Specimen
 Source               [Ocotillo, 2003-04-01B 127](http://flickr.com/photos/anitagould/9061906/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
+copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
 ------------------------------------------------------------- 
 ![Fouquieria_splendens-blosssom](Fouquieriaceae/Fouquieria_splendens-blosssom.jpg) 
-Scientific Name ::     Fouquieria splendens
-Location ::           Anza-Borrego Desert State Park, California, USA
-Specimen Condition   Live Specimen
+scientific_name ::     Fouquieria splendens
+location ::           Anza-Borrego Desert State Park, California, USA
+specimen_condition ::  Live Specimen
 Body Part            flower
 Source               [Ocotillo, 2003-04-01B 132](http://flickr.com/photos/anitagould/9062136/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
+copyright ::            © 2003 [Anita Gould](http://flickr.com/people/anitagould/)
 
 
 ## Confidential Links & Embeds: 

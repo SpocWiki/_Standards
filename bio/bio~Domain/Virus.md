@@ -249,26 +249,26 @@ compared to cellular organisms.
 
 ---------------------------
 ![Scanning electron micrograph of human immunodeficiency virus (HIV)](Virus/HIVSEM.jpg)
-Scientific Name ::     Lentivirus
+scientific_name ::     Lentivirus
 Comments             Scanning electron micrograph of human immunodeficiency virus (HIV), grown in cultured lymphocytes. Virions are seen as small spheres on the surface of the cells.
 Creator              C. Goldsmith (Center for Disease Control)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------------------------------------
 ![](Virus/Ebola.jpg)
-Scientific Name ::     Ebolavirus
+scientific_name ::     Ebolavirus
 Comments             Transmission electron micrograph of the ebola virus, hemorrhagic fever.
 Creator              C. Goldsmith (Center for Disease Control)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 ---------------------------
 ![](Virus/Herpes_simplex.jpg)
-Scientific Name ::     Simplexvirus
+scientific_name ::     Simplexvirus
 Comments             Transmission electron micrograph of herpes simplex virus. Some nucleocapsids are empty, as shown by penetration of electron-dense stain.
 Creator              Dr. Erskine Palmer (Center for Disease Control)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

@@ -120,16 +120,16 @@ Nat. Mus., 234: 1-180.
 ![](cordiformis/MCordNorman.jpg) 
 
   ------------
-  Scientific Name ::  Mastigoteuthis cordiformis
-  Location ::        South Pacific
+  scientific_name ::  Mastigoteuthis cordiformis
+  location ::        South Pacific
   View              Ventral
   Size              325 mm ML
-  Copyright ::         © 2004 Mark Norman
+  copyright ::         © 2004 Mark Norman
   ------------
 ![](cordiformis/cordiformis.jpg) 
 
   ------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis cordiformis
+  scientific_name ::  Mastigoteuthis cordiformis
   Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899, 18(1):1-401.
   View              Ventral
   Size              83 mm ML (including tail).

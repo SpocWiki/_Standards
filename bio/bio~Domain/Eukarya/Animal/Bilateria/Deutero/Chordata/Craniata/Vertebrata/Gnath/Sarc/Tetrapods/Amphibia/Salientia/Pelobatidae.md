@@ -118,14 +118,14 @@ Pelobatoidea, or the sister taxon of Pelobatoidea.
 
 ------------------------------------------------------------------------- 
 ![](Pelobatidae/scaphiopus.jpg) 
-Scientific Name ::  Scaphiopus holbrookii hurteri
-Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::  Scaphiopus holbrookii hurteri
+copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 ------------------------------------------------------------------------- 
 ![](Pelobatidae/spea.jpg) 
-Scientific Name ::     Spea multiplicata
-Specimen Condition   Live Specimen
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::     Spea multiplicata
+specimen_condition ::  Live Specimen
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

@@ -95,35 +95,35 @@ start_time: -37000000-06
 
 ---------------------------------------------------------------- 
 ![](Dermoptera/453554996_ec252c76e5_o.jpg) 
-Scientific Name ::     Cynocephalus variegatus
-Location ::           Central Catchment area, Singapore
-Specimen Condition   Live Specimen
+scientific_name ::     Cynocephalus variegatus
+location ::           Central Catchment area, Singapore
+specimen_condition ::  Live Specimen
 Sex ::                Female
 Life Cycle Stage ::     adult
 Source               [Colugo](http://www.flickr.com/photos/lipkee/453554996/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Copyright ::            © 2006 [Lip Kee Yap](http://flickr.com/people/64565252@N00)
+copyright ::            © 2006 [Lip Kee Yap](http://flickr.com/people/64565252@N00)
 
 ---------------------------------------------------------------- 
 ![](Dermoptera/143391931_24b3a608ff_b.jpg) 
-Scientific Name ::     Cynocephalus variegatus
-Location ::           Langkawi Island, Malaysia
-Specimen Condition   Live Specimen
+scientific_name ::     Cynocephalus variegatus
+location ::           Langkawi Island, Malaysia
+specimen_condition ::  Live Specimen
 Source               [Honeymoon - 128.jpg](http://flickr.com/photos/petermacdonald/143391931/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nd/2.0/).
-Copyright ::            © 2006 [Peter MacDonald](http://flickr.com/people/petermacdonald/)
+copyright ::            © 2006 [Peter MacDonald](http://flickr.com/people/petermacdonald/)
 
 ------------------------------------------------------------ 
 ![](Dermoptera/296191800_deaec8342c_o.jpg) 
-Scientific Name ::     Cynocephalus variegatus
-Location ::           MacRitchie Reservoir, Singapore
-Specimen Condition   Live Specimen
+scientific_name ::     Cynocephalus variegatus
+location ::           MacRitchie Reservoir, Singapore
+specimen_condition ::  Live Specimen
 Source               [Flying lemur, Colugo](http://www.flickr.com/photos/64684201@N00/296191800/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-Copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
+copyright ::            © 2006 [Jwee](http://flickr.com/people/64684201@N00)
 
 
 ## Confidential Links & Embeds: 

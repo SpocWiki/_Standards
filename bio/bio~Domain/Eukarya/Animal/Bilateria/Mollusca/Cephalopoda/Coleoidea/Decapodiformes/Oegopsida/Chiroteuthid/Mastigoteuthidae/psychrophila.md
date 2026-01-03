@@ -114,14 +114,14 @@ Mastigoteuthidae) from the Southern Ocean. Zoologichesky Zhurnal,
 ![](psychrophila/MpsychrophilaHolo.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Mastigoteuthis psychrophila
-  Location ::           59°26\'S, 158°36\'E
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Mastigoteuthis psychrophila
+  location ::           59°26\'S, 158°36\'E
+  specimen_condition ::  Dead Specimen
   Sex ::                Male
   View                 Ventral
   Size                 84 mm ML
   Type                 Holotype
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

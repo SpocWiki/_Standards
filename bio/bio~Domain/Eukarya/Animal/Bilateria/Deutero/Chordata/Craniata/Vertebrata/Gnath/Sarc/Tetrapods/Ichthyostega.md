@@ -225,10 +225,10 @@ al. 2005).
 
 ------------------------------------------------------------------------------- 
 ![](Ichthyostega/ichthyostega.jpg) 
-Scientific Name ::     Ichthyostega
+scientific_name ::     Ichthyostega
 Comments             Skeletal reconstruction of *Ichthyostega* based on recent finds and a new interpretation of the hind limb anatomy and proportions.
-Specimen Condition   Fossil \-- Period: Devonian
-Copyright ::            © 2005 [Jennifer A. Clack](http://www.zoo.cam.ac.uk/museum/jenny.htm) 
+specimen_condition ::  Fossil \-- Period: Devonian
+copyright ::            © 2005 [Jennifer A. Clack](http://www.zoo.cam.ac.uk/museum/jenny.htm) 
 
 
 ## Confidential Links & Embeds: 

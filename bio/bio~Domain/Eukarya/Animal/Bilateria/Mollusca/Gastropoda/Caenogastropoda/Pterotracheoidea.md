@@ -226,21 +226,21 @@ upward-searching predators (Seapy and Young, 1986).
 
 ------------------------------------------------------------------------- 
 ![](Pterotracheoidea/Oxygyrus_keraudreni.jpg) 
-Scientific Name ::     Oxygyrus keraudreni
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
+scientific_name ::     Oxygyrus keraudreni
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 ------------------------------------------------------------------------- 
 ![](Pterotracheoidea/Carinaria_japonica.jpg) 
-Scientific Name ::     Carinaria japonica
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
+scientific_name ::     Carinaria japonica
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 ------------------------------------------------------------------------- 
 ![](Pterotracheoidea/Pterotrachea_coronata.jpg) 
-Scientific Name ::     Pterotrachea coronata
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
+scientific_name ::     Pterotrachea coronata
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
 ## Confidential Links & Embeds: 

@@ -43,25 +43,25 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](renivulvatus/dsc_0198.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus renivulvatus
-  Location ::           Little Leigh Farm, 12 km N Makhado, Limpopo, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus renivulvatus
+  location ::           Little Leigh Farm, 12 km N Makhado, Limpopo, South Africa
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](renivulvatus/dsc_0201.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus renivulvatus
-  Location ::           Little Leigh Farm, 12 km N Makhado, Limpopo, South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus renivulvatus
+  location ::           Little Leigh Farm, 12 km N Makhado, Limpopo, South Africa
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

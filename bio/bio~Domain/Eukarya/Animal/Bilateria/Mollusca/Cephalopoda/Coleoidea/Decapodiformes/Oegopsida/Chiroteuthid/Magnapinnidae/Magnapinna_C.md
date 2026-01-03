@@ -97,21 +97,21 @@ Magnapinna atlantica, n. sp. Proc. Biol. Soc. Wash. 119 (3): 365-372.
 ![](Magnapinna_C/bmsquid7.jpg) 
 
   ----------
-  Scientific Name ::     Magnapinna sp. C
-  Location ::           South Atlantic
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Magnapinna sp. C
+  location ::           South Atlantic
+  specimen_condition ::  Dead Specimen
   Sex ::                Male
   View                 Ventral
   Size                 79 mm ML
-  Copyright ::            © Wen-Sung Chung
+  copyright ::            © Wen-Sung Chung
   ----------
 ![](Magnapinna_C/HardysSquid1.gif) 
 
   ------------------------------------------
-  Scientific Name ::     Magnapinna sp. C
-  Location ::           South Atlantic
+  scientific_name ::     Magnapinna sp. C
+  location ::           South Atlantic
   Reference            Hardy, A. 1956. The Open Sea. Fisher, J., J. Gilmour, J. Huxley, M. Davies, and E. Hosking, Eds., Collins, London, 1956.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   View                 Dorsal
   ------------------------------------------
 

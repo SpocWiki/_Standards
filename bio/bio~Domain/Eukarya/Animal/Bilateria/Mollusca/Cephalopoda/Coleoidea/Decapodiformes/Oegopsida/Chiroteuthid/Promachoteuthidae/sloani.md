@@ -116,28 +116,28 @@ Zool., No. 586: 55-68.
 ![](sloani/PromachHolo.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sloani
-  Location ::           Central North Atlantic
-  Specimen Condition   Fresh
+  scientific_name ::     Promachoteuthis sloani
+  location ::           Central North Atlantic
+  specimen_condition ::  Fresh
   Sex ::                Female
   View                 Ventral
   Size                 58 mm ML
   Type                 Holotype
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 ![](sloani/ProSloaniPara1.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sloani
-  Location ::           North Atlantic Ocean
+  scientific_name ::     Promachoteuthis sloani
+  location ::           North Atlantic Ocean
   Creator              Keiko Hiratsuka Moore, National Marine Fisheries Service.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Sex ::                Female
   View                 Dorsal, ventral
   Size                 102 mm ML
   Type                 Paratype
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

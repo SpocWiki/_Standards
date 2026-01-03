@@ -475,30 +475,30 @@ Auwera et al., 1995).
 
 -------------------------------------------------- 
 ![Chytridium growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.](Fungi/Chytridium.gif) 
-  Scientific Name ::  Chytridium (Chytridiomycota)
+  scientific_name ::  Chytridium (Chytridiomycota)
   Comments          Individual growing on a single pine pollen grain. Successive photos show zoospore release from the sporangium, and the arrow points to a flagellum.
-  Copyright ::         © 1996 H. Whisler, M. Fuller
+  copyright ::         © 1996 H. Whisler, M. Fuller
 
 -------------------------------------------------- 
 ![Black sporangium atop swollen Pilobolus sporangiophore](Fungi/Pilobolus_crystallinus.gif) 
-  Scientific Name ::     Pilobolus crystallinus (Mucoromycotina)
+  scientific_name ::     Pilobolus crystallinus (Mucoromycotina)
   Comments             Black sporangium atop swollen sporangiophore. Shortly, the swollen subsporangial vesicle will burst to send the sporangium flying. Herbivores eat the sporangium, and the enclosed mitospores germinate in the dung. The bright yellow carotenoid pigment enables the sporangium to orient to light (phototropism). If you look closely, you can see masses of nematodes on the vesicle; probably herbivore pathogens hoping to hitch a ride.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
   
 --------------------------------------------------------------------------------------------------------------------------------------------- 
 ![Massed fruiting bodies of the chicken-of-the-woods](Fungi/Laetiporus_sulphureus.gif) 
-  Scientific Name ::     Laetiporus sulphureus (Basidiomycota, Agaricomycetes, Polyporales)
+  scientific_name ::     Laetiporus sulphureus (Basidiomycota, Agaricomycetes, Polyporales)
   Comments             Massed fruiting bodies of the chicken-of-the-woods. The tiny tubular filaments (hyphae) that make the body of this fungus (mycelium) are growing in the old, dead wood of a large cherry tree. Laetiporus is not a parasite, but the decay may weaken the tree so much that wind or ice storms can topple it.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Meredith Blackwell](http://www.biology.lsu.edu/faculty_listings/fac_pages/mblackwell.html) 
 
 -----------------------------------------------------------------------------------
 ![Fruiting body of the scarlet cup fungus](Fungi/Ascomycota/scarlet_cup_fungus.gif) 
-  Scientific Name ::     Sarcoscypha coccinea (Ascomycota, Pezizomycotina, Pezizales)
+  scientific_name ::     Sarcoscypha coccinea (Ascomycota, Pezizomycotina, Pezizales)
   Comments             Fruiting body of the scarlet cup fungus. Hundreds of millions of meiospores (ascospores) are discharged from this cup, usually in puffs that produce visible clouds of spores.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Joey Spatafora](http://www.bcc.orst.edu/bpp/faculty/spatafora/index.html) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Joey Spatafora](http://www.bcc.orst.edu/bpp/faculty/spatafora/index.html) 
 
 
 ## Confidential Links & Embeds: 

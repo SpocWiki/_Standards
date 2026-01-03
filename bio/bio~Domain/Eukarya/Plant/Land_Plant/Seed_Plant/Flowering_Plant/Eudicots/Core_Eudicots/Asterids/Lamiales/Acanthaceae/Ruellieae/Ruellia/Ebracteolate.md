@@ -137,34 +137,34 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 ![](Ebracteolate/dscn0140.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia mcvaughii T. F. Daniel
-  Location ::           Jalisco, Mexico
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ruellia mcvaughii T. F. Daniel
+  location ::           Jalisco, Mexico
+  specimen_condition ::  Live Specimen
   Identified By        Erin A. Tripp
   Collector            Tripp & Deregibus
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
 ![](Ebracteolate/picture259.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia tubiflora H. B. K.
-  Location ::           La Selva Biological Station, Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ruellia tubiflora H. B. K.
+  location ::           La Selva Biological Station, Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Erin A. Tripp
   Collector            Tripp & McDade
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
 ![](Ebracteolate/dscn0057.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia foetida Willd.
-  Location ::           Oaxaca, Mexico
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ruellia foetida Willd.
+  location ::           Oaxaca, Mexico
+  specimen_condition ::  Live Specimen
   Identified By        Erin A. Tripp
   Collector            E. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
 

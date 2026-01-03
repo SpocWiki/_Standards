@@ -205,11 +205,11 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Loligo/LReynaudiiRH.jpg) 
 
   -----------------
-  Scientific Name ::     Loligo reynaudii
-  Location ::           Off South Africa
-  Specimen Condition   Live Specimen
+  scientific_name ::     Loligo reynaudii
+  location ::           Off South Africa
+  specimen_condition ::  Live Specimen
   View                 side
-  Copyright ::            © [Roger Hanlon](mailto:rhanlon@mbl.edu)
+  copyright ::            © [Roger Hanlon](mailto:rhanlon@mbl.edu)
   -----------------
 
 

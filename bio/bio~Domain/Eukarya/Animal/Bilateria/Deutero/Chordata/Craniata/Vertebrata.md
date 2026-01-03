@@ -309,7 +309,7 @@ clade (see Thelodonti page).
 Radiograph of the lookdown fish **Selene vomer** prepared by Tierney
 Thys, Duke University. Copyright © 1995, Tierney Thys.
 ![](selenexray.gif)
-Copyright ::   © 1995 Tierney Thys
+copyright ::   © 1995 Tierney Thys
 
 
 ## Confidential Links & Embeds: 

@@ -97,7 +97,7 @@ Parasitengone larva parasitizing a parasitengone adult (Smarididae) from
 Queensland, Australia. Drawing copyright © 1998, H. Proctor.
 
 ![Smarididae](Parasitengona/Smarididae.gif)
-Copyright ::   © 1998 H. Proctor
+copyright ::   © 1998 H. Proctor
 
 
 ## Confidential Links & Embeds: 

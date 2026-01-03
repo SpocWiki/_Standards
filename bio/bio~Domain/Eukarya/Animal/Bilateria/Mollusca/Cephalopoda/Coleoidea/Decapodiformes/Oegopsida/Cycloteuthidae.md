@@ -125,11 +125,11 @@ to Zoology No. 5:1-24.
 ![](Cycloteuthidae/cycloteuthid.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::  Cycloteuthis serventyi, Discoteuthis discus (2)
+  scientific_name ::  Cycloteuthis serventyi, Discoteuthis discus (2)
   Reference         Young, R. E. and C. F. E. Roper. 1969. A monograph of the Cephalopoda of the North Atlantic: The family Cycloteuthidae. Smithsonian Contributions to Zoology No. 5:1-24.
   View              Ventral
   Size              42, 53 mm ML
-  Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

@@ -131,16 +131,16 @@ Ser. 2: 185-202.
 ![](Batoteuthidae/Batoteuthis.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::     Batoteuthis skolops
-  Location ::           Antarctic waters
+  scientific_name ::     Batoteuthis skolops
+  location ::           Antarctic waters
   Creator              A. D. Hart
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Identified By        R. Young
   Sex ::                Female
   Life Cycle Stage ::     Immature
   View                 Ventral/dorsal
   Size                 350 mm ML (to tip of tail)
-  Copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::            © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   --------------------------------------------------------------------------
 

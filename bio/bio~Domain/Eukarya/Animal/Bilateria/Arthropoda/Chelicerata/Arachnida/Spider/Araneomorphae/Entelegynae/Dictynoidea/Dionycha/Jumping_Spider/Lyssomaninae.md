@@ -7,7 +7,7 @@ title: Lyssomaninae
 # [[Lyssomaninae]] 
 
 ![ ](Lyssomaninae/lyssomanes.gif)
-Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 The lyssomanines are peculiar salticids that may well be the sister
 group to the remaining salticids. Along with the spartaeines they lack

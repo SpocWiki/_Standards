@@ -145,11 +145,11 @@ eyes were probably adapted for use in murky coal-swampy water. Panchen
 
 ---------------------------------------------------------------------------------------
 ![](Crassigyrinus/Crassigyrinus_scoticus.gif)
-Scientific Name ::     Crassigyrinus scoticus
+scientific_name ::     Crassigyrinus scoticus
 Comments             skeletal and life reconstructions
 Reference            Panchen, A.L. and Smithson, T.R. 1990. The pelvic girdle and hind limb of Crassigyrinus scoticus (Lydekker) from the Scottish Carboniferous and the origin of the tetrapod pelvic skeleton. Transactions of the Royal Society of Edinburgh: Earth Sciences. 81:31-44.
-Specimen Condition   Fossil
-Copyright ::            © 1990 Royal Society of Edinburgh
+specimen_condition ::  Fossil
+copyright ::            © 1990 Royal Society of Edinburgh
 
 
 ## Confidential Links & Embeds: 

@@ -147,11 +147,11 @@ kunduchi*
 
 ---------------------------------------------------------------------------
 ![Adult Austramphilina elongata in the body cavity of a long-necked turtle](Amphilinidea/Amphilinidae.jpg)
-Scientific Name ::     Gigantolina elongata, Chelodina longicollis
+scientific_name ::     Gigantolina elongata, Chelodina longicollis
 Comments             Adult Austramphilina elongata in the body cavity of a long-necked turtle, Chelodina longicollis
 Creator              photo by Russ Hobbs
-Specimen Condition   Live Specimen
-Copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1998 [Klaus Rohde](http://metz.une.edu.au/%7Ekrohde/) 
 
 
 ## Confidential Links & Embeds: 

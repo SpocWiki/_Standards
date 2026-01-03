@@ -124,16 +124,16 @@ for general list of references
 ![](Bombinatoridae/bombina_003.jpg)
 
   -------------------------------------------------------------------------
-  Scientific Name ::  Bombina orientalis
-  Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+  scientific_name ::  Bombina orientalis
+  copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
  
   -------------------------------------------------------------------------
 ![](Bombinatoridae/bombina.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::  Bombina orientalis
+  scientific_name ::  Bombina orientalis
   View              ventral
-  Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+  copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
  
   -------------------------------------------------------------------------
 

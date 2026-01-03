@@ -131,26 +131,26 @@ Baphioid clade.
 
 ------------------------------------------------------------------------ 
 ![Vigna speciosa](Papilionoideae/Vigna_speciosa.jpg) 
-Scientific Name ::     Vigna speciosa (Kunth) Verdc.
-Location ::           Mesa, Arizona
+scientific_name ::     Vigna speciosa (Kunth) Verdc.
+location ::           Mesa, Arizona
 Comments             Commonly called Snail Vines.
-Specimen Condition   Live Specimen
-Copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
+specimen_condition ::  Live Specimen
+copyright ::            © [Johanna Mahn](mailto:johannamahn@gmail.com) 
 
 ----------------------- 
 ![Erythrina amazonica](Papilionoideae/Erythrina_amazonica.jpg) 
-Scientific Name ::     Erythrina amazonica Krukoff
-Location ::           Ecuador
-Specimen Condition   Live Specimen
-Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
+scientific_name ::     Erythrina amazonica Krukoff
+location ::           Ecuador
+specimen_condition ::  Live Specimen
+copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 ------------------------------------------------------------------------------ 
 ![Calia secundiflora](Papilionoideae/Calia_secundiflora.jpg) 
-Scientific Name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
-Location ::           Arizona State University campus
-Specimen Condition   Live Specimen
+scientific_name ::     Calia secundiflora (Ortega) Yakovlev (= Sophora secundiflora)
+location ::           Arizona State University campus
+specimen_condition ::  Live Specimen
 Identified By        M F Wojciechowski
-Copyright ::            © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
+copyright ::            © [Martin F. Wojciechowski](http://www.public.asu.edu/%7Emfwojci/) 
 
 
 ## Confidential Links & Embeds: 

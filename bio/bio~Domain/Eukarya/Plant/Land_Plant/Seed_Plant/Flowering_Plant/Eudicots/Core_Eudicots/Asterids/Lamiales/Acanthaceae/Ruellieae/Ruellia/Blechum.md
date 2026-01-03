@@ -104,45 +104,45 @@ Ruellia (Acanthaceae). Systematic Botany, in press.
 ![](Blechum/Blechum_pyramidatum_T_87A84-1.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
-  Location ::           Tabasco, Mexico
-  Specimen Condition   Live Specimen
+  scientific_name ::     Blechum pyramidatum (Lam.) Urb.
+  location ::           Tabasco, Mexico
+  specimen_condition ::  Live Specimen
   Collector            E. Tripp
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
 ![](Blechum/blechum.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Blechum pyramidatum (Lam.) Urb.
-  Location ::           Rio Pirre, Darien, Panama
-  Specimen Condition   Live Specimen
+  scientific_name ::     Blechum pyramidatum (Lam.) Urb.
+  location ::           Rio Pirre, Darien, Panama
+  specimen_condition ::  Live Specimen
   Identified By        L. A. McDade
-  Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+  copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
  
   ---------------------------------------------------------------------------
 ![](Blechum/leavesflowers.jpg) 
 
   ---------------------------------
-  Scientific Name ::     Blechum costaricense Oerst.
-  Specimen Condition   Live Specimen
-  Copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
+  scientific_name ::     Blechum costaricense Oerst.
+  specimen_condition ::  Live Specimen
+  copyright ::            © [L. Gilbert, UT Austin](http://www.utexas.edu/courses/zoo384l/sirena/species/plants/a/)
   ---------------------------------
 ![](Blechum/R_maya_et157.jpg) 
 
   ----------------------------------------------------------------------
-  Scientific Name ::  Ruellia maya T.F. Daniel
-  Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  scientific_name ::  Ruellia maya T.F. Daniel
+  copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   ----------------------------------------------------------------------
 ![](Blechum/picture927.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Ruellia longepetiolata (Oerst.) Hemsl.
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ruellia longepetiolata (Oerst.) Hemsl.
+  specimen_condition ::  Live Specimen
   Identified By        Erin A. Tripp
   Collection           donated as living material to DUKE greenhouses
-  Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+  copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
  
   -----------------------------------------------------------------------
 
