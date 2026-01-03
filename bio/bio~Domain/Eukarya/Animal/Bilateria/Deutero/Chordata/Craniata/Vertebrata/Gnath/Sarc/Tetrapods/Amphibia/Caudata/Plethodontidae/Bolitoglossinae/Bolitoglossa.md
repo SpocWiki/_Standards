@@ -4,7 +4,7 @@ aliases:
 title: Bolitoglossa
 __is_:
   same_as:
-    - "[[Bolitoglossa]]"
+    - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
     - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
     - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]"
     - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]"
@@ -12,13 +12,17 @@ __is_:
     - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
     - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
 __is_same_as:
-  - "[[Bolitoglossa]]"
+  - "[[/_Standards/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa|Bolitoglossa]]"
   - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.public|Bolitoglossa.public]]"
   - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.internal|Bolitoglossa.internal]]"
   - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.protect|Bolitoglossa.protect]]"
   - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.private|Bolitoglossa.private]]"
   - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.personal|Bolitoglossa.personal]]"
   - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae/Bolitoglossa.secret|Bolitoglossa.secret]]"
+__scientific_name: Bolitoglossa striatula
+__location: Costa Rica
+__image_use: "[Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)."
+__copyright: © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 ---
 
 # [[Bolitoglossa]] 
@@ -194,12 +198,12 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
 
 ------------------------------------------------------------------ 
 ![](Bolitoglossa/103881968_74ffee5d5b_o.jpg) 
-Scientific Name ::     Bolitoglossa striatula
-Location ::           Costa Rica
+ scientific_name = `$= dv.current().__scientific_name` 
+ location = `$= dv.current().__location` 
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 Specimen Condition   Live Specimen
-Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+ image_use = `$= dv.current().__image_use` 
+ copyright = `$= dv.current().__copyright` 
 
 
 ## Confidential Links & Embeds: 
