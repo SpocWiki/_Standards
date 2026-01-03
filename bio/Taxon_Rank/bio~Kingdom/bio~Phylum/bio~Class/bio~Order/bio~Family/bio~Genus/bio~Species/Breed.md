@@ -2,6 +2,8 @@
 aliases:
   - Race
   - Breed
+  - Rasse
+  - Züchtung
 has_id_wikidata: Q38829
 studied_by: "[[_Standards/WikiData/WD~animal_husbandry,80962]]"
 different_from:
