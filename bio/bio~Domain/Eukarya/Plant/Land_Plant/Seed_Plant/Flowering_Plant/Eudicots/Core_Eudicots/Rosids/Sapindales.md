@@ -102,35 +102,35 @@ title: Sapindales
 ![California buckeye, Aesculus californica](Sapindales/Aesculus_californica67.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Aesculus californica
+  scientific_name ::     Aesculus californica
   Comments             California buckeye (Sapindaceae)
   Creator              Photograph by G. Dallas and Margaret Hanna
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 ![Dictamnus dasycarpus](Sapindales/Dictamnus_dasycarpus.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Dictamnus dasycarpus
-  Location ::           Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
+  scientific_name ::     Dictamnus dasycarpus
+  location ::           Near Barabash-Levada village, Pogranichny distr., Primorsky Territory (Russian Federation)
   Comments             Rutaceae
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+  copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
  
   -------------------------------------------------------------------------
 ![Elephant tree, Bursera microphylla](Sapindales/Bursera_microphylla0036.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Bursera microphylla
-  Location ::           Baja California, La Gringa, near (Mexico)
+  scientific_name ::     Bursera microphylla
+  location ::           Baja California, La Gringa, near (Mexico)
   Comments             Elephant tree (Burseraceae)
   Creator              Photograph by Glenn Vargas
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 

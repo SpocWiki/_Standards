@@ -58,11 +58,11 @@ title: Acanthopale
 
 ----------------------------------------------------------------------- 
 ![Acanthopale_pollen](Acanthopale/Acanthopale_pollen.jpg) 
-Scientific Name ::     Acanthopale decempedalis C. B. Clarke
-Specimen Condition   Dead Specimen
+scientific_name ::     Acanthopale decempedalis C. B. Clarke
+specimen_condition ::  Dead Specimen
 Identified By        Erin A. Tripp
 Life Cycle Stage ::     pollen
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

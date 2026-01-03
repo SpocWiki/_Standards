@@ -64,10 +64,10 @@ Characteristics:
 
 ---------------------------------------------------------------------------
 ![](Thysanura/Thermobia_domestica.jpg)
-Scientific Name ::     Thermobia domestica
-Location ::           Tucson, Arizona, USA
-Specimen Condition   Live Specimen
-Copyright ::            © 2003 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Thermobia domestica
+location ::           Tucson, Arizona, USA
+specimen_condition ::  Live Specimen
+copyright ::            © 2003 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

@@ -147,24 +147,24 @@ Gabrielson 1990 \[and references within\], Ragan et al. 1994).
 
 ---------------------------------------------------------------------------
 ![Kallymenia perforata](Rhodophyta/Kallymenia_perforata.jpg) 
-  Scientific Name ::  Kallymenia perforata
-  Location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
+  scientific_name ::  Kallymenia perforata
+  location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
   Comments          Florideophyceae
-  Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+  copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 ---------------------------------------------------------------------------
 ![Gibsmithia hawaiiensis](Rhodophyta/Gibsmithia_hawaiiensis.jpg) 
-  Scientific Name ::  Gibsmithia hawaiiensis
-  Location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
+  scientific_name ::  Gibsmithia hawaiiensis
+  location ::        Collected from coral reef near Zamboanga, Mindanao, Philippines
   Comments          Florideophyceae
-  Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+  copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 ---------------------------------------------------------------------------
 ![Porphyra carolinensis](Rhodophyta/Porphyra_carolinensis.jpg)
-  Scientific Name ::  Porphyra carolinensis
-  Location ::        Masonboro Island, North Carolina, USA
+  scientific_name ::  Porphyra carolinensis
+  location ::        Masonboro Island, North Carolina, USA
   Comments          Bangiales. Growing on rocks in the upper intertidal zone.
-  Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+  copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 
 ## Confidential Links & Embeds: 

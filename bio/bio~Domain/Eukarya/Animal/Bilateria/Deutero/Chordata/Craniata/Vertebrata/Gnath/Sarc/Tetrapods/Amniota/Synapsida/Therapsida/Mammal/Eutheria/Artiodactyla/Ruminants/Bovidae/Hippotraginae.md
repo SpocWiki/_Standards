@@ -65,14 +65,14 @@ title: Hippotraginae
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 ![Beisa Oryx (Oryx gazella) and oxpecker in Samburu Reserve, Kenya](Hippotraginae/beisa_oryx.jpg)
-Scientific Name ::     Oryx gazella beisa
-Location ::           Samburu Reserve, Kenya
+scientific_name ::     Oryx gazella beisa
+location ::           Samburu Reserve, Kenya
 Comments             The oryx is well adapted to life in dry areas. It is light-colored to reflect radiant heat, it can sustain prolonged high body temperature, it browses mainly at night to maximise water intake and it seldom needs to drink. Long straight horns are present in both sexes and are used in defense against predators. The red-billed oxpecker bird on the oryx\'s rump is specialised for eating ectoparasites such as ticks.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

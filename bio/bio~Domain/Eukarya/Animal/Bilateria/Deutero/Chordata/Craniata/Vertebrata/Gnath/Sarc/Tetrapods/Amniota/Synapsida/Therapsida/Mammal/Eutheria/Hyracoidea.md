@@ -154,11 +154,11 @@ Mammalogy 76:1088-1099.
 ![Heterohyrax brucei feeding in Acacia tortilis](Hyracoidea/1708bushhyrax.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Heterohyrax brucei, Acacia tortilis
-  Location ::           Seronera area of Serengeti National Park, Tanzania
+  scientific_name ::     Heterohyrax brucei, Acacia tortilis
+  location ::           Seronera area of Serengeti National Park, Tanzania
   Comments             Heterohyrax feeding in Acacia
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
 

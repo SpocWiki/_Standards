@@ -116,11 +116,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -----------------
 ![](leptochela/leptochela.jpg)
-Scientific Name ::  Aegla leptochela
+scientific_name ::  Aegla leptochela
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

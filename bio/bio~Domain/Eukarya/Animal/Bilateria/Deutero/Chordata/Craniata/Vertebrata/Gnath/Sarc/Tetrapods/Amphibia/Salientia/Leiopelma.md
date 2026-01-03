@@ -123,16 +123,16 @@ Ascaphus truei.
 
 --------------------------------------------------------------------------
 ![Leiopelma hochstetteri](Leiopelma/leiopelma.jpg)
-Scientific Name ::   Leiopelma hochstetteri
+scientific_name ::   Leiopelma hochstetteri
 Acknowledgements   frog loaned by David Green
-Copyright ::          © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::          © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 --------------------------------------------------------------------------
 ![](Leiopelma/leiopelma-Blood.jpg)
-Scientific Name ::     Leiopelma hamiltoni
-Specimen Condition   Dead Specimen
+scientific_name ::     Leiopelma hamiltoni
+specimen_condition ::  Dead Specimen
 Body Part            Cleared and stained skeleton
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

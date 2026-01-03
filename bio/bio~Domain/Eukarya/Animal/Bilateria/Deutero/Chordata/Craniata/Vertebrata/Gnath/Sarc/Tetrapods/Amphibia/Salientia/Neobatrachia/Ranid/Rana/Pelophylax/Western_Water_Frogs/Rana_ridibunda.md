@@ -116,8 +116,8 @@ Philadelphia 127(2): 13-24.
 ![](Rana_ridibunda/ridibunda.jpg) 
 
   ----------
-  Scientific Name ::  Rana ridibunda
-  Copyright ::         © 1995 Hansjürg Hotz
+  scientific_name ::  Rana ridibunda
+  copyright ::         © 1995 Hansjürg Hotz
   ----------
 
 

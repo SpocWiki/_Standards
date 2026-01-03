@@ -34,9 +34,9 @@ title: subgenus Strobus
 ![](Pinus_monticola(softpine).jpg)
 
   ---------------------------------------------------------------------------
-  Scientific Name ::  Pinus monticola
+  scientific_name ::  Pinus monticola
   Body Part         ovulate cone
-  Copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
+  copyright ::         © [Aaron Liston](http://www.bcc.orst.edu/bpp/faculty/liston/) 
  
   ---------------------------------------------------------------------------
 

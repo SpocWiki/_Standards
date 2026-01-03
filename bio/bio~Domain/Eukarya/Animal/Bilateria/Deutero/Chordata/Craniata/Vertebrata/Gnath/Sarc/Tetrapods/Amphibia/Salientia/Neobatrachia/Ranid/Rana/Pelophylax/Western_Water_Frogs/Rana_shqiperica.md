@@ -117,7 +117,7 @@ Photographs copyright © 1995, Hansjürg Hotz.
 ![](Rana_shqiperica/shqiperica.jpg) 
 
   ---------
-  Copyright ::   © 1995 Hansjürg Hotz
+  copyright ::   © 1995 Hansjürg Hotz
   ---------
 
 

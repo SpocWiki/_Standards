@@ -136,7 +136,7 @@ Alice (1898-1910). 3e Serie. Monaco.
 ![](magna/MastigoMagnaJoub.jpg) 
 
   -------------------------------------
-  Scientific Name ::  Mastigoteuthis magna
+  scientific_name ::  Mastigoteuthis magna
   Comments          Ventral view.
   Reference         Joubin, L. 1920. Céphalopodes provenant des Campagnes de la Princesse Alice (1898-1910). 3e Serie. Monaco.
   Size              160 mm ML
@@ -145,7 +145,7 @@ Alice (1898-1910). 3e Serie. Monaco.
 ![](magna/MMagnaLive.jpg) 
 
   -------------------------------
-  Scientific Name ::  Mastigoteuthis magna
+  scientific_name ::  Mastigoteuthis magna
   Comments          Ventrolateral view of a squid thought to be M. magna that was taken from a submersible
   -------------------------------
 

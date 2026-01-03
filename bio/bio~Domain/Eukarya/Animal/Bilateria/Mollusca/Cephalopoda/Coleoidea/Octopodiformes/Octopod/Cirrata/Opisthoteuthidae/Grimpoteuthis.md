@@ -237,20 +237,20 @@ African Jour. Mar. Sci.., 20: 393-420.
 ![](Grimpoteuthis/NewGrimpo.JPG) 
 
   ---------
-  Scientific Name ::  Grimpoteuthis sp.
-  Location ::        Antarctic waters
+  scientific_name ::  Grimpoteuthis sp.
+  location ::        Antarctic waters
   Creator           E. McSweeny
-  Copyright ::         © E. McSweeny
+  copyright ::         © E. McSweeny
   ---------
 ![](Grimpoteuthis/GimpoteuthisMarEco.jpg) 
 
   -------------------
-  Scientific Name ::     Grimpoteuthis sp.
-  Location ::           Central North Atlantic
+  scientific_name ::     Grimpoteuthis sp.
+  location ::           Central North Atlantic
   Comments             Photographed on R/V G. O. Sars, MARECO cruise.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   View                 Ventral
-  Copyright ::            © [David Shale](mailto:david.shale@virgin.net)
+  copyright ::            © [David Shale](mailto:david.shale@virgin.net)
   -------------------
 
 

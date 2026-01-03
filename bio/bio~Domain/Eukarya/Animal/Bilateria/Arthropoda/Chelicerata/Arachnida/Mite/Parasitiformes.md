@@ -87,7 +87,7 @@ SEM of Allothyrus sp. from Queensland (D.E. Walter)
 ![Allothyrus](Parasitiformes/Allothyrus.gif) 
 
 --------
-Copyright ::   © 1996 D. E. Walter
+copyright ::   © 1996 D. E. Walter
 --------
 
 

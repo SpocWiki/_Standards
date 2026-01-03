@@ -73,30 +73,30 @@ title: Platyrrhini
 
 ------------------------------------------------------------------------------ 
 ![](Platyrrhini/Callithrix_jacchus0122.jpg) 
-Scientific Name ::     Callithrix jacchus
-Location ::           Brazil
+scientific_name ::     Callithrix jacchus
+location ::           Brazil
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![](Platyrrhini/Saimiri_sciureus0113.jpg) 
-Scientific Name ::     Saimiri sciureus
-Location ::           Brazil
+scientific_name ::     Saimiri sciureus
+location ::           Brazil
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![](Platyrrhini/Ateles0115.jpg) 
-Scientific Name ::     Ateles
-Location ::           Panama
+scientific_name ::     Ateles
+location ::           Panama
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

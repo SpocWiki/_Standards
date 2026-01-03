@@ -160,18 +160,18 @@ PILLSBURY in the Gulf of Panama in 1967. Bull. Mar. Sci. 21:1-34.
 ![](Lolliguncula/LOLIGUNCULA21.jpg) 
 
   ----------
-  Scientific Name ::     Lollicuncula brevis
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Lollicuncula brevis
+  specimen_condition ::  Dead Specimen
   View                 Dorsal
-  Copyright ::            © 1996 Gus Stacy
+  copyright ::            © 1996 Gus Stacy
   ----------
 ![](Lolliguncula/LBrevisDrawMV.jpg) 
 
   ----------------------------------------------------------------------
-  Scientific Name ::  Lollicuncula brevis
+  scientific_name ::  Lollicuncula brevis
   Reference         Vecchione, M., C. F. E. Roper and M. J. Sweeney (1989). Marine flora and fauna of the eastern United States. Mollusca: Cephalopoda. NOAA Tech. Rep., NMFS 73: 23 pp.
   View              Ventral, dorsal
-  Copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ----------------------------------------------------------------------
 

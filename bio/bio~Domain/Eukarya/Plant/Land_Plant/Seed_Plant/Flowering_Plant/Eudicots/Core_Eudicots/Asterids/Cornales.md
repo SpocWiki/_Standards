@@ -52,10 +52,10 @@ title: Cornales
 
 ------------------------------------------------------------------------ 
 ![Japanese dogwood, Cornus kousa](Cornales/Cornus_kousa3723.jpg) 
-Scientific Name ::   Cornus kousa
+scientific_name ::   Cornus kousa
 Comments           Japanese dogwood (Cornaceae). Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

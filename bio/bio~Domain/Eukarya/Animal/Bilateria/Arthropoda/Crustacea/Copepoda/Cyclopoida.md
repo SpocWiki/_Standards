@@ -62,11 +62,11 @@ title: Cyclopoida
 
 --------------------------------------------------------------------------- 
 ![Cyclops female with egg sacs](Cyclopoida/Cyclops.jpg) 
-Scientific Name ::   Cyclops
+scientific_name ::   Cyclops
 Creator            Photograph by Jean-François Cornuet
 Sex ::              Female
 Life Cycle Stage ::   Female with egg sacs
-Copyright ::          © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::          © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

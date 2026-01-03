@@ -69,18 +69,18 @@ title: Nemertea
 
 -------------------------------------------------------------------------
 ![Tubulanus sexlineatus picture](Nemertea/Tubulanus_sexlineatus.jpg)
-Scientific Name ::     Tubulanus rhabdotus
-Location ::           Fort Pierce, Florida
+scientific_name ::     Tubulanus rhabdotus
+location ::           Fort Pierce, Florida
 Comments             Live, \"narcotized\"
 Creator              Jon L. Norenburg
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Jon L Norenburg
 Life Cycle Stage ::     Adult
 Body Part            Whole, missing posterior
 View                 Head ventral, at right
 Size                 Approx. 150 mm long
 Collector            Jon L Norenburg
-Copyright ::            © 2004 [Jon L. Norenburg](http://nemertes.si.edu/) 
+copyright ::            © 2004 [Jon L. Norenburg](http://nemertes.si.edu/) 
 
 
 ## Confidential Links & Embeds: 

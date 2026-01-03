@@ -60,30 +60,30 @@ Seed Plants
 
 ----------------------------------------------------------------------
 ![Cycas circinalis](Seed_Plant/Cycad/Cycas_circinalis.jpg)  
-Scientific Name ::     Cycas circinalis
-Location ::           Cultivated at the Botanical Garden, Basel, Switzerland
+scientific_name ::     Cycas circinalis
+location ::           Cultivated at the Botanical Garden, Basel, Switzerland
 Acknowledgements     courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Male
 Body Part            flower
-Copyright ::            © University of Basel, Basel, Switzerland 
+copyright ::            © University of Basel, Basel, Switzerland 
 
 
 ---------------------------------------------------------------------
 ![Stachys monnieri](Seed_Plant/Stachys_monnieri.jpg) 
-Scientific Name ::  Stachys monnieri 
+scientific_name ::  Stachys monnieri 
 Comments          Eudicots, Lamiaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ----------------------------------------------------------------------
 ![Gnetum gnemon cultivated at the Botanical Garden Basel, Switzerland](Seed_Plant/Gnetales/Gnetum_gnemon.jpg) 
-Scientific Name ::     Gnetum gnemon 
-Location ::           cultivated at the Botanical Garden Basel, Switzerland
+scientific_name ::     Gnetum gnemon 
+location ::           cultivated at the Botanical Garden Basel, Switzerland
 Acknowledgements     courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Body Part            new and old leaves
-Copyright ::            © University of Basel, Basel, Switzerland 
+copyright ::            © University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

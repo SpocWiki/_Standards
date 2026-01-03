@@ -69,11 +69,11 @@ subsect. Cembroides). Syst. Bot. 17:42-66.
 
 -------------------------------------------------------------------------------------------
 ![Pinus cembroides subspecies orizabensis](Cembroides/Pinus_cembroides_orizabensis.jpg) 
-Scientific Name ::     Pinus cembroides subspecies orizabensis
-Location ::           Puebla-Veracruz border, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Pinus cembroides subspecies orizabensis
+location ::           Puebla-Veracruz border, Mexico
+specimen_condition ::  Live Specimen
 Body Part            tree
-Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
+copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
 ## Confidential Links & Embeds: 

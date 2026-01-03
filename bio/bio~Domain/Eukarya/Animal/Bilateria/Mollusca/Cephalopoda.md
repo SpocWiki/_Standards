@@ -53,13 +53,13 @@ Octopods, squids, nautiluses, etc.
 -   **Octopus ornatus**, Great Barrier Reef (photograph copyright © 1996, Mark Norman).
 -   **Argonauta nodosa** juvenile, 58 mm shell length, captured off Melbourne (photograph copyright © 1996, David Paul).
 -   **Sepioloidea lineolata**, off south Australia (photograph copyright © 1998, Mark Norman).
--   **Iridoteuthis iris**, off Hawaii, about 18 mm ML (photograph Copyright :: © 1996, Thomas Burch).
+-   **Iridoteuthis iris**, off Hawaii, about 18 mm ML (photograph copyright :: © 1996, Thomas Burch).
 -   **Nototodarus hawaiiensis**, off Hawaii (photograph copyright © 1996, R. E. Young)
 -   **Leachia pacifica**, off Hawaii (photograph copyright © 1996, R. E. Young)
 
 --------------------------------------------------------------------------- 
 ![Cephalopoda](Cephalopoda/Cephalopoda.jpg)) 
-Copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (7), 1996 (8) R. E. Young, Hawaii Undersea Research Laboratory (2), Mark Norman (3), David Paul (4), Mark Norman (5), Thomas Burch (6), R. E. Young (7), R. E. Young (8)
+copyright ::   © 1996, 1996 (2), 1996 (3), 1996 (4), 1998 (5), 1996 (6), 1996 (7), 1996 (8) R. E. Young, Hawaii Undersea Research Laboratory (2), Mark Norman (3), David Paul (4), Mark Norman (5), Thomas Burch (6), R. E. Young (7), R. E. Young (8)
 
 
 ## Confidential Links & Embeds: 

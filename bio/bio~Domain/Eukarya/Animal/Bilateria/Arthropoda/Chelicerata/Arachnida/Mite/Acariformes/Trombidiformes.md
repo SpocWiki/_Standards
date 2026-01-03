@@ -137,7 +137,7 @@ rationale for this restructuring.
 ---------------------------------------------------------------------------------
 **Cunaxa** (Cunaxidae) feeding on a springtail (Collembola). Drawing
 copyright © 1998 H.Proctor & D.Walter.![cunaxa](Trombidiformes/cunaxa.gif))
-Copyright ::   © 1998 [Heather Proctor](http://www.biology.ualberta.ca/faculty/heather_proctor/) 
+copyright ::   © 1998 [Heather Proctor](http://www.biology.ualberta.ca/faculty/heather_proctor/) 
 
 
 ## Confidential Links & Embeds: 

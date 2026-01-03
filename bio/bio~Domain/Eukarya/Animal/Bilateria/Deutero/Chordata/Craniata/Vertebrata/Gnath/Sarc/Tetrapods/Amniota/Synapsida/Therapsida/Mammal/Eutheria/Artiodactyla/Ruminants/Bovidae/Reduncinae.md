@@ -52,27 +52,27 @@ title: Reduncinae
 
 ------------------------------------------------------------------------- 
 ![Bohor reedbuck](Reduncinae/reedbuck.jpg) 
-Scientific Name ::     Redunca redunca
-Location ::           Tarangire NP, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Redunca redunca
+location ::           Tarangire NP, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Sex ::                Male
 Life Cycle Stage ::     adult
 Body Part            whole
 View                 side
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![ defassa waterbuck (Kobus ellipsiprymnus defassa) male, Serengeti NP ](Reduncinae/defassa_waterbuck.jpg) 
-Scientific Name ::     Kobus ellipsiprymnus defassa
-Location ::           Serengeti National Park, Tanzania
+scientific_name ::     Kobus ellipsiprymnus defassa
+location ::           Serengeti National Park, Tanzania
 Comments             Waterbucks prefer habitats with plenty of cover and will die if denied access to shade. This is a mature male; females are hornless.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

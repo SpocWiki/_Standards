@@ -439,36 +439,36 @@ edit internet links
 ![](Ascomycota/t.gif) 
 
   ---------------------
-  Scientific Name ::  Taphrina
+  scientific_name ::  Taphrina
   Comments          Asci of the peach leaf curl fungus atop a peach leaf
   Body Part         asci
-  Copyright ::         © 1996 K. Wells
+  copyright ::         © 1996 K. Wells
   ---------------------
 
 ![](s.gif)
 
   --------------------
-  Scientific Name ::  Saccharomyces
+  scientific_name ::  Saccharomyces
   Comments          Budding cells of the baker\'s and brewer\'s yeast
-  Copyright ::         © 1996 K. Wells
+  copyright ::         © 1996 K. Wells
   --------------------
 
 ![](../../../bio~Tree/Mollusca/Cephalopoda/Coleoidea/Decapodiformes/Oegopsida/Chiroteuthid/Mastigoteuthidae/dentata/M.gif)
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Morchella
+  scientific_name ::  Morchella
   Comments          Two fruiting bodies (ascomata) of the edible morel with one sliced open
   Body Part         fruiting bodies (ascomata)
-  Copyright ::         © 1996 [John W. Taylor](http://plantbio.berkeley.edu/%7Etaylor/) 
+  copyright ::         © 1996 [John W. Taylor](http://plantbio.berkeley.edu/%7Etaylor/) 
  
   -----------------------------------------------------------------------------
 ![](Ascomycota/p.gif) 
 
   -------------------------
-  Scientific Name ::  Penicillium
+  scientific_name ::  Penicillium
   Comments          Mitospores (conidia) of Penicillium, one of the asexual Ascomycota
   Body Part         Mitospores (conidia)
-  Copyright ::         © 1996 K. Wells
+  copyright ::         © 1996 K. Wells
   -------------------------
 
 

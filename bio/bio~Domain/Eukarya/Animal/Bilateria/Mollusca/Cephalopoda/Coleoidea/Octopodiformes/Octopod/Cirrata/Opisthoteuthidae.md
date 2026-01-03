@@ -169,10 +169,10 @@ morphology of cirrate octopods: locomotion and feeding. Vie Milieu
 ![](Opisthoteuthidae/OGRIMALD.jpg) 
 
   ----------------------------------------------------------------------
-  Scientific Name ::  Opisthoteuthis grimaldii
-  Location ::        Bahamas
+  scientific_name ::  Opisthoteuthis grimaldii
+  location ::        Bahamas
   Comments          Captured by submersible
-  Copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::         © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ----------------------------------------------------------------------
 

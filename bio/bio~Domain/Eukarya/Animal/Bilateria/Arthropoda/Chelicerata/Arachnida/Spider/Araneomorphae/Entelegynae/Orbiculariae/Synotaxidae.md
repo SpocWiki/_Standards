@@ -77,28 +77,28 @@ Microscop. Soc. 84:177-184.
 ![](Synotaxidae/chileotaxus_sans.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Chileotaxus sans
-  Location ::           Chile
-  Specimen Condition   Live Specimen
+  scientific_name ::     Chileotaxus sans
+  location ::           Chile
+  specimen_condition ::  Live Specimen
   Identified By        Ingi Agnarsson
   Sex ::                Female
   Life Cycle Stage ::     adult
   Size                 ca. 15 cm across
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Synotaxidae/synotaxussl6b.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Synotaxus monoceros
-  Location ::           Guyana
-  Specimen Condition   Live Specimen
+  scientific_name ::     Synotaxus monoceros
+  location ::           Guyana
+  specimen_condition ::  Live Specimen
   Identified By        Ingi Agnarsson
   Behavior             Synotaxus makes a modular web with varying numbers of vertical panels, one of the few examples of a
   Sex ::                Female
   Life Cycle Stage ::     adult
   Size                 ca. 20-30 cm. high
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

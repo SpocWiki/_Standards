@@ -52,25 +52,25 @@ title: Gastropoda
 
 -------------------------------------------------------------------------- 
 ![Nudibranchia](Gastropoda/Nudibranchia.jpg) 
-Scientific Name ::  Nudibranchia
+scientific_name ::  Nudibranchia
 Comments          Silver cloud nudibranch
 Creator           P. Crawford & D. Giberson, UPEI
-Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 --------------------------------------------------------------------------- 
 ![Pulmonata](Gastropoda/Pulmonata.jpg)) 
-Scientific Name ::     Pulmonata
+scientific_name ::     Pulmonata
 Comments             A pulmonate snail
 Creator              Cornuet
-Specimen Condition   Live Specimen
-Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 --------------------------------------------------------------------------
 ![](Gastropoda/Gastropoda.jpg)
-Scientific Name ::  Gastropoda
+scientific_name ::  Gastropoda
 Comments          a limpet
 Creator           P. Crawford, UPEI
-Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

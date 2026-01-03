@@ -148,9 +148,9 @@ start_time: -56000000-01-01T00:00:00Z
 
 ------------------------------------------------------------------------------
 ![Black rhinoceros](Perissodactyla/01046blackrhinos.jpg)
-Scientific Name ::     Diceros bicornis
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+scientific_name ::     Diceros bicornis
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

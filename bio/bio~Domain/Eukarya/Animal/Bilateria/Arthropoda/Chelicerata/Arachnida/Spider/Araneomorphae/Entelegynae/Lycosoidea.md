@@ -65,24 +65,24 @@ Oxyopidae). Journal of Zoology 253:309-332.
 ![](Lycosoidea/Lycosa_helluo2.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Lycosa (Hogna) helluo
+  scientific_name ::     Lycosa (Hogna) helluo
   Comments             Wolf spider female with egg sac.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Sex ::                Female
   Life Cycle Stage ::     adult, egg sac
-  Copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
+  copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
  
   -----------------------------------------------------------------------
 ![](Lycosoidea/Lynx_Spider0082.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Oxyopidae
+  scientific_name ::     Oxyopidae
   Comments             Lynx spider with captured bee.
   Creator              Photograph by Alden M. Johnson
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Behavior             predation
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 

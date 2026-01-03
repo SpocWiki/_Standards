@@ -279,13 +279,13 @@ paraphyletic groups.
 
 ------------------------------------------------------------------------------
 ![False killer whales](Odontoceti/Pseudorca_crassidens80.jpg)
-Scientific Name ::     Pseudorca crassidens
-Location ::           Ecuador
+scientific_name ::     Pseudorca crassidens
+location ::           Ecuador
 Comments             False killer whales (Delphinidae)
 Creator              Photograph by Gerald and Buff Corsi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

@@ -2,6 +2,27 @@
 aliases:
   - Bolitoglossinae
 title: Bolitoglossinae
+__scientific_name: Bolitoglossa lincolni
+__location: Caxaque (San Marcos, Guatemala)
+__copyright: © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
+__is_:
+  same_as:
+    - "[[Bolitoglossinae]]"
+    - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
+    - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]"
+    - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]"
+    - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
+    - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
+    - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
+__is_same_as:
+  - "[[Bolitoglossinae]]"
+  - "[[/_public/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.public|Bolitoglossinae.public]]"
+  - "[[/_internal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.internal|Bolitoglossinae.internal]]"
+  - "[[/_protect/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.protect|Bolitoglossinae.protect]]"
+  - "[[/_private/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.private|Bolitoglossinae.private]]"
+  - "[[/_personal/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.personal|Bolitoglossinae.personal]]"
+  - "[[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amphibia/Caudata/Plethodontidae/Bolitoglossinae.secret|Bolitoglossinae.secret]]"
+__specimen_condition: Live Specimen
 ---
 
 # [[Bolitoglossinae]] 
@@ -172,10 +193,10 @@ Macey, 2005).
 
 -----------------------
 ![](Bolitoglossinae/Bolitoglossa_lincolni.jpg)
-Scientific Name ::     Bolitoglossa lincolni
-Location ::           Caxaque (San Marcos, Guatemala)
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Sean Michael Rovito](mailto:smrovito@berkeley.edu)
+ scientific_name = `$= dv.current().__scientific_name` 
+ location = `$= dv.current().__location` 
+ specimen_condition = `$= dv.current().__specimen_condition` 
+ copyright = `$= dv.current().__copyright` 
 
 
 ## Confidential Links & Embeds: 

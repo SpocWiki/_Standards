@@ -109,7 +109,7 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 ![](bacidifera/BathyBacidifera.jpg) 
 
   ---------
-  Copyright ::   © 1998 C. F. E. Roper
+  copyright ::   © 1998 C. F. E. Roper
   ---------
 
 

@@ -56,8 +56,8 @@ title: Austrobaileyales
 
 -----------------------------------
 ![](Austrobaileyales/Illicium_floridanum439.jpg)
-Scientific Name ::   Illicium floridanum
-Location ::         Southeastern United States
+scientific_name ::   Illicium floridanum
+location ::         Southeastern United States
 Comments           purple anise
 Reference          from Curtis Botanical Magazine 1799
 Creator            Image by Sydenham S. Edwards
@@ -65,13 +65,13 @@ Acknowledgements   Courtesy [National Agricultural Library, ARS, USDA](http://ww
 
 ------------------------------
 ![](Austrobaileyales/Schisandra_glabra1241322.jpg)
-Scientific Name ::     Schisandra glabra
-Location ::           West Feliciana Parish, Louisiana
+scientific_name ::     Schisandra glabra
+location ::           West Feliciana Parish, Louisiana
 Comments             bay starvine
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1241322)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © James Henderson, Gulf South Research Corporation
+copyright ::            © James Henderson, Gulf South Research Corporation
 
 
 ## Confidential Links & Embeds: 

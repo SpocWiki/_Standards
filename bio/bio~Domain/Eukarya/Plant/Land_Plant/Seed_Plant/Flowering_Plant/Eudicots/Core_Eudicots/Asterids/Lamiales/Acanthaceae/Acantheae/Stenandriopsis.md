@@ -79,35 +79,35 @@ genus as distinct from *Stenandriopsis* may be unwarranted.
 
 --------------------------------------------------------------------------- 
 ![Achyrocalyx](Stenandriopsis/Achyrocalyx.jpg) 
-Scientific Name ::     Achyrocalyx gossypinus Benoist
-Location ::           Madagascar
+scientific_name ::     Achyrocalyx gossypinus Benoist
+location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collector            Perrier de la Bathie
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg) 
-Scientific Name ::     Achyrocalyx pungens Benoist
-Location ::           Madagascar
-Specimen Condition   Dead Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Achyrocalyx pungens Benoist
+location ::           Madagascar
+specimen_condition ::  Dead Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ![Stenandrium guineensis](sclerock.jpg)
-Scientific Name ::     Stenandrium guineensis (Nees) Vollesen
-Location ::           Greenhouses, Kew Botanical Garden, Richmond England
-Specimen Condition   Live Specimen
+scientific_name ::     Stenandrium guineensis (Nees) Vollesen
+location ::           Greenhouses, Kew Botanical Garden, Richmond England
+specimen_condition ::  Live Specimen
 Identified By        K. Vollesen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![Achyrocalyx pungens](Stenandriopsis/Achyrocal.jpg) 
-Scientific Name ::     Achyrocalyx pungens Benoist
-Location ::           Madagascar
+scientific_name ::     Achyrocalyx pungens Benoist
+location ::           Madagascar
 Reference            \(P\) Herbarium Museum Paris
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collector            Rauh
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

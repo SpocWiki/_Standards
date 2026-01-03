@@ -205,9 +205,9 @@ resolution of the phylogenetic relationships among the species of
 
 ----------------------- 
 ![](Proteidae/necturusc.jpg) 
-Scientific Name ::  Necturus alabamensis
+scientific_name ::  Necturus alabamensis
 Comments          The Alabama waterdog
-Copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
+copyright ::         © 1996 [Greg Sievert](http://academic.emporia.edu/sievertg/)
 
 
 ## Confidential Links & Embeds: 

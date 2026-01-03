@@ -111,30 +111,30 @@ included. See the account under [*Allophryne ruthveni*](Allophryne%20ruthveni.md
 
 -------------------------------------------------------------------------
 ![Acris crepitans](Hylidae/acris_crepitans.jpg)
-Scientific Name ::  Acris crepitans
-Location ::        Louisiana
-Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::  Acris crepitans
+location ::        Louisiana
+copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 -------------------------------------------------------------------------- 
 ![Agalychnis annae](Hylidae/agalychnis.jpg) 
-Scientific Name ::     Agalychnis annae
-Location ::           Costa Rica
-Specimen Condition   Live Specimen
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::     Agalychnis annae
+location ::           Costa Rica
+specimen_condition ::  Live Specimen
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
 ![](Hylidae/phyllomedusa.jpg) 
-Scientific Name ::     Phyllomedusa tomopterna
-Location ::           Ecuador
-Specimen Condition   Live Specimen
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::     Phyllomedusa tomopterna
+location ::           Ecuador
+specimen_condition ::  Live Specimen
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 -------------------------------------------------------------------------- 
 ![Hyla regilla](Hylidae/hyla.jpg) 
-Scientific Name ::  Hyla regilla
-Location ::        California
-Copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
+scientific_name ::  Hyla regilla
+location ::        California
+copyright ::         © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

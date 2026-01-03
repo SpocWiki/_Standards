@@ -259,21 +259,21 @@ and reflect their unique evolutionary adaptations for diverse ecological roles a
 
 ------------------------------------------------------------------------------ 
 ![African lion](Mammal/lion.jpg) 
-Scientific Name ::     Panthera leo
-Location ::           Okavango Delta, Botswana
+scientific_name ::     Panthera leo
+location ::           Okavango Delta, Botswana
 Comments             African lion
-Specimen Condition   Live Specimen
-Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------
 ![Virginia opossum sitting on forest floor, facing camera](Mammal/possums.jpg)
-Scientific Name ::     Didelphis virginiana
-Location ::           Twin Swamps Nature Preserve, Indiana, USA
+scientific_name ::     Didelphis virginiana
+location ::           Twin Swamps Nature Preserve, Indiana, USA
 Comments             Virginia opossum
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Katja Schulz
 Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
-Copyright ::            © 1990 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+copyright ::            © 1990 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 
 ## Confidential Links & Embeds: 

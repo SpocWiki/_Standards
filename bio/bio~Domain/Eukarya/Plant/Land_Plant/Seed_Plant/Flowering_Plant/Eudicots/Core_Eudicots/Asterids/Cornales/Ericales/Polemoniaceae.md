@@ -382,35 +382,35 @@ importance (Grant 2003a).
 
 ------------------------------------------------------------------------ 
 ![Phlox amoena](Polemoniaceae/phlox_amoena.jpg)) 
-Scientific Name ::  Phlox amoena
-Location ::        USA: North Carolina Botanic Garden, Cultivated.
+scientific_name ::  Phlox amoena
+location ::        USA: North Carolina Botanic Garden, Cultivated.
 Sex ::             Perfect flowers
 Body Part         Inflorescence
-Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
+copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 ------------------------------------------------------------------------ 
 ![Ipomopsis aggregata](Polemoniaceae/Ipomopsis_aggregata.jpg) 
-Scientific Name ::  Ipomopsis aggregata
-Location ::        USA: Utah Co., Utah
+scientific_name ::  Ipomopsis aggregata
+location ::        USA: Utah Co., Utah
 Sex ::             Perfect flowers
 Body Part         Inflorescence
-Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
+copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 ------------------------------------------------------------------------ 
 ![Gilia Stellata](Polemoniaceae/Gilia_Stellata.jpg)) 
-Scientific Name ::  Gilia Stellata
-Location ::        USA: Washington Co., Utah
+scientific_name ::  Gilia Stellata
+location ::        USA: Washington Co., Utah
 Sex ::             Perfect flowers
 Body Part         Full plant
-Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
+copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 ------------------------------------------------------------------------ 
 ![Polemonium occidentale](Polemoniaceae/Polemonium_occidentale.jpg) 
-Scientific Name ::  Polemonium occidentale
-Location ::        USA: Juab Co., Utah
+scientific_name ::  Polemonium occidentale
+location ::        USA: Juab Co., Utah
 Sex ::             Perfect flowers
 Body Part         upper 2/3 of plant
-Copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
+copyright ::         © 2003 [Leigh Johnson](mailto:leigh_johnson@byu.edu) 
 
 
 ## Confidential Links & Embeds: 

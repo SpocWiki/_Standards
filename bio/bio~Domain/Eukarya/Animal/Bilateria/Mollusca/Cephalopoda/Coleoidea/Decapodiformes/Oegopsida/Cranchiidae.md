@@ -170,8 +170,8 @@ Voss N. A., S. J. Stephen and Zh. Dong 1992. Family Cranchiidae Prosch,
 ![](Cranchiidae/Mfisheri.jpg) 
 
   ------------
-  Scientific Name ::   Megalocranchia fisheri
-  Location ::         off Hawaii
+  scientific_name ::   Megalocranchia fisheri
+  location ::         off Hawaii
   Life Cycle Stage ::   young
   ------------
 

@@ -149,15 +149,15 @@ Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae
 ![](Magnapinna_atlantica/MagnpinnaSpA.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Magnapinna atlantica
-  Location ::           Gulf of Mexico, 27°45\'N, 88°31\'W, at 1940 m depth
+  scientific_name ::     Magnapinna atlantica
+  location ::           Gulf of Mexico, 27°45\'N, 88°31\'W, at 1940 m depth
   Reference            Vecchione, M. and R. E. Young. 2006. The squid family Magnapinnidae (Mollusca; Cephalopoda) in the North Atlantic with a description of Magnapinna atlantica, n. sp.. Proc. Biol. Soc. Wash. 119 (3): 365-372.
-  Specimen Condition   Preserved
+  specimen_condition ::  Preserved
   Sex ::                Female
   View                 Ventral/dorsal
   Size                 59 mm ML
   Type                 Holotype
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------
 

@@ -6,7 +6,7 @@ title: Astacus
 
 # [[Astacus]] 
 ![Astacus leptodactylus habitus](Astacus/a.jpg)) 
-Copyright ::   © 1995 University of Kuopio and Ari Mannonen
+copyright ::   © 1995 University of Kuopio and Ari Mannonen
 
 ## #has_/text_of_/abstract 
 

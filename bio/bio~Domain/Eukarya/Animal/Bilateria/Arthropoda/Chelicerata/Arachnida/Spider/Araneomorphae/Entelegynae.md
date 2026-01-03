@@ -59,21 +59,21 @@ title: Entelegynae
 
 -------------------------------------------------------------------------
 ![Misumena vatia](Entelegynae/Misumena_vatia.jpg)
-Scientific Name ::     Misumena vatia
-Location ::           Bodega Bay (Marin County, California, US)
+scientific_name ::     Misumena vatia
+location ::           Bodega Bay (Marin County, California, US)
 Comments             Yellow crab spider (goldenrod spider) on wild carrot, Daucus carota.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
+copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
 ----------------------------------------------------------------------- 
 ![](Entelegynae/Dolomedes_tenebrosus.jpg) 
-Scientific Name ::     Dolomedes tenebrosus
+scientific_name ::     Dolomedes tenebrosus
 Comments             Fishing spider with egg case.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Female
 Life Cycle Stage ::     adult, egg sac
-Copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
+copyright ::            © [Jim Kalisch](http://entomology.unl.edu/) 
 
 
 ## Confidential Links & Embeds: 

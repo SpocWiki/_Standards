@@ -242,14 +242,14 @@ Mar. Sci. 27: 353-392.
 ![](Tremoctopodidae/TremoctSilhou1.jpg) 
 
   ------------------------
-  Scientific Name ::     Tremoctopus violaceus
-  Location ::           1 mile east of Pompano Beach, Florida.
+  scientific_name ::     Tremoctopus violaceus
+  location ::           1 mile east of Pompano Beach, Florida.
   Comments             Water depth 11 m.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        M. Vecchione
   Sex ::                Female
   View                 Ventral
-  Copyright ::            © 2005 [Cassandra L. Cox](mailto:craftycassandra@hotmail.com)
+  copyright ::            © 2005 [Cassandra L. Cox](mailto:craftycassandra@hotmail.com)
   ------------------------
 
 

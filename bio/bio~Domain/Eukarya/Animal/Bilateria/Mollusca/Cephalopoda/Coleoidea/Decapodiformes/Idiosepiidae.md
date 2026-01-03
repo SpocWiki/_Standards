@@ -132,16 +132,16 @@ Nat. Mus., 234: 1-180.
 ![](Idiosepiidae/Idiosep.JPG) 
 
   ------------
-  Scientific Name ::   Idiosepius notoides
-  Location ::         off Australia
+  scientific_name ::   Idiosepius notoides
+  location ::         off Australia
   Acknowledgements   provided by Mark Norman
-  Copyright ::          © 1996 David Paul
+  copyright ::          © 1996 David Paul
   ------------
 ![](Idiosepiidae/IdiosepiusVoss2.jpg) 
 
   ---------------------------------
-  Scientific Name ::  Idiosepius pygmaeus
-  Location ::        Off Philippine Islands
+  scientific_name ::  Idiosepius pygmaeus
+  location ::        Off Philippine Islands
   Reference         Voss, G. L. 1963. Cephalopoda of the Philippine Islands. Bull. U. S. Nat. Mus., 234: 1-180.
   Sex ::             Male
   View              Dorsal and ventral

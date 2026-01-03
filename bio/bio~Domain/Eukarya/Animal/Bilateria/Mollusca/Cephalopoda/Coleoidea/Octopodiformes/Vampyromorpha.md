@@ -252,17 +252,17 @@ rather than black chromatophores.
 
 -------------------------------
 ![](VampSeibel.jpg)
-Scientific Name ::  Vampyroteuthis infernalis
-Location ::        San Clemente Basin off Southern California
+scientific_name ::  Vampyroteuthis infernalis
+location ::        San Clemente Basin off Southern California
 Comments          Photographed in plankton kreisel aboard the R/V NEW HORIZON. Captured at 700 m depth.
 Size              25 cm total length
-Copyright ::         © 1999 Brad Seibel
+copyright ::         © 1999 Brad Seibel
 
 ------------------------------------------------------------------------------ 
 ![](Vampyromorpha/VampireDraw.jpg) 
-Scientific Name ::  Vampyroteuthis infernalis
+scientific_name ::  Vampyroteuthis infernalis
 Reference         from Young, R. E. 1972. The systematics and areal distribution of pelagic cephalopods from the seas off Southern California. Smithson. Contr. Zool., 97: 1-159.
-Copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::         © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

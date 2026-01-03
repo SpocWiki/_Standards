@@ -88,29 +88,29 @@ information presented here for Acantheae.
 
   ---------------------------------------------------------------------------
 ![](New_Acantheae/aphelandra_003.jpg)
-Scientific Name ::     Aphelandra terryae Standl.
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Aphelandra terryae Standl.
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![](New_Acantheae/aph.jpg) 
-Scientific Name ::     Aphelandra macrophylla Leonard
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Aphelandra macrophylla Leonard
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 -------------------------------------------------------------------------- 
 ![](New_Acantheae/geissomeria.jpg) 
-Scientific Name ::     Geissomeria tetragona Lindau
-Specimen Condition   Live Specimen
-Copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Geissomeria tetragona Lindau
+specimen_condition ::  Live Specimen
+copyright ::            © [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------
 ![](New_Acantheae/aphelandra_004.jpg)
-Scientific Name ::     Aphelandra rosulata (Lindau) Wassh.
-Location ::           Ecuador
-Specimen Condition   Live Specimen
+scientific_name ::     Aphelandra rosulata (Lindau) Wassh.
+location ::           Ecuador
+specimen_condition ::  Live Specimen
 Collector            John L. Clark
-Copyright ::            © 2005 John L. Clark
+copyright ::            © 2005 John L. Clark
 
 
 ## Confidential Links & Embeds: 

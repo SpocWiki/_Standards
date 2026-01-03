@@ -59,13 +59,13 @@ title: Alcelaphus buselaphus
 
 ------------------------------ 
 ![Hartebeest](Hartebeest/Hartebeest.jpg) 
-Scientific Name ::     Alcelaphus buselaphus
-Location ::           Kenya
+scientific_name ::     Alcelaphus buselaphus
+location ::           Kenya
 Comments             Hartbebeest
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1428038)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © William M. Ciesla, Forest Health Management International
+copyright ::            © William M. Ciesla, Forest Health Management International
 
 
 ## Confidential Links & Embeds: 

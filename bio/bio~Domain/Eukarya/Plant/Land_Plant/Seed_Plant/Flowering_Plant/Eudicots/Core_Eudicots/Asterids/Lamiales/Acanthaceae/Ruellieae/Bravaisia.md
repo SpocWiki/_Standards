@@ -56,16 +56,16 @@ possibly fragrant, also notable in Acanthaceae.
 
 ----------------------------------------------------------------------
 ![](Bravaisia/Bravasia_integerrima-Blossom.jpg)
-Scientific Name ::  Bravaisia integerrima Standl.
-Location ::        La Selva, Costa Rica
-Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+scientific_name ::  Bravaisia integerrima Standl.
+location ::        La Selva, Costa Rica
+copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 -----------------------------------------------------------------------
 ![](Bravaisia/Bravasia_integerrima.jpg)
-Scientific Name ::     Bravaisia integerrima Standl.
-Location ::           La Selva, Costa Rica
-Specimen Condition   Live Specimen
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+scientific_name ::     Bravaisia integerrima Standl.
+location ::           La Selva, Costa Rica
+specimen_condition ::  Live Specimen
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

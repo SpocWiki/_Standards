@@ -52,24 +52,24 @@ title: Peracarida
 
 ------------------------------------------------------------------------------
 ![Cirolana_harfordi](Peracarida/Cirolana_harfordi.jpg) 
-Scientific Name ::     Idotea
-Specimen Condition   Live Specimen
+scientific_name ::     Idotea
+specimen_condition ::  Live Specimen
 Identified By        Rick Brusca
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 -------------------------------------------------------------------------
 ![](Peracarida/Gnathophausia_ingens.jpg)
-Scientific Name ::    Gnathophausia ingens
-Location ::          Monterey Bay Aquarium (Monterey County, California, US)
+scientific_name ::    Gnathophausia ingens
+location ::          Monterey Bay Aquarium (Monterey County, California, US)
 Comments            Deep water giant red mysid.
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2000 [Joseph Dougherty](http://www.ecology.org/) 
+copyright ::           © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
 -------------------------------------------------------------------------- 
 ![](Peracarida/Gammarus_pulex.jpg) 
-Scientific Name ::  Gammarus pulex
+scientific_name ::  Gammarus pulex
 Creator           Photograph by Jean-François Cornuet
-Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

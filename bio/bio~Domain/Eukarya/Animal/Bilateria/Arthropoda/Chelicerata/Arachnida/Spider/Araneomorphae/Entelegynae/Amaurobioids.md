@@ -43,13 +43,13 @@ title: other amaurobioids
 
 -------------------------------------------------------------------------
 ![Agelenopsis aperta](Amaurobioids/Agelenopsis_aperta0103.jpg)
-Scientific Name ::     Agelenopsis aperta
-Location ::           Mt. Diablo (Contra Costa County, California, US)
+scientific_name ::     Agelenopsis aperta
+location ::           Mt. Diablo (Contra Costa County, California, US)
 Comments             Funnel web spider (Western grass spider)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Female
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
+copyright ::            © 2000 [Joseph Dougherty](http://www.ecology.org/) 
 
 
 ## Confidential Links & Embeds: 

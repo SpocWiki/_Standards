@@ -72,25 +72,25 @@ title: Hippopotamidae
 ![Pygmy hippo (Hexaprotodon liberiensis)](Hippopotamidae/pigmy_hippo.jpg)
 
 -------------------------------------------------------------------------
-Scientific Name ::     Hexaprotodon liberiensis
-Location ::           Mk Kenya Safari Club, Kenya
+scientific_name ::     Hexaprotodon liberiensis
+location ::           Mk Kenya Safari Club, Kenya
 Comments             This captive originated in West Africa.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Behavior             Displaying tusks
 Sex ::                Male
 Life Cycle Stage ::     Adult
 Body Part            Head
 View                 Fronto-lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![](Hippopotamidae/Hippopotamus/Hippopotamus_amphibius.jpg)
-Scientific Name ::     Hippopotamus amphibius
-Location ::           Okavango Delta of Botswana
+scientific_name ::     Hippopotamus amphibius
+location ::           Okavango Delta of Botswana
 Comments             hippo adult and 3-4-month-old juvenile on bank
-Specimen Condition   Live Specimen
-Copyright ::            © 1993 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1993 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

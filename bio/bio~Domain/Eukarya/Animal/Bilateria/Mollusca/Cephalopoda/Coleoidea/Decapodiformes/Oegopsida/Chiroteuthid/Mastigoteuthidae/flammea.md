@@ -130,7 +130,7 @@ der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899,
 ![](flammea/MFlammea.jpg) 
 
   ------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis flammea
+  scientific_name ::  Mastigoteuthis flammea
   Comments          Ventral (top) and dorsal views.
   Reference         Chun, C. 1910. Die Cephalopoden. Oegopsida. Wissenschaftliche Ergebnisse der Deutschen Tiefsee Expedition auf dem Dampfer \"Valdivia\" 1898-1899, 18(1):1-401.
   Size              35 mm ML

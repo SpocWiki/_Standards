@@ -116,10 +116,10 @@ taxon_name: Connochaetes
 
 ------------------------------------------------------------------------------
 ![Wildebeast](Wildebeest/Wildebeast.jpg)
-Scientific Name ::  Connochaetes taurinus
-Location ::        Seronera area of Serengeti National Park, Tanzania
+scientific_name ::  Connochaetes taurinus
+location ::        Seronera area of Serengeti National Park, Tanzania
 Behavior          wildebeest drinking in shallow stream
-Copyright ::         © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1989 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

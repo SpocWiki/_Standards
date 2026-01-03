@@ -85,17 +85,17 @@ Mar. Sci. 20: 421-428.
 ![](glacialis/CirroctoGlacAreolae.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::  Cirroctopus glacialis
+  scientific_name ::  Cirroctopus glacialis
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
-  Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
 ![](glacialis/CirroctGlacDors.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::  Cirroctopus glacialis
+  scientific_name ::  Cirroctopus glacialis
   Reference         Vecchione, M., U. Piatkowski and A. L. Allcock. 1998. Biology of the cirrate octopod Grimpoteuthis glacialis (Cephalopoda; Opisthoteuthidae) in the South Shetland Islands, Antarctica. S. Afr. J. Mar. Sci. 20: 421-428.
-  Copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::         © 1998 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   ------------------------------------------------------------------------
 

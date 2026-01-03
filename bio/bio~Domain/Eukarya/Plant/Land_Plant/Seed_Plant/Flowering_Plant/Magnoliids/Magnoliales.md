@@ -38,16 +38,16 @@ title: Magnoliales
 
 ---------------------------------------------------------------------
 ![Magnolia tripetala](Magnoliales/Magnolia_tripetala03805.jpg) 
-Scientific Name ::  Magnolia tripetala
+scientific_name ::  Magnolia tripetala
 Comments          Magnoliaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ----------------------------------------------------------------------------------------------
 ![Asimina triloba,Pawpaw tree](Magnoliales/Pawpaw_tree.jpg) 
-Scientific Name ::  Asimina triloba
+scientific_name ::  Asimina triloba
 Comments          Pawpaw tree, Annonaceae
 Creator           Photo by Scott Bauer
-Copyright ::         © [USDA Agricultural Research Service USDA Agricultural Research Service](http://www.ars.usda.gov/is/graphics/photos/) 
+copyright ::         © [USDA Agricultural Research Service USDA Agricultural Research Service](http://www.ars.usda.gov/is/graphics/photos/) 
 
 
 ## Confidential Links & Embeds: 

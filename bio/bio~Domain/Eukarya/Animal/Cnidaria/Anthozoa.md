@@ -282,17 +282,17 @@ Kansas Press, Lawrence.
 ![](Anthozoa/img0077.jpg) 
 
   ------------------------
-  Scientific Name ::     Stichodactyla mertensii
+  scientific_name ::     Stichodactyla mertensii
   Comments             The \"giant\" sea anemone, a member of subclass Zoantharia.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1999 Gerald R. Allen
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1999 Gerald R. Allen
   ------------------------
 ![](Anthozoa/octocorallia.jpg) 
 
   ----------------------------
-  Scientific Name ::  Alcyonaria
+  scientific_name ::  Alcyonaria
   Comments          Colony of alcyonarians (\"soft corals\"). Note eight tentacles on each polyp.
-  Copyright ::         © 1999 George Miller
+  copyright ::         © 1999 George Miller
   ----------------------------
 
 

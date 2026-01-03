@@ -68,29 +68,29 @@ taxon_common_name: 龙胆目
 
 ------------------------------------------------------------------------
 ![Carrion flower, Piaranthus foetidus](Gentianales/Piaranthus_foetidus.jpg)
-Scientific Name ::   Piaranthus foetidus
+scientific_name ::   Piaranthus foetidus
 Comments           Carrion flower (Apocynaceae). Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 --------------------------------------- 
 ![Rainier pleated gentian, Gentiana calycosa](Gentianales/Gentiana_calycosa.jpg) 
 
-Scientific Name ::    Gentiana calycosa (Gentianaceae)
-Location ::          Kidd Basin, near Kidd Creek, north of Black Mountain in the Trinity Alps (Siskiyou County, California, USA).
+scientific_name ::    Gentiana calycosa (Gentianaceae)
+location ::          Kidd Basin, near Kidd Creek, north of Black Mountain in the Trinity Alps (Siskiyou County, California, USA).
 Comments            Rainier pleated gentian
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1999 [John Game](mailto:jcgame@lbl.gov)
+copyright ::           © 1999 [John Game](mailto:jcgame@lbl.gov)
 
 ---------------------------------------------------------------------------------
 ![Galium ambiguum](Gentianales/Galium_ambiguum.jpg)
-Scientific Name ::     Galium ambiguum
-Location ::           Low Divide (California, USA).
+scientific_name ::     Galium ambiguum
+location ::           Low Divide (California, USA).
 Comments             Rubiaceae
 Creator              Photograph by Brother Alfred Brousseau
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
+copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
 
 
 ## Confidential Links & Embeds: 

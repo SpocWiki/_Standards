@@ -96,13 +96,13 @@ that situation.
 ![deer mouse](Muroidea/Peromyscus_maniculatus0030.jpg) 
 
 ------------------------------------------------------------------------------
-Scientific Name ::     Peromyscus maniculatus
-Location ::           Teslin Lake (Alaska, USA)
+scientific_name ::     Peromyscus maniculatus
+location ::           Teslin Lake (Alaska, USA)
 Comments             Deer Mouse
 Creator              Photograph by Glenn and Martha Vargas
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
 ------------------------------------------------------------------------------
 
 

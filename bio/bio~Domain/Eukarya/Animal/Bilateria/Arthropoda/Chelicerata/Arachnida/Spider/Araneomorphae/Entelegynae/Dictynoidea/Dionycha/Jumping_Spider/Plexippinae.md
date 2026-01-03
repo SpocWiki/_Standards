@@ -121,7 +121,7 @@ Bulletin of the Museum of Comparative Zoology. l54(4): 215-368.
 ![](Plexippinae/plexippinae.gif) 
 
   ---------------------------------------------------------------------------
-  Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+  copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
  
   ---------------------------------------------------------------------------
 

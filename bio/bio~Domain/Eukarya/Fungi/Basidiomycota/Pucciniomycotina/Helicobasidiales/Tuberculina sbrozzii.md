@@ -35,37 +35,37 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 ![](Tuberculina_sbrozzii/Tsb1718.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
-  Location ::           Germany, Baden-Württemberg, Tübingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
+  location ::           Germany, Baden-Württemberg, Tübingen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2004
-  Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Tuberculina_sbrozzii/ts1.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
-  Location ::           Germany, Baden-Württemberg, Tübingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
+  location ::           Germany, Baden-Württemberg, Tübingen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2002
-  Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Tuberculina_sbrozzii/Ts2.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
-  Location ::           Germany, Baden-Württemberg, Tübingen
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina sbrozzii Cavara & Sacc. on Puccinia vincae (DC.) Berk./Vinca major L.
+  location ::           Germany, Baden-Württemberg, Tübingen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2002
-  Copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2002 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 

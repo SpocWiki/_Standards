@@ -123,7 +123,7 @@ were sister-taxa, and all three were part of the Neobatrachia.
 
 ------------------------------------------------------------------------
 Pseudis paradoxa, Bolivia; photo © 1995 David Cannatella![](Pseudidae/pseudis.jpg))
-Copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
+copyright ::   © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

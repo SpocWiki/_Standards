@@ -49,14 +49,14 @@ title: Archosauromorpha
 
 -------------------------------------------------------------------------
 ![Greater cormorant (Phalacrocorax carbo), Tanzania](../../Bird/Neornithes/Neoaves/Pelecaniformes/G_cormorant.jpg)
-Scientific Name ::     Phalacrocorax carbo
-Location ::           Lake Manyara NP, Tanzania
+scientific_name ::     Phalacrocorax carbo
+location ::           Lake Manyara NP, Tanzania
 Comments             After bathing in a freshwater river to wash the lake\'s soda salts from its plumage, a cormorant dries its wings.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Adult
 View                 Dorsal
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

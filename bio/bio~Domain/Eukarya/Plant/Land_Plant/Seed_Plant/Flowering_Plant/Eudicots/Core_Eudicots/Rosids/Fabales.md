@@ -147,30 +147,30 @@ relationships within Fabales are still only weakly resolved.
 
 ------------------------------ 
 ![Cytisus_scoparius](Fabales/Cytisus_scoparius.jpg) 
-Scientific Name ::     Cytisus scoparius
+scientific_name ::     Cytisus scoparius
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0022099)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Eric Coombs, Oregon Department of Agriculture
+copyright ::            © Eric Coombs, Oregon Department of Agriculture
 
 ------------------------
 ![Securidaca diversifolia](Fabales/Securidaca_diversifolia.jpg) 
-Scientific Name ::     Securidaca diversifolia S.F. Blake
-Location ::           Fairchild Tropical Garden, Coral Gables, FL
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Dennis Stevenson](http://www.plantsystematics.org/)
+scientific_name ::     Securidaca diversifolia S.F. Blake
+location ::           Fairchild Tropical Garden, Coral Gables, FL
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Dennis Stevenson](http://www.plantsystematics.org/)
 
 -------------------------
 ![Quillaja saponaria](Fabales/Quillaja_saponaria.jpg) 
-Scientific Name ::     Quillaja saponaria Poir.
-Specimen Condition   Live Specimen
-Copyright ::            © 2003-2006 [David L. Magney](http://www.magney.org)
+scientific_name ::     Quillaja saponaria Poir.
+specimen_condition ::  Live Specimen
+copyright ::            © 2003-2006 [David L. Magney](http://www.magney.org)
 
 ----------
 ![Suriana_maritima](Fabales/Suriana_maritima.jpg)
-Scientific Name ::     Suriana maritima L.
-Specimen Condition   Live Specimen
-Copyright ::            © Shirley Denton
+scientific_name ::     Suriana maritima L.
+specimen_condition ::  Live Specimen
+copyright ::            © Shirley Denton
 
 
 ## Confidential Links & Embeds: 

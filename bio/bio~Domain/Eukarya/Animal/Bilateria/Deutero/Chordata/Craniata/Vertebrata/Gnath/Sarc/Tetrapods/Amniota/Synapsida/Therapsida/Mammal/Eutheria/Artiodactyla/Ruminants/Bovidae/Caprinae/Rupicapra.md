@@ -64,20 +64,20 @@ Phylogenetics and Evolution 25(3):524-534.
 ![](72541892_fa0f0c09f7_o.jpg)
 
   -----------------------------------------------------------
-  Scientific Name ::     Rupicapra pyrenaica
-  Location ::           Near Huesca, Aragón, pyrenees, France
+  scientific_name ::     Rupicapra pyrenaica
+  location ::           Near Huesca, Aragón, pyrenees, France
   Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Damien](http://flickr.com/people/astazou/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2005 [Damien](http://flickr.com/people/astazou/)
   -----------------------------------------------------------
 ![](85370960_cd5f2b79d9_b.jpg)
 
   -----------------------------------------------------------
-  Scientific Name ::     Rupicapra pyrenaica
-  Location ::           Near Huesca, Aragón, pyrenees, France
+  scientific_name ::     Rupicapra pyrenaica
+  location ::           Near Huesca, Aragón, pyrenees, France
   Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Damien](http://flickr.com/people/astazou/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2005 [Damien](http://flickr.com/people/astazou/)
   -----------------------------------------------------------
 
 

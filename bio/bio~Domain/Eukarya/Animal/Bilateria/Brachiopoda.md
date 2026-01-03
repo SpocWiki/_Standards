@@ -84,18 +84,18 @@ title: Brachiopoda
 
 ---------------------------------------------------------------------------
 ![Brachiopoda](Brachiopoda/Brachiopoda-Live.jpg)
-Scientific Name ::     Brachiopoda
+scientific_name ::     Brachiopoda
 Creator              Photograph by P. Crawford, UPEI
-Specimen Condition   Live Specimen
-Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 ----------------------------------------------------------- 
 ![Brachiopoda](Brachiopoda/Brachiopoda-Fossil.jpg) 
-Scientific Name ::     Brachiopoda
-Location ::           Upper Fullers Earth Clays, West Bay, Dorset UK
+scientific_name ::     Brachiopoda
+location ::           Upper Fullers Earth Clays, West Bay, Dorset UK
 Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Specimen Condition   Fossil
-Copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemakin/)
+specimen_condition ::  Fossil
+copyright ::            © 2006 [Steve Makin](http://flickr.com/people/stevemakin/)
 
 
 ## Confidential Links & Embeds: 

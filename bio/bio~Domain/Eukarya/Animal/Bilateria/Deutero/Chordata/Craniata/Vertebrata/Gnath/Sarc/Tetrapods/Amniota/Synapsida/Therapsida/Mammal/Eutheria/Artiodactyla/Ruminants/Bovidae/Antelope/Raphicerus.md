@@ -67,25 +67,25 @@ title: Raphicerus
 
 ------------------------------------------------------------------------------
 ![](1703steenbok.jpg)
-Scientific Name ::     Raphicerus campestris
-Location ::           Okavango Delta, Botswana
+scientific_name ::     Raphicerus campestris
+location ::           Okavango Delta, Botswana
 Comments             subadult with immature horns
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Life Cycle Stage ::     subadult
-Copyright ::            © 1991 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::            © 1991 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------
 ![Steinbuck](steinbuck.jpg)
-Scientific Name ::     Raphicerus campestris
-Location ::           Ndutu, Ngorongoro Conservation Area, Tanzania
-Specimen Condition   Live Specimen
+scientific_name ::     Raphicerus campestris
+location ::           Ndutu, Ngorongoro Conservation Area, Tanzania
+specimen_condition ::  Live Specimen
 Identified By        self
 Behavior             resting
 Sex ::                Male
 Life Cycle Stage ::     adult
 Body Part            head
 View                 side
-Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

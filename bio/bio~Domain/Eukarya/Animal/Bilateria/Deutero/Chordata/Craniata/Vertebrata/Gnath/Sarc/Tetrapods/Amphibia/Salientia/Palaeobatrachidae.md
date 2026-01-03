@@ -100,10 +100,10 @@ features found in the Tertiary fossils.
 
 -------------------------------------------------------------------------- 
 ![Palaeobatrachus cast](Palaeobatrachidae/paleobatrachus.jpg) 
-Scientific Name ::     Palaeobatrachus
+scientific_name ::     Palaeobatrachus
 Comments             cast
-Specimen Condition   Fossil
-Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+specimen_condition ::  Fossil
+copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

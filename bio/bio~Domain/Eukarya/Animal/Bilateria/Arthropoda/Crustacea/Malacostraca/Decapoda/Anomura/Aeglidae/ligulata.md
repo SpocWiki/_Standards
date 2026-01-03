@@ -119,11 +119,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -----------------
 ![](ligulata/Aegla_ligulata.jpg)
-Scientific Name ::  Aegla ligulata
+scientific_name ::  Aegla ligulata
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

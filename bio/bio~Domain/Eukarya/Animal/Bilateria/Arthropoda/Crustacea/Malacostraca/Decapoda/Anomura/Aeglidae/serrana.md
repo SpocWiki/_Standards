@@ -119,11 +119,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -----------------
 ![](serrana/Aegla_serrana.jpg)
-Scientific Name ::  Aegla serrana
+scientific_name ::  Aegla serrana
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

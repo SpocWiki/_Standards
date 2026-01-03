@@ -41,14 +41,14 @@ title: Gomortega nitida
 
 ------------------------------------------------------------------------
 ![Gomortega keule](Gomortega_nitida/Gomortega_keule.jpg) 
-Scientific Name ::     Gomortega keule (syn. Gomortega nitida)
-Location ::           Quebrada de Caramávida, Bio-Bio, Chile
+scientific_name ::     Gomortega keule (syn. Gomortega nitida)
+location ::           Quebrada de Caramávida, Bio-Bio, Chile
 Acknowledgements     Proyecto Chilebosque http://www.chilebosque.cl
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Diego Alarcon
 Body Part            trunks
 Size                 20 m tall
-Copyright ::            © [Diego Alarcon](http://www.chilebosque.cl/) 
+copyright ::            © [Diego Alarcon](http://www.chilebosque.cl/) 
 
 
 ## Confidential Links & Embeds: 

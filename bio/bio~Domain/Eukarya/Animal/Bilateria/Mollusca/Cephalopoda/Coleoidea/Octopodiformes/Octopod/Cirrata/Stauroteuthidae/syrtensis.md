@@ -114,8 +114,8 @@ modified from Collins and Henriques (2000).
 
 ------------------------------------------------------------------------------------------------------------------- 
 ![](stauroSyrtensis.jpg) 
-Scientific Name ::  Stauroteuthis syrtensis, Stauroteuthis syrtensis (2)
-Location ::        Cape Hatteras, U.S.A, SW U.K. (2)
+scientific_name ::  Stauroteuthis syrtensis, Stauroteuthis syrtensis (2)
+location ::        Cape Hatteras, U.S.A, SW U.K. (2)
 Reference         Vecchione, M. and R. E. Young. 1997 Aspects of the functional morphology of cirrate octopods: locomotion and feeding. Vie Milieu 47(2):101-110., Collins, M. A. and C. Henriques. 2000. A revision of the family Stauroteuthidae (Octopoda: Cirrata) with redescriptions of Stauroteuthis syrtensis and S. gilchristi. J. Mar. Biol. Ass. U.K., 80: 685-697. (2)
 Sex ::             f (2)
 Size              ca. 90 mm ML, 72 mm ML (2)

@@ -102,25 +102,25 @@ taxon_name: Tubulidentata
 
 -------------------------------------------------------------------------
 ![Aardvark (Orycteropus afer) in Serengeti NP, Tanzania](Tubulidentata/Aardvark/Aardvark.jpg)
-Scientific Name ::     Orycteropus afer
-Location ::           Serengeti National Park, Tanzania
+scientific_name ::     Orycteropus afer
+location ::           Serengeti National Park, Tanzania
 Comments             Aardvarks are shy, solitary and completely nocturnal. They sleep in burrows by day and emerge to dig for termites after dark. This one was found by spotlighting on open grasslands.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Behavior             Foraging
 Life Cycle Stage ::     Adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------------------------------------------------------------- 
 ![aardvark](Tubulidentata/Orycteropodidae/Orycteropus_afer0073.jpg) 
-Scientific Name ::     Orycteropus afer
-Location ::           captive specimen at Frankfurt Zoo (Germany)
+scientific_name ::     Orycteropus afer
+location ::           captive specimen at Frankfurt Zoo (Germany)
 Comments             aardvark
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

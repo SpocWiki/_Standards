@@ -62,9 +62,9 @@ title: Sipuncula
 
 ------------------------------------------------------------------------------- 
 ![](Sipuncula/phascolopsis.gif) 
-Scientific Name ::  Phascolopsis gouldii
+scientific_name ::  Phascolopsis gouldii
 Creator           David Remsen
-Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
 
 
 ## Confidential Links & Embeds: 

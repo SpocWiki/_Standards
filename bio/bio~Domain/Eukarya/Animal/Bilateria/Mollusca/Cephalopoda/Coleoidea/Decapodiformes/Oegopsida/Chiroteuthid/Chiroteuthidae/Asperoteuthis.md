@@ -170,9 +170,9 @@ waters. Bull. Mar. Sci., 49: 162-185.
 ![](Asperoteuthis/Aacanthoderma.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::  Asperoteuthis acanthoderma
+  scientific_name ::  Asperoteuthis acanthoderma
   Creator           J. R. Schroeder
-  Copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::         © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -------------------------------------------------------------------------
 

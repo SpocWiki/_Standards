@@ -138,28 +138,28 @@ in the Florideophyceae.
 
 ----------------
 ![Botryocladia pseudodichotoma](Florideophyceae/Botryocladia_pseudodichotoma.jpg) 
-Scientific Name ::  Botryocladia pseudodichotoma
-Location ::        collected at Monterey, California, USA
+scientific_name ::  Botryocladia pseudodichotoma
+location ::        collected at Monterey, California, USA
 Comments          Rhodymeniales
-Copyright ::         © 2000 J. L. Woodhead
+copyright ::         © 2000 J. L. Woodhead
 
 ![Band of Mazaella cornucopiae](flortitle2a.jpg)
 
 ---------------------------------------------------------------------------
 ![Mazaella cornucopiae](Florideophyceae/Mazaella_cornucopiae.jpg) 
-Scientific Name ::  Mazaella cornucopiae
-Location ::        Botanical Beach, Vancouver Island, Canada
+scientific_name ::  Mazaella cornucopiae
+location ::        Botanical Beach, Vancouver Island, Canada
 Comments          Band of Mazaella cornucopiae (Gigartinales) growing on intertidal rocks
-Copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
+copyright ::         © 2000 [D. Wilson Freshwater](mailto:freshwaterw@uncw.edu) 
 
 ![](flortitle3a.jpg)
 
 --------------------------------
 ![Gracilaria](Florideophyceae/Gracilaria.jpg) 
-Scientific Name ::  Gracilaria
-Location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
+scientific_name ::  Gracilaria
+location ::        Grown in the tank culture facility at Harbor Branch Oceanographic Institute, Florida, USA.
 Comments          Red and green color morphs of Gracilaria sp. (Gracilariales)
-Copyright ::         © 2000 K. T. Bird
+copyright ::         © 2000 K. T. Bird
 
 
 ## Confidential Links & Embeds: 

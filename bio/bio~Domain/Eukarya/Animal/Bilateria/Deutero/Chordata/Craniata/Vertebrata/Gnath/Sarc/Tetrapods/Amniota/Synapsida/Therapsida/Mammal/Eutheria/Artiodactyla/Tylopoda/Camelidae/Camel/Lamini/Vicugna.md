@@ -153,12 +153,12 @@ short_name: V. vicugna
 ![](Vicugna/Vicugna.jpg)
 
   ------------------------------------------------------------------
-  Scientific Name ::     Vicugna vicugna
-  Location ::           Parque Nacional Lauca, Chile
-  Specimen Condition   Live Specimen
+  scientific_name ::     Vicugna vicugna
+  location ::           Parque Nacional Lauca, Chile
+  specimen_condition ::  Live Specimen
   Source               [Darkroom People: Vicuñas](http://www.darkroompeople.com/drp9/photos/lauca/imagepages/image003.php)
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-  Copyright ::            © [Bruno Furnari](http://www.darkroompeople.com/)
+  copyright ::            © [Bruno Furnari](http://www.darkroompeople.com/)
   ------------------------------------------------------------------
 
 

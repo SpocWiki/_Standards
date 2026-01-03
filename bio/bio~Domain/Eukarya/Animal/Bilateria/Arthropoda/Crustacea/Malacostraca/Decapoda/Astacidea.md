@@ -87,8 +87,8 @@ positioning of Parastacidae is shown as unresolved.
 
 ---------------------------------------------------------------------------------
 ![Fallicambarus devastator habitus](../../../../Mollusca/Gastropoda/Caenogastropoda/Pterotracheoidea/Pterotracheidae/Firoloida/Firoloida_desmaresti.jpg)
-Scientific Name ::  Fallicambarus devastator
-Copyright ::         © 1998 [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+scientific_name ::  Fallicambarus devastator
+copyright ::         © 1998 [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Confidential Links & Embeds: 

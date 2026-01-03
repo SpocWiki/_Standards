@@ -211,12 +211,12 @@ short_name: S. scrofa
 ![](Swine1317002.jpg)
 
 ------------------------------
-Scientific Name ::     Sus scrofa
+scientific_name ::     Sus scrofa
 Comments             domesticated pigs
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1317002)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Scott Bauer, USDA ARS
+copyright ::            © Scott Bauer, USDA ARS
 ------------------------------
 
 

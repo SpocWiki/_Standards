@@ -64,14 +64,14 @@ title: Pecari tajacu
 
 ---------------------------- 
 ![](Pecari_tajacu/121975688_cc08a08d1e_b.jpg) 
-Scientific Name ::                    Tayassu tajacu
-Location ::                          Living Desert State Park, New Mexico, USA
+scientific_name ::                    Tayassu tajacu
+location ::                          Living Desert State Park, New Mexico, USA
 Acknowledgements                    The copyright owner has released this image under the
 								  [Attribution-NoDerivs 2.0 Creative Commons                                       license](http://creativecommons.org/licenses/by-nd/2.0/).\
 								  source:
 								  [flickr](http://flickr.com/photos/fustian/121975688/)
-Specimen Condition                  Live Specimen
-Copyright ::                           © 2006 [marissa b.](http://flickr.com/people/fustian/)
+specimen_condition ::                 Live Specimen
+copyright ::                           © 2006 [marissa b.](http://flickr.com/people/fustian/)
 
 
 ## Confidential Links & Embeds: 

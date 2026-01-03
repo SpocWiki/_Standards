@@ -48,31 +48,31 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 ![Banded Argiope](Argiope_trifasciata.jpg)
 
   -------------------------------------
-  Scientific Name ::     Argiope trifasciata
+  scientific_name ::     Argiope trifasciata
   Comments             Banded Argiope
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
 ![](Araneidae/Araneus_diadematus_4-8001.jpg) 
 
   ----------------------------------------------------------------------------
-  Scientific Name ::     Arachnida:Spider:Araneidae: Araneus diadematus
-  Location ::           "Corno alle Scale" Park, Bologna Province, Emilia Romagna, Italy
-  Specimen Condition   Live Specimen
+  scientific_name ::     Arachnida:Spider:Araneidae: Araneus diadematus
+  location ::           "Corno alle Scale" Park, Bologna Province, Emilia Romagna, Italy
+  specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+  copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
 ![](Araneidae/micrathena_gracilis01b.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Micrathena gracilis
-  Location ::           Virginia, USA
-  Specimen Condition   Live Specimen
+  scientific_name ::     Micrathena gracilis
+  location ::           Virginia, USA
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Sex ::                Female
   Life Cycle Stage ::     adult
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

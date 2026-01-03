@@ -180,8 +180,8 @@ Evolutionsforschung, 32:11-34.
 ![](eptesicus_furinalis.gif)
 
   ----------
-  Scientific Name ::  Eptesicus furnalis
-  Copyright ::         © 1998 Nancy Simmons
+  scientific_name ::  Eptesicus furnalis
+  copyright ::         © 1998 Nancy Simmons
   ----------
 
 

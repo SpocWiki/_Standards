@@ -848,8 +848,8 @@ pages.
 ![](Zoantharia/pseudocorynactis.jpg) 
 
   -------------
-  Scientific Name ::  Pseudocorynactis caribbeorum
-  Copyright ::         © 1999 George Miller
+  scientific_name ::  Pseudocorynactis caribbeorum
+  copyright ::         © 1999 George Miller
   -------------
 
 

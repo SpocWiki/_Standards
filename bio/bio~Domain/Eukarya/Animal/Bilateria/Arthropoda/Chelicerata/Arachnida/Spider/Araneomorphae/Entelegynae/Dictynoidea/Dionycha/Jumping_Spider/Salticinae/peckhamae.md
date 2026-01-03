@@ -30,7 +30,7 @@ title: Salticus peckhamae
 # *Salticus peckhamae* 
 
 ![Female](peckhamae/peckhamae-fph.gif) 
-Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 
 ## Confidential Links & Embeds: 

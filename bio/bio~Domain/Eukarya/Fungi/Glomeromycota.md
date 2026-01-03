@@ -509,27 +509,27 @@ taxa in the Glomeromycota. Mycological Research 108, in press.
 ![](Glomeromycota/s328_small.jpg) 
 
   ------------------------------------------------------------------------------------
-  Scientific Name ::  Glomus sp. S328
+  scientific_name ::  Glomus sp. S328
   Comments          Spore of Glomus sp. S328 with attached hypha.
   Size              Spore diameter is approximately 80 µm.
-  Copyright ::         © 2000 [American Association for the Advancement of Science](http://www.sciencemag.org/) 
+  copyright ::         © 2000 [American Association for the Advancement of Science](http://www.sciencemag.org/) 
  
   ------------------------------------------------------------------------------------
 ![](Glomeromycota/arbuscule.jpg) 
 
   -----------------------
-  Scientific Name ::  Glomeromycota
+  scientific_name ::  Glomeromycota
   Comments          Arbuscule within a root cell, stained with Chlorazol Black E.
   Size              Arbuscule diameter is approximately 19 µm
-  Copyright ::         © Kerstin Wex
+  copyright ::         © Kerstin Wex
   -----------------------
 ![](Glomeromycota/lclr_myc.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::  Plantago media, Glomus clarum
+  scientific_name ::  Plantago media, Glomus clarum
   Comments          Roots of Plantago media (plantain) colonized with Glomus clarum. Note the hyphae and spores on the roots.
   Size              Diameter of larger spores is approximately 200 µm
-  Copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
+  copyright ::         © [Dirk Redecker](http://www.unibas.ch/bothebel/people/redecker/redecker.htm) 
  
   ---------------------------------------------------------------------------------
 

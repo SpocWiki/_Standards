@@ -71,7 +71,7 @@ Drawing by Ivy Livingstone. Copyright © 1996
 
 --------------------------------------------------------------------------
 ![Kinorhyncha](Kinorhyncha/Kinorhyncha.gif) 
-Copyright ::   © 1996 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 1996 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

@@ -130,9 +130,9 @@ Decapodiforms \...
 ![](Oegopsida/OegopsidTitleFin.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::   Pyroteuthis margaritifera, Promachoteuthis sp., Magnapinna ?, Helicocranchia pfefferi, Joubiniteuthis portieri, Onychoteuthis sp., Todarodes sagittatus
+  scientific_name ::   Pyroteuthis margaritifera, Promachoteuthis sp., Magnapinna ?, Helicocranchia pfefferi, Joubiniteuthis portieri, Onychoteuthis sp., Todarodes sagittatus
   Acknowledgements   J. portieri photograph by Frank Parish; Magnapinna (?) photograph from N.U.R.C., others photographed by R. Young.
-  Copyright ::          © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::          © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 

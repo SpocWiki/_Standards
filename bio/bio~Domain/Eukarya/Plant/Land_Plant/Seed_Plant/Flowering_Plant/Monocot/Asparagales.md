@@ -94,26 +94,26 @@ MeSH_tree_code: B01.875.800.575.912.250.618.100
 
 ---------------------------------------------------------------------
 ![Muscari neglectum](Asparagales/Muscari_neglectum00793.jpg)
-Scientific Name ::  Muscari neglectum
+scientific_name ::  Muscari neglectum
 Comments          Hyacinthaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------
 ![Dragon tree, Dracaena draco](Asparagales/Dracaena_draco.jpg) 
-Scientific Name ::   Dracaena draco
-Location ::         Icod de los Vinos, Teneriffa, Canary Islands, cultivated?
+scientific_name ::   Dracaena draco
+location ::         Icod de los Vinos, Teneriffa, Canary Islands, cultivated?
 Comments           Dragon tree (Convallariaceae)
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ------------------------------------------------------------------------
 ![Anacamptis pyramidalis](Asparagales/Anacamptis_pyramidalis.jpg)
-Scientific Name ::    Anacamptis pyramidalis
-Location ::          Samos, Greece
+scientific_name ::    Anacamptis pyramidalis
+location ::          Samos, Greece
 Comments            Orchidaceae
 Source Collection   [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::           © 2001 University of Basel, Basel, Switzerland 
+copyright ::           © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Phylogeny 

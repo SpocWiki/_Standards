@@ -92,10 +92,10 @@ Other characteristics:
 
 --------------------------------------------------------------------------- 
 ![](Protura/DSCN1510.jpg) 
-Scientific Name ::     Protura
-Location ::           USA: North Carolina: Durham
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Protura
+location ::           USA: North Carolina: Durham
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

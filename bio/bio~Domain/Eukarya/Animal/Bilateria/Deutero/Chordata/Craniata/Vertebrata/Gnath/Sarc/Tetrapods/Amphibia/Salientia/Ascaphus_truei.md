@@ -155,11 +155,11 @@ sister-groups.
 
   --------------------------------------------------------------------------
 ![habitus of the tailed frog](ascaphus.jpg)
-  Scientific Name ::     Ascaphus truei
-  Location ::           Oregon
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ascaphus truei
+  location ::           Oregon
+  specimen_condition ::  Live Specimen
   Sex ::                Male
-  Copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
+  copyright ::            © 1995 [David Cannatella](http://www.catfishlab.org/) 
 
 
 ## Confidential Links & Embeds: 

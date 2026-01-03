@@ -121,29 +121,29 @@ Royal Botanic Gardens.
 
 ---------------------------------------------------------------------------
 ![](Acanthus/A_003.jpg)
-Scientific Name ::     Acanthus polystachyus Delile
-Location ::           Ethiopia
+scientific_name ::     Acanthus polystachyus Delile
+location ::           Ethiopia
 Reference            Herbarium WAG
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           Plantae Aethiopiae Exsiccatae
 Collector            W. de Wilde
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 --------------------------------------------------------------------------- 
 ![](Acanthus/Acanthus_spinosus-1.jpg) 
-Scientific Name ::     Acanthus spinosissimus Desf.
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+scientific_name ::     Acanthus spinosissimus Desf.
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 ---------------------------------------------------------------------------
 ![](Acanthus/A_004.jpg)
-Scientific Name ::     Acanthus eminens C.B. Clarke
-Location ::           Bebeka Coffee Plantation, Ethiopia
+scientific_name ::     Acanthus eminens C.B. Clarke
+location ::           Bebeka Coffee Plantation, Ethiopia
 Reference            Copenhagen Herbarium (C)
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Collection           C
 Collector            Friis et al.
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 
 
 ## Confidential Links & Embeds: 

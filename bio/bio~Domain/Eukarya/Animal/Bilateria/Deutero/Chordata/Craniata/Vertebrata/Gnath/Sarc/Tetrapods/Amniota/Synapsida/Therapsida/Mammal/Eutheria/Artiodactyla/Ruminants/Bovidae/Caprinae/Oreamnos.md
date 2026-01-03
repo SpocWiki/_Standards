@@ -56,13 +56,13 @@ Containing group: [Caprinae](../Caprinae.md)
 ![](Oreamnos_americanus1428075.jpg)
 
   ------------------------------
-  Scientific Name ::     Oreamnos americanus
-  Location ::           Near summit of Mt. Evans, Colorado, USA
+  scientific_name ::     Oreamnos americanus
+  location ::           Near summit of Mt. Evans, Colorado, USA
   Comments             mountain goat
   Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#1428075)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © William M. Ciesla, Forest Health Management International
+  copyright ::            © William M. Ciesla, Forest Health Management International
   ------------------------------
 
 

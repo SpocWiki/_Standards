@@ -48,26 +48,26 @@ title: Ranunculales
 
 ---------------------------------------------------------------------
 ![Mahonia bealei](Ranunculales/Mahonia_bealei.jpg)
-Scientific Name ::  Mahonia bealei
+scientific_name ::  Mahonia bealei
 Comments          Berberidaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ------------------------------------------------------------------------
 ![Anemone_nemorosa](Ranunculales/Anemone_nemorosa.jpg)
-Scientific Name ::   Anemone nemorosa
-Location ::         Botanical Garden, Basel, Switzerland
+scientific_name ::   Anemone nemorosa
+location ::         Botanical Garden, Basel, Switzerland
 Comments           Ranunculaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 -------------------------------------------------------------------------
 ![Corydalis_ambigua](Ranunculales/Corydalis_ambigua.jpg)
-Scientific Name ::     Corydalis ambigua
-Location ::           Kiparisovo village near Vladivostok, Primorsky Territory (Russian Federation)
+scientific_name ::     Corydalis ambigua
+location ::           Kiparisovo village near Vladivostok, Primorsky Territory (Russian Federation)
 Comments             Papaveraceae
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::            © 2000 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 
 ## Confidential Links & Embeds: 

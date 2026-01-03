@@ -74,18 +74,18 @@ Rotifers
 
 --------------------------------------------------------------------------- 
 ![Acanthocephala](Rotifera/Acanthocephala.jpg)) 
-Scientific Name ::     Acanthocephala
+scientific_name ::     Acanthocephala
 Comments             with proboscis extended
 Creator              Houseman
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Sex ::                Female
-Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 --------------------------------------------------------------------------
 ![](Rotifera/Bdelloidea.jpg)
-Scientific Name ::  Bdelloidea
+scientific_name ::  Bdelloidea
 Creator           J. M. Cavanihac
-Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

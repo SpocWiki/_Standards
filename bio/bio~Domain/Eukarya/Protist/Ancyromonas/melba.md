@@ -81,17 +81,17 @@ European Journal of Protistology 32:423-448.
 ![](melba/fancyromel.gif) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::  Ancyromonas melba
-  Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::  Ancyromonas melba
+  copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
 ![](melba/pancyrom.jpg) 
 
   ---------------------------
-  Scientific Name ::     Ancyromonas melba
+  scientific_name ::     Ancyromonas melba
   Comments             Light micrographs of living cells (Differential Interference Contrast)
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 David J. Patterson and Alastair Simpson
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 David J. Patterson and Alastair Simpson
   ---------------------------
 
 

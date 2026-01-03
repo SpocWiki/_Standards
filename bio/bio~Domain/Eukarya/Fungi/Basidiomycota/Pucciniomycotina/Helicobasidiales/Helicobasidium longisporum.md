@@ -37,40 +37,40 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 ![](rr.jpg)
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
-  Location ::           Germany, Baden-Württemberg, Stuttgart
+  scientific_name ::     Helicobasidium longisporum on roots and basal parts of stems of Aster sp. cult.
+  location ::           Germany, Baden-Württemberg, Stuttgart
   Comments             on roots and basal parts of stems of Aster sp. cult.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Sterile stage (Thanatophytum) of the phytoparasitic teleomorph
   Collection           2000
-  Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Helicobasidium_longisporum/Hlstgt.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.
-  Location ::           Germany, Baden-Württemberg, Stuttgart
-  Specimen Condition   Live Specimen
+  scientific_name ::     Helicobasidium longisporum Wakef. on roots and basal parts of stem of Pyrus communis L.
+  location ::           Germany, Baden-Württemberg, Stuttgart
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Fructification of the phytoparasitic teleomorph
   Collection           2000
   Collector            M. Lutz
-  Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Helicobasidium_longisporum/TpGsTUB012677.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina persicina (Ditmar) Sacc. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
-  Location ::           Germany, Nordrhein-Westfalen, Aachen
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Tuberculina persicina (Ditmar) Sacc. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
+  location ::           Germany, Nordrhein-Westfalen, Aachen
+  specimen_condition ::  Dead Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph of Helicobasidium longisporum Wakef. forming conidia
   Collection           2004
   Collector            M. Mennicken
-  Copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2004 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 

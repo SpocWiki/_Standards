@@ -59,15 +59,15 @@ title: Tomoceridae
 
 ------------------------------------------------------------------------
 ![Tomocerus longicornis](Tomoceridae/Tomocerus_longicornis.jpg) 
-Scientific Name ::     Tomocerus longicornis
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Tomocerus longicornis
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ------------------------------------------------------------------------
 ![Tomocerus minor](Tomoceridae/Tomocerus_minor.jpg) 
-Scientific Name ::     Tomocerus minor
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Tomocerus minor
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
 ## Confidential Links & Embeds: 

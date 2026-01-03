@@ -47,17 +47,17 @@ Hawaii. Zoologica Scripta 19(1):73-99.
 ![](Dicyrtomidae/DMsau_SMI_1.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Dicyrtomina saundersi
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Dicyrtomina saundersi
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 ![](Dicyrtomidae/DIfus_SMI_6.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Dicyrtoma fusca
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Dicyrtoma fusca
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 

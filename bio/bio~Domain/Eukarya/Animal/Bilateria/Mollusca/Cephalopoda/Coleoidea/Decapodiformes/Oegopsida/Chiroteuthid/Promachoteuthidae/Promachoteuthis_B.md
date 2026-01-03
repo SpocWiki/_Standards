@@ -136,21 +136,21 @@ Voss N. A. 1992. Family Promachoteuthidae. Smithson. Contr. Zool., 513:
 ![](Promachoteuthis_B/PromachSpBDors.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Promachoteuthis sp. B
+  scientific_name ::  Promachoteuthis sp. B
   Reference         from Roper, C. F. E. and R. E. Young. 1968. The family Promachoteuthidae (Cephalopoda: Oegopsida). I. A re-evaluation of its systematic position based on new material from Antarctic and adjacent waters. Ant. Res. Ser. 11:203-214.
   View              Dorsal
   Size              17 mm ML
-  Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -----------------------------------------------------------------------------
 ![](Promachoteuthis_B/Promach1Vent.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Promachoteuthis sp. B
+  scientific_name ::  Promachoteuthis sp. B
   Reference         from Roper, C. F. E. and R. E. Young. 1968. The family Promachoteuthidae (Cephalopoda: Oegopsida). I. A re-evaluation of its systematic position based on new material from Antarctic and adjacent waters. Ant. Res. Ser. 11:203-214.
   View              Ventral
   Size              17 mm ML
-  Copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::         © 1968 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   -----------------------------------------------------------------------------
 

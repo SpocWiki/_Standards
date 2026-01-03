@@ -150,31 +150,31 @@ title: Artiodactyla
 
 ------------------------------------------------------------------------------
 ![Camelus_bactrianus](Artiodactyla/Camelus_bactrianus.jpg)
-Scientific Name ::     Camelus bactrianus
-Location ::           Gobi Desert (Mongolia)
+scientific_name ::     Camelus bactrianus
+location ::           Gobi Desert (Mongolia)
 Creator              Robert Thomas and Margaret Orr
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------
 ![Bushpig (Potamochoerus porcus), Tanzania](Artiodactyla/bushpig.jpg)
-Scientific Name ::     Potamochoerus porcus
-Location ::           Arusha, Tanzania
+scientific_name ::     Potamochoerus porcus
+location ::           Arusha, Tanzania
 Comments             Young captive specimen probably from the Mt Meru population.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Life Cycle Stage ::     Young adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 ------------------- 
 ![American bison](Artiodactyla/Bison8B0C52EC0479.jpg) 
-Scientific Name ::     Bison bison
+scientific_name ::     Bison bison
 Comments             American bison
 Creator              Steve Maslowski
 Acknowledgements     Photo courtesy U. S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

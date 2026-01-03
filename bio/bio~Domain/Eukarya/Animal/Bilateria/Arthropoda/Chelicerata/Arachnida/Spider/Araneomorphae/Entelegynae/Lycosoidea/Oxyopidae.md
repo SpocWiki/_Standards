@@ -44,11 +44,11 @@ Containing group:[Lycosoidea](../Lycosoidea.md)
 ![](Oxyopidae/Oxyopes_heterophthalmus_2-8001.jpg) 
 
   ----------------------------------------------------------------------------
-  Scientific Name ::     Arachnida:Spider:Oxyopidae: Oxyopes heterophthalmus
-  Location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
-  Specimen Condition   Live Specimen
+  scientific_name ::     Arachnida:Spider:Oxyopidae: Oxyopes heterophthalmus
+  location ::           Castel d'Aiano, Bologna Province, Emilia Romagna, Italy
+  specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+  copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
 

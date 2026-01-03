@@ -63,7 +63,7 @@ Drawing by Stritch. Copyright ©
 
 ------------------------------------------------------------------------
 ![](Gnathostomulida/Gnathostomulida.gif)
-Copyright ::   © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

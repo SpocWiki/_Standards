@@ -143,9 +143,9 @@ Sciences of Philadelphia 470:1-9.
 ![](Rana_cretensis/cretensis.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Rana cretensis
+  scientific_name ::  Rana cretensis
   Type              Paratype
-  Copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
+  copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
  
   --------------------------------------------------------------------------
 

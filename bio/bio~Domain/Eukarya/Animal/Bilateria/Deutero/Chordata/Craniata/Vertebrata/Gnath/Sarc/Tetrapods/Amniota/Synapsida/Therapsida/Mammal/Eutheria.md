@@ -592,28 +592,28 @@ Artiodactyla (plus Cetacea). Molecular Biology and Evolution
 ![](Eutheria/0707elephant.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Loxodonta africana
+  scientific_name ::     Loxodonta africana
   Comments             African elephant
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
 ![Two-toed sloth juvenile ](Eutheria/sloth.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::   Choloepus hoffmani
+  scientific_name ::   Choloepus hoffmani
   Comments           Two-toed sloth
   Life Cycle Stage ::   juvenile
-  Copyright ::          © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::          © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
 ![Killer whale](Eutheria/orca.jpg) 
 
   ----------
-  Scientific Name ::     Orcinus orca
+  scientific_name ::     Orcinus orca
   Comments             Killer whale
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1999 Brian Scott
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1999 Brian Scott
   ----------
 
 

@@ -93,32 +93,32 @@ corollas.
 
 ----------------------- 
 ![Dalbergia gracilis](Dalbergioid/Dalbergia_gracilis.jpg) 
-Scientific Name ::     Dalbergia gracilis Benth.
-Location ::           Bolivia
-Specimen Condition   Live Specimen
-Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
+scientific_name ::     Dalbergia gracilis Benth.
+location ::           Bolivia
+specimen_condition ::  Live Specimen
+copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 --------------------- 
 ![Amorpha canescens](Dalbergioid/Amorpha_canescens.jpg) 
-Scientific Name ::     Amorpha canescens Pursh
-Location ::           Lincoln County, Kansas
+scientific_name ::     Amorpha canescens Pursh
+location ::           Lincoln County, Kansas
 Comments             Commonly called Lead Plant.
-Specimen Condition   Live Specimen
-Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
+specimen_condition ::  Live Specimen
+copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
 --------------------- 
 ![Dalea aurea](Dalbergioid/Dalea_aurea.jpg) 
-Scientific Name ::     Dalea aurea Nutt. ex Pursh
-Location ::           Mitchell County, Kansas
+scientific_name ::     Dalea aurea Nutt. ex Pursh
+location ::           Mitchell County, Kansas
 Comments             Commonly called Silktop dalea.
-Specimen Condition   Live Specimen
-Copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
+specimen_condition ::  Live Specimen
+copyright ::            © [Mike Haddock](http://www.lib.ksu.edu/wildflower/)
 
 ------------ 
 ![Inocarpus edulis](Dalbergioid/Inocarpus_edulis.jpg) 
-Scientific Name ::     Inocarpus edulis Forst.
-Specimen Condition   Live Specimen
-Copyright ::            © G. D. Carr
+scientific_name ::     Inocarpus edulis Forst.
+specimen_condition ::  Live Specimen
+copyright ::            © G. D. Carr
 
 
 ## Confidential Links & Embeds: 

@@ -62,15 +62,15 @@ title: Neotragus
 
 ------------------------------------------------------------------------- 
 ![Suni (Neotragus moschatus), Kenya](Neotragus/suni.jpg) 
-Scientific Name ::     Neotragus moschatus
-Location ::           Mt Kenya Safari Club, Kenya
+scientific_name ::     Neotragus moschatus
+location ::           Mt Kenya Safari Club, Kenya
 Comments             Captive, probably from Mt Kenya population.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 View                 Fronto-lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

@@ -94,27 +94,27 @@ Unicode_character: 🦍
 ![](Gorilla/Gorilla_and_Baby.jpg) 
 
   ----------------------------------------------------------------
-  Scientific Name ::     Gorilla beringei graueri
-  Location ::           Eastern DR Congo
-  Specimen Condition   Live Specimen
+  scientific_name ::     Gorilla beringei graueri
+  location ::           Eastern DR Congo
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     juvenile and adult
   Source               [mother and child closer](http://www.flickr.com/photos/fredr/370629527/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
+  copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
   ----------------------------------------------------------------
 ![](Gorilla/Gorilla_Silverback.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Gorilla gorilla
-  Location ::           Los Angeles Zoo
-  Specimen Condition   Live Specimen
+  scientific_name ::     Gorilla gorilla
+  location ::           Los Angeles Zoo
+  specimen_condition ::  Live Specimen
   Identified By        LA Zoo
   Behavior             standing
   Sex ::                Male
   Life Cycle Stage ::     Adult
   Body Part            whole
-  Copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+  copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
  
   -------------------------------------------------------------------------
 

@@ -72,24 +72,24 @@ title: Zygophyllales
 ![South American creosote bush, Larrea tridentata](Zygophyllales/Larrea_tridentata0100.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Larrea tridentata
-  Location ::           Death Valley National Monument (Inyo County, California, USA)
+  scientific_name ::     Larrea tridentata
+  location ::           Death Valley National Monument (Inyo County, California, USA)
   Comments             South American creosote bush (Zygophyllaceae)
   Creator              Photograph by Charles Webber
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 ![White rhatany](Zygophyllales/Krameria_grayi0032.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Krameria grayi
-  Location ::           California, USA
+  scientific_name ::     Krameria grayi
+  location ::           California, USA
   Creator              Photograph by Brother Alfred Brousseau
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
+  copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
  
   ---------------------------------------------------------------------------------
 

@@ -211,7 +211,7 @@ Photographs copyright © 2000 [Greg and Mary Beth     Dimijian](http://www.dimij
 ---------------------------------------------------------------------------- 
 ![Australian sea lion pup](Carnivora/seal.jpg) 
 -   **Australian sea lion pup** (Neophoca cinerea, Otariidae).
-Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

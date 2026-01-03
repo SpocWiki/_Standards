@@ -348,25 +348,25 @@ with significant impacts on the environment, human health, and biotechnological 
 
 --------------------------
 ![Scanning Electron Micrograph of Enterococcus](Bacteria/Bacillati/Bacillota/Lactobacillales/Enterococcus/Enterococcus.jpg)
-Scientific Name ::     Enterococcus
+scientific_name ::     Enterococcus
 Comments             Scanning Electron Micrograph of Enterococcus
 Creator              CDC/Janice Carr
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
 ![Scanning Electron Micrograph of Pseudomonas aeruginosa](Bacteria/Pseudomonadati/Pseudomonas_aeruginosa.jpg)
-Scientific Name ::     Pseudomonas aeruginosa
+scientific_name ::     Pseudomonas aeruginosa
 Comments             Scanning Electron Micrograph of Pseudomonas aeruginosa
 Creator              CDC/Janice Carr
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------
 ![A photomicrograph of Bacillus anthracis bacteria using Gram stain technique](Bacteria/Bacillati/Bacillota/Bacillus_anthracis/Bacillus_anthracis.jpg)
-Scientific Name ::     Bacillus anthracis
+scientific_name ::     Bacillus anthracis
 Comments             A photomicrograph of the Anthrax bacterium, Bacillus anthracis, using Gram stain technique
-Specimen Condition   Dead Specimen
+specimen_condition ::  Dead Specimen
 Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
   
   

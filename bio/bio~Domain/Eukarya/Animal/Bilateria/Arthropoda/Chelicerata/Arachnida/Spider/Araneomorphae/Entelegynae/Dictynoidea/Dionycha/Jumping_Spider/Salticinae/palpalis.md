@@ -31,7 +31,7 @@ title: Salticus palpalis
 
 ![Salticus_palpalis,Male](palpalis/Salticus_palpalis,Male.gif) 
 ![Female](palpalis/Salticus_palpalis,Female.gif) 
-Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 
 ## Confidential Links & Embeds: 

@@ -213,17 +213,17 @@ relationships is badly needed (Young, *et al.*, 1999).
 
 ------------------------------------------------------------------------------- 
 ![](Decapodiformes/Histioteuthis.jpg) 
-Scientific Name ::  Histioteuthis
-Location ::        Hawaii
+scientific_name ::  Histioteuthis
+location ::        Hawaii
 View              Oral view showing eight arms and two tentacles
-Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 ------------------------------------------------------------------------------- 
 ![Pyroteuthis addolux](Decapodiformes/Pyroteuthis_addolux.jpg) 
-Scientific Name ::  Pyroteuthis addolux
-Location ::        Hawaii
+scientific_name ::  Pyroteuthis addolux
+location ::        Hawaii
 View              Dorsal view showing eight arms and two tentacles
-Copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::         © 1995 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

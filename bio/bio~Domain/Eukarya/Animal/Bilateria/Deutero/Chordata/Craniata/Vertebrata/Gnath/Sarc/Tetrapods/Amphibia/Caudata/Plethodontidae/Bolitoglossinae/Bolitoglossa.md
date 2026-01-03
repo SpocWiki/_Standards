@@ -194,12 +194,12 @@ sister to a clade containing *Nototriton* and *Oedipina , Bradytriton*.
 
 ------------------------------------------------------------------ 
 ![](Bolitoglossa/103881968_74ffee5d5b_o.jpg) 
-Scientific Name ::     Bolitoglossa striatula
-Location ::           Costa Rica
+scientific_name ::     Bolitoglossa striatula
+location ::           Costa Rica
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
+copyright ::            © 2006 [Jack Goldfarb](http://flickr.com/people/the_horned_jew_lizard/)
 
 
 ## Confidential Links & Embeds: 

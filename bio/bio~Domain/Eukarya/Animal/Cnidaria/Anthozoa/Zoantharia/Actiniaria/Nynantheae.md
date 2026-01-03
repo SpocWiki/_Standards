@@ -71,17 +71,17 @@ Photographs copyright © 2000, Ron Ates.
 ![](diadumenidaesm.jpg)
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 ![](Nynantheae/haloclavidaesm.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 ![](Nynantheae/boloceroididaesm.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

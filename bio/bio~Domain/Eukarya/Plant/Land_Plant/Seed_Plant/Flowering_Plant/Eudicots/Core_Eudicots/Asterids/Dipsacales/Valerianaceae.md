@@ -186,16 +186,16 @@ Valeriana and Centranthus.
 
 ---------------------------------------------------------------------------- 
 ![Patrinia triloba](Valerianaceae/Patrinia_triloba.gif) 
-Scientific Name ::  Patrinia triloba
+scientific_name ::  Patrinia triloba
 Comments          Flowers
-Copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 
+copyright ::         © 2004 [Charles D. Bell](http://www.phylodiversity.net/cbell/) 
 
 ---------------------------------------------------------------------------
 ![Nardostachys_jatamansi](Nardostachys_jatamansi.jpg)
-Scientific Name ::     Nardostachys jatamansi
-Specimen Condition   Live Specimen
+scientific_name ::     Nardostachys jatamansi
+specimen_condition ::  Live Specimen
 Identified By        C. Bell
-Copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
+copyright ::            © [Michael Donoghue](mailto:michael.donoghue@yale.edu) 
 
 
 ## Confidential Links & Embeds: 

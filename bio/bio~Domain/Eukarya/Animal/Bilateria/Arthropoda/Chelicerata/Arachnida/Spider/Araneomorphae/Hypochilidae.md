@@ -41,13 +41,13 @@ Containing group:[Araneomorphae](../Araneomorphae.md)
 
 --------------------------------------------------------------------------------- 
 ![](Hypochilidae/hypochilus_pococki.jpg) 
-Scientific Name ::     Hypochilus pococki
-Location ::           Great Smoky Mountains, North Carolina
-Specimen Condition   Live Specimen
+scientific_name ::     Hypochilus pococki
+location ::           Great Smoky Mountains, North Carolina
+specimen_condition ::  Live Specimen
 Identified By        Jonathan Coddington
 Sex ::                Female
 Life Cycle Stage ::     adult
-Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
 
 
 ## Confidential Links & Embeds: 

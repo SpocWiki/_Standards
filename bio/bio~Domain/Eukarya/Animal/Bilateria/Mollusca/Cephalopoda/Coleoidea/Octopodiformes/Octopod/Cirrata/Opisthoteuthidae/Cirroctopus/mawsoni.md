@@ -111,7 +111,7 @@ Mar. Sci. 20: 421-428.
 ![](mawsoni/CirroctMawsoniVent.jpg) 
 
   -------------------------------------------
-  Scientific Name ::  Cirroctopus mawsoni
+  scientific_name ::  Cirroctopus mawsoni
   Reference         Berry, S.S. 1917. Cephalopoda. Scientific Reports of the Australasian Antarctic Expedition 1911-1914, (series C)14(2):1-39.
   View              Ventral
   Type              Holotype
@@ -119,7 +119,7 @@ Mar. Sci. 20: 421-428.
 ![](mawsoni/CirroctMawsoniSide.jpg) 
 
   -------------------------------------------
-  Scientific Name ::  Cirroctopus mawsoni
+  scientific_name ::  Cirroctopus mawsoni
   Reference         Berry, S.S. 1917. Cephalopoda. Scientific Reports of the Australasian Antarctic Expedition 1911-1914, (series C)14(2):1-39.
   View              Side
   Type              Holotype

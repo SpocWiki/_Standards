@@ -247,10 +247,10 @@ waters. Bull. Mar. Sci., 49: 162-185.
 ![](Chiroteuthis/ChiroAllPhoto.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Chiroteuthis sp. B2
-  Location ::        Hawaii
+  scientific_name ::  Chiroteuthis sp. B2
+  location ::        Hawaii
   View              ventral
-  Copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   -------------------------------------------------------------------------------
 

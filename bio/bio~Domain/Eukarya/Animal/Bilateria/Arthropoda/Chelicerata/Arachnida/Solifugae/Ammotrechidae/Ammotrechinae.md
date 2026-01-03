@@ -43,11 +43,11 @@ title: Ammotrechinae
 
 ------------
 ![](Ammotrechinae/Ammotrechula.jpg)
-Scientific Name ::     Ammotrechula pilosa Muma
-Specimen Condition   Live Specimen
+scientific_name ::     Ammotrechula pilosa Muma
+specimen_condition ::  Live Specimen
 Sex ::                Male
 Life Cycle Stage ::     Adult
-Copyright ::            © 2003 Warren E. Savary
+copyright ::            © 2003 Warren E. Savary
 
 
 ## Confidential Links & Embeds: 

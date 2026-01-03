@@ -74,29 +74,29 @@ NBN_System_Key: NHMSYS0021060389
 
 ------------------------------------------------------------------------------ 
 ![Cream sacs, Castilleja rubicundula ssp. lithospermoides](Lamiales/Castilleja_rubicundula.jpg) 
-Scientific Name ::     Castilleja rubicundula ssp. lithospermoides
-Location ::           Napa County, California, US.
+scientific_name ::     Castilleja rubicundula ssp. lithospermoides
+location ::           Napa County, California, US.
 Comments             Cream sacs (Scrophulariaceae)
 Creator              Photograph by Robert Thomas and Margaret Orr
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------ 
 ![Satureja thymbra](Lamiales/Satureja_thymbra.jpg) 
-Scientific Name ::   Satureja thymbra
-Location ::         Samos, Greece.
+scientific_name ::   Satureja thymbra
+location ::         Samos, Greece.
 Comments           Lamiaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 ------------------------------------------------------------------------ 
 ![Globularia punctata](Lamiales/Globularia_punctata.jpg) 
-Scientific Name ::   Globularia punctata
-Location ::         Strangenberg, Haut-Rhin, Dép. Westhalten, France.
+scientific_name ::   Globularia punctata
+location ::         Strangenberg, Haut-Rhin, Dép. Westhalten, France.
 Comments           Antirrhinaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

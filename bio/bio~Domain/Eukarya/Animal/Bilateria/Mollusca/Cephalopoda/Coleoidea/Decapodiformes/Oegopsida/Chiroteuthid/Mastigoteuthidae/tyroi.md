@@ -126,13 +126,13 @@ Beaufortia, 47: 91-108.
 ![](tyroi/MastTyroiDraw.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::   Mastigoteuthis tyroi
+  scientific_name ::   Mastigoteuthis tyroi
   Reference          Salcedo-Vargas, M. A. 1997. Cephalopods from the Netherlands Indian Ocean Programme (NIOP) - II. Mastigoteuthid lineage and related forms. Beaufortia, 47: 91-108.
   Life Cycle Stage ::   Paralarva
   View               Dorsal and ventral.
   Size               15 mm ML
   Type               Holotype
-  Copyright ::          © 2004 [Mario Alejandro Salcedo-Vargas](mailto:ikatako@hotmail.com) 
+  copyright ::          © 2004 [Mario Alejandro Salcedo-Vargas](mailto:ikatako@hotmail.com) 
  
   ------------------------------------------------------------------------------
 

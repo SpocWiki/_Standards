@@ -123,11 +123,11 @@ three genera together.
 
 -----------------------
 ![African ground squirrel](Xerini/Xerus.jpg)
-Scientific Name ::     Xerus
+scientific_name ::     Xerus
 Comments             African ground squirrel
 Creator              Photograph by Gary M. Stolz
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

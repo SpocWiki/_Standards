@@ -420,28 +420,28 @@ be monophyletic, with lepidothricids sister to this complex (Kristensen,
 
 ---------------------------------------------------------------------------
 ![](Insect/Machilidae.jpg)
-Scientific Name ::     Machilidae
-Location ::           USA: North Carolina: Durham
+scientific_name ::     Machilidae
+location ::           USA: North Carolina: Durham
 Comments             Bristletail (Archaeognatha)
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 --------------------------------------------------------------------------
 ![silverfish, Thermobia domestica](Insect/Thermobia_domestica.jpg)
-Scientific Name ::  Thermobia domestica
-Location ::        Tucson, Arizona, USA
+scientific_name ::  Thermobia domestica
+location ::        Tucson, Arizona, USA
 Comments          Silverfish (Thysanura)
-Copyright ::         © 2003 [David R. Maddison](http://david.bembidion.org/) 
+copyright ::         © 2003 [David R. Maddison](http://david.bembidion.org/) 
 
 -----------------------------------------------------------------------------
 ![Narrow-winged damsel fly](Insect/Zygoptera.jpg)
-Scientific Name ::     Zygoptera
-Location ::           Zion National Park (Utah, USA)
+scientific_name ::     Zygoptera
+location ::           Zion National Park (Utah, USA)
 Comments             Narrow-winged damsel fly (Pterygota)
 Creator              Photograph by Robert Potts
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

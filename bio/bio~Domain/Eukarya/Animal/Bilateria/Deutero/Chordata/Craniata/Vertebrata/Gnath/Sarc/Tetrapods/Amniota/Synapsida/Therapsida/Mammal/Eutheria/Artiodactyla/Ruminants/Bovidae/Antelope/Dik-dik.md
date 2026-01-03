@@ -65,15 +65,15 @@ title: Madoqua
 
 ------------------------------------------------------------------------- 
 ![Family of dikdiks (Madoqua kirkii), Samburu, Kenya](Dik-dik/dikdikx3.jpg) 
-Scientific Name ::     Madoqua kirkii
-Location ::           Samburu Reserve, Kenya
+scientific_name ::     Madoqua kirkii
+location ::           Samburu Reserve, Kenya
 Comments             These small antelopes normally live as territorial pairs in bush country. This pair is accompanied by their nearly mature offspring. Note the small horns of the male (center).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male and female
 Life Cycle Stage ::     Adult and immature
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

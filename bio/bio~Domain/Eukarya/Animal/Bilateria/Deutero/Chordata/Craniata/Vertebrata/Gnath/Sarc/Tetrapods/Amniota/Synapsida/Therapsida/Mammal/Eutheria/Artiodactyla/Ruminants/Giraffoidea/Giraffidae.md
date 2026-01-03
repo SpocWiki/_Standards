@@ -72,19 +72,19 @@ title: Giraffidae
 
 -----------------------------
 ![](Sivatherium_skull1.jpg)
-Scientific Name ::     Sivatherium
-Location ::           Sewalik Hills, India
+scientific_name ::     Sivatherium
+location ::           Sewalik Hills, India
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
-Specimen Condition   Fossil \-- Period: Miocene
+specimen_condition ::  Fossil \-- Period: Miocene
 Body Part            restored skull
 
 -----------------------------
 ![](Giraffidae/Helladotherium.jpg)
-Scientific Name ::     Helladotherium
-Location ::           Pikermi, Greece
+scientific_name ::     Helladotherium
+location ::           Pikermi, Greece
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
 Creator              M. Gaudry
-Specimen Condition   Fossil \-- Period: Miocene
+specimen_condition ::  Fossil \-- Period: Miocene
 Body Part            restored skeleton
 
 

@@ -76,7 +76,7 @@ Encolpius is found on tree trunks and some Amycus are ground-dwellers.
 
 ---------------------------------------------------------------------------
 ![](Amycinae/amycus.gif)
-Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 
 ## Confidential Links & Embeds: 

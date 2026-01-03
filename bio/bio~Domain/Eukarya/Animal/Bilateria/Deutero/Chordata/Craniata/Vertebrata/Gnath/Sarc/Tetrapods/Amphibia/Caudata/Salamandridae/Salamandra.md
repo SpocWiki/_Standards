@@ -44,22 +44,22 @@ title: Salamandra
 
 ----------------------------------------------------------------------- 
 ![](Salamandra/img_3736_2.jpg) 
-Scientific Name ::     Salamandra salamandra
-Location ::           Romania
-Specimen Condition   Live Specimen
+scientific_name ::     Salamandra salamandra
+location ::           Romania
+specimen_condition ::  Live Specimen
 Identified By        Horia Bogdan
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © [Horia Bogdan](http://herp-or.uv.ro/index) 
+copyright ::            © [Horia Bogdan](http://herp-or.uv.ro/index) 
 
 ----------------------------------------------------------------------- 
 ![](Salamandra/205901169_5896159ed0_o.jpg) 
-Scientific Name ::     Salamandra atra
-Location ::           Pont de Nant nature reserve in the western swiss alps
-Specimen Condition   Live Specimen
+scientific_name ::     Salamandra atra
+location ::           Pont de Nant nature reserve in the western swiss alps
+specimen_condition ::  Live Specimen
 Source               [Salamandra atra](http://www.flickr.com/photos/philgimp/205901169/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/66579298@N00)
+copyright ::            © 2006 [Philippe Henry](http://flickr.com/people/66579298@N00)
 
 
 ## Confidential Links & Embeds: 

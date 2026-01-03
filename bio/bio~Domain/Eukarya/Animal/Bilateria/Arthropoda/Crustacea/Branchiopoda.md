@@ -64,12 +64,12 @@ UMLS_CUI: C0596222
 
 --------------------- 
 ![Tadpole shrimp](Branchiopoda/Lepidurus_packardi0261.jpg) 
-Scientific Name ::     Lepidurus packardi
-Location ::           Shasta County, California, USA
+scientific_name ::     Lepidurus packardi
+location ::           Shasta County, California, USA
 Comments             Tadpole shrimp
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
+copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 
 ## Confidential Links & Embeds: 

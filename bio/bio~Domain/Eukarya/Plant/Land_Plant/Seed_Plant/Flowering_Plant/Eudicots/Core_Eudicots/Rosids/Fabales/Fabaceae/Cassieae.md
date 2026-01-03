@@ -97,24 +97,24 @@ whether any of them are monophyletic or not.
 
 ----------------- 
 ![Labichea_lanceolata](Cassieae/Labichea_lanceolata.jpg) 
-Scientific Name ::     Labichea lanceolata Benth.
-Location ::           West Australia
-Specimen Condition   Live Specimen
-Copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
+scientific_name ::     Labichea lanceolata Benth.
+location ::           West Australia
+specimen_condition ::  Live Specimen
+copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
 
 ----------------------- 
 ![Poeppigia procera](Cassieae/Poeppigia_procera.jpg)) 
-Scientific Name ::     Poeppigia procera Presl
-Location ::           Bolivia
-Specimen Condition   Live Specimen
-Copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
+scientific_name ::     Poeppigia procera Presl
+location ::           Bolivia
+specimen_condition ::  Live Specimen
+copyright ::            © [Robin Foster](http://fm2.fieldmuseum.org/plantguides/)
 
 ----------------- 
 ![Petalostylis labicheoides](Cassieae/Petalostylis_labicheoides.jpg) 
-Scientific Name ::     Petalostylis labicheoides R.Br.
-Location ::           West Australia
-Specimen Condition   Live Specimen
-Copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
+scientific_name ::     Petalostylis labicheoides R.Br.
+location ::           West Australia
+specimen_condition ::  Live Specimen
+copyright ::            © [Bernd Krüger](http://www.bkaussi.de/)
 
 
 ## Confidential Links & Embeds: 

@@ -186,12 +186,12 @@ Vecchione and Young, 1997).
 ![](Cirroctopus/Cirroctopus.jpg) 
 
   ------
-  Copyright ::   © E. McSweeny
+  copyright ::   © E. McSweeny
   ------
 ![](Cirroctopus/CirroctopusDraw.jpg) 
 
   -----------------------------------------------------------------------
-  Copyright ::   © 1997 [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::   © 1997 [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

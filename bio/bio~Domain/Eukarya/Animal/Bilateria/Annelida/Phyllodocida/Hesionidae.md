@@ -199,16 +199,16 @@ further discussed on that page.
 
 ------------ 
 ![Amphiduros fuscescens](Hesionidae/Amphiduros_fuscescens.jpg) 
-Scientific Name ::     Amphiduros fuscescens
-Location ::           Canary Islands
-Specimen Condition   Live Specimen
-Copyright ::            © 2001 Leopoldo Moro
+scientific_name ::     Amphiduros fuscescens
+location ::           Canary Islands
+specimen_condition ::  Live Specimen
+copyright ::            © 2001 Leopoldo Moro
 
 ------------------------------------------------------------------------ 
 ![](Hesionidae/Ophiodromus_flexuosus.jpg) 
-Scientific Name ::  Ophiodromus flexuosus
-Location ::        southern France
-Copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
+scientific_name ::  Ophiodromus flexuosus
+location ::        southern France
+copyright ::         © 1997 [Fredrik Pleijel](mailto:pleijel@mnhn.fr) 
 
 
 ## Confidential Links & Embeds: 

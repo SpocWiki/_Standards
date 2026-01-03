@@ -316,25 +316,25 @@ Vánky, K. 1987. Illustrated genera of smut fungi. Cryptogamic Studies
 ![](Ustilaginomycotina/entorrhiza.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::  Entorrhiza casparyana, Juncus articulatus
+  scientific_name ::  Entorrhiza casparyana, Juncus articulatus
   Comments          Galls on the roots of Juncus articulatus induced by Entorrhiza casparyana
-  Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+  copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
 ![](Ustilaginomycotina/ustilago.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::  Ustilago maydis, Zea mays
+  scientific_name ::  Ustilago maydis, Zea mays
   Comments          Corn galls on Zea mays induced by Ustilago maydis
-  Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+  copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
 ![](Ustilaginomycotina/exobasidium.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::  Exobasidium vaccinii, Vaccinium vitis-idaea
+  scientific_name ::  Exobasidium vaccinii, Vaccinium vitis-idaea
   Comments          Sporulation of Exobasidium vaccinii on Vaccinium vitis-idaea
-  Copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
+  copyright ::         © 1997 [Robert Bauer](http://www.uni-tuebingen.de/uni/bbm/Privat/Robert.html) 
  
   ---------------------------------------------------------------------------------
 

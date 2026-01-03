@@ -96,17 +96,17 @@ From left to right:
 ![](Actiniaria/gonactiniidaesm.jpg) 
 
   --------
-  Copyright ::   © 2000 Robin Harvey
+  copyright ::   © 2000 Robin Harvey
   --------
 ![](Actiniaria/edwardsiidaesm.jpg)
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 ![](Actiniaria/diadumenidaesm.jpg) 
 
   -------
-  Copyright ::   © 2000 Ron Ates
+  copyright ::   © 2000 Ron Ates
   -------
 
 

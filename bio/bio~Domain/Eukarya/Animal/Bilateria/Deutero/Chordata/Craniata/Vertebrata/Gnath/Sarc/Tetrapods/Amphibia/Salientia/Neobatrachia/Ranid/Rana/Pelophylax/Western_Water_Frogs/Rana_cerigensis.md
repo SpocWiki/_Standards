@@ -132,9 +132,9 @@ Sciences of Philadelphia 470:1-9.
 ![](Rana_cerigensis/cerigensis.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Rana cerigensis
+  scientific_name ::  Rana cerigensis
   Type              Paratype
-  Copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
+  copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
  
   --------------------------------------------------------------------------
 

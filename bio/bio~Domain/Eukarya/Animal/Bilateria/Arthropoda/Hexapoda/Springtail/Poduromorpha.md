@@ -51,15 +51,15 @@ title: Poduromorpha
 
 ------------------------------------------------------------------------
 ![](Poduromorpha/Podura_aquatica.jpg)
-Scientific Name ::     Podura aquatica
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Podura aquatica
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 ------------------------------------------------------------------------
 ![](Poduromorpha/Anurida_granaria.jpg)
-Scientific Name ::     Anurida granaria
-Specimen Condition   Live Specimen
-Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+scientific_name ::     Anurida granaria
+specimen_condition ::  Live Specimen
+copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
 
 
 ## Confidential Links & Embeds: 

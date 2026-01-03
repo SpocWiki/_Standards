@@ -72,13 +72,13 @@ title: Balaenopteridae
 ![Humpback whale](Balaenopteridae/Humpback_Whale/Megaptera_novaeangliae60.jpg)
 
 ------------------------------------------------------------------------------
-Scientific Name ::     Megaptera novaeangliae
-Location ::           Gerlache Strait (Antarctica)
+scientific_name ::     Megaptera novaeangliae
+location ::           Gerlache Strait (Antarctica)
 Comments             Humpback whale (Balaenopteridae)
 Creator              Photograph by Gerald and Buff Corsi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 ------------------------------------------------------------------------------
 
 

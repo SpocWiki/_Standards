@@ -133,33 +133,33 @@ have been able to place it with certainty.
 
 ------------------------------------------------------------------------------ 
 ![Rock rose, Cistus](Malvales/Cistus.jpg) 
-Scientific Name ::     Cistus
-Location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
+scientific_name ::     Cistus
+location ::           Golden Gate Park, Strybing Arboretum (San Francisco County, California, USA)
 Comments             Rock rose (Cistaceae)
 Creator              Photograph by G. Dallas and Margaret Hanna
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![Baobab tree, Adansonia digitata](Malvales/Adansonia_digitata.jpg) 
-Scientific Name ::     Adansonia digitata
-Location ::           East Africa
+scientific_name ::     Adansonia digitata
+location ::           East Africa
 Comments             Baobab tree (Core Malvales).
 Creator              Photograph by Robert Thomas and Margaret Orr
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 --------------------------------------------------------------------------------- 
 ![High mallow, Malva sylvestris](Malvales/Malva_sylvestris.jpg) 
-Scientific Name ::     Malva sylvestris (Core Malvales)
-Location ::           Bodega Bay (Sonoma County, California, USA)
+scientific_name ::     Malva sylvestris (Core Malvales)
+location ::           Bodega Bay (Sonoma County, California, USA)
 Comments             High mallow
 Creator              Photograph by Brother Alfred Brousseau
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
+copyright ::            © 1995 [Saint Mary\'s College of California](mailto:rpolowin@stmarys-ca.edu) 
 
 
 ## Confidential Links & Embeds: 

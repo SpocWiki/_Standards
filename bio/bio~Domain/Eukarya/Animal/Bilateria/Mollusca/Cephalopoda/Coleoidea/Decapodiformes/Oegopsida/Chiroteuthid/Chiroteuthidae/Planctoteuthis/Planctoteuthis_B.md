@@ -127,10 +127,10 @@ Neptune City, NJ, 351pp.
 ![](Planctoteuthis_B/GenusB.jpg) 
 
   --------------
-  Scientific Name ::  New Genus B
+  scientific_name ::  New Genus B
   Comments          scale bar = 15 mm
   Size              96 mm ML
-  Copyright ::         © 1999 K. Nesis and I. Nikitina
+  copyright ::         © 1999 K. Nesis and I. Nikitina
   --------------
 
 

@@ -81,7 +81,7 @@ modified from Collins and Henriques, 2000.
 ![](gilchristi/StauroGilchristi.jpg) 
 
 --------------------------------------------------------------------
-Scientific Name ::  Stauroteuthis gilchristi
+scientific_name ::  Stauroteuthis gilchristi
 Reference         Collins, M. A. and C. Henriques. 2000. A revision of the family Stauroteuthidae (Octopoda: Cirrata) with redescriptions of Stauroteuthis syrtensis and S. gilchristi. J. Mar. Biol. Ass. U.K., 80: 685-697.
 Sex ::             Male
 View              ventral

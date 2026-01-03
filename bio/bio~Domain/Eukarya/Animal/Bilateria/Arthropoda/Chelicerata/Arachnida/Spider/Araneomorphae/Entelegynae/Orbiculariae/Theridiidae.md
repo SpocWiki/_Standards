@@ -166,36 +166,36 @@ Platnick, N.I. 2006. The World Spider Catalog, Version 7.0.
 ![](Theridiidae/169251899_3159ed2710_b.jpg) 
 
   -----------------------------
-  Scientific Name ::                    Achaearanea tepidariorum
+  scientific_name ::                    Achaearanea tepidariorum
 
-  Location ::                          Asbury Grove, Massachusetts, USA
+  location ::                          Asbury Grove, Massachusetts, USA
 
   Acknowledgements                    This image is licensed under the
                                       [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-sa/2.0/).\
                                       source: [flickr: Achaearanea tepidariorum - Common house spider                                       with prey](http://flickr.com/photos/trombamarina/169251899/)
 
-  Specimen Condition                  Live Specimen
+  specimen_condition ::                 Live Specimen
 
   Source Collection                   [Flickr](http://flickr.com/)
 
   Image Use ::                   [Attribution-NonCommercial-ShareAlike 2.0 Creative                                       Commons                                       License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
 
-  Copyright ::                           © 2006 [Glen Peterson](http://flickr.com/people/trombamarina/)
+  copyright ::                           © 2006 [Glen Peterson](http://flickr.com/people/trombamarina/)
   -----------------------------
 ![](Theridiidae/164552677_a414af2940_b.jpg) 
 
   -----------------------------
-  Scientific Name ::                    Latrodectus hesperus
+  scientific_name ::                    Latrodectus hesperus
 
   Acknowledgements                    The copyright owner has released this image under the
                                       [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons                                       license](http://creativecommons.org/licenses/by-nc-nd/2.0/).\
                                       source: [flickr: Waiting for                                       Dinner](http://flickr.com/photos/dvd5/164552677/)
 
-  Specimen Condition                  Live Specimen
+  specimen_condition ::                 Live Specimen
 
   Source Collection                   [Flickr](http://flickr.com/)
 
-  Copyright ::                           © 2006 [Don Van Dyke](http://flickr.com/people/dvd5/)
+  copyright ::                           © 2006 [Don Van Dyke](http://flickr.com/people/dvd5/)
   -----------------------------
 
 

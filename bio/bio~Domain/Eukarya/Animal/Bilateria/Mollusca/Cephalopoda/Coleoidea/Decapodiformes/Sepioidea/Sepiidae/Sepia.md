@@ -75,11 +75,11 @@ Contr. Zool., 586:159-190.
 ![](Sepia/sepialat.jpg) 
 
   ---------------
-  Scientific Name ::  Sepia latimanus, Sepia latimanus (2)
-  Location ::        off Australia
+  scientific_name ::  Sepia latimanus, Sepia latimanus (2)
+  location ::        off Australia
   Comments          mate guarding, female on left
   Sex ::             f, m (2)
-  Copyright ::         © 1996 Mark Norman
+  copyright ::         © 1996 Mark Norman
   ---------------
 
 

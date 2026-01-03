@@ -209,14 +209,14 @@ Zool., 97: 1-159.
 ![](calyx/C.jpg)
 
   ----------
-  Scientific Name ::  Chiroteuthis veranyi
-  Location ::        Antarctic waters
+  scientific_name ::  Chiroteuthis veranyi
+  location ::        Antarctic waters
   Creator           E. McSweeny
   ----------
 ![](veranyi/Cveranyi.jpg) 
 
   ----------
-  Scientific Name ::  Chiroteuthis veranyi
+  scientific_name ::  Chiroteuthis veranyi
   Creator           A. D. Hart
   ----------
 

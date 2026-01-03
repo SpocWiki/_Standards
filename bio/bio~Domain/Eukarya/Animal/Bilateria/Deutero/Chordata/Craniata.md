@@ -441,10 +441,10 @@ monophyly. Zoological Journal of the Linnean Society, 84, 291-300.
 ![](Craniata/skull.gif) 
 
   ---------------
-  Scientific Name ::   Homo sapiens
+  scientific_name ::   Homo sapiens
   Acknowledgements   The Digital Human Osteology Guide
   Body Part          skull
-  Copyright ::          © 1997 John Kappelman
+  copyright ::          © 1997 John Kappelman
   ---------------
 
 

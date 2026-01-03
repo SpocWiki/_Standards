@@ -84,29 +84,29 @@ title: Liliales
 
 -------------------------------------------------------------------------
 ![Lilium pensylvanicum](Liliales/Lilium_pensylvanicum.jpg) 
-Scientific Name ::    Lilium pensylvanicum
-Location ::          Near Shari, Hokkaido (Japan)
+scientific_name ::    Lilium pensylvanicum
+location ::          Near Shari, Hokkaido (Japan)
 Comments            Liliaceae
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 1998 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::           © 1998 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 ------------------------------------------------------------------------
 ![Colchicum troodii](Liliales/Colchicum_troodii.jpg) 
-Scientific Name ::   Colchicum troodii
-Location ::         Cultivated at the Botanical Garden, Basel, Switzerland
+scientific_name ::   Colchicum troodii
+location ::         Cultivated at the Botanical Garden, Basel, Switzerland
 Comments           Colchicaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ------------------------------------------------------------------------------
 ![Zigadenus venenosus](Liliales/Zigadenus_venenosus.jpg)
-Scientific Name ::    Zigadenus venenosus
-Location ::          Point Lobos State Reserve (Monterey County, California, USA)
+scientific_name ::    Zigadenus venenosus
+location ::          Point Lobos State Reserve (Monterey County, California, USA)
 Comments            Melanthiaceae
 Creator             Photograph by Robert Potts
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::           © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

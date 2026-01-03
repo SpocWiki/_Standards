@@ -329,18 +329,18 @@ EPPO_Code: 1PROTK
 
 ---------------------------------------------------------------------------------
 ![Entosiphon sulcatum](Protist/Entosiphon_Sulcatum.jpg)
-Scientific Name ::     Entosiphon sulcatum (Euglenozoa)
+scientific_name ::     Entosiphon sulcatum (Euglenozoa)
   Comments             A heterotrophic euglenid. Phase contrast micrograph of a living cell.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
 
 ---------------------------------------------------------------------------------
 ![Plasmodium of a myxomycete slime mould](Protist/slime(Myxomycetes).jpg) 
-  Scientific Name ::     Myxomycetes
-  Location ::           La Selva Biological Station, Costa Rica
+  scientific_name ::     Myxomycetes
+  location ::           La Selva Biological Station, Costa Rica
   Comments             Plasmodium of a myxomycete slime mould (Ramicristates) dripping from a leaf in the rainforest understory.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

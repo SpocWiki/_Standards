@@ -87,17 +87,17 @@ title: Archosauria
 
 -----------------------
 ![](Archosauria/Crocodilia/Alligatoridae/Alligator_sinensis.jpg)
-Scientific Name ::     Alligator sinensis
+scientific_name ::     Alligator sinensis
 Comments             Chinese alligator
 Creator              Photograph by Gary M. Stolz
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 -----------------------
 ![](Archosauria/Pteranodon-Harder.jpg)
-Scientific Name ::     Pteranodon
+scientific_name ::     Pteranodon
 Creator              Heinrich Harder
-Specimen Condition   Fossil \-- Period: Cretaceous
+specimen_condition ::  Fossil \-- Period: Cretaceous
 
 
 ## Confidential Links & Embeds: 

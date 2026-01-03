@@ -56,10 +56,10 @@ title: Protoxerini
 
 ------------------------
 ![](Protoxerini/picture-52.jpg)
-Scientific Name ::     Paraxerus cepapi
-Location ::           Kruger National Park, South Africa
-Specimen Condition   Live Specimen
-Copyright ::            © [Mark Levesley](http://www.naturalimagebank.com/index.html)
+scientific_name ::     Paraxerus cepapi
+location ::           Kruger National Park, South Africa
+specimen_condition ::  Live Specimen
+copyright ::            © [Mark Levesley](http://www.naturalimagebank.com/index.html)
 
 
 ## Confidential Links & Embeds: 

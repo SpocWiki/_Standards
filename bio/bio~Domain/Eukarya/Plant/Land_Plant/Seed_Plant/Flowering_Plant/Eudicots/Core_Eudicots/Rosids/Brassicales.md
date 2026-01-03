@@ -101,29 +101,29 @@ taxon_common_name: 十字花目
 ![Coast wallflower, Erysimum ammophilum](Brassicales/Erysimum_ammophilum.jpg) 
 
   -------------------------------
-  Scientific Name ::     Erysimum ammophilum
-  Location ::           Marina State Beach (Monterey County, California, USA)
+  scientific_name ::     Erysimum ammophilum
+  location ::           Marina State Beach (Monterey County, California, USA)
   Comments             Coast wallflower (Brassicaceae)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
+  copyright ::            © 1995 [Dean Wm. Taylor, Jepson Herbarium, UC Berkeley](mailto:dwtaylor@cruzers.com)
   -------------------------------
 ![Indian cress, Tropaeolum minus](Brassicales/Tropaeolum_minus05199.jpg) 
 
   ---------------------------------------------------------------------
-  Scientific Name ::  Tropaeolum minus
+  scientific_name ::  Tropaeolum minus
   Comments          Indian cress (Tropaeolaceae)
-  Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+  copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
  
   ---------------------------------------------------------------------
 ![Papaya tree, Carica papaya](Brassicales/Carica_papaya2193.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::   Carica papaya
-  Location ::         Cultivated plant, Puerto de la Cruz, Teneriffa, Canary Islands.
+  scientific_name ::   Carica papaya
+  location ::         Cultivated plant, Puerto de la Cruz, Teneriffa, Canary Islands.
   Comments           Papaya tree (Caricaceae).
   Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-  Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+  copyright ::          © 2001 University of Basel, Basel, Switzerland 
   ------------------------------------------------------------------------
 
 

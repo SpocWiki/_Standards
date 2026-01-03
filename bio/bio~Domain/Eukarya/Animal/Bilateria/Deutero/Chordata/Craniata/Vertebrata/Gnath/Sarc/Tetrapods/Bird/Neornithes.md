@@ -74,30 +74,30 @@ which includes the two primary taxa Galloanserae and Neoaves.
 
 ------------------------------------------------------------------------------
 ![](Rhea_americana0104.jpg)
-Scientific Name ::     Rhea americana
-Location ::           Brazil
+scientific_name ::     Rhea americana
+location ::           Brazil
 Comments             Greater Rhea
 Creator              Dr. Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 -------------------
 ![American Black Duck](Neornithes/Anas_rubripes.jpg)
-Scientific Name ::     Anas rubripes
+scientific_name ::     Anas rubripes
 Comments             American Black Duck
 Creator              Maslowski Photo
 Acknowledgements     Photo courtesy U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Behavior             flying
 
 -----------------------------------------------------------------------------
 ![](1023Heliodoxa_jacula.jpg)
-Scientific Name ::     Heliodoxa jacula
-Location ::           Monteverde, Costa Rica
+scientific_name ::     Heliodoxa jacula
+location ::           Monteverde, Costa Rica
 Comments             Green-crowned Brilliant, a neotropical hummingbird
-Specimen Condition   Live Specimen
-Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

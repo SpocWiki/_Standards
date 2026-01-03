@@ -244,27 +244,27 @@ taxon of land plants (McCourt 1995; Melkonian and Surek, 1995).
 
 -----------------------------------------------------------------------------
 ![Chlamydomonas](Plant/chlamydomonas.gif)  
-Scientific Name ::  Chlamydomonas
+scientific_name ::  Chlamydomonas
 Comments          Chlorophyceae
-Copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
+copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
 
 -----------------------------------------------------------------------------
 ![Spirogyra](Plant/Zygnematales/Spirogyra,Zygnemataceae,Zygnematales.gif)
-Scientific Name ::  Spirogyra
+scientific_name ::  Spirogyra
 Comments          Zygnemetales
-Copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
+copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
 
 -----------------------------------------------------------------------------
 ![Coleochaete](Plant/coleochaete.gif) 
-Scientific Name ::  Coleochaete
+scientific_name ::  Coleochaete
 Comments          Coleochaetales
-Copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
+copyright ::         © 1995 [Richard M. McCourt](http://clade.acnatsci.org/mccourt/) 
 
 -----------------------------------------------------------------------------
 ![hepatican_arrow](Plant/hepatican_arrow.gif) 
-Scientific Name ::  Hepatica
+scientific_name ::  Hepatica
 Comments          an embryophyte
-Copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+copyright ::         © 1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
 
 
 ## Confidential Links & Embeds: 

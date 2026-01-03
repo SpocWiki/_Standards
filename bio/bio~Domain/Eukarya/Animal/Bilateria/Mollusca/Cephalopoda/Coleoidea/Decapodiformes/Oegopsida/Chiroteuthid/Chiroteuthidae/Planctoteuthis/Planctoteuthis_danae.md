@@ -126,13 +126,13 @@ Lu, 1975 and Lu and Clarke, 1975).
 
 ------------------------------------------------------------------------------ 
 ![](Planctoteuthis_danae/PDanaeType.jpg) 
-Scientific Name ::     Planctoteuthis danae
+scientific_name ::     Planctoteuthis danae
 Reference            Joubin, L. 1931. Notes preliminaires sur les cephalopodes des croiseires du "Dana" (1921-1922). Annales de l'Institut Oceanographique, 10: 169-211.
-Specimen Condition   Preserved
+specimen_condition ::  Preserved
 View                 Ventral
 Size                 ca. 65 mm ML
 Type                 Holotype
-Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

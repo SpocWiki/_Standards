@@ -59,13 +59,13 @@ title: Ourebia ourebi
 
 ------------------------------------------------------------- 
 ![Ourebia](Ourebia/Ourebia.jpg) 
-Scientific Name ::     Ourebia ourebi
-Location ::           Murchison Falls, Bunyoro, Uganda
-Specimen Condition   Live Specimen
+scientific_name ::     Ourebia ourebi
+location ::           Murchison Falls, Bunyoro, Uganda
+specimen_condition ::  Live Specimen
 Sex ::                male and female
 Source               [Pair of Oribi](http://flickr.com/photos/ogcodes/95205255/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/)
+copyright ::            © 2006 [Michael Jefferies](http://flickr.com/people/ogcodes/)
 
 
 ## Confidential Links & Embeds: 

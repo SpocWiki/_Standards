@@ -48,29 +48,29 @@ title: Proteales
 
 ---------------------------------------------------------------------
 ![Petrophila pedunculata](Proteales/Petrophila_pedunculata.jpg) 
-Scientific Name ::  Petrophila pedunculata
+scientific_name ::  Petrophila pedunculata
 Comments          Proteaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 -------------------------------------------------------------------------
 ![Nelumbo_nucifera](Proteales/Nelumbo_nucifera.jpg) 
-Scientific Name ::     Nelumbo nucifera
-Location ::           Vladivostok suburb, Primorsky Territory, Russian Federation
+scientific_name ::     Nelumbo nucifera
+location ::           Vladivostok suburb, Primorsky Territory, Russian Federation
 Comments             Sacred lotus
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::            © 1999 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 
 ------------------------------------------------------------------------------
 ![Platanus_racemosa,Western Sycamore](Proteales/Platanus_racemosa,Western_Sycamore.jpg)
-Scientific Name ::     Platanus racemosa
-Location ::           Alameda County, California, US
+scientific_name ::     Platanus racemosa
+location ::           Alameda County, California, US
 Comments             Western Sycamore
 Creator              Photograph by Charles Webber
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1998 [California Academy of Sciences](http://www.calacademy.org/) 
 ------------------------------------------------------------------------------
 
 

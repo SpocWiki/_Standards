@@ -130,31 +130,31 @@ Africa, Europe, Asia, North America.
 
 ------------------------------------------------------------------------- 
 ![Desert bighorn sheep (Ovis canadensis) and young, Arizona](Bovidae/bighorn_ma_inf.jpg) 
-Scientific Name ::     Ovis canadensis
-Location ::           Arizona Sonora Desert Museum, Tucson, USA
+scientific_name ::     Ovis canadensis
+location ::           Arizona Sonora Desert Museum, Tucson, USA
 Comments             Mother with month-old lamb
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Female
 Life Cycle Stage ::     Adult and young
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![impala](Bovidae/Impala-Side.jpg) 
-Scientific Name ::     Aepyceros melampus
-Location ::           Okavango Delta, Botswana
+scientific_name ::     Aepyceros melampus
+location ::           Okavango Delta, Botswana
 Comments             impala
-Specimen Condition   Live Specimen
-Copyright ::            © 1991 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1991 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------
 ![Tragelaphus_oryx](Bovidae/Tragelaphus_oryx.jpg)
-Scientific Name ::     Taurotragus oryx
-Location ::           Ngorogoro Wildlife Lodge, Tanzania
+scientific_name ::     Taurotragus oryx
+location ::           Ngorogoro Wildlife Lodge, Tanzania
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#4321056)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Kenneth M. Gale
+copyright ::            © Kenneth M. Gale
 
 
 ## Confidential Links & Embeds: 

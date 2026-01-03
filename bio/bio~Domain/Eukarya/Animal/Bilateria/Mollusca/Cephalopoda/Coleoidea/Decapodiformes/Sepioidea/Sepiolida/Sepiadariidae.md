@@ -97,15 +97,15 @@ No. 513: 1-282.
 ![](Sepiadariidae/SepLineolata.jpg) 
 
   -----------
-  Scientific Name ::  Sepioloidea lineolata
-  Location ::        off south Australia
-  Copyright ::         © 1998 Mark Norman
+  scientific_name ::  Sepioloidea lineolata
+  location ::        off south Australia
+  copyright ::         © 1998 Mark Norman
   -----------
 ![](Sepiadariidae/Sepiadar.jpg) 
 
   -----------
-  Scientific Name ::  Sepiadarium austrinum
-  Location ::        off south Australia
+  scientific_name ::  Sepiadarium austrinum
+  location ::        off south Australia
   -----------
 
 

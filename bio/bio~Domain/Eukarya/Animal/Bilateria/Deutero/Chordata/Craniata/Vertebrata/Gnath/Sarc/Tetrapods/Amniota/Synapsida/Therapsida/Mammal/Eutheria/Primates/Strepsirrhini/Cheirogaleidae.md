@@ -53,13 +53,13 @@ title: Cheirogaleidae
 
 ---------------------------------
 ![](Lorisiformes/ell.jpg)
-Scientific Name ::  Cheirogaleus major
+scientific_name ::  Cheirogaleus major
 Reference         Elliot, D. G. 1913. A Review of The Primates. American Museum of Natural History. New York.
 
 --------------------------------- 
 ![drawing of a hairy-eared dwarf lemur](Cheirogaleidae/Allocebus_trichotis_dr.jpg) 
-Scientific Name ::  Allocebus trichotis
-Location ::        Madagascar
+scientific_name ::  Allocebus trichotis
+location ::        Madagascar
 Comments          hairy-eared dwarf lemur
 Reference         Günther, A. 1875. Notes on some Mammals from Madagascar. Proceedings of the Zoological Society London: 78-80, pl. 15-16.
 

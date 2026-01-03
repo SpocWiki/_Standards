@@ -125,18 +125,18 @@ The \"eocyte tree\":
 ![Meloid on a yellow composite flower](../bio~Tree/Arthropoda/Hexapoda/Insect/Pterygota/Neoptera/Endopterygota/Beetle/Polyphaga/meloid.gif)
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Meloidae
-  Location ::           U.S.A.: Arizona
+  scientific_name ::     Meloidae
+  location ::           U.S.A.: Arizona
   Comments             Blister beetle (Polyphaga) on a composite flower
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
  
   ---------------------------------------------------------------------------
 ![Fischerella ](fischerella.gif)
 
   ----------------------------------------------------------------------
-  Scientific Name ::  Fischerella (Eubacteria, Cyanobacteria)
-  Copyright ::         © 1995 [Sue Barns](mailto:sbarns@lanl.gov) 
+  scientific_name ::  Fischerella (Eubacteria, Cyanobacteria)
+  copyright ::         © 1995 [Sue Barns](mailto:sbarns@lanl.gov) 
  
   ----------------------------------------------------------------------
 

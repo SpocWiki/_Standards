@@ -116,9 +116,9 @@ anatomical characters. J. Moll. Stud. 63: 311-325.
 ![](Argonautoida/ArgonautoidFams.jpg) 
 
   ---------------------------------------
-  Scientific Name ::   Argonauta nodosa, Haliphron atlanticus, Ocythoe tuberculata, Tremoctopus violaceus
+  scientific_name ::   Argonauta nodosa, Haliphron atlanticus, Ocythoe tuberculata, Tremoctopus violaceus
   Acknowledgements   courtesy of Mark Norman
-  Copyright ::          © 1996 David Paul (Argonauta), Ron Gilmer (Haliphron), Dorothy Petersen (Ocythoe), M. Vecchione (Tremoctopus)
+  copyright ::          © 1996 David Paul (Argonauta), Ron Gilmer (Haliphron), Dorothy Petersen (Ocythoe), M. Vecchione (Tremoctopus)
   ---------------------------------------
 
 

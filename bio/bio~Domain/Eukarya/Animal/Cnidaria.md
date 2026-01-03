@@ -258,18 +258,18 @@ a sister group of all metazoans other than sponges.
 
 --------------------------------------------
 [Heteractis malu](Cnidaria/Heteractis_malu.jpg) 
-Scientific Name ::     Heteractis malu
+scientific_name ::     Heteractis malu
 Comments             A sea anemone (Anthozoa)
 Reference            From D. G. Fautin and G. R. Allen. 1992. Field Guide to Anemonefishes and their Host Sea Anemones. Western Australia Museum.
 Creator              photographed by Art Reed
-Specimen Condition   Live Specimen
-Copyright ::            © 1992 Western Australia Museum
+specimen_condition ::  Live Specimen
+copyright ::            © 1992 Western Australia Museum
 
 ---------------------------------------------
 ![Aglantha digitale](Cnidaria/Aglantha_digitale.gif) 
-Scientific Name ::  Aglantha digitale
+scientific_name ::  Aglantha digitale
 Comments          A direct-developing holoplanktonic hydromedusa (Hydrozoa) that has no polyp. The gonads are visible through the transparent bell.
-Copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)
+copyright ::         © 1998 [Claudia E. Mills](http://faculty.washington.edu/cemills/)
 
 
 ## Confidential Links & Embeds: 

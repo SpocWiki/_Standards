@@ -64,9 +64,9 @@ title: Pandanales
 
 ---------------------------------------------------------------------
 ![Talbotia_elegans](Pandanales/Talbotia_elegans.jpg) 
-Scientific Name ::  Barbacenia elegans
+scientific_name ::  Barbacenia elegans
 Comments          Velloziaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ## Confidential Links & Embeds: 

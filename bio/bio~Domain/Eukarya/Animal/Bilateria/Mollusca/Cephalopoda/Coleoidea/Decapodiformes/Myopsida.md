@@ -101,11 +101,11 @@ Monographie 35, Vol I, Parts I and II, Systematik, pp 1-863.
 ![](Myopsida/LpealeiiMV3.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Loligo plei
-  Specimen Condition   Live Specimen
+  scientific_name ::     Loligo plei
+  specimen_condition ::  Live Specimen
   View                 Dorsal
   Size                 105 mm ML
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

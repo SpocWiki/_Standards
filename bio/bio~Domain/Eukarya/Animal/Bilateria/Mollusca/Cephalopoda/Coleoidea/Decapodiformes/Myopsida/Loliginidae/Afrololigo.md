@@ -104,12 +104,12 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Afrololigo/Afrologio.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Afrololigo mercatoris
-  Location ::           04°06\'N, 05°58\'E
-  Specimen Condition   Preserved
+  scientific_name ::     Afrololigo mercatoris
+  location ::           04°06\'N, 05°58\'E
+  specimen_condition ::  Preserved
   Sex ::                Female
   View                 Ventral
-  Copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   ------------------------------------------------------------------------------::::::::::::::::::::::
 

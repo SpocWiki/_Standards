@@ -58,24 +58,24 @@ title: Buxaceae
 ![](Buxaceae/Buxussempervirens-2.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Buxus sempervirens
-  Location ::           Romania
-  Specimen Condition   Live Specimen
+  scientific_name ::     Buxus sempervirens
+  location ::           Romania
+  specimen_condition ::  Live Specimen
   Identified By        Ilisoi Gabriel
   Body Part            Aerial
   View                 General
-  Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+  copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
  
   ---------------------------------------------------------------------------
 ![](Buxaceae/153530768_e421e0f9b5_b.jpg) 
 
   --------------------------------------------------------
-  Scientific Name ::     Pachysandra terminalis
-  Specimen Condition   Live Specimen
+  scientific_name ::     Pachysandra terminalis
+  specimen_condition ::  Live Specimen
   Source               [Pachysandra terminalis](http://flickr.com/photos/u123072/153530768/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-  Copyright ::            © 2006 [Mark](http://flickr.com/people/u123072/)
+  copyright ::            © 2006 [Mark](http://flickr.com/people/u123072/)
   --------------------------------------------------------
 
 

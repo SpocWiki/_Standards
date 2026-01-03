@@ -349,13 +349,13 @@ from Hill and Smith (1984).
 
 ----------
 ![](Bat/molossus1.gif)
-Scientific Name ::  Molossus rufus
-Copyright ::         © 1998 Nancy Simmons
+scientific_name ::  Molossus rufus
+copyright ::         © 1998 Nancy Simmons
 
 ---------- 
 ![](Bat/Microchiroptera/Phyllostomidae/phyllostomus1.gif) 
-Scientific Name ::  Phylostomus hastatus
-Copyright ::         © 1994 Nancy Simmons
+scientific_name ::  Phylostomus hastatus
+copyright ::         © 1994 Nancy Simmons
 
 
 ## Confidential Links & Embeds: 

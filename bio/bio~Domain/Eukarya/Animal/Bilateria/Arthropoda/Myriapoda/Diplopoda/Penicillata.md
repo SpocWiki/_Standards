@@ -60,11 +60,11 @@ Polyxenida
 
 ----------------------------------------------------------------------------
 ![Polyxenus](Penicillata/Polyxenus.jpg)
-Scientific Name ::     Diplopoda:Schizocephala:Polyxenidae: Polyxenus sp.
-Location ::           Marina di Pietrasanta, Lucca Province, Tuscany, Italy
-Specimen Condition   Live Specimen
+scientific_name ::     Diplopoda:Schizocephala:Polyxenidae: Polyxenus sp.
+location ::           Marina di Pietrasanta, Lucca Province, Tuscany, Italy
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
 
 
 ## Confidential Links & Embeds: 

@@ -157,38 +157,38 @@ Studying Hominidae species provides insights into human evolution, behavior, and
 ![chimpanzee](Hominidae/Pan(Genus)/Chimpanzee/Pan_troglodytes.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Pan troglodytes
-  Location ::           Sweetwaters Game Reserve, Kenya
+  scientific_name ::     Pan troglodytes
+  location ::           Sweetwaters Game Reserve, Kenya
   Comments             chimpanzee
   Creator              Photograph by Gerald and Buff Corsi
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2002 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 
 ![Lowland gorilla](Gorilla_gorilla0088.jpg)
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Gorilla gorilla gorilla
-  Location ::           San Francisco Zoo, San Francisco, California (US)
+  scientific_name ::     Gorilla gorilla gorilla
+  location ::           San Francisco Zoo, San Francisco, California (US)
   Comments             Lowland gorilla
   Creator              Photograph by Gerald and Buff Corsi
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 ![Orangutan](Hominidae/Orangutan/Pongo_pygmaeus0055.jpg) 
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Pongo pygmaeus
-  Location ::           San Francisco Zoo, San Francisco, California (US)
+  scientific_name ::     Pongo pygmaeus
+  location ::           San Francisco Zoo, San Francisco, California (US)
   Comments             Orangutan
   Creator              Photo by H. Vannoy Davis
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 

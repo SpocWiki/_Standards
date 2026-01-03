@@ -71,10 +71,10 @@ title: Giraffoidea
 ![](Giraffoidea/Samotherium_skull.jpg) 
 
 -----------------------------
-Scientific Name ::     Samotherium
-Location ::           Samos, Greece
+scientific_name ::     Samotherium
+location ::           Samos, Greece
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
-Specimen Condition   Fossil \-- Period: Miocene
+specimen_condition ::  Fossil \-- Period: Miocene
 Body Part            skull
 -----------------------------
 

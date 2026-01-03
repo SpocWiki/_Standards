@@ -547,17 +547,17 @@ to methods and applications,. Academic Press, San Diego, pp. 315-322.
 ![Lepista mushrooms](Agaricomycetes/Lepista.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Lepista cf. nuda
+  scientific_name ::  Lepista cf. nuda
   Comments          Agaricales
-  Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+  copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
   -----------------------------------------------------------------------------
 ![Earthstar, Geastrum saccatum](Agaricomycetes/earthstar200.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Geastrum saccatum
+  scientific_name ::  Geastrum saccatum
   Comments          Earthstar (Gomphoid-Phalloid clade)
-  Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+  copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
   -----------------------------------------------------------------------------
 

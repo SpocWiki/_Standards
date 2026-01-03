@@ -44,10 +44,10 @@ title: Double-stranded RNA Viruses
   ------------------------------------------
 ![ ](Double-stranded_RNA_Virus/B82-0337_lores.jpg)
 
-  Scientific Name ::     Rotavirus
+  scientific_name ::     Rotavirus
   Comments             Transmission electron micrograph of intact rotavirus particles, double-shelled. Distinctive rim of radiating capsomeres.
   Creator              Dr. Erskine Palmer (Center for Disease Control)
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

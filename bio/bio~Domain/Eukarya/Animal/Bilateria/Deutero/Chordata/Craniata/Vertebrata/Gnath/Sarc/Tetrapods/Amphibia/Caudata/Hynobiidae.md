@@ -212,11 +212,11 @@ discussion of hynobiid phylogeny, see Larson et al. (2003).\
 
 --------------------------- 
 ![](Hynobiidae/batrachuperus.jpg) 
-Scientific Name ::     Batrachuperus yenyuanensis
-Location ::           China
+scientific_name ::     Batrachuperus yenyuanensis
+location ::           China
 Comments             The specimen was photographed on land although the species is aquatic.
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 J. Robert Macey
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 J. Robert Macey
 
 
 ## Confidential Links & Embeds: 

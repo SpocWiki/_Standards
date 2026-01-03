@@ -99,18 +99,18 @@ Photograph by J. Arnold.\
 
 ------------------------------------------------------------------------- 
 ![](Nautiloidea/NautilusFront.JPG) 
-Scientific Name ::     Nautilus
-Location ::           Photographed at the U.S. National Zoo in Washington, D.C.
-Specimen Condition   Live Specimen
+scientific_name ::     Nautilus
+location ::           Photographed at the U.S. National Zoo in Washington, D.C.
+specimen_condition ::  Live Specimen
 View                 frontal
-Copyright ::            © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
+copyright ::            © 1996 [Michael Vecchione](mailto:vecchiom@si.edu) 
 
 --------------------------------------------------------------------------- 
 ![](Nautiloidea/NautilusInSitu.JPG) 
-Scientific Name ::     Nautilus pompilius
-Location ::           Osprey Reef, Coral Sea
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+scientific_name ::     Nautilus pompilius
+location ::           Osprey Reef, Coral Sea
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
 
 
 ## Confidential Links & Embeds: 

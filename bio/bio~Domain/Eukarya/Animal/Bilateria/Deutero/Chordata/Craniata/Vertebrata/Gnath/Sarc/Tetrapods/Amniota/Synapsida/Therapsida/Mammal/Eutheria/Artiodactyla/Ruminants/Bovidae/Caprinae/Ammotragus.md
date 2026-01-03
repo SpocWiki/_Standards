@@ -59,13 +59,13 @@ biology, ecology and distribution. Annales Zoologici Fennici 35:149-162.
 ![](63585663_1de99c60ac_o.jpg)
 
   -------------------------------------------------------------
-  Scientific Name ::     Ammotragus lervia
-  Location ::           captive
-  Specimen Condition   Live Specimen
+  scientific_name ::     Ammotragus lervia
+  location ::           captive
+  specimen_condition ::  Live Specimen
   Source               [DSC01364](http://flickr.com/photos/horatio3k/63585663/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2003 [Eric Conner](http://flickr.com/people/horatio3k/)
+  copyright ::            © 2003 [Eric Conner](http://flickr.com/people/horatio3k/)
   -------------------------------------------------------------
 
 

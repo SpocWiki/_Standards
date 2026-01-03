@@ -61,13 +61,13 @@ title: Tenrecidae
 
 ------------------------------------------------------------------------------ 
 ![](Tenrecidae/Hemicentetes_semispin.jpg) 
-Scientific Name ::     Hemicentetes semispinosus (Tenrecidae)
-Location ::           Perinet Reserve (Madagascar)
+scientific_name ::     Hemicentetes semispinosus (Tenrecidae)
+location ::           Perinet Reserve (Madagascar)
 Comments             Lowland streaked tenrec
 Creator              Gerald and Buff Corsi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2000 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

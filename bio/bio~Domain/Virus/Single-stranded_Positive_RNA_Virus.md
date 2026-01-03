@@ -31,19 +31,19 @@ title: Single-stranded Positive Sense RNA Virus
 
 --------------------------------------------
 ![ ](Single-stranded_Positive_RNA_Virus/5630_lores1.jpg)
-  Scientific Name ::     Coxsackie B4 virus
+  scientific_name ::     Coxsackie B4 virus
   Comments             Using immunoelectron microscopic technique, one is able to discern the morphologic traits of the Coxsackie B4 virus virions.
   Creator              Center for Disease Control
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 --------------------------------------------
 
 ![ ](Single-stranded_Positive_RNA_Virus/PHIL_1875_lores.jpg)
-  Scientific Name ::     Poliovirus
+  scientific_name ::     Poliovirus
   Comments             Electron micrograph of the poliovirus.
   Creator              Dr. Fred Murphy, Sylvia Whitfield, Center for Disease Control
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

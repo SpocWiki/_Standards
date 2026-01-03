@@ -56,10 +56,10 @@ should be removed (Lotova & Timonin, 1999; cf. Zhang 1992).
 
 ------------------------
 ![](Quillaja_saponaria.jpg)
-Scientific Name ::     Quillaja saponaria Molina
-Location ::           Cerro Manquehue, Chile
-Specimen Condition   Live Specimen
-Copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/)
+scientific_name ::     Quillaja saponaria Molina
+location ::           Cerro Manquehue, Chile
+specimen_condition ::  Live Specimen
+copyright ::            © 2005 [John D. Mitchell](http://www.plantsystematics.org/)
 
 
 ## Confidential Links & Embeds: 

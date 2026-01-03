@@ -124,36 +124,36 @@ Krugosvet_article: nauka_i_tehnika/biologiya/ANTILOPI.html
 
 ------------------------------------------------------------------
 ![Antidorcas marsupialis](Antilopinae/Antidorcas_marsupialis.jpg) 
-Scientific Name ::     Antidorcas marsupialis
-Location ::           Etosha National Park, Namibia
+scientific_name ::     Antidorcas marsupialis
+location ::           Etosha National Park, Namibia
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/)
+copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/)
 
 ------------------------------------------------------------------
 ![Thomson\'s gazelle (Gazella thomsoni), male grazing, Serengeti NP](Antilopinae/Gazelle/ThomGazelle.jpg) 
-Location ::           Serengeti National Park, Tanzania
+location ::           Serengeti National Park, Tanzania
 Comments             Thomson\'s gazelle is specialized to graze short grass, seeking the new shoots rich in water and protein.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 View                 Lateral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![Male Gerenuk (Litocranius walleri) stands bibedally to browse in Samburu Reserve](Antilopinae/Gerenuk/gerenuk.jpg)
-Scientific Name ::     Litocranius walleri
-Location ::           Samburu Game Reserve, Kenya
+scientific_name ::     Litocranius walleri
+location ::           Samburu Game Reserve, Kenya
 Comments             The gerenuk or giraffe antelope has a long neck and the ability to stand on its hind legs. It can thus reach nutritious acacia foliage up to 2m above the ground, at times when all other vegetation is dry and brown.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Behavior             Feeding, standing bipedal
 Sex ::                Male
 Life Cycle Stage ::     Adult
 View                 Ventral
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 
 ## Confidential Links & Embeds: 

@@ -170,21 +170,21 @@ and Anthericaceae and not to Hyacinthaceae.
 
 ------------- 
 ![Hyacinthus orientalis](Hyacinthaceae/hyacinthus_orientalis.jpg) 
-Scientific Name ::  Hyacinthus orientalis L.
-Location ::        cult. Greci, Romania
-Copyright ::         © 2001 M. Pfosser and F. Speta
+scientific_name ::  Hyacinthus orientalis L.
+location ::        cult. Greci, Romania
+copyright ::         © 2001 M. Pfosser and F. Speta
 
 ----------------
 ![Ornithogalum umbellatum](Hyacinthaceae/Ornithogalum_umbellatum.jpg)  
-Scientific Name ::  Ornithogalum umbellatum sensu lato L.
-Location ::        Monte Conero, Italy
-Copyright ::         © 2001 M. Pfosser and F. Speta
+scientific_name ::  Ornithogalum umbellatum sensu lato L.
+location ::        Monte Conero, Italy
+copyright ::         © 2001 M. Pfosser and F. Speta
 
 -------------
 ![Scilla bifolia](Hyacinthaceae/Scilla_bifolia.jpg)  
-Scientific Name ::  Scilla bifolia L.
-Location ::        Feldkirchen, Austria
-Copyright ::         © 2001 M. Pfosser and F. Speta
+scientific_name ::  Scilla bifolia L.
+location ::        Feldkirchen, Austria
+copyright ::         © 2001 M. Pfosser and F. Speta
 
 
 ## Confidential Links & Embeds: 

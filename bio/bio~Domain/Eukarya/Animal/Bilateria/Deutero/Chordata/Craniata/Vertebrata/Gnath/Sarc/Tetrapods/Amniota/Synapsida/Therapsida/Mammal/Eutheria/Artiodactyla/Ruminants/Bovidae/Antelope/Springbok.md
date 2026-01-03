@@ -72,21 +72,21 @@ title: Antidorcas marsupialis
 
 ------------------------------------------------------------------
 ![](Springbok/756786~2.JPG)
-Scientific Name ::     Antidorcas marsupialis
-Location ::           Etosha National Park, Namibia
+scientific_name ::     Antidorcas marsupialis
+location ::           Etosha National Park, Namibia
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2005 [Charles Roffey](http://flickr.com/people/charlesfred/)
+copyright ::            © 2005 [Charles Roffey](http://flickr.com/people/charlesfred/)
 
 ------------------------------------------------------------------
 ![](Springbok/191025~2.JPG)]( "view full image and data in a new window")
-Scientific Name ::     Antidorcas marsupialis
-Location ::           Etosha National Park, Namibia
+scientific_name ::     Antidorcas marsupialis
+location ::           Etosha National Park, Namibia
 Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-Copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/)
+copyright ::            © 2006 [Damien du Toit](http://flickr.com/people/coda/)
 
 
 ## Confidential Links & Embeds: 

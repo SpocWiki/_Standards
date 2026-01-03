@@ -77,28 +77,28 @@ World. Musée Royal de l\'Afrique Centrale, Tevuren. 336pp.
 ![](Pimoidae/pimoidae_0730.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::   Pimoa sp.
-  Location ::         Bhutan
+  scientific_name ::   Pimoa sp.
+  location ::         Bhutan
   Identified By      Jonathan Coddington
   Behavior           Pimoids spin large, linyphiid-like sheet webs with a tubular retreat at the margin. They hang from t
   Sex ::              Female
   Life Cycle Stage ::   adult
   Size               ca. 60 cm. across
-  Copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::          © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Pimoidae/pimoidae_0988.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Pimoa sp.
-  Location ::           Bhutan
-  Specimen Condition   Live Specimen
+  scientific_name ::     Pimoa sp.
+  location ::           Bhutan
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Feeding on a wrapped prey item
   Sex ::                Female
   Life Cycle Stage ::     adult
   Size                 Spider body length ca. 13 mm.
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

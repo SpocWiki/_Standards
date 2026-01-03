@@ -69,8 +69,8 @@ A sepioid ...
 
 ---------------- 
 ![](Sepiolida/SepiolidaFams.jpg) 
-Scientific Name ::  Sepioloidea lineolata, Iridoteuthis iris
-Copyright ::         © 2004 Mark Noman, Thomas Burch
+scientific_name ::  Sepioloidea lineolata, Iridoteuthis iris
+copyright ::         © 2004 Mark Noman, Thomas Burch
 
 
 ## Confidential Links & Embeds: 

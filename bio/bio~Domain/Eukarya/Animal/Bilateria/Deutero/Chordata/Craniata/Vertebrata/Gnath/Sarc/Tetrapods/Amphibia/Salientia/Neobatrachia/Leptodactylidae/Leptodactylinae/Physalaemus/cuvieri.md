@@ -64,12 +64,12 @@ Containing group: [Physalaemus](../Physalaemus.md)
 ![](physalaemus.jpg)
 
   --------
-  Copyright ::   © 1996 Adao Cardoso
+  copyright ::   © 1996 Adao Cardoso
   --------
 ![](cuvieri/physalaemus_003.jpg)
 
   --------
-  Copyright ::   © 1996 Adao Cardoso
+  copyright ::   © 1996 Adao Cardoso
   --------
 
 

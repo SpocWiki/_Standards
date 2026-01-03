@@ -63,7 +63,7 @@ Containing group: [Physalaemus](../Physalaemus.md)
 ![](lisei/physalaemus.jpg)
 
   --------
-  Copyright ::   © 1996 Adao Cardoso
+  copyright ::   © 1996 Adao Cardoso
   --------
 
 

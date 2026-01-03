@@ -119,9 +119,9 @@ represent a new species. Zoologischer Anzeiger 1/2: 97 \-- 106.
 ![](Rana_bedriagae/beyshehir.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Rana bedriagae
-  Location ::        Center of Anatolia \[locality Beyshehir\]
-  Copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
+  scientific_name ::  Rana bedriagae
+  location ::        Center of Anatolia \[locality Beyshehir\]
+  copyright ::         © 1995 [Peter Beerli](http://www.csit.fsu.edu/%7Ebeerli) 
  
   --------------------------------------------------------------------------
 

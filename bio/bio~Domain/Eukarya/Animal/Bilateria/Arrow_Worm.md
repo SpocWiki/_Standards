@@ -103,9 +103,9 @@ Arrow Worms
 
 --------------------------------------------------------------------------
 ![](Arrow_Worm/Spadella.jpg)
-Scientific Name ::  Spadella
+scientific_name ::  Spadella
 Creator           J. M. Cavanihac
-Copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::         © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

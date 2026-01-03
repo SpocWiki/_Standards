@@ -45,72 +45,72 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](mirabilis/dsc_0038.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           Parque Provincial Tornquist, Buenos Aires Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           Parque Provincial Tornquist, Buenos Aires Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0051.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           Parque Provincial Tornquist, Buenos Aires Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           Parque Provincial Tornquist, Buenos Aires Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0018.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           5 km E La Toma, San Luis Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           5 km E La Toma, San Luis Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0030.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           5 km E La Toma, San Luis Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           5 km E La Toma, San Luis Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Male and Female
   Life Cycle Stage ::     Adults
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](mirabilis/dsc_0157.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           5 km E La Toma, San Luis Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           5 km E La Toma, San Luis Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Male
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](mirabilis/latromirabiliseggcasear_san.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus mirabilis
-  Location ::           5 km E La Toma, San Luis Prov., Argentina
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Latrodectus mirabilis
+  location ::           5 km E La Toma, San Luis Prov., Argentina
+  specimen_condition ::  Dead Specimen
   Identified By        Jeremy Miller
   Life Cycle Stage ::     Egg case
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

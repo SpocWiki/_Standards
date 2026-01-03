@@ -62,10 +62,10 @@ and Biogeography of Pinus. Cambridge Univ. Press, Cambridge.
 ![](johannis/johanniscone.jpg) 
 
   ------------------------------------------------------------------------------------------
-  Scientific Name ::  Pinus johannis
-  Location ::        Concepción del Oro, Zacatecas, Mexico
+  scientific_name ::  Pinus johannis
+  location ::        Concepción del Oro, Zacatecas, Mexico
   Body Part         ovulate cone
-  Copyright ::         © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
+  copyright ::         © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
  
   ------------------------------------------------------------------------------------------
 

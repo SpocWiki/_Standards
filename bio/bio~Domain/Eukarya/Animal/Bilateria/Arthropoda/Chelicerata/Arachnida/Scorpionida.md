@@ -153,11 +153,11 @@ Recent.
 
 ---------------------------------- 
 ![Cyclophthalmus_senior](Scorpionida/Cyclophthalmus_senior.jpg) 
-Scientific Name ::     Cyclophthalmus senior
-Location ::           Bohemia
+scientific_name ::     Cyclophthalmus senior
+location ::           Bohemia
 Reference            Nicholson, H. A. 1897. Ancient Life-History of the Earth. D. Appleton and Company, New York.
 Creator              E. Salle
-Specimen Condition   Fossil \-- Period: Carboniferous
+specimen_condition ::  Fossil \-- Period: Carboniferous
 
 
 ## Confidential Links & Embeds: 

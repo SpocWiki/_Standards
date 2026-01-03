@@ -160,10 +160,10 @@ found molecular analyses supported the monophyly of both groups.
 
 --------------------------------------------------------------------------------
 ![Swim Incirrate](Octopod/SwimIncirrate.jpg)
-Scientific Name ::   Octopus
-Location ::         Hawaii
+scientific_name ::   Octopus
+location ::         Hawaii
 Life Cycle Stage ::   young
-Copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+copyright ::          © 1996 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
 
 
 ## Confidential Links & Embeds: 

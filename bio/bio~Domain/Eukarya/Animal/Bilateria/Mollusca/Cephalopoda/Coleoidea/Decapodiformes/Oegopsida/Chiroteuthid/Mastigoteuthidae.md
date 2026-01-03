@@ -276,12 +276,12 @@ African Jour. Mar. Sci., 20: 393-420.
 ![](Mastigoteuthidae/MAgassShale.jpg) 
 
   ------------------------------------------------
-  Scientific Name ::     Mastigoteuthis agassizii
-  Location ::           Oceanographer Canyon, off New England, USA
+  scientific_name ::     Mastigoteuthis agassizii
+  location ::           Oceanographer Canyon, off New England, USA
   Acknowledgements     Photographed in a shipboard aquarium on an NSF cruise under the direction of Marsh Youngbluth, Harbor Branch Oceanographic Institution.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Identified By        M. Vecchione
-  Copyright ::            © 2004 David Shale
+  copyright ::            © 2004 David Shale
   ------------------------------------------------
 
 

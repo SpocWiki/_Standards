@@ -66,10 +66,10 @@ flowers and occur in S. South America, Central America, and Mexico.
 
 ----------------------------------------------------------------------- 
 ![Ruellia nobilis](harveyana/Ruellia_nobilis.jpg)) 
-Scientific Name ::     Ruellia nobilis (S. Moore) Lindau
-Specimen Condition   Dead Specimen
+scientific_name ::     Ruellia nobilis (S. Moore) Lindau
+specimen_condition ::  Dead Specimen
 Identified By        Erin A. Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

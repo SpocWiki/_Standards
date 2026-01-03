@@ -175,8 +175,8 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
 ![](mangoldae/Asperogrimaldi.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::   Asperoteuthis mangoldae
-  Location ::         Hawaiian waters
+  scientific_name ::   Asperoteuthis mangoldae
+  location ::         Hawaiian waters
   Creator            A. D. Hart
   Sex ::              Male
   Life Cycle Stage ::   Immature
@@ -184,7 +184,7 @@ pelagic cephalopods from Hawaiian waters. Fish. Bull., 76: 583-615.
   Size               80 mm ML
   Collection         NMNH 729752
   Type               Holotype
-  Copyright ::          © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  copyright ::          © [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   --------------------------------------------------------------------------
 

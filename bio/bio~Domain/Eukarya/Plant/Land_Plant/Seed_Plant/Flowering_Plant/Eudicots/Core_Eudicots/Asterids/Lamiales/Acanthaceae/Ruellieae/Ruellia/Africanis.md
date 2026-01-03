@@ -100,20 +100,20 @@ species, and thus they are deserving of further study.
 
 -----------------------------------------------------------------------
 ![](dscn0004.jpg)
-Scientific Name ::     Ruellia insignis Balf.f.
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia insignis Balf.f.
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collection           Wild collected in Socotra (Yemen)
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia_](Africanis/Ruellia_megachlamys.jpg) 
-Scientific Name ::     Ruellia megachlamys S. Moore
-Location ::           cultivated, DUKE greenhouses
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia megachlamys S. Moore
+location ::           cultivated, DUKE greenhouses
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collection           native to Ethiopia
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

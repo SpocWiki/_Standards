@@ -118,11 +118,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 ----------------- 
 ![](obstipa/obstipa1.jpg) 
-Scientific Name ::  Aegla obstipa
+scientific_name ::  Aegla obstipa
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

@@ -33,40 +33,40 @@ Containing group:[Helicobasidiales](../Helicobasidiales.md)
 ![](Tuberculina_maxima/tm837.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
-  Location ::           Germany, Baden-Württemberg, Stuttgart
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
+  location ::           Germany, Baden-Württemberg, Stuttgart
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2001
   Collector            M. Lutz
-  Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Tuberculina_maxima/tmstgt.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
-  Location ::           Germany, Baden-Württemberg, Stuttgart
-  Specimen Condition   Live Specimen
+  scientific_name ::     Tuberculina maxima Rostr. on Gymnosporangium sabinae (Dicks.) G. Winter/Pyrus communis L.
+  location ::           Germany, Baden-Württemberg, Stuttgart
+  specimen_condition ::  Live Specimen
   Identified By        M. Lutz
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           2000
   Collector            M. Lutz
-  Copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2000 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 ![](Tuberculina_maxima/tmDAVFP.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::     Tuberculina maxima Rostr. on Cronartium ribicola J. C. Fisch./Pinus albicaulis Engelm.
-  Location ::           Canada, British Columbia, Skookumchuck
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Tuberculina maxima Rostr. on Cronartium ribicola J. C. Fisch./Pinus albicaulis Engelm.
+  location ::           Canada, British Columbia, Skookumchuck
+  specimen_condition ::  Dead Specimen
   Identified By        J. C. Hopkins
   Life Cycle Stage ::     Mycoparasitic anamorph
   Collection           1983
   Collector            H. P. Koot
-  Copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
+  copyright ::            © 2001 [Matthias Lutz](mailto:matthias.lutz@uni-tuebingen.de) 
  
   -----------------------------------------------------------------------------
 

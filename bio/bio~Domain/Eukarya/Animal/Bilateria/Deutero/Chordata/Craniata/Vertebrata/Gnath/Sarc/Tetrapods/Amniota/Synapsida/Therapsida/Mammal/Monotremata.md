@@ -111,19 +111,19 @@ taxon_name: Monotremata
 
 ------------------------------------------------------------------------------ 
 ![](Monotremata/sbechidna.jpg) 
-Scientific Name ::  Tachyglossus aculeatus
-Location ::        Cradle Mountain National Park, Tasmania
+scientific_name ::  Tachyglossus aculeatus
+location ::        Cradle Mountain National Park, Tasmania
 Comments          Short-beaked echidna
-Copyright ::         © 1995 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::         © 1995 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 ------------------------------------------------------------------------------ 
 ![](Monotremata/Ornithorhynchus_anatinus.jpg) 
-Scientific Name ::     Ornithorhynchus anatinus
+scientific_name ::     Ornithorhynchus anatinus
 Comments             Duck-billed platypus
 Creator              Lloyd Glenn Ingles
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
 
 
 ## Confidential Links & Embeds: 

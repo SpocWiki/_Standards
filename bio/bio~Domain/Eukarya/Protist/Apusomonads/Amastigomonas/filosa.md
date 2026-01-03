@@ -46,18 +46,18 @@ tropical marine sediments. Journal of Natural History 24: 801-937.
 ![](filosa/famastigof.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Amastigomonas filosa
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::     Amastigomonas filosa
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 ![](filosa/pamastigof.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Amastigomonas filosa
+  scientific_name ::     Amastigomonas filosa
   Comments             phase contrast light micrographs of living cell
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   ---------------------------------------------------------------------------------
 

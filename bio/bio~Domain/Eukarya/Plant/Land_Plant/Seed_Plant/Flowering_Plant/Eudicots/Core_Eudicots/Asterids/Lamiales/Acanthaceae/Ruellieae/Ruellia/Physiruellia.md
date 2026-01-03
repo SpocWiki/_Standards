@@ -131,31 +131,31 @@ These ants may serve to guard and protect young, developing fruits.
 
 ----------------------------------------------------------------------- 
 ![Ruellia biolleyi](Physiruellia/Ruellia_biolleyi.jpg) 
-Scientific Name ::     Ruellia biolleyi Lindau
-Location ::           La Selva Biological Station, Costa Rica
+scientific_name ::     Ruellia biolleyi Lindau
+location ::           La Selva Biological Station, Costa Rica
 Acknowledgements     Erin A. Tripp
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Body Part            flower
 Collector            Tripp & McDade
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia_macrophylla](Physiruellia/Ruellia_macrophylla.jpg) 
-Scientific Name ::     Ruellia macrophylla var. lutea Leonard
-Location ::           Cultivated in DUKE Greenhouses
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia macrophylla var. lutea Leonard
+location ::           Cultivated in DUKE Greenhouses
+specimen_condition ::  Live Specimen
 Body Part            flower
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![](Physiruellia/Ruellia_jussieuoides.jpg) 
-Scientific Name ::     Ruellia jussieuoides Schltdl. & Cham.
-Location ::           Chiapas, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia jussieuoides Schltdl. & Cham.
+location ::           Chiapas, Mexico
+specimen_condition ::  Live Specimen
 Body Part            flower
 Collector            Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

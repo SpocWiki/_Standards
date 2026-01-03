@@ -166,7 +166,7 @@ dorsal ridge scales.
 ------------------------------------------------------------------------
 The anaspid Pterygolepis nitidus, from the Lower Silurian of Norway.
 ![Pterygolepis nitidus fossil](Anaspida/pterygolepis.jpg) 
-Copyright ::   © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr) 
+copyright ::   © 1997 [Philippe Janvier](mailto:janvier@cimrs1.mnhn.fr) 
 
 
 ## Confidential Links & Embeds: 

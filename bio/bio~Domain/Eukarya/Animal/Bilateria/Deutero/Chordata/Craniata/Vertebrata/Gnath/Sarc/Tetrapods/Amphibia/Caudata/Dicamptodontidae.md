@@ -207,11 +207,11 @@ analysis of the same data yield conflicting groupings of species (Good,
 
 -------------------------------------------------------------------------------- 
 ![](Dicamptodontidae/dicamptodon.jpg) 
-Scientific Name ::     Dicamptodontidae
-Location ::           Mendocino County, California
+scientific_name ::     Dicamptodontidae
+location ::           Mendocino County, California
 Comments             The Pacific Giant Salamander
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
 
 
 ## Confidential Links & Embeds: 

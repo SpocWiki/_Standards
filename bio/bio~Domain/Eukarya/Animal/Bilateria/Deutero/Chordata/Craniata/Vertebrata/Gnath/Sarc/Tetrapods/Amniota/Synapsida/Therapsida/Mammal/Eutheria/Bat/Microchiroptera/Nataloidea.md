@@ -119,14 +119,14 @@ Thyroptera tricolor (Thyropteridae) and Furipterus horrens
 ![](Nataloidea/thyroptera_tricolor.gif) 
 
   ----------
-  Scientific Name ::  Thyroptera tricolor
-  Copyright ::         © 1998 Nancy Simmons
+  scientific_name ::  Thyroptera tricolor
+  copyright ::         © 1998 Nancy Simmons
   ----------
 ![](Nataloidea/furipterus_horrens.gif) 
 
   ----------
-  Scientific Name ::  Furipterus horrens
-  Copyright ::         © 1998 Nancy Simmons
+  scientific_name ::  Furipterus horrens
+  copyright ::         © 1998 Nancy Simmons
   ----------
 
 

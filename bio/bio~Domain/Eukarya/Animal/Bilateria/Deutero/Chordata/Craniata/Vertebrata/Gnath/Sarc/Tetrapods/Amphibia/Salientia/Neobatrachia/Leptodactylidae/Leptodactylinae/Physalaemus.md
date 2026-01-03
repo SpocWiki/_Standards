@@ -101,7 +101,7 @@ Containing group: [Leptodactylinae](../Leptodactylinae.md)
 ![Physalaemus pustulosus](Physalaemus/lisei/physalaemus.jpg)
 
   ------------------------------------------------------------------------
-  Copyright ::   © 1996 [David Cannatella](http://www.catfishlab.org/) 
+  copyright ::   © 1996 [David Cannatella](http://www.catfishlab.org/) 
  
   ------------------------------------------------------------------------
 

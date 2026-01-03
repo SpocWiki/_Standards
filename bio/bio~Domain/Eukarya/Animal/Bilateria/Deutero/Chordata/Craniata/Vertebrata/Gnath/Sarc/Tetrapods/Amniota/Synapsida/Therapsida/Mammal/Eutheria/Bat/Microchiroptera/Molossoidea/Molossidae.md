@@ -150,14 +150,14 @@ cytochrome B sequence data. Journal of Mammalogy 75:365-377.
 ![](eumops_auripendulous.gif)
 
   ----------
-  Scientific Name ::  Eumops auripendulous
-  Copyright ::         © 1998 Nancy Simmons
+  scientific_name ::  Eumops auripendulous
+  copyright ::         © 1998 Nancy Simmons
   ----------
 ![](molossus_molossus.gif)
 
   ----------
-  Scientific Name ::  Molossus molossus
-  Copyright ::         © 1998 Nancy Simmons
+  scientific_name ::  Molossus molossus
+  copyright ::         © 1998 Nancy Simmons
   ----------
 
 

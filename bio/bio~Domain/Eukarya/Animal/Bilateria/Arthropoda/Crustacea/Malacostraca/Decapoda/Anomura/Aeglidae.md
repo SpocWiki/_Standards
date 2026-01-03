@@ -101,13 +101,13 @@ Aegla
 
 ------------------------------------------------------------------------------- 
 ![Aegla abtao](Aeglidae/abtao.jpg) 
-Scientific Name ::  Aegla abtao abtao
-Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+scientific_name ::  Aegla abtao abtao
+copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 -------------------------------------------------------------------------------
 ![](Aeglidae/denticulata.jpg)
-Scientific Name ::  Aegla denticulata denticulata
-Copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
+scientific_name ::  Aegla denticulata denticulata
+copyright ::         © [Keith A. Crandall](http://inbio.byu.edu/Faculty/kac/crandall%5Flab/) 
 
 
 ## Confidential Links & Embeds: 

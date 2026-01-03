@@ -291,8 +291,8 @@ in -otis. J. Mamm. 74:544-546.
 ![Phyllotis darwini](Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Terrestrial/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Rodentia/Muroidea/Sigmodontinae/Phyllotini/P.jpg)
 
   ----------
-  Scientific Name ::  Phyllotis darwini
-  Copyright ::         © 1996 P. L. Meserve
+  scientific_name ::  Phyllotis darwini
+  copyright ::         © 1996 P. L. Meserve
   ----------
 
 

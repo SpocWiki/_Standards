@@ -83,7 +83,7 @@ Antarctic waters at 57° 21\'S., 74° 43\'W.
 ![](Planctoteuthis_C/ChiroNewGenClubsucker.jpg) 
 
   -------------------------
-  Scientific Name ::  New Genus C
+  scientific_name ::  New Genus C
   Body Part         Distorted tentacular club sucker with outer ring partially removed
   -------------------------
 

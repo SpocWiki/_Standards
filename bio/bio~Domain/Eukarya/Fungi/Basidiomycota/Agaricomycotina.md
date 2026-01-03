@@ -454,26 +454,26 @@ J., McLaughlin, E. G. and Lemke, P. A., eds.). Springer-Verlag, Berlin.
 ![Calocera viscosa](Agaricomycotina/Calocera_viscosa.jpg) 
 
   ---------------
-  Scientific Name ::    Calocera viscosa
+  scientific_name ::    Calocera viscosa
   Comments            Dacrymycetes
   Acknowledgements    Image used with permission
   Source Collection   [MykoWeb](http://www.mykoweb.com/)
-  Copyright ::           © Mike Wood
+  copyright ::           © Mike Wood
   ---------------
 ![Filobasidiella (Cryptococcus) neoformans](Agaricomycotina/Filobasidiella_neoformans.jpg) 
 
   ---------------------------------------
-  Scientific Name ::   Filobasidiella (Cryptococcus) neoformans
+  scientific_name ::   Filobasidiella (Cryptococcus) neoformans
   Comments           Tremellomycetes
   Acknowledgements   Image from the [Duke University Mycology Research Unit](http://www.dumru.mc.duke.edu/); used with permission
-  Copyright ::          © Wiley Schell
+  copyright ::          © Wiley Schell
   ---------------------------------------
 ![Gomphus](Agaricomycotina/Gomphus.jpg) 
 
   -----------------------------------------------------------------------------
-  Scientific Name ::  Gomphus
+  scientific_name ::  Gomphus
   Comments          Agaricomycetes
-  Copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
+  copyright ::         © 2003 [David S. Hibbett](http://www.clarku.edu/faculty/dhibbett/) 
  
   -----------------------------------------------------------------------------
 

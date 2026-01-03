@@ -105,11 +105,11 @@ native_label: orang hutan
 ![](Orangutan/Pongo_pygmaeus0040.jpg)
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Pongo pygmaeus
+  scientific_name ::     Pongo pygmaeus
   Creator              John H. Tashjian
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
+  copyright ::            © 2001 [California Academy of Sciences](http://www.calacademy.org/) 
  
   ------------------------------------------------------------------------------
 

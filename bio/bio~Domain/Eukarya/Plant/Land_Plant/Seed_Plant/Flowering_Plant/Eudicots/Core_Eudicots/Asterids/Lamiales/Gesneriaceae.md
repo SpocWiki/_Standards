@@ -145,11 +145,11 @@ is in its traditional place as a member of the Cyrtandroideae.
 
 --------------------------------------------------------------------------- 
 ![Neomortonia](Gesneriaceae/neomortonia.jpg) 
-Scientific Name ::     Neomortonia
-Location ::           Peru
+scientific_name ::     Neomortonia
+location ::           Peru
 Comments             This plant demonstrates the long, brightly colored corolla common in the neotropical members of the Gesneriaceae.
-Specimen Condition   Live Specimen
-Copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu) 
+specimen_condition ::  Live Specimen
+copyright ::            © 1998 [James F. Smith](mailto:jfsmith@boisestate.edu) 
 
 
 ## Confidential Links & Embeds: 

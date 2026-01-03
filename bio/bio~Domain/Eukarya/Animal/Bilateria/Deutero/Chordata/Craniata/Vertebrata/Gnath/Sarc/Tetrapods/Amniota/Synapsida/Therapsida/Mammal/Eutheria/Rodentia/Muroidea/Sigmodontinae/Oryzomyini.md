@@ -70,9 +70,9 @@ overlap among studies, and disagreements among studies.
 
 ---------- 
 ![](Oryzomyini/oryzomys.jpg) 
-Scientific Name ::     Oryzomys palustris
+scientific_name ::     Oryzomys palustris
 Creator              R.K. LaVal
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        R.K. LaVal
 Life Cycle Stage ::     Adult
 

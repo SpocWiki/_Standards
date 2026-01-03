@@ -135,10 +135,10 @@ Contr. Zool., 586
 ![](Sepioteuthis/SepioteuthisRH.jpg) 
 
   ------------
-  Scientific Name ::     Sepioteuthis sepioidea
-  Specimen Condition   Live Specimen
+  scientific_name ::     Sepioteuthis sepioidea
+  specimen_condition ::  Live Specimen
   View                 Anterodorsal
-  Copyright ::            © Roger Hanlon
+  copyright ::            © Roger Hanlon
   ------------
 
 

@@ -84,7 +84,7 @@ The overall morphology of eriptychiids is still unknown, despite the
 abundance of their dermal bone fragments bearing large, oval tubercles,
 in the Ordovician of Colorado. (From Ørvig 1958.)
 ![](Eriptychiida/eriptychiida.gif) 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

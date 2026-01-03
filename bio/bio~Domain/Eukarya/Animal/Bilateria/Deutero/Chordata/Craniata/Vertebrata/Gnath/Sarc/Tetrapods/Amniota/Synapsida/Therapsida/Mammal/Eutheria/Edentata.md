@@ -80,10 +80,10 @@ Photograph copyright © 2000 [Greg and Mary Beth     Dimijian](http://www.dimiji
 
 ---------------------------------------------------------------------------- 
 ![Three-toed sloth (Bradypodidae) ](Edentata/whitesloth.jpg) 
-Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 ![Armadillo](Edentata/armadillo.jpg) 
 ![Lesser anteater feeding on ants](Edentata/tamandua.jpg))
-Copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+copyright ::   © 2000 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 
 ## Confidential Links & Embeds: 

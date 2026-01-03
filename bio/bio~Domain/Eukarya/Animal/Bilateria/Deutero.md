@@ -182,26 +182,26 @@ Biology and Evolution 19:762-776.
 ![Smilisca phaeota frog standing on a leaf](Deutero/1147smilisca1.jpg) 
 
   ----------------------------------------------------------------------------
-  Scientific Name ::  Smilisca phaeota
-  Location ::        Costa Rica, cloud forest on Caribbean slope
-  Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  scientific_name ::  Smilisca phaeota
+  location ::        Costa Rica, cloud forest on Caribbean slope
+  copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ----------------------------------------------------------------------------
 ![Saccoglossus kowalevskii](Deutero/saccoglossus.jpg) 
 
   -------------------------------------------------------------------------------
-  Scientific Name ::  Saccoglossus kowalevskii
+  scientific_name ::  Saccoglossus kowalevskii
   Creator           David Remsen
-  Copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
+  copyright ::         © 1995 [Marine Biological Laboratory, Woods Hole](http://www.mbl.edu/) 
  
   -------------------------------------------------------------------------------
 ![](Deutero/ophio02p.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Ophiuroidea
+  scientific_name ::     Ophiuroidea
   Creator              J. Houseman
-  Specimen Condition   Dead Specimen
-  Copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+  specimen_condition ::  Dead Specimen
+  copyright ::            © [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
  
   ---------------------------------------------------------------------------
 

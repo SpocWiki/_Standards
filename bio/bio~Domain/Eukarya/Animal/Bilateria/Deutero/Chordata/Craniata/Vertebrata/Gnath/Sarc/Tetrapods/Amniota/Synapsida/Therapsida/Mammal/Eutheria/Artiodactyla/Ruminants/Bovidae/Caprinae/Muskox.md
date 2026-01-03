@@ -135,11 +135,11 @@ Containing group: [Caprinae](../Caprinae.md)
 ![](39070761_909a13cda7_b.jpg)
 
   ------------------------------------------------------------------
-  Scientific Name ::     Ovibos moschatus
+  scientific_name ::     Ovibos moschatus
   Acknowledgements     This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Image Use ::    [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/).
-  Copyright ::            © 2005 [Patrick Smillie](http://flickr.com/people/mafic/)
+  copyright ::            © 2005 [Patrick Smillie](http://flickr.com/people/mafic/)
   ------------------------------------------------------------------
 
 

@@ -122,12 +122,12 @@ taxon_common_name:
 
 -------------------
 ![West Indian manatee cow and calf](Sirenia/Trichechidae/manatees.jpg)
-Scientific Name ::     Trichechus manatus
-Location ::           Florida
+scientific_name ::     Trichechus manatus
+location ::           Florida
 Comments             West Indian manatee
 Creator              Galen Rathbun
 Acknowledgements     Courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Life Cycle Stage ::     cow and calf
 
 

@@ -99,10 +99,10 @@ far.\
 
 --------------------------------------------------------------------------- 
 ![pauropod](Pauropoda/Pauropod.jpg) 
-Scientific Name ::     Pauropoda
-Location ::           USA: North Carolina: Eno River State Park
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Pauropoda
+location ::           USA: North Carolina: Eno River State Park
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

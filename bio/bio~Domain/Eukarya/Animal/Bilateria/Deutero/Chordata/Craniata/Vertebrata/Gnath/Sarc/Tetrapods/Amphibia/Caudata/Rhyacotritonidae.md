@@ -190,9 +190,9 @@ should be considered tentative.
 
 -------------------------------------------------------------------------------
 ![](Rhyacotritonidae/Rhyacotriton.jpg)
-Scientific Name ::  Rhyacotriton variegatus
-Location ::        Lincoln County, Oregon
-Copyright ::         © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
+scientific_name ::  Rhyacotriton variegatus
+location ::        Lincoln County, Oregon
+copyright ::         © 1996 [Kevin de Queiroz](http://www.si.edu/ofg/Staffhp/deQueirozK.htm) 
 
 
 ## Confidential Links & Embeds: 

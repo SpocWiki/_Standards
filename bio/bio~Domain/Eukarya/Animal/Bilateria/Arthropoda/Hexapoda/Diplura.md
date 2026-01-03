@@ -194,20 +194,20 @@ der Schweiz. Denkschr. Schweiz. Naturforsch. Ges. 74(2):113-227.
 ![](Diplura/japygid.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Japygidae
-  Location ::           Santa Catalina Mountains, Arizona
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
+  scientific_name ::     Japygidae
+  location ::           Santa Catalina Mountains, Arizona
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1995 [David R. Maddison](http://david.bembidion.org/) 
  
   ---------------------------------------------------------------------------
 
 ![compodeid dipluran](campodeid.jpg)
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Campodeid (Diplura)
-  Location ::           San Francisco, California, USA.
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
+  scientific_name ::     Campodeid (Diplura)
+  location ::           San Francisco, California, USA.
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2002 [David R. Maddison](http://david.bembidion.org/) 
  
   ---------------------------------------------------------------------------
 

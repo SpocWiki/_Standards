@@ -100,7 +100,7 @@ WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/scorpion
 Centruroides vittatus (Buthoidea).\
 Photograph copyright © Scott A. Stockwell.
 ![Buthoidea](Scorpion/buthoidea.jpg) 
-Copyright ::   © 1988 Scott A. Stockwell
+copyright ::   © 1988 Scott A. Stockwell
 
 
 ## Confidential Links & Embeds: 

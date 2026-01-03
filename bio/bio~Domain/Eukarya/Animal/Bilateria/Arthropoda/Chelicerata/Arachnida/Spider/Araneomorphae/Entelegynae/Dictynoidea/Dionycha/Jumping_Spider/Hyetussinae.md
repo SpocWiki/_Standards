@@ -79,7 +79,7 @@ hyetussines.
 ![](Hyetussinae/cyllodania.gif) 
 
   ---------------------------------------------------------------------------
-  Copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
+  copyright ::   © 1994-1995 [Wayne Maddison](http://salticidae.org/wpm/home.html) 
  
   ---------------------------------------------------------------------------
 

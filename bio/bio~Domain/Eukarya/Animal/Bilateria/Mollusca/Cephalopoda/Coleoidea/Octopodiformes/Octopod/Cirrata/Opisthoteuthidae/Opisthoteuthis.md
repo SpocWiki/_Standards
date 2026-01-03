@@ -235,7 +235,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 ![](Opisthoteuthis/OpisthoExtensaChun.jpg) 
 
   ------------------------------------------------------------
-  Scientific Name ::  Opisthoteuthis extensa
+  scientific_name ::  Opisthoteuthis extensa
   Reference         from Thiele in Chun, C. 1915. Die Cephalopoden. Myopsida, Octopoda. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18 (2): 405-522 + Atlas.
   View              Aboral
   Type              Holotype
@@ -243,7 +243,7 @@ Cephalopoda) of the Northeastern Pacific. Proc. Calif. Acad. Sci. 47:
 ![](Opisthoteuthis/OpisthoChunOral.jpg) 
 
   ------------------------------------------------------------
-  Scientific Name ::  Opisthoteuthis extensa
+  scientific_name ::  Opisthoteuthis extensa
   Reference         from Thiele in Chun, C. 1915. Die Cephalopoden. Myopsida, Octopoda. Wissenschaftliche Ergebnisse der Deutschen Tiefsee-Expedition, \"Valdivia\" 1898-1899, 18 (2): 405-522 + Atlas.
   View              Oral
   Type              Holotype

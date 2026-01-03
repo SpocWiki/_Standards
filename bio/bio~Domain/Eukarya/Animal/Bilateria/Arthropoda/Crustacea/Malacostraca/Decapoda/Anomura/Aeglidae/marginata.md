@@ -119,11 +119,11 @@ Decapoda, Anomura). Arquivos de Zoologia 32:159-347.
 
 -----------------
 ![](marginata/Aegla_marginata.jpg)
-Scientific Name ::  Aegla marginata
+scientific_name ::  Aegla marginata
 Creator           Ana Rossi
 Sex ::             Male
 View              dorsal
-Copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
+copyright ::         © 1994 Georgina Bond-Buckup, Ludwig Buckup
 
 
 ## Confidential Links & Embeds: 

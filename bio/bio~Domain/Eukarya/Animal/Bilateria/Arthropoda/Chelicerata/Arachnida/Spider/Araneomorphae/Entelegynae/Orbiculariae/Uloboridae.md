@@ -45,13 +45,13 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 ![](Uloboridae/philiponellahub.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Philoponella sp.
-  Location ::           Costa Rica
-  Specimen Condition   Live Specimen
+  scientific_name ::     Philoponella sp.
+  location ::           Costa Rica
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Sex ::                Female
   Life Cycle Stage ::     adult
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

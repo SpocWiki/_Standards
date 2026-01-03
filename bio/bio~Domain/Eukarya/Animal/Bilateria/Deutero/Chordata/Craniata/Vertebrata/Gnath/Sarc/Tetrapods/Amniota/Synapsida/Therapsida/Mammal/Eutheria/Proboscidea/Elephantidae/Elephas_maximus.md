@@ -56,13 +56,13 @@ title: Elephas maximus
 
   ---------------------------------------------------------------- 
 ![](Elephas_maximus/122357538_b19f820aff_o.jpg) 
-  Scientific Name ::     Elephas maximus
-  Location ::           Kabini, Karnataka, India
-  Specimen Condition   Live Specimen
+  scientific_name ::     Elephas maximus
+  location ::           Kabini, Karnataka, India
+  specimen_condition ::  Live Specimen
   Source               [Asiatic Elephant](http://flickr.com/photos/jayanthsharma/122357538/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Copyright ::            © 2006 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/)
+  copyright ::            © 2006 [Jayanth Sharma](http://flickr.com/people/jayanthsharma/)
 
 
 ## Confidential Links & Embeds: 

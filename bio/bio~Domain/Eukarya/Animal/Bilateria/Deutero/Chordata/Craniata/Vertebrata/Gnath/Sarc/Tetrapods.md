@@ -492,12 +492,12 @@ discoveries of more complete specimens will solve this question.
 
 --------------------------------- 
 ![The Devonian terrestrial choanates Acanthostega and Ichthyostega](Tetrapods/Ichthyostegalia.jpg)) 
-Scientific Name ::     Acanthostega gunnari and Ichthyostega
+scientific_name ::     Acanthostega gunnari and Ichthyostega
 Comments             The Devonian terrestrial choanates Acanthostega (bottom) and Ichthyostega (on the shore).
 Reference            first published in Discover Magazine
 Creator              Illustration by Alfred Kamajian
-Specimen Condition   Fossil \-- Period: Devonian
-Copyright ::            © 1995 Alfred Kamajian
+specimen_condition ::  Fossil \-- Period: Devonian
+copyright ::            © 1995 Alfred Kamajian
 
 
 ## Confidential Links & Embeds: 

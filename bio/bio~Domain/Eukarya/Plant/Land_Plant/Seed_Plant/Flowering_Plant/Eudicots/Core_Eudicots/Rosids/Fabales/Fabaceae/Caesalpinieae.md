@@ -120,24 +120,24 @@ still poorly resolved.
 
 --------------------- 
 ![Senna marilandica](Caesalpinieae/Senna_marilandica.jpg) 
-Scientific Name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
-Location ::           Konza Prairie, Riley County, Kansas
+scientific_name ::     Senna marilandica (L.) \[=Cassia marilandica L.\]
+location ::           Konza Prairie, Riley County, Kansas
 Comments             Commonly called Wild Senna or Maryland Senna.
-Specimen Condition   Live Specimen
-Copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
+specimen_condition ::  Live Specimen
+copyright ::            © [Eva Horne](http://www.lib.ksu.edu/wildflower/)
 
 ---------------------- 
 ![Caesalpinia pulcherrima](Caesalpinieae/Caesalpinia_pulcherrima.jpg) 
-Scientific Name ::     Caesalpinia pulcherrima Sw.
-Location ::           Arizona
-Specimen Condition   Live Specimen
-Copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
+scientific_name ::     Caesalpinia pulcherrima Sw.
+location ::           Arizona
+specimen_condition ::  Live Specimen
+copyright ::            © [Chris Martin](http://www.public.asu.edu/%7Ecamartin/)
 
 --------------------------- 
 ![Ceratonia siliqua](Caesalpinieae/Ceratonia_siliqua.jpg) 
-Scientific Name ::     Ceratonia siliqua L.
-Specimen Condition   Live Specimen
-Copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)
+scientific_name ::     Ceratonia siliqua L.
+specimen_condition ::  Live Specimen
+copyright ::            © [Annette Hoggemeier](http://www.boga.ruhr-uni-bochum.de/index.html)
 
 
 ## Confidential Links & Embeds: 

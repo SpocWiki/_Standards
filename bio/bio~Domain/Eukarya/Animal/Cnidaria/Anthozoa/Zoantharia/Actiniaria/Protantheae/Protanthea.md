@@ -54,7 +54,7 @@ Copyright © 2000, Robin Harvey, S.M.B.A.
 ![](gonactiniidae.jpg)
 
   ------------
-  Copyright ::   © 2000 Robin Harvey, S.M.B.A.
+  copyright ::   © 2000 Robin Harvey, S.M.B.A.
   ------------
 
 

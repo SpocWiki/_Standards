@@ -61,13 +61,13 @@ Containing group: [Caprinae](../Caprinae.md)
 ![](98520016_637a04e440_o.jpg)
 
   -------------------------------------------------------------
-  Scientific Name ::     Naemorhedus crispus
-  Location ::           captive at Woodland Park Zoo, Seattle, Washington, USA
-  Specimen Condition   Live Specimen
+  scientific_name ::     Naemorhedus crispus
+  location ::           captive at Woodland Park Zoo, Seattle, Washington, USA
+  specimen_condition ::  Live Specimen
   Source               [serows](http://flickr.com/photos/kevinsji/98520016/)
   Source Collection    [Flickr](http://flickr.com/)
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2006 [Kevin Schofield](http://flickr.com/people/kevinsji/)
+  copyright ::            © 2006 [Kevin Schofield](http://flickr.com/people/kevinsji/)
   -------------------------------------------------------------
 
 

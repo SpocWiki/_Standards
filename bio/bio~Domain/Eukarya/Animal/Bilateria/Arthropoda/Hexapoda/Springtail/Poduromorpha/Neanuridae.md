@@ -41,17 +41,17 @@ Containing group: [Poduromorpha](../Poduromorpha.md)
 ![](Neanuridae/NNmus_NEA_2.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Neanura muscorum
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Neanura muscorum
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 ![](Neanuridae/ANmar_NEA_3.jpg) 
 
   ------------------------------------------------------------------------
-  Scientific Name ::     Anurida maritima
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
+  scientific_name ::     Anurida maritima
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Steve Hopkin](http://www.stevehopkin.co.uk/) 
  
   ------------------------------------------------------------------------
 

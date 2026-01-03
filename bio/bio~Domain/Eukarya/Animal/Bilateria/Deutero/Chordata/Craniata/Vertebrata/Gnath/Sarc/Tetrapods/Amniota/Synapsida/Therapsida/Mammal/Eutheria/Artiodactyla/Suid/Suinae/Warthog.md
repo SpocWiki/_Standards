@@ -56,26 +56,26 @@ title: Phacochoerus
 
 -------------------------------------------------------------------------
 ![Warthog male (Phacochoerus aethiopicus), Tanzania](Warthog/whogtusks.jpg) 
-Scientific Name ::     Phacochoerus aethiopicus
-Location ::           Mt Meru Game Sanctuary, Arusha, Tanzania
+scientific_name ::     Phacochoerus aethiopicus
+location ::           Mt Meru Game Sanctuary, Arusha, Tanzania
 Comments             Captive with unusually large tusks. Probably from Arusha area.
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Identified By        David Bygott
 Sex ::                Male
 Life Cycle Stage ::     Adult
 Body Part            Head
 View                 Frontal
-Copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
+copyright ::            © 2005 [David Bygott](mailto:davidbygott@yahoo.com) 
 
 -------------------------------------------------------------------------
 ![](Phacochoerus_africanus00091.jpg)
-Scientific Name ::     Phacochoerus africanus
-Location ::           outside of dining room of Kichwa Tembo camp in the Masai Mara Reserve, Kenya
+scientific_name ::     Phacochoerus africanus
+location ::           outside of dining room of Kichwa Tembo camp in the Masai Mara Reserve, Kenya
 Comments             Savanna warthog
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#0009146)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Chuck Bargeron, The University of Georgia
+copyright ::            © Chuck Bargeron, The University of Georgia
 
 
 ## Confidential Links & Embeds: 

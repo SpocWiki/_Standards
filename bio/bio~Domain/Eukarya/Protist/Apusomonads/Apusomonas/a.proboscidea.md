@@ -78,10 +78,10 @@ soil. Archiv für Protistenkunde 116:254-269.
 ![](a.proboscidea/fapusop.jpg) 
 
   -------------
-  Scientific Name ::     Apusomonas proboscidea
+  scientific_name ::     Apusomonas proboscidea
   Comments             Line drawing of living cell
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2000 Flemming Ekelund
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2000 Flemming Ekelund
   -------------
 
 

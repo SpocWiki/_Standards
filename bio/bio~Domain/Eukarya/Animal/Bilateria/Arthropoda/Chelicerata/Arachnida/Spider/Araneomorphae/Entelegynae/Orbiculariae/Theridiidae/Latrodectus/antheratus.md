@@ -44,52 +44,52 @@ Containing group: [Latrodectus](../Latrodectus.md))*
 ![](antheratus/antheratushabitus1.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus antheratus
-  Location ::           Quimilí, Santiago del Estero Prov., Argentina
+  scientific_name ::     Latrodectus antheratus
+  location ::           Quimilí, Santiago del Estero Prov., Argentina
   Comments             Photograph of specimen in alcohol. Note that red coloration fades in alcohol. See live photographs for true color. Scale bar = 1.0 mm.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Identified By        Jeremy Miller
   Sex ::                Female, male
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](antheratus/antheratuspalp1.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus antheratus
-  Location ::           Quimilí, Santiago del Estero Prov., Argentina
+  scientific_name ::     Latrodectus antheratus
+  location ::           Quimilí, Santiago del Estero Prov., Argentina
   Comments             Scale bar = 0.1 mm.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Identified By        Jeremy Miller
   Sex ::                Male
   Life Cycle Stage ::     Adult
   Body Part            Male palp
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](antheratus/dsc_00531.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus antheratus
-  Location ::           Sierra de las Quijadas, San Luis Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus antheratus
+  location ::           Sierra de las Quijadas, San Luis Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult with egg case
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 ![](antheratus/dsc_00661.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     Latrodectus antheratus
-  Location ::           Quimilí, Santiago del Estero Prov., Argentina
-  Specimen Condition   Live Specimen
+  scientific_name ::     Latrodectus antheratus
+  location ::           Quimilí, Santiago del Estero Prov., Argentina
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult with egg case
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

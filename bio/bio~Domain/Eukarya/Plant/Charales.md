@@ -101,7 +101,7 @@ part of a revision of the Characeae. Verlag von J. Cramer, Weinheim.
 ![](Charales/chara.gif) 
 
   ---------
-  Copyright ::   © 1996 R. M. McCourt
+  copyright ::   © 1996 R. M. McCourt
   ---------
 
 

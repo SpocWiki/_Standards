@@ -147,12 +147,12 @@ Copyright © Nancy Simmons 1998
 ![](Noctilionoidea/mimon1.gif) 
 
   ---------
-  Copyright ::   © 1998 Nancy Simmons
+  copyright ::   © 1998 Nancy Simmons
   ---------
 ![](Noctilionoidea/noctilio_leporinus.gif) 
 
   ---------
-  Copyright ::   © 1998 Nancy Simmons
+  copyright ::   © 1998 Nancy Simmons
   ---------
 
 

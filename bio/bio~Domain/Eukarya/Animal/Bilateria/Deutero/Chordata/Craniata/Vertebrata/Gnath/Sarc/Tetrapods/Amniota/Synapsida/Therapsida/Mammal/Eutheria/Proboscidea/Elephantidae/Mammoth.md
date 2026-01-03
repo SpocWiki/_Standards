@@ -72,11 +72,11 @@ Mammoths
 
 ---------------------------------------------------------------------------------------
 ![](Mammoth/StPetersburg-Mammoth.jpg)
-Scientific Name ::     Mammuthus
-Location ::           Siberia
+scientific_name ::     Mammuthus
+location ::           Siberia
 Comments             The skeleton of the Mammoth found frozen in Siberia and now in the museum of St. Petersburg. A good deal of the flesh and skin is preserved in a dried state on the head, whilst the feet are still encased in the great leathery pads which hide the separate toes.
 Reference            Lankester, E. R. 1905. Extinct Animals. Archibald Constable & Co. Ltd., London
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skeleton
 View                 lateral
 

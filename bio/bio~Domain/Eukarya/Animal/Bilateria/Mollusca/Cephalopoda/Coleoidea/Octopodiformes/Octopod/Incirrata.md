@@ -216,10 +216,10 @@ African Jour. Mar. Sci. .
 ![](Incirrata/ornatus1.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Octopus ornatus
-  Location ::           Great Barrier Reef
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+  scientific_name ::     Octopus ornatus
+  location ::           Great Barrier Reef
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   ---------------------------------------------------------------------------
 

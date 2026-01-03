@@ -105,28 +105,28 @@ pp.
 ![](Australiteuthidae/AustAldrichiDV2.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Australiteuthis aldrichi
-  Location ::           Off northern Australia
-  Specimen Condition   Preserved
+  scientific_name ::     Australiteuthis aldrichi
+  location ::           Off northern Australia
+  specimen_condition ::  Preserved
   Sex ::                Male
   View                 Dorsal, ventral
   Size                 21.3 mm ML
   Type                 Holotype
-  Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+  copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
  
   -------------------------------------------------------------------------
 ![](Australiteuthidae/AustAldrichiDraw.jpg) 
 
   -------------------------------------------------------------------------
-  Scientific Name ::     Australiteuthis aldrichi
-  Location ::           Off northern Australia
-  Specimen Condition   Preserved
+  scientific_name ::     Australiteuthis aldrichi
+  location ::           Off northern Australia
+  specimen_condition ::  Preserved
   Sex ::                Male
   Life Cycle Stage ::     Mature
   View                 Dorsal, ventral
   Size                 21.3 mm ML
   Type                 Holotype
-  Copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
+  copyright ::            © [Chung Cheng Lu](mailto:cclu@dragon.nchu.edu.tw) 
  
   -------------------------------------------------------------------------
 

@@ -51,10 +51,10 @@ title: Ceratophyllaceae
 
 ------------------------------------------------------------------------
 ![](Ceratophyllaceae/Ceratophyllum_demersum.jpg)
-Scientific Name ::   Ceratophyllum demersum
+scientific_name ::   Ceratophyllum demersum
 Comments           Cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

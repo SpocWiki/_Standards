@@ -98,13 +98,13 @@ topic_s_main_template: '[[_Standards/WikiData/WD~Template_Proboscidea_Genera,544
 
 ---------------------------------------------------------------------------- 
 ![](Elephantidae/01004elephants.jpg) 
-Scientific Name ::  Loxodonta africana
-Location ::        Masai Mara, Kenya
-Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+scientific_name ::  Loxodonta africana
+location ::        Masai Mara, Kenya
+copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 --------------- 
 ![](Elephantidae/Elephas_maximus.jpg) 
-Scientific Name ::  Elephas maximus
+scientific_name ::  Elephas maximus
 Reference         The Natural History of Mammals 1827
 Creator           Carl Brodtmann
 

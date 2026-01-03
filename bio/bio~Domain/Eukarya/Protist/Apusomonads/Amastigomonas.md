@@ -94,8 +94,8 @@ Patterson, D. J. 1999. The diversity of eukaryotes. American Naturalist
 ![](Amastigomonas/famastigos.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::  Amastigomonas debruynei, Amastigomonas filosa (2), Amastigomonas proboscidea (3)
-  Copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
+  scientific_name ::  Amastigomonas debruynei, Amastigomonas filosa (2), Amastigomonas proboscidea (3)
+  copyright ::         © 2000 [David J. Patterson](http://www.bio.usyd.edu.au/Protsvil/index.htm) 
  
   --------------------------------------------------------------------------------
 

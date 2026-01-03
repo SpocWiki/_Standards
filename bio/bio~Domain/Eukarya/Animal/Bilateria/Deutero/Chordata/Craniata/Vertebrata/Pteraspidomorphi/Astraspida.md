@@ -98,7 +98,7 @@ openings are situated more dorsally than in arandaspids. (After Janvier
 1996, modified from Elliott 1987.)
 ![](Astraspida/astraspida.gif) 
 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

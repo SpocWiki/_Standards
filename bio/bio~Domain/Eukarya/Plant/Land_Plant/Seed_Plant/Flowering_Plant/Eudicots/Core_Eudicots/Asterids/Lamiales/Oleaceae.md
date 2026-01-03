@@ -163,19 +163,19 @@ taxon_name: Oleaceae
 
 ---------------------------------------------------------------------------
 ![Syringa vulgaris](Oleaceae/Syringa_vulgaris.jpg) 
-Scientific Name ::   Syringa vulgaris
-Location ::         Romania
+scientific_name ::   Syringa vulgaris
+location ::         Romania
 Identified By      Ilisoi Gabriel
 Life Cycle Stage ::   Adult
 Body Part          Aerial, Leaves and flowers
-Copyright ::          © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+copyright ::          © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 ------------------------------------------------------------------------
 ![Olive tree, Olea europaea](Oleaceae/Olive/Olea_europaea.jpg) 
-Scientific Name ::   Olea europaea
-Location ::         Samos, Greece
+scientific_name ::   Olea europaea
+location ::         Samos, Greece
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 ## Confidential Links & Embeds: 

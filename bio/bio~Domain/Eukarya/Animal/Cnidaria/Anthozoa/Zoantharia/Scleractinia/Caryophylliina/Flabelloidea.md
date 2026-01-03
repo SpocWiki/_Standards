@@ -110,13 +110,13 @@ of Kansas Press, Lawrence.
 ![](Flabelloidea/Truncatoflabellum_truncum.jpg) 
 
   ----------------------------------------------------------------------------
-  Scientific Name ::     Truncatoflabellum truncum
-  Location ::           off Chile (depth 1500 m)
-  Specimen Condition   Dead Specimen
+  scientific_name ::     Truncatoflabellum truncum
+  location ::           off Chile (depth 1500 m)
+  specimen_condition ::  Dead Specimen
   Body Part            skeleton, the basal view shows the detachment scar from asexual transverse division
   View                 Calicular and basal views
   Size                 Greater calicular diameter 30 mm
-  Copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
+  copyright ::            © 2002 [Stephen D. Cairns](mailto:cairns.stephen@nmnh.si.edu) 
  
   ----------------------------------------------------------------------------
 

@@ -91,11 +91,11 @@ northern population are found in southern Sweden.
 
 ------------
 ![](Western_Water_Frogs/lessonae_group.jpg)
-Scientific Name ::     Rana lessonae
+scientific_name ::     Rana lessonae
 Comments             Group of calling males
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Male
-Copyright ::            © 1995 Thomas Uzzell
+copyright ::            © 1995 Thomas Uzzell
 
 
 ## Confidential Links & Embeds: 

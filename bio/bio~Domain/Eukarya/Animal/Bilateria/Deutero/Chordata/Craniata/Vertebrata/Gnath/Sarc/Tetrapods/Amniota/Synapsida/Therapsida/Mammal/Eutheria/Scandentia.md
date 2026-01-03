@@ -114,7 +114,7 @@ taxon_common_name: trespissmus
 
 ------------ 
 ![Tupaia tana](Scandentia/Tupaia_tana.jpg)) 
-Scientific Name ::  Tupaia tana
+scientific_name ::  Tupaia tana
 Creator           Joseph Smit (1836--1929)
 
 

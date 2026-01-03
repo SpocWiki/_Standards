@@ -82,8 +82,8 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
 ![](sulcus/PromachoSpC.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::   Promachoteuthis sulcus
-  Location ::         South Atlantic: 37°S, 12°W
+  scientific_name ::   Promachoteuthis sulcus
+  location ::         South Atlantic: 37°S, 12°W
   Comments           Holotype
   Creator            Keiko Hiratsuka Moore
   Acknowledgements   National Marine Fisheries Service
@@ -91,22 +91,22 @@ Ocean. Captured from WALTHER HERWIG at 1750-2000 m depth (open net).
   Size               25 mm ML
   Collection         NMNH 730702
   Type               Holotype
-  Copyright ::          © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::          © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 ![](sulcus/promachSpCVent.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::     Promachoteuthis sulcus
-  Location ::           South Atlantic: 37°S, 12°W
-  Specimen Condition   Preserved
+  scientific_name ::     Promachoteuthis sulcus
+  location ::           South Atlantic: 37°S, 12°W
+  specimen_condition ::  Preserved
   Sex ::                Female
   Life Cycle Stage ::     Immature
   View                 Ventrolateral
   Size                 25 mm ML
   Collection           NMNH 730702
   Type                 Holotype
-  Copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::            © 2003 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 

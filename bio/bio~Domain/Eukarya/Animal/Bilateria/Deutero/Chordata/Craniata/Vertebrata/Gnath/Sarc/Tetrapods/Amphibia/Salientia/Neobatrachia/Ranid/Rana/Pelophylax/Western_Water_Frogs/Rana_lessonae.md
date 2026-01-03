@@ -146,9 +146,9 @@ European Socieity for Evolutionary Biology, Edinburgh 4-8 September
 ![](Rana_lessonae/lessonae.jpg) 
 
   ----------
-  Scientific Name ::  Rana lessonae
-  Location ::        Switzerland
-  Copyright ::         © 1995 Hansjürg Hotz
+  scientific_name ::  Rana lessonae
+  location ::        Switzerland
+  copyright ::         © 1995 Hansjürg Hotz
   ----------
 
 

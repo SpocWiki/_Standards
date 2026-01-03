@@ -56,21 +56,21 @@ title: Dioscoreales
 
 ------------------------------------------------------------------------
 ![Tamus communis ](Dioscoreales/Tamus_communis3565.jpg)
-Scientific Name ::   Tamus communis
-Location ::         Samos, Greece
+scientific_name ::   Tamus communis
+location ::         Samos, Greece
 Comments           Dioscoreaceae
 Acknowledgements   courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 
 -----------------------------------------
 ![California bog asphodel, Narthecium californicum](Dioscoreales/Narthecium_californicum.jpg)
-Scientific Name ::     Narthecium californicum
-Location ::           Gumboot Creek, headwaters of South Fork Sacramento River, south side of Mt. Eddy (Siskiyou County, California, USA)
+scientific_name ::     Narthecium californicum
+location ::           Gumboot Creek, headwaters of South Fork Sacramento River, south side of Mt. Eddy (Siskiyou County, California, USA)
 Comments             California bog asphodel (Nartheciaceae).
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1991 [Julie Kierstead Nelson](mailto:jknelson@fs.fed.us)
+copyright ::            © 1991 [Julie Kierstead Nelson](mailto:jknelson@fs.fed.us)
 
 
 ## Confidential Links & Embeds: 

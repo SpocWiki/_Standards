@@ -169,40 +169,40 @@ evidence is championed by Nielsen (2001):
 ![Bright red cardinal bird](../../../bio~Tree/cardinal.gif)
 
   ------------
-  Scientific Name ::     Cardinalis cardinalis
-  Location ::           Arizona
+  scientific_name ::     Cardinalis cardinalis
+  location ::           Arizona
   Comments             A cardinal bird
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1995 D. Brent Burt
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1995 D. Brent Burt
   ------------
 
 ![A planarian flatworm, Bipalium](Bilateria/1792planarian.jpg)
 
   ----------------------------------------------------------------------------
-  Scientific Name ::  Bipalium
-  Location ::        Dallas, Texas
+  scientific_name ::  Bipalium
+  location ::        Dallas, Texas
   Comments          A planarian flatworm (Platyhelminthes) after emerging from wet soil after rain
-  Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ----------------------------------------------------------------------------
 
 ![Argiope spider](Bilateria/1793argiope.jpg)
 
   ----------------------------------------------------------------------------
-  Scientific Name ::  Argiope
-  Location ::        Dallas, Texas
+  scientific_name ::  Argiope
+  location ::        Dallas, Texas
   Comments          Argiope spider (Arthropoda) on web with stabilimentum
-  Copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::         © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ----------------------------------------------------------------------------
 
 ![Flamingo tongue snail, Cyphoma gibbosum](Bilateria/1414flamingotongue.jpg)
 
   ------------------------------------------------------------------------------
-  Scientific Name ::  Cyphoma gibbosum
-  Location ::        Cayman Brac
+  scientific_name ::  Cyphoma gibbosum
+  location ::        Cayman Brac
   Comments          Flamingo tongue snail (Mollusca) with mantle extended over shell, foraging on branched coral
-  Copyright ::         © 1981 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  copyright ::         © 1981 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
 

@@ -48,7 +48,7 @@ title: Scorpionidae
 ----------
 Pandinus imperator.
 Photograph copyright © 1991, Scott A. Stockwell.![](Scorpionidae/scorpionidae.jpg))
-Copyright ::   © 1991 Scott A. Stockwell
+copyright ::   © 1991 Scott A. Stockwell
 
 
 ## Confidential Links & Embeds: 

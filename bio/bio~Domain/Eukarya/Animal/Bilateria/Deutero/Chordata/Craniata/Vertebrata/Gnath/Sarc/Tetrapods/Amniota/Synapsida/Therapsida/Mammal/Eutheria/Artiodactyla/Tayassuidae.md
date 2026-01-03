@@ -121,18 +121,18 @@ taxon_common_name: pekariji
 ![](Tayassuidae/632E1E12-75FD-4140-8707FEB9.jpg) 
 
 -----------------
-Scientific Name ::     Tayassu tajacu
+scientific_name ::     Tayassu tajacu
 Creator              Tom Stehn
 Acknowledgements     courtesy U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 -----------------
 ![](Tayassuidae/Platygonus_Skull.jpg) 
 
 --------------------------------------------------------------
-Scientific Name ::     Platygonus
-Location ::           Rancho La Brea, California, USA
+scientific_name ::     Platygonus
+location ::           Rancho La Brea, California, USA
 Reference            Merriam, J. C. and C. Stock. 1921. Notes on peccary remains from Rancho La Brea. University of California Publications. Bulletin of the Department of Geological Sciences 13(2):9-17.
-Specimen Condition   Fossil
+specimen_condition ::  Fossil
 Body Part            skull
 --------------------------------------------------------------
 

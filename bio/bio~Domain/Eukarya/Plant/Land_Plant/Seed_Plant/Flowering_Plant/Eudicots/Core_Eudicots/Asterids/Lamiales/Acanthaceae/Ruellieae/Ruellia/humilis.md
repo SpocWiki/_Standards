@@ -102,29 +102,29 @@ noctiflora* (Nees) A. Gray.\
 
 ----------------------------------------------------------------------- 
 ![Ruellia strepens](humilis/Ruellia_strepens.jpg) 
-Scientific Name ::     Ruellia strepens L.
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia strepens L.
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 --------------------------- 
 ![Ruellia humilis](humilis/Ruellia_humilis-Blossom.jpg)) 
-Scientific Name ::     Ruellia caroliniensis
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia caroliniensis
+specimen_condition ::  Live Specimen
 Body Part            flower
 Source               [Ruellia just opening](http://www.flickr.com/photos/pcoin/525594153/)
 Source Collection    [Flickr](http://flickr.com/)
-Copyright ::            © 2007 [Patrick Coin](http://flickr.com/people/42264328@N00)
+copyright ::            © 2007 [Patrick Coin](http://flickr.com/people/42264328@N00)
 
 ----------------------------------------------------------------------- 
 ![Ruellia humilis](humilis/Ruellia_humilis.jpg)) 
-Scientific Name ::     Ruellia humilis Nutt.
-Location ::           Williamson County, Pennsylvania
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia humilis Nutt.
+location ::           Williamson County, Pennsylvania
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

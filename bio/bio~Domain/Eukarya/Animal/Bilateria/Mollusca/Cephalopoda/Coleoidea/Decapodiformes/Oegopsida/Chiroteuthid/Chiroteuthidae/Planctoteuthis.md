@@ -157,10 +157,10 @@ temperate oceans of the world.
 
 ----------------------------- 
 ![](Planctoteuthis/PlanctoteuthisOligoLive.jpg) 
-Scientific Name ::     Planctoteuthis oligobessa
-Location ::           32° 52.29 N, 131° 17.49 W, North Pacific off California
-Specimen Condition   Live Specimen
-Copyright ::            © [Monterey Bay Aquarium Research Institute](http://www.mbari.org/rd/midwater)
+scientific_name ::     Planctoteuthis oligobessa
+location ::           32° 52.29 N, 131° 17.49 W, North Pacific off California
+specimen_condition ::  Live Specimen
+copyright ::            © [Monterey Bay Aquarium Research Institute](http://www.mbari.org/rd/midwater)
 
 
 ## Confidential Links & Embeds: 

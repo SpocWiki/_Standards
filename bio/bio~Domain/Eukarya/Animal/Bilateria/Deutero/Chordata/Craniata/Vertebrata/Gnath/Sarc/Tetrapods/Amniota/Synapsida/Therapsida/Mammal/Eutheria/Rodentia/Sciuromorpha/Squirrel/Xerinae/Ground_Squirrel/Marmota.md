@@ -126,7 +126,7 @@ Figure 1. Marmota flaviventris, the yellow-bellied marmot. copyright © Scott St
 
 ---------
 ![](Marmota/marmota.jpg)
-Copyright ::   © 2000 Scott Steppan
+copyright ::   © 2000 Scott Steppan
 
 
 ## Confidential Links & Embeds: 

@@ -256,28 +256,28 @@ comprehensive and rigorous available for Paleozoic echinoderms.
 
 --------------------------- 
 ![Feather star](Echinodermata/crinoid.jpg) 
-Scientific Name ::     Crinoidea
-Location ::           Palau, Micronesia
+scientific_name ::     Crinoidea
+location ::           Palau, Micronesia
 Comments             Feather star
-Specimen Condition   Live Specimen
-Copyright ::            © 1998 [Edoardo Bellotti, e&c Photo Gallery](http://www.e-bellotti.com/)
+specimen_condition ::  Live Specimen
+copyright ::            © 1998 [Edoardo Bellotti, e&c Photo Gallery](http://www.e-bellotti.com/)
 
 -------------------------- 
 ![Ruby brittle star on brain coral](Echinodermata/brittle.jpg) 
-Scientific Name ::     Ophioderma rubicundum
-Location ::           Grand Cayman, British West Indies
+scientific_name ::     Ophioderma rubicundum
+location ::           Grand Cayman, British West Indies
 Comments             Ruby brittle star on brain coral
-Specimen Condition   Live Specimen
-Copyright ::            © 1998 [M. Benjamin Cowan, Ocean Images](http://www.uwphotos.com/)
+specimen_condition ::  Live Specimen
+copyright ::            © 1998 [M. Benjamin Cowan, Ocean Images](http://www.uwphotos.com/)
 
 -------------------------------------------------------------------------- 
 ![Sea urchin](Echinodermata/urchin.jpg) 
-Scientific Name ::     Strongylocentrotus purpuratus
-Location ::           Cape Perpetua, Oregon, USA
+scientific_name ::     Strongylocentrotus purpuratus
+location ::           Cape Perpetua, Oregon, USA
 Comments             Sea urchin
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
-Copyright ::            © 1997 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+copyright ::            © 1997 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
 
 
 ## Confidential Links & Embeds: 

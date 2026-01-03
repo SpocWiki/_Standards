@@ -55,23 +55,23 @@ title: Chloranthaceae
 
 -------------------------------------------------------- 
 ![Sarcandra glabra](Chloranthaceae/Sarcandra_glabra.jpg) 
-Scientific Name ::     Sarcandra glabra
-Specimen Condition   Live Specimen
+scientific_name ::     Sarcandra glabra
+specimen_condition ::  Live Specimen
 Body Part            fruits
 Source               [Sarcandra glabra](http://flickr.com/photos/jam343/2103091/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution 2.0 Creative Commons License](http://creativecommons.org/licenses/by/2.0/).
-Copyright ::            © 2004 [Juni A.](http://flickr.com/people/jam343/)
+copyright ::            © 2004 [Juni A.](http://flickr.com/people/jam343/)
 
 ![Chloranthus japonicus](Chloranthus_japonicus0315.jpg)
 
 -------------------------------------------------------------------------
 ![Chloranthus japonicus](Chloranthaceae/Chloranthus_japonicus.jpg)
 [Chloranthus japonicus](Chloranthaceae/Sarcandra_glabra.jpg) 
-Scientific Name ::    Chloranthus japonicus
-Location ::          Vityaz inlet, Gamov Peninsula, Khasansky distr., Primorsky Territory (Russian Federation)
+scientific_name ::    Chloranthus japonicus
+location ::          Vityaz inlet, Gamov Peninsula, Khasansky distr., Primorsky Territory (Russian Federation)
 Source Collection   [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::           © 2001 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
+copyright ::           © 2001 [Nick Kurzenko](mailto:kurzenko@ibss.dvo.ru) 
 
 
 ## Confidential Links & Embeds: 

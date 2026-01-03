@@ -86,14 +86,14 @@ Sea spiders, Pantopoda
 
 -----------------------------
 ![](Sea_Spider/108057513_ff286d144f_o.jpg)
-Scientific Name ::                    Nymphon gracile
-Location ::                          Hitra, Norway
+scientific_name ::                    Nymphon gracile
+location ::                          Hitra, Norway
 Acknowledgements                    The copyright owner has released this image under the
 								  [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons                                       License](http://creativecommons.org/licenses/by-nc-nd/2.0/).\
 								  source: [flickr: Sea spider /                                       Havedderkopp](http://flickr.com/photos/xoto/108057513/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.com/people/xoto/)
+copyright ::                           © 2006 [Asbjørn Hansen](http://flickr.com/people/xoto/)
 
 
 ## Confidential Links & Embeds: 

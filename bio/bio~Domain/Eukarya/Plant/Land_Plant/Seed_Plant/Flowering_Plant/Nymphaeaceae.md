@@ -40,24 +40,24 @@ Water lilies and their relatives.
 
 ------------------------------------------------------------------------
 ![Victoria_cruziana](Nymphaeaceae/Victoria_cruziana.jpg) 
-Scientific Name ::   Victoria cruziana
+scientific_name ::   Victoria cruziana
 Comments           The Santa Cruz water lily, native to northern Argentina, Paraguay and Bolivia. The photographed specimens were cultivated at the Botanical Garden Basel, Switzerland.
 Acknowledgements   Photograph courtesy [Botanical Image Database](http://www.unibas.ch/botimage/)
-Copyright ::          © 2001 University of Basel, Basel, Switzerland 
+copyright ::          © 2001 University of Basel, Basel, Switzerland 
 
 ---------------------
 ![Nuphar japonica](nuphar_japonica.jpg)
-Scientific Name ::     Nuphar japonica
-Specimen Condition   Live Specimen
+scientific_name ::     Nuphar japonica
+specimen_condition ::  Live Specimen
 Identified By        Sangtae Kim
 Body Part            Flower
-Copyright ::            © 2005 [Sangtae Kim](mailto:sangtae@botany.ufl.edu)
+copyright ::            © 2005 [Sangtae Kim](mailto:sangtae@botany.ufl.edu)
 
 ---------------------------------------------------------------------
 ![Nymphaea thermarum water lily](Nymphaeaceae/Nymphaea_thermarum.jpg) 
-Scientific Name ::  Nymphaea thermarum
-Location ::        endemic to Rwanda
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+scientific_name ::  Nymphaea thermarum
+location ::        endemic to Rwanda
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 
 ## Confidential Links & Embeds: 

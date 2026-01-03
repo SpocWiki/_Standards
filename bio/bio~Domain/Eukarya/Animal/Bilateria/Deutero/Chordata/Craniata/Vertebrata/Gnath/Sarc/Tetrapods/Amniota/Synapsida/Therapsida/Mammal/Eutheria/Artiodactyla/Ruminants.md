@@ -76,31 +76,31 @@ title: Ruminantia
 
 ----------------------------------
 ![](Ruminants/Giraffa_camelopardalis.jpg)
-Scientific Name ::     Giraffa camelopardalis reticulata
-Location ::           Samburu National Park (Kenya)
+scientific_name ::     Giraffa camelopardalis reticulata
+location ::           Samburu National Park (Kenya)
 Creator              Gerald and Buff Corsi
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
+copyright ::            © 1999 [California Academy of Sciences](http://www.calacademy.org/) 
 
 ------------------------------------------------------------------------------ 
 ![](Ruminants/Kobus_ellipsiprymnus4321001.jpg) 
-Scientific Name ::     Kobus ellipsiprymnus
-Location ::           East Africa
+scientific_name ::     Kobus ellipsiprymnus
+location ::           East Africa
 Comments             waterbuck
 Acknowledgements     Photograph courtesy [InsectImages.org](http://www.insectimages.org/) (#4321001)
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Male
 Life Cycle Stage ::     adult
 Source Collection    [InsectImages.org](http://www.insectimages.org/)
-Copyright ::            © Kenneth M. Gale
+copyright ::            © Kenneth M. Gale
 
 ------------------------------
 ![](Ruminants/Deer/Cervus/Wapiti/Wapiti.jpg)
-Scientific Name ::     Cervus elaphus
+scientific_name ::     Cervus elaphus
 Reference            Photograph courtesy [Yellowstone Digital Slide](http://www.nps.gov/yell/slidefile/index.htm)
 Creator              Ed Austin/Herb Jones
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Sex ::                Male
 
 

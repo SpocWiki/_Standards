@@ -68,10 +68,10 @@ title: Symphyla
 
 ---------------------------------------------------------------------------
 ![Symphyla](Symphyla/Symphyla.jpg) 
-Scientific Name ::     Symphyla
-Location ::           USA: Arizona: Tucson
-Specimen Condition   Live Specimen
-Copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
+scientific_name ::     Symphyla
+location ::           USA: Arizona: Tucson
+specimen_condition ::  Live Specimen
+copyright ::            © 2004 [David R. Maddison](http://david.bembidion.org/) 
 
 
 ## Confidential Links & Embeds: 

@@ -95,9 +95,9 @@ European Journal of Protistology 32:423-448.
 ![Scanning electron micrograph of Ancyromonas sigmoides](Ancyromonas/ancyroms.jpg) 
 
   ------------------
-  Scientific Name ::  Ancyromonas sigmoides
+  scientific_name ::  Ancyromonas sigmoides
   Comments          Scanning electron micrograph
-  Copyright ::         © 2000 Michael S. Atkins and O. Roger Anderson
+  copyright ::         © 2000 Michael S. Atkins and O. Roger Anderson
   ------------------
 
 

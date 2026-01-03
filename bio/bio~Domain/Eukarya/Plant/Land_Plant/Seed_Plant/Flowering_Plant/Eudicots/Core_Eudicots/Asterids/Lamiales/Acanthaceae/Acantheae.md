@@ -111,40 +111,40 @@ that role functionally).  
 
 -----------------
 ![Aphelandra impressa](Aphelandra_impressa.jpg) 
-Scientific Name ::     Aphelandra impressa Lindau (Acantheae)
-Location ::           Venezuela
-Specimen Condition   Live Specimen
+scientific_name ::     Aphelandra impressa Lindau (Acantheae)
+location ::           Venezuela
+specimen_condition ::  Live Specimen
 Identified By        L. A. McDade
-Copyright ::            © 2006 Mark Skinner
+copyright ::            © 2006 Mark Skinner
 
 ![Blepharis](Acantheae/Blepharis/blepharis1.jpg) 
 ---------------------------------------------------------------------------
-Scientific Name ::     Blepharis Juss.
-Location ::           Davenham, South Africa
-Specimen Condition   Live Specimen
+scientific_name ::     Blepharis Juss.
+location ::           Davenham, South Africa
+specimen_condition ::  Live Specimen
 Collection           J
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 ---------------------------------------------------------------------------
 
 ![](Holographis_argyrea33.jpg)
 
 ---------------------
-Scientific Name ::     Encephalosphaera lasiandra Mildbr.
-Location ::           Peru
+scientific_name ::     Encephalosphaera lasiandra Mildbr.
+location ::           Peru
 Comments             Image is on a herbarium at F
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Collector            J. G. Graham & J. Schunke Vigo
-Copyright ::            © 2006 [Field Museum](mailto:mcdade@acnatsci.org)
+copyright ::            © 2006 [Field Museum](mailto:mcdade@acnatsci.org)
 ---------------------
 
 ![](Acantheae/sclerock.jpg)
 
 ---------------------------------------------------------------------------
-Scientific Name ::     Stenandrium guineensis (Nees) Vollesen
-Location ::           Greenhouses, Kew Botanical Garden, Richmond England
-Specimen Condition   Live Specimen
+scientific_name ::     Stenandrium guineensis (Nees) Vollesen
+location ::           Greenhouses, Kew Botanical Garden, Richmond England
+specimen_condition ::  Live Specimen
 Identified By        K. Vollesen
-Copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
+copyright ::            © 2006 [Lucinda A. McDade](mailto:lucinda.mcdade@cgu.edu) 
 ---------------------------------------------------------------------------
 
 

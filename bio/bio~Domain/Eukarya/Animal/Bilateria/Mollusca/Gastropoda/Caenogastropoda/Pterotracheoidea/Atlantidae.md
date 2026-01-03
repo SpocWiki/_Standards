@@ -99,9 +99,9 @@ extreme transparency.
 
 ------------------------------------------------------------------------ 
 ![](Atlantidae/AtlantaPeroni11.jpg) 
-Scientific Name ::  Atlanta peroni
-Location ::        Hawaiian waters
-Copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
+scientific_name ::  Atlanta peroni
+location ::        Hawaiian waters
+copyright ::         © 2005 [Roger R. Seapy](mailto:rseapy@fullerton.edu) 
 
 
 ## Confidential Links & Embeds: 

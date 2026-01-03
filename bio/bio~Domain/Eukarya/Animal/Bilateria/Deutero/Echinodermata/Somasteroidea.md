@@ -218,30 +218,30 @@ shown above.
 
 ------------------------------------ 
 ![Villebrunaster thorali ventral side showing schematic of oral test](Somasteroidea/Villebrunaster_thoral.jpg) 
-Scientific Name ::     Villebrunaster thorali (Villebrunasteridae)
-Location ::           from south France
+scientific_name ::     Villebrunaster thorali (Villebrunasteridae)
+location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
-Specimen Condition   Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
+specimen_condition ::  Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
 Body Part            ventral side showing schematic of oral test
-Copyright ::            © 1951 Royal Society of London
+copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
 ![Archegonaster pentagonus ventral side showing schematic of oral test](Somasteroidea/Archegonaster_pentagonus.jpg) 
-Scientific Name ::     Archegonaster pentagonus (Archegonasteridae)
-Location ::           from former Czechoslovakia
+scientific_name ::     Archegonaster pentagonus (Archegonasteridae)
+location ::           from former Czechoslovakia
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
-Specimen Condition   Fossil \-- Period: Lower Ordovician, Late Arenig
+specimen_condition ::  Fossil \-- Period: Lower Ordovician, Late Arenig
 Body Part            ventral side showing schematic of oral test
-Copyright ::            © 1951 Royal Society of London
+copyright ::            © 1951 Royal Society of London
 
 ------------------------------------ 
 ![Chinianaster levyi ventral side showing schematic of oral test](Somasteroidea/Chinianaster_levy.jpg) 
-Scientific Name ::     Chinianaster levyi (Chinianasteridae)
-Location ::           from south France
+scientific_name ::     Chinianaster levyi (Chinianasteridae)
+location ::           from south France
 Reference            After Spencer, W.K. 1951. Early Paleozoic starfish. Phil. Trans. R. Soc. Lond., ser. B 235:87-129.
-Specimen Condition   Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
+specimen_condition ::  Fossil \-- Period: Lower Ordovician, Tremadoc-Early Arenig
 Body Part            ventral side showing schematic of oral test
-Copyright ::            © 1951 Royal Society of London
+copyright ::            © 1951 Royal Society of London
 
 
 ## Confidential Links & Embeds: 

@@ -190,8 +190,8 @@ restricted to South America or the southern portion of Central America.
 
 ----------
 ![](Sigmodontinae/Irenomys_tarsalis/Irenomys1.jpg)
-Scientific Name ::  Irenomys tarsalis
-Copyright ::         © 1997 P. L. Meserve
+scientific_name ::  Irenomys tarsalis
+copyright ::         © 1997 P. L. Meserve
 
 
 ## Confidential Links & Embeds: 

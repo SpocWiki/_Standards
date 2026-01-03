@@ -34,11 +34,11 @@ title: Pinus cembroides
 
 -------------------------------------------------------------------------------------------
 ![Pinus cembroides subspecies orizabensis](Pinus_cembroides/orizabensiscone.jpg)
-Scientific Name ::     Pinus cembroides subspecies orizabensis
-Location ::           Puebla-Veracruz border, Mexico
-Specimen Condition   Live Specimen
+scientific_name ::     Pinus cembroides subspecies orizabensis
+location ::           Puebla-Veracruz border, Mexico
+specimen_condition ::  Live Specimen
 Body Part            ovulate cone
-Copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
+copyright ::            © 2004 [David S. Gernandt](http://www.reduaeh.mx/investigacion/biologia/investigadores/gernandt_latteri.htm) 
 
 
 ## Confidential Links & Embeds: 

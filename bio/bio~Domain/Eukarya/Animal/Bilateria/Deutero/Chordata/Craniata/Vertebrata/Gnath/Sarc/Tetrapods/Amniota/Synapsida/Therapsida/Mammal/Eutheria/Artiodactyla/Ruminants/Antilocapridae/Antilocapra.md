@@ -72,17 +72,17 @@ Containing group: [Antilocapridae](../Antilocapridae.md)
 
 ----------------------------------
 ![](pronghorn.jpg)
-Scientific Name ::     Antilocapra americana
+scientific_name ::     Antilocapra americana
 Reference            Photograph courtesy [Yellowstone Digital Slide](http://www.nps.gov/yell/slidefile/index.htm)
 Creator              JR Douglass
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 ----------------------------------
 ![pronghorn herd](Antilocapra/pronghornherd.jpg)
-Scientific Name ::     Antilocapra americana
+scientific_name ::     Antilocapra americana
 Creator              Photograph by H. Hoops
 Acknowledgements     Photograph courtesy of the U.S. Fish and Wildlife Service
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 
 
 ## Confidential Links & Embeds: 

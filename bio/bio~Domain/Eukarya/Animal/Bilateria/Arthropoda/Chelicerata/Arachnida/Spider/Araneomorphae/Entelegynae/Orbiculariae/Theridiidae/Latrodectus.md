@@ -266,13 +266,13 @@ sacrifice. Behav. Ecol. 15:785-792.
 ![](Latrodectus/latrohesp.jpg) 
 
   ---------------------------------------------------------------------------------------
-  Scientific Name ::     *Latrodectus hesperus*
-  Location ::           Chatfield Reservoir, Douglas Co., Colorado
-  Specimen Condition   Live Specimen
+  scientific_name ::     *Latrodectus hesperus*
+  location ::           Chatfield Reservoir, Douglas Co., Colorado
+  specimen_condition ::  Live Specimen
   Identified By        Jeremy Miller
   Sex ::                Female
   Life Cycle Stage ::     Adult
-  Copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
+  copyright ::            © [Jeremy Miller](http://www.calacademy.org/research/entomology/personnel/jmiller/index.htm) 
  
   ---------------------------------------------------------------------------------------
 

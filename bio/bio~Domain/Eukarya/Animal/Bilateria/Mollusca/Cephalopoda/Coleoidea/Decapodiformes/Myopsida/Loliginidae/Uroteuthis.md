@@ -208,9 +208,9 @@ Cook University, North Queensland, Australia.
 ![](Uroteuthis/Photolol.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Uroteuthis chinensis
-  Location ::        off Australia
-  Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+  scientific_name ::  Uroteuthis chinensis
+  location ::        off Australia
+  copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   --------------------------------------------------------------------------
 

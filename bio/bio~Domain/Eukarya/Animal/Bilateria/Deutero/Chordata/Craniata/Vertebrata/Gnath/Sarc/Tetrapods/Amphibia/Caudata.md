@@ -253,11 +253,11 @@ it contradicts monophyly of suborder Salamandroidea.\
 
 ------------ 
 ![](Caudata/tylototritonshanjing.jpg) 
-Scientific Name ::     Tylototriton shanjing
-Location ::           China
+scientific_name ::     Tylototriton shanjing
+location ::           China
 Comments             A newt (Salamandridae)
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 Dr. Tom A. Titus
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 Dr. Tom A. Titus
 
 
 ## Confidential Links & Embeds: 

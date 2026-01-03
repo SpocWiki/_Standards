@@ -64,35 +64,35 @@ species in *Ruellia*.
 
 ------------------------------------------------------------------------ 
 ![Ruellia standleyi](inundata/Ruellia_standleyi.jpg)) 
-Scientific Name ::     Ruellia standleyi Leonard
-Location ::           Cartago, Costa Rica
-Specimen Condition   Live Specimen
-Copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
+scientific_name ::     Ruellia standleyi Leonard
+location ::           Cartago, Costa Rica
+specimen_condition ::  Live Specimen
+copyright ::            © 2006 [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia paniculata](inundata/Ruellia_paniculata.jpg) 
-Scientific Name ::     Ruellia paniculata L.
-Location ::           Palo Verde Biological Station, Costa Rica
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia paniculata L.
+location ::           Palo Verde Biological Station, Costa Rica
+specimen_condition ::  Live Specimen
 Collector            Tripp & E. Deinert
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ----------------------------------------------------------------------- 
 ![Ruellia_inundata](inundata/Ruellia_inundata.jpg) 
-Scientific Name ::     Ruellia inundata H. B. K.
-Location ::           Palo Verde Biological Station, Costa Rica
-Specimen Condition   Live Specimen
+scientific_name ::     Ruellia inundata H. B. K.
+location ::           Palo Verde Biological Station, Costa Rica
+specimen_condition ::  Live Specimen
 Identified By        Erin A. Tripp
 Collector            Tripp & Deinert
-Copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::            © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 ---------------------------------------------------------------------- 
 ![Ruellia galeottii](inundata/Ruellia_galeottii.jpg) 
-Scientific Name ::  Ruellia galeottii Leonard
-Location ::        Oaxaca, Mexico
+scientific_name ::  Ruellia galeottii Leonard
+location ::        Oaxaca, Mexico
 Identified By     Erin A. Tripp
 Collector         E. Tripp
-Copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
+copyright ::         © [Erin Tripp](mailto:erin.tripp@duke.edu) 
 
 
 ## Confidential Links & Embeds: 

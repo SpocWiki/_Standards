@@ -110,22 +110,22 @@ or dry 3-valved capsules, occasionally indehiscent. *Seeds* arillate
 
 -------------------- 
 ![Casearia arborea](Samydaceae/Casearia_arborea.jpg) 
-Scientific Name ::  Casearia arborea
-Location ::        Costa Rica: Heredia: Estacion Biologica La Selva
-Copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
+scientific_name ::  Casearia arborea
+location ::        Costa Rica: Heredia: Estacion Biologica La Selva
+copyright ::         © 2004 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
 -------------------- 
 ![Casearia corymbosa](Samydaceae/Casearia_corymbosa-Leaf.jpg) 
-Scientific Name ::  Casearia corymbosa
-Location ::        Costa Rica: Guanacaste: Palo Verde
-Copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
+scientific_name ::  Casearia corymbosa
+location ::        Costa Rica: Guanacaste: Palo Verde
+copyright ::         © 2003 [Lawrence M. Kelly](mailto:lkelly@nybg.org)
 
 --------------------- 
 ![Casearia_corymbosa](Samydaceae/Casearia_corymbosa-Fruit.jpg)) 
-Scientific Name ::  Casearia corymbosa
-Location ::        Costa Rica: Guanacaste: Palo Verde
+scientific_name ::  Casearia corymbosa
+location ::        Costa Rica: Guanacaste: Palo Verde
 Body Part         Fruit with arillate seed
-Copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
+copyright ::         © 2003 [Fabián Michelangeli](mailto:fabian@nybg.org)
 
 
 ## Confidential Links & Embeds: 

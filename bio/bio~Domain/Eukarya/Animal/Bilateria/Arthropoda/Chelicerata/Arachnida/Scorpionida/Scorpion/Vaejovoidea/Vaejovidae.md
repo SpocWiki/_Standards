@@ -58,7 +58,7 @@ title: Vaejovidae
 ----------
 Pseudouroctonus apacheanus.
 Copyright © 1988, Scott A. Stockwell.![Pseudouroctonus apacheanus](Vaejovidae/vaejovidae.jpg))
-Copyright ::   © 1988 Scott A. Stockwell
+copyright ::   © 1988 Scott A. Stockwell
 
 
 ## Confidential Links & Embeds: 

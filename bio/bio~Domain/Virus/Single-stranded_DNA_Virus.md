@@ -42,9 +42,9 @@ title: Single-stranded DNA Viruses
 
   ---------------------------------------
 ![ ](Single-stranded_DNA_Virus/20_lores.jpg)
-  Scientific Name ::     Parvovirus
+  scientific_name ::     Parvovirus
   Comments             This electron micrograph depicts a number of parvovirus H-1 virions of the Parvoviridae family of DNA viruses.
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

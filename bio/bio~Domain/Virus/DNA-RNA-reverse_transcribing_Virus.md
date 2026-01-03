@@ -31,10 +31,10 @@ Containing group: [Virus](../Virus.md)
   --------------------------------------------------------
 ![ ](DNA-RNA-reverse_transcribing_Virus/PHIL_1842_lores.jpg)
 
-  Scientific Name ::     Lentivirus
+  scientific_name ::     Lentivirus
   Comments             Scanning electron micrograph of human immunodeficiency virus (HIV), grown in cultured lymphocytes. Virions are seen as small spheres on the surface of the cells.
   Creator              CDC/C. Goldsmith, P. Feorino, E. L. Palmer, W. R. McManus
-  Specimen Condition   Dead Specimen
+  specimen_condition ::  Dead Specimen
   Source Collection    [Public Health Image Library](http://phil.cdc.gov/Phil/default.asp)
 
 

@@ -594,30 +594,30 @@ parasiticum* is not a fungus, but a member of the DRIPs. Protist 151:
 ![Phototropic sporangiophores of Pilobolus kleinii](Zygomycota/Pilobolus_kleinii1.jpg) 
 
   -------------------------------------------
-  Scientific Name ::     Pilobolus kleinii
+  scientific_name ::     Pilobolus kleinii
   Comments             Phototropic sporangiophores, each bearing a single black sporangium of the \"hat-thrower\", Pilobolus kleinii (Mucorales).
   Acknowledgements     Photo courtesy [Malcolm Storey](http://www.bioimages.org.uk/)
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Malcolm Storey](http://www.bioimages.org.uk/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Malcolm Storey](http://www.bioimages.org.uk/)
   -------------------------------------------
 ![Root maggot fly killed by the insect-destroyer Entomophthora](Zygomycota/Entomophthora2.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::     Entomophthora, Delia
+  scientific_name ::     Entomophthora, Delia
   Comments             Root maggot fly (Delia) killed by the \'insect-destroyer\' Entomophthora (Entomophthorales). The fungus has burst through the segments and the abdominal wall.
   Acknowledgements     Photo courtesy [George Barron\'s Website on Fungi](http://www.uoguelph.ca/%7Egbarron/)
-  Specimen Condition   Dead Specimen
-  Copyright ::            © [George Barron](http://www.uoguelph.ca/%7Egbarron/) 
+  specimen_condition ::  Dead Specimen
+  copyright ::            © [George Barron](http://www.uoguelph.ca/%7Egbarron/) 
  
   --------------------------------------------------------------------------
 ![Colony bearing unispored sporangia of Genistelloides helicoides](Zygomycota/Genistelloides_helicoides1.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Genistelloides helicoides
+  scientific_name ::     Genistelloides helicoides
   Comments             Colony bearing unispored sporangia (also called trichospores) of the arthropod endocommensal Genistelloides helicoides (Harpellales) isolated from the hindgut of a stonefly nymph
   Acknowledgements     Photo courtesy Robert W. Lichwardt. Image from the Mycological Society of America slide collection.
-  Specimen Condition   Dead Specimen
-  Copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
+  specimen_condition ::  Dead Specimen
+  copyright ::            © [Robert Lichtwardt](mailto:licht@ku.edu) 
  
   -----------------------------------------------------------------------
 

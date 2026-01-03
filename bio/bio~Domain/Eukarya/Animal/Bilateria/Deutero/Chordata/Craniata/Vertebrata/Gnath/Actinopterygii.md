@@ -136,22 +136,22 @@ UMLS_CUI: C0998822
 
 -----------------------------------------------------------------------------
 ![[Actinopterygii/1411angelfish.jpg]] 
-Scientific Name ::     Pomacanthus paru
-Location ::           Grand Cayman
+scientific_name ::     Pomacanthus paru
+location ::           Grand Cayman
 Comments             French Angelfish
-Specimen Condition   Live Specimen
-Copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+specimen_condition ::  Live Specimen
+copyright ::            © [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
 
 -----------------------------------------------------------------------------
 ![[Actinopterygii/23067112_f53ece755b_b.jpg]] 
-Scientific Name ::     Acipenseridae
-Location ::           captive
+scientific_name ::     Acipenseridae
+location ::           captive
 Comments             sturgeon
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source               [Sturgeon.](http://flickr.com/photos/80835774@N00/23067112/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-Copyright ::            © 2005 [Vearl Brown](http://flickr.com/people/80835774@N00/)
+copyright ::            © 2005 [Vearl Brown](http://flickr.com/people/80835774@N00/)
 
 
 ## Confidential Links & Embeds: 

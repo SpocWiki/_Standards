@@ -95,10 +95,10 @@ the Florida keys. Bull. Mar. Sci. Gulf Carib. 2: 602-609.
 ![](Pickfordiateuthis/Pickfordiateuthis075.jpg) 
 
   ---------------------------------------------------------------------------
-  Scientific Name ::     Pickfordiateuthis pulchella
-  Location ::           off Florida
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
+  scientific_name ::     Pickfordiateuthis pulchella
+  location ::           off Florida
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Clyde F. E. Roper](mailto:roper.clyde@nmnh.si.edu) 
  
   ---------------------------------------------------------------------------
 

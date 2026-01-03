@@ -109,12 +109,12 @@ Vertebrate Paleontology 29 pages, 6 figures.
 ![](Utegenia_shpinari/Utegenia.gif) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Utegenia shpinari
-  Location ::           Kazakhstan
+  scientific_name ::     Utegenia shpinari
+  location ::           Kazakhstan
   Comments             Skeleton of a postmetamorphic specimen. This specimen is one of more than four hundred skeletons recently collected in Kazakhstan. Impressions of ventral scales are preserved on the right side of the abdomen.
-  Specimen Condition   Fossil
+  specimen_condition ::  Fossil
   View                 ventral
-  Copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
+  copyright ::            © 1996 [Michel Laurin](http://tolweb.org/tree/laurin/Laurin_Home_page.html) 
  
   ---------------------------------------------------------------------------------
 

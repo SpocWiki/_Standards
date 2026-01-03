@@ -133,7 +133,7 @@ thelodonts, such as an unnamed form from the Devonian of Canada (bottom)
 are deep-bodied, with lateral gill openings and a very large, forked
 tail. (Based on Turner 1991, 1992; Wilson & Cadwell 1993.)
 ![](Thelodonti/thelodonti.gif) 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

@@ -478,9 +478,9 @@ on relevant pages of cetacean subgroups.
 
 -----------------------------------------------------------------------------
 ![A striped dolphin surfacing in the Mediterranean Sea between France and Corsica.](Whale/blowing.jpg)
-Scientific Name ::  Stenella coeruleoalba
-Location ::        Mediterranean Sea, between France and Corsica.
-Copyright ::         © 1991 [Michel C. Milinkovitch](http://www.ulb.ac.be/sciences/ueg) 
+scientific_name ::  Stenella coeruleoalba
+location ::        Mediterranean Sea, between France and Corsica.
+copyright ::         © 1991 [Michel C. Milinkovitch](http://www.ulb.ac.be/sciences/ueg) 
 
 
 ## Confidential Links & Embeds: 

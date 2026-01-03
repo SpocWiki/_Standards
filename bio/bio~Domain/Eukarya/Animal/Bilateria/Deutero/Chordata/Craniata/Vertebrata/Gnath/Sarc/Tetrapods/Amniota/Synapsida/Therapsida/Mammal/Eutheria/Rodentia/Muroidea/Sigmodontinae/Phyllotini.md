@@ -240,14 +240,14 @@ the appropriate view below.
 
 ---------- 
 ![Phyllotis darwini](Phyllotini/Phyllotis/P.jpg) 
-Scientific Name ::  Phyllotis darwini
-Copyright ::         © 1996 P. L. Meserve
+scientific_name ::  Phyllotis darwini
+copyright ::         © 1996 P. L. Meserve
 
 ---------- 
 ![Chinchilla mouse](Phyllotini/Chinchillula1.jpg) 
-Scientific Name ::  Chinchillula sahamae
+scientific_name ::  Chinchillula sahamae
 Comments          Chinchilla mouse
-Copyright ::         © 1996 J. Anderson
+copyright ::         © 1996 J. Anderson
 
 
 ## Confidential Links & Embeds: 

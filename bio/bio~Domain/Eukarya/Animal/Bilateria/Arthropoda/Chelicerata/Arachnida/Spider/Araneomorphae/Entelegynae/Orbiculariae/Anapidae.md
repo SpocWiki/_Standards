@@ -47,14 +47,14 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 ![](Anapidae/gertschanapis01.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Gertschanapis shantzi
-  Location ::           Santa Cruz Co., California
-  Specimen Condition   Live Specimen
+  scientific_name ::     Gertschanapis shantzi
+  location ::           Santa Cruz Co., California
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Note out of plane, pendant sticky threads, and that not all radii reach the hub
   Sex ::                Female
   Life Cycle Stage ::     adult
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

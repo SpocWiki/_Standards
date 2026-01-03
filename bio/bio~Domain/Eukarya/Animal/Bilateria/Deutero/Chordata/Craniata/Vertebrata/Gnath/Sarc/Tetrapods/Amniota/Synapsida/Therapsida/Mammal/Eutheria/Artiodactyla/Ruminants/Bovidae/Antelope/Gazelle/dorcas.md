@@ -51,7 +51,7 @@ title: Gazella dorcas
 
 --------------------
 ![](Lydekkers_Dorcas_Gazelle.jpg)
-Scientific Name ::  Gazella dorcas
+scientific_name ::  Gazella dorcas
 Reference         Richard Lydekker. 1894. The Royal Natural History.
 Creator           W. Kuhnert
 

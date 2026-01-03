@@ -57,14 +57,14 @@ title: Berberidopsidales
 ![](92947553_ad6465f6c7_o.jpg)
 
 ----------------------------------------------------------------
-Scientific Name ::     Berberidopsis corallina
-Location ::           cultivated at Strybing Arboretum, San Francisco, native to Chile
-Specimen Condition   Live Specimen
+scientific_name ::     Berberidopsis corallina
+location ::           cultivated at Strybing Arboretum, San Francisco, native to Chile
+specimen_condition ::  Live Specimen
 Body Part            flowers
 Source               [Berberidopsis corallina](http://www.flickr.com/photos/ericinsf/92947553/)
 Source Collection    [Flickr](http://flickr.com/)
 Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-Copyright ::            © 2005 [Eric in SF](http://flickr.com/people/39312862@N00)
+copyright ::            © 2005 [Eric in SF](http://flickr.com/people/39312862@N00)
 
 
 ## Confidential Links & Embeds: 

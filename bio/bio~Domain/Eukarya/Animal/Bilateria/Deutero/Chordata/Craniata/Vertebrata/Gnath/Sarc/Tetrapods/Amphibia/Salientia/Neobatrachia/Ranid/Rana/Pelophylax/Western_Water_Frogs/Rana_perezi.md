@@ -116,8 +116,8 @@ water frogs, 18-25 September 1994, Wroclaw, Poland. Zoologica Poloniae
 ![](Rana_perezi/perezi.jpg) 
 
   -----------
-  Scientific Name ::  Rana perezi
-  Copyright ::         © 1997 Dirk Schmeller
+  scientific_name ::  Rana perezi
+  copyright ::         © 1997 Dirk Schmeller
   -----------
 
 

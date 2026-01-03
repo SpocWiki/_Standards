@@ -69,20 +69,20 @@ Evolution 36:154--168.
 ![](153781977_81bb4f8a59_o.jpg)
 
   -----------------------------------------------------------
-  Scientific Name ::     Hemitragus hylocrius
-  Location ::           near Painav, Kerala, India
+  scientific_name ::     Hemitragus hylocrius
+  location ::           near Painav, Kerala, India
   Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2002 [Tamal Das](http://flickr.com/people/tamald/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2002 [Tamal Das](http://flickr.com/people/tamald/)
   -----------------------------------------------------------
 ![](50866661_c70f55c840_b.jpg)
 
   -----------------------------------------------------------
-  Scientific Name ::     Hemitragus jemlahicus
-  Location ::           captive at Taronga Zoo, Sydney, Australia
+  scientific_name ::     Hemitragus jemlahicus
+  location ::           captive at Taronga Zoo, Sydney, Australia
   Acknowledgements     The copyright owner has released this image under the [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2005 [Anthony Caruso](http://flickr.com/people/acaruso/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2005 [Anthony Caruso](http://flickr.com/people/acaruso/)
   -----------------------------------------------------------
 
 

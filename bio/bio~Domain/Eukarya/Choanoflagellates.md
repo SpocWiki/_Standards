@@ -184,16 +184,16 @@ ancestor and the earliest events in metazoan evolution.
 
 ---------------------
 ![Monosiga brevicollis](Choanoflagellates/Monosiga_brevicollis.jpg)  
-  Scientific Name ::     Monosiga brevicollis
-  Specimen Condition   Live Specimen
-  Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
+  scientific_name ::     Monosiga brevicollis
+  specimen_condition ::  Live Specimen
+  copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
 
 ---------------------
 ![Proterospongia](Choanoflagellates/Proterospongia.jpg) 
-  Scientific Name ::     Proterospongia sp.
-  Specimen Condition   Live Specimen
+  scientific_name ::     Proterospongia sp.
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     Colony
-  Copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
+  copyright ::            © 2006 [King Lab](mailto:srfairclough@berkeley.edu)
 
   
 

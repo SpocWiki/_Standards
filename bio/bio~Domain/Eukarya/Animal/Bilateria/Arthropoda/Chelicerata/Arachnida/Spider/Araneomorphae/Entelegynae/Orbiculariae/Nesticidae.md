@@ -46,15 +46,15 @@ Containing group:[Orbiculariae](../Orbiculariae.md)
 ![](Nesticidae/eidmanellaweb.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Eidmanella pallida
-  Location ::           Tennessee, USA
-  Specimen Condition   Live Specimen
+  scientific_name ::     Eidmanella pallida
+  location ::           Tennessee, USA
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Behavior             Nesticids, as far as known, all make branched gum foot lines.
   Sex ::                Female
   Life Cycle Stage ::     adult
   Size                 ca, 10 cm. across
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 

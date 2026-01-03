@@ -615,16 +615,16 @@ ligula groove; raised laminae absent
 
 ------------- 
 ![](Octopodidae/Hapmale2.JPG) 
-Scientific Name ::  Hapalochlaena maculosa
-Location ::        Victoria, southern Australia
-Copyright ::         © 1996 D. Paul
+scientific_name ::  Hapalochlaena maculosa
+location ::        Victoria, southern Australia
+copyright ::         © 1996 D. Paul
 
 --------------------------------------------------------------------------- 
 ![](Octopodidae/Ameloct1.JPG) 
-Scientific Name ::     Ameloctopus litoralis
-Location ::           Darwin, northern Australia
-Specimen Condition   Live Specimen
-Copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+scientific_name ::     Ameloctopus litoralis
+location ::           Darwin, northern Australia
+specimen_condition ::  Live Specimen
+copyright ::            © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
 
 
 ## Confidential Links & Embeds: 

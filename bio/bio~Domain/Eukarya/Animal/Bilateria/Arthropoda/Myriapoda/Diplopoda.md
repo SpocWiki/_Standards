@@ -110,28 +110,28 @@ Millipedes
 
 ---------------------
 ![Harpaphe haydeniana](Diplopoda/Harpaphe_haydeniana.jpg) 
-Scientific Name ::     Harpaphe haydeniana
-Location ::           Kings Valley, Benton County (Oregon, US)
+scientific_name ::     Harpaphe haydeniana
+location ::           Kings Valley, Benton County (Oregon, US)
 Comments             Flat-backed millipede
-Specimen Condition   Live Specimen
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
+copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
 
 ---------------------
 ![](Diplopoda/Octoglena_anura.jpg)
-Scientific Name ::     Octoglena anura
-Location ::           Kennedy Creek, Mason County (Washington, US)
-Specimen Condition   Live Specimen
+scientific_name ::     Octoglena anura
+location ::           Kennedy Creek, Mason County (Washington, US)
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
+copyright ::            © 2000 [William Leonard](mailto:mollusca1@attbi.com)
 
 --------------------- 
 ![Californiulus euphanus](Diplopoda/Californiulus_euphanus.jpg) 
-Scientific Name ::     Californiulus euphanus
-Location ::           Catherine Creek, Klickitat County (Washington, US)
-Specimen Condition   Live Specimen
+scientific_name ::     Californiulus euphanus
+location ::           Catherine Creek, Klickitat County (Washington, US)
+specimen_condition ::  Live Specimen
 Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-Copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
+copyright ::            © 1999 [William Leonard](mailto:mollusca1@attbi.com)
 
 
 ## Confidential Links & Embeds: 

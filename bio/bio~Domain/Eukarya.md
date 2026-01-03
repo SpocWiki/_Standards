@@ -897,30 +897,30 @@ Mitochondrial origins. Proceedings of the National Academy of Sciences
 ![pair of saguaros](Eukarya/saguaro.jpg)
 
   --------------------------------------------------------------------------
-  Scientific Name ::     Cereus giganteus
-  Location ::           Tucson, Arizona, U.S.A.
+  scientific_name ::     Cereus giganteus
+  location ::           Tucson, Arizona, U.S.A.
   Comments             Saguaros, the giant columnar cacti of the Sonoran desert of northwestern Mexico and the southwestern U.S.A.
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     adults
   Image Use ::    [Attribution-NonCommercial 2.5 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.5/).
-  Copyright ::            © 1994 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
+  copyright ::            © 1994 [Katja Schulz](mailto:treegrow@ag.arizona.edu) 
  
   --------------------------------------------------------------------------
 ![Acantharea](Eukarya/acantb.jpg)
 
   -----------------------------------------
-  Scientific Name ::  Acantharea
+  scientific_name ::  Acantharea
   Comments          A star-shaped protist that lives in marine habitats - its yellow colour comes from symbiotic algae living inside it.
-  Copyright ::         © 1998 Linda Amaral Zettler
+  copyright ::         © 1998 Linda Amaral Zettler
   -----------------------------------------
 ![Ithomiine butterfly feeding on Senecio flowers](Eukarya/clearwing.jpg)
 
   ------------------------------------------------------------------------------
-  Scientific Name ::     Ithomiini, Senecio
-  Location ::           Monteverde, Costa Rica
+  scientific_name ::     Ithomiini, Senecio
+  location ::           Monteverde, Costa Rica
   Comments             Ithomiine butterfly feeding on Senecio flowers
-  Specimen Condition   Live Specimen
-  Copyright ::            © 1996 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
+  specimen_condition ::  Live Specimen
+  copyright ::            © 1996 [Greg and Marybeth Dimijian](http://www.dimijianimages.com/) 
  
   ------------------------------------------------------------------------------
 

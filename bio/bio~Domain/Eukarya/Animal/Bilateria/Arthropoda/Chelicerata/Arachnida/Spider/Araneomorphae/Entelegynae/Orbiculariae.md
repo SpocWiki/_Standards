@@ -130,35 +130,35 @@ America: an identification manual. American Arachnological Society,
 ![Banded Argiope](Orbiculariae/Araneidae/Argiope_trifasciata.jpg)
 
   -------------------------------------
-  Scientific Name ::     Argiope trifasciata
+  scientific_name ::     Argiope trifasciata
   Comments             Banded Argiope
-  Specimen Condition   Live Specimen
-  Copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
+  specimen_condition ::  Live Specimen
+  copyright ::            © [Leon Higley, Department of Entomology, University of Nebraska-Lincoln](http://entomology.unl.edu/)
   -------------------------------------
 ![](Orbiculariae/araneusface.jpg) 
 
   ---------------------------------------------------------------------------------
-  Scientific Name ::     Araneus bicentenarius
-  Location ::           USA
-  Specimen Condition   Live Specimen
+  scientific_name ::     Araneus bicentenarius
+  location ::           USA
+  specimen_condition ::  Live Specimen
   Identified By        Jonathan Coddington
   Sex ::                Female
   Life Cycle Stage ::     adult
   Body Part            face
   View                 anterior view
   Size                 photo ca. 5mm across.
-  Copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
+  copyright ::            © [Jonathan Coddington](http://entomology.si.edu/StaffPages/coddington.html) 
  
   ---------------------------------------------------------------------------------
 ![](Orbiculariae/0841.jpg) 
 
   ---------------------
-  Scientific Name ::     Latrodectus curacaviensis
-  Location ::           Bahia (Brazil)
+  scientific_name ::     Latrodectus curacaviensis
+  location ::           Bahia (Brazil)
   Comments             South American widow spider
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Source Collection    [CalPhotos](http://calphotos.berkeley.edu/)
-  Copyright ::            © 1994 [Wolfgang Wuster](mailto:w.wuster@bangor.ac.uk)
+  copyright ::            © 1994 [Wolfgang Wuster](mailto:w.wuster@bangor.ac.uk)
   ---------------------
 
 

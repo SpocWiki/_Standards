@@ -148,17 +148,17 @@ Technical Report NMFS 152: 1-58.
 ![](hjorti/MhjortiSide.jpg) 
 
   --------------------------------------------------------------------------------
-  Scientific Name ::     Mastigoteuthis hjorti
+  scientific_name ::     Mastigoteuthis hjorti
   Comments             Lateral view.
-  Specimen Condition   Dead Specimen
-  Copyright ::            © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  specimen_condition ::  Dead Specimen
+  copyright ::            © 2004 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------
 ![](hjorti/MHjortiDandV.jpg) 
 
   -------------------------------------------------------
-  Scientific Name ::  Mastigoteuthis hjorti
-  Location ::        Gulf of Guinea
+  scientific_name ::  Mastigoteuthis hjorti
+  location ::        Gulf of Guinea
   Comments          Ventral and dorsal views.
   Reference         Rancurel, P. 1973. Mastigoteuthis hjorti Chun 1913 description de trois échantillons proventant du Golfe de Guinée. Cah. O.R.S.T.O.M., ser. Océanogr., 11: 27-32.
   Size              44 mm ML

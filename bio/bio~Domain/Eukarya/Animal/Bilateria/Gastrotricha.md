@@ -62,7 +62,7 @@ Drawing by Ivy Livingstone. Copyright © 1995
 
 --------------------------------------------------------------------------
 ![](Gastrotricha/Gastrotricha.gif)
-Copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
+copyright ::   © 1995 [BIODIDAC](http://biodidac.bio.uottawa.ca/index.htm) 
 
 
 ## Confidential Links & Embeds: 

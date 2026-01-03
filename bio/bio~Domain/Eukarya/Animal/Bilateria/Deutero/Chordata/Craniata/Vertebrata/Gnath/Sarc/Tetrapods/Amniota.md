@@ -551,12 +551,12 @@ the Transition to Land (1): 291-326. London: Academic Press.
 ![](Amniota/Proganochelys.gif) 
 
   ------------------------------------------------------
-  Scientific Name ::     Proganochelys
-  Location ::           Germany
+  scientific_name ::     Proganochelys
+  location ::           Germany
   Comments             Restored environment of Proganochelys (the oldest known turtle) during the Late Triassic in Germany. Besides Proganochelys, small hybodont sharks are shown.
   Creator              Painting by Frank Ippolito
-  Specimen Condition   Fossil \-- Period: Late Triassic
-  Copyright ::            © 1987 [American Museum of Natural History](http://amnh.org/)
+  specimen_condition ::  Fossil \-- Period: Late Triassic
+  copyright ::            © 1987 [American Museum of Natural History](http://amnh.org/)
   ------------------------------------------------------
 
 

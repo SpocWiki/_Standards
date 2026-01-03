@@ -145,7 +145,7 @@ tentacles (after Bardack 1991). Copyright © Philippe Janvier.
 
 ---------- 
 ![](Hyperotreti/hyperotreti.gif) 
-Copyright ::   © 1997 Philippe Janvier
+copyright ::   © 1997 Philippe Janvier
 
 
 ## Confidential Links & Embeds: 

@@ -211,10 +211,10 @@ recorded. Transactions of the Connecticut Academy, 6(2): 395-452.
 ![](Bathyteuthis.JPG) 
 
   ----------------
-  Scientific Name ::  Bathyteuthis abyssicola
-  Location ::        Antarctic waters
+  scientific_name ::  Bathyteuthis abyssicola
+  location ::        Antarctic waters
   Comments          Photographed in a shipboard aquarium.
-  Copyright ::         © 1996 Edward McSweeny
+  copyright ::         © 1996 Edward McSweeny
   ----------------
 
 

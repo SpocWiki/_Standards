@@ -110,7 +110,7 @@ Ser., 11: 203-214.
 ![](PromachOkutani.jpg)
 
   --------------------------------------------------------------
-  Scientific Name ::   Promachoteuthis megaptera
+  scientific_name ::   Promachoteuthis megaptera
   Comments           Arrow points to the unusual pigment band at the base of the tentacle.
   Reference          Okutani, T. 1983. Rare and interesting squid from Japan. VIII. Rediscovery of Promachoteuthis megaptera Hoyle, 1885 (Oegopsida: Promachoteuthidae). Venus 42:241-247. with permission.
   Sex ::              Female
@@ -120,11 +120,11 @@ Ser., 11: 203-214.
 ![](megaptera/PromachMegaptHolo.jpg) 
 
   --------------------------------------------------------------------------------------
-  Scientific Name ::  Promachoteuthis megaptera
+  scientific_name ::  Promachoteuthis megaptera
   Reference         redrawn type illustration from Roper, C. F. E. and R. E. Young (1968). The family Promachoteuthidae (Cephalopoda: Oegopsida). I. A re-evaluation of its systematic position based on new material from Antarctic and adjacent waters. Ant. Res. Ser., 11: 203-214.
   View              ventral
   Type              holotype
-  Copyright ::         © 1968 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
+  copyright ::         © 1968 [Richard E. Young](http://www.soest.hawaii.edu/%7Eryoung/rey.html) 
  
   --------------------------------------------------------------------------------------
 

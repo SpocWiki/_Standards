@@ -160,22 +160,22 @@ unplaced.
 
 ---------------------------------------------------------------------
 ![Polygonum orientale](Caryophyllales/Polygonum_orientale.jpg) 
-Scientific Name ::  Polygonum orientale
+scientific_name ::  Polygonum orientale
 Comments          Polygonaceae
-Copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
+copyright ::         © [Kurt Stüber](http://www.biolib.de/) 
 
 ---------------------------------------------------------------------------
 ![Stellaria holostea](Caryophyllales/Stellaria_holostea.jpg)  
-Scientific Name ::     Stellaria holostea
-Specimen Condition   Live Specimen
+scientific_name ::     Stellaria holostea
+specimen_condition ::  Live Specimen
 Identified By        Ilisoi Gabriel
 Body Part            Aerial - flowers
-Copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
+copyright ::            © [Gabriel Ilisoi](mailto:ilisoi_gabriel@yahoo.co.uk) 
 
 ----------------------------------------------------------------------
 ![Drosera_capensis](Caryophyllales/Drosera_capensis.jpg) 
-Scientific Name ::  Drosera capensis
-Copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
+scientific_name ::  Drosera capensis
+copyright ::         © 2004 [Kurt Stüber](http://www.biolib.de/) 
 
 
 ## Confidential Links & Embeds: 

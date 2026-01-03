@@ -238,20 +238,20 @@ African Jour. Mar. Sci.., 20: 393-420.
 ![](Argonautidae/Argonodo.jpg) 
 
   --------------------------------------------------------------------------
-  Scientific Name ::  Argonauta nodosa
-  Location ::        off Australia
+  scientific_name ::  Argonauta nodosa
+  location ::        off Australia
   Sex ::             Female
-  Copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
+  copyright ::         © 1996 [Mark D. Norman](mailto:mnorman@unimelb.edu.au) 
  
   --------------------------------------------------------------------------
 ![](Argonautidae/Argojuv.jpg) 
 
   ------------
-  Scientific Name ::   Argonauta nodosa
-  Location ::         off Melbourne
+  scientific_name ::   Argonauta nodosa
+  location ::         off Melbourne
   Acknowledgements   courtesy of Mark Norman
   Size               58 mm shell length
-  Copyright ::          © 1996 David Paul
+  copyright ::          © 1996 David Paul
   ------------
 
 

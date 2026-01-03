@@ -114,10 +114,10 @@ Phuket Mar. Biol. Cent. Res. Bull. 66: 23-26.
 ![](Doryteuthis/DpealeiiMV2.jpg) 
 
   -----------------------------------------------------------------------
-  Scientific Name ::     Doryteuthis pealeii
-  Specimen Condition   Live Specimen
+  scientific_name ::     Doryteuthis pealeii
+  specimen_condition ::  Live Specimen
   View                 Dorsal
-  Copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
+  copyright ::            © [Michael Vecchione](mailto:vecchiom@si.edu) 
  
   -----------------------------------------------------------------------
 

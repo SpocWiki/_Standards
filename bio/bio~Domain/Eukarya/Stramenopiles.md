@@ -85,19 +85,19 @@ Tubulocristate protists with tripartite tubular hairs or derived from such organ
 
   ---------------------
 ![Cymbella tumida Diatomee](Stramenopiles/Cymbella_tumida-Diatomee.jpg) 
-Scientific Name ::   Cymbella tumida
+scientific_name ::   Cymbella tumida
 Acknowledgements   Photograph courtesy of the U.S. Geological Survey
 
 -----------------------------
 ![Macrocystis](Stramenopiles/Macrocystis.jpg) 
 
-Scientific Name ::                    Macrocystis
-Location ::                          Channel Islands, California, USA
+scientific_name ::                    Macrocystis
+location ::                          Channel Islands, California, USA
 Acknowledgements                    This image is licensed under the [Attribution-NonCommercial-ShareAlike 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/)
 source: [flickr: kelp geometry](http://flickr.com/photos/51262603@N00/46490998/)
-Specimen Condition                  Live Specimen
+specimen_condition ::                 Live Specimen
 Source Collection                   [Flickr](http://flickr.com/)
-Copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/)
+copyright ::                           © [Tom Gruber](http://flickr.com/people/51262603@N00/)
 
 
 ## Confidential Links & Embeds: 

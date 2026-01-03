@@ -108,26 +108,26 @@ Containing group: [Fly](Fly.md)
 ![](Mosquito/Chironomus_plumosus-800.jpg)
 
   ----------------------------------------------------------------------------
-  Scientific Name ::     Diptera:Chironomidae: Chironomus plumosus
-  Location ::           Pieve di Cento, Bologna Province, Emilia Romagna, Italy
-  Specimen Condition   Live Specimen
+  scientific_name ::     Diptera:Chironomidae: Chironomus plumosus
+  location ::           Pieve di Cento, Bologna Province, Emilia Romagna, Italy
+  specimen_condition ::  Live Specimen
   Sex ::                Male
   Image Use ::    [Attribution-NonCommercial 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/).
-  Copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
+  copyright ::            © 2005 [Cesare Brizio](http://xoomer.virgilio.it/cebrizio/) 
  
   ----------------------------------------------------------------------------
 
 ![](Mosquito/Aedes_albopictus1366026.jpg)
 
   --------------------------
-  Scientific Name ::     Aedes albopictus
-  Location ::           New Jersey, United States
+  scientific_name ::     Aedes albopictus
+  location ::           New Jersey, United States
   Comments             Asian tiger mosquito
   Acknowledgements     Courtesy [InsectImages.org](http://www.insectimages.org/) (#1366026)
-  Specimen Condition   Live Specimen
+  specimen_condition ::  Live Specimen
   Life Cycle Stage ::     adult
   Source Collection    [InsectImages.org](http://www.insectimages.org/)
-  Copyright ::            © Susan Ellis
+  copyright ::            © Susan Ellis
   --------------------------
 
 
