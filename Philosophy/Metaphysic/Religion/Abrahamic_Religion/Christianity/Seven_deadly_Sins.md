@@ -4,6 +4,23 @@ aliases:
   - cardinal sin
   - Seven deadly Sins
   - Seven_deadly_Sins
+__is_:
+  same_as:
+    - "[[Seven_deadly_Sins]]"
+    - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]]"
+    - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal|Seven_deadly_Sins.internal]]"
+    - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.protect|Seven_deadly_Sins.protect]]"
+    - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]]"
+    - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]]"
+    - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]]"
+__is_same_as:
+  - "[[Seven_deadly_Sins]]"
+  - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.public|Seven_deadly_Sins.public]]"
+  - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.internal|Seven_deadly_Sins.internal]]"
+  - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.protect|Seven_deadly_Sins.protect]]"
+  - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.private|Seven_deadly_Sins.private]]"
+  - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.personal|Seven_deadly_Sins.personal]]"
+  - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Seven_deadly_Sins.secret|Seven_deadly_Sins.secret]]"
 ---
 
 ## #has_/text_of_/abstract 

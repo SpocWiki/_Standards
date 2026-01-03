@@ -1,7 +1,30 @@
+---
+__is_:
+  similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
+  same_as:
+    - "[[../../../WikiData/WD~Knot,527395]]"
+    - "[[Knot]]"
+    - "[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]"
+    - "[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]"
+    - "[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]"
+    - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
+    - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
+    - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
+__is_similar_to: "[[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]]"
+__is_same_as:
+  - "[[../../../WikiData/WD~Knot,527395]]"
+  - "[[Knot]]"
+  - "[[/_public/Technology/Tool/Mechanical_Tool/Knot.public|Knot.public]]"
+  - "[[/_internal/Technology/Tool/Mechanical_Tool/Knot.internal|Knot.internal]]"
+  - "[[/_protect/Technology/Tool/Mechanical_Tool/Knot.protect|Knot.protect]]"
+  - "[[/_private/Technology/Tool/Mechanical_Tool/Knot.private|Knot.private]]"
+  - "[[/_personal/Technology/Tool/Mechanical_Tool/Knot.personal|Knot.personal]]"
+  - "[[/_secret/Technology/Tool/Mechanical_Tool/Knot.secret|Knot.secret]]"
+---
 
 # [[Knot]] 
 
-#is_/similar_to :: [[../../../Mathematics/Topology/Knot_Theory|Knot_Theory]] 
+ is_similar_to = `$= dv.current().__is_similar_to` 
 #is_/same_as :: [[WD~Knot,527395]] 
 
 ## #has_/text_of_/abstract 
