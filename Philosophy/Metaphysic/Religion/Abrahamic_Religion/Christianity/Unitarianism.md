@@ -17,6 +17,25 @@ related_image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%B6r%C3%B6
 Stack_Exchange_tag: https://christianity.stackexchange.com/tags/unitarianism
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/UNITARII.html
 Commons_category: Unitarianism
+__is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]"
+    - "[[Unitarianism]]"
+    - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]"
+    - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]"
+    - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]"
+    - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]"
+    - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]"
+    - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]"
+__is_same_as:
+  - "[[../../../../../WikiData/WD~Unitarianism,106687|WD~Unitarianism,106687]]"
+  - "[[Unitarianism]]"
+  - "[[/_public/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.public|Unitarianism.public]]"
+  - "[[/_internal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.internal|Unitarianism.internal]]"
+  - "[[/_protect/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.protect|Unitarianism.protect]]"
+  - "[[/_private/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.private|Unitarianism.private]]"
+  - "[[/_personal/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.personal|Unitarianism.personal]]"
+  - "[[/_secret/Philosophy/Metaphysic/Religion/Abrahamic_Religion/Christianity/Unitarianism.secret|Unitarianism.secret]]"
 ---
 
 # [[Unitarianism]] 
