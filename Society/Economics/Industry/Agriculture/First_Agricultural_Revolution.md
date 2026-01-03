@@ -36,9 +36,29 @@ type: private_note
 #is_/same_as :: [[WD~Neolithic_revolution,180548]] 
 
 ## First Agricultural Revolution
+
 (circa 10,000 BC), the prehistoric transition from hunting and gathering 
 to settled agriculture (also known as the Neolithic Revolution)
 
+## #has_/Pros  
+
+- higher Population 
+- accumulation of Wealth 
+
+## #has_/Cons   
+
+- poor, less varied Diet 
+	- Food Allergies  
+	- Malnutrition 
+- hard Field Work 
+	- watering 
+	- weeding 
+	- watching and defending 
+- higher Dependencies and Aggression 
+- higher Risk of infectious Diseases 
+	- easier spread 
+	- easier jump from domesticated Animals 
+	- 
 
 ## #has_/text_of_/abstract 
 
