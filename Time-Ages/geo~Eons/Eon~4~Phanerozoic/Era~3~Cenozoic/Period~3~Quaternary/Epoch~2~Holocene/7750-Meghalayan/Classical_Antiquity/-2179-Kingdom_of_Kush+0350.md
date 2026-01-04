@@ -3,28 +3,37 @@ aliases:
   - Kushite Empire
   - Kush
   - Kingdom of Kush
-  - -2179-Kingdom_of_Kush+0350
-  - -2179-Kingdom of Kush+0350
+  - Kingdom_of_Kush
+  - 𓎡𓄿𓈙𓈉 
+  - kꜣš
+  - Kûsi
+  - Αἰθιοπία
+  - ⲉϭⲱϣ 
+  - Ecōš
+  - כּוּשׁ
 has_id_wikidata: Q241790
-country: '[[_Standards/WikiData/WD~Kingdom_of_Kush,241790]]'
-instance_of:
-  - '[[_Standards/WikiData/WD~kingdom,417175]]'
-  - '[[_Standards/WikiData/WD~historical_country,3024240]]'
-capital:
-  - '[[_Standards/WikiData/WD~Napata,743282]]'
-  - '[[_Standards/WikiData/WD~Meroë,5780]]'
-described_by_source: '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Cushan,5196167]]'
-different_from: '[[_Standards/WikiData/WD~Äthiopien,15946774]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~King_of_Kush,38037531]]'
+coordinate_location: Point(33.83 17.18)
+location:
+  - 17.18
+  - 33.83
+inception: -2179-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 0350-01-01T00:00:00Z
+country: "[[_Standards/WikiData/WD~Kingdom_of_Kush,241790]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~kingdom,417175]]"
+  - "[[_Standards/WikiData/WD~historical_country,3024240]]"
+capital:
+  - "[[_Standards/WikiData/WD~Napata,743282]]"
+  - "[[_Standards/WikiData/WD~Meroë,5780]]"
+described_by_source: "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Cushan,5196167]]"
+different_from: "[[_Standards/WikiData/WD~Äthiopien,15946774]]"
+position_held_by_head_of_the_organization: "[[_Standards/WikiData/WD~King_of_Kush,38037531]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nubia%20NASA-WW%20places%20german.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Africa%20in%20400%20BC.jpg
 Commons_category: Kingdom of Kush
 name_in_kana: クシテ
 name: ⲉϭⲱϣ
-coordinate_location: Point(33.83 17.18)
-inception: -2179-01-01T00:00:00Z
 ---
 
 # [[-2179-Kingdom_of_Kush+0350]] 
@@ -33,7 +42,8 @@ inception: -2179-01-01T00:00:00Z
 
 ## #has_/text_of_/abstract 
 
-> The **Kingdom of Kush** (Egyptian: 𓎡𓄿𓈙𓈉 kꜣš, Assyrian:  Kûsi, in LXX Χους or Αἰθιοπία; Coptic: ⲉϭⲱϣ Ecōš; Hebrew: כּוּשׁ Kūš), also known as the Kushite Empire, or simply Kush, 
+> The **Kingdom of Kush** (Egyptian: 𓎡𓄿𓈙𓈉 kꜣš, Assyrian:  Kûsi, in LXX Χους or Αἰθιοπία; Coptic: ⲉϭⲱϣ Ecōš; Hebrew: כּוּשׁ Kūš), 
+> also known as the Kushite Empire, or simply Kush, 
 > was an ancient kingdom in Nubia, centered along the Nile Valley 
 > in what is now northern Sudan and southern Egypt.
 >
