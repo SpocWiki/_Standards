@@ -85,10 +85,12 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 
 # [[Capitalism]] 
 
-#has_/previous_item :: [[Mercantilism|Mercantilism]] 
+#is_/better_than :: [[Mercantilism|Mercantilism]] 
 #has_/next_/item :: [[Keynesianism]] 
 #has_/creator :: [[../../Economics/Economist/Smith,Adam|Smith,Adam]] 
 #has_/creator :: [[../../Economics/Economist/Ricardo,David|Ricardo,David]]  
+
+[[Capitalism/Credit|Credit]]s increase the amount of [[Capitalism/Capital(Economics)|Capital]] available in the Market. 
 
 ## #has_/text_of_/abstract 
 
@@ -106,7 +108,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and[[../../Anthropology/Sociology/Sociologist|sociologists]]] 
+> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and [[../../Anthropology/Sociology/Sociologist|sociologists]] 
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 

@@ -29,6 +29,8 @@ Krugosvet_article: gumanitarnye_nauki/ekonomika_i_pravo/KAPITAL.html
 
 #is_/same_as :: [[../../../../WikiData/WD~Capital,8137|WD~Capital,8137]] 
 
+Capital is re-invested Wealth. 
+
 ## #has_/text_of_/abstract 
 
 > In economics, capital goods or capital are "those durable produced goods that are in turn used as productive inputs for further production" of goods and services. A typical example is the machinery used in a factory. At the macroeconomic level, "the nation's capital stock includes buildings, equipment, software, and inventories during a given year."

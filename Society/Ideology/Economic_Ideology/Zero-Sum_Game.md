@@ -23,10 +23,17 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-zero-sum%20game.
 # [[Zero-Sum_Game]] 
 
 #is_/same_as :: [[WD~Zero-Sum_Game,156612]] 
+#is_/similar_to :: [[Mercantilism]] 
+
+[[../../Military/Military_Operation/Combat/War|War]] is actually worse, because it has an overall negative Result, and sometimes even for the 'Winner'. 
 
 ## #has_/text_of_/abstract 
 
-> **Zero-Sum Game** is a mathematical representation in game theory and economic theory of a situation that involves two competing entities, where the result is an advantage for one side and an equivalent loss for the other. In other words, player one's gain is equivalent to player two's loss, with the result that the net improvement in benefit of the game is zero.
+> **Zero-Sum Game** is a mathematical model in game theory and economic theory of 
+> a situation that involves two competing entities, where 
+> the result is an advantage for one side and an equivalent loss for the other. 
+> In other words, player one's gain is equivalent to player two's loss, 
+> with the result that the **net improvement in benefit of the game is zero**.
 >
 > If the total gains of the participants are added up, and the total losses are subtracted, they will sum to zero. Thus, cutting a cake, where taking a more significant piece reduces the amount of cake available for others as much as it increases the amount available for that taker, is a zero-sum game if all participants value each unit of cake equally. Other examples of zero-sum games in daily life include games like poker, chess, sport and bridge where one person gains and another person loses, which results in a zero-net benefit for every player. In the markets and financial instruments, futures contracts and options are zero-sum games as well.
 >
