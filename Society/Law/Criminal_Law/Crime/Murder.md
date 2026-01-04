@@ -59,6 +59,13 @@ Provenio_UUID: 7b9a41da-c777-474e-adff-51a62113d158
 
 #is_/same_as :: [[WD~Murder,132821]] 
 
+Historically, the Rate of Men to die from another Man 
+- was highest at 25% in early agricultural Societies. 
+	- one reaction to this was establishment of Law and its enforcement e.g. by 
+	  [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-1829-Old_Babylon-1749/Hammurabi|Hammurabi]] 
+- today it is at 1.5% including all Wars and Crimes 
+- in prehistoric times it varied a lot between 2% and 5% 
+
 ## #has_/text_of_/abstract 
 
 > **Murder** is the unlawful killing of another human without justification or valid excuse 
