@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 79.5 , 9.833333333 ] 
 aliases:
   - Palk Strait
   - Palk_Strait

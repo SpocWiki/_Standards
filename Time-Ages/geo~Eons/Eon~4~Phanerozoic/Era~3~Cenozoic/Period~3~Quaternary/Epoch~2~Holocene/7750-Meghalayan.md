@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 91.715 , 25.262222222 ] 
 aliases:
   - 7750-Meghalayan
 has_id_wikidata: Q55594589

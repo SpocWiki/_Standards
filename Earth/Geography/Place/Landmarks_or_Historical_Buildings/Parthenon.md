@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 23.726601 , 37.971527 ] 
 aliases:
   - Parthenon
 has_id_wikidata: Q10288

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 19.0 , 47.0 ] 
 aliases:
   - Hungary
   - Hungría

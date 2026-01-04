@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 7.771932047 , 48.594947947 ] 
 aliases:
   - Council of Europe
   - CoE

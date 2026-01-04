@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 32.0 , 15.0 ] 
 aliases:
   - Sudan
   - Sudan~North

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 43.0 , 33.0 ] 
 aliases:
   - Iraq
   - العراق

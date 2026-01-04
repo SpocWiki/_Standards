@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 11.0 , 65.0 ] 
 aliases:
   - Norway
   - Noruega

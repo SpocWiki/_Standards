@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 11.305555555 , 54.575833333 ] 
 aliases:
   - Fehmarn Belt fixed link
   - Femern Bælt-forbindelsen

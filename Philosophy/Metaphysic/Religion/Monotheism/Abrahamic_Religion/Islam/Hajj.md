@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 39.826166666 , 21.4225 ] 
 aliases:
   - Hadj
   - Hadsch

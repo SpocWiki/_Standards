@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 34.143333333 , 44.467777777 ] 
 aliases:
   - Yalta Conference
   - Jalta Konferenz

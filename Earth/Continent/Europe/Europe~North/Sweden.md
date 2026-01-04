@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.0 , 61.0 ] 
 aliases:
   - Sweden
   - Suecia

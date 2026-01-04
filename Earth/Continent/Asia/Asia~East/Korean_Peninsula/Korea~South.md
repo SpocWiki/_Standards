@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 128.0 , 36.0 ] 
 aliases:
   - South-Korea
   - Korea-Republic

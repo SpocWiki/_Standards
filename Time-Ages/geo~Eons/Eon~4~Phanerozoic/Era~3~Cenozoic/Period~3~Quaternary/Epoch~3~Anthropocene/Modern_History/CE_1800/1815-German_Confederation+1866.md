@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 8.675 , 50.108 ] 
 aliases:
   - German Confederation
   - 1815-German_Confederation+1866

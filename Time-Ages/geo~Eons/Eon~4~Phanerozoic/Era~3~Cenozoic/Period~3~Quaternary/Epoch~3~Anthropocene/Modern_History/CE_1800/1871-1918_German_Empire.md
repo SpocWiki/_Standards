@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.376111111 , 52.518611111 ] 
 aliases:
   - German Empire
   - Deutsche Reich

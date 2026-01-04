@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.466667 , 45.25 ] 
 aliases:
   - Croatia
   - Croacia

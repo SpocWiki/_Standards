@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 144.8 , 13.5 ] 
 aliases:
   - Guam
   - غوام

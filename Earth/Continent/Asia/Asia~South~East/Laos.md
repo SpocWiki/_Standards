@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 104.1 , 18.2 ] 
 aliases:
   - Laos
   - Lao People's Democratic Republic

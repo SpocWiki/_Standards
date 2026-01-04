@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 37.576903 , 55.75343 ] 
 aliases:
   - Council for Mutual Economic Assistance
   - COMECON

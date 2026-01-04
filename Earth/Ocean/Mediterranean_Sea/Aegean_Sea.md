@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.3 , 38.5 ] 
 aliases:
   - Aegean_Sea
   - Aegean Sea

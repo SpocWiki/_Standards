@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 23.0 , 38.5 ] 
 aliases:
   - Ancient Greece
   - -1200-Ancient_Greece+0600

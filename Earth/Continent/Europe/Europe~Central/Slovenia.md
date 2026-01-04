@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.0 , 46.0 ] 
 aliases:
   - Slovenia
   - Eslovenia

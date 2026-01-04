@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.09 , 46.12 ] 
 aliases:
   - World Trade Organization
   - World_Trade_Organization

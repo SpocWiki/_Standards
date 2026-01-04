@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 7.42 , 43.731111111 ] 
 aliases:
   - Monaco
   - Mónaco

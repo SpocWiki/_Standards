@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 29.0 , 41.0 ] 
 aliases:
   - Ottoman Empire
   - 1300-Ottoman_Empire-1922

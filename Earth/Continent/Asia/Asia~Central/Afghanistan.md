@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 66.0 , 33.0 ] 
 aliases:
   - Afghanistan
   - Afganistán

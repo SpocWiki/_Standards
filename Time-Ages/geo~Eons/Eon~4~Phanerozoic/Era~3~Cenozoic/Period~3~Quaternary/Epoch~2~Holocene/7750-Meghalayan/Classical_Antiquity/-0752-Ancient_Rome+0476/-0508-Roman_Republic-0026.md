@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.5 , 41.9 ] 
 aliases:
   - Roman Republic
   - Roman_Republic

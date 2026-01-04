@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 19.93333333 , 50.05 ] 
 aliases:
   - 'Polish–Lithuanian Commonwealth, also referred to as Poland–Lithuania or the First Polish Republic (Polish: I Rzeczpospolita'
   - 1569-Polish–Lithuanian_Commonwealth-1795

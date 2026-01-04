@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 105.0 , 46.0 ] 
 aliases:
   - Mongolia
   - Mongolie

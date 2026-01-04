@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.0 , 48.0 ] 
 aliases:
   - Austria
   - Autriche

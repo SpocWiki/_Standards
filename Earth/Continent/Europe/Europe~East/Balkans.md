@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 22.0 , 42.0 ] 
 aliases:
   - Balkans
   - Balkan

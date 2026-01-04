@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.0 , 42.0 ] 
 aliases:
   - Georgia,Europe
 has_id_wikidata: Q230

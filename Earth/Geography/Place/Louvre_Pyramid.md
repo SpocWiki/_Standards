@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.335861111 , 48.861 ] 
 aliases:
   - Louvre Pyramid
   - Louvre_Pyramid

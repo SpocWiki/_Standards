@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.7375 , 59.916111111 ] 
 aliases:
   - The_Scream
   - Skrik

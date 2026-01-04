@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 33.83 , 17.18 ] 
 aliases:
   - Kushite Empire
   - Kush

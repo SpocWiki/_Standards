@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 71.366667 , 38.583333 ] 
 aliases:
   - Tajikistan
   - Tayikistán

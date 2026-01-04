@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 45.0 , 28.0 ] 
 aliases:
 has_id_wikidata: Q7204
 instance_of:

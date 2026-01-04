@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.389 , 52.052 ] 
 aliases:
   - German Democratic Republic
   - 1949-German_Democratic_Republic+1990

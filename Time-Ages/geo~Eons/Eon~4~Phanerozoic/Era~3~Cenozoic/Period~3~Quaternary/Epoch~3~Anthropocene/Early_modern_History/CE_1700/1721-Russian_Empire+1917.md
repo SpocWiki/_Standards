@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 70.1167 , 58.65 ] 
 aliases:
 has_id_wikidata: Q34266
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bogatyr%20banner.jpg

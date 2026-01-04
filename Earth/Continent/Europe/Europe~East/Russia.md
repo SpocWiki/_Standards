@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 94.25 , 66.416666666 ] 
 aliases:
   - Russia
   - Russian

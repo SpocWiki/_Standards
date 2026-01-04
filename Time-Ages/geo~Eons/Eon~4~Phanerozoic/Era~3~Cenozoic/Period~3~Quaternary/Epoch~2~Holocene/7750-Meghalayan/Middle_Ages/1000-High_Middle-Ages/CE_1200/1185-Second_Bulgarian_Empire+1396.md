@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.65 , 43.06666667 ] 
 aliases:
   - Second Bulgarian Empire
   - Ц(а)рьство бл(ъ)гарское

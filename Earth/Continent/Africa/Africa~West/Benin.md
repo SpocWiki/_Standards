@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.183333333 , 8.833333333 ] 
 aliases:
   - Benin
   - Bénin

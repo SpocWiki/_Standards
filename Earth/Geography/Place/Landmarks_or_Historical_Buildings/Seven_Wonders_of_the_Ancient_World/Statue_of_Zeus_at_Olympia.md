@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 21.63 , 37.637861111 ] 
 aliases:
 has_id_wikidata: Q46239
 made_from_material:

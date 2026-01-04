@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.6 , 0.316667 ] 
 aliases:
   - Democratic Republic of São Tomé and Príncipe
   - São Tomé and Príncipe

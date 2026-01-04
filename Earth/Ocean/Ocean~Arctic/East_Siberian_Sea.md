@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 163.0 , 72.0 ] 
 aliases:
   - East Siberian Sea
   - East_Siberian_Sea

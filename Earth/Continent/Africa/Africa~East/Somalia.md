@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 47.0 , 6.0 ] 
 aliases:
   - Somalia
   - Somalie

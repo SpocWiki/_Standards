@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.749441807 , 47.557488542 ] 
 aliases:
   - Neuschwanstein Castle
   - Neuschwanstein_Castle

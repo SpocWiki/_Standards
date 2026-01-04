@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 71.0 , 30.0 ] 
 aliases:
   - Pakistan
   - Pakistán

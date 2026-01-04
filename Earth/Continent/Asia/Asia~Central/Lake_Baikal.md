@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 108.00472222 , 53.30277778 ] 
 aliases:
   - Lake Baikal
   - Lake_Baikal

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 32.0 , 49.0 ] 
 aliases:
   - Ukrainian Famine
   - 1932-Holodomor-1933

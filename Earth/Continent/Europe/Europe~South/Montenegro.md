@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 19.216667 , 42.766667 ] 
 aliases:
   - Montenegro
   - Monténégro

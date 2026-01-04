@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 35.201666666 , 31.896944444 ] 
 aliases:
   - ': رام الله, romanized: Rām Allāh'
   - Ramallah

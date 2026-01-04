@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 47.6 , 29.166667 ] 
 aliases:
   - Kuwait
   - Koweït

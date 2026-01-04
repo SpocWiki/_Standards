@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 18.0 , 35.0 ] 
 aliases:
 has_id_wikidata: Q696817
 instance_of: "[[_Standards/WikiData/WD~theater_of_war,718893]]"

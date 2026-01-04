@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 105.0 , 12.5 ] 
 aliases:
   - Cambodia
   - Camboya

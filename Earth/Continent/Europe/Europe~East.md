@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 31.0 , 49.0 ] 
 aliases:
   - East Europe
   - Eastern Europe

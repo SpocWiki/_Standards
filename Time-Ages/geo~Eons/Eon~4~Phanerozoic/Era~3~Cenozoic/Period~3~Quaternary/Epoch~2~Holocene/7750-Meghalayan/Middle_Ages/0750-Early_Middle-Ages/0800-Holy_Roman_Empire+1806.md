@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.42215841 , 50.091352242 ] 
 aliases:
   - Holy Roman Empire
   - Holy Roman Empire of the German Nation

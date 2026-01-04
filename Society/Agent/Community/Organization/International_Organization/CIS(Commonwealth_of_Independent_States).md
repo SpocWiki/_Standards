@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 102.8 , 60.5 ] 
 aliases:
   - Commonwealth of Independent States
   - CIS(Commonwealth_of_Independent_States)

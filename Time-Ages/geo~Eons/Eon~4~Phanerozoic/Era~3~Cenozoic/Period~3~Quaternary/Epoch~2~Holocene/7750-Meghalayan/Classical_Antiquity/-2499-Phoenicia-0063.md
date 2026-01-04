@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 35.65 , 34.116667 ] 
 aliases:
 has_id_wikidata: Q41642
 basic_form_of_government:

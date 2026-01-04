@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 111.00367 , 30.82386 ] 
 aliases:
   - Three Gorges Dam
   - ': 三峡大坝; traditional Chinese: 三峽大壩; pinyin: Sānxiá Dàbà'

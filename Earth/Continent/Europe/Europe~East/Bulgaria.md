@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.5 , 42.75 ] 
 aliases:
   - Bulgaria
   - Bulgarie

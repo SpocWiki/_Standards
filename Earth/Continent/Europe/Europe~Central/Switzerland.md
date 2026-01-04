@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 8.231973 , 46.798562 ] 
 aliases:
   - Switzerland
   - Suiza

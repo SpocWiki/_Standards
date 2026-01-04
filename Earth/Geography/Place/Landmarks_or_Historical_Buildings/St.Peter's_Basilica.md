@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.453416666 , 41.902222222 ] 
 aliases:
   - St. Peter's Basilica
   - St._Peter's_Basilica

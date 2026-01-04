@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 136.0 , 35.0 ] 
 aliases:
   - Japan
   - Japón

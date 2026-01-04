@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 60.0 , 39.0 ] 
 aliases:
   - Turkmenistan
   - Turkmenistán

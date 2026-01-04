@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 48.0 , 15.5 ] 
 aliases:
   - Yemen
   - Yemen~Republic

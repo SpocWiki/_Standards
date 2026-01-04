@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 4.485277777 , 52.156944444 ] 
 aliases:
   - Leiden University
   - Universiteit Leiden

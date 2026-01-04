@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.492222222 , 41.890277777 ] 
 aliases:
   - Colosseum
 has_id_wikidata: Q10285

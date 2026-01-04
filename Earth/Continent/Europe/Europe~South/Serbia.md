@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 20.933333333 , 43.95 ] 
 aliases:
   - Serbia
   - Serbie

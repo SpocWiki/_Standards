@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.0 , 38.0 ] 
 aliases:
   - Qing Dynasty
   - 1636-Qing_Dynasty

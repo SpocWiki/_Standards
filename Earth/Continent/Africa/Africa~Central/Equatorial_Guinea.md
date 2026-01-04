@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 1.5 ] 
 aliases:
   - Equatorial Guinea
   - Guinea Ecuatorial

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 57.0 , 21.0 ] 
 aliases:
   - Oman
   - Omán

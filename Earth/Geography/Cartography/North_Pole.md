@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 0.0 , 90.0 ] 
 aliases:
   - North Pole
   - North_Pole

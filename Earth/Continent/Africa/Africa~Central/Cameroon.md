@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.65 , 5.133333333 ] 
 aliases:
   - Cameroon
   - Camerún

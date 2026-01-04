@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 33.0 , 35.0 ] 
 aliases:
   - Cyprus
   - Chipre

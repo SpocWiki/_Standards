@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.13 , 49.77 ] 
 aliases:
   - Luxembourg
   - Luxemburgo

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.116667 , 23.716667 ] 
 aliases:
   - Saudi Arabia
   - Arabia Saudita

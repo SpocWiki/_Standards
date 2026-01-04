@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 54.3 , 24.4 ] 
 aliases:
   - United Arab Emirates
   - UAE

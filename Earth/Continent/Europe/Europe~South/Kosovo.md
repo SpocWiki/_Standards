@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 20.833333333 , 42.55 ] 
 aliases:
   - Kosovo
 has_id_wikidata: Q1246

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 134.55 , 7.466667 ] 
 aliases:
   - Palau
   - Palaos

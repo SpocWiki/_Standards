@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 84.0 , 29.0 ] 
 aliases:
   - Himalayas
   - Himalaya

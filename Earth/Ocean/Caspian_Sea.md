@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 50.5 , 42.0 ] 
 aliases:
   - Caspian Sea
   - Caspian_Sea

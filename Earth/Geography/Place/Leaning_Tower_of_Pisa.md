@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.396624 , 43.72301 ] 
 aliases:
   - Leaning Tower of Pisa
   - Leaning_Tower_of_Pisa

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 22.0 , 42.0 ] 
 aliases:
 has_id_wikidata: Q698985
 instance_of: "[[_Standards/WikiData/WD~series_of_wars,104212151]]"

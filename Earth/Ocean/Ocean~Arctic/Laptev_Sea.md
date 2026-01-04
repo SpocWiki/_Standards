@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 125.0 , 76.0 ] 
 aliases:
   - Laptev Sea
   - Nordenskiöld Sea

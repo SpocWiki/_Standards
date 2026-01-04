@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.0 , 22.0 ] 
 aliases:
 has_id_wikidata: Q23406
 Commons_gallery: Red Sea

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.379722222 , 52.511111111 ] 
 aliases:
   - Nazi Germany
   - 1933-Nazi_Germany+1945

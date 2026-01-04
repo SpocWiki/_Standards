@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 30.0 , 30.0 ] 
 aliases:
 has_id_wikidata: Q180568
 capital:

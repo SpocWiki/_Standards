@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 36.5 , 31.2 ] 
 aliases:
   - Jordan
   - Jordania

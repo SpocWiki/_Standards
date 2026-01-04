@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 20.0 , 58.0 ] 
 aliases:
   - Baltic_Sea
   - Baltic Sea

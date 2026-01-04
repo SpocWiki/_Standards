@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 84.0 , 28.0 ] 
 aliases:
   - Nepal
   - Népal

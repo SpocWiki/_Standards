@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 98.25 , 79.75 ] 
 aliases:
   - 'Severnaya Zemlya** (Russian: Северная Земля'
   - Severnaya_Zemlya

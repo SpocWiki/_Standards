@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.95 , 40.383333 ] 
 aliases:
   - Armenia
   - Arménie

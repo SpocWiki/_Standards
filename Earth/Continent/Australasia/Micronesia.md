@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Micronesia
 has_id_wikidata: Q702

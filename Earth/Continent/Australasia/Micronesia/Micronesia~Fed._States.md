@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Federated_States_of_Micronesia
   - Federated States of Micronesia

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 80.0 , 50.0 ] 
 aliases:
   - Eurasien
   - Eurasia

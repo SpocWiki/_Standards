@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 51.0 ] 
 aliases:
   - Deutschland
   - DEU

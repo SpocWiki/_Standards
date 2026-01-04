@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 28.98 , 41.008333333 ] 
 aliases:
   - Hagia Sophia
   - Hagia_Sophia

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 32.39 , 1.28 ] 
 aliases:
   - Uganda
   - Ouganda

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.476944444 , 41.898611111 ] 
 aliases:
   - Pantheon
   - Pantheon,Rome

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 10.0 , 17.0 ] 
 aliases:
   - Niger
   - Níger

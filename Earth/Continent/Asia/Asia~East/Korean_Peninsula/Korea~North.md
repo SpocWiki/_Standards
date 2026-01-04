@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 127.0 , 40.0 ] 
 aliases:
   - North-Korea
   - Korea~Dem-Rep

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 60.0 , 52.0 ] 
 aliases:
   - Golden Horde
   - Ulug Ulus

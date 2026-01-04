@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 19.0 , 52.0 ] 
 aliases:
   - Poland
   - Polonia

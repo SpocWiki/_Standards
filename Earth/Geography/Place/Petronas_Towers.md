@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 101.711666666 , 3.157777777 ] 
 aliases:
   - Petronas Towers
   - Petronas Twin Towers

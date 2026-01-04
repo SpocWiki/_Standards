@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 9.14062 , 48.690959 ] 
 aliases:
   - European Nations' Cup
   - UEFA_European_Championship

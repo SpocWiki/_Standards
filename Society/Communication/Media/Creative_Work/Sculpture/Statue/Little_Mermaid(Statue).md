@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.59926 , 55.69286 ] 
 aliases:
   - The_Little_Mermaid
   - Den lille Havfrue

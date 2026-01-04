@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 17.0 , 27.0 ] 
 aliases:
   - Libya
   - Libia

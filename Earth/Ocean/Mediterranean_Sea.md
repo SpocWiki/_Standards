@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 17.0 , 38.0 ] 
 aliases:
   - Mediterranean Sea
   - Mediterranean_Sea

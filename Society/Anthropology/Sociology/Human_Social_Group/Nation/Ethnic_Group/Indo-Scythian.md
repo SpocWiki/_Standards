@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 74.48 , 28.49 ] 
 aliases:
   - Indo-Scythians
   - Indo-Sakas

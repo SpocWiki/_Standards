@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 1.45 , 51.01667 ] 
 aliases:
   - Kanal-Tunnel
   - Tunnel sous la Manche

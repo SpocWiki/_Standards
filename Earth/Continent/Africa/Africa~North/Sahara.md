@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.612222222 , 23.079722222 ] 
 aliases:
   - Sahara Desert
   - Sahara

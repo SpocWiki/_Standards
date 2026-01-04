@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 102.314361666 , 3.7805111 ] 
 aliases:
   - Malaysia
   - Malasia

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 7.923964 , 45.09461 ] 
 aliases:
   - Proterozoic
   - Протерозой
