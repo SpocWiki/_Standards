@@ -37,7 +37,19 @@ Commons_category: Empires
 #is_/same_as :: [[../../../../WikiData/WD~Empire,48349|WD~Empire,48349]] 
 
 Geographically extensive group of states and peoples 
-united and ruled either by a central authority or a central figure
+united and ruled either by a central authority or a central figure. 
+
+The first known Empire was the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-2334-Akkadian_Empire-2154|Akkadian_Empire]] from ca. -2334 BC. 
+
+The imperial Idea is attractive, 
+because it is much easier to suppress your own population that other populations. 
+
+Empires are formed by several Forces: 
+- [[../../../Military|Military]] 
+- [[../../../../Philosophy/Metaphysic/Religion/Monotheism|Monotheism]] 
+- [[../../../Economics|Economics]] 
+
+
 
 ## #has_/text_of_/abstract 
 

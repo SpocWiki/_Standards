@@ -20,6 +20,7 @@ subclass_of: '[[_Standards/WikiData/WD~world_view,49447]]'
 # [[Ideology]] 
 
 #is_/same_as :: [[../WikiData/WD~Ideology,7257|WD~Ideology,7257]] 
+#is_/similar_to :: [[../Philosophy/Metaphysic/Religion|Religion]] 
 
 ## #has_/text_of_/abstract 
 

@@ -30,6 +30,14 @@ Colon_Classification: S:47
 #is_/similar_to :: [[Claim]] 
 #is_/different_from ::  [[../Statement|Statement]]  
 #is_/same_as :: [[WD~Opinion,3962655]] 
+#is_/less_than :: [[../../../../../Philosophy/Epistemology/Truth/Belief|Belief]]  
+
+| Aspect                            | Belief | Opinion |
+| --------------------------------- | -----: | ------: |
+| Average confidence level/%        |     80 |      55 |
+| Typical stability duration/months |     60 |       6 |
+| Change rate after new evidence/%  |     35 |      55 |
+| Behavioral influence share/%      |     70 |      30 |
 
 ## #has_/text_of_/abstract 
 

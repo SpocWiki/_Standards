@@ -36,7 +36,7 @@ MeSH_tree_code: K01.752.667.400
 
 > In philosophy, **Empiricism** is an epistemological view which holds 
 > that true knowledge or justification comes only or primarily from sensory experience and empirical evidence. 
-> It is one of several competing views within [[../Epistemology|epistemology]], along with [[rationalism]] and [[skepticism]]. 
+> It is one of several competing views within [[../Epistemology|epistemology]], along with [[rationalism]] and [[Truth/Skepticism]]. 
 > 
 > Empiricists argue that empiricism is a more reliable method of finding the truth than purely using logical reasoning, because humans have cognitive biases and limitations which lead to errors of judgement. Empiricism emphasizes the central role of empirical evidence in the formation of ideas, rather than innate ideas or traditions. Empiricists may argue that traditions (or customs) arise due to relations of previous sensory experiences. 
 >

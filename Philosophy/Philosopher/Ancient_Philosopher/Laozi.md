@@ -77,7 +77,7 @@ temple_name: 聖祖
 
 # [[Laozi]] 
 
-#has_/created :: [[../../Metaphysic/Religion/Taoism|Taoism]] 
+#has_/created :: [[../../Metaphysic/Religion/Nontheism/Natural_Law_Religion/Taoism|Taoism]] 
 #is_/same_as :: [[../../../WikiData/WD~Laozi,9333|WD~Laozi,9333]] 
 
 ## #has_/text_of_/abstract 
