@@ -17,6 +17,7 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Wallerstein%27s%20
 ---
 
 #has_/next_/item :: [[Capitalism|Capitalism]] 
+#is_/similar_to :: [[Zero-Sum_Game]] 
 
 ## #has_/text_of_/abstract 
 
