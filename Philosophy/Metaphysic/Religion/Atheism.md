@@ -1,14 +1,20 @@
+---
+aliases:
+  - Nontheism
+---
 
 # [[Atheism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Atheism,7066|WD~Atheism,7066]] 
-#is_/different_from :: [[Antitheism]] 
+#is_/different_from :: [[Nontheism/Antitheism]] 
+#is_/opposite_of :: [[Theism]] 
 
 ## #has_/text_of_/abstract 
 
 > **Atheism**, in the broadest sense, is an absence of belief in the existence of deities. 
 > Less broadly, atheism is a rejection of the belief that any deities exist. 
 > In an even narrower sense, atheism is specifically the position that there are no deities. 
+> 
 > Atheism is contrasted with theism, which is the belief that at least one deity exists.
 >
 > Historically, evidence of atheistic viewpoints 

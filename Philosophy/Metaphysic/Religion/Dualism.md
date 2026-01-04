@@ -5,12 +5,12 @@ subclass_of:
   - "[[_Standards/WikiData/WD~concept,151885]]"
   - "[[_Standards/WikiData/WD~group_of_2,135268494]]"
 follows: "[[_Standards/WikiData/WD~monism,178801]]"
+followed_by: "[[_Standards/WikiData/WD~pluralism,879021]]"
 described_by_source:
   - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
   - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-followed_by: "[[_Standards/WikiData/WD~pluralism,879021]]"
 different_from:
   - "[[_Standards/WikiData/WD~dyad,5318387]]"
   - "[[_Standards/WikiData/WD~dichotomy,10361123]]"
@@ -26,6 +26,9 @@ Commons_category: Dualism
 
 # [[Dualism]] 
 
+
+#has_/prev_item :: [[Monism]] 
+#has_/next_/item ::  [[Pluralism]]  
 #is_/same_as :: [[../../../WikiData/WD~Dualism,167312|WD~Dualism,167312]] 
 
 ## #has_/text_of_/abstract 

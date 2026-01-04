@@ -2,6 +2,8 @@
 aliases:
   - Monotheismus
   - Monotheism
+  - monotheistisch
+  - monotheistic
 has_id_wikidata: Q9159
 has_part_s_:
   - '[[_Standards/WikiData/WD~monotheism_in_Islam,174495]]'
@@ -34,6 +36,21 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/MONOTEIZM.html
 
 #is_/opposite_of :: [[Polytheism]] 
 #is_/same_as :: [[WD~Monotheism,9159]] 
+
+Monotheistic Religions were the most fanatic in history. 
+They caused many [[../../../Society/Military/Military_Operation/Combat/War|War]]s, forced Conversions and [[Pogrom]]s. 
+These holy Wars and Persecutions caused many more deaths 
+than Christianity or Islam has Martyrs. 
+
+Many [[Polytheism]] Religions also have the idea of a single highest Power, 
+but this Power was usually disinterested in the Fate of the World. 
+Therefore people rather appealed to minor Gods. 
+
+But monotheistic Religions picked up many Ideas from other Forms of Religions, 
+also to appeal to other Populations: 
+- From [[Dualistic_Religion]] they picked up Concepts of the Devil, Heaven and Hell 
+	- unlik [[Monotheism/Abrahamic_Religion/Judaism|Judaism]], [[Monotheism/Abrahamic_Religion/Islam|Islam]] and [[Monotheism/Abrahamic_Religion/Christianity|Christianity]] picked up this idea from [[Dualistic_Religion/Zoroastrianism|Zoroastrianism]] 
+- [[Monotheism/Abrahamic_Religion/Christianity/Christian_Church/Catholic_Church/Catholicism|Catholicism]] adopted [[Saint]]s to pray and appeal to from [[Polytheism]]. 
 
 ## #has_/text_of_/abstract 
 

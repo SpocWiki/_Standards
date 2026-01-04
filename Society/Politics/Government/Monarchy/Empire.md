@@ -46,7 +46,7 @@ because it is much easier to suppress your own population that other populations
 
 Empires are formed by several Forces: 
 - [[../../../Military|Military]] 
-- [[../../../../Philosophy/Metaphysic/Religion|Religion]] 
+- [[../../../../Philosophy/Metaphysic/Religion/Monotheism|Monotheism]] 
 - [[../../../Economics|Economics]] 
 
 

@@ -99,8 +99,9 @@ Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/RELIGIYA.html
 # [[Religion]] 
 
 #is_/same_as :: [[../../WikiData/WD~Religion,9174|WD~Religion,9174]] 
+#is_/similar_to :: [[../../Society/Ideology|Ideology]]  
 
-Religions were codified rules to control the lives of people. 
+Religions were codified Maxims and Rules to control the lives of people. 
 They ruled behavior and tried to propagate beneficial behavior
 Monogamy prevents diseases and jealousy and arguments about inheritance.
 

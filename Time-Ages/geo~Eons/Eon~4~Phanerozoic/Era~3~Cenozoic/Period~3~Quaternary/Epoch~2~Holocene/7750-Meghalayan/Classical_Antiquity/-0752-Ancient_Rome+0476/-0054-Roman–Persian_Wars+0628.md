@@ -44,7 +44,7 @@ Commons_category: Persian-Roman wars
 > 
 > Despite nearly seven centuries of hostility, 
 > the Roman–Persian wars had an entirely inconclusive outcome, 
-> as both the Byzantines and the Sasanians were attacked by the [[../../../../../../../../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
+> as both the Byzantines and the Sasanians were attacked by the [[../../../../../../../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Islam/0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
 > as part of the early Muslim conquests.  
 > 
 > The Rashidun offensives resulted in the collapse of the Sasanian Empire 

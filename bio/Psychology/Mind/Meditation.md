@@ -32,14 +32,21 @@ GitHub_topic: meditation
 
 #is_/same_as :: [[WD~Meditation,108458]] 
 
+Meditation tries to clear the [[../Mind|Mind]] from [[../Affect/Emotion/Fear|Fear]], also [[Meditation/FOMO|FOMO]], [[../../../Philosophy/Ethics/Vice|Vice]]s and [[Desire]]s.  
+
 ## #has_/text_of_/abstract 
 
-> **Meditation** is a practice in which an individual uses a technique 
-> to train attention and awareness and detach from reflexive, "discursive thinking", 
+> **Meditation** is a practice in which an individual uses a technique to 
+> - train attention and awareness and 
+> - detach from reflexive, "discursive thinking", 
 > achieving a mentally clear and emotionally calm and stable state, 
 > while not judging the meditation process itself.
 >
-> Techniques are broadly classified into focused (or concentrative) and open monitoring methods. - Focused methods involve attention to specific objects like breath or mantras, 
+> Techniques are broadly classified into 
+> - focused (or concentrative) and 
+> - open monitoring methods. - 
+> 
+> Focused methods involve attention to specific objects like breath or mantras, 
 > - while open monitoring includes mindfulness and awareness of mental events.
 >
 > Meditation is practiced in numerous religious traditions, 

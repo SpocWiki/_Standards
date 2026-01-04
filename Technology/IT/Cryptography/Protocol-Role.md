@@ -5,7 +5,7 @@ In Science and [[../../Engineering|Engineering]] Literature a set of common Name
 | ----------------------------------------------------------------------- | ------------------------------------ | ---------------------------- | ---: | --: |
 | [[Alice]]                                                               | Legitimate **sender** or initiator   | Cryptographic protocols      | 1978 |  85 |
 | [[Bob]]                                                                 | Legitimate **receiver** or responder | Cryptographic protocols      | 1978 |  85 |
-| [[../../../Philosophy/Metaphysic/Religion/Abrahamic_Religion/Eve\|Eve]] | Passive eavesdropper                 | Threat modeling              | 1978 |  70 |
+| [[../../../Philosophy/Metaphysic/Religion/Monotheism/Abrahamic_Religion/Eve\|Eve]] | Passive eavesdropper                 | Threat modeling              | 1978 |  70 |
 | Trent                                                                   | **Trusted third party**              | Key management , arbitration | 1979 |  45 |
 | Carol                                                                   | Additional honest participant        | Multi-party protocols        | 1982 |  35 |
 | Dave                                                                    | Additional honest participant        | Multi-party protocols        | 1982 |  30 |
