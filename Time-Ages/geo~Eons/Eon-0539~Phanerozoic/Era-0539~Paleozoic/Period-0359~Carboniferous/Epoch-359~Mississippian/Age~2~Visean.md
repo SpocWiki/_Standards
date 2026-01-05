@@ -5,17 +5,47 @@ aliases:
   - Age~Visean
   - Middle_Mississippian
   - Middle Mississippian
+  - "{ newTitle: }":
 ischart: MiddleMississippian
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
-# [[Age~Visean]] 
+# [[Age~2~Visean]] 
 
 #is_a_/time_/Age 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] 
-#has_/next_/item :: [[../Epoch~3~Late_Mississippian/Age~Serpukhovian|Age~Serpukhovian]] 
+#has_/previous_/item :: [[Age~1~Tournaisian|Age~1~Tournaisian]] 
+#has_/next_/item :: [[Age~3~Serpukhovian|Age~3~Serpukhovian]] 
 
 A time period from 346.7 to 330.9 million years ago. 
 
@@ -81,7 +111,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~Visean|Age~Visean]] 
+### #is_/same_as :: [[Age~2~Visean|Age~Visean]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.public|Age~Visean.public]] 
 
@@ -95,3 +125,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~2~Middle_Mississippian/Age~Visean.secret|Age~Visean.secret]] 
 
+
+# [[Age~2~Visean]] 
+
+#is_/part_of :: [[Epoch~2~Middle_Mississippian]] 
+
+![[Age~2~Visean.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age~2~Visean.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

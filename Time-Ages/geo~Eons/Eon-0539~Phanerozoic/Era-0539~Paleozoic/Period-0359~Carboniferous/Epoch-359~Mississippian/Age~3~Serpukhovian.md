@@ -3,10 +3,40 @@ aliases:
   - Late_Mississippian
   - Late Mississippian
   - Serpukhovian
+  - "{ newTitle: }":
 ischart: UpperMississippian
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
 
-# [[Age~Serpukhovian]] 
+# [[Age~3~Serpukhovian]] 
 
 #is_a_/time_/Age 
 
@@ -14,8 +44,8 @@ A time period from 330.9 to 323.2 million years ago.
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] 
-#has_/next_/item :: [[../../Epoch-323~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
+#has_/previous_/item :: [[Age~2~Visean|Age~Visean]] 
+#has_/next_/item :: [[../Epoch-323~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -23,7 +53,7 @@ A time period from 330.9 to 323.2 million years ago.
 > The **Serpukhovian** is in the ICS geologic timescale the uppermost stage 
 > or youngest age of the Mississippian, the lower subsystem of the Carboniferous. 
 > The Serpukhovian age lasted from 330.9 Ma to 323.2 Ma. 
-> It is preceded by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] and is followed by the [[../../Epoch-323~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 
+> It is preceded by the [[Age~2~Visean|Age~Visean]] and is followed by the [[../Epoch-323~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]]. 
 > 
 > The Serpukhovian correlates with 
 > - the lower part of the Namurian Stage of European stratigraphy and 
@@ -76,7 +106,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~Serpukhovian|Age~Serpukhovian]] 
+### #is_/same_as :: [[Age~3~Serpukhovian|Age~3~Serpukhovian]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.public|Age~Serpukhovian.public]] 
 
@@ -90,3 +120,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~3~Late_Mississippian/Age~Serpukhovian.secret|Age~Serpukhovian.secret]] 
 
+
+# [[Age~3~Serpukhovian]] 
+
+#is_/part_of :: [[Epoch~3~Late_Mississippian]] 
+
+![[Age~3~Serpukhovian.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age~3~Serpukhovian.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
