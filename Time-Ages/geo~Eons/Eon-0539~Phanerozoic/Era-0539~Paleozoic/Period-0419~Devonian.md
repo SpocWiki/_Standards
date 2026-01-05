@@ -2,6 +2,18 @@
 aliases:
   - Devonian
   - Devon
+  - Девон
+  - Devónico
+  - Devoni
+  - Dévonien
+  - devon
+  - devoniano
+  - デボン紀
+  - Devonas
+  - Devoon
+  - Dewon
+  - devón
+  - 泥盆纪
 has_id_wikidata: Q65955
 named_by:
   - "[[_Standards/WikiData/WD~Adam_Sedgwick,350891]]"

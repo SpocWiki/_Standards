@@ -1,3 +1,34 @@
+---
+aliases:
+  - Guadalupian
+  - Гуадалуп
+  - Guadalup
+  - Guadalupien
+  - Guadalupium
+  - Guadalupiense
+  - Guadalupéen
+  - guadalupei
+  - guadalupiano
+  - ガダリューピアン世
+  - Gvadalupis
+  - Guadalupiën
+  - Gwadelup
+  - Guadalupiano
+  - guadalup
+  - guadalupij
+  - 瓜德鲁普世
+has_id_wikidata: Q1077376
+partially_coincident_with: "[[_Standards/WikiData/WD~Zechstein,184168]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Guadalupe_Mountains,5613246]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Guadalupian,21557529]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+sRGB_color_hex_triplet: FE8367
+start_time: -272950000-01-01T00:00:00Z
+end_time: -259100000-01-01T00:00:00Z
+---
 
 # [[Epoch-273~Guadalupian]] 
 
@@ -7,6 +38,7 @@
 
 #has_/previous_/item :: [[Epoch-298~Cisuralian]] 
 #has_/next_/item :: [[Epoch-259~Lopingian]] 
+#is_/same_as :: [[WD~Guadalupian,1077376]]  
 
 A time period from 273.01 to 259.51 million years ago. 
 
@@ -17,7 +49,7 @@ A time period from 273.01 to 259.51 million years ago.
 
 > The **Guadalupian** is the second and middle series/epoch of the Permian. The Guadalupian was preceded by the Cisuralian and followed by the Lopingian. It is named after the Guadalupe Mountains of New Mexico and Texas, and dates between 272.95 ± 0.5 – 259.1 ± 0.4 Mya. The series saw the rise of the therapsids, a minor extinction event called Olson's Extinction and a significant mass extinction called the end-Capitanian extinction event. The Guadalupian was previously known as the Middle Permian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Guadalupian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Guadalupian) 
 
 #has_/label_/bg  :: Гуадалуп
 #has_/label_/cs  :: Guadalup

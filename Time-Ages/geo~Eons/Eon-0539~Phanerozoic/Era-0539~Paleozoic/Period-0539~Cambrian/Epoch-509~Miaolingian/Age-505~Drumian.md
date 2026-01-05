@@ -1,3 +1,35 @@
+---
+aliases:
+  - Drumian
+  - Друм
+  - Drum
+  - Drumien
+  - Drumium
+  - Drumiense
+  - Drumi
+  - drumi
+  - drumiano
+  - ドルミアン期
+  - Drumis
+  - Drumiën
+  - Drumiano
+  - drum
+  - drumij
+  - 鼓山期
+has_id_wikidata: Q43712
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Drum_Mountains,14628892]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Drumian,30869626]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Drumian,134963433]]"
+start_time: -504500000-01-01T00:00:00Z
+coordinate_location: Point(-112.9915 39.5117)
+end_time: -500500000-01-01T00:00:00Z
+Commons_category: Drumian
+sRGB_color_hex_triplet: BFD99D
+---
 # [[Age-505~Drumian]] 
 
 #is_a_/time_/Age 
@@ -6,7 +38,7 @@
 
 #has_/previous_/item :: [[Age-509~Wuliuan]]   
 #has_/next_/item :: [[Age-501~Guzhangian]]   
-#is_/same_as :: [[WD~Drumian,]]
+#is_/same_as :: [[WD~Drumian,43712]] 
 
 A time period from 504.5 to 500.5 million years ago. 
 
@@ -18,7 +50,7 @@ A time period from 504.5 to 500.5 million years ago.
 >
 > The GSSP is defined in the Drumian section (39.5117°N 112.9915°W﻿ / 39.5117; -112.9915) in the Drum Mountains, Millard County, Utah, United States. The stage was also named after the Drum Mountains. The section is an outcrop of the Wheeler Formation, a succession of calcareous shales. The precise base of the Drumian is a laminated limestone 62 m (203 ft) above the base of the Wheeler Formation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Drumian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Drumian) 
 
 #has_/label_/bg  :: Друм
 #has_/label_/cs  :: Drum

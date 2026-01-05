@@ -4,7 +4,6 @@ aliases:
   - Миоцен
   - Miocén
   - Miocæn
-  - Miozän
   - Mioceno
   - Miotseen
   - Mioseeni
@@ -15,12 +14,8 @@ aliases:
   - Miocenas
   - Mioceen
   - Miocen
-  - Miocen
   - Miocénico
-  - miocén
   - miocen
-  - miocen
-  - 中新世
   - Epoch~1~Miocene
 ---
 

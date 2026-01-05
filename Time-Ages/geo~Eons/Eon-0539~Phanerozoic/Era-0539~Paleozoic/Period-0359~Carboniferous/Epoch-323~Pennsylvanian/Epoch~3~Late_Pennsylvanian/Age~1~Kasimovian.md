@@ -1,16 +1,48 @@
+---
+aliases:
+  - Kasimovian
+  - Каѿимов
+  - Kasimov
+  - Kasimovien
+  - Kasimovium
+  - Kasimoviense
+  - Kasimovi
+  - kaszimovi
+  - kasimoviano
+  - カシモビアン期
+  - Kasimovis
+  - Kasimoviën
+  - Kasimow
+  - Kasimoviano
+  - kasimov
+  - kasimovij
+  - 卡西莫夫期
+has_id_wikidata: Q545853
+named_after: "[[_Standards/WikiData/WD~Kasimov,145457]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Boris_Danshin,18274571]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Kasimovian,30869552]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -303700000-01-01T00:00:00Z
+start_time: -307000000-01-01T00:00:00Z
+Commons_category: Kasimovian
+sRGB_color_hex_triplet: BFD0C5
+---
 # [[Age~1~Kasimovian]] 
 
 #is_a_/time_/Age 
-
-A time period from 307.0 to 303.7 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
 #has_/next_/item :: [[Age~2~Gzhelian]] 
+#is_/same_as :: [[WD~Kasimovian,545853]] 
+
+A time period from 307.0 to 303.7 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Kasimovian** is a geochronologic age 
 > or chronostratigraphic stage in the ICS geologic timescale. 
@@ -24,7 +56,9 @@ A time period from 307.0 to 303.7 million years ago.
 > It roughly corresponds to the Missourian in North American geochronology 
 > and the Stephanian in western European geochronology.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kasimovian) 
+
+
 
 #has_/label_/bg  :: Каѿимов
 #has_/label_/cs  :: Kasimov

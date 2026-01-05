@@ -1,5 +1,25 @@
 ---
 aliases:
+  - Orosirian
+  - Риац
+  - Rhyak
+  - Rhyacien
+  - Rhyacium
+  - Ryaciense
+  - Rhyac
+  - Ryak
+  - rhyaci
+  - rhyaciano
+  - リヤシアン紀
+  - Riacis
+  - Rhyaciën
+  - Ryasium
+  - Riak
+  - Riaciano
+  - rhyacium
+  - rhyacij
+  - ryacium
+  - 层侵纪
 has_id_wikidata: Q870511
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

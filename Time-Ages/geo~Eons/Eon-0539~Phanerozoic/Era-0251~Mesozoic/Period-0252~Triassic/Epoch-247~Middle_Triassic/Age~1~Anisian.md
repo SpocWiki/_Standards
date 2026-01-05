@@ -1,13 +1,18 @@
+---
+aliases:
+  - Anisian
+---
 # [[Age~1~Anisian]] 
 
 #is_a_/time_/Age 
-
-A time period from 247.2 to 242 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch-252~Early_Triassic/Age~2~Olenekian|Age~2~Olenekian]] 
 #has_/next_/item :: [[Age~2~Ladinian]] 
+
+A time period from 247.2 to 242 million years ago. 
+
 
 ## #has_/text_of_/abstract 
 

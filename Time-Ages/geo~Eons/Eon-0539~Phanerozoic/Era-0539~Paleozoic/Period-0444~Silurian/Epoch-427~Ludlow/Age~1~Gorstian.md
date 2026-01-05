@@ -1,15 +1,50 @@
+---
+aliases:
+  - Gorstian
+  - Горѿт
+  - Gorst
+  - Gorstien
+  - Gorstium
+  - Gorstiense
+  - Gorsti
+  - gorsti
+  - gorstiano
+  - ゴースティアン期
+  - Gorstis
+  - Gorstiën
+  - Gorstiano
+  - gorst
+  - gorstij
+  - 格斯特期
+has_id_wikidata: Q752878
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+different_from: "[[_Standards/WikiData/WD~Gorst,3473536]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Gorstian,134636462]]"
+end_time: -427400000-01-01T00:00:00Z
+start_time: -427400000-01-01T00:00:00Z
+sRGB_color_hex_triplet: C3EAE6
+coordinate_location: Point(-2.7772 52.3592)
+---
 # [[Age~1~Gorstian]] 
 
 #is_a_/time_/Age 
-
-A time period from 427.4 to 425.6 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch-433~Wenlock/Age~2~Homerian|Age~2~Homerian]] 
 #has_/next_/item :: [[Age~2~Ludfordian]] 
+#is_/same_as :: [[WD~Gorstian,752878]] 
+
+A time period from 427.4 to 425.6 million years ago. 
 
 ## #has_/text_of_/abstract 
+
+> In the geologic timescale, the **Gorstian** is an age of the  Ludlow Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon that is comprehended between 426.7 ± 1.5 Ma and 425.0 ± 1.5 Ma (million years ago), approximately. The Gorstian Age succeeds the Homerian Age and precedes the Ludfordian Age. The age is named after Gorsty village southwest of Ludlow. The base of the age is marked by Saetograptus (Colonograptus) varians. The type section is located in a quarry in the Elton Formation at Pitch Coppice, Shropshire, United Kingdom.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Gorstian) 
 
 
 ischart::Gorstian

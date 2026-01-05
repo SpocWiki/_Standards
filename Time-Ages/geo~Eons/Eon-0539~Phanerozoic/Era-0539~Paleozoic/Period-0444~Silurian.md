@@ -2,6 +2,20 @@
 aliases:
   - Silurian
   - Silur
+  - Силур
+  - Silúrcio
+  - Siluuri
+  - Silurien
+  - szilur
+  - siluriano
+  - シルル紀
+  - Silūras
+  - Siluur
+  - Sylur
+  - Silúrico
+  - silúr
+  - silur
+  - 志留纪
 has_id_wikidata: Q62412
 named_by: "[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]"
 instance_of:

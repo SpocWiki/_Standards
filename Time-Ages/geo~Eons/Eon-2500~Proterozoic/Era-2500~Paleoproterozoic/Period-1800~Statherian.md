@@ -1,5 +1,23 @@
 ---
 aliases:
+  - Statherian
+  - Статер
+  - Stather
+  - Statherien
+  - Statherium
+  - Statheriense
+  - Stathérien
+  - statheri
+  - statheriano
+  - スタテリアン紀
+  - Stateris
+  - Statheriën
+  - Staterium
+  - Stater
+  - Stateriano
+  - staterium
+  - statherij
+  - 固结纪
 has_id_wikidata: Q684942
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

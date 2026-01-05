@@ -1,18 +1,54 @@
+---
+aliases:
+  - Ludfordian
+  - Лудфорд
+  - Ludford
+  - Ludfordien
+  - Ludfordium
+  - Ludfordiense
+  - Ludfordi
+  - ludfordi
+  - ludfordiano
+  - ルドフォーディアン期
+  - Lutfordis
+  - Ludfordiën
+  - Ludfordiano
+  - ludford
+  - ludfordij
+  - 卢德福德期
+has_id_wikidata: Q912190
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+different_from: "[[_Standards/WikiData/WD~Ludford,1211559]]"
+named_after: "[[_Standards/WikiData/WD~Ludford,6698748]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Ludfordian,134620402]]"
+start_time: -425600000-01-01T00:00:00Z
+coordinate_location: Point(-2.77722222 52.35916667)
+sRGB_color_hex_triplet: D4EEE6
+end_time: -423000000-01-01T00:00:00Z
+---
 # [[Age~2~Ludfordian]] 
 
 #is_a_/time_/Age 
-
-A time period from 425.6 to 423.0 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Gorstian]] 
 #has_/next_/item :: [[../../Period-0419~Devonian/Epoch-419~Early_Devonian/Age~1~Lochkovian|Age~1~Lochkovian]] 
+#is_/same_as :: [[WD~Ludfordian,912190]] 
+
+A time period from 425.6 to 423.0 million years ago. 
 
 ## #has_/text_of_/abstract 
 
+> In the geologic timescale, the **Ludfordian** is the upper of two chronostratigraphic stages within the Ludlow Series. Its age is the late Silurian Period, and within both the Palaeozoic Era and Phanerozoic Eon. The rocks assigned to the Ludfordian date to between 425.0 ± 1.5 Ma and 422.7 ± 1.6 Ma (million years ago). The Ludfordian Stage succeeds the Gorstian Stage and precedes the Pridoli Epoch. It is named for the village of Ludford in Shropshire, England. The GSSP for the Ludfordian is represented as a thin shale seam, coincident with the base of the Leintwardine Formation, overlying the Bringewood Formation in England.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludfordian)  
 
-ischart::Ludfordian
+
+ischart::Ludfordian 
 
 #has_/label_/bg  :: Лудфорд
 #has_/label_/cs  :: Ludford

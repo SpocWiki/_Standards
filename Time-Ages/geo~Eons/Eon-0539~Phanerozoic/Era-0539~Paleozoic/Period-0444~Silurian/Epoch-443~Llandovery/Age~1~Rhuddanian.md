@@ -1,20 +1,53 @@
+---
+aliases:
+  - Rhuddanian
+  - Рудан
+  - Rhuddan
+  - Rhuddanien
+  - Rhuddanium
+  - Rhuddaniense
+  - Rhuddani
+  - rhuddani
+  - rhuddaniano
+  - ルダニアン期
+  - Rudanis
+  - Rhuddaniën
+  - Rudaniano
+  - rhuddan
+  - rhuddanij
+  - 鲁丹期
+has_id_wikidata: Q260369
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
+named_after: "[[_Standards/WikiData/WD~Cwm_Rhuddan,29505497]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+follows: "[[_Standards/WikiData/WD~Cincinnatian,131749698]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Rhuddanian,134711803]]"
+end_time: -440800000-01-01T00:00:00Z
+coordinate_location: Point(-3.27 55.44)
+start_time: -443800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 93DBC6
+---
 # [[Age~1~Rhuddanian]] 
 
 #is_a_/time_/Age 
-
-A time period from 443.8 to 440.8 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../Period-0485~Ordovician/Epoch-458~Late_Ordovician/Age-445~Hirnantian|Age-445~Hirnantian]] 
 #has_/next_/item :: [[Age~2~Aeronian]] 
+#is_/same_as :: [[WD~Rhuddanian,260369]]  
+
+A time period from 443.8 to 440.8 million years ago. 
 
 ## #has_/text_of_/abstract 
 
-
 > In the geologic timescale, the **Rhuddanian** is the first age of the Silurian Period and of the Llandovery Epoch. The Silurian is in the Paleozoic Era of the Phanerozoic Eon. The Rhuddanian Age began 443.8 ± 1.5 Ma and ended 440.8 ± 1.2 Ma (million years ago). It succeeds the Himantian Age (the last age of the Ordovician Period) and precedes the Aeronian Age.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rhuddanian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rhuddanian)  
+
 
 #has_/label_/bg  :: Рудан
 #has_/label_/cs  :: Rhuddan

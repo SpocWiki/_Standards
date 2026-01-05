@@ -1,8 +1,39 @@
 ---
 aliases:
-  - Epoch~1~Early_Devonian
-  - Epoch~1~Early Devonian
+  - Early_Devonian
+  - Early Devonian
+  - Ранен Девон
+  - brzy devon
+  - Tidlig Devon
+  - Frühes Devon
+  - Devónico temprano
+  - Vara-Devon
+  - Varhais-Devoni
+  - Dévonien précoce
+  - kora-devon
+  - devoniano precoce
+  - デボン紀前期
+  - Ankstyvasis Devonas
+  - Vroeg Devoon
+  - Tidlig devon
+  - Wczesny Dewon
+  - Devoniano primitivo
+  - raný devón
+  - zgodnji devon
+  - äldre devon
+  - 早泥盆世
 ischart: LowerDevonian
+has_id_wikidata: Q731293
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q32104229,32104229]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -393300000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Devon,23156]]"
+start_time: -419200000-01-01T00:00:00Z
+sRGB_color_hex_triplet: EFB063
+Dewey_Decimal_Classification: "551.74"
 ---
 
 # [[Epoch-419~Early_Devonian]] 
@@ -13,6 +44,7 @@ ischart: LowerDevonian
 
 #has_/previous_/item :: [[../Period-0444~Silurian/Epoch-423~Pridoli|Epoch-423~Pridoli]]  
 #has_/next_/item :: [[Epoch-393~Middle_Devonian]] 
+#is_/same_as :: [[WD~Early_Devonian,731293]] 
 
 A time period from 419.2 to 393.3 million years ago. 
 
@@ -24,7 +56,8 @@ A time period from 419.2 to 393.3 million years ago.
 >
 > During this time, the first ammonoids appeared, descending from bactritoid nautiloids. Ammonoids during this time period were simple and differed little from their nautiloid counterparts. These ammonoids belong to the order Agoniatitida, which in later epochs evolved to new ammonoid orders, for example Goniatitida and Clymeniida. This class of cephalopod molluscs would dominate the marine fauna until the beginning of the Mesozoic Era.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Devonian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Devonian)  
+
 
 #has_/label_/bg  :: Ранен Девон
 #has_/label_/cs  :: brzy devon

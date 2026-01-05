@@ -1,22 +1,59 @@
+---
+aliases:
+  - Gzhelian
+  - Гжел
+  - Gzhel
+  - Gzhelien
+  - Gzhelium
+  - Gzeliense
+  - Gzheli
+  - Gzhel
+  - Gzhélien
+  - gzseli
+  - gzheliano
+  - グゼリアン期
+  - Gželis
+  - Gzheliën
+  - Gzhelium
+  - Gżel
+  - Gzeliano
+  - gžel
+  - gželij
+  - gzhel
+  - 格热尔期
+has_id_wikidata: Q1030848
+named_after: "[[_Standards/WikiData/WD~Gzhel,221858]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gzhelian,30869548]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -303700000-01-01T00:00:00Z
+end_time: -298900000-01-01T00:00:00Z
+sRGB_color_hex_triplet: CCD4C7
+Commons_category: Gzhelian
+---
 # [[Age~2~Gzhelian]] 
 
 #is_a_/time_/Age 
-
-A time period from 303.7 to 298.9 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Kasimovian]] 
 #has_/next_/item :: [[../../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
+#is_/same_as :: [[WD~Gzhelian,1030848]] 
+
+A time period from 303.7 to 298.9 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Gzhelian** ( ZHELL-ee-ən) is an age in the ICS geologic timescale or a stage in the stratigraphic column. It is the youngest stage of the Pennsylvanian, the youngest subsystem of the Carboniferous. The Gzhelian lasted from 303.7 to 298.9 Ma. It follows the [[Age~1~Kasimovian]] and is followed by the [[../../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] age/stage, the oldest subdivision of the Permian system.
 >
 > The Gzhelian is more or less coeval with the Stephanian Stage of the regional stratigraphy of Europe.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Gzhelian)  
+
 
 #has_/label_/bg  :: Гжел
 #has_/label_/cs  :: Gzhel

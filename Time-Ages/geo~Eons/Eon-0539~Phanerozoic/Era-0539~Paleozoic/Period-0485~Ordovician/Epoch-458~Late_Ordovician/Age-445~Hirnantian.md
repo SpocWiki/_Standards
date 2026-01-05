@@ -1,3 +1,36 @@
+---
+aliases:
+  - Hirnantian
+  - Хирнант
+  - Hirnant
+  - Hirnantien
+  - Hirnantium
+  - Hirnantiense
+  - Hirnantia
+  - hirnanti
+  - hirnantiano
+  - ヒルナンティアン期
+  - Hirnantis
+  - Hirnantiën
+  - Hirnatium
+  - Hirnantiano
+  - hirnant
+  - hirnantij
+  - 赫南特期
+has_id_wikidata: Q583151
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Cwm_Hirnant,24641548]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Hirnantian,30869524]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+named_by: "[[_Standards/WikiData/WD~B._B._Bancroft,134720161]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Hirnantian,134721250]]"
+end_time: -443800000-01-01T00:00:00Z
+coordinate_location: Point(111.41944444 30.98222222)
+start_time: -445200000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 95DABC
+---
 
 # [[Age-445~Hirnantian]] 
 
@@ -7,6 +40,7 @@
 
 #has_/previous_/item :: [[Age-453~Katian]] 
 #has_/next_/item :: [[../../Period-0444~Silurian/Epoch-443~Llandovery/Age~1~Rhuddanian|Age~1~Rhuddanian]] 
+#is_/same_as :: [[WD~Hirnantian,583151]]  
 
 A time period from 445.2 to 443.8 million years ago. 
 
@@ -15,12 +49,12 @@ A time period from 445.2 to 443.8 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Hirnantian** is the final internationally recognized stage of the Ordovician Period of the Paleozoic Era. It was of short duration, lasting about 1.4 million years, from 445.2 to 443.8 Ma (million years ago). The early part of the Hirnantian was characterized by cold temperatures, major glaciation, and a severe drop in sea level. In the latter part of the Hirnantian, temperatures rose, the glaciers melted, and sea level returned to the same or to a slightly higher level than it had been prior to the glaciation.
 >
 > Most scientists believe that this climatic oscillation caused the major extinction event that took place during this time. In fact, the Hirnantian (also known as the End Ordovician and the Ordovician-Silurian) mass extinction event represents the second largest such event in geologic history. Approximately 85% of marine (sea-dwelling) species died. Only the End Permian mass extinction was larger. Unlike many smaller extinction events, however, the long-term consequences of the End Ordovician event were relatively small.  Following the climatic oscillation, the climate returned to its previous state, and the species that survived soon (within two or three million years) evolved into species very similar to the ones that existed before.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Hirnantian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Hirnantian)  
+
 
 #has_/label_/bg  :: Хирнант
 #has_/label_/cs  :: Hirnant

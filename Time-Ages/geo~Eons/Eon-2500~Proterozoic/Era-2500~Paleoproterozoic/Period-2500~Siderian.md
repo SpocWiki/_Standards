@@ -1,5 +1,21 @@
 ---
 aliases:
+  - Siderian
+  - Сидер
+  - Sider
+  - Siderien
+  - Siderium
+  - Sideriense
+  - Sidérien
+  - sideri
+  - sideriano
+  - シデリアン紀
+  - Sideris
+  - Sideriën
+  - Sideriano
+  - siderium
+  - siderij
+  - 成铁纪
 has_id_wikidata: Q870498
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

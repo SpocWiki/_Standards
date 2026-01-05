@@ -5,7 +5,27 @@ aliases:
   - Age~Visean
   - Middle_Mississippian
   - Middle Mississippian
-  - "{ newTitle: }":
+  - Визей
+  - Visé
+  - Viseen
+  - Viseum
+  - Viseense
+  - Vise
+  - Vis
+  - Viséen
+  - viséi
+  - viseano
+  - ビゼアン期
+  - Vizejis
+  - Vise-iën
+  - Viseium
+  - Wizen
+  - Viseano
+  - visén
+  - viseij
+  - vis
+  - 韦宪期
+has_id_wikidata: Q647290
 ischart: MiddleMississippian
 confidential: private
 cssclasses:
@@ -36,6 +56,20 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Viséan,30869523]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Visean,134521388]]"
+end_time: -330900000-01-01T00:00:00Z
+start_time: -346700000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Visé,49743]]"
+Commons_category: Visean
+coordinate_location: Point(109.45 24.4333)
+described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1091
+sRGB_color_hex_triplet: A6B96C
 ---
 
 # [[Age~2~Visean]] 
@@ -46,6 +80,7 @@ type: private_note
 
 #has_/previous_/item :: [[Age~1~Tournaisian|Age~1~Tournaisian]] 
 #has_/next_/item :: [[Age~3~Serpukhovian|Age~3~Serpukhovian]] 
+#is_/same_as :: [[WD~Visean,Q647290]] 
 
 A time period from 346.7 to 330.9 million years ago. 
 
@@ -92,7 +127,7 @@ A time period from 346.7 to 330.9 million years ago.
 > The Visean lasted from 346.7 to 330.9 Ma. 
 > It follows the Tournaisian age/stage and is followed by the Serpukhovian age/stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Vis%C3%A9an)
+> [Wikipedia](https://en.wikipedia.org/wiki/Vis%C3%A9an)  
 
 
 ## All Contents

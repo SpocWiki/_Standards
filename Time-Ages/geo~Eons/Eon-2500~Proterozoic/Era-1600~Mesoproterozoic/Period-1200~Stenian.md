@@ -1,5 +1,21 @@
 ---
 aliases:
+  - Stenian
+  - Стен
+  - Sten
+  - Stenien
+  - Stenium
+  - Esteniense
+  - Sténien
+  - steni
+  - steniano
+  - ステニアン紀
+  - Stenis
+  - Steniën
+  - Steniano
+  - stenium
+  - stenij
+  - 狭带纪
 has_id_wikidata: Q776333
 __has_:
   duration_:

@@ -1,3 +1,28 @@
+---
+aliases:
+  - Pridoli
+  - Пржидол
+  - Přídolí
+  - Prídoli
+  - pridoli
+  - プリドリアン世
+  - Pržidolis
+  - Przydol
+  - přídol
+  - pridolij
+  - 普里多利世
+has_id_wikidata: Q1062563
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Přídolí,1396292]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Pridoli_epoch,30869535]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Přídolí,133566995]]"
+sRGB_color_hex_triplet: E4F2E6
+end_time: -419200000-01-01T00:00:00Z
+start_time: -423000000-01-01T00:00:00Z
+---
 
 # [[Epoch-423~Pridoli]] 
 
@@ -7,6 +32,7 @@
 
 #has_/previous_/item :: [[Epoch-427~Ludlow]] 
 #has_/next_/item :: [[../Period-0419~Devonian/Epoch-419~Early_Devonian|Epoch~1~Early_Devonian]]  
+#is_/same_as :: [[WD~Pridoli,1062563]]  
 
 A time period from 423.0 to 419.2 million years ago. 
 
@@ -29,7 +55,7 @@ A time period from 423.0 to 419.2 million years ago.
 > The [[Šilalė-Event]], a negative carbon isotope excursion 
 > corresponding to an extinction event of conodonts, occurred during the early **Pridoli**.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pridoli%20Epoch)  
 
 
 #has_/label_/bg  :: Пржидол

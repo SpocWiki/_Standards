@@ -1,22 +1,55 @@
+---
+aliases:
+  - Lochkovian
+  - Ложков
+  - Lochkov
+  - Lochkovien
+  - Lochkovium
+  - Lochkoviense
+  - Lochkovi
+  - lochkovi
+  - lochkoviano
+  - ロッコビアン期
+  - Lochkovis
+  - Lochkoviën
+  - Lochkow
+  - Lochkoviano
+  - lochkov
+  - lochkovij
+  - 洛赫科夫期
+has_id_wikidata: Q1089613
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+significant_place: "[[_Standards/WikiData/WD~Klonk,1131298]]"
+named_after: "[[_Standards/WikiData/WD~Lochkov,2456160]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Lochkovian,134611894]]"
+coordinate_location: Point(14.0611 49.9008)
+end_time: -410800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: EEBA6E
+start_time: -419200000-01-01T00:00:00Z
+---
 # [[Age~1~Lochkovian]] 
 
 #is_a_/time_/Age 
-
-A time period from 419.2 to 410.8 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../Period-0444~Silurian/Epoch-427~Ludlow/Age~2~Ludfordian|Age~2~Ludfordian]] 
 #has_/next_/item :: [[Age~2~Pragian]] 
+#is_/same_as :: [[WD~Lochkovian,1089613]] 
+
+A time period from 419.2 to 410.8 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Lochkovian** is one of three faunal stages in the Early Devonian Epoch. It lasted from 419.2 ± 3.2 million years ago to 410.8 ± 2.8 million years ago. It marked the beginning of the Devonian Period, and was followed by the Pragian Stage. It is named after the village of Lochkov in the Czech Republic, now part of the city of Prague. The GSSP is located within the Lochkow Formation at the Klonk Section in Prague.
 >
 > In North America the Lochkovian Stage is represented by Gedinnian or Helderbergian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Lochkovian)  
+
 
 #has_/label_/bg  :: Ложков
 #has_/label_/cs  :: Lochkov

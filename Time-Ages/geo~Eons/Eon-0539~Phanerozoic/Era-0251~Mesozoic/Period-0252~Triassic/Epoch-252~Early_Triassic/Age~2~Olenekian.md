@@ -1,3 +1,7 @@
+---
+aliases:
+  - Olenekian
+---
 # [[Age~2~Olenekian]] 
 
 #is_a_/time_/Age 

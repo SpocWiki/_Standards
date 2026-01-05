@@ -1,3 +1,33 @@
+---
+aliases:
+  - Katian
+  - Кат
+  - Kat
+  - Katien
+  - Katium
+  - Katiense
+  - Kati
+  - kati
+  - katiano
+  - カティアン期
+  - Katis
+  - Katiën
+  - Katiano
+  - kat
+  - katij
+  - 凯迪期
+has_id_wikidata: Q1736601
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Katian,30869525]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Katian,134726206]]"
+coordinate_location: Point(-96.07455 34.43048333)
+sRGB_color_hex_triplet: 81D6BC
+start_time: -453000000-01-01T00:00:00Z
+end_time: -445200000-01-01T00:00:00Z
+---
 # [[Age-453~Katian]]
 
 #is_a_/time_/Age 
@@ -6,6 +36,7 @@
 
 #has_/previous_/item :: [[Age-458~Sandbian]] 
 #has_/next_/item :: [[Age-445~Hirnantian]]   
+#is_/same_as :: [[WD~Katian,1736601]] 
 
 A time period from 453.0 to 445.2 million years ago. 
 
@@ -14,12 +45,12 @@ A time period from 453.0 to 445.2 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Katian** is the second stage of the Upper Ordovician. It is preceded by the Sandbian and succeeded by the Hirnantian Stage. The Katian began 453 million years ago and lasted for about 7.8 million years until the beginning of the Hirnantian 445.2 million years ago.
 >
 > During the Katian the climate cooled which started the Late Ordovician glaciation.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Katian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Katian)  
+
 
 #has_/label_/bg  :: Кат
 #has_/label_/cs  :: Kat

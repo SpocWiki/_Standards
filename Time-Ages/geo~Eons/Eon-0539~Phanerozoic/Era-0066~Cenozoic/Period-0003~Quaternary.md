@@ -14,7 +14,6 @@ aliases:
   - 第四紀
   - Kvarteras
   - Kwartair
-  - Kvartær
   - Czwartorzęd
   - Quaternário
   - kvartér
@@ -23,21 +22,21 @@ aliases:
   - 第四纪
   - Period~3~Quaternary
 has_id_wikidata: Q26185
-named_by: '[[_Standards/WikiData/WD~Jules_Desnoyers,327363]]'
+named_by: "[[_Standards/WikiData/WD~Jules_Desnoyers,327363]]"
 instance_of:
-  - '[[_Standards/WikiData/WD~period,392928]]'
-  - '[[_Standards/WikiData/WD~system,403523]]'
+  - "[[_Standards/WikiData/WD~period,392928]]"
+  - "[[_Standards/WikiData/WD~system,403523]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-studied_by: '[[_Standards/WikiData/WD~Quaternary_science,2453249]]'
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+studied_by: "[[_Standards/WikiData/WD~Quaternary_science,2453249]]"
 topic_has_template:
-  - '[[_Standards/WikiData/WD~Template_Quaternary_(period),8001917]]'
-  - '[[_Standards/WikiData/WD~Template_Quaternary_footer,11312845]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+  - "[[_Standards/WikiData/WD~Template_Quaternary_(period),8001917]]"
+  - "[[_Standards/WikiData/WD~Template_Quaternary_footer,11312845]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 start_time: -2580000-01-01T00:00:00Z
-named_after: '[[_Standards/WikiData/WD~Q202,202]]'
+named_after: "[[_Standards/WikiData/WD~Q202,202]]"
 time_of_discovery_or_invention: 1829-01-01T00:00:00Z
 OmegaWiki_Defined_Meaning: 685114
 Commons_category: Quaternary

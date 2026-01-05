@@ -1,3 +1,35 @@
+---
+aliases:
+  - Kungurian
+  - Кунгур
+  - Kungur
+  - Kungurien
+  - Kungurium
+  - Kunguriense
+  - Kunguri
+  - kunguri
+  - kungurianno
+  - クングリアン期
+  - Kunguris
+  - Kunguriën
+  - Kunguriano
+  - kungur
+  - kungurij
+  - 孔古尔期
+has_id_wikidata: Q1073812
+different_from: "[[_Standards/WikiData/WD~Kungur,155974]]"
+named_after:
+  - "[[_Standards/WikiData/WD~Kungur,155974]]"
+  - "[[_Standards/WikiData/WD~Kungursky_Uyezd,4247139]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -283500000-01-01T00:00:00Z
+sRGB_color_hex_triplet: EF947F
+end_time: -272950000-01-01T00:00:00Z
+---
 # [[Age~4~Kungurian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +38,7 @@
 
 #has_/previous_/item :: [[Age~3~Artinskian]] 
 #has_/next_/item :: [[../Epoch-273~Guadalupian/Age~1~Roadian|Age~1~Roadian]] 
+#is_/same_as :: [[WD~Kungurian,1073812]]  
 
 A time period from 283.5 to 273.01 million years ago. 
 
@@ -15,7 +48,7 @@ A time period from 283.5 to 273.01 million years ago.
 
 > In the geologic timescale, the **Kungurian** is an age or stage of the Permian. It is the latest or upper of four subdivisions of the Cisuralian Epoch or Series. The Kungurian lasted between 283.5 and 273.01 million years ago (Ma). It was preceded by the Artinskian and followed by the Roadian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Kungurian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Kungurian)  
 
 #has_/label_/bg  :: Кунгур
 #has_/label_/cs  :: Kungur

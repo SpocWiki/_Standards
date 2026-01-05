@@ -2,6 +2,23 @@
 aliases:
   - Cryogenian
   - Cryogen
+  - Криоген
+  - Cryogenien
+  - Kryogenium
+  - Criogeniense
+  - Krüogeen
+  - Cryogénien
+  - cryogeni
+  - cryogeniano
+  - クリオジェニアン紀
+  - Kriogenis
+  - Cryogeniën
+  - Kriogen
+  - Criogeniano
+  - kryogén
+  - cryogenij
+  - kryogenium
+  - 成冰纪
 has_id_wikidata: Q507402
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

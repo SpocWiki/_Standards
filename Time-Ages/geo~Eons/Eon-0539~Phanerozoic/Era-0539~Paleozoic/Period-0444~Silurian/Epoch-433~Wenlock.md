@@ -1,3 +1,31 @@
+---
+aliases:
+  - Wenlock
+  - Венлок
+  - wenlocki
+  - wenlockiano
+  - ウェンロッキアン世
+  - Uenlokis
+  - Welnlock
+  - Wenlok
+  - wenlock
+  - wenlockij
+  - 温洛克世
+has_id_wikidata: Q1064996
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+described_by_source:
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Wenlock_epoch,30869282]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -433400000-01-01T00:00:00Z
+sRGB_color_hex_triplet: A4E0D0
+Commons_category: Wenlock Epoch
+end_time: -427400000-01-01T00:00:00Z
+---
 
 # [[Epoch-433~Wenlock]] 
 
@@ -7,6 +35,7 @@
 
 #has_/previous_/item :: [[Epoch-443~Llandovery]] 
 #has_/next_/item :: [[Epoch-427~Ludlow]] 
+#is_/same_as :: [[WD~Wenlock,1064996]] 
 
 A time period from 433.4 to 427.4 million years ago. 
 
@@ -16,7 +45,7 @@ A time period from 433.4 to 427.4 million years ago.
 
 > The Wenlock (sometimes referred to as the Wenlockian) is the second epoch of the Silurian. It is preceded by the [[Epoch-443~Llandovery]] and followed by the [[Epoch-427~Ludlow]]. Radiometric dates constrain the Wenlockian between 433.4 and 427.4 million years ago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wenlock%20Epoch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wenlock%20Epoch)  
 
 
 #has_/label_/bg  :: Венлок

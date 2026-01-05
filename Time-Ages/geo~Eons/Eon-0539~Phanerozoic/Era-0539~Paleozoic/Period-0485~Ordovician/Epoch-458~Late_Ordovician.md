@@ -2,7 +2,35 @@
 aliases:
   - Epoch~3~Late_Ordovician
   - Epoch~3~Late Ordovician
+  - Къѿен Ордовик
+  - Pozdní ordovik
+  - Sen Ordovicium
+  - Spätes Ordovizium
+  - Hilis-Ordoviitsium
+  - Myöhäis-Ordoviikki
+  - késő-ordovícium
+  - 後期オルドビス紀
+  - Vėlyvasis Ordovikas
+  - Laat Ordovicium
+  - Sen ordovicium
+  - Późny Ordowik
+  - mladší ordovik
+  - starejši ordovicij
+  - yngre ordovicium
+  - 晚奥陶世
 ischart: UpperOrdovician
+has_id_wikidata: Q13389115
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Ordovices,768052]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Late_Ordovician,20980753]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -443100000-01-01T00:00:00Z
+start_time: -458200000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20450%20Ma%20%28Katian%20Age%29.png
+sRGB_color_hex_triplet: 7FCA93
+Commons_category: Late Ordovician
 ---
 
 # [[Epoch-458~Late_Ordovician]] 
@@ -13,6 +41,7 @@ ischart: UpperOrdovician
 
 #has_/previous_/item :: [[Epoch-470~Middle_Ordovician]]  
 #has_/next_/item :: [[../Period-0444~Silurian/Epoch-443~Llandovery|Epoch-443~Llandovery]]  
+#is_/same_as :: [[WD~Late_Ordovician,13389115]]
 
 A time period from 458.4 to 443.8 million years ago. 
 
@@ -28,7 +57,8 @@ A time period from 458.4 to 443.8 million years ago.
 > 
 > Brachiopods, bryozoans and echinoderms were also heavily affected, and the endocerid cephalopods died out completely, except for possible rare Silurian forms. The Ordovician-Silurian Extinction Events may have been caused by an ice age that occurred at the end of the Ordovician period as the end of the Late Ordovician was __one of the coldest times in the last 600 million years of earth history__.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Ordovician)
+> [Wikipedia](https://en.wikipedia.org/wiki/Late%20Ordovician)  
+
 
 #has_/label_/bg  :: Къѿен Ордовик
 #has_/label_/cs  :: Pozdní ordovik

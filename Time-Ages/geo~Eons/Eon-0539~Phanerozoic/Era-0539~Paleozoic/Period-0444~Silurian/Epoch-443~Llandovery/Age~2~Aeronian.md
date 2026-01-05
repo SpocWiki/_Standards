@@ -1,23 +1,56 @@
+---
+aliases:
+  - Aeronian
+  - перон
+  - Aeron
+  - Aeronien
+  - Aeronium
+  - Aeroniense
+  - Aeroni
+  - Aéronien
+  - aeroni
+  - aeroniano
+  - アエロニアン期
+  - Aeronis
+  - Aeroniën
+  - Aeroniano
+  - aerón
+  - aeronij
+  - aeron
+  - 埃隆期
+has_id_wikidata: Q381595
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Aeronian,134704042]]"
+end_time: -438500000-01-01T00:00:00Z
+start_time: -440800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: A4E0D0
+coordinate_location: Point(14.2119 49.923)
+---
 
 # [[Age~2~Aeronian]] 
 
 #is_a_/time_/Age 
 
-A time period from 440.8 to 438.5 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Rhuddanian]] 
 #has_/next_/item :: [[Age~3~Telychian]] 
+#is_/same_as :: [[WD~Aeronian,381595]]  
+
+A time period from 440.8 to 438.5 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geologic timescale, the **Aeronian** is an age of the  Llandovery Epoch of the Silurian Period of the Paleozoic Era of the Phanerozoic Eon that began 440.8 ± 1.2 Ma and ended 438.5 ± 1.1 Ma (million years ago). The Aeronian Age succeeds the Rhuddanian Age and precedes the Telychian Age, all in the same epoch. 
 > 
 > During the Aeronian the [[Sedgwickii-Event]] occurred in which graptolite diversity was greatly reduced. This event has been attested in locations such as today's Canada, Libya as well as in La Chilca Formation in Argentina (then part of Gondwana).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Aeronian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Aeronian)  
+
 
 #has_/label_/bg  :: перон
 #has_/label_/cs  :: Aeron

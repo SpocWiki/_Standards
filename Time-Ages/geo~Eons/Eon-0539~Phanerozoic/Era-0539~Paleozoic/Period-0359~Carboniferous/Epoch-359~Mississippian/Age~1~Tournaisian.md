@@ -3,7 +3,25 @@ aliases:
   - Early_Mississippian
   - Early Mississippian
   - Tournaisian
-  - "{ newTitle: }":
+  - Турней
+  - Tournai
+  - Tournaisien
+  - Tournaisium
+  - Tournaisiense
+  - Tournais
+  - tournaisi
+  - tournasiano
+  - トルネージアン期
+  - Turnėjis
+  - Tournaisiën
+  - Tournasium
+  - Turnej
+  - Turnaisiano
+  - turnén
+  - tournaisij
+  - tournas
+  - 杜内期
+has_id_wikidata: Q940381
 ischart: LowerMississippian
 confidential: private
 cssclasses:
@@ -34,11 +52,25 @@ tags:
 title:
   "{ newTitle: }":
 type: private_note
+named_after: "[[_Standards/WikiData/WD~Tournai,173219]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Tournaisian,30869494]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Tournaisian,134528883]]"
+end_time: -346700000-01-01T00:00:00Z
+coordinate_location: Point(3.3573 43.5555)
+Commons_category: Tournaisian
+sRGB_color_hex_triplet: 8CB06C
+described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1084
+start_time: -358900000-01-01T00:00:00Z
 ---
 
 # [[Age~1~Tournaisian]] 
 
 #is_a_/time_/Age 
+#is_/same_as :: [[WD~Tournaisian,940381]]   
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
@@ -91,7 +123,7 @@ A time period from 358.9 to 346.7 million years ago.
 > - Ivorian (upper Tournaisian). 
 > These two substages were originally designated as European regional stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian)  
 
 
 ## All Contents

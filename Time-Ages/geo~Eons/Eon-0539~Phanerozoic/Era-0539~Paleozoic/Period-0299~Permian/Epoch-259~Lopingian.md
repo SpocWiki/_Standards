@@ -1,3 +1,21 @@
+---
+aliases:
+  - Lopingian
+  - Лопинг
+  - Loping
+  - Lopingien
+  - Lopingium
+  - Lopingiense
+  - lopingi
+  - lopingiano
+  - ロピンギアン世
+  - Lopingis
+  - Lopingiën
+  - Lopingiano
+  - loping
+  - lopingij
+  - 乐平世
+---
 
 # [[Epoch-259~Lopingian]] 
 

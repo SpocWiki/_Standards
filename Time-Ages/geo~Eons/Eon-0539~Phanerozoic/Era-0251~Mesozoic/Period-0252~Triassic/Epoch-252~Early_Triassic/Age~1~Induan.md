@@ -1,3 +1,7 @@
+---
+aliases:
+  - Induan
+---
 # [[Age~1~Induan]]
 
 #is_a_/time_/Age 

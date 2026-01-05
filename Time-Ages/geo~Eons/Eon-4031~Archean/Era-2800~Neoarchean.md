@@ -1,14 +1,32 @@
 ---
 aliases:
   - Era~4~Neoarchean
+  - Neoarchean
+  - пеоархай
+  - Neoarchaikum
+  - Neoarkæisk
+  - Neoarchaean
+  - Neoarcaico
+  - Neoarhaikum
+  - Neoarkeikum
+  - Néoarchéen
+  - neoarchaikum
+  - neoarcheano
+  - 新始生代
+  - Neoarchejus
+  - Neo-archaicum
+  - Neoarchaik
+  - neoarhaik
+  - neoarkeikum
+  - 新太古代
 has_id_wikidata: Q645135
 Commons_category: Archean
 end_time: -2500000000
 has_time_started: -2800000000
 instance_of:
-  - '[[_Standards/WikiData/WD~era,630830]]'
-  - '[[_Standards/WikiData/WD~erathem,2464485]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 sRGB_color_hex_triplet: F99BC1
 start_time: -2800000000
 ---

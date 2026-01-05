@@ -1,13 +1,62 @@
+---
+aliases:
+  - Early_Pennsylvanian
+  - Early Pennsylvanian
+  - 前期ペンシルバニア紀
+  - 早宾夕法尼亚世
+  - Bashkirian
+  - Башкир
+  - Bashkir
+  - Bashkirien
+  - Bashkirium
+  - Bashkiriense
+  - Baškiiri
+  - baskír
+  - bashkiriano
+  - バシキリアン期
+  - Bashkiriën
+  - Baszkir
+  - Bashkiriano
+  - baškir
+  - baškirij
+  - bashkir
+  - 巴什基尔期
+has_id_wikidata: Q639443
+ischart: LowerPennsylvanian
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Bashkirian,30869507]]"
+significant_place: "[[_Standards/WikiData/WD~Arrow_Canyon,49774932]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+named_by: "[[_Standards/WikiData/WD~Sofia_Viktorovna_Semikhatova,106574396]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Bashkirian,134498081]]"
+end_time: -315200000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Bashkortostan,5710]]"
+Commons_category: Bashkirian
+coordinate_location: Point(-114.7778 36.7333)
+sRGB_color_hex_triplet: 99C2B5
+start_time: -323200000-01-01T00:00:00Z
+---
 # [[Age~Bashkirian]] 
 
 #is_a_/time_/Age 
 
-A time period from 323.2 to 315.2 million years ago. 
+
+#has_/time_/started :: -323.2e6 
+#has_/time_/stopped :: -315.2e6 
+
+    sh:order 98 
+
+#has_/text_of_/color :: 0x8CBEB4
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]] 
 #has_/next_/item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
+#is_/same_as :: [[WD~Bashkirian,639443]] 
+
+A time period from 323.2 to 315.2 million years ago. 
 
 ## #has_/text_of_/abstract 
 
@@ -15,7 +64,7 @@ A time period from 323.2 to 315.2 million years ago.
 >
 > The Bashkirian overlaps with the upper part of the Namurian and lower part of the Westphalian stages from regional European stratigraphy. It also overlaps with the North American Morrowan and Atokan stages and the Chinese Luosuan and lower Huashibanian stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian)  
 
 #has_/label_/bg  :: Башкир
 #has_/label_/cs  :: Bashkir

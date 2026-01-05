@@ -1,6 +1,22 @@
 ---
 aliases:
   - Ediacaran
+  - Едиакар
+  - Ediacar
+  - Ediacara
+  - Ediacarium
+  - Ediacariense
+  - Ediacarien
+  - ediacaranum
+  - ediacariano
+  - エディアカラ紀
+  - Ediakaras
+  - Ediakar
+  - Ediacariano
+  - ediakarium
+  - ediacarij
+  - ediacara
+  - 埃迪卡拉纪
 has_id_wikidata: Q188654
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

@@ -1,3 +1,25 @@
+---
+aliases:
+  - Wuchiapingian
+  - Вучиапинг
+  - Wuchiaping
+  - Wuchiapingien
+  - Wuchiapingium
+  - Wuchiapingiense
+  - Wuchiapingi
+  - Wuchiaiping
+  - wuchiapingi
+  - wuchiapingiano
+  - ウキアピンギアン期
+  - VuĿiapingis
+  - Wuchiapingiën
+  - Wuchianpingum
+  - Wuchiapingiano
+  - wuťiapching
+  - wuchiapingij
+  - wuchiaping
+  - 吴家坪期
+---
 # [[Age~1~Wuchiapingian]] 
 
 #is_a_/time_/Age 

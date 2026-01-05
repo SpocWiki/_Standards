@@ -1,13 +1,63 @@
+---
+aliases:
+  - Middle_Pennsylvanian
+  - Middle Pennsylvanian
+  - 中期ペンシルバニア紀
+  - 中宾夕法尼亚世
+  - Moscovian
+  - Моѿков
+  - Moscov
+  - Moscovien
+  - Moskovium
+  - Moscoviense
+  - Moskva
+  - Moskova
+  - moszkvai
+  - moscoviano
+  - モスコビアン期
+  - Moskovis
+  - Moscoviën
+  - Moskow
+  - Moscoviano
+  - moskov
+  - moskovij
+  - moscov
+  - 莫斯科期
+has_id_wikidata: Q1179385
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Sergei_Nikolaevič_Nikitin,17333360]]"
+described_by_source: "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Moscovian_(Carboniferous),30826329]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -315200000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Moscow,649]]"
+different_from: "[[_Standards/WikiData/WD~moscovium,1303]]"
+end_time: -307000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: B3CBB9
+Commons_category: Moscovian
+ischart: MiddlePennsylvanian
+---
 # [[Age~Moscovian]] 
 
 #is_a_/time_/Age 
 
-A time period from 315.2 to 307.0 million years ago. 
+
+#has_/time_/started :: -315.2e6 
+#has_/time_/stopped :: -307.0e6 
+
+    sh:order 95 
+
+#has_/text_of_/color :: 0xA6C7B7
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
 #has_/next_/item :: [[../Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian|Age~1~Kasimovian]] 
+#is_/same_as :: [[WD~Moscovian,1179385]]  
+
+A time period from 315.2 to 307.0 million years ago. 
 
 ![[../../../../../../../../xLarge/Earth/Geology/Earth-310_Ma_(Moscovian_Age).png]] 
 
@@ -16,7 +66,7 @@ A time period from 315.2 to 307.0 million years ago.
 
 > The Moscovian is in the ICS geologic timescale a stage or age in the Pennsylvanian, the youngest subsystem of the Carboniferous. The Moscovian age lasted from 315.2 to 307 Ma, is preceded by the Bashkirian and is followed by the Kasimovian. The Moscovian overlaps with the European regional Westphalian stage and the North American Atokan and Desmoinesian stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous))
+> [Wikipedia](https://en.wikipedia.org/wiki/Moscovian%20(Carboniferous))  
 
 #has_/label_/bg  :: Моѿков
 #has_/label_/cs  :: Moscov

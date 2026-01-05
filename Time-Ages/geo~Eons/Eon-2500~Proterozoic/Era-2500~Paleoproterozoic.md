@@ -1,11 +1,31 @@
 ---
 aliases:
   - Era~1~Paleoproterozoic
+  - Paleoproterozoic
+  - Палеопротерозой
+  - Paleoproterozoikum
+  - Palæoproterozoisk
+  - Paläoproteroizoikum
+  - Palaeoproterozoic
+  - Paleoproterozoico
+  - Paleoproterosoikum
+  - Paleoproterotsoikum
+  - Paléoprotérozoïque
+  - paleoproterozikum
+  - paleoproterozoico
+  - 原生代前期
+  - Paleoproterozojus
+  - paleoproterozoïcum
+  - Paleoproterozoik
+  - Paleoproterozóico
+  - paleoproterozoikum
+  - paleoproterozoik
+  - 古元古代
 has_id_wikidata: Q193738
 instance_of:
-  - '[[_Standards/WikiData/WD~era,630830]]'
-  - '[[_Standards/WikiData/WD~erathem,2464485]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 sRGB_color_hex_triplet: F74370
 start_time: -2500000000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2050ma.png

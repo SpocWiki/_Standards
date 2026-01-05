@@ -2,7 +2,39 @@
 aliases:
   - Epoch~1~Early_Ordovician
   - Epoch~1~Early Ordovician
+  - Ранен Ордовик
+  - brzy ordovik
+  - Tidlig Ordovicium
+  - Fühes Ordovizium
+  - Ordovícico temprano
+  - Vara-Ordoviitsium
+  - Varhais-Ordoviikki
+  - Ordovicien précoce
+  - kora-ordovícium
+  - ordoviciano precoce
+  - オルドビス紀前期
+  - Ankstyvasis Ordovikas
+  - Vroeg Ordovicium
+  - Tidlig ordovicium
+  - Wczesny Ordowik
+  - Ordovícista adiantado
+  - raný ordovik
+  - zgodnji ordovicij
+  - äldre ordovicium
+  - 早奥陶世
 ischart: LowerOrdovician
+has_id_wikidata: Q10739169
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Ordovices,768052]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Early_Ordovician,20980754]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -486850000-01-01T00:00:00Z
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20480%20Ma%20%28Tremadocian%20Age%29.png
+sRGB_color_hex_triplet: 1A9D6F
+Commons_category: Early Ordovician
+end_time: -471300000-01-01T00:00:00Z
 ---
 
 # [[Epoch-485~Early_Ordovician]] 
@@ -13,12 +45,17 @@ ischart: LowerOrdovician
 
 #has_/previous_/item :: [[Epoch~]] 
 #has_/next_/item :: [[Epoch~]] 
+#is_/same_as :: [[WD~Early_Ordovician,10739169]] 
 
 A time period from 485.4 to 470.0 million years ago. 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-480_Ma_(Tremadocian_Age).png]]
 
 ## #has_/text_of_/abstract 
+
+> The Early Ordovician is the first epoch of the Ordovician period, corresponding to the Lower Ordovician series of the Ordovician system. It began after the Age 10 of the Furongian epoch of the Cambrian and lasted from 486.85 to 471.3 million years ago, until  the Dapingian age of the Middle Ordovician. It includes Tremadocian and Floian ages.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Early%20Ordovician) 
 
 
 #has_/label_/bg  :: Ранен Ордовик

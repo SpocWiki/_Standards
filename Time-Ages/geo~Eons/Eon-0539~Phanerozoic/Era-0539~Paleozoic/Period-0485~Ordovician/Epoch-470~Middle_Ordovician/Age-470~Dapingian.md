@@ -1,3 +1,33 @@
+---
+aliases:
+  - Dapingian
+  - Дапинг
+  - Daping
+  - Dapingien
+  - Dapingium
+  - Dapingiense
+  - Dapingi
+  - dapingi
+  - dapingiano
+  - ダピンギアン期
+  - Dapingis
+  - Dapingiën
+  - Dapingiano
+  - daping
+  - dapingij
+  - 大坪期
+has_id_wikidata: Q288112
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Dapingian,30869279]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Dapingian,134822707]]"
+coordinate_location: Point(111.374 30.8605)
+sRGB_color_hex_triplet: 12C5A9
+end_time: -467300000-01-01T00:00:00Z
+start_time: -470000000-01-01T00:00:00Z
+---
 # [[Age-470~Dapingian]]
 
 #is_a_/time_/Age 
@@ -6,6 +36,7 @@
 
 #has_/previous_/item :: [[../Epoch-485~Early_Ordovician/Age-477~Floian|Age-477~Floian]]   
 #has_/next_/item :: [[Age-467~Darriwilian]] 
+#is_/same_as :: [[WD~Dapingian,288112]] 
 
 A time period from 470.0 to 467.3 million years ago. 
 
@@ -16,7 +47,8 @@ A time period from 470.0 to 467.3 million years ago.
 
 > The **Dapingian** is the third stage of the Ordovician period and the first stage of the Middle Ordovician series. It is preceded by the Floian and succeeded by the Darriwilian. The top of the Floian is defined as the first appearance of the conodont species Baltoniodus triangularis which happened about 470 million years ago. The Dapingian lasted for about 2.7 million years until about 467.3 million years ago.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Dapingian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Dapingian)  
+
 
 #has_/label_/bg  :: Дапинг
 #has_/label_/cs  :: Daping

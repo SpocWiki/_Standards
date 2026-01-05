@@ -1,14 +1,32 @@
 ---
 aliases:
   - Era~1~Eoarchean
+  - Eoarchean
+  - Еоархай
+  - Eoarchaikum
+  - Eoarkæisk
+  - Eoarchaean
+  - Eoarcaico
+  - Eoarhaikum
+  - Eoarkeikum
+  - Eoarchéen
+  - eoarchaikum
+  - eoarcheano
+  - 暁始生代
+  - Eoarchejus
+  - Eo-archaicum
+  - Eoarchaik
+  - eoarhaik
+  - eoarkeikum
+  - 始太古代
 has_id_wikidata: Q731470
 Commons_category: Eoarchean
 end_time: -3600000000
 has_time_started: -4031000000
 instance_of:
-  - '[[_Standards/WikiData/WD~era,630830]]'
-  - '[[_Standards/WikiData/WD~erathem,2464485]]'
-part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+  - "[[_Standards/WikiData/WD~era,630830]]"
+  - "[[_Standards/WikiData/WD~erathem,2464485]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
 sRGB_color_hex_triplet: DA037F
 start_time: -4031000000
 ---

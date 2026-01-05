@@ -2,6 +2,15 @@
 aliases:
   - Permian
   - Perm
+  - Перм
+  - Pérmico
+  - Permi
+  - Permien
+  - perm
+  - permiano
+  - ペルム紀
+  - Permas
+  - 二叠纪
 has_id_wikidata: Q76402
 named_by: "[[_Standards/WikiData/WD~Roderick_Murchison,_1st_Baronet,361900]]"
 named_after:

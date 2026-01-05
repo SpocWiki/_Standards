@@ -1,6 +1,23 @@
 ---
 aliases:
   - Era~3~Neoproterozoic
+  - Neoproterozoic
+  - пеопротерозой
+  - Neoproterozoikum
+  - Neoproterozoisk
+  - Neoproerozoico
+  - Neoproterosoikum
+  - Neoproterotsoikum
+  - Néoprotérozoïque
+  - neoproterozoikum
+  - neoproterozoico
+  - 原生代後期
+  - Neoproterozojus
+  - Neoproterozoïcum
+  - Neoproterozoik
+  - Neoproterozóico
+  - neoproterozoik
+  - 新元古代
 has_id_wikidata: Q191935
 instance_of:
   - "[[_Standards/WikiData/WD~era,630830]]"

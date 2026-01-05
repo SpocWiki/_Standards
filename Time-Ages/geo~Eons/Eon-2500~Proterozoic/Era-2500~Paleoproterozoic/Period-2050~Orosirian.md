@@ -1,5 +1,20 @@
 ---
 aliases:
+  - Orosirian
+  - Ороѿир
+  - Orosir
+  - Orosirien
+  - Orosirium
+  - Orosiriense
+  - orosiri
+  - orosiriano
+  - オロシリアン紀
+  - Orosiris
+  - Orosiriën
+  - Orosiriano
+  - orosirium
+  - orosijrij
+  - 造山纪
 has_id_wikidata: Q597383
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

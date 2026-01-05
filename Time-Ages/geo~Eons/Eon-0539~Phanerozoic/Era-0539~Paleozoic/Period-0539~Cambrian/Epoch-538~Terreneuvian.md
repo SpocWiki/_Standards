@@ -1,3 +1,23 @@
+---
+aliases:
+  - Terreneuvian
+  - Теренеув
+  - Terreneuv
+  - Terreneuvien
+  - Terreneuvium
+  - Terreneuviense
+  - Terreneuvi
+  - terreneuvi
+  - terreneuviano
+  - テレニュービアン世
+  - Tereniuvis
+  - Terreneuviën
+  - Terenew
+  - Terreneuviano
+  - terreneuv
+  - terreneuvij
+  - 纽芬兰世
+---
 
 # [[Epoch-538~Terreneuvian]] 
 

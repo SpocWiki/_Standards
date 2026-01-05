@@ -1,5 +1,23 @@
 ---
 aliases:
+  - Ectasian
+  - Ектаз
+  - Ectas
+  - Ectasien
+  - Ectasium
+  - Ectasiense
+  - ectasi
+  - ectasiano
+  - エクタシアン紀
+  - Ektasis
+  - Ectasiën
+  - Ektasium
+  - Ektas
+  - Ectasiano
+  - ektazium
+  - ectasij
+  - ectasium
+  - 延展纪
 has_id_wikidata: Q367597
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

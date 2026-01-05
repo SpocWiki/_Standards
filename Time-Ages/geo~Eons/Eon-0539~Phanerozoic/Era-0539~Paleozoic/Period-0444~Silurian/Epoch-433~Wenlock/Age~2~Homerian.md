@@ -1,22 +1,55 @@
+---
+aliases:
+  - Homerian
+  - Хомер
+  - Homer
+  - Homerien
+  - Homerium
+  - Homeriense
+  - Homeri
+  - Homérien
+  - homeri
+  - homeriano
+  - ホメリアン期
+  - Homeris
+  - Homeriën
+  - Homeriano
+  - homer
+  - homerij
+  - 侯默期
+has_id_wikidata: Q753045
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~Homer,5889923]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Homerian,30869541]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_Homerian,134690876]]"
+coordinate_location: Point(-2.5647 52.6156)
+end_time: -427400000-01-01T00:00:00Z
+start_time: -430500000-01-01T00:00:00Z
+sRGB_color_hex_triplet: C5E9DB
+---
 # [[Age~2~Homerian]] 
 
 #is_a_/time_/Age 
-
-A time period from 430.5 to 427.4 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Sheinwoodian]] 
 #has_/next_/item :: [[../Epoch-427~Ludlow/Age~1~Gorstian|Age~1~Gorstian]] 
+#is_/same_as :: [[WD~Homerian,753045]]
+
+A time period from 430.5 to 427.4 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geologic timescale, the **Homerian** is an age of the [[../Epoch-433~Wenlock|Epoch-433~Wenlock]] of the [[../../Period-0444~Silurian|Period-0444~Silurian]] of the Paleozoic Era of the Phanerozoic Eon that is comprehended between 430.5 ± 0.7 Ma and 427.4 ± 0.5 Ma (million years ago), approximately. The Homerian Age succeeds the [[Age~1~Sheinwoodian]] and precedes the Gorstian Age.
 >
 > The name comes from the small village of Homer, Shropshire near Much Wenlock. The defining lower boundary of Homerian rock layers (GSSP) is located within the Coalbrookdale Formation of England.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Homerian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Homerian)  
+
 
 #has_/label_/bg  :: Хомер
 #has_/label_/cs  :: Homer

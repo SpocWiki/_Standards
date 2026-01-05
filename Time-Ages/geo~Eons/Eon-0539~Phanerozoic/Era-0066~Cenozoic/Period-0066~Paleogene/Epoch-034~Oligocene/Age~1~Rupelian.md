@@ -1,13 +1,51 @@
+---
+aliases:
+  - Rupelian
+  - Рупел
+  - Rupel
+  - Rupelien
+  - Rupelium
+  - Rupeliense
+  - Rupeli
+  - Rupélien
+  - rupeli
+  - rupeliano
+  - ルペル期
+  - Rupelis
+  - Rupeliën
+  - Rupeliano
+  - rupel
+  - rupelij
+  - 鲁珀利期
+has_id_wikidata: Q508633
+named_by: "[[_Standards/WikiData/WD~André_Dumont,519775]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+different_from: "[[_Standards/WikiData/WD~Rupel,1434473]]"
+named_after: "[[_Standards/WikiData/WD~Rupel,1434473]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Rupelian,24068615]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Rupelian,133858814]]"
+coordinate_location: Point(13.6011 43.5328)
+significant_place: "[[_Standards/WikiData/WD~Massignano,56073]]"
+end_time: -28100000-01-01T00:00:00Z
+start_time: -33900000-01-01T00:00:00Z
+Commons_category: Rupelian
+sRGB_color_hex_triplet: FED9A2
+described_at_URL: https://popups.uliege.be/1374-8505/index.php?id=1108
+---
 # [[Age~1~Rupelian]] 
 
 #is_a_/time_/Age 
   
-A time period from 33.9 to 27.82 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
 #has_/next_/item :: [[Age~2~Chattian]] 
+#is_/same_as :: [[WD~Rupelian,508633]] 
+
+A time period from 33.9 to 27.82 million years ago. 
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png]] 
 
@@ -16,7 +54,7 @@ A time period from 33.9 to 27.82 million years ago.
 
 > The **Rupelian** is, in the geologic timescale, the older of two ages or the lower of two stages of the Oligocene Epoch/Series. It spans the time between 33.9 and 27.82 Ma. It is preceded by the [[../Epoch-056~Eocene/Age~4~Priabonian]] Stage (part of the Eocene) and is followed by the [[Age~2~Chattian]] Stage.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Rupelian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Rupelian) 
 
 #has_/label_/bg  :: Рупел
 #has_/label_/cs  :: Rupel

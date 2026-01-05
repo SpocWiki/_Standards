@@ -1,16 +1,50 @@
+---
+aliases:
+  - Asselian
+  - пѿел
+  - Assel
+  - Asselien
+  - Asselium
+  - Asseliense
+  - Asseli
+  - Assélien
+  - asszeli
+  - asseliano
+  - アセリアン期
+  - Aselis
+  - Asseliën
+  - Aselsk
+  - Asseliano
+  - assel
+  - asselij
+  - 阿瑟尔期
+has_id_wikidata: Q740340
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~Q789402,789402]]"
+named_after: "[[_Standards/WikiData/WD~Assel',3697749]]"
+named_by: "[[_Standards/WikiData/WD~Vasiliy_E._Ruzhentsev,4399810]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Asselian,134468842]]"
+start_time: -298900000-01-01T00:00:00Z
+end_time: -295000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: F0775F
+coordinate_location: Point(57.8914 50.2458)
+---
 # [[Age~1~Asselian]]
 
 #is_a_/time_/Age 
-
-A time period from 298.9 to 293.51 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian|Age~2~Gzhelian]] 
 #has_/next_/item :: [[Age~2~Sakmarian]] 
+#is_/same_as :: [[WD~Asselian,740340]]  
+
+A time period from 298.9 to 293.51 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > In the geologic timescale, the **Asselian** is the earliest geochronologic age 
 > or lowermost chronostratigraphic stage of the Permian. 

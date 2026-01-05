@@ -1,3 +1,37 @@
+---
+aliases:
+  - Middle_Devonian
+  - Middle Devonian
+  - Среден Девон
+  - Střední devon
+  - Mellem Devon
+  - Mitteldevon
+  - Devónico Medio
+  - Kesk-Devon
+  - Keski-Devoni
+  - Dévonien moyen
+  - középső-devon
+  - devoniano medio
+  - 中期デボン紀
+  - Vidurinis Devonas
+  - Midden Devoon
+  - Midtre devon
+  - Środkowy Dewon
+  - Devónico Médio
+  - stredný devón
+  - srednji devon
+  - mellersta devon
+  - 中泥盆世
+has_id_wikidata: Q731313
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q49763553,49763553]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -393300000-01-01T00:00:00Z
+end_time: -382700000-01-01T00:00:00Z
+sRGB_color_hex_triplet: F6C87A
+---
 # [[Epoch-393~Middle_Devonian]] 
 
 #is_a_/time_/Epoch 
@@ -6,6 +40,7 @@
 
 #has_/previous_/item :: [[Epoch-419~Early_Devonian]] 
 #has_/next_/item :: [[Epoch-382~Late_Devonian]]  
+#is_/same_as :: [[WD~Middle_Devonian,731313]] 
 
 A time period from 393.3 to 382.7 million years ago. 
 
@@ -13,12 +48,12 @@ A time period from 393.3 to 382.7 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > In the geological timescale, the Middle Devonian epoch (from 397.5 ± 2.7 million years ago to 385.3 ± 2.6 million years ago) occurred during the Devonian period, after the end of the Emsian age.
 >
 > The Middle Devonian epoch is subdivided into two stages: Eifelian and Givetian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Devonian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Middle%20Devonian) 
+
 
 #has_/label_/bg  :: Среден Девон
 #has_/label_/cs  :: Střední devon

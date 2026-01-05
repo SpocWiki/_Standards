@@ -1,6 +1,20 @@
 ---
 aliases:
   - Tonian
+  - Тон
+  - Ton
+  - Tonien
+  - Tonium
+  - Toniense
+  - toni
+  - toniano
+  - トニアン紀
+  - Tonis
+  - Toniën
+  - Toniano
+  - tonium
+  - tonij
+  - 拉伸纪
 has_id_wikidata: Q743343
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

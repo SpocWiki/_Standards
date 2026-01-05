@@ -1,3 +1,34 @@
+---
+aliases:
+  - Furongian
+  - Фуронг
+  - Furong
+  - Furongien
+  - Furongium
+  - Furogiense
+  - furongi
+  - furongiano
+  - フロンギアン世
+  - Furongis
+  - Furongiën
+  - Furongiano
+  - furong
+  - furongij
+  - 芙蓉世
+has_id_wikidata: Q1269670
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Lotus,3645698]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Furongian,30338198]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -486850000-01-01T00:00:00Z
+start_time: -497000000-01-01T00:00:00Z
+Commons_category: Furongian
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Mollweide%20Paleographic%20Map%20of%20Earth%2C%20495%20Ma%20%28Paibian%20Stage%29.png
+exact_match: http://resource.geosciml.org/classifier/ics/ischart/Furongian
+sRGB_color_hex_triplet: B3E095
+---
 # [[Epoch-497~Furongian]] 
 
 #is_a_/time_/Epoch 
@@ -6,6 +37,7 @@
 
 #has_/previous_/item :: [[Epoch~]] 
 #has_/next_/item :: [[Epoch~]] 
+#is_/same_as :: [[WD~Furongian,1269670]] 
 
 A time period from 497 to 485.4 million years ago. 
 
@@ -14,10 +46,9 @@ A time period from 497 to 485.4 million years ago.
 
 ## #has_/text_of_/abstract 
 
-
 > The **Furongian**  is the fourth and final epoch and series of the Cambrian. It lasted from 497 to 485.4 million years ago. It succeeds the Miaolingian series of the Cambrian and precedes the Lower Ordovician Tremadocian Stage. It is subdivided into three stages: the Paibian, Jiangshanian and the unnamed 10th stage of the Cambrian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Furongian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Furongian)  
 
 #has_/label_/bg  :: Фуронг
 #has_/label_/cs  :: Furong

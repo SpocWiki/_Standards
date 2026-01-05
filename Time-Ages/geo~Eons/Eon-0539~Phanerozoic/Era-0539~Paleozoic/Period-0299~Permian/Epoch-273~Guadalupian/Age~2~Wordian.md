@@ -1,3 +1,34 @@
+---
+aliases:
+  - Wordian
+  - Уорд
+  - Word
+  - Wordien
+  - Wordium
+  - Wordiense
+  - Wordi
+  - wordi
+  - wordiano
+  - ワーディアン期
+  - Vordis
+  - Wordiën
+  - Wordiano
+  - word
+  - wordij
+  - 沃德期
+has_id_wikidata: Q686803
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+significant_place: "[[_Standards/WikiData/WD~Guadalupe_Pass_(Texas),16891927]]"
+named_after: "[[_Standards/WikiData/WD~Word_Formation,18217752]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Wordian,134436714]]"
+end_time: -265100000-01-01T00:00:00Z
+sRGB_color_hex_triplet: FE987E
+coordinate_location: Point(-104.8328 31.8658)
+start_time: -268800000-01-01T00:00:00Z
+---
 # [[Age~2~Wordian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +37,7 @@
 
 #has_/previous_/item :: [[Age~1~Roadian]] 
 #has_/next_/item :: [[Age~3~Capitanian]] 
+#is_/same_as :: [[WD~Wordian,686803]]  
 
 A time period from 266.9 to 264.28 million years ago. 
 
@@ -18,7 +50,7 @@ A time period from 266.9 to 264.28 million years ago.
 > The Wordian lasted between 266.9 and 264.28 million years ago (Ma). 
 > It was preceded by the Roadian and followed by the Capitanian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Wordian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Wordian) 
 
 #has_/label_/bg  :: Уорд
 #has_/label_/cs  :: Word

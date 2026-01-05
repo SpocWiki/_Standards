@@ -1,3 +1,35 @@
+---
+aliases:
+  - Artinskian
+  - пртин
+  - Artinsk
+  - Artinskien
+  - Artinskium
+  - Artinskiense
+  - Artinski
+  - artyinszki
+  - artinskiano
+  - アルティンスキアン期
+  - Artinskis
+  - Artinskiën
+  - Artiskium
+  - Artinskiano
+  - artinsk
+  - artinskij
+  - 亚丁斯克期
+has_id_wikidata: Q713094
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+significant_place: "[[_Standards/WikiData/WD~Krasnousolsky,591613]]"
+named_after: "[[_Standards/WikiData/WD~Arti,712334]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Artinskian,134461822]]"
+end_time: -283500000-01-01T00:00:00Z
+start_time: -290100000-01-01T00:00:00Z
+sRGB_color_hex_triplet: EF8A74
+coordinate_location: Point(56.51615 53.88847)
+---
 # [[Age~3~Artinskian]] 
 
 #is_a_/time_/Age 
@@ -6,6 +38,7 @@
 
 #has_/previous_/item :: [[Age~2~Sakmarian]] 
 #has_/next_/item :: [[Age~4~Kungurian]] 
+#is_/same_as :: [[WD~Artinskian,713094]]  
 
 A time period from 290.1 to 283.5 million years ago.
 
@@ -20,7 +53,7 @@ A time period from 290.1 to 283.5 million years ago.
 > 
 > It was preceded by the [[Age~2~Sakmarian]] and followed by the [[Age~4~Kungurian]].
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Artinskian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Artinskian)  
 
 #has_/label_/bg  :: пртин
 #has_/label_/cs  :: Artinsk

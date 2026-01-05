@@ -1,3 +1,7 @@
+---
+aliases:
+  - Eocene
+---
 
 # [[Epoch-056~Eocene]] 
 

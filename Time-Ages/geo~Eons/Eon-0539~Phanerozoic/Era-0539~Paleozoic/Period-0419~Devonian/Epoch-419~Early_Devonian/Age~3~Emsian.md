@@ -1,16 +1,47 @@
+---
+aliases:
+  - Emsian
+  - Емѿ
+  - Ems
+  - Emsien
+  - Emsium
+  - Emsiense
+  - Emsi
+  - emsi
+  - emsiano
+  - エムシアン期
+  - Emsis
+  - Emsiën
+  - Emsiano
+  - ems
+  - emsij
+  - 艾姆斯期
+has_id_wikidata: Q576789
+named_after: "[[_Standards/WikiData/WD~Bad_Ems,490670]]"
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_by: "[[_Standards/WikiData/WD~Henry_de_Dorlodot,2080455]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Emsian,134587729]]"
+end_time: -393300000-01-01T00:00:00Z
+start_time: -407600000-01-01T00:00:00Z
+sRGB_color_hex_triplet: ECCF87
+coordinate_location: Point(67.3056 39.2)
+---
 # [[Age~3~Emsian]] 
 
 #is_a_/time_/Age 
-
-A time period from 407.6 to 393.3 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~2~Pragian]] 
 #has_/next_/item :: [[../Epoch-393~Middle_Devonian/Age~1~Eifelian|Age~1~Eifelian]] 
+#is_/same_as :: [[WD~Emsian,576789]] 
+
+A time period from 407.6 to 393.3 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Emsian** is one of three faunal stages in the Early Devonian Epoch. 
 > It lasted from 407.6 ± 2.6 million years ago to 393.3 ± 1.2 million years ago. 
@@ -22,7 +53,8 @@ A time period from 407.6 to 393.3 million years ago.
 >
 > In North America the Emsian Stage is represented by Sawkill or Sawkillian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Emsian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Emsian)  
+
 
 #has_/label_/bg  :: Емѿ
 #has_/label_/cs  :: Ems

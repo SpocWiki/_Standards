@@ -1,3 +1,25 @@
+---
+aliases:
+  - Ludlow
+  - Лудлоу
+  - ludlowi
+  - ludlow
+  - ルーロビアン世
+  - Ludlovis
+  - ludlowij
+  - 卢德洛世
+has_id_wikidata: Q1065155
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Ludlow,839811]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Ludlow_epoch,30869538]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+sRGB_color_hex_triplet: B4E5DB
+Commons_category: Ludlow Epoch
+start_time: -427400000-01-01T00:00:00Z
+end_time: -423000000-01-01T00:00:00Z
+---
 
 # [[Epoch-427~Ludlow]] 
 
@@ -7,6 +29,7 @@
 
 #has_/previous_/item :: [[Epoch-433~Wenlock]] 
 #has_/next_/item :: [[Epoch-423~Pridoli]] 
+#is_/same_as :: [[WD~Ludlow,1065155]] 
 
 A time period from 427.4 to 419.2 million years ago. 
 
@@ -18,7 +41,8 @@ A time period from 427.4 to 419.2 million years ago.
 >
 > The Ludlow Epoch is subdivided into two stages: Gorstian and Ludfordian.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Ludlow%20Epoch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Ludlow%20Epoch)  
+
 
 #has_/label_/bg  :: Лудлоу
 #has_/label_/cs  :: Ludlow

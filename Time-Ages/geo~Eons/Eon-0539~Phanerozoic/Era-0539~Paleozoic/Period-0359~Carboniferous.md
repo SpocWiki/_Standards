@@ -2,6 +2,18 @@
 aliases:
   - Carboniferous
   - Karbon
+  - Карбон
+  - Carbonífero
+  - Kivihiili
+  - Carbonifère
+  - karbon
+  - carbonifero
+  - 石炭紀
+  - Karbonas
+  - Carboon
+  - Carbónico
+  - karbón
+  - 石炭纪
 has_id_wikidata: Q133738
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

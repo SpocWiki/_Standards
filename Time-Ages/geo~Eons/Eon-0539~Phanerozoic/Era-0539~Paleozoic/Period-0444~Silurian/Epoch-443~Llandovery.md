@@ -1,3 +1,27 @@
+---
+aliases:
+  - Llandovery
+  - Лиандовери
+  - llandoveryi
+  - llandovery
+  - ランドベリアン世
+  - Landoveris
+  - Landower
+  - llandover
+  - llandoverij
+  - 兰多维列世
+has_id_wikidata: Q1187992
+instance_of:
+  - "[[_Standards/WikiData/WD~series,312468]]"
+  - "[[_Standards/WikiData/WD~epoch,754897]]"
+named_after: "[[_Standards/WikiData/WD~Llandovery,651733]]"
+named_by: "[[_Standards/WikiData/WD~Charles_Hepworth_Holland,1064829]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Llandovery_epoch,30869550]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+end_time: -433400000-01-01T00:00:00Z
+start_time: -443800000-01-01T00:00:00Z
+sRGB_color_hex_triplet: 7ED7C6
+---
 
 # [[Epoch-443~Llandovery]] 
 
@@ -7,6 +31,7 @@
 
 #has_/previous_/item :: [[../Period-0485~Ordovician/Epoch-458~Late_Ordovician|Epoch~3~Late_Ordovician]]  
 #has_/next_/item :: [[Epoch-433~Wenlock]] 
+#is_/same_as :: [[WD~Llandovery,1187992]] 
 
 A time period from 443.8 to 433.4 million years ago. 
 
@@ -22,7 +47,8 @@ A time period from 443.8 to 433.4 million years ago.
 >
 > The Llandoverian Epoch ended with the [[Ireviken-event]] which killed off 50% of trilobite species, and 80% of the global conodont species.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Llandovery%20Epoch)
+> [Wikipedia](https://en.wikipedia.org/wiki/Llandovery%20Epoch)  
+
 
 #has_/label_/bg  :: Лиандовери
 #has_/label_/cs  :: Llandovery

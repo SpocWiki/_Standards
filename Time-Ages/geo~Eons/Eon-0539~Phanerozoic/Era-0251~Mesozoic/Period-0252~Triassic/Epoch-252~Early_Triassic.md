@@ -1,7 +1,7 @@
 ---
 aliases:
-  - Epoch~1~Early_Triassic
-  - Epoch~1~Early Triassic
+  - Early_Triassic
+  - Early Triassic
 ischart: LowerTriassic
 ---
 

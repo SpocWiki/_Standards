@@ -1,3 +1,25 @@
+---
+aliases:
+  - Chattian
+  - Хат
+  - Chat
+  - Chattien
+  - Chattium
+  - Chattiense
+  - Chatti
+  - Chatt
+  - katti
+  - chattiano
+  - シャティアン期
+  - Chatis
+  - Chattiën
+  - Szat
+  - Chatiano
+  - chatt
+  - chattij
+  - 恰特期
+has_id_wikidata: Q502171
+---
 # [[Age~2~Chattian]] 
 
 #is_a_/time_/Age 
@@ -8,13 +30,14 @@ A time period from 27.82 to 23.03 million years ago.
 
 #has_/previous_/item :: [[Age~1~Rupelian]] 
 #has_/next_/item :: [[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Age~1~Aquitanian]] 
+#is_/same_as :: [[WD~Chattian,502171]] 
 
 ## #has_/text_of_/abstract 
 
 
-> The **Chattian** is, in the geologic timescale, the younger of two ages or upper of two stages of the Oligocene Epoch/Series. It spans the time between 27.82 and 23.03 Ma. The Chattian is preceded by the Rupelian and is followed by the [[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian]] (the lowest stage of the Miocene).
+> The **Chattian** is, in the geologic timescale, the younger of two ages or upper of two stages of the Oligocene Epoch/Series. It spans the time between 27.82 and 23.03 Ma. The Chattian is preceded by the Rupelian and is followed by the [[../../Period-0023~Neogene/Epoch-023~Miocene/Age~1~Aquitanian|Aquitanian]] (the lowest stage of the Miocene).
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Chattian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Chattian) 
 
 #has_/label_/bg  :: Хат
 #has_/label_/cs  :: Chat

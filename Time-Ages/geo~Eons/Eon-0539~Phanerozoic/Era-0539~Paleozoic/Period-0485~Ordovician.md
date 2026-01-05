@@ -2,6 +2,22 @@
 aliases:
   - Ordovician
   - Ordovizium
+  - Ордовик
+  - Ordovik
+  - Ordovicium
+  - Ordovícico
+  - Ordoviitsium
+  - Ordoviikki
+  - Ordovicien
+  - ordovícium
+  - ordoviciano
+  - オルドビス紀
+  - Ordovikas
+  - Ordowik
+  - ordovik
+  - ordovicij
+  - ordovicium
+  - 奥陶纪
 has_id_wikidata: Q62100
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"

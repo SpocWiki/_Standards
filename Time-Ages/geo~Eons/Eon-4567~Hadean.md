@@ -2,7 +2,6 @@
 aliases:
   - Hadean
   - Hád
-  - Hadean
   - Hadaikum
   - Hadeánico
   - Hadesi??
@@ -14,7 +13,6 @@ aliases:
   - Hadejus
   - Hadeïcum
   - Hadeikum
-  - Hadean
   - Hadeano
   - hadaikum
   - hadej

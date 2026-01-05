@@ -1,13 +1,17 @@
+---
+aliases:
+  - Ladinian
+---
 # [[Age~2~Ladinian]] 
 
 #is_a_/time_/Age 
-
-A time period from 242 to 237 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Anisian]] 
 #has_/next_/item :: [[../Epoch-237~Late_Triassic/Age~1~Carnian|Age~1~Carnian]] 
+
+A time period from 242 to 237 million years ago. 
 
 ## #has_/text_of_/abstract 
 

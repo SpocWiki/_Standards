@@ -1,3 +1,7 @@
+---
+aliases:
+  - Oligocene
+---
 
 # [[Epoch-034~Oligocene]] 
 

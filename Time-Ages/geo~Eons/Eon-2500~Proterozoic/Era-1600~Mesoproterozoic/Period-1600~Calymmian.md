@@ -1,5 +1,24 @@
 ---
 aliases:
+  - Calymmian
+  - Калим
+  - Calymm
+  - Calymmien
+  - Calymmium
+  - Calymmiense
+  - Calym
+  - calymmi
+  - calymmiano
+  - カリミアン紀
+  - Kalymis
+  - Calymmiën
+  - Kalymmium
+  - Kalym
+  - Calymiano
+  - kalymnium
+  - calymmij
+  - kalymmium
+  - 盖层纪
 has_id_wikidata: Q876805
 instance_of:
   - "[[_Standards/WikiData/WD~period,392928]]"
@@ -15,8 +34,6 @@ sRGB_color_hex_triplet: FDC07A
 
 #is_a_/time_/Period 
 
-A time period from 1600 to 1400 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Era-2500~Paleoproterozoic/Period-1800~Statherian|Period-1800~Statherian]] 
@@ -24,6 +41,8 @@ A time period from 1600 to 1400 million years ago.
 
 #is_/part_of :: [[../../Eon-0539~Phanerozoic/Era-0251~Mesozoic]] 
 #is_/same_as :: [[WD~Calymmian,876805]] 
+
+A time period from 1600 to 1400 million years ago. 
 
 ## #has_/text_of_/abstract 
 

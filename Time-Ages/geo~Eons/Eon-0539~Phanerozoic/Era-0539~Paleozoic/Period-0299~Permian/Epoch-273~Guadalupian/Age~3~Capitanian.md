@@ -1,13 +1,47 @@
+---
+aliases:
+  - Capitanian
+  - Капитан
+  - Capitan
+  - Capitanien
+  - Capitanium
+  - Capitaniense
+  - Capitani
+  - capitani
+  - capitaniano
+  - カピタニアン期
+  - Kapitanis
+  - Capitaniën
+  - Kapitan
+  - Capitaniano
+  - capitan
+  - capitanij
+  - 卡匹敦期
+has_id_wikidata: Q858203
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+named_after: "[[_Standards/WikiData/WD~El_Capitan,5350921]]"
+named_by: "[[_Standards/WikiData/WD~George_Burr_Richardson,23091654]]"
+significant_place: "[[_Standards/WikiData/WD~Nipple_Hill,31714143]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Capitanian,134425322]]"
+start_time: -265100000-01-01T00:00:00Z
+coordinate_location: Point(-104.7892 31.9091)
+sRGB_color_hex_triplet: FEA38A
+end_time: -259100000-01-01T00:00:00Z
+---
 # [[Age~3~Capitanian]] 
 
 #is_a_/time_/Age 
-
-A time period from 264.28 to 259.51 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~2~Wordian]] 
 #has_/next_/item :: [[../Epoch-259~Lopingian/Age~1~Wuchiapingian|Age~1~Wuchiapingian]] 
+#is_/same_as :: [[WD~Capitanian,858203]]  
+
+A time period from 264.28 to 259.51 million years ago. 
 
 ## #has_/text_of_/abstract 
 
@@ -24,7 +58,7 @@ A time period from 264.28 to 259.51 million years ago.
 > This extinction event may be related to the much larger Permian–Triassic extinction event 
 > that followed about 10 million years later.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Capitanian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Capitanian)  
 
 #has_/label_/bg  :: Капитан
 #has_/label_/cs  :: Capitan

@@ -2,6 +2,34 @@
 aliases:
   - Cambrian Stage 2
   - Age~2~Tommotian
+  - Камбрий - 2 етаж
+  - Kambrium-Stupeň 2
+  - Kambrium-Etage 2
+  - Kambrium-Stufe 2
+  - Cámbrico-Piso 2
+  - Kambrium, Lade 2
+  - Kambri-vaihe 2
+  - Cambrien-Etage 2
+  - kambrium 2. emelet
+  - cambriano - stage 2
+  - 第2期
+  - Kambras-Aukštas 2
+  - Cambrium, Zone 2
+  - Kambrium-etasje 2
+  - Kambr-Piętro 2
+  - Câmbrico-Piso 2
+  - kambrium, stupeň 2
+  - kambrij-stopnja 2
+  - kambrium etage 1
+  - 第二期
+has_id_wikidata: Q5025306
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+start_time: -529000000-01-01T00:00:00Z
+end_time: -521000000-01-01T00:00:00Z
+sRGB_color_hex_triplet: A6BA80
 ---
 
 # [[Age-529~Tommotian]] 
@@ -13,8 +41,8 @@ A time period from 529 to 521 million years ago.
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Fortunian]] 
-#has_/next_/item :: [[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian-Stage-3|Age-521~Cambrian-Stage-3]]   
-#is_/same_as :: [[WD~Tommotian,]]
+#has_/next_/item :: [[../Epoch-521~Cambrian_Series-2/Age-521~Cambrian_Stage_3|Age-521~Cambrian_Stage_3]]   
+#is_/same_as :: [[WD~Tommotian,5025306]]
 
 ![[../../../../../../../xLarge/Earth/Geology/Earth-530_Ma_(Fortunian_Age).png]] 
 
@@ -31,7 +59,8 @@ A time period from 529 to 521 million years ago.
 > 
 > The proposed upper boundary might be the first appearance of trilobites around 521 million years ago.Possible candidates for a GSSP include the first appearance of Watsonella crosbyi in the Zhujiaqing Formation (朱家庆组) in Yunnan, China or the Pestrotsvet Formation near the Aldan River on the Siberian Platform.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%202)
+> [Wikipedia](https://en.wikipedia.org/wiki/Cambrian%20Stage%202)  
+
 
 #has_/label_/bg  :: Камбрий - 2 етаж
 #has_/label_/cs  :: Kambrium-Stupeň 2

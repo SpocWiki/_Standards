@@ -1,3 +1,7 @@
+---
+aliases:
+  - Paleocene
+---
 
 # [[Epoch-066~Paleocene]] 
 

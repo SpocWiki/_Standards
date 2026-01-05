@@ -1,16 +1,49 @@
+---
+aliases:
+  - Pragian
+  - Праг
+  - Prag
+  - Pragien
+  - Pragium
+  - Praguiense
+  - Praha
+  - Praguien
+  - prágai
+  - pragiano
+  - プラギアン期
+  - Pragis
+  - Pragiën
+  - Pragiano
+  - prág
+  - pragij
+  - prag
+  - 布拉格期
+has_id_wikidata: Q1089625
+instance_of:
+  - "[[_Standards/WikiData/WD~age,568683]]"
+  - "[[_Standards/WikiData/WD~stage,1123245]]"
+part_of: "[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]"
+significant_place: "[[_Standards/WikiData/WD~Velká_Chuchle,84572475]]"
+type_locality_geology_: "[[_Standards/WikiData/WD~GSSP_for_the_base_of_the_Pragian,134605637]]"
+start_time: -410800000-01-01T00:00:00Z
+named_after: "[[_Standards/WikiData/WD~Prague,1085]]"
+sRGB_color_hex_triplet: EEC57B
+coordinate_location: Point(14.3726 50.0147)
+end_time: -407600000-01-01T00:00:00Z
+---
 # [[Age~2~Pragian]] 
 
 #is_a_/time_/Age 
-
-A time period from 410.8 to 407.6 million years ago. 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Lochkovian]] 
 #has_/next_/item :: [[Age~3~Emsian]] 
+#is_/same_as :: [[WD~Pragian,1089625]]  
+
+A time period from 410.8 to 407.6 million years ago. 
 
 ## #has_/text_of_/abstract 
-
 
 > The **Pragian** is one of three faunal stages in the Early Devonian Epoch. 
 > It lasted from 410.8 ± 2.8 million years ago to 407.6 ± 2.8 million years ago. 
@@ -23,7 +56,7 @@ A time period from 410.8 to 407.6 million years ago.
 >
 > In North America the Pragian Stage is represented by Siegenian or Deerparkian time.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Pragian)
+> [Wikipedia](https://en.wikipedia.org/wiki/Pragian)  
 
 
 #has_/label_/bg  :: Праг
