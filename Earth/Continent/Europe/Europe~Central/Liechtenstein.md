@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 9.553889 , 47.145 ] 
 aliases:
   - Liechtenstein
 has_id_wikidata: Q347

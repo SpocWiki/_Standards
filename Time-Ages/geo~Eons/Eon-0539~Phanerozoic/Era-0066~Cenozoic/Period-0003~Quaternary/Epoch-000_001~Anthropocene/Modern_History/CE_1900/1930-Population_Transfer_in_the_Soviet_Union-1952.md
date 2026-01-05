@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.0 , 65.0 ] 
 aliases:
 has_id_wikidata: Q85125
 victim_s_:

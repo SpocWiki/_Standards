@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 108.0 , 16.0 ] 
 aliases:
   - Vietnam
   - Viet Nam

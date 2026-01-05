@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 7.1881 , 21.09375 ] 
 aliases:
   - Africa
 has_id_wikidata: Q15

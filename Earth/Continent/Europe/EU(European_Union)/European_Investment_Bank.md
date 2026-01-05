@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.1352313 , 49.6202892 ] 
 aliases:
   - European Investment Bank
   - EIB

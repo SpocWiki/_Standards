@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 127.0 , 37.5 ] 
 aliases:
   - Korean Peninsula
   - Korea

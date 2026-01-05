@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 35.766667 , 33.833333 ] 
 aliases:
   - Lebanon
   - Líbano

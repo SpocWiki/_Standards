@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 37.677 , 55.761 ] 
 aliases:
 has_id_wikidata: Q194009
 legal_form: "[[_Standards/WikiData/WD~joint_stock_company,134161]]"

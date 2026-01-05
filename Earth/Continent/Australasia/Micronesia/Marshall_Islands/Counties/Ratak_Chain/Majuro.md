@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 171.3802 , 7.0918 ] 
 aliases:
 has_id_wikidata: Q12919
 confidential: public

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 28.046666666 , 53.528333333 ] 
 aliases:
   - Belarus
   - Belarús

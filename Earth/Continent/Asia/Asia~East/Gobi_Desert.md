@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.0 , 42.5 ] 
 aliases:
   - Gobi Desert
   - Gobi_Desert

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 52.0 , 26.0 ] 
 aliases:
   - Persian Gulf
   - Arabian Gulf

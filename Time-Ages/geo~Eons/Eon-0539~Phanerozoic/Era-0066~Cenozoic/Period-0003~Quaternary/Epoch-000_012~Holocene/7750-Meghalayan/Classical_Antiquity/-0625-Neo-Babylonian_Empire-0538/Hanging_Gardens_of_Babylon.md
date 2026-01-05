@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.4275 , 32.5355 ] 
 aliases:
   - Hanging Gardens of Babylon
   - Hanging Gardens of Semiramis

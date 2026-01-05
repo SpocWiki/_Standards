@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 83.0 , 22.8 ] 
 aliases:
   - India
   - Inde

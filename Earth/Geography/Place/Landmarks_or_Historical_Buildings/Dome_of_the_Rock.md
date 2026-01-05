@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 43.54980469 , 37.558513 ] 
 aliases:
   - Dome of the Rock
   - Felsendom

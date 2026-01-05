@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.0 , 46.0 ] 
 aliases:
   - Romania
   - Rumania

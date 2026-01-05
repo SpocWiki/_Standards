@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.583333 , 35.216667 ] 
 aliases:
   - Syria
   - Syrian Arab Republic

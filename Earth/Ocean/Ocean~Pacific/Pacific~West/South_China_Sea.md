@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 113.0 , 12.0 ] 
 aliases:
 has_id_wikidata: Q37660
 connects_with:

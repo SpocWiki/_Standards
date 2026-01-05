@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 28.516667 , 47.25 ] 
 aliases:
   - Moldova
   - Republic of Moldova

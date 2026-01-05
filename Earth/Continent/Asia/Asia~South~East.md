@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 105.1 , 12.0 ] 
 aliases:
 has_id_wikidata: Q11708
 Wolfram_Language_entity_code: Entity["Concept", "SoutheastAsia::x8m5q"]

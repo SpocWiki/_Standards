@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 78.041944444 , 27.175 ] 
 aliases:
   - Taj Mahal
   - Taj_Mahal

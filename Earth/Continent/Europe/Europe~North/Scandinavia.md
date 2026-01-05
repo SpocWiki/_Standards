@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.760936 , 64.779642 ] 
 aliases:
   - Skandinavien
   - Scandinavia

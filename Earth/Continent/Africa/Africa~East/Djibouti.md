@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 42.433333 , 11.8 ] 
 aliases:
   - Djibouti
   - جيبوتي

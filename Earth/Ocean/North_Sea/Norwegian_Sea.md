@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 0.0 , 69.0 ] 
 aliases:
   - Norwegian Sea
   - Norskehavet

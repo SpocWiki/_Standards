@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 6.049129 , 46.234493 ] 
 aliases:
   - European Organization for Nuclear Research
   - Organisation européenne pour la recherche nucléaire

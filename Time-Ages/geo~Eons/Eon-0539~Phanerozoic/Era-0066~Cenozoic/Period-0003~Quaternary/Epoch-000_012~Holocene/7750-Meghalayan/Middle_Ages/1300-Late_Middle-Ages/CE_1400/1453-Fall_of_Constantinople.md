@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 28.935 , 41.03 ] 
 aliases:
   - Fall of Constantinople
   - Conquest of Constantinople

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 68.0 , 48.0 ] 
 aliases:
   - Kazakhstan
   - Kazajstán

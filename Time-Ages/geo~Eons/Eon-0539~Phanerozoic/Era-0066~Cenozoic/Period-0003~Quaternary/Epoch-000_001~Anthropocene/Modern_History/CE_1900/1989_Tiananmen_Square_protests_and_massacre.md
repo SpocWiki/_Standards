@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 116.391666666 , 39.903333333 ] 
 aliases:
   - Tiananmen Square protests
   - Tiananmen Square Incident

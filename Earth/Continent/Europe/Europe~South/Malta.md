@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.5 , 35.883333333 ] 
 aliases:
   - Malta
   - Malte

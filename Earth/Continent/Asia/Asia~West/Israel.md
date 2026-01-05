@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 35.0 , 31.0 ] 
 aliases:
   - Israel
   - Israël

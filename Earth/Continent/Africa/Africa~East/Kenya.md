@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.0 , 0.1 ] 
 aliases:
   - Kenya
   - كينيا

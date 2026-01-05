@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.86 , 1.2825 ] 
 aliases:
   - Marina Sands
   - Marina Bay Sands, Singapore

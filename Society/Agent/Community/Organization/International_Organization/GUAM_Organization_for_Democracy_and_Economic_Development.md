@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 30.5217 , 50.4515 ] 
 aliases:
   - GUAM Organization for Democracy and Economic Development
   - GUAM_Organization_for_Democracy_and_Economic_Development

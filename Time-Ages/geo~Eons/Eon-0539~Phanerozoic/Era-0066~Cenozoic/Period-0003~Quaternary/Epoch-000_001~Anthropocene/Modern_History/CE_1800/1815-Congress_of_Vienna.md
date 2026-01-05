@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 16.363805555 , 48.2085 ] 
 aliases:
   - Wiener Kongress
   - 1815-Congress_of_Vienna

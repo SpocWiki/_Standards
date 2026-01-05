@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.3498 , 48.853 ] 
 aliases:
   - Notre-Dame de Paris
   - Notre-Dame

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 44.1 , 33.1 ] 
 aliases:
 has_id_wikidata: Q4461035
 replaces: "[[_Standards/WikiData/WD~Kish,132272]]"

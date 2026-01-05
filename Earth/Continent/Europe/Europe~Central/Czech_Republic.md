@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.0 , 50.0 ] 
 aliases:
   - Czechia
   - Czech Republic

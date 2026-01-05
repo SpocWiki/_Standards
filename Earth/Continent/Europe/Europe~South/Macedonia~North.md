@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 21.716667 , 41.65 ] 
 aliases:
   - North_Macedonia
   - Macedonia~North

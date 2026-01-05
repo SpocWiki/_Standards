@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 49.033333333 , 54.966666666 ] 
 aliases:
   - Volga Bulgaria
   - Volga–Kama Bulgaria

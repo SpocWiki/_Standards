@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 27.0 , 65.0 ] 
 aliases:
   - Finland
   - Finlandia

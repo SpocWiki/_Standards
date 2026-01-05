@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 24.0 , 55.2 ] 
 aliases:
   - Lithuania
   - Lituania

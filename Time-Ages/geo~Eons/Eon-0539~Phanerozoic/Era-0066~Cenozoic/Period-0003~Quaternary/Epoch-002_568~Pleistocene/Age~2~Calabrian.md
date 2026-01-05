@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 17.1348 , 39.0385 ] 
 aliases:
   - Calabrian
   - Калабрий

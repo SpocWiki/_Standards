@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 24.893333 , 35.309722 ] 
 aliases:
   - Minoan civilization
   - -2600-Minoan_Civilization-1100

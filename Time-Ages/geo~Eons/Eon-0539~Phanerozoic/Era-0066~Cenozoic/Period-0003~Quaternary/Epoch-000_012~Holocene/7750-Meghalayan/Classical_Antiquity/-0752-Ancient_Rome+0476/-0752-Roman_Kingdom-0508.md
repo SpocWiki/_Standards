@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.48333333 , 41.88333333 ] 
 aliases:
   - Roman Monarchy
   - Roman Kingdom

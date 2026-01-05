@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 4.317777777 , 52.105555555 ] 
 aliases:
   - ICC
   - International Criminal Court

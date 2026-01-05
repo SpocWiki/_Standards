@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 14.0 , 42.0 ] 
 aliases:
   - Italian Peninsula
   - Italic Peninsula

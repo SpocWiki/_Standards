@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 31.3 , 29.8 ] 
 aliases:
   - 6000-Ancient_Egypt
   - 6000-Ancient Egypt

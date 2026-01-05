@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.5 , 27.45 ] 
 aliases:
   - Bhutan
   - Bhután

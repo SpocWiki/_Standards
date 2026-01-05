@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 18.0 , 44.0 ] 
 aliases:
   - Bosnia_and_Herzegovina
   - Bosnia and Herzegovina

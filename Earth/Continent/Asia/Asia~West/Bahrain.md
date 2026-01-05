@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 50.551111 , 26.0675 ] 
 aliases:
   - Bahrain
   - Bahrein

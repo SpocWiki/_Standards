@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 38.0 , 35.0 ] 
 aliases:
   - Syrischer Bürgerkrieg
   - 2011-Syrian_Civil_War-2024

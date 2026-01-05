@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.511696 , 14.474672 ] 
 aliases:
   - Sahelian acacia savanna
   - Sahel region

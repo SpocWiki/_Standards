@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 3.6825 , 56.459 ] 
 aliases:
 has_id_wikidata: Q1693
 has_part_s_:

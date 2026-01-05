@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 8.0 , 9.0 ] 
 aliases:
   - Nigeria
   - Nigéria

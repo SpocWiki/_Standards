@@ -90,6 +90,11 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 #has_/creator :: [[../../Economics/Economist/Smith,Adam|Smith,Adam]] 
 #has_/creator :: [[../../Economics/Economist/Ricardo,David|Ricardo,David]]  
 
+Unrestrained Capitalism led to many atrocities, 
+among others to [[Workforce_Exploitation]], the [[Great_Bengal_Famine]], 
+the [[Atlantic_Slave_Trade]] and the [[Opium_Wars]]. 
+This shows what [[../Political_Ideology/Humanism/Liberalism|Liberalism]] will lead to. 
+
 ## #has_/text_of_/abstract 
 
 > **Capitalism** is an economic system based on the 

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 81.0 , 7.0 ] 
 aliases:
   - Sri Lanka
   - سري لانكا

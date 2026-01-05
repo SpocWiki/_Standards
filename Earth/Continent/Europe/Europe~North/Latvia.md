@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 25.0 , 57.0 ] 
 aliases:
   - Latvia
   - Letonia

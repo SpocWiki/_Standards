@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 30.0 , 7.0 ] 
 aliases:
   - South Sudan
   - Sudán del Sur

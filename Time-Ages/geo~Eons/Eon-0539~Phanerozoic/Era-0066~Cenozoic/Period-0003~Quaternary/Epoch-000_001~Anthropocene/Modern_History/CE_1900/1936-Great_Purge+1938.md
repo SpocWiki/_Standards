@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.0 , 65.0 ] 
 aliases:
   - Great Purge
   - 1936-Great_Purge+1938

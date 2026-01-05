@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 5.55 , 52.316666666 ] 
 aliases:
   - Netherlands
   - Países Bajos

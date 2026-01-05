@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 114.325 , 36.12083333 ] 
 aliases:
   - Shang dynasty
   - 商朝

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 123.0 , 12.0 ] 
 aliases:
   - Philippines
   - Filipinas

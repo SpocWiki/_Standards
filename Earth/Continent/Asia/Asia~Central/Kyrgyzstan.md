@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 75.0 , 41.0 ] 
 aliases:
   - Kyrgyzstan
   - Kirguistán

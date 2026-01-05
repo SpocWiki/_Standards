@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.3522 , 48.8567 ] 
 aliases:
   - Versailles Conference
   - 1919-Paris_Peace_Conference

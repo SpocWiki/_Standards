@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 88.7311 , 23.9888 ] 
 aliases:
   - Great Bengal famine of 1770
   - 1770_Great_Bengal_famine

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.5 , 42.5 ] 
 aliases:
   - Italy
   - Italia

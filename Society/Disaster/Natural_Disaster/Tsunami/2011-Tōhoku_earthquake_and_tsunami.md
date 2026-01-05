@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 142.369 , 38.322 ] 
 aliases:
   - 2011-Tōhoku_earthquake_and_tsunami
   - 2011-Tōhoku earthquake and tsunami

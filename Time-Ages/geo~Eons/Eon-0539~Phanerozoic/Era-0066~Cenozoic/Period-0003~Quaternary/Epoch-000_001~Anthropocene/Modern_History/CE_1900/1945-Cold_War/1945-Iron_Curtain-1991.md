@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 15.873611 , 48.875833 ] 
 aliases:
 has_id_wikidata: Q124425
 different_from: "[[_Standards/WikiData/WD~Bamboo_Curtain,1072056]]"

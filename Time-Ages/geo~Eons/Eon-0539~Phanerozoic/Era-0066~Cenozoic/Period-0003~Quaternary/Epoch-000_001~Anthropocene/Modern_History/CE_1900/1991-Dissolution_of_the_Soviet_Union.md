@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.0 , 65.0 ] 
 aliases:
 has_id_wikidata: Q5167679
 theorized_by: "[[_Standards/WikiData/WD~Gennady_Yanayev,113173]]"

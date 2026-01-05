@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 118.401 , 39.664 ] 
 aliases:
   - Great Tangshan earthquake
   - 唐山大地震

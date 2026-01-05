@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 140.146527777 , 35.294333333 ] 
 aliases:
   - Chibanian
   - Age~3~Chibanian

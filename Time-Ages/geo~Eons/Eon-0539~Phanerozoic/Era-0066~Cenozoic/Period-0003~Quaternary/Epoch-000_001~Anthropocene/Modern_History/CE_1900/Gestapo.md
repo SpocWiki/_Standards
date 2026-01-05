@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.3825 , 52.507222 ] 
 aliases:
   - Gestapo
   - Geheime Staatspolizei

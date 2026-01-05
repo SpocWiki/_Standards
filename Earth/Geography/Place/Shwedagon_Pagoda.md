@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 96.14944444 , 16.79833333 ] 
 aliases:
   - Shwedagon Pagoda
   - ရွှေတိဂုံဘုရား

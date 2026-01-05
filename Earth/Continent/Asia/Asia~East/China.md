@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.451944444 , 35.844722222 ] 
 aliases:
   - China
   - Chine

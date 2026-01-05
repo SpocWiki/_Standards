@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 90.0 , 65.0 ] 
 aliases:
   - Soviet Union
   - USSR

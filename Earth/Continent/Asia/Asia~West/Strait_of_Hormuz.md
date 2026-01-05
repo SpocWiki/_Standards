@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 56.5 , 26.6 ] 
 aliases:
   - Strait of Hormuz
   - تنگهٔ هُرمُز

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 101.0 , 14.0 ] 
 aliases:
   - Thailand
   - Tailandia

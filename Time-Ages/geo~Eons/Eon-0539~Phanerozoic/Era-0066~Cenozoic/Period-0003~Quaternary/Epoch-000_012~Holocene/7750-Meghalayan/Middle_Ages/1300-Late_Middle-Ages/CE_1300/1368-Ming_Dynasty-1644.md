@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 103.0833333 , 32.8 ] 
 aliases:
   - Ming Dynasty
   - 1368-Ming_Dynasty-1644

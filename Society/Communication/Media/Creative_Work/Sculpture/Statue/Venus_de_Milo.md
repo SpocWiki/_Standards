@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.337287873 , 48.859944681 ] 
 aliases:
   - Venus de Milo
   - Aphrodite of Melos

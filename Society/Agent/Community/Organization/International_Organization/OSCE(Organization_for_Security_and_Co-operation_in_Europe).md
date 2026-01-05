@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.269235555 , 48.861673888 ] 
 aliases:
   - Organization for Security and Co-operation in Europe
   - OSZE

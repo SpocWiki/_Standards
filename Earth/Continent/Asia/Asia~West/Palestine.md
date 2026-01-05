@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 35.145264 , 31.625321 ] 
 aliases:
   - Palestine
   - State of Palestine

@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 29.885 , 31.214167 ] 
 aliases:
   - Lighthouse of Alexandria
   - Pharos of Alexandria

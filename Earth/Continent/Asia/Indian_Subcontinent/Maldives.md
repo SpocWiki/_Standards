@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 73.51 , 4.18 ] 
 aliases:
   - Maldives
   - Maldivas

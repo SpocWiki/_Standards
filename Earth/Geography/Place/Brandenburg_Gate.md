@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.377722222 , 52.516272222 ] 
 aliases:
   - Brandenburg Gate
   - Brandenburger Tor

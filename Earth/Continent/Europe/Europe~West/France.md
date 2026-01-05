@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 2.0 , 47.0 ] 
 aliases:
   - France
   - Francia

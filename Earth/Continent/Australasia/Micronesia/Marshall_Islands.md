@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 169.29 , 9.82 ] 
 aliases:
   - Marshall Islands
   - Islas Marshall

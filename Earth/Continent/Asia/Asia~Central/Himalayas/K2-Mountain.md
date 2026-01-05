@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 76.513333333 , 35.881111111 ] 
 aliases:
 has_id_wikidata: Q43512
 peak_bagging_classification: "[[_Standards/WikiData/WD~eight_thousander,185552]]"

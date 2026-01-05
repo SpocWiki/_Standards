@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 125.0 , 30.0 ] 
 aliases:
   - East China Sea
   - East_China_Sea

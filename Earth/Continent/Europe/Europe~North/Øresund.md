@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 12.75 , 55.75 ] 
 aliases:
   - Øresund
   - Öresund

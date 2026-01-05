@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 13.381944444 , 52.511666666 ] 
 aliases:
   - Congress of Berlin
   - 1878-Congress_of_Berlin

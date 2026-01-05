@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 9.170833333 , 45.466666666 ] 
 aliases:
   - The_Last_Supper
   - Il Cenacolo [il tʃeˈnaːkolo] or L'Ultima Cena

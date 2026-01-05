@@ -1,4 +1,5 @@
----
+﻿---
+location: [ 102.0 , 9.5 ] 
 aliases:
   - Gulf of Thailand
   - อ่าวไทย
