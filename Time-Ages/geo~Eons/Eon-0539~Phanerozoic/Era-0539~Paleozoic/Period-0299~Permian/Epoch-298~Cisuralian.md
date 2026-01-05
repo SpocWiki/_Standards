@@ -33,7 +33,7 @@ sRGB_color_hex_triplet: F76E54
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Epoch~3~Late_Pennsylvanian|Epoch~3~Late_Pennsylvanian]]  
+#has_/previous_/item :: [[../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~3~Kasimovian|Age~3~Kasimovian]]  
 #has_/next_/item :: [[Epoch-273~Guadalupian]]  
 #is_/same_as :: [[WD~Cisuralian,642169]]  
 

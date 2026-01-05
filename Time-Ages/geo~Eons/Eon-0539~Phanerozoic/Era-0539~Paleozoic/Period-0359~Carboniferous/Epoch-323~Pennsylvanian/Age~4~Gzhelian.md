@@ -34,21 +34,21 @@ end_time: -298900000-01-01T00:00:00Z
 sRGB_color_hex_triplet: CCD4C7
 Commons_category: Gzhelian
 ---
-# [[Age~2~Gzhelian]] 
+# [[Age~4~Gzhelian]] 
 
 #is_a_/time_/Age 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Age~1~Kasimovian]] 
-#has_/next_/item :: [[../../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
+#has_/previous_/item :: [[Age~3~Kasimovian]] 
+#has_/next_/item :: [[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] 
 #is_/same_as :: [[WD~Gzhelian,1030848]] 
 
 A time period from 303.7 to 298.9 million years ago. 
 
 ## #has_/text_of_/abstract 
 
-> The **Gzhelian** ( ZHELL-ee-ən) is an age in the ICS geologic timescale or a stage in the stratigraphic column. It is the youngest stage of the Pennsylvanian, the youngest subsystem of the Carboniferous. The Gzhelian lasted from 303.7 to 298.9 Ma. It follows the [[Age~1~Kasimovian]] and is followed by the [[../../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] age/stage, the oldest subdivision of the Permian system.
+> The **Gzhelian** ( ZHELL-ee-ən) is an age in the ICS geologic timescale or a stage in the stratigraphic column. It is the youngest stage of the Pennsylvanian, the youngest subsystem of the Carboniferous. The Gzhelian lasted from 303.7 to 298.9 Ma. It follows the [[Age~3~Kasimovian]] and is followed by the [[../../Period-0299~Permian/Epoch-298~Cisuralian/Age~1~Asselian|Age~1~Asselian]] age/stage, the oldest subdivision of the Permian system.
 >
 > The Gzhelian is more or less coeval with the Stephanian Stage of the regional stratigraphy of Europe.
 >
@@ -101,7 +101,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~2~Gzhelian|Age~2~Gzhelian]] 
+### #is_/same_as :: [[Age~4~Gzhelian|Age~4~Gzhelian]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian.public|Age~2~Gzhelian.public]] 
 

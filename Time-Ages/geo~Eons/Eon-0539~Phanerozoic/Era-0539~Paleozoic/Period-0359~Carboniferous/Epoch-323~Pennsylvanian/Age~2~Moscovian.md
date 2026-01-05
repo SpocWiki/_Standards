@@ -23,6 +23,7 @@ aliases:
   - moskovij
   - moscov
   - 莫斯科期
+  - "{ newTitle: }":
 has_id_wikidata: Q1179385
 instance_of:
   - "[[_Standards/WikiData/WD~age,568683]]"
@@ -38,8 +39,37 @@ end_time: -307000000-01-01T00:00:00Z
 sRGB_color_hex_triplet: B3CBB9
 Commons_category: Moscovian
 ischart: MiddlePennsylvanian
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
-# [[Age~Moscovian]] 
+# [[Age~2~Moscovian]] 
 
 #is_a_/time_/Age 
 
@@ -53,8 +83,8 @@ ischart: MiddlePennsylvanian
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
-#has_/next_/item :: [[../Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian|Age~1~Kasimovian]] 
+#has_/previous_/item :: [[Age~1~Bashkirian|Age~1~Bashkirian]] 
+#has_/next_/item :: [[Age~3~Kasimovian|Age~3~Kasimovian]] 
 #is_/same_as :: [[WD~Moscovian,1179385]]  
 
 A time period from 315.2 to 307.0 million years ago. 
@@ -114,7 +144,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~Moscovian|Age~Moscovian]] 
+### #is_/same_as :: [[Age~2~Moscovian|Age~2~Moscovian]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.public|Age~Moscovian.public]] 
 
@@ -128,3 +158,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~2~Middle_Pennsylvanian/Age~Moscovian.secret|Age~Moscovian.secret]] 
 
+
+# [[Age~2~Moscovian]] 
+
+#is_/part_of :: [[Epoch~2~Middle_Pennsylvanian]] 
+
+![[Age~2~Moscovian.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age~2~Moscovian.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

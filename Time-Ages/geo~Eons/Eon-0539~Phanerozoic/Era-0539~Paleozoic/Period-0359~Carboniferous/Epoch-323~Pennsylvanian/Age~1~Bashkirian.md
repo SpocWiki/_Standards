@@ -21,6 +21,7 @@ aliases:
   - baškirij
   - bashkir
   - 巴什基尔期
+  - "{ newTitle: }":
 has_id_wikidata: Q639443
 ischart: LowerPennsylvanian
 instance_of:
@@ -37,8 +38,37 @@ Commons_category: Bashkirian
 coordinate_location: Point(-114.7778 36.7333)
 sRGB_color_hex_triplet: 99C2B5
 start_time: -323200000-01-01T00:00:00Z
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
-# [[Age~Bashkirian]] 
+# [[Age~1~Bashkirian]] 
 
 #is_a_/time_/Age 
 
@@ -52,8 +82,8 @@ start_time: -323200000-01-01T00:00:00Z
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]] 
-#has_/next_/item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
+#has_/previous_/item :: [[../Epoch-359~Mississippian/Age~3~Serpukhovian|Age~3~Serpukhovian]] 
+#has_/next_/item :: [[Age~2~Moscovian|Age~2~Moscovian]] 
 #is_/same_as :: [[WD~Bashkirian,639443]] 
 
 A time period from 323.2 to 315.2 million years ago. 
@@ -64,7 +94,7 @@ A time period from 323.2 to 315.2 million years ago.
 >
 > The Bashkirian overlaps with the upper part of the Namurian and lower part of the Westphalian stages from regional European stratigraphy. It also overlaps with the North American Morrowan and Atokan stages and the Chinese Luosuan and lower Huashibanian stages.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian) 
+> [Wikipedia](https://en.wikipedia.org/wiki/Bashkirian)  
 
 #has_/label_/bg  :: Башкир
 #has_/label_/cs  :: Bashkir
@@ -112,7 +142,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~Bashkirian|Age~Bashkirian]] 
+### #is_/same_as :: [[Age~1~Bashkirian|Age~1~Bashkirian]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.public|Age~Bashkirian.public]] 
 
@@ -126,3 +156,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~1~Early_Pennsylvanian/Age~Bashkirian.secret|Age~Bashkirian.secret]] 
 
+
+# [[Age~1~Bashkirian]] 
+
+#is_/part_of :: [[Epoch~1~Early_Pennsylvanian]] 
+
+![[Age~1~Bashkirian.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age~1~Bashkirian.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

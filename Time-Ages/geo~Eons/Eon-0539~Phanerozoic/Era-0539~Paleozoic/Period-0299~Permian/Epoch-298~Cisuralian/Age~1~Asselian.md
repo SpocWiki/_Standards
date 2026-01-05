@@ -38,7 +38,7 @@ coordinate_location: Point(57.8914 50.2458)
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~2~Gzhelian|Age~2~Gzhelian]] 
+#has_/previous_/item :: [[../../Period-0359~Carboniferous/Epoch-323~Pennsylvanian/Age~4~Gzhelian|Age~4~Gzhelian]] 
 #has_/next_/item :: [[Age~2~Sakmarian]] 
 #is_/same_as :: [[WD~Asselian,740340]]  
 

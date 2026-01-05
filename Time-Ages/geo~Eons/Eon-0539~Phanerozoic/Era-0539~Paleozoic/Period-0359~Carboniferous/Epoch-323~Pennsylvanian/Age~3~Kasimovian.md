@@ -17,6 +17,7 @@ aliases:
   - kasimov
   - kasimovij
   - 卡西莫夫期
+  - "{ newTitle: }":
 has_id_wikidata: Q545853
 named_after: "[[_Standards/WikiData/WD~Kasimov,145457]]"
 instance_of:
@@ -29,15 +30,44 @@ end_time: -303700000-01-01T00:00:00Z
 start_time: -307000000-01-01T00:00:00Z
 Commons_category: Kasimovian
 sRGB_color_hex_triplet: BFD0C5
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+title:
+  "{ newTitle: }":
+type: private_note
 ---
-# [[Age~1~Kasimovian]] 
+# [[Age~3~Kasimovian]] 
 
 #is_a_/time_/Age 
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] 
-#has_/next_/item :: [[Age~2~Gzhelian]] 
+#has_/previous_/item :: [[Age~2~Moscovian|Age~2~Moscovian]] 
+#has_/next_/item :: [[Age~4~Gzhelian]] 
 #is_/same_as :: [[WD~Kasimovian,545853]] 
 
 A time period from 307.0 to 303.7 million years ago. 
@@ -48,7 +78,7 @@ A time period from 307.0 to 303.7 million years ago.
 > or chronostratigraphic stage in the ICS geologic timescale. 
 > 
 > It is the third stage in the Pennsylvanian (late Carboniferous), lasting from 307 to 303.7 Ma. 
-> The Kasimovian Stage follows the [[../Epoch~2~Middle_Pennsylvanian/Age~Moscovian|Age~Moscovian]] and is followed by the [[Age~2~Gzhelian]].
+> The Kasimovian Stage follows the [[Age~2~Moscovian|Age~2~Moscovian]] and is followed by the [[Age~4~Gzhelian]].
 >
 > The Kasimovian saw an extinction event which occurred around 305 mya, 
 > referred to as the Carboniferous Rainforest Collapse. 
@@ -106,7 +136,7 @@ noteOnly: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[Age~1~Kasimovian|Age~1~Kasimovian]] 
+### #is_/same_as :: [[Age~3~Kasimovian|Age~3~Kasimovian]] 
 
 ### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.public|Age~1~Kasimovian.public]] 
 
@@ -120,3 +150,22 @@ noteOnly: true
 
 ### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Pennsylvanian/Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian.secret|Age~1~Kasimovian.secret]] 
 
+
+# [[Age~3~Kasimovian]] 
+
+#is_/part_of :: [[Epoch~3~Late_Pennsylvanian]] 
+
+![[Age~3~Kasimovian.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Age~3~Kasimovian.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

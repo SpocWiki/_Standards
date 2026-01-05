@@ -40,7 +40,7 @@ Dewey_Decimal_Classification: "551.752"
 
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
-#has_/previous_/item :: [[Epoch~2~Middle_Pennsylvanian]] 
+#has_/previous_/item :: [[Epoch-323~Pennsylvanian/Age~2~Moscovian]] 
 #has_/next_/item :: [[../../Period-0299~Permian/Epoch-298~Cisuralian|Epoch-298~Cisuralian]] 
 #is_/same_as :: [[WD~Pennsylvanian,373772]] 
 
