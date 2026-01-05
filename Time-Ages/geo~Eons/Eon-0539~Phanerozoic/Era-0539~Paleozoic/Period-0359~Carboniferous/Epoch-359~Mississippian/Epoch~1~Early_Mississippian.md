@@ -1,0 +1,96 @@
+---
+aliases:
+  - Early_Mississippian
+  - Early Mississippian
+  - Tournaisian
+ischart: LowerMississippian
+---
+
+# [[Age~Tournaisian]] 
+
+#is_a_/time_/Age 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/previous_/item :: [[../../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] 
+#has_/next_/item :: [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]] 
+#has_/label_/bg  :: Турней
+#has_/label_/cs  :: Tournai
+#has_/label_/da  :: Tournaisien
+#has_/label_/de  :: Tournaisium
+#has_/label_/es  :: Tournaisiense
+#has_/label_/et  :: Tournais
+#has_/label_/fi  :: Tournais
+#has_/label_/fr  :: Tournaisien
+#has_/label_/hu  :: tournaisi
+#has_/label_/it  :: tournasiano
+#has_/label_/ja  :: トルネージアン期
+#has_/label_/lt  :: Turnėjis
+#has_/label_/nl  :: Tournaisiën
+#has_/label_/no  :: Tournasium
+#has_/label_/pl  :: Turnej
+#has_/label_/pt  :: Turnaisiano
+#has_/label_/sk  :: turnén
+#has_/label_/sl  :: tournaisij
+#has_/label_/sv  :: tournas
+#has_/label_/zh  :: 杜内期
+
+#has_/abbreviation :: C1c1
+
+#has_/time_/started :: -358.9e6 
+#has_/time_/stopped :: -346.7e6 
+
+    sh:order 105 
+
+#has_/text_of_/color :: 0x8CB06C
+
+A time period from 358.9 to 346.7 million years ago. 
+
+## #has_/text_of_/abstract 
+
+
+> The **Tournaisian** is in the ICS geologic timescale the lowest stage 
+> or oldest age of the Mississippian, the oldest subsystem of the Carboniferous. 
+> 
+> The Tournaisian age lasted from 358.9 Ma to 346.7 Ma. 
+> It is preceded by the [[../../../Period-0419~Devonian/Epoch-382~Late_Devonian/Age~2~Famennian|Age~2~Famennian]] (the uppermost stage of the Devonian) 
+> and is followed by the [[../Epoch~2~Middle_Mississippian/Age~Visean|Age~Visean]]. 
+> 
+> In global stratigraphy, the Tournaisian contains two substages: 
+> - the Hastarian (lower Tournaisian) and 
+> - Ivorian (upper Tournaisian). 
+> These two substages were originally designated as European regional stages.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Tournaisian)
+
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Epoch~1~Early_Mississippian|Epoch~1~Early_Mississippian]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.public|Epoch~1~Early_Mississippian.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.internal|Epoch~1~Early_Mississippian.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.protect|Epoch~1~Early_Mississippian.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.private|Epoch~1~Early_Mississippian.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.personal|Epoch~1~Early_Mississippian.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~1~Paleozoic/Period~5~Carboniferous/Sub-Period~Mississippian/Epoch~1~Early_Mississippian.secret|Epoch~1~Early_Mississippian.secret]] 
+
