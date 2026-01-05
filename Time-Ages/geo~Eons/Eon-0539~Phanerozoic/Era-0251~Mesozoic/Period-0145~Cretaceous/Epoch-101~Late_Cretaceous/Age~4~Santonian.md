@@ -2,12 +2,14 @@
 
 #is_a_/time_/Age 
 
-A time period from 86.3 to 83.6 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/prev_item :: [[Age~5~Campanian]] 
 #has_/next_item :: [[Age~6~Maastrichtian]] 
+
+A time period from 86.3 to 83.6 million years ago. 
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-085_Ma_(Santonian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

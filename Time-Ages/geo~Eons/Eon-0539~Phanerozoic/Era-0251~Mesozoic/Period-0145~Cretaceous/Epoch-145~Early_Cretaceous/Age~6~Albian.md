@@ -2,12 +2,14 @@
 
 #is_a_/time_/Age 
 
-A time period from 113.0 to 100.5 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~5~Aptian]] 
 #has_/next_/item :: [[../Epoch-101~Late_Cretaceous/Age~1~Cenomanian|Age~1~Cenomanian]]  
+
+A time period from 113.0 to 100.5 million years ago. 
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-105_Ma_(Albian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

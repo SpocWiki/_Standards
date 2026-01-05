@@ -9,6 +9,8 @@ A time period from 15.98 to 13.82 million years ago.
 #has_/previous_/item :: [[Age~2~Burdigalian]] 
 #has_/next_/item :: [[Age~4~Serravallian]] 
 
+![[../../../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

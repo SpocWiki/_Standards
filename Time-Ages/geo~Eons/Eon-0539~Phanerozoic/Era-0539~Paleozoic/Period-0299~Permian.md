@@ -38,6 +38,9 @@ Dewey_Decimal_Classification: "551.756"
 
 A time period from 298.9 to 251.902 million years ago. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png]] 
+
+
 ## #has_/text_of_/abstract 
 
 

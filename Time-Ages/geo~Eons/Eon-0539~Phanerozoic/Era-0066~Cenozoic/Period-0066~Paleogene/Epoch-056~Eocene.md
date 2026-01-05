@@ -10,6 +10,8 @@
 
 A time period from 56.0 to 33.9 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

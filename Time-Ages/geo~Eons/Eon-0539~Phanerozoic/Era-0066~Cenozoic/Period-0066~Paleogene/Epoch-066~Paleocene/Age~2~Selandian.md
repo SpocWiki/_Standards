@@ -9,6 +9,8 @@ A time period from 61.6 to 59.2 million years ago.
 #has_/previous_/item :: [[Age~1~Danian]] 
 #has_/next_/item :: [[Age~3~Thanetian]] 
 
+![[../../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

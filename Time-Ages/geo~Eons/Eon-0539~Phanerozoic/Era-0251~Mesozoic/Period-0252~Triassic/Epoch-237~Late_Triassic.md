@@ -16,6 +16,8 @@ ischart: UpperTriassic
 
 A time period from 237 to 201.4 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

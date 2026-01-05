@@ -10,6 +10,8 @@
 
 A time period from 33.9 to 23.03 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

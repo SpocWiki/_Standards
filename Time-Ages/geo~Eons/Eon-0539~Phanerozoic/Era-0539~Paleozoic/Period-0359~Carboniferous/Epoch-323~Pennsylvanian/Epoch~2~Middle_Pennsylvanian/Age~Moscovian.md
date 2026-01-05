@@ -9,6 +9,8 @@ A time period from 315.2 to 307.0 million years ago.
 #has_/previous_/item :: [[../Epoch~1~Early_Pennsylvanian/Age~Bashkirian|Age~Bashkirian]] 
 #has_/next_/item :: [[../Epoch~3~Late_Pennsylvanian/Age~1~Kasimovian|Age~1~Kasimovian]] 
 
+![[../../../../../../../../xLarge/Earth/Geology/Earth-310_Ma_(Moscovian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

@@ -56,6 +56,8 @@ Dewey_Decimal_Classification:
 
 A time period from 66.0 to 23.03 million years ago. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Paleogene** (IPA:  PAY-lee-ə-jeen, -⁠lee-oh-, PAL-ee-; also spelled Palaeogene or Palæogene) is a geologic period and system that spans 43 million years 

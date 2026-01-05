@@ -50,6 +50,8 @@ Dewey_Decimal_Classification:
 
 A time period from 201.4 million years ago to 145 Mya. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

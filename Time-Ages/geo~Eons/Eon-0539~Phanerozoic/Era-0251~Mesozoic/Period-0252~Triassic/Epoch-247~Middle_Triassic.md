@@ -16,6 +16,8 @@ ischart: MiddleTriassic
 
 A time period from 247.2 to 237 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

@@ -37,6 +37,8 @@ Dewey_Decimal_Classification: 551.762
 
 A time period from 251.902 to 201.4 million years ago. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-225_Ma_(Norian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

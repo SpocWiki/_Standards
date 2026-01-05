@@ -2,12 +2,12 @@
 
 #is_a_/time_/Age 
 
-A time period from 251.902 to 251.2 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../../../Era-0539~Paleozoic/Period-0299~Permian/Epoch-259~Lopingian/Age~2~Changhsingian|Age~2~Changhsingian]] 
 #has_/next_/item :: [[Age~2~Olenekian]] 
+
+A time period from 251.902 to 251.2 million years ago. 
 
 ## #has_/text_of_/abstract 
 

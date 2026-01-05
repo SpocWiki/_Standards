@@ -12,7 +12,7 @@ ischart: UpperDevonian
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Epoch-393~Middle_Devonian]] 
-#has_/next_/item :: [[../Period-0359~Carboniferous/Epoch-359~Mississippian/Epoch~1~Early_Mississippian|Epoch~1~Early_Mississippian]] 
+#has_/next_/item :: [[../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]] 
 
 A time period from 382.7 to 358.9 million years ago. 
 

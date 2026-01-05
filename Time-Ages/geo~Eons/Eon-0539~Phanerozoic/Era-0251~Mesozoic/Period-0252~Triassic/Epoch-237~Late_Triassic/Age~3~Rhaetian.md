@@ -2,12 +2,13 @@
 
 #is_a_/time_/Age 
 
-A time period from 208.5 to 201.4 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~2~Norian]] 
 #has_/next_/item :: [[../../Period-0201~Jurassic/Epoch-201~Early_Jurassic/Age~1~Hettangian|Age~1~Hettangian]] 
+
+A time period from 208.5 to 201.4 million years ago. 
+
 
 ## #has_/text_of_/abstract 
 

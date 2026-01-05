@@ -2,12 +2,14 @@
 
 #is_a_/time_/Age 
 
-A time period from 247.2 to 251.2 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Induan]] 
 #has_/next_/item :: [[../Epoch-247~Middle_Triassic/Age~1~Anisian|Age~1~Anisian]] 
+
+A time period from 247.2 to 251.2 million years ago. 
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

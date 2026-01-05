@@ -2,15 +2,16 @@
 
 #is_a_/time_/Age 
 
-A time period from 266.9 to 264.28 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Roadian]] 
 #has_/next_/item :: [[Age~3~Capitanian]] 
 
-## #has_/text_of_/abstract 
+A time period from 266.9 to 264.28 million years ago. 
 
+![[../../../../../../../xLarge/Earth/Geology/Earth-265_Ma_(Wordian_Age).png]] 
+
+## #has_/text_of_/abstract 
 
 > In the geologic timescale, the **Wordian** is an age or stage of the Permian. 
 > It is the middle of three subdivisions of the Guadalupian Epoch or Series. 

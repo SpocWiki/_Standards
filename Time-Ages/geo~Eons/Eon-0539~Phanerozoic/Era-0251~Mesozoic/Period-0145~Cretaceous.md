@@ -40,6 +40,8 @@ sRGB_color_hex_triplet: 7FC64E
 
 A time period from 145.0 to 66.0 million years ago. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-105_Ma_(Albian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Cretaceous** (IPA:  krih-TAY-shəs) is a geological period that lasted from about 145 to 66 million years ago (Mya). It is the third and final period of the [[../Era-0251~Mesozoic]], as well as the longest. At around 79 million years, it is the longest geological period of the entire Phanerozoic. The name is derived from the Latin creta, "chalk", which is abundant in the latter half of the period. It is usually abbreviated K, for its German translation Kreide.

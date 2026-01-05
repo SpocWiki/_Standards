@@ -16,6 +16,8 @@ ischart: LowerCretaceous
 
 A time period from 145.0 to 100.5 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-120_Ma_(Aptian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

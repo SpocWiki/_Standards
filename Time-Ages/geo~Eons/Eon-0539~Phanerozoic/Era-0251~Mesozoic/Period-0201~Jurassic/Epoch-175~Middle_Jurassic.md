@@ -10,6 +10,9 @@
 
 A time period from 174.7 to 161.5 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-170_Ma_(Bajocian_Age).png]] 
+
+
 ## #has_/text_of_/abstract 
 
 > The Middle Jurassic is the second epoch of the Jurassic Period. It lasted from about 174.1 to 163.5 million years ago. Fossils of land-dwelling animals, such as dinosaurs, from the Middle Jurassic are relatively rare, but geological formations containing land animal fossils include the Forest Marble Formation in England, the Kilmaluag Formation in Scotland, the Calcaire de Caen of France, the Daohugou Beds in China, the Itat Formation in Russia, the Tiouraren Formation of Niger, and the Isalo III Formation of western Madagascar.

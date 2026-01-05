@@ -16,6 +16,8 @@ ischart: UpperJurassic
 
 A time period from 161.5 to 145 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-155_Ma_(Oxfordian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

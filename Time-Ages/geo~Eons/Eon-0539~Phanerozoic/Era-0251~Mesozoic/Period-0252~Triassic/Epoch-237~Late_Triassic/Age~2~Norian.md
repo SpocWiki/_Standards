@@ -2,12 +2,15 @@
 
 #is_a_/time_/Age 
 
-A time period from 227 to 208.5 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Carnian]] 
 #has_/next_/item :: [[Age~3~Rhaetian]] 
+
+A time period from 227 to 208.5 million years ago. 
+
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-220_Ma_(Norian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

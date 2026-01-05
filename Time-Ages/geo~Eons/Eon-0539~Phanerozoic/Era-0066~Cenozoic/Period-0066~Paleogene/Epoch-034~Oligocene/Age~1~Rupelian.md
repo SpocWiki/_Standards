@@ -9,6 +9,8 @@ A time period from 33.9 to 27.82 million years ago.
 #has_/previous_/item :: [[../Epoch-056~Eocene/Age~4~Priabonian|Age~4~Priabonian]] 
 #has_/next_/item :: [[Age~2~Chattian]] 
 
+![[../../../../../../../xLarge/Earth/Geology/Earth-030_Ma_(Rupelian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

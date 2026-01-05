@@ -57,6 +57,8 @@ Dewey_Decimal_Classification: "551.786"
 
 A time period from 23.03 to 2.58 million years ago. 
 
+![[../../../../../xLarge/Earth/Geology/Earth-015_Ma_(Langhian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

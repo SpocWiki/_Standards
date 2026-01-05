@@ -16,6 +16,8 @@ ischart: LowerTriassic
 
 A time period from 251.902 to 247.2 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-250_Ma_(Olenekian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

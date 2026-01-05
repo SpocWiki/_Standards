@@ -2,13 +2,14 @@
 
 #is_a_/time_/Age 
 
-A time period from 5.333 to 3.6 million years ago. 
-
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch-023~Miocene/Age~6~Messinian|Age~6~Messinian]] 
 #has_/next_/item :: [[Age~2~Piacenzian]] 
+
+A time period from 5.333 to 3.6 million years ago. 
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png]]  
 
 ## #has_/text_of_/abstract 
 

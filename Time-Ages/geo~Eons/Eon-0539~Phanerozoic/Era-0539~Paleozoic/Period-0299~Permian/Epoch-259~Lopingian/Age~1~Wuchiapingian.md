@@ -2,12 +2,14 @@
 
 #is_a_/time_/Age 
 
-A time period from 259.51 to 254.14 million years ago. 
-
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[../Epoch-273~Guadalupian/Age~3~Capitanian|Age~3~Capitanian]] 
 #has_/next_/item :: [[Age~2~Changhsingian]] 
+
+A time period from 259.51 to 254.14 million years ago. 
+
+![[../../../../../../../xLarge/Earth/Geology/Earth-255_Ma_(Wuchiapingian_Age).png]] 
 
 ## #has_/text_of_/abstract 
 

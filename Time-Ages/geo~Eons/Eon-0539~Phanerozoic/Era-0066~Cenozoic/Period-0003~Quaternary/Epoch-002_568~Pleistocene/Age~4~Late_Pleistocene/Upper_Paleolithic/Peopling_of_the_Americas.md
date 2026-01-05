@@ -1,7 +1,18 @@
+---
+aliases:
+  - Amerikas Besiedelung
+has_id_wikidata: Q13925462
+subclass_of: "[[_Standards/WikiData/WD~human_migration,177626]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Peopling_of_the_Americas,55940737]]"
+location: "[[_Standards/WikiData/WD~Americas,828]]"
+Commons_category: Settlement of the Americas
+---
 
 # [[Peopling_of_the_Americas]] 
 
 #is_/same_as :: [[WD~Peopling_of_the_Americas,13925462]] 
+
+![[../../../../../../../../../xLarge/Earth/Human_early_migrations.svg]] 
 
 ## #has_/text_of_/abstract 
 
@@ -42,6 +53,8 @@
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Peopling%20of%20the%20Americas) 
 
+
+<a title="User:Dbachmann, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Early_migrations_mercator.svg"><img width="512" alt="World map of the peopling of the world through migration during the Upper Paleolithic." src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Early_migrations_mercator.svg/512px-Early_migrations_mercator.svg.png?20231005061128"></a>
 
 ## Confidential Links & Embeds: 
 

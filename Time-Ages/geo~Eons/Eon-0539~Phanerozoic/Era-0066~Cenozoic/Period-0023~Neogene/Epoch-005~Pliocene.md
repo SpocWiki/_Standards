@@ -42,6 +42,8 @@ A time period from 5.333 to 2.58 million years ago.
 
 The average Temperature was 2.5° higher than before the industrial Revolution. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-005_Ma_(Zanclean_Age).png]]  
+
 ## #has_/text_of_/abstract 
 
 

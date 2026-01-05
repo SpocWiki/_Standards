@@ -9,6 +9,8 @@ A time period from 47.8 to 41.2 million years ago.
 #has_/previous_/item :: [[Age~1~Ypresian]] 
 #has_/next_/item :: [[Age~3~Bartonian]] 
 
+![[../../../../../../../xLarge/Earth/Geology/Earth-045_Ma_(Lutetian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

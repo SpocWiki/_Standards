@@ -41,6 +41,8 @@ start_time: -358900000-01-01T00:00:00Z
 
 A time period from 358.9 to 298.9 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-340_Ma_(Viséan_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Carboniferous** (KAR-bə-NIF-ər-əs) is a geologic period and system of the Paleozoic 

@@ -10,6 +10,8 @@
 
 A time period from 66.0 to 56.0 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-060_Ma_(Selandian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 

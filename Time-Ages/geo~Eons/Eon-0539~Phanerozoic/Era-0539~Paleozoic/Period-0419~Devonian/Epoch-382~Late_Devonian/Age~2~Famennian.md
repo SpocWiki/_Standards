@@ -7,7 +7,7 @@ A time period from 372.2 to 358.9 million years ago.
 #has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
 
 #has_/previous_/item :: [[Age~1~Frasnian]] 
-#has_/next_/item :: [[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] 
+#has_/next_/item :: [[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]] 
 
 ## #has_/text_of_/abstract 
 
@@ -19,7 +19,7 @@ A time period from 372.2 to 358.9 million years ago.
 > 
 > An earlier 2012 estimate, still used by the International Commission on Stratigraphy, 
 > estimated that it lasted from 372.2 million years ago to 358.9 million years ago. 
-> It was preceded by the [[Age~1~Frasnian]] stage and followed by the [[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Epoch~1~Early_Mississippian/Age~Tournaisian|Age~Tournaisian]] stage.
+> It was preceded by the [[Age~1~Frasnian]] stage and followed by the [[../../Period-0359~Carboniferous/Epoch-359~Mississippian/Age~1~Tournaisian|Age~1~Tournaisian]] stage.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Famennian)
 

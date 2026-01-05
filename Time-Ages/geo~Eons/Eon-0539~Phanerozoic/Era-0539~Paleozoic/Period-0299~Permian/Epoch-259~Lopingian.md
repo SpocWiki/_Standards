@@ -10,6 +10,8 @@
 
 A time period from 259.51 to 251.902 million years ago. 
 
+![[../../../../../../xLarge/Earth/Geology/Earth-255_Ma_(Wuchiapingian_Age).png]] 
+
 ## #has_/text_of_/abstract 
 
 > The **Lopingian** is the uppermost series/last epoch of the Permian. It is the last epoch of the Paleozoic. The Lopingian was preceded by the Guadalupian and followed by the Early Triassic.
