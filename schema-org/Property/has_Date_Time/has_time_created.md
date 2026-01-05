@@ -4,7 +4,6 @@ aliases:
   - date_created
   - dateCreated
   - has_time_started
-  - has_time_started
   - created
   - has_time_created
   - has time created
@@ -13,15 +12,15 @@ cssclasses:
   - Predicate
   - Date_Time
 draft: false
-expiryDate: ''
+expiryDate: ""
 isDeleted: false
 isReadOnly: false
-keywords: ''
-layout: ''
+keywords: ""
+layout: ""
 license: CC BY-SA 4.0
-linkTitle: ''
+linkTitle: ""
 publish: true
-publishDate: ''
+publishDate: ""
 tags:
   - class/Property
   - schema-org/Property/Date
@@ -29,7 +28,9 @@ title: has_time_started
 type: Predi_Date_Time
 ---
 
-#is_/similar_to :: #created 
+# [[has_time_created]] 
+
+#is_/same_as :: #created 
 #has_/dual_/property :: [[has_time_stopped]] 
 #has_/dual_/property :: [[has_time_stopped]] 
 #is_/similar_to :: #has_/time_/started  

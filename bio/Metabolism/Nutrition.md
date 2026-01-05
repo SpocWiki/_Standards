@@ -1,32 +1,33 @@
 ---
 aliases:
   - Nutrition
+  - Ernährung
 has_id_wikidata: Q2138622
 Basisklassifikation:
   - https://dietbuddyhub.com/
   - 44.21
 Commons_category: Nutrition
-contributing_factor_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
+contributing_factor_of: "[[_Standards/WikiData/WD~metabolism,1057]]"
 described_by_source:
-  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-  - '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 different_from:
-  - '[[_Standards/WikiData/WD~Výživa,16520513]]'
-  - '[[_Standards/WikiData/WD~nutritional_science,17652193]]'
-has_cause: '[[_Standards/WikiData/WD~nutrient,181394]]'
+  - "[[_Standards/WikiData/WD~Výživa,16520513]]"
+  - "[[_Standards/WikiData/WD~nutritional_science,17652193]]"
+has_cause: "[[_Standards/WikiData/WD~nutrient,181394]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~excretion,185557]]'
-  - '[[_Standards/WikiData/WD~assimilation,741773]]'
-  - '[[_Standards/WikiData/WD~ingestion,1663054]]'
+  - "[[_Standards/WikiData/WD~excretion,185557]]"
+  - "[[_Standards/WikiData/WD~assimilation,741773]]"
+  - "[[_Standards/WikiData/WD~ingestion,1663054]]"
 IAB_code: 229
 Iconclass_notation: 41C
-instance_of: '[[_Standards/WikiData/WD~health_specialty,44597158]]'
+instance_of: "[[_Standards/WikiData/WD~health_specialty,44597158]]"
 MeSH_tree_code: G07.203.650
-part_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~nutritionist,2576499]]'
+part_of: "[[_Standards/WikiData/WD~academic_discipline,11862829]]"
+practiced_by: "[[_Standards/WikiData/WD~nutritionist,2576499]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Ern%C3%A4hrung.ogg
-studied_in: '[[_Standards/WikiData/WD~nutritional_science,17652193]]'
-subclass_of: '[[_Standards/WikiData/WD~diet,_food_and_nutrition,66615814]]'
+studied_in: "[[_Standards/WikiData/WD~nutritional_science,17652193]]"
+subclass_of: "[[_Standards/WikiData/WD~diet,_food_and_nutrition,66615814]]"
 subreddit:
   - nutrition
   - ScientificNutrition

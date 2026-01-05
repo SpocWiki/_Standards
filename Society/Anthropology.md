@@ -87,7 +87,7 @@ greek from Andos "Man" and "Logos"
 > 
 > In North America and Asia, it is generally regarded as a branch of anthropology, 
 > whereas in Europe, it is considered either an independent discipline 
-> or classified under related fields like [[../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|history]] and palaeontology.
+> or classified under related fields like [[../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History|history]] and palaeontology.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Anthropology) 
 

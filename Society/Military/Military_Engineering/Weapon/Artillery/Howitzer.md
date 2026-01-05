@@ -5,7 +5,7 @@
 
 The name **"Howitzer"** comes from the Czech word **"houfnice"**, 
 which itself originates from the medieval military term **"houf"**, meaning _crowd_ or _heap_. 
-It was designed to fire into masses of infantry in the [[../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War|1618-Thirty_Years_War]]. 
+It was designed to fire into masses of infantry in the [[../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1618-Thirty_Years_War|1618-Thirty_Years_War]]. 
 
 ## #has_/text_of_/abstract 
 

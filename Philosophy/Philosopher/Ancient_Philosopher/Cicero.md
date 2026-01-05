@@ -158,7 +158,7 @@ Libris_URI: 1zcf88vk3gb8kvv
 > Marcus Tullius **Cicero** (SISS-ə-roh; Latin: [ˈmaːrkʊs ˈtʊlli.ʊs ˈkɪkɛroː]; 3 January 106 BC – 7 December 43 BC) 
 > was a Roman statesman, lawyer, scholar, philosopher, orator, writer and Academic skeptic, 
 > who tried to uphold optimate principles during the political crises 
-> that led to the establishment of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]]. 
+> that led to the establishment of the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]]. 
 > 
 > His extensive writings include treatises on rhetoric, philosophy and politics. 
 > He is considered one of Rome's greatest orators and prose stylists 
@@ -187,7 +187,7 @@ Libris_URI: 1zcf88vk3gb8kvv
 > After Caesar's assassination in 44 BC, he led the Senate against Mark Antony, 
 > attacking him in a series of speeches. 
 > 
-> He elevated Caesar's heir [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus|Octavian]] to rally support against Antony in the ensuing violent conflict. 
+> He elevated Caesar's heir [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Late_Antiquity/CE_0000/0027-Roman_Emperor/Augustus|Octavian]] to rally support against Antony in the ensuing violent conflict. 
 > But after Octavian and Antony reconciled to form the triumvirate, 
 > Cicero was proscribed and executed in late 43 BC while attempting to escape Italy for safety. 
 > His severed hands and head (taken by order of Antony 
@@ -199,14 +199,14 @@ Libris_URI: 1zcf88vk3gb8kvv
 > in public affairs, humanism, and classical Roman culture. 
 > 
 > According to Polish historian Tadeusz Zieliński, "the Renaissance was above all things a revival of Cicero, 
-> and only after him and through him of the rest of [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity|Classical antiquity]]." 
+> and only after him and through him of the rest of [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity|Classical antiquity]]." 
 > The peak of Cicero's authority and prestige came during the 18th-century Enlightenment, 
 > and his impact on leading Enlightenment thinkers and political theorists 
 > such as [[../Early_modern_Philosopher/Locke,John|John Locke]], [[../Early_modern_Philosopher/Hume,David|David Hume]], Montesquieu, and Edmund Burke was substantial. 
 > 
 > His works rank among the most influential in global culture, 
 > and today still constitute one of the most important bodies of primary material 
-> for the writing and revision of Roman history, especially the last days of the [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026|Roman Republic]].
+> for the writing and revision of Roman history, especially the last days of the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0508-Roman_Republic-0026|Roman Republic]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cicero) 
 
