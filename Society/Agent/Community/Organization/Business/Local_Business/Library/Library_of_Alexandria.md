@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 0400-01-01 
 location: [ 29.909167 , 31.208889 ] 
 aliases:
 has_id_wikidata: Q435

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1998-01-01 
 aliases:
 has_id_wikidata: Q265628
 operator: "[[_Standards/WikiData/WD~European_Southern_Observatory,151991]]"

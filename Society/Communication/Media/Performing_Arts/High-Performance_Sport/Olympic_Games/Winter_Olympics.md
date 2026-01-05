@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1924-01-01 
 aliases:
   - Winter Olympic Games
   - Jeux olympiques d'hiver

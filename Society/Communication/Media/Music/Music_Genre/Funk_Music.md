@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1965-01-01 
 aliases:
   - Funk
   - Funk_Music

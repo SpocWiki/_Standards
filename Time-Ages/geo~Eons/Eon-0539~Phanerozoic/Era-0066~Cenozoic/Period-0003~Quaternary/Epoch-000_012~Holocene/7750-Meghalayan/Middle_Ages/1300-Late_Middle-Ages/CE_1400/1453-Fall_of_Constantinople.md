@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1453-04-15 
+has_time_stopped: 1453-05-29 
 location: [ 28.935 , 41.03 ] 
 aliases:
   - Fall of Constantinople

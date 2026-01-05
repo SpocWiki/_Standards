@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1492-01-01 
 aliases:
   - pre-Columbian era
   - pre-contact era

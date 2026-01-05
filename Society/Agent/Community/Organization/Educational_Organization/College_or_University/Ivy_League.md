@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1954-01-01 
 aliases:
   - Ivy League
 has_id_wikidata: Q49113

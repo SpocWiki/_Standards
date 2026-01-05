@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1936-07-18 
+has_time_stopped: 1939-04-01 
 aliases:
   - Spanish Civil War
   - 1936-Spanish_Civil_War+1939

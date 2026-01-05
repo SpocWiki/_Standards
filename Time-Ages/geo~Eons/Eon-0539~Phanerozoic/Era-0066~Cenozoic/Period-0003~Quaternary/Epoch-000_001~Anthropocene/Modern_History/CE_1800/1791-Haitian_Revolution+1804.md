@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1791-08-14 
+has_time_stopped: 1804-01-01 
 aliases:
   - Haitian Revolution
   - Lagè d Lendependans

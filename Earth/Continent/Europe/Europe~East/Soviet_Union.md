@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1922-12-30 
+has_time_stopped: 1991-12-26 
 location: [ 90.0 , 65.0 ] 
 aliases:
   - Union of Soviet Socialist Republics

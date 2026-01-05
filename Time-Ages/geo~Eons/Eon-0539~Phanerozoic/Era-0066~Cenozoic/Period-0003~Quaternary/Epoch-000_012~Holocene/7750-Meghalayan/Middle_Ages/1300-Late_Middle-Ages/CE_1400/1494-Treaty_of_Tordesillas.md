@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1494-01-01 
 aliases:
   - Treaty of Tordesillas
   - Vertrag von Tordesillas

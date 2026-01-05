@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1700-01-01 
 aliases:
   - Saint Pierre and Miquelon
   - Saint-Pierre-et-Miquelon

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1962-01-01 
 aliases:
   - The Rolling Stones
   - Rolling Stones

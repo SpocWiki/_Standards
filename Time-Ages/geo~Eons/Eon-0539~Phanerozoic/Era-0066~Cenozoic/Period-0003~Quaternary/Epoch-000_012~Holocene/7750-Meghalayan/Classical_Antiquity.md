@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0500-06 
 aliases:
   - classical age
   - classical era

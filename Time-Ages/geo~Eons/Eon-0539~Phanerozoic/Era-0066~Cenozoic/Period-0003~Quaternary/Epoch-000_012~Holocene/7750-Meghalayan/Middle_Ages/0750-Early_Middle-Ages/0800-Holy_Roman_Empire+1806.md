@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 1806-08-06 
 location: [ 14.42215841 , 50.091352242 ] 
 aliases:
   - Holy Roman Empire

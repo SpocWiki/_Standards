@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1919-01-18 
+has_time_stopped: 1920-01-21 
 location: [ 2.3522 , 48.8567 ] 
 aliases:
   - Versailles Conference

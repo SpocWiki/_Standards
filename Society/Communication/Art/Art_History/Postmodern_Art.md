@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1950-01-01 
 aliases:
 has_id_wikidata: Q3318563
 instance_of: "[[_Standards/WikiData/WD~art_style,1792644]]"

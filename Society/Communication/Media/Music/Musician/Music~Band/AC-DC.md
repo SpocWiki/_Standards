@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1973-12-31 
 aliases:
   - AC/DC
   - AC-DC

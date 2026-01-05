@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1946-01-01 
 aliases:
   - Aldi
 has_id_wikidata: Q125054

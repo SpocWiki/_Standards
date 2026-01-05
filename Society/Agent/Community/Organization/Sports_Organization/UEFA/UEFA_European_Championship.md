@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1960-07-06 
 location: [ 9.14062 , 48.690959 ] 
 aliases:
   - European Nations' Cup

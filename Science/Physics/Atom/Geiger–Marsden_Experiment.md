@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1908-01-01 
+has_time_stopped: 1913-01-01 
 aliases:
   - Geiger–Marsden Experiment
   - Geiger–Marsden_Experiment

@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1871-01-01 
+has_time_stopped: 1918-11-09 
 location: [ 13.376111111 , 52.518611111 ] 
 aliases:
   - German Empire

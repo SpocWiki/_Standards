@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1851-02-01 
 aliases:
   - Foucault pendulum
   - Foucault_Pendulum

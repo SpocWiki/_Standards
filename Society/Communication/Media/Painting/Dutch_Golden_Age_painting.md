@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1600-01-01 
+has_time_stopped: 1699-01-01 
 aliases:
   - Dutch Golden Age painting
   - Dutch_Golden_Age_painting

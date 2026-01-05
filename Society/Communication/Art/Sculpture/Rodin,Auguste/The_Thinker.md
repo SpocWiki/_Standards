@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1882-01-01 
 aliases:
   - The Thinker
   - Le Penseur

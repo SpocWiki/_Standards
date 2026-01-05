@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1618-05-23 
+has_time_stopped: 1648-10-24 
 aliases:
   - Thirty Year War
   - Thirty Years War

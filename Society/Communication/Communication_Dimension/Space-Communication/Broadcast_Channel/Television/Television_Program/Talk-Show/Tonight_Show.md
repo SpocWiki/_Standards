@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1954-09-27 
 aliases:
   - The Tonight Show
   - The_Tonight_Show

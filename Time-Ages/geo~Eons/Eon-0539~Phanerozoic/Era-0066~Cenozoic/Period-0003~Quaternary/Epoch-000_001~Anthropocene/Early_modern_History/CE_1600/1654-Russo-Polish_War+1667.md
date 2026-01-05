@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1654-01-01 
+has_time_stopped: 1667-01-01 
 aliases:
 has_id_wikidata: Q631991
 participant:

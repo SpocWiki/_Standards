@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2002-01-01 
 aliases:
   - Great Limpopo Transfrontier Park
   - Great_Limpopo_Transfrontier_Park

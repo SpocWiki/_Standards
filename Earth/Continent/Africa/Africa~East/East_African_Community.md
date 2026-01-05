@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2000-07-07 
 aliases:
   - East African Community
   - East_African_Community

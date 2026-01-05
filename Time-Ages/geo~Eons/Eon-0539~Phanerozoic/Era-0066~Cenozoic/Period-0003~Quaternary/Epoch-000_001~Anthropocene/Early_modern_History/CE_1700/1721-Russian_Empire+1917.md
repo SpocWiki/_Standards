@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1721-11-02 
+has_time_stopped: 1917-09-14 
 location: [ 70.1167 , 58.65 ] 
 aliases:
 has_id_wikidata: Q34266

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1521-01-01 
 aliases:
 has_id_wikidata: Q13703
 instance_of:

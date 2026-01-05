@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1991-12-08 
 location: [ 102.8 , 60.5 ] 
 aliases:
   - Commonwealth of Independent States

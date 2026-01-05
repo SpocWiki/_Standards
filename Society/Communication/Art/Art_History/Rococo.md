@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1730-01-01 
+has_time_stopped: 1780-01-01 
 aliases:
   - Late Baroque
   - Roccoco

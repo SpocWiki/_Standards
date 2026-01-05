@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1870-07-19 
+has_time_stopped: 1871-01-28 
 aliases:
   - Franco-Prussian War
   - Franco-German War

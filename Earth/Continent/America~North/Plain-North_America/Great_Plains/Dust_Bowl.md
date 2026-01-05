@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1930-01-01 
+has_time_stopped: 1936-01-01 
 aliases:
 has_id_wikidata: Q726501
 has_part_s_: "[[_Standards/WikiData/WD~dust_storm,182878]]"

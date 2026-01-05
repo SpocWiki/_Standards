@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1532-01-01 
+has_time_stopped: 1572-01-01 
 aliases:
   - Spanish conquest Inca Empire
   - Spanish conquest of the Inca Empire

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1900-01-01 
 aliases:
 has_id_wikidata: Q80113
 influenced_by: "[[_Standards/WikiData/WD~The_Blue_Rider,117035]]"

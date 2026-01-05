@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1986-11-03 
 location: [ 158.183333333 , 6.916666666 ] 
 aliases:
   - Federated_States_of_Micronesia

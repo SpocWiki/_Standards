@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2010-01-01 
 aliases:
 has_id_wikidata: Q15733006
 legal_form: "[[_Standards/WikiData/WD~subsidiary_company,658255]]"

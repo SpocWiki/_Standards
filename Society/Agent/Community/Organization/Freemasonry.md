@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1717-01-01 
 aliases:
   - Freimaurer
   - Free-Masonry

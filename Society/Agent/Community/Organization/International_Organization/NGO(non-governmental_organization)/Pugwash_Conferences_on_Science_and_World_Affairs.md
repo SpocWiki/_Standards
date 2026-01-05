@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1957-01-01 
 location: [ 12.4668318 , 41.8932669 ] 
 aliases:
   - Pugwash Conferences on Science and World Affairs

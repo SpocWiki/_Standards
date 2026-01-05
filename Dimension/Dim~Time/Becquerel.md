@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-01-01 
 aliases:
   - Becquerel
 has_id_wikidata: Q102573

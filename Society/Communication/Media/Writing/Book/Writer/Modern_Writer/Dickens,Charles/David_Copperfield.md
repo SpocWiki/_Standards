@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1849-01-01 
 aliases:
   - David Copperfield
   - David_Copperfield

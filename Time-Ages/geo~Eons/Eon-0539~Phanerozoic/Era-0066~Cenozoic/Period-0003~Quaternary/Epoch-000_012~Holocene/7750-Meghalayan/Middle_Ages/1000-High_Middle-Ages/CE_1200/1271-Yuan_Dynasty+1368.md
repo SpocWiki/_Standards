@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1271-01-01 
+has_time_stopped: 1368-01-01 
 location: [ 116.39 , 39.915 ] 
 aliases:
 has_id_wikidata: Q7313

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1939-09-01 
+has_time_stopped: 1939-10-06 
 aliases:
   - invasion of Poland
   - September Campaign,

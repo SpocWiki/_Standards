@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2014-11-03 
 aliases:
   - One WTC
   - Freedom Tower

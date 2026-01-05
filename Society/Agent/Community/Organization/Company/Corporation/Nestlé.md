@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1866-01-01 
 aliases:
   - Nestlé S.A.
   - Nestle

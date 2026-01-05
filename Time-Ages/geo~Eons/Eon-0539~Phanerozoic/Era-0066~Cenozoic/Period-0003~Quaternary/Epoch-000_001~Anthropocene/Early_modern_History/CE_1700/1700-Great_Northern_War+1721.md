@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1700-02-22 
+has_time_stopped: 1721-09-10 
 aliases:
   - Great Northern War
   - 1700-Great_Northern_War+1721

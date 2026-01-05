@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1995-01-01 
 aliases:
   - Prog~Java
 has_id_wikidata: Q251

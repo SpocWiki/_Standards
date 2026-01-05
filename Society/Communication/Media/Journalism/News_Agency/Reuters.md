@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1851-10-01 
 aliases:
 has_id_wikidata: Q130879
 Telegram_username: ReutersWorldChannel

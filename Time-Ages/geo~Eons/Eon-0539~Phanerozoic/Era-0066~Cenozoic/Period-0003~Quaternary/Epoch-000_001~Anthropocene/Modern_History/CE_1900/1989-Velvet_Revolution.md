@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1989-11-17 
+has_time_stopped: 1989-12-29 
 aliases:
   - Velvet Revolution
   - sametová revoluce

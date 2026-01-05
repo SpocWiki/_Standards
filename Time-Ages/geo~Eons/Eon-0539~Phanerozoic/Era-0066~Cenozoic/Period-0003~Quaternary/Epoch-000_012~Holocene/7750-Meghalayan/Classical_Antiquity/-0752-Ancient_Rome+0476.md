@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 0476-01-01 
 location: [ 12.48 , 41.89 ] 
 aliases:
   - Ancient Rome

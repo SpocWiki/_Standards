@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1848-01-12 
+has_time_stopped: 1849-10-04 
 aliases:
   - revolutions of 1848
   - springtime of the peoples

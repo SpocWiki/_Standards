@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1932-01-01 
 aliases:
   - electric guitar
   - E-Guitar

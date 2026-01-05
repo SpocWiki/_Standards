@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1792-01-01 
 aliases:
   - United States dollar
   - American dollar

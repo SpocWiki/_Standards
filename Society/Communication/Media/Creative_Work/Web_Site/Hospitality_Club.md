@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2000-06 
 aliases:
   - Couchsurfing
 has_id_wikidata: Q744312

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2015-01-01 
 aliases:
 has_id_wikidata: Q19867977
 has_part_s_of_the_class: "[[_Standards/WikiData/WD~communications_satellite,149918]]"

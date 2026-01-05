@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0843-01-01 
+has_time_stopped: 0962-01-01 
 aliases:
   - East_Francia
   - East Francia

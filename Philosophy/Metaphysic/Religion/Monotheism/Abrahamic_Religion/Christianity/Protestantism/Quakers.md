@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1652-01-01 
 aliases:
   - Society of Friends
   - Quakers

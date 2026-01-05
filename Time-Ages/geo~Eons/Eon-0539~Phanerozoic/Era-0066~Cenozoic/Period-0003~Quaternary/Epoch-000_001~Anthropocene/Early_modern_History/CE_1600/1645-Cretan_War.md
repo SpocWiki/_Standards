@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1645-06-23 
+has_time_stopped: 1669-01-01 
 location: [ 16.21876 , 43.81276 ] 
 aliases:
   - Cretan War

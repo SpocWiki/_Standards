@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1896-01-01 
 aliases:
   - Clinical psychology
   - Klinische Psychology

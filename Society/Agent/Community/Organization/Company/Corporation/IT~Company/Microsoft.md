@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-04-04 
 aliases:
   - Microsoft
 has_id_wikidata: Q2283

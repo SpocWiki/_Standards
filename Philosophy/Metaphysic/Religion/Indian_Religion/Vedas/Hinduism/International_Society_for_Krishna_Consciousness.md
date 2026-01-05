@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1967-07-13 
 aliases:
   - International Society for Krishna Consciousness (ISKCON), commonly known as the Hare Krishna Movement
   - International_Society_for_Krishna_Consciousness

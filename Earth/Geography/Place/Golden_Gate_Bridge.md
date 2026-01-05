@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1937-05-27 
 aliases:
   - Golden Gate Bridge
   - Golden_Gate_Bridge

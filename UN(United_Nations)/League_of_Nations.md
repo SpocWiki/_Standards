@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1919-01-01 
 aliases:
   - League of Nations
   - League_of_Nations

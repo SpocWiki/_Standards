@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1998-01-01 
 aliases:
   - Bank_of_America
   - Bank of America

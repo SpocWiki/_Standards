@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1900-04-14 
 aliases:
   - Union Cycliste Internationale
   - International Cycling Union

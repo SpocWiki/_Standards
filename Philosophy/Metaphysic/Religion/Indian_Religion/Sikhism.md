@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1469-01-01 
 aliases:
   - Sikhismus
   - Sikhism

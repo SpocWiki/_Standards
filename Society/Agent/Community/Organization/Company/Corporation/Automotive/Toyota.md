@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1937-08-28 
 aliases:
   - Toyota Motor Corporation
   - トヨタ自動車株式会社

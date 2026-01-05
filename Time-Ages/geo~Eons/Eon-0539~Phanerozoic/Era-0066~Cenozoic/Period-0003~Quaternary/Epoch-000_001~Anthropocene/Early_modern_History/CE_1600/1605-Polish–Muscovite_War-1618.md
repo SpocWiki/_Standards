@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 1618-01-01 
 location: [ 19.93 , 50.05 ] 
 aliases:
 has_id_wikidata: Q1044829

@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1945-11-20 
+has_time_stopped: 1946-10-01 
 location: [ 11.048333333 , 49.454444444 ] 
 aliases:
 has_id_wikidata: Q80130

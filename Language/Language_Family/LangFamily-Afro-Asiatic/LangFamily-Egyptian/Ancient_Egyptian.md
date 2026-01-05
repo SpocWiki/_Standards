@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1700-01-01 
 aliases:
   - Egyptian language
   - Ancient Egyptian

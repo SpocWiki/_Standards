@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1808-09-25 
+has_time_stopped: 1833-09-29 
 aliases:
   - Spanish American Wars of Independence
   - 1808-Spanish_American_Wars_of_Independence+1835

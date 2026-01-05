@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1911-10-10 
+has_time_stopped: 1912-02-12 
 aliases:
   - Xinhai Revolution
   - Hsinhai Revolution

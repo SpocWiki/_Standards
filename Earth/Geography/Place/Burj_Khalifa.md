@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 2010-01-01 
 location: [ 55.274166666 , 25.197222222 ] 
 aliases:
   - Burj Khalifa

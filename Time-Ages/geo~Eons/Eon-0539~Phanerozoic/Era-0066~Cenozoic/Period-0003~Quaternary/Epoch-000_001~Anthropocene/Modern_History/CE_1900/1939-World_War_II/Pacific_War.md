@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1941-12-07 
+has_time_stopped: 1945-09-02 
 aliases:
   - Pacific_War
   - Pacific War

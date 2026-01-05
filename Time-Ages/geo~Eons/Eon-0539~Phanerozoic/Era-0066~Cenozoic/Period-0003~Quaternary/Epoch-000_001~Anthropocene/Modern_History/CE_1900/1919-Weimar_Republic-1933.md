@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1918-11-09 
+has_time_stopped: 1933-01-01 
 location: [ 13.375 , 52.52 ] 
 aliases:
 has_id_wikidata: Q41304

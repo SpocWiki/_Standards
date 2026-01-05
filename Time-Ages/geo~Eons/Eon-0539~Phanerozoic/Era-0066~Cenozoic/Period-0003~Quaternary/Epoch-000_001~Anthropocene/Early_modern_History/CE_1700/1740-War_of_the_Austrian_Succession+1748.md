@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1740-12-16 
+has_time_stopped: 1748-10-18 
 aliases:
   - Österreichischer Erbfolgekrieg
   - War of the Austrian Succession

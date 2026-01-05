@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1983-04-18 
 aliases:
   - Disney Channel
   - Disney_Channel

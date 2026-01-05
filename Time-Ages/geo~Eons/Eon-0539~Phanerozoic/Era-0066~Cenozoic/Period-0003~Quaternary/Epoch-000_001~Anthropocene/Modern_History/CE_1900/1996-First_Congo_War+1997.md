@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1996-10-24 
+has_time_stopped: 1997-05-16 
 aliases:
   - First Congo War
   - Africa's First World War

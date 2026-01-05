@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1680-01-01 
 aliases:
   - 'Philosophiæ Naturalis Principia Mathematica (English: The Mathematical Principles of Natural Philosophy'
   - Philosophiæ_Naturalis_Principia_Mathematica

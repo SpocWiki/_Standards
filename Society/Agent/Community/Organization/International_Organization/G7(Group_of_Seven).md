@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-11-01 
 aliases:
   - G7
   - Group of Seven

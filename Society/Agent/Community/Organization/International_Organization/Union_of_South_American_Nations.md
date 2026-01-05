@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2008-05-23 
 aliases:
   - Union of South American Nations
   - South American Union

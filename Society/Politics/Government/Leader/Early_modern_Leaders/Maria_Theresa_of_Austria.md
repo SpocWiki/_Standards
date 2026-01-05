@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1717-01-01 
+has_time_stopped: 1780-01-01 
 aliases:
   - Maria Theresia Walburga Amalia Christina
   - Maria_Theresa_of_Austria

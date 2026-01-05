@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1500-01-01 
+has_time_stopped: 1800-01-01 
 aliases:
   - Age of Exploration
   - Age_of_Discovery

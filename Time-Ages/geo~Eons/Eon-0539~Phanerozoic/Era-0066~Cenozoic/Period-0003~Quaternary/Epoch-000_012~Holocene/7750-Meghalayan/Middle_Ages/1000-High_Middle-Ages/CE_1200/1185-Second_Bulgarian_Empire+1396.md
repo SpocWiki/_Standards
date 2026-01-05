@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1185-01-01 
+has_time_stopped: 1396-01-01 
 location: [ 25.65 , 43.06666667 ] 
 aliases:
   - Second Bulgarian Empire

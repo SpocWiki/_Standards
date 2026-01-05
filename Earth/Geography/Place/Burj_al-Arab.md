@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1999-01-01 
 location: [ 55.185277777 , 25.141388888 ] 
 aliases:
   - Burj Al Arab

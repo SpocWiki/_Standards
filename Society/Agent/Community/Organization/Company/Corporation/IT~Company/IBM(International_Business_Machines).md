@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1911-06-16 
 aliases:
   - International Business Machines
   - IBM

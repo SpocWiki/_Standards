@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1877-04-24 
+has_time_stopped: 1878-03-03 
 aliases:
 has_id_wikidata: Q174205
 instance_of: "[[_Standards/WikiData/WD~armed_conflict,350604]]"

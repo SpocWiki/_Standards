@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1804-05-14 
+has_time_stopped: 1806-09-23 
 aliases:
   - Lewis and Clark Expedition
   - Corps of Discovery Expedition

@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 1922-11-17 
 location: [ 29.0 , 41.0 ] 
 aliases:
   - Ottoman Empire

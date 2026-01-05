@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1939-11-30 
+has_time_stopped: 1940-03-13 
 aliases:
 has_id_wikidata: Q134949
 has_part_s_: "[[_Standards/WikiData/WD~battles_at_the_Karelian_Isthmus_during_the_Winter_War,18607874]]"

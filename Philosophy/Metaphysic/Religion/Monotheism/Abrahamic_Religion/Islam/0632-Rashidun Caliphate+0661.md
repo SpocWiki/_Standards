@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0632-06-01 
+has_time_stopped: 0661-07-31 
 aliases:
   - Rashidun Caliphate
   - ٱلْخِلَافَةُ ٱلرَّاشِدَةُ

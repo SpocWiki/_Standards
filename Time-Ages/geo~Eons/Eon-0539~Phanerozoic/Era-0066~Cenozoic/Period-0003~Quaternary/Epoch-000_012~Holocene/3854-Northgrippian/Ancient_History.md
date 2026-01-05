@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0500-01-01 
 aliases:
   - Ancient_History
   - Ancient History

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1968-01-01 
 aliases:
   - European Olympic Committees
   - EOC

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1928-11-18 
 aliases:
   - Mickey Mouse
   - Mickey_Mouse

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1883-01-01 
+has_time_stopped: 2007-01-01 
 aliases:
 has_id_wikidata: Q463198
 significant_person: "[[_Standards/WikiData/WD~Robert_Capa,152524]]"

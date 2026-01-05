@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1919-05-19 
+has_time_stopped: 1923-07-24 
 aliases:
 has_id_wikidata: Q234738
 participant:
