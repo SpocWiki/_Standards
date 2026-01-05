@@ -1,0 +1,94 @@
+---
+aliases:
+  - Era~3~Mesoarchean
+has_id_wikidata: Q607992
+instance_of:
+  - '[[_Standards/WikiData/WD~era,630830]]'
+  - '[[_Standards/WikiData/WD~erathem,2464485]]'
+part_of: '[[_Standards/WikiData/WD~ICS_Standard_Global_Chronostratigraphic_(Geochronologic)_Scale,63463770]]'
+end_time: -2800000000-01-01T00:00:00Z
+start_time: -3200000000-01-01T00:00:00Z
+Commons_category: Mesoarchean
+sRGB_color_hex_triplet: F768A9
+---
+# [[Era-3200~Mesoarchean]] 
+
+#is_a_/time_/Era 
+
+A time period from 3200 to 2800 million years ago. 
+
+#has_/duration_/years :: `$=(((dv.current().has_time_stopped ?? new Date().year) - dv.current().has_time_started)).toExponential(3)` 
+
+#has_/previous_/item :: [[Era-3600~Paleoarchean]] 
+#has_/next_/item :: [[Era-2800~Neoarchean]] 
+
+## #has_/text_of_/abstract 
+
+
+> The **Mesoarchean** ( MEE-zoh-ar-KEE-ən, MEZ-oh-, also spelled Mesoarchaean) is a geologic era in the Archean Eon, spanning 3,200 to 2,800 million years ago, which contains the first evidence of modern-style plate subduction and expansion of microbial life. The era is defined chronometrically and is not referenced to a specific level in a rock section on Earth.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Mesoarchean)
+
+#has_/abbreviation :: MA
+
+#has_/label_/bg  :: Мезоархай
+#has_/label_/cs  :: Mezoarchaikum
+#has_/label_/da  :: Mesoarkæisk
+#has_/label_/de  :: Mesoarchaikum
+#has_/label_/en-GB  :: Mesoarchaean
+#has_/label_/en-US  :: Mesoarchean
+#has_/label_/es  :: Mesoarcaico
+#has_/label_/et  :: Mesoarhaikum
+#has_/label_/fi  :: Mesoarkeikum
+#has_/label_/fr  :: Mésoarchéen
+#has_/label_/hu  :: mezoarchai
+#has_/label_/it  :: mesoarcheano
+#has_/label_/ja  :: 中始生代
+#has_/label_/lt  :: Mezoarchejus
+#has_/label_/nl  :: Meso-archaicum
+#has_/label_/no  :: Mesoarkeikum
+#has_/label_/pl  :: Mezoarchaik
+#has_/label_/pt  :: Mesoarcaico
+#has_/label_/sk  :: mezoarchaikum
+#has_/label_/sl  :: mezoarhaik
+#has_/label_/sv  :: mesoarkeikum
+#has_/label_/zh  :: 中太古代
+
+#has_/time_/started :: -3.200e9 
+#has_/time_/stopped :: -2.800e9 
+
+#has_/text_of_/color :: 0xF768A9
+
+## All Contents
+
+```folderv
+```
+
+```ccard
+type: folder_brief_live
+style : card
+col: 2
+briefMax: 128
+noteOnly: true
+```
+
+
+`$=dv.current().has_labelsv`
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[Era-3200~Mesoarchean|Era~3~Mesoarchean]] 
+
+### #is_/same_as :: [[/_public/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.public|Era~3~Mesoarchean.public]] 
+
+### #is_/same_as :: [[/_internal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.internal|Era~3~Mesoarchean.internal]] 
+
+### #is_/same_as :: [[/_protect/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.protect|Era~3~Mesoarchean.protect]] 
+
+### #is_/same_as :: [[/_private/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.private|Era~3~Mesoarchean.private]] 
+
+### #is_/same_as :: [[/_personal/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.personal|Era~3~Mesoarchean.personal]] 
+
+### #is_/same_as :: [[/_secret/Time-Ages/geo~Eons/Eon~2~Archean/Era~3~Mesoarchean.secret|Era~3~Mesoarchean.secret]] 
+

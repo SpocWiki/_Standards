@@ -542,7 +542,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > was the Karanovo culture (6,500 BC). 
 > In the 6th to 3rd century BC, 
 > the region was a battleground for ancient Thracians, Persians, Celts and Macedonians; 
-> stability came when the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
+> stability came when the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-0752-Ancient_Rome+0476/-0026-Roman_Empire+0395|Roman Empire]] conquered the region in AD 45. 
 > 
 > After the Roman state splintered, tribal invasions in the region resumed. 
 > Around the 6th century, these territories were settled by the early Slavs. 
@@ -550,7 +550,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > and permanently invaded the Balkans in the late 7th century. 
 > 
 > They established the First Bulgarian Empire, 
-> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]. 
+> victoriously recognised by treaty in 681 AD by the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Late_Antiquity/CE_0300/0395-Byzantine_Empire|Byzantine Empire]]. 
 > It dominated most of the Balkans 
 > and significantly influenced Slavic cultures by developing the Cyrillic script. 
 > 
@@ -562,7 +562,7 @@ Capital :: [[./Bulgaria/Counties/Sofia]]
 > the empire disintegrated and in 1396 fell under Ottoman rule for nearly five centuries.
 >
 > The Russo-Turkish War of 1877–78 resulted in the formation of the third and current Bulgarian state, 
-> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
+> which declared independence from the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/1300-Late_Middle-Ages/CE_1300/1300-Ottoman_Empire-1922|Ottoman Empire]] in 1908. 
 > Many ethnic Bulgarians were left outside the new nation's borders, 
 > which stoked irredentist sentiments that led to several conflicts with its neighbours 
 > and alliances with Germany in both world wars. 

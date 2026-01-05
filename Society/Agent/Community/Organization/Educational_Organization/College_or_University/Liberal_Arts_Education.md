@@ -71,7 +71,7 @@ Commons_category: Seven liberal arts
 > - [[../../../../../Communication/Art/Fine_Arts|Fine_Arts]], 
 > - [[../../../../../Communication/Art/Creative_Arts|Creative_Arts]], 
 > - [[../../../../../Communication/Art|Art]], and 
-> - [[../../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History|History]]. 
+> - [[../../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History|History]]. 
 > 
 > Degrees in Liberal studies are often confused with those in a liberal arts discipline. 
 > Liberal studies refers to degrees with a broad curriculum, 

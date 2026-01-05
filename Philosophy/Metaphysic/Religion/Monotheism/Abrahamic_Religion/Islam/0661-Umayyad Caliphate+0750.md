@@ -72,7 +72,7 @@ native_label: الدَّوْلَةُ الأُمَوِيَّةُ
 # [[0661-Umayyad Caliphate+0750]] 
 
 #has_/previous_ :: [[0632-Rashidun Caliphate+0661|0632-Rashidun Caliphate+0661]] 
-#has_/next_ :: [[../../../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate|0750-Abbasid_Caliphate]] 
+#has_/next_ :: [[../../../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Middle_Ages/0750-Early_Middle-Ages/0750-Abbasid_Caliphate|0750-Abbasid_Caliphate]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Umayyad_Caliphate,8575586|WD~Umayyad_Caliphate,8575586]] 
 
 ## #has_/text_of_/abstract 

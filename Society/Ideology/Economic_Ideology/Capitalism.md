@@ -106,7 +106,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 > whereas prices and the distribution of goods and services are mainly 
 > determined by __competition in goods and services markets__.
 >
-> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~2~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and[[../../Anthropology/Sociology/Sociologist|sociologists]]] 
+> [[../../Economics/Economist|Economists]], [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/History/Historian|historians]], political economists, and[[../../Anthropology/Sociology/Sociologist|sociologists]]] 
 > have adopted different perspectives in their analyses of capitalism 
 > and have recognized various forms of it in practice. 
 > 
@@ -128,22 +128,22 @@ Wolfram_Language_entity_code: Entity["Concept", "Capitalism::qk623"]
 > as well as mercantilist practices by European countries 
 > between the 16th and 18th centuries. 
 > 
-> The [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]] of the 18th century 
+> The [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|1760-Industrial_Revolution]] of the 18th century 
 > established capitalism as a dominant mode of production, 
 > characterized by [[factory work]] and a complex [[../../Economics/Economic_Strategy/Division_of_Labor|division of labor]]. 
 > 
 > Through the process of [[../../Social_Issues/Globalization|globalization]], 
 > capitalism spread across the world in the 19th and 20th centuries, 
-> especially before [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]] and after the end of the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1945-Cold_War|Cold War]]. 
+> especially before [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1914-World_War_I|World War I]] and after the end of the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War|Cold War]]. 
 > During the 19th century, capitalism was largely unregulated by the state, 
-> but became more regulated in the post–[[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] period through [[Keynesianism]], 
+> but became more regulated in the post–[[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]] period through [[Keynesianism]], 
 > followed by a return of more unregulated capitalism starting in the 1980s through [[Neoliberalism]].
 >
 > Market economies have existed under many forms of government 
 > and in many different times, places, and cultures. 
 > 
 > Modern industrial capitalist societies developed in Western Europe 
-> in a process that led to the [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|Industrial Revolution]]. 
+> in a process that led to the [[../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1700/1760-Industrial_Revolution|Industrial Revolution]]. 
 > 
 > Capitalist economies promote economic growth through accumulation of capital, 
 > however a business cycle of economic growth followed by recession 

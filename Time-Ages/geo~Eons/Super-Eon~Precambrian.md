@@ -66,7 +66,7 @@ A time period from 4567 to 538.8 million years ago.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Precambrian)
 
-#is_/comprised_of ::    [[Eon~1~Hadean]] ,  [[Eon~2~Archean]], [[Eon~3~Proterozoic]] 
+#is_/comprised_of ::    [[Eon-4567~Hadean]] ,  [[Eon-4031~Archean]], [[Eon-2500~Proterozoic]] 
 
 #has_/label_/bg  :: Прекамбрий
 #has_/label_/cs  :: Prekambrium

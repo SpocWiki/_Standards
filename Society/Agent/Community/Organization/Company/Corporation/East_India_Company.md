@@ -76,15 +76,33 @@ native_label: British East India Company
 > (the Indian subcontinent and Southeast Asia), and later with East Asia. 
 > 
 > The company gained control of large parts of the Indian subcontinent and Hong Kong. 
-> At its peak, the company was the largest corporation in the world by various measures 
-> and had its own armed forces in the form of the company's three presidency armies, 
-> totalling about 260,000 soldiers, twice the size of the British Army at certain times.
+> At its peak, the company was the **largest corporation in the world** by various measures 
+> and had its **own armed forces** in the form of the company's three presidency armies, 
+> totalling about 260,000 soldiers, **twice the size of the British Army** at certain times.
 >
-> Originally chartered as the "Governor and Company of Merchants of London Trading into the East-Indies," the company rose to account for half of the world's trade during the mid-1700s and early 1800s, particularly in basic commodities including cotton, silk, indigo dye, sugar, salt, spices, saltpetre, tea, gemstones, and later opium. The company also initiated the beginnings of the British Raj in the Indian subcontinent.
+> Originally chartered as the 
+> "Governor and Company of Merchants of London Trading into the East-Indies," 
+> the company rose to account for half of the world's trade during the mid-1700s and early 1800s, 
+> particularly in basic commodities including cotton, silk, indigo dye, sugar, salt, spices, 
+> saltpetre, tea, gemstones, and later opium. 
+> 
+> The company also initiated the beginnings of the British Raj in the Indian subcontinent.
 >
-> The company eventually came to rule large areas of the Indian subcontinent, exercising military power and assuming administrative functions. Company-ruled areas in the region  gradually expanded after the Battle of Plassey in 1757 and by 1858 most of modern India, Pakistan and Bangladesh was either ruled by the company or princely states closely tied to it by treaty. Following the Sepoy Rebellion of 1857, the Government of India Act 1858 led to the British Crown assuming direct control of present-day Bangladesh, Pakistan and India in the form of the new British Indian Empire.
+> The company eventually came to rule large areas of the Indian subcontinent, 
+> exercising military power and assuming administrative functions. 
+> 
+> Company-ruled areas in the region  gradually expanded after the Battle of Plassey in 1757 
+> and by 1858 most of modern India, Pakistan and Bangladesh was either ruled by the company 
+> or princely states closely tied to it by treaty. 
+> 
+> Following the Sepoy Rebellion of 1857, the Government of India Act 1858 led to 
+> the British Crown assuming direct control of present-day 
+> Bangladesh, Pakistan and India in the form of the new British Indian Empire.
 >
-> The company subsequently experienced recurring problems with its finances, despite frequent government intervention. The company was dissolved in 1874 under the terms of the East India Stock Dividend Redemption Act enacted one year earlier, as the Government of India Act had by then rendered it vestigial, powerless, and obsolete. The official government machinery of the British Empire had assumed its governmental functions and absorbed its armies.
+> The company subsequently experienced recurring problems with its finances, 
+> despite frequent government intervention. 
+> 
+> The company was dissolved in 1874 under the terms of the East India Stock Dividend Redemption Act enacted one year earlier, as the Government of India Act had by then rendered it vestigial, powerless, and obsolete. The official government machinery of the British Empire had assumed its governmental functions and absorbed its armies.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/East%20India%20Company)
 

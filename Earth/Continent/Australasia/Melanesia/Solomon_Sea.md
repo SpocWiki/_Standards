@@ -28,7 +28,7 @@ coordinate_location: Point(152.666666666 -7.5)
 
 > The Solomon Sea is a sea located within the Pacific Ocean. 
 > It lies between [[../../Asia/Asia~South~East/Malay_Archipelago/Papua-New_Guinea|Papua New Guinea]] and [[Solomon~Islands|Solomon Islands]]. 
-> Many major battles were fought there during [[../../../../Time-Ages/geo~Eons/Eon~4~Phanerozoic/Era~3~Cenozoic/Period~3~Quaternary/Epoch~3~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]].
+> Many major battles were fought there during [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II|World War II]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Solomon%20Sea) 
 > 
