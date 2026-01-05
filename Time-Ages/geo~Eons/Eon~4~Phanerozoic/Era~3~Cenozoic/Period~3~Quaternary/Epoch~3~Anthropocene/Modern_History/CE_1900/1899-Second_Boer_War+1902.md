@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1899-10-23 
+has_time_stopped: 1902-05-31 
 aliases:
   - Second Boer War
   - Tweede Vryheidsoorlog

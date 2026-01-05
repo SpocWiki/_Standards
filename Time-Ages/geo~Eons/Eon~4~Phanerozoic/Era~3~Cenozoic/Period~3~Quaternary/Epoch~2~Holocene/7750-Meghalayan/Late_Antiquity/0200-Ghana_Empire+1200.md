@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0100-01-01 
+has_time_stopped: 1200-01-01 
 aliases:
   - Ghana Empire
   - Ghanata

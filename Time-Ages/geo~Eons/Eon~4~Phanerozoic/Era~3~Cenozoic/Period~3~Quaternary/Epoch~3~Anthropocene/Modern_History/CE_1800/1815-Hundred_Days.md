@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1815-03-20 
+has_time_stopped: 1815-07-08 
 aliases:
   - Hundred Days
   - War of the Seventh Coalition

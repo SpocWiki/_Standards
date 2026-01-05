@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1700-01-01 
+has_time_stopped: 1820-01-01 
 aliases:
   - Age_of_Enlightenment
   - Age of Enlightenment

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2006-01-01 
 aliases:
   - Prog~Rust
 has_id_wikidata: Q575650

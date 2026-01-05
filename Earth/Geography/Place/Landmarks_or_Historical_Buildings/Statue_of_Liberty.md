@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1886 
 aliases:
   - Statue of Liberty
   - Statue_of_Liberty

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1967-12-29 
 aliases:
   - Hyundai
   - Hyundai_Motor_Company

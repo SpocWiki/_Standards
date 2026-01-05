@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1962-09-26 
+has_time_stopped: 1970-12-01 
 aliases:
 has_id_wikidata: Q521199
 participant:

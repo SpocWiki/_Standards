@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1920-02-24 
+has_time_stopped: 1945-10-10 
 aliases:
   - National Socialist German Workers' Party
   - Nationalsozialistische Deutsche Arbeiterpartei 

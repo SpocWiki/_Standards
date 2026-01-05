@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1977-01-23 
+has_time_stopped: 1977-01-30 
 aliases:
 has_id_wikidata: Q1247168
 main_subject: "[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]"

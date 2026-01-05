@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0535-01-01 
+has_time_stopped: 0554-01-01 
 aliases:
   - Gothic War
   - 0535-Gothic_War+0554

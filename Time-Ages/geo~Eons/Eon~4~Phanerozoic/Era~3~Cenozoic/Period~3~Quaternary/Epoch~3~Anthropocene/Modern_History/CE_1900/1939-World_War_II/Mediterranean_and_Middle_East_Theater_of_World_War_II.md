@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1940-06-10 
+has_time_stopped: 1945-05-02 
 location: [ 18.0 , 35.0 ] 
 aliases:
 has_id_wikidata: Q696817

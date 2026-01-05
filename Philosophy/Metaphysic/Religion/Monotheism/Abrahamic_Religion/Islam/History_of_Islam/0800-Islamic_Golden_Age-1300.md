@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0800-01-01 
+has_time_stopped: 1258-01-01 
 aliases:
   - Islamic Golden Age
   - 0800-Islamic_Golden_Age-1300

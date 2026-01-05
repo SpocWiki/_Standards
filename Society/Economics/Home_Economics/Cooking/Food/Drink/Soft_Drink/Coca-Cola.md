@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1886-05-08 
 aliases:
   - Coke
   - Cola

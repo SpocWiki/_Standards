@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1787-04-30 
 aliases:
   - POTUS
 has_id_wikidata: Q11696

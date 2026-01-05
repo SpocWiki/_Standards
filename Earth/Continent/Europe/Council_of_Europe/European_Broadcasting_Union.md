@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1950-02-12 
 aliases:
   - European Broadcasting Union
   - Union européenne de radio-télévision

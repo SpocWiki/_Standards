@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1807-01-01 
 aliases:
   - Symphony No. 5 in C minor, Op. 67
   - Fate Symphony

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1894-06-23 
 aliases:
   - International Olympic Committee
   - IOC

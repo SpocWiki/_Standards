@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1815-06-10 
+has_time_stopped: 1866-08-24 
 location: [ 8.675 , 50.108 ] 
 aliases:
   - German Confederation

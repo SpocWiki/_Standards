@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1464-01-01 
+has_time_stopped: 1591-03-12 
 aliases:
 has_id_wikidata: Q202687
 capital: "[[_Standards/WikiData/WD~Gao,188904]]"

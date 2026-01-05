@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1953-10-03 
 aliases:
   - Petróleo Brasileiro S.A.
   - Petróleo Brasileiro

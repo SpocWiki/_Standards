@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1936-08-01 
+has_time_stopped: 1938-11-17 
 location: [ 90.0 , 65.0 ] 
 aliases:
   - Great Purge

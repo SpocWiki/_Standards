@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1970-01-01 
 aliases:
   - ABBA
 has_id_wikidata: Q18233

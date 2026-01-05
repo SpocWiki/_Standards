@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1949-01-01 
 aliases:
   - rock and roll
   - rock & roll

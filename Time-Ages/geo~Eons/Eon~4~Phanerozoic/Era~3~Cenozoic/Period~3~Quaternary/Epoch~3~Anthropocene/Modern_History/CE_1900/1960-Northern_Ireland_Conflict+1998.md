@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1960-01-01 
+has_time_stopped: 1998-01-01 
 aliases:
   - The_Troubles
   - Northern Ireland conflict

@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1958-01-01 
 location: [ 6.1352313 , 49.6202892 ] 
 aliases:
   - European Investment Bank

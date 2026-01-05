@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 2010-12-18 
+has_time_stopped: 2012-12-01 
 aliases:
   - Arab_Spring
   - Arab Spring

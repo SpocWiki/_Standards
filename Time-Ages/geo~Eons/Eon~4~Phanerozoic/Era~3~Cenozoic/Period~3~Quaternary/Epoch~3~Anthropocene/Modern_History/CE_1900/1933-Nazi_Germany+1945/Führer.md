@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1934-08-02 
+has_time_stopped: 1945-04-30 
 aliases:
   - Fuehrer
   - Führer

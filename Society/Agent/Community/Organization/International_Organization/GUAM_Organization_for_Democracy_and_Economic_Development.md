@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1997-10-10 
 location: [ 30.5217 , 50.4515 ] 
 aliases:
   - GUAM Organization for Democracy and Economic Development

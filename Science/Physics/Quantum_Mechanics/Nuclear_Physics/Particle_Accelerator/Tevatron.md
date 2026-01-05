@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 2011-09-30 
 aliases:
 has_id_wikidata: Q944533
 instance_of:

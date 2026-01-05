@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1931-01-01 
 aliases:
   - Hoover Dam
   - Hoover_Dam

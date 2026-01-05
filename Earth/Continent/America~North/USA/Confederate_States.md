@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1861-02-08 
+has_time_stopped: 1865-05-01 
 aliases:
   - Confederate States of America (CSA), also known as the Confederate States (C.S.), the Confederacy, or the South
   - Confederate_States

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1989-11-09 
+has_time_stopped: 1990-10-03 
 aliases:
   - German reunification
   - Wiedervereinigung Deutschlands

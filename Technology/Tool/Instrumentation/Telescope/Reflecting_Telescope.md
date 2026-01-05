@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1721-01-01 
 aliases:
 has_id_wikidata: Q35221
 discoverer_or_inventor: "[[_Standards/WikiData/WD~James_Gregory,313906]]"

@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 0600-06 
 location: [ 23.0 , 38.5 ] 
 aliases:
   - Ancient Greece

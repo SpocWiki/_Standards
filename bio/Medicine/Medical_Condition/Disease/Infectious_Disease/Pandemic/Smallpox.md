@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 1978-01-01 
 aliases:
   - Smallpox
 has_id_wikidata: Q12214

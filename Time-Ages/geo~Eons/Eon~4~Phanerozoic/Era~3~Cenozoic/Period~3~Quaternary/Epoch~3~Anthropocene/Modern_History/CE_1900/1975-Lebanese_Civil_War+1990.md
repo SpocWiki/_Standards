@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1975-04-13 
+has_time_stopped: 1990-10-13 
 aliases:
   - Lebanese Civil War
   - الحرب الأهلية اللبنانية

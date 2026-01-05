@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1420-01-01 
 location: [ 116.390833333 , 39.915833333 ] 
 aliases:
   - Forbidden City

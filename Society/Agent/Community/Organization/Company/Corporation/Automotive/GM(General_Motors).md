@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1908-09-16 
 aliases:
   - General Motors
   - GM(General_Motors)

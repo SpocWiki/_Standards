@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 0350-01-01 
 location: [ 33.83 , 17.18 ] 
 aliases:
   - Kushite Empire

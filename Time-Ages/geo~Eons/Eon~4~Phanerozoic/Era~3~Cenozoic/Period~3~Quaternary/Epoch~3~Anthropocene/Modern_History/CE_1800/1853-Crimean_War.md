@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1853-10-01 
+has_time_stopped: 1856-02-01 
 aliases:
   - Krimkrieg
   - 1853-Crimean_War

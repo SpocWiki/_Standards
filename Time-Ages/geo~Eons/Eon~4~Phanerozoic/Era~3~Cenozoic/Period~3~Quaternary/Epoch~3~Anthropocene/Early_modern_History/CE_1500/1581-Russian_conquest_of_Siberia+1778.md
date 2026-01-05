@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1580-07-01 
+has_time_stopped: 1700-01-01 
 aliases:
 has_id_wikidata: Q735349
 depicted_by: "[[_Standards/WikiData/WD~Vasily_Surikov,110228]]"

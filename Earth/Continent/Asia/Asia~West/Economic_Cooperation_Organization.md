@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1985-01-01 
 aliases:
   - Economic Cooperation Organization
   - Economic_Cooperation_Organization

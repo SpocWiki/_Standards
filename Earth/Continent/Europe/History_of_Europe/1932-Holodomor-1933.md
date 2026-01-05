@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1932-01-01 
+has_time_stopped: 1933-01-01 
 location: [ 32.0 , 49.0 ] 
 aliases:
   - Ukrainian Famine

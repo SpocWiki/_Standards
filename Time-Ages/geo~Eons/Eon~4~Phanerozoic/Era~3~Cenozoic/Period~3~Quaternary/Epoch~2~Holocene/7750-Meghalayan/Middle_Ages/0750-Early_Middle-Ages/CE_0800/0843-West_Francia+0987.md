@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0843-01-01 
+has_time_stopped: 0987-01-01 
 aliases:
 has_id_wikidata: Q46370
 replaced_by: "[[_Standards/WikiData/WD~Kingdom_of_France,70972]]"

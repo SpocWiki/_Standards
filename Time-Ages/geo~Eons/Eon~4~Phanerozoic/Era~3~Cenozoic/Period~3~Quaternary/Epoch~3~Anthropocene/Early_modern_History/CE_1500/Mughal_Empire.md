@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1526-01-01 
+has_time_stopped: 1857-01-01 
 aliases:
   - Mughal Empire
   - Mughal_Empire

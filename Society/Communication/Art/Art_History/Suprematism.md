@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1913-01-01 
 aliases:
   - Suprematismus
   - Suprematism

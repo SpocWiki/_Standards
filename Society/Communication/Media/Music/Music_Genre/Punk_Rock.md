@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-01-01 
 aliases:
 has_id_wikidata: Q3071
 part_of: "[[_Standards/WikiData/WD~punk_subculture,153946]]"

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1519-02-01 
+has_time_stopped: 1521-08-23 
 aliases:
   - Spanish conquest Aztec Empire
   - Spanish conquest of the Aztec Empire

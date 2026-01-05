@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1905-01-22 
+has_time_stopped: 1907-06-16 
 aliases:
   - Russian Revolution of 1905
   - First Russian Revolution

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1966-12-16 
 aliases:
   - ICCPR
   - International Covenant on Civil and Political Rights

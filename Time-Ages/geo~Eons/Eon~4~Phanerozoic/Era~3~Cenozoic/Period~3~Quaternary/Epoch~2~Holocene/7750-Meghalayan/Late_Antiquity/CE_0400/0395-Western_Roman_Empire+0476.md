@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0395-01-18 
+has_time_stopped: 0476-01-01 
 aliases:
 has_id_wikidata: Q42834
 inception: 0395-01-18T00:00:00Z

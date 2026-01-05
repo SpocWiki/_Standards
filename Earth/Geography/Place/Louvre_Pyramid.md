@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1981-01-01 
 location: [ 2.335861111 , 48.861 ] 
 aliases:
   - Louvre Pyramid

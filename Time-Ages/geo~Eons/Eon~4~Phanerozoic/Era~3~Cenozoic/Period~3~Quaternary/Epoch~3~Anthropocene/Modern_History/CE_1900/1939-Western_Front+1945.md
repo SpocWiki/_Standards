@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1939-01-01 
+has_time_stopped: 1945-01-01 
 aliases:
 has_id_wikidata: Q216184
 instance_of: "[[_Standards/WikiData/WD~war_front,842332]]"

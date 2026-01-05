@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1948-01-01 
 aliases:
   - National Association for Stock Car Auto Racing, LLC
   - National Association for Stock Car Auto Racing

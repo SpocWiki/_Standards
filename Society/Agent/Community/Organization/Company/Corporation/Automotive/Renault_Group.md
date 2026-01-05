@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1898-12-24 
 aliases:
 has_id_wikidata: Q6686
 headquarters_location: "[[_Standards/WikiData/WD~Boulogne_Billancourt,172455]]"

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1929-10-24 
+has_time_stopped: 1929-10-29 
 aliases:
   - Wall Street crash of 1929
   - the Great Crash

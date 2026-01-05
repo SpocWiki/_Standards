@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2015-01-01 
 aliases:
   - Eurasian Economic Union
   - Eurasian_Economic_Union

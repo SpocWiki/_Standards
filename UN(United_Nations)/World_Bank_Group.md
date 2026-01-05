@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1944-07-04 
 aliases:
 has_id_wikidata: Q320863
 partnership_with: "[[_Standards/WikiData/WD~International_Civil_Aviation_Organization,125761]]"

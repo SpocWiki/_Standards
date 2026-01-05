@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1953-07-26 
+has_time_stopped: 1959-01-01 
 aliases:
   - 'Cuban Revolution '
   - Revolución cubana

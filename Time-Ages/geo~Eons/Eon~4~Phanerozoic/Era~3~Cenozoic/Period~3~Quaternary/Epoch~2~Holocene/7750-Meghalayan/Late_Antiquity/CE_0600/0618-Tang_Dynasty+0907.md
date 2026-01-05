@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0618-01-01 
+has_time_stopped: 0907-01-01 
 aliases:
   - Tang dynasty
   - 唐朝

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1600-12-31 
+has_time_stopped: 1874-06-01 
 aliases:
   - East India Company
   - East_India_Company

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1077-01-01 
+has_time_stopped: 1307-01-01 
 aliases:
   - Sultanate of Rum
   - Seljuk Empire of Rum

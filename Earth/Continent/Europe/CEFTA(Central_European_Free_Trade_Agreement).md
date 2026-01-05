@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1992-12-21 
 aliases:
   - CEFTA
   - Mitteleuropäisches_Freihandelsabkommen

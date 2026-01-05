@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1920-01-01 
+has_time_stopped: 1945-05-08 
 aliases:
   - Nazismus
   - Nationalsozialismus

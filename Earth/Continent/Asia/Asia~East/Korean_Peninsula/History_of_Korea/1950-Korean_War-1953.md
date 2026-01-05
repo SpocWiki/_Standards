@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1950-06-25 
+has_time_stopped: 1953-07-27 
 aliases:
   - Korean War
   - 1950-Korean_War-1953

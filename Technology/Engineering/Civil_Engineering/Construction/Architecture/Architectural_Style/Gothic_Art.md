@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1140-01-01 
+has_time_stopped: 1530-01-01 
 aliases:
   - Gothic art
   - Gothic_Art

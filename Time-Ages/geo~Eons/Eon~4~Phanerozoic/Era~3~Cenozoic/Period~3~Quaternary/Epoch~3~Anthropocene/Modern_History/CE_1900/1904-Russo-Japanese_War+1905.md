@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1904-02-08 
+has_time_stopped: 1905-09-05 
 aliases:
 has_id_wikidata: Q159950
 location: "[[_Standards/WikiData/WD~Manchuria,81126]]"

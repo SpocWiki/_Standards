@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1977-01-01 
 aliases:
 has_id_wikidata: Q462
 X_Twitter_username: StarWars

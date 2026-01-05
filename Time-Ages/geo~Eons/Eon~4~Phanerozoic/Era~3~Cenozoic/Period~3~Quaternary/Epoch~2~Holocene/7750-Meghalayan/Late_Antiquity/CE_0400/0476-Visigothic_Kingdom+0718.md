@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0476-01-01 
+has_time_stopped: 0718-01-01 
 aliases:
   - Visigothic Kingdom
   - Visigothic Spain

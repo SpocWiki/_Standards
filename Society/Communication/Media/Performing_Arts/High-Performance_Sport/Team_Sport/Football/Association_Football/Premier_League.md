@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1992-02-20 
 aliases:
 has_id_wikidata: Q9448
 follows: "[[_Standards/WikiData/WD~Football_League_First_Division,754839]]"

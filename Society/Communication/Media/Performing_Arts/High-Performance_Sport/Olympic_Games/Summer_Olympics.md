@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1896-01-01 
 aliases:
   - Summer Olympic Games, also known as the Summer Olympics or the Games of the Olympiad
   - Summer_Olympics

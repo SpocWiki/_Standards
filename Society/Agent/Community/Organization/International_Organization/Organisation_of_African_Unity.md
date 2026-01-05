@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1963-01-01 
+has_time_stopped: 2002-01-01 
 aliases:
 has_id_wikidata: Q191703
 instance_of:

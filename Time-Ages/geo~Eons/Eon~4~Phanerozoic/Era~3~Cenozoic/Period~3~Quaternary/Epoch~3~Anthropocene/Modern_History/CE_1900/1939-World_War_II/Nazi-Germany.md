@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1933-03-15 
+has_time_stopped: 1945-05-23 
 location: [ 13.379722222 , 52.511111111 ] 
 aliases:
   - Nazi Germany

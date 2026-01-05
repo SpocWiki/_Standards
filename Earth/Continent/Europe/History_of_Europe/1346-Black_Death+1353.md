@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1346-01-01 
+has_time_stopped: 1352-01-01 
 aliases:
 has_id_wikidata: Q42005
 has_immediate_cause:

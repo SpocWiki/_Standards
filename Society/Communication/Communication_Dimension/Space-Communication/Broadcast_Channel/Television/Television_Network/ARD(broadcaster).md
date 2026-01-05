@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1950-06-05 
 aliases:
   - ARD(broadcaster)
 has_id_wikidata: Q49653

@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1918-10-28 
+has_time_stopped: 1992-12-31 
 location: [ 14.416666666 , 50.083333333 ] 
 aliases:
   - Czechoslovakia

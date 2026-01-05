@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 1815-06-01 
 location: [ 16.363805555 , 48.2085 ] 
 aliases:
   - Wiener Kongress

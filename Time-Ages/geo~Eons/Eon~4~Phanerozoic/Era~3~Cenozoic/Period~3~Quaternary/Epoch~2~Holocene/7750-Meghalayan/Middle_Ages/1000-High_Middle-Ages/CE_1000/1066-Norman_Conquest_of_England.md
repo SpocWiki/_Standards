@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1066-10-04 
+has_time_stopped: 1075-01-01 
 aliases:
 has_id_wikidata: Q200485
 country: "[[_Standards/WikiData/WD~Kingdom_of_England,179876]]"

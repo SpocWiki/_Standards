@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1933-04-26 
+has_time_stopped: 1945-05-08 
 location: [ 13.3825 , 52.507222 ] 
 aliases:
   - Gestapo

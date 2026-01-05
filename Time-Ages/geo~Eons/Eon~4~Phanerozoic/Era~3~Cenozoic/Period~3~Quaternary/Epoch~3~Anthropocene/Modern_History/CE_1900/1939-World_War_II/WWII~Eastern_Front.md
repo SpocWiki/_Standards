@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1941-06-22 
 aliases:
   - Eastern Front
   - Great Patriotic War

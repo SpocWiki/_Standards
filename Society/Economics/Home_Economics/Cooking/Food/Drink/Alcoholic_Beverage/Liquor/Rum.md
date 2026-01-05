@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1500-01-01 
 aliases:
 has_id_wikidata: Q83376
 different_from: "[[_Standards/WikiData/WD~Rum,359438]]"

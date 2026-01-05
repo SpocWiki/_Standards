@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1204-01-01 
+has_time_stopped: 1261-01-01 
 aliases:
   - Latin Empire of Constantinople
   - Latin Empire

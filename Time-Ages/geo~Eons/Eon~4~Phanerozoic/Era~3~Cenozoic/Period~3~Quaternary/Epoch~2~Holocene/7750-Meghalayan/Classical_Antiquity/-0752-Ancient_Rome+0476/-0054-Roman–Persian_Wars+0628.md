@@ -1,4 +1,5 @@
----
+﻿---
+has_time_stopped: 0628-01-01 
 aliases:
   - Roman–Persian wars
   - Roman–Iranian wars

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1954-05-15 
+has_time_stopped: 2012-07-31 
 aliases:
   - Latin Union
   - Latin_Union

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1959-10-02 
+has_time_stopped: 1964-06-19 
 aliases:
   - The_Twilight_Zone
   - Twilight_Zone

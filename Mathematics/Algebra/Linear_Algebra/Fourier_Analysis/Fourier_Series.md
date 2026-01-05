@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1822-01-01 
 aliases:
   - Fourier series
   - Fourier_Series

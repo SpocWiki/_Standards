@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1880-01-01 
+has_time_stopped: 1920-01-01 
 aliases:
 has_id_wikidata: Q304121
 instance_of: "[[_Standards/WikiData/WD~historical_period,11514315]]"

@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1568-01-01 
+has_time_stopped: 1918-01-01 
 aliases:
   - Russo-Turkish wars
   - Русско-турецкие войны

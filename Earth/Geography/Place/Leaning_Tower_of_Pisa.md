@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1173-01-01 
 location: [ 10.396624 , 43.72301 ] 
 aliases:
   - Leaning Tower of Pisa

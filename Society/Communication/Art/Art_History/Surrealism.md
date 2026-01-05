@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1920-01-01 
+has_time_stopped: 1980-01-01 
 aliases:
 has_id_wikidata: Q39427
 significant_person:

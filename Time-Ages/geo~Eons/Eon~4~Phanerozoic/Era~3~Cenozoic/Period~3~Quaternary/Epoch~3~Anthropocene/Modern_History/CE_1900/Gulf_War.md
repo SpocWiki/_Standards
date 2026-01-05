@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1990-08-02 
+has_time_stopped: 1991-02-28 
 aliases:
   - Gulf War
   - Gulf_War

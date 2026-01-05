@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 2008-01-01 
 aliases:
   - European Club Association
   - European_Club_Association

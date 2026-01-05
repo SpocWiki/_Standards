@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 2000-10-10 
+has_time_stopped: 2015-01-01 
 aliases:
   - Eurasian Economic Community
   - EurAsEC

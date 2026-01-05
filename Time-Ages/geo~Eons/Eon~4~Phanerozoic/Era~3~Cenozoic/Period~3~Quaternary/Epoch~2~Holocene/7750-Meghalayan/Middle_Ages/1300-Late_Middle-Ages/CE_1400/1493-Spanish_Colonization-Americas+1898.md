@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1493-10-03 
+has_time_stopped: 1898-07-13 
 aliases:
 has_id_wikidata: Q1047607
 part_of:

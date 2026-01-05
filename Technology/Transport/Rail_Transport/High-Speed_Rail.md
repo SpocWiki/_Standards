@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1964-01-01 
 aliases:
 has_id_wikidata: Q211382
 model_item: "[[_Standards/WikiData/WD~Tōkaidō_Shinkansen,660895]]"

@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1949-10-07 
 location: [ 12.389 , 52.052 ] 
 aliases:
   - German Democratic Republic

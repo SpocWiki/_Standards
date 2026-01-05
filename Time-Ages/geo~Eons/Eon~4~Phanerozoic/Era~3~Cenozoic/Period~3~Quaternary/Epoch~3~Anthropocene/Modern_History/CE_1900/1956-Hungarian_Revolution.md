@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1956-10-23 
+has_time_stopped: 1956-11-10 
 aliases:
   - Hungarian Revolution
   - forradalom

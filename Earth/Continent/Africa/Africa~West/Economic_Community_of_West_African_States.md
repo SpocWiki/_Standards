@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1975-05-28 
 aliases:
   - Economic Community of West African States 
   - ECOWAS

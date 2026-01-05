@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1545-01-01 
+has_time_stopped: 1648-01-01 
 aliases:
   - Counter Reformation
   - Contrareformatio

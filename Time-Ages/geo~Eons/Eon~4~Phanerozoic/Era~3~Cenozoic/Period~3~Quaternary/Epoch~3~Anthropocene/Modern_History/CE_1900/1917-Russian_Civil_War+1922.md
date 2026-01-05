@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1917-11-07 
+has_time_stopped: 1922-10-25 
 aliases:
   - 'Russian Civil War (Russian: Гражданская война в России, romanized: Grazhdanskaya voyna v Rossii'
   - 1917-Russian_Civil_War+1922

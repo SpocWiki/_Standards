@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1812-01-01 
 aliases:
 has_id_wikidata: Q41472
 instance_of: "[[_Standards/WikiData/WD~ordinal_scale,1719931]]"

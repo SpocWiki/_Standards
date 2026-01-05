@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 0661-01-01 
+has_time_stopped: 0750-07-01 
 aliases:
   - Umayyad Caliphate
   - Umayyad Empire

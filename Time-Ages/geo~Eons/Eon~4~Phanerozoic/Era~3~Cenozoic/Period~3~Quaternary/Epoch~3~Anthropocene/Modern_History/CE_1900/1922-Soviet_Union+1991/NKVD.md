@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1934-07-10 
+has_time_stopped: 1946-08-26 
 aliases:
   - People's Commissariat for Internal Affairs
   - Народный комиссариат внутренних дел

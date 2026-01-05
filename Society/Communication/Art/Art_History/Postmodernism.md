@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1940-01-01 
 aliases:
   - Postmodernismus
   - Postmoderne

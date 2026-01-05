@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1860-01-01 
 aliases:
 has_id_wikidata: Q40415
 notable_work: "[[_Standards/WikiData/WD~Impression,_Sunrise,328523]]"

@@ -1,4 +1,5 @@
 ﻿---
+has_time_stopped: 1480-01-01 
 location: [ 29.885 , 31.214167 ] 
 aliases:
   - Lighthouse of Alexandria

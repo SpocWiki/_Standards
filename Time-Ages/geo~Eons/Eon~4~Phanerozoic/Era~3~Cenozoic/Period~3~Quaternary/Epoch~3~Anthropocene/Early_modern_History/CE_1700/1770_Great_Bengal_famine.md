@@ -1,4 +1,6 @@
 ﻿---
+has_time_started: 1767-01-01 
+has_time_stopped: 1773-01-01 
 location: [ 88.7311 , 23.9888 ] 
 aliases:
   - Great Bengal famine of 1770

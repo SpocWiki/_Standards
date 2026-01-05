@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1803-01-01 
+has_time_stopped: 1815-01-01 
 aliases:
 has_id_wikidata: Q78994
 described_by_source:

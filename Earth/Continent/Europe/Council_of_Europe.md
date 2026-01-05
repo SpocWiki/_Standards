@@ -1,4 +1,5 @@
 ﻿---
+has_time_started: 1949-05-05 
 location: [ 7.771932047 , 48.594947947 ] 
 aliases:
   - Council of Europe

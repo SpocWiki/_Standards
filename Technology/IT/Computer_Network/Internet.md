@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1969-10-29 
 aliases:
 has_id_wikidata: Q75
 discoverer_or_inventor:

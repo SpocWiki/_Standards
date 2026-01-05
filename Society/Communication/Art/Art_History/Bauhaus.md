@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1919-01-01 
+has_time_stopped: 1933-01-01 
 aliases:
   - Staatliches Bauhaus
   - International Style

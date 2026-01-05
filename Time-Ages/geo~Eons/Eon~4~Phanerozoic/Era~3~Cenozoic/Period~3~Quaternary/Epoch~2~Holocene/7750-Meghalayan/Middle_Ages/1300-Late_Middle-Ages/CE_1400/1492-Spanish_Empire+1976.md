@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1402-01-01 
+has_time_stopped: 1976-02-26 
 aliases:
   - Spanish Empire
   - 1492-Spanish_Empire+1976

@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1957-03-25 
 aliases:
   - European Atomic Energy Community
   - EAEC

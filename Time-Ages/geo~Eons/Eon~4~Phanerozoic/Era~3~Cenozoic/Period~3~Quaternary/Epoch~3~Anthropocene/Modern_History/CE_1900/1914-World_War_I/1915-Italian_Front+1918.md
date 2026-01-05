@@ -1,4 +1,6 @@
----
+﻿---
+has_time_started: 1915-05-23 
+has_time_stopped: 1918-11-06 
 aliases:
   - Italian front
   - Fronte italiano
