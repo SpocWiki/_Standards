@@ -159,6 +159,7 @@ writing_language: '[[_Standards/WikiData/WD~British_English,7979]]'
 #has_/time_/started :: 1870-06-09 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Charles_Dickens,5686|WD~Charles_Dickens,5686]] 
+#is_/similar_to :: [[Zola,Emile]] 
 
 ## #has_/text_of_/abstract 
 
